@@ -1,0 +1,1529 @@
+You're a pizza fanatic.
+You love it so much.
+You decide to every single meal of every
+single day for the rest of your life.
+Like you are committed
+to subsisting on pizza.
+Committed to the carbs.
+Exactly. So, Joe, you made that decision.
+You come to me and you say,
+hey, Dan, I'm going to eat pizza
+for every meal of my entire life.
+How about you open a pizza restaurant
+for me to eat it?
+Here's how we're going to fund it.
+10% equity.
+The bank is going to give you 90%
+of the funding in leverage.
+And it's dad's restaurant.
+Now, Tracy, Joe comes to you
+for a personal loan to fund his lifestyle,
+his pizza eating choices.
+Tracy, trust me, she would lend it to me.
+Well, here's the question. Right?
+Should you?
+Tracy,
+consider the 90% levered pizza restaurant
+that Joe is eating at for all his meals?
+Now, on the one hand, it's
+not Joe's loan, right?
+So he's not on the hook.
+If the pizza restaurant goes under.
+On the other hand,
+it's Joe's only source of food
+which will die without the restaurant,
+which is his.
+He's committed to the restaurant,
+and it kind of makes the restaurant
+intertwined with Joe's ability
+to pay your personal loan back.
+So I guess that's a question. No.
+There's great.
+So now who's now that.
+Let's take it out of pizza.
+Who is?
+So that's whatever.
+Like, okay, now
+who is the chips buyer? Whatever.
+This is essentially what's happening
+with off balance sheet financing and data
+Hello and welcome to another episode
+of the Odd Lots podcast.
+I'm Joe Weisenthal and I'm Tracy Alloway.
+Tracy, there just so many credit
+related things to talk about right now.
+I'll take credit.
+I love it.
+I love it.
+Credit is interesting again.
+This might be one of the only credit
+episodes that we've ever done where, like,
+I found the guest, because I feel like
+when I think about, like, a credit,
+all the credit episodes, it's
+usually like someone, you know,
+and randomly I've found someone who knows
+a little bit something about credit.
+So I was like, oh, let me do it. Let me.
+The stakes are high.
+I know I was thinking about that
+because, you know,
+how do you, like, pick
+someone who, like, doesn't know anything?
+No, I don't think that.
+I think we have
+a very knowledgeable credit guest.
+But I'm a little stressed
+about this aspect. I believe in you, Joe.
+You do?
+I trust your judgment.
+But to your point, there's a lot going on.
+So obviously there are concerns around
+private credit.
+We've had some idiosyncratic defaults
+and frauds in the market,
+and each one is special in their own way.
+But I think the worrying aspect is
+that they keep coming to light.
+Yeah, right.
+And so you've seen people like Jamie
+Dimon using the cockroach analogy,
+which is now famous.
+And at the same time
+you have the connection with AI, right?
+Yes, which we have spoken about a little
+bit on the podcast with Paul Khodorkovsky,
+all these complex
+circular financing structures
+that are driving a lot of the credit boom
+or have been driving
+a lot of the credit boom.
+And then at the same time,
+you also have the impact of AI on credit
+itself.
+Yeah. That's right.
+Because in theory, right.
+Like we've talked about this,
+we did that episode with Joel Wertheimer.
+That was in a slightly different context.
+But we've done these episodes about,
+you know, just the incredible
+length of deal text, etc.
+and perhaps if there's one area
+where maybe we could say
+with some high degree of confidence
+that large language models could be useful
+in is can we break down this,
+you know, multi hundred page agreement
+so that we don't have to have, you know,
+junior associates or junior lawyers
+or junior bankers
+up until four in the morning
+making sure that every comma
+is in the right place, etc..
+In theory, this could be an area
+in which I could be productively applied.
+You know, there was an actual case
+argued over a comma.
+Oh yeah.
+I can't remember exactly what it was,
+but like, you're absolutely right.
+The grammar, the specific words
+clearly matter in legal language.
+I would just add one of the things
+that's been driving, arguably driving
+private credit is the boom in credit
+or on credit or violence in public deals.
+Yeah.
+So it was this idea that you could avoid
+that by having, you know, this private,
+close relationship with your borrower
+where you are higher up in the waterfall.
+Yeah. Of payment.
+So this is important.
+It would be really nice
+if you could upload
+a credit agreement to you and just say,
+make sure there's nothing in here
+that would get me in trouble.
+Make sure there's nothing in here
+that would,
+You know that five years later,
+I will regret the placement of a server.
+Make sure I don't lose money.
+Make sure I don't lose money
+in some technical way anyway,
+so there's just a lot going on.
+I feel like there's plenty of episodes
+to do on this.
+But we really do have the perfect guest.
+Someone who literally sort of sits
+in the intersection of,
+I think we identified
+three distinct trends here.
+We are going to be speaking with Dan
+Wertman.
+He's the co-founder of a company called, 
+Noetic AI.
+And it does exactly this.
+It sort of attempts to use
+AI to understand credit.
+So there's a lot of understanding
+about deals and the text in them.
+But he also just
+has a lot of understanding about AI etc..
+So can talk about all these things.
+Dan, thank you
+so much for coming on the podcast.
+Thanks so much for having me.
+I'm a fan of the show. Love to hear it.
+You guys are kind of
+like celebrities for me. So
+it's, it's kind of fitting
+that I'm here
+because, now, folks, I'm here
+at least with the folks at Bloomberg,
+because many people think about us.
+I know I,
+I like the Bloomberg for deal terms.
+Okay. Well, let's see let's see if,
+you actually live up to that.
+No. But,
+so since I said I'm stressed that,
+this time we're doing a credit episode,
+and I found the guest.
+Can you give us
+your give us the quick version of,
+like, your career and what Noetic is?
+Yeah.
+So, start with no idea what we build at.
+Noetic, is a AI powered software
+for benchmarking real time
+data on what's market and credit, M&A,
+capital markets, deal terms.
+Okay.
+So another way we help folks
+like transactional attorneys,
+credit managers, bankers,
+we help them figure out whether the terms
+of their transactional agreements
+like think, financing agreements,
+merger agreements, prospectuses
+and really all other
+corporate transactions are on or off
+market
+by benchmarking them to market comps.
+So as far as the genesis, you know,
+what ago,
+it was kind of born
+out of my own experience and my career.
+So I started my career at Blackrock.
+I was on a team responsible
+for coming up with new financial products
+and fixing and markets,
+and we were developing
+these new, interesting,
+innovative, structured products.
+And I just learned a ton
+about the capital markets ecosystem
+and in particular,
+just this is a $50 trillion global market.
+Yeah. And it runs on
+phone calls and relationships
+and it's unbelievably antiquated.
+Then fast forward
+I went back to get my JD.
+I joined, walked I lived in where I did
+corporate transactions.
+This was 2017 to 2022.
+So if you guys remember that time
+it was heyday of merger activity, right?
+So I worked on, you know, T-Mobile's
+buyout of sprint, the biggest 30 million.
+Our commitment at the time,
+Allegan Avenue to see Raytheon.
+And I distinctly remember
+sitting down my desk,
+I was looking at a transactional group
+and a multi-billion dollar merger,
+and I was looking
+at a term, and I was trying to figure out
+whether I should help my client
+except term A or term B in this context.
+And I was stuck.
+So I called a senior partner on the deal.
+I said, hey,
+where are the database of information?
+Where I could see
+exactly how this term should come out
+and quantify it for my client.
+And, you know,
+the answer was that doesn't exist.
+Now, that was, you know,
+two and a half plus years ago now,
+I left hotel to start Nautica
+with a fairly simple idea,
+which is AI enables us to finally quantify
+what market agreement
+terms should look like in these markets.
+You know, now we work with almost
+all the top 20 law firms on the street.
+We're helping them
+advise their clients on these deals.
+And this year, we're on track
+to do about $1
+trillion of transactions
+through the platform.
+And you get 1% of that. So that's great.
+Well, talk to
+us about, what these financing agreements
+actually look like and how traditionally
+they're sort of judged
+by both the investors and the lawyers
+who are looking at them.
+Yeah.
+I mean, so when I say deal terms,
+what I mean is deal
+terms are really the underpinning
+of the entire transactional system.
+The rules of the road.
+You could think about them like speed
+limits, double yellow lines, lights.
+They're kind of the plumbing
+that goes into the transactions.
+Putting in a way
+that people can understand.
+Imagine I go sign a lease.
+Most people are very familiar
+with certain things.
+Right.
+Like the rent price, the
+how long the lease is subletting policy.
+Exactly.
+But if deep in that 20 page lease,
+the lease says if the weather
+gets under 30 degrees at any time, you for
+for your right to the apartment.
+Well that's a deal term and that affects
+whether you want
+to accept that lease or not.
+And so it's the same in capital markets
+terms.
+To give you a more tangible example.
+Yeah.
+You know, are you guys fast food people?
+Yes, yes. Okay.
+So I'm like a McDonald's guy. Yeah.
+And whenever I go to McDonald's, I always
+order the Tempe Chicken McNuggets.
+And there's. I've.
+I've ordered the ten piece
+hundreds of times.
+There's exactly three things that happen.
+You order Tempe, you open the box,
+you have nine pieces,
+you open the box,
+you have exactly ten pieces.
+Or you open the box
+and you have 11 pieces.
+Now, if you have nine pieces,
+you go to the counter and you say, hey,
+I'm missing a piece.
+They give you a piece,
+you get the benefit.
+You're working, you get ten.
+You you enjoy your McNuggets.
+If you get 11, what do you do?
+You stay quiet.
+Exactly.
+So you hit the jackpot, right?
+Now, there's this kind of unwritten rule
+in American consumerism, which is that
+if a company that's bigger
+than you gives you something by accident,
+then you get the benefit of that
+as a consumer.
+Well, in 2020,
+the exact kind
+of thing happened in the credit markets.
+But it ended very differently.
+Citibank sent $900 million to lenders
+in full pre-payment of a loan for Revlon,
+and they did so accidentally.
+Now they were supposed to just send
+an interest payment.
+At the time, the terms of the credit
+agreement were silent.
+The governing documentation
+associated with this loan
+didn't say what happens in that scenario.
+Long story short,
+many funds did not get back that hundreds
+of millions of dollars
+and litigation ensued.
+But a deal term in credit
+deals, called erroneous payment
+deal terms, started
+popping up in the market.
+Nordica's data last clocked that deal term
+as of last quarter, 90% of deals.
+So if you don't have that term
+now in your deal,
+you're way off market in terms of the way
+the market actually operates.
+This is why the alternative is important.
+These are hundreds of millions of dollars
+at stake in the context
+of all these years.
+There's
+something very lawyerly about, like,
+I have to say,
+I've never counted the McNuggets.
+I usually get it.
+So just as I would,
+this example
+would have never occurred to me,
+because I'm not the type of person
+that opens a box of McNuggets. And.
+Clearly you don't value McNuggets enough.
+Evidently. Evidently not.
+What are some other deal terms?
+So that's a great example of that. Okay.
+Now, after that incident,
+which was infamous, language about this
+started popping up.
+What are some other sort of classic.
+And I'm sure they get much,
+much more esoteric than that.
+But what are some other like key
+interesting deal terms
+that trend over time?
+Yeah. So it's really interesting.
+So there's a whole host of what
+I would call structural protections,
+all these deals.
+These come in a lot of different flavors.
+Many people talk about them
+as things like anti PetSmart terms,
+things like J.Crew blockers, things
+like certain protections.
+Let's talk about some of these right.
+Yeah. Let's talk about some of these.
+So you know anti PetSmart terms.
+These are protections
+that prevent guarantor releases
+when subsidiaries of the credit group
+become not wholly owned.
+In other words it prevents value
+from being transferred away from the loan
+into some other structure
+which doesn't provide credits for it.
+Let me put this in a way
+that most people to understand.
+If you were getting
+a mortgage on your house.
+Pretty simple framework.
+You take out the debt, you pay your
+mortgage payments, you pay back a loan.
+Bank and foreclose on your house.
+If you stopped paying a mortgage.
+But in the mortgage,
+if it said something like, well,
+if you sell any part of your home
+front door, a window,
+a shingle, the bank loses the ability
+to foreclose on the house fully.
+Well, then what would you do?
+You would sell a single shingle.
+You would stop paying your mortgage,
+and you get to keep your house
+and you get the benefit of that.
+That's
+what anti PetSmart terms actually prevent.
+They prevent the ability for credit groups
+to actually sell a single equity
+and actually lose the credits
+for from that particular equity.
+So it's kind of interesting
+what we're seeing in the market right now.
+We have this really unique vantage point
+from the point of view of our software,
+where we quantify trends in deal
+terms over time.
+And so we can actually very precisely
+tell you the percentages of deals
+are actually getting a lot
+of these structural protections
+and actually gives us this really unique
+window into the into the anxieties
+and the optimism that are currently
+happening in the market.
+Some people think about this
+as kind of an early signal
+of something likely to come.
+So what are we seeing?
+Well, we're calling it a flight
+to fortification.
+And it's really happening on both issuers
+and powers.
+I'll explain what I mean.
+We're seeing massive increases
+in lenders getting structural protections
+in these deals.
+Basically, the protections they help
+make sure their collateral is locked.
+Things like the anti PetSmart terms.
+And we'll talk about a bunch
+a few more in return.
+Borrowers are getting
+the same fortification.
+In fact they're getting more economic
+flexibility.
+Yeah.
+And you could think about it
+as a way for them to weather
+the storm is how we're seeing it.
+So things like add backs to EBITDA.
+Yeah.
+More ability to send money
+to shareholders, more ability
+to make long term investments.
+Let's talk about the actual specifics
+of what we're seeing and more in terms
+of what I just talked about.
+We clocked that at 28% of deals in Q3.
+That was at 4% in 2023.
+It was in Q2 is at 25% is
+the highest we've ever recorded that term.
+J.Crew blockers,
+which prevent issuers from moving material
+IP outside the credit group.
+That's at 45% of deals now.
+The baseline from 2023 15%.
+And last quarter it was 38%.
+Anti sort of protections
+which are lean subordination protections.
+They actually help
+secure your place in line
+if and when some sort of distressed
+activity happens.
+That's at 84% of deals.
+That's the highest jump we've ever seen.
+Quarter over quarter
+it went up from 61% to 23 point jump.
+And the baseline was 39% in 2023.
+That's pretty significant
+for a quarterly jump.
+And it really signals
+something about the market.
+On the quantitative side,
+we track a lot of stuff too,
+including the ratios under
+which borrowers need to maintain
+specific types of leverage.
+We saw that at 3.9 times EBITDA,
+in Q2, and it went down to three
+and a half times.
+But again,
+that's signaling some sort of anxiety
+among the lender group
+that, that we wouldn't normally see.
+Now, you may ask,
+what about getting to this?
+Again, they're getting more fortification.
+One of the ways
+this is coming up is in EBITDA.
+Ibex.
+You're familiar with EBITDA? Yeah. Okay.
+So EBITDA, ibex.
+Basically, there's a very long
+and complicated calculation of cash flow.
+And a lot of these deals
+and the add backs to EBITDA,
+basically allow borrowers
+and issuers to add back certain things
+to count them as cash flow to flatter
+their balance sheet basis.
+Correct, correct.
+One of the more interesting add backs
+that we track is
+what's called a cost savings add back.
+So imagine a borrower knows it's
+going to optimize some cost in the future.
+If it can reasonably predict that cost,
+it can add that back to today's cash flow.
+That cost savings out back,
+whether it materializes
+or not,
+is added back to to its cash flow.
+64% of deals
+now have cost savings in them.
+That's the highest we've ever recorded.
+20%, for deals with,
+those add backs being above
+20% of EBITDA, that came in at 51%,
+which is also the highest we've ever
+tracked, on the platform.
+They're also getting things
+like excluding lenders
+that are short in their debt.
+So, for instance, folks
+who may be familiar with
+what happened with the Windstream case, 
+a few years ago.
+What happened in that case is certain
+hedge funds were actually
+short.
+The debt,
+the the loan that was in default.
+And that makes them, not exactly aligned
+with the company
+that has the debt outstanding.
+Term started popping up in the market,
+which we've tracked, which are called net
+short lender terms, which allow borrowers
+to exclude those lenders from voting.
+That is now in 13% of deals,
+which is the highest we've ever tracked.
+So you could see the fortification
+actually on both sides of the market.
+And it really signals,
+I think, to us that there's
+a risk allocation happening,
+with a lot of these, these anxieties.
+So, Joe, first of all, you know,
+my husband was a corporate lawyer
+at one point. Yes.
+Okay, so one of the things
+he's most proud of is he came up
+with some language in a deal shortly
+after the 2008 financial crisis.
+And it was he sent it to me
+just now, a significant dislocation
+in financial markets.
+That was him.
+And that became like standard language
+in risk factors,
+at least in a bunch of books.
+It's like that's his contribution.
+I'm the inventor of this deal.
+So and so so so the invent.
+Some people invent great medicine.
+Some people invent some new technology,
+and someone invents a New Deal
+term that gets propagated across.
+That's right. Documents for years
+there on after.
+That's how it works. But, Dan,
+I wanted to ask you something.
+Okay, so you say there's
+more fortification in a lot of deal terms.
+More protections,
+perhaps, for both investors and lenders.
+I guess.
+One of the things we heard, you know,
+prior to 2020, and then for some years
+after it was we had this explosion
+in covet deals, right.
+Fewer protections for investors
+because everyone
+was so desperate, supposedly for yield
+for that particular paper.
+So the balance of power
+shifted to the borrowers.
+They were able to dictate the terms.
+How are investors
+getting better protections now with,
+you know, credit spreads
+still at basically multi-decade lows,
+which suggests that there's
+still a lot of demand
+and that they don't hold
+all the power in the market.
+Yeah, I, I think about it
+and what the data supports.
+That we see on the platform
+is I think about it less.
+So is what they're getting more
+about what the terms actually reflect
+in terms of the macro environment
+that they're operating in.
+So for instance, right now
+we're seeing this flight of fortification
+in part
+largely due to probably a few things.
+Number one being,
+you know, some of these headline risks
+that folks have been talking about.
+And I'm sure we'll get into some of what's
+going on in the private credit
+market today.
+So people
+flooding into more structural protections
+because they're worried about their place
+in line if there is distress.
+I think number two is just macro wise.
+If you think about it, in the credit
+markets, there was a ton of debt
+taken out in 2020,
+2021, 2020, early part of 2022.
+This leads
+to a lot of maturity walls upcoming.
+Especially in 2027.
+We don't say upcoming on the show.
+We say looming. Yeah, looming.
+Yeah, exactly.
+There are a lot of looming
+maturity walls.
+In 2028, 2029, vintage.
+And you can think about it as well.
+That's a macro factor
+that people are thinking about when they,
+when they underwrite alone.
+Because many of these deals
+actually have five year tenor,
+you know, seven year, 10 or 8 year
+tenure, in some cases 30 year tenor.
+And so they're thinking about all these
+protections in the context of that market.
+I also think it's really interesting,
+aside from the credit context right now,
+we're seeing a lot of structuring in terms
+happening in M&A markets.
+So, you know, things like regulatory
+uncertainty, things like tariffs,
+things like,
+you know, liability management,
+as we talked about things like tack ons,
+tax uncertainty.
+Yeah, I'm happy to go into these.
+But we're seeing a lot of things
+in this area.
+You know one kind of small example,
+this in situations
+where, a buyer and a seller
+have regulatory uncertainty, which,
+you know, a lot of folks
+think about the administration
+and they're not sure exactly how things
+are, how things are going to play out.
+You actually see regulatory
+review in deals get hyper focused on.
+And it actually precipitated
+a New Deal term
+this year, which we tracked in the market.
+We had a long term
+detection on the platform.
+We sent out a note to all of our clients,
+and it's called a new outside debt
+structure term.
+Basically,
+what it does is it allows buyers
+of of, of, acquirer fees.
+It allows them to lock
+in their financing for longer
+and actually extend their financing.
+In the case scenario
+where regulatory review lacks.
+And that's just an example
+of the kind of innovation that's happening
+in the merger,
+markets in terms of tariffs.
+We picked up the first tariff
+event of default in a credit deal ever.
+It happened in a superior industries
+deal over the summer,
+which, probably is unsurprising to you
+as an auto manufacturer deal
+that made a lot of parts in Mexico.
+That's down 5% of M&A deals, for
+for tariff based M&A carve outs
+and a lot of respect clauses.
+Can we talk a little bit about, 
+you know, you're scanning these documents.
+You know, Google's
+Ingram has existed for a long time
+tracking the the prevalence of a of a
+term is not novel technology. Yeah.
+Control f. Control f. Yeah I do that.
+This is sort of like very it's barely even
+conscious of technology at that point.
+What is it that you, you know,
+when you're talking about the changing
+prevalence of these terms,
+what is the actual novel
+t here that isn't just sort of,
+you know, document search over time?
+Yeah.
+So Tracy, your your husband,
+former corporate lawyer, you know,
+he would cover in corporate lawyer.
+You're covering for where exactly?
+I am myself as well.
+Well, one of the things he would tell you
+is that there's constant innovation
+in these markets.
+These agreements are highly complicated.
+They're very long.
+They have a lot of what's called
+long range dependencies, which is that
+you may be used to seeing something
+in a particular area of the document
+said one way,
+but in reality, it turns out it's punted
+to three different causes deep down.
+And you actually,
+if you'll find that information,
+this is why it's also jujitsu between
+the borrowers and the lenders, right?
+Because like the borrowers are often
+trying to hide something that's favorable
+to them, or the lenders are trying to hide
+something favorable to them.
+So the structure and the way it's worded
+changes a lot.
+To your point. Exactly.
+And these are sophisticated parties
+paying millions, sometimes
+hundreds of millions of dollars
+in advisory fees
+to make sure that these terms
+look the way they do.
+Now, that leads to kind
+of the technological innovation
+that I think has enabled a lot of this.
+I, for the first time, can attribute
+in particular, new language
+models can attribute more semantic
+meaning to phrases and language
+that was impossible
+with things like engrams.
+And so, when I think it does
+is it uses a series of language models,
+including a multi-layered information
+extraction system, to make sure
+that it's encoding all the semantic
+meaning inside all these terms,
+so that when you look at a J.Crew back
+or in the first way, it may be phrased
+a thousand different, different ways,
+but we can track that term over time.
+That has enabled the ability
+to actually quantify
+for the first time what a market agreement
+term looks like in these markets.
+And I think that's why, it's so
+interesting to folks on the platform.
+So I know you're not doing litigation, but
+I guess I'm curious how you deal with or
+if AI is helpful with in litigation,
+what would be called precedent.
+But I'm assuming you're building up
+a big database
+of all these different deal documents.
+Is it useful?
+Is AI useful to go back
+and look at previous documents
+in order to shape new ones?
+Yeah, exactly. So a new idea.
+We are ultimately an air power
+software company, but we actually have
+the largest knowledge graph of deal terms
+in existence of traces.
+Exactly what you said.
+It's a database ultimately of precedent,
+comparable deal terms.
+And that database is going to be mind
+blowing, but has over billion terms in it.
+So it's actually the largest in existence.
+We map that back to deal characteristics.
+It's the same in litigation. Right.
+So in transactional markets,
+you know, folks are innovative,
+but they also want to rely on something
+that has happened before,
+or at least in part they want to rely on
+something that has happened before.
+And so folks are constantly looking for
+ways to tie things back to comparable
+deal terms.
+It's the same in litigation.
+So obviously not my expertise,
+but the same concept, which is,
+you know, when you write a brief,
+you are constantly citing cases
+that the judge has,
+you know, relied on in the past.
+And, you know, for lawyers
+and you know, that sort of lawyers
+even just deal professionals, generally
+bankers, credit managers, 
+people are highly reliant on precedent.
+What is your tech stack?
+Did you
+what do you build and how much is it like?
+Oh, you're using ChatGPT API etc..
+Like, okay, yes, large language
+models are good
+at identifying deal terms or novel
+tier, etc.
+there's semantic meaning of these terms,
+but what did you actually build
+and what do you actually employ
+in your technology?
+It's a we we're starting in 2022.
+So we're what you would call a AI native.
+Yeah.
+We were started in a system that already
+and language models existed in,
+however, we because of the nature
+of the sensitive documents and terms
+that we deal with, especially for,
+you know, major law firms financials.
+Yeah.
+This is like a big issue. Yeah. Right.
+That they don't want to
+just be uploading their stuff to ChatGPT.
+Right. Exactly.
+And so we actually utilize, you know,
+adopted language models, open source
+language models that we adopt on our own
+proprietary data sets
+and then deploy and secure environments
+and single tenant architectures,
+you know, for individual instances
+of institutions that deploy our product.
+And so you could think about it
+as based on the language models that,
+you know, are ultimately underpinning
+a lot of the GPT is in the clouds.
+However, it's
+fine tuned to this particular data set,
+which makes it obviously much better
+at handling this exact problem.
+Which is a big problem in the market.
+Now, we also layer on
+top of that information extraction model.
+So for instance, you may know that a term
+exists and ideal, but,
+you may want to know
+what terms should exist for a JP Morgan
+deal or for a B value or for, you know,
+a particular type of counterparty.
+And so in those contexts,
+we actually want to map those deal
+terms back to deal characteristics.
+And we actually utilize a lot of models
+to extract information
+and and marry
+that with third party data sets.
+So that's a little bit
+about how the technology works
+I think I always think about it
+from the user standpoint.
+What is the user really want.
+These are really wants to know
+how they're going to advise
+their client on a particular merger
+and a particular credit deal.
+How often does this come up?
+You always call your attorney and you're
+trying to figure out all this market.
+Is it off market?
+And that's what our data provides okay.
+So structural
+fortifications in deal terms.
+What are you seeing right now.
+Because as we started this conversation,
+we were talking a lot
+about the recent blow
+ups in the private credit market.
+And if you look at, 
+you know, some spreads on certain
+firms, certain bonds,
+it does seem like nervousness
+is creeping back into the market.
+I see spreads
+on, you know, it's not private credit,
+but spreads on, triple C
+rated debt have been creeping up recently.
+How scared or concerned are people
+right now?
+Well, I, I recently, wrote about this
+in the Wall Street Journal a little bit.
+And then,
+you know, folks contacted me and,
+and kind of said,
+you know, you're causing a stir.
+And, and
+then I
+saw Howard Marks came out with his letter,
+which I think was called
+cockroaches in the coal mine.
+And it had a lot of the same themes.
+I think folks who have been around
+credit market
+for a long time can, can kind of see
+what's a little bit of what's going on.
+To us.
+Let me just talk about what
+the data supports to us.
+What we see is creditors may be preparing
+this syst their system for distress.
+Okay.
+And I'll talk about what we're seeing
+in the data that kind of supports that.
+But, you could think about it
+like the evolution of
+your house security. Right?
+So, you know, first you lock the doors,
+then you know, you get a bolt lock,
+you know, then,
+which gives you better protection,
+you know, then you, you know,
+you had a security system on top of that,
+an alarm system.
+And at the end, what do you do?
+You kind of count up all your valuables
+and you insure them.
+If people are going to get into the house.
+And, you know, for the past few years,
+we've seen lenders
+really focus on keeping people out.
+This is the locks and the deadbolt,
+and this is what we were talking about
+with J.Crew blockers.
+It says
+making sure you can't structure around me
+from a liability management perspective.
+But over the last quarter,
+something kind of changed, which is
+we started seeing people and lenders
+obsessed with lean subordination terms,
+which is the term that governs
+who gets paid
+first when everything falls apart.
+So this isn't really about preventing
+liability management exercises that much.
+It's actually
+about controlling the recovery.
+When a bankruptcy does happen.
+And, and so we clock that term
+it 84% of deals in Q3.
+Biggest quarterly jump we've ever seen
+from from from the prior quarter.
+It's also the highest we've ever clocked
+that term.
+So this begs the question of why.
+Why are creditors so focused on
+making sure the place in line
+is in recovery, and recovery is the same?
+Perhaps it's a reaction
+to the liability management
+transactions we've talked about.
+So perhaps folks are thinking
+that that will precipitate perhaps into
+reaction to some of the maturity walls
+that folks understand.
+Or perhaps it's some of what I was saying
+in the op ed, which is
+folks are seeing that there may be
+distress events on the horizon,
+and they want to make sure that
+if there is, they have
+the most negotiating leverage as possible.
+So I know it's broad statements, but,
+you know,
+when we look at the sort of environment
+under which companies
+like First Brands or Tree
+or some of these other ones
+that have gone into distress very rapidly,
+when we look back at
+when these were birthed, etc.,
+can we say like there was a
+dus were sloppy times.
+These were loose, sloppy times that, 
+people were not thinking much about either
+just quality due diligence or diligent, 
+terms.
+Yeah.
+So I think with First Brands
+is a great example or so.
+First brands
+is an automotive replacement
+company. Right.
+So they, they make things like brakes
+and light wipers and filtration systems.
+Beginning in 2019,
+that company effectively
+rapidly expanded through debt
+fueled acquisitions.
+And it dramatically increased its scale.
+But I think what First brands illustrates
+is something that, you know,
+we might get into with the private credit
+markets, which is that, you know,
+they primarily funded these acquisitions
+with large debt facilities.
+Then tariffs hit in April 2025,
+which obviously changed their business
+because they actually do
+a lot of manufacturing
+and that kind of magnified problems.
+So you can think about
+one of the main problems
+with first brands, which is also kind of
+some of what folks are worried
+about in the private credit markets today
+is what's called off
+balance sheet financing.
+Well, first,
+brands used is a lot of kind of,
+you know, receivables
+financing facilities that weren't properly
+disclosed to a lot of folks
+that were lending to the company.
+In fact, I think in that sense,
+just to give you a sense of quantum,
+this is over $11
+billion of total obligations that they had
+when they actually, started disclosing it
+in terms of off balance sheet financing.
+And, you know,
+they were disclosing things like 5
+to $6 billion
+of actual, debt obligations.
+And so
+this led one of the creditor lawyers was,
+say, the $2.3 billion just disappeared.
+And so that structure,
+the ability for first Prince to get that
+debt,
+was made possible
+by the private credit markets
+and how deep the private credit
+markets have become,
+because if you're a big credit manager
+and private credit markets,
+you could fund,
+you know, that type of receivables
+facility to a first brands
+and first brands
+could use that facility to then,
+you know, make sure they are constantly,
+continuing to acquire new businesses
+and, and keep rolling over the the cash.
+I have a theory that,
+receivables financing and factoring
+is to the private credit market.
+What, French quants
+who went to that one really elite school,
+I like to say,
+are to, to trading blow ups.
+I like that theory. Yeah.
+So the other thing we wanted to ask you
+about, and again, we references in
+the intro, is we are seeing
+these really complicated deals
+that I admittedly cannot
+keep track of in the AI market, where,
+you know, one company is going to buy
+chips from this other company,
+and then that company is going to borrow
+from whoever and use the chips funding
+to pay them back.
+And then that money
+somehow goes into the company
+that is buying the stuff
+in the first place.
+It is all very circular,
+all very incestuous in many ways.
+In my mind, how are you examining
+those types of deals
+or just putting on your credit expertise?
+Hat if you see something like that,
+what are you thinking?
+Yeah, well, it's
+probably helpful to kind of talk about
+some of the structure of these deals,
+which I think, again,
+is made possible by how deep
+the private credit markets have become.
+And usually when I
+do that, I try to think about, let's
+try to make this a little bit more fun.
+So imagine for a minute, Joe,
+you just love pizza.
+Yeah, he does love pizza.
+I had to yesterday twice.
+There you go. You're a pizza fanatic.
+You decide to eat pizza.
+You love it so much, you decide.
+Peter, every single meal of every
+single day for the rest of your life.
+You are committed to subsisting on pizza,
+committed to the carbs.
+Exactly. So, Joe, you made that decision.
+You come to me and you say,
+hey, Dan, I'm going to eat pizza
+for every meal of my entire life.
+How about you open a pizza restaurant
+for me to eat it?
+That'll be really lucrative.
+Yeah, I see where I was customary.
+We were going with this, but this is
+actually a very good analogy, right?
+Like,
+you'd have to have a lot of confidence
+in me to commit to my word
+if you're going to open a restaurant.
+Yeah.
+Now, you know, you come to me,
+you say it's going to be super lucrative.
+Yeah, here's how we're going to fund it.
+10% equity.
+The bank is going to give you 90%
+of the funding in leverage.
+And it stands Restaurant
+Joe, you don't own the restaurant, 
+but you're going to eat at it.
+I'm the full beneficiary,
+full beneficiary of the restaurant,
+but it's 90% levered okay.
+So I open the restaurant.
+You eat there every single day.
+Now, Tracy Jill comes to you
+for a personal loan
+to fund his lifestyle, his pizza eating.
+Tracy. Trust me, she would lend it to me.
+Yeah, well, here's the question. Right?
+Should you, Tracy,
+consider the 90% levered pizza restaurant
+that Joe is eating at for all his meals?
+Now, on the one hand, it's
+not Joe's loan, right?
+So he's not on the hook
+if the pizza restaurant goes under.
+On the other hand, it's
+Joe's only source of food
+which will die without the restaurant,
+which is his.
+He's committed to the restaurant and,
+you know, it kind of makes the restaurant
+intertwined with Joe's ability
+to pay your personal loan back.
+So I guess that's the question.
+No. That's great.
+So now who's now
+the let's take it out of pizza.
+Who is?
+So that's whatever.
+Like, okay, now
+who is the chips buyer or whatever.
+This is essentially
+what's happening with off balance.
+You financing and data center deals.
+So and includes matters.
+I I'm sure you saw the Hyperion deal
+which is met as an infrastructure
+deal with Blue Owl.
+Except I think it's even more intriguing
+than some of the pizza stuff.
+So Meta and Blue Owl
+basically created a joint venture
+in a special purpose vehicle.
+Not that different than the restaurant.
+And the deal is the joint venture would be
+owned 20% by meta, 80% by Blue Owl.
+So Blue Owl controls it and it would
+effectively be funded with 90% leverage.
+So call it $30
+billion of total enterprise value, $3
+billion of equity,
+$27 billion, give or take of debt.
+In other words, Blue Owl's effectively
+owning the restaurant.
+Meta is effectively
+eating at the restaurant,
+and the banks fund it with 90% leverage.
+So what this does is it
+keeps the debt off of Meta's books,
+right, while also giving investors
+credit managers
+the ability to put money
+against a data center asset.
+So meta in this deal
+will make rent payments
+associated with the data center
+based on its cost of power.
+That's the cash flow
+that's going to the SPV,
+and that effectively funds
+the interest expense.
+Let's just talk about the debt
+for a second.
+Yeah.
+In a normal LBO context,
+which you guys
+probably talked about many times
+here, 90% leverage
+is pretty exceptionally high.
+Most people would consider 50 to 80%
+leveraged be relatively normal
+for a stable cash flow business.
+So the debt itself is actually
+quite high on on some of these structures.
+The only reason it was possible
+was because it was given
+an investment grade credit rating,
+and in part because meta agreed
+to a four year operating lease with
+what's called a residual value guarantee,
+which means that meta is guaranteeing
+a capped amount of some of that cash flow.
+However, that guarantee is capped
+and is only partial,
+which is why they don't
+have to take it onto their books.
+And why would be a footnote
+as a contingent debt
+obligation on their balance sheet.
+Now let's talk about the asset
+that's being underwritten.
+This isn't pizza.
+Pizza actually has a stable price for
+if we've thousands of views of history
+on pizza. Right.
+And you can track that price over time.
+Data center is optimized
+for GPU performance on training
+fundamental AI models.
+Not so much of a mature asset,
+actually.
+I think most folks would think about it
+as a burgeoning asset.
+Now I'm in this world.
+I mean, folks,
+there's a high amount of demand
+for a lot of this compute,
+and I definitely think, you know,
+the demand is there, but
+at the end of the day, it's an immature
+asset with a price
+that isn't so well defined.
+So just to recap, you've got off
+balance sheet financing, which isn't
+reflected with whoever is lending money
+to meta or even buying its equity
+with 90% leverage on an immature asset.
+And I think that's why
+these deals are so interesting.
+So from our point of view, I mean,
+to make sure you get the terms right.
+And, you know,
+we will look at these data center,
+a lot of these, these types of financing
+to run through our platform all the time
+to make sure you get the terms. Right.
+What this structural protections
+look like in these deals is critical
+for the fortification of something,
+that is in the structure.
+So I know we've seen these idiosyncratic
+blow ups in the private credit market
+so far, but just looking at the AI market
+in particular and the financing there,
+it feels like right now
+people are still willing to lend money.
+And we've talked about this
+on the show before, but a lot of the AI
+competition is couched
+in this existential language of you,
+either
+you know, when it AI or die, basically.
+And so the spending keeps going.
+What is your guess on?
+Like the thing
+that kind of knocks that cycle
+or that flywheel, and tear it apart?
+I mean,
+to I'm obviously in the industry
+where we're in the credit industry.
+So we see both sides of this phenomenon.
+I fundamentally believe
+AI is a paradigm shift.
+I would not have left, you know,
+the deal markets if I didn't think that.
+And I think what we're witnessing
+is very similar to the internet
+in the 1990s and or the iPhone in 2000
+or so for media in the 20 tens.
+And I think this paradigm shift is going
+to ultimately change a ton of industries,
+including capital markets and finance
+and law and all these amazing industries.
+And, and so that I think is very true.
+But I also think two things can be true.
+I think I can be a generation
+defining category.
+And a technology
+that's upending a lot of industries.
+But I also think that categories
+will have winners and losers.
+And when folks are racing
+to define a category, as you know,
+you often see with a lot of these
+transformational types of technology,
+there may be more losers in the headlines
+than you're used to seeing
+in a lot of these markets.
+But the winners will be
+bigger than anyone's ever imagined.
+All right, so if I don't eat the pizza,
+someone else is going to
+pick up the pizza, and they're going to
+they're going to eat it.
+Look what we focus on.
+I know what I get is in a market
+moving this fast.
+Yeah.
+We all need to pay attention to the terms
+actually underpinning
+a lot of these markets to make sure
+if there is any bleeding,
+that bleeding gets stopped
+as quickly as possible.
+You know, just to give you
+one last example from a recent market
+deal, you can look at the franc JPM deal
+as like a really interesting one.
+This is, you know,
+this was a deal where JPMorgan
+paid $175 million to acquire a company.
+This is a very small deal.
+But to acquire a company called Frank,
+which is a streamlined Fafsa
+kind of support service,
+I know I remember this.
+It turned out, yeah,
+there was a lot of synthetically,
+made up types of data in that business.
+And the founder is going to prison, right?
+Allegedly.
+There's a lot of there's
+a lot of made up, stuff in the business.
+And I think seven days executive
+who worked at Frank sent to 68 months.
+Yeah, yeah, yeah.
+And so
+but I think the most interesting part
+about this particular transaction to me
+is JPM ended up
+signing a merger agreement that said that,
+the indemnification for the founders
+litigation for any founders
+litigation would be paid for by JPM.
+Right.
+They paid her lawyer,
+they paid $115 million in legal
+expenses for her lawyer on her fraud.
+And so when you're moving really fast.
+Yeah, right.
+You can kind of ignore
+some of the nuts and bolts.
+But I think it's actually even
+more critical and fast moving markets.
+Dean Wortmann, co-founder of Nautica,
+thank you so much for coming on.
+Let's thank you.
+Thanks for having me, Tracy.
+I wasn't really sure
+where he was going with the pizza analogy,
+but it actually does make a lot of sense.
+And it's something I think is a phenomenon
+in just a lot of financial transactions,
+which is how much like in certain
+environments, the lender and the creditor
+are like both each other's,
+like they're both leaning on each other.
+The both the creditor and lender,
+they're relying on each. Yeah.
+At the same time, much in the way
+you rely on pizza.
+You would lend to me
+to buy it, to eat pizza, right?
+I would thank you if it
+if it was a matter of survival.
+Yeah. It was a matter of survival.
+Thank you.
+I think it's just because you want to eat
+really expensive pizza, then. No.
+You know, the other thing
+too, is just like from talking to you
+over these years, you know,
+how many times I've heard something.
+Oh, there's like,
+there's a lot of light stuff going.
+It is interesting to think that, like,
+you don't often hear that quantified
+what that means, right?
+Things are like covet these days, etc..
+And the idea that like,
+maybe we can get better numbers on
+some of these things
+seems like potentially labor
+saving for lawyers, stuff like that.
+The, the specific numbers on specific
+deal terms were really interesting to me.
+And the idea that even today, lawyers,
+still lawyers and bankers still have
+trouble, anticipate every single thing
+that could happen to a particular deal.
+And so they're having to react to it
+and come up with the new terms,
+the New Deal language,
+and insert them into the documentation.
+I find that interesting.
+The tariff example, you know, the problem
+is, is that I and this is I'm certain
+we talked about this more.
+I will be used to come up with New Deal
+terms and the cat and mouse game
+will continue forever.
+So I suspect that we are not going
+to have you know about
+lawyers will always find new work to do,
+and they'll just get work.
+They'll just get more creative
+about outsmarting the systems that are
+designed to detect these phenomena.
+We will end up with thousands
+and thousands of pages of term sheets
+that, like humans, are just physically
+incapable of reading it
+has to be read by I probably literally
+that is what's going to happen.
+Yeah. All right. Shall we leave it
+there? Let's leave it there.
+This has been another episode
+of the  Odd Lots podcast.
+I'm Tracy Alloway.
+You can follow me @TracyAlloway
+and I'm Joe Weisenthal.
+You can follow me @thestalwart
+Follow our producers
+Carmen Rodriguez @carmenarmen
+Dash Bennet at @dashbot and 
+Cale Brooks @CaleBrooks
+And for more and lots of content,
+you can check out our daily newsletter
+that is at bloomberg.com/oddlots
+And you can join
+fellow listeners and conversation
+about all of these topics 24-7
+in our discord discord.gg/oddlots
+And if you enjoyed this conversation
+then please like or leave a comment.
+Or better yet, subscribe.
+Thanks for watching.

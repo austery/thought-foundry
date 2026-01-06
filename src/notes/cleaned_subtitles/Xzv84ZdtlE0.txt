@@ -1,0 +1,980 @@
+J. Robert Oppenheimer
+might be the most important physicist
+to have ever lived.
+He never won a Nobel Prize,
+but he changed the world more
+than most Nobel Prize winners.
+Under his leadership,
+the best physicists of the 20th century
+built the atomic bomb
+forever changing the course of history.
+- If there is another world war,
+this civilization may go under.
+- [Derek] He has affected every war waged
+and every peace settled since
+the end of World War ii.
+He also created a way for
+humanity to destroy itself.
+- Now I am become death,
+the destroyer of worlds.
+- [Derek] This video is about
+how to build an atomic bomb,
+the life of Oppenheimer,
+and why serious scientists were
+worried about the explosion
+setting fire to the atmosphere,
+ending all life on earth.
+Part of this video is
+brought to you by Wren.
+When J. Robert Oppenheimer was 21,
+he placed an apple laced
+with toxic chemicals
+on the desk of his physics tutor.
+The tutor, Patrick Blackett,
+was an experimentalist
+and he had hounded Robert
+to do more of what he thought
+Robert wasn't very good
+at, experimental work.
+Oppenheimer had already been
+spending his days in a corner
+of JJ Thompson's basement laboratory,
+attempting to make thin
+films of beryllium,
+which were used to study electrons.
+But Oppenheimer was clumsy
+and not good at this work.
+He was soon avoiding
+his duties in the lab,
+spending his time listening to lectures
+and reading physics journals.
+It was 1925 and the 21 year
+old Oppenheimer was becoming
+fascinated by the new
+field of quantum mechanics.
+Despite being surrounded
+by brilliant physicists
+like Rutherford and Chadwick,
+Oppenheimer was deeply unhappy.
+He wrote, "I'm having a pretty bad time.
+The lab work is a terrible bore,
+and I'm so bad at it that
+it's impossible to feel
+that I'm learning anything."
+A friend walked in on him,
+lying on the floor of his room,
+which he called "A miserable hole",
+groaning and rolling from side
+to side in emotional anguish.
+It was in this state that Robert
+attempted to poison Blackett.
+The specifics are lost to history.
+There are conflicting reports
+if Oppenheimer used cyanide
+or something he found in the lab,
+which would've just made Blackett sick.
+This story sounds unbelievable,
+but Oppenheimer himself confirmed it.
+Luckily, Blackett did not eat the apple,
+but the attempted poisoning became known
+to the Cambridge University authorities.
+Robert's parents were visiting their son
+from the US at the time,
+and Julius Oppenheimer
+successfully lobbied Cambridge
+not to press criminal charges.
+Due to his family's wealth,
+Robert wasn't even expelled from Cambridge
+on the condition that he had
+periodic counseling sessions
+with a psychiatrist in London.
+(train horn blaring)
+In the summer of 1926,
+Robert traveled to the
+University of Göttingen.
+The chairman of the
+department was Max Born,
+who just two years earlier
+had coined the term,
+"Quantum Mechanics".
+Born was reportedly a
+thoughtful and gentle teacher
+and had nurtured the work
+of Werner Heisenberg,
+Wolfgang Pauli, Enrico Fermi,
+and Eugene Wigner,
+basically the who's who
+of quantum mechanics.
+The class that Oppenheimer
+was in was also extraordinary,
+including luminaries like Paul
+Dirac and John Von Neumann,
+where the academic culture
+at Cambridge focused on
+experimental physics.
+Göttingen was all about
+theoretical physics,
+and under Max Born's mentorship,
+Oppenheimer thrived.
+His mental health improved,
+and he found a community
+of people who were
+as obsessed with physics as he was.
+On November 14th, 1926,
+Robert wrote to Frank,
+his younger brother,
+"You would like Göttingen.
+I find the work hard, thank God,
+and almost pleasant."
+Robert was thriving and his
+talent was being recognized.
+Born later wrote,
+"He was a man of great
+talent and he was conscious
+of his superiority in a
+way which was embarrassing
+and led to trouble."
+When Oppenheimer was 23,
+he graduated with his PhD in physics.
+He wrote his thesis in
+German on the quantum theory
+of continuous spectra.
+All in all,
+he published more than a dozen papers
+in the two years he was at Göttingen.
+Many of them expanded upon
+the work of Werner Heisenberg,
+who was just three years
+older than Oppenheimer.
+The two eventually met in 1927,
+the same year Heisenberg
+published his groundbreaking paper
+on the Quantum uncertainty principle.
+By all accounts,
+the pair got along well.
+There was no way to know
+that just 15 years later,
+they would be deadly
+rivals attempting to build
+the first nuclear bomb.
+Oppenheimer for the USA
+and Heisenberg for Nazi Germany.
+At the time,
+it was thought that getting
+significant amounts of energy
+out of radioactive atoms was impossible.
+Ever since the discovery of radioactivity
+by Henri Becquerel, Marie Curie,
+and Pierre Curie in the late 1890s,
+it was known that radioactivity
+was a passive process.
+Unstable atoms would just decay at random,
+unpredictable times,
+and surely there was
+no way to control that.
+In 1933, Ernest Rutherford,
+Oppenheimer's old boss
+from Cambridge wrote that,
+"Anyone who expects a source of power
+from the transformations of these atoms
+is talking moonshine."
+That same year,
+Albert Einstein said,
+"That there is not the
+slightest indication
+that nuclear energy
+will ever be obtainable.
+It would mean that the atom
+would have to be shattered at will."
+So how would you break an atomic nucleus?
+Well, you could take a proton
+and accelerate it through
+a large electric field
+and then smash it into a nucleus.
+This is exactly what John Cockcroft
+and Ernest Walton did in 1932.
+They accelerated protons
+into lithium nuclei,
+breaking them apart.
+The pair would later win a
+Nobel Prize for this work,
+but a proton is positively charged,
+so it's repelled by all nuclei,
+which are also positively charged.
+So to give them a hope of
+overcoming this barrier,
+Cockcroft and Walton
+had to use 250,000 volts
+to accelerate the protons.
+Even then, only about
+one in a billion protons
+actually hit and split a lithium nucleus,
+so this would not be an
+effective way to get energy.
+But there is another way.
+In 1932, the neutron was discovered
+this subatomic particle that's about 0.1%
+heavier than a proton,
+and it has no electric charge,
+so a neutron would not be
+repelled from a nucleus.
+And in 1933,
+Leo Szilard was thinking about
+how you could use neutrons
+to split nuclei.
+"It suddenly occurred to me
+that if we could find an element
+which is split by neutrons and
+which would emit two neutrons
+when it absorbed one neutron,
+such an element if assembled
+sufficiently large mass,
+could sustain a nuclear chain reaction."
+But the thing is,
+nobody knew if there was an element
+that had a kind of nucleus
+that would do that.
+On the 29th of January, 1939,
+Louise Alvarez, a
+promising young physicist,
+was getting a haircut while reading
+"The San Francisco Chronicle",
+and suddenly he got outta the chair
+halfway through the haircut and
+ran to Oppenheimer's office.
+Alvarez read an article about
+how two German chemists,
+Otto Hahn and Fritz Strassmann
+had successfully split an atom of uranium
+by bombarding it with neutrons.
+Oppenheimer was not impressed.
+"That's impossible."
+He reportedly told the Young Alvarez
+proceeding to mathematically
+prove on his blackboard
+why fission could never be achieved.
+But the next day,
+Alvarez had repeated the experiment
+and invited Oppenheimer to see it.
+Alvarez later recalled that,
+"In less than 15 minutes,
+he not only agreed that
+the reaction was authentic,
+but also speculated that in the process,
+extra neutrons would boil off.
+That could be used to
+split more uranium atoms
+and thereby generate power or make bombs."
+When a single atom of
+uranium-235 splits apart,
+it loses a little bit of mass,
+which is released as energy.
+Following Einstein's
+mass energy equivalence.
+That is a tiny amount of energy,
+about 20 times less
+than the amount required
+to raise a grain of sand,
+the thickness of a piece of paper.
+But atoms are also tiny.
+In a one kilogram lump of uranium,
+there are about a
+trillion, trillion atoms,
+so the energy quickly adds up.
+Soon, almost everyone was
+convinced in August of 1939,
+Einstein, who just six years earlier
+believed that nuclear
+bombs were impossible,
+signed his name to a letter
+addressed to President Franklin Roosevelt.
+The letter actually written
+by Szilard warned Roosevelt
+of the possibility of nuclear weapons.
+It also pointed out that
+Germany had access to uranium
+from the mines in Czechoslovakia,
+which was recently
+taken over by the Nazis.
+Roosevelt began an
+informal uranium committee
+to discuss this topic,
+but then for two years, nothing happened.
+In 1941, Roosevelt upgraded the informal
+uranium committee to the S-1 committee,
+which would report directly
+to the White House.
+The explicit goal was to
+develop an atomic bomb,
+and in May, 1942,
+Oppenheimer was hired onto the committee
+to be the coordinator of rapid rupture.
+So why was he selected?
+(dramatic music)
+Well, after completing his PhD,
+Oppenheimer became a physics professor,
+first at UC Berkeley, and then at Caltech,
+the brilliance he had shown
+under Max Born's tutelage didn't fade.
+Indeed, it blossomed into a remarkable
+but strange physics career.
+In the 15 years after finishing his PhD,
+Oppenheimer made important
+contributions to everything from
+nuclear physics to quantum field theory,
+and even astrophysics.
+He had a number of Nobel
+Prize winning ideas.
+One of his students, Willis Lamb,
+became a Nobel laureate,
+but Oppenheimer himself
+was nominated three times,
+but never actually won the Nobel Prize.
+When asked why he thought that Oppenheimer
+never won the Nobel Prize,
+Murray Gell-Mann said that,
+"He didn't have Sitzfleisch"
+A German word that
+translates to sitting flesh.
+The ability to sit down
+in a chair for a long time
+and do the hard work.
+"He never wrote a long paper
+or did a long calculation.
+He didn't have the patience for that."
+Wolfgang Pauli also said,
+"His ideas are very good,
+but his calculations are always wrong."
+But Oppenheimer was amazing with people.
+He was a natural and charismatic leader,
+and this combination,
+his charisma and his ability
+to generate great ideas
+would serve him well in
+the next phase of his life.
+(upbeat music)
+On the 18th of September, 1942,
+general Leslie Groves was put in charge
+of the Manhattan Project.
+- I was responsible for the
+development of the atomic bomb.
+- [Derek] On day one, he ordered
+1200 tons of uranium ore.
+The next day,
+he ordered to buy the Oak Ridge site
+where the ore would be refined.
+The next month in a surprising move,
+he chose Oppenheimer to
+be the science director
+of the soon to be established
+Los Alamos laboratory.
+Oppenheimer had just been
+selected to be the chief architect
+of the atomic bomb.
+The military establishment had concerns.
+Oppenheimer did not have a Nobel Prize,
+so would the scientists
+hired for the project,
+respect his opinion,
+and follow his leadership?
+Oppenheimer also had no prior
+administrative experience
+over a large project like this.
+Furthermore, he was a
+theoretical physicist,
+who according to Isidor Rabi,
+"Was a very impractical fellow.
+He didn't know anything about equipment."
+And then there was the problem
+of Oppenheimer's political stance.
+He had links to the Communist Party,
+including his wife, Catherine,
+who was a member of that party.
+But Groves was impressed by Oppenheimer.
+He valued his overwhelming ambition.
+He also knew that Oppenheimer's
+ability to understand
+problems not just in physics,
+but chemistry, engineering,
+and metallurgy would be invaluable.
+Groves thought that Oppenheimer
+was a "Real genius."
+Saying that why Oppenheimer
+knows about everything.
+"He can talk to you about
+anything you bring up.
+Well, not exactly.
+He doesn't know anything about sports."
+The two men couldn't
+have been more different.
+Oppenheimer weighed half as much as Groves
+despite both of them being
+nearly six feet tall.
+Ideologically, Oppenheimer
+was a communist.
+Groves, a staunch conservative,
+but Groves was convinced that Oppenheimer
+would be the person that
+would build the atomic bomb
+before the Nazis,
+and that was all that mattered.
+Isador Rabi later commented that,
+hiring Oppenheimer for this role was
+"A real stroke of genius
+on the part of General Groves,
+who was not generally
+considered to be a genius."
+The Manhattan Project needed a location.
+Somewhere isolated to
+keep the project secret
+safe from enemy attack.
+And while no one wanted to admit it,
+somewhere that was sparsely populated,
+just in case there was an accident,
+Oppenheimer proposed
+Los Alamos, New Mexico.
+He had fallen in love with the
+harsh desert in the mountains
+of New Mexico when he was in his twenties.
+In 1929, Oppenheimer wrote to a friend.
+"My two great loves are
+physics and New Mexico.
+It's a pity they can't be combined."
+But Oppenheimer had severely
+underestimated the logistical
+challenge ahead.
+(gentle music)
+In 1943, Oppenheimer estimated
+that he'd need about six scientists
+supported by a handful of engineers
+and technicians to make a bomb.
+He was off by two orders of magnitude.
+764 scientists would end up
+working for the Manhattan Project.
+302 of which would work
+at the Los Alamos site.
+Over 600,000 people in total were involved
+with the making of the atomic bomb.
+By this point, making the atom
+bomb didn't seem impossible.
+It seemed likely.
+On the 2nd of December, 1942,
+a team of physicists at
+the University of Chicago
+led by Enrico Fermi created the world's
+first artificial nuclear reactor Pile-1.
+It consisted of 45 tons of
+uranium and uranium oxide
+and 330 tons of graphite blocks.
+Horrifyingly enough.
+It was located under the
+stands of the football field.
+It generated about half a watt of power,
+and if you can make a nuclear power plant,
+you can make a bomb.
+The only real difference between the two
+is how many neutrons hit the next atom,
+causing it to split and
+release more neutrons.
+If on average that number is one,
+there will be a stable
+self-sustaining chain reaction,
+but it won't grow.
+If it's less than one,
+the reaction will die down,
+and if it's more than one,
+the reaction will grow.
+This is known as the
+multiplication factor, K.
+Nuclear reactions are similar
+to pandemics in this way.
+The simplest way to make a nuclear bomb
+is to get enough fissile
+material close together
+that it creates a runaway chain reaction.
+That amount is known as the critical mass.
+With uranium-235,
+you need about 52 kilograms.
+Forming a sphere with a
+diameter of 17 centimeters.
+If you use plutonium-239,
+the critical mass is much smaller,
+only around 10 kilograms,
+which would create a sphere
+only 10 centimeters wide.
+For the first few years,
+the scientists worked on a
+bomb with a gun type design.
+Inside a gun type bomb,
+you have two slabs of uranium-235,
+both of which are below the critical mass.
+Then using a conventional
+explosive like cordite,
+you rapidly fire one towards the other.
+So the combined mass is
+higher than the critical mass.
+When the uranium bullet is
+about 25 centimeters away,
+the nuclear chain reaction begins
+resulting in an atomic explosion.
+Despite the simple design,
+it is not very efficient.
+Only a small percentage of
+the uranium undergoes fission,
+so the total yield of
+the bomb is much smaller.
+You also run into some
+unexpected problems,
+like how do you make sure the uranium
+slides smoothly through the barrel?
+Well, you use oil to lubricate the barrel,
+but all the synthetic
+oils the scientists tried
+would dry up.
+In the end,
+the only oil they could
+find that would work
+was the oil from sperm whales.
+Only about 0.7% of naturally
+occurring uranium is U235,
+the fissile fuel for nuclear bombs.
+When U235 absorbs a neutron,
+it briefly becomes U236,
+and then it rips itself roughly in half
+and releases on average
+2.4 neutrons per fission.
+But when you get uranium outta the ground,
+most of it is U238,
+which doesn't undergo fission.
+So to make a nuclear bomb,
+the scientists use
+gigantic mass spectrometers
+to separate out and concentrate the U235,
+and the resulting substance was uranium
+with a much higher concentration of U235.
+In other words, it was enriched.
+There was another option though.
+In early 1941,
+a new element was discovered
+or rather synthesized.
+When a neutron is absorbed
+by a nucleus of uranium-238,
+it turns into uranium-239.
+U239 is unstable,
+so it decays into Neptunium,
+which then becomes plutonium.
+There are three things
+that matter for this story.
+First is that plutonium-239
+is a great fuel for a nuclear bomb.
+It has a critical mass of
+only about 10 kilograms.
+Second, it is cheaper to make
+than to separate uranium-235
+and third, it reacts too quickly
+to be used in a gun type device.
+It would fizzle,
+meaning only a tiny fraction of the fuel
+would undergo fission.
+But there is a way to make
+a bomb using plutonium.
+Critical mass changes
+depending on the density
+of the material.
+Under normal pressure conditions,
+six kilograms of
+plutonium-239 won't explode.
+But if you compress it,
+the atoms get closer together
+and the chance of a stay
+neutron hitting the nucleus increases.
+So the higher the density,
+the lower the critical mass.
+So if you set off conventional explosives
+around a ball of plutonium,
+you can get it compressed enough
+to start a nuclear chain reaction.
+And this was the whole idea behind
+the implosion bomb design.
+There are a couple ways to cheat
+lowering the critical mass.
+For one thing,
+you surround the sphere with
+a material that reflects
+neutrons decreasing the
+amount of nuclear fuel
+you need to start a chain reaction.
+You can also have a neutron source,
+something that kick
+starts the chain reaction.
+For the first implosion bomb,
+scientists created a
+device called the urchin,
+which was a tiny pellet
+weighing just seven grams,
+and it would sit at the heart of the bomb.
+It was made of beryllium and polonium
+separated by a layer of nickel and gold.
+The idea was that when
+the explosives detonated,
+the shockwave would mix the
+beryllium and polonium together,
+and then the alpha particles from polonium
+would cause the beryllium to
+release a flood of neutrons,
+which would set off the
+nuclear chain reaction.
+At least that was the hope.
+An atomic bomb had never been made before.
+Oppenheimer and the rest of
+the scientists at Los Alamos
+needed to act quickly.
+It was already 1945,
+and Truman wanted to test the weapon
+before the start of
+the Potsdam conference.
+That's where Truman, Churchill,
+and Stalin would come together
+to plan the post-war piece.
+The conference began on the 17th of July.
+The earliest date that
+everything could be ready
+for the bomb was just one day earlier.
+So that is when the test was scheduled.
+It was Codenamed Trinity.
+The night before Oppenheimer was nervous.
+There were so many things
+that could go wrong.
+The last test firing of the explosives
+without the actual plutonium
+core was a failure.
+To calm himself,
+he recited a stanza
+from the Bhagavad Gita,
+the sacred Hindu poem.
+He had actually translated
+the Gita from the original
+Sanskrit in himself.
+In battle, in forest,
+at the precipice in the mountains,
+on the dark great sea,
+in the midst of javelins
+and arrows in sleep,
+in confusion, in the depths of shame,
+the good deeds a man has
+done before defend him.
+Perhaps more terrifying
+than the idea of the bomb
+not working was that
+it would work too well.
+Around 1942, Oppenheimer
+discussed with Arthur Compton
+a terrible possibility that a nuclear test
+could end the world.
+The worry was that the nuclear bomb
+would create temperatures so
+hot that fusion would occur.
+A tiny fraction of the atmosphere,
+just one part in 2
+million is hydrogen gas.
+But the worry was that at
+high enough temperatures
+and pressures that hydrogen
+could fuse to together
+releasing energy,
+this energy would fuse more hydrogen.
+It could also break apart the hydrogen
+from water vapor causing
+that to fuse as well.
+That would release even more energy
+causing yet more fusion until the entirety
+of the Earth's atmosphere would
+become a giant fusion bomb.
+Recalling his conversations
+with Oppenheimer in 1959,
+Compton said, "Nor was this
+all that Oppenheimer feared.
+The nitrogen in the air is also unstable,
+though in less degree.
+Might not it, too, be set off by an
+atomic explosion in the atmosphere."
+Most of the scientists quickly realized
+how unlikely this scenario was,
+and they continued on with the project,
+so no one took the idea too seriously.
+But the thought of starting a
+fusion reaction with a fission
+weapon would become very
+important after the war.
+(dramatic music)
+The Trinity test was scheduled for 4:00 AM
+but it was delayed due to a storm.
+So at 5:29 and 21 seconds, the gadget,
+the world's first nuclear bomb detonated,
+the high explosive squeezed
+the core of plutonium inwards.
+The shockwave mixed the
+beryllium and polonium
+releasing a flood of neutrons.
+The urchin worked.
+It jump started the nuclear reaction,
+and now there was no way to stop it.
+Just six kilograms of
+plutonium created an explosion
+that was equivalent to
+nearly 25,000 tons of TNT.
+The New Mexico mountains were illuminated
+brighter than in daytime.
+The shockwave was felt from
+over 160 kilometers away.
+The mushroom cloud rose to
+12 kilometers into the sky.
+It was so hot that the desert sand melted
+into a glassy mineral,
+now known as trinitite.
+Fortunately, the blast did not
+set fire to the atmosphere.
+On August 6th, 1945,
+the Boeing B29 Flying
+Fortress dropped little boy,
+a gun type nuclear bomb with 64 kilograms
+of enriched uranium.
+The nitro cellulose
+ignited pushing the slugs
+of uranium-235 together,
+tipping it over its critical mass.
+The blast from the explosion equivalent
+to 15,000 tons of TNT,
+killed nearly 70,000 people.
+Another 70,000 would die from
+burns and radiation poisoning
+in the following months.
+Three days later,
+an implosion type bomb, like the gadget,
+was dropped on Nagasaki
+killing an estimated 80,000 more people.
+More than 95% of the 225,000 people killed
+in the bombings of Hiroshima
+and Nagasaki were civilians.
+Most were women and children.
+In 1965, recalling the moments
+after the Trinity test,
+Oppenheimer said that he
+thought of another verse
+from the Ghita.
+- He knew the world would not be the same.
+Few people laughed,
+few people cried.
+Most people were silent.
+I remembered the line
+from the Hindu scripture,
+the (speaking foreign language).
+The Vishnu is trying
+to persuade the prince
+that he should do his duty
+and to impress him takes on
+his multi-armed form and says,
+'Now I am become death
+the destroyer of worlds.'
+I suppose we all thought
+that one way or another.
+- [Derek] After the war,
+Oppenheimer was a national hero.
+His portrait was on the
+cover of Time Magazine,
+and he became a household name.
+In 1947, he became the director
+of the Institute of
+Advanced Study at Princeton.
+He also became the chairman
+of the General Advisory Committee,
+where he became an
+advisor on nuclear weapons
+related issues.
+He used his position to
+argue for arms control.
+(dramatic music)
+In August, 1949,
+the Soviet Union tested
+their first atomic weapon,
+and the US military quickly decided
+that the best course of action
+was to develop a more powerful bomb.
+The hydrogen bomb,
+known as "The Super",
+Oppenheimer was against the development
+of The Super on ethical grounds
+and the worry that it
+would start an arms race.
+But Truman's administration
+pushed through,
+and three years later, Ivy Mike,
+the first hydrogen bomb was
+tested in the Marshall Islands.
+It had a yield of 10.4 megatons of TNT.
+That's 400 times more powerful
+than the Trinity test.
+A hydrogen bomb is actually
+three bombs in one,
+a conventional bomb, a fission bomb,
+and a fusion bomb.
+The conventional explosives
+trigger a fission reaction,
+which increases the
+temperature and pressure
+enough to fuse deuterium
+and tritium together,
+releasing a huge amount of energy.
+In 1961, the Soviet Union
+tested the Tsar Bomba,
+the most powerful
+explosion ever detonated.
+It was another five times
+more powerful than Ivy Mike
+around 2000 times more
+powerful than Trinity.
+This kind of arms race
+was exactly what Oppenheimer had feared,
+in part, due to his opposition
+to the hydrogen bomb.
+And due to his calls to
+avert a nuclear arms race,
+Oppenheimer was essentially put on trial
+to revoke his security clearance.
+He had been surveilled
+while he was working
+for the Manhattan Project,
+but that surveillance
+didn't stop after he left.
+Many of the wiretaps were
+illegal and warrantless.
+Oppenheimer was questioned about his ties
+to the Communist Party,
+including his affair with Gene Tatlock,
+a Communist party member
+while he was leading the Los Alamos lab.
+He was essentially accused
+of treason and espionage.
+In December, 1953,
+Oppenheimer had his security
+clearance suspended.
+His face now grim and in black and white
+was once again on the cover of time.
+His security hearings
+were international news.
+In 1964, German playwright
+Heinar Kipphardt
+wrote a play about Oppenheimer's life.
+Oppenheimer was sent
+a copy of this script,
+and he hated it so much
+that he threatened to sue.
+He especially despised the
+final scene where the character
+of Oppenheimer realizes
+the evil of his work.
+And I quote,
+"We have been doing
+the work of the devil."
+To Oppenheimer, it was always
+more complicated than that.
+- I think that it probably was assumed,
+it certainly was always
+assumed at Los Alamos
+that if the war were
+not over and not clearly
+to be brought to a conclusion
+by the diplomatic means
+this weapon would play a part.
+At the time, the alternative,
+the campaign of invasion was
+certainly much more terrible
+for everyone concerned.
+I think that Hiroshima was
+far more costly in life
+and suffering inhumane than
+it needed to have been,
+to have been an effective
+argument for ending the war.
+This is easy to say after the fact.
+- In 1965, he was asked about
+the recent proposal of talks
+with the Soviet Union to
+halt the proliferation
+of nuclear weapons,
+and his response was,
+"It should have been done
+the day after Trinity.
+Later that same year, he was
+diagnosed with throat cancer.
+He was a lifelong smoker,
+and he died on the 18th
+of February, 1967 aged 62.
+Advances in science and
+technology have given humans
+tremendous power to make
+the world better or worse,
+and nuclear war isn't the only
+thing we have to worry about.
+Human caused climate change
+poses a serious threat to
+ecosystems and the most vulnerable
+people around the world.
+As I record this, we are in
+the midst of a heat wave,
+and my folks up in Canada are suffering
+in the smoke from wildfires.
+This is where this video
+sponsor Wren comes in.
+Their mission is to take
+action on climate change.
+On their website, you can
+calculate your carbon footprint,
+which can help you identify
+ways to reduce your impact.
+And if you like,
+you can offset your carbon footprint
+with a simple monthly subscription.
+While individual action is important,
+Wren understands that
+this alone is not enough,
+which is why your subscription funds
+not only carbon removal and offsets,
+but also lobbying to enact climate policy
+and land conservation projects.
+I am particularly fond
+of their new refrigerant
+destruction project.
+We actually made a video
+about Thomas Midgley
+who invented Freon,
+which is a refrigerant
+that is both destructive
+to the ozone layer and a
+very potent greenhouse gas.
+Well this project permanently destroys
+harmful refrigerants like CFCs, HCFCs,
+and HFCs to stop them from
+getting into the atmosphere.
+And this will reduce global
+warming and prevent the further
+destruction of the ozone layer.
+It's a win-win.
+I personally offset my
+emissions with Wren,
+and for the first a
+hundred people to sign up
+using the link in the description,
+I will personally pay for the first month
+of your subscription.
+This is an idea I came up with myself
+because I think it's so
+important that for those of us
+who can help,
+that we pool our resources together
+to have a greater impact.
+So I hope you take the
+time to check out Wren.
+I wanna thank them for sponsoring
+this part of the video,
+and I wanna thank you for watching.

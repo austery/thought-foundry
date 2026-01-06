@@ -1,0 +1,508 @@
+In India’s stock market, the tail wags the 
+dog. Derivatives trading doesn’t just rival  
+cash equities, it dwarfs it. Derivatives 
+turnover is more than 300 times higher than  
+cash equities turnover. This inversion, driven 
+by an army of options-hungry retail traders,  
+is unmatched anywhere else in the world.
+This imbalance created a market where  
+expiry-day price movements could be dramatically 
+influenced by a handful of well-timed trades,  
+and where retail investors—often trading with 
+100 times leverage—make wild bets. In a market  
+like this, speed, scale, and precision are highly 
+rewarded, so for sophisticated trading firms like  
+Jane Street, Indian options trading has been a 
+goldmine, netting the firm more than four billion  
+dollars in profits over the last two years. 
+Until it wasn’t.
+ 
+Last week, India’s financial regulator - The 
+Securities and Exchange Board of India (known  
+as SEBI) - accused Jane Street - a global quant 
+trading firm that uses technology and quantitative  
+analysis to trade - of exploiting this structural 
+quirk to orchestrate – what they describe as a  
+“sinister scheme” of index manipulation. 
+India's securities regulator banned the  
+firm from the country’s markets and ordered it to 
+return more than $550 million dollars in alleged  
+illegal gains. Jane Street denies these 
+charges - and insists that it was merely  
+engaging in standard arbitrage trades.
+The case has not just exposed Jane Streets  
+trading strategy - it has laid bare the fragility 
+of a market where derivatives dominate, retail  
+investors gamble wildly, and the line between 
+arbitrage and manipulation is dangerously thin.
+ 
+It was not always this way in India. For much of 
+the 2000s and early 2010s, India’s stock markets  
+were considered unattractive by fast paced 
+traders. The combination of high transaction  
+costs, regulatory restrictions, and infrastructure 
+limitations kept many global quant firms at bay.
+ 
+The most significant deterrent was the Securities 
+Transaction Tax (STT), a levy on every trade,  
+regardless of profit or loss. While small in 
+percentage terms this tax added up quickly for  
+strategies that relied on thousands of intraday 
+trades. Foreign portfolio investors also faced  
+restrictions on intraday short selling, limiting 
+their ability to run long/short or market-neutral  
+strategies. Meanwhile, access to leverage was 
+tightly controlled, and co-location services  
+lagged behind global standards.
+Because of this, India’s markets  
+were dominated by traditional brokers, 
+long-only funds, and retail investors.
+ 
+This all began to change in the late 2010s when 
+the National Stock Exchange began upgrading its  
+infrastructure, offering better APIs and 
+co-location services. Regulatory reforms  
+allowed more flexibility in derivatives 
+trading, especially for foreign portfolio  
+investors operating through locally incorporated 
+entities. And most importantly, the explosion of  
+retail participation—fueled by mobile trading 
+apps, zero-commission brokers, and pandemic-era  
+boredom—transformed India’s derivatives market 
+into a high-volume, high-volatility playground.
+ 
+India's stock market went from being a sleepy 
+backwater to the epicenter of a global derivatives  
+frenzy. While Wall Street still dominates 
+in equities and bonds - Mumbai’s National  
+Stock Exchange leads the world in options trading 
+volumes. In 2024, India accounted for a staggering  
+89% of global equity options volume, according 
+to the Futures Industry Association—surpassing  
+even the S&P 500 in daily notional turnover.
+This explosion has been fueled by - a surging  
+retail investor base - the rise 
+of discount brokerages in India,  
+and the introduction of zero-day to expiration 
+options. These are options contracts that expire  
+the same day they are created and have quickly 
+become the hottest ticket in Indian finance,  
+offering the promise of quick profits with minimal 
+capital. For many young Indians, trading options  
+has become a form of financial entertainment. 
+Unfortunately, it’s not going that well for them…  
+India’s securities regulator reported earlier 
+this year that nine out of ten Indian retail  
+traders are losing money in the market – as it 
+unveiled plans to raise barriers to trading and  
+temporarily ban some prominent “finfluencers” that 
+young people looked up to for financial advice.
+ 
+Before we go any further let me tell you 
+about this weeks sponsor Tello mobile. If  
+you're tired of overpaying for phone service 
+you barely use, Tello might be exactly what  
+you need. With plans starting at just $5 a 
+month, Tello lets you build your own plan,  
+so you only pay for the minutes and data that you 
+actually use. Whether you're a student, a senior,  
+or someone who's always on Wi-Fi, Tello gives 
+you the flexibility to stay connected without  
+breaking the bank. All plans come with unlimited 
+texting, free mobile hotspot, and no contracts  
+ever. And because Tello runs on a major nationwide 
+network, you'll get reliable coverage in most  
+urban areas across the US. Need to switch things 
+up? No problem. Tello's month-to-month structure  
+means that you can adjust your plan anytime, 
+hassle-free. So, if you're looking for a smarter,  
+more affordable way to stay connected, Tello 
+Mobile offers flexible and affordable phone  
+plans with prices up to $25 a month. Check 
+out Tello using the link in my description.
+ 
+Over the last 5 to 10 years, the Indian stock 
+market has shown strong and consistent growth,  
+outperforming many global and emerging markets. 
+Not even America’s S&P 500, - home to seven  
+of the world’s eight trillion-dollar 
+companies, has managed to keep pace.
+ 
+That outperformance has turned the country’s 
+stocks into a favorite with global investors,  
+who have been shunning Chinese 
+equities amid a domestic slowdown  
+and geopolitical tensions with the US.
+Despite this massive performance,  
+Individual investors in India have managed 
+to suffer significant losses through their  
+trading. According to a SEBI study released 
+this Monday, mom-and-pop traders lost a  
+combined thirty three billion dollars over the 
+last four years—despite the huge uptrend and  
+repeated warnings from regulators about the 
+high risks of competing with better-funded  
+and more experienced market players.
+The Economist points out that the sudden  
+explosion in derivatives trading in India 
+has many parallels with America’s meme-stock  
+craze – which still hasn’t ended. The Covid 
+lockdowns five years ago – according to the  
+Economist - spawned a generation in India 
+who turned to day-trading to escape boredom.
+ 
+The numbers are dizzying. The notional value 
+of index options traded on the NSE more than  
+doubled in the last year alone to $907 
+trillion dollars. The number of investor  
+accounts has tripled over the last five years 
+to over 160 million. Mutual fund assets under  
+management have doubled to $706 billion. 
+It’s not just money that has been lost either,  
+two years ago a 26-year-old software analyst 
+jumped from his office building in Chennai  
+after taking out a twelve-thousand-dollar 
+bank loan and losing the money trading.
+ 
+This stock market environment—liquid, volatile, 
+and increasingly retail-driven—has been a magnet  
+for global proprietary trading firms. Jane Street 
+was amongst the most aggressive. By 2024, it was  
+reportedly making over a billion dollars a year 
+trading options in India. The firm’s strategies,  
+honed in the world’s most sophisticated markets, 
+found fertile ground in India’s fast-moving,  
+lightly regulated derivatives ecosystem.
+As profits soared, so did regulatory anxiety.  
+India's regulators had already started tightening 
+rules late last year, raising minimum contract  
+sizes and warning brokers to disclose the risks 
+of options trading. According to the regulator,  
+their concern was not just about volatility—it 
+was about fairness. And when Jane Street’s  
+trades began to dominate expiry-day 
+volumes in key indices like BANKNIFTY,  
+they claim that their concerns deepened.
+Jane Street’s Indian operations kicked off  
+in 2020, when it established a local entity in 
+Mumbai. By 2023, it had become one of the largest  
+foreign participants in India’s derivatives 
+markets. According to the securities regulator,  
+the firm made approximately $4.3 
+billion dollars in profits between  
+January 2023 and March 2025—most 
+of it from trading index options.
+ 
+Very little attention was paid to the 
+goings on in India until April 2024 when  
+Jane Street drew attention to themselves 
+by filing a lawsuit in Manhattan against  
+a rival hedge fund Millennium Management 
+who hired two former Jane Street traders. 
+ 
+The lawsuit alleged that the traders 
+had stolen a “highly valuable, unique,  
+and proprietary” trading strategy, which 
+was later revealed by Millennium to relate  
+to India’s booming options market. Jane Street 
+and Millennium settled the lawsuit in December,  
+but - the Indian securities regulator appears to 
+have taken notice that two of the biggest trading  
+firms in the world were fighting over a trading 
+strategy focused on their securities market.
+ 
+By this time last year, India’s national stock 
+exchange had been asked to examine Jane Street’s  
+trades. In February 2025, SEBI issued a formal 
+caution letter, warning the firm to refrain from  
+large, expiry-day positions and manipulative 
+trading patterns. Jane Street responded,  
+promising to adjust its strategies. 
+But according to SEBI, the firm resumed  
+similar trades by May—prompting the regulator’s 
+most aggressive enforcement action in years.
+ 
+At the heart of SEBI’s case is a strategy 
+it calls “Intra-Day Index Manipulation.”  
+The regulator’s analysis focuses on expiry 
+days— the days when options contracts settle  
+based on the closing value of an index like 
+BANKNIFTY - a stock market index that tracks  
+the performance of the banking sector in India.
+The alleged scheme according to SEBI – had two  
+phases which they refer to as patch 1 
+and patch 2. In Patch I – which occurs  
+in the morning – they allege that Jane Street 
+aggressively bought large volumes of BANKNIFTY  
+constituent stocks and futures, pushing the 
+index higher. Simultaneously, they allegedly  
+built massive short positions in the much more 
+liquid options— by buying cheap Put options and  
+selling expensive Call options —at prices which 
+the regulators allege were distorted by their  
+buying activity in the less liquid stocks.
+In Patch Two – which occurs in the  
+Afternoon - once the options positions were 
+in place - Jane Street is accused of reversing  
+course, by dumping their long positions in 
+the less liquid stocks and futures - driving  
+the index down, inflating the value of the puts 
+and deflating the value of the calls (which they  
+were short)—generating enormous profits.
+SEBI focuses in on Jane Street’s trades on  
+January 17, 2024 when Jane Street allegedly made 
+about $86 million dollars in a single session,  
+with trades accounting for up to 25% of 
+market volume in some BANKNIFTY constituents 
+ 
+Their detailed analysis of that day includes 
+minute-by-minute breakdowns of Jane Street’s  
+trades, their market impact, and the resulting 
+profits from options positions, making it the  
+centerpiece of the regulator’s case.
+Their data shows that Jane Street lost  
+money in the cash and futures markets—but more 
+than made up for those losses in options.
+ 
+SEBI estimates that Jane Street’s net 
+trading value that day - came in at about  
+$511 million dollars – which was more than three 
+times the size of the market’s second largest  
+player and about fifteen to twenty five percent of 
+the entire market’s traded value. Over the course  
+of eight minutes – they say - Jane Street had 
+built a long position of $67 million dollars.
+ 
+This almost single-handedly helped lift the 
+BANKNIFTY index by over 1 per cent over the  
+course of the buying spree, according 
+to the Indian financial watchdog:
+ 
+They argue that these losses were not incidental 
+but deliberate: a cost incurred to manipulate the  
+index and profit from options. Their report says 
+that “There is no economic rationale possible to  
+justify such trading activity on a standalone 
+basis,” going on to say - “By preponderance of  
+probability, these trades were undertaken only 
+to distort BANKNIFTY index option prices.”
+ 
+SEBI claim to have identified a second trading 
+pattern: which it calls “Extended Marking the  
+Close.” In this variant, Jane Street is alleged to 
+have built large options positions during the day,  
+then executed aggressive trades in the final 
+hour to influence the index’s closing value.
+ 
+On July 10, 2024, the regulator highlights 
+that the firm allegedly sold large amounts  
+of BANKNIFTY constituent stocks and futures in 
+the final hour of trading—just as its options  
+positions would benefit from a lower index 
+close. A similar pattern – they claim - was  
+observed on May 15, 2025, this time with bullish 
+trades designed to push the index price higher.
+ 
+In both cases, SEBI alleges that Jane Street’s 
+trades were not about hedging or liquidity—they  
+were about engineering a favorable expiry price.
+Jane Street has strongly denied the allegations.  
+In an internal memo to staff, the firm 
+says that it was “beyond disappointed”  
+by SEBI’s “inflammatory” language 
+and would contest the findings.
+ 
+The firm argues that its trades were standard 
+index arbitrage—designed to profit from misaligned  
+prices between options and their underlying 
+stocks. “This activity is unambiguously good for  
+the health of financial markets,” the memo said. 
+“In the absence of participants like Jane Street,  
+there would be no economic link between the Indian 
+derivatives market and the underlying economy.”
+ 
+Jane Street also disputes SEBI’s 
+methodology, particularly its use  
+of “market impact” metrics to infer intent. 
+Matt Levine wrote an excellent piece on this  
+earlier this week where he explained why 
+there is so much derivatives trading in  
+India – and then made the case that SEBI’s case 
+is not as strong as it may first appear to be.
+ 
+As to why Indians trade so many options – Levine 
+explains that when you compare the Indian market  
+to other big markets, it is much harder to 
+get leverage on cash stock positions in India,  
+or to sell stocks short. Because of this, 
+lots of leveraged and long/short trading  
+strategies are harder to do in India, but options 
+— which do offer a lot of leverage — are a decent  
+substitute – and allow traders to do the sort 
+of trades that would be implemented using stocks  
+in other markets. Additionally, some trading 
+strategies that have to be implemented using  
+stocks — like arbitraging options versus the 
+underlying stocks — are harder to do in India,  
+so some arbitrages won’t close 
+and some spreads will be wider. 
+ 
+There is something completely bizarre about 
+the fact that on some days the Indian options  
+market is 350 times bigger than the Indian stock 
+market - and it’s easy to see how you could get in  
+trouble trading Indian options – as while they 
+are more liquid than Indian stocks - they are  
+priced and settle based on the prices of Indian 
+stocks. If you can move the stock prices – you  
+will move the option prices - and the options 
+are easier to trade, while the stock prices  
+are easier to move. There is no way around it 
+– it is a very strange market dynamic – and a  
+market like this almost has to be inefficient.
+Levine concludes that “legitimately doing an  
+arbitrage trade” and “trading in one market 
+to manipulate prices in another market” look  
+pretty similar – and he jokes that “The 
+difference between legitimate arbitrage  
+and manipulation often comes down to 
+whether you sent an email saying ‘lol  
+I just manipulated the market – or not…
+SEBI’s case rests on India’s Prohibition of  
+Fraudulent and Unfair Trade Practices regulations, 
+as well as Section 12A of the SEBI Act. These  
+provisions prohibit any action that creates 
+a false or misleading appearance of trading,  
+or manipulates the price of a security or index.
+The regulator also cites the Supreme Court’s 2018  
+ruling in SEBI v. Rakhi Trading, which 
+held that intentional loss-making trades  
+can be evidence of manipulation. “Nobody 
+intentionally trades for loss,” the court  
+wrote. “An intentional trading for loss per 
+se is not a genuine dealing in securities.”
+ 
+SEBI’s interim order is not a final judgment. 
+Jane Street has 21 days to respond and request  
+a hearing. But the regulator has already frozen 
+the firm’s accounts and ordered it to deposit  
+$566 million dollars in an escrow account.
+The Indian ban is a blow to Jane Street’s global  
+operations, as not only did India account for 
+around 14% of the firm’s trading revenues in 2023,  
+it was also one of its fastest-growing 
+and most profitable markets. The firm’s  
+$4.3 billion dollars in Indian profits 
+over two years came at a time when global  
+investors were pulling back from China and 
+looking to India as the next big frontier.
+ 
+The Jane Street saga is more than a story about 
+one firm’s alleged misconduct. It is a test case  
+for how regulators in fast-growing markets 
+respond to the rise of algorithmic trading,  
+high-frequency strategies, and the increasing 
+complexity of global capital flows.
+ 
+For India, the case is a chance to 
+reassert regulatory authority after  
+years of criticism—most notably for its muted 
+response to the Adani-Hindenburg affair. 
+ 
+For Wall Street’s quant trading firms, it is a 
+warning. The strategies that work in New York or  
+London may not translate cleanly to Mumbai. And in 
+markets where unsophisticated investors dominate  
+and regulators are under pressure to protect them, 
+the line between arbitrage and manipulation may be  
+thinner—and more dangerous—than it appears.
+As Jane Street prepares its legal defense  
+and SEBI continues its investigation, one 
+thing is clear: the era of quiet profits  
+being earned by professional traders in 
+India’s derivatives market may be over. 
+ 
+While SEBI’s 105-page interim order paints a 
+picture of deliberate and sinister manipulation,  
+not everyone is convinced. As Robin 
+Wigglesworth wrote in the FT “What might  
+look like market manipulation could in fact 
+just be arbitrage, and what might look like  
+arbitrage can in fact be market manipulation”.
+As Matt Levine pointed out –– on January 17,  
+2024 – the date highlighted in SEBI’s interim 
+order, the options market was trading at a  
+1.6% premium to the underlying index that 
+morning—a mispricing that an arbitrageur would  
+naturally exploit by selling the overpriced 
+options and buying the cheaper underlying  
+stocks. This is - textbook arbitrage: If two 
+identical assets—here, the cash index and the  
+options-derived index—trade at different prices, 
+you buy the cheap one and sell the expensive one,  
+and that is what Jane Street did.
+Levine also points out a critical flaw  
+in SEBI’s narrative: the options prices didn’t 
+rise during Jane Street’s alleged manipulation,  
+they fell … While Jane Street was buying the 
+underlying stocks, the prices of options on  
+that index were going down – and that’s 
+not what you’d expect if they were pumping  
+the index to inflate options premiums.
+The lack of clarity as to the intent of a  
+trader can be particularly difficult to discern 
+with high-frequency index-arbitrage strategies,  
+where trades in one market are being done 
+to hedge or exploit pricing in another.  
+“Legitimately doing an arbitrage trade and trading 
+in one market to manipulate prices in another  
+market look pretty similar,” Levine writes.
+Ultimately, a good argument can be made that  
+Jane Street’s trades may have made markets 
+more efficient, not less. “Instead of paying  
+a 1.6% premium to take a position in the 
+options market - retail investors could  
+pay next to no premium if Jane Street pushed the 
+options prices down and closed the arbitrage.
+ 
+it’s worth stepping back to consider the sobering 
+statistic that Indian retail investors managed to  
+lose an estimated $33 billion dollars trading 
+options over the past four years—despite the  
+fact that the broader market that they 
+are investing in has gone straight up.
+ 
+These staggering losses, confirmed by 
+SEBI and cited in the Financial Times,  
+is not the result of a single firm’s strategy or 
+a regulatory blind spot. It is the product of a  
+system that encouraged millions of individuals to 
+gamble on highly leveraged, short-term trades in  
+one of the world’s most volatile markets.
+As Ananth Narayan, a SEBI board member,  
+noted in a public lecture in January, “a bulk 
+of small investor losses were specifically in  
+trading—indeed, overtrading in index options 
+on expiry day, when premiums are very small.”  
+In other words, the problem wasn’t just the 
+market structure—it was investor behavior.
+ 
+The lesson here is not just for regulators or 
+trading firms. It’s for the millions of retail  
+investors who were drawn into the options 
+frenzy by the promise of quick profits and  
+the allure of financial influencers. In a rising 
+market, the simplest strategy—buying and holding  
+quality stocks—would have outperformed 
+the vast majority of leveraged bets.
+ 
+Jane Street may have exploited inefficiencies 
+in India’s derivatives market. But the far  
+greater tragedy is that so many individual 
+investors, armed with smartphones and leverage,  
+chose to bet against the odds. And lost.
+If you found this video interesting,  
+you should watch my video on the South Sea bubble 
+next. Don’t forget to check out our sponsor  
+Tello using the link in the description. 
+Talk to you in the next video – bye. 

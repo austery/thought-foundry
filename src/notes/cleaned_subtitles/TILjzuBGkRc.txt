@@ -1,0 +1,754 @@
+- In this US Government lab,
+they study air flow to solve crimes,
+using mirrors, lights and lasers,
+they can illuminate
+the tiniest differences
+in air temperature and density,
+and track how drug powder
+settles in the rooms of a house,
+determine which person fired a gun,
+or spot particles escaping
+from a sealed package.
+A portion of this video was
+sponsored by Caseta by Lutron.
+Our best tool for picking
+up trace substances
+has been the same for centuries.
+- So it turns out nature
+has already provided us
+with the best chemical detector,
+and that is the dog's nose.
+So this is Bubbles.
+She's a 3D-printed,
+anatomically-correct model
+of a female Labrador Retriever.
+We tried to get one of the
+police canines to come in here
+and get in front of the mirror,
+but dogs get hungry and
+cranky very quickly.
+And we got about four
+seconds of good footage,
+and I'm like, okay, we
+can do better than this.
+- Dogs can sniff very faint scents
+and from far away,
+but they don't do it just by breathing in.
+What they do is breathe out and in rapidly
+around five times a second.
+(air whizzing)
+- What I want you to notice
+is this pulsating motion
+by the, we'll call it
+the doggy treat, right?
+This is our doggy treat.
+If you notice this pulsating motion.
+- And what allows them to
+detect scents from far away
+is the rapid and turbulent exhale.
+- When the dog exhales,
+there's a turbulent air jet
+that comes out of each nostril,
+just like when you and I exhale.
+If you put your hand under here
+and just exhale outta your nose,
+those are two turbulent air jets coming
+out of the dog's nose.
+But when the dog is down on the ground,
+those air jets are vectored
+back towards its rear.
+The dog is pushing air back,
+and when by doing that, it's
+pulling air from ahead of it.
+So imagine me, I'm blowing air this way,
+and when I do that,
+I actually reach out
+and pull air towards me.
+The dog reverses flow inhales, right?
+Gets a new sample, analyzes it
+with an amazing chemical
+detector upstairs, right?
+Its olfactory region,
+and does it at five times a second.
+On average, a dog when it's
+sniffing for something,
+five times a second repetitive sine wave.
+So that's what makes the dog
+this incredible sampling system.
+It kind of didn't matter the breed of dog.
+Somehow their evolution
+allowed them to figure out,
+okay, one over five seconds is what I need
+before I take the next
+puff or the next inhale.
+If the dog had infinite lung capacity,
+and it just inhaled constantly,
+it has a very limited reach.
+But because of this in
+and out bellows effect,
+its reach goes up by
+roughly a factor of 18.
+We have a number of commercially
+available vapor detectors,
+okay? Because some of
+these are really good
+for various explosives and drugs,
+some are very good for chemical
+and biological hazards,
+but they all just inhale air.
+What we did is we designed and printed
+what are essentially nostrils
+that plug onto this thing
+and make it sniff like a dog.
+And then by doing a set
+of controlled experiments,
+by moving your vapor
+source farther and farther,
+we were able to, on average,
+improve the detection
+capabilities of these
+by roughly a factor of 16 to 18.
+- Whoa1
+- Just by making them
+sniff like a real dog.
+- We're able to see this dog breath
+using Schlieren imaging.
+I've actually done a video on this before.
+- This is an automotive headlamp.
+After that, I have a condenser lens,
+so it takes this light and
+focuses it down to a point.
+So from there our light diverges,
+and it comes up and it fills our mirror.
+Think of these light
+beams as arrows, okay?
+And there are a bunch of
+arrows that are coming up,
+they're straight as can be,
+but when they pass something
+of a different refractive index,
+which could be the heat from my hand,
+or a different density,
+which could be a gas
+of a different density,
+those light rays, they shift a little bit,
+they shift very slightly, okay?
+They refract, they bend.
+Then they all come back.
+So we're coming back here,
+and right here we have a two-way mirror.
+So light can travel through
+the mirror this way,
+but when it comes back,
+it turns 90 degrees.
+And if you look right
+here, I have a razor blade.
+And what this is doing,
+it is positioned exactly at
+the focal point of that mirror.
+I have that razor blade edge,
+it's able to move in and
+out of the focal plane.
+And so what I do is I cut
+off those arrows of light,
+those beams of light that
+shifted a little bit,
+and I cut 'em off, I block 'em.
+As I move the knife edge out,
+so I'm not cutting off
+any light right now,
+so you basically have a
+really expensive mirror,
+it's not doing anything for you.
+But as I take this razor blade,
+and push it in,
+you start to see, you know,
+turbulence in the air,
+and as I take it more and
+more, yeah, there you go,
+get your hand in there.
+- Whoa, your Schlieren setup is
+so much better than mine.
+- So take a look at this.
+So this is in a Shadowgraph system.
+- Wow.
+- So it's Schlieren's
+little brother, okay?
+It's not a Schlieren
+system, but it's very close,
+a Shadowgraph.
+Shadowgraph is not as sensitive, okay?
+But it's easier to build.
+Look, we have a flashlight
+and a white wall,
+and we're already seeing
+a shadowgraph there.
+- So why does this work?
+- What's happening is we have light,
+it's not as focused as I would like,
+but the more focus, the better.
+The light's coming up this way,
+it's passing through a hot
+flame of a different density
+and refractive index,
+and we're basically casting
+a shadow of that plume
+on the wall, which is why
+it's called a Shadowgraph.
+- These can still be used
+to visualize flow patterns
+in detail.
+Just by looking at the
+footage of guns fired
+in a Shadowgraph,
+we can actually figure out
+the speed of the bullet
+and how loud the bang was.
+- And there's our bullet whizzing off,
+it is supersonic because it
+has a very small bow shock.
+You see it there?
+- Yep.
+- Very, very small.
+So it's, you know, roughly
+what Mach 1.05 maybe,
+just above sonic.
+Compare that to the
+infamous AK47 assault rifle.
+There's two things that we can
+qualitatively observe here.
+One is, if you compare these side to side,
+the Smith & Wesson versus the AK47,
+the darkness of this line is different.
+This is a quieter firearm,
+it's not as loud,
+the report is not as loud.
+- Because
+it's less pronounced.
+- [Matt] It's less pronounced, yep.
+- The hot gases released
+when the gun is fired expand outwards,
+creating a shockwave.
+Across this shock,
+the pressure, temperature,
+and density of the air changes rapidly.
+And the bigger that change,
+the darker this shows up
+in the Shadowgraph.
+So you can get a sense of how loud it is
+by how dark that shock appears.
+- And then here we see our
+bullet whizzing off at about,
+oh gosh, Mach two,
+- two and a half,
+- It's like
+two, three degrees, right?
+- You could actually measure that
+and calculate the Mach number.
+- Any object moving
+through air creates pressure
+waves that travel out
+at the speed of sound.
+Since this bullet is moving
+faster than the speed of sound,
+the pressure waves it creates
+all get compressed together
+into a single conical shock wave.
+It's like a tiny sonic boom.
+And you can use this to determine
+the speed of the bullet.
+The sine of the angle is the
+ratio of the speed of sound
+to the speed of the object.
+There is a different
+way to visualize flow,
+which is with a laser sheet.
+It illuminates fine particles.
+So we can see the plumes of
+gun powder residue created
+when a gun is fired.
+- We call this laser light sheet.
+And the reason is, okay,
+so now our light's there,
+I can barely see it because I
+have laser safety glasses on.
+- Yep. I can only see it in the camera.
+- Yeah, so what's happening
+here is we have a laser beam,
+and we send it, we steer it
+through a cylindrical glass rod.
+All it is, is a piece of
+glass that's a cylinder.
+And what that does is it spreads that beam
+into a two-dimensional
+wall of laser light. Okay?
+And so the way this works is
+whenever particles or theatrical fog cross
+through this sheet, they
+light up because of the laser.
+There's a lot of effort now going
+into understanding gunshot residue.
+So gunshot residue is the kind of burned
+and unburned propellant that occurs
+whenever a firearm is discharged, right?
+So what we're looking at
+here is using laser lights
+and high speed cameras,
+is we're looking at the
+plume of gunshot residue
+that's generated after a firing event.
+This is looking at ventilation
+inside an actual gun range.
+But look at all this.
+This is all gunshot
+residue that you can't see
+with the naked eye, but is there,
+so you can imagine if
+you're inside a home,
+this is five shots in a few seconds.
+Enormous amounts of material.
+A lot of this is landing on
+the hands of the shooter,
+but unfortunately a lot of
+it is also being dispersed
+into the local environment.
+- It goes way farther than I expected.
+- So the question is, can we differentiate
+between something that's
+actually been done by the shooter
+and something, say, by a
+bystander that walked in
+two minutes later?
+So that this is what we're actively trying
+to pursue right now.
+So these are tools and techniques
+that we use here at NIST
+that are qualitative or
+sometimes semi-quantitative,
+but they really help
+illustrate what's happening.
+And then the public security part of this,
+deals with trace contraband detection.
+We're all generating heat, right?
+So we all have this warm plume
+of air. You wanna see it?
+I'll show you. It's kind of crazy.
+So you seeing it there?
+So that is called the human thermal plume.
+And guess what's in that plume?
+- Water?
+- Parts of me. Skin cells.
+- No way.
+- Yeah.
+So we're shedding skin cells
+at a pretty creepy rate.
+I forget what the number
+is, but it's a lot.
+Thousands an hour-ish.
+So we are shedding these
+skin cells constantly,
+and it's actually not
+necessarily a bad thing
+from a trace detection standpoint.
+- What do you mean?
+- Well, whenever we are
+talking about trace detection,
+whether it's drugs or explosives,
+it's all based on this
+fundamental principle,
+it's called Locard's Exchange Principle.
+It's in forensic science.
+It's that every contact leaves a trace.
+And what that means is when
+you're done in this lab,
+there will be parts of you
+left behind in this lab,
+whether you like it or not, right?
+'Cause we're all shedding
+skin cells and taking things,
+and taking stuff with us.
+So if I'm a bomb maker, if
+I'm involved in manufacturing,
+you know, illegal fentanyl in my basement,
+I am ultimately contaminating
+myself with the bulk material.
+And this contamination comes
+in the form of very, very small particles.
+And the chemical detection systems
+that we have available
+now are so sensitive,
+they can detect a single particle of say,
+an explosive residue.
+Imagine you have a bomb
+in a package, right?
+And you're at some kind of
+screening facility, right?
+You're at a facility
+that maybe is screening things
+coming in from overseas,
+maybe you've got a sniffer,
+you've got a commercially
+available vapor detector,
+and you've got 10 seconds
+to sample this package.
+Where do you point your device, right?
+These are the kinds of experiments
+that help us understand where
+you should point your device.
+We call this burping.
+We're burping the package.
+So we have some acetone in here.
+So wherever you burp it,
+where you squeeze it,
+you have acetone vapor coming
+out of all the gaps, right?
+So they're coming out in the gaps,
+so that gap gives you the highest chance
+of actually detecting
+what's inside, right?
+You don't want to go over
+here where there's no gaps.
+You don't want to go up
+there where there's no gap.
+You want to go in these corners here,
+where stuff is actually
+kind of permeating through
+and outside of the box.
+This is some recent work we're doing.
+We are basically simulating
+illicit drug manufacturing.
+So here's some talc powder, right?
+No big deal. I'm gonna
+shake it up a little bit.
+When I open this and squeeze,
+I can't see anything,
+but are you seeing anything in the camera?
+- Yes.
+- So again, to the naked eye,
+we'd never be able to see this.
+But because the laser is
+doing the illuminating for us,
+we're able to see this.
+Let's do a little experiment
+where I am taking illegal substance A
+and pouring it into substance B.
+First thing I'll do,
+just watch when I take
+the lid off of this.
+(tense music)
+Take it from here.
+- There is a little bit coming off,
+yeah.
+- A little bit?
+- Oh yeah.
+It's still going.
+- So just imagine, you're in a basement,
+and you're building stuff like this,
+and you don't realize that there's all
+this contamination spreading and landing
+on other surfaces in your room.
+And I can't talk about the numbers,
+but they're pretty startling.
+- Like there's a lot.
+- There's a lot.
+- It spreads everywhere.
+- There's a lot, yeah.
+(tense music)
+This thing's going to be full of smoke in here. You ready?
+- Yep.
+(tense music)
+What I really love about
+the laser sheet technique is
+it allows you to visualize the
+turbulence that's in the air.
+- [Matt] So this is a way
+we can see how the air flow
+in the room is actually being tracked.
+- Oh, that's nice.
+- [Matt] Yep.
+If you look at the
+graph and the top right,
+that is actually real-time
+counts of the particles
+that are being generated
+around this person.
+So that plot represents
+basically inhalation exposure
+of the materials that he's working with.
+That's crazy, if you think about,
+'cause if that's fentanyl,
+and that person doesn't have
+a mask on, they're gone.
+We add fluorescent powder
+to this kind of stuff,
+so we can actually visualize
+where the contamination goes.
+The other cool part of this is
+that we can use a quantitative method
+of sampling surfaces in the house.
+We basically use swabbing.
+And it's the same idea
+when you go to the airport.
+Have you ever gone there
+and they ask for your hands?
+- Yeah.
+- Right? And they take
+a little swab and they wipe your hands.
+What they're doing is they're looking
+for these trace amounts
+of explosive particles
+that could be on you if you were involved
+in the manufacture of
+an explosive device.
+But that's a drone.
+That's looking at a drone.
+And the question is, 'cause you know,
+you get this cool prop wash,
+and these four propellers
+that are are all
+interacting with each other.
+So the question is, can
+we use the fluid dynamics
+of a drone to do the sampling for us?
+And here's what I mean by that.
+If there is a suspected, you know,
+manufacturing facility of something,
+say it's a methamphetamine or fentanyl,
+you know, it's very, very expensive
+to get Hazmat crews involved.
+Have them come, they have to
+gown up, they have to go in,
+to a potential really dangerous situation.
+What if we had a drone?
+We just flew the drone in, right?
+It buzzes around and it's got
+some special kind of collector
+on the belly of the drone
+and we're using the prop wash
+of the drone to stir up
+particles off of a surface,
+and then somehow inhale
+them, collect them.
+The drone comes back to base,
+you run your chemical analysis, you say,
+okay, the house is clean,
+or no, we found stuff.
+Okay, now it's time to pull
+out the Hazmat crew. You know?
+So the big-picture idea
+that I want you to keep
+in the back of your head the whole time is
+this idea of public safety and security.
+So that's really what happens in this lab.
+But underneath that kind of umbrella term,
+think mask research.
+So when the Covid pandemic hit,
+we kind of switched gears in
+here to try to address some
+of the issues related to masks.
+This thing will actually
+breathe as a human does,
+that human happens to be me.
+So I measured my own
+kind of breathing rate,
+and then built a system,
+kinda engineered a pneumatic
+system that replicates that,
+but it also has a fog
+machine, a fog generator.
+So this thing basically just
+looks like it took a drag off
+of a cigarette and exhaled.
+What's kind of cool with this is
+it looks like there's nothing
+coming through, right?
+But there is millions and millions
+of particles trying to make it through.
+Some do, 'cause it's not 100%.
+So I wrote an image-processing code.
+So you take this information,
+you plug it into a code,
+and it analyzes,
+based on pixels and it's
+counting white pixels,
+and sure enough, if you use an N95,
+you put an N95 on here,
+you run it through an
+image processing code,
+guess what percentage of
+pixels light up white?
+- 5%?
+- 5%.
+- Okay.
+- Now I just want you
+to breathe naturally.
+So when you're inhaling, it gets dark.
+And when you're exhaling, it gets lighter,
+because the air is being
+warmed by your lungs
+and then coming back out.
+- Like it's interesting
+how fast you can see
+the effect of the breathing in,
+like just makes it go dark so quickly.
+- But that shows me that,
+like this now doesn't change color at all.
+So this is being used
+to seal versus filter.
+I notice the color
+change is a lot more dramatic.
+- Yeah.
+- With this, you know, it was in and out.
+- I feel like that's
+a thinner mask, right?
+- [Matt] Yeah. So the
+heat transfer-through,
+it is gonna be greater.
+- I feel like there's a lot coming out
+over the top.
+- There is, yeah,
+there's a lot.
+If you just breathe naturally,
+you'll see a lot coming out there.
+- The thing with masks, right, is like,
+initially they were
+like, masks don't work,
+don't wear a mask.
+And then they were like, masks do work,
+like, and wear a cloth mask,
+and then they were like, no,
+no cloth masks don't work,
+like, I don't know, there
+was a lot of confusion
+around masks.
+- What we learned early on
+was that the communication of,
+you know, mask effectiveness
+could have been improved,
+right? And so that's kind
+of why I did what we did
+with the Schlieren.
+The truth is, the average
+American is not gonna sit down
+and read a scientific journal article.
+But they will sit down and
+watch a 90-second video
+of me coughing with a mask on and off.
+And that's what we did.
+It's kind of a unique relationship we have
+with other federal agencies here.
+So you have a three-letter
+agency that has a specific need
+for something, right?
+In the security arena.
+What they'll often do is
+they'll come here to NIST,
+and they'll say,
+hey, we're really interested
+in sampling people's shoes
+for explosives for whatever reason, right?
+So what we do here, and
+in this lab in particular,
+is we figure out what are
+some good ways to sample shoes
+for explosives?
+What are some not so good ways, right?
+What do the measurements need to look like
+to evaluate a shoe-sampling system
+that doesn't even exist yet?
+And then what do the
+standards need to look like
+that support those measurements, right?
+And so we figure all this
+stuff out in the lab,
+package it up nice and neat,
+give it back to the sponsoring agency,
+and then they take it to industry.
+And industry already has a
+leg up on the development
+of these kinds of systems,
+because we did a lot of the
+heavy lifting here in the lab.
+Because with the success of, you know,
+doing the Covid-related visualization,
+we're realizing now that
+the application space
+for this kind of technology is huge.
+Indoor air quality.
+You can imagine a bigger
+mirror where we could look
+at two people interacting with each other,
+and what that transfer looks like
+from one person to the other.
+The take-home message
+is flow visualization
+is a critical tool that
+we use here at NIST
+to really help understand
+what's happening, right?
+It's one thing to do quantitative analysis
+on various surfaces, but now we can see,
+we can actually see what's happening,
+and where these particles are generated.
+- Thanks to Lutron for
+sponsoring this portion
+of this video.
+Perfect lighting isn't just important
+for visualizing air flow,
+it's also essential for making
+your house feel welcoming,
+cozy and safe.
+And with the sponsor of this
+video, Caseta by Lutron,
+you can easily set up
+your own perfect lighting.
+You know, Caseta provides
+premium smart lighting control,
+including switches, remotes
+and plug-in smart dimmers,
+which allow you to
+customize your home lighting
+from anywhere in the house.
+What I love about smart switches is
+that one switch can
+control many regular bulbs.
+So you can effectively
+make all your bulbs smart
+just by replacing the switch.
+And installation is easy.
+First, make sure you turn
+off power to the switch,
+and then disconnect the existing wires,
+and connect them to Caseta's Smart Switch.
+If you need any help, they're
+just a click or a call away.
+And then with the Smart Hub,
+you can turn your lights on
+and off just using your phone.
+Or you can use another device,
+like Alexa or Google Assistant.
+Caseta works with more smart home brands
+than any other smart
+lighting control system.
+Plus their switches don't rely on Wi-Fi,
+so they always stay connected,
+and you always have
+control over your lights.
+I personally like setting
+timers in my house,
+for example the lights
+in my office turn on
+by themselves in the evening.
+And this gives me peace of mind
+that my family will always
+come home to a well-lit house.
+And the best part of it all
+is if I'm already in bed,
+I can just check which
+lights are still on,
+and turn them off without
+having to run around the house.
+Learn more about Caseta at
+casetawireless.com/veritasium.
+Thanks to Lutron for sponsoring
+that part of my video.

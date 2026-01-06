@@ -1,0 +1,273 @@
+I was born and raised in Zambia,
+a country known for its rich
+copper mining history.
+Alignment of the stars meant
+that by birth and by science,
+I became a miner.
+Everything we build and use
+was either grown or mined.
+From the walls to the windows,
+the tables and the chairs,
+your phones, your computers,
+the stage, my copper earrings
+and maybe your jewelry.
+So today when we talk
+about building a circular economy,
+we mean we need to electrify everything.
+Our economies will have cars
+and trucks, robots,
+drones and aircraft powered by batteries.
+Our children will need computers
+in all schools with equal access,
+and we'll have data centers full
+of advanced chips to bring us AI,
+all sourced by abundant sources
+of renewable energy.
+The raw materials we'll need
+will be recyclable
+so we can become clean and circular.
+So that means a lot more lithium,
+copper, cobalt, nickel and others.
+So we need to build
+more than 400 new mines by 2040
+for us to become circular.
+But before you can build a mine,
+you have to find the raw materials.
+The thing is, today's
+mining industry leaders
+are doing too little to advance
+our qualities of life.
+In other industries that rely
+on discovery for growth,
+like pharmaceuticals and technology,
+for every dollar
+they return to shareholders,
+they spend about a dollar in R and D.
+In mining, however,
+for every dollar returned to shareholders,
+less than a penny is spent in exploration.
+With such underinvestment,
+it shouldn't surprise you
+that the technology used
+in exploration and mining
+has barely advanced.
+In fact, we've gotten ten
+times worse in the last 30 years
+at making ore body discoveries.
+But there's good news.
+The vast majority of ore deposits
+are still out there waiting to be found.
+They're just harder to find.
+Of all the past mines we know of,
+they were easy because they were
+poking out of the surface
+and they were near the surface.
+So we need to look deeper.
+Controversially, we've been taught
+that these materials will run out.
+We don't lack ore body deposits.
+We lack information of where they lie.
+So if you had a crystal ball,
+you'd just look into it
+and start digging out the rocks
+that are the best
+and generate the least waste.
+But we don't have a crystal ball.
+So the thing that we should
+do is make predictions
+of where these materials lie.
+My colleagues and I at KoBold are doing
+what the industry has neglected to do.
+We aim to predict everything,
+quantify what we don't know
+and collect information efficiently.
+So we're all going to try that right now.
+I want you to predict
+1,000 meters below your feet
+what the concentration of copper is
+right where you're sitting.
+I want you to predict how hard it is,
+how fractured it is, what's its density?
+We aim to predict
+all these things and more.
+We're developing machine
+learning technologies
+that help us predict all of this
+and rigorously quantify
+our uncertainties in these predictions.
+So what does this look like in practice?
+When we're exploring for mines,
+we often fly aircraft thousands
+of kilometers across the Earth
+to try collect information
+such as the Earth's magnetism,
+its gravitational field,
+that tells us something
+about the rocks beneath.
+But there's a problem.
+For everything that we're looking at,
+there are going to be
+an infinite number of possibilities.
+And that's because we're building
+three-dimensional models
+to fit two-dimensional data.
+So if a body was smaller
+and closer to the surface
+or larger and further away,
+the measurement would be the same.
+So this body will also fit the data.
+And will this one,
+and this one,
+and many more.
+The incumbent industry
+deals with this problem by ignoring it.
+They pick one possible answer
+and act like the other ones don't exist.
+And as a result,
+we design suboptimal mines,
+make suboptimal decisions,
+often mining unnecessary material.
+We've invented a different way.
+We collect all the possibilities
+consistent with the data measured,
+and we do this by simulating
+the physical response
+of each of the arrangement of rocks.
+We do this 10,000 times faster
+by training an AI
+to learn the relevant physics
+of the rock beneath,
+in the time it takes
+the conventional method to test one.
+That means we collect better data,
+we make better predictions
+of where to look next.
+So if you had a rock body
+and a rock body that's denser
+than material around it,
+you might drill through the middle of it.
+But if you have all the hundreds
+of thousands of possible solutions,
+the best thing you can do
+is to collect data
+where you're the most uncertain
+and rigorously eliminate
+as many possibilities as possible.
+This enables us to maximize
+the information we get
+for every dollar we spend,
+and we do this repeatedly
+so we can quantify our uncertainties.
+Even after we've made
+an ore body discovery,
+we still have to contend
+with this uncertainty.
+We have to define the size
+and shape of this ore body.
+Let me illustrate how difficult this is.
+So now, 1,000 meters below your feet,
+you drilled, you sampled the rock
+and you determined
+that it has five percent copper.
+So now you know, you've got
+your data point and your observation.
+Now, I ask you to make a prediction
+of the concentration of copper
+of the person sitting next to you.
+(Laughter)
+What would your prediction be
+and how confident
+would you be in your prediction?
+What about across the room?
+Think of any person across this room
+and try to predict
+1,000 meters below them.
+What about in the next building
+or the next city?
+This is the vast challenge that we face.
+We've only sampled
+a tiny fraction of rock,
+collected several football fields
+apart from each other,
+for which we're trying to make predictions
+of all the rock properties in between.
+This technology has helped us move fast
+in Zambia, where I come from,
+to design and develop a mine
+based on our predictions
+for which we've only sampled
+a tiny fraction of rock.
+Once again, there are many possibilities,
+all consistent with the data.
+Some with a lot more metal,
+some with less.
+And the difference
+is a measure of uncertainties.
+This enables us to know
+where we should collect information next,
+where we should drill the next hole,
+and when we can stop drilling
+and actually start building a mine.
+To build the mine of the future,
+we continue to contend
+with this uncertainty.
+The industry designs an entire
+mine based on a single model.
+We're developing KoBold mine,
+a mine-design optimization tool
+that looks at the many
+possible mine designs
+against the many possible
+ore body geometries
+that we talked about earlier.
+This enables the best decisions
+about how much ore we're going to mine,
+how much waste we're going to produce,
+how much water we'll use,
+the cash flows, and so on.
+This enables the best
+mine planning decisions
+about where to put permanent
+infrastructure, like a shaft.
+Where the traffic
+and the tunnels will be placed
+so we can make efficient decisions,
+and also how we can maximize the ore
+and the metal we get
+and minimize the waste.
+This technology will move
+into mine operations
+to help guide day-to-day
+decisions for efficiencies.
+Better predictions
+don't just mean profitability.
+It means a safer mine,
+knowing where the rocks are weaker.
+It means an environmentally
+sustainable mine
+so we can lessen our impact
+on the environment.
+And it also means
+a resilient mine with cash flows
+to support local communities
+and businesses
+through different
+commodity pricing cycles.
+Our Mingomba project in Zambia
+will be the mine of the future.
+It's being designed and developed
+by amazing talent from around the world,
+including Zambians
+and Africans like myself.
+We face the reality that our need
+for these materials will continue to grow
+because our lifestyles
+are going to advance
+and they're going to demand for it.
+So the mining industry
+must ensure they transform
+so we can become responsible miners
+and build better mines
+with better technology.
+Asante and thank you.
+(Applause)

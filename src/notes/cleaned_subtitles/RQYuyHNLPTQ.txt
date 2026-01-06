@@ -1,0 +1,595 @@
+- Can you explain how
+a sewing machine works?
+I mean, think about it.
+We've all seen them.
+There's that little
+needle that's moving up
+and down really fast, leaving a trail
+of stitches behind them.
+But if you think about it for a second,
+how are they doing it?
+Because the needle is
+never actually going fully
+through the fabric.
+If you're hand sewing, you have
+to pass the needle up and down.
+You have to let go of the needle
+and grab onto it on the other side.
+So in order to invent the
+sewing machine, we first had
+to invent a whole new way of sewing.
+It's one of these things that
+almost no one thinks about,
+but is so important.
+Every piece of clothing you've ever put
+on virtually was made by a sewing machine.
+So in this video, I'm going to explain
+how sewing machines work.
+And I promise when you
+find out, you will find it
+so incredibly satisfying.
+And what you'll realize is
+that these machines are performing
+tiny mechanical miracles every second.
+A part of this video was brought to you
+by KiwiCo, more about them
+at the end of the show.
+- The foot pedal is right
+in front of your right foot.
+You can gently rest it. It
+doesn't need a lot of pressure.
+So easy does it, and you
+should be able to start going.
+- All right. Ah, all right.
+(sewing machine rumbling)
+This is amazing.
+- [Noah] I find it meditative.
+- If I were going to sew two pieces
+of fabric together, this
+is how I would do it.
+Weaving the needle back
+and forth through both pieces of fabric.
+This is known as a running stitch,
+and there are more sophisticated
+stitches you could do.
+But if you're trying to mechanize
+any hand stitch, you run
+into a major problem, which is
+that any time you pass the needle
+through the fabric, you have
+to release it on one side
+and pick it up again on the other side.
+This is almost impossible
+for a machine to do,
+at least a machine from 200 years ago.
+So in order to invent the
+sewing machine, we first needed
+to come up with a totally
+new way of sewing.
+And this came in three breakthroughs.
+(dramatic music)
+Human have been sewing clothes
+for tens of thousands of years.
+In 2016, researchers found a
+needle in a cave in Siberia
+that dates back to about 50,000 years ago.
+The crazy thing is
+that homo sapiens didn't
+live in that cave.
+It was inhabited by the
+Denisovans, a now extinct species
+of early humans.
+So sewing isn't just a homo sapien thing,
+it is a human thing.
+The needle is made of bone.
+But in other regards, it
+looks like any modern needle,
+a sharp end pierced through fabric
+and an eye on the other
+end for the thread.
+Needles have remained basically unchanged
+for tens of thousands of years.
+Artifacts from caves in
+France, ancient Egypt, Greece,
+India, China, and Japan,
+all look about the same.
+That is until 1755.
+Charles Frederick Wiesenthal was a
+German inventor living in England.
+We're not exactly sure what motivated him,
+some believe he was trying
+to invent a sewing machine,
+but maybe he was just tired
+of flipping the needle
+over twice every stitch.
+But what he created was
+a needle that was sharp
+on both sides, so you
+could pass the needle back
+and forth through the fabric
+without flipping it over.
+He patented his invention, a
+needle for ornamenting fabrics,
+which may have sped up sewing a little.
+But the two-sided needle
+delivered an unexpected benefit
+used by all sewing
+machines up until this day.
+It moved the eye of the
+needle next to the sharp tip.
+But how does that help?
+When I put the needle
+into the fabric, the thread
+does go below the fabric,
+but when I pull it out, the
+thread also gets pulled out.
+So it seems like we've achieved nothing.
+We need to find a way to tangle the thread
+when it's at the bottom of the stitch
+to stop it from pulling out.
+And luckily, there are
+two ways of doing this.
+(dramatic music)
+If you can keep a loop of
+thread underneath the fabric,
+as I pull the needle out, well
+then, I can move the fabric
+over and pass that needle
+through the loop, forming a little link.
+And if I do that again, I can form a chain
+of these stitches.
+That is why this is
+known as a chain stitch.
+The chain stitch was one
+of the first stitches
+successfully performed
+by sewing machines.
+It's really hard to say
+who invented the first sewing machine.
+There were just so many people working
+on the problem at the same time
+and there are many competing claims.
+In 1790, Thomas Saint drew
+detailed patent drawings
+for a sewing machine design,
+but there is no evidence
+that he ever built a prototype.
+In 1814, Joseph Madersperger
+was granted a patent in Vienna.
+It took him a decade to build the machine,
+but he never commercialized it.
+He spent the rest of his life
+trying to perfect the design.
+In 1830, Frenchman Barthélemy Thimonnier
+built his own version.
+It created a chain stitch
+with a barb needle.
+He was granted a patent
+and set up a garment factory
+with 80 of his machines.
+There, they began manufacturing uniforms
+for the French army but this
+invention caused an uproar.
+A mob of 200 angry tailors
+ransacked his factory
+and destroyed all of his machines.
+It took a few more decades
+before sewing machines
+were reliable enough
+to be commercially viable.
+The two most reliable ways
+to build a chain stitch
+machine were invented
+at nearly the same time
+in 1857, when James Gibbs
+and Charles Raymond received
+their respective patents.
+It was easy enough for me
+to grab the loop of thread
+in the model, but it's much more difficult
+to design a machine to do
+this reliably and repeatedly.
+Charles Raymond's design used a hook.
+The needle punctures the fabric
+and carries the thread down with it.
+Then as the needle moves up,
+the thread between the eye
+and the fabric shortens
+and buckles forming a
+little bulge of thread.
+At exactly this instant, the
+sharp hook catches the bulge,
+stretching it into a loop.
+And as the needle comes back
+down, the hook moves backwards
+and the needle passes through the loop.
+The needle comes all the way down
+and then as it moves back up,
+the thread between the eye
+and the fabric buckles again,
+the hook catches this
+bulge pulling the thread
+into a loop for the needle
+to pass through once more.
+Gibbs had a similar design,
+but the hook was rotating.
+So as the needle lowers
+the hook grabs the thread,
+the rotating hook spins around,
+the first loop is released,
+and then the hook grabs the second loop.
+It took Gibbs thirty-seven
+prototypes, all carved outta wood
+to get this incredible
+looper shape just right
+and then that same shape was used
+on over 80 models of sewing
+machines for 80 years.
+The looper was held by pieces
+of metal tightly enough
+that it didn't fall out,
+but with enough of a gap
+for the thread to pass
+through all the way around.
+We are showing a simplified
+model here for clarity.
+But there's a flaw with this simple way
+of making a chain stitch.
+If the thread comes
+loose, you can easily pull
+out all the stitching.
+It's remarkable how quickly
+and easily the thread gets pulled out
+because there's barely any
+friction with the fabric.
+The only friction holding each
+stitch in place is the loop
+from the previous stitch.
+So once one goes, they
+just all go in a chain.
+So people developed more
+complex chain stitches
+that use more thread and are more robust.
+You'll likely find chain
+stitches holding the hem
+of your jeans together.
+You can also embroider beautiful patterns
+with the chain stitch.
+- Anything that kind of
+had decorative stitches is
+what it was originally used
+for, but then it became used
+for all kind of lettering and flowers.
+- You're sort of doing
+gymnastics figuring out,
+if I feel it this direction,
+where is my next path gonna be?
+You're trying to kind of
+think ahead of yourself.
+And I think as you become more
+skilled with the chains too,
+that's where your work begins
+to look a lot more refined.
+(sewing machine rumbling)
+- Besides the chain stitch,
+there is a completely different
+way to secure the thread.
+And honestly, it's kind of genius.
+All it requires is two
+separate spools of thread.
+Now this spool of thread
+is called the bobbin.
+So here's how it works.
+The needle goes through two pieces
+of fabric all the way down,
+and then you pass the second
+spool of thread completely
+through a loop in the top spool,
+and then bring the needle
+back up, pull in the excess
+and what we have done is interlocked
+these two pieces of thread.
+That's why this is known as a lock stitch.
+In 1846, Elias Howe patented it
+and to promote his new creation,
+he staged a live sewing demonstration, him
+and his sewing machine
+versus five seamstresses.
+Howe's machine worked,
+but it wasn't elegant.
+The machine used a curved
+needle, the fabric hung
+down vertically, and it
+could only make stitches
+in a straight line.
+Five years later, Allen
+B. Wilson dramatically
+improved the lock stitch sewing machine
+receiving two patents, one
+in 1850 and one in 1851.
+The first patent was
+for the vibrating shuttle
+lock stitch machine.
+Although it's called a vibrating shuttle,
+it actually oscillates back and forth
+and inside it is a small bobbin of thread.
+As it moves forward, it
+catches the top thread
+from the needle forming a
+loop and as the shuttle passes
+through this loop, it
+creates a lock stitch
+by intertwining the top thread
+with the lower bobbin thread.
+The shuttles movement is synchronized
+with the needles up-and-down motion.
+The shuttle was pushed around by pieces
+of metal tightly enough
+that it didn't fall out,
+but with enough of a gap for the thread
+to pass all the way around the shuttle.
+This type of sewing machine
+was incredibly common
+in the late 1800s.
+Many millions of just the
+Singer Model 27 were made,
+and they were built incredibly robustly.
+There are many machines that are now
+over a hundred years old
+that are still working.
+Sewing machines were
+developed before the idea
+of planned obsolescence took off.
+The second patent that Wilson
+received in 1851 is the basis
+for how most modern sewing machines work.
+Instead of a shuttle moving
+back and forth, the bobbin is
+inside a rotating hook.
+So let's see how that works.
+The needle comes down,
+pulling that top thread,
+and it goes down really low,
+and then it pops back up a little bit
+creating this little bulge right here.
+And when the rotating hook
+comes around, it is grabbed
+by that rotating hook,
+pulling even more thread
+so that this thread can pass
+entirely around the bobbin.
+And then needle pops back up.
+We pull in the excess
+and we've formed another
+lock stitch like so.
+From this, it might look
+like you're using more thread
+from the top because when
+this thread comes in, you need
+to pass an entire loop around the bobbin
+but that thread then gets pulled back up.
+So we actually filmed
+in slow motion a sewing
+machine using a gradient thread
+so you can see just how much
+thread is getting pulled
+in from the top.
+It looks like a lot, but
+ultimately you use the same amount
+of thread from the top spool
+as from the bottom spool.
+The tension needs to be identical
+on both the top and bottom thread
+so the same amount of thread
+is used in each stitch.
+If the tension is off, the
+stitch won't meet perfectly
+in the middle of the two fabrics leading
+to a much weaker stitch.
+This is true for both vibrating shuttle
+and rotating hook lock stitch machines.
+But what does result is a lot of friction.
+You can imagine this piece
+of thread is getting pulled back down
+and back up a whole bunch
+of times with every stitch.
+So what was developed
+was actually a groove
+in the sewing needle right here
+to reduce the friction between
+the thread and the fabric
+as it has to keep getting pulled down
+to go around the bobbin
+and then get pulled back up
+when it's tensioned again.
+This resulted in less fraying
+of both thread and fabric
+and resulted in a cleaner stitch.
+Practically all modern sewing
+machine needles have a groove
+on one side.
+But there's still an
+important piece missing.
+After a stitch has been made,
+how do you move the fabric?
+(dramatic music)
+In the earliest sewing machines,
+the fabric would be moved
+by hand after every stitch,
+but that was obviously slow, inefficient,
+and the stitches wouldn't
+have been identically spaced.
+A few designs were attempted,
+but the most successful
+one was also invented
+by Allen B. Wilson.
+His idea was a small
+piece of metal, the foot
+that would press down on the fabric.
+When the needle is not in the
+fabric, a small piece of metal
+with grooves in it pushes up from below.
+It grabs the fabric and
+then moves back a fraction
+of an inch advancing it to
+where the next stitch should be.
+This design is used
+in practically all sewing machines today.
+They're called feed dogs.
+There are some modified versions
+of this idea, like the
+universal feed machine used
+for chain stitch embroidery.
+- With these style of machines,
+there's a handle underneath the machine
+and it rotates the entire
+nose of the machine.
+- [Derek] Okay.
+- And this presser foot,
+that will basically advance
+the fabric in 360 degrees.
+So right now we've got this
+hooked up to a single motor,
+but back then these cables
+went up to the ceiling
+and were all powered by one big generator,
+one big like steam power
+or coal powered generator.
+And so I'm sure the
+factories were so loud.
+There used to be a pin,
+we've taken them off just
+'cause we don't need them anymore.
+And what you would do is you'd pull down
+and it would immediately
+engage the machine
+because this was spinning continuously
+'cause it was all hooked up by one motor.
+Like nowadays, when you
+start a machine, you can kind
+of like feather it a little
+bit, you can start slow.
+Back then, they were going
+like 10,000 rpm right away.
+- [Derek] You got to gotta be ready.
+- Yep. Those women were heroes.
+I mean, unbelievable skill.
+- The most famous name associated
+with sewing machines is
+that of Isaac Singer.
+But Singer did not invent
+the sewing machine.
+He was a shrewd businessman
+buying up patents
+for various parts and
+building his company on that.
+Inspired by interchangeable parts
+that he saw in production of firearms,
+he optimized the production process
+and his company was able to drop the price
+of sewing machines from a
+hundred dollars to around $10.
+That's just over $300 in 2023 terms.
+This lower price meant he
+could sell the machines
+to families rather than to corporations.
+Singer's business was also one
+of the earliest in the world
+to offer an installment payment
+plan, allowing the buyer
+to pay it off over a few months,
+rather than paying the
+entire cost upfront.
+Singer became one of the largest
+corporations in the world
+and the first American
+multinational company.
+Before the advent of sewing
+machines, it would take
+over 12 hours to sew a single shirt.
+It now takes less than 30 minutes.
+In 1900, the average American
+family spent about 15%
+of its total income on clothing.
+In 2003, it was less than 4%,
+but despite spending
+less, we own more clothes.
+In 2019, the worldwide average number
+of garments owned was over 130.
+Each year, a hundred billion
+garments are produced.
+And just in the US
+alone, 11.3 million tons
+of clothing ends up in landfill.
+That's nearly 35 kilograms of
+clothing for every man, woman,
+and child that is thrown away each year.
+But should we blame sewing machines?
+The sewing machine is brilliant.
+Invented, iterated upon, and
+improved by dozens of people.
+They really have revolutionized the world.
+All it took was inventing a
+completely new way to sew.
+Hey, this part of the
+video was brought to you
+by KiwiCo, a company that's
+all about making science
+and learning about the
+world fun and engaging.
+I know that the best way to
+learn is through interactivity
+and I personally got a
+much better understanding
+of sewing machines by building models,
+actually using a sewing
+machine, taking it apart
+and putting it back together.
+Now, KiwiCo have been a
+longtime sponsor of the channel
+because they genuinely
+make great products.
+I mean, my children love them.
+Not only are they a great learning tool,
+but they're also really fun.
+When the crates arrive at my
+doorstep, my kids can't wait
+to open them and start
+putting the projects together.
+This month we built a coin eating robot,
+and amidst all the fun they were having,
+there were also lessons in
+electric circuitry, cams
+and mechanical linkages.
+Each crate comes with all
+the the materials you need,
+detailed instructions and an explanation
+of the science behind the project.
+It's so nice that everything is there
+and ready to go, so you don't
+need to run out to the store
+or gather any extra supplies.
+I can just enjoy quality time playing
+and learning with my kids.
+The crates are designed by experts
+to be educational and enjoyable,
+and they have different
+product lines to cater
+to all age groups down to newborns.
+KiwiCo believes that the best
+way to learn is by doing,
+and that is definitely a
+philosophy I can get behind.
+So go to kiwico.com/veritasium
+to get your first month's crate free.
+This offer is exclusive
+to Veritasium viewers,
+and with the holiday season coming up,
+this is your friendly reminder
+that KiwiCo crates also make great gifts.
+So go to kiwico.com/veritasium, subscribe
+and get your first month's crate for free.
+I want to thank KiwiCo
+for sponsoring this part
+of the video, and I wanna
+thank you for watching.

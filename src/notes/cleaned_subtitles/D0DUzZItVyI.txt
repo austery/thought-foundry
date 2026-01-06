@@ -1,0 +1,2059 @@
+- [Producer] Rolling.
+Okay, here we go.
+Peter Leyden, take one, mark.
+- We're living in an
+extraordinary moment in history.
+We are at a moment here in 2025
+where we have world historic
+game-changing technologies
+now starting to scale.
+Artificial intelligence,
+clean energy technologies,
+bioengineering, all here.
+We're at the cusp of a potentially
+a great era of progress.
+But America and the world itself
+are going through huge contortions.
+Old systems of the past are collapsing,
+and new systems of the
+future are still to be born.
+I call this moment the great progression.
+I'm Pete Leyden.
+I've been here in San
+Francisco for 30 years.
+I've basically been following
+the story of technology,
+and its evolution,
+and looking ahead into how
+it's gonna change the world
+over the next 25 years.
+And my current project right now
+is looking at the great progression,
+what I think is gonna be a
+great era of great progress
+from now until about the year 2050.
+- [Interviewer] So Peter, let's start off
+with something nice and straightforward.
+Could you just describe for
+us what was the Long Boom,
+and maybe what pulled you
+into this whole topic of human progress?
+- Well, way back in the '90s
+when the very beginning
+of this digital revolution
+and the earliest days of the internet,
+there was really only
+one place in the world
+that was really all over that.
+And that was Wired Magazine.
+The founders of Wired picked up on me
+as a kind of young journalist,
+as someone who kind of had
+the same kind of sensibility
+about the transformative
+nature of these technologies.
+And so they wooed me to work with them
+in the early days of Wired.
+Now, what's interesting about those days
+in the early part of that
+was people had no idea
+what was even going on
+with the internet,
+and literally what's
+email, what's the web,
+and there was stuff like that.
+They had no idea how
+these goofball startups
+with names like Amazon were
+ever gonna amount to anything.
+There was all these naysayers
+in the mainstream media
+and pundits in the government
+that were saying no
+one in their right mind
+is gonna put their credit
+card on the internet.
+I mean, we had all these
+myths from the Wired era
+of trying to explain
+what was really coming
+in the next 25 to 30 years.
+And so what was interesting
+is I was working with the founders there,
+and we thought in the middle of the '90s,
+there was a point where
+someone had to breathe life
+into what is a digital economy,
+how is it different
+from previous economies?
+How could that scale and
+really make a big difference?
+How could it supersede
+the current, you know,
+conventional 20th century economy?
+And the other thing that was
+going on there beyond this,
+the digital revolution,
+and the beginnings of the internet
+was essentially the
+beginning of globalization.
+And so those two things
+that people at the time,
+the mid '90s had no idea
+what a big deal that was.
+And so myself and a co-author,
+which was Peter Schwartz,
+who was probably the premier
+futurist at the time,
+he and I worked for
+about a year it took us
+to really build out
+what was essentially a famous
+iconic cover story at Wired
+that was called "The Long Boom".
+And it was a history of the future,
+the story from 1980,
+which was in our past,
+to 2020, which was in our future,
+written in the mid '90s there.
+But we told it like we were
+historians in the future
+explaining this amazing era of essentially
+that what we were going
+through at the time.
+Now, not all of it, in the mid '90s,
+you can't predict everything right.
+And by the way, we weren't
+necessarily saying flat out,
+it's a prediction.
+We were saying, hey, these technologies,
+these trends, like globalization
+have the potential to do
+many, many positive things.
+And so The Long Boom was really skewed
+towards the positive possibilities
+of these technologies,
+and this integration
+of the global economy.
+And so what we did lay
+out there, I would argue,
+is largely came to pass.
+And in fact there's a lot
+of ways to measure that.
+And once we passed 2020,
+there was all kinds of stories
+that people kind of
+checking back on our work.
+There were many things that
+were completely nailed.
+We were saying, hey, the
+doubling of computer chips
+was gonna continue under
+Moore's Law for 25 more years.
+And it did.
+When we wrote this, you know,
+there were 25 million Americans
+in the mid '90s on the internet.
+And by 2020, we had, you
+know, 60% of the world.
+It's 4 billion people on it.
+And so anyhow, a lot of the through lines
+of what we were saying happened.
+There were some minor
+things that didn't happen.
+We actually thought humans
+would get to Mars by 2020.
+We thought there was
+enough energy towards that.
+We thought there'd be
+more progress honestly,
+on climate change than
+we ended up in the end.
+But we didn't understand
+the backlash to that
+the way we've actually been struggling
+for the last 20 years.
+But in general, it was
+very much a kind of vision
+that actually people could really see,
+and it really clicked with people,
+and it actually energized
+both the entrepreneurial
+generation that was building it,
+like they were inspiring
+them to fill it out.
+And then it also kind of helped people
+outside the Silicon Valley,
+and outside the Bay Area,
+and outside California to understand,
+oh my God, this is possible.
+And if it's possible,
+maybe we need to get with
+the program and come along,
+- [Interviewer] This isn't a new story
+in America and globally.
+And tell us how often
+these epoch resets happen.
+- Now, to really understand where we are
+and where we're going,
+you have to kind of
+pull back a little bit,
+and understand, at least
+from my perspective,
+how the world works.
+And I think one of the things
+that I think people can
+really underestimate
+is how foundational new technologies are
+to kind of creating essentially
+the context for a new world.
+Now those of us who are in technology
+and those of us who have
+been immersed in it,
+which I have been for
+most of my career now,
+can see clearly these
+kind of incremental stages
+of these new technologies,
+that all successful new technologies
+go through a technology adoption curve,
+that essentially starts out
+with very few innovators trying it,
+and then some early
+adopters who kind of use it.
+Then there's a kind of
+early majority of people
+that start to think,
+oh my god, this is an interesting thing.
+And then the late majority think,
+oh my god, my neighbor's doing this way,
+I'm gonna take on with
+that, and they grab on.
+And then you eventually get to the point
+where you even get the laggards.
+Everybody in the society has to take on,
+let's say, a color TV set,
+because you can't even buy
+a black and white TV set.
+Like all technologies
+have gone through this.
+So those of us have kind of
+are in the technology world,
+have seen this over and over
+and over again with technology.
+And the key piece of
+this is tipping points.
+When do you go from the
+slow, slow build of a thing
+that's kind of clunky
+and not really working,
+and these cell phones don't really work,
+till you all of a sudden
+get an iPhone that goes,
+holy shit, this is the most
+amazing thing in the world,
+and then everybody needs them.
+And what I'm trying to tell you now
+is we are in the middle
+of three tipping points
+that are world historic changes
+that are happening around us today.
+And the most obvious one
+is the arrival of artificial intelligence.
+Literally, this is the
+biggest technological story
+I have ever lived through.
+It's going to go through the
+roof of exponential growth,
+and it's going to hit
+all fields at some level.
+'Cause anything people
+do with intelligence,
+you're gonna have to rethink,
+is the machine gonna do this,
+or is the human gonna do this?
+And then the other thing about it is,
+if the machines do enough
+of it, we're gonna,
+the humans are gonna take the
+machines to augment themselves
+and go to the next level of problems,
+the next level of jobs,
+a whole nother thing.
+Anyhow, that's one tipping point.
+There's another tipping point
+which I won't go into the same detail,
+but around clean energy technologies.
+That solar, which has been
+this incremental thing,
+just like you know, the
+internet or just like AI,
+going through these
+stages of still expensive,
+kind of clunky, not really taken off,
+has taken off big time
+in the last 10 years.
+And that thing is hitting
+tipping points around the world,
+and it is going to exponential growth.
+And there's some other ways
+we can talk about later
+about bioengineering
+and synthetic biology,
+which is more complicated and
+a little bit later than that.
+But it is getting to the point now
+where we can see in the next 25 years,
+we're gonna be able to
+engineer all living things.
+And so these are huge
+shifts in our technology.
+And so getting back to the bigger picture,
+what we're talking about
+is once you give essentially a society,
+an economy, a society, a people
+those kind of technological powers,
+it starts to essentially force
+a transformation of the economy, society,
+and just how things work.
+And so the old system, how we did it all
+through the 20th century,
+and how it had worked really well,
+and how all these people
+were kind of tied into that
+are essentially invested in that thing.
+But that thing is getting dysfunctional,
+it's getting along in the tooth.
+And this goes everything from
+carbon energy technologies,
+which is causing climate change,
+to essentially government bureaucracies
+that can't work like they did, you know,
+over the last 80 years
+getting increasingly difficult to work.
+So you're watching an old system
+being essentially dismantled
+or having to come down,
+at the same time
+as we're taking off on
+these new technologies
+to build the next systems.
+We're in the middle of that.
+Right now is smack in the
+middle of that in our era,
+but we've also seen this
+in American history before.
+There's been other areas
+where this exact thing has happened.
+We can kind of learn from
+them if we look back.
+There's been three previous junctures
+where Americans have found
+themselves in this exact place.
+Now that's not to say it's common.
+Like you know, this is 80 years
+ago last time we saw this.
+And they tend to come
+in these 80 year cycles.
+Many people might think, why 80 years?
+What happens every 80 years?
+Now, there's a lot of
+things going on here.
+One is there's usually a
+set of new technologies
+that are ready to take off
+that are essentially
+not under development,
+but are essentially about to scale up.
+And that you can go back in history
+and show how that happened
+in every one of these 80 year junctures.
+There's also a kind of economic reason
+of how essentially economies
+boom into long booms
+of technological booms,
+but also economic booms
+and then they die out.
+But the one of the main reasons
+is essentially that
+comes up to a essentially
+a changing the guard of generations.
+And so there are some
+lessons you can learn,
+some patterns you can see there,
+and some lessons we could learn
+that'll help us kind of understand
+what's really going around today
+and what we need to do going forward.
+The last big one was coming
+off World War II, 1945.
+It is exactly 80 years ago
+from 2025 where we are here.
+80 years ago, America was
+on a very similar parallels.
+And there's a bunch of
+parallels around this.
+One, we had basically were watching
+the essentially dismantling
+of the old world
+that had been working pretty well,
+the economy and societies of the west.
+There had been a wave of new technologies,
+there had been a boom around that.
+And then there had been a crash
+in the great crash of '29,
+and you would run into the
+Great Depression of the 1930s.
+Now what that was was the old
+system of running the economy
+just wasn't working.
+Huge inequalities, all these
+kind of problems around that.
+So you were watching essentially the need
+to fundamentally reinvent the economy.
+But before we get to the new system,
+you get to the other pattern
+of all these junctures.
+You get extremely high
+passionate politics.
+And so what happens is
+you watch these junctures
+in American society,
+we get super polarized around two visions
+of essentially the way to go forward.
+One is let's hang on to what we did,
+or go back and make America
+great again the way we did.
+And there's another crew that says,
+no, we gotta move forward and innovate
+and be more progressive,
+and kind of drive another progressive era.
+And those junctures happen at these times,
+and it gets extremely conflictual.
+And to be fair, the 1930s in America,
+people forget this part of America,
+but there was an America first movement
+that really took over
+the Republican Party.
+There were essentially
+American level fascists
+in the '30s,
+and we were on the verge
+of kind of violent conflict in America.
+And then you had this kind of FDR,
+and the kind of new deal coalition
+that was kind of came
+out of the Depression
+that was pointing towards
+a kind of different way
+to run the economy and
+the society post-war.
+And they started to get traction.
+But anyhow, we had resolve
+this political tension in America,
+and frankly it had to do it in the world,
+because the world also is
+going through this juncture.
+And after the war though,
+we watch the updraft of the next system.
+And this is important to
+know, yes, there's conflict,
+yes, there's this kind of
+collapse of the old system,
+but what's amazing about these things
+is they have bursts of
+unbelievably widespread innovation
+that lasts for, what
+do you know, 25 years.
+And so from 1945 to 1970,
+we watched the great post-war boom,
+many people call it the kind of
+high point of global capitalism.
+And you built this crazy economy
+where you did many things
+that were completely different
+than the previous era.
+Tax the rich at 90%.
+You watch incredible investment
+in public infrastructure
+like the interstate highway
+system and building suburbs.
+You basically watch the
+GI Bill in education,
+building higher institution
+for higher education,
+expanding it for the Boomers,
+all that kind of stuff.
+That all happened in 25 years.
+The Great Society, the
+whole thing, 25 years,
+and then we ran in the '70s,
+it started kind of getting
+along in the tooth,
+and it wasn't kind of the
+boom started running out.
+Stagflation, oil shocks.
+But here's the point,
+that was a good example.
+Within recent memory of, let's say,
+my mother who is in that older generation,
+where we watched a very similar thing.
+All three of those pieces,
+old system had to come down,
+and got, wasn't working,
+super conflict around it.
+And ultimately the building of a thing
+that was dramatically
+different than before.
+We've been through that before.
+And funny enough, like I say,
+if you go another 80 years back,
+we did it once a time before that too.
+So from 1945, you go
+back exactly 80 years,
+and it's 1865.
+What is 1865?
+It's the end of the American Civil War.
+Now this is a good example of
+how passions run very high,
+and political conflict is
+extreme at these junctures.
+In the Civil War, it was the most extreme.
+I mean we literally had to have
+750,000 Americans died in the Civil War.
+I mean, you talk about,
+you know, you think,
+hey, it's a little edgy now,
+and we're a little worried about
+political violence breaking out.
+Yeah, we've been there.
+I mean we've seen how that happens.
+Now, what was going on there?
+This is the probably the most
+easiest way to understand
+the old systems failing,
+because America, since the founding,
+had been in tension with
+these two economic systems.
+One was essentially a system
+of the early manufacturing economy
+where you needed free labor in the north
+essentially to create an
+economy that's, you know,
+reminiscent of what we still have now.
+But in the old South, we
+basically had slavery.
+And yes, there was a human
+rights aspect to that,
+but really it was an economic thing,
+which is the powers at be,
+political people and
+economic powers of the South
+were absolutely dependent on slavery.
+They could not survive together.
+We had to bring down finally and fully
+essentially an economy
+that was essentially based on slave labor.
+There was immoral reasons for that,
+but there was an economic reasons for it.
+We had to stop that.
+And when we decided to do
+that, which is in the 1850s,
+it started getting clear that
+we're gonna have to do this.
+One side, the South side
+essentially seceded.
+They said, no, we're not going there,
+we're not gonna give it up.
+We're not gonna let go of this old system,
+we're gonna fight to
+the death on the thing.
+And they wanted to secede.
+And then when we wouldn't let 'em secede,
+they basically, we had the Civil War.
+And so this is a good example.
+There's a similar system
+that has to go down,
+in our era, I'll just say,
+and let's just call it, carbon energy.
+We cannot keep carbon energy going
+the way we have for the last 250 years
+of the Industrial Revolution
+without destroying the planet.
+And so what you're seeing through the lens
+of that same kind of system
+that must be dismantled,
+you're watching the similar resistance
+of anyone rooted in the oil economy,
+whether it's oil petro-states,
+whether it's regions of the country
+that are rooted in that
+in some of the red states
+in the United States.
+Whether it's, you know,
+political platforms
+of like, you know, trying to
+kind of deny climate change.
+The same thing is, it's
+a similar kind of thing.
+It isn't quite to Civil War now,
+but you can see how old systems
+that have to be dismantled,
+there's a lot of people invested in that
+are very resistant to shifting.
+And so that we saw it in the Civil War.
+Now the thing that people do
+not know about the Civil War
+don't really remember as
+much about the Civil War
+is the Civil War after 1865
+had an unbelievable explosion of progress
+that lasted for, what
+do you know, 25 years.
+The what they called the
+the Republican Party,
+which was the progressive
+kind of side of that conflict,
+not the conservative hold the
+old thing, but move forward.
+They passed some just
+unbelievable landmark legislation.
+For example, the Homestead Act,
+which is you gave
+anybody who went out west
+to 150 acres, for free.
+If you just went out there,
+and basically helped tame the west.
+There was also land grant universities
+where they essentially
+all these little states
+started building institutes
+of higher education
+to educate average people
+beyond the kind of
+Harvards of the East Coast,
+but also to be pushing
+scientific understanding
+of agriculture growing.
+So there was a lot of governmental-driven
+but also economic kind
+of progress in that.
+But there was, here's the other
+progress that was going on.
+It was technology.
+The technology of that time
+was essentially, think of it,
+one of them is trains.
+Before the Civil War, we had
+trains just like, you know,
+we had computers before the internet boom.
+There are these beginnings
+of these technologies,
+but it was only in the Civil War
+when we started to realize,
+holy shit, we could
+really scale these things.
+It was only after the war
+that America blew out
+like 175,000 miles of rail
+and essentially stitched the
+entire continent together
+across the whole continent,,
+and stitched every town and everything,
+cut together with this, you
+know, steel-based rails.
+And essentially we rebuilt America,
+we reinvented America
+in the next 25 years.
+And here's the even crazier thing though.
+You go back another 80
+years, we did it again.
+So you go from 1865, which
+is the end of the Civil War,
+and you go back 80 years.
+The late 1780s, we essentially
+started a 25 year boom.
+And when you say boom, it's
+like a technological boom,
+it's an economic boom.
+It's essentially upward swing
+of a lot of widespread innovation
+that America went through
+coming off the Revolutionary War
+to create the world
+that by the end of the Founders Era,
+after Thomas Jefferson had already been
+a two term President and
+all that kind of stuff.
+By the kind of, you know, 1810, 1815,
+we had created what is America,
+which kind of was then rolling
+until the Civil War period.
+So there was this kind
+of creation at that side,
+and then there's another thing about it
+that people forget is there were loyalists
+in the fight around the Revolutionary War.
+There was a significant
+amount of Americans
+who were loyalists, who
+were fighting for the Crown,
+who were fighting for the British.
+And that had a lot to lose
+because they benefited
+from the colonial situation
+that essentially had been the system,
+the old system of that time.
+And that it was the revolutionary
+side of the Americans
+who were trying essentially
+the progressive side
+that had to fight in the war.
+I mean, we had Americans
+on the British side.
+I mean, we had real debates on this thing
+on a fundamental level.
+And that political debate
+got settled in the war,
+and then we basically started
+the building of America.
+So it was really one way to understand
+what was happening in America at that time
+was it was part of a bigger
+part of Western Europe,
+and particularly an extension of Britain,
+which was going through the
+enlightenment at the time,
+that essentially has global implications.
+It was a fundamental system change
+from a feudal society,
+kind of dominated by the Catholic church
+and all kind of stuff,
+into essentially what
+we would now consider
+the modern world.
+And they invented six huge things
+that we still are working within today.
+One was they invented mechanical engines.
+I mean, that was essentially,
+we essentially could
+amplify human physical power
+like never before
+by essentially harnessing steam engines
+to kind of scale up our powers.
+That was huge.
+The second thing we did
+is we essentially invented
+large scale carbon energies,
+mining coal to actually
+create giant furnaces
+to kind of create an
+industrial production.
+That was a breakthrough,
+and we've gone on to coal,
+natural gas since then.
+Third thing is industrial production.
+For the first time we were able
+to scale at unbelievable scale,
+essentially the production
+of industrial goods,
+which has essentially created
+the prosperity and wealth
+of the world that we know now.
+We also invented financial capitalism.
+Before that time, people
+couldn't take money,
+their little gold pieces,
+and they never, they
+couldn't trust sending it
+into somebody in another
+country that would,
+you know, protect that thing.
+There was no financial capitalism
+until essentially Great
+Britain invented it.
+And you had a trustworthy system
+that investors could
+actually put their money
+due to the scale of the
+Industrial Revolution.
+The final two things
+were the nation state.
+You know, before that, we had
+empires and colonial things,
+but we didn't, colonies,
+we didn't have the nation state
+system which they created.
+And the final one was
+representative democracy,
+which we've mentioned how
+the United States did that.
+Now the reason I'm kind of saying that
+is that had world historic
+kind of implications.
+That was a building of a civilization,
+that was an integrated civilization
+that the world had never seen before,
+that we essentially invented, we humans,
+but we, western Europe in
+basically a space of 120 years.
+America took the mantle
+at the end of that,
+the late 18th century, 1776 and 1780s,
+kind of rolling into the 19th century.
+The forward motion of innovation,
+essentially from the west
+was coming with those crazy ass Americans,
+who had this wide open
+continent to spread it to,
+and had this crazy opportunity
+to just do whatever the
+hell they wanted to do.
+They didn't have a aristocracy,
+they didn't have the whole place
+owned by the old rich that
+have been in for centuries.
+They had a lot of open space
+to just create and innovate
+and create new things.
+And that is what America's role
+has been vis-a-vis the West
+in every one of those epics.
+Then Europe followed
+and kind of emulated and
+had their own welfare states
+and various things,
+and they did, you know, enough innovation.
+I don't want to say it was all America,
+but America was the 800 pound gorilla
+in driving innovation going forward.
+I'm arguing, we're, we have
+one more crank of that wheel.
+And I think the place to look right now
+for this next big innovation,
+this next reinvention,
+not just of America,
+but potentially
+civilizational scale invention
+is gonna basically come out of America.
+Again, it's not 100% true,
+there's a lot of drama
+and difficulty right now,
+but I would say if you had
+to compare us to China or others,
+I think what you're gonna see
+is America going through one more level
+of that scale of change.
+- [Interviewer] That actually drives us
+right into this next sort of second part.
+Let's get into the future
+that we are sort of currently living in,
+whether everyone realizes or not,
+let's start with the one
+that we are seeing and
+hearing about constantly,
+which is AI.
+- We are in the middle
+of three tipping points
+that are world historic changes
+that are happening around us today.
+And the most obvious one
+is the arrival of artificial intelligence.
+The arrival of generative AI
+with the arrival of ChatGPT
+3.5 in November of 2022.
+I think we're gonna see that
+as a world historic moment.
+I think people will look back
+on that is the starting gun
+of what will be understood
+as the age of AI.
+And I use age in a very,
+you know, explicit way,
+which is when you talk
+about a different age
+that humans enter,
+like, oh, the humans, you know,
+entered the Bronze Age or the Iron Age.
+I mean you're talking about essentially
+a fundamental game changing
+technology, a breakthrough,
+a step change in our abilities
+that once you cross that
+threshold, you don't go back.
+You're always going to incorporate
+and always gonna use these technologies,
+and it's going to essentially
+fundamentally change the world.
+AI is essentially the
+culmination, I would argue,
+of the entire digital revolution
+that goes back to mainframe computers
+in World War II actually,
+it's really the start of
+computing, mainframe computing.
+AI is now the cherry on the top.
+It's like the last thing
+we really needed to do
+was to harness all that technology,
+harness all the digitization,
+everything, harness the cloud,
+harness all the things
+we did over those years,
+laying fiber optic cables,
+and wireless networks, and everything,
+to kind of come to the point
+where now the computers
+can actually think,
+they can interact with us via voice,
+and they can do things that
+we could never do on our own.
+So anyhow, that is a big deal.
+I just wanna say, and I think if you,
+once you kind of grok
+that or really get it,
+you realize,
+oh my god, we could start applying
+intelligence to everything.
+And we are gonna start
+this crazy sorting process
+between humans and machines now.
+That boring stuff or things
+that are essentially humans are,
+you know, really don't wanna do,
+are gonna be done by machines.
+And we're gonna take
+it and invent new jobs
+that are gonna use that
+capability to augment us
+to kind of do new things that
+we didn't think we could do,
+and scientific breakthroughs
+we never thought we'd see.
+Anyhow, there's a bunch
+of sorting going on here,
+I don't wanna go into those details,
+but the point is, it's a huge
+deal that we're crossing here.
+And I think because of that,
+we have to be thinking
+extremely expansively
+of what's possible now.
+And one of the things
+I think that's gonna,
+we're gonna talk about
+in a recurring fashion
+is this idea of abundance.
+One thing you can say about AI
+is it is a technology with the potential
+to create incredible abundance.
+And I can explain why in many respects,
+but let's just, I'll give you one example.
+Every knowledge worker
+and basically every person
+is essentially gonna
+have a digital assistant,
+essentially like an executive
+assistant who's virtual,
+essentially AI.
+Now, you could say, well rich
+people or wealthy people,
+or you know, CEOs have always
+had executive assistants.
+In fact, I've had three startups myself,
+the first person I hire
+as an executive assistant
+to kind of solve all the
+stuff I don't want to do,
+and scheduling, and all this
+stuff you have to solve.
+But you give it to everybody and you say,
+oh my god, we're all gonna do this,
+it'll cost you 20 bucks a
+month or something like that.
+But here's the thing that's
+interesting about that.
+It's like that's allowing average people,
+everybody to get the same thing
+that the people at the top,
+the kind of elite scarce
+kind of commodity,
+essentially used to be a
+human executive assistant.
+You had to come up with, you know,
+about 150 grand or 100 grand essentially
+to get someone to do that every year,
+as opposed to 20 bucks a month.
+So it's essentially
+creating an abundant system
+of executive assistants.
+Same thing with tutoring.
+You know, those same executive assistants
+are gonna be essentially
+tutors for everybody.
+Everybody, every kid.
+Now you say, well you
+know, human, you know,
+rich people have always had, you know,
+tutors for their kids, you know?
+You need extra help on
+SAT scores or whatever,
+you get a tutor.
+What you're paying them through the nose,
+but you know, if you have
+money, you have money.
+If you get a digital tutor,
+for every kid starting from scratch,
+even it costs 20 bucks a month,
+essentially you've opened
+up tutoring to everybody.
+I mean, there are so many positive things
+about AI potentially happening.
+Let me just give one of them
+that's already happening
+is simultaneous language translation.
+American English has become essentially
+the lingua franca of the 20th
+century in the modern world.
+But still you needed
+a business class college-educated strata
+from all these different societies
+to actually learn the language
+and be able to talk that
+language of kind of English
+that connect around the
+kind global economy.
+But that leaves off a
+unbelievable amount of people
+who can't learn English,
+or don't learn English,
+or aren't educated, or
+can't go to college,
+or whatever it is.
+Until now.
+'Cause now, as you've seen,
+everybody, you know, the AI's
+talking to you in English
+if you're speaking English,
+but it's talking, you know,
+Chinese to the Chinese,
+it's talking, you know,
+Hindi to the Indians.
+I mean, it's basically doing it all,
+and it's doing it about
+90, 95% accuracy now.
+We'll be able to have earbuds,
+you go traveling with earbuds,
+you're just gonna have an earbud on,
+and whatever that person
+and street vendor says,
+you're gonna understand it.
+You're gonna be asked to talk
+to them about their family,
+you're gonna go home with
+them, see their kids.
+I mean, that's the level of
+integration in the world here.
+So instead of a power of Babel,
+we're gonna have this cross connection
+of all those cultures, all
+those kind of societies,
+and it's just gonna be a wild time.
+Now, it's also gonna throw a
+lot of unintended consequences
+and who knows what.
+Yeah, I know for a lot of people,
+particularly Americans are scared of AI.
+In fact, weirdly, Americans
+are more scared of AI
+than other countries.
+Like Chinese, for example,
+have huge majority,
+like 60% or more are
+very positive about AI.
+In the United States,
+the positive people of AI
+are something like 35%.
+It's about a third of Americans
+think it's a good thing.
+Third of Americans think
+it's a horrible thing,
+and about a third in the middle
+just don't really know yet.
+But the point being is
+there is a lot of fear,
+and there's a lot, and partly I think
+it's around a misunderstanding
+of what's going on.
+The second thing at why is this happening
+is the media, I think, is very reactive.
+It's very fear mongering, it's, you know,
+freaking people out by these distortions
+of these risks and things
+that are essentially are solvable
+but essentially make 'em unsolvable.
+So there's a lot of fear and worry
+about what's going on here.
+But I think one of the
+things that needs to happen,
+and I'm trying to do,
+but there's a lot of people
+increasingly are gonna do,
+is show the unbelievable
+positive potential
+of this stuff.
+And I will say, every introduction
+of every world changing
+general purpose technology.
+And fire, you know, electricity,
+all of them come with risk.
+I mean, when we first invented
+electricity, you know,
+wow, it lit up a house,
+it lit up the street,
+and you know, it's like,
+wow, power's this thing called a radio.
+It's like, this is awesome,
+but if you touch the wire, you're dead.
+And so there were people like,
+oh, can't do electricity,
+that's gonna screw us up.
+And so there's always been these risks,
+but we always kind of figure out
+how to innovate to contain the risk,
+and then institutionalize it to the point
+where like every room on the
+planet now has electricity,
+and we don't even think about it.
+It's not even thought of as dangerous
+because we have codes,
+and we have all kinds of ways we do this.
+Let me just create another parallel here,
+which is when we, why do we
+call it the enlightenment?
+When you go back in the past
+there, that enlightenment,
+the enlightenment is essentially
+was an opening up of the lens
+of what we understood about the world.
+Because we had array of new tools,
+everything from
+microscopes, to telescopes,
+and all kinds of things
+that opened up the world.
+So we said, oh my god,
+we actually, you know,
+are kind of, this is how blood cells work,
+or this is, I mean there
+was all that kind of level
+of fundamental expansion and enlightenment
+of what do we understand about the world,
+which kind of drove this crazy explosion
+of innovation and enlightenment.
+So here we are in our era,
+and you got AI.
+I mean, AI is going to not
+just supercharge innovation,
+it is going to dramatically expand
+what we understand about the world.
+It's already happening.
+In fact, you can kind of
+see these various examples
+of how just in the last year essentially,
+we applied AI to one of the most difficult
+scientific problems
+of how do we understand
+the protein folding
+where from a genetic code,
+how does it get expressed in
+three dimensional proteins?
+Humans have been trying to
+wrap their head around that
+for 50 years and been completely stumped.
+And we put our AI on the task
+and essentially blew open,
+it took every gene and
+explained every dimension
+of every protein that's possible.
+There's like 250,000
+of them just overnight.
+I mean, so that's just
+one scientific advance
+that just has already happened
+in this early crude form of AI
+that essentially is just
+a taste of things to come.
+We are gonna understand our world in ways
+that we absolutely were just,
+we will be boggled by like,
+holy shit, how did we not know that?
+Or all the kind of things
+that's gonna happen.
+And so there is a sense of essentially
+creating a new kind of enlightenment.
+Maybe the new new,
+our new enlightenment is
+one way to think about it.
+And I think AI's gonna
+be one of the players.
+But there'll be other examples of this.
+But essentially we're
+gonna watch an explosion
+of amplification.
+The amplification of our mental powers
+with digital computers, and now AI,
+are gonna be very similar
+to the amplification
+of our physical powers,
+that mechanical engines initially by steam
+essentially amplified our physical powers,
+we're now amplifying our mental powers.
+And that's gonna create
+another one of these
+enlightenment situations
+where we're just gonna say,
+holy shit, we had no idea
+this is the world we're in.
+So there's another world historic
+breakthrough in technology
+that we're in right now.
+And I think I want to just drive home,
+how world historic this is,
+and is tipping point time.
+And that's clean energy technology.
+And I think what people underestimate,
+they hear of clean energy technology,
+and they hear of renewable energy,
+and they hear of solar,
+and they kind of understand electric cars,
+and they kind of get the
+gist of what that is,
+but I don't think they understand
+how revolutionary this is.
+This is the first time
+we have an energy source
+that is a technology, 100% a technology,
+not a commodity.
+We don't have to dig it up as coal,
+we don't have to tap into it as oil.
+We don't have to get plutonium
+and put it in a kind of thing
+to kind of create nuclear energy.
+Those are using commodities
+that you have to keep shoveling in
+for the whole life of
+these kind of plants.
+And that also has,
+and we've seen it particularly
+around carbon energy
+has a lot of secondary consequences.
+It basically kind of, it releases carbon,
+and is changing the climate of the planet,
+which is unambiguous now, it's happening.
+But now we've got solar,
+which is 100% a technology.
+It doesn't need anything
+else once you create it,
+and it becomes, and you can create energy
+for the lifetime of that solar panel,
+which is at least 30 years,
+sometimes up to 50 years.
+Why is that important?
+Because once it's a technology,
+you can consistently drive down the cost.
+And there's a kind of a rule
+of thumb in manufacturing,
+which if you double the number
+of essentially anything, really,
+but let's just take it
+in terms of solar panels.
+If you double the number
+of producing solar panels,
+you will come up with about
+20% of a drop in cost,
+because you'll understand through
+that manufacturing process
+and the level of scaling,
+and the kind of incremental
+kind of improvements,
+you essentially can keep
+driving the cost down.
+And so what we've watched
+is over the last 40 years,
+basically since the '70s,
+we've watched essentially this
+initiative was dramatic drops
+and it's just consistently going down.
+Here's the point, it's not stopping.
+It's gonna keep getting cheaper,
+and cheaper, and cheaper.
+It is already by far,
+if you create right now
+an electric power station
+on solar compared to coal,
+the solar is half as expensive,
+half as expensive now,
+which is why nobody in their
+right mind in the United States
+is building a coal plant,
+or in the entire developed world, frankly,
+is because it's cheaper now to do solar.
+It's just surpassed getting
+cheaper than natural gas.
+Particularly, I mean in
+certain parts of the country,
+particularly California, Texas,
+all kind of with a lot of sunshine.
+And this is the point, it's not gonna,
+it's gonna keep getting cheaper.
+And the same thing, flipping around,
+the same thing with electric cars.
+People think, well electric cars
+are still expensive and whatever.
+You're not thinking this through,
+because battery technology
+is the same thing.
+It's essentially a technology.
+And we have watched in the last 30 years,
+we've watched 100% of the
+cost of batteries go down
+in the last 30 years from the '90s.
+It basically, it's 100% down,
+and it's going cheaper,
+and it's, that's in lithium batteries,
+we're now getting whole nother
+generations of batteries
+like solid state batteries
+that essentially will be a
+next generation batteries.
+Well and also a point
+about this electric thing,
+the reason we have these tariffs
+on Chinese cars right now
+is Chinese cars, electric cars,
+you can get 'em,
+kick ass cars for like 20,000 bucks now.
+They're already cheaper than
+internal combustion engine.
+50% of new cars in China
+are being sold right now
+are fully electric.
+In California, we got about
+25% fully electric statewide.
+And in San Francisco and places
+like that, it's about 50%.
+So there are parts of America
+that are trying to play
+the game that China is,
+but the rest of America is laggard,
+and now you got Trump and others
+that are kind of
+dismantling the whole thing.
+That's just kind of nutty.
+But the point is the market,
+the forward motion of costs
+coming down on clean energy
+is just beginning.
+And when that happens,
+you're gonna have what?
+Abundant clean energy.
+And so we are in entering
+the next 25 years,
+we will be able to create energy
+at scales we couldn't expect before
+with no impact on the
+environment, or very little,
+certainly on carbon energy.
+And we'll be able to do things
+like desalinate ocean water,
+which is extremely energy heavy.
+And up until now,
+the trade off of like doing
+that with carbon energy
+was not useful.
+It was too big a trade off.
+But if you had a lot of
+cheap abundant energy,
+it was kind of trade-offs
+are are kind of different.
+And with climate change
+and others, you know,
+maybe if we start
+running out of, you know,
+California's running out of water
+from the rains coming off the Sierras,
+maybe we actually just
+shift to desalination
+using this kind of new
+clean energy technology.
+So anyhow, there's a different way
+of thinking about the next 25 years.
+Abundant clean energy.
+So there's our two big abundants there.
+So the average person's earliest exposure
+to what you would call bioengineering
+essentially has come
+through initially GMOs,
+genetically modified foods.
+And there was a big backlash to that
+for a while in the United States,
+and particularly in Europe honestly,
+because we were, we could understand
+how to deliberately engineer,
+manipulate the genomes of crops
+to get more nutrition in them,
+or to make them more resistant to drought
+and things like that.
+But there was essentially a backlash,
+an initial backlash by the
+environmental movement,
+which I would say, was misplaced.
+And that essentially is
+we're gonna be overridden
+as the problems of climate change amount.
+But essentially, people have
+already seen a version of this
+that we could do.
+But I think what's gonna
+happen very shortly
+is the pressures of climate change
+are gonna be such that it
+is going to be imperative
+that we rely on genetic
+engineering for our crops.
+It is going to need to withstand
+way different kind of
+changes in temperature.
+We're gonna have to shift
+all kinds of climate changes,
+things that react to, it's
+gonna have to be more robust,
+it's gonna have to be,
+maybe won't be able to
+scale as much farmland,
+and you're gonna have to have
+things much more nutritious
+or more packed with more vitamins,
+or all kinds of things that you could do.
+And we can do.
+Let's go back to what I
+mentioned in the enlightenment,
+that there were six big meta inventions
+that we're still living within today.
+One of 'em was industrial production.
+And many, many positive
+things came out of that.
+That essentially is the reason
+we have the modern world we
+have today in many respects
+is dependent on industrial
+production at scale.
+But the problem with
+industrial production,
+just like the problem with clean energy,
+you know, carbon energies
+screw up the climate.
+Industrial production
+screws up the environment.
+And you just take one example.
+You know, plastics.
+You know, plastics are
+an industrial production.
+It's basically rooted
+in petrochemicals too,
+but essentially the
+creation of plastic bottles.
+Well, you know, anyone
+who's got even mildly open
+to watching the news is talking.
+We're just overrun by
+plastic bottles, you know?
+The rivers in the third
+world are chock full of 'em,
+the oceans are full of 'em.
+We've got microplastics now breaking down,
+and you know, kind of in all our food
+and all kinds of, it's like
+that is a fricking disaster.
+Industrial production,
+that's just plastics.
+I mean, there's a million
+other industrial productions
+that essentially create
+incredible toxic waste,
+and all kinds of stuff over the planet.
+So industrial production is
+going to be generally superseded
+by biological production.
+And this is the kind of shift here.
+So industrial production was essentially
+based on engineering,
+inert dead materials.
+We dug up materials, we, you know,
+various ways that we
+essentially manipulated,
+designed and engineered products.
+Biological engineering is essentially
+engineering living things.
+We essentially grow materials,
+we grow new products.
+We essentially have a bottle
+instead of a plastic bottle,
+you design and you
+essentially create a bottle
+that is biologic,
+which is based on living processes
+of biodegradable materials.
+So you create a material
+that can hold your
+Pepsi cola or something,
+for the, you know, sitting in the store.
+But if that thing gets
+thrown in the ocean,
+and it's exposed to salt water,
+it essentially dissolved within two weeks.
+Or if it's exposed, thrown
+out of a window of a car,
+you know, going through the desert,
+and it's exposed to UV light
+for two weeks straight,
+it'll essentially start to decompose.
+I mean, this is the way nature works.
+This is where, you know,
+this is how the planet works.
+And we are on the verge now
+of understanding those
+processes deeply to the point
+where we can, humans can
+engineer these processes
+and at scale.
+Second thing is a good example
+that people have already
+heard a little bit maybe about
+is what they call cultured meat.
+Because our understanding of biology,
+and because of essentially
+synthetic biology
+of how do we artificially
+do things that nature does,
+we now know how to take a
+cell out of a cow, or a pig,
+or a fish, or whatever
+living animal we want to eat.
+You can take that cell and
+you can put it in a vat,
+and you can give it the same amount,
+the same amino acids and
+the same kind of nutrients,
+and the same things that a
+cow roaming around a field
+for like years chewing on
+grass for, you know, ever,
+would get those same nutrients,
+those same amino acids,
+and essentially would produce
+in their muscles, the meat.
+That same thing can happen
+in a vat with just energy,
+and those same materials
+at a much more efficient,
+dramatically more efficient,
+like 70% more efficient way
+of doing this to actually grow
+these same cow cell into actual meat.
+Not like kind of meat,
+not like plant-based meat
+that's kind of like meat.
+It's meat, it's the same cell,
+it tastes exactly the same.
+And we are, it's actually,
+the breakthroughs have already happened.
+It's still quite expensive
+like many technologies,
+but it's happening particularly
+around chicken now.
+You can actually get, even
+in the United States now,
+there's actually a few
+places you can start to get
+these kind of cultured meat.
+Now one of the reasons
+that this is important
+is this also has a big climate component,
+because cows are horrible,
+beef is really bad for the environment.
+They kind of release an
+incredible amount of methane.
+It's an incredibly inefficient way
+to create meat, to scale meat up.
+It takes a lot of time, it, you know,
+ruins a lot of environment.
+I mean, anyway, there's people
+that you can kind of get in the
+weeds on that kind of thing.
+But the point being is as
+we see climate change mount,
+and as we see, by the way,
+the wealth of the global population build,
+people are gonna want to eat meat.
+And so I am the projections,
+I've seen that by 2040,
+you could see a good section,
+maybe 30% of the world's
+meat will be cultured meat.
+And it doesn't mean you're
+gonna get a, you know,
+there'll still be a way to get,
+the elite to get an nice
+slice of beef or from a cow,
+a real cow.
+But essentially, it'll be
+all McDonald's hamburgers
+will be that.
+Any of the kind of just day-to-day meat
+that goes into spaghetti
+sauce or something
+is gonna be cultured meat.
+It'll taste the same.
+So this is a huge breakthrough.
+Again, this is based on the technology.
+You gotta get grounded in technology.
+And what's happened,
+we've only 25 years ago,
+it's like 2003 was the first time
+humans had ever cracked or understood
+the human genome.
+Took $3 billion, and it
+took 15 years to do it.
+But it happened by, I think it was 2003
+when it finally happened.
+The cost of doing that from 3 billion
+have now, by 2020, had
+been driven down so far,
+it was 1,00 bucks.
+It is now at about, this is 2020,
+it's now at the point
+where it's about 100 bucks.
+And eventually it's
+gonna keep driving down
+to 50 bucks or nothing.
+That drop in price from 3
+billion, to 1,000 bucks,
+to 100 bucks, to, you
+know, to today essentially,
+is twice as fast as the cost reductions
+that came from Moore's Law
+in terms of the drops of
+the price of computer chips,
+which drove the digital revolution,
+I just, we went through, The Long Boom.
+And that is essentially
+what's happening now.
+It's dramatically faster.
+There's a bunch of reasons for that,
+but just know it's not
+just the same level,
+it is twice as fast.
+Here's the other thing that's going on.
+Basically right around the
+time that we essentially
+had our earliest breakthroughs
+on this most recent AI,
+essentially generative AI,
+which is about 15 years ago,
+we also had the big breakthrough
+in what they call CRISPR,
+which is essentially genetic engineering,
+which is we figured out a
+way to cheaply and easily
+edit the genome of any living thing.
+And here we are, that now
+it's being used all the time
+to kind of edit and change the genomes
+of plants, of animals.
+And if we wanted to, it could be humans.
+So there is essentially, we're
+on the cusp of a situation
+where we can now design living things.
+Now, there's a lot of
+moral issues around that.
+Gotta freaks people out.
+And there's a lot of people
+are gonna have a hard time with this.
+But we have the ability to do that now.
+We have the tools, we have the knowledge,
+we understand how to do this.
+This is where the word,
+synthetic biology comes did.
+Synthetic meaning humans create a fake,
+essentially a human-driven biology.
+We are now, because we know
+the how the genes work,
+we understand not just that,
+but we understand proteins,
+we understand all kinds
+of things about the cell
+we didn't know just decades back.
+We can now essentially design
+these things for outcomes
+that we want to happen to,
+let's say, make a tree
+that is super strong,
+and could replace steel
+in certain buildings.
+Or to kind of, you know, a
+super fire resistant essentially
+so that, you know, we
+don't have to worry about
+wildfires around cities or something.
+You can engineer viruses or bacteria
+to kind of create new
+kinds of synthetic fuels
+to kind of power planes.
+I mean, that would not be carbon,
+and wouldn't actually have
+the same kind of release of
+carbon into the atmosphere.
+Anyhow, there's a bunch of new frontiers
+in what they call synthetic biology,
+or just I call in general bioengineering
+that essentially are now
+opening up in this century here.
+In the next 25 years,
+we're gonna watch a plethora
+of these things expand.
+Now here's the one thing about it,
+it's a little bit slower
+than these other two.
+AI is here and going fast,
+clean energy has already
+had a great decade
+of starting to scale, and
+it's just unstoppable now.
+And this one is a little bit later,
+but I think in the space of 25 years,
+it's worth really
+wrapping your head around,
+what could we do with that?
+How could we reinvent healthcare?
+How could we do all kinds of things,
+that would be, again,
+a more abundant future.
+If you knew everyone's genome,
+and you had AI that can monitor
+every individual all time,
+you could potentially dramatically
+drop the cost of healthcare.
+And so everybody in real
+time essentially be monitored
+and have a daily doctor check
+in a way that as opposed to
+once a year, you can do that,
+and when you do, it's
+cost you an arm and a leg.
+So we are on the verge
+of these technologies
+could bring a society and
+an economy of abundance,
+and it's just really underappreciated
+by the general people out there.
+- [Interviewer] All right,
+so final question on the topic here,
+and this, really, I
+think you could think of
+as your kind of conclusion
+statement, which is, you know,
+what are people from the future gonna say,
+looking back at this era?
+- So the technology story of today, 2025,
+that I laid out to you about AI,
+clean energies, even bioengineering,
+is kind of familiar at some level.
+You can kind of get that,
+whether you fully understand
+the forward motion or not,
+it's understandable.
+The next several iterations here though,
+I think is a putting a bigger lens
+on what's going on today.
+And it gets us back to
+what we were describing
+as what's happening in America,
+is a once in an 80 year reinvention.
+And in fact it's even possible
+that what's going on here is essentially
+the early days of building
+a 21st century civilization.
+And so when you think about that,
+you go beyond the technology,
+that's like the foundation,
+that's the groundwork, that's like,
+okay, that's the tools
+we have to work with.
+And so the next thing up, I
+think, from the technologies,
+you start thinking,
+okay, well what could you
+build with those technologies?
+What kind of an economy
+would you wanna build?
+And again, it's not obvious or inevitable
+that these technologies end up
+with any particular economy.
+The economy is built by
+human beings coming together,
+and fashioning essentially a system
+that works for the
+largest number of people,
+if that's your kind of values,
+or works for kind of driving
+more kind of progress.
+Anyhow, that's a value-laden
+kind of system building exercise.
+And I think what's going
+on now in the world,
+if you look around us
+is we're in one of those reinventions now.
+And let's just keep the,
+kind of keep the lens on
+America for right now.
+The system, the economic system
+that the United States has been based on,
+neoliberal, or however you wanna frame it,
+that has worked for essentially
+the top 10% for sure,
+and certainly for the top 1%,
+has not been working for 80%,
+or you know, of the Americans.
+And it's gotten to the point
+where they just have had it.
+And the thing is, this isn't just America,
+it's happening in the west.
+You got right wing kind of movements
+in every one of the major countries.
+There is at least at 40%,
+and push it towards
+the majority sometimes.
+And so something has to change.
+I think we have to reinvent,
+I mean, I guess you could call something
+like sustainable capitalism,
+sustainable not just in the externalities
+of climate change and pollution,
+which I've talked about how
+our technologies can do that.
+But essentially the externalities,
+a sustainable system of work,
+the average people feel
+invested in the system
+that's working for them,
+that they're not gonna
+scream bloody murder,
+and kind of revolt at, you know,
+at the first sign of kind of agony.
+And that there's a system that works well
+for everybody over the long haul.
+And so as crazy as it sounds,
+we could be at a point in
+the world right now in 2025
+where we are watching
+the beginnings of a shift
+from financial capitalism
+born and raised out of the enlightenment,
+more than 250, 300 years ago,
+to essentially some version
+of a sustainable capitalism
+that I kind of did the
+rough outline there.
+We're going from a world of
+representative democracy,
+which was a brilliant move forward
+from a civilizational perspective,
+from a human being section 250 years ago,
+to essentially a different kind
+of what I would term probably something
+called digital democracy, or
+something along those lines,
+which I can explain later.
+What I would say we're facing now
+is that system is so out of whack,
+is so un-up to the scale
+of kind of the challenges
+that our country faces
+at this time.
+That it is actually gonna
+increasingly dawn on people,
+that essentially are gonna
+have to invent or reinvent
+at an even more fundamental level
+than most people are thinking.
+And I put it this way, if the
+founders were coming today,
+sitting in 2025,
+and they basically were looking around
+at the tools they had at
+that time, including AI,
+do you think they would've
+come up with a system
+what they did 250 years ago,
+where they didn't understand
+even what electricity was?
+I mean, you know, Ben Franklin's out there
+with a kind of kite trying to figure out,
+is lightning, you know, what is it?
+It's electricity.
+They had no idea what electricity was,
+let alone electronics, let
+alone computers, let alone AI,
+let alone kind of an
+interconnected planet of internet.
+I mean, essentially you'd be
+insane not to take advantage
+of those tools if you are really
+trying to build a democracy
+that kind of taps into
+the world of the majority
+and protects the minority,
+keeps the pluralistic society,
+and makes sure a tyrant
+can't take control of it.
+That's the same agenda, that's
+the same building blocks.
+Okay, how do we do that now?
+I think that's actually gonna be something
+that people are gonna
+increasingly have to think about.
+And I think what's
+happening now with Trump,
+and what's happening in
+the country right now
+is we're getting a constitutional crisis.
+Oh, those guys didn't really think through
+what happens if a President
+won't kind of listen to the,
+you know, courts or what happened.
+You know, the courts
+don't have any leverage
+to kind of push back.
+What happens if you get
+a kind of a Congress
+captured by these
+interests that, you know,
+don't seem to be listening
+to what average people need.
+Anyhow, there's much ways
+you can talk about it,
+and I don't want to get
+into partisan politics,
+but the point is, our
+system is so gummed up now
+that essentially it's
+going to increasingly show
+that we need some kind of invention.
+And so when I say digital democracy,
+this isn't some '90s version
+of digital democracy.
+I'm just saying, there
+will probably be some way
+to figure this out and tap
+into the world of the majority,
+and execute efficiently and effectively
+for governance going forward
+that'll be rooted in some
+kind of digital technologies.
+Because it is just such
+a game changing thing,
+and which means essentially AI
+is gonna be involved in this.
+Now, there's dangers
+and issues and limits,
+and we're gonna figure that
+out. It's a long conversation,
+but I'm saying we're at that stage.
+The same thing I would
+just say about governance,
+global governance.
+Again, if you would've talked
+about this 50 years ago,
+people would think of,
+oh, you know, United Nations
+is gonna run the world.
+No, this is a different
+way to think about it.
+But here's the problem
+is you are in a planet
+of 10 billion people,
+which by the way, is dramatically
+more numbers of people
+that we had at post World War II.
+Second, dramatically more
+people, we're in climate change.
+There is incredible pressures.
+We're gonna see mass
+migrations almost inevitably.
+You might see sea levels rising.
+Stuff is going to happen this century
+that is going to really
+require coordination
+at a global place.
+You can't just crapshoot with,
+oh, maybe 200 different nations
+will come somewhat aligned,
+and maybe we can strong
+arm here and there.
+I think that's just not gonna happen.
+And so I think what
+you're gonna see coming
+is some kind of break.
+It's not gonna mean we're all
+gonna turn over government
+to five people at the top of the planet,
+but it means some kind of
+sophisticated coordination
+between all these entities,
+maybe between cities,
+between different layers of government,
+between different peoples,
+between different population centers,
+whatever it's gonna be.
+I don't know the beginnings of
+exactly how that would work,
+but if I had to guess,
+it's gonna be leveraging
+these new technologies,
+particularly AI,
+and that it'll be something
+that'll be better than
+the system we have now,
+which by the way, our international system
+that basically created the climate accords
+is a complete fail.
+You know, it's at the point now
+where Trump has pulled out a second time,
+and you know, we're kind of at this place
+where we're back to square one
+of coordinating all these
+crazy ass nation states.
+So I'm just saying,
+that's the level of change
+I think we're actually heading into.
+That's the level of change
+I think your kids are
+gonna be wrestling with.
+And that's the level of change
+I think America is going through now.
+And the quicker we start to wrap our heads
+around that challenge,
+and the kind of scale of
+the invention we're up to,
+the better off we're all gonna be.
+(calming music)
+- [Interviewer] All right, fantastic.
+That is the end.
+Landed the plane.
+A very big plane.
+- It is a big plane.
+- [Interviewer] In turbulent conditions,
+not an easy plane to fly and land off, so.
+- Yeah.
+- [Interviewer] Really appreciate that.

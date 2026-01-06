@@ -1,0 +1,162 @@
+I'm Martin Gonzalez. I'm a principal of 
+organization and leadership development at  
+Google and I'm the author of The Bonfire Moment. 
+The book explores this idea that teams are harder  
+than tech. In the process of innovation, it's 
+so important for leaders and CEOs and founders  
+to pay attention to the people's side of the 
+business because that could easily derail your  
+best laidout plans. We know a lot of employees 
+and organizations are starting to use AI for  
+their work. We also know that we flip-flop between 
+these really intense narratives of substitution.  
+Our jobs are going to go away. Um my role will 
+get replaced. Um there will be less of people  
+playing my kind of work, my kind of role because 
+of AI. And a narrative of augmentation which is  
+these tools give me superpowers that allow me to 
+do more within my role. and and I will succeed and  
+do well in the future if I can only adapt these 
+new um technologies. There's a lot we need to  
+think about when we think about the augmentation 
+model because as early research is showing as we  
+bring these tools into the workplace, we're 
+not quite seeing the kind of transformative  
+potential that AI has been talked about by 
+by its inventors. So I've started to think  
+about three puzzles we need to solve for as we 
+bring these technologies into our organizations.
+One of the challenges in bringing AI into an 
+organization is what I've started to call the  
+selective upgrade puzzle. This is when these 
+tools endow its users with superpowers but  
+not all users and somehow there's a selective 
+upgrade that happens um when these tools get  
+shared in an organization. This one randomized 
+control experiment that was run by researchers  
+from places like Harvard and MIT engaged the 
+Boston consulting group and set up their junior  
+consultants in control groups and in a couple 
+of experimental groups. What they did was they  
+gave them access to a um to a large language model 
+and they were asked to do two kinds of tasks. The  
+first task was a creative ideation task. They had 
+to help a fictitious client come up with different  
+product ideas that they can go to market with. 
+The second was a business analytics task where  
+they had to analyze why a business was struggling 
+and create recommendations. What the study went  
+on to discover was that when they looked at the 
+top performers, they tended to do much better  
+and when they looked at the lower performers, 
+they tended to do much worse. When you think  
+of this selective upgrade effect um spread across 
+thousands of employees over a span of time, what  
+we might see is an ever growing gap between your 
+best and worst performers. And this variability  
+would have been attributed to the use of these 
+AI tools where that where that gap didn't exist,  
+you know, before you deployed these tools. There 
+are a couple of things that leaders can think  
+about as they deploy AI in their organization. 
+And the first is to create really clear guard  
+rails around what these tools should be used for 
+and what they shouldn't be. And those guardrails  
+will possibly diminish over time as these tools 
+become much more um much more effective. But it's  
+important to go through this experimental period 
+understanding you know where it actually augments  
+the work and where it actually takes away from the 
+work. Another thing to consider is it's important  
+for the users as they leverage these tools for 
+certain domains that they have a certain basic  
+level of of expertise in these domains. It allows 
+the users to apply good judgment when a tool is  
+actually leading them in the in a worse direction 
+um and when it actually is augmenting the work.  
+Using a tool when you have zero knowledge of 
+that domain is a very very dangerous proposition.
+As we think about bringing AI into our 
+organizations, we need to think about this  
+agentic preference puzzle. We as humans have a 
+tendency towards control. And when these tools  
+take away control from the work, we see that 
+adoption rates drop. There are some fascinating  
+studies done out of Wharton that explore this idea 
+that they called um algorithmic aversion bias. For  
+example, when was the last time you decided to 
+override what Google Maps or Ways told you was  
+the right way home? We'll sometimes believe 
+that we actually have better or have a lower  
+error rate than these machines. And what 
+this branch of study had had looked into  
+was when individuals actually purs or see a a an 
+algorithm commit an error, even if that error rate  
+is still lower than the human error rate, we 
+we would much rather trust our human judgment  
+over the algorithm. It goes on to explain that 
+perhaps one way to think about this is when we  
+think of algorithms and these AI bots, their 
+error rates are knowable and they're static,  
+but human intuition and human intelligence is 
+perfectable and perhaps we therefore trust that we  
+can perfect our own judgment in certain tasks. The 
+research goes on to then try to figure out what's  
+the right antidote to this and they allow in one 
+study they allow users of these algorithms to  
+tweak ever so slightly um different parameters of 
+these algorithms. When these people are given that  
+um that leeway to control the algorithm um what 
+you find is that the error rates will increase as  
+a result as you would expect. But then you 
+also see the adoption rates significantly  
+um increase because people can control it. And 
+this drives home a really valuable point around  
+adoption of these AI tools. As a leader, you 
+might think about what is an error rate that  
+is acceptable if only it means that you then 
+create a lot more adoption in the workplace.  
+The ideal scenario is that people adopt these 
+tools fully without tweaking them. But we know  
+that that comes at a cost of lower adoption. 
+Are we willing to to sacrifice some amount of  
+um precision in the use of these tools in 
+exchange for an improved level of adoption?
+The final puzzle is this self-sufficiency 
+spiral. If you think about all the work we do  
+in an organization, you can categorize them into 
+solo work and interdependent work. And you might  
+say that in the future, these tools will allow us 
+to do a lot more solo work. And a lot of the solo  
+work will colonize parts of the interdependent 
+work. And then what gets left behind as  
+interdependent work, whether it's writing emails 
+or doing presentations or conducting meetings,  
+a lot of these tasks will then get intermediated 
+by these AI tools. When you think about what  
+it takes to create culture in an organization 
+or the role of the leader in kind of bringing  
+people together around a shared mission, a lot 
+of that is about interactive tasks. A lot of  
+that is about not being in solitude and doing 
+isolated work, but actually coming together as  
+a group. And if the future of the workplace 
+is a lot more solo and a lot more isolated,  
+I worry a little bit about what this means for the 
+future of organizations and our ability to create  
+cultures and create a sense of identity with the 
+organization. We've seen other technologies in  
+the past kind of deliver to us a future that we 
+didn't quite want. You take for example social  
+media where it had this promise to create 
+a more connected world but instead what it  
+gave us is possibly a more fragmented polarized 
+world where we perhaps have expected less from  
+each other and as MIT ethnographer um once said 
+we are alone together through these tools. So  
+we don't want this future for the workplace 
+and we need to think about ways that we can  
+bring people together through perhaps different 
+means and and and different approaches so we can  
+continue to create you know thriving environments 
+for for people as they engage with these tools.

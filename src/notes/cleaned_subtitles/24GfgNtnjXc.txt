@@ -1,0 +1,867 @@
+- [Child] Look at that!
+So pretty!
+- The other day my son asked me
+why rainbows are curved.
+ 
+And I could have given
+him a simple explanation
+but instead I made this video.
+ 
+With beautiful demonstrations
+I've never seen before.
+This is the perspective of a rainbow
+from a single raindrop.
+And the best animations ever created
+on the subject.
+Because I promise you, almost
+every explanation out there,
+double rainbow,
+(intense music)
+is an oversimplification.
+For example, if raindrops
+spread white light
+into colors like a prism,
+then why do you never see a rainbow
+when looking in the direction of the sun?
+Or why is it darker above
+a rainbow than under it?
+How can you make a rainbow
+disappear with sunglasses?
+What's going on here?
+Why is this rainbow so
+much smaller than usual?
+And how did this phenomenon
+directly lead to a Nobel Prize?
+Oh yeah, we're going deep on this one
+because the full explanation
+is so much more satisfying
+than anything you've seen before.
+(rain splattering)
+To make a rainbow, you need three things,
+raindrops, the sun and you, an observer.
+Okay, this is one of those
+experiments that seems so simple,
+but I've never seen anyone do it before.
+I have a glass sphere and
+that represents my raindrop
+because as we've learned
+in previous videos,
+raindrops, of course, are
+essentially spherically shaped.
+(air whooshing)
+Just preparing the particulate
+so that I can see the laser beams.
+Over here I have a laser.
+And that laser beam
+represents a ray from the sun.
+Rays of light from the sun
+reach a raindrop essentially
+parallel to each other
+because the sun is so far away.
+When light strikes the sphere,
+some of it reflects back
+off the front surface
+and some is transmitted into the sphere.
+Then at the back,
+again, some of the light
+reflects off the back surface
+and some is transmitted.
+Every time light goes from
+one medium into another,
+some of it will be reflected
+and some transmitted.
+And exactly how much depends
+on the angle of the light,
+its polarization and the
+nature of the two media.
+This is actually helpful here
+because I can use the reflections
+to make sure the laser
+is lined up properly.
+I think I've got this red laser lined up,
+so it's hitting the middle of the sphere
+and it's reflecting here,
+but some of the light goes through
+and some of the light
+reflects at the back surface,
+and then some of the light
+goes through for the wall.
+Now I'm going to keep the laser horizontal
+and move it up the sphere.
+So let's call the distance
+from the central axis,
+the impact parameter.
+(rhythmic music)
+As I move the laser up,
+the reflection off the
+front surface goes up.
+It's just bouncing off that curve surface.
+And I can tell you,
+this is a simple, boring reflection.
+Nothing interesting happens with it.
+It's not involved in
+rainbows, so it's there,
+but we're basically going to ignore it
+for the rest of the video.
+What's much more interesting
+is the reflection
+off the back surface.
+Now here comes that ray here,
+this spot is on the table.
+As the laser moves up, it goes down.
+In fact, the whole beam
+inside the sphere bends down.
+That's because as the
+light enters the sphere,
+it slows down, and so it refracts.
+But why does light slow
+down when it enters
+a dense medium like glass?
+Well, I think a lot of people can tell you
+that light is an electromagnetic wave
+without really thinking
+about what that means.
+You know the electric field
+around a charged balloon
+that pulls on your hair or
+makes it stick to a wall
+and the magnetic field around a bar magnet
+that makes iron filings line up?
+Well, light is what happens
+if you could rip the electric
+field off the charges,
+the magnetic field off the
+magnet, smoosh them together,
+and send them out traveling
+through space, sort of.
+I mean in practice,
+electromagnetic waves are made
+by accelerating charges like
+by wiggling them up and down.
+Then the changing electric and
+magnetic fields, they create,
+team up as light
+and head off on their own.
+The clearest explanation I know of
+for how light is slowed down
+in a medium comes from
+Grant over at 3Blue1Brown.
+I asked him if I could
+summarize his explanation
+for this video and he graciously agreed.
+So when those electromagnetic
+waves encounter charges
+in a medium like those in the
+first layer of our sphere,
+the light pushes them back and forth.
+You can think of each charge
+as a little mass on a spring
+and the changing electric
+and magnetic fields cause it
+to vibrate at the same
+frequency as the light.
+But now you have wiggling
+that is accelerating charges.
+So they too must create their
+own electromagnetic waves.
+And the net electromagnetic
+field is just a sum
+of the incident wave plus this new wave.
+The result is almost exactly
+like the original wave,
+except it has shifted back slightly.
+It receives a phase kick
+and each layer of the material
+adds another phase kick.
+So the net effect of all
+this is the wavelength
+of the radiation decreases
+in the new medium.
+And since the frequency stays the same,
+a shorter wavelength
+decreases the speed of light
+through the material.
+The speed of light in a vacuum
+divided by the speed of
+light in a medium is called
+the refractive index.
+It's around 1.5 for
+glass and 1.33 for water.
+So when light enters a
+new medium at an angle,
+the part of the wave crest that
+enter the new medium first,
+slow down first.
+And this changes the angle
+of all the wave crests.
+And since the direction of a
+beam of light is perpendicular
+to the wave crests, this means
+the light changes direction.
+So to recap, light
+causes charges to wiggle,
+so they create their own
+electromagnetic wave,
+which gives the light a phase
+kick shortening its wavelength
+which slows it down and so it bends.
+There's a simple mathematical expression
+that relates the angles of
+incidence and refraction
+to the indexes of
+refraction of the two media.
+It's known as Snell's law,
+even though it was
+independently discovered
+by a handful of people,
+some well before Snell.
+(intense music)
+And this is what we're
+seeing in the sphere.
+The higher the laser hits the sphere,
+the larger the angle of incidence
+and hence the more it bends
+down due to refraction.
+Most of this light exits
+out the back of the sphere
+but some of it is reflected.
+And it's this reflected ray
+that we can see coming out
+the front of the sphere
+below the incident beam.
+Now I wanna graph the
+angle of this reflected ray
+as I move the beam up the sphere.
+When the laser is dead center,
+the reflected beam comes
+straight back at the source.
+So let's call that 0 degrees.
+Then as I move the laser
+up, this angle increases.
+So the light's coming back at
+5 degrees, then 10 degrees,
+and it keeps increasing the higher I go.
+But now we come to the critical point.
+Watch this spot on the table.
+As I move the incident beam
+up, this dot is moving in.
+The reflected ray is coming
+closer and closer and closer.
+But there's a certain point right there
+where it stops coming closer.
+Look at that.
+And even as I keep moving
+this beam higher and higher,
+it doesn't get any closer.
+(intense music)
+And then it goes back the other way.
+So what we're seeing
+there is a maximum angle
+this reflected ray reaches
+before it turns around
+and goes back the other way.
+(intense music)
+And this is really important.
+It means that over a range
+of impact parameters,
+a range of heights of the laser,
+the reflected beam comes out
+at essentially the same angle,
+which means the light
+is becoming concentrated
+at that angle.
+And a concentration of light
+rays is called a caustic.
+Curved surfaces all
+tend to create caustics,
+from coffee mugs to glasses
+or even just rippling water.
+Caustics create the light patterns we see
+by concentrating light rays.
+In the case of red light
+through a sphere of water,
+the maximum scattering angle,
+and hence this caustic
+always occurs at 42 degrees
+below the horizontal.
+Since my sphere is made of
+glass rather than water,
+well, the angle is different,
+but the principle is the same.
+Now you might ask, why does
+this reflected ray reach
+a maximum angle and then turn around?
+Well, the answer is just geometry.
+As I move the laser up the sphere,
+although the ray refracts down,
+the point on the back of the sphere
+where it reflects continues to move up
+until you get to this special point,
+which is about 7/8 the
+radius of the sphere.
+And here, the angle of
+incidence is so steep
+that the refracted ray stops
+hitting the back higher
+and starts hitting it lower.
+That is why the reflection turns around
+and therefore we get a
+maximum scattering angle
+and the concentration of
+light rays at that angle.
+But the precise maximum
+scattering angle depends
+on the color of light.
+To see why, let's go back
+to the idea of the charges
+in the sphere as masses on springs.
+They have a natural frequency,
+a frequency at which they would oscillate
+if not driven at any particular frequency.
+And in most materials,
+this natural frequency is pretty high,
+much higher than the
+frequencies of visible light.
+Now, when light pushes
+a charge back and forth,
+the amplitude of the
+resulting vibration depends
+on the difference between
+the frequency of light
+and the natural frequency of the charge.
+The closer the two frequencies are,
+the greater the amplitude
+of the resulting vibration,
+which makes sense if you've
+ever pushed someone on a swing.
+The closer your pushing frequency is
+to the natural frequency of the swing,
+the higher they'll go.
+This means that higher
+frequency light like blue light
+will cause the charges to
+wiggle with greater amplitude.
+And because of this, the charges produce
+higher amplitude
+electromagnetic radiation,
+which creates a bigger phase kick,
+which shortens the wavelength
+proportionally more,
+making higher frequency
+light travel slower
+and bend more than lower frequency light.
+All right, I'm gonna change lasers.
+So when I repeated the
+experiment with green light,
+it refracted more than red light
+and therefore the green
+dot turned around sooner
+than the red dot.
+Whoa, oh,
+there's the minimum deflection for green
+and it's significantly
+different than for red.
+In other words, its maximum
+scattering angle was smaller
+than for red light.
+If the sphere were water,
+it would occur at around 41
+degrees below the horizontal.
+Similarly, for blue light,
+the maximum scattering
+angle approaches 40 degrees.
+I do have a specialty laser,
+which is very bright blue,
+but it's very dangerous
+so we're gonna use it very carefully.
+how are we gonna use it
+very carefully, Derek?
+(tool thuds)
+That is a good question.
+(tape ripping)
+Maybe we're just gonna tape it on here.
+Yeah.
+(playful music)
+So the blue only makes it to
+there, green here, red to here.
+So it is a pretty serious spread here.
+I think my experiment may
+be a little wonky honestly,
+I think this one wasn't
+perfectly horizontal.
+To really see the
+importance of the caustic,
+imagine we illuminate the
+sphere uniformly with red light.
+Well, more light is
+going to hit the sphere
+at higher impact parameters
+because the further out you go,
+the more area there is.
+So I've adjusted these sections
+so that they all have the same area.
+Then using our graph of
+the scattering angle,
+you can see where all of
+this red light will end up
+after reflecting off the back surface.
+Most of it ends up at the
+maximum scattering angle.
+To make this more obvious,
+we can add more light
+and we can do the same
+thing for orange and yellow
+and all of the other colors.
+And this is what gives us the rainbow.
+(soft choral music)
+It's not enough to say that a
+raindrop spreads white light
+into its component colors
+because all of the light that hits closer
+to the middle is spread too.
+But since the reflections
+all overlap as they come out,
+the colors mix and produce white again.
+It's only the difference in
+maximum scattering angles
+and the caustics they produce
+that gives us the rainbow.
+(soft music)
+So now we know what happens
+along a single radius
+of the sphere.
+So what happens if we uniformly illuminate
+the whole sphere with white light?
+(bright music)
+Well, I blacked out my window
+and cut a hole just big
+enough for afternoon sunlight
+to cover the sphere.
+You can see there's a circle
+of white light coming from the reflections
+off the back of the sphere,
+and then around it, there's
+a ring of rainbow colors.
+Come on.
+One raindrop creates a cone of light.
+The inside is all white,
+and the ring around
+the outside is colored.
+This is the perspective of a
+rainbow from a single raindrop.
+All these different light rays coming in
+at different places reflect
+back off the front surface
+and the back surface,
+that reflection off the
+back surface reaches
+a maximum angle.
+And for blue, green, yellow, and red,
+the maximum angle is different.
+So the red maximum angle is the furthest.
+That's why it's on the outside here.
+So good, so good.
+(light music)
+What I really wanted to see
+is if I could observe the cone
+of different colored caustics
+that produced that ring.
+Ho, ho, ho, ho, ho, ho, ho,
+ho, ho, ho, ho.
+You've got to see this color cone.
+You have got to see this.
+My eye is right in the color cone here,
+I can see the color cone.
+That is so cool.
+(intense music)
+So this is the crazy focus
+on the back of the sphere.
+If you stick your finger in
+there, it gets burnt very quick.
+Ow!
+That thing is a focal.
+(intense music)
+Now this really looks like a rainbow,
+but remember, this is
+just the light coming away
+from a single droplet.
+When you see a rainbow, there
+are billions of raindrops,
+and each one is projecting a rainbow cone
+back toward the sun.
+So how does all of this create
+a single unified rainbow?
+Well, for your eye to see a color,
+let's pick red in a
+certain part of the sky,
+then the red caustic from a
+raindrop there must go directly
+into your eye.
+And this only happens when
+the angle from the sun
+to the raindrop to your eye is 42 degrees.
+And this explains why rainbows
+take the form of an arch
+with a 42 degree angle.
+(intense music)
+Now, the violet light from these
+same raindrops passes above
+or beside your eye, so
+you can't possibly see it.
+But there are raindrops below
+and inside the arc of
+those red giving raindrops
+whose violet caustics
+do intersect your eye.
+They form a shallower angle of 40 degrees
+between the sun and your eye.
+And of course, there are raindrops
+at all intermediate angles that send you
+all the other colors of the rainbow.
+So a rainbow really is the
+ultimate optical illusion
+from billions of droplets each
+projecting a rainbow cone.
+You see a single static arch of color,
+but the droplets sending you
+those colors are constantly changing.
+A single drop as it falls
+might send to your eye
+first red, then orange,
+yellow, green, blue,
+indigo, and violet.
+(soft music)
+And because a rainbow must form
+an angle of 40 to 42 degrees
+with your eye,
+the center of the arch must be on a line
+that passes from the sun
+through the back of your head.
+So your shadow is the
+center of your rainbow.
+This means no two people can ever see
+the exact same rainbow.
+In fact, your left and
+right eyes don't even see
+the same rainbow.
+A rainbow is an optical
+illusion made unique
+for each perspective.
+This also explains why in
+most parts of the world,
+you can only see a rainbow
+in the early morning
+or late afternoon, not
+in the middle of the day.
+The higher the sun is, the
+lower the top of the rainbow is.
+And when the sun is more than
+42 degrees above the horizon,
+no rainbow is visible from the ground.
+(water splattering)
+But even when rainbows are visible,
+you can turn them
+invisible using sunglasses
+that is as long as they are polarized.
+Light from the sun is unpolarized,
+which means the electric fields
+of the light are all randomly oriented,
+oscillating back and forth
+equally in all directions.
+But it just so happens
+that when the light in
+the rainbow ray reflects
+off the back of the droplet,
+it does so very close
+to a special angle known
+as Brewster's angle.
+At this angle,
+all light with its electric
+field oriented parallel
+to the plane of reflection is transmitted.
+So it passes out the back of the droplet,
+and therefore the only light
+that is reflected has its
+electric field perpendicular
+to the plane of reflection.
+This is the light that
+creates the rainbow.
+This means rainbow light is
+polarized along the direction
+of the rainbow,
+so horizontal at the top
+and closer to vertical on the sides.
+This is why you can
+use a polarizing filter
+to make a rainbow disappear
+or to make it brighter
+if you orient the filter
+to allow that polarized
+light to pass through.
+But why is it brighter under
+a rainbow than above it?
+Well, this is because the raindrops
+beneath the rainbow are
+reflecting all colors
+of light at you off their back surfaces.
+This is what created the white disk
+in my glass sphere experiment.
+In contrast, the raindrops above the top
+of the rainbow are not
+reflecting any light to you
+off their back surfaces.
+Your eye is now outside the
+maximum deflection angle
+of all of the colors.
+But if you look up even further,
+sometimes you see a second fainter rainbow
+with its colors inverted.
+Double rainbow.
+So where does this come from?
+Well, it comes from an
+additional reflection
+inside the raindrops.
+Now, instead of reflecting once
+off the inside of the sphere,
+light reflects twice.
+These reflections also
+create colored caustics,
+though much fainter because light is lost
+with each reflection.
+If you look at deflection angles,
+this light starts going out
+the back of the raindrop.
+So at an angle of 180 degrees,
+but the further out light
+hits from the center,
+the smaller the angle
+light reflects back at
+until it reaches a minimum
+of around 50 degrees
+for red light.
+Then it turns around and
+goes back the other way.
+So between 42 and 50 degrees,
+it is dark because no light
+reflected once or twice
+inside a raindrop comes out at this angle.
+This is known as Alexander's Dark Band.
+Now, there is photographic evidence
+of third and fourth order rainbows formed
+after three or four internal reflections,
+but this light comes out
+the back of a raindrop.
+So they are the only kinds of rainbows
+that you could expect to see
+when looking in the direction of the sun.
+But they're so faint
+that conditions would have to be perfect.
+Under lab conditions,
+up to 200th order rainbows
+have been detected,
+but that is not what is going on here.
+This is known as a supernumerary rainbow.
+Multiple rainbow like bands
+show up under a primary rainbow,
+but this only occurs
+when the raindrops are all really small,
+just 10ths of a millimeter in diameter.
+Now, the light rays that
+passed just above and below
+the primary rainbow ray end up coming out
+at similar angles under 40 degrees,
+but they travel slightly
+different distances
+on the order of a wavelength.
+And because of this, those
+light rays can interfere
+constructively and destructively,
+producing a series of light
+and dark bands inside the main rainbow.
+Different colors in these
+supernumerary rainbows overlap
+more than in the main rainbow,
+so they can produce strange
+colors like magenta,
+a combination of blue and red.
+Supernumeraries also offer a clue
+to how these small rainbows work.
+Whenever I saw images like this
+or even observed this sort
+of thing from an airplane,
+I wondered how a rainbow
+could be so small.
+(soft choral music)
+These are known as
+glories or Brocken bows.
+Instead of the usual 42 degrees,
+these circles of color are only around
+two to four degrees wide.
+Well, the key is that just
+like in supernumeraries,
+glories are due to interference.
+So they too require tiny water droplets
+just 10ths of a millimeter in diameter.
+These are the sorts of droplets
+you'd find in fog or clouds.
+Light that strikes the edge
+of the drop can go around the back
+and come straight back at the source.
+You can see that with the
+laser on the glass sphere,
+but effectively in the presence
+of parallel light rays,
+tiny little droplets become
+a ring source of light.
+But for these tiny droplets,
+the distance from one point to all edges
+of the sphere can vary on
+the order of a wavelength.
+So take for example,
+the point right out in front of the drop.
+Well, now the distance
+to all edges is the same.
+So the light interferes
+constructively here
+and produces a bright spot.
+But a little bit off to one side
+and now half of the light, on average,
+has traveled an extra half a wavelength.
+And so we get a dark spot here.
+If you go a little further,
+well now the light has traveled
+an extra whole wavelength.
+So now the light is
+arriving in phase again,
+and we get a bright spot here.
+So we can rotate this around 360 degrees
+and extend it out in all directions.
+And what we get is a
+fuzzy bullseye pattern.
+And of course, all the different colors
+of light have different wavelengths.
+And so these
+bullseye patterns aren't
+completely overlapping.
+So when they're superimposed,
+what we see is rings of color.
+Now, this is just the pattern
+from a single droplet,
+but just like with a rainbow,
+if you have millions or
+billions of these droplets,
+they all contribute to
+produce this same pattern
+with your shadow at the center.
+(soft music)
+And it was just such a
+pattern that inspired
+a Nobel Prize winning discovery.
+In September of 1894,
+a scientist named CTR Wilson
+was visiting an observatory
+in the Scottish Hills.
+It was then that he observed
+"the coloured rings surrounding
+the shadow cast on mist or cloud."
+He recalls that these glories,
+"greatly excited my interest
+and made me wish to imitate
+them in the laboratory."
+So Wilson invented the cloud chamber
+for the explicit purpose
+of observing glories.
+Of course, once he
+discovered the cloud chamber,
+made the tracks of
+energetic particles visible,
+he abandoned his original aim
+and was later awarded the Nobel Prize.
+But it all started with the
+mystery of rings of color
+in the fog.
+- [Child] Wow.
+Wow, looks so nice.
+- How did you see that?
+So now I hope you know my
+son, why rainbows are curved,
+and why they're polarized
+and why they exist at all.
+And even more than that,
+I hope you know why I find such enjoyment
+in learning about our world,
+why it is worth figuring things out.
+For millennia, rainbows have been this
+blatant challenge held up to us by nature.
+But can you figure this out?
+And it's satisfying to say we have.
+- [Child] I'm looking at a
+different rainbow than you.
+- It's true.
+(celestial music)
+When I started researching this video,
+I thought I already knew about rainbows.
+I mean, I'd learned all of the colors
+of the rainbow in school
+and that it was caused by light
+refracting and reflecting,
+but I realized now
+that I'd only really just
+memorize things about rainbows
+and not really understood how they work.
+Learning should be about
+mastering a subject,
+not memorizing a list of facts.
+And that's why we asked
+Brilliant to sponsor this video.
+You know, Brilliant helps
+you become smarter every day
+with quick interactive
+lessons on everything
+from math and science to data analysis,
+programming, AI, you name it.
+And what makes Brilliant
+so effective is that
+you learn by doing and getting hands on,
+solving problems so
+that you build intuition
+and real understanding.
+And since all of their
+lessons are bite-sized,
+you can be learning and building skills
+whenever you have a few minutes to spare.
+Take their freshly updated
+course on scientific thinking.
+If you liked learning about
+the physics of rainbows,
+you'll love diving into these
+lessons that get hands-on
+with everything from gears and structures
+to balancing forces and beyond,
+you'll not only get a better grasp
+on how the physical world works,
+you'll also learn to
+think like a scientist.
+So you can apply your
+skills to any problem.
+Now, I truly believe that learning
+a little bit every day
+is one of the best gifts
+you can give yourself.
+And with Brilliant, that is super easy.
+All you need are a few minutes each day,
+and before you know it,
+you've got a habit of ending
+each day a bit smarter.
+So to try everything Brilliant
+has to offer for free
+for a full 30 days, visit
+brilliant.org/veritasium,
+click that link in the
+description or scan this QR code.
+And when you sign up,
+you'll also get 20% off
+your annual premium subscription.
+So I wanna thank Brilliant
+for sponsoring this video,
+and I wanna thank you for watching.

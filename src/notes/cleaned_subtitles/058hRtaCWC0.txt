@@ -1,0 +1,270 @@
+- These are soft robots.
+Their structural components are built,
+not out of metal or wood,
+but flexible materials
+like plastic tubing.
+But how do they work?
+and why would you want a soft
+robot in the first place?
+This video was sponsored by KiwiCo.
+Check out their robots
+at the end of the show.
+(machine blowing)
+So I came up to Stanford
+to meet Zach Hammond and his soft robot.
+How's it going?
+All right, you want to tip it?
+So is the idea that the
+robot could walk this way?
+- Totally, yeah.
+So you can kind of chain
+these rolls together
+to kind of roll around in any environment.
+They call this punctuated
+rolling locomotion.
+Wherein it's kind of stuck
+on a face until it tips over and now it's
+on a new face and it can then continue to
+move its center of gravity. Once that center
+of gravity exits the support polygon or the
+base, then it tips over one of the edges of
+the face.
+- This is a different soft robot made out
+of flexible tubing. It was designed to mimic
+the way a turtle walks, where diagonally opposite
+legs move together. It's powered entirely
+by compressed air and perhaps most impressive,
+it requires no electronics. All of the circuitry
+is pneumatic and this means the robot can
+be used in places like mines, where electronics
+could spark explosions, or in the strong magnetic
+fields around MRI machines. But why would
+you want a soft robot in the first place?
+- One of the things that I like to do is just
+to take the robot and kind of like beat it
+up a little bit and show how it's compliant
+and compressive.
+- Nope, because they're safer.
+- If you'd like to take a whack at it, you
+know, feel free.
+- But I don't think this is your work, I don't
+want to break it, obviously.
+- No, feel free, go for it
+- For operation around humans, there's not
+much damage a soft robot can do to you. I
+can stand on these?
+- Yep.
+- This is a pretty crazy compliant robot.
+- Because the the fundamental structure of
+this robot is compliant, there's only some
+maximum force that it could ever exert on
+me. So it's inherently safe to be operating
+around people.
+- Could we make it fall and have me be inside
+it?
+- Yeah. Yeah, we could do that for sure. Just
+watch your head.
+- Yep, if I go over here.
+- If you're there, yeah, we can do that.
+- All right, let's try it. Here it comes.
+Well, that's not bad at all. Is it?
+- I can try another shape. That's supposed
+to open up one of the faces, so you can jump
+out of it quickly.
+- Okay.
+- I haven't tested it in a little while, so...
+- Sure.
+- I don't know how it's gonna go, but let's
+try this. There you go that's the face right
+there to your right and you can exit the trust
+from that face.
+- Boom.
+- Perfect.
+- Just that easy. Did you build this by yourself?
+- Me and one other grad student built this
+entire thing ourselves, basically.
+- And how long did it take?
+- We did it in about a month, I want to say,
+like actually constructing everything.
+- And was it tricky? I mean, were you sewing
+that stuff?
+- Yep, we sewed this all ourselves.
+- The main structural members of this robot
+are fabric tubes inflated with air.
+- Yeah, so these red tubes are a nylon fabric
+and then internally, there is a polyethylene
+tube that provides the air tightness.
+- The tubes are inflated to about six PSI
+above atmospheric. So it's almost one and
+a half atmospheres. Each tube passes through
+pairs of rollers connected to a motor. The
+rollers pinch the tube, so it bends kind of
+like a pinched straw.
+- Add the rods and then we have this like
+high friction material wrapped around the
+rods. And then that coupled with the fact
+that we have this pressurized tube that's
+kind of pushing the membrane of the tube into
+the rollers, prevents us from slipping.
+- By driving the motor, it changes the length
+of the tubes.
+- Kind of like when a clown creates a twist
+in a balloon and then folds that balloon into
+a balloon animal. The difference between what
+the clown does and what we do is that there's
+some passage of air between adjacent segments
+of the tube. So that as the robot drives around,
+we're not pressurizing the segments of the
+tube.
+- This robot is made of four inflated tubes,
+each one connected to a pair of motors, forming
+triangular sides.
+- We also think that they kind of look like
+sausage links when put together, which is
+why we've named these robots after different
+sausages. So this one's called Polish, that
+one over there is Chorizo, There's a Linguica
+and a kielbasa over there somewhere.
+- So what shape is the overall thing? It's
+an octahedron?
+- Yeah, we call it an octahedron because if
+you drew lines between these kind of kinematic
+joints here, it would create an octahedral
+shape.
+- Driving the motors together, allows the
+robot to dramatically change shape. It can
+get very tall or short and squat. But since
+the tubes themselves don't change in length,
+the overall perimeter of the robot, the length
+of all the edges combined doesn't change.
+So the robot is considered isoparametric.
+How do you feel when you watch those Boston
+Dynamics videos?
+- Oh, I love those videos, they're so cool.
+- The Boston Dynamics robots are kind of terrifying.
+- Mm-hmm.
+- I guess and the idea with soft robots, it's
+to like convince people that robots are good
+and soft and kind, and friendly and fake?
+- That's definitely true, yeah. There are
+some things that you can do to rigid systems
+to make them feel like compliant systems based
+on how you're controlling the motors. But
+yeah, they're definitely, you know, heavy
+expensive and can be dangerous if they're
+not used correctly.
+- The hard robots we're used to are strong
+and precise. Their actions are accurate and
+repeatable, but they are also heavy and they
+can't really change their volume as dramatically,
+but this robot is still capable of carrying
+a heavy load.
+- So I have a GUI in MATLAB.
+- Oh nice.
+- That enables me to just put in the positions
+that I want the robots to move in inches and
+then send them out. There's another other
+functionality of some like stored configurations
+to send to the robots.
+- Soft robots also have the advantage of shape
+changing. They can become tall to go over
+obstacles or short to fit under obstructions.
+- So if there is some rock that it didn't
+see or that it wanted to roll over. It could
+simply do that and the compliance of the tubes
+would simply just bend around that disturbance.
+- Do you imagine robots like this doing work
+in space?
+- Oh yeah, definitely.
+- So one of the nice things about these types
+of structures is that they can shrink down
+their volume very drastically. And because
+volume on rockets is such an expensive premium,
+being able to have a robot that can pack down
+small for transport is very valuable. So NASA
+was at one point looking into trust robots
+for exactly that reason. And they've contacted
+us since we've made this robot to explore
+different ideas for space exploration projects.
+So one of the things that they're thinking
+about doing is deploying robots underneath
+a sheet of ice. So they're gonna drill through
+this sheet of ice and then deposit a robot
+through what is a kind of a small diameter
+hole. And so if you can have a robot that
+can change its volume very drastically or
+be disassembled and then reassembled to form
+like a much larger structure. Then you can
+have large robots that are able to fit through
+these tight spaces and be deployed in kind
+of difficult to access areas.
+- Is this a little bit like an octopus? Is
+that how you could think of it?
+- There is some connection there because they
+use their shape changing ability and their
+compliance to squeeze through tight passageways,
+and then also to wrap their body around objects.
+So for example, they can open jars with their
+tentacles, and one of the things that we want
+to use this robot for is grasping and manipulating
+objects.
+- So this robot is even capable of picking
+objects up off the ground.
+- We'll try that and see if we can grab it.
+Because of the compliance of the tubes, it
+has a natural ability to grasp and manipulate
+objects because as it does so, the tubes bend
+ever so slightly, which increases the contact
+area and distributes evenly, the forces that
+are exerted on the object.
+- So, I mean is the biggest risk if it pops?
+- Yeah, that's a a big risk. I mean you obviously
+need the compressed air for your structure
+and so if you have a leak. Oh. Then you don't
+have a robot, right?
+- It's a pretty big drawback of soft robots.
+- You know, some things that you could do
+to mitigate that would be to have onboard
+a small compressor, which isn't there to provide
+power to the robot, but would help you maintain
+pressure, if there were any small leaks.
+- when you tell someone you're working on
+a robot and they see this, does it defy expectations?
+- Totally. They have no idea what it is I'm
+talking about until I show them like a video
+or a picture. I think most people's conception
+of soft robots was really expanded by the
+movie Big Hero 6. And I think they did a great
+job in kind of showcasing what a soft robot
+can do and why they're useful, and kind of
+just popularizing the notion. It's really
+great to have compliance built into any mechanical
+system, especially as we want robots to work
+closer and closer with humans. So I think
+we'll definitely see more soft robots in the
+future.
+- Hey, this video was sponsored by KiwiCo
+and since I was up in the Bay Area, I got
+to visit KiwiCo headquarters which was mostly
+empty because COVID, but I met with a few
+designers who make the awesome projects that
+come in KiwiCo crates.
+- There you go.
+- Oh boy.
+- And I'm not gonna lie, it kind of seems
+like the best job. I was in awe of some of
+the ideas they have brought to life. Dude,
+that's cool. Look at that. You know, KiwiCo
+offers eight subscription lines for kids of
+all ages and everything you need comes right
+in the box, so that means no running out to
+the store. Each create, not only gets kids
+If I can get them learning little things every
+day that can all add up to a big perspective
+change in how they see the world. So for viewers
+of this video, KiwiCo is offering 50% off
+your first month of any crate. Just go to
+kiwico.com/veritasium50 I will put that link
+down in the description. So I want to thank
+KiwiCo for sponsoring Veritasium and I want
+to thank you for watching.

@@ -1,0 +1,517 @@
+There is this research paper
+that has been on my mind for years.
+It shows that there is a
+particular type of problem
+where the smarter you are,
+the more likely you are to get it wrong.
+So I asked my American friend
+Wylie to go out on the street
+and ask people the
+questions from the study
+to see if we could replicate its findings.
+The first question in the paper
+is about a fictitious study
+on skin cream.
+So in this made-up study,
+people with skin rashes are assigned
+to either the experimental group
+where they use a new cream for two weeks,
+or the control group
+where they use no cream
+for that same period.
+And at the end, they count
+up how many rashes improved
+and how many got worse
+in each treatment group.
+The results are summarized in this table.
+So the question study
+participants were asked was-
+- Did the skin cream make the rash better
+or did it make it worse?
+- [Derek] The question is a little tricky
+because it requires
+proportional reasoning,
+- I think better.
+- Better? So what are you looking at?
+Just real quick.
+- I'm gonna be honest.
+I'm just looking at how
+big the numbers are.
+- [Derek] If you just look
+for the biggest number,
+well that is the group
+who used the skin cream
+and the rash improved.
+- So this number is
+bigger than this number?
+- Yeah.
+- Yeah.
+- So you might conclude
+that the cream worked,
+it makes rashes better.
+That is the intuitive answer.
+But if you look more carefully at the data
+and use proportional reasoning,
+you realize that in the
+experimental cream group,
+about three times as many
+people got better as got worse.
+But in the control group,
+around five times as many
+people got better than worse.
+So using no cream,
+your rash was significantly
+more likely to improve.
+In fact, it's a fair conclusion to say
+that the cream, on
+average, made rashes worse.
+The lead author on this
+study was Dan Kahan.
+- I'm Studying the science
+of science communication.
+- He and colleagues recruited
+a nationally diverse sample
+of 1,111 Americans to participate.
+But before answering the
+question on skin cream,
+each participant was asked
+a series of questions
+to assess their numeracy.
+- And numeracy, it's
+not so much the capacity
+to use complicated mathematics,
+but really to reason well
+about quantitative information.
+- Numeracy scores for the
+entire sample were roughly
+normally distributed.
+Now if you group together
+all the participants
+with a certain numeracy score,
+say group all the zeros
+together, all the ones together,
+all the twos and so on.
+Well, what fraction of each group
+do you think got the skin
+cream question right?
+Well, the results are
+exactly what you'd expect.
+- Oh, this is math.
+- It's math.
+- In a fifth of the people,
+which is a smaller number-
+- Uh-huh.
+- The rash worsened, so
+the skin cream didn't help.
+- So it didn't make it better?
+- I feel the cream,
+if anything, made it worse.
+- [Derek] The higher the numeracy score,
+the greater the fraction
+of participants who got the answer right.
+- Yeah. I don't think the
+numbers mean anything to me
+'cause I think I need-
+- That's a perfect answer.
+- I think I would need
+to know what's the rash
+and what's the cream you're giving me.
+- [Derek] Those with
+better numeracy skills
+manage to avoid the
+intuitively correct answer.
+- What are the-
+- Just seems like proportions.
+- I've had nobody get into
+the numbers like this.
+This is great.
+Excellent. You got that right.
+- Okay.
+- And correctly determine
+that the cream actually made rashes worse,
+which is no big surprise.
+But this version of the skin
+cream question was only shown
+to some of the participants.
+Another subset saw the same exact table
+except the column headings were reversed.
+So in this case, the skin cream
+did make the rashes better.
+So how did the different
+numeracy groups do
+with this version?
+Well, again, the highest numeracy groups
+were the most likely to
+get the correct answer.
+But below a numeracy score of five,
+the results were pretty flat.
+That could be because even
+without any numerical reasoning,
+most people might expect a
+skin cream to improve a rash,
+which just happens to be the
+right answer in this case.
+But the true purpose of the
+study was not to find out
+how numeracy effects our ability
+to reason accurately with data.
+No, it was to figure out if something else
+affects our reasoning ability.
+Specifically, politics.
+(exciting music)
+If you look at the skin cream data again,
+but separate the participants
+by their self-reported
+political affiliations,
+so liberal Democrats versus
+conservative Republicans,
+there's basically no
+difference between the groups.
+All follow the same pattern
+irrespective of party,
+which makes sense because a
+study on skin cream is about
+as apolitical as it gets.
+But what the researchers
+did with the other half
+of the participants was the opposite.
+Instead of skin cream,
+they presented a fictitious
+study on gun control.
+In case you don't know,
+Democrats generally believe
+that gun control reduces crime,
+whereas Republicans
+believe it increases crime
+because it takes guns outta
+the hands of good guys
+who could prevent or deter crime.
+So in their made-up study,
+the cities were divided into two groups,
+those that had recently
+enacted legislation
+making it illegal to
+carry a concealed handgun
+and similar cities that
+had no such legislation.
+Over the following year,
+crime rates were monitored
+to see where crime increased
+and where it decreased.
+And the results are
+summarized in the table.
+Again, no surprise, it's exactly the same
+as the skin cream example.
+Of course, there were two variations,
+one where gun control decreased crime
+and one where it increased crime.
+Now if you look at the
+results by political leaning,
+they paint a very different picture.
+- It's kind of obvious, if
+you have guns in a city,
+people are gonna start shooting people.
+And you know, if you don't have guns
+and you outlaw them,
+cities are obviously gonna
+have less crime in 'em.
+But the thing is, it's like you can't
+just take people's guns away
+and say that they're illegal.
+You know, like that's just,
+it's kinda like drugs.
+- So wait, but these numbers though,
+how did you just come to that conclusion?
+- [Derek] When Republicans
+are shown the table
+where the correct answer is gun
+control laws increase crime,
+then the accuracy improves
+with increasing numeracy, just as before.
+But for the Republicans
+who are shown the table
+where gun control decreases crime,
+well, numeracy skills no
+longer affect accuracy.
+Those with a numeracy score of seven
+or eight are barely more
+likely to answer correctly
+than those with a score of zero or one.
+- So where the crime improved,
+like there can be crimes
+that were prevented because
+the guns were legal.
+And the crimes that were worsened,
+that could have been other
+crimes like not related
+to guns, you know?
+- Mm-hm.
+- And the same is true
+in reverse for Democrats.
+The more numerate people in
+this sample have no problem
+recognizing the correct
+answer when it shows
+that gun control reduced crime.
+But, if the data showed that
+gun control increased crime,
+then all of a sudden numeracy didn't help.
+Remember, this is the exact same data
+and question as the skin cream example.
+The only difference is now
+that data is presented
+in a political context.
+- And the biggest
+difference in performance
+is among the most numerate people,
+they're scoring a lot worse
+than they should have.
+The low numeracy people are
+about 25 percentage points
+less likely to get the right answer
+if that answer is threatening
+to their ideology,
+than if it's consistent
+with their ideology.
+The people who are high in
+numeracy, on the other hand,
+45 percentage points less
+likely to get the right answer.
+- Rather than using their
+mathematical ability
+to come to the correct conclusion,
+they somehow selectively apply it
+to justify the conclusion they
+already believed beforehand.
+- Illegal guns, less crime.
+- Illegal crime.
+- Yeah, I mean,
+I wouldn't have thought that.
+- And as numeracy increases,
+people are more divided about the efficacy
+or the risks of gun control regulation.
+The same thing with fracking,
+and same thing with global warming.
+We see the polarization
+conditional on numeracy,
+but we also see the same effect
+when we measure people's
+reasoning proficiency
+in other ways.
+The people who are high
+in science literacy,
+more polarized than
+the people who are low.
+The people who are high and
+actively open-minded thinking,
+you see more polarization, not less,
+as they become more proficient
+in this kind of thinking
+- Based on this data, of
+course I'd wanna look into it
+and look at all the sources.
+And of course there are
+sources from sources
+because people are always
+citing each other, so yeah.
+- This is, the numbers are
+actually not real whatsoever.
+- It looks, but, if I were to
+look at this pragmatically,
+I would just say
+that the playing field
+seems pretty even here.
+- It's pretty even?
+- Yeah.
+- Okay, great.
+- Now, everyone wants to
+believe that they are rational,
+that they could change their beliefs
+in light of the evidence.
+- If you encountered
+evidence on a political issue
+that you were like,
+"This is good evidence.
+I've done my research."
+But it contradicted your
+political belief on that issue,
+how would you react to that?
+- I'd consider myself to
+be a little bit open-minded
+in that aspect.
+- At least be open to learning.
+- Yeah.
+- If it's on paper
+and that's the way it is, I
+would have to go with that.
+- I'm gonna have to deal with it.
+I can't be like, "Well, I
+feel like it's different."
+- All I see here are
+people who will continue
+to hold partisan beliefs
+regardless of the evidence,
+all the while deluding themselves
+into thinking they came
+to these beliefs via an independent,
+sober consideration of the facts.
+The truth is that mostly
+we believe what we believe
+to fit in with our tribe.
+And that, in the most important
+way, is highly rational.
+Because humans are very social creatures,
+and for most of our evolution,
+we've depended on each other for survival.
+Being ostracized from the
+group is almost as bad
+as walking off a cliff.
+If we question the status quo by rejecting
+what those around us accept as true,
+we jeopardize our place in society.
+- Man, I've learned that
+people are not as dissimilar
+as we think.
+That there is so many
+similarities between sides
+that we think share nothing in common.
+- I attended Zoom meetings
+in the opposite party
+and it was kind of scary
+because they sounded just like my side.
+- It makes you think about
+what we could get done
+if we didn't have that burden,
+and I think it would be
+a pretty different world
+and pretty extraordinary if
+we managed to figure that out.
+- So what do we do about this?
+Well, I don't think there
+is an easy solution,
+but Kahan has identified a
+few angles that might work.
+One is avoiding partisan rhetoric.
+Rather than talk about gun
+control or climate change,
+avoid the loaded terms
+and instead focus on
+specific local policies.
+No buzzwords that could trigger
+anyone into tribal thinking.
+No villainizing the other side,
+just constructive solutions
+that make sense given the data.
+One example comes from southeast Florida
+where a bipartisan group of
+lawmakers have joined together
+to take action on sea-level rise.
+The plans don't debate
+whether climate change is manmade or not.
+They just deal with existing
+challenges faced by residents.
+The other thing is to
+foster a curious mindset.
+- Maybe the science curious people,
+they're more willing to
+examine all the evidence,
+including information that's inconsistent
+with their political ideology.
+- With increasing science comprehension
+usually comes increasing
+polarization on political topics.
+But with increasing science curiosity,
+this same increase in
+polarization is not observed.
+That is a start.
+I am not going to claim
+to have the solution.
+Problems of this sort are likely as old
+as the human species itself.
+They are just much more obvious now
+that everyone can post, tweet, comment
+and basically shout loudly
+into this nearly infinite digital space.
+The only thing I hope to
+do is bring some awareness.
+The beliefs of most people are not formed
+by a careful consideration of the data.
+That includes me, and it
+probably includes you.
+Acknowledging this is
+an important first step.
+(bright music)
+One organization that is
+trying to tackle polarization
+and our information echo
+chambers is Ground News.
+So we specifically asked
+them to sponsor this video
+because they gather news sources
+from around the world in one spot
+and show you any political
+leaning they have.
+That way you can read about the same issue
+from different perspectives
+with the context needed
+to separate facts from politics.
+For instance, the FBI
+recently released statistics
+about violent crime in the US.
+This is a key political issue
+that was referenced in
+the presidential debate.
+Most left-leaning outlets
+focused on the 3% drop
+in violent crime.
+Some use this to counter Trump's claim
+that crime is on the rise.
+However, right-leaning sources
+suggested crime increased
+under Harris and Biden in
+line with Trump's statements.
+So how can we have such a disagreement?
+Well, Ground News lets us dive deeper
+into the reporting to uncover
+that right-leaning sources referenced
+a completely different
+report, a DOJ survey.
+And this survey collected data differently
+and crucially, couldn't
+include fatal crimes,
+while the FBI statistics did.
+Similarly, the FBI statistics
+couldn't include unreported crimes
+while the DOJ survey specifically does.
+So we're comparing
+apples and oranges here,
+which is the source of the disagreement.
+This kind of critical thinking is crucial
+to keeping our biases in check
+and so is personal accountability.
+Ground News helps here too
+with data-driven insights
+from your personal News Bias dashboard.
+This lets you track your
+own potential blind spots
+and biases so you can
+identify and correct them.
+Check it out at groundnews.com/ve
+or scan this QR code.
+By subscribing through our
+link, you can get a 50% discount
+off the Unlimited Access Vantage Plan.
+This is their biggest
+discount of the year,
+and it's only available
+for a limited time.
+You know, Ground News
+is subscriber supported,
+so by subscribing you're
+directly contributing
+to the development of the platform
+and a more transparent,
+less tribal political arena.
+So I want to thank Ground
+News for sponsoring this video
+and I want to thank you for watching.

@@ -1,0 +1,1173 @@
+- In 1999, the German newspaper "Die Zeit"
+ran an experiment.
+They asked a falafel salesman
+and former theater director,
+Salah ben Ghaly,
+who in the world he would
+most like to be connected to.
+He chose his favorite
+actor, Marlon Brando.
+So the reporters then searched
+for a chain of friends,
+family or acquaintances,
+people who knew each other
+on a first name basis,
+who could connect ben Ghaly to Brando.
+As it happens, ben Ghaly
+had a friend in California.
+This friend worked alongside
+the boyfriend of a woman
+who was the sorority sister
+of the daughter of the producer
+of the film "Don Juan DeMarco,"
+starring Marlon Brando.
+So in total, it took just six steps,
+six degrees of separation.
+And the idea is that this
+is not a unique example,
+that you could connect any
+two people on the planet
+in six steps or less.
+But is it really true?
+And if it is,
+how does it affect our lives?
+- How is this possible
+in a world of now eight billion people
+that we could be that close,
+just six hops or less?
+Does that affect how diseases spread,
+how information travels?
+Our math showed, the question
+is not why is the world small,
+it's really how could it be otherwise?
+But then I got a call from the FBI.
+We are making the world
+smaller all the time.
+Like it's supposed to be good,
+and yet it does expose you
+to toxicity and malevolence
+that you might've been shielded from.
+- You look at the net effect of it,
+and it's actually been pretty negative
+by a lot of measures.
+People have suffered.
+- It's not only dangerous
+in terms of disease propagation,
+but anything malevolent
+now has conduits that
+it didn't used to have.
+- If we were all connected
+to everyone else on the planet
+completely at random,
+then it would be almost
+a mathematical certainty
+that any two of us would be connected
+through fewer than six steps.
+- Let's suppose I have my 100 friends
+out of eight billion people.
+Each of them knows 100 people.
+So two steps away from me
+is gonna encompass 100 times 100 people.
+That's already 10-to-the-fourth people.
+And so if you do 100 to the fifth power,
+that's 10 to the 10th,
+and that's more people
+than there are on Earth.
+So notice that number is five,
+I said, "To the fifth power."
+That's the ballpark reason
+why six degrees (laughing)
+of separation is true.
+- But the shocking thing about this is,
+the calculation you've just outlined
+is about having 100 friends
+at random out of 10 billion
+and they're all over the world,
+but we know that in the real world,
+that's nowhere near
+what the distribution of friends are like.
+- Yeah, absolutely true.
+So this really crude
+calculation I did is absurd,
+for the reason that you said.
+The world is very far from random.
+- The truth is people naturally
+cluster geographically.
+Most of the people you
+know live close to you,
+and they also have a higher probability
+of knowing each other.
+If you calculate the
+fraction of people you know
+who also know each other,
+that is a measure of the
+clustering in the network.
+So let's try a model with a
+high degree of clustering.
+Imagine all eight billion people on Earth
+are arranged into a circle,
+and say each person knows the
+100 people closest to them.
+So 50 to the left and 50 to the right.
+Well, in this case,
+the furthest person you can connect to
+is just 50 people away.
+So if you wanted to connect to someone
+on the other side of the planet
+through a chain of people
+who know each other,
+well, it would take 80 million steps,
+and to connect any two people
+would take on average 40 million steps.
+Even just getting 10% to the way there
+would take eight million steps.
+And six steps would get you,
+well, here.
+(inquisitive music)
+This is the paradox of
+six degrees of separation.
+We know that we live
+in these local clusters
+of friends and acquaintances,
+but we also seem to be able
+to connect anyone anywhere
+in just six steps.
+10 years ago, I did my
+own experiment on this,
+and I found that the
+average Veritasium viewer
+was only 2.7 degrees
+of separation from me.
+In social science,
+this is known as the small-world problem,
+named after the phenomenon
+where you're say on holiday somewhere
+and you bump into a stranger
+who somehow knows your best friend,
+and you say, "Wow, it's
+such a small world."
+(light music)
+In the mid-1990s, two mathematicians,
+Duncan Watts and Steve Strogatz,
+set out to solve this small-world problem.
+- Duncan really sort of had
+very far-seeing imagination
+at that point.
+- We had computers that allowed us
+to simulate environments
+that were too complicated
+for for math to work.
+- [Derek] Up until then,
+physicists had studied networks
+that were ordered and regular,
+like crystal lattices.
+And mathematicians, like Paul Erdos,
+had done lots of work
+on totally random networks,
+but no one had studied
+what happens in between.
+- There must be some
+enormous middle ground,
+and that's what Duncan and I felt like
+we're starting to explore.
+- [Derek] To study this middle ground,
+Watts and Strogatz imagined
+a simple regular network of people,
+or nodes,
+dotted around a circle,
+each connected to a few of
+their nearest neighbors.
+- And so we had this idea,
+"We're gonna start with the
+physicist end of regular,
+and now we're gonna
+turn the randomness knob
+to make it more and more random
+through these random shortcuts."
+- [Derek] We all have some
+experience with shortcuts.
+- I belonged to this club
+called the Internet Chess Club.
+I got to be very friendly
+with a guy in Holland.
+That connection makes the world small,
+because now, even though my
+friends don't realize it,
+they're only one step away
+from a guy in Holland.
+And so that kind of connection
+where you sort of connect to someone
+outside your normal circle
+is what we came to call a shortcut.
+- [Derek] So they went round the circle,
+disconnecting some of the links
+and reconnecting them at random
+to a different node in the network.
+And as they did that,
+they watched what happened
+to the average number of steps it took
+to get from any one node
+in the network to another,
+hopping between connected nodes.
+In other words, the degree of separation.
+- This is now the moment
+for the big reveal.
+As Duncan turned the knob
+in his computer simulations,
+as soon as he introduced a few shortcuts,
+the world immediately gets
+as small as a random graph.
+- [Derek] When they had rewired
+just 1% of the links to shortcuts,
+the average degree of separation
+dropped from 50 in the
+original fully ordered network
+to 10.
+But Watts and Strogatz also tracked
+how clustered the network was.
+That's the fraction of
+a node's connections
+that are also connected to each other,
+or in other words, the
+fraction of my friends
+who are also friends with each other.
+What they found is that clustering
+remained high for much longer.
+- The world immediately gets
+as small as a random graph,
+but it stays as clustered
+as if it were still regular.
+So you could simultaneously
+have the clustering that we know is real
+and the small world that we know is real.
+- Now, in Watts and Strogatz's model,
+they looked at 1,000 nodes,
+but if you apply their model
+to the eight billion people on Earth,
+well, then you would only need three
+out of every 10,000
+friendships to be a shortcut,
+and the average degrees of
+separation drops to six.
+- Our math showed,
+the question is not
+why is the world small,
+it's really how could it be otherwise?
+Duncan started saying to me,
+"This is about discovering
+a whole new universe,
+and its properties and laws."
+I recognized that he was right.
+- I just wanted to sort of reflect
+on what you said about
+these sort of shortcuts.
+I think I've had this
+phenomenon happen to me
+sometimes in my life
+where I'm sort of invited to an event
+and it seems like a very random event.
+Often I kind of feel like,
+(sighing) "I don't really wanna go."
+(Steven laughing)
+"You know, none of my friends
+are going."
+But then, maybe at the last minute,
+I just say like, "Well,
+let's just roll the dice."
+And I find that almost invariably
+those are productive meetings.
+I'm kind of wondering if there's
+a takeaway for people here,
+which is that they should
+put themselves in situations
+where the probability of
+forming these shortcut links,
+would it sort of increase
+the luck in your life?
+- You have just put your finger
+on a very famous phenomenon in sociology
+that is called the strength of weak ties.
+'Cause you ask people
+how they got their job,
+and people would say, "Oh yeah,
+I heard about it from, you know, Randy."
+And then he'd say, "Oh, is
+Randy a friend of yours?"
+and people invariably would say,
+"No, he's an acquaintance.
+I wouldn't call him a friend,
+he's an acquaintance."
+That's a weak tie.
+The strong tie is your best friend
+or your circle of friends.
+- [Derek] Excited about
+their breakthrough,
+Watts and Strogatz wanted to
+test their small-world model
+on some real-world data,
+but this was 1996.
+- [Steven] We had to think,
+"Well, where are we gonna get data
+on big networks where we could test this?"
+And it was not so easy,
+the internet was not mapped out,
+Google didn't exist.
+- [Derek] So they turned
+to an unusual source.
+- [Steven] There was
+only one nervous system
+that had been mapped at that time,
+which was the worm, C. elegans.
+Tiny worm, like a millimeter,
+that you can find in the dirt.
+A favorite of neurobiologists.
+They knew every cell in
+the body of C. elegans
+from the time it's a single cell
+'til it becomes a whole organism.
+So they had the total wiring
+diagram of that organism.
+- [Derek] Watts and
+Strogatz tested their model
+on the worm's neural network.
+The worm has precisely 282 neurons,
+and on average, they're
+connected to 14 others.
+If you lay that all out in a line
+along the worm's body,
+the neurons at the ends
+would be separated by around 40 steps,
+and the average degree of separation
+would be around 14.
+But when Watts and Strogatz
+ran the calculations,
+they found the average
+degrees of separation
+between any two neurons was just 2.65.
+To put that in context,
+if they were connected totally at random,
+it would be 2.25.
+- [Steven] And yes, okay, so bingo,
+that was a small world.
+Then we were popping the champagne.
+I mean, that was really exciting
+that nature had done that.
+So then we thought, "Well, okay,
+but this should be true
+of lots of networks
+because nature can't
+resist this mechanism."
+- [Derek] So they looked
+at Hollywood actors
+and power grids across the US.
+Sure enough, they were
+both small-world networks.
+For example, in the database
+of over 200,000 Hollywood actors,
+the average degree of
+separation was less than four.
+Dangerfield was in "Caddy Shack"
+with Bill Murray,
+and Bill Murray was in
+"She's Having a Baby"
+with Kevin Bacon.
+- [Steven] Then the real payoff for us,
+as people interested in dynamical systems
+more than graph theory,
+was, "Okay, so what?
+You know, so what if the world is small?
+Does that affect how things get in sync?
+Does it affect how diseases spread?
+Does it affect how information travels?
+Whatever."
+And so we did a number of experiments,
+again, in the computer, like that.
+- [Derek] Take disease.
+I wanted to know how a few shortcuts
+would affect how disease
+spreads through a network.
+So I asked Casper and the team
+to make a simulation.
+- [Casper] And then
+the question to you is,
+do you wanna start with a
+completely regular world
+where it's completely clustered
+or do you wanna start
+with completely random?
+- [Derek] I would start
+with a regular world.
+- [Casper] Okay.
+There it goes.
+- [Derek] There's the
+spread of infections.
+- [Casper] Yeah.
+- Wow.
+- So it takes over the world,
+completely.
+Well, if every step was a day,
+it would take 73 days for
+the, you know, infection
+to take over this entire world.
+- [Derek] Well, let's introduce
+a few shortcuts and see.
+- [Casper] Okay, let's make
+it small world, like 10%.
+Let's go.
+- [Derek] Boom.
+Wow, that's really dramatic.
+- (laughing) Whoa.
+Right?
+- That's really dramatic
+and very fast.
+- Yeah, so fast.
+Yeah, after 26 days,
+the whole world.
+- [Derek] And that ramp up
+does look exponential at the beginning.
+- Right?
+- And then it kind of looks
+linear there as well,
+but it's almost like
+you can't go any faster.
+- [Casper] Yeah.
+Okay, so now let's make it
+a completely random network.
+(inquisitive music)
+- [Derek] Boom.
+- Boom.
+- Crazy.
+How many days now for
+a fully random network?
+- [Casper] 25.
+- [Derek] Basically identical.
+- [Casper] Which is crazy
+because in the random case,
+all your links are random.
+You know, in the small-world case,
+it's just 10%.
+It's like if one out of your
+10 friends are a shortcut,
+which, you know, for some
+people might be a bit much,
+but I reckon for you,
+it's probably about right.
+- [Derek] Yeah, I got lots of shortcuts.
+(Casper laughing)
+- [Casper] But the crazy thing is
+that in this simulation,
+we only use 100 nodes.
+And if you use the same model
+to the eight billion people on Earth,
+then you would actually need less than 1%
+of all your links to be shortcuts.
+- [Derek] In 1998, Watts and Strogatz
+published their findings
+in a three-page article in "Nature,"
+and the paper took off.
+Within a few years,
+the paper already had
+hundreds of citations.
+By 2014, it was ranked
+the 63rd-most-cited paper
+of all time.
+And today, it's got
+around 58,000 citations.
+That's higher than Peter Higgs'
+paper on the Higgs boson,
+and almost three times as many
+as Watson and Crick's Nobel
+Prize-winning paper on DNA.
+- [Steven] So it's probably
+worth making that distinction
+that citations are one measure of impact.
+We're cited a lot more than Einstein,
+and I think you know who's more important?
+(Derek laughing)
+It's not us,
+but it does mean people
+thought it was worth citing.
+We had many tens of thousands of citations
+from people in far-flung fields,
+from neuroscience, to sociology,
+to graph theory, to computer science.
+Even, you know, English literature,
+people would do things like
+draw networks between words.
+- [Derek] Is there any irony
+in the fact that this paper
+on global networks goes viral itself?
+- [Steven] (laughing)
+Yes, I think so, maybe so.
+(record scratching)
+- [Derek] But then things
+got a little weird.
+- [Steven] That's when I started getting
+some strange phone calls.
+I got a call from somebody at the FBI.
+I was a little scared,
+"What's the FBI calling me about?"
+And so I called back,
+and the person who picks up says,
+"Hair and Fiber."
+(laughing) I was calling
+the Hair and Fiber network
+at the FBI,
+the people who do you know criminology
+based on what telltale hairs or fibers
+are left on the victim's clothes
+after they've been murdered.
+There was a guy who said,
+"What happens when the
+police have a suspect
+and they say, "You have
+fibers on your sweater
+that match the hair of the victim,"
+and then the defense lawyer says,
+"Well, you know, maybe
+the victim was on a bus
+and left her fibers on the bus,
+and then my client sat on the,
+a secondary transfer," they
+would call it, "of these fibers,
+that doesn't prove anything?"
+So the FBI wanted to know,
+what's the probability
+of secondary transfers
+compared to primary transfers
+from actually killing the person?
+And like I said, "Well, I
+don't, what do I know now?"
+(Steven and Derek laughing)
+- [Derek] Now, that's a
+Steve Strogatz problem.
+For most of us, a random caller
+telling you they're an FBI agent
+is probably a scam.
+Chances are they got your number
+from a data leak or a data broker.
+Anytime you provide
+your name, phone number,
+even your Social Security number,
+that personal information can be scraped,
+packaged and sold to anyone who will pay.
+And if criminals get hold of it,
+well, they can open credit
+card accounts in your name
+or even use it to stalk or harass you.
+Fortunately, today's video
+sponsor, Incogni, can help.
+With your permission,
+they'll send out a letter to each broker,
+using the correct legal terms,
+and keep insisting until
+your data comes down.
+And remember, even one unremoved profile
+can be enough for criminals to target you.
+If you sign up to
+Incogni's Unlimited plan,
+you can even flag public websites
+where your information appears
+with their custom removals tool.
+Their data agents will
+take care of the rest.
+Since I started using
+Incogni 18 months ago,
+they filed almost 700 requests for me,
+and over 600 of those have been completed.
+With their Unlimited Family plan,
+you can protect your whole family too.
+So to keep your information safe,
+head over to incogni.com/veritasium
+by clicking the link in the description
+or just use this QR code.
+And when you do,
+be sure to use the code Veritasium
+for 60% off your annual subscription.
+So I wanna thank Incogni
+for sponsoring this video.
+And now back to networks.
+In 1998, Albert-Laszlo Barabasi
+was studying the internet.
+At that time, there were
+around 800 million webpage,
+but despite the web's enormous size,
+Barabasi found that on average
+you could connect any two sites
+with just 19 clicks.
+Apparently the web was a small world too,
+but the strange thing was,
+it didn't look anything
+like the small-world network
+in Watts and Strogatz's model.
+- [Albert-Laszlo] We ended up mapping out
+a region of World Wide Web,
+and we had a very clear expectation
+of how that network should look like.
+- [Derek] Barabasi
+thought the distribution
+of pages and links
+would resemble a bell curve,
+similar to what you'd get
+for people's height across a population.
+Most sites would have some
+average number of links
+and there would be very
+few outliers either side.
+But that is not what he saw.
+(inquisitive music)
+- [Albert-Laszlo] And so we
+measured the distribution,
+and it didn't look anything like
+what we expected. (laughing)
+- [Derek] The curve started out steep.
+Loads of websites had not many links.
+Then there was this really long tail.
+- [Albert-Laszlo] And here we saw webpages
+that had not only a little more,
+but sometimes 100 times more
+links than the average degree
+or the average node on the website.
+- [Derek] These were websites like Yahoo,
+super-connectors that linked
+to thousands of other sites.
+Barabasi called them hubs,
+because when he mapped out the network,
+they resembled the hub of a wheel,
+with spokes going out to
+hundreds of other pages.
+And it was these hubs
+that made the web a small world,
+not shortcuts.
+So Barabasi wondered,
+"How could this apply
+to other networks too?"
+- [Albert-Laszlo] Most real networks,
+or virtually all large networks,
+follow two very fundamental principles.
+First, any large network out there
+never pops out as a large network,
+but it grows, right?
+You have a tiny World Wide Web in 1991,
+and now we have trillions of nodes
+on the World Wide Web.
+How did we get one to a trillion?
+One node at a time,
+one website at a time.
+All the networks out there,
+no matter how old,
+how fast they emerged,
+they always emerged
+with some kind of growth process.
+So if you think about networks,
+you must build in that growth process.
+Number two, when a new node comes in,
+you join Facebook,
+whom you gonna connect to, right?
+And it is somewhat unpredictable,
+but it's biased.
+Your connections are always biased
+towards the more connected nodes,
+simply because you are more likely to know
+more connected node
+than less connected node.
+We named this process
+preferential attachment.
+- [Derek] Barabasi reasoned
+that these two principles
+could explain how hubs naturally emerge
+when a network grows.
+So together with his
+colleague, Reka Albert,
+he ran a simulation.
+- [Casper] We've also got
+a simulation for this.
+They started with a simple network
+of just a few connected nodes.
+Then they begin adding
+new nodes to the network
+one at a time,
+with just one condition,
+they'd be more likely to connect the nodes
+that already had more links.
+- [Derek] That's so cool.
+Looks very biological, very organic.
+Also, I like how the nodes come out
+and they don't just sort
+of stop in one spot,
+they kind of like wiggle around
+and like find their location.
+I really like enjoy this.
+Kind of like a space station.
+- [Casper] That's what I was thinking.
+- [Derek] Or like a space colony, right?
+- [Casper] Yeah, yeah, right?
+Like each little center
+one could be a planet,
+then you've got all the sort of stations
+going around it.
+- [Derek] Yes.
+- [Casper] So when Barabasi and Albert
+let these networks evolve,
+hubs emerged.
+- [Albert-Laszlo] And
+we showed that growth
+and preferential attachment together
+naturally lead to the emergence of hubs.
+- [Derek] With this simulation,
+Barabasi and Albert showed how hubs
+could emerge in virtually
+any complex network.
+Take airports for example.
+In 1955, Chicago O'Hare
+opened to commercial flights.
+Unlike neighboring airport, Midway,
+it had long runways
+and plenty of space for new jet aircraft.
+Airlines began shifting service there.
+As more airlines connected
+flights to O'Hare,
+passengers had more options to connect,
+making it increasingly attractive.
+After deregulation in the 1970s,
+more airlines were free to add routes
+and the feedback loop accelerated.
+Each new route made the airport
+more useful to passengers
+and more appealing to other airlines.
+Today, O'Hare is the
+most connected airport
+in the United States,
+with direct flights to
+well over 200 destinations.
+- [Casper] But we don't just
+see hubs in manmade networks.
+In food webs,
+you have a few keystone
+species, like Atlantic cods,
+that connect hundreds
+of predators and prey.
+And in the metabolic
+networks in our cells,
+you have a few molecules, like ATP,
+that govern hundreds
+of chemical reactions.
+In the neural networks in our brain,
+you have a few regions,
+like the prefrontal cortex
+that link hundreds of different functions.
+Now, as each of these networks evolved
+and grew over time,
+you had new species,
+new reactions and new circuits
+that latched on to what
+was already well connected.
+And so you get this
+sort of natural growth.
+Now, preferential attachment
+isn't the only mechanism
+that can create hubs.
+There are plenty of other factors at play,
+particularly in these more
+complex biological systems.
+But what Barabasi's and
+Albert's simulation showed
+is that all it takes is a tiny bias
+when growing a network
+and hubs end up being inevitable.
+- [Albert-Laszlo] Once hubs are there,
+they fundamentally change (laughing)
+the way the system behaves
+and the way we understand that system.
+- [Derek] Hubs like O'Hare
+mean you can get pretty
+much anywhere in the world
+in just a few flights.
+But that connectivity
+also has consequences.
+In August, 2025,
+thunderstorms shut down Chicago O'Hare,
+and 280 flights were canceled
+and 80 were diverted.
+Overflow hit at least
+six other US airports.
+While some planes stuck in Chicago
+never left for Europe or Asia.
+- [Albert-Laszlo] Bad weather in Chicago
+totally changes not only the
+the travel pattern in Chicago,
+but within 24 hours,
+the whole country is
+being affected by that.
+- [Derek] And we see the same phenomenon
+in natural networks,
+knocking out one keystone species,
+like Atlantic cod,
+can destabilize an entire ecosystem.
+- [Albert-Laszlo] So this is what we call
+the Achilles' heel of networks.
+And this could be good news
+or it could be bad news, right?
+Good news if you wanna create
+drugs to kill bacteria,
+then you're gonna go for the hub.
+- [Derek] This idea has created
+a whole new field of network medicine
+where researchers develop drugs
+to target crucial parts of a
+disease's metabolic network.
+But understanding the role of hubs
+doesn't just help develop
+cures for a disease,
+it can help us control its spread.
+(inquisitive music)
+In 1990, Thailand was facing
+one of the fastest-growing
+HIV epidemics in the world.
+The government tried broad campaigns,
+like posters, TV ads and school talks,
+telling everyone to use condoms.
+But the infection kept spreading.
+So in 1991, the government
+tried something different.
+They started targeting hubs.
+They told brothels around the country
+that every client must use a condom
+or else they'd be shut down.
+And the impact was huge.
+For example, HIV
+infections among young men
+joining the military
+dropped by more than 50%.
+And by 2013, Thailand's
+Ministry of Public Health
+estimated the policy had prevented
+over five million infections.
+All because they realized
+the importance of hubs.
+(upbeat music)
+- [Casper] Hubs and shortcuts
+make any complex network
+more connected than it seems.
+That means things spread quickly,
+whether that's airport delays,
+information or disease.
+But could that impact run even deeper?
+I mean, could the structure
+of our social network
+influence our very behavior and beliefs
+without us even being aware of it?
+- [Derek] Back in 1997,
+Watts and Strogatz investigated just that,
+using a game called
+the prisoner's dilemma.
+It's probably the most famous
+problem in game theory,
+and it's used to represent
+a ton of different conflicts
+we see in the real world.
+We've actually done a
+full video on it before,
+but here's a quick recap.
+The premise is simple.
+A banker with a chest full of gold
+invites you and another player to play.
+You each get two choices,
+you can cooperate or defect.
+If you both cooperate,
+you each get three coins.
+But if you defect while
+your opponent cooperates,
+you get five coins and they get nothing.
+And if you both defect,
+then you each get one coin.
+So what would you do?
+Suppose your opponent cooperates,
+then you could also cooperate
+and get three coins,
+or you could defect and
+get five coins instead.
+So you're better off defecting.
+But what if your opponent defects?
+Well, you could cooperate and get no coins
+or you could defect and at least get one.
+So no matter what your opponent does,
+your best option is always to defect.
+Now, if your opponent is also rational,
+they'll reach the same conclusion
+and therefore they'll also defect.
+And as a result, when
+you both act rationally,
+you both end up in the
+suboptimal situation
+of getting one coin each
+when you could have gotten three.
+(bright music)
+But in 1980, Professor Robert Axelrod
+found that if you play your
+opponent hundreds of times,
+well, then cooperation wins out.
+He ran a tournament among the
+world's leading game theorists
+and all the most successful
+strategies were nice.
+The winning strategy
+was called tit for tat,
+because its default
+position was to cooperate
+and it would only defect in retaliation.
+He also showed that a small
+cluster of cooperators
+can work together to overcome
+a world of defectors.
+- [Casper] So that's kind of
+the scene we're setting, right?
+You get to this realistic place
+where you get tit-for-tat life strategies
+to sort of dominate the world,
+because in Axelrod's tournament,
+every strategy played
+against every other strategy,
+or they only interacted
+sort of with their near neighborhood,
+which is, you know, the small cluster.
+And now you could wonder,
+"Well, what if we start
+changing the way this works?
+What if we put them on a network?"
+- [Derek] Well, Watts and Strogatz
+simulated their own version
+of the prisoner's dilemma
+that did just that.
+They set up a regular network
+where each player was connected
+to a few players on either side.
+Then they would simultaneously play
+against all of their connections.
+The rules were simple.
+If most of a player's
+connections cooperated,
+then that player would also cooperate.
+But if most of their connections defected,
+then they would defect in retaliation.
+They started with a small
+cluster of cooperators
+surrounded by defectors,
+and they watched the network evolve.
+Over time, what they saw
+was cooperation spread,
+just like what Axelrod had found.
+But then they reran the simulation,
+this time with a few links
+rewired to shortcuts.
+And all of a sudden,
+the cooperators were crushed
+and they ended up with
+a world of defectors.
+(defectors whirring)
+And when they started from
+a totally regular network
+and gradually increased
+the fraction of shortcuts,
+they found there was
+this critical fraction
+beyond which the percentage of cooperators
+at the end of the game
+drops to zero.
+- I think the
+thing that's really crazy
+is that you've taken the
+exact same strategies
+with all the same properties,
+same character traits and
+personalities, if you will,
+and you're not changing any of that.
+All you're changing is
+the way they're connected,
+and you go from a world where
+everyone's completely nice
+and working together
+to one where it's filled with nastiness
+and people betraying each other,
+only by changing how they're connected.
+- [Derek] It's like if the
+bulk of your interactions
+are sort of negative,
+then you start being negative too
+and you just contribute
+to the overall negativity.
+Whereas if like a few people are nice,
+and you can imagine, "Oh,
+that makes me feel good
+and so I'm gonna be nicer to that person."
+- [Steven] The intuition
+for that is that cooperation
+is fostered by having little clumps.
+If I have a little clump of people
+that are kind of my buds,
+we get to have a lot of encounters,
+and cooperation tends to
+emerge from familiarity,
+the same way that iteration helps,
+that if I know that I'm
+gonna see you again,
+I'm gonna encounter you again,
+it ends up being to my
+advantage to cooperate.
+Whereas like the world of the internet,
+where anyone can get on Twitter
+and badmouth anyone else,
+that tends to discourage.
+We don't have pockets,
+you don't have communities.
+- [Derek] It kind of explains
+this keyboard warrior phenomenon,
+and that, yeah, people
+say things on the internet
+they wouldn't say to--
+- They wouldn't.
+Most people are nice in real life.
+- [Derek] (laughing) Yeah.
+- [Steven] It's funny
+that the small world,
+I know, you'd think the small world's,
+well, 'cause it's a Disney song, right?
+♪ It's a small world after all ♪
+Like it's supposed to be good,
+and yet it does expose you
+to toxicity and malevolence
+that you might've been shielded from
+in the small town.
+Social media has kind of been
+toxic.
+The initial idea being
+'hey we connect up a bunch of people
+and people who have been
+separated geographically
+we connect you with your old friends.'
+You look of the net effect of it
+and it's actually been
+pretty negative by a lot of measures.
+Intrigued by the findings,
+Watts started wondering if the results
+applied to the real world too.
+For years after I did this work
+I had wanted to test the hypothesis
+with actual human subjects
+So he got some volunteers 
+to play a similar game
+called the public goods game 
+across different network structures
+He was expecting that, 
+like they found previously,
+more shortcuts in a network,
+would make cooperation less likely to emerge.
+But what he found was, 
+the structure of the network
+had no effect.
+Cooperation was just as likely to emerge 
+in a totally clustered network
+as it was in a totally random one.
+- [Duncan] We were very
+puzzled by this result.
+And then we kind of did some more work.
+- [Derek] When Watts dug deeper,
+he realized that the network
+structure did matter.
+In the more clustered networks,
+people were more likely
+to copy each other. 
+So if by chance someone
+started out cooperating,
+then everyone would cooperate.
+But it was equally likely 
+that someone would start out by defecting,
+in which case everyone else would defect.
+And over all the games they played,
+these two effects canceled each other out,
+which is why it seemed like
+the network structure didn't matter.
+- [Duncan] It's sort of
+on a knife edge, right?
+Where like one person
+does something selfish
+and everything goes south.
+In another world, everybody
+kind of holds it together
+and everything goes well.
+ It's crazy that the world
+could be like on a knife
+edge like that, you know,
+could tip one way or the other,
+kind of just depends on how someone
+gets out of bed that day.
+But then
+Watts realized something.
+See, in real life,
+you can choose who you hang out with.
+So he reran the experiment
+allowing players to change
+who they were playing with.
+And this time he used
+the prisoner's dilemma
+so that players could easily
+identify the defectors.
+- [Derek] And the finding was clear,
+the more you allowed players
+to choose who they were playing with,
+the more likely they were to cooperate.
+- [Casper] You can make this
+a lot better for yourself by just
+acting and being decisive
+and being proactive about things.
+- [Derek] Yeah, yeah, it's a thing I try 
+to teach my kids too, like if someone's annoying
+you, just ignore them.
+Like there's nothing to be gained
+by continuing to interact with people
+who are bringing
+negativity into your life.
+- [Casper] In fact, making
+a choice can be powerful
+in more than one way.
+There's
+something about the world
+that makes it prone to those upheavals.
+Meaning it's always kind of poised
+on an edge of instability.
+And that gives each of us more power
+than you'd think we would have.
+It is actually possible
+for individual people
+to start movements that grow and take off.
+And ultimately, if you look at history,
+that is what happens.
+It's always one person who is stubborn
+and does something
+that leads to 10 people, 1,000 people,
+and things change because of it.
+It always starts with one person somehow.
+It's the
+Steve Jobs quote, right?
+The people who are crazy enough
+to think they can change the world
+are the ones who do.
+And the wonderful thing is,
+it all starts with you
+believing you have that power.
+- Yeah
+Learning all about network science
+has taught me many things,
+but perhaps the most important
+is that our networks shape us,
+but our actions shape the networks.
+So choose both wisely.
+- [Casper] Hey, if you made it this far,
+all the simulations we
+ran through with Derek,
+we will actually make them available
+on a website that you can go to
+so you can play around with them yourself.
+So thank you so much for watching,
+we really appreciate it.
+And yeah, see you for the next one.

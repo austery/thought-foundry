@@ -1,0 +1,409 @@
+I grew up in a family
+of small business owners in Argentina.
+My parents ran a curtain and carpet shop,
+so I witnessed first-hand
+how difficult it is to grow a business.
+Trust and support from their community
+were key in keeping the business alive.
+But I decided not to continue
+with my family business.
+Instead, I studied political science.
+I was obsessed with how technology
+could support the growth
+of businesses like my parents'.
+And that curiosity led me to MIT,
+where in 2019,
+my Master’s thesis in AI
+and economic development
+got awarded funding
+to become a real-world pilot.
+And that's how I ended up working
+in informal settlements in Colombia.
+In these neighborhoods
+where I did my research,
+you didn't need a credit
+card to buy lunch.
+It was enough for the shopkeeper
+to know who you were.
+If your mother had a good
+record with loans,
+if you said hello in the mornings,
+if you had a shop
+that was known by the neighbors,
+they will front you the rice,
+the sugarcane, the bread.
+The economy didn't run solely on cash.
+It ran on trust.
+That invisible currency
+that is built over time.
+And I noticed something.
+Those same principles
+I saw growing up in Argentina
+were alive in Colombian businesses, too.
+In many Latin American neighborhoods,
+trust has always been
+the strongest currency.
+A good name.
+But here comes the contradiction.
+When this same person goes to a bank
+and asks for a loan to grow this business,
+they will be rejected.
+They will tell them,
+“You don’t have a collateral.
+You don't have a financial history.
+There's no way we can prove who you are."
+In many Latin American
+neighborhoods, this is the case.
+And in Latin America,
+half of our population
+is excluded from formal credit.
+After a decade working
+at the intersection of financial inclusion
+and urban development,
+I dedicated my life
+to answer one question.
+What if what makes you credit-worthy
+in your neighborhood,
+trust,
+could also make you credit-worthy
+in the eyes of a bank?
+What if your word could be part
+of the risk assessment?
+What if we can scale the access to capital
+by making your potential measurable?
+What if trust could be measured with AI?
+So before I tell you more,
+I want to share a little bit
+of how all this started.
+Since I was a child,
+I dreamed of changing the world.
+And that's why I studied
+political science.
+I thought I was going
+to do it through policy.
+But then I realized policy was not moving
+at the speed people needed to.
+So I turned to technology.
+Technology doesn't recognize
+any geographic boundary.
+So at MIT,
+my classmates and I
+started working on a local project
+to define local marketplaces
+for communities,
+platforms where they can upload
+what they are selling
+and become visible in their community.
+We started visiting these businesses
+to help them to upload
+more pictures of their products
+into the marketplace
+and become known and start selling more.
+And we noticed that they weren't
+growing their sales.
+So when we asked them why,
+their answer was very simple.
+They didn't have enough money
+to buy more supplies.
+Even though they were running
+these businesses for years,
+they couldn't get more inventory.
+They couldn't get any access
+to working capital to buy more inventory.
+So we noticed something.
+We were not facing a visibility problem.
+We were facing a financial
+exclusion problem.
+And the deeper I went,
+the more I learned something
+that we usually don't say enough.
+Being poor is very expensive.
+Products cost more
+when you can just afford them
+in small quantities.
+If you can't buy
+a whole bottle of shampoo,
+you end up buying a sachet.
+If you can't buy groceries
+for the whole week,
+you end up buying by the day,
+and you always end up paying more.
+And when it comes to credit,
+in the financial sector,
+the cost is even higher.
+When you don't have
+a credit history or bank account,
+your only option is to access
+the predatory lenders.
+The "gota-a-gota", the loan sharks,
+and they come at brutal cost.
+They don't ask you for paperwork,
+but they could charge you
+20-percent interest rate per week,
+even per day,
+and they are violent and abusive.
+So I will tell you the story of Maria.
+She's a Venezuelan migrant
+living in a low-income
+neighborhood in Colombia.
+She makes these
+beautiful handcrafted bags,
+and she gets custom
+orders from her clients.
+So before she sells and she gets paid,
+she needs to make the order.
+So she needs to buy the materials
+to make that order happen.
+As Maria is a migrant,
+she doesn't have a bank account,
+she doesn't have any credit history,
+so her only option to buy those materials
+is to ask for money
+from these predatory lenders
+that are really, really dangerous.
+Unfortunately, Maria
+in Latin America is not the exception.
+She's actually the rule.
+She's the rule in Latin America.
+Millions of microbusinesses.
+Microbusinesses like hers are everywhere.
+They are from the corner shop
+to the restaurant to the beauty salon.
+Actually, almost every business
+in Latin America is a microbusiness.
+Ninety-nine percent
+of our businesses are micro,
+and they contribute one third of our GDP.
+But still, they cannot even access
+one dollar from a bank.
+Why? Because they don't have the paperwork
+the financial system was built to require.
+So Maria might not have a credit history,
+she might not have a bank account,
+but she has a phone.
+And there's where we saw the opportunity.
+Not to change who they are,
+but to change how they are seen.
+So when we started,
+there was no data about this economy
+and this segment of the population
+we wanted to help.
+And, you know, that's one
+of the main problems with AI.
+Models can only predict
+what they have already seen.
+So we understood
+that if we wanted
+to start helping this population,
+we needed to build a data set ourselves.
+As this population we're talking about
+are informal entrepreneurs,
+then there's no record, there's no data.
+So you become invisible to the system.
+So in traditional banking,
+the way they give out a loan is usually,
+you know, the risk officer goes
+to the house of the person,
+checks the business with their own eyes,
+talks with the neighbors,
+sees if actually that business exists
+and they make the decision
+based on their experience
+that usually comes with bias,
+it’s subjective, and it’s really slow.
+So at that point, when we started
+to build the data set,
+we were actually building
+the local marketplaces
+where people were uploading
+the products of what they were selling.
+And we noticed that the images themselves
+were full of economic signals.
+We could see if there were
+customers in the back,
+if the product was handmade,
+if there was potential
+for that product or service
+to be sold in that neighborhood.
+So the data was there,
+but just not in the format
+that the banks were trained to read.
+So when we started building
+the data set, we started small.
+Super small.
+We started giving out 10-dollar loans,
+just enough for entrepreneurs
+to refill their inventory
+and enough for us
+to start growing the data set.
+And we were very intentional
+to whom we were giving the loans.
+Half of the people
+we were serving were women,
+because if we want AI to be fair,
+then it needs to learn from everyone.
+So people like Maria the artisan,
+they might not have a credit history,
+but she has a phone that is full
+of clues about her daily economy.
+She has a Facebook page
+where she uploads
+the products she's selling,
+She has, you know,
+text orders that she's receiving.
+She has had this phone for years,
+she has videos
+of the products in her phone.
+So we built a suite of scores,
+AI-powered models,
+that take these invisible data
+into a financial identity.
+This is all the data we are processing.
+But I will concentrate
+on three specific scores
+that are proprietary
+and that have been done by us.
+One of the main scores we have
+is looking at text messages,
+short-code text messages,
+where we are getting
+bill payments, order confirmations,
+mobile recharges,
+any transactions that have been done
+in digital wallets or bank accounts.
+And by using an LLM model
+and machine learning,
+we can detect patterns
+of income, of spending,
+of disposable, available
+balance per month.
+It's a kind of open banking,
+but instead of using a bank account,
+we are using telecom data.
+Another score we have developed
+is using videos.
+We replace that visit
+that usually the risk officer
+is doing to the houses of people,
+that is usually very expensive
+and it takes a lot of time.
+We replace it by users sending
+a one-minute video of their business,
+where they explain what they are doing,
+and using computer vision,
+we can get their stock,
+their inventory, their tone of voice,
+what they are saying about their business,
+their localization, the type of business,
+and all the potential that it has.
+We are detecting their willingness to pay.
+And lastly, we developed one
+that is connecting
+into their social media.
+Right now, most of businesses,
+even if they are informal,
+they are present online.
+They have a Facebook page
+or they have an Instagram.
+So when they apply for the loan,
+they sign up into their social media
+and we can get their videos,
+their pictures,
+So we use, again, computer vision,
+the same one we did
+for the other type of videos.
+But also we get the likes, the comments,
+the engagement they are having,
+their profile bio,
+and we detected that a business
+that has a really strong
+social presence and online presence
+has more probability to pay back.
+So all this data flows into our models
+and we detect patterns and signals
+that can tell us
+can this person be trusted with a loan
+if they never had one before?
+And after three years,
+we can go beyond just saying yes or no.
+That in fact, we do it in just seconds.
+We can also say how much they can repay,
+when and under what conditions.
+This is allowing us to simulate
+the interest rate,
+the number of installments,
+we can also detect for seasonal impact.
+So this is allowing us to offer credit
+that is actually supporting
+people's everyday needs
+and that are tailor-made for them.
+It's not just one financial product
+that we are trying to sell to everyone.
+It's actually understanding
+what do you need for your business.
+So we have validated this approach.
+After all these three years,
+we demonstrated that we can use
+this type of data
+to understand the informal sector.
+Our business and our models
+have reached an accuracy levels
+on top of 0.83,
+which is at market standards.
+We have served more
+than 26,000 entrepreneurs.
+Our models have been trained
+with more than 150,000 data samples
+of informal entrepreneurs
+with millions of data points.
+But it is not just supporting
+the entrepreneur and their family.
+This is changing the financial system.
+What usually took years to be built,
+or maybe we don't have it at all,
+a credit history,
+now can take just months.
+We are building a live financial monitor
+of the financial well-being
+that can be updated daily,
+so you don't need to wait years
+to be eligible for a loan.
+And this is allowing the informal sector
+to access loans
+from the formal banking system
+for the first time.
+Artificial intelligence is not magic.
+It's a tool.
+One that can help us process
+millions of data points
+no human risk officer
+could ever reach, could ever read,
+watch or analyze at scale.
+AI, of course, is improving efficiency.
+But if we design it with intention,
+it becomes more than efficient.
+It becomes fair,
+and it allows us to see value
+where others were seeing risk.
+It's allowing us to see gold
+where others saw stones,
+and it's allowing us
+to offer services at scale,
+while at the same time
+honoring the local knowledge,
+culture and context.
+It’s allowing us the hyper-personalization
+of financial services.
+And to say yes to someone like Maria.
+To say yes to someone like my mom
+all those years ago
+when she started the business.
+And to millions of women entrepreneurs
+that we are pushing this economy forward.
+You say yes, not because
+of a bank statement,
+but because of millions of quiet signals
+that tell us that she shows up,
+she delivers,
+and she can be trusted.
+(Applause)

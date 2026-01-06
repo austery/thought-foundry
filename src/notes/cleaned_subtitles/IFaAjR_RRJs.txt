@@ -1,0 +1,675 @@
+- [Derek] This is a Strandbeest.
+It's a walking skeleton
+that's powered only by the wind,
+created by Dutch inventor Theo Jansen.
+There are no motors and no electronics,
+and they're made of
+the weirdest materials.
+- Tape and glue and snot and screws,
+and gets that force to transfer,
+is really thrilling to me.
+- I mean, now it's on "The Simpsons."
+- The Strandbeest.
+- Uh, is this science or garbage?
+- Dutch art.
+- [Derek] But how do they actually work,
+and why did he build them?
+Well, it all started 34 years ago.
+- I promised myself to
+spend one year on the tubes.
+That was in 1990.
+That got totally out of hand.
+- A little.
+(elegant classical music)
+- [Derek] Now, Jansen's thinking bigger.
+- I hope that that these
+animals can survive
+all the circumstances here on the beach,
+like the storms and
+the water and the sand.
+Hopefully at the end of
+my life, it's that far,
+and that they can live on their own.
+That's the idea.
+A new specimen on Earth.
+- [Derek] But to achieve this goal,
+the beest had to overcome
+six major challenges.
+The first is that they had
+to support their own weight.
+- The beginning, I had lots of trouble
+with the connections, the joints.
+I used Sellotape to connect them.
+And it all broke, you know.
+- [Derek] As a result,
+all the beest could do was lie on its back
+and move its legs a little.
+Yeah, I can imagine the
+first thing I would do
+is stop using tape.
+(chuckling) Like, tape is
+not a long-term solution.
+- Right.
+Yeah, no, it was very short term.
+You can look at some of the pictures.
+It's just like,
+you see some tubes,
+but you mostly see tape everywhere
+trying to hold it together.
+And so he too realizes this very quickly.
+So the first fix to
+this challenge is, like,
+using zip ties.
+Much more elegant, much more clean,
+way, way stronger.
+- [Derek] Jansen restricted himself
+to only a few basic materials.
+Still, five more hurdles remained,
+the next of which was getting
+the beest to walk smoothly.
+To do this, Jansen realized that the path
+traced out by their foot as it moves
+is extremely important,
+because if that's wonky
+and all over the place,
+the beest will likely lose its balance.
+But if instead it traces
+out a mostly flat surface
+along the bottom,
+well, then the beest
+could keep its balance
+and walk properly.
+Now, you can get drastically
+different footpaths
+by changing the proportions of these tubes
+and where they're placed.
+Some footpaths might be wonky,
+others a bit flat,
+or just about anything in between.
+But how do you find the right one?
+That's what Jansen wanted to find out.
+So in 1990, he wrote a computer program
+that could compute the footpath
+for any given combination of proportions.
+Now, you might think,
+"Just have the computer
+go over trillions of possible options
+and then pick the best one."
+But that doesn't work.
+- Then my computer would be on
+for a hundred thousand years, yeah.
+So that's why I use this evolution method
+where you can come there a lot faster.
+- [Derek] So, Jansen ran
+a simulation that started
+with 1,500 different
+combinations of proportions,
+resulting in 1,500 different footpaths.
+Now, none of these curves
+had a great flat surface at the bottom,
+but some were slightly
+more flat than others.
+Those combinations would then reproduce
+and multiply with slight changes
+into 1,500 new combinations.
+This evolutionary process went
+on for months, day and night,
+until, by the end of it,
+these 13 holy numbers came out.
+That's how he describes it.
+They describe the proportions
+and placements of all tubes
+so that when you put them all together
+and start rotating the
+crankshaft right here,
+they give you this footpath.
+This is the path
+that just about every
+Strandbeest has traced out
+for over 30 years.
+If you then connect
+different legs together
+where each leg is out of phase
+of the others by 120 degrees,
+then you get this continuous smooth walk.
+And those 13 holy numbers?
+Well, I guess you could see that
+as the genetic code of the Strandbeest.
+- And the reason you
+offset them by 120 degrees
+is so that there's always feet
+that are in contact with the ground,
+which gives you this smooth ride.
+- [Derek] And getting
+this right is important.
+In 2016, my friend and original
+MythBuster, Adam Savage,
+built his own pedal-powered Strandbeest.
+- I found the movement of
+his robots so compelling,
+because it felt like looking
+at a different kind of nature.
+There's a tremendous amount
+of force on the axle,
+and that he builds all
+this stuff with, like,
+tape and glue and snot and screws
+and gets that force to transfer
+is really thrilling to me.
+To be honest, I built
+one at the Exploratorium
+in their parking lot, over three days,
+and for two days, I was getting it wrong.
+- [Derek] Adam tried all kinds
+of fixes to get it to walk,
+but without success.
+- But I remember building the Strandbeest
+and hearing this guy
+talking about something
+I was getting wrong,
+and I'm tuning him out, tuning
+him out, tuning him out.
+And then at four o'clock
+between days two and three,
+four o'clock in the morning,
+I woke up and I was like,
+(gasps) that guy's right.
+(both laughing)
+And he saw it on the
+invitation to the build.
+He saw that I had missed, in
+my translation of a drawing,
+I had missed one of the linkages,
+and that I had this length
+of the center triangle linkage off,
+and I needed to push it out.
+And it was like night and day.
+I came in, fixed that thing,
+cut all the way up the
+middle of this metal bod,
+extended everything by an inch,
+and all of a sudden it just walked.
+It was like, when you get it
+right, that thing just moves.
+- Ah, yes, yes! (whoops and laughs)
+- Did you ever give that guy a heads up
+and be like, "Hey, yeah."
+- I did, but not till the end of the day.
+- [Derek] Okay.
+- I didn't wanna give him the satisfaction
+while I was still working.
+(both laughing)
+That's my ego. (laughs)
+- [Derek] But Adam's beest
+lived in an exhibition.
+(wind and sand whooshing)
+Jansen's beests, on the other hand,
+spend the entire summer on the beach,
+where they're exposed to the elements.
+So all the remaining hurdles
+are about surviving and
+conquering their natural habitat.
+One major challenge is dealing with sand.
+- [Casper] And the sand is very fluffy,
+so it's very easy for them to get stuck,
+especially if it's a stick.
+It would just bury itself in,
+and then it cannot move,
+so it can survive.
+- [Derek] To prevent this from happening,
+the beests evolved feet
+specifically adapted to the beach.
+- What you can immediately see
+is that it's not just a stick
+that's poking into the ground.
+Instead, you've got this
+large sort of surface area.
+Then it's much easier for it
+to stay on top of the sand.
+- [Derek] But they also fulfill
+a less obvious function.
+- You've got these wires here,
+and what this does,
+together away with the
+larger surface area,
+is it provides a lot more contact time
+where the foot is basically
+in touch with the ground.
+So, when this foot is in
+touch with the ground,
+it can get taken over by another
+and taken over by another.
+And as a result you get
+this very smooth ride,
+which is what you're looking for,
+to save the structure of the Strandbeest
+and not put too much pressure on it.
+- [Adam] Because I built
+one with tennis shoes,
+Theo explained to me
+that having a couple of inches of play
+in the linkage between the
+final ankle and the tennis shoe
+was mission critical
+to allow that foot to stay in place
+while the linkage got the other
+foot up and ready to drop.
+And that's apparently
+how our walking works
+is, you know, it's not a
+straight, like, 1, 2, 3,
+like a robot.
+There is the swing,
+- [Derek] But the beests
+aren't always walking.
+I mean, sometimes they're
+tied up in the same place
+for days or weeks.
+And then, sand poses another major threat.
+- If you leave a structure
+like this on the beach,
+you come back after three weeks
+and it's totally covered with sand.
+To avoid that,
+I thought maybe if they
+just lift up a little bit,
+the sand goes under
+there, and that buries.
+- [Derek] This is how
+flying Strandbeests evolved.
+But the beests also face more
+violent threats, like storms.
+So, how can they increase
+their odds of survival
+during these times?
+Well, for regular animals,
+it's typically easier to
+survive harsh conditions
+by banding together.
+And the same holds true for Strandbeests.
+- And the idea behind this animal
+was that they would survive
+the storm maybe better
+holding each other,
+because if you see an
+individual, like over there,
+if you put it on the beach,
+it blows over very easy.
+So as an individual,
+they wouldn't survive.
+But as a group holding each other,
+they are stronger in strong winds.
+- [Derek] This also allows
+for a different type of Strandbeest
+- One that can be pulled.
+And the big ideas actually
+that this would be pulled
+by the other Strandbeest.
+Now, I asked Theo if I can
+pull it, and he said yes.
+So, we can grab it right here.
+There's some hand markings,
+and then now I should be the motor,
+and his crawler should come behind me.
+So let's see.
+Oh man, this is cool.
+This is very cool.
+Walking a Strandbeest up a Dutch Beach.
+What an epic job.
+- Strandbeests are in
+a never-ending battle
+against the elements.
+But they can help each
+other by working together.
+Not too long ago, I was in
+an endless battle myself,
+with spam callers.
+And fortunately for me,
+today's sponsor, Incogni,
+is helping me in this fight.
+See, there are data brokers out there
+that collect all kinds of data on you,
+like your name, phone
+number, email address,
+and even your social security number.
+And then they sell all of this information
+on the open market,
+and that's why you can
+get spam calls and emails
+from people that you've never even
+given your information to.
+Well, Incogni fights the data brokers.
+You just give them permission,
+and then they'll figure
+out who has your data,
+which laws apply,
+and then send each broker a letter
+with all the correct legal terms
+requesting that your
+information be removed.
+To see just how bad the problem is,
+here's the work Incogni
+has done for me so far.
+Back in September, they
+had filed 192 requests.
+Now, they've filed 260,
+which in total has saved
+me over 160 hours of work.
+So, to try Incogni and
+fight the data brokers,
+visit incogni.com/veritasium.
+You can click the link in the description
+or scan this QR code.
+And when you do, make sure
+to use the code veritasium
+to get 60% off your annual subscription.
+So, head over to
+incogni.com/veritasium to get started.
+I wanna thank Incogni for
+sponsoring this part of the video,
+and now back to Strandbeests.
+But if too much wind is a
+problem, too little is as well.
+- So right now you can actually see
+one of the current fatal
+flaws of the Strandbeest.
+They walk when there's wind,
+but as soon as the wind dies down,
+the animal basically dies down as well.
+And so this is one of the challenges
+that Theo is actually
+trying to solve right now.
+Ah, there it goes again.
+- [Derek] This is similar
+to a challenge that life too has faced.
+See, you can't always rely
+on the currents of the wind or water
+to take you where you need to go.
+So what you want
+is to stock up on energy
+when it's plentiful,
+and then use it later when you need it.
+So you need two things,
+a way to store energy,
+and muscles that can
+use this stored energy.
+Now, to collect energy,
+you've got this sail which
+is moved by the wind,
+and as it moves, it turns this crankshaft,
+which then pushes this piston here,
+and it can store pressurized
+air in this plastic bottle.
+- Just like a bicycle pump.
+- [Casper] Do you know
+sort of what pressures
+it can go up to?
+- It went up to five yesterday.
+So, quite a pressure.
+- Wow.
+- They explode when
+there are 10 bars, yeah.
+Well, once I had a bottle,
+and there was a a piston in there,
+and it flew just next to my ear
+through the window on the
+back, so it broke the window.
+So that was quite a happening.
+- Wow.
+Holy.
+That's lucky.
+(chuckling) That's a close call.
+- [Derek] So, now that you
+have a way to store energy,
+you just need a way to use it.
+(material rustling)
+- And if you connect the
+pressure with a pump like this,
+this jumps out.
+So you have a sort of muscle.
+Muscle is nothing but an object
+which becomes longer
+or shorter on command.
+So, we have pulling muscles,
+and the Strandbeest, we
+have pushing muscles.
+- [Derek] This has
+allowed some Strandbeests
+to crawl slightly,
+others to walk by
+pushing themselves along,
+and one to wag its tails.
+One thing you might notice
+is that with each challenge,
+the Strandbeests become more
+and more like real animals.
+It's as if their process is mimicking life
+and following a similar
+evolutionary pattern.
+And in a way, this is true,
+because they have to overcome
+many of the same challenges
+that animals have had to.
+And as life evolved,
+it became more and more
+aware of its surroundings.
+And in at least one case,
+it became conscious and self-aware.
+But right now, there is
+still one big challenge
+the beests have to overcome.
+- 'Cause they're blind and deaf,
+they don't hear very serious,
+so imagine that you're blind and deaf,
+you can only feel around somehow.
+- So, one of the challenges
+that the Strandbeests run into
+is that they're walking along the water,
+and if they accidentally
+go in the wrong direction
+because they're being carried by the wind,
+then they could end up in the water,
+and that would be disastrous.
+So to fix that, Theo has
+been working on a system
+that can actually sense
+when it's touching the water
+and then hopefully,
+with a connection of
+brain cells and muscles,
+it can then course correct
+to go away from the water
+back onto the beach.
+- And of course it's important to know
+that you're close to the sea, right?
+That's why I have a a water feeler here.
+Oh, great, can you hold it here?
+It goes over the ground about this height,
+and it sucks in air all the time.
+And as soon as it comes into the sea,
+it swallows the water
+and feels the resistance of the water.
+(machine clicking)
+It still doesn't work.
+Well, I must regret-
+(machine rattling)
+Oh, now it's working.
+I'm so happy.
+(crew laughing)
+- [Derek] But those senses are only useful
+if you can process those inputs,
+make a decision on what to do,
+and then issue that to your muscles.
+Like, when you walk into the water,
+you should be able to use your
+muscles to correct course.
+So what you need is a nervous system,
+a sort of brain, if you will.
+- This is a nerve cell.
+If I take the top off
+and if I blow air in here,
+the air goes in here and comes outta here.
+So this is a connection.
+But if I push in this
+piston here, it's blocked.
+So in fact, which you see
+here is only a crank here,
+only a valve.
+Open, close, right?
+Now I go to operate the
+crank here, this air.
+So if I blow air in here,
+this closes, and no air comes outta here.
+If you see this as the output
+and this, the input,
+the output is opposite from the input.
+(upbeat music)
+(graphics beeping)
+In other words, you can
+switch zeros and ones
+just like in a computer.
+So what you see here
+is the beginning of the
+brain of the Strandbeest.
+- Do you have an idea how
+many brain cells you'd need
+to be able to make that work
+so the animal walks into the water
+and is able to turn around?
+- 20, something like that.
+- Wow.
+- Yeah.
+It's not very complicated.
+- Yeah.
+- The only thing is, here on the beach,
+everything is complicated,
+because sand creeps into everything
+and so, yeah, it's not an easy thing, no.
+(gentle music)
+- [Derek] Over time, the
+beests also slowly degrade.
+They lose their color,
+and parts might break off.
+On the scale of the global
+microplastic pollution problem,
+this effect is small, but
+it's certainly not helping.
+Fortunately though, almost
+all parts of the Strandbeests
+are reused, sold as fossils,
+or they end up in the graveyard.
+It's crazy to think that all
+of this has been made possible
+by the obsession of one guy
+tinkering away year after year.
+But why did he do it?
+During the late 1980s,
+it was becoming clear that
+rising levels of carbon dioxide
+would warm the planet,
+and therefore sea levels would rise
+by as much as 2.2 meters by 2100.
+And about a third of Jansen's
+home country, the Netherlands,
+lies below the current sea level,
+so rising sea levels pose
+a clear and present threat.
+So Jansen came up with a solution.
+He imagined this sort of
+walking skeleton on the beach.
+It would be powered by the wind,
+and it would kick up sand as it walked.
+Then this sand would blow to the dunes,
+heightening them and hence
+protecting the Netherlands
+from the rising sea levels.
+He published this idea in de Volkskrant
+and called these skeletons Strandbeests.
+I don't speak Dutch.
+Strandbeest.
+Is it the beach beast?
+Like, what is that?
+- Yeah, perfect.
+It's the beach beast.
+- (laughs) This is such a wacky idea.
+- I know.
+- Who comes up with that?
+- Theo Jansen.
+- [Derek] What started as
+an article in a newspaper
+turned into much more,
+to the point where it's
+basically defined Jansen's life.
+So you might ask,
+is it still really about
+protecting the Netherlands?
+And the answer is no, not really.
+It's about a much more human need
+that most of us have,
+the desire to be remembered
+after we're gone.
+I mean, it's ominous to
+imagine that we'll die
+and be forgotten someday,
+so a lot of us go to great
+lengths to avoid this
+by having kids donating
+large sums of money
+to get a building named after you,
+or writing a book, these sorts of ideas.
+For Jansen, it's making Strandbeests.
+And when they fulfill their final goal
+of living independently on the beach,
+then, he wrote, "I can
+die with peace of mind."
+- The only thing is, I don't
+have millions of years.
+There's the problem a bit.
+But maybe I can hypnotize
+some young people around here.
+There were some people who
+were really very, very nice,
+and they help me a lot,
+so I might be able
+to infect them with this Strandbeest virus
+- Because people all over the world
+are actually using this as well,
+so, like, the virus is
+spreading, in a way,
+or whatever you want to call it.
+- [Derek] Thousands of
+people all over the world
+are incorporating his 13 holy numbers
+into their own designs.
+From miniature Strandbeests,
+to ones you can ride,
+to a walking bicycle.
+The genetic code of the beests
+is spreading all over the world.
+- He wants everyone to build one of these,
+but I don't think he's
+got any ulterior motive
+except that he likes
+seeing those things go.
+And when he makes them go,
+he has a set of rules and restrictions,
+but he doesn't place those same
+restrictions on anyone else.
+I think that's really beautiful.
+- And who knows,
+perhaps one day they'll
+achieve that ultimate goal.
+A new species on earth,
+roaming the world's beaches,
+kicking up sand all along,
+and maybe even protecting some coastlines
+from rising sea levels.
+(gentle music)
+(graphic beeping)
+♪ It's Strandbeest
+driving through the sand ♪
+♪ Legs moving like a marching band ♪
+♪ Strandbeest, strandbeest ♪
+♪ Voices chant and never cease ♪
+♪ Strandbeest, strandbeest ♪
+♪ Marching to the rhythm's beat ♪

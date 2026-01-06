@@ -1,0 +1,1054 @@
+- This is Linus from Linus Tech Tips
+and we hacked the phone
+network in order to spy on him.
+- That's pretty messed up Derek.
+I slept easier not knowing that.
+- We intercepted his phone calls
+and stole his two-factor passcodes.
+Is that your number Linus?
+- Yeah, but I didn't get,
+mine didn't even ring.
+- We didn't touch his phone.
+We didn't send him an
+email or a text, nothing.
+We did it all remotely
+and the worst part is
+it could happen to you.
+- I think I'm really
+surprised that, no offense,
+but like you guys did it.
+(Derek Laughing)
+Well, you're not a career
+criminal hacker mastermind,
+necessarily.
+- No, indeed.
+- But here it is, a normal looking
+and feeling device with no,
+you know, obvious problem
+with it and you just receive my call
+instead of me receiving it.
+Just what, like on command?
+You just, it's an app on
+your computer or what?
+I don't even know.
+- But before we explain
+how we did all that,
+(upbeat music)
+(crowd clapping)
+the first startup that Steve Jobs
+and Steve Wozniak made wasn't Apple?
+No, they were tackling
+a different problem.
+One where their product
+was actually illegal.
+So back in the 1970s,
+long distance phone calls
+were really expensive.
+Adjusted for inflation,
+a call from New York to London
+could run you $25 a minute.
+So these two entrepreneurs
+created a little blue box
+and what it did was it
+hacked the telephone network.
+They could trick the telephone
+company into connecting
+the calls for free among other things.
+- We were young and what we learned
+was that we could build
+something ourselves
+that could control
+billions of dollars worth
+of infrastructure in the world.
+I don't think there would've
+ever been an Apple computer
+had there not been Blue Box.
+- [Interviewer] Woz said
+you called the Pope.
+- Yeah, we did call the pope.
+Woz pretended to be Henry Kissinger
+and we got the number of the Vatican
+and we called the Pope and
+they started waking people up
+in the hierarchy, you know,
+I don't know, cardinals
+and they actually sent someone
+to wake up the Pope when finally
+we just burst out laughing
+and they realized that we
+weren't Henry Kissinger.
+- But how were they able to do all of this
+with one electronic box
+made from Radio Shack parts?
+(telephone ringing)
+Until the mid-1920s, most
+phones had no way of dialing.
+When your phone was on the hook,
+about 48 volts was connected
+from the exchange to your phone.
+Then when you lifted the receiver,
+an internal circuit connected the speaker
+and microphone drawing power
+and that caused the voltage
+to drop to around 10 volts.
+And at the telephone
+exchange this drop turned on
+a light bulb alerting the
+operator who would then pick up
+and ask who you're calling.
+- [Sarah] Boston.
+- Sarah, get me the Bluebird Diner.
+- And after consulting a directory,
+they would connect a
+wire between your line
+and your friends.
+Manually connecting calls
+was labor intensive.
+Operators had to handle hundreds
+of connections per hour.
+In 1910, one pundit said,
+"Soon the telephone system will need
+to employ every working age woman
+in the country as an operator."
+By 1950, there were more than a million
+of them in the US alone.
+To reduce costs, companies sought
+to automate the call connection process
+and one solution was the
+rotary dial telephone.
+To use it, you place your
+finger in a number hole,
+rotate it to the end and
+the dial rotates back
+and on the inside a metal
+disc with ridge's turns,
+each ridge pushes two
+metal plates into contact
+completing the circuit to the exchange.
+The dial sends pulses
+to match each number.
+For the number two, it sends two pulses.
+For the number three
+it sends three pulses.
+This goes on up to 10
+pulses for the number zero,
+which is why zero is at
+the far end of the dial
+instead of beside the one.
+Those pulses that travel down
+the phone line, they determine
+how your line is connected.
+So they're known as control signals,
+but as the length of the
+transmission line was increased,
+so did its capacitance and resistance
+and this caused the clear input
+signals to become distorted,
+smoothing out voltage changes.
+So now the pulses couldn't trigger
+the switching at the exchange.
+While this wasn't a
+problem for local calls,
+it made automating long
+distance almost impossible.
+Now all phone lines including
+long distance ones were built
+to carry sounds in the human voice
+and hearing range, mainly
+from 300 to 3,400 Hertz.
+So why not use this built-in capability
+to carry control signals.
+To do this, phone companies
+introduced the touch tone
+or push button telephone.
+On a keypad,
+specific frequencies were
+assigned to the horizontal axis
+and the vertical axis
+so that each button was
+uniquely identifiable
+by the combination of two tones.
+(buttons beeping)
+By sending control signals
+within the voice band,
+all telephone networks could receive it
+using their existing systems
+independent of distance.
+But with this innovation
+came an opportunity for jobs
+and Wozniak to exploit.
+When you made a long distance
+call, it was first routed
+to a central node.
+This node communicated with a remote node
+and they determined if a line was free,
+by checking whether both sides
+were sending a 2600 Hertz tone.
+So Jobs and Woz exploited this.
+First, they would dial
+a toll free 1-800 number
+which would get them into a local node
+and then they would send a
+2600 hertz tone into the phone.
+This would trick the remote node
+into thinking the call
+had been disconnected.
+So the remote node would start
+playing the 2600 hertz tone
+again, but Jobs and Woz
+were still on the line.
+And when they stopped playing
+the tone on their side,
+the remote node assumed a
+new call was being placed.
+By sending a key pulse tone
+followed by the desired phone number
+and ending with a start
+tone, they could connect
+to any long distance number for free
+as the home node still
+believed it was connected
+to a toll-free number.
+The vulnerabilities in the
+signaling system were obvious
+to mimic the 2600 hertz tone.
+Some people would even use a toy whistle
+from a Cap'n Crunch cereal box.
+It just happened to make that frequency.
+(whistle blowing)
+The telephone companies clearly needed
+to develop a new signaling protocol
+and their solution was to
+use a separate digital line
+for carrying control signals.
+That way no one could control the network
+by sending tones down the voice line
+because it no longer controlled
+how the call was connected.
+This new protocol was called
+Signaling System no. 7
+or SS7 for short.
+And it's still broadly in use today,
+but it may not be as
+secure as people thought.
+- Hello, my name is Latifa Al Maktoum.
+I was born-
+- Princess Latifa
+of Dubai claimed that her
+father Sheikh Mohammed,
+the ruling emir had held
+her in solitary confinement
+in the dark, beaten and
+sedated for several years.
+In late February, 2018,
+her Finnish martial arts
+instructor Tiina helped her escape.
+They fled to a yacht captain
+by former French intelligence
+officer, Hervé Jaubert.
+And for eight days they
+sailed toward India.
+Latifa was hopeful but it wasn't to last.
+Late on the night of March
+4th a dark boat pulled up
+alongside it was sent by her father.
+Laser cites pierced the smoke
+as agents boarded the yacht,
+abducting Latifa and
+taking her back to Dubai.
+But how did they find her?
+Well the captain had been the victim
+of a coordinated SS7 attack,
+one aiming to pinpoint his location
+and by extension the
+whereabouts of the princess.
+And I'm going to show you how
+using the exact same steps
+to spy on my friends with
+their permission of course.
+This is Karsten Nohl and
+Alexandre De Oliveira.
+They are cybersecurity specialists
+who are helping me spy on Linus.
+We took three steps to spy on him.
+First you have to infiltrate SS7,
+second gain trust and third attack.
+Of course, the main reason
+any of this is possible
+is step one.
+When SS7 was introduced in 1980,
+mobile phones barely existed.
+They were so big that
+they were mainly just used
+as car phones but things changed quickly
+and the number of mobile
+phones in the world exploded.
+- Roaming is one of the
+main use cases of SS7.
+Say Derek, you visit me over here.
+Your phone would try to connect
+to a network that's foreign
+and that network would
+then have to reach out
+to your home network in Australia asking,
+is this a valid customer?
+Are you willing to pay for the charges
+that they'll incur on my network?
+And all of that information
+is exchanged over SS7.
+- For this to work,
+telcos need to communicate
+with each other.
+So the way they do that is
+by making sure they're part
+of the same club.
+The way they share membership to this club
+is by using unique addresses to identify
+where requests are coming from.
+- SS7 is a global network,
+just like the internet
+and like on the internet you
+need some addressing scheme.
+So you need some way of saying
+this is me and this is you.
+And on the internet we use IP addresses.
+On SS7 we use what's
+called Global Titles, GTs.
+- [Derek] So to provide
+global roaming coverage,
+telcos typically establish agreements
+with two providers in
+each country they serve.
+One primary and one backup.
+Telcos generally accept
+messages only from Global Titles
+with which they have agreements.
+And the whole system is
+designed to be a closed network
+with few barriers once inside,
+this is known as the
+walled garden approach.
+So this system seems
+pretty secure and it was.
+When SS7 was developed in the '80s,
+the telecommunications
+landscape was dominated
+by a few large reputable operators.
+These operators had
+established relationships
+and mutual interest in maintaining
+the integrity of the network.
+But 45 years on the landscape
+has shifted dramatically.
+Now there are over 1200 operators
+and 4,500 networks,
+many of which need SS7 access
+from virtual network operators
+to mass-text services sending
+Uber Eats notifications.
+There are so many more players
+in the garden that not all
+of them are trustworthy.
+- Those companies, some of them
+sell services onto third parties,
+some of them can be bribed,
+some of them can be hacked.
+So there's probably thousands
+of ways into SS7 at
+reasonable effort or cost.
+- How much are we talking
+like how much would it cost
+to buy access to SS7?
+- Buying a single SS7
+connection isn't that expensive?
+We're talking a few
+thousand dollars per month.
+- The people who do sell access,
+I mean, why would they do it?
+- People sell SS7 for one reason money.
+- And thanks to global agreements
+between providers accessing a trusted GT
+is like gaining access to all the GTs
+they have partnerships with.
+We even saw the invoice
+of a valuable US-based
+GT being leased illegally
+for $13,000 a month.
+Are you buying access to SS7?
+- I'm paying for access to SS7. Yes.
+And we do that because
+we do SS7 security tests.
+So we need to be in a similar
+position as real hackers
+to get near real results.
+- So step one, infiltrate SS7 is complete.
+Onto step two, gain trust.
+Hackers today can try
+many different things
+once they've scaled the
+wall into the garden.
+But you need more than just SS7 access
+and a phone number to attack.
+Even a trusted GT and the
+phone number of the target
+isn't enough to uniquely identify them.
+Now you need something from the SIM card.
+The real key in a mobile network
+is a unique 15 digit identifier
+which belongs exclusively
+to the SIM card on the phone.
+It's called an international
+mobile subscriber identity
+or IMSI for short.
+And it is very important.
+- Basically to be able to collect the IMSI
+from a subscriber,
+we would launch some of the messages
+such as send routing info
+or send routing info for SM.
+These messages are normally
+used to collect the IMSI.
+- Networks have firewalls in place
+that will deny some requests
+if they look suspicious.
+Getting an IMSI is
+crucial to appear trusted.
+So let's move on to the
+critical step three, attack.
+Do you wanna just like try the phone?
+Is there anything you can
+try to see if it works?
+Like call someone.
+- Sure.
+- [Derek] Or text someone?
+- Sure. I'll call my wife.
+- She normally pick up.
+- Yeah, she'll probably pick up.
+- [Yvonne] Hello?
+- Hello Yvonne, this is
+the voice of your husband.
+I would like to talk to
+you about the payment.
+- Okay, thanks.
+- No, no, it's me. It's me.(laughs)
+- Did she hang up on you?
+- Yeah, yeah, she did.
+So we've established the phone works
+as a completely normal phone.
+- Do you have any
+important calls coming up?
+- I don't know if I'd say it's important,
+but I'm on my way to
+Creator Summit tonight
+and James from Hacksmith was gonna call me
+when we're gonna kind of make some plans.
+(phone rings)
+- I'm getting a call right
+now. Are you getting a call?
+- No.
+- Hello, this is Linus.
+- [James] Hey Linas, it's
+James. How's it going?
+- It's going really well. How are you?
+- [James] Pretty good. Am I
+gonna see the YouTube summit?
+- Yes, I'm really looking forward to that.
+And man, do I hate Macs?
+So I feel like that's your persona man.
+You can't game on a Mac.
+Linus, you wanna talk?
+- I would like to talk but
+I never got the call, so...
+- What number did you dial?
+- [James] 4473.(beep)
+- Is that your number, Linus?
+- Yeah, but I didn't get,
+mine didn't even ring.
+I heard it ring but I heard it
+through my speakers on my computer.
+'Cause I assume it went
+to your phone then.
+- That's right.
+- [Linas] Or did it go
+to your computer?
+- No. Yeah, it went to everything of mine.
+So yeah, James, I don't know.
+You called Linus and it went to me.
+Thank you for taking part
+in this weird demonstration.
+- There is absolutely
+nothing here to indicate
+that I was supposed to receive a call.
+- Yeah, and I mean the crazy thing
+is that's like a regular
+Canadian SIM card in there.
+So any Canadian SIM card in
+theory could be vulnerable
+to such an attack where you
+know, someone dials your number
+and it just doesn't go to you.
+- This is like phreaking but on
+a completely different level.
+- That's exactly it.
+- Now I'm familiar already with
+the concept of SIM swapping
+where you social engineer
+a way to get a SIM
+that is registered to
+someone else's account.
+We've actually had accounts
+stolen that way in the past,
+but in this case my phone still works.
+- [Yvonne] Hello?
+- Hey, so the demo we're
+doing is pretty trippy hun.
+Basically they had Hacksmith call me,
+my phone didn't ring at all
+and instead Derek from Veritasium
+picked up the phone call
+and was able to talk to him
+and Hacksmith had no idea
+that he called me and then-
+- [Yvonne] Sorry,
+I'm with Cindy.
+- Oh. Oh, hi Cindy.
+- [Yvonne] Oh, you're not on speaker.
+- Okay, that's fine. Just
+tell Cindy hi for me.
+- [Yvonne] Okay.
+Okay, goodbye.
+- [Derek] So how are we
+able to seize control
+of Linus number like that?
+- When you put a phone
+number in your address book,
+you often don't put the country code,
+but then if you're in a roaming scenario,
+that phone number would connect
+to a completely different person
+in the country you're currently in.
+So it does make sense to basically
+overrule people's choices
+as to whom they're trying to dial
+because they're not gonna
+triple check each time
+whether the address book entries
+have country codes in them.
+- This is a powerful function
+by tricking the network into
+thinking his phone is roaming,
+we can rewrite the number
+he is calling to a number
+that we control.
+- And so what I did at the
+end was when I received
+this message, I sent back your
+number that you can see here
+was your US based number.
+So even if you were located in Australia,
+I was still able to
+forward the call to you
+on your US number in Australia.
+- That's amazing.
+You just try a few times
+and then it works, right?
+- Yes, it's not always
+that simple,(laughs)
+but this time it was quite difficult.
+- So the most important
+question I have now then is
+what did you need to steal from me
+in order to become me?
+Like is this something
+you can social engineer
+out of my carrier?
+Is this something that I would need
+to accidentally leak a
+screenshot of my IMEI.
+- At the very simplest, all we would need
+is your phone number.
+That's it.
+You could even do
+something where I could act
+as a middleman where I would
+reroute the call to me,
+but also simultaneously I would
+dial for you the real number
+and I would send you through to them
+and then I can sit on the line
+and just record that call.
+- Yikes.
+- But this isn't the only attack.
+We can do a lot more with SS7.
+We can also intercept text
+messages as part of our suite
+of attacks.
+Similar to phone calls,
+we can trick the network
+into thinking the target
+is roaming, which reroutes
+their messages to our GT.
+We can then steal one time passwords
+used in two factor authentication.
+This type of attack works
+until the subscriber interacts
+with their phone network,
+at which point the phone
+reconnects to the correct GT.
+- But you need a few seconds
+only to hack into somebody's account.
+Of course you need that few second window
+to receive the one time password.
+- So we actually set up a
+new Linus YouTube channel.
+- Okay, so theoretically
+he could get this username
+and password via a dump
+because I'm a butthead
+and I use the same username
+and password across different accounts
+or he could install a
+key logger on my system.
+He could get it that way
+when I'm typing it in.
+So then I verify my number.
+But of course he has my number
+because that's realistically
+not that hard to find.
+And theoretically I'm supposed
+to get a two factor
+code right now except...
+- I got it, 820299, I'm in.
+- [Linas] He's in. He hacked
+the mainframe. Wild hey.
+- Yep, we could hack your YouTube account.
+I'm gonna put, I'm gonna
+start posting science videos
+on Linus Tech Tips.
+- Oh, that's okay.
+I'm sure they'll get like 30
+million views or whatever.
+So I'll be fine with it.
+Thanks for the AdSense
+(Derek laughing)
+- [Derek] Deal.
+And you could see the code right there.
+- [Alexandre] Exactly.
+So you could see that at
+the at the bottom. 820299.
+So basically once the
+interception is running,
+then I would receive any SMS sent.
+- He would never have known
+that he missed those messages
+or that they were intercepts.
+- Exact, exact.
+- Wow. Yeah, this seems pretty serious.
+I mean, SMS two-factor authentication
+is almost the default, right?
+- Unfortunately, yes,
+it's not only the default
+but in some cases it is
+the only available option
+and sometimes that can
+even be for accounts
+that should be treated with the utmost
+of care like a bank account.
+- [Derek] There's a third method of attack
+that we weren't able to show Linus.
+Lucky for him,
+his network blocked the requests.
+On many networks,
+you can use the IMSI number
+in the switching center info
+we harvested in step two
+to send a command deeper into the network.
+By targeting the switching
+center where the device
+with the IMSI is connected,
+we can issue a command routinely used
+for legitimate purposes such
+as routing and forwarding calls
+or providing emergency services based
+on the device's location.
+Using this request we can
+track a target's location.
+It's not as hard as you'd think.
+SS7 doesn't even rely on
+GPS to locate someone.
+In fact, it was invented before
+GPS was even in public use.
+One way to do this is
+if a target is in range
+of multiple cell towers, their
+location can be narrowed down
+to where the signals overlap.
+The more towers in range, the
+more precise the location.
+A more accurate method
+measures the time it takes
+for signals to reach a
+phone from three towers.
+By calculating the distance
+based on transmission speed,
+we can pinpoint an exact
+location on a 2D plane,
+but SS7 attacks don't use
+either of these methods.
+They try to be subtle.
+An SS7 location request simply
+identifies the cell tower
+the target is connected to.
+In an urban area with many towers,
+this can place them to
+within a hundred meters.
+- You'll definitely know which
+city block somebody is in
+and if you wanted to, for
+instance find out was it at home
+and or at work, this is
+a great way to do it.
+- Yeah, it's a little bit scary.
+In 2016, Karsten and his
+team used this method
+to track US Congressman Ted Lieu.
+- The congressman has been in California,
+more specifically the LA area.
+Let's zoom in here a little bit.
+- So that is how we did it.
+We executed three steps.
+We infiltrated SS7,
+gained trust and attacked.
+We intercepted Linus phone
+calls and text messages.
+I'm not sure he was as
+excited about it as I was.
+- This is why we can't have nice things.
+- Up until now, this has
+just been a bit of fun.
+I've demonstrated these
+attacks on a friend of mine,
+but the threats are real
+and they can have
+devastating consequences.
+"They will kill her."
+The captain texted shortly
+before Latifa was abducted.
+His phone was the target of an SS7 attack
+that involved all three
+of the steps we explored.
+To start, the attackers
+had leased multiple GTs
+in different countries
+then the following all happened
+in a five minute window.
+First they sent at least
+seven separate requests aiming
+to get the captain's IMSI
+from his US based operator.
+When that didn't seem to
+work, they followed up
+with at least four location requests.
+So did it work?
+Well, all of these requests
+were blocked by firewalls.
+That's why we have all the details.
+But there was a sixth GT we haven't shown.
+This one nearby in the US,
+we have no information about
+the requests on this GT
+because they likely weren't stopped.
+We spoke with Crofton Black,
+the investigative journalist
+who revealed the SS7
+exploits in this story
+and this is what he told us.
+"It's a brilliant example
+of SS7 involvement
+because it illustrates a
+classic sophisticated pattern
+of attack, multiple GTs
+and multiple countries.
+It's a textbook example of
+telco penetration risks."
+Though, because the Emiratis
+were also using other software
+like Pegasus and other
+hardware like spotter planes.
+We can't say that any single
+one of these was the thing
+that led to her being found.
+But the evidence is damning
+and SS7 is used pretty widely.
+Criminals have used SS7
+to intercept SMS two-factor
+authentication codes
+and empty millions of
+dollars from bank accounts.
+For some SS7 is just the first step.
+The NSO Group,
+a notorious Israeli cyber
+surveillance firm acquired
+an SS7 tracking company in 2014.
+NSO is the company behind
+Pegasus, a spyware tool
+that gains complete access
+to targeted phones without
+a user clicking anything
+embedding itself and
+erasing traces of entry.
+Such zero click hacks are costly.
+They can cost more than
+$4 million per exploit.
+Before NSO commits resources
+targeting specific software
+or vulnerabilities on a phone,
+first they gather basic
+data like device type
+and software version to
+make their lives easier.
+And as you've seen with
+SS7, this isn't hard.
+One expert we spoke to
+tested a foreign network
+and found 20
+to 30 VIPs were constantly
+under surveillance there,
+including the country's
+chief of cybersecurity.
+Accurate data on tracking
+is difficult to come by,
+but another expert provided
+evidence of more than two
+and a half million
+tracking attempts per year.
+Though they reminded us that
+the people being targeted
+are generally those of
+interest to state agencies.
+Now we couldn't find data
+on interception attempts,
+but luckily experts told
+us this is far less common.
+So millions of malicious SS7
+requests are sent each year,
+but it used to be even worse.
+To request location over SS7,
+you used to be able to send a
+command without even knowing
+the IMSI and the network
+would just provide it to you.
+No questions asked.
+- The classical example is
+the anytime interrogation
+request, which as the name already suggest
+is have a creepy command.
+I don't believe there's
+ever legitimate purpose
+for one network to send this command
+to another network interrogating
+about their customers.
+- [Derek] Karsten Nohl
+and fellow security
+researcher Tobias Engel
+exposed these vulnerabilities
+publicly in 2014.
+- The SS7 research that
+was disclosed in 2014
+was a wake up call to the industry.
+Most people had heard
+rumors that SS7 tracking
+and spying was possible,
+but they hadn't really
+seen hard evidence of it
+and especially how easy
+it is that ragtag gang
+of hackers from Berlin
+with very amateur means can do any type
+of SS7 hacking that they want.
+- [Derek] After their conference,
+all of the German telcos
+immediately started
+refusing these requests.
+- Anytime integration is
+the first SS7 command,
+everyone stopped because
+it was abused a lot
+and never used constructively.
+But there is over 150 other
+messages that need to be stopped
+as well to make SS7 be completely secure.
+- So if there are so
+many ways to abuse SS7,
+why haven't we gotten rid of it?
+Well, because it's the backbone of 2G
+and 3G communications.
+So what if we phase out 2G and 3G?
+Well, that has caused problems.
+Since 2018 cars in the EU are equipped
+with mandatory emergency call buttons
+that trigger in an accident.
+They need a SIM card to
+work and to cut costs,
+guess what auto manufacturers are using.
+That's right.
+2G and 3G SIM cards using SS7.
+- You have to have that legacy support
+or when 4G connectivity drops,
+you have absolutely nothing left.
+Dude, the number of times that
+I'm on 3G, not insignificant.
+And I'm in a metropolitan area.
+- What's surprising, of course,
+is that there hasn't been a
+global push yet to replace SS7
+with one of the two newer
+versions of the technology.
+The latest of which that was introduced
+with 5G seems pretty secure,
+but that's now a problem of
+first mover disadvantage.
+So because of the network
+effects you get nothing
+out of adopting a
+technology as the first guy.
+You wanna be the last
+one when everyone else
+is already connected and
+you get the full benefit
+from also joining the club.
+- [Derek] So even though
+the 5G signaling protocol
+can stop the attacks
+completely and many networks
+are using 5G technology on their networks,
+when routing calls between networks,
+SS7 is still the de facto standard.
+- You create a tremendous
+amount of inertia to use a term
+that's probably more your
+channel than my channel.
+That makes moving on extremely difficult.
+- So unless there are
+some new major events
+that put this back on the public radar,
+it could be another 10,
+15, maybe even 20 years
+until SS7 networks are
+finally switched off.
+- What's crazy is that we
+exploited these vulnerabilities
+and I'm just a YouTuber.
+I did have the help of some
+excellent security researchers,
+but I'm surprised at how easy it all is.
+Now imagine if I had the
+backing of a government.
+This is a real problem.
+So what can you do to protect
+yourself on the personal side
+as long as you have a SIM card?
+Unfortunately there's not much you can do
+about location tracking.
+If possible, choose alternatives
+to SMS based two-factor authentication.
+So messages can't be intercepted.
+Use an Authenticator
+app or hardware tokens.
+And if you're worried about phone tapping,
+use encrypted internet
+based calling services
+like Signal or WhatsApp.
+We've been told this is mainly
+used on people of interest.
+So should it really matter to you?
+- SS7 is a huge privacy intrusion
+and there's this millions of
+abuse cases every single month.
+Whether privacy intrusion is
+a problem for individually,
+of course as almost a
+philosophical question, right?
+Somebody who grew up more
+in the Berlin tradition
+of the Chaos Computer Club like myself,
+strongly beliefs that privacy
+and the ability to kind
+of form your own thoughts
+without being observed is a
+prerequisite for democracy.
+But many other people would argue nothing
+to hide, nothing to fear.
+(scrappy music)
+- Our technological world
+will never be perfect.
+By the time we secure or replace SS7,
+vulnerabilities will
+already have been found
+in the new system,
+but luckily there's an
+easy way to be ready
+for whatever the future
+holds, build your knowledge
+and problem solving skills
+a little bit every day.
+And you can start doing
+that right now for free
+with this video sponsor, Brilliant.
+Brilliant has thousands
+of interactive lessons
+where you can learn by doing,
+making you a better thinker
+and problem solver.
+You build real skills
+in everything from math
+and data analysis to
+technology and programming.
+You name it.
+Brilliant, is designed
+to be uniquely effective.
+Their first principles
+approach helps you build
+understanding from the ground up.
+So you'll not only gain
+knowledge of key concepts,
+you'll learn to apply them
+to real world situations all
+while building your intuition,
+giving you the tools to
+solve whatever problems
+come your way.
+Brilliant's new course on
+data clustering, for example,
+equips you with the same tools,
+security researchers like
+Karsten used to spot trends
+among the billions of SS7 messages.
+This is really helpful
+when hunting hackers,
+but the concepts you'll learn
+also help navigating a world
+where data influences everything,
+from what movies are being
+recommended to national politics.
+And one of the best
+things about Brilliant is
+since every lesson is bite
+sized, you can build your skills
+and sharpen your mind whenever
+and wherever you have a few
+minutes helping you build
+a daily learning habit
+that sticks the opposite
+of mindless scrolling.
+To try everything Brilliant
+has to offer for free
+for 30 days, visit
+brilliant.org/veritasium
+or you can scan the QR code
+or click that link in the description.
+You'll also get 20% off an
+annual premium subscription.
+So I wanna thank Brilliant
+for sponsoring this video
+and I wanna thank you for watching.

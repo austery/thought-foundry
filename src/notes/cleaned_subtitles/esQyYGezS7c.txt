@@ -1,0 +1,677 @@
+- Part of this video was
+sponsored by Google Domains.
+This is a US government warehouse
+that sells almost
+anything you can imagine.
+Blueberries, steel, cigarettes,
+limestone, a standard bullet
+and even some things you
+don't want to imagine.
+I also see you have domestic sludge there.
+(Dr.Place laughs)
+This is domestic sludge.
+- So, when you flush your toilet
+and it goes through the sewer
+and it goes into a
+wastewater treatment plant,
+the first step is to get rid
+of all the solid material.
+We took that, dried it down,
+so it's a nice fine powder.
+I wouldn't recommend smelling it.
+- What is the purpose of all this stuff?
+Why are they selling it
+and why is it so expensive?
+Does it ever feel like you're
+living inside a sci-fi story
+or something?
+- [Dr. Choquette] You know,
+I've been here for a long time,
+so I don't think it from that perspective,
+but I should say yes.
+- [Derek] The science
+fiction element to me
+is like there's someone
+thinking about that?
+- Yeah.
+- There's someone collecting that?
+It seems so fictional.
+Like why should a place like this exist?
+There are apple leaves and
+peach leaves, oyster tissue,
+bars of zinc metal, carbon
+dioxide in nitrogen.
+In these vats of liquid nitrogen,
+there are samples of marine animals.
+- Mussel samples, dolphin
+samples, whale samples.
+Birds as well, bird tissue
+And some human tissue as well.
+- [Derek] But perhaps the
+weirdest thing they sell
+is something really mundane.
+Peanut butter.
+- It looks like a peanut butter.
+It is peanut butter.
+It's creamy.
+- [Derek] It's probably
+the most expensive jar
+of peanut butter in the whole world.
+- Well, we essentially
+pay for a company to make
+generic peanut butter.
+We might have 2000 jars
+of generic peanut butter.
+And what we do is we then go through
+and measure the fats in these jars
+and figure out how much of
+various compounds are in there.
+And we actually then slap on a label
+and provide a certificate at the end.
+- Have you ever eaten some
+of this peanut butter?
+- All of these things are
+not for human consumption
+because I don't know if
+I could actually tell you
+how old it is, but it's old enough
+that you probably don't want to eat it.
+- How much does it cost?
+- These are not sold at
+commercial grade prices.
+So, this jar of peanut
+butter is not $3.99 cents.
+This jar, I believe, is
+around a thousand dollars.
+This is not something that
+would be viable for you
+to make your peanut butter
+and jelly sandwich with.
+- [Derek] An ordinary jar of peanut butter
+costs less than $5.
+And on the label you
+can see the ingredients
+and the amounts of different nutrients
+like protein, fats, sugar, and sodium.
+Those values have been
+measured by the manufacturer
+using different machines
+and analytical techniques.
+But how do you know those
+results are accurate?
+Well, this is where the government's
+standard jar of peanut butter comes in.
+It is mixed up so carefully and thoroughly
+that each jar contains
+exactly the same substance.
+- We take great pains at
+homogenizing these things.
+Make sure it's consistent.
+- [Derek] Then scientists
+at the National Institute of
+Standards and Technology, NIST,
+take years to painstakingly
+identify the quantities
+of all the different
+compounds in the peanut butter
+with specified uncertainties.
+This peanut butter is then known
+as a standard reference material or SRM.
+They sell these perfectly characterized
+SRM samples of peanut
+butter to researchers
+and manufacturers so they can
+calibrate their equipment.
+Essentially, the buyer
+knows that their equipment
+is working properly if,
+when they run the standard peanut butter,
+they get the values NIST
+supplies on the certificate.
+- We've spent a lot of time
+to make sure that we're
+confident and, you know,
+we can spend years studying
+the amount of fat in here
+and trying to figure out
+exactly what those numbers are.
+- [Derek] So what you're paying for
+is not really the peanut butter,
+it's the knowledge of exactly
+what is in the peanut butter.
+- And so this is what
+really drives the cost
+of a standard reference material
+is our ability to assert the truth.
+We produce what I call truth in a bottle.
+- You might think, why does it matter
+that the label on my
+peanut butter is accurate?
+But it is way more than
+the things on the label
+that NIST measures.
+Peanut butter actually
+contains naturally occurring
+aflatoxins.
+They're are carcinogen
+which can cause liver cancer
+and they're produced by
+fungi on the peanuts.
+So if your peanut butter is made from
+a bad batch of peanuts,
+you want the factory
+to be able to accurately detect
+elevated levels of aflatoxins.
+And they're able to do that
+because the standard
+peanut butter contains
+a known level of
+aflatoxin that can be used
+to calibrate their equipment.
+Will the FDA like sample peanut butters
+and look for aflatoxin?
+- A lot of times you actually
+have commercial laboratories
+that measure it in accordance to the FDA.
+The FDA may encourage them
+to use a reference material,
+standard reference material,
+to make sure they're
+getting the right numbers.
+FDA may not be handling it themselves.
+- [Derek] There are different challenges
+to measuring the components
+of different foods.
+Fine powder, for example,
+is easier to characterize
+than goopy peanut butter.
+So it's helpful to have
+a standard material
+that closely matches the target
+in composition and consistency,
+but it's also impossible
+for NIST to characterize
+every different type of food.
+- We're not gonna make a trout and a perch
+and salmon material,
+all these different,
+with the same numbers.
+We're kind of grab an average
+fish and kind of treat that.
+So if you're measuring it in other fish,
+you can usually use it as a surrogate.
+- [Derek] So you have a standard trout?
+- [Dr. Place] Correct, yes.
+- [Derek] Tell me about Meat Homogenate.
+(Dr. Place laughs)
+- It is a mixed meat product
+that has been mixed thoroughly,
+been ground into a very fine particle,
+and packed into a very nice tin.
+- Why do you mix like chicken and pork?
+Why not just have like
+a chicken reference,
+a pork reference?
+- We never do this by ourselves.
+We always work with these
+industry companies and say,
+"Hey what kind of mixes do you need?"
+And then we request that kind
+of material to be blended
+- [Derek] For a reference
+material to be useful,
+It doesn't have to be the exact material
+a manufacturer wants to characterize.
+It just has to be close enough.
+NIST sells around 30 different food items
+that are spread around
+their food triangle.
+At the corners of the triangle
+are a 100% carbohydrate, a
+100% fat, and a 100% protein.
+So, based on their mix of
+these three macro ingredients,
+all foods fall somewhere on this triangle.
+And to characterize each
+one, you would want to use
+the closest standard reference material.
+- If you're trying to do
+your measurements and tell,
+you know, a regulatory authority
+that I'm making, you know,
+a food that's a kibble,
+but I'm measuring it
+against peanut butter,
+they're gonna be saying,
+"Well, that peanut butter
+has a wildly different fat content."
+So what we wanna give them
+is something, a matrix, that
+looks as much as possible
+as what they're used to dealing with.
+- [Derek] They even have
+a standard diet mix.
+- This is called typical diet.
+Through surveys, they identified
+what the average American
+eats and they purchased it
+all and they blended it all up
+and then they freeze dried
+it into a nice fine powder.
+It's like a light gray
+powder and this represents
+all the nutritional components
+that an average American would consume.
+So it represents the sugar content,
+it represents the proteins
+that you might have,
+any vitamins you might have,
+any fats you might have
+is all in a little jar
+that we puree up.
+- [Derek] In total, NIST has nearly 1300
+standard reference materials.
+- This is our warehouse.
+And so it's an approximately
+20,000 square foot warehouse
+in which we store all of
+our inventory, our products,
+the SRMs.
+And so we are a business.
+And so, what excites me about this,
+being on the technical
+side, is that I get to run
+a 20 million business within
+the federal government.
+We sell about 30,000 units a year.
+So each order is about three units.
+Half of them are sold domestically
+and half are sold to an
+international audience.
+- You can see all the
+prices on on our website.
+So it's shop.nist.gov is
+the e-commerce storefront
+for all these materials.
+You can search for whatever you want.
+You can search for peanut butter,
+you can search for meat homogenate.
+- [Derek] If I like
+had a thousand dollars,
+would you sell that to me?
+- There is some control to who we sell to.
+- I feel like this is
+unfair like I'm a scientist.
+If I got a thousand bucks.
+NIST won't sell to just anyone,
+but there are plenty of websites that do.
+And this part of the video is
+sponsored by Google Domains.
+The easiest way to set
+up an online business.
+I have a shop where I
+sell a product I invented
+called Snatoms.
+It's a molecular modeling kit
+where the atoms snap
+together magnetically.
+You know, when I came up with
+the name Snatoms back in 2015,
+the first step was to
+check if the domain name
+snatoms.com was available.
+If you have a good idea, you
+should claim that domain name
+as soon as you can.
+It's like claiming a social media handle.
+And Google Domains makes this easy.
+I moved snatoms.com over to Google Domains
+in just five minutes.
+If you're building an
+online store from scratch,
+you can set up your whole website quickly
+using Google Domains
+simple templates and tools.
+No coding required.
+Now, with snatoms.com
+set up on Google Domains,
+I never have to worry about reliability.
+It runs on Google Cloud's super
+fast DNS infrastructure,
+So the domain resolves lightning fast,
+no matter where in the world,
+your users are.
+I also get peace of mind
+from Google Domain's
+security features, like
+built in privacy protection
+and two factor authentication.
+Plus it automatically connects to tools
+like Google Workspace or Google Analytics
+to help me understand
+and build the business.
+So claim your own domain
+name with Google Domains
+starting at just $12 a year.
+Go to domains.google/veritasium
+to get 20% off
+your first year.
+I will put that link
+down in the description.
+So thanks to Google Domains
+for sponsoring this part of the video.
+But it's not just food
+you need standards for.
+- In the early 19 hundreds, like 1905,
+there was a huge issue
+with the quality of steel
+that was being used in rail cars,
+both locomotives and on the tracks.
+It was that they knew
+what they had to have
+in the alloys to make it work.
+It's just that all the
+foundries that were making 'em
+had no way to compare their
+results of the material
+they were making to
+what every other chemist
+knew they should be making.
+And so Congress basically said
+to National Bureau of
+Standards at the time,
+we need you to come up with
+standard samples of steel
+so that everyone can be on the same page.
+And so what we did was we
+made these standard steels,
+analyzed them for all
+their constituent parts,
+so all the elements, the chrome, the iron,
+the hydrogen carbon and
+then distributed that
+to the stakeholders, again the foundries,
+so that they can inter compare
+and compare their results
+to a known source of steel.
+And those were our very first
+products that we produced.
+- [Derek] Steel is still
+one of the most important
+SRMs at NIST.
+What's your best selling product?
+- Ah, those are called Charpies.
+- Charpies?
+- Yeah.
+Okay, let's go look at a Charpie.
+If you wanna test how strong your steel is
+what Professor Charpy,
+Mr.Charpy, came up with
+was a test where he set up a pendulum
+and at the end of a pendulum is a weight.
+And if you pull that pendulum
+up to a certain distance,
+you can calculate it's potential energy.
+At the bottom of the
+swing of this pendulum,
+the arc, is a vice.
+And in the vice, is held
+a standard piece of metal
+called a Charpy.
+And this has a little V-notch in it.
+And so the idea is that
+the pendulum comes through
+and breaks this thing and then
+it goes up on the other side.
+And from that you can then
+calculate the amount of energy
+that it took to break this piece of steel.
+Every company in the
+United States and, frankly,
+internationally, now has
+to check their materials
+against our Charpies annually
+because the kind of steels they're making
+are used in pipelines or they're
+used in defense industries,
+you know, for tanks, for things
+that store nuclear waste.
+So I have a joke.
+I love things that break or
+burn and these things break
+and they have to break
+and they can't reuse 'em.
+So we sell a lot.
+- How many would you sell in a year?
+- We sell of those, of
+all the different kinds,
+we sell about 8,000.
+- [Derek] Woah.
+- Yeah.
+- [Derek] NIST has been making these
+standard reference materials
+for over a century.
+- This is what our very
+first standard sample
+number one looks like.
+It is the real deal and it's
+gray powder, it's limestone.
+We are still making limestone
+number one for 110 years.
+And it is still so popular
+that we sell 40 to 50
+units a year of this.
+- [Derek] Huh.
+- Isn't that wild?
+Very few companies are in
+existence that are still selling
+some of their original products and we do.
+- [Derek] Most of the SRMs
+we've discussed so far
+are used for calibration.
+But there's another class
+of SRMs used for validation.
+This means they're used
+directly in industry tests
+to ensure consistency.
+An example is cigarettes.
+- Evidently, smoking in
+bed was a real issue.
+You know, people were
+like catching on fire.
+And so there was a lot of regulation
+as to how materials in your
+mattress or in your sheets
+or your bed clothes should
+react to a combustible source.
+And we produced some standard cigarettes
+that, essentially, along
+with the ASTM tests,
+would help a manufacturer
+determine how flammable
+their furniture was or their
+bed clothes or their mattress.
+- [Derek] And for those
+tests to be consistent,
+the fires must be started
+with a standardized NIST cigarette.
+(siren blaring)
+Fires started by smoking materials
+are the leading cause of
+death by fire in the home
+in the US.
+- Products like this, but
+also with the regulations
+that were in place and just
+the educational campaigns
+that went on have saved many, many lives.
+- [Derek] But they also
+have standards for things
+you would never expect,
+like a standard bullet.
+- When a bullet is fired
+through a gun, you know,
+the rifling in the barrel
+imparts marks to the bullet.
+- [Derek] Forensic labs
+then have to measure
+these grooves to match the
+bullet from the crime scene
+to others fired by the suspected weapon.
+But how do you know
+they are accurately measuring the grooves?
+- So this has standard marks on it.
+They replicated a bullet.
+Putting, I believe, essentially,
+nano-indentations on it.
+So very, very fine marks and
+mapped it on this bullet.
+They weren't fired through a
+gun, they were manufactured.
+- [Derek] So, to validate their equipment,
+forensic labs can run the standard bullet
+at the same time as a
+bullet from a crime scene,
+so they know their
+measurements are accurate.
+The goal of every standard
+is to quantify something about the world,
+something important that's
+usually pretty hard to measure,
+(vacuuming noise)
+like house dust.
+- In the early nineties, we
+worked with maid services
+and we got vacuum bags.
+We went to hotels, went to motels,
+took all the vacuum bags that
+we got from all these hotels
+and houses and everything,
+mixed it together in a big pot,
+so it's fully mixed, so every little jar
+has the same number of chemicals,
+has the same amount of material in it.
+And then we measured everything in there.
+And the reason why I
+find dust is interesting
+is 'cause dust is, from an
+environmental point of view,
+is a really good way
+to tell what you and I
+and our house are being exposed to.
+- [Derek] Identifying
+dangerous contaminants
+is a big part of what these
+standard reference materials
+are for, which is why they have
+several types of lead paint
+or water from a glacier in Greenland.
+- These are so rare that we
+have to limit distribution
+of one unit per customer per three years.
+- Whoa.
+Or dirt From New Jersey and Montana.
+- We have a lot of soil samples.
+They had the permission
+to go into, essentially,
+a contaminated industrial
+site in Bozeman, Montana
+and collect a bunch of rocks,
+you know, five gallon pail
+and bring 'em back and crunch 'em up.
+And so these are certified, again,
+for things like toxic elements.
+- [Derek] Now the ultimate way to measure
+what contaminants we're exposed to
+is by what comes out of us.
+Which is why NIST sells domestic sludge.
+This is a record of what
+has come out of our bodies
+and down our sewers.
+Researchers can examine
+it for traces of toxins
+or heavy metals.
+Contaminants that many
+of us may be exposed to
+without knowing.
+It's really about
+environmental monitoring.
+And next year they're coming out
+with an actual human poop product.
+- It's been in the news
+quite a bit as, you know,
+health is related to
+your microbiome, right?
+And we're starting to
+understand that, you know,
+your gut flora and what's in your stomach
+is hugely important to your
+health, your mental attitude,
+just all sorts of things.
+Fecal matter is an incredibly
+difficult matrix to measure
+and extract all the
+different components out of.
+And what this material will do is support
+measurements of the metabolites.
+And it'll be distributed as a
+vial of powder, essentially.
+- Do you know how much they got?
+- A crap load.
+(both laugh)
+- [Derek] As our knowledge
+of the world evolves,
+so too do the standard reference materials
+stored in this warehouse.
+NIST is preparing to launch
+its first living standard
+reference material next year.
+The living cells will
+be hamster ovary cells
+that can produce monoclonal antibodies.
+Monoclonal antibodies now
+account for five of the 10
+top selling drugs and
+over 75 billion dollars
+in annual sales worldwide.
+When monkey pox started
+spreading earlier this year,
+one issue with diagnosing the disease
+was that there were no
+clear laboratory tests
+to tell if someone was infected.
+NIST was able to create a
+positive control reference
+of the monkey pox DNA in just 30 days.
+This warehouse is a very
+strange place to walk around.
+So many disparate pieces of our world
+carefully characterized,
+labeled, and packaged up.
+It's a reminder that behind the scenes,
+invisible to most of us,
+there are a group of
+people working tirelessly
+to ensure that things are
+what we think they are.
+When we eat peanut butter
+on toast, we can be sure
+the peanut butter contains
+what the label says.
+When your blood test comes back
+with a cholesterol reading,
+you know it was calibrated
+with a standard.
+And when you walk into
+a steel-framed building,
+you know the steel has
+the appropriate structural
+and mechanical properties
+to hold up that structure.
+Our world works because,
+unbeknownst to most of us,
+there is a small army of people
+diligently checking that what is out there
+aligns with the standards.
+Even our poop.
+(techno music)

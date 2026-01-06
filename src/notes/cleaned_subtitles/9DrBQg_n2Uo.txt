@@ -1,0 +1,310 @@
+A portion of this video was sponsored by Salesforce.
+More about Salesforce at the end of the show.
+The first piece of evidence that showed our
+universe is expanding came in the light from
+distant galaxies.
+If you look at the spectrum of the sun you
+see these dark lines.
+And we see those lines in the spectra from
+galaxies except they are shitfed to longer
+wavelengths, towards the red end of the spectrum.
+So we say their light is red-shifted.
+Now the usual explanation for this redshift
+is that: as the light is traveling through
+expanding space,
+the photons themselves become “stretched.”
+So short wavelengths get longer.
+This is known as cosmological redshift.
+The explanation is fairly intuitively satisfying
+and most people go on without giving it a
+second though.
+But the problem is if you do give it a second
+thought, you think, well,
+If expanding space can stretch something like
+a photon,
+Something that's so incredibly tiny, does
+it also stretch atoms and molecules?
+Is expanding space stretching stars and galaxies?
+And what about you - are you expanding with
+the universe?
+To answer these questions we’ve got to take
+a closer look at what it really means to redshift.
+Physicists actually talk about three different
+types of redshift:
+Doppler Redshift, where observers moving relative
+to one another measure photons to have different
+wavelengths.
+Gravitational Redshift, where observers at
+different locations in a gravitational field
+measure different wavelengths and
+Cosmological Redshift, where observers exchanging
+photons over vast cosmological distances
+in an expanding universe measure different
+wavelengths.
+These three cases appear very different and
+they’re governed by different equations,
+so how does each redshift actually occur?
+Let’s start with a photon in a gravitational
+field.
+There is this famous experiment conducted
+in 1959 by Pound and Rebka sending photons
+up and down a 22m tower at Harvard.
+Now, they used gamma rays but I’ll represent
+them with visible light.
+They found that photons detected at the top
+of the tower were red-shifted relative to
+the source
+by the exact amount predicted by General Relativity
+(which is a tiny amount - I’m dramatically
+exaggerating the effect so you can see it).
+Now where along the photon’s path does this
+redshift take place?
+Well it seems to happen continuously.
+The photon loses a little bit of energy, each
+millimeter it climbs up that tower.
+Meaning that the photon in the middle of the
+tower would appear green.
+Now according to Einstein’s equivalence
+principle, being at rest on Earth’s surface
+is indistinguishable from being in a rocket
+in deep space accelerating up at 1g.
+So we could do the same experiment in a rocketship
+and we should get the same result.
+If we send blue photons from the back of the
+rocket they should be red when they reach
+the front.
+And in the middle of the ship they would be
+green.
+This is exactly what we saw at rest in a gravitational
+field so the equivalence principle holds.
+Now imagine there are a line of external observers
+just hanging out in space at rest relative
+to each other and they can all see into the
+rocket.
+Let’s also say the rocket is initially at
+rest and the thrusters are switched on the
+instant the photon is released.
+Now since both observers are at rest at this
+moment, they will both measure the photon
+as having the exact same wavelength - it’s
+blue.
+But what about when the photon reaches the
+middle of the rocket?
+Well we know someone inside will see it as
+green.
+But what about a stationary observer outside?
+Well to them the photon has just been moving
+through ordinary flat spacetime,
+so it must look blue - just as blue as it
+was when it was emitted.
+So what’s the deal?
+How can the same photon look green and blue
+at the same time?
+Has the equivalence principle been violated?
+The answer is no.
+It matters a lot to this measurement, who
+is doing the observation.
+Consider this: after the photon is emitted
+the rocket accelerates, it's speeding up
+so by the time the photon reaches the middle
+of the rocket, everyone inside is moving at
+high velocity relative to the source when
+the light was emitted
+and relative to the observers outside the
+rocket.
+So it makes sense that the photon as measured
+inside will look different - it'll be redshifted
+-
+this is the Doppler redshift because the observer
+in the middle of the ship is moving very quickly
+away from the source.
+By the time the photon makes it to the top
+of the rocket, the rocket will be going even
+faster and this is why it appears red,
+but to a stationary observer outside, well
+it still looks blue.
+This thought experiment shows us that wavelength
+and energy are not intrinsic properties of
+photons.
+They are properties of the photon-observer
+system.
+Now let’s recreate the Harvard tower experiment.
+Observers in the building see the photon redshifted
+as it climbs.
+But here’s a question for you: what would
+a free-falling observer see?
+Well they would be just like the stationary
+observers in space, watching the rocket accelerate
+up.
+The physics of these two situations are identical!
+So they would measure no redshift - to them
+the photon would look blue the whole time.
+What I want to show is that there aren’t
+actually three different types of redshifts
+- there is only one.
+We’ve seen that gravitational redshift,
+can equivalently be seen as a doppler redshift
+when we do the same analysis in an accelerating
+rocket ship.
+So what about cosmological redshift?
+Well, for this we have to zoom waaaay out
+- past our solar system, the milky way galaxy,
+our local cluster of galaxies.
+We want to zoom so far out that the galaxies
+in the observable universe are like molecules
+in a fluid: The cosmic fluid.
+At this scale, we can treat the whole universe
+as being smooth and uniform - cosmologists
+say it is homogeneous.
+And just as you don’t notice the individual
+molecules in a cup of water, at this scale
+we don’t notice individual galaxies in the
+cosmic fluid.
+And the cosmic fluid looks the same in every
+direction, there is no preferred orientation
+- it’s said to be isotropic.
+Now what you’ll notice is that the cosmic
+fluid is spreading out.
+It doesn’t matter where you look, you see
+the same thing - things moving apart.
+The density of the cosmic fluid is decreasing
+over time.
+And this is the basic property of an expanding
+universe.
+We can draw some coordinates on the universe.
+We could pick any different coordinate system
+we like, but one way it’s often done is
+to make a coordinate system that expands with
+the cosmic fluid.
+So there will be certain observers whose coordinates
+don’t change over time.
+And these are known as co-moving observers
+- they are at rest with respect to the cosmic
+fluid.
+By the way on Earth we are not a co-moving
+observer.
+Our galaxy is moving at 600 km/s relative
+to the cosmic microwave background radiation.
+Now let’s pick two co-moving observers a
+large distance apart and have them exchange
+a photon.
+Its wavelength will be stretched by the amount
+the universe has expanded during the photon’s
+journey.
+This is the standard picture of cosmological
+redshift.
+But now consider a bunch of other co-moving
+observers along the path of this photon.
+Each one absorbs the photon and instantaneously
+emits another, identical to the one they measured.
+Now, each successive observer will measure
+a slightly longer wavelength than the observer
+before them,
+the photon stretching out just as you’d
+expect in an expanding universe.
+But the reason they would give for this redshift
+would be different.
+To each observer, their neighbouring co-moving
+observers would appear to be moving away from
+them in locally flat space-time.
+So they would attribute the increase in wavelength
+to the Doppler shift, just due to the relative
+motion between them.
+The entirety of the cosmological redshift
+then can equivalently be thought of as the
+result of a long series of Doppler shifts.
+What we’ve seen is redshifting is not something
+that happens to a photon itself.
+Instead it depends on what’s happening to
+observers at the point of emission and absorption
+of that photon.
+Because of this, there are actually not three
+different types of redshift,
+there’s only one, described by a single
+underlying mathematical framework.
+They only look different depending on your
+frame of reference.
+Now, it can be convenient to talk about expanding
+space when you have two comoving observers
+exchanging a photon over vast distances in
+an expanding universe -
+then the photon’s wavelength is stretched
+by the amount the universe expanded during
+its journey - that's nice and simple.
+But you can equally well describe this redshift
+by a long chain of Doppler shifts, no expanding
+space required.
+The misconception is to think that because
+photons are redshifted as they travel across
+the universe, that means ‘expanding space’
+is pulling on things and stretching things
+apart.
+That's not how it works.
+Space is not like that.
+So let’s come back to the central question
+of this video: which is do you expand with
+the universe?
+The answer is no.
+Because:
+On the scale of people, the universe is not
+homogeneous, I mean matter is condensed down
+into objects and the Earth.
+And the universe is not isotropic, looking
+up looks decidedly different from looking
+down down.
+The basic assumptions we made about our expanding
+universe just don’t apply here.
+I mean the local spacetime curvature is dominated
+by the Earth.
+So what if we took you out into deep space,
+the middle of nowhere.
+Then would you expand?
+Still no. because your body is held together
+by electromagnetic forces.
+But what if we could turn off the electromagnetic
+force, so your body is just a jumble of particles
+that don’t interact.
+Well in that case... over time you would expand.
+But only because our universe is now dominated
+by dark energy.
+So the take home message of this video is
+that redshifting photons don’t mean space
+is expanding and pulling on everything, stretching
+things apart.
+So molecules are not expanding, and neither
+are stars and neither are galaxies, and neither
+are you…
+except under extraordinary circumstances.
+-Why's it red?
+-That tells you it's recording.
+Here we go.
+Hey, this portion of the video was sponsored
+by Salesforce, a company that can help you
+expand your business.
+The world is transforming right now, a lot
+of people are working from home or working
+from anywhere, accelerating the shift to doing
+business online.
+Salesforce Essentials can help your business
+adapt to evolving customer needs.
+For example, you can make your website work
+harder for you by using lead capture forms
+from Salesforce on your site.
+You can then generate new business and develop
+relationships with customers right from your
+CRM.
+To get a message out or share a special promo,
+Salesforce Essentials helps you target the
+specific customers you want, whether that’s
+broad or focused.
+You can also help customers find answers with
+a help center page.
+Or meet customers where they are by connecting
+your email, phone, and social channels.
+Follow the link down in the description to
+learn more.
+I want to thank Salesforce for sponsoring
+this portion of the video and I want to thank
+you for watching.
+-Who?
+-That's where you push the button again

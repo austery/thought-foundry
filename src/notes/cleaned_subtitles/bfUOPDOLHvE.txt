@@ -1,0 +1,524 @@
+This August, President Trump signed an executive 
+order allowing private equity firms to tap into  
+America’s 401(k) system. The stated goal was 
+to democratize access — to stop babying smaller  
+investors and to let them play in the same 
+sandbox as pension funds and sovereign wealth  
+fund managers - nothing says ‘democratization’ 
+like handing your retirement savings to Apollo.
+ 
+So why are the shares of publicly listed 
+private equity firms underperforming the  
+broader stock market so badly this 
+year? You’d expect a rally. Instead,  
+the GLPE index is down nearly 10% year to date – 
+and it’s even down slightly since the announcement  
+in early August. Apollo and Blue Owl are off 
+more than 20% year to date - KKR, Ares, and  
+TPG are all in double-digit decline. Blackstone 
+is down too, with Carlyle and 3i being outliers,  
+up more than the S&P. It turns out - that letting 
+retail investors into the sandbox doesn’t help  
+if the sandbox is full of broken toys.
+The Wall Street Journal points out that  
+some of the underperformance might reflect an 
+overhang from the run-up in stock prices over  
+the last few years— especially for some of the 
+big firms who rallied ahead of being included  
+in the S&P 500. But there are still concerns 
+hanging over the industry. Private equity firms  
+are struggling to sell prior investments 
+at attractive prices - and without exits,  
+there are no distributions. Without distributions, 
+it’s much harder to raise new capital. 
+ 
+Private equity is still sitting on trillions 
+in assets. But the flywheel — raise, deploy,  
+exit, distribute, and repeat — isn’t spinning 
+the way it used to. And the push into 401(k)s  
+looks maybe less like innovation and 
+more like a search for new investors  
+when the existing ones are getting frustrated.
+The S&P 500 is up around 14% this year – if we  
+include dividends, but it hasn’t been a 
+broad-based rally. The returns have been  
+concentrated in a handful of tech giants 
+— the Magnificent Seven minus Tesla plus  
+Broadcom — which make up more than a third of 
+the index. These firms are growing earnings,  
+throwing off cash, and doing it with less leverage 
+than their predecessors in the dot-com era.  
+Investors have been paying up for profitability, 
+and the market has been rewarding them.
+ 
+Private equity doesn’t own these companies 
+– and it doesn’t own anything like them. PE  
+firms tend to own smaller businesses, often 
+in slower-growing sectors, and usually with  
+a lot more debt. The typical buyout fund is a 
+leveraged bet on small-cap value stocks — the  
+exact corner of the market that’s been lagging. 
+It’s not unreasonable to expect private equity  
+returns to rise and fall with the broader market, 
+adjusted for the additional leverage. But that  
+relationship breaks down when the market is being 
+driven by a narrow set of megacap tech stocks  
+that private equity funds have no exposure to. 
+The IPO market has been dead for quite a while,  
+and the kinds of companies sitting in private 
+equity portfolios simply aren’t what public  
+investors are looking for. Investors are not 
+interested in paying top dollar for slow-growth  
+businesses with heavy debt loads — and that’s 
+making it harder for PE firms to exit cleanly.
+ 
+Benchmarking private equity against the S&P 500 
+has always been a bit of a stretch. The sector  
+invests mostly in U.S. companies, but they’re 
+smaller, more cyclical, and more heavily levered.  
+A better comparison might be a basket of small-cap 
+value stocks with a few turns of debt layered on  
+top. But even that’s generous. Most small-cap 
+value ETFs don’t charge fees of 2 and 20.
+ 
+Private equity is often described as an asset 
+class, but it’s really just a structure.  
+Most of the capital is deployed through 
+buyout funds, which acquire controlling  
+stakes in private companies using a mix of equity 
+and debt. The debt does most of the heavy lifting.  
+A typical deal might be financed with 60 to 75 
+percent leverage — far more than you’d find in a  
+publicly listed company, where debt-to-equity 
+ratios tend to hover around 30 percent.
+ 
+Before we dig into that any further let 
+me tell you about this weeks video sponsor  
+Lovable. Lovable is an AI tool that lets you 
+build apps and websites by simply describing  
+what you need. You write out your idea in plain 
+English, and Lovable builds the code, frontend,  
+backend, database, the whole thing. It's like 
+prototyping on fast forward. What I love is  
+that it's not just for coders. If you've ever had 
+a great idea but no clue as to how to build it,  
+this is your solution. Whether it's a personal 
+tool, a startup idea, or an internal app for  
+your team. You can prompt or edit visually, tweak 
+the layout, change colors, and even dive into the  
+code if you want. Lovable is collaborative, 
+too. You can invite others to your workspace  
+and build together. And when you're done, just hit 
+publish, and your app is live. Lovable’s already  
+got millions of users and is one of the fastest 
+growing startups ever. It's free to try and if you  
+want to upgrade, use my code for 20% off. Go to 
+lovable.dev/patrickboyle to start building today  
+and use my code PATRICK20YT for 20% off.
+The idea behind Private Equity is simple:  
+borrow heavily, buy a business, improve it 
+(or at least manage it somewhat efficiently),  
+and then try to sell it later for more 
+than you paid. The returns are supposed  
+to come from operational improvements, multiple 
+expansion, and — most reliably — leverage. The  
+people picking the companies to buy - often have 
+backgrounds in investment banking or consulting.  
+Whether that qualifies them to run a plumbing 
+supply company – and whether they can run it  
+better than its founder did - is a separate 
+question. But hey, if you can model a leveraged  
+buyout in Excel, how hard can toilets be?
+Private equity funds tend to concentrate their  
+bets in smaller companies, often in mature 
+industries — the reason being that steady,  
+if boring, business models are easier to borrow 
+against – no one wants to lend money to a business  
+with negative – or even highly variable cashflows. 
+That gives them exposure to the small-cap  
+and value factors tracked by academic finance – 
+historically these factors outperformed – but that  
+hasn’t happened for quite some time. They also 
+claim to offer access to the illiquidity premium:  
+the idea is that buying hard-to-sell assets at 
+a discount, and locking up investor capital for  
+years, should result in higher long-term returns. 
+Whether that premium exists is debatable. What’s  
+clear is that the fees are high, the leverage 
+is substantial, and the exit routes are narrow.
+ 
+Private equity firms like to tell a story. It’s 
+a story about transformation — of taking sleepy,  
+underperforming companies and turning them 
+into lean, efficient, high-growth machines.  
+The protagonists are former investment 
+bankers and consultants who, armed with  
+spreadsheets and strategic vision, unlock 
+hidden value through operational excellence.  
+This is the myth of operational alpha.
+But the numbers tell a somewhat different story.
+ 
+Most of the returns in private equity 
+come not from operational improvements,  
+but from leverage. A typical buyout is 
+financed with 60–75% debt — significantly more  
+than the 30% average for public companies. That 
+leverage amplifies returns when things go well.  
+It also introduces fragility, but that part of 
+the story is usually left out of the pitch deck.
+ 
+The idea that private equity managers are uniquely 
+skilled at running businesses is hard to square  
+with the resumes of many general partners. These 
+are usually people with backgrounds in M&A,  
+not manufacturing. They know how to structure 
+a deal – but next to nothing about how to run  
+a plumbing supply company. The founder they’re 
+replacing with a junior banker - may have spent  
+30 years building the business in question. The 
+new owners have a five-year exit horizon – the  
+ability to borrow huge sums of money - and 
+a model that assumes margin expansion.
+ 
+You may be surprised to hear - that margin 
+expansion rarely materializes. Bain’s 2025  
+global private equity report shows that in the 
+software businesses that they buy out — margin  
+growth has contributed just 6% to value creation 
+over the last decade. The rest of the return came  
+from revenue growth and multiple expansion. In 
+carve-outs — transactions where a private equity  
+firm acquires a non-core division or subsidiary 
+from a larger corporation — the story is similar:  
+pre-2012, sponsors boosted margins by 29%. 
+Since then, that figure has fallen to 2%.
+ 
+Even when operational improvements are real, 
+they’re often overstated. As Ludovic Phalippou  
+and others have pointed out, the industry’s 
+preferred performance metric — since-inception  
+IRR — is highly sensitive to the timing of cash 
+flows and can be gamed through subscription lines  
+and bridge loans. It’s not a rate of return in 
+any meaningful sense. It’s a marketing number  
+or the financial equivalent of Instagram filters 
+— flattering, but often nothing like reality.
+ 
+Warren Buffett has long criticized the private 
+equity model for this reason. At Berkshire  
+Hathaway’s 2019 meeting, he noted that investors 
+in PE funds must hold cash on the sidelines,  
+ready to be called. That cash earns 
+very little (especially during the  
+zero-interest rate environment of the 
+time), but that doesn’t show up in the  
+IRR. The result is a flattering returns number 
+that ignores the real-world cost of capital.
+ 
+None of this is to say that private equity 
+firms never improve the businesses they buy.  
+Some do. But the industry’s aggregate returns 
+— especially in recent years — suggest that  
+operational alpha is more aspiration than 
+reality. The real engine of private equity  
+is leverage. And in a world of higher interest 
+rates, that engine is starting to sputter.
+ 
+Private equity has long sold itself as a 
+source of stability. In a world of whipsawing  
+public markets, Private Equity appears to offer 
+smooth, upward-sloping returns. The lines on the  
+performance charts are reassuringly linear. 
+But as Cliff Asness of AQR famously put it,  
+this isn’t stability — it’s just stale pricing.
+The smoothing of returns in private equity is by  
+no means a bug. It’s a feature — and, for quite 
+some time has been a major selling point. Because  
+private assets aren’t marked to market, their 
+prices don’t fluctuate with daily headlines or  
+quarterly earnings like publicly listed stocks do. 
+Instead, they’re occasionally appraised - often by  
+the fund managers themselves or by third 
+parties hired by them. This creates the  
+illusion of low volatility – I remember speaking 
+to a Private Equity fund manager during the credit  
+crunch – who claimed that while every asset in 
+the world had collapsed in value – none of his  
+portfolio companies had even ticked down. 
+The fact that these investments conceal  
+their true volatility is actually appealing to 
+institutional investors bound by solvency rules  
+or performance metrics that penalize drawdowns.
+This illusion – however - comes at a cost. As an  
+article on the CFA Institute’s website argues 
+- the industry’s reliance on since-inception  
+internal rate of return (IRR) as a performance 
+metric is deeply misleading. IRR is not a rate  
+of return in any meaningful economic sense – in 
+that it is not a return that any private equity  
+investor receives. It’s more of a mathematical 
+artefact, highly sensitive to the timing of cash  
+flows and easily manipulated through subscription 
+lines, bridge loans, and delayed capital calls.
+ 
+Consider a common tactic: a fund identifies a 
+deal but delays calling capital from investors,  
+instead they use a short-term loan to finance the 
+acquisition. This shortens the measured holding  
+period and inflates the IRR, even though the 
+underlying economics haven’t changed. The fund  
+looks like it’s delivering a 25% return, when in 
+reality the investor’s actual return — accounting  
+for idle cash and fees — may be closer to 
+10%. The investors money has been sitting  
+in bonds – waiting for the capital call – 
+and instead of taking it – the fund borrows  
+money (at a higher interest rate) just so that 
+they can show an artificially inflated IRR.
+ 
+Then there’s the proliferation of continuation 
+funds. These are vehicles that allow a PE firm  
+to sell an asset from one of its funds to another 
+fund it also manages – and charges fees on. The  
+transaction resets the clock, generates a paper 
+gain in the first fund, creating the appearance  
+of a successful exit. But the asset hasn’t 
+changed hands in any meaningful way. It’s  
+a bit like selling your house to yourself 
+at a higher price and declaring a profit.
+ 
+The Bain 2025 report notes that nearly 30% of 
+companies in buyout portfolios have undergone some  
+form of liquidity event — including secondaries, 
+dividend recaps, and NAV loans — without a true  
+exit. These financial maneuvers generate cash 
+flow and flattering metrics, but they don’t  
+necessarily reflect real value creation.
+This chart from Bloomberg shows that over  
+the last few years – the businesses held on to 
+in continuation funds are transferred at higher  
+valuations than the ones actually exited from.
+Investors are starting to notice. Distributions  
+to paid-in capital (DPI) — a more grounded 
+measure of actual cash returned — has become  
+the metric of choice for many limited partners. 
+And by that measure, the recent vintages are  
+underwhelming. Funds launched in 2019 are only 
+just breaking even and some may never get there.
+ 
+The smoothing of returns may help investors 
+sleep at night. But it also obscures risk,  
+conceals underperformance, and makes it harder 
+to distinguish skill from luck. In the end,  
+volatility laundering as this technique has been 
+named by Cliff Asness at AQR - is just that:  
+laundering. In the end, it’s not true stability 
+- it’s opacity dressed up as sophistication.
+ 
+Private equity’s promise of smooth returns 
+is now colliding with a hard reality:  
+the industry is struggling to convert paper 
+gains into actual cash. The backlog of unsold  
+companies now exceeds $3.6 trillion across 
+nearly 30,000 portfolio firms. Distributions  
+have slowed to a crawl. Bain’s 2025 
+report shows that distributions as  
+a percentage of net asset value have fallen 
+to 11% — the lowest rate in over a decade.
+ 
+The IPO market is comatose. Strategic 
+buyers are cautious. Sponsor-to-sponsor  
+deals — once a reliable exit route — are now 
+viewed with suspicion. Continuation funds,  
+secondaries, and NAV loans have stepped 
+in to provide liquidity, but they’re more  
+accounting maneuvers than genuine exits. 
+Liquidity challenges are also distorting  
+valuations. When assets are never actually sold – 
+you have to start wondering about their carrying  
+value. Secondary market discounts — often 15% or 
+more — reveal what investors really think these  
+assets are worth. And that’s before accounting 
+for fees, leverage, and the time value of money.
+ 
+The collapse of First Brands- which I covered a 
+few weeks ago – and which is becoming a bigger  
+and bigger story - illustrates the fragility 
+of the system. First Brands borrowed heavily,  
+pledged the same collateral multiple times, and 
+relied on opaque invoice financing structures.  
+When it failed, $2.3 billion dollars in 
+assets simply vanished. Creditors are still  
+trying to trace the money. The parallels 
+to Greensill are obvious — and troubling.
+ 
+Private credit, which up until now has been 
+marketed as a disciplined alternative to bank  
+lending, now looks more like a blind spot. The 
+bespoke contracts and bilateral relationships  
+that were supposed to offer flexibility instead 
+just concealed problems. Pension funds and  
+insurers who invested - now find themselves 
+exposed to risks they barely understand.
+ 
+The liquidity crunch is also a psychological 
+reckoning. Investors are asking hard questions:  
+What are these assets really worth? When 
+will I get my money back? Why does the fund  
+keep reporting gains when they can’t seem 
+to sell anything to outside investors?
+ 
+Until those questions have better answers, 
+the industry’s reputation for stability will  
+remain under pressure. The returns 
+may still look smooth on paper — but  
+the path to realizing them is anything but.
+In August, Donald Trump signed an executive  
+order that could reshape the retirement landscape 
+for millions of Americans. The order allows 401(k)  
+plan administrators to include private equity and 
+other alternative assets – like cryptocurrencies  
+- in defined contribution retirement plans. The 
+move was cheered by Apollo, BlackRock, Carlyle,  
+and other firms that have spent years lobbying 
+for access to the growing retirement market.
+ 
+The pitch is that these assets offer 
+diversification, potentially higher returns,  
+and access to institutional-grade investments. 
+But the risks are less widely advertised.  
+Private equity funds come with high fees, 
+long lockups, and limited transparency.  
+They’re not priced daily, and they’re not easy 
+to exit. For retail investors, that’s a very  
+different proposition than buying an index fund.
+The lobbying effort behind the order was intense.  
+According to financial disclosures, Apollo and 
+Carlyle pushed hard for regulatory changes.  
+Blackstone worked through trade associations. Marc 
+Rowan of Apollo argued that the retirement system  
+was overexposed to megacap tech stocks — “we’ve 
+basically leveraged the retirement system of the  
+country to Nvidia,” he said. The solution, in his 
+view, was to open the gates to private markets.
+ 
+Some firms went further. The Defined Contribution 
+Alternatives Association reportedly argued that  
+401(k) plans could be sued for not offering 
+access to private equity. Their logic being - if  
+PE delivers higher returns, then excluding it 
+could be seen as a breach of fiduciary duty. That  
+argument may be legally tenuous, but it reflects 
+either the industry’s confidence — or desperation  
+– I’ll let you be the judge of that.
+The Bain 2025 report notes that retail  
+capital is now expected to drive much of the 
+industry’s future growth. Semiliquid products,  
+target-date funds, and model portfolios are being 
+designed to mix public and private assets and the  
+big private equity firms have all announced 
+partnerships with retirement plan providers.
+ 
+I’m not sure to what extent American investors 
+will fall for this pitch – the one thing most  
+investors have learned over the years is 
+that high fee investments reduce returns.  
+Average expense ratios paid by investors has 
+been falling year after year – as investors  
+refuse to pay up for underperformance.
+The industries push into 401(k)s looks  
+less like democratization and more like a 
+search for new capital. When the existing  
+investors are frustrated, find new ones.
+When people from the world of finance  
+criticize private equity, they often focus on 
+fees and performance. But outside the world  
+of finance there is plenty of criticism over 
+the industry’s impact on society. What happens  
+when ownership is distant, incentives are 
+misaligned, and the goal is wealth extraction  
+rather than growth and customer focus.
+The moral critique centers on the social  
+consequences of financial engineering. 
+Congressional investigations into  
+private equity-owned dental chains have 
+raised questions about care quality and  
+unnecessary procedures being pushed on patients 
+in the pursuit of profits. Critics argue that  
+the pursuit of EBITDA growth can lead to 
+anti-social outcomes — from understaffed  
+care homes to hollowed-out retailers.
+There is also antitrust concern around  
+private equity roll-up strategies, where 
+PE firms buy dozens of small businesses  
+in fragmented industries — like doctors’ 
+offices, private schools, restaurants,  
+or student housing — and consolidate them into 
+platform companies. The result can be reduced  
+competition and higher costs for consumers.
+Private equity thrived in a world of cheap debt.  
+For most of its modern history, the industry 
+operated in a structurally falling interest  
+rate environment. That tailwind is now gone.
+A huge component of the business model relies  
+on leverage. Buyout firms typically finance 
+acquisitions with 60–75% debt. When rates were  
+near zero, that was cheap and effective. 
+But as interest rates have gone up over  
+the last two years, the cost of debt soared. 
+Suddenly, the math doesn’t work that well.
+ 
+Higher rates mean higher financing 
+costs, lower valuations, and fewer  
+exits. Sellers want yesterday’s prices 
+- while buyers can’t afford them. 
+ 
+Many PE-backed companies now carry six to eight 
+times EBITDA in debt — levels typically associated  
+with junk credit. When interest rates rise, 
+bankruptcy risk rises with them and the private  
+equity model starts to look a lot more fragile.
+Private equity firms argue that they can operate  
+in any business environment – but with inflation, 
+tariffs, and policy uncertainty – all of which hit  
+small businesses harder than large businesses 
+it has become increasingly difficult to  
+underwrite new deals with any confidence.
+Private equity has always pitched itself  
+as a sophisticated alternative to public 
+markets. It claims to offer diversification,  
+excess returns, and stability. But the 
+reality is more complicated than that...
+ 
+The returns are driven by leverage and 
+the stability may be an illusion — like a  
+toddler’s drawing of a rollercoaster labeled 
+“steady growth.” The diversification – well  
+that’s mostly concentrated bets on 
+small, cyclical businesses that panic  
+at the sight of higher interest rates. 
+As the industry expands into 401(k)s  
+and retail products, the pitch is being 
+repackaged. But the fundamentals haven’t  
+changed. The fees are high. The exits are 
+uncertain. And the returns are shrinking.
+ 
+Retail investors are being sold a feature 
+— but they may instead be buying a bug. 
+ 
+The mirage of sophistication is powerful. But 
+eventually, the water seen in the distance has to  
+be real. And for private equity, that means actual 
+exits, actual distributions, and fewer PowerPoint  
+slides about “transformational value creation.”
+Until then, the industry may look smooth on  
+paper — but it’s starting to sound 
+like a bedtime story told by someone  
+who’s already spent your retirement.
+If you found this video interesting,  
+you should watch my recent video on the sudden 
+collapse of First Brands Group and what it might  
+mean for the two trillion dollar leveraged loans 
+market. Don’t forget to check out our sponsor  
+Lovable using the link in the description 
+and talk to you in the next video – bye.

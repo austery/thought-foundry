@@ -1,0 +1,360 @@
+Before, we introduced a storytelling film about algorithms and surveillance capitalism
+Many viewers responded after the video was released
+We’ve known these things for a long time, but you can’t do anything
+Do you want to stop using YouTube Google Facebook?
+The book "Human Rights in the Digital Age" is the book I will face today
+I'm going to tell you what should we do if we cannot do without digital technology
+The author of this book is Australian lawyer Lizzei O'shea
+In this book, he analyzes the ten key controversies in the Internet age
+I chose five that are more relevant to everyone’s lives
+Let’s see how we should think about the contemporary society ruled by digital technology
+We talked about surveillance capitalism before
+It’s a digital record of how technology companies use computers, mobile phones, and home appliances.
+To produce your personalized data and then sell it to advertisers to make money
+A 2012 study pointed out
+The U.S. "data mining industry" has a market value of up to 156 billion
+670,000 practitioners
+Surveillance capitalism has become a huge business opportunity
+But at the same time, these technology companies often promise that users can maintain privacy
+For example, the mobile phone can be set to "turn off location" and "incognito mode"
+Or use "Anonymous Browser"
+But information scientist Latanya Sweeney found that
+87% of Americans can be identified only by postal code, gender and birthday
+Even if you hide all this information
+Data companies can still use a technique called "biometric profile"
+Because everyone presses the keyboard differently
+So as long as you analyze the mode of pressing the keyboard, you can create your personal profile
+In other words, there is no way to escape surveillance capitalism
+At this time, there are voices of various factions in the society
+Someone said: I haven’t done anything illegal, why should I be afraid of being monitored?
+Another group of people will say: they give you free software
+Of course you have to pay for it
+Another group of people will say: Recommend ads to you based on your preferences
+Isn't this very convenient?
+So at this time the question becomes:
+When the social network becomes a market for selling goods
+Keep showing your favorite ad posts and videos
+Is this kind of online life really a good life?
+For example, dating software Tinder and OkCupid
+Their parent company, Match Group, is a data provider
+On the surface, use your data to help you find suitable objects
+Privately sell your personal assets to a third party to make money
+So you may only meet people who the system thinks are suitable for you on the dating software
+It also precludes the possibility of getting to know other people
+So is this really a good internet experience?
+Or just let users live in the stratosphere for warmth?
+The other bigger problem is
+When the online platform is completely monopolized by a few capital companies
+They also monopolize the world that the public can see
+Companies that pay for advertising can make their website appear on the first page of search results
+So what you found is not a neutral result
+These surveillance companies are sometimes for the market
+Even make a political censorship mechanism
+Like 2014 is the 25th anniversary of Tiananmen Square
+LinkedIn censored content related to Tiananmen Square
+If your resume mentions studying the Tiananmen incident in Chinese history
+Your page will be banned directly
+A LinkedIn spokesperson came out and said:
+"In order to create value for members in China and around the world, we must implement content control."
+Or in 2017
+The U.S. government and the Israeli government join forces
+Orders Facebook to delete accounts of Palestinian leaders' political parties tracked by millions
+So that they can't call on the crowd to organize action
+After the Palestinian sources were "disappeared"
+The “mainstream media” on Facebook began to promote news of Palestinians firing on Israel
+So that users all over the world can only see unilateral messages
+So in the past few years, many Facebook opinion leaders have been saying that they will step out of the “Facebook Stratosphere”
+But in fact, the essence of Facebook is to create a stratosphere
+Because Facebook’s revenue comes from ad viewing
+Only let users soak in the stratosphere and spend more time on it
+Social media can earn more advertising profits
+So not so much that Google Facebook is a social media platform
+It's better to say that they are essentially advertising companies
+84% of Google's revenue in 2018 came from advertising
+98% of Facebook's 2019 revenue comes from advertising
+These social media have actually contributed to the simplification of sources of political radicalization
+So the researchers think
+In fact, the digital network has not improved in the past five years, but has gotten worse
+Because information becomes less circulated and more closed
+On the contrary, when the Internet first appeared and was not invaded by surveillance capitalism
+Information is more circulated
+For example, American law professor Wu Xiuming put forward the concept of "net neutrality"
+The online platform is not a space where everyone can spend money to buy a page
+It should be neutral
+Only in order to guarantee the free flow of information can there be fair competition.
+Just like in democratic politics we will insist that one person, one vote is equal
+Won't make the rich people's votes more valuable
+same
+We should create "digital citizenship" in cyberspace
+Let every citizen have an equal right to participate
+Instead of giving companies that have the money to advertise to have a greater say
+The author thinks that we can further ask:
+What is our imagination of cyberspace?
+If cyberspace is like a city
+And a city is occupied by capital enterprises without neutral public space
+People in that city are totally ruled by some power
+In the 1960s, New York City had to do urban renewal
+Want to demolish Washington Square Park and rebuild a highway
+Those who supported Dugeng at the time said the same as those who supported surveillance capitalism today.
+Saying that there are highways can make car driving more convenient!
+But in fact this will only make it more convenient for people who have money to buy a car
+So at the time, American social activist Jane Jacobs came out to write a letter
+Letter to the Mayor of New York against demolition of the park
+Jane Jacob thinks
+A city must be successful and prosperous
+It is necessary to create a public space to accommodate people of different social backgrounds
+Parks can allow different people to interact
+Inject diversity and surprise into the city
+Jane Jacob fought for ten years and finally kept Washington Square Park in New York
+Let the new generation of New Yorkers have a public space for open communication
+The same principle applies to today’s digital networks
+Our generation’s imagination of cyberspace
+It is the monitoring that allows capital companies to do whatever they want
+Still insist that cyberspace should be neutral and free to communicate
+Will determine what kind of cyberspace the next generation of people will live in
+In addition to corporate monitoring
+State surveillance has been much discussed in recent years
+The Chinese government has developed a public security big data system "Policing Cloud" in the past few years.
+Can be used to monitor "dissidents" and "government tracers"
+There is also a social credit scoring system to help people calculate scores in an attempt to create a "harmonious society"
+At the same time, the U.S. government is actually doing the same thing
+The government cooperates with data providers to develop "predictive police technology" to identify criminal suspects
+Like Palantir Technologies, the most profitable data company in Silicon Valley
+Is called "the sweet darling of American law enforcement agencies"
+So the U.S. and China seem to have different political systems on the surface
+But it’s very similar in monitoring the people
+Some people will say: Government surveillance can maintain social order and national security.
+But we can further ask: Does national surveillance really make life safer?
+For example, in the incident that occurred in 2017, the "want to cry worm attack" in which Windows users worldwide were victimized
+It’s the hackers exploiting the NSA’s vulnerabilities.
+Blocking Microsoft users’ computers to threaten ransom
+In fact, the U.S. National Security Agency discovered this bug five years ago.
+But it did not notify Microsoft of the amendment
+This is why Edward Snowden, who escaped the United States, would say
+The exchange of "privacy" for "security" is actually a false opposition
+Because the premise of information security is that the information must have sufficient privacy
+Like in reality
+We will ask the police to have a search ticket from the court
+Before we can come into our house and search
+But in the digital space
+We allow the country to use our data at will
+Isn’t it weird that you don’t need to have a search ticket?
+So we must reflect on:
+Why in the real world we pay attention to the right of privacy not to be infringed by the state
+But in the online world, we allow countries to violate the right to privacy?
+After talking about digital monitoring
+The author further pointed out
+The concept of privacy is actually not enough to understand our current digital life
+Because we are not just being monitored and watched
+But to be secretly controlled our behavior on the Internet
+We are forced to watch the ads that companies want us to see
+It is also said that this is the most suitable product for us using data analysis
+It’s like when Algeria was a French colony in the 20th century
+Negro in Algeria
+You can only know yourself through black advertisements created by white oppressors
+But know yourself through the people who oppress you
+Itself is a very alien experience
+The black people at the time were portrayed as the laughing stock of entertainment by the white people in the advertisements.
+The same as our current digital life
+I can only know myself through the advertisements produced by the company
+The diversity of human life is reduced to one type:
+Is the consumer who buys the goods
+But this does not mean that we have to deny digital technology
+Because the ruled can also use the tools created by the ruler in turn
+For example, when France colonized Algeria
+White colonists introduced broadcasting technology to manage local blacks
+But after the anti-colonial war of independence broke out
+The philosopher Fanon at the time discovered
+When the blacks occupied the radio station
+Radio has become a better communication channel than newspapers
+Can send messages to illiterate people
+So the author believes that a major challenge in the 21st century
+Is to transform the cyberspace of digital surveillance into a decentralized free space
+Because the Internet was originally decentralized when it first appeared
+It was not invaded by surveillance companies until the emergence of the data mining industry at the end of the 20th century
+So only privacy is not enough
+We must also obtain "digital autonomy"
+In other words, the digital space can get rid of the secret manipulation of advertising data providers
+Getting rid of surveillance capitalism sounds very far away
+But in fact, there are more and more decentralized platforms
+Like the social media platform Diaspora
+Network platform Solid
+Server system Freedom Box
+Or open street map OpenStreetMap
+Open Street Map allows users to work together to edit the map
+Unlike the private company Google Map, which can decide what to display on the map
+So it’s actually more helpful to those organizations that want to go to the disaster area for relief
+on the other hand
+Jack Balkin, a jurist at Yale University in the United States, also pointed out
+We should put the technology companies that control our assets
+When it’s like a lawyer and physician who masters our personal resources
+The lawyer owns the client's confidential information
+The doctor owns the patient’s medical records
+The law will not allow lawyers or physicians to use this information to make money
+Even if the patient agrees to the doctor to sell medical information, it is still illegal
+These regulations should also apply to technology companies
+Otherwise we can't explain
+Why do we not accept lawyers and physicians to use our information to make money
+But can we accept that technology companies use our data to make money?
+In 2015, Google's photo app was released
+Automatically recognize the face of a black man as a chimpanzee
+Let Google take the initiative to immediately correct the facial recognition algorithm
+If you enter the name of a black man on Google
+The webpage will also have a higher chance of showing off advertisements related to crime
+This makes people wonder if the algorithm is neutral?
+Or will the algorithm replicate the prejudice and inequality in the real world?
+A 2016 research survey pointed out
+None of the top ten tech companies in Silicon Valley employs black women
+Three companies have no blacks at all, six companies have no female executives at all
+And the executives are all white men
+So the algorithms and products designed by Google
+It actually reflects the values ​​of white American men
+For example, the technological anxiety that “artificial intelligence may generate consciousness and rule humans”
+It actually reflects the anxiety of the top white men
+Because only they are faced with high-tech products that monitor data with algorithms every day
+The general public is worried about the rent and living expenses for next month
+I don’t have time to worry about whether the robot will have consciousness
+If the people who design algorithm technology products are all wealthy white men
+Of course the things they design cannot be diverse
+The opposite of
+If the programmer is black or female
+We may get different search results when we use Google
+So in 2018
+Tens of thousands of Google employees launched a global strike
+Protest Google's gender inequality and workplace sexual harassment
+Many engineers began to reflect: Who is the algorithm for?
+Because sometimes the algorithms designed by white men
+It turned out to be aimed at plundering the bottom people
+Like the admissions unit of American universities
+Will use algorithms to find the disadvantaged class of low-income households to place admissions advertisements
+Because these people at the bottom are most eager to flip up the class and move up.
+So seeing the admissions advertisement is most likely to get the bait
+As a result, many poor people go to university on school loans
+According to statistics, more than half of the students drop out after 4 months
+Not only didn’t get a degree, but also took a loan
+Simply put
+The rich design algorithms to abduct the poor to apply for unaffordable student loans
+In recent years, there have also been more and more incidents of engineers opposing the inequality algorithm
+For example, in 2018, the U.S. Immigration Service wanted to outsource the project to Microsoft.
+But the U.S. did not allow child refugees at the U.S.-Mexico border to enter the U.S.
+So hundreds of Microsoft engineers protested
+Wrote an open letter to Microsoft
+Ask Microsoft to cancel its contract with the USCIS
+In the same year, 4,000 employees of Google also jointly signed
+Rejection of the commission of the U.S. military
+Require technology companies to no longer serve military units
+The American Association for Computer Machinery (ACM) even published ethical principles in 2018
+Ask the engineer to identify the job the boss wants him to do
+Is it possible to cause potential harm or abuse
+Hope to use ethical values ​​to transform the industrial culture of information technology
+So the author pointed out:
+The subjects found by the algorithm during the testing phase
+It should be sufficiently representative to reflect different genders, classes and races
+Technology companies must also provide enough channels for users to report negative experiences
+It’s like we don’t let a new car that hasn’t been crash tested directly on the road
+same
+We also shouldn’t let the algorithm go online without a multiplicity-tested algorithm
+In 1953, IBM built the world's first computer that could be mass-produced
+The software was free when the computer was first sold
+Software is included when you buy hardware
+And users can also modify the software after use to provide feedback
+The most famous case at the time was the early MIT computer laboratory
+A hacker culture popular among MIT students
+Like to solve problems by writing programs and does not require financial returns
+The earliest computer game "Space War" in history was written in cooperation with MIT at that time
+So when the computer industry first appeared
+It’s a hardware manufacturer that develops software together with the user community
+But with the increasing sales of personal computers
+When the hardware becomes cheaper and easier to obtain
+IBM began to sell hardware and software separately in 1969
+Independently sold "proprietary software" began to appear
+Open source code that could be accessed by users
+Has been changed to a trade secret that users don’t know
+The advent of proprietary software completely changed the entire programming circle
+Programming is no longer based on user interests
+And become serving the interests of the enterprise
+Since the 1970s
+Open source software has become less and less
+Bill Gates, a strong proponent of proprietary software in 1976
+I wrote an open letter to the engineer community saying:
+The hardware has to be paid but the software has to be shared
+Who cares if software engineers get paid?
+Who would be willing to spend three years writing programs to catch errors and share the results for free?
+This behavior is simply stealing!
+And this year is also the time when the United States began to implement the new copyright law
+Finally in 1979
+The mainstream operating system Unix takes the last shot
+Change the content of the authorization agreement: prohibit users from reading and changing the original code
+The idea of ​​software copyright has become mainstream in the industry
+But soon there was controversy in the engineer community
+American engineer Richard Stallman (Richard Stallman) designed the program with a friend
+As a result, my friend sold the jointly developed software to a private company
+As a result, the programs he wrote were restricted by copyright law and he could no longer rewrite the programs he created
+I can’t use the products that I have created and restrict me in turn
+This kind of experience is what Marx calls "alienated labor"
+The hacker culture of the original online world
+It promotes the development of science and technology through collective cooperation to write programs
+But capitalism is for corporate profits
+It even used the law to prohibit engineers from obtaining source code to prohibit them from designing better programs
+Richard Stallman launched the "Free Software Movement" out of anger
+Freedom means to make the software better so that every engineer has the freedom to rewrite the software
+Because collective research and development can create more efficient and better software for users
+Instead of letting the software be owned by a private company
+So Stallman himself created a new system: GNU
+Find a lawyer to set up a set of free software laws called "General Public License Terms" (GPL)
+All users can freely share and change the version of the program
+But if you want to take the code written in GNU
+You must comply with this clause and open the source code of the program you wrote to the public
+So the source code is like a kind of "digital shared wealth"
+The copyright of the capital enterprise will write "All rights reserved"
+But the copyright of free software is copyleft: "reverse all rights"
+In the past, economics believed that human nature was self-interested
+For example, the civics class in high schools often mentions the "tragic song of shared wealth"
+I think if the grass is public, everyone will bring cows to eat the grass
+Only taking care of one's own interests caused overgrazing, and finally there was no grassland.
+The best solution is to privatize the land
+Everyone will take care of the land for their own benefit
+So private property rights can improve economic efficiency
+This is the view that Bill Gates supports
+But Elinor Ostrom, the Nobel laureate in economics, discovered
+In fact, the human community will come up with innovative ways to collectively manage shared resources.
+Capital companies believe that if the source code is open, everyone can get it
+Then no one would want to pay
+Everyone will just sit back and enjoy their achievements and there will be a "tragic song of shared wealth"
+But in fact, the result of the development of the "free software movement" is completely opposite.
+Because every user encounters different problems
+So when the source code is open
+Everyone can report the problem and the inadequate modification
+It will make the program more perfect
+Many people in the industry also admit that Linux system performance is better than Windows
+The engineer community even discovered a rule:
+The more people read the source code, the faster the problem will be found out and the faster it will be solved.
+This is called "Linus' Law" (Linus' Law)
+In other words, the best way to debug is to be transparent and open
+By contrast
+Closed source "proprietary software" is expensive and inefficient
+It is often necessary to hire experts to catch bugs and check whether program vulnerabilities will be hacked
+More dangerous is
+Closed source code can allow companies to evade legal liability
+Doing things that hurt society hasn't been discovered yet
+For example, Volkswagen was caught in 2015
+Use cheating software when testing car emissions
+So you can evade environmental regulations
+These cheating software are trade secrets protected by copyright
+So no one knows what the code content is
+Capitalism originally claimed to be the most efficient economic system
+But the history of software development has shown us
+Capital companies compete for profit
+Prefer to use closed source code that is less efficient and may even harm society
+It prevents programmers from solving software problems in a more creative and collaborative way
+Also hinders the prosperity of the information age
+In this video we introduce five key issues in the digital age
+Internet monopoly of technology companies, state surveillance, surveillance capitalism
+Unequal algorithmic software copyright disputes
+The author also put forward various possible solutions to these problems
+Digital citizenship, digital autonomy and digital common wealth
+There are many lawyers, engineers and hackers in today’s technology community who are practicing these concepts.
+If you want to know more about hot topics in digital technology
+I highly recommend you to read this "Human Rights Speculation in the Digital Age"
+Think together
+How to transform digital technology that serves a few people into a force that promotes social prosperity

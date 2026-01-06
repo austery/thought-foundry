@@ -1,0 +1,731 @@
+A plane plummets out of the sky,
+a speed runner inexplicably
+jumps to a higher platform.
+What the?
+What the?!
+And an election
+recount is triggered.
+All because of the same
+invisible phenomenon
+that permeates the universe.
+On May 18th, 2003, voters in
+Belgium went to the polls.
+In many regions, voting
+was done on a computer,
+something the Belgians had
+been experimenting with
+for over a decade.
+But the system had a backup.
+Each voter would insert a
+magnetic card into the machine
+and make their selection on screen.
+Their vote was saved both to the computer
+and the magnetic card,
+which they dropped into
+a box for redundancy.
+Late that night, as the
+votes were being tabulated,
+one of the election
+officials detected a problem
+with the results from Schaerbeek,
+a municipality in central Brussels.
+Maria Vindevogel, a little known candidate
+with her own party received more votes
+than was mathematically possible.
+They knew this because of the way
+the preferential voting system works.
+So they took out the magnetic
+cards and started a recount.
+One by one, they fed each of them
+through the machines again,
+and after several hours,
+the recount was complete.
+The vote totals for every candidate
+were exactly the same as before,
+except for Maria Vindevogel.
+In her case, the recounted number of votes
+was less than the original by 4,096.
+So what went wrong?
+How had her original tally
+been inflated by over 4,000 votes?
+Computer experts were brought
+in to run extensive tests
+on the software.
+They combed through the
+code, but could find no bugs.
+They got the computer
+that had made the initial erroneous tally
+and tested the hardware again and again,
+but they could not replicate the error.
+Everything about the hardware
+seemed to be in perfect working order.
+And this left only one
+possible explanation
+and it is seriously weird.
+The clue comes from the
+excess number of votes
+Vindevogel received.
+4,096.
+Computers work using binary,
+strings of zeros and ones,
+each corresponding to a power of two.
+So somewhere inside the computer
+tabulating all the votes
+was a string of bits
+representing the number
+of votes Maria received.
+It started the day all zeros,
+and then as each vote for her came in,
+it would increment by one.
+Physically, this is done by
+turning on a transistor for one
+and turning it off for zero.
+What's remarkable about the number 4,096
+is that it is exactly a power of two.
+Two to the power of 12.
+That is the 13th bit.
+So for Maria Vindevogel to
+receive an extra 4,096 votes,
+only one thing needed to happen.
+The 13th bit had to flip
+from a zero to a one.
+But why would that happen?
+Computers work precisely
+because bits don't flip
+unless we want them to, or do they?
+Looking into the problem,
+Belgian investigators found
+reports of similar issues
+from big computer companies
+starting in the 1970s.
+In 1978, Intel reported some
+strange errors popping up
+in their 16 kilobit dynamic
+random access memory or DRAM.
+Ones would spontaneously flip to zeros
+with no apparent cause.
+The problem turned out to
+be the ceramic packaging
+the chip was encased in.
+With the demand for semiconductor
+packaging skyrocketing
+in the 1970s, a new manufacturing
+plant was constructed
+on the Green River in Colorado.
+Unfortunately, this site
+happened to be just downstream
+of an old uranium mill.
+Radioactive atoms made
+their way into the river
+and then into the ceramic
+packaging for Intel's microchips.
+Intel scientists investigating the problem
+found that even trace amounts
+of uranium and thorium
+in the ceramic were
+sufficient to cause problems.
+In their DRAM, memory was
+stored as the presence
+or absence of electrons
+in a semiconductor well.
+The alpha particles emitted
+by uranium and thorium
+were energetic and ionizing enough
+to create electron hole
+pairs in the silicone.
+If an alpha particle is struck
+in just the right place,
+it could create a large
+number of free charge carriers
+causing electrons to
+accumulate in the well
+flipping a one to a zero.
+This is known as a single event
+upset, a type of soft error.
+The error is soft because the
+device hasn't been damaged.
+The bit has changed,
+but you could erase it and
+rewrite it with no problems.
+Investigators exposed the
+chips to alpha emitters
+with different levels of activity.
+And just as you'd expect,
+they found the number of bit
+flips directly correlated
+with the number of alpha particles
+the chip had been exposed to.
+The reason this problem
+was identified in the 1970s
+was because chip components
+had been miniaturized
+to the point where a single alpha particle
+could produce enough charge to flip a bit.
+Immediately, these findings
+attracted a lot of attention.
+Before the paper was published,
+it was widely circulated in the industry.
+And as a result, chip manufacturers
+were a lot more careful to
+avoid radioactive materials
+when producing their
+microchips and packaging.
+Therefore, the bit flip
+that gave Maria Vindevogel
+4,096 extra votes
+wasn't caused by natural
+radioactivity in the computer.
+So where did it come from?
+After Henri Becquerel
+discovered radioactivity
+with uranium in 1896,
+scientists sought a way to measure it.
+How radioactive were different materials?
+And one way to do this is
+with a gold leaf electrometer.
+When it's charged, the leaf is repelled
+and you can measure the amount of charge
+by the angle of the leaf.
+Now, if ionizing radiation
+enters the chamber,
+it rips electrons off air molecules,
+creating positive and negative charges.
+Opposite charges are
+attracted to the leaf,
+discharging it over time.
+The higher the level
+of ionizing radiation,
+the faster the device discharges.
+In 1910, Theodore Wolf
+took his electrometer
+to the top of the Eiffel Tower.
+Since radioactivity was found in the soil
+and rocks of earth, he
+expected that 300 meters up,
+the radiation would be just a few percent
+of the ground radiation.
+Instead he found only a slight decrease.
+In 1911, Austrian physicist Victor Hess
+decided to take this experiment further.
+Literally.
+He loaded electric scopes into the basket
+of a hydrogen balloon.
+In his first two flights,
+he observed the same thing as Wolf.
+Up to an altitude of 1100 meters,
+both trips revealed no
+fundamental change in radiation
+compared to the values
+observed on the ground.
+But the next year, he
+conducted seven balloon flights
+up to an altitude of 5,200 meters.
+And here he discovered
+something remarkable.
+While there was an
+initial drop in radiation
+for the first several hundred meters,
+above one kilometer or
+so the level increased
+with increasing altitude.
+At his maximum height,
+the level of radiation
+was several times greater
+than it was on the ground.
+The radiation appeared to be
+coming, not from the earth,
+but from the sky.
+Hess scheduled one of his balloon flights
+during a solar eclipse.
+And as the moon passed
+in front of the sun,
+he carefully watched his instruments.
+But the readings were unaffected.
+Even with the sun half covered,
+the level of radiation was the same.
+Since no influence of the eclipse
+on the penetrating radiation was noted,
+we conclude that even if
+a part of the radiation
+should be of cosmic origin, it
+hardly emanates from the sun.
+Victor Hess had discovered cosmic rays.
+High energy radiation from space.
+But what were these rays exactly
+and where were they coming from?
+Well, today we know they
+aren't electromagnetic rays
+as many suspected, but particles.
+Around 90% are protons,
+9% are helium nuclei, and
+1% are heavier nuclei.
+Some of them are from the sun,
+but they have comparatively low energy.
+High energy cosmic rays moving very close
+to the speed of light come
+from exploding stars, supernova
+in our own galaxy and in others.
+And the highest energy particles
+are thought to come from black holes,
+including the super massive black holes
+at the centers of galaxies.
+But it's hard to pin down
+exactly where cosmic rays come from
+because as charged particles,
+they're deflected by
+magnetic fields in space.
+So they can wind their
+way through the universe
+for billions of years.
+A cosmic ray detected
+on October 15th, 1991
+had an energy of 51 joules.
+That is a single subatomic particle
+with the energy of a baseball
+going a hundred kilometers per hour.
+For obvious reasons, it was
+dubbed the OMG particle.
+But primary cosmic rays like these
+don't make it down to earth's surface.
+Instead, they collide with air molecules
+around 25 kilometers above the ground
+and create new particles like pions.
+These collide and decay into
+other particles like neutrons,
+protons, muons, electrons,
+positrons and photons,
+which in turn collide
+with other air molecules
+in one long cascade.
+So from a single primary cosmic ray,
+comes a shower of particles
+streaming towards the earth.
+It is one of these
+particles that investigators
+suspect struck a transistor
+in a computer in Belgium,
+flipping the 13th bit from a zero to a one
+and giving Maria Vindevogel
+4,096 extra votes.
+But how often do things like this happen?
+In 1911, Charles Wilson made it possible
+to see the cosmic rays all around us
+when he perfected his cloud chamber,
+an enclosure with super
+saturated water or alcohol vapor.
+When a cosmic ray passes
+through the chamber,
+it ionizes the gas
+causing vapor to condense
+into tiny droplets on the ions,
+revealing the path of the particle.
+Alpha particles, helium nuclei,
+leave short thick tracks
+while beta particles,
+electrons leave long skinny trails.
+In 1932, Carl Anderson identified a trail
+that looked like it was
+made by an electron,
+but in the applied magnetic field,
+it curved in the wrong direction.
+Implying it had a positive charge.
+Anderson had found the
+anti electron or positron.
+It was the first confirmed
+sighting of anti-matter.
+Four years later, also
+using a cloud chamber,
+he discovered the muon,
+again in cosmic rays.
+For his discovery of the positron,
+Anderson was awarded the Nobel
+Prize in Physics in 1936.
+He shared the prize with Victor Hess,
+the man who discovered cosmic
+rays in the first place,
+invisible particles that
+affect our lives in ways
+most of us are oblivious to.
+This is possibly the rarest thing
+to ever happen in a video game.
+In 2013, user DOTA_Teabag was
+speed running Super Mario 64
+on the console.
+In the level Tik Tok Clock,
+he suddenly up warps
+onto a higher platform.
+- [DOTA_Teabag] What the?
+- [Player] Did you get invisible wall?
+What?
+- Please say you got the---
+- [DOTA_Teabag] No, that
+was the craziest thing
+I've ever seen though.
+- [Narrator] The move
+shaves off a few seconds
+and it seems like a newly
+discovered glitch in the game
+that could give speed runners and edge.
+User PenandCook12 put out a $1,000 bounty
+for anyone who could
+replicate the up warp.
+But so far, after six years,
+no one has been able to.
+The best explanation
+anyone can come up with
+is that a cosmic ray caused the glitch.
+It's been shown that a single bit flipped
+in the first bite of
+Mario's height co-ordinate
+could have caused the effect.
+On the main level, the
+bite was 1 1 0 0 0 1 0 1.
+But if you flip the last one to a zero,
+it changes his vertical position.
+And just by chance,
+this new height coincides
+with the higher floor.
+PenandCook12 wrote a script
+to manually flip the bit
+at the right moment
+and was able to achieve
+the same up warp.
+This is a particularly visible bit flip,
+but the truth is cosmic rays
+are triggering bit flips
+all the time.
+- An upset there, transient
+there can alter the function
+of these devices and we
+call that a single event
+functional interrupt.
+So an entire process can hang.
+So a blue screen of death that you get
+might actually have been
+a neutron or whatnot.
+- [Derek] When people see
+the blue screen of death,
+could that be caused by a cosmic ray?
+- Absolutely.
+- These days, there are a number of ways
+computer chips are made resilient
+in the face of bit flips
+like error correction code or ECC memory.
+But you can't totally prevent
+bit flips from happening.
+In 1996, IBM estimated that
+for each 256 megabytes of RAM,
+one bit flip occurs per month.
+And the main culprit seems to be neutrons
+created in the shower of
+particles from cosmic rays.
+Starting in 2009,
+Toyota recalled millions of vehicles
+due to the problem of
+unintended acceleration.
+- We were in the fast
+lane driving at about 70,
+and he said that the car
+was continuing to accelerate
+and he couldn't bring it to a stop.
+- Many speculated that
+cosmic ray induced bit flips
+in the electronic control
+system were the cause.
+So much so that NASA was called in
+to help with the investigation.
+But it turns out, cosmic rays
+were probably not the culprit.
+NASA identified as the main causes,
+sticky accelerator pedals,
+poorly fitted floor
+mats and most commonly,
+drivers pushing on the accelerator
+thinking it was the brake.
+But cosmic rays have caused
+crashes of supercomputers,
+especially at higher elevations.
+Los Alamos National Labs located
+2200 meters above sea level
+is constantly dealing with neutron induced
+supercomputer crashes.
+So the software auto saves
+frequently and neutron detectors
+have been installed
+throughout the facility.
+If you go even higher,
+like climbing up to cruising
+altitude in a plane,
+you can see the radiation
+from cosmic rays increasing
+on a Geiger counter.
+To .5 microsieverts per
+hour at 18,000 feet.
+Up to one microsieverts
+per hour at 23,000 feet.
+Over two microsieverts
+per hour at 33,000 feet.
+And over three microsieverts per hour
+at even higher altitudes
+and towards the poles.
+At cruising altitude,
+this increases the chance
+of a single event upset
+by 10 to 30 times.
+This isn't critical if it
+happens in your laptop,
+but what if it occurs
+in the flight computer?
+On October 7th, 2008,
+an Airbus A330 took off
+from Singapore to Perth.
+Just over three hours into the flight,
+the plane suddenly pitched down
+diving 200 meters in 20 seconds.
+Inside the plane, everyone
+experienced negative 0.8 Gs
+of acceleration.
+It would have felt like
+the plane had flipped over.
+- The G-Force was enough,
+even with our three point harness
+to lift us both out of the seat
+and push us forward as well.
+- Minutes later, the plane
+dropped another 120 meters.
+119 people on board were injured,
+many from bumping their
+heads into the ceiling.
+So the pilots decided to
+make an emergency landing
+in Learmonth.
+In the investigation that
+followed, the fault seem to occur
+with the first air data
+inertial reference unit,
+or ADIRU for short.
+This computer supplies
+critical data like airspeed,
+angle of attack and altitude.
+The way it supplies each of
+these pieces of information
+is in a 32 bit binary word.
+The first eight bits identify
+the type of information
+and bits 11 to 29 encode the actual data.
+What seems to have happened
+is that a bit flip in the first eight bits
+meant altitude information was mislabeled
+as angle of attack information.
+Inside the cockpit, alarms went on
+for over speed and stall simultaneously,
+something that should be impossible.
+But the plane nose down sharply
+to correct what it thought
+was a stall, throwing passengers
+and crew into the ceiling.
+Investigators looked into software bugs,
+software corruption, a hardware fail,
+physical environment factors
+and electromagnetic interference.
+But each of these possibilities
+was found to be unlikely
+based on multiple sources of evidence.
+The other potential triggering event
+was a single event effect
+resulting from a high
+energy atmospheric particle
+striking one of the integrated circuits
+within the CPU module.
+One of the challenges
+with single event upsets
+is that they are soft errors.
+They don't leave a trace,
+but interestingly, the
+Airbus A330 was built in 1992
+when there were no specific regulatory
+or aircraft manufacturer requirements
+for airborne systems to be resilient
+to single event effects.
+With the space shuttle,
+redundancy was built in from the start.
+For navigation and control,
+there were four computers
+simultaneously running identical software.
+If one computer had a soft error,
+the other three would overrule it.
+And using this setup,
+they could also track the
+frequency of bit flips.
+On one five day mission, STS 48,
+there were 161
+separate bit flips.
+Above the atmosphere,
+cosmic rays are so energetic
+sometimes you can even see them.
+- Once in a while you
+have your eyes closed
+and you're not asleep yet.
+And if you wait a little while,
+you occasionally will
+see a flash of light.
+And we think it is heavy particles
+or individual bursts of
+energy coming from radiation
+that are either going
+through the eyeball itself
+or going through the optic nerve.
+And they,
+the way that your body registers
+radiation going through it
+is amazingly enough by
+showing you a little flash
+in one of your eyes,
+just to remind you that you
+are subject to the radiation
+of not only our sun, but
+every star of the universe,
+that is radiating at you.
+I picture back to the first astronauts
+who must have closed their
+eyes and seen that radiation
+and gone, "I'm not going
+to tell anybody about this
+"because no one's told me about it.
+"I'm not talking."
+I can just imagine the
+first two guys that said,
+"Hey, I am,
+"sometimes I see flashes of light.
+"Do you see flashes of light?"
+And then it's, "Oh, we
+all see flashes of light."
+"Oh, okay, well, that's all right then."
+(narrator laughing)
+- [Narrator] For missions
+to other planets,
+protecting electronics is critical.
+- If a single bit of information
+controls a critical
+function on your spacecraft,
+let's say your thrusters,
+and that goes from a one to
+is zero, from a on to off,
+or vice versa, you could lose the mission.
+- [Narrator] That's why the computer
+on the Perseverance Rover
+that just landed on Mars
+is 20 years old.
+It's a power PC launched in 2001
+with only 256 megabytes of Ram
+and two gigabytes of flash storage.
+But it is radiation hardened,
+meaning the design, materials,
+circuits and software
+are built to withstand
+40 times the radiation
+of an ordinary computer.
+It's been used on over
+a dozen space missions
+going back to 2005.
+- In fact, when we first started
+doing the power PC testing
+years ago, the way we did it,
+we just simply stuck an
+operating system processor
+in a beam line where we
+generate these particles
+on the planet and look
+for blue screens of death.
+You can kind of figure
+out what's going wrong
+and try to undo that.
+So you don't get to the
+blue screen of death
+because a spacecraft
+that gets into that mode
+is basically unrecoverable.
+- As the Voyager 1 spacecraft
+departed the solar system,
+one of the ways we could
+tell was by an increase
+in the flux of cosmic rays it experienced.
+Although on earth, the
+particles streaming from the sun
+and the solar wind are
+a source of radiation,
+further out these same particles
+maintain protective bubble.
+The heliosphere.
+It helps deflect and slow cosmic rays
+from interstellar space
+protecting the solar system
+from ionizing radiation.
+But the sun has an 11 year activity cycle.
+So this protection fluctuates.
+The flux of cosmic rays
+on earth is much lower
+when the sun is active
+than when it's dormant.
+In the history of our planet,
+cosmic rays may have
+played an even larger role
+flipping bits, not in electronics,
+but in the genetic codes
+of living organisms,
+providing some of the variation
+on which natural selection acts.
+Maria Vindevogel is now a member
+of the Belgium Chamber of Representatives,
+elected by people, not a particle,
+but her story is a reminder
+of the zillions of particles
+winding their way through the universe
+for millions or billions of years.
+One of which might at any moment,
+change your life by passing
+through a tiny transistor
+and cra....
+(electronic disturbance)
+Discovering the origin of cosmic rays
+or where 4,096 extra votes came from
+or how to protect the
+Mars Rover from radiation
+requires problem solving,
+which is a perishable skill.
+And the best way to keep your
+problem solving skills sharp
+is to solve a diverse range of problems,
+which you can do with the
+sponsor of this video, Brilliant.
+Brilliant is a website and app
+that teaches you STEM concepts
+in an interactive way.
+They have courses on topics
+from applied computer science
+to special relativity.
+Two courses I would recommend
+if you enjoyed this video,
+are computer memory and
+algorithm fundamentals.
+Brilliant have really upped
+their interactivity recently.
+So instead of reading about algorithms,
+you're taught how to
+write algorithms yourself.
+Brilliant engages you in active learning.
+Instead of telling you the right answer,
+they allow you to figure
+it out for yourself
+with plenty of helpful hints
+and guidance along the way.
+And for viewers of this channel,
+Brilliant is offering 20%
+off an annual subscription
+to the first 200 people to sign up.
+Just go to brilliant.org/veritasium.
+I'll put that link down
+in the description.
+So I want to thank Brilliant
+for supporting Veritasium
+and I want to thank you for watching.

@@ -1,0 +1,356 @@
+On a blistering hot day
+in Phoenix, Arizona,
+as a million air conditioners
+drove up demand on the power grid,
+a cluster of energy-hungry
+artificial intelligence servers
+bucked the trend.
+They actually helped.
+For three hours,
+these AI computers
+at an Oracle data center
+dropped their power
+consumption by 25 percent
+to provide perfectly timed relief
+during that day's peak demand.
+And critically, the advanced Nvidia chips
+continued to meet the stringent
+performance requirements of their tasks.
+Training, fine tuning and using
+AI large language models.
+Our team at Emerald AI orchestrated
+this first-of-a-kind demonstration
+of flexible AI computing.
+And we're not alone.
+Google has also made impressive strides.
+Scaling up our technologies
+across the country
+and around the world
+could help solve one of the biggest
+challenges of our time:
+powering the AI revolution,
+while also advancing a more reliable,
+affordable and clean power grid.
+Far from undermining it,
+AI could actually help save the grid.
+To understand why,
+we need to reimagine
+the challenge of powering AI.
+And so I've reinvented my own career.
+For 15 years as an energy executive
+and as America's lead
+clean energy diplomat,
+I focused on building more clean energy.
+But energy supply
+is just half the equation.
+And so I founded Emerald AI
+to focus on the other half, demand,
+helping AI intelligently use energy,
+support grids
+and unlock massive stranded power capacity
+that already exists.
+Without this capability,
+we face an impending crisis,
+a historic collision between two
+multi-trillion dollar networks:
+the network of AI data centers
+that's rapidly growing,
+and an aging electricity grid,
+utterly unprepared
+for all this new demand.
+That's bad news, folks,
+for multiple reasons.
+First, America risks falling behind in AI.
+In Virginia, the data-center
+capital of the world,
+it takes up to seven years
+to connect new data centers to the grid.
+Second, power prices
+are soaring for communities.
+Just in 2025,
+as we built new grids
+and new power plants,
+data center demand drove up
+the average annual household power price
+in Columbus, Ohio, by 240 dollars.
+And this is just the beginning.
+As data centers surge from
+four percent of US power demand today
+to 12 percent by 2030.
+That's It's like adding another Germany
+to the US power grid.
+And third,
+fossil fuels are set to power
+the boom in AI data centers,
+which require reliable
+power supplies today.
+In the United States,
+natural gas is powering most AI growth,
+and countries like India
+will see rising coal use
+increasing global carbon emissions.
+But it doesn't have to be this way.
+The biggest new user of electricity
+could actually be
+our grid's greatest ally.
+The key lies in something
+deceptively simple.
+Flexibility.
+That's distinct from efficiency
+or using less energy overall.
+Rather, if AI were just
+a little more flexible
+in when it uses energy,
+it could consume vast amounts of otherwise
+stranded power on today's grids.
+Think of our electric power system
+as a superhighway
+that faces peak rush hour
+just a few hours per month.
+Think of that hottest day
+of the summer in Phoenix, Arizona,
+when air conditioning demand peaks.
+On those days,
+grids risk being overwhelmed
+by these massive new data centers
+that may soon consume
+more than a gigawatt,
+or more energy than the state
+of Vermont consumes.
+But most of the time,
+power plants are running
+well below their full capacity,
+and transmission lines are carrying
+less power than they could.
+Just like that highway.
+On average, throughout the year,
+half of the power system's
+capacity goes unused.
+Here's a graph of the Arizona public
+service utility's grid over the last year,
+which averaged four gigawatts of load
+and only approached nine gigawatts
+once in the summer.
+What if, during those
+peak rush-hour periods,
+when the grid is truly stressed,
+AI data centers could dynamically
+reduce their power consumption
+and take advantage otherwise of all
+that spare capacity throughout the year.
+It would be like briefly taking
+18-wheelers off of that road
+to let the remaining
+traffic flow smoothly.
+Well, it turns out that if AI data centers
+were just modestly flexible,
+just less than two percent of the year,
+trimming demand by a quarter,
+just a couple hours at a time,
+America could fit up to 100 gigawatts
+of new data centers
+on existing power grids
+across the country.
+That's four trillion dollars
+of AI investment unlocked today
+without waiting years
+for new infrastructure.
+Now, to be sure, America
+will need even more energy
+to power our growing economy
+as data centers, factories
+and other users of electricity join.
+But by making AI data centers flexible,
+we can prudently expand our grid
+and buy ourselves time
+to build clean nuclear
+or geothermal power plants.
+And what's more,
+with flexible AI data centers acting
+as giant shock absorbers on the grid,
+we can integrate intermittent
+but cheap solar and wind power,
+driving down the cost of energy for AI.
+So that's what I do.
+My team and I are building
+the software brain
+to give AI data centers
+this crucial flexibility.
+It's an AI for AI.
+We call it the Emerald Conductor.
+It works by harnessing something
+we call spatiotemporal flexibility.
+That's a fancy term for a simple idea.
+Let's break it down.
+First, temporal flexibility.
+Not all AI jobs are created equal.
+Some workloads, like training
+or fine-tuning an AI model,
+conducting deep research
+or running a massive scientific simulation
+are what we call “batchable.”
+They're incredibly important,
+but they don't have to be completed
+right this second.
+Software can intelligently pause
+or slow these workloads briefly,
+when the grid is stressed,
+and then speed them back up
+when there's plenty of power available.
+Then there's spatial flexibility.
+Think of your query
+to a generative AI chatbot.
+You can't pause the job
+of responding to that query,
+but you can move it across the country
+at the speed of light.
+So even as we struggle to build
+electric power transmission,
+we can take advantage
+of virtual transmission
+or the network of fiber optic cables
+that crisscrosses
+the country and the planet
+to move AI workloads from a data center
+in a city where the grid's
+currently strained,
+let's say, Phoenix on a hot day,
+to a data center in a region
+where there's presently abundant power,
+say, the wind-swept Great Plains.
+The AI workloads get done,
+but the grid gets a break
+right when it needs it most.
+And the user never even notices,
+because behind the scenes,
+there’s an AI orchestrating AI.
+Data centers become smart,
+cooperative partners to the power grid.
+And we know it works.
+Remember that demo I told you about?
+It happened.
+In May 2025, in Phoenix, Arizona,
+we took a cluster of 256 GPU servers,
+and we ran a mix of AI workloads,
+some highly flexible,
+others entirely inflexible,
+and many in between.
+One hot afternoon,
+our software received a signal
+that the local utility was going
+to reach its peak demand,
+and so Emerald Conductor
+gracefully reduced
+the AI computational
+power load by 25 percent
+for the exact three hours
+requested by the grid.
+On the right hand side, you can see
+the performance of the AI jobs.
+The far right, the highly inflexible ones
+performed at 100 percent,
+and the flexible ones
+achieved a performance
+above their acceptable thresholds.
+We proved that AI data centers
+can flex when the grid is tight
+and sprint when users need them to.
+But proving the technology
+was just the first step.
+The hardest part will be to convince
+the enormous energy
+and AI industries to cooperate
+and to change the way that they operate.
+For over a century,
+electric power utilities have assumed
+that their users can't simply
+reduce their power consumption
+when the grid faces peak rush hour.
+Sure, in limited situations,
+a utility may request homes
+to adjust their thermostats
+or large industrial loads
+to dial down consumption,
+but these interventions
+are typically tiny and marginal.
+But AI data centers
+are fundamentally different,
+with a transformative
+potential to be flexible.
+They're massive energy users
+compared with tiny household loads
+that need to be aggregated.
+They respond faster and more gracefully
+than large manufacturing facilities,
+and they can move their workloads
+around the country at the speed of light,
+which no other energy user can do.
+That's why I'm so excited
+about initiatives
+that bring together the energy
+and technology industries,
+like EPRI's DCFlex.
+In upcoming demonstrations
+in the United States
+and with National Grid
+in the United Kingdom,
+Emerald will showcase
+how AI workloads can flex
+and move across regions,
+and will prove that software
+like Conductor
+can orchestrate a symphony of AI workloads
+in concert with on-site energy
+equipment like batteries,
+to deliver even more
+flexibility to power grids.
+And with our partner Nvidia,
+we're building a reference design
+for next generation data centers
+or AI factories to be power flexible
+so that utilities that see
+the certification
+can more swiftly connect
+a grid-friendly AI factory.
+So where does this all leave us?
+Well, it means rather than wait
+years for grid upgrades,
+we can build all the AI
+infrastructure we need right now
+to sharpen our competitive edge.
+And far from crashing the grid,
+flexible AI data centers
+can provide relief
+before the grid hits a breaking point,
+avoiding rolling blackouts.
+Rather than increasing power prices,
+they could actually go down
+as flexible AI data centers
+more effectively utilize
+the existing energy infrastructure,
+deferring expensive upgrades.
+And rather than goose demand
+only for fossil fuels,
+AI's soaring energy needs
+could encourage more clean energy
+onto the grid at home and abroad.
+Solar today is the cheapest,
+fastest-growing power source
+on the planet.
+Imagine flexible AI data centers capable
+of ramping their energy consumption
+to match daytime solar peaks,
+or shifting their loads
+so that they better integrate
+clean energy onto the grid.
+The AI revolution is here.
+And I believe we can have it all.
+Breakneck innovation,
+massive investments in AI
+and abundant, affordable,
+reliable and clean energy for all.
+An AI for flexible AI infrastructure
+could be a linchpin
+for our future energy system.
+Thank you.
+(Applause)

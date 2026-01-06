@@ -1,0 +1,211 @@
+This video is sponsored by Caseta by Lutron
+According to the general theory of relativity, gravity is not a force.
+There are no gravitational fields, gravity is kind of an illusion.
+And in this video, I will prove it to you by blasting off into outer space in 321
+Albert Einstein said the happiest thought of his life
+was imagining a man falling off the roof of a house.
+What made Einstein so happy about this wasn't Schadenfreude,
+It was the realization that this man, while he was falling wouldn't feel his own weight.
+He would be weightless and anything he dropped on his way down,
+Well, it would remain stationary relative to him or moving in uniform motion.
+The whole situation would be just like..
+If you were in deep space, not near any large masses.
+With your spaceship at rest or coasting along at constant velocity
+Here, you would feel no weight
+Objects would remain stationary relative to you or if you give them a push, they would move in a straight line at constant velocity
+And you would be the very definition of an inertial observer,
+you're not accelerating, not in a gravitational field,
+all the laws of physics apply in your reference frame,
+meaning there is no experiment, you could do to distinguish your initial reference frame from any other
+Now here comes the big leap:
+Einstein looks at these two scenarios and says they are equivalent, not just similar
+Physically, they are exactly the same thing.
+Which means man falling from roof is not in a gravitational field.
+There are no gravitational fields, and he is not accelerating.
+He is an inertial observer, just like Rocket Man.
+Whoa, whoa, whoa. I mean, okay, I can see how both of these observers feel weightless.
+But man falling from roof is clearly in a gravitational field.
+I mean, he's right next to the Earth.
+And he's obviously accelerating his speed is increasing by 9.8 meters per second, every second
+A fact that will become painfully apparent when he crashes into the ground.
+I know that these two situations look very different,
+but Einstein's equivalence principle tells us the one thing to focus on: the experience of the observer.
+If they feel weightless than they are in an inertial frame of reference
+every bit as good as rocket man's out drifting through deep space.
+Imagine if Rocket Man coasting along at constant velocity
+ and not paying attention comes upon a planet a long way off in the distance.
+An external observer might notice that the path of the rocket bends ever so slightly towards the planet.
+But inside, Rocket Man would remain oblivious.
+He feels no force, experiences no acceleration
+As the rocket gets closer to the planet, it goes faster and faster
+But Rocket Man still feels weightless. For him, nothing has changed.
+So where on this journey would you say the frame of reference changes from inertial to non inertial?
+An onboard accelerometer would never even register a blip.
+He has continued on his inertial path through spacetime
+So the logical conclusion is his frame of reference is inertial up until the instant he crashes into the planet.
+Okay, so how do you explain the curved path of his rocket without gravitational forces or gravitational fields?
+The answer is curved spacetime.
+First focus on rocket man's observation that the whole time he felt like he was moving with constant velocity in a straight line.
+He was moving in a straight line through spacetime
+but space time around massive objects, like planets is curved.
+So that's why his path appeared curved to a distant observer.
+Now this isn't as unusual as it seems,
+Airplanes, for example, always try to fly the shortest route between cities.
+Essentially, they just go in a straight line.
+But since the Earth's surface is curved, the shortest path doesn't look like a straight line.
+These shortest paths over curved surfaces are called geodesics,
+and we use that same word, geodesics,
+for the straight line paths followed by inertial observers through curved space time
+Here's another analogy.
+Imagine you and a friend are standing 1000 kilometers apart on the equator.
+Now you both set off due North.
+Over time you will come closer together.
+Ultimately bumping into each other at the North Pole.
+It’s as though there was a force pushing you together, but you didn't feel a force and your friend didn't feel a force.\N
+Gravity is just like that force, it doesn't actually exist.
+The real reason for you coming together was that you were both on straight paths, geodesics, on a curved surface.
+Astronauts on the space station are weightless.
+That means they too are inertial observers traveling on a geodesic
+But the earth curves space time around it, which is why their straight line path appears as a helix.
+It only looks like a circular orbit if you forget the time dimension.
+Don't forget, we are all moving through space and time, spacetime
+This is the standard bent sheet analogy for curved space time,
+but I think this demo is misleading.
+It allows you to fool yourself into thinking you understand general relativity
+when the intuition you're actually drawing on is just that objects like to fall towards the middle of a well due to the gravitational force.
+But in general relativity, there is no gravitational force.
+What you should be thinking about is objects traveling on a straight line path through spacetime
+It just so happens that spacetime is curved around massive objects,
+so that straight line path doesn't look like a straight line.
+Matter tells spacetime how to curve, and spacetime tells matter how to move.
+Now let's go back to deep space.
+What happens if you turn on the rocket thrusters and accelerate at 9.8 meters per second squared?
+Well, someone outside would see all objects remain stationary, while the floor of the rocket accelerates into them.
+Inside the rocket, everything would appear to accelerate down to the ground
+and you would feel a force pushing up on your feet,
+the same force that's pushing up on you as you watch this video.
+This situation feels exactly the same as being at rest on the surface of Earth.
+Cause we are at rest on the surface of Earth.
+I want to ask you, are you watching this video in an inertial frame of reference?
+Well, I mean, do you feel weightless?
+No, so you are not an inertial observer.
+Your situation is exactly the same as someone accelerating on a rocket ship in deep space.
+And let me be clear,
+I don't mean the being at rest and a gravitational field is like accelerating and a rocket.
+I mean, it is the exact same thing.
+You are accelerating and there is no gravitational field.
+Gravitational fields do not exist.
+Now I know that sounds crazy, but come with me for a minute.
+This is you.
+in standard Newtonian physics we draw your weight force, the force of gravity pushing you down
+and the normal force from the floor pushing you up.
+We say these forces are equal and opposite, so there's no net force on you, so you are not accelerating.
+But in general relativity, gravity is not a force.
+You have no weight.
+So the only force on you are these normal forces pushing you up.
+So you are accelerating upwards.
+But I'm not moving up!
+Relative to what?
+I mean, relative to the flip chart and the floor and basically everything in this room.
+But all of those things are in your frame of reference, which you know is not inertial.
+Relative to everything in my rocket ship, I'm not accelerating.
+What you need if you really want to measure your acceleration is someone in an inertial frame of reference,
+like the guy who fell off the roof
+And he would see you accelerating up at 9.8 meters per second squared.
+I think what this shows is that what an acceleration really is is it's a deviation from a geodesic
+You can't follow a straight line path through space time because the floor prevents you from doing that:
+it applies a force upwards on you, so you're accelerating up.
+But if I'm accelerating up and so is everyone else around the world
+and presumably the whole surface of the Earth,
+Then, shouldn't the earth be expanding?
+No. It is possible for you to be accelerating, even though your spatial coordinates are not changing.
+I will show you one equation from general relativity
+This says that the second derivative of your position with respect to time
+is equal to your acceleration, that's just f on m,
+And if you were in flat spacetime, well, this is exactly what you're saying
+if you're accelerating your spatial coordinates have to change.
+But you're not in flat space time, and this term is related to the curvature of spacetime
+ and this is your velocity through time squared.
+You don't have to worry about the details here, the point is your position can be not changing.
+This can be zero, which means your acceleration must be exactly equal to
+this curvature term times are velocity through time squared.
+So in curved spacetime, you need to accelerate just to stand still.
+A lot of this may seem more complicated than Newtonian physics,
+but one classical mystery looks a whole lot simpler in general relativity,
+which is why all objects fall at the same rate.
+Now I have made a number of videos on this topic
+and I would always give the standard Newtonian explanation:
+the only force on a free falling body is its weight g m m on r squared,
+which equals its mass times acceleration.
+You can cancel the objects mass on both sides of the equation.
+Hence, all objects will have this same acceleration.
+The mystery is why we could cancel these two m's,
+the one on the left was gravitational mass, the property of an object that creates and experiences a gravitational field.
+While the m on the right is inertial mass, a measure of resistance to acceleration.
+Why should these two conceptually different properties be numerically identical?
+Scientists have spent a lot of time and effort experimentally testing
+down to around one part in 10 trillion that these two types of mass really are the same.
+But in general relativity, there is no mystery.
+All objects appear to fall the same way because they're not accelerating.
+They're just following straight line pass through spacetime until they encounter something that stops them.
+Like the objects in the rocket ship, they appear to accelerate at the same rate
+because they're not really accelerating.
+It's the floor accelerating into them.
+Now, a lot of us might seem pretty far fetched 
+as it did back in 1915 when Einstein proposed it
+So he very cleverly came up with a measurable prediction that scientists could make to test his theory.
+Imagine that this rocket ship is coasting through deep space
+If you shine a light beam across the rocket ship, well it'll do exactly what you expect:
+light travels in a straight line and hits a point on the opposite wall at exactly the same height as the source.
+But now what if this rocket is accelerating?
+Well, to an external observer, they're still going to see the same thing: light traveling in a straight line,
+but inside the rocket, during the time it takes the light to travel across the cabin, The rocket will have sped up.
+So by the time it hits the other wall, it'll hit a little lower than before.
+So in an accelerating frame of reference light deflects down
+Here I'm dramatically exaggerating the effect,
+even if I were accelerating up at 10 G's, which would probably kill me,
+the deflection would be on the order of the width of a proton.
+Still, it shows that an accelerating frame of reference will bend light.
+So Einstein reasoned light must also bend when it passes a large mass
+But where do you find a mass large enough?
+Well, the only obvious huge mass near the Earth is the sun.
+So the ideal experiment would be to look at light passing just next to the sun and see if it is deflected.
+Say light from distant stars.
+The problem was, of course, the sun is just so bright, you can't see stars right next to it.
+Unless there is a total solar eclipse, which is exactly what happened in 1919
+So Arthur Eddington set out to take pictures of the stars right next to the sun during totality.
+And what he found by analyzing those pictures,
+was that their positions appeared deflected by the precise amount predicted by Einstein's general theory of relativity
+The result was twice the deflection some had calculated using a strictly Newtonian model
+And general relativity has passed virtually every test put to it over the past hundred years or so,
+but there are still more things to try
+A well known and empirically validated finding is that accelerating charges radiates electromagnetic radiation.
+So one conceptually simple experimental test
+would be to compare the behavior of a stationary charge and a gravitational field to a free falling one
+If a more Newtonian picture of gravity is correct,
+well then the stationary charge should not radiate electromagnetic radiation,
+but a free falling one is accelerating and therefore it should radiate.
+In contrast, general relativity sees the free-falling charge as non accelerating.
+It's just going on a straight line path through curve space time,
+whereas the stationary charge is accelerating and therefore it should give off electromagnetic radiation.
+Now, thus far logistical challenges have prevented anyone from actually carrying out this experiment,
+but what you believe will happen reveals what you truly think about the nature of gravity.
+Do you think that a freely falling charge will radiate electromagnetic radiation or not?
+Is gravity an illusion?
+This episode was sponsored by Caseta
+and so I used the sponsorship money to have a rocket ship built
+Caseta by Lutron makes these smart light switches in the rocket ship.
+They also make remotes, motion sensors, smart plugs,
+basically every smart switch you could use for turning things in your home on and off
+But installing a smart switch isn't rocket science.
+You just turn off the power to the switch, detach the existing wires,
+and reconnect them to the Caseta smart switch.
+What's great about smart switches, as opposed to smart bulbs, is one switch often controls multiple bulbs.
+So you can save money by replacing only the switch.
+And they connect to most smart devices like Alexa, Google Assistant, and Apple home kit.
+And you can control them via an app on your phone.
+So if you forget to turn off the lights and the rocket, no need to go back, just turn them off in the app.
+You can also use the app to set up schedules, turning the lights on when it goes dark.
+This gives you peace of mind knowing your family will always come home to a well lit house.
+Now we may not have personal rockets yet, but we have smart switches
+and the smart choice for these devices is Caseta by Lutron.

@@ -1,0 +1,528 @@
+This is 10 micrograms.
+You think that I might be able to see?
+I think you might be able to.
+Oh boy.
+It's an arrow right there.
+Yeah, yeah, yeah.
+This flashlight will help.
+I feel like I need to get video of this.
+[Dr. Shaw] I don't know how.
+(Dr. Shaw laughing)
+It kinda looks like a hair,
+like a tiny,-
+Yeah.
+like a smaller than an eyelash.
+If you wanna measure a force
+like the weight of an object,
+the way it has always been done
+has been to balance it
+with some known standards.
+And the most precise standard
+weight people ever created
+was the kilogram, a
+platinum-iridium cylinder
+stored in a vault on
+the outskirts of Paris.
+(gentle music)
+Replicas of this kilogram were sent
+to countries around the world
+to use as their mass standards.
+Here is K20, the United
+States Mass Standard.
+And yes, the US is secretly metric.
+They just apply a conversion
+factor to get to "freedom units".
+It's just a little
+translation that we do here,
+but our country is actually
+on the metric system.
+Doesn't that seem crazy?
+Yes, it's stupid.
+The uncertainty in the
+mass of a standard kilogram
+is on the order of tens of micrograms.
+So that's tens of parts per billion
+or about 0.000001%.
+It's pretty good.
+But there's a problem if you want to weigh
+something lighter than a kilogram,
+the uncertainty increases.
+This little object here
+is a 50 gram test weight.
+So it's a reference mass.
+Can I pick it up?
+Maybe with tweezers?
+Yeah, if you don't mind?
+Sure.
+[Dr. Shaw] We try to keep
+the fingerprints off.
+so it's got a little bit
+of heft. You can feel that.
+A little, yeah.
+What about this one, what's this?
+[Dr. Shaw] This is 10 grams here.
+Yeah, that's pretty light.
+That's pretty light.
+And paperclip here is about one gram.
+And so, how you might use
+one of these test masses.
+So, if you're working in a
+laboratory or something like that
+you could take one of these little weights
+and put it on here and you
+could look at the scale and say,
+oh, okay, my scale is
+reasonably well calibrated here.
+That last digit might change a little bit.
+But you could sort of
+make some statement about
+whether or not your scale is accurate.
+When we're talking about the kilogram,
+these are obviously much
+smaller than a kilogram.
+How do we think about getting
+from that large object
+down to something that's this size here?
+One of the ways to do it is using
+conventional mass metrology,
+which is that you take the kilogram
+and you use a process called subdivision.
+Where you compare other smaller
+masses against the kilogram.
+You take two 500 gram masses
+and you make sure that
+they're equal on your balance.
+And then you put both
+of those on your balance
+and compare that against a kilogram.
+Would you go like two 500's
+and then two 250's and then
+two 125's? like you just...
+Yeah, yeah, yeah.
+So you could do like
+one common arrangement
+is something like we have here.
+This is a 500 milligram mass,
+these are two 200 milligram masses,
+and that's a 100 milligram mass.
+So these three sum up to this.
+Okay.
+So you can compare those
+two against each other.
+The smallest we have here, is down there.
+That's a milligram.
+That is a milligram?
+[Dr. Shaw] That is a
+milligram right there.
+What are they made out of?
+Okay, these are made
+outta stainless steel.
+And we have to do things like you see
+this little lint free brush here.
+If you have a speck of dust on
+here or something like that,
+it's can be a problem, if
+it's a big speck of dust.
+So every time we do weighings with these,
+we'll take a lint free cloth and a brush
+and clean them off a little bit.
+Why are they this sort of
+curious wire kind of shape?
+The shapes?
+Yeah.
+It helps you remember which one is which.
+The five-sided one is 500 milligrams.
+One of the interesting things
+from my perspective about this is that
+you can really subdivide
+over a large range
+of these masses from a kilogram.
+this is one millionth of a
+kilogram is a milligram.
+So you can subdivide the
+kilogram by a million times.
+But you sort of pay a price for that,
+because each time you do this subdivision,
+the uncertainty increases
+a little bit, right?
+So what is the uncertainty
+in say the milligram there?
+If you do it with a subdivision,
+it will be maybe a part in 10 to the four,
+one part in 10 to the four.
+So like 0.01 percent-ish range.
+But there is a way to do better,
+and that's thanks to the fact the
+kilogram is no longer defined
+by the platinum-iridium cylinder in Paris.
+Over the course of a century or so,
+the replica kilograms
+were brought back to Paris
+a few times to be weighed with each other.
+And from those measurements
+it became clear
+that their weights were
+diverging by up to 75 micrograms.
+No one could say if the
+replicas were getting heavier
+or if the original was getting lighter.
+But it was unacceptable
+to have mass standards
+with changing masses.
+So the solution was to eliminate
+the kilogram's dependence
+on a physical object
+and instead define it based
+on a constant of nature,
+Planck's constant.
+So how does that work?
+Well, Planck's constant is best known
+for relating the frequency of a photon
+to its energy by E=hf.
+But energy and mass are
+related through E=mc2.
+So you can see how mass is
+related to Planck's constant.
+In 2019, scientists
+officially set the value
+of Planck's constant to be
+this number in Joule-seconds
+which, along with the definition
+of the meter and the second,
+now defines what a kilogram is.
+The real advantage of this definition
+is how it can be applied in fancy scales.
+This is a Kibble balance.
+It can balance the weight of an object
+with an electromagnetic force.
+What's great about that is
+that the electrical quantities
+used in this balance can be
+read out very accurately,
+and in units of Planck's constant.
+So you get direct traceability
+by weighing something in this balance.
+This is kind of the smaller
+cousin of the Kibble balance.
+It's called the electrostatic
+force balance or the EFB.
+And this is a balance that was designed,
+specifically to measure mass
+sort of in the milligram range.
+The Kibble balance uses an
+electromagnet, I use a capacitor,
+which is basically two metal electrodes
+that you apply a potential to.
+And when you apply a potential,
+there's an attractive force
+between those two electrodes.
+I apply an electrostatic force
+by applying a voltage here
+at this you can see the cylinder here.
+There's this cylinder and
+there's inside of this
+there's another cylinder,
+and they're close together.
+So you have this concentric
+cylinder like this.
+And when you apply a voltage,
+it pulls that moving
+cylinder down in there.
+And by measuring the
+properties of the capacitor
+and measuring the voltage that we apply,
+we can know exactly how
+much force we get here.
+And then up here, we drop our mass on.
+So we compare our gravitational
+force from the mass
+to the electrostatic
+force from our capacitor.
+To get the best accuracy,
+this lab is located deep underground
+and they keep the air temperature
+a constant 20 degrees Celsius to avoid
+any thermal expansion or
+contraction of the devices.
+And all measurements in this
+balance are made in a vacuum.
+So there are no air currents
+and no buoyant force
+on the object from the atmosphere.
+They've even carefully
+measured the acceleration
+due to gravity in the lab.
+Here it is, it's under the chair.
+Right there, that triangle,
+that is where the USGS
+measured absolute gravity
+with an absolute perimeter
+9.801-ish meters per second.
+Does this lab measure small forces
+the most accurately in the world?
+At the milligram level, so 10
+micro newtons-ish of force.
+Yes, this measures force the
+most accurately in the world.
+I'm confident in saying that,
+but of course, you can go lower than that.
+This is the smallest weight
+and you can't see it here.
+This is 10 micrograms.
+So when you think about the
+uncertainty in a kilogram,
+when you take Planck's
+constant at a Kibble balance
+and you realize the kilogram,
+you're at that level
+of about 10 micrograms.
+And that is what 10
+micrograms, I mean you can't,
+I had to put the little
+arrow here so you can.
+If you were here in the laboratory
+you could look and peer down there maybe.
+I feel like I need to to get video of this
+so people can see what 10 micrograms.
+[Dr. Shaw] I don't know how.
+It kinda looks like a hair, like a tiny,
+like a smaller than an eyelash, right?
+[Dr. Shaw] It is really much,
+yeah, that's about the...
+Much thinner.
+[Dr. Shaw] Yeah, that's about the scale
+you're looking at there, yeah.
+I'm almost certain I can
+capture this on video.
+We brought a special lens with us.
+Ooh yes.
+We brought a special,
+Special lens.
+2024 mill macro,
+'cause I was like, we're
+gonna need it for this.
+Try to find this thing.
+Oh, I can see it.
+Oh yes.
+Do you see it there?
+Yeah, yeah, yeah, yeah, you got it.
+You made this?
+Yes, with great trouble
+and then calibrated it on a balance.
+It was, man, I'll tell
+you, it was not easy.
+When you have that thing,
+you can imagine what
+it's like trying to work
+with something like this, right?
+And this is about as small
+as you can reasonably
+expect to make something as a test weight.
+And if you wanna measure
+a force smaller than that,
+so I have these little tiny chips here.
+These are atomic force
+microscope cantilevers.
+There're little tiny force
+sensors on the end of these.
+There're little tiny cantilever
+beams with a sharp tip.
+And you can use that sharp
+tip to press against things
+and apply nanonewton to piconewton forces.
+But I mean the tip is so small
+it's very, very difficult to see.
+It really requires a microscope.
+Is it like there's a little
+diving board on there?
+Yeah, exactly.
+There's a little diving
+board, that's right.
+It looks like a little diving board.
+It's like a spring, right?
+And if you push on it,
+the more it bends the larger the force.
+What is the smallest force
+that you want to measure?
+Do you have a...
+Yeah, I can show you, I can show you.
+This is one of the sensors we
+used to do the smallest forces
+that I can confidently say we've measured
+that are traceable in some way
+to the International System of units.
+And that is a femtonewtons of force
+at about a piconewton would be
+like if you're stretching
+out a DNA molecule.
+So, if you take it a DNA molecule
+and stretch it out end to
+end, that's a piconewton.
+So back to a factor of a
+thousand less than that
+was what we were measuring.
+So, this is an example
+of one of the sensors
+we use to get to the sort
+of femtonewton level.
+This is a fused silica
+parallelogram flexor.
+You can't see it really well.
+So let me, I have a
+big version right here.
+So what we can do is we
+can set this vibrating
+and it'll vibrate with really pure tone.
+And we can see very, very
+small changes in force
+based on how far this
+vibrates up and down.
+I would have a little
+laser interferometer,
+which measures the motion of this.
+So we measure the
+displacement of this end here
+and then right next to it we would have
+a little tiny optical fiber
+that would deliver a known
+optic laser power to this.
+So this would be a photon pressure force,
+whereby reflecting the
+light off the surface here
+we actually get a very small force.
+If we vary that force sinusoidally, we vary it in time,
+we can get this to move up and down
+and we can get it to vibrate.
+And we can see differences as small
+as femtonewtons in our force.
+So you're saying you
+could measure the force
+from a laser pointer?
+Yeah, oh yeah, yeah, definitely.
+Yeah, we've done that.
+My pointer was shining on that.
+That's right, that about approximately
+seven piconewtons of force.
+And once again, that's enough
+to stretch out a DNA molecule.
+Can I ask you the big question?
+Yeah, yeah.
+Why does anyone need to measure
+forces this small?
+Yeah,
+that's a good question.
+So a couple of things.
+there are a couple of
+different answers to that.
+One is sort of the industrial relevance.
+Automotive manufacturers need to measure
+the mass of particulates
+that come off their exhausts,
+particularly in diesel systems.
+Particulate contamination is
+a really kind of a big deal.
+So, you need to be able to measure
+50 micrograms of these particulates
+for those environmental
+standards to be met.
+The laser power measurements for people
+who are doing industrial
+processes with lasers,
+because you can actually
+use the measurement
+of a small force to calibrate laser power.
+Pharmaceuticals, you have milligram doses
+microgram doses sometimes.
+The other thing that's important I think
+kind of goes to the heart of
+why NIST is so cool, in my opinion.
+Is that it really helps us
+push the frontiers of science.
+The new scientific discoveries benefit
+from the new measurement capabilities,
+which then feed into new
+precision metrology capabilities.
+And so, that is really
+one of the things to me
+that makes NIST really special is that
+we're very good at sort of
+creating that environment
+where that can happen.
+(electronic music)
+If you, like me, are fascinated
+by precision measurement
+then I bet you would love
+the sponsor of this video, Brilliant.
+Brilliant is a learning
+tool that helps you master
+STEM concepts like foundational math,
+computer science, and quantum physics.
+It's full of interactive hands-on lessons
+that build on each other.
+You don't just get an
+introduction to a subject,
+you actually understand
+it at a deep level,
+and that's because you practice it
+and answer questions
+to test your knowledge.
+You can try their interactive
+lessons for free right now
+by going to brilliant.org/veritasium
+and I would recommend
+a great place to start
+is there course on scientific thinking.
+There you solve real world puzzles
+using scientific principles
+like gears or balances.
+And if you wanna dig deeper
+into forces at the nano scale,
+you can learn about how
+proteins fold and unfold
+and connect that to how energy
+relates to chemical bonds.
+With questions throughout the lesson,
+it's way more engaging than
+just watching or reading.
+And if you ever get stuck,
+helpful hints are always close at hand.
+I also love their
+quantum mechanics course,
+because it's totally accessible,
+but it doesn't hold back on teaching
+quantum state calculations
+and practical experiments.
+In fact, you can follow
+how scientists design
+sensitive measurements using light,
+just like Dr. Shaw.
+There's an entire section
+on designing your own setup
+to measure quantum entanglement
+using polarizers on an optical table.
+I love working with Brilliant,
+because I think it's
+the perfect compliment
+to science videos.
+My goal is to get you
+interested in a topic
+and then if you wanna learn more,
+you can use Brilliant to
+practice and master the material.
+And now that we're in the holiday season,
+if you're looking for an easy fun gift
+for friends or family who love learning,
+try a Brilliant subscription.
+They have thousands of lessons
+and new exclusive releases every month.
+And if you sign up for yourself
+or someone else right now,
+Brilliant are offering 20% off
+an annual premium subscription
+to the first 200 people.
+Just use my link brilliant.org/veritasium.
+I will put that link
+down in the description.
+So I want to thank Brilliant
+for supporting Veritasium
+and I wanna thank you for watching.

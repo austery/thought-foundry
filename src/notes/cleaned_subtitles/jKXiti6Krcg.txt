@@ -1,0 +1,517 @@
+Henley & Partners publish their Private Wealth 
+Migration Report once a year. In their latest  
+edition, the UK ranks dead last — for the 
+first time — with a net outflow of 16,500  
+millionaires. This figure has been quoted 
+in Parliament, picked up by newspapers,  
+and used to frame debates about Britain’s 
+global competitiveness. It’s a very worrying  
+number - but It’s also quite hard to verify.
+Tim Harford looked into this claim on his BBC  
+podcast More or Less. He interviewed the head 
+of research at New World Wealth, who did the  
+research underlying the migration report – who 
+explained that their estimates rely on social  
+media profiles, press coverage, and company 
+filings. Hartford argued in his podcast – quite  
+rightly - that their sample was not representative 
+and that you couldn’t draw conclusions from it… 
+ 
+Dan Neidle – of Tax Policy Associates - went 
+further - in a forensic review published on  
+his website he pointed out that the report 
+was riddled with statistical red flags.  
+The firm had dropped all property wealth 
+from its analysis between 2023 and 2025,  
+yet its millionaire counts barely moved — a result 
+Neidle described as “impossible” if the published  
+methodology were real. New World Wealth later 
+told the FT that they hadn’t actually changed  
+their methodology – just their description of it.
+Neidle found digit patterns in the data with a  
+suspiciously high frequency of even numbers and 
+numbers where trailing digits cluster on 0s and  
+5s, with almost no 1s. Statistically – he points 
+out - the chance of that occurring naturally is  
+about 1 in 240,000. More evidence – he says - 
+that the numbers were either manually created  
+or manually adjusted. Neidle’s analysis used 
+well-established techniques to detect rigged  
+numbers. I will put a link to his more 
+detailed analysis in the description – but  
+he concluded – that the figures were 
+likely engineered rather than observed.
+ 
+Now this doesn’t mean that the rich are not 
+leaving the UK – it just means that it is  
+very difficult to know whether they are or not 
+- simply because good data doesn’t exist. To  
+highlight the difficulty - the UK Office for 
+Statistics Regulation recently suspended the  
+official statistics status of the governments own 
+Wealth and Assets Survey collected by the Office  
+for National Statistics following concerns 
+raised by the ONS that the data is no longer  
+of sufficient quality to meet users’ needs.”
+The Financial Times in a separate analysis - found  
+that a wave of company directors have left 
+Britain since the government abolished its  
+favorable tax treatment for non-domiciled 
+residents and raised other duties on the  
+wealthy. They analyzed Companies House filings, 
+looking for directors of UK firms who’ve updated  
+their addresses to overseas jurisdictions. This 
+is not perfect methodology either – which the FT  
+highlighted in their column - as plenty 
+of wealthy people don’t run companies,  
+and plenty of directors don’t update their 
+filings in a timely manner. But a trend is  
+visible in the data. In the most recent period, 
+3,790 directors reported leaving the UK, up from  
+2,712 the year before – and a spike that occurred 
+in April coincides with the new tax changes.
+ 
+There are other signals being reported too. 
+Butler agencies report fewer placements. Wealth  
+managers say some clients are leaving and London’s 
+luxury property market has softened. None of this  
+is conclusive. But it’s not nothing either.
+The UK’s non-dom tax regime is not a recent  
+invention. It dates back to the very first 
+income tax in 1799, introduced by William Pitt  
+the Younger to fund the Napoleonic Wars. At the 
+time, all residents were taxed only on UK income.  
+In 1915, the rules changed: UK residents were 
+taxed on worldwide income — unless they could  
+claim non-domiciled status – and that carve-out 
+remained largely intact for over a century.
+ 
+"Non-dom" describes a UK resident whose permanent 
+home for tax purposes is outside the UK. Domicile  
+under British tax law has always been a bit of 
+a funny thing it’s the place they consider to  
+be their permanent home and where they have the 
+closest ties and it refers to their tax status,  
+and doesn’t necessarily relate to their, 
+citizenship or resident status - although  
+it can be affected by these factors.
+Before we dig into how this system  
+worked let me tell you about this 
+week’s video sponsor deleteme.
+ 
+A non-dom only paid UK tax on 
+the money they earned in the UK.  
+They didn’t have to pay tax to the UK government 
+on money made elsewhere in the world - unless  
+they transfer that money back into the UK.
+For wealthy individuals, this presented the  
+opportunity for significant - and entirely 
+legal – tax savings – especially if you could  
+claim a lower-tax country as your domicile.
+One of the best known non-doms was former Prime  
+Minister Rishi Sunak's wife – who after a scandal 
+broke a few years ago – announced that she would  
+start paying UK tax on her worldwide income.
+Attempts to reform the non-dom rules over the  
+years were frequent. Labour nearly abolished it 
+in 1974. Nigel Lawson tried again in 1988. During  
+the financial crisis - the regime was tightened 
+in 2008 – where annual charges were introduced  
+for long-term non-doms — you had to pay £30,000 a 
+year if you had been resident in the UK for seven  
+of the past nine years, and £60,000 a year if you 
+had been resident for twelve of the past fourteen  
+years. The remittance basis was preserved, but 
+access became more expensive and conditional.
+ 
+George Osborne made further changes in 2017, 
+removing benefits for those who had lived in the  
+UK for fifteen of the past twenty years. But each 
+time adjustments were made, Treasury officials  
+warned of tax flight, and ministers backed down. 
+The fear was that driving the wealthy abroad  
+would harm the economy more than it would benefit 
+from taxing them on their foreign earned income.
+ 
+In March 2024, then-Chancellor Jeremy Hunt 
+announced the abolition of the non dom rule  
+ahead of the general elections. In October, 
+Labour Chancellor Rachel Reeves confirmed the  
+policy’s end, extending it to offshore trusts 
+to prevent inheritance tax avoidance.
+ 
+Now, foreign income and gains are taxed in the 
+UK - as they are earned - once an individual has  
+been resident in the UK for four years. On top 
+of that, inheritance tax will apply to worldwide  
+assets after ten years, and continue for ten 
+years after departure. The excluded property  
+trust loophole is closed and the concept of 
+domicile for tax purposes has been retired.
+ 
+There are transitional rules. Assets held 
+before April 2025 can be rebased. Foreign  
+income and gains can be brought into the UK 
+at a flat 12% rate for a limited time. New  
+arrivals get a four-year grace period under 
+the “Qualifying New Resident” regime. But  
+the overall direction is clear: the UK is no 
+longer a tax haven for the globally mobile.
+ 
+The Office for Budget Responsibility say that 
+they expect up to 25% of non-doms to leave the  
+UK. The Treasury forecasts £12.7 billion pounds 
+in revenue over five years. Research from Warwick  
+University suggests the fears of mass departure 
+may be overstated – as when Osborne’s 2017 change  
+took effect, only 6% of affected non-doms left 
+the UK. Those who stayed paid significantly more  
+tax — on average, an extra £100,000 pounds per 
+year and the predicted mass exodus never came.
+ 
+The debate is still not over – this June - 
+the Financial Times reported that Chancellor  
+Rachel Reeves was exploring a partial 
+reversal of the inheritance tax changes,  
+following lobbying from the City of London and a 
+spate of high-profile departures. The government  
+is said to be considering adjustments to 
+the ten-year tail or reintroducing trust  
+protections. No formal announcement has been made, 
+but the Treasury is watching the fallout closely.
+ 
+There are signs that some of the rich are leaving 
+- London’s luxury property market has softened –  
+in particular in the neighborhoods where wealthy 
+foreigners tend to live. Butler agencies report  
+fewer placements. Wealth managers say some 
+clients are leaving. Recruiters in Mayfair  
+and Belgravia are seeing fewer inquiries 
+from ultra-high-net-worth individuals.  
+Private club memberships are down. Some of 
+the big family offices have quietly shifted  
+operations to Switzerland and the UAE.
+The VAT change on private school fees  
+has added to the mood. From January 2025, 
+independent schools are subject to 20% VAT.  
+The government expects a 10% average fee 
+increase and up to 35,000 pupils to shift  
+to state schools. For wealthy families already 
+considering relocation, it’s one more nudge.
+ 
+There have been a number of high-profile 
+exits. Lakshmi Mittal the Indian born  
+founder of Arcelor Mittal and Britain’s seventh 
+wealthiest man is reported to be leaving as is  
+Nassef Sawiris’ - Egypt’s richest person. Richard 
+Gnodde – the South African born vice chairman of  
+Goldman Sachs International has left Britain 
+for Milan. Anne Beaufour, the Sanofi heiress,  
+moved her tax residence to Switzerland. 
+A study of non-doms in 2018 — and those who  
+had claimed the status since 1997 — found 
+that more than 93% were born abroad,  
+and another 4% had lived abroad for a substantial 
+period. Most have genuine international ties. When  
+the UK changes the rules, these people have real 
+ties abroad and can choose lower tax regimes.
+ 
+A paper from the London School of Economics 
+on Tax Flight points out that people who  
+have already migrated once - tend to 
+be more responsive than natives to tax  
+changes and there is often a statistically 
+significant migration response overall.
+ 
+None of this proves a mass departure. But it’s not 
+just noise either. HMRC payroll data this August  
+found no evidence to suggest that more non-doms 
+left Britain than the 25% official prediction,  
+according to the Financial Times.
+Countries around the world are  
+constantly adjusting their tax regimes. Some 
+are tightening rules. Others are designing  
+systems to attract wealthy individuals.
+Switzerland offers lump-sum taxation to high  
+net worth individuals where a flat tax rate can 
+be negotiated with local government authorities.  
+Italy introduced a one hundred thousand euro flat 
+tax on foreign income in 2017, later raising it to  
+two hundred thousand euros. This has been popular 
+with footballers, fashion executives, and hedge  
+fund managers. Portugal replaced its Non-Habitual 
+Resident regime in 2024 with a narrower scheme  
+focused on innovation and research. The UAE has no 
+personal income tax and a 9% corporate tax above a  
+million dollars. Andorra offers a 10% income 
+tax, no wealth tax, and no inheritance tax.
+ 
+Golden visas are part of the strategy too. The UAE 
+offers long-term residency to investors. Italy and  
+Greece have property-linked visa schemes. Donald 
+Trump recently proposed a $5 million dollar “Gold  
+Card” visa for the US — a rebranding of the EB-5 
+Immigrant Investor Visa with fewer restrictions.
+ 
+To highlight how complicated some of this can 
+be – last month, several senior bankers from  
+Pictet — one of Switzerland’s most prestigious 
+private banks — relocated to Italy where they  
+could get lower taxes. The move triggered a tax 
+debate in Geneva. A point of contention is that  
+some foreigners in Switzerland pay less tax than 
+citizens. Critics argued that Switzerland’s rigid  
+enforcement was pushing talent away, while 
+Italy’s flat-tax regime was pulling it in.
+ 
+Tax is only part of the equation. Wealthy 
+individuals also consider lifestyle,  
+legal stability, and access to global 
+markets. Jurisdictions that offer the right  
+mix attract the rich while others lose them.
+Gabriel Zucman, the French economist known  
+for his work on tax havens and inequality, has 
+proposed a 2% annual wealth tax on billionaires.  
+The idea gained traction in France’s political 
+circles earlier this year, with support from  
+parts of the left and criticism from business 
+leaders and economists across the spectrum.
+ 
+Zucman argues that the ultra-wealthy are 
+undertaxed relative to their income and  
+assets. His proposal is designed to be enforceable 
+through international cooperation and automatic  
+exchange of financial information. He’s also 
+advising the G20 on global wealth taxation,  
+pushing for a coordinated approach 
+that would prevent capital flight.
+ 
+France has a history with wealth taxes. It 
+repealed its own version in 2017 after years  
+of debate over its effectiveness. The tax raised 
+modest revenue and was blamed for driving wealthy  
+residents to Belgium, Switzerland, and the UK. 
+The debate over how taxes should work has  
+spilled across borders. The former French 
+Prime minister, recently accused Italy of  
+engaging in “fiscal dumping” by luring wealthy 
+French citizens with its flat-tax regime.  
+The Pictet bankers’ move from Geneva to Milan 
+has sparked fierce debate in Switzerland.
+ 
+Wealth taxes are politically popular 
+but economically fragile. According  
+to Economics Observatory the number of 
+OECD countries with annual wealth taxes  
+dropped from 12 in 1990 to just 3 today. The 
+reasons for dropping them are consistent:  
+low yield, high avoidance, and 
+administrative complexity. 
+ 
+Mobility is no longer limited to billionaires. 
+Increasingly, professionals in the upper-middle  
+class are making decisions about 
+where to live based on tax, lifestyle,  
+and legal stability. The barriers to relocation 
+have dropped. Remote work, international schools,  
+and digital infrastructure have made it easier 
+to live abroad without severing ties to home.
+ 
+In the United States, internal migration reflects 
+similar patterns. States like Florida, Texas,  
+and Tennessee — which have no state income tax — 
+continue to attract high earners from California,  
+New York, and Illinois. The shift isn’t just 
+about tax. It’s also about housing costs,  
+crime rates, and the quality of public services.
+Digital nomad visas have added another layer.  
+Estonia, Portugal, and Barbados offer residency to 
+remote workers earning above a certain threshold.  
+These programmes target professionals who 
+aren’t wealthy in the traditional sense but  
+have portable incomes and flexible careers.
+Citizenship planning has become a cottage  
+industry. Wealthy families 
+now hold multiple passports,  
+not for travel convenience but for legal and 
+financial flexibility. Some jurisdictions offer  
+“Plan B” citizenships — second passports designed 
+to hedge against political or fiscal instability.
+ 
+The wealthy have always been mobile. What’s 
+changed is the scale. Mobility now extends to a  
+broader segment of the population, and governments 
+are adjusting their policies accordingly.
+ 
+Governments are starting to run out of 
+room. Across Europe, deficits are widening,  
+and the cost of borrowing is no longer trivial. 
+The post-pandemic debt pile hasn’t shrunk;  
+it’s instead been layered with new obligations 
+— energy subsidies, inflation-linked benefits,  
+and now, military spending. Ageing 
+populations combined with high  
+retirement benefits aren’t helping either.
+Governments need to either raise taxes or  
+cut spending – and there appears to be no 
+desire to cut spending. Tax revenue has to  
+come from somewhere. But the traditional targets — 
+consumption, corporate profits, and middle-income  
+earners — are already strained. 
+This is the tension:  
+fiscal sustainability demands revenue while 
+global competitiveness demands restraint. The  
+balance is hard to strike — and easy to lose.
+In the 1970s, Britain raised its top marginal  
+tax rate to 83%, and 98% on unearned income — 
+which means investment income and royalties.  
+The response was quick. The Beatles — whose 
+music publishing income would have been  
+classified as unearned income — shifted their 
+financial operations offshore. The Rolling  
+Stones left for France. Film stars, bankers, 
+and industrialists followed. Sotheby’s held  
+auctions on heirlooms from shuttered 
+estates. Stately homes emptied out.
+ 
+The tax code became a deterrent. 
+High earners who could move did.
+ 
+Today, the top rate of income tax 
+in the UK on most income is 45%,  
+so you would expect that there must have been 
+a lot more income tax paid in the 1970s than  
+today. But this chart from Tax Policy Associates 
+shows that income tax raised about the same in the  
+1970s (as a percentage of GDP) as it does today.
+The rich didn’t end up paying a higher percentage  
+of taxes back then either. When taxes 
+were at their highest in 1978 and 1979,  
+the top 1% paid 11% of all income tax 
+collected. Today in the UK, the top 1% will pay  
+about 29% of all income tax collected.
+There are a few reasons for that. Firstly,  
+the top 1% today earn a lot more than the top 1% 
+did in the late ’70s. The nature of how money is  
+made today — where technology can be leveraged to 
+build scalable income — means that income is less  
+tied to “hours worked” than it was in the past.
+Secondly, in the wake of the financial crisis,  
+tax rates went up a lot for high earners.
+Thirdly, and possibly most importantly,  
+high earners are often in a position where 
+they can control the size of their incomes  
+and the timing of payments. While the Beatles 
+and the Rolling Stones couldn’t slow down their  
+royalty payments, a business owner or senior 
+executive could defer payments — waiting for  
+a better tax rate. Why would you pay yourself a 
+high dividend if the government would take 98%  
+of it? You would just leave it in the company.
+In the 1970s, benefits in kind were undertaxed or  
+completely untaxed. An executive could eat out, 
+have a company car, take holidays, and enjoy  
+club memberships — all without being taxed.
+As Dan Neidle explains in his blog, the UK tax  
+policies of the 1970s were a failure. They failed 
+to tax the rich effectively, they failed to fix  
+the government’s fiscal problems, and they drove 
+many wealthy Brits abroad — who never came back.
+ 
+The 1970s are remembered for strikes 
+and stagflation. But they also marked  
+a turning point in how Britain treated globally 
+mobile wealth. When the cost of staying rises,  
+those with options start looking elsewhere.
+Those calling for a return to those types of  
+policy are often doing so out of a desire to 
+punish high earners. According to Dan Neidle,  
+the lessons that can be drawn from that era are 
+that the best way to tax the wealthy is to expand  
+the base and close loopholes. While that makes a 
+less snappy soundbite than sending rates sky-high,  
+the evidence and the history show that 
+it’s fairer and much more effective.
+ 
+The debate around wealth inequality often starts 
+with a statistic and ends with a slogan. Oxfam’s  
+claim that “the richest 1% own more than the rest 
+of the world combined” gets repeated frequently  
+— but the methodology behind it is rarely 
+examined. The figure includes negative net worth,  
+which means a recent medical school graduate 
+with student debt is counted as poorer than a  
+homeless person — with no debt, but no employment 
+prospects. That’s not a meaningful comparison.
+ 
+Another example: Jerome Kerviel, the rogue 
+trader who lost billions for Société Générale,  
+is technically one of the poorest people 
+in the world by net worth. His debts are  
+so large they skew the data. But he’s 
+not representative of global poverty.
+ 
+In the UK, the top 1% pay around 29% of all income 
+tax. That share has risen over time, not fallen.  
+The idea that the wealthy aren’t contributing is 
+popular — but it’s not supported by the numbers.
+ 
+Inequality exists, but the shape of it is 
+more complex than the headlines suggest.  
+Many of those counted as “wealthy” are 
+business owners with volatile income,  
+or professionals with high earnings but 
+limited assets. Where you live matters  
+too - you can probably live more comfortably on 
+fifty thousand dollars a year in Texas than on  
+a hundred thousand dollars a year in California — 
+where everything costs a lot more. Many of those  
+counted in broad based statistics as being “poor” 
+are young, educated, and on upward trajectories.
+ 
+According to research from the Institute for 
+Fiscal Studies, high earners in the UK are not  
+a stable group — a quarter of those in the top 
+1% in one year will not be there the next. After  
+five years, only half will still be in the top 
+1%. Research from Cornell University shows that  
+about 11 percent of American workers will move 
+into the top 1 percent of income earners for at  
+least a year between the ages of 25 and 60.
+Hopefully you can see that the data is a bit  
+more complicated than it first appears — 
+and you need to look past the headlines  
+and slogans to see what’s going on.
+Whether the rich are leaving the UK or  
+not in meaningful numbers is hard to pin 
+down based on the available data it will  
+take some time to work that out.
+But the bigger issue is whether  
+people — especially those with options 
+— feel they’re getting value for money.
+ 
+Tax isn’t just about rates. It’s about trust. 
+In Sweden, high taxes are tolerated because  
+the system is transparent, the institutions 
+are trusted, and the public services work.  
+Civil servants disclose their financial interests 
+and one phone call will get you your lawmaker's  
+tax statements. That kind of openness builds 
+legitimacy — and with it, compliance.
+ 
+In the UK and the US, trust in government 
+is lower. Tax systems are more complex.  
+And when people feel their money is wasted or 
+mismanaged, they start looking for the exit.
+ 
+There’s no perfect formula. 
+But history offers clues,  
+and the international landscape offers 
+comparisons. The challenge is to tax fairly,  
+fund public services, and remain globally 
+competitive — all at the same time.
+ 
+If you found this video interesting – you should 
+watch this one next. Don’t forget to check out our  
+sponsor DeleteMe using the link in the description 
+and talk to you in the next video – bye.

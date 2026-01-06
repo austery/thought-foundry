@@ -1,0 +1,687 @@
+- Airships seem like a bad idea.
+Exhibit A.
+(bright upbeat music)
+- It's the greatest of
+miracles that anyone
+came out of the disaster alive.
+- The Hindenberg was filled
+with over 200 million liters of hydrogen
+but it also had an iron oxide
+and aluminum powder coating
+on its outer shell,
+two of the ingredients that make thermite,
+a mixture that undergoes
+such a strongly exothermic reaction,
+it is used to weld train tracks together.
+But even if airships weren't
+giant sacks of flammable gas
+encased in questionable coatings,
+they would still seem like a bad idea
+because they are big and slow.
+But right now, a handful of
+companies around the world
+are competing to build a
+new generation of airships.
+So why are they doing it?
+I came across the following argument
+in a blog by Eli Dourado
+and I found it compelling
+so I wanted to explore it.
+Think about how goods, all
+the different types of stuff,
+are transported around the U.S..
+A large amount of money is spent
+moving things around by airplane
+but this doesn't translate
+into a huge volume of goods
+because air transport is really expensive.
+It's the fastest way
+to get something from one place to another
+but you pay a premium for that speed.
+If you want to save money,
+you can transport your goods
+on ships using the waterways
+in and around the country
+but that will be much slower.
+Still, since it's significantly cheaper,
+far more goods are transported this way
+and more money is spent on it overall.
+Rail provides an even better option.
+It's faster than ships
+and cheaper than planes,
+so more goods are sent by train
+than by air and water combined.
+But by far the way that most
+goods are moved around the U.S.
+is by truck.
+What's interesting about
+this is that trucks
+are not as fast as planes,
+they take several days to
+get across the country.
+They are also not as cheap as ships
+but the combination of speed and price
+puts them in this sweet spot
+of cheap enough and fast enough
+which is why they transport
+the vast majority of goods.
+They are like the baby bears
+porridge of transport options,
+just right.
+Now consider how goods are
+transported internationally.
+The only options are planes and ships.
+Again, a lot of money is
+spent sending goods by air
+but because it's so expensive,
+the actual volume of goods is low.
+And most goods, both in
+terms of dollars and weight
+are sent via ocean freight.
+But what if there were a third option;
+faster than ships and cheaper than planes?
+It seems likely that most
+customers would prefer this new
+truck-like method of transport.
+Airships could be this option.
+(bright upbeat music)
+They could be the trucks of the sky.
+(bright upbeat music)
+They would transport cargo
+across oceans in around a week
+rather than a month for freighters.
+And theoretically, they would
+be several times cheaper
+than sending goods by plane.
+And they would achieve all this
+while emitting significantly
+less emissions than planes.
+See, while planes get
+their lift from their wings
+and so they need to burn a lot of jet fuel
+just to stay in the air,
+airships get their lift
+effectively for free.
+The buoyancy of lighter-than-air
+gas keeps them up
+so they don't need to move
+forward to stay aloft.
+As a result, modern airship
+manufacturers estimate airships
+can reduce carbon
+emissions by 90% or more.
+But for airships to become
+the trucks of the sky,
+they would have to carry a lot of weight
+and historically, that has
+not been a particular strength
+of airships but that's
+where the physics comes in.
+The lift of an airship depends
+on the volume of light of
+an air gas it contains,
+so lift is proportional to radius cubed.
+Whereas drag depends on a
+combination of the cross-sectional
+and wedded area,
+that is basically the
+surface area of the craft.
+So it's proportional to radius squared.
+This means the bigger you make an airship,
+the more efficient it becomes.
+Lift goes up proportional to radius cubed
+whereas drag only goes up
+proportional to radius squared.
+So there's a cubed squared
+advantage for larger airships.
+Want to boost the
+performance of your airship?
+We'll just double it in size.
+The area grows by a factor of four
+the volume by a factor of eight.
+So your lift to drag ratio doubles.
+If that's not enough,
+just double it again.
+To make airships the trucks of the sky,
+we'd need to build
+the largest airships
+the world has ever seen.
+There are three different
+kinds of airships.
+The first is a blimp,
+which is basically a
+balloon with a gondola
+and motors attached.
+Like a balloon,
+it is over-pressurized
+to maintain its shape.
+Therefore, the skin of a
+blimp is in constant tension.
+As the blimp becomes larger,
+this tension increases.
+Moreover, it becomes
+increasingly difficult
+for larger blimps to maintain their shape.
+So you can't scale up blimps forever.
+The second option is semi-rigid.
+Just like a blimp, the
+hull is still in tension
+yet now there's some
+added structural support
+to maintain the shape.
+The last variety is a rigid body airship.
+These have an internal structure
+to maintain their shape.
+Inside the hull, there
+are a series of gas cells
+filled with a lifting gas
+like hydrogen or helium.
+In this case, the gas cells
+are not over pressurized
+so making them larger is no issue.
+The great thing about rigid airships
+is that they don't run into
+the same scaling limits.
+Want a bigger airship?
+Just scale up the structure
+and add some extra gas bags.
+In fact, the weight of the
+structure actually decreases
+as a fraction of the total weight,
+so rigid airships scale even
+better than square cubed.
+So it's this last option
+that is best suited for the cargo market.
+And that's what Eli proposes:
+to build a 388 meter long rigid airship
+to conquer the cargo market
+it would be capable of
+carrying 500 tons of goods
+at a speed of 90 kilometers per hour.
+That's enough to carry
+two Statues of Liberty
+at the speed you drive down the highway.
+If built, it would be the
+largest aircraft by far
+both in size and in how
+much weight it could carry.
+Not bad for an airship.
+But to take a significant
+piece of the cargo market,
+you don't need just one airship,
+you need a fleet of thousands
+constantly moving goods around the globe.
+And if they take over half
+of the ocean freight container market
+at a price comparable to trucks,
+say 10 cents per ton kilometer,
+that would equal $650
+billion of revenue per year.
+And if that was all served by one company,
+it would be the biggest company
+in the world by revenue.
+Bigger than Apple or Amazon or Walmart.
+So who is building these monster airships?
+Well, at the moment, no one.
+This part of the video
+is sponsored by odoo.com.
+Just like airships, many
+of our own dream projects
+can be hard to get off the ground
+but the first step is always the same,
+you just have to get started.
+And whether you want to
+start a business, a blog,
+or a side hustle,
+one easy way to get started
+is to launch your own website.
+This signals to the world
+and yourself that you
+are really doing this.
+And if you want a fast, free and easy way
+to launch your own website,
+then check out this
+video sponsor, odoo.com.
+Just answer a few simple questions,
+select your favorite theme and
+then Odoo's powerful software
+builds the core website for you.
+Then you simply go to
+any block and change it.
+Want to add an image?
+Just select the image block
+and drag it to where you want it.
+Next, click Replace to swap
+it with one of your own images
+or if you don't have an image,
+just pick one of their free to use images.
+Adding a new page is also really easy.
+Just click New and add a
+page and then drag and drop
+the blocks you want and you're done.
+With Odoo, making your own
+website is a piece of cake.
+On top of that, Odoo also offers
+everything from accounting
+to email marketing apps which
+can be easily integrated
+with your website.
+With Odoo, your first
+application is free for life,
+including unlimited hosting and support
+and a free custom domain
+name for one year.
+So head over to odoo.com/r/veritasium
+or click that link down in the description
+to start building your own website today.
+I want to thank Odoo for
+sponsoring today's show.
+While transporting cargo
+is probably the largest
+market for airships,
+it's also one that's driven
+by fierce competition
+and low margins.
+And that's not ideal when you
+need to spend a lot of money
+to first build, develop,
+and certify your airship.
+What you want is a market
+with less competition
+and better margins.
+This is the Airlander 10,
+and it's built by the U.K.
+company Hybrid Air Vehicles.
+Can you tell me about the
+envisioned use of the Airlander?
+- They'll be going on extraordinary
+experiential holidays.
+So going to the North
+Pole, going on a safari,
+going over the Amazon,
+knowing that they're making
+almost no environmental impact,
+being able to travel in some luxury
+and see things that you
+just can't do another way.
+- The first trips are scheduled
+for no later than 2026.
+Want to go on this trip, well,
+you'd better start saving
+because getting a cabin for two
+will cost you about $200,000.
+And while a few companies are focusing
+on the luxury travel markets,
+others plan to make use
+of another unique advantage of airships.
+Think about what it normally
+takes to move things around.
+Trucks need roads, ships
+need water and ports,
+trains need railways and stations
+and planes need long runways and airports.
+Airships on the other hand,
+require very little infrastructure.
+The most important thing they need
+is a reasonably flat surface to land on,
+like grass, sand, ice or even water.
+And it's this unique
+ability that allows them
+to deliver goods where
+no truck, boat, train,
+or plane can go.
+Airships can connect parts of the world
+that have been disconnected
+forever such as remote villages
+in Canada or Alaska
+and they can do this with
+little to no infrastructure.
+Or what if the roads, rails
+and ports have been destroyed
+by a natural disaster?
+Help is urgently needed to
+find and support the survivors
+but there seems to be no way to get there
+and no methods of communications
+once you are there.
+Well, then airships could
+quickly rush to the scene
+to deliver rescue workers and supplies
+or to provide cellular
+service from the sky.
+Disaster relief missions like
+these are what LTA Research,
+which is backed by Google
+co-founder Sergey Brin,
+is focusing on and they're
+making great progress.
+Their current prototype, the Pathfinder 1,
+has completed multiple indoor flight tests
+and it's scheduled to fly outside
+sometime in the next few months.
+They plan to take the lessons
+they learn from these tests
+and build a series of airships
+that can provide help to
+disaster stricken areas.
+Other times, roads may be available
+but what you're transporting
+just isn't that compatible with roads
+like long, clunky and
+fragile turbine blades.
+To get them from the
+factory to the destination
+requires careful planning
+and perfectly choreographed maneuvers
+and this process is what often limits
+the size of wind turbines.
+Airships don't have that problem,
+they can simply mount
+turbine blades of any size
+to the bottom and carry
+them to the destination.
+So it's much faster, easier
+and it allows you to build
+more powerful wind turbines.
+Plus airships can also easily
+transport other structures
+that are hard to move.
+But sometimes instead of delivering goods,
+you need to pick them up.
+France is full of natural
+resources like wood,
+yet many of their forests
+can't be reached by truck
+so they can't actually extract the wood
+they've chopped down.
+The French company Flying whales,
+backed by the French government
+is hoping to change that.
+They are developing this
+200 meter long cargo ship
+that's capable of
+carrying a 60-ton payload.
+It was designed to be able
+to hover above remote forests
+and pick up logs which
+could then be carried off
+and turned into timber.
+But loading and unloading from the sky
+comes with significant problems.
+For starters, you need to make
+sure that during this process
+your airship stays still
+which is more difficult than it sounds.
+- So a very large airship
+has what we call sail effect.
+Even a relatively light current of wind
+when multiplied by a
+really, really large area
+is going to have a huge effect,
+that makes airships difficult to control
+especially close to the
+ground and at low speeds.
+So they are a little bit unwieldy.
+- To overcome this, the airship
+is fitted with propellers
+all around the hull that can stabilize it.
+But still this limits
+the use of most airships
+to places with stable weather.
+A bigger problem comes
+from the fundamental reason
+why airships work in the first place.
+And this issue is particularly
+bad for large cargo airships.
+See, when an airship is
+carrying a heavy load,
+the combined weight of
+the load and the airship
+are offset by the lift.
+The problem arises when
+you release that heavy load
+because now the airship
+is suddenly much lighter
+and so it wants to shoot up into the sky.
+So you need some way to
+stop that from happening.
+- Unless we can solve that problem,
+we're kind of dead in the water
+in terms of airships for cargo.
+- A few methods have been
+proposed to solve this problem.
+The easiest one is to decrease
+lift by venting lifting gas.
+The only issue is that most
+modern airships use helium.
+And to offset say 60 tons of weight,
+you would need to release
+about 54,000 cubic meters of helium
+which costs a few
+hundred thousand dollars.
+Not to mention that helium is scarce,
+so venting it isn't
+really a practical option.
+Now, you could use propellers
+to push the airship down
+but that ends up burning so much fuel,
+it negates much of the advantage
+of using airships in the first place.
+- The real dream has been to compress
+and decompress lifting gas
+because you take a lifting gas
+and when it is in gaseous form, it lifts.
+When it is compressed,
+it's ballast, it's heavy,
+but there are some real
+problems with that.
+So you're talking about
+a very large airship
+with a very large volume of lifting gas,
+now you need a compressor that's capable
+of compressing a tremendous
+amount of gas very quickly
+and that is just a technological problem
+we haven't really developed them.
+- Until then, the short-term solution
+is to replace the weight you're releasing.
+So if you're dropping 60 tons of supplies,
+you need to pick up 60 tons of ballast.
+If you want to pick up 60 tons of wood,
+you'd carry 60 tons of say water on board
+and release it at the pickup location.
+But there's another innovative
+way to solve this problem
+and it's the secret behind
+how the Airlander 10 works.
+It relies on a combination
+of lift from helium
+and aerodynamic lift created by its hull.
+- We can lift the whole
+weight of the aircraft
+with the helium inside
+so that effectively,
+when you're flying, that weighs nothing.
+- And the aerodynamic lift
+is just there to lift the payload.
+- So if we've, say, got
+100 people on board,
+we take off like a conventional aircraft,
+just at very low speed and we
+generate the aerodynamic lift
+to lift those people.
+The advantage then is that
+when we come down on the ground
+and those people get
+off, we don't float away
+'cause we used aerodynamic lift
+which you can turn on and off.
+- While hybrid airships work well
+for relatively light payloads,
+they're not ideal for
+carrying heavy payloads
+over long distances because
+you would lose the advantage
+of using free lift to
+carry all that weight.
+So for a large cargo airships,
+the current best solution
+to the load exchange problem
+is to replace the weight you're releasing.
+But there are harder problems
+that you need to overcome
+to make airships the trucks of the sky.
+See, no one has ever built a
+388 meter long airship before.
+So how do you do it?
+Well, normally airships are
+built in humongous hangers
+to protect them from the elements.
+But the largest airship
+hanger that's ever been built
+was only 360 meters long.
+So it wouldn't even fit.
+And since you need to build
+thousands of these airships
+you either have to find a way
+to magically construct scores
+of fragile airships outside
+or build lots and lots
+of the world's largest hangers.
+If that wasn't hard enough,
+there's also another problem
+that needs to be solved
+because each one of those
+airships must be filled
+with over one million cubic
+meters of lifting gas.
+Which raises the age old question,
+do you use hydrogen or helium?
+- Helium's really expensive
+and it has a lower lifting ability, right?
+Hydrogen's really cheap
+but it'll kill you.
+- After the Hindenburg burned
+down in less than 40 seconds,
+the choice seemed obvious.
+Only inert helium should
+be used for airships.
+The Federal Aviation Administration agreed
+and hydrogen as a lifting gas
+has been banned for many years now.
+But what many people don't realize
+is that of the 97 people on board,
+more than 60 miraculously survived.
+Just a few years earlier,
+another airship, the USS Akron,
+crashed off the coast of New Jersey
+killing 73 of the 76 people on board.
+And that airship was filled with helium.
+So perhaps the issue
+wasn't that hydrogen airships
+were inherently unsafe,
+maybe we just didn't know
+how to build safe airships.
+I mean, we also didn't know
+how to build safe planes
+and now they're one of
+the safest ways to travel.
+And for any plan that includes building
+and filling thousands
+of large scale airships,
+hydrogen is the only realistic option
+because helium is too
+scarce and expensive.
+Hydrogen, on the other hand,
+is easy to produce, cheap
+and it provides about 8% more lift.
+And then there's the
+issue of certification.
+- In general, certificating
+any new aircraft
+is a really lengthy and expensive process.
+If you're talking about
+certificating an airship,
+not only are you talking
+about a brand new aircraft,
+you're talking about a
+brand new type of aircraft.
+No one has certificated
+a large rigid airship in
+well, sort of ever.
+- Combine that with building
+the largest aircraft
+the world has ever seen and filling it
+with tremendous amounts
+of a highly flammable gas
+and you've got yourself
+another pretty big challenge.
+But all of these problems
+may not even matter
+because it might not be possible
+to build a 500 ton
+cargo ship of that size.
+- I mean, the most important
+thing of an airship structure
+is needs to be light,
+it needs to be robust,
+it needs to be strong,
+it needs to have really
+good structural integrity
+but it needs to be light
+enough to get off the ground
+or there's no point.
+And at a certain point of size,
+the weight you need to add
+to create the structural integrity
+you need to operate safely,
+you know, you reach a
+point where those curves
+just intersect in a bad way.
+So there is a structural size limitation
+due to weight issues.
+- So how large is that size?
+We are not sure.
+What we do know is that
+right now several companies
+around the world are
+developing and building
+the next generation of airships.
+For now, none of them are
+setting out to develop
+the trucks of the sky.
+Instead, they're focusing
+on areas where airships
+have a distinct advantage;
+markets with less competition
+and decent margins.
+Who knows, perhaps as airships mature,
+one company will take the leap
+and set out to develop
+these trucks of the sky.
+It certainly won't be easy,
+but the reward could be huge.
+Do you think we'll see a future where
+we've got these airships
+roaming all over our skies?
+- I know it may sound
+crazy but we really do.
+- It won't be very, very long
+before we get to see some stuff in the sky
+which will make a lot
+of people, including me,
+have really big smiles and
+a lot of happy nostalgia
+for the great airships of the past.
+- It's very hard to break into
+the world with a new thing
+that the world's not ready for.
+I mean, there are many other things
+that have become normal
+after a bit of time.
+And there's no reason why this shouldn't.
+- I hope when that day
+comes someone will invite me
+to come along and at least take a look,
+if not have a ride in it.
+(soft upbeat music)

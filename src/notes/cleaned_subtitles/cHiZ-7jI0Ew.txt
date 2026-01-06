@@ -1,0 +1,517 @@
+In recent weeks there has been a lot of market 
+anxiety about the sustainability of the AI boom.  
+This was partly driven by the outrage around Sarah 
+Friar - OpenAI’s finance chief floating the idea  
+that a government backstop for its $1.4 trillion 
+dollar data-center buildout might be a good idea.
+ 
+Friar quickly walked back her suggestion in a 
+LinkedIn post later that day – saying that she  
+had meant that the government needed to “play 
+their part” in combination with the private  
+sector to contribute to America’s AI growth 
+and that OpenAI was “not seeking a government  
+backstop for their infrastructure commitments.
+Her statement – while attempting to calm the  
+outrage - only confused matters even further 
+about how the not-yet-profitable startup plans  
+to pay for its massive AI data center and 
+chip commitments. Sam Altman tweeted on The  
+Everything App “we do not have or want government 
+guarantees for OpenAI datacenters. We believe that  
+governments should not pick winners or losers, and 
+that taxpayers should not bail out companies that  
+make bad business decisions or otherwise lose in 
+the market – then it turned into a Bill Ackmann  
+tweet at that point – where he went on and on 
+for around twenty pages. At first I was thinking,  
+who would write a tweet that long – and then 
+I realized that he had probably used Chat  
+GPT – he knew that people would only read 
+the first few lines – but wanted to seem  
+thoughtful – so had it churn out an entire novel…
+The core problem for OpenAI is that they have  
+signed more than $1.4 trillion dollars in 
+infrastructure commitments over the last few  
+months – with the goal of building out the data 
+centers that it says are needed to meet soaring  
+demand – but they are nowhere near having the 
+money required to complete those deals. Friar  
+gave the example of having to hold back Sora2 for 
+months due to compute constraints [Clip] – [I just  
+want to be clear what it means when I say we're 
+compute constrained. It means that, for example,  
+we cannot roll out our new models when they are 
+ready. So when Sora 2 was ready to when Sora  
+2 actually launched, there was probably good 
+six, seven months actually gap there. And you  
+all know, like you said in tech, right, you 
+don't want to hold products or features on the  
+runway if they're ready to go.] The agreements 
+they have signed have raised lots of questions  
+around how a cash-burning company with tiny 
+revenues (relative to their planned spending)  
+can possibly make such huge commitments.
+This was not the first time OpenAI has looked  
+to Washington for help either. Just a month 
+ago, the company sent a detailed letter to  
+the White House urging the federal government 
+to “double down” on semiconductor subsidies,  
+asking that tax credits be expanded to cover the 
+entire AI supply chain - from chip fabrication  
+to data centers and grid hardware. The company 
+argued that broadening eligibility for taxpayer  
+funded subsidies would “lower the effective 
+cost of capital, de-risk early investment,  
+and unlock private capital.” OpenAI and its 
+data-center partners are (of course) amongst the  
+largest buyers of semiconductors in the world, 
+so any subsidy would directly benefit them.
+ 
+AI is being pitched to governments around 
+the world as being a matter of grave national  
+security and economic importance akin 
+to past industrial mobilizations like  
+the Manhattan Project and the space race. 
+If AI companies can put it on that level  
+and pitch it as being too important to fail – a 
+government funded backstop might make sense. 
+ 
+The irony though - is that while lobbying for 
+taxpayer support in the name of geopolitical  
+survival, the same businesses are pumping 
+billions into building models that generate  
+weird anime girlfriends, SpongeBob deepfakes, Sam 
+Altman’s Studio Ghibli style profile photo and, in  
+Elon Musk’s case, a chatbot that appears to have 
+been hard coded this week - to constantly flatter  
+him – in the cringiest manner possible – which 
+caused all sorts of hilarity on The Everything  
+app (formerly known as twitter) this week. We 
+will come back to that in a minute though…
+ 
+Before we get to that let me tell you about 
+this week’s video sponsor – DeleteMe. Delete  
+Me is a subscription service that removes your 
+personal information from hundreds of data broker  
+websites where it's being sold online. Data 
+brokers are businesses that collect personally  
+identifiable information on people like you and 
+me and package it up into profiles or listings.  
+These profiles are being sold as cheaply as a 
+few dollars per record online and can be used  
+by scammers, stalkers, and identity thieves. You 
+have the legal right to protect your privacy by  
+asking them to delete your data. But there are 
+hundreds of data brokers, and they can make it  
+quite hard to get off their lists. It could 
+take forever to get this done on your own.  
+I used delete me to reach out to the hundreds of 
+data brokers on my behalf to request a deletion of  
+my personal data and to deal with any objections. 
+I got a full report back showing me where my data  
+was removed from. With a yearly subscription, 
+Delete Me keeps track of the data brokers to make  
+sure that they don't read your data to their 
+lists. Remove your personal information from  
+the web using the QR code or the link in the 
+description and use code BOYLE for 20% off
+ 
+While all of this was going on - Nvidia warned 
+for the first time in a regulatory filing that  
+its customers’ ability to “secure capital and 
+energy” for AI data centers could potentially  
+slow its growth. On top of that - Amazon lodged 
+a complaint with the Public Utility Commission  
+of Oregon that the electric utility was failing 
+to provide sufficient power for the four new data  
+centers it had built, highlighting the strain 
+that rapid data center expansion is putting on  
+electric grids. I guess the utility agreed to 
+hook them up to the grid – but not necessarily  
+to provide them with the power they wanted…
+The question hanging over Silicon Valley is  
+not so much whether AI will change the world, 
+but whether the world can afford to build it.
+ 
+That brings us to NVIDIAS earnings report 
+on Wednesday night. The tech rally that  
+has defined much of 2025 especially after the 
+liberation day sell off in April - began to lose  
+momentum in early autumn. Some analysts trace 
+the inflection point to when OpenAI announced a  
+$300 billion cloud deal with Oracle and Nvidia 
+pledged up to $100 billion in reciprocal  
+investments. Those headlines – which were meant 
+to signal confidence, instead raised questions  
+about circular financing and the sheer scale of 
+spending commitments. Private credit blowups added  
+to the unease in markets, reviving concerns about 
+lending standards and fraud in a market already  
+stretched by aggressive leverage. Valuations were 
+lofty, and the spaghetti diagrams of interlocking  
+deals – with hyperscalers funding AI labs that 
+fund chipmakers that fund hyperscalers – started  
+looking increasingly fragile. No surprise, 
+then, that bubble talk intensified.
+ 
+Nvidia’s earnings report on Wednesday 
+temporarily eased those fears. The world’s most  
+valuable company—and the beating heart of the AI 
+trade—posted a 62% jump in revenue for the three  
+months to October, far ahead of expectations. 
+Data center sales hit $51.2 billion dollars, and  
+the company raised its revenue forecast for the 
+current quarter to $65 billion dollars. For now,  
+the numbers seem to justify the hype. As Robert 
+Armstrong put it on the Unhedged podcast, “The  
+worry is not Nvidia’s price-to-earnings ratio. 
+The worry is that the revenue it’s earning and  
+the growth rate of that revenue is ultimately 
+unsustainable.” At today’s pace, Nvidia’s  
+valuation makes sense. The question is whether 
+the growth curve can defy gravity indefinitely.
+ 
+OpenAI’s finances look even more precarious 
+than most people realize. Microsoft’s September  
+earnings filing revealed that OpenAI lost roughly 
+$11.5 billion dollars in a single quarter—its  
+worst on record. That pushes year-to-date losses 
+north of $25 billion dollars, against projected  
+annual revenue of about $20 billion. The company 
+has raised nearly $58 billion in equity so far and  
+was valued at 500 billion dollars last month. The 
+company is talking about an IPO at a $1 trillion  
+valuation next year – which would float the 
+shares on an exchange and possibly bring in about  
+$60 billion dollars in cash, but that is just 
+over 4% its $1.4 trillion dollar infrastructure  
+commitments. To bridge the gap, OpenAI 
+has leaned on creative deal structures:  
+Nvidia has pledged up to $100 billion in 
+reciprocal investments, while AMD granted OpenAI  
+warrants to buy 10% of its stock for a penny 
+per share if deployment milestones are met. 
+ 
+Sarah Friar, OpenAI’s CFO explained the company’s 
+financing at the Wall Street Journal event. While  
+she is from Northern Ireland - she must have 
+been in Silicon Valley long enough to know  
+that the first step in raising capital is to 
+use the magic word [Clip] [“The Innovation on  
+the finance side to pay for it is massive!”] She 
+then went on to say [Clip] [we've raised equity,  
+as a private company, very kind of typical 
+path, but we've raised a lot. We're building a  
+really healthy business. So free cash flow, CFO's 
+favorite way to fund anything. That is absolutely  
+climbing quickly. But I think the third area we've 
+gotten into is really working with our ecosystem  
+to do some really interesting financing deals. I'm 
+particularly proud of the AMD warrant structure  
+that we put in place just a few weeks back, 'cause 
+it's very strong alignment of incentives.]  
+ 
+This is a really bizarre claim, as OpenAI 
+can’t fund anything with free cash flow,  
+when that cash flow is negative. She then digs 
+into explaining the AMD warrant [Clip] [What we've  
+seen is when someone comes out and says, "We're 
+gonna work with OpenAI," they immediately are  
+often seeing kind of impact on their stock price. 
+And so to the extent that that's gonna happen,  
+we would like to have some alignment on that. And 
+I think Lisa and the team did something incredibly  
+creative with that warrant structure.]  
+The warrant deal between OpenAI and AMD is  
+a strategic partnership where OpenAI commits to 
+buying billions of dollars’ worth of AMD AI chips,  
+and in return, AMD grants OpenAI warrants to 
+purchase up to 160 million of its shares (which  
+is about a 10% stake in the company) at a nominal 
+price of one cent per share. When the deal was  
+announced AMD stock went up 24% - but - the deal 
+only vests if OpenAI buys six gigawatts of AMD  
+chips, hits undisclosed milestones, and AMD’s 
+share price triples. The AMD deal would bring  
+in almost a hundred billion dollars’ worth of AMD 
+stock – if all the targets were hit including the  
+tripling of AMD’s stock price. But it is tied to 
+6 giggawats of chip purchases – which she later  
+explains [Clip][So a one-gigawatt data center 
+build today is about a $50 billion investment.  
+That's for one gig. How that really breaks down 
+is about 15 billion is for the land power shell  
+and about 35 billion is for the chips.] 
+So to bring in 100 billion dollars – they  
+have to spend 300 billion dollars. 
+Nvidia’s $100 billion pledge to invest  
+in OpenAI is also tied to reciprocal commitments. 
+If all of these deals worked out – OpenAI could  
+bring in 200 billion dollars – but that 
+still leaves them 1.2 trillion dollars  
+short – and they are burning tens of billions 
+of dollars per year – with no end in sight.
+ 
+The unit economics of running the current 
+generation of LLM’s is dire. As Paul Kedrosky  
+explained it on the Odd Lot’s podcast – the 
+incentive seems to be for all players to just grow  
+the top line as much as possible – even if adding 
+more users just leads to greater and greater  
+losses. The models have negative unit economics 
+– which is a fancy way of saying “We lose money  
+on every sale and try to make it up on volume.” In 
+AI, costs rise almost linearly with usage – which  
+is very different to traditional software, 
+there is no marginal-cost magic going on.
+ 
+According to Forbes - despite an 
+invitation-only rollout – OpenAI  
+may be losing around fifteen million dollars a 
+day – or five billion dollars annualized - on  
+Sora2 its AI video generating app.
+Tech firms have always been creative  
+about financing, but OpenAI’s approach borders 
+on the surreal where it has become all about  
+trying to find infinite money glitches. 
+MicroStrategy – or strategy as it’s now  
+called is trying a similar trick with its Bitcoin 
+investments – which I don’t expect to end well…
+ 
+Behind the headlines is a financing structure 
+that looks increasingly baroque. Hyperscalers  
+and AI labs are using special-purpose vehicles 
+so that they can borrow but keep the debt off  
+their balance sheets. Tech firms have 
+essentially been reinventing structured  
+finance to build AI models so that they can 
+generate AI girlfriends. That is just the  
+world we live in… [Clip] [I will always love you]
+Sarah Friar explained at the Wall Street Journal  
+event that each gigawatt of compute costs around 
+fifty billion dollars where fifteen billion is the  
+land and infrastructure and thirty-five billion 
+dollars is the GPU’s. [CLIP] [People know how  
+to finance data centers. They typically will have 
+20, 25, even 30-year lives. Those are easy things,  
+I would say, today to finance. Chips have not 
+been as easy to finance because, number one, I  
+think we're all still getting our arms around what 
+is the life of a frontier chip, right?] What this  
+means is that the more innovation that happens 
+with chips, the faster they can be expected  
+to depreciate – and so the thirty-five billion 
+dollars’ worth of chips in a fifty-billion-dollar  
+data center are very difficult to finance. People 
+don’t want to own them if they might collapse  
+in value when a new one comes out, and people 
+really don’t want to accept them as collateral  
+on a loan. That is when she put forth this idea. 
+[Clip] [And so this is where we're looking for  
+an ecosystem of banks, private equity, maybe 
+even governmental, like the ways governments  
+can come to bear. - Meaning like a federal subsidy 
+or something. - Meaning like just first of all the  
+backstop, the guarantee that allows the financing 
+to happen, that can really drop the cost of the  
+financing, but also increase the loan to value. 
+So the amount of debt that you can take on top of  
+an equity portion for so some-- - So some federal 
+backstop for chip investment. - Exactly, and I  
+think we're seeing that. I think the US government 
+in particular has been incredibly forward-leaning,  
+has really understood that AI is almost a 
+national strategic asset, and that we really  
+need to be thoughtful when we think about 
+competitive competition with, for example,  
+China. Are we doing all the right things to 
+grow our AI ecosystem as fast as possible?]
+ 
+Essentially the problem is that they want to lever 
+up their bet on AI but banks wouldn’t want to lend  
+and the interest rate on a loan backed by rapidly 
+depreciating chips would be so high that you would  
+need the government to back the loans. 
+Now I can tell that this will make some  
+of my viewers angry – but there is actually 
+no need to get angry about something like  
+this – as both Sam Altman and Elon musk 
+have both explained in the past that AGI  
+will soon make money obsolete. So, who cares… 
+Now, even if the money materializes – and then  
+suddenly doesn’t matter anymore, the electrons may 
+not. OpenAI’s Stargate project alone would require  
+ten gigawatts of power – which is roughly ten 
+nuclear power plants. Its full buildout implies  
+twenty-three. And that’s just OpenAI. Google has a 
+model, Facebook – or whatever they call themselves  
+has one too. There’s Grok – good ole grock – 
+Anthropic and lots lots more. What I’m saying  
+is we’re going to need a lot of powerplants [Clip 
+- We're Gonna Need A bigger Boat] – and we also  
+have to plug in our cars and robots… Only one new 
+nuclear power station has been built in the United  
+States in the last thirty years - it took a decade 
+to complete and was the most expensive power plant  
+ever built. Bloomberg estimates that AI-driven 
+electricity demand will more than double over  
+the next ten years. Utilities are already balking. 
+Amazon has filed a complaint against PacifiCorp,  
+for failing to deliver promised power to 
+four Oregon data centers. PacifiCorp says  
+it is protecting other customers from “indirect 
+harms.” Translation: we can’t turn the lights off  
+in Portland so Jeff Bezos can train a chatbot.
+Behind-the-meter gas turbines are proliferating  
+as stopgaps. Some operators are whispering 
+about nuclear partnerships. These fixes create  
+stranded-asset risk as a natural gas plant lasts 
+30 years and a GPU cluster might be obsolete in 18  
+months. Lenders see the mismatch and flinch.
+Tech firms that promised to “dematerialize”  
+the economy now need more concrete, 
+copper, and electricity than steel  
+mills did. The cloud – which was supposed to 
+be weightless - turns out to be very heavy.
+ 
+So, why keep spending? Well - because the game 
+is framed as being existential. U.S. labs talk  
+about “sovereign AI” and competition with 
+China. Once you call something existential,  
+the limit on spending becomes unlimited. Paul 
+Kedrosky described it as a “metabubble” on the  
+Odd Lot’s podcast: tech hype, real 
+estate speculation, loose credit,  
+and a potential government backstop—all in one.
+There are some bubbly signs. I remember in 1999  
+seeing adverts on CNBC for a company that 
+manufactured equipment used in the wafer  
+fabrication steps of making semiconductors. I 
+couldn’t understand at the time - why they were  
+paying for TV adverts – when their customers 
+would all know who they were and what they  
+sell. No one watches CNBC and decides to start 
+manufacturing computer chips in their garage.  
+I later worked out that they were advertising 
+the stock – not their products. The stock fell  
+around 80% over the next three years. Recently I 
+have seen a tech CEO being interviewed wearing a  
+t shirt with his company’s ticker symbol on it – 
+not the company’s name. I have noticed that every  
+podcast I listen to seems to have adverts for an 
+AI military tech company – and once again I wonder  
+if they think that their potential customers might 
+be listening to a Bloomberg podcast – or if they  
+just want to pump the stock. I’ll note that the 
+CEO of that company constantly talks about burning  
+short sellers while dumping his own stock.
+Even if there is a bubble – it can be impossible  
+to know when it will pop. As I mentioned a few 
+weeks ago, the big tech firms funding a lot of  
+the AI spending are so profitable in their core 
+businesses – that they can afford this gamble. 
+ 
+So, should Investors cash out of the stock 
+market then? Well, probably not – unless they  
+know how they will get back in again. If you 
+are a diversified investor with a long holding  
+period – even if you invested the day before 
+the 1987 crash, right before the credit crunch,  
+or right before the Covid sell off – if you stayed 
+invested you earned good returns over time. 
+ 
+The Economist estimates that should an AI crash 
+occur, it could erase 8 percent of U.S. household  
+wealth and cut consumption by $500 billion dollars 
+– or 1.6 percent of GDP. They show that at the  
+peak of the dot com bubble the market cap of the 
+S&P was 124% of US GDP. When the bubble burst,  
+tech stocks lost on average 76% of their value. 
+Since ChatGPT’s launce in 2022, American stocks  
+are up 71% and the S&P is worth 175% of GDP.
+They point out that a crash today would have a  
+bigger effect on ordinary Americans than it did 
+twenty five years ago as the share of household  
+wealth in the stock market has climbed from 17% 
+back then to 21% today. If the stock market fell  
+as much as it did back then, it would wipe out 
+as much as 8% of US household wealth. Foreign  
+investors who are heavily invested in US 
+tech would take a significant hit too.
+ 
+The fallout wouldn’t stop at Silicon Valley. 
+Pension funds, REITs, and private credit  
+vehicles are exposed to AI investment too. 
+Utilities that built gas plants for data  
+centers could be left with stranded assets. The 
+last time America overbuilt infrastructure this  
+aggressively was the telecom boom and much of 
+the dark fiber that was laid was never lit.
+ 
+As I said a few weeks ago, the tech boom today 
+is very different to the dot com bubble of the  
+late 90’s where unprofitable startups were 
+racing to IPO after a few months in business,  
+burning cash on vague promises of “eyeballs” and 
+banner ads. Today’s big tech firms—Microsoft,  
+Amazon, Google, Meta—are highly profitable, 
+well-run businesses with entrenched revenue  
+streams. They may be pouring tens of 
+billions into AI, but if these bets fail,  
+their core businesses—cloud, advertising 
+and e-commerce—remain intact and cashflow  
+positive. The real risk sits with the private 
+AI labs and their venture backers, not really  
+with the hyperscalers. If anything resembles the 
+froth of 1999, it’s crypto - not trillion-dollar  
+companies with fortress balance sheets.
+For AI users, this frenzy is a gift.  
+Competition has meant that the models improve 
+rapidly and their prices stay low. There is no  
+reason not to use these products while they 
+are free or almost free. For AI investors,  
+the economics are unforgiving. Better chips 
+make models faster—and make yesterday’s  
+chips worthless. Every leap forward accelerates 
+depreciation on the collateral lenders are asked  
+to finance. That is why banks refuse to lend, they 
+prefer assets that last longer than a news cycle.
+ 
+Sam Altman says that OpenAI isn’t and wasn’t 
+pitching for a government backstop - that he  
+thinks governments should build their own AI 
+infrastructure. That may happen. But it does  
+nothing to solve OpenAI’s problem: financing 
+$1.4 trillion dollars of private data centers  
+with non-guaranteed bonds. For now, the 
+company is betting that capital markets  
+will keep playing along. If they don’t, 
+the bailout debate Friar stumbled into will  
+return—louder, sharper, and harder to ignore.
+I almost forgot to include this piece, but one  
+of the funnier news stories of the week was about 
+Grock – Elon Musk’s maximum truth-seeking chatbot.  
+It seems that the code must have been tweaked a 
+bit this week and adjusted such that Grok’s output  
+is more in line with Musk’s way of thinking. 
+Grok began claiming that that Elon Musk is  
+more physically fit than LeBron James – a better 
+role model than Jesus - that his intellect is in  
+the same bracket as Isaac Newton’s, that he was 
+a better fighter than Mike Tyson and that he is  
+funnier than Jerry Seinfeld. People quickly worked 
+out that Grok would say that musk was amazing at  
+everything -which led to some inappropriate 
+questions and this headline at 404 media.
+ 
+Many of the Grok responses were quietly deleted 
+on Friday and Musk tweeted that someone had  
+manipulated grok into saying absurdly positive 
+thinks about him. I’m sure if he ever catches  
+that guy he’ll be in a world of trouble.
+If you found this video interesting,  
+you should watch this one next. Don’t forget 
+to check out our sponsor DeleteMe using the  
+link in the video description. Have a great 
+day and talk to you in the next video – bye.

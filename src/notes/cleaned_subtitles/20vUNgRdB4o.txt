@@ -1,0 +1,375 @@
+427 days into what should have been a 30-day mission, and it's turned into a nightmare.
+On the surface of Mars, 297 million kilometers away is Ingenuity, a tiny 680 gram helicopter.
+It's made from off-the-shelf parts you'd find at home.
+It's got bits from an Android smartphone, batteries from a cordless drill, and to everyone's surprise, it's been performing well so far.
+But something is wrong.
+See, the Martian winter is coming.
+At night, temperatures plummet to a frigid negative 85 degrees celsius.
+As Mars gets further away from the sun, the temperature keeps dropping, and it kicks up more and more violent dust.
+The sun is blotted from the sky.
+On her 427th day on Mars, they try to reach her, just like the day before, but they get no response.
+They try again, nothing.
+Back on Earth the team gathers at the Jet Propulsion Laboratory in Southern California.
+All the signs point to Ingenuity being dead.
+But there is still one thing, one final trick that can try to reestablish a connection.
+The first drone that's gonna fly on another planet.
+Six years ago, I visited JPL and saw Ingenuity before she left for Mars.
+At the time, NASA didn't really believe much in her mission.
+As Kenneth Farley, the project scientist of the Mars 2020 Perseverance mission said,
+I've personally been opposed to it...
+Spending 30 days working on a technology demonstration does not further the goals directly from the science point of view.
+In short, they thought it was a waste of time.
+Most projects to Mars get billions of dollars.
+Ingenuity got only 80 million, which is less than the budget of the movie The Martian.
+But this scrappy team of scientists were working to prove a crazy concept.
+And against the odds, they made it to Mars.
+On February 18th, 2021, the Perseverance Rover survives entry and lands on the Martian surface.
+Attached underneath is Ingenuity.
+This marks Sol Zero, her first day on Mars.
+They sever the umbilical cord and Ingenuity, affectionately known as Ginny by some on the team, prepares herself.
+Her mission is simple.
+Prove that flight on the red planet is possible.
+But with an atmosphere just 1% that of Earth, flying is really difficult.
+She must be ultra light, and her blades must spin at over 2,400 rotations per minute to generate enough lift.
+It's a design that no one is really sure about.
+For two months, they rigorously check her systems, running up the engine, testing navigation, and her control computer.
+Then, on Sol 58, they finally think they're ready.
+The blades spin up. And...
+she takes off, only 120 years after the Wright brothers on Earth.
+Humanity flies on another planet.
+Within days, they fly again, and then again, and again.
+In just one month, they complete five flights.
+So the mission has been accomplished.
+We were a tech demo, right, meaning a specified, narrow, 30-sol mission.
+Um, get in, get out, we're done, right?
+We go to a bar and party and that should be the end of it.
+But with success,
+comes new expectations.
+NASA tells them to keep going.
+Ingenuity's new mission is to assist Perseverance in the search for evidence of ancient life on Mars.
+So she will scout ahead, gathering data in areas too risky or costly for the rover to explore.
+For the team, this is great news, but it's also a problem.
+- There was no guarantee, you know, after flight five, we may be dead by flight seven, right?
+We may be dead by flight 10.
+We were kind of thrown into the deep end of the pool.
+We had no processes or no plans developed for such a thing.
+Until now, every flight had been carefully planned.
+They've all started from an area selected and analyzed by both satellites and the Perseverance Rover itself.
+These flights were tested hundreds of times in JPL's wind tunnel, and tens of thousands of times in simulation.
+But now that they have to keep up with the rover, they're flying into the unknown.
+Now, flying the helicopter isn't easy.
+At its closest, Mars is 56 million kilometers from Earth. Which means,
+there's at least a six minute round trip communications time delay,
+which is way longer than Ingenuity's two minute maximum flight time.
+So she has to fly autonomously.
+So what happens is the pilot programs in a route, and Ginny does the rest.
+But to start, JPL first needs to know exactly where she's located.
+You might think that they would use GPS, but for GPS to work on earth, you need at least 24 satellites for full coverage.
+And around Mars, there are only seven satellites total, so Ingenuity can't use this method.
+So instead what she does is far simpler.
+We have two cameras, a forward facing 13 megapixel camera, and then the one pointing down is the one that we use to navigate.
+The navigation camera takes 30 black and white images per second.
+Ingenuity's computer analyzes the image and identifies features on the surface.
+You can think of it sort of like an optical mouse.
+Like your optical mouse is on the mouse pad.
+It doesn't know where on the mouse pad it is, but when you move to the right, it knows you moved to the right.
+Because what it's doing is it's looking at features on the surface of the mouse pad and watching them move under its field of view.
+So Ingenuity is essentially doing the same thing.
+It's looking at the surface, it's picking out features like rocks and other things, and between camera images it says, oh, this rock moved this way, this thing over here moved this way, and from that you can compute a transform,
+to say my helicopter was here and now it's here relative to this image.
+Now this sounds good, but the method isn't 100% reliable.
+On Flight 6, the first time she leaves her testing area, Ingenuity detects an error.
+54 seconds into the flight, she starts wobbling wildly, tilting 20 degrees at a time.
+Her emergency alarms blare.
+We had black and white image, black and white image, black and white image, and we had a colored image come very closely to where that black and white image occurred in time.
+This color camera was added late in development, leaving little time for testing.
+And during this flight, one of the images arrives at the exact same moment as a black and white image.
+The system doesn't know what to do, so it drops the black and white image.
+This makes every following image one step behind.
+This means Ingenuity's cameras are giving her outdated information.
+So even when she's in the right spot, the computer thinks she's lagging behind and pushes her forward.
+So she overshoots, tilts too far, and then has to overcorrect in the other direction.
+This cycle repeats, making her wobble worse in a positive feedback loop.
+Now that is a problem, but it isn't fatal.
+The desyncing issue was like one camera frame off.
+If it had been more than that, I think you can imagine.
+imagine that it might have death spiraled.
+Instead, Ginny detects the problem and is able to emergency land before it gets too ugly.
+While safely on the ground, JPL discovers the error and quickly corrects it with a software patch.
+It's a close call, but they recover.
+Over the next dozen flights, they keep up with the rover and support the mission.
+That is, until Flight 19.
+We were about to fly that 19th flight, and I got a phone call the afternoon before, basically saying there's a dust storm brewing near Jezero crater.
+So we quickly canceled the flight and said well we're just going to hunker down and see what happens.
+They brace for impact.
+It lasts six days, with winds gusting up to 20 meters per second.
+That first dust storm in the middle of fall, the first Martian year that we were on the surface, it clobbered us.
+But... they make it through.
+Nervously, they try to make contact, and she survived.
+She hasn't died or toppled over, but now they have a new problem. Dust.
+Dust on Mars is no joke.
+I mean, for Ginny, there are two big problems.
+First, dust is covering her solar panels, reducing power by 18%.
+And second, it's clogging her mechanical components.
+We went to go fly, and when we went to wiggle the servos, they were actually stuck.
+They were kind of jammed from the dust.
+So that aborted the first attempt at flight 19.
+Now JPL had anticipated both of these problems, but they hadn't had the time or budget to fix them.
+So for the first, they just have to accept that they have reduced solar power and they adjust their flight durations accordingly.
+For the second, they find a workaround by repeatedly wiggling the servos until the joints clear.
+So she's able to keep flying, albeit wounded, and survival isn't getting any easier.
+See, every Martian night, the temperature drops precipitously.
+My friend Alex from the channel Astrum describes it well.
+With less atmosphere, Mars became far worse at retaining heat.
+When the surface starts to cool, there is no air to catch the escaping warmth.
+It is at the point where, if you were to stand on the planet's equator during its warmest time of the day, your feet might feel 23°C, while at your head, it would be 0°C.
+This means between day and night, Mars has some intense temperature swings.
+Temperatures there now range from highs of around 27°C down to a freezing minus 133°C at night.
+If you want to learn more about how this leads to entire planet-covering dust storms, Astrum has a whole video on the Martian climate.
+So these massive shifts in temperature are happening all the time.
+But as Ginny's mission progresses, Mars gets farther away from the Sun and enters the Martian winter.
+So it gets even colder at night, which is a problem.
+Many of Ingenuity's key electrical components are hand-soldered.
+And big temperature swings cause expansion and contraction of this metal, and so that can eventually break these connections.
+Also, inside the batteries, a liquid electrolyte solution allows lithium ions to move between the cathode and anode during charging and discharging.
+But if this solution freezes, JPL fears that the whole thing will stop working entirely.
+So what they do is keep all the components sensitive to the cold inside a warm box, which has resistance heaters that run during the night.
+You might spend 25 or 30% of your battery flying and the other 60 to 75% is all just staying warm at night.
+The problem is, the colder it gets, the harder the heaters have to work.
+And if they can't keep up, and the batteries cool too much, they become less efficient.
+So they supply even less power to the heaters.
+Performance can continue to degrade in a vicious death spiral.
+On the morning of May 3rd, the team at JPL goes about a normal day.
+They check the data from the previous downlink?
+Nothing.
+They try pinging ingenuity?
+Still nothing.
+Have they finally lost her?
+Did we just lose our $70 million helicopter on Mars?
+Is this the end of the mission?
+We thought this was it.
+So let's just make sure, before we close the door on ingenuity, we've thought of everything.
+Just keep working through it.
+They run through all the possible problems until they narrow it down to just one.
+The way she was designed, Ginny has an alarm clock that wakes her up.
+It stays awake for 15 minutes.
+If it doesn't hear anything after 15 minutes, it goes back to sleep, and it doesn't wake up until the next alarm.
+Their hypothesis is this:
+if the lack of sunlight forced Jenny to fully deplete her batteries, then during the night her heaters would have stopped and she would have powered off completely.
+When the sun rises, as long as her essential components still function, she may recharge enough to wake up.
+Only now her clock will have reset.
+So they run the calculations.
+If she's still alive based on when the sun comes up, she should be waking up at 11:45 a.m.
+Martian time.
+That is not the time they had been trying.
+So they change their search window and start calling out to Ginny around when they expect her to power up.
+They send out ping after ping until finally...
+she's alive!
+They check to see whether everything is still working.
+And despite the components in her warm box only being rated to negative 45 degrees, they survive being completely frozen.
+Well, all except for one.
+The inclinometer is dead.
+The inclinometer is what lets Ingenuity know her physical orientation in 3D space before flight.
+And that is pretty essential for getting the right heading.
+You can imagine if you're off in heading by 10 degrees, you could fly into a mountain.
+Without the inclinometer, there is no way for her to fly.
+So at first, the whole team is stumped, but then they have an idea because Ingenuity is made of phone parts, literally parts from phones people carry around every day.
+Her processor is from a Samsung Galaxy S5, and some of her sensors are from a Google Pixel 3.
+And these phones can do a lot of the things that an inclinometer can do.
+Inside every smartphone are at least three little micro-electromechanical systems aligned perpendicular to each other, like x, y, z.
+At their core is a small mass suspended by flexible arms.
+They work like springs and follow Hooke's law, F = -kx, where force is proportional to displacement.
+The mass also follows Newton's second law, F = ma.
+If you combine these equations, you get a = -kx/m.
+which links acceleration and displacement.
+Surrounding the mass are fixed arms.
+When a voltage is applied to the mass and arms, they form a capacitor, where epsilon and A stay constant, but as the mass moves, the distance between them changes with x.
+This alters the capacitance, which becomes more noticeable with multiple plates, hence why they have so many little arms.
+By measuring capacitance, you can determine displacement.
+And since displacement is proportional to acceleration, changes in capacitance allow us to measure acceleration.
+That's why these devices are called accelerometers, and by integrating acceleration over time, you can work out velocity and then position.
+This is how motion tracking works for screen rotation, gaming controls, and step counting.
+If you add gyroscopes, you get an inertial measurement unit, or IMU, and Ingenuity has the same IMU as the Google Pixel 3.
+So the team at JPL had an idea.
+They could reprogram the computer to use the IMU to replace the inclinometer.
+The inclinometer is really just accelerometers that allows us to tell the initial attitude of the vehicle in roll and pitch.
+And the IMU also has accelerometers, so in principle it gives you the same information.
+So from the clutches of failure, they get her running again.
+We got lucky in that the one instrument we could afford to lose was the one that died.
+But the IMU isn't space-grade.
+In fact, none of these off-the-shelf parts are, which means they're vulnerable to cosmic rays.
+On Mars, the thin atmosphere doesn't just make it harder to fly.
+It also means cosmic rays reach the surface more easily, and a single cosmic ray can strike a computer register and flip a bit inside the computer, which can lead to some strange behavior.
+It even happens here on Earth.
+It once added 4,096 unaccounted votes to a candidate in a Belgian election.
+Now on a Martian helicopter, flipping the wrong bit at the wrong time could mean losing control and crashing.
+So why doesn't that happen? 
+If you'd asked
+somebody 10 years ago can you fly just the latest cell phone processor they'd be like no it'll last like two days and you'll be dead right
+It turns out that cosmic ray bit flips are not as big a deal as NASA thought.
+The off-the-shelf components hold up way better than they expected.
+And this is an important finding.
+Rather than going through all of the development cost of building up a processor from scratch to be radiation tolerant,
+our finding is you get a lot better bang for your buck by just going and basically buying batches of different processors and just qualling them.
+That means throw them through a radiation test campaign, look at the failure rates, figuring out,
+hey, this guy, we don't know why, but for whatever reason, this processor over here is great.
+It holds up, so we'll fly that.
+Now, using these surprisingly robust off-the-shelf parts, they survive the rest of the winter,
+but they're only barely able to stay within the communication range of the rover.
+-Springtime came.
+-Yeah.
+-The birds were chirping on the...
+-Talk about spring optimism, right?
+Like coming out of winter.
+With the increased sunlight, they can now fully recharge and return to their scientific mission.
+Over the next 41 flights, they image craters Perseverance can't make it to.
+They capture stunning images of the Martian horizon from above.
+they conduct daring aerodynamic tests and they begin to push the limits.
+They want to fly faster, but the faster they go, the quicker features move across the camera's field of view.
+And the vision navigation system just can't keep up with that.
+So JPL comes up with a solution.
+They fly higher.
+Then they can expand the field of view, which means features will move more slowly through frame.
+So, from an initial goal of a 10 meter altitude, they go up to 24 meters, and as a result,
+they're able to go from flying at 2 meters per second all the way up to 10 meters per second.
+Speed records, distance records, altitude records, just everything we could think of to push that flight envelope on Ingenuity,
+really make the most of this once-in-a-lifetime opportunity of having a helicopter on Mars.
+Everything is going swimmingly.
+Ginny and Perseverance have made it all the way to Nuretva Vallis, a river delta in Jezero Crater.
+But on Flight 71, there's a new problem, and it's worse than any of the ones that came before.
+Now, Ingenuity's only scientific payload is a camera, so she's taking hundreds of photos a day and sending them to JPL.
+And she's not alone.
+Perseverance does the same, including this selfie with Ingenuity.
+Honestly, they're the most chronically online duo on Mars.
+We always know exactly where they are, what they're up to, and they're constantly sharing photos.
+But really, how different is that from us?
+I mean, we spend most of our lives online, constantly sharing data.
+Except in our case, that data doesn't just sit in a NASA archive.
+It gets bought, sold, and used in ways we're not always aware of.
+That's why I've been using today's sponsor, Incogni.
+I created my account a year ago, and since then they've filed over 300 requests on my behalf,
+resulting in my data being removed from over 100 marketing and spam databases.
+If I tried to do that myself, it would have taken around 230 hours, literally weeks of work.
+That is time I can better spend making videos, which I'm sure you appreciate.
+So to try Incogni, visit incogni.com/veritasium.
+I'll put that link down in the description or you can scan this QR code.
+And when you do make sure to use code Veritasium to get 60% off your annual subscription.
+So head over to incogni.com/veritasium and protect your online data today.
+I want to thank Incogni for sponsoring this part of the video.
+And now back to Ingenuity.
+So we just had this one final thing to do.
+We needed to cross this sand dune and make it to Bright Angel to rendezvous with the rover.
+So on 71, we basically went up.
+We were flying.
+And then after about 10 seconds of flying with degraded navigation, we went into an emergency landing mode and sort of came down hard.
+They hailed Ginny and luckily she's still alive.
+In the error code they discover the problem.
+As she was flying over the dunes there just weren't enough rocks or landmarks for her camera to identify
+and without those references she quickly lost track of her position and had to make an emergency landing.
+It's similar to the camera issue from flight 6 but this time there's no software fix.
+They check for structural damage
+but suprisingly everything is still intact.
+So they attempt another flight, this time going straight up to scan the surroundings and then coming straight back down. Simple.
+We popped up, took pictures, and then on the way back down, we hit the same problems we did on 71.
+Only this time, it's fatal.
+Perseverance drives over and captures this image of her crash site.
+When we saw the blades broken, when we saw that first image after flight 72, that was heart wrenching.
+It was like, no, there's no way this mission can continue.
+That was very depressing.
+So why?
+Because 71 was also a crash landing for the same reasons.
+It was, you know, the NASA system was confused and drove us into the ground, but we came out of that apparently unscathed, and yet on 72, we self-destructed.
+This is the first air crash investigation on another planet, right?
+Yeah, that's right.
+First aircraft on another planet and then the first air crash investigation kind of go hand in hand.
+At the crash site, they find Ingenuity's blades scattered, but not in the way they expect.
+We noticed something interesting, which was there was no blade strike spot.
+Blades spinning this fast, when they hit the ground, right, they're going to create a spray.
+There's going to be a pattern, probably even visible from orbit, and we didn't see anything like that.
+So if the blades didn't strike the ground, then what happened?
+So this is an actual prototype blade from the development phase.
+This is essentially identical to the blades on Ingenuity.
+It's a carbon fiber composite with a foam core.
+It's incredibly light, if you want to feel it.
+Yeah.
+- Woah! 
+That's actually great.
+That's like at least a quarter of what I expected just looking at it.
+It doesn't feel physical.
+So why did they break?
+Well, as the blades spin, the tips of the blades trace out a circle, which you can think of like a hula hoop.
+If there's a force up on the near side, you might expect the rotor to tilt immediately in this direction.
+But that is not actually what happens.
+See, the blade isn't stationary, it's moving really fast.
+So when you apply this force, it actually only moves after that point.
+So the maximum displacement occurs 90 degrees later.
+So, even though we push up on the near side, the blades tilt up on the right and down on the left.
+This effect is called precession, and it's the same principle that explains this spinning bike wheel demonstration.
+Now, Ingenuity has a second set of blades that are moving in the opposite direction.
+Which means that, when a force is applied, each set of blades experiences precession in the opposite direction.
+For the helicopter overall, these torques cancel out,
+but each individual blade still flexes because of that precession torque.
+That results in a stress concentration right about here where that final reinforcement tapers off.
+And so if you had a procession-based failure, you'd expect it to fail right here.
+And sure enough, that's exactly where you see it in the pictures.
+You can see sort of this jaggy place where the blade tip just got ripped off.
+So that is what happened on Flight 72.
+As Ginny came down hard, she hit a dune at an angle.
+The force was transmitted up through the body of the helicopter, and this created a procession torque that bent the rotors, and they snapped right where the reinforcement tapers down.
+This thing came down hard.
+It didn't destroy the landing gear.
+It didn't break the avionics.
+It didn't kill the servos.
+The swash plates are all fine.
+They're all intact.
+It's the rotors.
+That's the weak link.
+So that is the first thing they're changing on the next generation of Mars helicopter, which is called Chopper.
+You had a chance to hold the Ingenuity blade.
+This is the next-gen baby blade.
+It looks fairly similar with a couple of key differences.
+They reinforced the blades to withstand the torques caused by hard landings.
+Now they also have six rotors instead of two, which means Chopper can hold a lot, even carrying a scientific payload of its own.
+We've developed now a very lightweight radio that can communicate directly to orbit.
+Woah.
+So we're a free bird when it comes to exploring the planet now.
+-That's huge, that's huge!
+You were sort of trying to trail perseverance, right, and now you can go anywhere.
+Yep, we're our own spacecraft.
+In this blue box, you can shove about five kilograms of science payload and bring it anywhere on the planet on Mars.
+You can fly three kilometers per sol in a matter of minutes.
+That's really generated a lot of excitement in the science community.
+So this is a fifth scale model of Chopper.
+It's really two systems.
+So this is our Chopper platform, right?
+This is what's going to go on and explore the entire surface of Mars one day.
+That's the point of the concept.
+But underneath,
+is a mid-air helicopter delivery platform.
+See, Mars rovers all need complex sky cranes to land, but a helicopter is different.
+It just needs a platform to take off from.
+So the idea is we come down through the atmosphere, we have this jet pack that we need to slow us down to get us down to a regime that is controllable
+so that we can take off from that platform midair and land under our own power.
+For this, it needs rockets.
+3, 2, 1...
+Awesome! 
+You're envisioning like a future of aviation all over Mars as a primary explorative.
+In my mind, it's absolutely going to happen in just a matter of time.
+There will be fleets flying, you know, throughout Mars.
+There will be airports on Mars one day, and we'll have aircraft the size of Chopper, more aircraft the size of Ingenuity, and even bigger than Chopper.
+NASA is thinking big thanks to Ingenuity, a project they once doubted.
+Because Ginny showed what is possible.
+In 1890, if you had said, I'm gonna fly, it's like, okay, that kooky guy in his garage, he thinks he can fly, he's gonna kill himself, right?
+After the Wright brothers, it's like, oh, okay, yeah, this is the thing that we're gonna do.
+And so that's the change in mentality that's occurred because of engineering.
+That's why, still sitting there on the surface of Mars, attached to the underside of Ingenuity is a tiny scrap, one square centimeter of muslin fabric.
+It was taken from the lower left wing of the first airplane, the right flyer.
+From the first flight on Earth, to the first flight on another planet.
+From Ingenuity's grave on Mars, her spirit lives on.
+Except...
+she isn't quite dead yet.
+She's acting as a weather station now, capturing photos every day, capturing temperature measurements every day, something no one would
+have ever predicted before flight 72 that if things don't go well, we just still have a functioning spacecraft.
+So she's a tank.
+The team couldn't be more proud of what Ingenuity's accomplished.
+Thanks for watching.

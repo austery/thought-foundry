@@ -1,0 +1,179 @@
+Chris, welcome.
+The company divesting non-core assets
+for, for example, earlier this year
+announcing the sale of its mass market
+residential fiber unit to AT&T for $5.75
+billion in cash.
+Now, what you're planning to do is
+leasing existing fiber routes to
+hyperscalers and social media companies
+to transport air traffic between data
+centers.
+I want to know how big of an opportunity
+is it to lease to these hyperscalers?
+Yeah.
+Thanks for having me today.
+It's it's been quite a journey at
+looming over the last three and a half
+years.
+And really what we see is an opportunity
+and have seen really through our
+transformation is the AI multi-cloud
+world that's being developed right now.
+The network of yesterday wasn't built to
+support it.
+And if you really think about the
+economics of AI and the economics of a
+GPU, you want to keep that GPU fed
+as much as it can consume so that
+they're spinning constantly.
+And that's where you get the economic
+benefit.
+So the problem with the network that has
+existed so far is that as those data
+loads get spread further and further
+away,
+as data centres are in search of power
+in cooler temperatures, there's latency
+problems and there's access problems.
+It takes a long time for networking to
+adjust.
+So what we're doing is building a mesh
+that basically goes anywhere to anywhere
+where the customer on demand can move
+those workloads where they need them in
+super low latency manner.
+So that's the big change.
+And so it's not just hyperscalers, it's
+really the full connectivity between the
+hyperscalers running those clouds, the
+hyperscalers obviously building those AI
+algorithms and large enterprise
+customers who are on the journey now and
+and will be using it much more heavily
+in the future.
+Chris, thanks for joining us again.
+It's great to to chat.
+Just wondering with the AT&T deal and
+also what you've done in capital markets
+in recent weeks, you've really improved
+your financing structure.
+You've you're saving hundreds of
+millions in interest expenses a year.
+Talk to us a little bit about that.
+Yeah.
+If you go back in time when we all
+joined Lumen and saw this opportunity,
+the balance sheet was not our friend.
+We had a lot of debt.
+Half that debt was due in one year.
+It was due in 2027.
+And that was job number one.
+We really needed to strengthen the
+foundation of the company so that we
+could go do the things that we're
+executing against today.
+So that was really accomplished through
+a couple of things.
+One is we did the largest out-of-court
+debt restructuring in history.
+That's not quite two years ago, and that
+allowed us to push those maturities out
+a bit.
+But at a at a significant expense are
+annualized interest expense at that
+point was about $1.4 billion.
+But from there, we saw in the middle of
+those negotiations, we saw this
+opportunity with the hyperscalers and
+soon after that, that debt negotiation
+was completed.
+We we signed $8 billion worth of deals,
+and that has grown since.
+That allowed us to monetize an asset
+that has been in the ground for 25
+years, which is conduit that we can we
+can blow fiber through to meet the needs
+of the hyperscalers in a fairly short
+period of time versus building new.
+And that's really the the core enduring
+advantage of this business.
+And then we layer the digital on top of
+that.
+But but the cash from those deals
+allowed us to refinance and delever.
+So we've made a number of moves so far
+this year.
+And with the sale of the consumer fiber
+business to AT&T, when that closes, our
+debt will be down to just over $13
+billion.
+In our interest expense on an annualized
+basis will be about 700 million.
+So in a two year period, dramatically
+reshaping both the quantum of debt as
+well as the maturity curve.
+And now that balance sheet is a real
+asset for us as we invest in the A.I.
+multi-cloud world.
+Now, I'm actually wondering about the
+investments.
+Of course, there's a lot of CapEx that's
+required in a business like like yours.
+We've seen earlier this year, the the
+one big beautiful bill act that was
+passed which tries to encourage
+investment and including in capital
+investments by allowing you as CFO to
+depreciate certain investments faster.
+Like do you think this will make an
+impact as you're thinking about future
+investments in your business here in the
+U.S.?
+Definitely.
+If you go back to the 2017 legislation
+that the big problem with that
+legislation is it created an equal
+playing field between, say, more service
+oriented or asset light companies and
+asset heavy or infrastructure companies.
+And if if you look at where the
+administration is focused today, it's
+clearly around infrastructure.
+That's where I think the US has the
+biggest challenges really is it is
+making sure that we don't get too far
+behind with our infrastructure.
+So the recent legislation has leveled
+that playing field and really that was
+around two things.
+The first is, is that there was interest
+deductibility, limits that that used to
+exist, that have been relaxed
+dramatically because, again, asset heavy
+infrastructure companies tend to have
+higher leverage.
+And then to your point, the ability to
+accelerate depreciation
+to help on the tax side is significant.
+That reduces the risk that
+companies that are investing in
+infrastructure take on when they make
+those kinds of investments.
+So it's absolutely an opportunity for
+us.
+Chris, you have to leave it there, but
+you've got to come back and join us once
+again.
+And I do remind everybody that Chris is
+featured in the most recent edition of
+the CFO Briefing newsletter.
+You can sign up for it at Bloomberg.com
+slash CFO Dash Briefing.
+We've been speaking with Chris
+Stansbury, CFO and EVP of Lumen
+Technologies.
+Also joining us here in the studio, Nina
+Trautmann, Bloomberg News senior editor.
+Sign up for that CFO Briefing
+newsletter.

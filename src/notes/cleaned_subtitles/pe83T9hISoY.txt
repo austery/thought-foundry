@@ -1,0 +1,223 @@
+So, you think Planet 9 exists with 99.8% probability?
+Something like that. Yeah maybe 99.. I'll push it higher. 99.9% probability.
+This is wishful thinking.
+It is. I mean if you're that sure, find it.
+In the farthest reaches of our solar system,
+way past Neptune and Pluto,
+a ninth planet may be lurking.
+It's predicted to have a mass five times that of Earth,
+and to orbit once every 10,000 years
+on a highly elliptical, inclined orbit
+So why do some scientists suspect that such a strange object exists?
+That's what I've come to Caltech to find out
+Where do you like to do your work?
+You know I usually do it wherever
+Wherever I have a couple minutes of free time, I just do it
+So this is where a lot of it is done.
+My name is Konstantin Batygin
+I am a professor of planetary science at Caltech
+and I do all kinds of astrophysics-y, planetary studies
+including stuff about planet 9
+These are variable transformations
+I'll tell you where the planet 9 boundary lies it's like that
+So everything to the left of that is all planet 9
+So I'm here to find out about hidden planets
+and how to find hidden planets with math
+okay
+So how do we do that I mean do you want to start at the beginning of this sort of endeavor
+or do you want to jump into planet 9? Where do you want to start?
+Well, let's actually let's start at the beginning
+because the beginning, it has a long and beautiful history to it
+And its origins dates back to 1781, I believe
+When Uranus was first discovered by Herschel
+and when Herschel discovered Uranus he immediately realized
+that the star that was slowly moving across the sky,
+had actually been imaged many many times before
+and it was a matter of going back to old observations and kind of retracing the orbit that Uranus was following on on the sky
+and astronomers and mathematicians at the time immediately noticed that there was a problem with orbit of this newly discovered planet
+It was deviating from where was supposed to be
+but a French mathematician by the name of Urbain Le Verrier
+eventually did this beautiful and very complicated set of calculations
+that said, "Okay, if there is a planet is there, Right?
+in that part of the sky, then we can explain the anomalous motion of Uranus."
+And when, once there was a mathematical prediction of where to look,
+astronomers were then able to discover Neptune with basically pinpoint accuracy
+how quickly did they find neptune?
+so this is a remarkable story. They found neptune in one night,
+because they knew exactly where to look
+There could be a ninth planet. There's a lot of space for a ninth planet in the outer solar system
+but there's no good evidence for a ninth planet at the present time
+and a particularly scary thing about the ninth planet is that a lot of people want to believe that there's a ninth planet
+and we all know there's this huge psychological bias
+To the effect that if you want to believe something is true, you will find evidence, real or not, that it's true
+Everyone and their brother in the last 170 years, have predicted planets beyond Neptune.
+but all of these theories have failed to date
+I think that we, meaning myself and my collaborator/partner-in-crime Mike Brown, are right
+our understanding of the solar system has evolved dramatically in the last 20 years
+We've discovered that there exists this one additional belt of icy debris called the Kuiper belt
+these are kind of big icy asteroids that are maybe the size of LA
+floating around beyond Neptune
+Who's responsible for finding the Kuiper belt?
+I found the Kuiper belt with my student Jane Luu.
+We were looking for anything actually beyond the orbit of Saturn
+so the puzzle, in 1985 the puzzle was
+why is it that the inner part of the solar system is full of asteroids and comets and kind of things planets all this stuff
+but then when you go beyond Saturn, there's Uranus, there's Neptune, and there's Pluto and then that's it
+Why would the outer solar system be so empty?
+It's a very simple question of the kind that I can understand
+and the answer was well let's have a look!
+you know maybe it's not really empty
+maybe it is in which case that would be interesting, but maybe it's not
+So we started a survey to find stuff beyond Saturn
+and we did the survey for a long time five years or something six years
+and found actually nothing for that whole time
+including nothing just beyond Saturn where we expected to find stuff
+until finally in 1992 we got this thing way out
+and we could tell immediately it's way out
+45 or 50 au from the slow motion across the sky
+we found this thing out there, what we call now the first identified Kuiper belt object
+it's actually the second, because Pluto was misidentified back in 1930 for all sorts of reasons
+connected with sociology and propaganda and things like that
+People wanted to find a planet, and so no matter what Pluto must be a planet
+so that process is continued. We have more than 2,000 of these objects now
+so in 25 years 2,000 of these things have been found
+we think the population is vast
+there's a billion things bigger than a kilometer across, maybe more. Maybe a couple billion
+it's some of the more distant objects that appear to some people to show this orbital alignment
+and they have in particular very large perihelion distance so they never come close to the Sun
+they never come close to even Neptune
+If you look at the most distant objects in this belt of debris called the Kuiper belt,
+all of their orbits kind of point into the same direction
+Is it possible that there are some going in the other direction and we just haven't found them?
+They're there.
+Yeah of course. That's a great question
+Generically when you search for objects in the night sky
+there are always what are called observational biases
+So you are always limited to finding objects only where you look
+so this is a key question that you have to ask, right,
+Is it that we only found objects that are all pointing that way, right, their orbits pointing that way because we only look there?
+The answer is that there is a chance
+That this is a this is all a false alarm, okay?
+and that chance is one in 500
+There are bodies that occasionally will swing out into other directions
+it's more that overall if you look at it, there is an overall tendency
+so here what we see is a pretty typical kind of simulation of the type that we do
+we start the solar system in an initial kind of totally random state
+where all the objects are pointing everywhere
+for scale these pink circles here are Uranus and Neptune
+and this long ellipse, this long pink ellipse is planet nine
+these blue guys, these blue orbits are long period Kuiper belt objects
+the ones that in the real solar system we see the clustering among
+and these gold or greenish ellipses are the more short period, more proximate members of the Kuiper belt which are not clustered at all
+so it takes a long time,
+but about two billion years into the evolution of the solar system
+you begin to see the fact that objects that are collinear with planet nine
+have all been scattered away, removed from the solar system dynamically
+and the only kind of remaining members of the distant solar system the objects that point the opposite way
+Again it's a remarkable gravitational signature
+gravitational one-way sign, if you will, that something is confining these orbits,
+keeping them clustered, and pulling them all into the same plane
+you know, the experts, I think of Scott Shepard and Chad Raheel who first noticed this alignment
+they call it a two point six sigma or result
+which means that, you know, it doesn't really meet the threshold for acceptance
+The scientific..
+Would you be looking at five sigma? Is that..
+I mean this the standard thing is three sigma, right?
+but half of all 3 sigma results are wrong, is what I always say as an observer
+so the more significance the better, but two point six is not enough
+so even though these clusters of asteroid orbits in the Kuiper belt provide the best evidence for Planet 9,
+there's a chance that further Kuiper belt observations will find different, uncluttered orbits.
+but regardless there are two other solar system mysteries that could be explained by the existence of Planet nine
+These properties of Planet nine,
+they seem like kind of nuts
+like a period of ten thousand years, that's not like any of the planets that we have found
+So why would we have such a strange planet hanging out out there?
+Yeah great question
+Indeed, none of this is reminiscent of anything solar system, right?
+If you for a second ignore the period right and ask yourself about the mass.
+Mass of five Earth masses. We don't have anything in the solar system that's five Earth masses,
+We go from one to 17, when we go from Earth to Neptune
+Is it wild?
+Actually turns out this is the most common type of planet in the galaxy that we have discovered around other stars
+It may be reversed:
+that the fact that the solar system doesn't host a object which is five earth masses kind of closer to the Sun is actually kind of weird
+Indeed, five earth masses as it turns out, it's kind of standard outcome of plant formation
+there are more wild things out there
+oh and this is really my favorite aspect of the Planet nine hypothesis
+it's the fact that Planet 9 actively flips orbits on their side
+you should not expect to find objects in the solar system that are flipped on their side,
+and are orbiting the Sun perpendicular to the planets
+and you should definitely not expect objects that are orbiting the solar system the wrong way, so to speak
+Yet we find them.
+Right? They exist in the Kuiper belt
+and this has actually been a problem since before Planet 9 was even a thought
+Planet nine has this intriguing mode of dynamical evolution
+that it instills upon distant orbits where it takes them and,
+at the expense of kind of circularizing these distant objects by making their orbits less elliptical
+flips them upside down and then makes them more elliptical again
+it's a complicated dynamical evolution
+and really at a detailed level you have to go to the computer simulations to understand how it works
+but the key kind of product of the existence of Planet 9
+is the expectation that such objects would exist, and we see them.
+and I think, really there isn't another kind of natural mechanism to generate these highly inclined bodies
+you know you have the plane of most of the the bodies,
+and then some of the bodies are there apparently have their orbits almost tilted up to 90 degrees
+is that just weird, or is that stronger evidence for..
+that's one of the things that they claim to explain with the planet 9 hypothesis,
+and that's a good thing in favor of the hypothesis
+but again, you know you need to find the planet to be sure what's going on
+In the region that we have not yet been able to probe, because we can't see faint enough
+We don't know. Yeah. We don't know.
+So when do you think we're gonna find Planet 9?
+That's a great question
+So observing the sky has proven to be an extreme challenge
+the search for planet 9 is extremely difficult
+It's just kind of dim enough at the outer parts of its orbit
+where it can be discovered with current telescopes,
+but you, but everything has to go right
+and by everything has to go right I mean no moon,
+the atmosphere has to be calm so that the light is not messed up by the turbulence
+such nights do come around every year, but they don't come around very often
+so since 2017 we've had exactly two successful runs.
+Right, successful observational runs where we had sort of a string of nights
+where we could take pictures of the same part of the sky over and over again
+so we are about 20%, maybe a little bit more now 25% done with the survey that we are carrying out to search for planet 9
+if things go at this rate,
+it might take about a decade
+I think the commencement of the LSST telescope,
+which is coming online 2022,23
+that's gonna help a lot
+because that's going to first of all discover many more of these objects
+and we'll be able to refine the theoretical model better
+and also just by direct observation it'll either find planet 9, or rule out a big chunk of its orbit
+so we could kind of zero in that way a lot more
+So it's a, it's an iterative process.
+I would guesstimate a decade or less
+So volumetrically we've discovered most of the solar system in the last 25 years, something like that
+What do you mean volumetrically?
+I mean that the volume of the region occupied by the planets is very small, it's 10,000 cubic astronomical units
+but as you go further out,
+you know the volume of that sphere that encapsulates all the objects that we've been able to observe,
+is just going up dramatically
+so if you go ten times further out,
+which we are now just about able to do,
+you increase the volume that you're looking at by a factor of a thousand
+There's a whole bunch of stuff going on, you know solar system is, to me, an unknown place
+You know, we fool ourselves to thinking that we know everything about it.
+Just because we've only been looking close and we have a lot of data from spacecrafts and so on
+but the further away you go, the less known it is, and the more mysterious it is
+and this ninth planet thing is part of that, because essentially when you go far enough away from the Sun
+there's enough room to hide almost anything you want
+it will be so faint you can put almost anything
+Big planets, small planets, whatever you want.
+We would not have seen it yet
+If or when you do find it, who gets to name it?
+Oh that's something we don't think about and don't talk about
+You don't have a name in the back of your head?
+The... Only David Bowie.
+Yeah there's a online petition on change.org to name Planet nine David Bowie,
+and I thought it was kind of silly initially
+but then there's this whole David Bowie like mythology that you could create
+if it has moons you could have Ziggy Stardust, Starman, and all of these things
+So, you know I was kinda like,
+I'm not saying that seriously but also it would be kind of remarkable if we had Jupiter Saturn Uranus Neptune and David Bowie

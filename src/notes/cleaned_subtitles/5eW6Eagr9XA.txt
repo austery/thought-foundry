@@ -1,0 +1,646 @@
+- Do you bring this trick out at parties?
+- Oh no. It's a terrible party trick.
+Here we go.
+3.141592653589793
+- This is Grant Gussman.
+He watched an old video of mine
+about how we think
+that there are two systems of thought.
+System two is the conscious
+slow effortful system.
+And system one is subconscious.
+Fast and automatic.
+To explore how these systems
+work in his own head,
+Grant decided to memorize
+a hundred digits of pi.
+- Three eight four four six...
+- Then he just kept going.
+He has now memorized 23,000 digits of pi
+in preparation to challenge
+the north American record
+- .95493038196.
+That's 200.
+(Derek laughs)
+- That's amazing.
+I have wanted to make a video
+about experts for a long time.
+This is Magnus Carlsen,
+the five time world chess champion.
+He's being shown chessboards
+and asked to identify the
+game in which they occurred.
+- This looks an awful
+lot like Tal V Botvinnik.
+(playful music)
+- Whoops.
+- Okay. This is the 24th
+game from Sevilla obviously.
+(chuckling)
+- Now I'm going to play
+through an opening.
+And stop me when you recognize the game.
+And if you can tell me who
+was playing black in this one.
+Okay.
+(playful music)
+I'm sure you've seen this opening before.
+- Okay. It's gonna be Anand.
+(laughs)
+- Against?
+- Zapata.
+- How can he do this?
+It seems like superhuman ability.
+Well decades ago,
+scientists wanted to know
+what makes experts like
+chess masters special.
+Do they have incredibly high IQ's,
+much better spatial
+reasoning than average,
+bigger short term memory spans?
+Well, it turns out that as a group,
+chess masters are not exceptional
+on any of these measures.
+But one experiment showed
+how their performance was
+vastly superior to amateurs.
+In 1973, William Chase and Herbert Simon
+recruited three chess players,
+a master, an A player,
+who's an advanced amateur, and a beginner.
+A chess board was set
+up with around 25 pieces
+positioned as they might be during a game.
+And each player was allowed
+to look at the board for five seconds.
+Then they were asked
+to replicate the setup from memory
+on a second board in front of them.
+The players could take as many
+five second peeks as they needed
+to get their board to match.
+From just the first look,
+the master could recall
+the positions of 16 pieces.
+The A player could recall eight,
+and the beginner only four.
+The master only needed
+half the number of peeks
+as the A player to get
+their board perfect.
+But then the researchers
+arranged the board
+with pieces in random positions
+that would never arise in a real game.
+And now, the chess master performed
+no better than the beginner.
+After the first look,
+all players, regardless of rank
+could remember the location
+of only three pieces.
+The data are clear.
+Chess experts don't have
+better memory in general,
+but they have better memory specifically
+for chess positions that
+could occur in a real game.
+The implication is what makes
+the chess master special,
+is that they have seen lots
+and lots of chess games.
+And over that time,
+their brains have learned patterns.
+So rather than seeing
+individual pieces at individual positions,
+they see a smaller number of
+recognizable configurations.
+This is called 'chunking'.
+What we have stored in long-term memory
+allows us to recognize complex
+stimuli as just one thing.
+For example, you recognize this as pi
+rather than a string of
+six unrelated numbers
+or meaningless squiggles for that matter.
+- There's a wonderful
+sequence I like a lot
+which is three zero one seven three.
+Which to me, means Stephen
+Curry number 30, won 73 games,
+which is the record back in 2016.
+So three oh one seven three.
+- At its core, expertise
+is about recognition.
+Magnus Carlsen recognizes chess positions
+the same way we recognize faces.
+And recognition leads
+directly to intuition.
+If you see an angry face,
+you have a pretty good idea
+of what's gonna come next.
+Chess masters recognize board positions
+and instinctively know the best move.
+- Most of the time, I know what to do.
+I don't have to figure it out.
+- To develop the long
+term memory of an expert
+takes a long time.
+10,000 hours is the rule of thumb
+popularized by Malcolm Gladwell,
+but 10,000 hours of practice
+by itself is not sufficient.
+There are four additional
+criteria that must be met.
+And in areas where these
+criteria aren't met,
+it's impossible to become an expert.
+So the first one is many
+repeated attempts with feedback.
+Tennis players hit hundreds
+of fore hands in practice.
+Chess players play thousands of games
+before they're grand masters
+and physicists solve
+thousands of physics problems.
+Each one gets feedback.
+The tennis player sees
+whether each shot clears
+the net and is in or out.
+The chess player either
+wins or loses the game.
+And the physicist gets the
+problem right or wrong.
+But some professionals don't
+get repeated experience
+with the same sorts of problems.
+Political scientist, Philip
+Tetlock picked 284 people
+who make their living
+commenting or offering advice
+on political and economic trends.
+This included journalists,
+foreign policy specialists,
+economists, and intelligence analysts.
+Over two decades,
+he peppered them with questions like
+Would George Bush be re-elected?
+Would apartheid in South
+Africa end peacefully?
+Would Quebec secede from Canada?
+And would the .com bubble burst?
+In each case, the pundits
+rated the probability
+of several possible outcomes.
+And by the end of the study,
+Tetlock had quantified 82,361 predictions.
+So, how did they do?
+Pretty terribly.
+These experts, most of whom
+had post graduate degrees,
+performed worse than if they had just
+assigned equal probabilities
+to all the outcomes.
+In other words,
+people who spend their time
+and earned their living
+studying a particular topic,
+produce poorer predictions
+than random chance.
+Even in the areas they knew best,
+experts were not significantly
+better than non-specialists.
+The problem is,
+most of the events they have
+to predict are one-offs.
+They haven't had the experience
+of going through these events
+or very similar ones many times before.
+Even presidential elections
+only happen infrequently,
+and each one in a slightly
+different environment.
+So we should be wary of experts
+who don't have repeated
+experience with feedback.
+(upbeat music)
+The next requirement
+is a valid environment.
+One that contains regularities
+that make it at least
+somewhat predictable.
+A gambler betting at the
+roulette wheel for example,
+may have thousands of repeated experiences
+with the same event.
+And for each one,
+they get clear feedback
+in the form of whether they win or lose,
+but you would rightfully
+not consider them an expert
+because the environment is low validity.
+A roulette wheel is essentially random,
+so there are no
+regularities to be learned.
+In 2006, legendary investor, Warren Buffet
+offered to bet a million dollars
+that he could pick an investment
+that would outperform Wall
+Street's best hedge funds
+over a 10 year period.
+Hedge funds are pools of money
+that are actively managed
+by some of the brightest
+and most experienced
+traders on Wall Street.
+They use advanced techniques
+like short selling,
+leverage, and derivatives
+in an attempt to provide outsized returns.
+And consequently, they
+charge significant fees.
+One person took Buffet up on the bet;
+Ted Seides of Protege Partners.
+For his investment, he
+selected five hedge funds.
+Well actually, five funds of hedge funds.
+So in total, a collection of
+over 200 individual funds.
+Warren Buffet took a
+very different approach.
+He picked the most basic,
+boring investment imaginable;
+a passive index fund that just tracks
+the weighted value of the 500 biggest
+public companies in America, the S&P 500.
+They started the bet on January 1st, 2008,
+and immediately things did
+not look good for Buffet.
+It was the start of the
+global financial crisis,
+and the market tanked.
+But the hedge funds could
+change their holdings
+and even profit from market falls.
+So they lost some value,
+but not as much as the market average.
+The hedge funds stayed ahead
+for the next three years,
+but by 2011, the S&P 500 had pulled even.
+And from then on, it wasn't even close.
+The market average surged
+leaving the hedge funds in the dust.
+After 10 years, Buffet's
+index fund gained 125.8%
+to the hedge funds' 36%.
+Now the market performance
+was not unusual over this time.
+At eight and a half percent annual growth,
+it nearly matches the stock
+market's long run average.
+So why did so many
+investment professionals
+with years of industry experience,
+research at their fingertips,
+and big financial incentives to perform,
+fail to beat the market?
+Well because stocks are a
+low validity environment.
+Over the short term,
+stock price movements are
+almost entirely random.
+So the feedback, although
+clear and immediate
+doesn't actually reflect anything
+about the quality of the decision making.
+It's closer to a roulette
+wheel than to Chess.
+Over a 10 year period,
+around 80% of all actively
+managed investment funds
+fail to beat the market average.
+And if you look at longer time periods,
+under performance rises to 90%.
+And before you say,
+"Well that means 10% of
+managers have actual skill,
+consider that just through random chance,
+some people would beat the market anyway.
+Portfolios picked by
+cats or throwing darts
+have been shown to do just that.
+And in addition to luck,
+there are nefarious practices
+from insider trading to
+pump and dump schemes.
+Now I don't mean to say there
+are no expert investors.
+Warren Buffet himself is a clear example.
+But the vast majority of stock pickers
+and active investment managers,
+do not demonstrate expert performance
+because of the low validity
+of their environment.
+Brief side note,
+if we know that stock picking
+will usually yield worse
+results over the long term,
+and that what active
+managers charge in fees
+is rarely compensated for
+in improved performance,
+then why is so much money
+invested in individual stocks,
+mutual funds, and hedge funds?
+Well let me answer that with a story.
+There was an experiment carried
+out with rats and humans,
+where there's a red
+button and a green button
+that can each light up.
+80% of the time, the
+green button lights up.
+And 20% of the time the
+red button lights up,
+but randomly.
+So you can never be sure
+which button will light.
+And the task for the subject,
+either rat or human,
+is to guess beforehand
+which button will light up
+by pressing it.
+For the rat,
+if they guess right,
+they get a bit of food.
+And if they guess wrong,
+a mild electric shock.
+The rat quickly learns to
+press only the green button
+and accept the 80% win percentage.
+Humans on the other hand,
+usually press the green button.
+But once in a while,
+they try to predict when
+the red light will go on.
+And as a result, they guess
+right only 68% of the time.
+We have a hard time
+accepting average results.
+And we see patterns everywhere,
+including in randomness.
+So we try to beat the average
+by predicting the pattern.
+But when there is no pattern,
+this is a terrible strategy.
+Even when there are patterns,
+you need timely feedback
+in order to learn them.
+And YouTube knows this,
+which is why within the first hour
+after posting a video,
+they tell you how its performance compares
+to your last 10 videos.
+There's even confetti fireworks
+when the video is number one.
+I know it seems like a silly thing,
+but you have no idea how
+powerful a reward this is
+and how much YouTuber effort
+is spent chasing this
+supercharged dopamine hit.
+To understand the difference between
+immediate and delayed feedback,
+psychologist Daniel Kahneman contrasts
+the experiences of
+anesthesiologists and radiologists.
+Anesthesiologists work
+alongside the patient
+and get feedback straight away.
+Is the patient unconscious
+with stable vital signs?
+With this immediate feedback,
+it's easier for them to learn
+the regularities of their environment.
+Radiologists, on the other hand,
+don't get rapid feedback
+on their diagnoses
+if they get it at all.
+This makes it much harder
+for them to improve.
+Radiologists typically correctly diagnose
+breast cancer from x-rays
+just 70% of the time.
+Delayed feedback also
+seems to be a problem
+for college admissions officers
+and recruitment specialists.
+After admitting someone to college,
+or hiring someone at a big company,
+you may never, or only much
+later find out how they did.
+This makes it harder to
+recognize the patterns
+in ideal candidates.
+In one study,
+Richard Melton tried to predict
+the grades of freshmen
+at the end of their first year of college.
+A set of 14 counselors
+interviewed each student
+for 45 minutes to an hour.
+They also had access
+to high school grades,
+several aptitude tests,
+and a four page personal statement.
+For comparison, Melton
+created an algorithm
+that used as input,
+only a fraction of the information.
+Just high school grades
+and one aptitude test.
+Nevertheless, the
+formula was more accurate
+than 11 of the 14 counselors.
+Melton's study was reported alongside
+over a dozen similar results
+across a variety of other domains,
+from predicting who would violate parole
+to who'd succeed in pilot training.
+If you've ever been denied admission
+to an educational institution,
+or turned down for a job,
+it feels like an expert has
+considered your potential
+and decided that you don't
+have what it takes to succeed.
+I was rejected twice from film school
+and twice from a drama program.
+So it's comforting to know
+that the gatekeepers at these institutions
+aren't great predictors of future success.
+So if you're in a valid environment,
+and you get repeated experience
+with the same events,
+with clear, timely
+feedback from each attempt,
+will you definitely become an expert
+in 10,000 hours or so?
+The answer unfortunately is no.
+Because most of us want to be comfortable.
+For a lot of tasks in life,
+we can become competent in a
+fairly short period of time.
+Take driving a car for example,
+initially it's pretty challenging.
+It takes up all of system two.
+Bu after 50 hours or so
+it becomes automatic.
+System one takes over,
+and you can do it without
+much conscious thought.
+After that, more time spent driving
+doesn't improve performance.
+If you wanted to keep improving,
+you would have to try driving
+in challenging situations
+like new terrain, higher
+speeds, or in difficult weather.
+Now I have played guitar for 25 years,
+but I'm not an expert because
+I usually play the same songs.
+It's easier and more fun.
+But in order to learn,
+you have to be practicing
+at the edge of your ability,
+pushing beyond your comfort zone.
+You have to use a lot of concentration
+and methodically repeatedly attempt things
+you aren't good at.
+- You can practice
+everything exactly as it is
+and exactly as it's written,
+but at just such a speed that
+you have to think about
+and know exactly where you are
+and what your fingers are doing
+and what it feels like.
+- This is known as deliberate practice.
+And in many areas
+professionals don't engage
+in deliberate practice,
+so their performance doesn't improve.
+In fact, sometimes it declines.
+If you're experiencing chest pain
+and you walk into a hospital,
+would you rather the
+doctor is a recent graduate
+or someone with 20 years experience?
+Researchers have found
+that diagnostic skills of medical students
+increase with their
+time in medical school,
+which makes sense.
+The more cases you've seen with feedback,
+the better you are at spotting patterns.
+But this only works up to a point.
+When it comes to rare diseases
+of the heart or lungs,
+doctors with 20 years
+experience were actually worse
+at diagnosing them than recent graduates.
+And that's because they
+haven't thought about
+those rare diseases in a long time.
+So they're less able to
+recognize the symptoms.
+Only after a refresher course,
+could doctors accurately
+diagnose these diseases.
+And you can see the same effect in chess.
+The best predictor of skill level,
+is not the number of games
+or tournaments played,
+but the number of hours dedicated
+to serious solitary study.
+Players spend thousands of hours alone
+learning chess theory,
+studying their own games
+and those of others.
+And they play through compositions,
+which are puzzles designed
+to help you recognize tactical patterns.
+In chess, as in other areas,
+it can be challenging to force yourself
+to practice deliberately.
+And this is why coaches and
+teachers are so valuable.
+They can recognize your weaknesses
+and assign tasks to address them.
+To become an expert,
+you have to practice
+for thousands of hours
+in the uncomfortable zone,
+attempting the things
+you can't do quite yet.
+True expertise is amazing to watch.
+To me, it looks like magic, but it isn't.
+At its core, expertise is recognition.
+And recognition comes
+from the incredible amount
+of highly structured information
+stored in long-term memory.
+To build that memory,
+requires four things:
+a valid environment, many
+repetitions, timely feedback,
+and thousands of hours
+of deliberate practice.
+When those criteria are met,
+human performance is astonishing.
+And when it's not,
+you get people we think of as experts
+who actually aren't.
+(techno sound)
+If you want to become a STEM expert,
+you have to actively
+interact with problems.
+And that's what you can do with Brilliant,
+the sponsor of this video.
+Check out this course on computer science,
+where you can uncover the optimal strategy
+for finding a key in a room.
+And you quickly learn
+how your own strategy can be
+replicated in a neural network.
+Logic is another great course
+that I find challenges me mentally.
+You go from thinking
+you understand something
+to actually getting it.
+And if it feels difficult,
+that's a good thing.
+It means you're getting pushed
+outside your comfort zone.
+This is how Brilliant
+facilitates deliberate practice.
+And if you ever get stuck,
+a helpful hint is always close at hand.
+So don't fall into the trap
+of just getting comfortable
+in doing what you know how to do.
+Build in the habit of being uncomfortable,
+and regularly learning something new.
+That is the way to lifelong
+learning and growth.
+So I invite you to check out the courses
+over at Brilliant.org/veritasium,
+and I bet you will find something there
+that you wanna learn.
+Plus if you click through right now,
+Brilliant are offering 20% off
+an annual premium subscription
+to the first 200 people to sign up.
+So I wanna thank Brilliant
+for supporting Veritasium,
+and I wanna thank you for watching.

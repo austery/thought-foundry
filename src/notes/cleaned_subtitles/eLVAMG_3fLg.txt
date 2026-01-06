@@ -1,0 +1,2889 @@
+- When people think about robots,
+they usually imagine something
+like a Boston Dynamics robot,
+metallic and humanoid.
+But the robots we'll see in the future
+might not look like that at all.
+I mean, if humans are
+interacting with something
+on a daily basis, it's
+probably best not to make it
+sharp, delicate, and heavy.
+- How rude.
+- [Derek] Instead, advanced
+robots might be made safer
+if they're soft, flexible,
+and all kinds of shapes and sizes.
+So instead of Sonny from I, Robot.
+- No.
+- [Derek] Something like
+Baymax from "Big Hero 6"
+might be closer to what's in our future.
+- Balalala.
+- This is a compilation
+video of five of my videos
+on the surprisingly different
+ways robots can look,
+and why we build them that way.
+This is my first time trying out a series,
+and honestly, it's been a busy
+time for the Veritasium team.
+We're working on some exciting
+things in the background.
+But in the meantime,
+we wanted to put this
+together for all of you.
+And I also caught up
+with Dr. Elliot Hawkes,
+the scientist behind two of these robots,
+to get an update on
+how they're progressing
+and when we can expect
+to see them in our lives.
+Are there more developments happening
+with the jumping robots?
+- We have a whole nother
+project on jumping,
+and it doesn't even use springs.
+So I won't give away our our secrets yet.
+But keep an eye out for that one too,
+'cause that's gonna be fun.
+- So you have another jumping robot
+which has a totally novel design?
+- Yep.
+- And you think it's gonna be better
+than the one that you had before?
+- Correct.
+- And I just wanna shout out
+our longtime sponsor, Brilliant.
+They've supported the channel since 2021,
+and it's great to get
+to talk about something
+that I actually use myself.
+I've had Brilliant on my phone for years,
+and it just allows me to
+learn something new every day,
+instead of, say, doom scrolling.
+You should make valuable use of your time.
+So I will tell you more about
+Brilliant later in the video.
+Non-humanoid robots aren't just safer
+for us to interact with.
+One of their biggest advantages
+over traditional robots
+is that they don't just do things
+humans already do, but better.
+Instead, they're specialized
+to master entirely new abilities,
+often ones that no human can tackle.
+This is a robot that can grow
+to hundreds of times its size,
+and it can't be stopped
+by adhesives or spikes.
+Although it looks kind
+of simple and cheap,
+it has dozens of potential applications,
+including one day maybe saving your life.
+These robots can be made
+out of almost any material,
+but they all follow the
+same basic principle.
+Powered by compressed air,
+they grow from the tip.
+- That's good.
+- [Derek] And this allows the robot
+to pass through tight spaces,
+and also over sticky surfaces.
+- Something like a car
+will get stuck to it.
+It gets stuck in the wheels.
+Now if I do the same
+thing with the vine robot,
+see the robot is able to extend.
+- [Derek] It can navigate this curvy
+and twisted passageway effortlessly,
+which suggests some of the applications
+it's well suited for.
+Now, you might think spikes
+would be the downfall
+of an inflatable robot.
+But even if it's punctured,
+as long as you have
+sufficient air pressure,
+the robot keeps going.
+- And you might be able to hear it.
+It's actually leaking now.
+So I'll have to turn up the pressure.
+This by itself is not yet a robot.
+But once we add steering,
+a camera, some sensors,
+and maybe some intelligence as
+to where we're directing it,
+then we could say it's a robot.
+So this is sort of the
+backbone of a robot.
+This is what allows us to
+build our type of robots.
+- [Derek] So where did the
+idea for this device come from?
+- I had a vine in my
+office that was on a shelf,
+and it was kinda out of the sunlight.
+And over the course of like a year or so,
+it slowly grew out this tendril,
+out and around the edge of the shelf
+and towards the sunlight.
+I said, that's a pretty cool
+thing it just did, right?
+So you start thinking,
+well, is there a way you
+could do that robotically?
+- [Derek] The solution is really
+elegant in its simplicity.
+Just take some airtight tubing
+and fold it in on itself.
+It's kinda like a water wiggly,
+those toys that are really hard to hold.
+When you inflate it with compressed air,
+it starts growing out from the tip.
+And if you want the tube to
+always bend at a certain spot,
+you could just tape the
+tubing on the outside
+to shorten one of the sides.
+For example, you could tape
+it into a helical shape
+to create a deployable antenna.
+What about getting them to retract?
+- Yeah, that's a challenging problem.
+When you're in a constrained environment,
+all you really have to do is
+pull on, we call it the tail,
+so the material that is passing through
+the core of the body.
+You pull on it and it basically outgrows,
+it just goes back inside itself.
+Now if you're in a big open area like this
+and you try pulling on that,
+instead of inverting, so retracting,
+it tends to kinda coil
+up and make a ugly shape.
+- [Derek] And the engineers
+have come up with ways
+to retract the tube to
+prevent it from buckling
+using internal rollers.
+But the tube doesn't have
+to be the same diameter
+the whole way along.
+Here there's actually
+a much wider section.
+Think of it like a pillow
+that's packed into the end of the robot.
+- Yeah, if you could
+sit cross-legged on it.
+- Cross-legged on the table?
+This sounds super sketchy.
+So it grows underneath
+the table just as usual,
+and then, as the pillow
+part starts inflating.
+Is this not good, or is this okay?
+It can actually lift me up.
+So my balance is not great, as we can see.
+- [Elliot] Try standing on it.
+- Stand on it?
+- Yeah.
+- What's amazing is that
+this doesn't require
+much pressure above atmospheric.
+Just a tenth of an atmosphere
+applied over a large area,
+like a square meter, can
+lift something as heavy
+as a thousand kilograms, all
+the while remaining soft.
+Whoa.
+Woo. That was great.
+That's the paradoxical
+thing about pressure.
+You can get a large overall
+force with low pressure
+as long as the area is large enough.
+What sort of area is
+that, that pillow there?
+- It's 600 square inches.
+So with one PSI, 600 pounds.
+- Yeah, that's just crazy.
+- Two PSI, 1,200 pounds.
+- [Derek] And the whole
+time, it feels really soft.
+- Yeah, 'cause there's
+a couple PSI, right?
+- [Derek] It's important
+that the device is still soft
+so it doesn't hurt anyone.
+- So you can design these things
+to have cross-section that
+changes along its length.
+So it could be a very small body
+that could grow into, for
+example, a collapsed building
+and potentially lift a large object
+off someone who's trapped,
+or maybe in a car crash
+or something like that.
+It can apply huge forces
+with very soft and
+lightweight, cheap materials.
+- [Derek] These robots
+can also be deployed
+in search and rescue operations
+by attaching sensors like
+a camera onto the front.
+- These robots are actually
+really hard to stop.
+So you can take them,
+grow them into a clutter,
+potentially a collapsed
+building or something like that,
+and they will continue to go somewhere.
+An alternative is, they're so cheap.
+I mean, they're basically free.
+You could grow a hundred
+of 'em, let's say,
+into a collapsed building
+with some sensing on them,
+and maybe only one of them finds somebody.
+But I mean, that's a
+huge success if it does.
+- [Derek] But how do you keep a camera
+connected to the front of the robot
+when it grows out from the tip?
+Well, one way is to use an end cap,
+which allows that camera
+just to stay on the front,
+pushed from behind by the robot.
+But there are other
+mechanisms of attachment.
+The tiny wireless camera is
+mounted on an external frame,
+but this frame interlocks
+with an internal frame,
+which is actually inside
+the pressurized part
+of the robot body.
+It's similar to how a
+roller coaster's wheels
+go around the track.
+So this prevents the
+camera from falling off
+as the robot grows.
+What's really interesting
+is how the vine robot
+can be actively steered.
+They attach artificial
+muscles to the robot.
+So the way this muscle works
+is that if you inflate it,
+it expands sideways,
+which leads to it contracting in length.
+- We don't actually use these much anymore
+because although it's soft,
+it's still somewhat stiff.
+So what we use instead
+are simply tubes of this
+ripstop nylon fabric,
+with the braid oriented at 45 degrees.
+So in this sense,
+we just have one single
+layer of airtight fabric.
+This is the main robot body here.
+Then we have three pneumatic
+muscles connected to it.
+Now, these three muscles
+are each connected to
+their own air supply,
+connected to regulators over here.
+As the robot extends from the tip,
+we can steer it by shortening
+and lengthening the sides.
+So just the way your hand works
+is if I shorten this tendon in my arm,
+my hand will move this way.
+Or if I shorten the one on this side,
+it'll move the other way.
+So our vine robot, we have
+these muscles along its side,
+so as they inflate,
+they'll turn it one way.
+Then if I inflate the
+one on the other side,
+it'll turn the other way.
+- [Derek] So the vine robot
+can fit through tight spaces,
+it doesn't typically
+get stuck on anything,
+and isn't bothered by sharp objects.
+And once you attach that
+camera on the front,
+it's ideal for things like archeology.
+The robot was actually taken to Peru
+to investigate some very narrow shafts.
+- So we were looking at
+this archeological site
+that was built somewhere
+between 1,500 and 500 BC
+in the Andes Mountains of Peru,
+and it was an ancient temple
+that had all these underground spaces.
+And part of what the
+archeologists were doing
+was trying to understand
+what the spaces were for,
+and what the people who built them
+were trying to do with them.
+So part of that was unknown.
+But there were these giant rooms
+that they called galleries,
+and then there were these
+small ducts, or tunnels
+that were offshoots of these rooms,
+and they wanted to know
+where these ducts led,
+but they were too small
+for a person to go in.
+So we were able to
+successfully use the vine robot
+to explore three of the tunnels
+that couldn't have been
+seen through other means,
+which was super exciting.
+And we got video inside the entire tunnels
+and gave it to the archeology team.
+- [Derek] There's an
+application where I feel
+like this solution is just so obvious
+I wonder why it didn't exist before.
+- Intubation is literally the process
+of putting a tube into a patient.
+The purpose is to breathe for the patient
+when the patient isn't breathing.
+And so traditionally, a
+highly-trained medical professional
+would take their laryngoscope,
+come above the patient.
+And once they see the trachea,
+you start to pass your tube down inside.
+I'm almost there. I can see the light.
+So if you can see right now,
+I just got it in to the trachea.
+- Oh, yeah.
+- Right there.
+And it took me a couple minutes,
+and I was really kinda
+wrenching on this patient here.
+So if there's somebody
+who's not breathing,
+every second counts.
+- [Derek] But by using a miniature version
+of this vine robot, researchers are hoping
+to make intubation faster and safer.
+- Somebody like me with no training
+could pretty simply insert this device,
+aim towards the nose,
+and just like that, if you can
+see, we've already intubated,
+and all it took was a little
+bit of pressurization.
+Just like that.
+- [Derek] It almost looks
+like a sort of a party favor.
+- Yeah, right?
+It's like a, this reminds
+me a lot of those inflatable
+kinda like Play-Doh structures
+that you see at car lots.
+- [Derek] How does it know
+to go down the right tube?
+- Yeah, so that's one of
+the kind of cool things
+about soft robotics, is the
+robot is quite compliant,
+and we see that in a lot of these demos.
+They can squish, they can bend.
+And so, how we've designed it is that
+the main robot grows
+down into the esophagus,
+and then we have this side branch
+that heads towards the trachea,
+and it's quite flexible.
+And so, it basically finds the opening.
+So it's a really neat example
+of kind of a passive intelligence,
+mechanical intelligence,
+some people call it,
+where it can find its path
+even if we don't know
+exactly the shape beforehand.
+- [Derek] Have you tried
+this on a real person yet?
+- Not on a real person,
+but we've actually tried
+this in a cadaver lab,
+and we've shown that we can move from
+this nice idealized version
+to an actual in vivo situation
+and successfully intubate a patient.
+- [Derek] There's another application,
+which is burrowing into sand or soil.
+When you blow compressed air
+into something like sand,
+it fluidizes, it becomes like a liquid,
+and that can allow the vine robot
+to grow into granular materials like sand.
+- If you've ever been to the beach
+and you try to stick your
+umbrella pole into the ground,
+it's fairly difficult.
+- I'll try to push that
+probe down into the sand,
+no fluidization.
+Yeah, it feels like it sort
+of gets wedged in there.
+- So now I'll turn on the air.
+- Oh yeah, you can feel it immediately.
+Oh, wow.
+Yeah, that's a lot.
+- So what we've done here is essentially,
+we just blow a jet of air
+out the front of the robot,
+and that loosens up the sand enough
+to reduce the force of the
+sand so that the robot,
+just by tip extension,
+can make its way through.
+(air whooshing)
+(rousing music)
+- This makes vine robots
+an attractive option
+for NASA when they look for ways
+to study the surfaces of other planets.
+Recently on Mars, they tried
+to have a burrowing robot,
+but it got stuck.
+Could you do it better
+basically with this?
+- Yeah, that's a good question.
+So the Mars InSight mission,
+they have this heat probe.
+The idea there was to be able to sort of
+hammer its way down into the core
+and then place a sensor
+that could detect the temperature of Mars.
+However, the problem they ran into there
+is that it turned out the
+material that they put it in
+was more cohesive than they expected.
+Inside the robot, something
+would wind up and pound it down,
+wind up and pounded down.
+But it turned out there
+wasn't enough friction
+between the probe and the sand.
+So what was really happening
+was it would wind up,
+pound down, wind up, pound
+down, wind up, pound down.
+So it'd never actually go anywhere.
+The advantage of something
+like this, like tip extension,
+is you'd have your base,
+you start at the surface,
+and you just keep extending your way down.
+You're not necessarily
+relying on the interaction
+with what is surrounding
+it to make it work.
+- [Derek] What amazes me about vine robots
+is how a plant inspired
+this simple, elegant design.
+It's so easy in fact that
+you could build one yourself
+in as little as a minute.
+There are instructions
+online that I'll link to.
+But from that basic design have come
+a huge variety of robots,
+with different applications
+from archeology
+to search and rescue, or
+intubation to space exploration.
+And what else can you
+think of to do with it?
+- I've actually gotten a
+lot of emails from viewers
+about crazy ideas that
+we hadn't thought of.
+So keep 'em coming.
+We love to hear your ideas.
+- Are there any ideas
+that you can share with us
+that are like, oh, like
+that's actually really cool?
+- One idea was for
+clearing mines, landmines.
+So the idea was that you'd actually
+run a vine robot through the field
+and then detonate the landmines,
+and basically make a path
+that civilians could
+walk through the field.
+So I thought that was kind of a cool idea.
+- Do you think they'd
+create enough pressure
+to trigger these things?
+- I think the idea was
+they were gonna actually
+put explosives in the
+vine to detonate the,
+yeah, the land mines themselves.
+- I mean, I'm also thinking,
+now that you mention that,
+like I'm thinking you could
+put metal detector type sensors
+on the vine robot.
+- Absolutely.
+- So spread them across the field
+and they'll pick up where the mines are.
+- I'll give you another crazy example.
+Another one was for space
+applications of docking,
+so two spacecraft docking together,
+you have to make an airtight seal.
+And so, the idea was, well,
+maybe you could use a
+vine robot to do this.
+- Some sort of like airlock or
+something going out and then.
+- So basically, yeah, you can imagine
+the two tubes coming together, not sealed,
+and then the vine robot growing through
+and basically making the seal.
+- Are there any updates
+about the vine robot?
+Like have the medical
+trials gotten anywhere?
+- So we just did a trial
+with emergency medical
+practitioners using our device.
+We gave 'em five minutes of training,
+we gave 'em the device,
+and they were 90-ish percent
+successful in intubating,
+in very rapid, something like 20 seconds.
+- Oh, wow.
+- The nice thing about our our device
+is that if it fails,
+it fails in 20 seconds.
+And so, it doesn't take
+three minutes to attempt
+and then realize you didn't get it.
+I think something really nice about that
+is that it is so rapid and easy
+that even if it does fail,
+you get another shot.
+- Yeah, I mean, that one
+seems like it's so close
+to actually having a big
+real world application.
+I mean, how common are intubations?
+- So intubations in the OR,
+so operating room are quite common.
+I think like 15 million a year.
+That's probably not our initial target
+'cause those are very
+reliable, like 99% plus.
+The fundamental problem is
+that the tools are designed
+for those doctors in those scenarios.
+And what happens is those similar tools
+get put out into the
+field for an ambulance
+and a paramedic is trying
+to do an intubation,
+but they're doing it maybe in the dark,
+with someone in a poor body position,
+where there's blood in the mouth.
+So our device takes
+that required skill out
+and basically lets the vine robot
+find the way into the trachea.
+And so, pre-hospital,
+there's around a million
+intubations a year.
+And we think many intubations
+that aren't even attempted
+because the tools just aren't there.
+And then our kind of
+long shot is eventually,
+there's AEDs, the
+defibrillators everywhere.
+One issue there is there's not a way
+to help the person breathe.
+Possibly if we can make
+this thing so simple,
+it could basically be packaged with a AED,
+where you could both get the heart going,
+and you could intubate
+and get the oxygen in.
+But I think we're close.
+It's pretty easy.
+You'll have to come back
+and get another video.
+We'll let you intubate a cadaver.
+That'll be fun.
+- So we've kind of answered this question,
+but are these robots, vine
+robots still being worked on?
+- We have a project
+right now on anchoring,
+especially we're interested in.
+So if you think of a plant root.
+If you ever try to pull out, I don't know,
+like a small shrub or something,
+it's incredibly hard, right?
+Like you're looking at this,
+it's got like a half an inch stem
+and you're pulling on
+it and pulling on it,
+it's like hundreds of pounds of force.
+So you're like how is this possible?
+And I think one of the coolest things
+is that a hundred pounds
+of anchoring force
+was created with almost no
+reaction force initially.
+There was like a seed that
+slowly grew down into the ground.
+- It's like all these little tendrils,
+and I'm imagining the friction
+sums over all of those.
+- So basically, when you're
+trying to go into the soil,
+the thing resisting you is
+the surface area of the tip.
+That's what you're pushing in.
+And then what's giving
+you the anchoring force
+is the surface area on the sides.
+And so, you can imagine, if
+you clump 'em all together,
+the area in the tips doesn't change,
+but the surface area
+of the sides went down.
+So you basically wanna split 'em up
+into as many, practically.
+So anyway, we're using that concept now
+to make these anchors,
+and we're working with
+NASA now one as well.
+And so, it's like this deployable anchor,
+it's very light.
+You could throw it
+somewhere, or just drop it,
+and then the roots grow down,
+there's four roots that
+grow down into the ground,
+and it was something like
+a hundred Newtons of force
+to pull it out.
+- Yeah, it sounds like a
+very sci-fi type thing,
+where you could like
+throw the root pack down
+and it just like phmf, and
+then the roots roots grow out
+and you're like, oh yeah,
+the anchor is locked in.
+- Yep, absolutely, absolutely.
+- Yeah, that's amazing.
+After seeing the unstoppable robot,
+we returned to Elliot's lab a
+few years later to see a robot
+that has conquered a
+totally different specialty,
+the art of jumping.
+This tiny robot weighs
+less than a tennis ball,
+and can jump higher than
+anything in the world.
+In the competitive
+world of jumping robots,
+the previous record was 3.7 meters,
+enough to leap a single story building.
+This jumper can reach 31 meters,
+higher than a 10-story building.
+It could jump all the way from
+the Statue of Liberty's feet
+up to eye level.
+For something to count as a jump,
+it must satisfy two criteria.
+First, motion must be created
+by pushing off the ground.
+So a quadcopter doesn't count,
+because it pushes off the air.
+And second, no mass can be lost.
+So rockets constantly ejecting
+burnt fuel are not jumping,
+and neither is an arrow
+launched from a bow.
+The bow would have to come with the arrow
+for it to count as a jump.
+Many animals jump,
+from sand fleas, to
+grasshoppers, to kangaroos,
+and they launch their bodies into the air
+with a single stroke of their muscles.
+The amount of energy delivered
+in that single stroke
+determines the jump height.
+So if you wanna jump higher,
+you have to maximize the
+strength of the muscle.
+The best jumper in the animal kingdom
+is the galago, or bush baby,
+and that's because 30% of
+their entire muscle mass
+is dedicated to jumping.
+This allows the squirrel-sized primate
+to jump over two meters from a standstill.
+- It has like very small
+arms and upper body,
+and has just like huge jumping legs.
+It doesn't have better
+muscles or anything,
+it just has more of them.
+- [Derek] There are some
+clever jumping toys.
+- I feel like, there we go. Oh!
+- I used to play with
+these poppers as a kid.
+And when you deform a popper,
+you store energy in its deformed shape.
+Effectively it becomes a spring.
+And then, just like an animal,
+in one stroke, it applies a
+large force to the ground,
+launching itself into the air.
+All elastic jumpers
+follow the same principle
+of storing energy in a spring
+and releasing that energy
+in a single stroke to jump.
+But none of the jumping toys we had
+could compare to this tiny robot.
+Of all the things that I
+have ever tried to film,
+this is the most challenging.
+Because it's so small,
+it accelerates rapidly
+and travels a huge distance on each jump.
+Each takeoff happened faster
+than we could even register.
+Now, jumping might sound
+like a niche skill,
+but engineered jumpers would be perfect
+for exploring other worlds,
+particularly where the atmosphere
+is thin or non-existent.
+On the moon, with one
+sixth the gravity of earth,
+this robot would be able
+to leap 125 meters high
+and half a kilometer forward.
+Rovers may struggle with
+steep cliffs and deep craters,
+but jumpers could hop in and out,
+fetching samples to
+bring back to the rover.
+And you don't lose much
+energy when jumping.
+So if you could store the kinetic energy
+back in the spring on landing,
+the efficiency could be near perfect.
+The team has already started to build
+an entire fleet of jumping robots.
+Some of them can right
+themselves after landing,
+so they can take off again right away.
+Others are steerable.
+They have three adjustable legs
+that allow the jumper to
+launch in any direction.
+- Essentially what we've done
+is we've added three additional
+legs that don't store energy
+but rather, allow it to
+form a tripod sort of
+that allows it to point a direction
+and launch in that direction.
+- [Derek] But how does this
+jumping mechanism work?
+Well, the main structure consists
+of four pieces of carbon fiber,
+bound together by elastic bands.
+Together, they create a spring
+that stores all the energy
+needed for the jump.
+At the top of the robot is a small motor.
+A string wrapped around the axle
+is connected to the bottom of the robot.
+So when the motor is turned on,
+it winds up the string,
+compressing the robot,
+and this stores energy in the
+carbon fiber and rubber bands.
+After about a minute and a half,
+the structure reaches maximum compression.
+How do you know when to put it down?
+- Basically once the bottom there
+sticks inward and it can stand up,
+right now it would roll over,
+then you can put it down.
+- Got it.
+- So as soon as you can.
+- [Derek] And at this point,
+a trigger releases the latch
+that's holding the string on the axle.
+So all the string unspools all at once,
+and the energy stored in
+the spring is released.
+- Yeah.
+- [Derek] The jumper
+goes from a standstill
+to over a hundred kilometers an hour
+in only nine milliseconds.
+That gives an acceleration of over 300 Gs.
+That would be enough to kill
+basically any living creature.
+- Watch out, watch out, watch out.
+- But how does it jump
+so much higher than everything else,
+nearly 10 times higher than
+the previous record holder?
+Well, this jumper has three
+special design features.
+First, the jumper is incredibly
+light, at just 30 grams.
+It achieves this weight by employing
+a tiny motor and battery.
+Plus, its entire structure,
+made of lightweight
+carbon fiber and rubber,
+doubles as the spring.
+Per unit mass, natural latex
+rubber can store more energy
+than nearly any other elastic material,
+7,000 joules per kilogram.
+And the design of the spring
+makes it ideal for its purpose.
+Initially they tried
+using only rubber bands
+connected to hinged aluminum rods.
+But with this design, when compressing it,
+the force rises to a
+peak and then decreases.
+Just feels like it all of a sudden
+got a lot easier to pull.
+Another design with
+only carbon fiber slats
+requires a lot of force to get started,
+and then it increases linearly after that.
+There is more and more
+force required to do this.
+The ultimate design is a
+hybrid of these two approaches.
+The benefit being, its
+force profile is almost flat
+over the entire range of compression.
+It feels like that needs a lot of force.
+And now it feels pretty steady
+with the amount of force
+that I need to apply.
+Therefore, it provides
+double the energy storage
+of a typical spring,
+where force is proportional
+to displacement.
+The researchers argue
+this is the most efficient
+spring ever made.
+- Sometimes a string'll snap.
+It's not always consistent
+that it releases when it's supposed to.
+- Oof!
+- The string cut it. Lemme go restring it.
+I'll be right back.
+- [Derek] All right.
+You'd probably expect that lighter
+would always be better with a jumper,
+especially if the added
+weight is simply dead weight
+rather than anything useful,
+like a spring or a motor.
+- So we're adding basically a
+chunk of steel to our jumper
+and it's gonna jump higher,
+and the key is that we're
+adding it to the top.
+You want your body,
+the part that's moving,
+to weigh at least as much as the foot.
+When your body's lighter,
+it's basically just collision,
+this energy transfer is very inefficient
+and you don't jump very high.
+- But the real secret to how this jumper
+can achieve such heights
+is through something
+the researchers call work multiplication.
+Unlike an animal, which can only jump
+using a single stroke of its muscle,
+an engineered jumper
+can store up the energy
+from many strokes,
+or in this case, many
+revolutions of its motor,
+and that's how the motor can be so small.
+It doesn't have to deliver
+the energy all at once.
+It builds it up gradually
+over a few minutes.
+So the trade-off is kind
+of like time for energy.
+- [Elliot] Exactly.
+- [Derek] And this is possible
+because there is a latch under tension
+preventing the spring from unspooling
+until the robot is fully compressed.
+Interestingly, biological
+organisms do use latches.
+For example, the sand flea,
+which can jump incredibly
+high for its body size.
+- It has a muscle that is
+attached, let's say, right here,
+is right inside of the pivot point.
+So as it contracts that muscle,
+the leg doesn't extend, right?
+It's actually closing it more.
+But then it has a second
+muscle that pulls it out.
+It's going to shift this muscle
+ever so slightly outside the pivot point.
+- That's wild.
+So there's these two
+muscles that are working.
+- So here's your big power muscle.
+Here's your trigger muscle.
+It's a torque reversal mechanism.
+And then all of a sudden, it shoots.
+- [Derek] But even though the
+biological world has latches,
+no organism has developed
+work multiplication
+for a jump from standstill,
+at least not internally.
+Spider monkeys have been observed
+pulling back a branch hand over hand
+using multiple muscle strokes
+stored in the bend of the branch
+to catapult themselves forward.
+There's a spider that
+shoots out a silky string,
+which they pull back multiple times
+in order to slingshot
+themselves to another location.
+So it's like slingshotting itself?
+- Yes, they're called
+the slingshot spider.
+- Now, I tried jumping in moon boots
+to see if they would help me go higher.
+(remarks drowned out by background noise)
+Okay. Oof.
+And it certainly felt like they did,
+but Elliot pointed out
+that from a standing start,
+they don't actually help much.
+- Kind of build it, build
+it, build it, and then go.
+- Okay.
+Only if you jump a few times
+before can you store up
+some of the previous jumps
+energy in the elastic bands,
+and then that energy helps launch you
+higher on the following jump.
+For years, engineered
+jumping was developed
+to mimic biological jumping.
+But with work multiplication,
+it gained an advantage.
+If you can generate a
+large burst of energy
+simply by running a motor for a long time,
+the power of the motor is no
+longer the limiting factor,
+the spring is.
+So you can focus on making
+the most powerful spring possible.
+This jumper has nearly maximized
+the achievable height with this spring.
+Assuming an infinitely light motor
+with infinite time to wind up,
+the highest possible jump
+with this compression spring
+is only around 19% higher
+than what they've achieved.
+If you want to incorporate air resistance
+and play with aerodynamics,
+another way to send the jumper higher
+is to make it 10 times
+isometrically larger,
+leading to a 15 to 20% higher jump.
+- So we're in kind of
+an intermediate scale
+where we still are
+getting hit by air drag,
+but it's not as bad as the flea.
+If we went 10 times bigger,
+we could actually avoid
+air drag completely.
+- This works since if
+the jumper is scaled up
+10 times on all sides,
+the cross-sectional area
+increases by a hundred,
+which increases the drag force,
+but the jumper's mass
+increases by a thousand.
+So it has way more inertia,
+meaning the drag force affects it less.
+The entire concept of work multiplication
+could bring robots to the next level.
+Currently, motors and robots
+have to be relatively small
+so they remain portable.
+But the simple principle
+of building up the energy
+from multiple turns of a motor over time
+would allow robots to
+store and then release
+huge amounts of energy,
+and set some world records in the process.
+When we visited you, we
+were looking at 110 feet
+and it was the record holder.
+My question, is that still
+the record as far as you know?
+- It is.
+I also challenge all
+the viewers to beat it,
+because it is beatable.
+So I hope someone in the
+next few years will beat it,
+and if not, we'll beat our own record,
+because it's beatable.
+I will say that much.
+- Are there more happening
+with the jumping robots?
+- We have a whole nother
+project on jumping,
+which we also think will beat it,
+and it doesn't even use spring.
+So I won't give away our secrets yet.
+But keep an eye out for that one too,
+'cause that's gonna be fun.
+- So you have another jumping robot,
+which has a totally novel design?
+- Yep.
+- And you think it's gonna be better
+than the one that you had before?
+- Correct.
+- Wow, that's extreme.
+And in terms of making
+these things applicable?
+- Yeah, so I mean, we do
+have a project with NASA.
+I will say, our stuff with
+NASA moves pretty slow,
+just in terms of what
+they really care about
+is getting something
+really, really reliable.
+If they're gonna send it to
+the moon, it can't mess up.
+And so, that's a slow going process.
+But I just think that's still a goal,
+is to get it to the moon.
+- It would be like the next
+Mars helicopter or something.
+- I think that's a really good analogy.
+So the Mars helicopter has
+just been doing awesome,
+basically being this little scout
+that can just go out
+and get some nice views
+of where the rover might need to go,
+or maybe getting some samples.
+You can't have a helicopter
+on the moon, but you can jump.
+And we think we can get
+pretty similar performance
+in terms of height and stuff like that
+with jumping on the moon
+compared to the helicopter.
+So yeah, no, that's a great analogy.
+- Are there any interesting emails
+that came about from
+the jumping robot video?
+- So a lot of people want to make one,
+and I will say, it's really hard,
+and I keep writing that it's really hard.
+Every piece in that robot was...
+They talk about safety
+factors in engineering
+where you're supposed to
+have a good safety factor,
+and we had no safety factors in anything.
+And so, pretty much everything
+was near its failure limit.
+And so, that just made it incredibly hard.
+But what we're trying
+to do actually right now
+is put together a tutorial to make like a,
+you know, it's not gonna
+jump a hundred feet,
+but it'll jump maybe 20 or 30 feet.
+Stay tuned for that,
+'cause I think that would
+be a fun way to get people
+to build one themselves and try it out.
+I will say though that if
+you really push the limits,
+what we're trying to do,
+wear your safety glasses and
+your gloves, and all of that.
+Because the number of
+shards of carbon fiber
+I've gotten into my fingers.
+- Oh, no. Brutal.
+What is the biggest thing you learned
+building the jumping robot?
+- How many things can go wrong
+when you're trying to build
+something really cool.
+'Cause this was years
+and years of failing,
+over and over, and over and over again.
+So I think something that sticks out to me
+is that it takes a lot of failure
+to get a success like that.
+- Would anyone ever say to you,
+well, why did it take that many years?
+Could you not have
+modeled out the springs,
+like done some simulations of it
+before you actually build the thing?
+- Well, no, and I should mention too
+that it's not like we didn't
+do any modeling or simulation.
+That's all part of our cycle too.
+But the problem is, I mean, we
+didn't even know what shape.
+We went through so many different
+configurations of robots.
+Like some were kind of this ball shape,
+but we had other robots
+that were more stick like,
+rubber band based.
+It's like this crazy
+search over a huge space,
+and comparing all kinds
+of different trade offs.
+I think that's a reasonable amount of time
+to make a world record,
+but that's just me.
+- The jumper robot can jump so high
+precisely because it's built
+of rubber and carbon fiber,
+with a tiny body and massive legs.
+Its whole body is designed
+for one physical purpose.
+The specialization of robots
+is also natural in academic research,
+since it's easier for
+scientists to isolate
+and understand one ability.
+These may later be included
+into a single more complex robot.
+People expect sort of the Boston Dynamics,
+humanoid type robots.
+Why have you investigated
+these sort of other
+very strange looking type robots?
+- The thing that maybe
+unifies all of them is,
+they're mostly about
+mechanical design, my robots,
+and less so about controls, and vision,
+and AI, and that side.
+And so, often we think of what we do
+are kind of adjacent to core robots.
+But our lab isn't as focused
+on traditional robotics
+just because I find more joy
+myself in mechanical design.
+So that's what I like to do.
+- Do you have a personal favorite robot?
+- I can't play favorites with my robots.
+- I know, it's like picking
+amongst your children.
+Like it's just impossible.
+- I love all my robots.
+I love all my robots.
+I will say though that the
+jumper, there was a certain,
+it took a lot of learning
+from our failures
+and revising it.
+And so, when we finally
+got that one working,
+I think that was really satisfying.
+- From your perspective,
+how did our collaboration
+come to be in the first place?
+- Oh, wow.
+Okay. That's a fun story.
+So you sent me an email, I
+don't know how many years ago,
+maybe five years ago, something
+like this, and I ignored it.
+And I went into lab one day, I
+just mentioned to my student,
+I was like, oh, some guy
+emailed about making a video.
+And he is like, "Yeah, who was it?
+Maybe I could help out or something."
+So I forwarded it to him, he's like,
+"Do you know who this is?"
+So then we responded.
+And we appreciated the effort you put in
+to the details in getting the story right.
+I forget how long we had this call.
+I had this call with Emily,
+it was maybe four hours or something.
+We went through the
+details of jumping theory.
+'Cause she wanna get everything just right
+for that jumping video.
+As an academic, we care about that stuff
+and we want it to be right.
+- But the most specialized perfected match
+between a robot's build in its abilities
+comes from one competition
+that's been refining this
+for nearly 50 years.
+Micromouse is the oldest robotics
+competition in the world.
+It's like the Formula 1 of robotics,
+but you have to see their
+speed to believe it.
+This tiny robot mouse can finish this maze
+in just six seconds.
+(rousing music)
+Every year around the world,
+people compete in the
+oldest robotics race.
+The goal is simple:
+get to the end of the
+maze as fast as possible.
+- Person who came second
+(spectators cheering)
+lost by 20 milliseconds.
+- [Derek] But competition
+has grown fierce.
+- When somebody saw my design,
+they said, you're crazy.
+- [Derek] Why is there so much tension?
+What's riding on it?
+Honor?
+- Honor.
+(spectators applauding)
+- [Derek] In 1952,
+mathematician Claude Shannon
+constructed an electronic
+mouse named Theseus
+that could solve a maze.
+The trick to making the mouse intelligent
+was hidden in a computer
+built into the maze itself,
+made of telephone relay switches.
+The mouse was just a magnet
+on wheels essentially,
+following an electromagnet
+controlled by the position
+of the relay switches.
+- [Claude] He is now exploring the maze
+using a rather involved
+strategy of trial and error.
+As he finds the correct path,
+he registers the
+information in his memory.
+Later, I can put him down
+in any part of the maze
+that he's already explored
+and he'll be able to
+go directly to the goal
+without making a single false turn.
+- Theseus is often referred to
+as one of the first examples
+of machine learning.
+A director at Google recently said
+that it inspired the whole field of AI.
+25 years later, editors at
+the Institute of Electrical
+and Electronics Engineers, or IEEE,
+caught wind of a contest
+for electronic mice,
+or le mouse electronique,
+as they had heard.
+They were ecstatic.
+Were these the successors Theseus?
+But something had been
+lost in translation.
+These mice were just batteries in cases,
+not robots capable of
+intelligent behavior.
+But the misunderstanding stuck
+with them, and they wondered,
+why couldn't we hold that
+competition ourselves?
+In 1977, the announcement for IEEE's
+amazing Micromouse Maze Contest
+attracted over 6,000 entrants.
+But the number of successful
+competitors dwindled rapidly.
+Eventually, just 15 entrants
+reached the finals in 1979.
+But by this point, the
+contest had garnered
+enough public interest to be broadcast
+nationwide on the evening news.
+And just like the rumor that
+inspired the competition,
+Micromouse began to
+spread across the world.
+♪ Micromouse for the taking ♪
+♪ Micromouse, it's here and now ♪
+♪ Take a chance and start creating ♪
+- The Micromouse.
+- [All] Micromouse!
+(upbeat music)
+- Even people in the top two or three,
+you can see them trying
+to set their mice up,
+and they can barely find
+the buttons to press
+because it's absolutely nerve wracking.
+(suspenseful music)
+It doesn't matter what it was.
+It could be horse racing,
+it could be motor racing,
+it could be mouse racing.
+If you have a shred of
+competitiveness in you,
+you wanna win, right?
+- [Derek] Just like a real mouse,
+a micromouse has to be fully autonomous,
+no internet connection,
+no GPS or remote control,
+and no nudging it to help it get unstuck.
+It has to fit all its computing, motors,
+sensors, and power supply
+in a frame no longer or
+wider than 25 centimeters.
+There isn't a limit on
+the height of the mouse,
+but the rules don't
+allow climbing, flight,
+or any forms of combustion.
+So rocket propulsion for
+example, is out of the equation.
+(whistle being blown)
+The maze itself is a square
+about three meters on each side,
+subdivided by walls
+into corridors only 18 centimeters across.
+And in 2009,
+the half-size Micromouse
+category was introduced,
+with mice smaller than 12 and
+a half centimeters per side,
+and paths just nine centimeters across.
+The final layout of the
+maze is only revealed
+at the start of each competition,
+after which competitors are not allowed
+to change the code in their mice.
+(spectators applauding)
+The big three competitions,
+all Japan, Taiwan,
+and USA's APEC, usually limit
+the time mice get in the maze
+to seven or 10 minutes,
+and mice are only allowed five runs
+from the start to the goal.
+- So if you spend a lot of time
+searching, that's a penalty.
+- Makes sense.
+So the strategy for most micromice
+is to spend their first run
+carefully learning the maze
+and looking for the best path to the goal,
+while not wasting too much time.
+Then they use their remaining tries
+to sprint down that path for
+the fastest runtime possible.
+(spectators applauding)
+Solving a maze may sound simple enough,
+though it's important to remember
+that with only a few
+infrared sensors for eyes,
+the view from inside the
+maze is a lot less clear
+than what we see from above.
+Still, you can solve a
+maze with your eyes closed.
+If you just put one hand along one wall,
+you will eventually reach
+the end of most common mazes,
+and that's exactly what some initial
+Micromouse competitors realized too.
+And after a simple wall following mouse
+took home gold in the first finals,
+the goal of the maze was
+moved away from the edges
+and freestanding walls were added,
+which would leave a simple
+wall following mouse
+searching forever.
+Your next instinct might
+be to run through the maze
+taking note of every fork in the road.
+Whenever you reach a dead end or a loop,
+you can go back to the last intersection
+and try a different path.
+If your last left turn got you nowhere,
+you'd come back to that
+intersection and go right instead.
+You can think of this strategy
+as the one a headstrong mouse might use,
+running as deep into the maze as it can
+and turning back only when
+it can't go any further.
+This search strategy, known
+as depth-first search,
+will eventually get the mouse to the goal.
+The problem is, it might
+not be the shortest route,
+because the mouse only
+turns back when it needs to,
+so it may have missed a
+shortcut that it never tried.
+The sibling to this search
+algorithm, breath-first search,
+would find the shortest path.
+With this strategy, the
+mouse runs down one branch
+of an intersection until
+it reaches the next one,
+and then it goes back to
+check the path it skipped
+before moving on to the
+next layer of intersections.
+So the mouse checks
+every option it reaches,
+but all that backtracking
+means that it's rerunning
+paths dozens of times.
+At this point, even
+searching the whole maze
+often takes less time.
+So why not just do that?
+A meticulous mouse could search
+all 256 cells of the maze,
+testing every turn and corner
+to ensure it has definitely
+found the shortest path.
+But searching so thoroughly
+isn't necessary either.
+Instead, the most popular
+Micromouse strategy
+is different from all of these techniques.
+It's a search algorithm
+known as flood-fill.
+This mouse's plan is to
+make optimistic journeys
+through the maze, so optimistic in fact,
+that on their first journey
+their map of the maze
+doesn't have any walls at all.
+They simply draw the shortest
+path to the goal and go.
+When their optimistic plan
+inevitably hits a wall
+that wasn't on their map,
+they simply mark it down
+and update their new
+shortest path to the goal.
+Running, updating,
+running, updating,
+always bee lining for the goal.
+Under the hood of the algorithm,
+what the micromouse is
+marking on their map
+is the distance from every
+square in the maze to the goal.
+To travel optimistically,
+the mouse follows the trail
+of decreasing numbers down to zero.
+Whenever they hit a wall,
+they update the numbers on their map
+to reflect the new shortest
+distance to the goal.
+This strategy of following
+the numerical path
+of lease resistance gives the
+flood-fill algorithm its name.
+The process resembles
+flooding the maze with water
+and updating values based on the flow.
+Once the mouse reaches the goal,
+it can smooth out the path it took
+and get a solution to the maze.
+However, it may look back and imagine
+an even shorter uncharted
+path it could've taken.
+The mouse might not be satisfied
+that it's found the
+shortest path just yet.
+While this algorithm isn't guaranteed
+to find the best path on first pass,
+it takes advantage of
+the fact that micromice
+need to return to the start
+to begin their next run.
+So if the mouse treats its
+return as a new journey,
+it can use the return trip
+to search the maze as well.
+Between these two attempts, both optimized
+to find the shortest path
+from start to finish,
+it's extremely likely that
+the mouse will discover it,
+and the mouse will have
+done it efficiently,
+often leaving irrelevant areas of the maze
+entirely untouched.
+Flood-fill offers both an
+intelligent and practical way
+for micromice to find the
+shortest path through the maze.
+Once there was a clear strategy
+to find the shortest path,
+and once the microcontrollers
+and sensors required to
+implement it became common,
+some people believed
+Micromouse had run its course.
+As a paper published in IEEE put it,
+"At the end of the 1980s,
+the Micromouse Contest
+had outlived itself.
+The problem was solved
+and did not provide any new challenges."
+In the 2017 all-Japan
+Micromouse competition,
+both the bronze and silver placing mice
+found the shortest path to the goal.
+And once they did, they
+were able to zip along it
+as quick as 7.4 seconds.
+(spectators applauding)
+But Masakazu Utsunomiya's
+winning mouse, Red Comet,
+did something entirely different.
+This is the shortest path to the goal,
+the one that everyone took.
+This is the path that Red Comet took.
+It's a full five and a half meters longer.
+That's because micromice aren't actually
+searching for the shortest path,
+they're searching for the fastest path,
+and Red Comet's search
+algorithm figured out
+that this path had fewer
+turns to slow it down.
+So even though the path was longer,
+it could end up being faster.
+So it took that risk.
+(spectators applauding)
+It won by 131 milliseconds.
+Differing routes at competition
+are now more common than not,
+and even just getting to
+the goal remains difficult,
+whether due to a mysterious algorithm
+or a quirk of the physical maze.
+- [Announcer] On the corner,
+it's a little bit like a, whoa.
+- [Derek] Micromice don't
+always behave as you'd expect.
+Micromouse is far from solved,
+because it's not just a software problem
+or a hardware problem, it's
+both, it's a robotics problem.
+Red Comet didn't win
+because it had a better search algorithm,
+or because it had faster motors.
+It's cleverness came from how the brains
+and body of the mouse interacted together.
+- So it turns out solving
+the maze is not the problem,
+it never was the problem, right?
+But it's actually about navigation,
+and it's about going fast.
+- Every year, the robots get
+smaller, faster, lighter.
+There is still plenty of innovation left.
+And there's a small group
+of devotees in Japan
+busy building quarter-sized micromouse,
+which would sit on a quarter
+- [Derek] Nearly 50 years on,
+Micromouse is bigger than ever.
+(spectators applauding)
+Competitions have appeared
+solved at first glance before.
+The high jump was an
+Olympic sport since 1896,
+with competitors refining their jumps
+using variations like the
+scissor, the western roll,
+and the straddle over the
+decades with diminishing returns.
+But once foam padding became
+standard in competition,
+Dick Fosbury rewrote the sport in 1968
+by becoming the first Olympian
+to jump over the pole backwards.
+Now almost every high jumper
+does what's known as the Fosbury Flop.
+If Micromouse had indeed
+stopped in the 1980s,
+the competition would've
+missed its own Fosbury flops,
+two innovations that completely
+changed how micromice ran.
+After all, a lot can change in a sport
+where competitors can solder on
+any upgrade they can imagine.
+The first Fosbury flop
+was one of the earliest
+innovations in Micromouse,
+and had nothing to do with technology.
+It was simply a way of
+thinking outside the box,
+or rather, cutting through the box.
+Every mouse used to
+turn corners like this.
+But everything changed
+with the mouse, Mitee 3.
+- The Mitee mouse three
+implemented diagonals for the first time.
+(spectators cheering)
+And that turned out to
+be a much better idea
+than we really thought.
+And because it's cool, maze designers
+often put diagonals into the maze now.
+So, you know, you could end
+up with a maze where it never
+comes up, but most of the
+time, it's actually a benefit.
+- [Derek] In order to pull off diagonals,
+the chassis of the mouse had to be reduced
+to less than 11 centimeters wide,
+or just five centimeters
+for half-size Micromouse.
+The sensors and software of
+the mouse had to change too.
+When you're running
+between parallel walls,
+all you have to do is
+maintain an equal distance
+between your left and
+right infrared readings.
+But a diagonal requires
+an entirely new algorithm,
+one that essentially guides the mouse
+as if it had blinders on.
+- Normally if you're going
+along the side of a wall
+or something like that,
+most of the time, you can
+see the wall all the time.
+And so, that helps you to guide yourself,
+and you know when you're getting off.
+But in the diagonal situation,
+you just see these walls coming at you.
+- [Derek] And if you veer
+even a tiny bit off course,
+snagging a corner is a lot less forgiving
+than sliding against a wall.
+Diagonals are still one of
+the biggest sources of crashes
+in competition today.
+But in exchange, a jagged path of turns
+transforms into one narrow straightaway.
+- Whoa, whoa!
+(spectators applauding)
+(spectators applauding)
+(spectators cheering)
+- [Derek] These days, nearly
+every competitive micromouse
+is designed to take this risk.
+Cutting diagonals opened up
+room for even more ideas.
+Around the same time,
+mice were applying similar
+strategies to turning.
+Instead of stopping and pivoting
+through two right turns,
+a mouse could sweep around
+in a single U-turn motion.
+And once the possibility
+of diagonals were added,
+the total number of possible
+turns opened up exponentially.
+The maze was no longer just
+a grid of square hallways.
+With so many more options to weigh,
+figuring out the best path
+became more complex than ever.
+But the payoff was dramatic.
+What was once a series of stops and starts
+could now be a single
+fluid snaking motion.
+How micromice imagined
+and moved through the maze
+had changed completely.
+(spectators applauding)
+Available technology was getting upgrades
+over the years as well.
+Tall and unwieldy arms that
+were used to find walls
+were replaced by a smaller array
+of infrared sensors onboard the mouse.
+Precise stepper motors were traded in
+for continuous DC motors and encoders.
+- The DC motors give you more power
+for less size and weight.
+And so, we were interested in doing that.
+So then you have to have a servo,
+you have to actually have
+feedback on the motor
+to make it do the right thing.
+- [Derek] Gyroscopes added an
+extra sense of orientation.
+It's like a compass.
+- Absolutely.
+- You had this thing with you.
+- They came about 'cause
+of mobile phones, really.
+So the technology provides people
+with things which weren't there before.
+All of the turning is
+done based off the gyro,
+rather than counting
+pulses off the wheels,
+'cause it's much more reliable.
+- [Derek] But even with all
+the mechanical upgrades,
+the biggest physical issue for micromice
+went unaddressed for decades.
+One thing you'll see almost
+every competitor holding
+is a roll of tape.
+Once you know to look for
+it, you'll see it everywhere.
+This tape isn't for repairs
+or reattaching fallen parts.
+It's to gather specks
+of dust off the wheels
+in between rounds.
+At the speed and precision
+these robots are operating,
+that tiny change in friction
+is enough to ruin a run.
+If you wanna turn while driving fast,
+you need centripetal force to
+accelerate you into the turn.
+And the faster you're moving,
+the more force you need
+to keep you on the track.
+The only centripetal force for
+a car turning on flat ground
+is friction, which is
+determined by two things,
+the road pushing up the weight of the car,
+or the normal force,
+multiplied by the static
+coefficient of friction,
+which is the friction of the interface
+between the tire and road surface.
+This is why racetracks have banked turns.
+The steep angles help cars
+turn with less friction,
+because part of the normal
+force itself now points in
+to contribute to the
+centripetal force required.
+If the bank turn is steep enough,
+cars can actually make the turn
+without any friction at all.
+The inward component of
+the normal force alone
+is enough to provide the centripetal force
+required to stay on track.
+Micromice are no different,
+and they don't have banked turns to help.
+As they got faster and
+faster, by the early 2000s,
+their limiting factor was no longer speed,
+but control of that speed.
+They had to set their
+center of gravity low
+and slow down during turns
+to avoid slipping into
+a wall or flipping over.
+But unlike race cars, there
+wasn't anything in the rules
+to stop Micromouse competitors
+from solving this problem
+by engineering an entirely new mechanism.
+Micromouse's second Fosbury flop
+was almost considered a gimmick
+when the mouse Mokomo08
+first used it in competition.
+You might be staring at
+the video to try to see it,
+but you won't.
+Instead, it's something you'll hear.
+That isn't the mouse revving its engines.
+It's spinning up a propeller.
+And while flying over the
+walls is against the rules,
+there's nothing in the
+rules against a mouse
+vacuuming itself to the
+ground to prevent slipping.
+- Dave Otten was the first person
+I saw put a fan on a mouse,
+but he used a ducted fan,
+and I think he was really looking
+at kind of reaction force,
+blowing the thing down.
+He had a skirt around, but it
+was not terribly effective.
+He'll forgive for saying so.
+The idea is to let as
+little air in as possible.
+And like your vacuum cleaner,
+when you block your vacuum cleaner,
+the motor unloads and speeds
+up, and so the current drops.
+But if you let too much air
+in, the current's very high.
+And these are just quadcopter motors,
+and they draw a lot of current.
+- [Derek] At the scale of Micromouse,
+a vacuum fan, often just built
+from handheld drone parts,
+is enough to generate a downward force
+five times the mouse's weight.
+Wow, okay. That's impressive.
+So how much does the car actually weigh?
+- About 130 grams.
+And if you listen,
+I dunno if you'll get it
+on your microphone, but.
+- Oh, yeah.
+- You hear the motors
+slow down, loads up.
+- [Derek] With that much friction,
+micromice today can turn corners
+with a centripetal
+acceleration approaching 6 Gs.
+That's the same as F1 cars.
+Once nearly everyone equipped fans,
+the added control allowed builders
+to push the speed limit on micromice.
+- When it's allowed to,
+it will out accelerate a Tesla Roadster,
+but not for very far.
+- [Derek] And they can zip along
+at up to seven meters per second,
+faster than most people can run.
+(spectators applauding)
+(spectators cheering)
+(spectators applauding)
+Every one of the features now standard
+on the modern micromouse
+was once an experiment,
+and the next Fosbury flop
+might not be far off.
+The first four-wheeled micromouse
+to win the all-Japan
+competition did so in 1988,
+but it would take another 22 years
+of the winning mouse growing
+and losing appendages
+before four wheeled mice became the norm.
+With micromice still experimenting
+in six and eight wheeled designs,
+omnidirectional movement,
+and even computer vision,
+who knows what the next
+paradigm shift will be.
+- [Announcer] Your time on
+the maze actually begins
+only when you leave the start square.
+So he's not penalized
+for any of this time.
+- But if you wanna get
+started with Micromouse,
+you don't need to worry about wheel count,
+or vacuum fans, or even diagonals.
+- It is to my mind,
+the perfect combination
+of all the major disciplines
+that you need for robotics,
+and engineering, and
+programming, embedded systems,
+all wrapped up in one accessible bundle
+that you can do in your living room,
+and you don't need a laboratory to run it.
+You come along because you're curious.
+And then you think, I could do that,
+that doesn't look so hard.
+And then you're doomed, really.
+If it sucks you in, it turns
+into quite the journey.
+(spectators cheering)
+(spectators applauding)
+- At its core, Micromouse
+is just about a mouse
+trying to solve a maze.
+Though nearly 50 years later,
+it's a simple problem
+that's a good reminder,
+there is no such thing
+as a simple problem.
+♪ Micromouse for the taking ♪
+♪ Micromouse, it's here and now ♪
+♪ Take a chance, start creating ♪
+♪ Micromouse will show you how ♪
+- A humanoid robot
+built for all the same tasks a human does
+sacrifices specialization in any one skill
+in order to be a generalist.
+But if it does all tasks semi well
+and these tasks are what
+humans are already doing,
+well, then those robots are
+just overlapping with us,
+copying our capacities
+rather than expanding them.
+So robots are perhaps
+likely to enter our lives
+not as multipurpose humanoids,
+but rather as precise tools
+we can pick and choose.
+Instead of one Swiss army knife robot,
+you'd end up with something
+like a personalized toolbox
+of specialized robots.
+Big futuristic questions
+like how to bring robots
+into our daily lives
+requires all sorts of
+practical and creative skills.
+But perhaps the most important one
+is actually something
+that anyone can build,
+problem solving.
+If you wanna hone your own
+ability to problem solve,
+you can get started on
+that right now, for free,
+with today's sponsor, Brilliant.
+Brilliant will make you a
+better critical thinker,
+while helping you build real skills
+in everything from
+technology and programming
+to math, data science,
+and whatever you're curious about.
+On Brilliant, you'll
+learn through discovery
+by trying things yourself.
+And you'll not only gain
+knowledge of key concepts,
+but learn to apply them
+to real world situations,
+all while building your intuition.
+This gives you the tools
+to solve whatever problems come your way.
+You know, we've been partnering
+with Brilliant for years,
+and I still find new things
+to learn all the time,
+like this course on how to maximize
+the value of an electric car.
+Brilliant has thousands
+of interactive lessons,
+and because each one is bite-sized,
+you can do it in just minutes.
+So no matter where you are,
+you can always be building
+a quicker, sharper mind
+right on your phone.
+To try everything Brilliant has to offer
+for free for 30 days, visit
+brilliant.org/veritasium,
+or you can scan this QR code,
+or click that link down
+in the description.
+You'll also get 20% off an
+annual premium subscription.
+So I wanna thank Brilliant
+for sponsoring this part of the video,
+and now, dive into a surprising trait
+we're starting to build into robots.
+Elliot's vine robot and jumping robot
+are just two cases where the robots
+that might save our lives
+or explore new planets
+don't look much like
+traditional robots at all.
+But soft robots in particular
+are an entire field of study.
+So why are so many
+researchers trying to build
+the robots of the future
+with soft materials?
+For one, trading out
+fragmented metal frames
+for single flexible bodies
+might be how we make robots
+more reliable and precise.
+These bendy gear boards are so predictable
+that they were commissioned
+by the US government
+to secure nuclear weapons,
+ensuring that no random motions
+could accidentally set them off.
+But predictability is
+just one of eight reasons
+that machines that bend are better.
+What do this satellite
+thruster, plastic tool,
+and micro mechanical
+switch have in common?
+Well, they all contain
+components that bend,
+so-called compliant mechanisms.
+- So it's always been considered to be bad
+to have flexibility in your machines.
+Well, we've tried to take that
+thing that everybody hates
+and is trying to avoid and say,
+how can we use flexibility
+to our advantage,
+how can we use that to do cool stuff?
+- [Derek] Now, Professor
+Howell literally wrote the book
+on compliant mechanisms.
+- That's the most cited book in--
+- [Derek] But he's pretty
+nonchalant about his work.
+Just watch how he introduces
+this mechanism he developed
+to prevent nuclear weapons
+from going off accidentally.
+- Actually the safing and
+arming of nuclear weapons.
+- [Derek] What?
+- And so, yeah, if you want.
+- [Derek] Hang on, hang on.
+Hang on, hang on.
+What in nuclear weapons?
+- Safing and arming.
+- Safing and arming.
+- Yeah.
+So if there's anything in the world
+that you want to be safe,
+that is not going to accidentally go off.
+- I feel like this is, it
+doesn't even need saying.
+But yes, nuclear weapons,
+obviously you don't want them to go off.
+Well, I don't understand how this
+is gonna keep nuclear weapons safe.
+Now, I wanna come back to this device
+and explain how it works.
+Once we understand why
+compliant mechanisms
+are best suited to this task.
+That's cool.
+So let's start with something basic.
+- Probably the first compliant
+mechanism I ever designed
+was this thing.
+What it is, is a compliant
+mechanism that is a gripper.
+So you can put something in there
+and it'll get actually
+a really high force.
+I can put that in there
+and it breaks the chalk.
+- [Derek] What if you
+put your finger in there
+and squeeze it?
+- You would scream in pain.
+Would you like to try?
+- I would.
+- Okay.
+- [Derek] Like I would actually
+like to feel the force.
+- Okay.
+You need to squeeze it yourself though.
+- Really?
+- Well, all right, I'll squeeze
+'til you scream in pain.
+- But like don't, don't, don't.
+(Derek screaming in pain)
+That very quickly got incredibly painful.
+It felt like having my
+finger like in a vice.
+- That looks suspiciously like vice grips,
+but now with these flexible
+components where the hinges are.
+- Hmm.
+What I learned in my visit
+with Professor Howell
+is that compliant mechanisms
+have a number of advantages
+over traditional mechanisms.
+But I thought he needed kind of a clever,
+pithy way to remember
+all of these advantages.
+So I came up with the eight
+P's of compliant mechanisms,
+and the first of those is part count.
+Compliant mechanisms
+have reduced part count,
+because they have these bendy parts
+instead of having things like hinges,
+and bearings, and separate springs.
+This gripper is just a
+single piece of plastic,
+but achieves a similar result
+to the much more complicated vice grips.
+Like how much does it amplify the force?
+- This will get about 30 to 1.
+So I could get, for 1 pound
+force in, get 30 pounds out.
+- [Derek] That's pretty good.
+It seems like that would be super cheap.
+- And really inexpensive.
+So this we just made here in our shop,
+but you can imagine also
+injection molding now.
+- [Derek] That would cost like cents.
+- Yep, this would cost cents.
+The other thing is, because of its shape,
+you could extrude it and
+then just chop 'em off.
+- Hmm.
+- And that would be cool.
+- So the simple allows different
+production processes to be
+used, which lowers the price.
+These switches, for example,
+achieve in one piece of plastic
+what is normally done
+with springs, hinges,
+and many rigid plastic pieces.
+- Also a good fidget device.
+- How long can these last?
+- We've had these in our
+fatigue testing machine,
+and we've been able to go
+over a million cycles without failure.
+- What do we got there?
+- All right, Derek, I've got a quiz.
+- Uh-oh.
+- A quiz for you, okay?
+- Elephant.
+- Very good.
+Okay, I'm gonna push on the
+elephant's rump, this direction.
+I'm gonna hold this.
+So that little dot right there,
+is that dot, when I push on it,
+is it gonna go left, right, up, or down?
+(Derek laughing)
+- I just, you know what,
+I wanted to guess without
+even thinking about it.
+- Yeah, please do.
+- I'm gonna say like up and in.
+- Okay. Up and in.
+- And I kind of feel like that
+because like that would be a logical way
+for an elephant to hold its trunk.
+But also because like if
+this is all going over,
+I feel like this is gonna
+kind of extend there
+and that's gonna get pushed up in there.
+- Ah, ah, good thinking.
+- Well, I don't know,
+is that good thinking?
+- Well, it's thinking at least.
+So this is designed so
+that when you push on that,
+it actually just rotates in
+space, it doesn't move at all.
+- I knew you were gonna pull some sort of
+trick question on me.
+- It's a trick question.
+- [Derek] Now, since I was fooled by it,
+I had to try it out on my
+friend, The Physics Girl.
+- That's so trippy.
+That is so cool.
+I don't understand, what?
+- It's modeled after the
+mechanisms you use in wind tunnels
+where you want to have, say,
+a model that's attached here,
+but then you move it
+and all you want to do
+is control, its its angle
+and not move it around in the wind tunnel.
+- Don't displace it, but be
+able to change the angle.
+Devices like this demonstrate
+that compliant mechanisms
+are capable of producing
+very precise motion,
+which I personally found
+pretty counterintuitive
+because these objects are
+made up of flexible parts.
+But maybe that shouldn't be surprising,
+because compliant mechanisms
+don't suffer from backlash, for one thing.
+So backlash occurs when you have a hinge,
+which is basically just a pin in a hole,
+and it's moving in one direction.
+And now, if at some point
+the motion reverses,
+it doesn't happen instantaneously
+because there's some give in the hinge.
+This also causes wear,
+and requires lubricant.
+And that is why compliant mechanisms
+have better performance than
+their traditional counterparts.
+- This one though is my favorite.
+- That is one of my favorites too.
+It's just so pleasing, right?
+- Oh, that sound is so satisfying.
+- This actually, believe
+it or not, was inspired
+when we were doing things
+at the microscopic level,
+where we were building
+compliant mechanisms on chips.
+We had to be able to make
+these compliant mechanisms
+out of silicon, which
+is as brittle as glass.
+And if you're trying to
+make something like this
+out of glass, it's crazy hard.
+But that also means, once
+we figured out the design,
+we could make it in a
+material even like PLA,
+which is also not the ideal
+compliant mechanism material.
+So you can get on our website
+and get the files to make this yourself.
+- [Derek] I'll put a
+link in the description.
+- Yeah, that also has a nice
+feel, and a nice snap to it.
+- It has a really nice snap.
+I like when it comes out, it's like gunk.
+Like there's something
+about that that's really,
+it's very pleasing.
+So these things actually move?
+- Oh yeah, yeah, yeah.
+- [Derek] I need to see this.
+- Okay, all right, we'll do it.
+- [Derek] Were those etched on there?
+- Yeah, those are etched.
+And so, just using the same processes
+used to make computer chips.
+- [Derek] So another advantage
+of compliant mechanisms
+is that they can be made
+with significantly smaller proportions,
+because they take advantage
+of production processes
+like photolithography.
+- [Larry] And we have motion that we want
+at the microscopic level.
+- That's brilliant.
+Plus, since they simplify design,
+compliant mechanisms
+are much more portable,
+meaning lightweight,
+which makes them perfect
+for space applications.
+- This here is something we did with NASA,
+making a hinge that could replace bearings
+for, say, deploying solar panels.
+This is titanium, 3D-printed titanium.
+But what's freaky about it is,
+you get that motion, which people expect,
+but here's a piece of
+titanium that can bend
+plus-minus 90 degrees,
+180 degree deflection.
+- [Derek] That is solid titanium?
+- That is one piece of
+titanium that is 3D printed.
+- [Derek] There's no alloy,
+nothing to make it flexible?
+- Yep, this is, yep.
+And even freakier than this
+is this guy right there.
+So that looks like a crazy beast,
+but every part in there has a purpose.
+All these flexible beams.
+Here are the two inputs.
+And again, we did this with
+NASA for a thruster application,
+where we can put a thruster right there,
+and now, with our two motor inputs,
+we can direct that
+thruster in any direction.
+That titanium device moves out,
+and you notice, it's just all bending.
+And then, there's no pinch
+points for the fuel lines,
+or electrical lines coming in.
+- Here, this single piece of titanium
+allows you to use one
+thruster in place of two.
+Okay, that is a clutch.
+- Okay.
+- So the idea is, if you
+spin it up really fast,
+because it's flexible,
+this outer part will actually
+start coming outwards.
+And then, if there's a drum around it,
+it'll contact with that
+drum and spin that thing.
+- Oh, so this like kind of,
+oh, that kind of comes out like so.
+- Then it gets spinning really fast,
+and then you essentially
+engage this outer drum.
+So this is like the way
+that a chainsaw would work,
+or something like that,
+because you get it spinning fast enough
+and then it engages the chain,
+and then it turns it over
+and then, yeah.
+- The centripetal force.
+Yeah. Wow, that's cool.
+- So here, this is made in
+plastic so that you can see it.
+But in reality, it's
+gotta be a lot stiffer.
+So here it is made in steel.
+- What?
+So hang on, you're saying that that thing,
+which is made of steel,
+- Yep.
+- you spin it up to a certain speed,
+and then it expands and engages
+a drum that's around it?
+- Yep, yep.
+So it'll idle with no motion,
+but then at a certain speed,
+what we designed it for,
+it'll speed up to that RPM.
+- You speed it up and it engage?
+- Yep.
+- I had no idea.
+Like I have learned something today.
+So let's come back to the
+safing and arming device
+for nuclear weapons.
+Its purpose is to ensure
+that no random vibrations,
+say, from an earthquake,
+inadvertently disable safeties
+and arm the nuclear weapon.
+Now, one of the requirements
+was that this device
+be made as small as possible.
+- They made those as small
+as they possibly could
+using traditional
+methods, even using things
+like what the Swiss watch
+manufacturers were using.
+- With compliant mechanisms,
+they produced a device out
+of hardened stainless steel
+where some components were
+the size of a human hair.
+This is high speed video.
+Here, the device is operating at 72 hertz,
+meaning this little hole
+makes two complete
+revolutions each second.
+The way it's meant to
+work is an arming laser
+shines on the rotor wheel,
+and when the proper input
+is given to the system,
+the wheel rotates a notch.
+If all the proper inputs are given,
+then the hole lines up with a laser beam
+and crazy things happen from there.
+So it is essential that
+this device's performance
+is perfectly predictable,
+even if it sits unused
+in a silo for decades.
+- So are these now being
+used on nuclear weapons?
+- You know, it turns
+out they don't tell us
+what they do with their nuclear weapons.
+And so, we designed
+them, we made prototypes,
+we tested them,
+and then it goes what
+they call behind the fence
+where it's all classified,
+and you know, we don't
+know what happens, so.
+- But these soft components by themselves
+aren't truly robots.
+It's only once you combine
+them with computers
+that you get robots which
+can autonomously form
+crazy shapes or new styles of movement,
+all because they bend.
+But how do they work,
+and why would you want a soft
+robot in the first place?
+So I came up to Stanford
+to meet Zach Hammond
+and his soft robot.
+- Hey, Derek.
+- How's it going?
+- [Derek] All right, you wanna tip it?
+So is the idea that the
+robot could walk this way?
+- Totally, yeah.
+So you can kinda chain
+these roles together
+to kind of roll around in any environment.
+They call this punctuated
+rolling locomotion,
+wherein it's kind of stuck on a face
+until it tips over, and
+now it's on a new face,
+and it can then continue to
+move its center of gravity.
+Once that center of gravity
+exits the support polygon
+or the base, then it tips over
+one of the edges of the face.
+- [Derek] This is a different soft robot
+made out of flexible tubing.
+It was designed to mimic
+the way a turtle walks,
+where diagonally opposite
+legs move together.
+It's powered entirely by compressed air,
+and perhaps most impressive,
+it requires no electronics.
+All of the circuitry is pneumatic.
+And this means the robot can
+be used in places like mines,
+where electronics could spark explosions,
+or in the strong magnetic
+fields around MRI machines.
+But why would you want a soft
+robot in the first place?
+- One of the things that I like to do
+is just to take the robot
+and kind of like beat it up a little bit,
+show how it's compliant and compressive.
+- [Derek] Well, because they're safer.
+- If you'd like to take
+a whack at it, feel free.
+- But this is your work.
+I don't wanna break it obviously.
+- No, feel free. Go for it.
+- For operation around humans,
+there's not much damage a
+soft robot can do to you.
+I can stand on these?
+- Yep.
+- This is a pretty crazy compliant robot.
+- Because the fundamental structure
+of this robot is compliant,
+there's only some maximum force
+that it could ever exert on me.
+So it's inherently safe to
+be operating around people.
+- [Derek] Could we make it
+fall and have me be inside it?
+- Yeah, yeah, we could do that for sure.
+Just watch your head.
+- Yep. If I go over here.
+- If you're there, yeah, we can do that.
+- All right, let's try it.
+Here it comes.
+Well, that's not bad at all, is it?
+- [Zach] I can try another shape
+that's supposed to open
+up one of the faces
+so you can jump out of it quickly.
+- Okay.
+- [Zach] I haven't tested
+it in a little while,
+so I dunno how it's gonna
+go, but let's try this.
+There you go, that's it.
+Face right there to your right,
+and you can exit the truss from that face.
+- Boom, just that easy.
+- Perfect.
+- [Derek] Did you build this by yourself?
+- Me and one other grad student
+built this entire thing
+ourselves basically.
+- [Derek] And how long did it take?
+- [Zach] We did it in about
+a month, I want to say,
+like actually constructing everything.
+- [Derek] And was it tricky?
+I mean, were you sewing that stuff?
+- Yep, we sewed this all ourselves.
+- [Derek] The main structural
+members of this robot
+are fabric tubes inflated with air.
+- Yeah. So these red
+tubes are a nylon fabric,
+and then internally there
+is a polyethylene tube
+that provides the air tightness.
+- [Derek] The tubes are inflated
+to about six PSI above atmospheric.
+So it's almost one and a half atmospheres.
+Each tube passes through pairs of rollers
+connected to a motor.
+The rollers pinch the tube so it bends
+kinda like a pinched straw.
+- Have the rods,
+and then we have this like
+high friction material
+wrapped around the rods.
+And then that coupled with the fact
+that we have this pressurized
+tube that's kinda pushing
+the membrane of the tube into the rollers
+prevents us from slipping.
+- [Derek] By driving the motor,
+it changes the lengths of the tubes.
+- Kind of like when a clown
+creates a twist in a balloon
+and then folds that balloon
+into a balloon animal.
+The difference between what
+the clown does and what we do
+is that there's some passage of air
+between adjacent segments of the tube,
+so that as the robot drives around,
+we're not pressurizing
+the segments of the tube.
+- [Derek] This robot is
+made of four inflated tubes,
+each one connected to a pair of motors,
+forming triangular sides.
+- We also think that they kind
+of look like sausage links
+when put together, which is
+why we've named these robots
+after different sausages.
+So this one's called Polish.
+That one over there is Chorizo.
+There's a Linguica, and a
+Kielbasa over there somewhere.
+- [Derek] So what shape
+is the overall thing?
+It's an octahedron?
+- Yeah, we call it an octahedron,
+because if you drew lines
+between these kind of
+kinematic joints here,
+it would create an octahedron shape.
+- Driving the motors
+together allows the robot
+to dramatically change shape.
+It can get very tall, or short and squat.
+But since the tubes themselves
+don't change in length,
+the overall perimeter of the robot,
+the length of all the edges
+combined, doesn't change.
+So the robot is considered isoperimetric.
+How do you feel when you watch
+those Boston Dynamics videos?
+- Oh, I love those
+videos. They're so cool.
+- The Boston Dynamics robots
+are kind of terrifying.
+Like isn't the idea with soft robots
+to like convince people that
+robots are good, and soft,
+and kind, and friendly, and safe?
+- That's that's definitely true, yeah.
+There are some things that
+you can do to rigid systems
+to make them feel like compliant systems
+based on how you're
+controlling the motors.
+But yeah, they're
+definitely heavy, expensive,
+and can be dangerous if
+they're not used correctly.
+- [Derek] The hard robots we're used to
+are strong and precise.
+Their actions are accurate and repeatable,
+but they are also heavy,
+and they can't really change
+their volume as dramatically.
+But this robot is still capable
+of carrying a heavy load.
+- So I have a GUI in MATLAB
+- Oh, nice.
+- that enables me to just put in
+the positions that I want
+the robots to move in inches
+and then send them out.
+There's some other functionality.
+I have some stored configurations
+to send to the robots.
+- [Derek] Soft robots
+also have the advantage
+of shape changing.
+They can become tall to go over obstacles,
+or short to fit under obstructions.
+- So if there's some
+rock that it didn't see,
+or that it wanted to roll
+over, it could simply do that,
+and the compliance of the tubes
+would simply just bend
+around that disturbance.
+- Do you imagine robots like
+this doing work in space?
+- Oh yeah, definitely.
+So one of the nice things
+about these types of structures
+is that they can shrink down
+their volume very drastically.
+And because volume on rockets
+is such an expensive premium,
+being able to have a robot
+that can pack down small for
+transport is very valuable.
+So NASA was at one point
+looking into trust robots
+for exactly that reason.
+And they've contacted us
+since we've made this robot
+to explore different ideas for
+space exploration projects.
+So one of the things that
+they're thinking about doing
+is deploying robots
+underneath a sheet of ice.
+So they're gonna drill
+through this sheet of ice
+and then deposit a robot
+through what is kind of
+a small diameter hole.
+And so, if you can have a robot
+that can change its
+volume very drastically,
+or be disassembled and then reassembled
+to form a much larger structure,
+then you can have large robots
+that are able to fit
+through these tight spaces
+and be deployed in
+difficult to access areas.
+- Is this a little bit like an octopus?
+Is that how you can think of it?
+- There is some connection there,
+because they use their
+shape changing ability
+and their compliance to squeeze
+through tight passageways,
+and then also to wrap
+their body around objects.
+So for example, they can open
+jars with their tentacles.
+And one of the things that
+we want to use this robot for
+is grasping and manipulating objects.
+- [Derek] This robot is even capable
+of picking objects up off the ground.
+- We'll try that and
+see if it can grab it.
+Because of the compliance of the tubes,
+it has a natural ability to
+grasp and manipulate objects,
+because as it does so, the
+tubes bend ever so slightly,
+which increases the contact area
+and distributes evenly the forces
+that are exerted on that object.
+- [Derek] So I mean, is the
+biggest risk if it pops?
+- Yeah, that's a big risk.
+I mean, you obviously
+need the compressed air
+for your structure.
+And so, if you have a leak.
+(air whooshing)
+Oh.
+Then you don't have a robot, right?
+- [Derek] It's a pretty big
+drawback of soft robots.
+- Some things that you
+could do to mitigate that
+would be to have onboard
+a small compressor,
+which isn't there to
+provide power to the robot,
+but would help you maintain pressure
+if there were any small leaks.
+- [Derek] When you tell someone
+you're working on a robot
+and they see this, does
+it defy expectations?
+- Totally.
+They have no idea what
+it is I'm talking about
+until I show them like
+a video or a picture.
+I think most people's
+conception of soft robots
+was really expanded by
+the movie "Big Hero 6."
+And I think they did a great job
+in kind of showcasing
+what a soft robot can do
+and why they're useful,
+and kind of just popularizing the notion.
+It's really great to have compliance
+built into any mechanical system,
+especially as we want robots
+to work closer and closer with humans.
+So I think we'll definitely see more
+soft robots in the future.
+- So maybe robots will
+enter our daily lives
+sooner than we think,
+just not in multipurpose humanoid form.
+In fact, one specialty robot
+is already becoming widespread,
+the glorious Roomba, built
+for maximum vacuuming.
+Do you think the way that robots
+integrate themselves into our lives
+will be like a humanoid
+robot in your house,
+or will it be specialized little things
+that we don't even think of
+as robots but they sort of?
+- Slowly infiltrate, yeah.
+I think probably the latter
+is gonna happen first,
+would be my guess.
+I mean, little things like, yeah,
+like things just start getting smarter,
+whether it's your shoes,
+your watch, or your car,
+your thermostat, all those things,
+and then before like your
+maid shows up as a robot.
+- By dropping the human model of a robot,
+instead we can choose
+the best possible shapes
+and materials that maximize
+specific abilities.
+And with this method,
+we've already built robots
+that can save your life,
+leap tall buildings in a single bound,
+move with super speed,
+protect your valuables,
+and shapeshift.
+You know, come to think of it,
+they'd make a pretty good superhero team.

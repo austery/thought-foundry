@@ -1,0 +1,347 @@
+Humans have been using alcohol
+for thousands of years.
+But when did we understand it soberly?
+It wasn't until the 1700s
+that scientists first discovered
+the formula of alcohol: C2H5OH.
+That's alcohol,
+finally got its professional
+LinkedIn profile called ethanol,
+and started working
+as an important chemical.
+Advances in engineering and business
+have since enabled
+large-scale production of ethanol,
+and today it is a 
+114 billion-dollar industry.
+We use it in cosmetics,
+in fashion, in medicine,
+in food and obviously, beverages.
+And it's even more relevant today as fuel
+and raw material for some
+of the low-carbon industries.
+So why am I telling you about alcohol?
+Because it is a good example
+of how science, engineering and business
+work together to change the world.
+But it actually took ethanol
+more than 200 years to do so.
+We simply couldn't wait that long
+to tackle our climate challenge.
+We urgently need to speed up
+and scale up low-carbon solutions.
+So my name is Xu Hao and I lead
+Tencent's climate change initiatives.
+We're a major Chinese tech company
+with products in social media,
+video games and cloud services.
+And we also care about climate change.
+It's not just limited
+to data center efficiency
+or sourcing of renewable energy,
+as important as that is.
+My colleagues and I have been working
+to explore how we could contribute
+to the acceleration
+of low-carbon technology innovations.
+That's why we launched CarbonX Program.
+And three years in,
+we are actually more optimistic than ever.
+Why?
+Because we felt the right
+answer is not so complicated.
+We already have lots of innovation
+in science, in engineering and business,
+and the secret to further
+accelerate the process
+is also simple: just do them all at once.
+Let me further explain.
+First, most of the scientific discoveries
+needed to decarbonize our economy
+have already been made.
+Really, today we generate
+electricity from solar and wind,
+we store energy
+using chemistry or physics.
+We turn carbon dioxide
+into all kinds of chemicals.
+And nuclear fusion is also on the horizon.
+Alright, 100 years already saved.
+Let me give you a specific example.
+CRISPR is a genetic scissor
+that's well-known
+in the pharmaceutical industry.
+They use it to edit genetic code
+to find cures for diseases and new drugs.
+But it can be applied to carbon too.
+Take Gasgene, a Chinese startup.
+They actually apply CRISPR
+to a certain bacteria called Clostridium,
+so that these little guys
+can actually feed on carbon dioxide
+and produce butanol.
+So why does butanol matter?
+Because together with our old
+friend ethanol as well as butanol,
+we actually get ethylene glycol,
+polyethylene, polypropylene,
+butyl acetate,
+dibutyl phthalate,
+tributyl citrate and many more.
+A bit lost, right?
+These chemicals are actually
+used in paint, clothes,
+toys, water bottles, furniture,
+and the list goes on and on and on.
+Essential to everyday life,
+but all made up out of fossil fuel today.
+With Clostridium, we could
+potentially make all of them
+using carbon dioxide instead.
+It's really great science.
+So it's not the science holding us up.
+What about engineering?
+Very important, but unglamorous.
+Well, engineering requires
+lots of innovation, too.
+Because we have to replicate a success
+in the laboratory test tubes
+and scale it up in a much,
+much bigger way,
+from grams to kilograms
+to tons to millions of tons.
+Eventually a big factory.
+To do that, engineers
+often face two challenges.
+First, how to build a factory
+faster and cheaper.
+And then, how to operate it effectively.
+Let's say we want to build a plant
+that produces 20,000 tons
+of clean chemical using carbon dioxide.
+Do we build one big reactor
+or a few smaller ones?
+This is where the process
+engineers come in.
+How much pressure is needed
+in these reactors?
+What are the flow rates needed
+for the gases or the liquids
+so that they are balanced
+and the production is most effective?
+How much land such a facility will occupy.
+How does it integrate
+with the existing factory?
+And probably most importantly,
+how can we build such a plant
+faster and cheaper?
+Well, all of these considerations
+determine the fence, pumps, compressors,
+reactors and all the other
+parts we will use
+and whether we could use
+off-the-shelf standardized equipment.
+Because otherwise,
+if we have to design novel parts,
+it will be much more expensive
+and often takes much longer.
+So this is what engineering
+innovation looks like
+when it comes to building a big factory.
+So it’s almost like picking up
+pieces of LEGO blocks
+to build a beautiful model
+of your own design.
+Both creativity and discipline
+are needed at the same time.
+Then it comes [to] 
+operational efficiency.
+Feynman Dynamics is another start-up,
+they actually combine carbon dioxide
+and green hydrogen
+to make green hydrocarbons
+and produce sustainable
+aviation fuel, or SAF
+that could potentially
+clean up our flights.
+So the key is actually a catalyst
+that can efficiently convert
+carbon dioxide
+into carbon monoxide.
+And the engineering challenge here
+is how to manufacture
+such a high-quality catalyst
+at much bigger volume.
+So the process is almost
+like making a fruit smoothie.
+You need to blend fruits just right
+to get a delicious drink.
+But when you try to make
+much bigger batches,
+sometimes the blender gets too hot
+or the fruit doesn't mix well
+and that will jeopardize
+the taste of our drink.
+To tackle this challenge,
+engineers at Feynman Dynamics
+actually borrowed practice
+from pharmaceutical chemistry.
+They designed a special
+high-speed mixer
+that passes the chemicals
+at really high velocity in a tube
+and then circulates back
+the finished product,
+back to the main reactor
+to make high-quality catalyst.
+It's almost like your pre-planned
+avocados and apples first,
+and then put them back
+into the big blender
+to get the ultimate drink.
+So these rather small engineering steps
+actually enabled Feynman Dynamics
+to produce their catalysts
+at industrial scale.
+So today, SAF is still more
+than five times more expensive
+than conventional jet fuel,
+but with lots of innovation like this
+and also the production at scale,
+I believe SAF can beat jet fuel
+in cost within ten years' time.
+(Applause)
+So the engineers are hard at work,
+but what about business?
+Because business is all about price,
+cost, market and profitability.
+And in order to reduce carbon emissions
+in the scale of gigatons,
+start-ups must turn their science
+and engineering innovation
+into profitable ventures.
+But we got plenty of good news here too.
+Some of the technologies are approaching
+the moment where they cost the same,
+or even less than the fossil
+fuel alternative,
+sometimes without a carbon price.
+Yuanchu is a start-up that makes
+calcium carbonate out of carbon dioxide.
+So calcium carbonate
+may also sound unfamiliar,
+but these white powders
+are actually in our everyday life,
+from paper to toothpaste
+to washing powders to car tires.
+By using leftover calcium from biomass
+or the steelmaking industry,
+Yuanchu can actually produce
+high-quality calcium carbonate
+cheaper than the conventional method,
+which is digging limestone
+out of the ground
+and burning lots
+of fossil fuel to make it.
+Great green discount, right?
+Then sometimes business is all
+about the size of the eventual market.
+Moguang is another start-up
+that actually developed this really
+groundbreaking new material
+called radioactive cooling.
+So this material not only reflects
+93 percent of sun radiation back,
+it could achieve additional cooling
+by radiating the heat back to outer space,
+leveraging certain wavelengths’
+cooling window.
+Guess what requires cooling?
+Melting glaciers.
+That’s why we launched
+a pilot project with Moguang
+in Dagu glacier, one of the endangered
+glaciers near Tibetan Plateau.
+Over the past three years,
+the melting has slowed down
+by as much as 80 percent.
+But --
+(Applause)
+But the project itself
+is actually not a business.
+Guess what it is.
+Any service that requires cooling.
+So that's your mobile phone,
+glass wall of a building or data centers.
+So the great news is not only Moguang
+covered [the] glacier with this material,
+they already integrated
+many of their material
+into hundreds of thousands
+of mobile phones and sports cameras
+and expanding to other
+products very quickly.
+So there is truly huge market potential.
+Alright, so the science is here,
+the engineers are hard at work
+and the business models are scaling up.
+So our final question is,
+can we further accelerate?
+Of course we can.
+Simply by bringing together scientists,
+industry experts and business
+people in the same room,
+so they start thinking
+about all the tough questions
+from the very beginning, at the same time.
+So the scientists will probably ask
+"How much gigajoule of energy is required
+to capture one ton of carbon dioxide?"
+The industry experts will ask,
+"How does your technology
+help me decarbonize my industry
+and how does it fit into my factory?"
+And the investor will probably ask,
+"What's your plan to grow your business
+by 100 times in the next five years
+and to go public?"
+This is almost exactly what happened
+at CarbonX Program.
+Let's just say this productive
+dialogue, heated debate,
+sometimes really disagreement
+can be challenging,
+but it really helps speed up the process
+because it gets everybody to thinking
+about everything at the same time.
+Not waiting 200 years like alcohol.
+(Laughter)
+Now remember Gasgene
+and those cute Clostridium.
+We recently launched
+a clean chemical consortium
+that brings consumer brands,
+big chemical companies and start-ups
+like Gasgene or Yuanchu,
+to try to make everything
+out of carbon dioxide.
+That's also working on science,
+engineering and business all at once.
+So by now, hopefully you guys understand
+why I felt we should [have] every reason
+to be really optimistic.
+Because we already have
+plenty of scientific discovery,
+engineering innovation
+and business models
+so that we should be inspired
+to imagine a world
+with net zero and cleaner future.
+Most likely much better
+than what AI can generate for us today.
+(Laughter)
+Therefore, I'm definitely
+drunk on the possibility
+of a better and cleaner future.
+Cheers, everyone, thank you.
+(Cheers and applause)

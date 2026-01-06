@@ -1,0 +1,301 @@
+- We all know that digital computers
+have changed the entire landscape.
+Nations which can use
+digital computers are rich,
+they're powerful, they can communicate,
+they can revamp the economy.
+However, we're now in the initial stages
+of the next revolution.
+- [Interviewer] How quantum computers
+will change everything.
+- The next revolution
+will be quantum computers
+that will make the digital
+computer look like an abacus.
+In other words, the future
+of digital computers
+is to wind up in the garbage can.
+We're talking about a new
+generation of computers,
+the ultimate computer, a
+computer that computes on atoms,
+the ultimate constituents
+of matter itself.
+Quantum computers have the capability
+of changing every aspect of our life.
+The economy, health, transportation,
+everything could be changed
+by quantum computers.
+Take a look, for example, of food supply.
+We rely upon fertilizers.
+There was a green
+revolution that took place
+that allows us to feed the
+population of the world.
+But that green revolution
+is slowly coming to an end.
+We need a second green revolution,
+being able to take nitrogen from the air
+and combine it to make
+ammonia and fertilizer.
+And already we're trying
+to use quantum computers
+to unlock the secret of
+how to make fertilizer
+from nitrogen.
+Also, take a look at energy.
+Fusion power could one day give us
+unlimited energy almost for free.
+We're talking about an energy source
+where the basic fuel is sea water,
+fusion plants burn sea water,
+the hydrogen of sea water,
+to create fabulous amounts of
+energy without nuclear waste,
+without the threat of a meltdown.
+And quantum computers may
+be essential to stabilize
+the vacuum and hydrogen so that
+they don't cause an accident
+or they don't fall apart.
+So in other words, quantum
+computers can affect
+the economy in basic ways.
+Not to mention medicine.
+We create medicines by trial and error.
+We create hundreds of chemicals
+and test them one by one in a Petri dish.
+This is old fashioned slow,
+but that's all there is.
+That's all we can do.
+In the future, we'll be
+able to model diseases
+at the molecular level.
+We'll be able to do molecular experiments
+in the memory of a computer
+rather than in a Petri dish,
+trying to look at hundreds of chemicals
+to find out which one
+is medically relevant.
+In other words,
+we're talking about turning
+medicine upside down.
+The question is, who's
+involved in this race
+to perfect quantum computers?
+And the answer is everyone.
+If you're not part of the race,
+you could be irrelevant in the future.
+All the big names of the
+computer industry, Google, IBM,
+Honeywell, they're all in the game
+because they realize that
+you could become irrelevant.
+Wall Street is always looking
+for the next big investment,
+and this could be it.
+All of a sudden, we have
+companies that just started
+a few years ago becoming
+multi-billion dollar companies
+as they try to put their flag
+on the mountain of quantum computers.
+This is now big business.
+This is one of the hottest stocks
+that are available on
+the stock market now.
+In other words, it's a race.
+All the big players in Silicon
+Valley are part of this race
+because if they're not Silicon Valley
+could become the next rust belt.
+We have something called Moore's Law,
+which says that computer
+power doubles every 18 months.
+We take it for granted.
+Every Christmas, your
+computers are twice as powerful
+as the previous Christmas.
+The economy is based on that.
+But Moore's law is falling apart.
+Moore's law is getting slower and slower.
+Finally, it'll flatten out.
+And let me ask you a question.
+Would you upgrade your computer
+knowing that it's just as powerful
+as the last few generations of computers?
+No, this could cause a depression
+in the computer industry.
+We physicists called
+attention to this decades ago,
+but we said that, well, we
+still have a few more decades
+left, but it's coming.
+It's coming because transistors
+are getting smaller and smaller.
+A transistor today could be,
+let's say 20 atoms across.
+When you start to hit five atoms across,
+then electrons can then hop across
+and create short circuits.
+And Moore's law comes to an end.
+We're now gradually
+approaching that limit.
+When you look at the curve
+of the exponential growth
+of computer power, it's quite remarkable.
+This is where modern
+technology has taken a leap,
+but now we're beginning to level
+off just like we predicted,
+because of the quantum theory.
+Electrons are not dots.
+Electrons are waves.
+Waves are probability,
+and they're unstable if
+you start to get electrons
+and they analyze them
+at the level of an atom.
+So in other words, Silicon
+Valley has to confront the fact
+that Moore's law will eventually collapse.
+So for all these reasons, we have to go
+beyond digital computers
+to atomic computers.
+Computers that compute on atoms
+rather than on transistors.
+Right now, anyone who's interested
+in security is interested
+in the quantum computers is
+quantum computers in principle,
+have the power to crack any digital code.
+Think about that for a moment.
+All the data that is sent
+on the internet is coded.
+National Secrets of Nations
+are encoded in these codes,
+which often require you to
+factorized very large numbers,
+but that's what quantum computers can do.
+They can factorized very large numbers
+and thereby crack almost any code
+that is based on digital technology.
+That's why the FBI, the CIA,
+and all national governments
+interested in computer security
+are following this very closely.
+So for example, let's say you want
+to have a secret that's encoded.
+You put a code on it, and the code says,
+you have to factorized a digit that is,
+let's say 50 digits long.
+It would take perhaps a few hundred years
+for a digital computer to factorized
+a number that is 50 digits long.
+A quantum computer may be able
+to do that almost instantly.
+And so you see the anxiety
+that this is being created
+for people involved
+with computer security.
+You're not talking about
+being able to break
+into any other computer on the earth
+that is based on digital technology.
+Now, we're not there yet.
+So you don't have to worry
+that someone's gonna steal
+all your secrets tomorrow,
+but it will come.
+And when it comes, we're gonna
+have to have a major revision
+of how we code our most
+treasured national secrets.
+Ordinary digital computers
+compute on zeros and ones,
+zeros and one.
+But if you take a look at medicine,
+you take a look at energy,
+you take a look at molecules,
+they're not based on zeros
+and ones, zeros and ones.
+They're based on electrons.
+And electrons can be smooth,
+not zeros and ones, zeros and ones.
+And these electrons,
+how come they have so
+much computational power?
+Because they could be in
+two places at the same time.
+Now, at this point, you
+may say to yourself,
+that's ridiculous, that's stupid.
+How can you be two
+places at the same time?
+But that's exactly what electrons do.
+Electrons can be multiple places
+simultaneously at the same time.
+That's what gives quantum
+computers their power.
+They compute on parallel
+universes, not just one universe,
+the universe that we're accustomed to,
+but an infinite number
+of parallel universes.
+Now this sounds like
+something from Marvel Comics,
+but then the question is,
+where did Marvel comics get this idea?
+Marvel comics got this
+idea from quantum physics
+because the fundamental
+basis of quantum physics
+relies upon the fact that the electron
+can be in multiple places
+simultaneously at the same time.
+One of the big goals of quantum computers,
+not just creating new forms of energy,
+new products, new forms of transportation,
+but perhaps unlocking the
+secret of life itself.
+You realize that life
+is based on molecules,
+not zeros and ones, zeros and ones.
+Molecules that in turn can
+create Alzheimer's disease,
+Parkinson's disease, cancer.
+These diseases are beyond the
+reach of digital computers.
+But hey, this is what
+quantum computers do.
+They work with molecules,
+they work with atoms,
+they work with electrons.
+And that's why we hope that one day
+we'll be able to cure the
+incurable using quantum computers.
+Now, some people say,
+won't that put doctors,
+chemists and biologists out of a job?
+Won't they be on the unemployment line
+'cause we don't need them anymore?
+No, in the future, the people
+on the unemployment line
+will be chemists and biologists
+who do not use quantum computers.
+The winners of this game
+will be biologists, chemists,
+mathematicians who use quantum computers
+in the same way that a
+carpenter uses a hammer.
+A hammer does not replace the carpenter.
+The hammer simply increases
+the power of the carpenter.
+And that's what quantum
+computers will do for medicine,
+transportation, energy, you name it,
+quantum computers will be there.
+- [Interviewer] Wanna support the channel,
+join the big think members community
+where you get access to
+videos early ad free.

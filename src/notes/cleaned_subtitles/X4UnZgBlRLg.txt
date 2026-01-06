@@ -1,0 +1,1138 @@
+[MUSIC PLAYING]
+ADI IGNATIUS: All
+right, so, Steven,
+thank you for being
+with us today.
+STEVEN PINKER:
+Thanks for having me.
+ADI IGNATIUS: Great.
+So your book is about common
+knowledge, what it is,
+and how we use it, and in
+ways that we're aware of,
+and in ways that
+we aren't aware of.
+So for the audience,
+what are you
+getting at with common
+knowledge and why should we
+care about that?
+STEVEN PINKER: I'm using the
+term in a specialized sense, not
+to refer to conventional
+wisdom or something that
+is widely known,
+but to something
+that is known to be known.
+That is, I know
+something, you know it,
+you know that I know it.
+I know that you know it.
+You know that I know
+that you know it,
+and so on, ad infinitum.
+So that's common knowledge
+in the technical sense.
+It's important, because it's
+necessary for coordination
+for two or more people
+to be on the same page
+to make choices that
+might be arbitrary,
+but it works for everyone
+as long as everyone
+makes the same choice.
+Do you stay home on
+Saturday or Sunday?
+Do you drive on the right
+or drive on the left?
+Now, for common
+knowledge to work,
+you don't literally
+have to think,
+I know that she
+knows that I know
+that she knows because your head
+starts to spin after one or two
+levels.
+And we have a sense
+of common knowledge
+when something is conspicuous,
+or self-evident, or public,
+or out there.
+If I see it while I
+see you seeing it,
+then I kind of
+know that you know
+that I know that you know it.
+ADI IGNATIUS: So this is
+the Emperor has no clothes.
+STEVEN PINKER: Well,
+I begin the book
+with the story of the
+Emperor's New Clothes,
+because there's a
+sense in which it's
+a story about common knowledge.
+Because when the little boy
+said the emperor was naked,
+he wasn't telling
+anyone anything
+they didn't already know.
+But he changed the
+state of their knowledge
+nonetheless, because
+by blurting out
+what everyone could see within
+earshot of everyone else,
+at that moment, everyone
+knew that everyone else knew
+that everyone else knew
+that the emperor was naked.
+And another point in
+the book is that just
+like driving on the
+right or driving
+on the left is a solution
+to a coordination problem,
+or staying home Saturday,
+or staying home Sunday,
+or respecting paper
+currency, I suggest
+that our informal social
+relationships, are we friends?
+Do I defer to you?
+Are we transactional partners?
+Are we lovers?
+All of those are matters of
+common knowledge as well.
+They're coordination games.
+And we solidify them by
+generating some public signal
+that we both see that
+inaugurates the relationship.
+But there can be forms of common
+belief, common misconception,
+common pretense, where you do
+have assumptions about what
+other people are thinking, and
+vice versa, that in some cases,
+may not actually be reality.
+So in the case of
+a common pretense,
+where we refer to
+that by saying we're
+ignoring the
+elephant in the room,
+the metaphor is that
+an elephant in the room
+is something you can't
+ignore, but we're
+pretending to ignore it.
+There is a phenomenon called
+pluralistic ignorance,
+or a spiral of silence.
+In economics, it's sometimes
+called the Abilene paradox,
+where no one actually
+believes something,
+but everyone thinks that
+everyone else believes it,
+but no one actually does.
+ADI IGNATIUS: Is there
+an easy example of that?
+STEVEN PINKER: Sure,
+it was originally
+studied in fraternity, where
+all the frat guys said privately
+that it's really stupid to drink
+until you puke and pass out.
+But they said, what
+can I do about it?
+All the other guys
+think it's cool.
+And it turns out, none of
+them thought it was cool,
+but everyone thought
+that everyone else
+thought it was cool.
+I think there have been
+many phenomena like that.
+It turns out that in Saudi
+Arabia, most of the men
+think that women should have
+the right to work and drive,
+but they couldn't
+allow their wives
+to do it because they
+mistakenly thought
+that all the other men thought
+that it was impermissible.
+ADI IGNATIUS: So I want to lead
+this conversation sort of mainly
+into economic, financial
+sort of market areas,
+because we are the HBR IdeaCast.
+But your book is--
+I'd say it's challenging
+in some ways.
+There are a lot
+of brain teasers.
+There are a lot of prisoner's
+dilemmas, things like that.
+But it's also fun.
+I mean, there are a lot of
+popular references, jokes,
+cartoons, and then examples,
+really interesting kind
+of game playing examples.
+So one of the things you talk
+about is the Keynesian beauty
+contest, which, and if I get
+it wrong, you'll correct me,
+but where a judge is rated--
+a judge doesn't simply
+select the contestant
+that he or she thinks
+is most attractive,
+but rather is
+rewarded on selecting,
+based on what he
+thinks-- he or she thinks
+the other judges will select.
+STEVEN PINKER: Who are
+engaged in the same puzzle.
+They're guessing what
+everyone else will
+judge to be the
+prettiest face, which
+is different from the old Miss
+Rheingold competition, where
+people voted on
+the prettiest face.
+In the beauty contest that
+Keynes hinted might have been
+in the newspapers in his
+day, this would be London
+in the '20s, no one can actually
+verify whether there really was
+such a contest, but it
+was a great example.
+Because for Keynes,
+where he said
+everyone is trying to outguess
+other people outguessing still
+other people, he said that's the
+way speculative investing works.
+They buy the
+security because they
+think they can sell it at a
+higher price to other people
+who think it's underpriced, who
+in turn, will want to sell it
+to still other people.
+And so speculative
+bubbles, crypto perhaps
+being one of the
+most recent examples,
+are cases where people think
+that other people will,
+in the future, will
+want to buy in,
+sometimes called the greater
+fool theory of investing,
+that you invest
+because you think
+other people will invest
+because they think that still
+other people will invest.
+The thing is, of course, bubbles
+can pop when the market starts
+to run out of the greater fools
+who think that it will continue
+to appreciate forever.
+But this can all
+get started when
+there is some public
+signal, like in the case
+of the Emperor's New Clothes,
+the boy blurting it out,
+or a public ceremony
+or a public signal.
+Or if there is just a
+rumor or some reason
+to think that other
+people are getting in,
+that can cause other
+people to get in.
+So a couple of recent
+examples are meme stocks,
+where an influencer
+might talk up a stock,
+even if the fundamentals
+are terrible, crummy.
+But the fact that other people
+know that he's talking it up
+and they know that still other
+people are talking it up,
+means that it really
+can appreciate, at least
+for a while.
+Or in two Super Bowls
+ago, there were a number
+of high concept ads for
+crypto exchanges, which
+mentioned nothing about
+the advantages of crypto.
+ADI IGNATIUS: These are
+the Larry David ads.
+STEVEN PINKER: The Larry
+David, the Matt Damon.
+Where the point of the ads were
+everyone's getting into crypto,
+don't be left out.
+And in fact, the punchline
+to the Larry David comic ad
+was don't be like Larry.
+Don't be left out.
+ADI IGNATIUS: So this
+sounds like a tool
+that people who
+understand the psychology
+could and probably do
+benefit from, right?
+STEVEN PINKER: Yes.
+And getting back to marketing,
+I talk about an analysis
+by a political scientist
+like Michael Chwe, who's,
+in some ways, my
+predecessor in writing
+a book about common
+knowledge, where
+he analyzed the most famous and
+most expensive ad in history.
+This was the 1984 ad directed
+by Ridley Scott of Blade
+Runner and Alien fame, ran
+exactly once during the 1984
+Super Bowl.
+And it was to introduce
+the Apple Macintosh.
+So it was a revolutionary
+new product.
+Those of us who remember the
+first personal computers,
+remember, it had a little screen
+with 24 lines of 80 characters.
+And you had to type in
+alphanumeric commands
+like del fubar dot--
+fu dot bar.
+ADI IGNATIUS: We've
+come a long way.
+STEVEN PINKER: They were clumsy.
+So Apple is coming out with
+this insanely great new product
+with windows, and menus,
+and icons, and a mouse.
+But they realized that
+no one would buy it
+if they thought they were
+the only one buying it
+because the price wouldn't
+come down because of demand.
+There wouldn't be a
+community of users,
+and experts, and markets for
+peripherals and consumables.
+So how do you break the knot--
+cut the knot, I
+mean, and get people
+to buy something
+that they'll only
+buy if enough other
+people are buying it.
+And the answer is the Super
+Bowl is an annual rite
+in American culture.
+You know that a lot of
+people are watching it.
+And you know that a lot of
+people know that a lot of people
+are watching it.
+It is a common
+knowledge generator.
+And to break the logjam,
+Apple paid for this ad.
+It said nothing about
+the Apple computer.
+For those of you
+who have seen it,
+it played off the fact that
+it was January 1984, the date
+of George Orwell's novel.
+And so it showed a
+grim corporate meeting
+where gray drones trudge
+into a cavernous hall
+and listen to drivel from
+a voice on the screen,
+intercut with scenes of a lithe
+young woman in a bright red gym
+shorts and a singlet
+carrying a mallet.
+And she bursts into
+the corporate meeting,
+hammer throws the mallet
+into the screen, which
+explodes in a
+fireball, revealing
+the crawl that
+says on January 25,
+Apple introduced the Macintosh.
+And you'll see why 1984
+won't be like 1984.
+Now, the point of the ad was
+not to advertise the product.
+It didn't say anything
+about the product,
+but to advertise the
+potential buyership.
+It generated common knowledge.
+I'm seeing the ad.
+I know lots of other
+companies are seeing the ad.
+And what Chwe showed,
+I mean, it's a story.
+How did he prove it?
+Well, he looked--
+because I mean,
+that's just a sample of one.
+So he looked at
+other products that
+only work if enough
+other people adopt it,
+products that depend
+on network effects.
+But monster.com was one of
+the first jobseeking ads.
+Now, why would anyone look
+for a job on monster.com
+unless they thought that lots
+of employers were posting there?
+Why would employers
+post there unless they
+thought a lot of job seekers
+were looking for jobs there?
+Monster.com was introduced
+at the Super Bowl.
+So there are
+companies that depend
+on network effects that have
+to generate common knowledge.
+Everyone has to that
+everyone knows about them.
+Another example is the
+Discover credit card,
+which was great credit card,
+rebates, and high limits.
+But didn't matter if you
+were the only one who
+had a Discover card, because
+no merchant would accept it.
+And no merchant would
+accept it unless they
+thought enough people
+were going to carry it.
+Introduced in the Super Bowl.
+And Chwe argued that there
+was another category.
+Aside from products that
+inherently depend on networks,
+there are prestige goods
+that depend on other people
+that you respect also
+consuming that product.
+Products that are
+consumed in public
+and where the brand
+image is important
+also tend to advertise
+in the Super Bowl.
+And crucially, what Chwe
+showed was not so much
+that advertisers were
+willing to pay per eyeball,
+but they would be willing to
+pay a premium for venues that
+were common knowledge
+generators, where
+it was known that a lot of
+people were to watch them.
+They were willing to pay
+more per eyeball for products
+that were consumed
+in public or that
+depended on network effects.
+ADI IGNATIUS: Yeah,
+so the phenomenon--
+maybe the flip side
+of this phenomenon
+is the toilet paper
+shortage during COVID,
+which was not this, not network
+effects, but an assumption
+that I know what you know
+that I know that you--
+STEVEN PINKER: Well,
+yes, Justin Wolfers
+speculated that the great
+COVID toilet paper shortage was
+like a bank run where
+people withdraw their money,
+not necessarily because
+they think that there's
+anything wrong with
+the bank, but they
+have heard that other
+people think there might
+be something wrong, unsound.
+And they may just have heard
+that other people think
+there might be something
+that's unsound.
+So you get this
+reverberant doubt.
+And no one wants to be the last
+customer withdrawing at a point
+where the bank no longer
+can cover its deposits.
+So people rush to the bank
+to withdraw their savings,
+which actually causes the
+bank to fail, which otherwise,
+it wouldn't.
+Likewise, Wolfers suggested
+that there actually
+wasn't a toilet paper shortage.
+It's true that people
+were staying home,
+so they were using
+six packs of Charmin
+instead of the big jumbo
+rolls in their workplace.
+But Kimberly-Clark quickly
+stepped up production
+to meet the demand.
+But somehow, people just
+know that in an emergency,
+people hoard toilet
+paper, which can
+cause the very shortage
+that leads people
+to hoard toilet paper.
+And so they did
+hoard toilet paper.
+A lot of retailers
+then posted signs,
+max three rolls per customer.
+ADI IGNATIUS: That will
+Reinforce it, yeah.
+STEVEN PINKER: And that
+ended the shortage,
+not so much because people
+didn't strip the shelves,
+because they couldn't.
+But they were reassured
+that since no one else could
+buy more than three rolls, there
+was no reason for them to panic.
+And again, getting back
+to common knowledge,
+how did this originate?
+At least according
+to one history,
+it all started with another
+common knowledge generator,
+The Tonight Show.
+Which back in the
+three network era,
+Johnny Carson was the
+King of Late Night.
+He had not only a huge audience,
+but people knew that people were
+watching Johnny Carson, which is
+why catchphrases from the show
+like, "here's Johnny,"
+everyone recognized it.
+So one night, I
+think it was 1973,
+he said, there have been all
+kinds of shortages lately.
+And this was an era
+where there were
+lines to get gasoline because
+of the Arab oil embargo.
+And there was a meat shortage
+and a coffee shortage.
+And he said, have
+you heard the latest?
+I read it in the papers.
+There's a shortage
+of toilet paper.
+Now, it turned out
+it wasn't true.
+At the time, there was no
+shortage of toilet paper.
+But then that created a
+shortage of toilet paper
+when everyone ran out to buy it.
+And since then, at least
+according to the story,
+it's hard to prove, it's just
+become conventional wisdom
+that toilet paper becomes
+scarce in an emergency.
+ADI IGNATIUS: Yeah,
+that is fascinating.
+So all of this must be
+very valuable for people
+who are in negotiation.
+Because negotiation is always,
+what is it that we both know?
+And what is it that only I know?
+And I mean, that's how you win.
+STEVEN PINKER: Yeah.
+ADI IGNATIUS: Yeah, talk about
+to what extent I know you know.
+I mean that's the
+fundamental of--
+and the people negotiate
+better probably understand
+this concept.
+STEVEN PINKER:
+Yeah, so negotiation
+is one of a number of kinds of
+games in the game theory sense,
+meaning the my best option
+depends on what you do
+and vice versa.
+And in any time in which there
+can be multiple equilibria,
+cases where everyone is better
+off if they both do something,
+but it isn't preordained
+what they'll do.
+So the negotiation
+is what's sometimes
+called a battle of the
+sexes is the technical term.
+Has nothing actually
+to do with the sexes,
+but it refers to a
+hypothetical couple, where they
+like to spend time together.
+He would prefer that they
+go to the hockey game.
+She would prefer
+to go to the opera.
+They'd rather go to either
+than not do something together.
+So the question is,
+which one do they go to?
+Both of them are equilibria.
+The case of negotiation, let's
+say a car salesman and a buyer,
+there's a range of prices
+in which the salesman makes
+a profit and the customer
+pays what they're
+willing to pay to get the car.
+But within that
+range, the highest
+the customer is willing to
+pay, the lowest the seller
+is willing to sell for,
+how do they decide?
+Obviously, the seller wants
+it as high as possible.
+The buyer wants it
+as low as possible.
+If either of them walks
+away from the deal,
+then they're both worse off.
+So how do they decide?
+So there are many
+predicaments in life
+like this where there are
+many ways of doing something,
+but both parties are better
+off if they can figure out
+some way to do it.
+In the case of a negotiation,
+it's interesting.
+This is something pointed
+out many years ago
+by the political scientist
+Thomas Schelling,
+who won a Nobel Prize
+for this and other work.
+That often, a buyer
+and seller will--
+in order to find
+somewhere, anywhere
+to land on that the other
+guy will agree with,
+they'll pick something like
+a splitting the difference
+or a round number.
+He notes that the salesman who
+announced that his rock bottom
+price for the car is $30,007.26
+is pretty much pleading to be
+relieved of $7.26.
+It's like, oh, come on.
+So the why a round number?
+I mean, what's so special
+about a round number?
+What's special is
+other people can
+think it's special or can expect
+each other to recognize it
+as special.
+And so these points,
+focal points,
+sometimes called Schelling
+points, points that pop out
+in the minds of both
+parties, and that's
+all they need to
+come to an agreement,
+are often where
+negotiations end up.
+ADI IGNATIUS: So when you
+talk about common knowledge,
+particularly some of
+the early references,
+it seems a different era
+than where we are now.
+I mean, and maybe
+this was never true,
+but people my age will
+look back and say,
+well, we used to agree on facts.
+We probably didn't all
+together, but we kind of did.
+As you say, there were
+only three networks.
+There wasn't this
+sort of ubiquity
+of opinion and everything.
+Now, we're really
+in an era where
+there are competing
+truths, and I would assume
+competing common knowledges.
+Obviously, there are various
+common knowledge between people
+and in relationships,
+but at a larger level,
+I guess, my question
+is, is that eroding
+the kind of common
+knowledge that
+enables social interaction,
+et cetera, et cetera.
+Is that a concern for you?
+STEVEN PINKER:
+There is that fear.
+Although, as you say,
+and I often point out,
+the best explanation for the
+good old days is a bad memory.
+And there was a lot of
+polarization in the '60s, too.
+It had riots, and terrorist
+bombings, and assassinations,
+and so on.
+And duly not
+romanticizing the past,
+there does seem
+to be an increase
+in negative polarization.
+That is not just
+the people disagree,
+but each thinks that
+the other is evil.
+And it's plausible that
+one of the contributors
+was the fragmentation
+of the media markets.
+So that instead of
+everyone watching
+Walter Cronkite or Huntley and
+Brinkley, first with cable news,
+with Fox News,
+whose business model
+was to cultivate a highly
+partisan audience that
+wants to hear a certain
+kind of spin on everything.
+And with social media,
+where the networks
+of posting, and reposting,
+and tweeting, and retweeting,
+and linking, and
+relinking has been
+shown to take place
+within two or more
+closed networks with not
+much interaction between.
+There could be separate pools
+of common belief within each
+of these communities,
+something that's
+easier to happen when there
+isn't one public signal, a Super
+Bowl, or Johnny Carson,
+or Walter Cronkite
+that everyone knows that
+everyone knows is aware of.
+ADI IGNATIUS: OK, so this
+concept of common knowledge
+existing in different
+ways in different forms
+of relationships,
+so within a company,
+if an executive,
+if a leader wants
+to create a sort
+of common knowledge
+that he or she imagines would
+be beneficial for the culture
+of the company, is
+there a playbook almost
+for how to create a kind of
+positive common knowledge
+within this environment?
+STEVEN PINKER: Well, in
+general, common knowledge
+is generated by something
+that is conspicuous, public.
+So face-to-face meetings can
+generate common knowledge
+in a way that say,
+remote meetings don't.
+That is when you're in a
+room, you see everyone else.
+They see you.
+You know that they're
+seeing each other
+and seeing the
+speaker or the leader.
+So I think there is still--
+that's one of the reasons that--
+as with the Super Bowl,
+which is a broadcast version,
+but there is an important
+role for publicly
+conspicuous notices.
+Sometimes pronouncements, going
+back to the economy as a whole,
+the reason that
+statements from the Fed
+are scrutinized and pored
+over like rabbis parsing
+the Talmud or--
+is that anything that the
+chairman of the Fed says
+can create its own reality
+when people, knowing
+that other people have
+heard it, will act on it
+out of anticipation of
+what other people will do,
+which can then feed
+on itself and create
+a bubble, a recession.
+So I quote Alan Greenspan,
+who at one point
+said, "since I've
+become chair of the Fed,
+I've learned to mumble
+with great incoherence.
+If I seem clear to you, you must
+have misunderstood what I said."
+Because a signal that,
+say, a recession is ahead
+will create that recession
+because companies
+won't hire out of
+fear that they'll
+have to lay off employees.
+Consumers won't buy
+out of fear that they
+might lose their
+jobs, each of which
+then creates the
+reality of the other.
+And so the chairman of the Fed
+has to be very, very careful
+as to what she or he says.
+ADI IGNATIUS: Yeah, what's
+interesting in all of this,
+and you talk about
+politics in some ways,
+you talk about
+authoritarian politics.
+And I lived in China.
+And I lived in Russia.
+And you did have the
+phenomenon that you described,
+which is that everybody knows
+that the regime is rotten,
+but nobody says it because
+you can't be certain
+if you take to the
+streets, there's
+going to be anybody
+else with you,
+even though everybody
+sort of knows.
+And then you understand
+why authoritarianism,
+why you have to
+control everything.
+Because the moment you
+loosen up anything,
+it allows for this
+possibility of communication
+and understanding.
+And it's like that moment when
+Ceausescu fell in Romania.
+And he controlled everything.
+And suddenly, there were a few
+people shouting in the back
+as he's giving a speech.
+And some stuff's happening,
+he realizes it's over.
+Because it's either complete
+control or no control.
+STEVEN PINKER: In particular,
+so the control has to be--
+no dictator can control every
+last member of the population.
+There just isn't
+enough firepower,
+there aren't enough informants.
+And as I quote the character
+of Gandhi in the movie by that
+name, who at one point, tells
+a British colonial officer,
+"in the end, you will leave
+because 100,000 Englishmen
+simply cannot control 350
+million Indians if the Indians
+refuse to cooperate."
+He could have said,
+refuse to coordinate
+or are unable to coordinate.
+So people can overpower
+a regime if they all
+stand up at the same time,
+if they all storm the palace,
+if they all stop work.
+But how can they do it
+if each one is afraid
+that he'll be the only one?
+And if he stands up, he can
+be picked off or bundled off
+to prison.
+If everyone protests
+at the same time,
+then they can-- there's
+the safety in numbers.
+But there's safety
+in coordination.
+So there has to be a way of
+generating the common knowledge,
+now's the time that we
+all stand up together.
+So a protest in a
+public square, where
+everyone sees everyone
+else seeing everyone else
+can often do it.
+Which is why dictators are often
+terrified of public protests.
+Or if there is a widely
+circulated magazine,
+TV show, radio
+show, which is why
+they clamp down on the media.
+ADI IGNATIUS: Talk
+about the blank paper.
+STEVEN PINKER: Oh, yes.
+So there's a joke from the
+Soviet Union about a man handing
+out leaflets in Red Square.
+Of course, the KGB arrest him.
+They bundle them off
+to police headquarters,
+only to discover
+that the leaflets are
+blank sheets of paper.
+And they confronted him.
+They demand, what is
+the meaning of this?
+And he says, what's
+there to say?
+It's so obvious.
+So the point of the joke was he
+was generating common knowledge.
+He didn't need to say anything
+because people already knew it,
+but they didn't know that
+everyone else knew it.
+And all the people
+accepting the leaflets
+were then generating
+the common knowledge
+that everyone knew that
+everyone knew it, which
+is why it was so subversive.
+And in a case of life
+imitating a joke,
+Putin's police force has
+arrested a number of people
+for carrying blank signs.
+ADI IGNATIUS: Well, I
+wonder if it was before--
+so in China, where it's
+very dangerous to protest
+and very dangerous
+to dissent publicly,
+after the mishandling
+of COVID, there
+were famously blank
+paper protests.
+STEVEN PINKER: Oh, interesting.
+ADI IGNATIUS: Possibly
+inspired by the original--
+STEVEN PINKER: Joke.
+ADI IGNATIUS: Soviet joke, yeah.
+So the book is fascinating.
+And you put your finger
+on common knowledge,
+and how we know what
+we know, and how
+we think about certain
+things and how we operate.
+What are we supposed
+to do with all that?
+STEVEN PINKER: Well, it's
+hard to answer that question
+because I didn't
+write it kind of as a
+how to book, or as a
+manual, or self-help.
+It's kind of a work
+in fundamental science
+and logic and philosophy with
+lots and lots of applications.
+How you work it out
+in a particular case
+often depends on the
+particular payoffs.
+What would happen if
+you fail to coordinate?
+What do you gain if
+you do coordinate?
+If there are multiple ways
+of coordinating, who gains,
+who loses?
+So there's no kind
+of single formula.
+But it is a lens with
+which to view the world,
+simply because coordination is
+so ubiquitous in human affairs.
+Any corporation, any
+institution, any school,
+any relationship, any couple,
+any friendship, any family,
+these are all people
+trying to coordinate.
+And they always have to
+coordinate with some signal
+of common knowledge.
+They often, in order to
+preserve the relationship,
+have to keep things out
+of common knowledge.
+And so all the phenomena of
+politeness, euphemism, innuendo,
+tact, pretending not to see
+the elephant in the room,
+beating around the bush,
+hypocrisy, genteel hypocrisy,
+all of those I consider to be
+cases where people privately
+know something, but there's
+some reason to keep it out
+of common knowledge.
+The reason being, something
+in common knowledge
+changes the relationship.
+Sometimes, you don't want
+to change the relationship.
+Or you don't want to signal
+the wrong relationship.
+So just to give a couple
+of examples, I mean,
+the most common case
+of systematic hypocrisy
+is politeness.
+"If you could pass the salt,
+that would be awesome."
+What?
+If you think about it
+literally, it really
+doesn't make a
+whole lot of sense.
+But could you pass the salt?
+Do you think you
+might pass the salt?
+Why do we go through
+those rituals?
+It's because we don't want
+to boss each other around.
+I don't want to
+give you a command
+as if you're the butler
+assuming that we're friends,
+or for that matter, strangers.
+ADI IGNATIUS: That's
+really interesting.
+So benign hypocrisy or
+some of these protocols,
+they may not be direct,
+they may not be honest,
+but they're what we
+need to function.
+STEVEN PINKER:
+They're what we need
+to preserve our relationships
+because our relationships are
+coordination games which
+depend on common knowledge.
+Sometimes, we don't want
+to blow up a relationship,
+so we avoid the
+common knowledge.
+ADI IGNATIUS: Steven Pinker,
+thank you for being on IdeaCast.
+STEVEN PINKER:
+Thanks for having me.
+[MUSIC PLAYING]

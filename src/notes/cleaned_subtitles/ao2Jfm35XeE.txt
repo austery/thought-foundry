@@ -1,0 +1,603 @@
+- [Ken] Now, I'm gonna turn on 2000 volts.
+- [Derek] What?
+And this is the first step
+in creating snowflakes in the lab.
+This is totally wild.
+What?
+- Crazy, huh?
+The tips of those needles are
+like a hundred nanometers in diameter.
+- [Derek] That is so wild.
+Dr. Ken Libbrecht is the snowflake guy.
+- I was the snowflake consultant
+for the movie, "Frozen."
+It's okay to conjure snowflakes
+out of your fingertips,
+but they have to be real snowflakes,
+or people aren't buying it.
+(Ken and Derek laughing)
+The US Post Office made snowflake
+stamps using my pictures.
+It's not the kind of thing
+you normally think of
+when you start doing physics,
+that you'd be on a postage stamp.
+- [Derek] You've written the
+book on snowflakes, literally.
+- So I had like two
+successful books in a row,
+so we just kept making books,
+until finally (laughing)
+they sold zero copies,
+and then we stopped.
+(dramatic orchestral music)
+- So, are you kind of
+like a snowflake artist?
+- I call it a designer snowflake.
+Because yes, I am
+designing this on the fly.
+I don't have a computer
+that does all this for me.
+I just do it by hand, so every
+one's a little different.
+- [Derek] Ken knows so
+much about snowflakes,
+he can design and construct
+them to his own specifications.
+- [Ken] So what's happening
+now is it's growing
+and doing its thing at some...
+It's at -13 Celsius now, but
+I want to make some branches.
+I'll just turn this down to -15.
+And then I'm gonna increase
+the humidity a little bit,
+the super saturation,
+and you'll start to see
+branches come out there.
+- [Derek] See you
+changing those conditions,
+just caused the plate to kind
+of stop and become really--
+- I changed the growth
+conditions to prefer branches.
+This little thing right
+there, that little nub,
+that's the only thing that
+touches the sapphire substrate.
+The rest of this is all growing above.
+This increases the air flow.
+Those are droplets forming,
+and now I'm really kicking it into gear.
+(mystical orchestral music)
+Now, what I'm gonna do
+is I'm gonna turn that
+humidity down to zero,
+so the droplets are starting to recede,
+and this will stop growing
+and kind of start to facet a little bit.
+Let's say I want branches again,
+now I'm gonna really hammer on it.
+- [Derek] So you're giving
+it a lot of moisture.
+- A lot of moisture now, but
+you'll see side branches.
+You really start to feel you
+understand what's going on,
+when you can say, "Now I'm gonna do this,"
+and then it happens.
+It's fun. I can predict the future.
+(laughing)
+I like to think they're
+better than nature,
+and the reason is that
+the facets of just sharp.
+All the edges on these things
+are just sharp and crisp,
+whereas in the sky they have to fall,
+and by the time they fall,
+and you pick them up,
+and you put them under a microscope,
+they've started to evaporate a little.
+Boy, these are just,
+(snaps) bang, just crisp.
+- [Derek] The first close-up
+photograph of a snowflake
+in the wild was taken in 1885
+by American meteorologist,
+Wilson A. Bentley.
+It was Bentley who originated the idea
+that no two snowflakes are
+alike, and he would know.
+Over the course of his life,
+he took more than 5,000
+photos of snowflakes,
+a selection of which appear
+in his book, "Snow Crystals,"
+which is still in print today.
+But most snowflakes don't look
+like the ones Bentley photographed,
+because he selected only
+those in pristine condition
+with uncommon beauty and symmetry.
+- I mean, when you're
+looking for snowflakes,
+I'll take a big piece of cardboard,
+and you just glance at it.
+(exhaling)
+Crap, nothing, brush them aside, more.
+No, each brush is a thousand snowflakes.
+They're hard to find.
+They're one in a million,
+I mean, literally.
+- [Derek] We are all so used
+to seeing pictures like this,
+that we are blind to the
+mysteries of the snowflake.
+Like, why do they all have
+six fold, radial symmetry?
+Why are they so intricate,
+and yet so different from each other?
+How do opposite arms of a snowflake
+mirror each other so perfectly?
+I mean, how does one side
+of the snowflake know
+what the other side is doing?
+And why are snowflakes flat?
+They're usually millimeters in diameter,
+but micro meters thick.
+The edges of a plate can be
+as narrow as razorblades,
+but the mystery goes even deeper.
+Everyone pictures snowflakes like this,
+but the truth is they take
+all sorts of different forms,
+like this, a hollow column.
+That is a snowflake?
+- [Dr. Libbrecht] That is a snowflake.
+- [Derek] There are also
+needles, cups and bullets.
+- This is like my favorite
+kind of snowflake.
+It is a capped column.
+It started out growing as a column,
+but then the temperature changed,
+and then you've got plates
+growing on either end.
+(bright orchestral music)
+It's just a cacophony of different shapes.
+All of these appear spontaneously.
+There's no DNA or any kind of a blueprint
+for what's going on.
+It's just water vapor freezing into ice,
+and all this happens.
+- [Derek] So you've identified
+35 different types of snowflakes.
+- Yes, there's no really one way
+to define a type of snowflake.
+The first chart of snowflakes
+is like 41, I think,
+and then it got bigger - 60 or 70,
+and the latest one by
+some Japanese physicists,
+I think had 108 different
+types of snowflakes,
+and I found 108 was too many.
+(Ken laughs)
+(snow blowing)
+- [Derek] How does simple ice
+create so many distinct forms?
+(curious orchestral music)
+All snowflakes form in much the same way.
+Water evaporates into water vapor,
+individual molecules bouncing
+around in the atmosphere,
+and as this vapor rises,
+it cools and becomes super saturated,
+meaning there are more
+water molecules in the air
+than there would be in
+equilibrium at this temperature.
+Water molecules condense
+onto dust particles
+to form tiny droplets.
+And although the temperature
+may be below freezing,
+the droplets don't immediately freeze,
+but at some point, one
+droplet will freeze.
+Inside, the water
+molecules lock into place,
+forming a hexagonal crystal.
+This structure results
+from the peculiarities
+of water molecules.
+Oxygen atoms attract
+electrons more than hydrogen.
+And since the molecule has a bent shape,
+it's polar with oxygen
+being slightly negative,
+and the hydrogens, slightly positive.
+Since unlike charges attract,
+hydrogen from one molecule
+will sit next to an oxygen
+from another molecule,
+forming a so-called hydrogen bond,
+and this is what creates the
+hexagonal molecular lattice.
+But how does this microscopic lattice
+grow into a hexagonal
+crystal that we can see?
+- So you start with a chunk of ice,
+and these little guys are
+meant to be water molecules.
+And what happens is there
+are these flat surfaces,
+which are the facet surfaces,
+and at a molecular scale,
+they're very smooth and flat.
+And so when a molecule hits,
+a water vapor molecule hits
+that smooth and flat surface,
+it tends to bounce off,
+whereas here, it's rough.
+There are a lot of dangling
+molecular bonds over here.
+That's a rough surface.
+And so when these molecules
+hit, they tend to stick.
+It's a statistical thing, of course,
+but the probabilities are
+high that they stick here
+and low that they stick here.
+So if you take any shape,
+and you just let it grow
+for a little while, the
+rough areas fill in,
+and the flat areas don't grow very fast,
+and you end up with a faceted shape.
+- [Derek] And that's how we
+get from the quantum mechanics
+that governs a water molecule,
+to a hexagonal prism of ice.
+This prism has two basal
+facets and six prism facets,
+which is important.
+If the basal facets grow
+fast, you get a column.
+If the prism facets grow faster,
+you get a flat snowflake.
+Once there is a seed crystal,
+nearby water droplets evaporate
+and deposit water molecules
+onto the growing snowflake.
+Since the corners of the
+hexagonal prism stick out farther
+into humid air, they grow faster,
+and now they extend even farther,
+so they grow even faster in
+a positive feedback loop.
+This gives rise to six radial branches.
+At the corners of these branches,
+additional branches can
+form for the same reason.
+Around a hundred thousand droplets
+are required to make a single snowflake,
+and the process usually
+takes 30 to 45 minutes.
+In the 1930s, Ukichiro Nakaya
+was systematically studying snowflakes
+at the University of Hokkaido in Japan.
+He discovered that the
+different types of snowflakes
+don't all occur under the same conditions.
+Instead, two factors,
+the temperature and
+level of super saturation
+determine what type of snowflake grows.
+His findings are summarized
+in the Nakaya Diagram,
+but it's not a simple pattern.
+Around -2 Celsius, you get plates.
+At -5 Celsius, columns and needles form.
+At -15 Celsius, it's plates again,
+and then below -20, you
+get columns and plates.
+The Nakaya Diagram allows us
+to understand a rough
+history of any snowflake.
+Does each snowflake in
+essence reveal its history
+through its shape?
+- Yeah, absolutely, to some degree.
+You can definitely look
+at a snowflake and say,
+"Yeah, I know what conditions
+"that crystal grew under, more or less."
+Your typical weather
+patterns, fronts, cold front,
+that produces a lot of capped columns,
+because as the cloud moves
+up, it starts to get colder
+and initially start to
+freeze at around -6, -10.
+That makes columns, and as it gets colder,
+then it makes branches and plates,
+and so you get capped columns.
+- [Derek] This also explains
+why snowflakes are so intricate.
+The temperature and humidity
+at each moment of growth
+determines the structures
+formed in that moment.
+The symmetry you see
+is not because one side
+somehow knows what the
+other side is doing,
+but because both sides of
+a single snowflake grow
+in the exact same conditions.
+- When the crystal changes its position,
+the temperature will change, say,
+and all six branches will see
+the same temperature change,
+and so they'll all respond the same way.
+- [Derek] Different
+snowflakes, on the other hand,
+each take a unique path,
+and therefore they experience
+a unique set of conditions,
+which is why no two snowflakes are alike.
+But in the lab, you can
+carefully control the conditions,
+so theoretically it should be possible
+to create almost identical
+snowflakes, and indeed, Ken has.
+What's in here?
+- Poke your flashlight
+in there, and you'll see.
+- [Derek] Ah ha, I'm imagining
+these are seed crystals of a sort?
+- [Ken] Those are a little
+sparkly snow crystals.
+- [Derek] Yeah.
+- You know this is another little chamber.
+It's just a cold plate,
+and there's a little
+sapphire disc in there,
+and then I'm going to push
+this thing, my sapphire,
+all the way in here, and the
+crystals will waft onto to it
+and hopefully stay there.
+The idea popped in, it's like,
+oh, if I grow two next to one another,
+they'll be kind of identical,
+and I call them identical twin snowflakes,
+'cause they're like identical twin people.
+They're not exactly the same,
+but clearly more alike
+than you would ever expect.
+(gentle orchestral music)
+Is it really true that no
+two snowflakes are alike?
+You know, that's just a silly question.
+(Ken laughs)
+It's silly because no two trees are like,
+no two grains of sand are like,
+no two anything are alike.
+Anything that has any complexity
+is different from everything else,
+because once you introduce complexity,
+then there's just an uncountable
+number of ways to make it.
+- [Derek] If a pair of twins snowflakes
+are growing too close together,
+they end up competing for
+moisture between them,
+stunting both of their growths.
+The Nakaya Diagram allows
+us to understand a lot
+about snowflake formation.
+Ken has used his experiments
+to build his own version of the chart.
+But what it doesn't explain
+is why do ice crystals form
+this way in the first place?
+I mean, why do we get
+plates and then columns
+and then plates and columns again?
+This has been a mystery,
+essentially since Nakaya
+introduced his diagram
+back in the 1930s, but Ken
+believes he now has an answer.
+Anytime you have a crystal,
+the reason why you get
+these smooth flat facets
+is because it's not easy to
+grow more crystal on top.
+There are so-called nucleation barriers.
+What you need is a critical
+density of additional molecules
+of the substance before
+they can come together
+to form a little island that
+is stable enough to grow
+and add another layer onto the crystal.
+When you're first forming a snowflake,
+you're always gonna start
+with a hexagonal prism
+with its two basal facets
+and six prism facets around the side.
+And the nucleation barrier
+for the basal facets
+is different than that
+of the prism facets.
+If the nucleation barrier is
+lower for the prism facets,
+then they grow faster, and
+you get plate like structures.
+If the nucleation barrier is
+lower for the basal facets,
+then they grow faster,
+and you end up with
+column-like structures.
+Now, the nucleation barriers of ice
+are known as a function of temperature,
+and this explains why around -2,
+the prism facets grow
+faster, and you get plates,
+because their nucleation barrier is lower.
+You can also see why below -20 or so,
+well then you get columns,
+because the basal facet
+nucleation barrier is lower
+at those temperatures.
+But what doesn't make sense
+is why we should get columns
+at around -5 Celsius and
+then plates again at -15.
+So what is happening?
+Well Ken's hypothesis is that
+these nucleation barriers
+are valid only for large flat facets,
+but if you had really narrow facets,
+well, the nucleation
+barriers would be different.
+So Ken proposes that narrow basal facets
+have a dip in their nucleation
+barrier around -4 Celsius,
+and narrow prism facets have a dip at -15,
+so his hypothesis is that the
+graph should look like this.
+This then is consistent
+with all the different forms
+of snowflakes that grow
+at different temperatures.
+But what accounts for these dips?
+Well, let's say we have
+a narrow prism facet,
+so we're growing a plate snowflake.
+Water molecules that hit the basal facets
+are unlikely to reach the
+critical density required
+to overcome the nucleation barrier,
+so that surface grows only slowly.
+But on either side of
+this narrow prism facet,
+water molecules can
+stick on the rough edges,
+and to minimize surface energy,
+the ideal shape of this
+face would be semicircular.
+But if only the top few layers
+of water molecules are mobile
+to try to lower the surface energy,
+many of them diffuse onto the prism facet
+and in the process,
+they exceed the critical density required
+to overcome the nucleation barrier,
+and so they can grow the
+crystal on the prism facet.
+So due to this narrow edge,
+the nucleation barrier
+is effectively lower than it would be
+for a large prism facet.
+A similar effect happens
+for the basal facets,
+just at a different temperature.
+And Ken has done
+experiments to investigate
+whether these effects
+are observed in the lab.
+- And so I did a series of
+experiments using that apparatus
+and man, it's just like,
+boom, just like that.
+(laughing) Whoa!
+When you make a model,
+and you sort of find it's
+supposed to do something,
+and it sorta does, it's just
+like, this might be right!
+- So far, the results agree
+nicely with the hypothesis.
+So after 85 years, maybe we now understand
+the molecular physics of ice well enough
+to finally explain why snowflakes grow
+into such a diverse collection
+of columnar and plate-like forms.
+- And I've done a lot of my career
+in astronomy and astrophysics.
+Nobody ever asks you what
+it's good for, I mean, never.
+Not even once did anyone say,
+"What are those black holes
+gonna be used for?" No,
+(Ken and Derek laughing)
+Saturn's rings, "Why do you
+care about Saturn's rings?
+"What's the motivation
+for studying Saturn,"
+nobody asks that.
+Every time I give a talk, people are like,
+"What are you doing? What
+on earth is this for?"
+I'll tell you the real reason,
+the real reason that I got into this.
+You look at a snowflake
+and you kind of go,
+"Um, actually, (laughs)
+we don't have any idea
+"how that works."
+Well, that doesn't work.
+We have to know how that works, dammit!
+Well, I want to be the guy
+that figures out how snowflakes work.
+That's always been a driver.
+You know, as a scientist, you
+want to figure something out.
+(bright electronic music)
+- Hey, this video was
+sponsored by Brilliant,
+the interactive learning platform
+that lets you tackle
+concepts in math, science
+and computer science.
+You know, YouTube videos
+are great for finding out
+about new areas of interest,
+but if you really want to master a topic,
+you have to try problems for yourself,
+and that's what Brilliant
+allows you to do.
+They've recently revamped
+a lot of their courses
+to make them even more interactive,
+like their course on logic.
+Here's a puzzle where
+you have to sort robots.
+The questions increase
+in difficulty as you go,
+but they've always got helpful hints,
+so you don't get stuck.
+Now, if you enjoyed this video,
+I'd recommend you check out their course
+on beautiful geometry.
+And for viewers of this channel,
+Brilliant are offering 20%
+off a yearly subscription
+to the first 200 people to sign up.
+Just go to brilliant.org/veritasium.
+Plus, this offer is
+valid for subscriptions
+that you gift to others.
+So, if you know someone who would benefit
+by exploring STEM concepts
+in a fun, interactive way,
+a Brilliant subscription
+makes the perfect gift.
+So, I want to thank Brilliant
+for sponsoring this video,
+and I want to thank you for watching.

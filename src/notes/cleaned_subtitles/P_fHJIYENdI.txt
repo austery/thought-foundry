@@ -1,0 +1,838 @@
+What if, all
+of the world's biggest
+problems from climate change,
+to curing diseases, to
+disposal of plastic waste,
+what if they all had the same solution?
+A solution so tiny it would be invisible.
+I'm inclined to believe this is possible,
+thanks to a recent
+breakthrough that solved one
+of the biggest problems
+of the last century.
+How to determine the
+structure of a protein?
+- It's been described to me as equivalent
+to Fermat's last theorem, but for biology.
+- Over six decades, tens of thousands
+of biologists painstakingly worked out
+the structure of 150,000 proteins.
+Then in just a few years, a team of
+around 15 determined the
+structure of 200 million.
+That's basically every protein
+known to exist in nature.
+So how did they do it
+and why does this have the potential
+to solve problems way
+outside the realm of biology?
+A protein starts simply as
+a string of amino acids.
+Each amino acid has a
+carbon atom at the center.
+Then on one side is an amine group,
+and on the other side is a carboxyl group.
+And the last thing it's
+bonded to could be one
+of 20 different side chains,
+and which one determines which
+of the 20 different amino
+acids this molecule is.
+The amine group from
+one amino acid can react
+with the carboxyl group of
+another to form a peptide bond.
+So a series of amino acids
+can bond to form a string
+and pushing and pulling
+between countless molecules,
+electrostatic forces,
+hydrogen bonds, solvent interactions
+can cause this string to
+coil up and fold onto itself.
+This ultimately determines the
+3D structure of the protein.
+And this shape is the thing
+that really matters about the protein.
+It's built for a specific purpose,
+like how hemoglobin has
+the perfect binding site
+to carry around oxygen in your blood.
+- These are machines, they need
+to be in their correct orientation
+in order to work together
+to move, for example, the
+proteins in your muscles.
+They change their shape a little bit
+in order to pull and contract.
+- But it would take people a long time
+to get the structure of just one protein.
+- Absolutely.
+So what should proteins look like?
+Was only started to answer really
+with experimental techniques.
+- [Derek] The first way protein
+structure was determined
+was by creating a crystal
+out of that protein.
+This was then exposed to x-rays
+to get a diffraction pattern,
+and then scientists would work backwards
+to try to figure out what shape
+of molecules would create such a pattern.
+It took British biochemist,
+John Kendrew, 12 years
+to get the first protein structure.
+His target was an oxygen storing
+protein called myoglobin,
+an important protein in our hearts.
+He first tried a horse heart,
+but this produced rather small crystals
+because it didn't have enough myoglobin.
+He knew diving mammals would have lots
+of myoglobin in their muscles
+since they're the best
+at conserving oxygen.
+So he obtained a huge chunk
+of whale meat from Peru.
+This finally gave Kendrew
+large enough crystals
+to create an x-ray diffraction image.
+- And when it came out,
+it looked really weird.
+People expected something
+kind of logical,
+mathematical, understandable,
+and it almost looked, I
+wouldn't say ugly, but intricate
+and complex and kind
+of like if you see a rocket motor,
+and all the parts hanging off.
+- [Derek] This structure,
+which has been called
+"Turd of the century,"
+won Kendrew, the 1962
+Nobel Prize in chemistry.
+Over the next two decades,
+only around a hundred more
+structures were resolved.
+Even today, protein crystallization
+remains a big challenge.
+- Frankly it is not uncommon
+that just a couple protein structures
+can be someone's entire PhD.
+Sometimes just one, sometimes
+even just progress toward one,
+- And it's expensive.
+X-ray crystallography
+can cost 10s of thousands
+of dollars per protein.
+So scientists sought another way
+to work out protein structure.
+It only costs around a hundred dollars
+to find a protein sequence of amino acids.
+So if you could use this to figure out
+how the protein would fold,
+that would save a lot of
+time, effort, and money.
+I kind of know how carbon behaves
+and I know how carbon sticks to a sulfur
+and how that might stick
+next to a nitrogen.
+And if these ones are here,
+then I can imagine this one
+folding, making that bond there.
+So it seems like if you have some sense
+of basic molecular dynamics,
+you might be able to figure out
+how this protein's gonna fold.
+- One of the few true
+predictions in biology
+was actually Linus Pauling
+looking at just the geometry
+of the building blocks of proteins
+and saying, actually they
+should make helices and sheets.
+That's what we call secondary structure,
+the very local kind of twists
+and turns of the protein.
+- But beyond helices and sheets,
+biochemists could not figure
+out any reliable patterns
+that would lead to the final
+structure of all proteins.
+One reason for this is that
+evolution didn't design proteins
+from the ground up.
+- It's kind of like a programmer
+that doesn't know what they're doing,
+and whenever it looked good,
+they just kept adding that kind of thing.
+And that's how you end up
+with these both amazing objects
+and incredibly complex
+and hard to describe.
+They don't have purpose
+underneath them in the same way
+as like a human designed machine would.
+- [Derek] To illustrate just
+how complicated this process
+can get, MIT biologist Cyrus Levinthal did
+a back-of-the-envelope calculation,
+and he showed that even
+a short protein chain
+with 35 amino acids can fold
+in an astronomical number of ways.
+So even if a computer checked
+the energy instability
+of 30,000 configurations every nanosecond,
+it would take 200 times
+the age of the universe
+to find the correct structure.
+Refusing to give up,
+the University of Maryland
+professor John Moult
+started a competition called CASP in 1994.
+The challenge was simple,
+to design a computer model
+that could take an amino acid sequence
+and output its structure.
+The modelers would not
+know the correct structure
+beforehand, but the output from
+each model would be compared
+to the experimentally
+determined structure.
+A perfect match would
+get a score of a hundred,
+but anything over 90 was
+considered close enough
+that the structure was solved.
+CASP competitors gathered
+at an old wooden chapel
+turned conference center
+in Monterey, California,
+and at any point where a
+prediction didn't make sense,
+they were encouraged to tap
+their feet as friendly banter.
+There was a lot of foot tapping.
+(foot tapping)
+In the first year, teams
+could not achieve scores
+higher than 40.
+The early front runner was
+an algorithm called Rosetta,
+created by University of
+Washington biologist David Baker.
+One of his innovations
+was to boost computation
+by pooling together processing
+power from idle computers
+in homes, schools, and
+libraries that volunteered
+to install his software
+called Rosetta at Home.
+- As part of it, there was a screensaver
+that showed basically the course
+of the protein folding calculation.
+And then we started getting
+people writing in saying
+that they were watching the screensaver
+and they thought they could
+do better than the computer.
+- So Baker had an idea.
+He created a video game.
+(upbeat music)
+The game called Fold It,
+set up a protein chain capable of twisting
+and turning into different arrangements.
+- But now instead of the
+computer making the moves,
+the game players, the
+humans could make the moves.
+- Within three weeks,
+more than 50,000 gamers pooled
+their efforts to decipher an enzyme
+that plays a key role in HIV.
+X-Ray crystallography showed
+their result was correct.
+The gamers even got credited
+as co-authors on the research paper.
+Now, one man who played Fold It
+was a former child chess
+prodigy named Demis Hassabis.
+Hassabis had recently started
+an AI company called DeepMind.
+Their AI algorithm, AlphaGo made headlines
+for beating world champion
+Lee Sedol at the game of Go.
+One of AlphaGo's moves, move
+37, shook Sedol to his core.
+But Hassabis never forgot about
+his time as a Fold It gamer.
+- So of course I was fascinated this
+just from games design perspective.
+You know, wouldn't it be
+amazing if we could mimic
+the intuition of these gamers
+who were only, by the way,
+of course, amateur biologists.
+- After returning from Korea,
+DeepMind researchers had
+a week-long hackathon
+where they tried to
+train AI to play Fold It.
+This was the beginning of
+Hassabis' longstanding goal
+of using AI to advance science.
+He initiated a new
+project called Alpha Fold
+to solve the protein folding problem.
+Meanwhile at CASP, the quality
+of prediction from the best performers,
+including Rosetta had plateaued.
+In fact, the performance went
+downhill after CASP eight.
+The predictions weren't good enough,
+even with faster computers
+and a growing number of structures
+in the protein data bank to train on.
+DeepMind hoped to change
+this with AlphaFold.
+Its first iteration, AlphaFold 1,
+was a standard off-the-shelf
+deep neural network like
+the ones used for computer
+vision at that time.
+The researchers trained it on lots
+and lots of protein structures
+from the protein data bank.
+As input, AlphaFold took the
+protein's amino acid sequence
+and an important set of
+clues given by evolution.
+Evolution is driven by mutations,
+changes in the genetic code,
+which in turn change the amino acids
+within a given protein sequence.
+But as species evolve, proteins
+need to retain the shape
+that allows them to perform
+their specific function.
+For instance, hemoglobin looks
+the same in humans, cats,
+horses, and basically any mammal.
+Evolution says, if it
+ain't broke, don't fix it.
+So we can compare sequences
+of the same protein
+across different species
+in this evolutionary table.
+Where sequences are similar,
+it's likely they are important
+in the protein structure and function.
+But even where the
+sequences are different,
+it's helpful to look at where
+mutations happen in pairs
+because they can identify
+which amino acids
+are close to each other
+in the final structure.
+Say two amino acids, a
+positively charged lysine
+and a negatively charged
+glutamic acid attract
+and hold each other in the folded protein.
+Now, if a mutation changes lysine
+to a negatively charged amino acid,
+it would repel glutamic acid
+and destabilize the whole protein.
+Therefore, another mutation
+must replace glutamic acid
+with a positively charged amino acid.
+This is known as co-evolution.
+These evolutionary tables
+were an important input for AlphaFold.
+As output, instead of directly
+producing a 3D structure,
+AlphaFold predicted a simpler
+2D pair representation
+of that structure.
+The amino acid sequence
+is laid out horizontally and vertically.
+Whenever two amino acids are close
+to each other in the final structure,
+their corresponding row
+column intersection is bright.
+Distant amino acid pairs are dim.
+In addition to distances,
+the pair representation
+can also hold information
+on how amino acid molecules are twisted
+within the structure.
+AlphaFold 1 fed the protein sequence
+and its evolutionary table
+into its deep neural network,
+which it had trained to predict
+the pair representation.
+Once it had this, a
+separate algorithm folded
+the amino acid string based
+on the distance and torsion constraints.
+And this was the final
+protein structure prediction.
+With this framework,
+AlphaFold entered CASP 13
+and it immediately turned heads.
+It was the clear winner
+after many additions,
+but it wasn't perfect.
+Its score of 70 was not enough
+to clear the CASP threshold of 90.
+DeepMind needed to get
+back to the drawing board
+to get better results.
+So Hassabis recruited John
+Jumper to lead AlphaFold.
+- AlphaFold 2 was really
+a system about designing
+our deep learning.
+The individual blocks to be
+good at learning about proteins,
+have the types of geometric
+physical, evolutionary concepts
+that were needed and put it
+into the middle of the network
+instead of a process around it.
+And that was a tremendous accuracy boost.
+- [Derek] There were three key steps
+to get better results with AI.
+First, maximum compute power.
+Here, DeepMind was
+already better positioned
+than anybody in the world.
+It had access to the enormous
+computing power of Google,
+including their tensor processing units.
+Second, they needed a
+large and diverse data set.
+Is data the biggest roadblock and why?
+- I think it's too easy to
+say data's the roadblock
+and we should be careful about it.
+AlphaFold 2 was trained on
+the exact same data with much,
+much better machine
+learning as AlphaFold 1.
+So everyone overestimates
+the data blockage
+because it gets less severe
+with better machine learning.
+- [Derek] And that was the third key
+element, better AI algorithms.
+Now AI is not just good
+at protein folding.
+It can do all kinds of tasks
+that no one likes from writing emails
+to answering phone calls.
+Something I hate is building
+and maintaining a website.
+It's so much work from
+optimizing the website
+for different platforms,
+finding a good design
+so it looks professional
+to constantly updating it
+with new information about
+the business as it grows.
+That's why we partnered with Hostinger,
+the sponsor of today's video.
+Hostinger makes it super
+easy to build a website
+for yourself or your business.
+And with their advanced AI
+tools, you can simply describe
+what you want your website to look like.
+And in just a few seconds,
+your personalized website
+is up and running.
+Hostinger is designed to
+be as easy as possible
+for beginners and professionals.
+So any tweaks you need to make
+after that are super easy too.
+Just drag and drop any pictures
+or videos you want, where you want them,
+or just type what you want to say
+or have the AI help you here too,
+if writing isn't your thing either.
+And if you still want that
+human touch, Hostinger
+is always available
+with 24/7 support if you
+ever run into any issues.
+But when you're done building
+in just a few clicks,
+your website is live.
+It's all incredibly
+affordable too, with a domain
+and business email included for free.
+So to take your big idea online today,
+visit hostinger.com/ve or
+scan this QR code right here.
+And when you sign up, remember
+to use code VE at checkout
+to get 10% off your plan.
+I wanna thank Hostinger for sponsoring
+this part of the video.
+And now back to protein folding.
+As the AlphaFold 2 team
+searched for better algorithms,
+they turned to the transformer.
+That's the T in ChatGPT.
+And it relies on a
+concept called attention.
+In the sentence,
+the animal didn't cross the
+street because it was too tired.
+Attention recognizes
+that it refers to animal
+and not street based on the word tired.
+Attention adds context to any
+kind of sequential information
+by breaking it down into chunks,
+converting these into
+numerical representations
+or embeddings and making
+connections between them.
+In this case, the word it and animal.
+3Blue1Brown has a great series
+of videos specifically about
+transformers and attention.
+Large language models use attention
+to predict the most appropriate
+word to add to a sentence,
+but AlphaFold also has
+sequential information,
+not sentences, but amino acid sequences.
+And to analyze them,
+the AlphaFold team built their own version
+of the transformer called an EVO Former.
+The EVO Former contained two towers,
+evolutionary information
+in the biology tower
+and pair representations
+in the geometry tower.
+Gone was AlphaFold 1's deep
+neural network that started
+with one tower and predicted the other.
+Instead, AlphaFold 2's EVO Former
+builds each tower separately.
+It starts with some initial guesses,
+evolutionary tables taken from
+known data sets as before,
+and the pair representations
+based on similar known proteins.
+And this time there's a bridge
+connecting the two towers
+that conveys newly found
+biological and geometry clues
+back and forth.
+In the biology tower,
+attention applied on a column identifies
+amino acid sequences
+that have been conserved.
+While along a row, it
+finds amino acid mutations
+that have occurred together.
+Whenever the EVO Former finds
+too closely linked amino acids
+in the evolutionary table.
+It means they are important to structure
+and it sends this information
+to the geometry tower.
+Here attention is applied
+to help calculate distances
+between amino acids.
+- There's also this thing
+called triangular attention
+that got introduced,
+which is essentially about letting
+triplets attend to each other.
+- [Derek] For each triplet of amino acids,
+AlphaFold applies the triangle inequality.
+The sum of two sides must
+be greater than the third.
+This constrains how far apart
+these three amino acids can be.
+This information is used to
+update the pair representation,
+- And that helps the model produce like
+a self-consistent
+picture of the structure.
+- [Derek] If the geometry
+tower finds it's impossible
+for two amino acids to
+be close to each other,
+then it tells the first tower
+to ignore their relationship
+in the evolutionary table.
+This exchange of information
+within the EVO Former
+goes on for 48 times,
+until information within
+both towers is refined.
+The geometrical features
+learned by this network
+are passed onto AlphaFold
+2's second main innovation,
+the structure module.
+- For each amino acid,
+we pick three special
+atoms in the amino acid
+and say that those define a frame.
+And what the network does is it imagines
+that all the amino acids
+start out with the origin
+and it has to predict the
+appropriate translation
+and rotation to move these frames
+to where they sit in the real structure.
+So that's essentially what
+the structure module does.
+- But the thing that sets
+the structure module apart
+is what it doesn't do.
+- Previously, people might
+have imagined that you would
+like to encode the fact that
+this is a chain, you know,
+and that certain residue
+should sit next to each other.
+We don't really explicitly
+tell AlphaFold that.
+It's more like we give
+it a bag of amino acids
+and it's allowed to position
+each of them separately.
+And some people have
+thought that that helps it
+to not get stuck in terms of
+where things should be placed.
+It doesn't have to always be
+thinking about the constraint
+of these things forming a chain,
+that's something that
+emerges naturally later.
+- [Derek] That's why live
+AlphaFold folding videos
+can show it doing some
+weirdly non-physical stuff.
+The structure module outputs a 3D protein,
+but it still isn't ready.
+It's recycled at least three more times
+through the Evo Former to
+gain a deeper understanding
+of the protein only then the
+final prediction is made.
+In December, 2020, DeepMind
+returned to a virtual CASP
+with AlphaFold 2, and
+this time they did it.
+- I'm going to read an
+email from John Moult.
+"Your group has performed
+amazingly well in CASP 14,
+both relative to other groups
+and in absolute model accuracy.
+Congratulations on this work."
+- [Derek] For many proteins,
+AlphaFold 2 predictions
+were virtually indistinguishable
+from the actual structures
+and they finally beat the
+gold standard score of 90.
+- For me, having worked
+on this problem so long,
+after many, many stops and starts,
+and suddenly this is a solution.
+We'd solved the problem.
+This gives you such excitement
+about the way science works.
+- [Derek] Over six decades,
+all of the scientists working
+around the world on
+proteins painstakingly found
+about 150,000 protein structures.
+Then in one fell swoop, AlphaFold came in
+and unveiled over 200 million of them.
+Nearly all proteins
+known to exist in nature.
+In just a few months,
+AlphaFold advanced the work
+of research labs worldwide
+by several decades.
+It has directly helped us
+develop a vaccine for malaria.
+It's made possible the breaking down
+of antibiotic resistance enzymes,
+which make many life-saving
+drugs effective again.
+It's even helped us understand
+how protein mutations lead
+to various diseases from
+schizophrenia to cancer,
+and biologists studying little known
+and endangered species suddenly
+had access to proteins
+and their life mechanism.
+The AlphaFold 2 paper has
+been cited over 30,000 times.
+It has truly made a step function leap
+in our understanding of life.
+John Jumper and Demis
+Hassabis were awarded one half
+of the 2024 Nobel Prize in
+chemistry for this breakthrough.
+The other half went to David Baker,
+but not for predicting
+structures using Rosetta.
+Instead, it was for designing
+completely new proteins from scratch.
+- It was really hard to
+make brand new proteins
+that would do things.
+And so that's kind of the
+problem that we solved.
+- To do so, he uses the
+same kind of generative AI
+that makes art in programs like Dall-E.
+- You can say draw a picture
+of a kangaroo riding on a rabbit
+or something, and it will do that.
+And so it's exactly what
+we did with proteins.
+- His technique called
+"RF Diffusion" is trained
+by adding random noise to
+a known protein structure,
+and then the AI has to remove this noise.
+Once trained in this
+way, the AI can be asked
+to produce proteins for various functions.
+It's given a random noise input,
+and the AI figures out a brand new protein
+that does what you asked it to do.
+This work has huge implications.
+I mean, imagine you got
+bitten by a venomous snake.
+If you're lucky, you'll have
+access to anti-venom prepared
+by milking venom from
+the exact kind of snake,
+which is then injected into live animals,
+and the antibodies from
+that animal are extracted
+and refined and then given
+to you as an anti-venom.
+The trouble is often people
+have allergic reactions
+to these antibodies from other organisms.
+But your odds of survival
+can be a lot better
+with the latest synthetic
+proteins designed in Baker's lab.
+They've created human
+compatible antibodies
+that can neutralize lethal snake venom.
+This anti-venom could be
+manufactured in large quantities
+and easily transported to
+the places where it's needed.
+With these tiny molecular machines,
+the possibilities are endless.
+What are the applications
+you're most excited about?
+- So I think vaccines are
+gonna be really powerful.
+We have a number of proteins
+that are in human clinical
+trials for cancer,
+and we're working on
+autoimmune disease now.
+We're really excited about problems
+like capturing greenhouse gases.
+So we're designing enzymes
+that can fix methane, break down plastic.
+- What makes this approach so effective is
+how fast they can create
+and iterate the proteins.
+- It's really quite miraculous
+for anyone who's a
+conventional school biochemist
+or protein scientist.
+We can now have designs on the computer,
+get the amino acid sequence
+of the design proteins,
+and then in just a couple days
+we can get the protein out.
+Yeah. We've given a name to this,
+which is "Cowboy Biochemistry"
+because we just like, you
+just got kind of go for it
+as fast as you can, and it
+turns out to work pretty well.
+- What AI has done for
+proteins is just a hint
+of what it can do in other fields
+and on larger scales.
+In materials science, for example,
+DeepMind's GNoME program has
+found 2.2 million new crystals,
+including over 400,000 stable materials
+that could power future technologies
+from superconductors to batteries.
+AI is creating transformative
+leaps in science
+by helping to solve some
+of the fundamental problems
+that have blocked human progress.
+- If we think of the
+whole tree of knowledge,
+you know there are certain problems
+where you know if their root, no problems.
+If you unlock them, if you
+discover a solution to them,
+it would unlock a whole new
+branch or avenue of discovery.
+- And with this, AI is
+pushing forward the boundaries
+of human knowledge at a
+rate never seen before.
+- Speed ups of 2x are nice,
+they're great, we love them.
+Speed ups of a 100,000x, change what you do.
+You do fundamentally different stuff
+and you start to rebuild your science
+around the things that got easy.
+- And that's what I'm excited about.
+These discoveries represent
+real step function
+changes in science.
+Even if AI doesn't advance
+beyond where it is today,
+we will be reaping the benefits
+of these breakthroughs for decades.
+And assuming AI does continue to develop,
+well, it will open up opportunities
+that were previously thought impossible.
+Whether that's curing all diseases,
+creating novel materials,
+or restoring the environment
+to a pristine state.
+This sounds like an amazing future as long
+as the AI doesn't take over
+and destroy us all first.
+(slow cosmic music)

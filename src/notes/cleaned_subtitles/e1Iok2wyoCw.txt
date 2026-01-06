@@ -1,0 +1,2044 @@
+For markets to be efficient in any degree,
+not even perfectly efficient.
+This famous idea of the wisdom of crowds
+has to be helping us a lot.
+The hypothesis that we're all geniuses
+is never going to fly, right?
+So the wisdom of crowds and, you know.
+Well, says, even if on average,
+most people don't know the answer,
+the stupid answers cancel.
+And the right answers don't,
+because they're the same.
+My favorite example of that,
+and this might be dating myself, is
+is, Regis Philbin
+and Who Wants to Be a millionaire?
+Right.
+Remember the show? Multiple choice show.
+It's frightening that you're
+describing that as old, but I guess it is.
+Yeah.
+Yeah, it's been off the air.
+Sadly, Regis has passed away. It's old.
+Sorry. Sorry.
+But you had multiple cheats.
+Like three cheats.
+One was a friend,
+and a friend was almost useless.
+You people a your friend
+usually wasn't much smarter than you.
+And b people. At least to me.
+I didn't watch every episode, but seemed
+to choose friends who knew the same stuff.
+They knew.
+Right.
+You really want to choose a friend who is
+in, like, a totally different field?
+I think in some countries,
+the friends also had a tendency
+to deliberately give the wrong answer
+because they just
+didn't want to see their friend actually
+win money.
+The most cynical phrase ever is nothing
+succeeds like a friend's failure.
+There we go.
+Hello and welcome to another episode
+of the Odd Lots podcast.
+I'm Tracy Alloway
+and I'm Joe Weisenthal 
+Joe It's a big month for us.
+It's a big month for us.
+We've been doing this for ten years.
+I know, I can't believe it.
+Do you remember the first episode?
+Yeah. Of course, with, Tom Keene. Yeah.
+And then our second episode,
+I think, was about bananas.
+For some reason, it was. You're right.
+It took us a long time,
+to figure out what we were doing.
+It took us a long time
+to figure out what we were doing,
+and I don't think I would have that point.
+I would have expected
+that we'd be doing it ten years.
+I don't know.
+I was expecting,
+I think, turning on a microphone
+in a radio studio and talking for a while.
+Oh, we started doing it
+because we wanted to have a podcast
+and talk to interesting people.
+I think we were hashtag blessed
+that no one was listening for a very,
+very long time, which gave us a long
+runway to figure things out.
+So we got lucky.
+That said, you know, ten years.
+It is, in fact,
+a long time to be doing this.
+And a lot has changed in that period.
+A lot has changed in that period.
+Sometimes mind blowing.
+And it really, you know, I feel like and
+we've talked about this before for sure,
+but the thing that we were covering
+is capital
+and news at the time are now capital
+H history.
+And it's like these things
+that are we sort of take for granted.
+Everyone was there was like no children.
+Let us tell you
+what it was like in the old days
+when, you know, people were worried
+the world was going to come to an end
+because, you
+know, Greece is sovereign debt
+and all this stuff that we just
+sort of part of the landscape,
+but people don't remember it.
+No, one of those things has to be
+the idea of value or fundamental
+investing, right?
+Like, let us tell you about the days
+when price actually mattered.
+Letters had a limit
+to what investors would pile into.
+Yeah, that's exactly right.
+Let us talk about the days
+when people used to talk about PE ratios.
+This stock oh it's at a 20 5BE.
+We better sell it and buy the stock
+at two £0.15 or whatever.
+Yes, that feels quaint.
+Maybe it'll be back there one day.
+But for now, given
+how many things in the market seem to be,
+some of these, the Grandma and Dodd
+kind of stuff, it feels a little old.
+A little old fashioned.
+Little old fashioned.
+Yeah. Okay.
+So one of the big themes that has emerged
+in the ten years
+that we've been doing this podcast is,
+everyone seems to have grown more stupid.
+I would say, hopefully that's not related.
+It's not like a correlation thing.
+It, it could be all right.
+But, you know, we have all this
+gamification of investing,
+people betting on lines going up.
+Yeah.
+Or down, people betting on random meme
+coins, things like that.
+And I think, you know,
+we talk about it a lot on the podcast,
+but this is actually
+a fundamental shift in the market.
+If you think about the market as something
+that's supposed to be about capital
+allocation.
+Yeah, alignment of incentives.
+People are investing in something
+because they think it's
+going to be profitable in the future
+at the right price.
+And now people
+are just sort of piling into stuff
+because other people are doing it.
+And again, line go up deep down,
+I still believe that the value of a stock
+should reflect the net present value.
+I know you're an MH guy, but I've, it's
+been a little bit hard with,
+some of these things and,
+you know, the other thing too,
+that is sort of change
+is that like half of our episodes
+these days are kind of
+AI related in some way.
+And so I think there's
+a lot of interesting stuff
+going on, particularly
+at the intersection of tech and applying
+tech to both investing in tech,
+but then the application of tech
+to investing and so forth.
+So, yes, much has changed,
+a lot has changed.
+And we have the perfect guest
+to talk about how everyone has grown
+more stupid over time.
+We're going to be speaking with someone
+we've wanted on the show for a really,
+really long time.
+I'm very excited about this.
+It's Cliff Asness
+the co-founder and CIO of AQR.
+Thank you so much for coming
+on. All thoughts.
+Thank you for having me.
+What's it like to be a rational person
+living in an irrational world class?
+Yeah,
+you've been doing it for a long time.
+Well, a rational person is not always
+how I'm described,
+but there's rational investing,
+and then there's rational conduct
+in your personal life.
+So let's just distinguish those,
+you guys in your intro
+said like,
+it's a little it's
+a little scary for the next hour
+because you said
+like a third of the things I want to say.
+Oh, shoot. Okay.
+I wrote a rather, you know, gigantic piece
+in the Journal of Portfolio Management.
+They were having a 50th anniversary.
+None of us were quite old enough
+to have been there in the first issue,
+but they were looking for the old guys
+to write kind of retrospectives.
+And the piece I wrote was called
+The Less Efficient Market Hypothesis.
+And now I think you guys
+probably know this, but my dissertation
+advisor was, a little known guy
+named Eugene Fama we've heard of,
+I was his Ta for two years.
+I grew up in MH.
+I love that you guys should say MH
+and your audience knows.
+Yeah, what you're talking about.
+That is not the norm for me.
+When I, when I,
+when I talk about these things,
+I was
+not a perfect, efficient marketer
+even back then.
+Neither is Gene, by the way.
+Gene, Gene's not a zealot.
+Yeah, well, he about third week of class.
+I know that's because I took the class
+three times I didn't fail,
+but as the ta, I sat through it,
+three full years.
+And like, the third week, he always tells
+the class markets are almost
+certainly not perfectly efficient
+because genes are brilliant guy
+and recognizes
+that perfection is a really stupid idea.
+He's been on the show, by the way.
+Oh, I didn't okay. Yeah, yeah.
+And I don't know if that came up,
+but he's always very honest about that.
+He probably thinks they're considerably
+more efficient than I do these days.
+And I think I probably think it's
+they're more efficient than then
+maybe the active average retail trader.
+But I wrote a dissertation for him
+on the success of price momentum.
+That is not a very gene Fama dissertation.
+A gene Fama dissertation is I've studied
+price momentum and it loses gobs of money.
+And these idiots on Wall Street do it
+anyway.
+That's kind of a fishing market.
+Look how silly they are.
+And he was great about it.
+I remember I kind of mumbled, I'm like,
+I want to write a dissertation
+on price momentum. And by the way, I.
+I find it works very well.
+What was that? Cliff? It works very well.
+What was that? Cliff? It works very well.
+And he said, if it's in the data,
+write the paper.
+So, I've drifted at least a little bit
+further from efficient markets,
+even way back then, now price momentum.
+I'll do a lot of Segways. You're
+going to have to stop. No, that's great.
+That's fine.
+I do parenthetical
+within parenthetical price.
+Momentum is often
+thought of as this index of irrationality.
+It can work for two different reasons.
+It can work because of yes, feedback
+loops.
+Chasing line goes up, just like you said
+before, and people pour in,
+which isn't very connected to reality.
+It's just chasing returns.
+But it can also work, because of what
+the behavioral
+finance people would call under reaction.
+News comes out
+that should move the price by so and so.
+On average, we have found
+they say we it's the royal we of academia
+and private researchers
+that the price moves in the right
+direction but doesn't move all the way.
+So if you trade on that,
+there's still a little bit to go.
+That's a quant thing.
+You wouldn't want to bet on one
+stock that way.
+But if on average that happens
+and you could do that through
+observing the price or the fundamentals,
+there's usually a little bit more to go.
+So it's not always irrational. Momentum.
+But here's
+here's what I observed
+in the very beginning of acre AQR
+launched in 1998 after
+we had a fabulous run at Goldman Sachs.
+Is this survivorship bias?
+And this you don't get to start your own
+billion dollar hedge fund
+unless you have a fabulous run
+at Goldman Sachs or something.
+Equivalent.
+We had a good first month.
+You know, the story is going to go and
+you say you had a good first month, right?
+And then that first month, by the way,
+was August of of 1998,
+when the S&P was down
+20% on the Russian debt crisis.
+And we're doing high fives,
+like we say, we're market neutral
+and we're up a little bit in a crash.
+And it was my first
+of many lessons,
+never too high, five in this business,
+when you fully retire and divest,
+you get one high five now.
+But that's the.
+Well, no, it's the end.
+When you do the high fives.
+I'm a I'm I'm a queen too.
+Is is also superstitious.
+Which if that's a contradiction
+what the heck.
+But the next 18 months was the crescendo
+of the famous dot.com or tech bubble.
+And that was not kind to us.
+It was particularly
+not kind because we decided to start
+with a extremely aggressive, market
+neutral fund.
+So momentum
+helped, as you can imagine, in a bubble.
+But value was just destroyed
+and that was most of the model back then.
+Things have really broadened,
+broadened out.
+We hit spreads
+between cheap and expensive.
+This is something we invented at the time,
+and now a lot of people do.
+No one had
+people said short stocks on valuations
+go long, the cheap, short the expensive.
+But the very obvious question of how cheap
+and how expensive are they?
+Sometimes pretty tightly clustered,
+sometimes wider.
+Does that mean they're better or worse
+going forward?
+Was not asked before.
+So we invented this measure,
+and the spread between cheap and expensive
+for 50 years had looked like a
+well behaved series.
+It moved around a fair amount, but.
+And then I'm drawing on my hand
+if you see the video.
+Oh yeah.
+Oh yeah. We should mention
+this is an audio medium.
+So and then in late 99, 2000
+and went to just way
+wider than anything ever seen for 50
+plus years.
+We also showed that
+historically those were better times.
+You never saw that before, but when it was
+wider were better times for value.
+We stuck with it.
+We made money. Round trip. Life was good
+if you would ask me after the round trip,
+which was harrowing.
+You know, even if we love our process,
+you never want to start a business
+with poor returns,
+if you ask me.
+At the end of that, which was probably
+a couple years later, 2003,
+do you think you're ever going
+to see that in your career again?
+I think I would,
+I think don't want to ask, thank God,
+because I think
+I would have gotten it wrong,
+but but I think I would have said, oh,
+probably not.
+Hopefully.
+I wouldn't say definitely no one who does
+what any of us do for a living,
+I should say definitely.
+That's a bad word.
+In markets, 40% is the favored
+term, right?
+There's always a 40% chance there's all,
+but hey,
+it was the craziest thing
+numerically in 50 plus years.
+Be the question presupposes it's built in
+that I and people of my cohort
+will still be around.
+Yeah, right.
+And we'll probably be closer to in charge.
+So how's it going to happen again?
+And then it happened again.
+Even before Covid, by late 2019,
+that spread between cheap and expensive
+was approaching income extremes.
+And then it blew past it in, in in Covid,
+it went to what I in a geeky math
+joke that no one ever gets called
+125th percentile.
+There is a 125th percentile.
+Okay, it's the new 100th percentile.
+I'm trying to convey that it went further
+and we survived that one too.
+We suffered somewhat
+and then we made more than all of it.
+Back round trip. Good.
+Most of the time we really don't look like
+value investors, by the way,
+only in extreme bubbles
+do we seem to have that property.
+And I think it's smaller
+now than it used to be.
+The last five years
+have been quite strong for us,
+and it's not been a very good value
+market.
+Yeah.
+There's so many questions that I have
+that I want to ask that,
+are sort of embedded
+or related to your answer.
+I'm gonna just ask
+you just like a very narrow question,
+sort of skip ahead in something dumb.
+You should make it
+the spread between the most expensive
+and the cheapest stocks. Yes.
+How much easier it is to simply compile
+that spread.
+Is it today
+versus the technology that you're working
+with when you're starting your career?
+For that, I got to disappoint in saying
+not that much.
+Okay.
+We had the databases. Okay.
+A lot of technological advancement
+is about speed.
+Okay.
+And new data sets
+with what quants will call alternative
+data is something we're very into.
+But the classic data, if you're looking
+for price to sales ratios.
+I'm old, but we had tested out that old.
+We had telephones in Bloomberg's,
+but that does bring us to me
+observing these two episodes.
+And I step back and I asked a question,
+what the hell happened?
+Why did we see something
+crazier than 50 years?
+And then why did it happen again?
+And that led to this paper,
+the Less Efficient Market Hypothesis.
+I do believe that markets have shown,
+and I think I have some good guesses
+as to why, that they are more susceptible
+to bouts of crazy, than they used to be.
+Just before going further,
+one quick definitional question.
+Efficient markets.
+Because one way you could define
+whether or not market is efficient is
+are these securities disconnected
+from what
+you would say, the net present value
+of all future free cash flows?
+Another way that I often think about it,
+but I'm no quant, is are there obvious
+opportunities for the active manager
+to make money just for our purposes here?
+How do you define market efficiency?
+Much closer to the first one. Okay.
+The practical question of
+can you make money?
+From these is if they're a big deviations
+from fair value.
+And this relates to some stuff I did
+in a less efficient market hypothesis,
+if there are big deviations, the classic
+and you'll notice
+a giant caveat
+if you can stick with your position.
+Not a small thing.
+You will make money.
+There are opportunities.
+And in fact,
+I think a less efficient market.
+In that sense,
+in your present value sense,
+almost has to deliver bigger opportunities
+for people who can stick with it.
+It also makes it considerably harder
+to stick with.
+Yeah, because the extremes
+you have to live through
+and the length of time
+those extremes can go on.
+For one thing, that I'm dying
+for an academic to take me up on this.
+I'm too old to do the math on this.
+But most I've never seen a model
+that looks at pain.
+You just utility the negative
+of losing money in terms
+of how long you've lost money for,
+not just magnitude.
+Right.
+And in real life I can tell you a drawdown
+that is one and a half times bigger,
+but with six months instead of three years
+is ridiculously easier to,
+to live through.
+So the, the bigger disconnect
+from reality again,
+I haven't even told you why
+I think it's going on,
+but if I'm right that we have
+these bouts of it, it's not necessarily
+every day things are crazy, but
+these bouts of it is is a two edged sword.
+It's a bigger opportunity for people who
+can stick with it, and it's harder to do.
+And I find that not that what I think is
+fair is particularly relevant,
+but I find that that really fair, harder
+to do but more lucrative if you can do it.
+I don't think the efficient
+market idea of buying
+what is fundamentally mismatched against
+its future cash flows, adjusted for risk
+forecasting, those cash flows,
+what risk really means
+we still have some open issues there.
+Yeah,
+but I don't think that will ever go away
+unless markets are perfectly efficient.
+But how easy it is to identify
+and how easy it is to stick with,
+I think crazy markets,
+make it easier to identify
+what to do and harder to do like that.
+I do want to ask you
+why you think this is happening.
+But before we do,
+this is a very basic question,
+but sometimes the basic questions
+are the most interesting.
+But when you say it's painful
+to try to stay rational
+during these bouts of irrationality,
+why is that exactly?
+Because I get that
+there are funding costs,
+I get that there are carrying costs.
+But on the other hand,
+you're a big hedge fund with deep pockets.
+This is presumably
+what investors are paying you to do.
+Is it just the emotional trauma
+or stress of having to explain to everyone
+why you're taking the position that
+you have when it's not paying off yet?
+That is a big part of it.
+I have a running fight with one of
+my co-founders who never gets upset.
+I'm always upset, but I'm more upset
+when we're losing money.
+This is sort of our dynamic.
+I have to say, I get more upset than Joe
+where he'll come in
+my office during a bad period,
+and I'll be upset.
+It'll be a bad day in a bad period.
+He's like, why are you upset?
+And I'm like, well,
+because people are yelling at us and I,
+we're losing money.
+And he's like, but you're pretty sure
+we're going to win, right?
+I'm like, yeah.
+He's like, and you have all your own money
+and your kid's money in this, right?
+So you're not doing anything different.
+You wouldn't do that
+if you weren't. I'm like, yeah.
+He's like, so we're going to win.
+It's just a question of when,
+why do you care?
+And I look at him like he's from Mars
+and go, why do you not care?
+And we finally figured out, is it
+kind of obvious that I talk to clients
+a lot more than he does?
+It's a lot easier to have that attitude
+when you're just sitting in your office.
+Also, we are not immune from this.
+You get even if people love you
+and think you've done
+well for 25 years, you have a bad
+two years, you get redemptions
+and some of those are of serious size.
+We fell
+by like half over about three years.
+And that's not fun.
+You have to shrink your firm.
+You have to let some people you love go.
+So there is some real pain
+that goes with that.
+It does not.
+That period did not shake my confidence
+in the actual investment process.
+I feel bad.
+I think I did better than our investors
+because I kept adding and saying,
+take the ball up on what I do.
+Not everyone can do that,
+and I know more than they know.
+Not in a weird insider sense.
+And just, I should be more confident
+in my own process than anyone else's.
+But it was.
+It is excruciating. The amount I remember,
+someone I admire tremendously
+when Stan Druckenmiller,
+retired, to run his own money.
+He's still very active in markets.
+I think he wrote a note
+that resonated with me.
+Because I forget the exact details,
+but the essence was
+it's too painful
+into upsetting to run client money.
+The man never had a down year.
+And I'm
+like, if Stan can take it, those of us.
+And we've had a lot more up years
+than down years
+and life's been good
+or I won't be sitting here,
+but we've had never three,
+but two plus years of of pain.
+And I'm like, if Stan can't take it, man,
+this is harder to do than it looks like
+the whole world thinks you're stupid
+when you're losing money.
+No matter what you can point to,
+no matter what evidence you can point to,
+I should say the whole world,
+your mom still likes you.
+But, a lot of your world.
+And know a lot of investors stuck with us,
+and I love them for it.
+But you do lose a lot of people,
+so it's not fun for a business
+to go through that intuitively,
+though, is to your point, measuring
+the utility of long drought drawdowns
+versus deep, drawdowns.
+This must be a very acute thing for anyone
+who's not just managing
+their own personal portfolio
+for the reason that you've just described.
+Yeah, I, I've,
+I've talked about this with other money
+managers, this idea of length versus
+versus severity. Yeah.
+And I've never had one who's not like
+yeah, length is is much worse.
+Well, one of the things is
+when something goes on,
+it's often a similar story
+for two and a quarter years.
+Yeah.
+Right.
+So you go back after six months
+where rationality
+is getting absolutely punished.
+You get a lot of sympathy from people.
+You show them, look,
+the bigger bargains, we're right.
+We're going to be right.
+You go back six months later, like, okay,
+you go back
+six months and six months later.
+They're like,
+you're just saying the same for year.
+And eventually they just think
+maybe you're a dinosaur.
+Or like, maybe you just don't get
+this new wave that's going.
+Is it possible that we've really had
+a again, it's not everyone.
+We have a tremendous amount of investors
+stick with us
+and we have ones who double up who get it,
+that those are often opportunities.
+But but you shrink
+when you lose money for a while
+and you grow
+when you make money for a while.
+It's the ironclad rule of this business.
+And and sometimes it's just backwards.
+So one of the things
+that has been happening recently,
+that has changed from 2015
+when we started doing this, is retail
+participation in the market, and it just
+feels like it is such a big thing
+for retail investors now to use things
+like options, even, you know, 1 or 0 day
+options, the kind of stuff that you might
+more traditionally associate
+with someone running a hedge fund.
+Now they're trading.
+Oh, we're not stupid enough.
+Okay, well, there we go. Options.
+All right.
+Some hedge funds, then.
+Does the increased presence
+of retail in the market
+change
+the way that you do business at all?
+I think it contributes
+to what we're talking about
+of this dislocation.
+I hate this because I sound very elitist
+when I this on, on retail,
+but there's a lot of academic work
+that shows retail on net losers.
+They don't net is important.
+They go through periods where they win.
+They go through periods
+where they win a lot.
+You know, if you buy a meme stock going to
+triples tomorrow, you don't always lose.
+But on average retail transfers, money
+to Wall Street and to institutions.
+So if they're a bigger force in markets,
+you're going to have more of that
+going on.
+And it jives perfectly
+because that would raise the opportunity
+if they're generally
+on the wrong side of things.
+But there are more of them,
+many more of them than they used to be.
+They can be right.
+Even if they're wrong on the facts.
+They can be right on the numbers
+for longer than they used to be.
+So I do think this is part of it.
+And I apologize
+to all the really smart retail investors.
+Anytime you talk about averages,
+you're dissing a whole lot of people
+that don't deserve to be.
+But on average, retail loses
+zero day options.
+Oh my God, they're making exactly
+the people
+they claim to despise on Wall Street.
+Very rich. By trading these things.
+And it's it's just vandals.
+I love that.
+Well, all right,
+we got to get to the question of why.
+Right. But one last question.
+Sort of leading up to it.
+How do you establish that?
+What do you look at in the market that
+right now you say
+this is a less efficient market than once?
+It was.
+What are these number.
+What is the measure or is it just feel
+or you just feel sort of crazy
+like as observed,
+most of it is quantitative.
+Okay. I do start with this thing
+I've talked about already.
+This spreads between cheap and expensive.
+Yeah, yeah.
+I don't just look at spreads.
+I wrote a piece back in 2000
+during the tech bubble.
+It's called bubble logic.
+Never got published
+because I tried to make a book out of it.
+And the bubble came down too fast for me.
+It that was good for my business,
+but bad for my my my author,
+career.
+Where I didn't just look at price
+multiples.
+I looked at it in a more holistic sense.
+What growth do we need to justify
+these multiples trying to come up?
+The only time I will use the word
+bubble is when I've tried very hard,
+and it doesn't
+mean we'll come up with the same answer,
+but this is the framework I use.
+I've tried
+very hard to come up with assumptions,
+even if I don't like them and think
+they're at the outer edge of possible.
+That could justify these prices.
+Yeah, and if they don't come close twice
+in my career I've been willing to go,
+no, this this I'm willing
+needs to be word.
+I should tell you right now,
+when it comes to within stocks,
+the whole market is a different issue.
+The market is quite expensive,
+right? Yeah.
+But when it comes to the spread
+between cheap and expensive,
+I'm not using the bubble word, okay?
+We're that same measure.
+It's not the 125th percentile anymore.
+It's the,
+I haven't called the 77th percentile.
+It's wider than on average,
+maybe making it a little more attractive
+if you can stick with it. That big if,
+But I
+don't use the word bubble
+for 77th percentile.
+I use it for blowing through.
+So five years ago,
+I was saying it's a bubble.
+Now I'm just saying
+this is a little bit of an odd market.
+So I want to ask
+you more about the bubble.
+But we keep, we keep touting that.
+We're going to ask you the question.
+So let's ask the why question, okay.
+Why are markets becoming less efficient?
+Okay.
+Well, first of all,
+I and I say this in the piece,
+a lot of conjecture going on.
+This is an op ed.
+As statisticians I think a 50 page.
+Yeah, a 50 page page.
+I think academic op ed.
+Look, this is our first time doing this.
+You will be convinced I could do a 50
+page, single spaced op ed, I believe you.
+I know you can't, it's just as a quant,
+as a statistician,
+you'd like to see 100 bubbles.
+Have stats on each one.
+This way they're all they'd rhyme,
+but they wouldn't be exactly the same.
+You tease out what's going on.
+If you see two in a 35 year career,
+you're not going to be able
+to prove this statistically.
+But I believe in my conjectures.
+I'm not soft soaping.
+I'm. I'm, I'm or soft selling.
+I'm I'm. Yeah.
+I just wanted clear that
+that that nobody is going to walk away
+saying he proved it.
+I list a few reasons in the piece why
+markets might be prone to bouts of bigger
+disconnects from reality.
+My second favorite,
+is one I'm sure you've talked about.
+I know I've listened to
+you guys talk about it.
+The rise of Passive Investing.
+I am not a passive hater.
+They're really smart people.
+Mike Green's out there.
+The amount that guy hates passive.
+I don't know.
+The Middle East has never seen hate. Like.
+Like the amount my green hates passive.
+But but again, he's a smart.
+He's a smart guy. He makes interesting
+arguments. I'm not that guy.
+I think passive has been a huge positive
+for an investor.
+Welfare.
+I actually was lucky enough
+to be fairly good friends with Jack Bogle,
+and he was a hero of mine.
+We had a podcast briefly, and he did
+two really, and he came on it finally.
+I in fact, I'll tell you
+part of that story in a second.
+So the
+rise of I'm not a passive hater,
+but here's what we know.
+We know the whole world cannot be passive.
+And when I say passive, I mean in the Jack
+Bogle market cap weighted sense,
+sometimes people use passive
+for people like us,
+and they really mean rules based,
+like you're not.
+And that's not how I use the word passive.
+I mean, someone who owns the entire
+market.
+Yeah, we're long short and leverage.
+How do you get to passive on that?
+I don't know, but some people do.
+I own the entire market.
+We had Jack on the podcast
+and he absolutely agreed.
+You can't.
+Everyone can't be passive.
+Now, of course, being Jack Bogle,
+he thinks at that point
+the marginal investor
+should still move to passive, but
+he recognizes the obvious fact
+that if 100% of the people
+are not looking at prices,
+nobody's looking at prices.
+Who's figuring out if Nvidia is worth more
+or less than the corner drugstore?
+Right.
+So the market gets very weird there.
+We don't even understand what happens
+there. It's a singularity.
+I use a physics analogy.
+We don't know what happens.
+There are PhD students in finance,
+and I used to be
+one of these will stay up late
+at night in their cups talking about
+what happens if everyone was passive,
+what would it even look like?
+We know it's very weird,
+and I doubt all the weirdness happens
+between 99.999% passive and 100.
+So we're on a curve.
+We're a lot more passive
+than we used to be.
+Even that you're probably aware it's
+hard to measure exactly how how much
+is passive direct passive true market cap.
+Wait, you can measure.
+But what about people who take, you know,
+80 basis points of tracking error?
+They're kind of mostly passive.
+Are people pegged to like custom indices?
+Now it's kind of funny.
+You guys remember The Princess Bride?
+Yeah, yeah.
+Remember mostly dead.
+That's
+probably dead. You're mostly passive.
+So I think
+fewer people thinking about prices, fewer
+people willing to take the other side
+when things get a little crazy.
+If one if one side
+really starts to get crazy,
+there are fewer people out there
+that has to exacerbate these swings.
+My actual number one reason,
+though, you talked about the gamification.
+For me, it's the overall,
+I'm going to sound like a very old man
+yelling
+at the sky on my lawn right now, you know,
+get off my lawn or yelling at the sky.
+Some Simpsons thing.
+Yeah.
+I'm Abe in this case,
+but someone yells at cloud.
+Yeah, exactly.
+Thank you. Social media
+and the broader environment.
+I don't want to do politics except to say
+I don't think you find many people.
+There'll be some.
+But I don't think you find many people
+who don't agree with the idea
+that this environment has made
+our politics worse and more dangerous.
+We confirmation bias.
+We we live in our own bubbles.
+We have algorithms
+that push us further and further towards.
+You start out as, moderate belief,
+but it keeps pushing you towards extremes.
+And, and pretty soon
+you're saying stupid things like,
+hey, that Tucker Carlson, he's a good guy.
+All right,
+I might have revealed a little poll.
+Yeah, you did a bit of politics there.
+So all of that
+adds up to making our politics worse,
+more prone, in particular
+to swings and extremes.
+Markets are not arbitrage mechanisms
+that sometimes misunderstood
+their voting mechanisms.
+The price is a weighted average vote
+where the weight is by dollars.
+I lucky enough to get more vote
+than the average person in Warren Buffett,
+gets a lot more votes than than I get.
+If we all disagree on on on on opinions.
+The reason is on an arbitrage mechanism.
+And here I'll get a little geeky.
+I imagine you're reasonably sure
+this thing is mispriced
+in that Gramm and Dodd sense,
+and you think it's massively mispriced
+trading enough to make it a third less
+mispriced.
+It's not very risky to you
+because it's not that big a trade
+and it's
+very high expected return
+because it's that mispriced.
+Now you've moved it back to a third
+or maybe half the next
+part of the trade is much riskier to you
+because you already have the trade on.
+So you're just adding more.
+Oh, I see it. Yeah.
+And it has half the gain
+because you've already closed it by half.
+So arbitrage will not take the
+if on net more people believe
+something stupid stupid is going to win.
+And we're going to be
+at least somewhat off of real prices.
+And I find it remarkably easy to believe
+that this same environment
+that makes our politics go a little crazy.
+For markets to be efficient
+in any degree,
+not even perfectly efficient.
+This famous idea of the wisdom of crowds
+has to be helping us a lot.
+The hypothesis that we're all geniuses
+is never going to fly, right?
+So the wisdom of crowds and,
+you know, well, says, even if on average,
+most people don't know the answer,
+the stupid answers cancel.
+And the right answers don't,
+because they're the same.
+My favorite example of that,
+and this I might be dating myself
+is, is, Regis Philbin.
+And who wants to be a millionaire?
+Right?
+Remember the show multiple choice show?
+It's frightening that you're
+describing that as old, but I guess it is.
+Yeah, yeah, it's been off the air.
+Sadly, Regis has passed away. It's old.
+Sorry, sorry.
+But you had to answer
+multiple choice questions,
+and if you miss one, you're out.
+They start off ridiculously easy,
+and they get harder and harder.
+You had multiple cheats.
+Like three cheats.
+One was a friend.
+A friend was almost useless.
+You people a your friend
+usually wasn't much smarter than you.
+And b people, at least to me.
+I. I didn't watch every episode,
+but seemed to choose friends
+who knew the same stuff. They knew. Right?
+You really want to choose a friend
+who is in, like a totally different field?
+I think in some countries,
+the friends also had a tendency
+to deliberately give the wrong answer
+because they just
+didn't want to see their friend actually
+win money.
+The most cynical phrase ever is nothing
+succeeds like a friend's failure.
+There we go.
+I don't I'm not condoning that.
+But it is out there.
+The other one
+was, eliminate two of the wrong answers.
+That's great.
+Yeah, obviously,
+even if you have no idea,
+you go from one out of 4 to 1 out of two.
+The other one was poll the audience.
+And at least to my non-exhaustive
+examination, I didn't. I
+it seemed to work pretty much every time,
+even if the question was hard,
+because I imagine you have
+100 people in a room.
+Ten of them know the answer.
+The other ones are guessing the 90
+distribute evenly over the the four.
+Maybe not perfectly evenly.
+It's, but roughly evenly.
+The ten all end on B, so you pick
+B because it's bigger work
+pretty much every time.
+There's a crucial assumption in that
+the the audience has to be
+relatively independent of each other.
+And they did that.
+They weren't talking.
+It was silent voting.
+If the audience all gets to talk,
+maybe the ten convince the 90,
+but maybe they don't.
+Maybe a demagogue with a better, Twitter
+feed convinces everyone, and if you ruin
+the independence and I think
+we ever come up with a better vehicle
+for turning a wisdom of crowds into,
+craziness of mobs, then social media,
+I'd be hard pressed to to describe it.
+I find this to be very compelling.
+Jim sur wiki at the New York Times,
+he came out with that
+book, Wisdom of Crowds in 2005,
+but that was right before social media
+blew up.
+And then, you know,
+there's that famous book and, 1841
+extraordinary popular delusion
+and the Madness of crowds.
+So we've always sort of understood
+that crowds can be modes,
+be both mad and wise.
+And I find this very interesting,
+the idea that perhaps the likeness of
+the crowd is what sort of flips
+it from wisdom to madness.
+I think that's exactly right.
+You maybe can come up
+with counterexamples,
+but I think most of the time,
+if the crowd is making
+independent decisions
+and this can go for political voting
+and go for markets,
+you're going to get some degree of wisdom.
+When the crowd is all making
+a unified decision.
+It can still work out,
+but you are much more susceptible,
+to, what the quants technical term is.
+Cray cray.
+I want
+to pivot a little bit and talk about AI.
+You've, written or you've talked recently.
+I forget exactly the word that was used in
+some of the headlines, succumbing
+to the rendering or surrendering
+to the machine, regrets and so forth.
+What is it?
+We talk, we try to talk a lot about?
+I still don't know exactly what it means
+in any context.
+What does it mean to surrender
+to the machines in the income?
+Well, first, not
+not every journalist has Bloomberg's
+high standards.
+But I am reasonably certain
+I said partially
+in that in the word partially got dropped.
+Even skipping all the details. Yeah.
+If you're going to use AI in your process
+at all,
+almost by definition,
+you are going to lose a little intuition.
+And the way I say that,
+and it bothered me for a couple of years,
+I think I slowed us down on AI by a year
+or two just by saying,
+you know, we've always prided ourselves on
+the balance of we intuitively understand
+why we think we this makes money
+and the evidence that it makes money.
+And when you go to AI,
+you're normally giving up some.
+Not all.
+We actually do try very hard to figure out
+why we think this works or doesn't work.
+But if you weren't giving up
+some intuition,
+what the heck is the AI doing?
+If it's simple and you could have just
+seen it with the naked eye,
+it's hard to imagine it's helping.
+But let me give you a concrete example.
+We like good momentum.
+We like it in price.
+We like it in fundamentals.
+One way people, on the quant side,
+have tried to measure this for years
+is something like earnings calls,
+trying to decide if earnings
+calls are good news or bad news.
+And if people under react to good news,
+you want to buy when it's
+when it's good news.
+Is this
+just like how many times people say
+great quarter guys or are you looking at
+something else? It's
+going to sound about as silly as that.
+Okay, you build up tables of words
+and phrases with numerical values,
+and then you say,
+what's the numerical score of this?
+And they can be much more subtle
+than this.
+I'm going to use a real simple example.
+The word increasing plus one. Right.
+And I'm sure you see the floor.
+If the actual sentence was massive,
+embezzlement is increasing.
+You know our bet on that one.
+The amount of fraud we're seeing in
+our private credit deals is increasing.
+Quant can survive looking stupid a lot,
+if that's 47% of the time.
+If 53% of the time it's
+getting it right, fine.
+And those things had some efficacy,
+but they weren't great.
+What we do today is we train
+ML, it's called natural language
+processing.
+It's a subfield of out of ML
+to analyze corporate statements.
+But what it does, and this is going to be
+the geekiest thing, I'll say.
+It represents every corporate statement.
+It looks across them
+and represents them as a set of numbers,
+what the geeks
+will call a vector of numbers.
+Then what we do is Paris to say,
+all right, we have 50 years
+of this across many firms.
+We have different vectors of numbers
+for every earnings call.
+What combination go long
+when the first number's
+good, short when the second number is
+is is high blah blah blah.
+What best combination forecasts
+that seems to be correlated
+to what we were doing before these word
+count things just considerably better.
+It does a better job than word counts.
+And that blank language is very nonlinear.
+Whether something is good,
+whether that word increasing is good,
+AI is not perfect, but it's chance
+of figuring out if if increasing was good
+or bad, especially when it's trained on
+tons of these things better than us.
+Here's where you lose the intuition.
+No, I skip the step.
+I like to do that. That's fun. Sneaky.
+If you ask myself,
+or even some of the younger people
+who are much more tooled up
+on, on, on machine learning than I am
+these days, what does that
+vector of numbers actually mean?
+You often get a,
+we we really can't tell you that.
+We can say it.
+It's summing up in a mathematical sense,
+the information content of that.
+We still get intuition
+because this indicator
+acts like a short term momentum indicator.
+So it's picking up
+what we want it to pick up.
+And it's also done fabulously well for us
+for multiple years in, in real life.
+But we are giving up intuition
+at one stage that we used to not do.
+So my answer was meant
+to be much more subtle
+that there are give ups and intuition.
+When you move to something like machine
+learning, they almost have to be.
+Or else again, what are you doing?
+I was uncomfortable for that for a while,
+so I was starting to do me a culpa
+saying that that I slowed us down
+and it came out as well.
+I used to hate this,
+but now I have no job.
+The machine runs it.
+Which is probably going to be true
+in eight years, but not yet.
+This reminds me, actually, of something
+I wanted to ask
+because another big multi year decade
+trend is the rise of the multi strats.
+And at AQR, as I understand it
+you have a multi Strat model in there
+but it's more centralized
+than some other places.
+Can you go into a little bit more detail.
+Sure.
+They get used interchangeably but
+I think that's the difference
+between multi strat and multi manager.
+Okay.
+Multi strat just means
+I wrote a dissertation on choosing U.S.
+stocks.
+We have applied similar things
+to stocks around the world.
+Two currencies, two commodities.
+Two directional bets through trend
+following
+we think of these,
+they are correlated but low.
+So we think of
+these as different strategies.
+And we think a set of our strategies,
+is better than a single one.
+Or, you know, it's
+just the power of diversification.
+So we're big believers in a particularly
+if you have a common philosophy.
+So it's not just fitting the data, it's
+it's fitting into an overall theme
+of what you believe in.
+We're big believers in multi strats.
+What we share with multi manager
+is that belief in diversification.
+Multi manager is what it sounds like
+it is.
+We are one team building these
+we might of course
+have little separate teams at AQR.
+But will one firm building these.
+They are farming it out
+to different people.
+To be frank if you had told me
+their business model ten, 20 years ago,
+I would have been very cynical
+that it worked if you told me, a what?
+The total fees are going to be
+when you add up everything
+that's passed through, through
+and a fair amount of them
+and they vary in how quick they do this.
+If something's not working for
+what I would consider a very short while.
+Yeah, they stopped doing it.
+And I know there are a lot of low
+to medium Sharpe ratio risk adjusted
+return strategies that are really good
+long term but have bad periods.
+So, if someone told me that model
+I were to go, you're going to charge a ton
+and you're going to throw out
+people have a bad two quarters. No.
+And there have been people
+who've obviously proven me wrong.
+And I'm humble about this.
+I don't fully understand
+why they must be very,
+very good at actual selecting the alpha.
+Yeah. Right.
+And this is something that I, we don't do.
+We're, we're internal quants
+who build our own models.
+We've never maybe be interesting one day.
+We've never tried to apply
+that to choosing outside people.
+But there are plenty of people,
+by the way,
+I've tried to start
+multi manager and failed.
+So it's not like
+you just apply this charge a ton.
+Hire a bunch of
+active managers and fire them
+if they have a bad two hours.
+Just automatically works.
+It does seem though, that like talent
+is the the thing that's like capping
+multi strat expansion, right.
+That's the limiting factor.
+And and they vary.
+But some of the major ones are giving back
+money.
+There's even if you believe in this model
+and I even from afar,
+I have to be a believer.
+I've seen the results are too good
+for too long, in my view,
+to have a decent chance
+of of of randomness.
+I don't exactly know what they're doing.
+I'm still waiting for for for Ken
+and Steve and Izzy
+to send me their exact process.
+That that would be wonderful.
+Izzy doesn't share it with,
+you know, even better if medallion would
+send me the exact process.
+But I, I respect it,
+but the amount of individual
+alpha teams that can be out there
+has to.
+Wall Alpha is finite,
+but has to have a decently tight cap.
+And and the ones I've seen
+are fairly disciplined.
+About this. And again it varies.
+I can't speak for, for for for everyone
+I know we compete
+for talent with them
+much more than we used to.
+We often want
+they have non quant parts of what they do,
+but they have quant parts of what they do.
+And for young quant,
+they're often considering an offer for a
+AQR and Citadel.
+To pick a just one example.
+We win our fair share.
+We lose our fair share.
+I think we probably pay
+a little less in the short term,
+but we don't fire you
+if you have a bad week.
+So some people are.
+It doesn't seem like a stretch.
+I'm not picking on Kenny.
+He's not doing that. I'm just saying no.
+But we know it's a more cutthroat
+investor.
+We've done
+a lot of episodes on that environment.
+We know, like,
+they cut bait pretty quickly.
+If you, lose money,
+I want to go back a little bit
+to the connection between sort of.
+I machine learning
+and interpretability of the factor.
+You know,
+the quintessential, you know, the risk
+is, of course, that you find something
+that works strictly from data mining.
+Right?
+Tickers that start with B tend to rise.
+On Tuesday.
+And I usually use the CEO's middle
+initial.
+Yeah, stuff like that.
+We know like but you know,
+even when you were talking about,
+in the very first answer, you're
+talking about momentum and you said, well,
+there's two reasons that theories
+for why momentum can work.
+Do you think we've let's just go back
+to the canonical at quant factors.
+Is there complete consensus
+about why these factors were
+not at all okay.
+They you start out with because
+like intuitively like cheap stocks go.
+But I my impression is that there's
+even still disagreement about why.
+Yeah.
+You start out with the great divide
+and when,
+when they split the Nobel Prize
+between Jean Fama and Robert Shiller,
+my, my co-founder and I wrote a piece
+on the cover of Institutional Investor
+with that titled The Great Divide,
+because they, they were, Lars Hansen
+also want a share of it.
+I shouldn't leave them out.
+But Shiller and Fama were juxtaposes
+the efficient market guy
+and the inefficient market guy,
+which is fairly close to I don't
+I don't think either of them are zealots,
+but it's fairly close to to true.
+So you start out if something has worked
+historically and made a lot of money
+over, over a long period,
+you start out with what you lead with.
+Is it data mining?
+Let's say you convince yourself
+it's not okay.
+Let's just put that way. And
+and that's a really important thing.
+I'm not, you know, Pooh poohing
+that stuff.
+You got you got to do that.
+Then you got to
+ask yourself why the two main
+contenders
+are a rational gene fama kind of market,
+where some stocks are riskier than others.
+And whatever you're using to say,
+go long these and short
+these is loading on that risk.
+And if something is risky
+you should make more for investing in it.
+One of the problems is identifying a.
+There are some fights within these fights.
+What do we mean by risk.
+Is risk
+beta like the capital asset prices?
+Our finance academics
+are like every other academic
+because if some fights define
+your turns, Talmudic at this point.
+But yeah, but is is risk battle
+like the capital asset pricing model
+or the capital asset pricing
+model is a beautiful, elegant model
+that has failed everywhere
+it's ever been attempted.
+Is risk more multi-dimensional?
+Is risk something like,
+what happens in a Great Depression,
+which is very hard to, to, to measure?
+The other argument is
+markets are not perfect.
+People make errors
+and it's behavioral finance.
+So if a cheap stock meets
+inexpensive stock because it's inherently
+adding some risk that you can't diversify
+away, that's a Gene Fama explanation
+if it beats an expensive stock because
+people went too far, they didn't invest.
+They went past the Graham endpoint. Yeah.
+And if you can hold it,
+you make money when reality sets in.
+That's more the Bob Shiller point.
+I love Gene, he's my hero.
+I have probably drifted from 75, 25
+Gene to 7525 bob over my career.
+World's complicated one of the hard
+parts is everyone wants to win.
+But both explanations can be true.
+And it can be true at different times.
+Life isn't so, so simple,
+but those are the two biggies.
+But once you get into behavioral
+finance now, you can fight about why
+what what behavioral bias.
+Notice the you could sum up
+the two reasons I gave you for momentum
+as as under reaction an overreaction.
+Overreaction is chasing
+right under reactions.
+The information came out
+didn't move far enough.
+And I hopped on that bandwagon.
+You know,
+you're in a little bit of a dodgy area
+when your two best explanations
+sound a little like antonyms.
+Now the the I'm being intentionally funny.
+We know it works.
+We're just not sure
+whether it's underwrite
+literally opposite things
+or intuitively opposite things.
+We know it's one of them, and there's
+some division being a little too negative.
+You can actually they're good papers
+teasing out,
+the under reaction is easier to show.
+You can actually show
+the fundamentals do catch up.
+I think the overreaction
+probably kicks in more in bubbles
+where there is just more feedback trading.
+Again, both explanations can be true
+and they can vary in their intensity
+over time.
+The overreaction might have
+a very small part of it, except plus
+or minus two years around a major bubble
+when it may be the the driving force.
+So we have to get really comfortable.
+We don't have to have the be all, end
+all single explanation.
+But if there are a few good explanations
+and no real counter ones
+and we have really strong
+50 year empirical results.
+Yeah,
+we're
+we're okay with taking some bet on this.
+You never want to put all your money
+on one thing.
+That's not a quant thing.
+I'm going to try to connect
+a bunch of the sort of decade
+long megatrends
+that we've been discussing.
+But, I'm thinking behavioral finance,
+gamification of markets, big data, AI,
+all those fun things combining into sports
+betting, which seems to be getting bigger
+and bigger than ever.
+And the reason I ask is because,
+I was talking to someone in a bar
+the other day and they said that
+AQR was doing more sports betting stuff.
+Someone in a bar was talking about AQR
+doing sports.
+Yeah, I know it.
+Well, it probably says more about the bars
+that I'm in,
+the people
+I'm talking to than anything else.
+But yeah, they mentioned that
+picturing the Star Wars cantina right now,
+I got to tell you so I'm just curious,
+is that a thing or are you
+maybe interested in the sort of prediction
+market aspect of things nowadays?
+And Susquehanna is getting into it,
+I think.
+I think no one again tells
+you exactly what they're, they're doing.
+I my sense is they are into it
+and are good at it.
+This is incipient for us.
+We are considering and looking at it.
+We have a long history.
+Toby Moskowitz,
+who's a Yale professor and an ECR partner.
+A great deal, by the way.
+You get paid for two full time
+jobs that are 80% overlap.
+I'll keep that in mind for
+if Toby's listening, just, you know,
+you're lucky, man.
+He wrote a book
+called Score Casting that was all about
+sports.
+But the sports analytics,
+the Moneyball type stuff
+looks a lot like what we do.
+It looks a lot like people are not pricing
+this.
+Right, people?
+I wrote my most downloaded paper ever,
+which is really a little annoying
+because it's like the only one
+I've written outside of my field.
+Was on when to pull the goaltender
+in a hockey game, Yeah.
+And I wrote it with, with,
+a colleague and friend, Aaron Brown.
+We built a model, and we came up with.
+You should be pulling the goalie.
+If you're losing by one
+with 5 or 6 minutes left.
+Not with two minutes left.
+And I'm pretty sure we're right.
+We spent a lot of time in that paper
+saying, why aren't they doing it?
+And making analogies to investing? What?
+You know,
+when people know the right thing to do
+but can't do it
+because the public opprobrium,
+if they get it
+wrong, will be much worse, right.
+Like I want they're saying
+like football team should go for it
+on fourth down a lot more than they do.
+And that's like one of these things
+that happen.
+And they have started to yeah.
+There is a feedback
+where some of these things are slow.
+Some of them are fast.
+Baseball has largely absorbed
+a lot of these things.
+You know, on base percentage was one
+of the major insights of of Moneyball.
+And nobody
+nobody's missing that one anymore.
+But we still think, particularly in
+the betting markets are not probably
+not as rational as,
+as Toby's forecasting book.
+So we do think there might be
+opportunities there, but I don't want to
+overstate it.
+Just because
+I am cynical about online sports betting.
+Betting? I got to tell you two things.
+I was always a very libertarian guy.
+I still think I am,
+but a couple things have made me less
+libertarian children.
+The existence of my children
+will make you go,
+yeah, maybe people shouldn't be able
+to do anything they want
+when they turn over.
+There should be some rules.
+And and, sports betting and maybe
+walking down the New York City streets
+and getting a contact. I,
+the sports betting, we're already,
+you know,
+some of these scandals
+we're starting to see. Yeah.
+How do you not have them when, you know,
+some of these people make a ton of money,
+but they don't all make a ton of money.
+And there's a lot
+of money in sports betting.
+Anything you
+do for entertainment is fine
+if you do it in entertainment size.
+If you go to Las Vegas and you go,
+the odds are on the house side.
+I'm going to lose $500 over two days.
+Probably. If I win, great.
+But it's going to be fun.
+It's factored
+into the cost of a Vegas vacation.
+But like, I have a whole bunch of of 20
+something year old
+mostly guys, in my extended family,
+a lot of them are sports bettors,
+and they're not even.
+It even pisses me off that they're
+not even rooting for their teams anymore.
+They're kind of rooting for this player
+to score on their prop.
+It is a strange dynamic.
+Yeah.
+So do I think that gamification
+is highly related?
+I think if you go
+look at the Robinhood app and FanDuel,
+I think you will find they are
+and far more similar on their feedback
+and how they treat things
+and in how their investors do on average,
+and particularly sports betting,
+you know, investors lose on average
+because the sports betting companies
+make money.
+It's like saying on average
+insurance is a bad deal.
+You know how I know?
+Because insurance companies
+are profitable.
+Doesn't mean it's stupid to do,
+because maybe if it's in a risk
+you can't tolerate,
+that could be a fair trade.
+There's a price you pay for peace of mind,
+which is something I've come to appreciate
+over the course of ten years.
+There is zero chance that the average
+online sports bettor is making money.
+Yeah, I just have, one last question.
+You know, I think if you looked at like,
+some particularly crazy times in markets,
+here's something that's changed very much
+since we started the podcast
+first ten years ago.
+I think if you look at some crazy times
+in markets, whether it's,
+you know, 2019 when some of these measures
+were getting extreme or just, you know,
+the Spac mania of 2021, one theory
+that one might have offered is there.
+And you just like, oh,
+yeah, now we have you know,
+we haven't been in for a long time
+and yet some of this sort of speculative
+mania craze is has not gone away.
+How surprised are you
+that the move from 0% to, say, 5%
+or whatever
+didn't have more of a sapping effect
+on some of the behavior
+and speculative froth, or just sort of
+animal spirits in these markets,
+I, I am mildly surprised.
+Okay.
+I left this out, but I actually had three
+possible reasons in my paper.
+And the third one was super low
+interest rates for a long time
+for why things can get crazy.
+Now the counterargument is once
+you break people's brains,
+they don't necessarily repair themselves.
+Right? Instantly.
+So I think it was probably
+a contributory factor.
+Again, very hard to prove an example of
+I'll give you a lot of people
+in 19 and 20 when the spreads
+between cheap and expensive were here.
+We're saying it was a super low
+interest rate environment.
+And growth stocks
+have more cash flows in the future.
+Low interest rates
+means they're worth more.
+We did the math on that.
+It explained like 2% of the increasing
+value spread.
+And in 99 2000
+interest rates were quite high.
+That's right. There was no zero 99.
+So it's not a unified field theory
+explanation.
+Yeah.
+Do I think it helped kickstart some.
+And again we're in the soft guesswork.
+But I think these are educated guesses.
+And I listed it as one of my three.
+I think it certainly kicked us off
+on some of these things.
+Certainly loosen
+the bounds of rationality.
+Absolutely. Free money.
+We'll we'll do that.
+I don't think it's not human nature
+that all that the takeaways are
+and everything comes back.
+Would I have thought
+it was a bigger effect in going back to,
+you know, at one point we hit about 5%
+on the ten year, almost 5%.
+What?
+I thought that would have mattered more.
+Yeah.
+Only in 2022
+did we see one ugly year, over that.
+But it has mattered less than I thought.
+It doesn't mean it will never matter.
+All right, Cliff Asness
+thank you so much for coming on.
+Odd Lots and kicking off our, ten year
+anniversary celebrations again?
+Yeah, we joke that was so much fun.
+That was great.
+Literally the perfect guest.
+Literally the perfect guest. One.
+Well,
+there's so many things that stuck out
+from that conversation,
+but one of the things that stuck out
+from the conversation, it's
+this idea about the thing that flips
+from the conversation, it's
+this idea about the thing that flips
+from the conversation, it's
+this idea about the thing that flips
+the wisdom of crowds
+into the madness of crowds.
+Right?
+And the idea that maybe
+the wisdom of crowds theory works
+as long as everyone is sort of
+isolated and independent
+and making their own choice
+off of the information available to them.
+But it starts to fall apart
+when everyone is tied
+to everyone else,
+and sort of in the same social network.
+And, you know, if you think about
+one of the dominant themes in markets
+in recent years, it has been people
+herding into the same positions right?
+I found that to be really fascinating.
+I think that's where it makes
+a lot of intuitive sense.
+It probably can explain a lot of things
+about the world of politics,
+about the world of markets, etc.
+this idea that we're all just sort of one
+connected global village, as Marshall
+McLuhan put it, we're all just
+gossiping each other all the time.
+We're just constant talk, talk, talk.
+No, that's a very interesting idea.
+I also do is interesting, the idea of,
+length of drawdown versus
+depth of drawdown and the, the former
+being more painful,
+which strikes me, is something I hadn't
+I hadn't really heard anyone
+talk about that before,
+but especially from the perspective
+of a manager of other people's money,
+it's a very highly intuitive
+that makes a lot of sense to me that,
+okay, like, yeah, you had a bad quarter
+or whatever event you're like,
+oh, your ideas are just out of date.
+It's been three years
+since you've made money.
+Maybe time to rethink
+some of your fundamentals assumptions.
+People are impatient.
+That's one thing
+I've learned over the course of ten years.
+Yeah.
+The other thing was the idea of markets
+not necessarily
+being an arbitrage mechanism,
+which I think is very counter intuitive
+to the way
+a lot of people will think about markets
+and this idea that like, well,
+sometimes you can't compress the price
+all the way to where
+it should be rationally or logically
+or according to EMH or whatever,
+because the reward just isn't
+necessarily there to get to that.
+Like final 10%.
+It's interesting to,
+to think about, the sort of link
+between patterns and interpretability,
+why something works.
+And in our conversation,
+a couple of weeks ago with Ian
+Dunning of Hudson River trading is
+like they do not put a lot of emphasis
+on interpretability.
+There's a pattern and there's some reason
+to establish that the pattern works.
+It makes money.
+The idea that they
+then have to also come up
+with an economic story about why it works
+is not so important to them.
+Maybe that's
+because it has to do with time frames.
+Obviously, Cliff's, trading time
+frame is going to be very different
+than a high frequency
+trading firm like, HRT.
+But it is interesting.
+And then it's interesting
+to think that even in the most established
+quant patterns, like why do cheap stocks
+outperform
+more expensive stocks over the long term?
+Right.
+Even there, there is dispute
+about why this pattern holds,
+even though it feels a little bit
+more intuitive.
+So much interesting stuff here.
+It's also, I guess it sort of warms
+my old cynical heart, that maybe,
+maybe the edge for humans will be,
+spotting the regime change, right?
+Which, you know, at least there's
+something left for us to do
+if it's not just pure pattern recognition.
+Shall we leave it
+there? Let's leave it there.
+All right. This has been another episode
+of the Odd Lots podcast.
+I'm Tracy Alloway.
+You can follow me at Tracy Alloway
+and I'm Joe Weisenthal.
+You can follow me at the stalwart.
+Follow our guest, Cliff Asness
+He's @CliffordAsness
+Follow our producers, Carmen Rodriguez,
+and Cale Brooks.
+And for more Odd Lots content,
+you can check out our daily newsletter
+that is at bloomberg.com/oddlots
+and you can join fellow listeners
+in conversation in our discord -
+discord.gg/oddlots
+And if you enjoyed this conversation
+then please like leave a comment
+or better yet, subscribe!
+Thanks for watching.

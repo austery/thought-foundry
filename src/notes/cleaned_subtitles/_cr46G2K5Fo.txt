@@ -1,0 +1,1033 @@
+- There is a rule in
+mathematics that is so simple,
+you would think it obviously must be true,
+but if you accept it,
+you find there are now some line segments
+that have no length.
+A sphere without adding anything
+to it can be turned into
+two identical spheres.
+A hundred plus years
+of mathematics has been
+built on this axiom.
+It seems intuitive and it works,
+but it also creates ridiculous paradoxes.
+So, is it right?
+Well, it all starts with
+the issue of choice.
+Try this, choose a number.
+I can just pluck a random
+number from my head,
+like 37 or 42,
+but that is the human brain at work,
+not a mathematical process.
+In math, you can't truly
+pick things at random
+because formulas always
+give the same result,
+which is why computers don't have
+true random number generators.
+Instead, they usually run an algorithm
+on your current local
+time to generate numbers
+that appear random.
+So if we can't pick randomly,
+how do we select anything in math?
+Well, the only way is to
+follow a rule of some sort.
+So a rule could be always
+choose the smallest thing.
+For example, if we're looking
+at whole positive integers,
+the smallest is one.
+For prime numbers it would be two, easy,
+but what about the real numbers?
+That's any number, positive,
+negative, whole, fraction,
+even irrational like pi
+or the square root of two.
+Now try to choose the smallest one.
+It's impossible.
+The real numbers stretch
+off to negative infinity.
+Even if we try to fix our rule
+by making it super specific,
+like choose the smallest number
+after one, we still get stuck.
+There's 1.01
+and then 1.0001,
+then 1.00000000001 and so on.
+So really what number comes after one?
+If we can't begin to specify
+the order of the real numbers,
+next and previous, first
+and last, we're stuck.
+The ridiculous part is we
+know we have infinite options,
+but despite that, we can't
+figure out how to just pick one.
+The mission to resolve this
+began with one man in 1870.
+He took on the task
+of putting the real numbers
+in a definitive order,
+even if it killed him and it nearly did.
+Georg Cantor was a talented
+German mathematician
+who found himself at the
+center of a firestorm
+after publishing one of
+his very first papers
+at the age of 29.
+For centuries, our understanding
+of infinity was heavily
+influenced by Galileo's 1638 book.
+It raised a key question, are
+there more natural numbers
+or are there more square numbers?
+Just looking at them, the square
+numbers are more spaced out
+and they only become more
+sparse the higher you go.
+So it would appear there are fewer squares
+than natural numbers,
+but Galileo realized he
+could draw a line matching
+every natural number with its own square.
+And since he could make
+this one-to-one mapping,
+that he knew that the two sets
+must be exactly the same size.
+So there are actually just
+as many square numbers
+as there are natural numbers.
+From this counterintuitive result,
+Galileo concluded that terms 
+like more than or less than
+don't apply to infinity,
+how we normally use them.
+It's all just one big
+concept of foreverness
+and this view prevailed for centuries.
+In fact, it's how many people
+still understand infinity today,
+but 200 years on, Cantor wasn't satisfied.
+In 1874, he wondered
+what if there were two
+infinite sets out there
+that didn't map perfectly to each other?
+Would they be different infinities?
+So he set out to compare
+the natural numbers
+and the real numbers between zero and one.
+Cantor started by assuming he
+could perfectly map these sets
+to each other, one-to-one.
+So he imagined writing
+down an infinite list
+with a natural number on one side
+and a real number between
+zero and one on the other.
+Since there is no smallest real number,
+he would just write
+them down in any order.
+Assuming he now has a
+complete infinite list,
+Cantor writes down another real number
+and to do it, he takes the
+first digit of the first number
+and adds one, then the second
+digit of the second number,
+and again, he adds one.
+He keeps doing this all
+the way down the list.
+If the digit is an eight
+or a nine, he subtracts
+one instead of adding
+to avoid duplicates,
+and by the end of this
+process, he has written down
+a real number between zero and one,
+but that number doesn't
+appear anywhere in his list.
+It's different from the first number
+in the first decimal place,
+different from the second number
+in the second decimal place
+and so on down the line.
+It has to be different from
+every number on the list
+by at least one digit,
+the digit on the diagonal.
+That's why this is called
+Cantor's Diagonalization Proof
+and it shows there must be
+more real numbers between zero
+and one than there are
+natural numbers extending out
+to infinity.
+Cantor had revealed something remarkable.
+Infinity doesn't come in just one size.
+Some infinities like the set
+of square numbers, integers
+or rational numbers
+can be paired perfectly
+with the natural numbers.
+You can literally count them,
+one, two, three and so on.
+So Cantor called these
+countable infinities,
+but then there are bigger infinities,
+Cantor called them uncountable.
+These infinities like the
+set of all real numbers,
+the complex numbers, they
+can't be matched one-to-one
+with the natural numbers.
+Cantor's results rocked
+the mathematical community.
+After all, how can something
+that continues forever be
+bigger than something else
+that continues forever?
+His work was labeled a
+horror and a grave disease,
+but Cantor wasn't discouraged.
+His success only spurred him
+to pursue his even grander goal
+to show that even uncountably
+infinite sets could be placed
+in a definitive order.
+What Cantor called a well-order.
+For a set to be well ordered,
+he required two conditions.
+First, the set must have
+a clear starting point.
+And second, every subset,
+a collection of items
+from that set, must also
+have a clear starting point.
+So for example, the natural
+numbers are well ordered,
+there's a starting point, one,
+and any subset, say six, seven, eight,
+also has a clear starting point.
+In this case, six, you always
+know which number comes before
+and which comes next.
+But what about the integers?
+Integers stretch off to
+infinity in both the positive
+and negative directions.
+Well Cantor realized
+he could just pick zero
+as the starting point
+and from there his ordering
+went one, negative one, two,
+negative two, ranking the
+integers by their absolute value,
+their distance from zero.
+It doesn't matter if you
+put the positives first
+or the negatives first, as
+long as you are consistent.
+Ordering them this way is
+actually what allows us
+to map the integers to the natural numbers
+and see that both sets are the same size,
+but there are other ways we
+could well order the integers.
+We could start with zero
+and then have one, two, three,
+all the way to positive infinity
+and then negative one,
+negative two, negative three,
+all the way to negative infinity.
+This is not how we're used to counting,
+but both of these options
+fit the definition
+of a well ordering.
+There's a clear starting point, zero,
+and all their subsets also have
+a definitive starting point.
+Cantor had successfully well ordered a set
+that was infinite in both directions,
+but it was only countably infinite.
+In his next book, he published
+his well ordering theorem.
+It claimed that every set,
+even the uncountably infinite
+ones like the real numbers
+could be well ordered.
+The problem was he hadn't
+actually proven this
+because he couldn't, every
+method he tried had failed,
+but there was one big reason that Cantor
+was so confident in his theorem.
+Cantor was a devout Lutheran
+and he believed God was
+speaking through him.
+He said, my theory
+stands as firm as a rock.
+Every arrow directed
+against it will return
+quickly to its archer.
+How do I know this?
+Because I have studied it
+from all sides for many years
+and above all because I have
+followed its roots so to speak,
+to the first infallible
+cause of all created things.
+Belief notwithstanding,
+the well ordering theorem
+was a lofty claim
+to make without any mathematical proof.
+And so for the second time,
+the mathematical community attacked
+and ostracized Cantor.
+Leading the charge was Leopold Kronecker,
+the head of mathematics at
+the University of Berlin.
+Kronecker completely dismissed
+Cantor's work, labeling him
+a scientific charlatan and
+a corrupter of the youth.
+And Kronecker used to be Cantor's teacher.
+Cantor dreamed of joining him
+at the University of Berlin,
+but all his applications
+were mysteriously denied.
+So Cantor took the rejection personally.
+In 1884, he wrote 52 letters to a friend
+and every one of them bemoaned Kronecker.
+Soon Cantor suffered
+what would be the first
+of many nervous breakdowns.
+He was confined to a
+sanitarium for recovery.
+The only way he could prove everyone wrong
+was by well ordering the real numbers,
+but he couldn't find a
+starting point, literally.
+Once Cantor was released
+from the sanatorium,
+he stepped away from math, a broken man.
+And over the next 15
+years he taught philosophy
+and rarely dabbled in his old pursuits.
+Perhaps his greatest challenge came
+at the 1904 International
+Congress of mathematicians.
+There, Julius König, a respected
+professor from Budapest,
+announced he had proof
+that Cantor's well
+ordering theorem was wrong.
+In the audience was not only Cantor
+but also his wife, two of his
+daughters and his colleagues.
+He felt utterly humiliated,
+but there was also another in attendance.
+Ernst Zermelo.
+Zermelo was a German mathematician
+who had recently developed a
+keen interest in Cantor's work
+and as he listened to
+König's presentation,
+something felt off.
+Within 24 hours, Zermelo
+had pinpointed the problem.
+König's proof contained
+a damning contradiction,
+and within a month, Zermello
+published a three-page article
+titled "Proof That Every
+Set Can Be Well-Ordered"
+and it was flawless.
+Zermelo's breakthrough came
+when he discovered something
+profound in Cantor's work,
+a mechanism which Cantor
+uses unconsciously
+and instinctively everywhere,
+but formulates explicitly nowhere.
+See, all along, Cantor had been assuming
+that he could make an infinite number
+of choices at once from any set,
+including uncountable infinite
+sets like the real numbers,
+but this was just an assumption.
+Nowhere in the mathematical rule book
+was this explicitly permitted
+and math is built on
+rules, specifically axioms.
+Axioms are simple statements we accept
+as true without proof.
+Zermelo realized Cantor's
+assumption needed
+to be formalized into something
+that holds up in a system of proof.
+A new axiom that said, making all
+of those choices was possible.
+He needed the axiom of choice.
+- The axiom of choice
+can be said in the sense
+that if you have infinitely many sets
+and each set is not
+empty, then there is a way
+to choose one element
+from each of the sets.
+- For finite sets, this seems obvious,
+just go set by set and pick something.
+Even for infinite sets, it's
+easy if there's a clear rule,
+like always choose the smallest thing,
+but sometimes there is no natural rule.
+In those cases when you're choosing
+from infinitely many sets,
+including the uncountable ones,
+you need the axiom of choice.
+We can't say how we're choosing,
+but the axiom makes all of
+these choices all at once.
+The axiom doesn't allow you
+to say which element you've chosen,
+only that infinitely many
+choices are possible.
+So how does this new axiom enable us
+to well order the real numbers.
+Zermelo uses the axiom of choice
+to choose a number from the
+set of all real numbers.
+He places this number, let's
+call it X1 into a new set, R.
+The axiom then allows him
+to choose another number from the subset
+of all reals minus the one taken out.
+He calls this number X2
+and places it as the
+next number in his set
+and he keeps doing this,
+taking the chosen number
+and placing it next, X3, X4, X5.
+Now it feels like he's choosing
+these numbers one at a time,
+but in reality the choices are made
+from all possible
+subsets at the same time.
+As Zermelo indexes each number
+with the natural numbers,
+at first it might seem like
+he'd run into a problem
+because the natural numbers
+are only accountably infinite,
+whereas there are way more reals.
+So he should eventually run out of labels,
+but we can count beyond infinity.
+We did it earlier when we
+counted past positive infinity
+to get to negative one,
+negative two and so on.
+So we just need a new set of numbers
+that extends past the naturals,
+call the next number omega,
+then omega plus one,
+omega plus two, and so on.
+These omega numbers are
+not bigger than infinity.
+They just come after infinity.
+They don't tell us how
+many things are there,
+but they do tell us their order.
+So the next number we pull
+out, we'll label it X omega,
+then X omega plus one, X
+omega plus two, and so on.
+This will continue until we match the size
+of the real numbers and
+our original set is empty.
+Now every real number is in our new set.
+There is a first number, X1,
+and every subset also has a first number.
+And just like that, we have
+successfully well ordered
+the real numbers.
+This order looks nothing
+like our familiar ordering.
+A billion could come before 0.2,
+but with this process, we can prove
+that a well ordering exists.
+And more than that, we now
+have a way to resolve our issue
+of how to choose mathematically.
+We can't pick a smallest real number,
+but now we can pick a first
+real number, our starting point,
+and we can do this for any set,
+meaning all sets can be well
+ordered no matter the infinity.
+So Cantor's well-ordering theorem
+and Zermelo's axiom of
+choice are equivalent.
+Cantor was so relieved.
+Zermelo had proved the
+well-ordering theorem
+and well ordered the real
+numbers all in under a month.
+Zermelo took something mathematicians
+had unknowingly relied on for decades
+and turned it into a formal axiom.
+He showed that understanding
+math isn't just about numbers,
+it's about the logic behind them.
+And lately I've been trying
+to do a similar thing,
+but with AI where I'm trying
+to understand the logic behind
+how models like ChatGPT work,
+and if you've also wanted to learn
+how generative AI actually works,
+well then you can do that with
+today's sponsor, Brilliant.
+Brilliant has just launched a great course
+that breaks all of this down
+with interactive visuals,
+which is exactly what
+I love about Brilliant.
+The course builds your
+intuition for the math
+and logic behind AI, exploring
+how models are trained
+to spot patterns, generate
+images, and even whip up a song.
+♪ Strandbeest striding
+through the sand ♪
+Brilliant has thousands of
+interactive lessons in math,
+science, programming, technology
+and beyond, all designed
+to sharpen your thinking
+and problem solving skills.
+And since each lesson is bite-sized,
+you can jump in anywhere,
+anytime on your laptop
+or even on your phone.
+So to try everything Brilliant
+has to offer for free
+for a full 30 days visit
+brilliant.org/veritasium,
+click that link in the description
+or scan this handy QR code.
+And if you sign up,
+you'll also get 20% off
+their annual premium subscription.
+So I want to thank Brilliant
+for sponsoring this video.
+And now back to the axiom of choice.
+The axiom of choice may
+have been a new idea,
+but its use was anything but.
+Zermelo scanned dozens of
+papers from other mathematicians
+and realized they had also
+been using the axiom all along,
+even those who had
+criticized Cantor's work.
+- It just goes to show
+how unintuitive it is
+that it's even an axiom.
+People had been using it for
+like a decade, unknowingly.
+- But this almost seems too obvious.
+Zermelo's proof didn't actually
+construct a well order.
+It just said one must exist,
+but can something exist if
+we can't actually build it?
+His proof also used an
+uncountable number of steps,
+was that even allowed?
+Some mathematicians argued
+proofs should be finite,
+others accepted infinity,
+but only the countable kind
+and then things got worse.
+When mathematicians played
+around with the axiom of choice,
+it created disturbing results.
+One of the first came from
+Giuseppe Vitali in 1905.
+Vitali used the axiom of choice
+to build a set of numbers
+that shattered our idea of what it means
+for something to have length.
+So what Vitali does is he
+takes every real number
+between zero and one
+and assigns it to one of
+an infinite number of bins.
+Let's call these bins groups.
+So we want each real number
+to end up in exactly one
+of our infinite bins.
+So how does he do it?
+Well, let's say we have
+two numbers, X and Y.
+If their difference, X minus Y is equal
+to a rational, that is one integer
+divided by another
+integer, well then both X
+and Y will go into the same bin.
+But if we have two other
+numbers, let's say P
+and Q and their difference
+is not a rational,
+so it's an irrational difference,
+well then those two numbers
+will go into separate bins.
+So let's do some examples.
+If this is 3/4 minus a half,
+then we get a quarter and
+so both 3/4 and a half
+will go into the same bin.
+In fact, you can see
+that all rational numbers
+from this span, zero to one,
+they'll all end up in the same group.
+Now if you have irrational numbers,
+well it's not clear whether
+they will go into the same bin
+or not because for example,
+if we have the number
+root two over two minus
+say root two over two
+minus a quarter, well then
+that does have a rational
+difference even though
+each of these numbers is irrational.
+So these two numbers will
+go into the same group,
+but if we have irrational
+numbers root two over two
+minus root two over three,
+well that gives an irrational difference.
+So root two over three will
+have to go into a different bin
+and it will be joined
+by all of the numbers
+it has a rational difference from.
+And in this way, you can
+assign each real number
+to exactly one of these bins.
+Next, Vitali used the axiom of choice
+to reach into each group
+and select exactly one number,
+which would be a
+representative of the group.
+So we could pull out 3/4
+from the rational group,
+root two over two from this group,
+root two over three from
+that group and so on.
+Though of course because we're
+using the axiom of choice,
+you don't actually know what
+that representative number is,
+just that you have one.
+So we could write it down like this.
+We have these representatives
+from each group
+and together they form the Vitali set.
+You can visualize this set
+as a collection of points
+between zero and one.
+Next, Vitali makes
+infinite copies of his set
+and each one he shifts by
+a different rational number
+between negative one and positive one.
+So if you think about what that does,
+it's gonna move each representative number
+to be at the position of every
+other number in its group.
+If we just had the one rational
+number that we plucked out
+as a representative
+from the rational group,
+now we're gonna shift it by
+every possible rational number
+between negative one and positive one.
+So it's going to end up at
+every other position occupied
+by the other members of its
+group, at least on the span
+between zero and one.
+So if you imagine now merging
+all of these infinite sets together,
+there's gonna be no
+overlap between the points.
+And second, we are going
+to have every real number
+between zero and one
+because on that span we have
+every member of every group.
+So now the question is what is the size
+of the Vitali set?
+Now we know that the union
+of those sets must be
+greater than or equal to one
+because we have every real
+number between zero and one,
+but also these points only
+extend out as far as negative one
+or positive two.
+So it must be less than or equal to three,
+but this is where the problem arises
+because what number for the size
+of the Vitali set could you add
+to itself infinitely many times
+and end up with a value
+between one and three?
+There is no number like that.
+I mean if the size of
+the Vitali set was zero,
+you add it up infinitely,
+many times you still get zero.
+If the size of the Vitali set
+is a small positive value,
+then you add it up infinitely many times,
+you're gonna get infinity, not three.
+So we have a contradiction
+and the only way out is
+if the Vitali set itself
+is unmeasurable, which seems crazy.
+Non-measurable sets like the
+Vitali set have no consistent
+definition of size or length
+or area or even probability.
+But math is built on the idea
+that everything can be
+quantified, whether it's distance,
+time, or weight, except now
+there are non-measurable sets
+and it seems like the axiom
+of choice is to blame.
+This was just the start of the
+uproar caused by the axiom.
+In 1924, two mathematicians, Stefan Banach
+and Alfred Tarski used
+it to show something
+that looks like a magic trick.
+They proved you could
+take a single solid ball
+and split it into just five pieces,
+and then by carefully rotating
+and moving those pieces,
+you could reassemble them
+into two balls each identical
+to the one we started with,
+and you could keep going
+until eventually you have
+an infinite number of balls,
+infinity all from one.
+This sounds absurd,
+but we can actually see how
+it works by building a graph.
+Imagine you can move in four directions,
+up, down, left and right.
+After taking a step, say to the left,
+you get the same four choices,
+up, down, left and right,
+but if you go to the right, you'll end up
+back where you started.
+So the only rule we're gonna have is
+that you can't immediately reverse a move,
+and we'll keep repeating
+this at every step,
+drawing each new line, half
+the size of the previous one
+so it all fits on the screen.
+If we keep going, we'll end up
+with this infinitely branching graph.
+Looking at our graph, we can
+break it into five sections.
+There's the middle
+section where we started,
+and then there are four other sections
+that are all identical, just rotated.
+So if we take this section to the left
+and we move everything
+one step to the right,
+the top part ends up here,
+the bottom part here,
+and the leftmost part here,
+then we've almost
+recreated the entire graph.
+The only thing we're
+missing is this section,
+so let's add it back in,
+but we could have done the same thing
+in a completely different way
+by taking the bottom section
+and moving it one step up.
+Now the leftmost part ends up
+here, the rightmost part here
+and the bottom here.
+Again, we're just missing one section,
+so let's add it back in.
+But this means I can recreate
+the entire original graph
+in two completely different ways.
+We took one graph, split it into sections,
+shifted the sections, so the
+left section went to the right
+and the down section up
+and somehow ended up with
+two identical copies.
+This is exactly what
+Banach and Tarski did,
+but with a ball, like our
+graph, we again have four moves.
+We can rotate the ball
+up, down, left or right,
+and again, our only rule is
+that we can't immediately reverse a move.
+And to make sure we never
+come back to the same point,
+every rotation will be
+by the same irrational
+portion of a circle.
+We can pick a random
+starting point, mark it
+and then start rotating the ball.
+Each point is colored
+based on the direction
+of rotation used to get there.
+If we do this an infinite
+number of times, we end up
+with this collection of points.
+This is a countably infinite collection
+because we could list each rotation
+and assign it a natural number,
+but the surface of a ball has
+uncountably infinite points
+just like the real number line.
+So if we want to cover the
+entire surface, we would need
+to repeat this process,
+but where do we start next?
+Since there are uncountably
+infinite possible
+starting points, we can't list them all
+and we wanna be sure to avoid any points
+we've already colored.
+So the solution is to
+use the axiom of choice.
+With it, we can choosing
+unique starting points,
+even though we can't say exactly
+how we are choosing them.
+Once we've colored
+every point on the ball,
+we can split the points into five groups,
+one for the starting points
+and four others based on
+the final rotation used
+to arrive at those points.
+These groups can now be treated
+just like the sections of our graph.
+We can take the group of points that end
+with a left rotation and
+rotate it to the right.
+Then we add in the group that
+ends with a right rotation,
+and just like that, we've
+recreated our original ball
+and we can do it again making
+an extra move to account
+for the starting points.
+We can equally take the group
+that ends with a down rotation
+and rotate it upwards.
+Then we add in the group
+that ends with an up rotation
+and our starting points,
+and now we've recreated our
+original ball a second time.
+Now, this is a bit of
+an oversimplification,
+but it gives you the
+essence of how this is done.
+From one ball, we have
+created two identical balls
+of the same volume,
+and nothing stops us
+from doing this again.
+Two balls can become
+four, four become eight,
+and before you know it,
+you've got infinite balls.
+- The axiom of choice is
+something that's so obviously true
+and it's consequences
+are so obviously false
+that you're like, what
+the hell is going on?
+- This infinite duplication
+is theoretically possible,
+but the catch is the groups
+we split the ball into
+aren't simple shapes.
+They're actually non-measurable,
+just like the Vitali set,
+although the original ball has a volume
+and the duplicated balls have a volume,
+the step in between violates
+our understanding of size.
+This is what allows the paradox to happen.
+- Of course, those are not
+physically plausible cuts,
+but like there's a more
+meta physical question like,
+should this even remotely be possible
+if we could make such cuts?
+And the answer to almost
+every human I know
+is absolutely not.
+- The truth is no one
+knew what was going on.
+That same year, Tarski
+tried to push the axiom
+of choice further proving it
+is equivalent to the statement
+that squaring any infinite set
+would not increase its size.
+When Tarski first submitted
+this work to a journal in Paris,
+the editor Lebesgue
+responded dismissively,
+nobody's interested in the equivalence
+between two false statements.
+Not to be deterred, Tarski
+sent it to a different editor
+at the same journal, Freche, his response,
+nobody's interested in the equivalence
+of two obviously true statements.
+Tarski never submitted
+a paper there again.
+So math was in crisis for over 30 years
+with people not knowing what to believe.
+- The question is, wait a
+second, is this really an axiom
+or is this something that you can prove?
+- In 1938, we finally
+started getting some answers.
+The Austrian mathematician, Kurt Godel,
+proved there is a world all
+the other already accepted
+axioms of set theory hold true,
+and so does the axiom of choice.
+Then in 1963, Paul Cohen
+proved there's also a world
+where all the axioms
+of set theory hold true
+except for the axiom of choice.
+This is kind of like the
+parallel postulate in geometry.
+You can think of geometry as a game.
+The first four postulates
+or axioms are like the
+minimum rules required to play
+that game, and then the fifth axiom
+selects the universe
+that you wanna play in.
+If you choose that the
+fifth axiom doesn't hold,
+so there are no parallel lines,
+then you're playing in spherical geometry.
+If you choose one parallel line,
+you're playing in flat geometry,
+and if you choose more
+than one parallel line,
+then you're playing in
+hyperbolic geometry.
+All of these geometries are valid.
+It just depends on the
+math you want to do,
+and it's the same for the axiom of choice.
+The axiom of choice can neither be proven
+nor disproven from the other axioms.
+So as long as the other
+axioms are consistent,
+adding choice won't lead
+to any contradictions.
+Paul Cohen was awarded the
+Fields Medal three years later
+for his groundbreaking result,
+as well as his other work in
+set theory, and after Godel
+and Cohen's work, most of the debates
+about the axiom of choice died down.
+- In the end, what the hell
+is going on is that it's up
+to you whether you want to
+choose for the axiom of choice
+to be a part of your system or not,
+and face the consequences
+of either having it or not having it.
+- Despite the counterintuitive
+results created
+by the axiom of choice,
+like non-measurable sets
+and infinite duplication,
+it is incredibly useful,
+choice allows mathematicians
+to replace lengthy explicit proofs
+with more concise arguments.
+By proving statements in the finite case,
+many proofs can be extended
+to any infinite case in just one line.
+This reduces proofs that
+could have been 20 pages
+to just half a page.
+And the axiom of choice
+doesn't just make math easier.
+It is essential to some proofs.
+There are many theorems
+where the general case
+can't be proven without
+using choice somewhere.
+Now, some mathematicians still
+prefer proofs without choice,
+even if it's harder,
+the proof has to be spelled
+out step by step to generalize
+to infinite cases, and this
+provides additional information.
+Some mathematicians spend
+their time studying universes
+without the axiom of choice to understand
+what happens when we remove it.
+But today, the axiom of choice
+is almost universally accepted.
+For the past 80 plus years,
+generations of mathematicians
+have been taught with choice as a given
+to the point where many
+who use the axiom of choice
+might not even realize
+when they're doing it.
+- If you don't include
+the axiom of choice,
+then you're kind of working
+with both hands tied behind your back.
+It's very hard to make any
+progress on modern math.
+- So the question was never really
+is the axiom of choice right?
+But rather is the axiom of choice right
+for what you want to do?
+(frequencies buzzing)
+(bright music)

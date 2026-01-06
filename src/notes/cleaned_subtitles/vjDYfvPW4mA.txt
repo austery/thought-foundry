@@ -1,0 +1,636 @@
+(brooding music)
+- Most plane doors aren't locked.
+There are no keys, no sensors
+or passcodes to secure them.
+If someone wants to pull
+the lever, they can.
+- A man opened the emergency exit door
+and forced his way off the plane.
+- And yet with 40 million
+flights each year,
+these doors are virtually
+never opened in flight.
+So, why not?
+- Your self preservation, surely.
+- Common sense.
+- Most people are, you know, smart enough
+to not mess with that.
+- The real answer relies
+on where planes fly.
+- How high do planes fly approximately?
+- 10,000 km or
+is that overshooting it?
+- I think that's overshooting it.
+I think you'd be in space.
+- 25,000 km.
+That's the height of a plane flying?
+- Is that way too low?
+- It's too much. It's too much.
+Too much. Too much.
+Bring it down.
+- Maybe yeah, 1,000 km?
+- 1,000 km, still space.
+- 50,000 ft, I think.
+- Yeah, some of them can
+go up to 43,000 ft.
+- 30,000 ft.
+- 38,000 ft.
+- Yeah.
+Why do they fly that high?
+Uhh...
+- I don't know. Safety, I guess.
+- Probably to avoid
+collision with other aircraft
+and if there's high mountain ranges.
+- I don't know,
+when storms or weather hit?
+- My guess is to avoid
+the turbulent weather.
+- I think that's a decent guess.
+Now, it's true that one of the benefits
+of flying at 30,000 ft is a smoother ride.
+This is high in the troposphere,
+the layer in which most weather occurs.
+So, there's less turbulence
+and fewer storms to navigate around.
+But this is not the main
+reason that planes fly so high.
+The bigger reason, of course, is money.
+As you go up, the density of air decreases
+and at 33,000 ft or 10 km,
+the density of air is just a third
+of what it is at sea level.
+So flying at this altitude,
+the plane runs into a third
+of the air molecules it would
+closer to the ground.
+That means the plane
+can fly about 73% faster
+for the same amount of thrust.
+And as a result, you get
+to your destination faster
+and since you spend less time in the air,
+you burn less fuel.
+It seems in a way that like
+climbing is wasted energy.
+Can you compare like the
+descent to the ascent?
+Do you essentially get the energy back
+as you fall down the other side?
+- Yeah.
+When we climb, we burn
+about 80 kilos per minute.
+In cruise, we burn about
+40 kilos per minute.
+And in descent, it's maybe 10.
+So, it's almost negligible.
+- Not only that, jet engines
+are more efficient at altitude.
+They work by compressing
+air at the intake,
+mixing it with fuel and igniting it.
+So, the combustion products
+are ejected very fast
+from the exhaust nozzle.
+Now, this process is more
+efficient the colder the air is.
+And at altitude, the temperature
+is around minus 50 degrees Celsius,
+which is a lot colder
+than an average of plus 15
+here at the ground.
+So, flying higher means you
+burn less fuel for less time
+and avoid the weather
+and associated turbulence
+of lower altitudes.
+- The other reason you wanna fly high
+is to take advantage of
+the jet stream tailwinds
+and the company likes people who do that,
+because you're burning less fuel,
+so it's less money.
+- But there is a problem
+with flying this high.
+The air up there is unbreathable.
+If you were suddenly teleported
+to the top of Mount Everest, a
+height lower than planes fly,
+you would remain conscious
+for only about three minutes.
+This is because in addition
+to density dropping with
+altitude, so does air pressure.
+Air pressure actually falls off faster,
+because it depends on the
+weight of all the air above you.
+So at 10 km, the air pressure
+is only a quarter of
+what it is at sea level.
+To be clear, the air is still 21% oxygen,
+but the partial pressure of oxygen,
+the pressure exerted
+solely by oxygen molecules
+is around 5.5 kilopascals,
+which is a quarter of
+what it is on the ground.
+Now at this pressure, not
+enough oxygen molecules
+can force their way into
+your blood in your lungs.
+To function normally, humans
+need an oxygen partial pressure
+of at least 16 kilopascals.
+So, all the cabins of airplanes
+that cruise at high altitude
+must be pressurized.
+A little bit of air is
+continuously brought
+into the cabin from outside.
+It actually comes in from
+the compression stage
+of the jet engines.
+That is what maintains
+breathable air inside the plane.
+- The downside is that you are taking away
+a little bit of the
+efficiency of the engines.
+- Now, pressurizing the cabin
+required a radical redesign of aircraft.
+Before pressurization, planes would fly
+up to 10,000 feet or
+around three kilometers,
+where the partial pressure
+of oxygen is 15 kilopascals,
+just at the limit of
+what people can handle.
+On these planes, doors opened outward
+and there wasn't much concern
+about the seal around them
+since the pressure was
+the same on both sides.
+But once planes were pressurized,
+all the doors were changed
+to be the shape of a plug.
+They're wider on the
+inside than the outside.
+That way the higher
+pressure inside the cabin
+pushes the door into its frame,
+creating an airtight seal.
+How airtight is a cabin?
+- It's pretty airtight, but
+not completely airtight.
+So,  you'll notice for example,
+every time that someone
+flushes the toilet,
+you'll see some of the
+air pressure go down.
+So every time that happens,
+you can actually see the cabin
+altitude jump a little bit.
+- And this is why plane doors
+and emergency exit doors
+don't need locks.
+The difference in pressure
+between the pressurized cabin
+and the low pressure exterior is so great
+that no one is strong enough
+to pull the door inwards.
+And if someone had come up
+and turned that while
+you're mid-flight? 
+Nothing.
+- Even modern plane
+doors that open outward
+are shaped like plugs.
+They're just cleverly designed.
+The main passenger door on a Boeing 737
+is both wider and taller
+than the frame it needs
+to pass through.
+But when you pull the lever,
+gates at the top and bottom fold in,
+reducing the height just enough.
+However, the sides are still too wide.
+So, the door first has
+to pop inside and rotate.
+It's that movement inwards
+that is impossible at altitude.
+It would require a force equivalent
+to lifting 9,000 kilograms.
+And airplane cabins aren't
+even fully pressurized
+to the sea level pressure
+of 101.3 kilopascals.
+You may have noticed this
+if you take a bag of chips on a plane.
+It's easy to squish on the ground
+but as the plane climbs, the
+pressure in the cabin drops
+and the chip bag seems to
+inflate like a balloon.
+I measured the pressure in my plane
+and at cruising altitude,
+the pressure dropped to 77 kilopascals.
+Meaning the partial pressure of oxygen 
+was only 16 kilopascals,
+the minimum required for people
+on the plane to feel normal.
+This has some unintended consequences.
+Do you think you fart more in a plane?
+(interviewee laughing)
+- If I did, I'd blame someone else.
+- I feel like no.
+- No.
+- No
+- I can't let it rip, no way in the world.
+Do you think you fart more in
+a plane than on the ground?
+- A hundred percent, no hesitation.
+Sure, I mean it's gotta do
+with the cabin pressure, right?
+- So as you go up, that
+cavity in here now expands
+and the air wants to go somewhere,
+and the quickest place it can go is south.
+- Bag of chips just popped by itself.
+- Now, the International
+Space Station is pressurized
+to sea level pressure, 101.3 kilopascals.
+So, why are planes pressurized
+to the minimum extent possible
+to carry human passengers?
+Well, it's actually
+for a very good reason.
+In 1988, Aloha Airlines 243
+was en route from Hilo
+to Honolulu, Hawaii.
+The cabin was being
+pressurized as we've described,
+but unfortunately, this plane's
+fuselage had a small crack
+and all of a sudden at 24,000 feet,
+the crack widened and the whole roof
+tore off the front of the plane.
+Miraculously the pilots
+were able to land safely
+and only one person was killed.
+The difference between the
+International Space Station
+and a plane is that the
+ISS was pressurized once
+and it stays pressurized.
+But a plane experiences
+a pressure difference
+every time it climbs to cruising altitude.
+So, the fuselage is stretched
+and then relaxed with every flight.
+Stretched and relaxed,
+stretched and relaxed.
+The Aloha Airlines plane
+had the second highest 737
+flight cycle count in the world,
+with nearly 90,000 in total.
+That's way more than it was designed for.
+This led to fatigue, cracking, corrosion,
+and the eventual explosive decompression.
+So, planes are pressurized
+to the least extent possible
+to minimize stresses and
+extend the life of the plane.
+But even 75% of atmospheric pressure
+should be plenty to prevent
+the doors from opening.
+So, how did this happen in May, 2023?
+- A passenger panicked
+and actually managed
+to open an Airbus
+emergency exit in flight.
+They were on final approach
+and they were quite close to the ground,
+so the pressure differential
+was very little.
+And because of him using all of his force,
+he actually managed to get
+the door open, which was crazy
+and we didn't think
+that that was possible.
+But if you want something
+bad enough, I guess it is.
+- Wow.
+Was he okay?
+- He was okay. Everyone
+was okay in that case.
+- That was a pretty serious mishap.
+So, I guess the next logical question is: 
+Have any other passengers
+inadvertently caused a mishap, 
+by say, forgetting to put
+their phone on airplane mode?
+When you're sitting there on the tarmac
+and they come on and tell you
+to put your phone on
+airplane mode, do you do it?
+And why do they get us to do that?
+What is the reason? Is there a reason?
+- Obviously, they
+wouldn't ask you to do it
+if it wasn't for some benefit.
+- I'm unfortunately a bit of a rebel
+and I don't follow the rules and yeah.
+- But you're not worried
+about taking the plane down?
+- I'd make sure my parents
+have the airplane mode on
+so I can have it off.
+- I mean, yes I do because
+I don't want it interfering
+with like the radio or whatever.
+- Well, I think it's the
+communication interference.
+- I feel like I've always been told
+like it messes up like instruments,
+but honestly you're
+always just told to do it.
+So you know, just gotta put
+your phone in  airplane mode.
+- In 1961, the Federal
+Aviation Administration or FAA
+found that some portable FM radios
+could interfere with
+plane navigation systems
+since they used neighboring radio bands.
+And out of caution, they banned
+almost all personal
+electronics on flights.
+But airlines could test
+any device for interference
+and overrule the FAA ban
+to allow it on board.
+Any device, that is, except a phone,
+because another organization
+has jurisdiction over phones
+and that's the Federal
+Communications Commission, or FCC.
+See a phone on the ground
+with buildings and hills around it
+can usually only see
+one or two cell towers
+at the same time.
+But from the air, it could
+see 10 or 20 or more.
+The concern was that 200 phones
+traveling at 800 kilometers
+per hour in a plane
+could rapidly connect
+to many towers at once,
+overloading the infrastructure.
+At least that's what the
+FCC thought could happen.
+So, they banned cell phone
+use in flight in 1991.
+(funky music)
+But there's a problem with this theory.
+A plane is a big metal enclosure,
+essentially a Faraday cage.
+So, it should block almost
+all electromagnetic signals.
+That's why plane antennas
+are located on the outside.
+Your phone signals can only
+escape through the windows,
+which means they go horizontally
+out the sides of the plane.
+So, they would have to
+travel long distances
+before reaching the ground.
+And the cell towers your
+phone is trying to connect to,
+well they are tilted downwards, you know,
+to collect all the signals from people
+walking around on the ground.
+So, it's very hard to make
+a connection from the air
+unless you're flying really low.
+So, phones could only conceivably
+disrupt ground networks
+during takeoff or landing.
+And the FCC never even
+tested if this was the case.
+In 2005, they went
+before Congress and said
+the rule banning 800 MHz
+cell phone use in flight
+may not be needed in order
+to protect ground-based cellular networks.
+As far as we know,
+a mobile phone has never
+caused an air accident.
+All airplane mode does for
+sure is save your battery life.
+So, why are these rules still around?
+- I've been flying myself
+and where I've gotten interference,
+you know, when you're
+talking to a traffic control
+and you get that
+(imitating a phone signal),
+you know that signal,
+and that is because someone
+is either using their phone
+or the phone is on.
+Will one phone in an
+aircraft cause any problems?
+Probably not.
+Will 200 do something?
+Maybe.
+Rather than taking the
+chance of like, let's everyone
+update their Twitter profile at 500 feet,
+rather than saying that, we're saying no,
+you know, just keep them off, you know,
+enjoy the Wi-Fi up at
+altitude and that's it.
+- But airplane mode might
+soon be a thing of the past.
+The EU actually no longer requires it
+and is pushing for airlines
+to provide 5G service
+on all EU flights.
+So, we may eliminate that inconvenience,
+but we still have to
+deal with airplane food.
+What do you think about airplane food?
+- I only eat the bread rolls.
+That's only thing I can handle.
+Apart from that, everything
+tastes like mush.
+- It's can be very good.
+It can be very terrible.
+- Eh, bland-ish, different consistency.
+- Do you think the food
+tastes as good in a plane
+as it would on the ground?
+- No.
+- But bad-tasting food might
+not be all the airlines' fault.
+See, the air that's pumped
+into the cabin altitude
+is really dry.
+And the Sahara Desert for reference
+has an average relative humidity of 25%,
+but inside an airplane cabin,
+it can be as low as 5%.
+This can dry out your nasal passages,
+hindering your sense of
+smell and therefore taste.
+The lower cabin pressure
+can also decrease sensations
+like the intensity of salt and sugar.
+But there is one flavor
+that appears to be enhanced
+in flight.
+What do you drink in an airplane?
+What's your drink of choice?
+- Apple juice.
+- Apple juice?
+- Yeah.
+- Interesting.
+- I mean Coke, that's default
+- Orange or apple juice.
+- Gin and tonic.
+- Maybe a Bloody Mary, but...
+- You're the first one today.
+- Really?
+- Yeah.
+A German survey of a thousand flyers
+found that more than a quarter of them
+order tomato juice in flight.
+And what's really weird is
+that 23% of those people
+would never drink it on the ground.
+And would you drink Bloody Mary,
+would that be like a
+standard drink at the bar
+or is it a special plane drink?
+- I only have it on planes.
+- So, why is everyone
+ordering tomato juice?
+Well, it could be because of the noise.
+A 2015 study points to the chorda tympani,
+a nerve that carries taste information
+from the tongue to the brainstem.
+It runs right past the eardrum,
+between the tiny sound conducting bones.
+So, loud cabin noise might
+unintentionally stimulate it.
+This could produce an audio illusion
+that boosts our sense of umami,
+the savory taste you
+find in MSG, soy sauce,
+and well, tomatoes.
+- I always drink tomato
+juice and I never knew why.
+It just felt like my plane drink.
+Or like spicy tomato juice-
+- Yeah.
+- Like both of those
+are favorites of mine.
+- Yeah.
+So, next time you're on a flight,
+go for something extra sweet or salty
+or maybe try the tomato juice.
+I feel like with how much people fly,
+our perspective of flying
+is still pretty distorted.
+So, why is that?
+- Yeah.
+I know that we talk a lot
+about accidents and incidents
+and we dig into them really, really deep
+and people might ask, "Why
+would you be doing this?
+Doesn't that just make people
+even more afraid of flying?"
+But the fact is that this
+is one of the prime reasons
+why aviation is as safe as it is.
+The fact that we have
+hundreds of professionals
+that dig deep into these accidents
+means that we learn from them.
+So, every flight becomes
+a little bit safer.
+That's actually a big reason
+that I started my channel
+Mentour Pilot in the first place
+'cause I promise you, the more you know
+the safer you'll feel.
+(closing music)
+- Do you think that climate
+change increases turbulence?
+- Eh, depends on what people
+think about their opinions.
+- Yeah.
+- It's been a bit of that in
+news recently, hasn't there?
+- Today, the media tends to prioritize
+sensationalized headlines
+over key details.
+Part of why airplane mode is
+still such a big deal today
+is because of the media frenzy
+it started in the 1960s.
+So it's more important than ever
+to look at all sides of the story.
+This is why we specifically
+asked Ground News
+to sponsor this video.
+Recent stories about the
+increase in turbulence
+come from a 2023 study
+that suggested a link to climate change.
+Yet, this study was barely
+reported on by the media,
+totally eclipsed by other major events.
+But Ground News lets you
+see the whole picture.
+You can easily compare the coverage
+and verify the source of the information.
+If you look closer,
+you'll see that some of the outlets,
+like The Independent and the SCMP,
+argue that climate change is
+making flying more dangerous.
+While others like the Free
+Press paint a different picture
+by dismissing the study.
+That's why it's really important
+to look at all the information.
+But Ground News doesn't
+only highlight breaking news
+on things like science and aviation,
+they also specifically
+show blind spot stories
+the media isn't covering.
+Veritasium is all about
+getting to the truth
+and Ground News' mission
+is to provide all sides of every story,
+so that we can do that for ourselves.
+So, I encourage you to check them out
+at groundnews.com/VER.
+The link is below or you
+can scan this QR code.
+Make sure to subscribe through our link
+to save 40% off unlimited access.
+And by supporting Ground News,
+you're not only getting a tool
+we need now more than ever,
+but you're directly
+supporting this channel
+and our work in the meantime.
+So, I wanna thank Ground News
+for sponsoring this video
+and I want to thank you for watching.

@@ -1,0 +1,784 @@
+- [Derek] This tiny robot mouse
+can finish this maze in just six seconds.
+(dramatic music)
+Every year, around the world,
+people compete in the
+oldest robotics race.
+The goal is simple:
+get to the end of the
+maze as fast as possible.
+- The person who came second
+(announcer chattering)
+(people cheering)
+lost by 20 milliseconds.
+- [Derek] But competition
+has grown fierce.
+- When somebody saw my design,
+they said, "You're crazy!"
+- [Derek] Why is there so much
+tension? What's riding on it?
+Honor?
+- Honor
+(audience applauding)
+(audience cheering)
+- [Derek] This video is
+sponsored by Onshape.
+In 1952, mathematician
+Claude Shannon constructed
+an electronic mouse named
+Theseus that could solve a maze.
+The trick to making the mouse intelligent
+was hidden in a computer
+built into the maze itself,
+made of telephone relay switches.
+The mouse was just a magnet
+on wheels, essentially,
+following an electromagnet controlled
+by the position of the relay switches.
+- [Claude] He is now exploring the maze
+using a rather involved
+strategy of trial and error.
+As he finds the correct path,
+he registers the
+information in his memory.
+Later, I can put him down
+in any part of the maze
+that he's already explored,
+and he'll be able to
+go directly to the goal
+without making a single false turn.
+- [Derek] Theseus is often referred to
+as one of the first examples
+of machine learning.
+A director at Google recently said
+that it inspired the whole field of AI.
+25 years later, editors at the Institute
+of Electrical and Electronics
+Engineers, or IEEE,
+caught wind of a contest
+for electronic mice,
+or le mouse electronique,
+as they had heard.
+They were ecstatic. Were these
+the successors to Theseus?
+But something had been
+lost in translation.
+These mice were just batteries in cases,
+not robots capable of
+intelligent behavior.
+But the misunderstanding stuck
+with them, and they wondered,
+"Why couldn't we hold that
+competition ourselves?"
+In 1977, the announcement for IEEE's
+Amazing Micro-Mouse Maze Contest
+attracted over 6,000 entrants,
+but the number of successful
+competitors dwindled rapidly.
+Eventually, just 15 entrants
+reached the finals in 1979.
+But by this point,
+the contest had garnered
+enough public interest
+to be broadcast nationwide
+on the evening news.
+And just like the rumor that
+inspired the competition,
+Micromouse began to
+spread across the world.
+♪ Micromouse, is for the taking ♪
+♪ Micromouse, is here and now ♪
+♪ Take a chance, and start creating ♪
+(upbeat music)
+(reporter speaking Japanese)
+- A Micromouse?
+- [Group] Micromouse!
+(audience applauding)
+- Even people in the top two or three,
+you can see them trying
+to set their mice up,
+and they can barely find
+the buttons to press,
+because it's absolutely nerve-racking.
+(suspenseful music)
+It doesn't matter what it
+was, it could be horse racing,
+it could be motor racing,
+it could be mouse racing,
+If you have a shred of
+competitiveness in you,
+you'd wanna win, right?
+- [Derek] Just like a real mouse,
+a Micromouse has to be fully autonomous.
+No internet connection,
+no GPS or remote control
+and no nudging it to help it get unstuck.
+It has to fit all its computing, motors,
+sensors, and power supply in a frame
+no longer or wider than 25 centimeters.
+There isn't a limit on
+the height of the mouse,
+but the rules don't allow climbing,
+flight, or any forms of combustion,
+so rocket propulsion, for
+example, is out of the equation.
+(audience cheering)
+(announcer chattering)
+The maze itself is a square
+about three meters on each side,
+subdivided by walls into corridors
+only 18 centimeters across.
+And in 2009,
+the half-size Micromouse
+category was introduced,
+with mice smaller than 12
+1/2 centimeters per side,
+and paths just nine centimeters across.
+The final layout of the
+maze is only revealed
+at the start of each competition,
+after which competitors are not allowed
+to change the code in their mice.
+(announcer speaking in Japanese)
+(audience cheering)
+The big three competitions,
+All Japan, Taiwan, and USA's APEC,
+usually limit the time
+mice get in the maze
+to seven or 10 minutes,
+and mice are only allowed five runs
+from the start to the goal.
+- So if you spend a lot of time
+searching, that's a penalty.
+- Makes sense.
+So the strategy for most Micromice
+is to spend their first run
+carefully learning the maze
+and looking for the best path to the goal,
+while not wasting too much time.
+Then they use their remaining tries
+to sprint down that path for
+the fastest run time possible.
+(audience applauding)
+Solving a maze may sound simple enough,
+though it's important to remember that,
+with only a few infrared sensors for eyes,
+the view from inside the
+maze is a lot less clear
+than what we see from above.
+Still, you can solve a
+maze with your eyes closed.
+If you just put one hand along one wall,
+you will eventually reach
+the end of most common mazes.
+And that's exactly what some initial
+Micromouse competitors realized, too.
+And after a simple wall-following mouse
+took home gold in the first finals,
+the goal of the maze was
+moved away from the edges,
+and free-standing walls were added,
+which would leave a simple
+wall-following mouse searching forever.
+Your next instinct might
+be to run through the maze,
+taking note of every fork in the road.
+Whenever you reach a dead end or a loop,
+you can go back to the last intersection
+and try a different path.
+If your last left turn got you nowhere,
+you'd come back to that
+intersection and go right instead.
+You can think of this strategy
+as the one a headstrong mouse might use,
+running as deep into the maze as it can,
+and turning back only when
+it can't go any further.
+This search strategy, known
+as depth-first search,
+will eventually get the mouse to the goal.
+The problem is, it might
+not be the shortest route,
+because the mouse only
+turns back when it needs to,
+so it may have missed a
+shortcut that it never tried.
+The sibling to this search
+algorithm, breadth-first search,
+would find the shortest path.
+With this strategy,
+the mouse runs down one
+branch of an intersection,
+until it reaches the next one,
+and then it goes back to
+check the path it skipped,
+before moving on to the
+next layer of intersections.
+So the mouse checks
+every option it reaches,
+but all that backtracking
+means that it's rerunning
+paths dozens of times.
+At this point,
+even searching the whole
+maze often takes less time.
+So why not just do that?
+A meticulous mouse could search
+all 256 cells of the maze,
+testing every turn and corner to ensure
+it has definitely found the shortest path.
+But searching so thoroughly
+isn't necessary, either.
+Instead, the most popular
+Micromouse strategy
+is different from all of these techniques.
+It's a search algorithm
+known as flood fill.
+This mouse's plan is to make
+optimistic journeys through the maze,
+so optimistic, in fact,
+that on their first journey,
+their map of the maze doesn't
+have any walls at all.
+They simply draw the shortest
+path to the goal and go.
+When their optimistic plan inevitably
+hits a wall that wasn't on their map,
+they simply mark it down
+and update their new
+shortest path to the goal.
+Running, updating, running, updating,
+always beelining for the goal.
+Under the hood of the algorithm,
+what the Micromouse is
+marking on their map
+is the distance from every
+square in the maze to the goal.
+To travel optimistically,
+the mouse follows the trail
+of decreasing numbers down to zero.
+Whenever they hit a wall,
+they update the numbers on their map
+to reflect the new shortest
+distance to the goal.
+This strategy of following
+the numerical path of least resistance
+gives the flood fill algorithm its name.
+The process resembles
+flooding the maze with water
+and updating values based on the flow.
+Once the mouse reaches the goal,
+it can smooth out the path it took
+and get a solution to the maze.
+However, it may look back
+and imagine an even shorter,
+uncharted path it could've taken.
+The mouse might not be satisfied
+that it's found the
+shortest path just yet.
+While this algorithm isn't guaranteed
+to find the best path on first pass,
+it takes advantage of
+the fact that Micromice
+need to return to the start
+to begin their next run.
+So if the mouse treats its
+return as a new journey,
+it can use the return trip
+to search the maze as well.
+Between these two attempts,
+both optimized to find
+the shortest path from start to finish,
+it's extremely likely that
+the mouse will discover it,
+and the mouse will have
+done it efficiently,
+often leaving irrelevant areas
+of the maze entirely untouched.
+Flood fill offers both an
+intelligent and practical way
+for Micromice to find the
+shortest path through the maze.
+Once there was a clear strategy
+to find the shortest path,
+and once the microcontrollers and sensors
+required to implement it became common,
+some people believed
+Micromouse had run its course.
+As a paper published in IEEE put it,
+"At the end of the 1980s,
+the Micromouse Contest
+had outlived itself.
+The problem was solved,
+and did not provide any new challenges."
+(people chattering)
+In the 2017 All Japan
+Micromouse Competition,
+both the bronze-and silver-placing mice
+found the shortest path to
+the goal, and once they did,
+they were able to zip along
+it as quick as 7.4 seconds.
+(audience applauding)
+But Masakazu Utsunomiya's
+winning mouse, Red Comet,
+did something entirely different.
+This is the shortest path to the goal,
+the one that everyone took.
+This is the path that Red Comet took.
+It's a full 5 1/2 meters longer.
+That's because Micromice
+aren't actually searching
+for the shortest path,
+they're searching for the fastest path.
+And Red Comet's search
+algorithm figured out
+that this path had fewer
+turns to slow it down.
+So even though the path was longer,
+it could end up being faster.
+So it took that risk.
+(announcer speaking in Japanese)
+(audience applauding)
+- [Derek] It won by 131 milliseconds.
+(upbeat music)
+Differing routes at competition
+are now more common than not,
+and even just getting to
+the goal remains difficult,
+whether due to a mysterious algorithm
+or a quirk of the physical maze.
+(audience laughing)
+- [Commentator] The corner,
+it's a little bit like a...
+Whoa!
+(commentator speaking in Japanese)
+- [Derek] Micromice don't
+always behave as you'd expect.
+(competitor speaking in Japanese)
+(upbeat music)
+Micromouse is far from solved,
+because it's not just a software problem
+or a hardware problem, it's both.
+It's a robotics problem.
+Red Comet didn't win
+because it had a better search algorithm
+or because it had faster motors.
+Its cleverness came from how the brains
+and body of the mouse interacted together.
+- So it turns out solving
+the maze is not the problem.
+It never was the problem, right?
+But it's actually about navigation,
+and it's about going fast.
+- Every year, the robots get
+smaller, faster, lighter.
+There is still plenty of innovation left.
+And there's a small group
+of devotees in Japan
+busy building quarter-size Micromouse
+which would sit on a quarter.
+(commentator speaking in Japanese)
+- [Derek] Nearly 50 years on,
+Micromouse is bigger than ever.
+(commentator speaking in Japanese)
+(audience cheering)
+- [Derek] Competitions
+have appeared solved
+at first glance before.
+The high jump was an
+Olympic sport since 1896,
+with competitors refining their jumps
+using variations like the
+scissor, the western roll,
+and the straddle over the
+decades, with diminishing returns.
+But once foam padding became
+standard in competition,
+Dick Fosbury rewrote the sport in 1968
+by becoming the first Olympian
+to jump over the pole backwards.
+Now almost every high jumper does
+what's known as the Fosbury flop.
+If Micromouse had indeed
+stopped in the 1980s,
+the competition would've
+missed its own Fosbury flops,
+two innovations that completely
+changed how Micromice ran.
+After all, a lot can change
+in a sport where competitors
+can solder on any
+upgrade they can imagine.
+The first Fosbury flop
+was one of the earliest
+innovations in Micromouse,
+and had nothing to do with technology.
+It was simply a way of
+thinking outside the box,
+or rather, cutting through the box.
+Every mouse used to
+turn corners like this.
+(Micromouse whirring)
+But everything changed
+with the mouse Mitee 3.
+- So Mitee Mouse 3 implemented
+diagonals for the first time.
+(people chattering)
+And that turned out to
+be a much better idea
+than we really thought.
+And because it's cool, you know,
+maze designers often put
+diagonals into the maze now.
+So, you know,
+you could end up with a maze
+where it never comes up,
+but most of the time
+it's actually a benefit.
+- [Derek] In order to pull off diagonals,
+the chassis of the mouse had to be reduced
+to less than 11 centimeters wide,
+or just five centimeters
+for half-size Micromouse.
+The sensors and software of
+the mouse had to change, too.
+When you're running
+between parallel walls,
+all you have to do is
+maintain an equal distance
+between your left and
+right infrared readings.
+But a diagonal requires
+an entirely new algorithm,
+one that essentially guides the mouse
+as if it had blinders on.
+- Normally, if you're going
+along the side of a wall,
+or something like that,
+most of the time you can
+see the wall all the time.
+And so that helps you to guide yourself,
+and you know when you're getting off.
+But in the diagonal situation,
+you just see these walls coming at you.
+- [Derek] And if you veer
+even a tiny bit off course,
+snagging a corner is a lot less forgiving
+than sliding against a wall.
+Diagonals are still one
+of the biggest sources
+of crashes in competition today.
+But in exchange, a jagged path of turns
+transforms into one narrow straightaway.
+- [Commentator] Oh!
+Whoa!
+(audience applauding)
+(audience applauding)
+(audience cheering)
+- [Derek] These days, nearly
+every competitive Micromouse
+is designed to take this risk.
+Cutting diagonals opened up
+room for even more ideas.
+Around the same time,
+mice were applying similar
+strategies to turning.
+Instead of stopping and pivoting
+through two right turns,
+a mouse could sweep around
+in a single U-turn motion.
+And once the possibility
+of diagonals were added,
+the total number of possible
+turns opened up exponentially.
+The maze was no longer just
+a grid of square hallways.
+With so many more options to weigh,
+figuring out the best path
+became more complex than ever.
+But the payoff was dramatic.
+What was once a series of stops and starts
+could now be a single,
+fluid, snaking motion.
+How Micromice imagined
+and moved through the maze
+had changed completely.
+(audience cheering)
+Available technology was getting upgrades
+over the years as well.
+Tall and unwieldy arms that
+were used to find walls
+were replaced by a smaller array
+of infrared sensors on board the mouse.
+Precise stepper motors were traded in
+for continuous DC motors and encoders.
+- The DC motors give you more power
+for less size and weight,
+and so we were interested in doing that.
+So then you have to have a servo.
+You have to actually have
+feedback on the motor
+to make it do the right thing.
+- [Derek] Gyroscopes added an
+extra sense of orientation.
+It's like a compass, if you
+had this thing with you.
+- They came about cause
+of mobile phones, really.
+so the technology provides people
+with things which weren't there before.
+All of the turning is
+done based off the gyro
+rather than counting
+pulses off the wheels,
+because it's much more reliable.
+- [Derek] But even with all
+the mechanical upgrades,
+the biggest physical issue for Micromice
+went unaddressed for decades.
+One thing you'll see almost
+every competitor holding
+is a roll of tape.
+Once you know to look for
+it, you'll see it everywhere.
+This tape isn't for repairs
+or reattaching fallen parts.
+It's to gather specs of dust
+off the wheels in between rounds.
+At the speed and precision
+these robots are operating,
+that tiny change in friction
+is enough to ruin a run.
+If you wanna turn while driving fast,
+you need centripetal force to
+accelerate you into the turn.
+And the faster you're moving,
+the more force you need
+to keep you on the track.
+The only centripetal force for a car
+turning on flat ground is friction,
+which is determined by two things,
+the road pushing up the weight of the car,
+or the normal force,
+multiplied by the static
+coefficient of friction,
+which is the friction of the interface
+between the tire and road surface.
+This is why racetracks have banked turns.
+The steep angles help cars
+turn with less friction,
+because part of the normal
+force itself now points in
+to contribute to the
+centripetal force required.
+If the banked turn is steep enough,
+cars can actually make the turn
+without any friction at all.
+The inward component of the
+normal force alone is enough
+to provide the centripetal
+force required to stay on track.
+(upbeat music)
+Micromice are no different,
+and they don't have banked turns to help.
+As they got faster and
+faster, by the early 2000s,
+their limiting factor was no longer speed,
+but control of that speed.
+They had to set their
+center of gravity low,
+and slow down during turns
+to avoid slipping into
+a wall or flipping over.
+But unlike race cars, there
+wasn't anything in the rules
+to stop Micromouse competitors
+from solving this problem
+by engineering an entirely new mechanism.
+Micromouse's second Fosbury flop
+was almost considered a gimmick
+when the mouse Mokomo08
+first used it in competition.
+You might be staring at
+the video to try to see it,
+but you won't.
+Instead, it's something you'll hear.
+(Micromouse whirring)
+That isn't the mouse revving its engines.
+It's spinning up a propeller.
+And while flying over the
+walls is against the rules,
+there's nothing in the
+rules against a mouse
+vacuuming itself to the
+ground to prevent slipping.
+- Dave Otten was the first person
+I saw put a fan on a mouse,
+but he used a ducted fan,
+and I think he was really looking
+at kind of reaction force,
+you know, blowing the thing down.
+He had a skirt around, but it
+was not terribly effective.
+Forgive me for saying this, though.
+The idea is to let as
+little air in as possible.
+And like your vacuum cleaner,
+when you block your vacuum cleaner, right,
+the motor unloads and speeds
+up, and so the current drops.
+But if you let too much air
+in, the current's very high.
+And these are just quadcopter motors,
+and they draw a lot of current.
+- [Derek] At the scale of
+Micromouse, a vacuum fan,
+often just built from
+handheld drone parts,
+is enough to generate a downward force
+five times the mouse's weight.
+Wow. Okay.
+That's impressive.
+So how much does the car actually weigh?
+- About 130 grams.
+And if you listen,
+I don't know if you'll get
+it on your microphone, but-
+(motor whirring)
+- Oh yeah.
+- you can hear
+the motors slow down, and it loads up.
+- [Derek] With that much friction,
+Micromice today can turn corners
+with a centripetal acceleration
+approaching six Gs.
+That's the same as F1 cars.
+(engines revving)
+Once nearly everyone equipped fans,
+the added control allowed builders
+to push the speed limit on Micromice.
+- When it's allowed to,
+it will out-accelerate a Tesla Roadster,
+but not for very far.
+(Derek laughs)
+- [Derek] And they can zip along
+at up to seven meters per second,
+faster than most people can run.
+(audience laughing)
+(Micromouse whirring)
+(audience cheering)
+Every one of the features now standard
+on the modern Micromouse
+was once an experiment,
+and the next Fosbury flop
+might not be far off.
+The first four-wheeled Micromouse
+to win the All Japan
+competition did so in 1988,
+but it would take another 22 years
+of the winning mouse growing
+and losing appendages
+before four-wheeled mice became the norm.
+With Micromice still experimenting
+in six- and eight-wheel designs,
+omnidirectional movement,
+and even computer vision,
+who knows what the next
+paradigm shift will be?
+- [Commentator] Your time
+on the maze actually begins
+only when you leave the start square,
+so he's not penalized
+for any of this time.
+- [Derek] But if you wanna
+get started with Micromouse,
+you don't need to worry about
+wheel count or vacuum fans,
+or even diagonals.
+- It is, to my mind,
+the perfect combination
+of all the major disciplines that you need
+for robotics and
+engineering and programming,
+embedded systems,
+all wrapped up in one accessible bundle
+that you can do in your living room,
+and you don't need a laboratory to run it.
+You come along because you're
+curious, and then you think,
+"I could do that. That
+doesn't look so hard."
+And then you're doomed, really.
+If it sucks you in, it turns
+into quite the journey.
+(commentator speaking in Japanese)
+(audience cheering)
+- [Derek] At its core,
+Micromouse is just about a
+mouse trying to solve a maze.
+Though, nearly 50 years later,
+it's a simple problem
+that's a good reminder,
+there is no such thing
+as a simple problem.
+♪ Micromouse, is for the taking ♪
+♪ Micromouse, is here and now ♪
+♪ Take a chance, and start creating ♪
+♪ Micromouse, will show you how ♪
+(logo beeping)
+- If you wanna build your own Micromouse,
+you'll likely need to design parts
+using a 3D CAD program like Onshape,
+the sponsor of this video.
+Onshape is a modern CAD plus PDM system
+designed for businesses,
+and completely free for
+makers and hobbyists to use.
+Any serious hardware product
+needs a precise design
+in order to be successfully
+made in the real world,
+from a Micromouse model like this one
+to a professional V2
+engine model like this one.
+Unlike traditional CAD programs,
+which are installed on premises,
+Onshape was built entirely in the cloud,
+which allows engineering and design teams
+to collaborate like never before.
+Onshape allows you to
+work together in real time
+on the same design with multiple users,
+just like Google Docs.
+This completely eliminates the need
+for emailing large files back and forth
+and trying to keep track of who
+has the most recent version,
+whether it's V2 or V22.
+With Onshape, Agile methodologies
+that are common in software development
+are now being adopted
+in hardware development
+to allow companies to build
+better products faster.
+Onshape's not only great for businesses,
+but also for open source projects,
+or just working on
+designs with your friends.
+Again, it's totally free for hobbyists,
+so you can try it out for
+yourself as much as you like
+at onshape.pro/veritasium.
+You can take Onshape
+with you wherever you go.
+You don't need a powerful desktop
+or a specific operating system to run it.
+Whether you're on a Mac or PC,
+or even just on your phone,
+you can easily use Onshape.
+So to get started, sign up for free
+at onshape.pro/veritasium.
+I wanna thank Onshape for
+sponsoring this video,
+and I wanna thank you for watching.

@@ -1,0 +1,1972 @@
+If you go back to the early 1980s
+all the way up to the global
+financial crisis,
+if you had just blindly bought the lowest
+quality credit
+that's out there, proxied by high yield
+senior secured loans, direct lending,
+you know, you know, when the index,
+you would have ended up
+with only about a half a percentage
+point of incremental performance versus
+high quality bonds over the entire period.
+And the way it worked
+was that you made a lot of money,
+a lot of money, a lot of money,
+a lot of money. Then you gave it all back.
+Yeah, you made a lot,
+a lot of a lot, lot. Getting it all back.
+We'd go back to the,
+you know, late 80s when you had,
+you know, that period,
+initial period of aggressive underwriting.
+You had the savings
+and loan crisis of the early 90s.
+You had the ltcM or the Asian
+financial crisis in the late 90s,
+then the internet bubble
+and the telecom issues of the early 2000.
+Then,
+of course, the global financial crisis
+that was a more normal credit
+environment up
+since the GFC,
+just blindly buying that lowest quality
+credit on the board, whether it's private
+credit or lower quality public credit,
+you generated 7% a year
+more than high quality bonds. Wow.
+And that explains a lot.
+Not surprisingly, you've seen massive
+growth in that area of the market.
+Hello,
+and welcome to another episode
+of the Odd Lots podcast.
+I'm Joe Weisenthal and I'm Tracy Alloway.
+Tracy, you know, we've been doing
+this podcast for ten years.
+I am actually, I am aware, you know, a
+whole decade and we've been doing
+episodes talking about big picture things
+and things that have changed
+and what's different now in 2025 or 2015
+when we started.
+And some things are the same
+and some things are different, etc..
+But I think
+and we've mentioned this before,
+I think the one thing that could not be
+more different is the rates environment.
+We were right in the middle of,
+like this is a decade or the year
+or maybe in 2015, maybe at that point
+the fed had tried to hike
+one time already, and then the market
+sort of slapped it down and said,
+oh no, no, no, no more.
+We're not ready for more rate hikes, etc.
+the rate environment
+could not be more different
+than when we first started this podcast.
+I mean, absolutely.
+Can I say one thing about the anniversary?
+Yeah.
+So we started the podcast in November
+2015.
+Yeah.
+We were going to celebrate for the month
+of November, but we're now in December.
+So are we going to make this a two month
+celebration?
+Well, you know, we're having our ten year
+anniversary party in December,
+so I think it's allowed to,
+you know,
+it's allowed to bleed
+the ten years into both months,
+given that we're formally
+celebrating in December.
+I think this is how I'm rationalizing this
+framing for this conversation, since,
+yes, we are no longer we're technically
+no longer an anniversary month.
+I guess it's our party
+and we can disagree as long as we do it.
+However we want.
+But you're absolutely right
+about the rates of environment.
+And, you know,
+you could see that if you go back
+and look at some of the old podcast
+episodes.
+The other thing that strikes me
+looking back at the old podcast episodes
+is how many of them were about
+shadow banking?
+Which of course
+nowadays we call private crime.
+Yeah.
+And that's another thing
+that's changed enormously.
+So the private credit market
+now basically rivals
+the public credit market in terms of size.
+And there's obviously a lot of concern
+about what that means.
+The outlook.
+Lots of differences. Lots of differences.
+Yeah. Completely dramatic.
+And these days of course,
+we are in the middle of some setting aside
+the big picture questions.
+There are also some,
+small picture questions,
+maybe how you put immediate questions.
+At the time we were recording this,
+it looks like the December
+meeting is basically a lock,
+that there's going to be a cut.
+But up until recently,
+there was a lot of market uncertainty.
+If we recorded this two weeks ago,
+it would have looked very different,
+would have looked very different.
+And you know what happens after December?
+Highly uncertain on many dimensions.
+The follow through for the rate
+cutting cycle, there have been,
+increases in various credit
+concerns of various sorts.
+We've had a few small blowups with, but,
+you know,
+nothing that big, but like what
+Jamie Diamond called the cockroaches.
+We mentioned on the show
+that suddenly people are talking about
+credit default swaps, uncertain high tech
+companies, which is very unusual.
+But there's a, Star Wars meme.
+I haven't heard that word in a long time.
+That's right.
+But with the AI build out
+and how much that's getting financed
+by various forms of credit,
+suddenly people are talking about the fact
+that big tech companies are credits, which
+we don't really think about very much.
+And so there are some big picture things,
+but also some things happening right here
+and right now that warrant,
+further further understanding
+and further explanation from the people
+who really understand them. Absolutely.
+Well, I'm very excited to say
+we really do have the perfect guest,
+someone who we've had on the show before,
+but someone we love speaking to.
+We are going to be speaking with Dan
+Ivascyn.
+He's the CIO over at Pimco, which
+of course, everybody should know about.
+So Dan, thank you so much
+for coming back on the podcast.
+Thanks for having me.
+And congratulations on the big ten year
+anniversary.
+It's a it's an honor to be invited
+back, during this series of, podcast.
+So thank you so much. Yeah,
+very kind of you.
+To say let's start small picture.
+You know, we have this,
+I think this, this episode will be out
+before the fed meeting, and the market
+is saying it's going to be a lock.
+It's going to be,
+they're definitely going to cut rates.
+But beyond that, when you look into 2026,
+there's sort of two different questions.
+There's the ongoing uncertainty about
+who is going to be the next, fed chair.
+And then there's just the the questions
+about how much appetite
+this existing committee
+has to continue a rate cutting cycle.
+So I'd love to get, you know,
+what are you thinking about
+for the 2026 and what,
+what we could be expecting.
+Sure. So, you know,
+we do think, the Fed's likely
+to cut rates, at the upcoming meeting.
+We also think that this is a fed
+that would like to get rates
+a bit lower, into 2026.
+The challenge, of course, is that
+we expect to see a little bit of re
+acceleration in the economy,
+during the first half of the year.
+And we also expect inflation
+to remain, comfortably above
+the central bank targets.
+So, you know,
+we believe this fed when they say they're
+going to continue to focus on the data.
+We do think the data is going to be a bit
+confusing.
+The general view, you know, today at Pimco
+with, you know, significant uncertainty,
+is that they probably do get rates down
+another half a percent or so next year,
+which is close to what's being,
+you know, priced into the market today.
+But again,
+if you see meaningful re acceleration,
+in the growth data and more importantly,
+if you see,
+even a modest uptick in inflation,
+this fed, you know,
+even with a new chair, will likely,
+you know, be willing to remain on hold.
+And then I think the other point,
+in this came up with, you know,
+one of your recent guests is that,
+there's the front end policy rate,
+and then there's the reaction out
+in longer maturities.
+We do think there's a chance if this fed
+cuts aggressively into strengthening data,
+higher inflation,
+you may actually get, a sell off,
+in the long end of the curve.
+So, that could be a bit self-defeating.
+And I think, something
+that will be a topic into next year
+if we do get that we acceleration
+that we expect.
+There's a lot you said there
+that I want to follow up on.
+Just in that one answer,
+but just very quickly what is the
+the idea, the gist behind
+why you expect that Q1 re acceleration.
+Yeah.
+A lot of it's, you know, related to,
+significant, momentum,
+you know, in terms of capital investment,
+you know, associated with AI
+as well as the delayed the positive
+growth impact of,
+the so-called big beautiful bill.
+A lot of the corporate,
+tax extensions happened
+retroactively, for the consumer
+or the household.
+In many instances, you're going to begin
+to see, you know, the direct impact
+in terms of positive, you know, refunds,
+coming into the New year.
+So again, you know, plenty of uncertainty,
+you know, a lot of crosscurrents
+in this economy.
+But we do think there's the chance
+that you'll get some,
+you know, moderate re acceleration
+in the first half of the year.
+You know,
+we're looking at a growth environment,
+you know, for the next year
+in the United States at least somewhere
+in the one and a half to 2% type range.
+So again, that that's an environment
+where from a traditional Taylor
+rule perspective, we don't think that
+the fed needs to cut a lot more from here.
+Although, you know,
+we do think that this fed particularly
+with new membership and a new chair,
+would like to get rates lower.
+Since you mentioned the new chair.
+This is more of a long
+term, thoughtful question, but,
+obviously,
+for the majority of your career
+as a bond manager, I don't think fed
+independence has really been,
+much of a concern.
+Right?
+We certainly haven't seen the degree
+of headlines that we are seeing lately
+with, Kevin Hassett emerging
+as the frontrunner for the new fed chair
+position.
+How do you, as a bond manager, view
+that particular issue?
+And do you have to start handicapping
+the way you invest because of this?
+I think to a degree, you know, I think
+if you go back several decades, you know,
+you can question the concept of fed
+independence a little bit.
+And I think even from the perspective of,
+you know, this Fed's expanded mandate
+in recent years,
+what the market's really focused on
+is independence
+related to the setting of policy rates.
+Which, you know, of course,
+have a direct impact on markets.
+So from that perspective,
+we are monitoring the situation
+like other investors.
+You know, we do think less independent fed
+has implications, particularly
+in longer maturities, where you may need
+a bit more risk premium,
+when you're dealing with, uncertainty
+around, you know, fed independence.
+But generally speaking, when we think
+about, you know, who's being considered,
+for the fed role, including Kevin Hassett,
+you know,
+we do think that there'll be
+a general spirit of independence there.
+We still think, you know, the chair
+is, one vote, so to speak.
+And we have a committee that will continue
+to focus on the dual mandate.
+So yes, it's a consideration.
+It's an input into our decisions.
+It's not a major concern.
+We we do think that, you know, the group
+that's being considered.
+Are you know, certainly high qualified,
+or highly qualified and,
+will likely,
+you know, continue to take, you know, a
+sufficiently independent view,
+you know, regarding monetary policy.
+Let me ask you kind of the same question,
+but with a slightly different framing.
+It's December 2025 right now.
+So we've had like,
+you know, over four years now,
+I think over four years
+now of the fed missing on its inflation,
+on the two, on getting inflation
+durably back to 2%.
+And if the fed is going to continue
+cutting as it looks like it's going to do
+in December, that signals
+a further willingness to ease policy,
+even with inflation over
+its ostensible target.
+Setting aside
+the strict question of independence,
+do you think the fed, regardless
+even the current composition
+and the likely composition
+going to be forward is just not going
+to take 2% seriously,
+as perhaps it might have in the past?
+Yes, I think it's a great question.
+And I think that, in a general sense,
+the 2% target matters, but not so much
+the current inflation rate.
+You're absolutely right.
+We've been operating,
+you know, and living with an inflation
+rate, meaningfully above their target
+for quite some time.
+But when you look at
+inflationary expectations, and I think
+when you talk to central bankers,
+you know, here in the United
+States as well as outside,
+this country,
+the inflationary expectations
+piece is what's critically important.
+So when you look at longer term
+break even inflation rates,
+they've continued to be very,
+very well behaved.
+You saw a bit of an uptick, you know,
+you know,
+at the outbreak of the war in Ukraine.
+And then you saw an uptick around the
+tariff announcements earlier this year.
+But when you look at a ten year
+tip break even rate,
+just to use one of several proxies,
+now the one measures perfect.
+You know, you're down around 2.25%
+on CPI inflation.
+So to the extent that inflationary
+expectations remain well contained,
+we do think that the central bank's
+willing to look through,
+some of the more, higher frequency data.
+To the extent that you see those longer
+term expectations become unanchored,
+we do think that's a risk,
+for a fed that's, you know, too
+aggressive in in cutting rates here.
+We do think that the mindset will change
+not only the mindset of the fed,
+but we think the market reaction, could,
+be counterproductive not only in terms
+of higher long term interest rates,
+but an impact on risk assets as well.
+So, you know,
+the markets have let the fed get away with
+running fairly accommodated policy,
+cutting into a 3% type inflation world,
+because, again,
+there are a lot of other forces at work
+that very well could be disinflationary
+over the long term.
+And there still is significant confidence
+in global central banks and being able to
+generally keep inflation, you know, close
+to the target, on a longer term basis.
+So, you know, again, so far so good.
+But you know,
+this is all going to be a key
+source of uncertainty,
+you know, into 26 and beyond.
+I feel like uncertainty is constantly
+the key word on our podcast nowadays.
+Since longer dated expectations
+and yields keeps coming up
+in this conversation, I got to ask,
+do you believe in the term premium?
+Or rather, is the term premium a useful
+concept to you as a big bond investor?
+It is.
+And you know, when we look at,
+you know, where would to invest?
+You know, we like to get paid for,
+you know, taking more risk.
+We do, you know, see an elevated term
+premium,
+certainly relative
+to where we were 5 or 10 years ago.
+And that's made longer.
+Maturity investments
+a bit more attractive.
+With that said, there's lots of reasons
+why the term premium should be higher.
+Inflation is one of them.
+Global debt levels, U.S.
+debt and deficit levels, are another
+and we probably live in a world today,
+given what's going on in terms of,
+you know, focusing on, you know,
+you know, tariffs and bringing back
+supply chains, you know, to
+domestic markets, the need for,
+you know, higher risk premium.
+So, you know, as a firm today we,
+we like longer maturity bonds more.
+But we're still,
+you know, tend to keep our positions
+concentrated in shorter maturities.
+And we would expect over
+the next few years a little bit of,
+additional underperformance, in the very,
+very long end of the yield curve.
+So we do think it's important.
+It's interesting.
+People focus a lot
+on, you know, the deficit situation
+in the United States as an investor,
+you know, you don't want, to lead
+into a perfect high quality credit.
+You know, you don't get paid
+so much to do. So.
+So in some sense, we want, you know,
+just enough fiscal irresponsibility
+where we and our, you know, end investors
+get paid more to lend,
+but not so much where it becomes a concern
+in terms of the overall viability
+of, of the system.
+So we think we're in the midst
+of that type of market environment today.
+But things can go a bit too far
+if we don't get, you know, the deficit
+or the inflation situation under control
+over the next couple to few years.
+Can you talk about the role of bonds
+in a portfolio?
+Again,
+this is something that in 2015, bonds fit
+beautifully into a diversified portfolio
+because they were paying something.
+But also they had that nice
+inverse correlation.
+And so you got that natural hedge etc..
+We haven't had that very like that
+beautiful inverse correlation between risk
+assets and bonds for a long time,
+which undermines one of the cases
+for the diversified investor
+of having like a big slug
+of perhaps longer duration assets.
+How do you think in 2025, how do you sell
+the case that diversified investors
+should still keep some allocation
+to duration or fixed income?
+Yeah.
+So, you know, it's interesting I know
+this is a ten year anniversary show.
+So you know, went back and looked at the
+performance of bonds versus other things.
+You know, over the last ten years.
+And the divergence in performance over
+the last decade has been remarkable.
+And it explains a lot.
+If you look at the S&P
+500 over the last ten years, in absolute
+terms, you generated return of about 15%
+a year, adjusted for inflation.
+I think it's up
+close to, you know, 12% or so.
+You know, I'm rounding a little bit
+when you look at the performance of,
+you know, the the Bloomberg Aggregate
+Index over that ten year period,
+the return annually has been below
+2% in absolute terms.
+When you subtract inflation,
+you ended up with negative returns,
+in bonds for ten years.
+So not only has the correlation broken
+down, but you didn't make any money.
+In owning bonds,
+when you look at the starting valuations
+today, under any type of reasonable
+longer term valuation framework,
+none of which have to mean revert quickly.
+But, you know, you look at,
+you know, Shiller,
+you know, p type arrangement
+or an equity risk premia type argument.
+You don't need a great correlation
+on bonds versus equities.
+What the relative valuations would suggest
+is that there's a good chance
+that bonds outperform stocks over the next
+5 or 10 years, or at least have returns
+on a risk adjusted basis, very,
+very close to stocks.
+So you don't have to start
+a correlation argument.
+You know, you don't have to focus on
+well bonds do well during you know,
+you know, periods where,
+you know, people are losing their jobs or,
+you know, income growth is negative.
+You could just from a pure valuation
+perspective, find, the asset class
+quite attractive.
+Absolutely relative.
+I think the second point around
+correlations is that correlations between
+stocks and bonds will tend to break down
+when inflation's the primary risk factor
+today.
+Yes inflation's above
+central bank targets.
+But there's a lot of uncertainty.
+You know on the economic side
+you do have this you know
+complex economy
+where you know tremendous value.
+You know within the tech sector tremendous
+capital investment yet lower income
+households are feeling considerable pain.
+If I is very, very successful,
+an increase in productivity,
+that could mean significant job
+loss across key segments of the economy.
+So the bottom line is that
+risks are more balanced.
+We don't think correlations
+are going to ever come back to the really,
+really neat, clean levels.
+You know, a decade or so ago when
+inflation simply wasn't a problem at all.
+You know, across the global economy.
+But we have seen correlations
+improve a bit.
+And we would expect that to go forward
+basis correlations, to improve further.
+I think it's important again,
+to look at a global opportunity set.
+You know,
+I think that the correlation arguments
+are stronger in areas of the world
+that have the best fiscal position.
+But in general, you know,
+not only do we think that the valuations
+are quite attractive,
+you know, we do think the correlations
+will be a bit better,
+certainly, that we experience
+coming out of the Covid period.
+So in 2015, bonds were an easy sell.
+It turns out they weren't the best
+investment 2025 maybe a harder sell.
+But the math says that now is actually
+now is actually the time to
+to expand your exposure.
+Well, I guess in ten years
+when we do the 20 year anniversary,
+we can see how people tend to judge.
+But, Dan,
+you know, since we're talking about
+why people should buy bonds,
+one of the surprising things that happened
+this year was we had the big tariff
+drama, and we saw markets go down
+and we saw a bond yields spike.
+So everyone was talking
+about the Sell America trade.
+So this idea that you didn't
+want to hold on to U.S assets
+because of all that policy uncertainty.
+And now, you know, in December
+2025, yields have come down quite a lot.
+Although I have to say
+the dollar is still fairly weak.
+You were always, kind of resistant
+to the sell America idea
+and you pushed back on it.
+What did you see
+that perhaps others didn't?
+Well, again, I think a
+lot has to do with starting valuations.
+After a significant period
+of underperformance, across
+U.S fixed income or global fixed income,
+you ended up with a decent valuation
+cushion.
+So I think that's always important
+in markets. Yes.
+There was news that in a narrow
+sense was negative, for bonds
+and negative for U.S bonds
+or U.S assets in particular.
+You started with a decent yield cushion.
+You know,
+we began the year, you know, with yields,
+you know, ten year treasuries,
+you know, up near 5%,
+a 5% yield even in a 3% inflation.
+World's not that bad.
+I think the second point, though,
+you know, we weren't,
+overly convicted
+in just owning the United States.
+And I think if I could, you know,
+the most important thing I can say today
+is that global bond investing is back.
+For so many years,
+capital is poured into the US markets.
+It's poured into the US markets
+focusing on private credit,
+you know, which has grown in the most here
+in this country.
+But very, very quietly,
+you've seen underperformance
+across the global
+fixed income opportunity set
+where today, even,
+you know, from a US dollar
+based investors perspective, there's great
+yield, great sources of diversification.
+So it's not that we were, you know, insist
+on just owning U.S assets.
+In fact, we've gradually diversified
+into other areas of the market.
+We just thought that there was good
+value and good yield in the US,
+a sufficient cushion.
+And then by extending
+into these other markets
+a great way to generate incremental return
+by good old fashioned relative value
+trading in markets today
+that are less correlated than they were
+during those years coming out of the,
+you know, global financial crisis
+and where you just have a really,
+really exciting time to neutral dual
+fashion trading across the yield
+curves, across markets.
+And avoid having big you're what changed
+because that seemed like,
+you know, it felt like international
+investing across
+any asset
+class was like a real suckers thing.
+It's like,
+oh, this is going to be the year
+that we're going to diversify
+internationally.
+And you didn't get paid at all for it.
+What is the what what switch flipped
+such that actually both stocks too
+because international equity markets
+have done very well and outperform the US,
+which is kind of surprising
+in many respects.
+But what switch such that now
+there's been real opportunities
+to make money looking abroad.
+You know again valuations have improved.
+You know we we talked about you know
+the real poor performance of the US
+bond market over the last decade.
+As we as we all know, yields were outright
+negative in many areas of the world.
+So we talk about low yields.
+You subtract that low inflation rate,
+you end up with a negative number.
+And big portions of the global
+fixed income opportunity set.
+You have to subtract anything.
+You started with a negative number.
+So a lot of this
+has just been the reprice to get markets
+that started not only at low levels
+but negative yield levels.
+Then the second piece relates to policy,
+coming out of the global financial crisis,
+not only were yields low, but you had such
+incredible policy activism
+where on any signs of economic weakness,
+you had a massive fiscal response,
+massive monetary policy response,
+Covid,
+you know, the ultimate, example of that.
+And today, you know, with debt levels
+and deficit levels where they are
+policy makers don't have that flexibility.
+So you're you're back to an environment
+where markets increasingly
+have to stand on their own,
+stand on their own based on fundamentals.
+And that's just an exciting time.
+It means more risk premia in markets,
+more term premium, higher yields,
+with significant valuation cushion
+absolute and relative to what look to be,
+you know, quite expensive equity markets
+and then just less correlation.
+You have situations even over the course
+of the last couple of months
+where a political surprise in Japan
+or France creates
+lots of local volatility in those markets.
+Uncertainty in French politics impacts
+UK politics because they have similar
+challenges in terms of getting their,
+you know, deficit situation,
+in, you know, under control
+and economic productivity higher.
+So it reminds us a lot
+more like the mid 90s.
+You know, back before you had this
+massive volatility suffocation
+from policymakers.
+And again with deficits
+where they are with inflation
+where we're where it is today
+versus central bank targets,
+it's likely that over
+the next several years,
+you know you're going to continue
+to be in this type of environment.
+Good value good relative value.
+And then much less correlated markets,
+which, you know, lead to,
+you know, some some good opportunity
+to generate, incremental return above
+starting yield levels.
+Well, we wanted to talk about
+private credit as well, because as we said
+in the intro, this is one thing
+that has changed quite a lot since 2015.
+People obviously have different
+characterizations of private credit,
+but I'm curious
+how you think about that space
+and how you would define, you know,
+or how you would measure things
+like transparency
+and opaqueness and customization
+in the credit waterfall
+and things like that.
+Because again, one person's
+extremely transparent market
+can be another person's opaque
+morass of potential defaults.
+Not much of this is new.
+You know, when I joined Pimco
+back in the late 1990s,
+I spent the good portion
+of my initial time
+at the firm focusing on the underwriting
+of private assets.
+You know, we call them pure privates,
+but these were, you know, foray
+to privates that were created
+as part of the Securities Act of 1933.
+144 eight privates,
+which are quite popular.
+I think the first one
+was issued back in 1990.
+The technology
+that's being utilized to fund,
+AI infrastructure today,
+some of these off balance sheet contingent
+or cold guarantee type frameworks
+were around in the mid to late 1990s.
+The difference today is that you have this
+massive capital investment need.
+So the deals are larger.
+But a lot of the technology has just been,
+you know, dusted off,
+so to speak, for, for the new era.
+I think the other point that's important.
+And when we're talking
+about historical returns,
+you know,
+I think this explains a lot, is that
+what's been so unique
+in terms of credit asset
+performance in general has been the post
+global financial crisis period,
+where we haven't had a sustained period
+of economic weakness.
+In fact, one of my favorite, you know,
+data series is looking at how lower
+quality lending performed since way back
+during the Michael Milken days.
+You know,
+when he helped to create that market.
+If you go back to the early 1980s
+all the way up to the global
+financial crisis,
+if you had just blindly bought the lowest
+quality credit that's out there, proxy
+by high yield senior secured loans,
+direct lending, you know, you know, blend
+the index, you would have ended up
+with only about a half a percentage
+point of incremental
+performance versus high
+quality bonds over that entire period.
+And the way it worked,
+was that you made a lot of money,
+a lot of money, a lot of money,
+a lot of money. Then you gave it all back.
+Then you made a lot, a lot, a lot,
+lot gave it all back.
+We go back to the,
+you know, late 80s when you had,
+you know, that period,
+initial period of aggressive underwriting.
+You had the savings
+and loan crisis of the early 90s.
+You had the ltcM or the Asian
+financial crisis in the late 90s,
+then the internet bubble
+and the telecom issues of the early 2000.
+Then,
+of course, the global financial crisis.
+That was a more normal credit environment,
+since the GFC, just blindly buying,
+that lowest quality
+credit on the board, whether it's private
+credit or lower quality public credit,
+you generated
+7% a year more than high quality bonds.
+And that explains a lot.
+Not surprisingly, you've seen massive
+growth in that area of the market. Now,
+you know, weaker credit tends to perform
+well when stocks go up 15% a year.
+But again,
+you know, that's where we are today.
+I hear all the discussion about God,
+you know, underwriting is worse
+than the public side
+versus the private side.
+The reality is when you've grown
+this much, when you've lent so much money
+to weaker quality borrowers,
+when covenants have weakened,
+when spreads are tight,
+when equities have gone up consistently
+as much as they have, you're going to have
+challenges, in these markets.
+So when we think about credit,
+we look at it under
+sort of two Continuums one liquidity.
+Certain assets are completely illiquid.
+The only decision you have to make
+is the purchase decision.
+So you better be right.
+And then at the other end, the extreme,
+you have very, very liquid assets
+where you can change your mind,
+on a regular basis.
+And then you have economic sensitivity.
+You have assets
+that are very insensitive to the economy,
+that are very, very high quality.
+Then at the other extreme, you have assets
+with a tremendous amount of economic
+sensitivity, a tremendous amount
+of sensitivity to AI related disruption,
+other forms of economic weakness,
+unanticipated competition.
+And you just want to make sure
+you get paid enough.
+And with stocks near all time highs,
+with spreads tight, with covenants
+weak, there going to be problems.
+And I think as an investor
+you just need to acknowledge
+that you're not getting paid.
+What you got to take that
+risk 5 or 10 years ago.
+And you just want to be defensive.
+You want to be skeptical.
+But it's not so much private
+versus public.
+I think it's just thoughtful underwriting
+and just understanding
+that we're at a time where,
+given the strong historical performance,
+given the fact that we haven't
+had a sustained period of economic
+slowing for a long time,
+some complacency has worked.
+Their way into these higher
+risk areas of the market.
+Well, talk a little bit
+more about competition in private credit,
+because I imagine it's good to be Pimco
+when it comes
+to sourcing, deals
+and maybe negotiating the terms.
+But does even someone like you,
+a truly big bond manager, have to deal
+with competitive pressures
+where if you don't agree to one bond term,
+someone else will swoop in and agree to
+it and take it away from you?
+Absolutely.
+And again, I think the other point
+about public
+and private markets
+is that they're well integrated.
+You know, we could talk about convergence,
+you know, a bit later,
+have had some views there.
+But, you know, when an issuer looks at,
+their options,
+they're going to test the public, option.
+They'll test the private option.
+And there is a lot of competition,
+a lot of competition for market share.
+When you look at a lot of the managers,
+particularly in the private credit space,
+they announce very, very aggressive
+growth assumptions.
+You know, as an investor, sometimes,
+you know, I wish in certain quarters
+people would talk about,
+you know, if we could find value for
+the end investor, we will grow this much,
+all too often, you know,
+after a pretty bullish environment
+for for credit, it's
+we're simply going to grow a lot.
+So, you know,
+we do see time and time again
+situations
+where you start the underwriting process,
+you get down to the point
+where it's time to get into a final round,
+and you don't get the terms that we feel
+we need as extenders of credit
+in this marketplace.
+And that's just, again,
+symptomatic of the fact
+that there's a lot of demand
+for these assets.
+And, there's a lot of demand relative
+to the supply across
+many segments of the market.
+And that's true not only of,
+below investment grade risk, but it's
+very, very true of certain transactions,
+with an investment grade rating,
+at least from a, from a rating agency.
+So, you know, given tight spreads, given,
+the competition, you just have to say no.
+And I'll go back to that.
+You know, by my earlier point,
+what's so exciting about this market today
+is that you do not need to take
+on aggressively underwritten credit
+to generate return the high quality
+area of the market,
+especially if you expand globally,
+if you take advantage of liquidity,
+which typically means flexibility
+for end investors,
+and you can have a high quality portfolio
+where you don't have to
+sacrifice return very different
+than where we were ten years ago.
+But again, pretty exciting.
+Now we can go up and quality without again
+giving up return and in some cases,
+ironically,
+you know, picking up, expected return.
+I want to go back to something
+you said, and I didn't quite get it,
+but I think it's important.
+And of course, it's very interesting
+to our audience.
+You talked about the AI financing.
+I think you said something contingent
+make whole guarantees.
+I don't, tell us your
+what is the history like.
+Tell us about these financing
+as you see them.
+And what is the history, how novel
+are they relative to past financings
+or how much is it
+that these are structures
+that were very much in place for something
+else, are now being re proposed into,
+into this new, into this new,
+exciting area?
+Yeah.
+So I'll start with, with what's new,
+which is, you know, lending
+to support the growth
+in AI and related infrastructure.
+They're, you're talking about several
+trillion dollars of investment need.
+So that's what's new.
+But you know, what's, not so new is
+this idea that companies
+would like to keep a good portion
+of their debt off their balance sheet,
+or come up with structures that limit
+their overall financial liability,
+or give them some flexibility
+to manage that liability over time?
+And as an end investor, you know,
+looking to lend to those companies,
+you know, it's important to acknowledge
+that lending against tech firms,
+lending against AI infrastructure,
+lending against AI chips, is risky.
+That could be a real good investment
+if you own the equity
+may not be a great investment.
+If you own the bonds, where at most
+you get your coupon and you hope to get
+PA back at the end of the day.
+So a lot of the underwriting of these
+transactions and there have been a lot
+and we expect a lot more to come,
+over the course of the next few years
+is to understand
+the form of that guarantee and understand
+the entity
+that's providing that guarantee,
+whether it's in the form of lease payments
+or other type of make hole type
+arrangements.
+And these types of structures are what
+have been around for many, many years.
+You know, back in the mid and late 1990s,
+you know, a lot of times
+these were would be done by Wall Street
+financial institutions.
+Sometimes across a segment
+of their business where they would use
+a corporate guarantee to arbitrage a bit.
+The rating agency frameworks
+and other times, these deals were backed
+by, you know, large, you know, ships,
+equipment, other areas of the market.
+So it was the same type of analysis,
+the same type of underwriting, checklist,
+which involves a lot of lawyers, to ensure
+that you understand the guarantee,
+what you how
+you have to realize on that guarantee.
+And that's not so different today.
+Just to be clear,
+the guarantee we're talking about here is.
+Okay, here is, a hypothetical SPV
+that owns
+a data center, and it borrows money
+and it finances, etc..
+And the guaranteed question is,
+how much will the tenant
+of that data center, which didn't
+want to have all that debt on their books,
+maybe like a Facebook
+or one of the hyperscalers?
+How much are they actually committed
+to being a tenant for the long term?
+They're basically
+that's what we're talking about.
+Absolutely correct.
+And why it matters here is you're
+typically talking about investment
+grade rated counterparties
+on these transactions,
+where the infrastructure itself,
+the assets
+that are partially backing the deal
+on a standalone basis would achieve
+a very, very low rating.
+So how do you create a structure
+where you improve the credit quality,
+while meeting the needs of those that
+are looking to borrow, within this market.
+So again,
+the whole key is to make sure that,
+something that the rating agencies
+may assign,
+investment
+grade rating to is in fact investment
+grade from a fundamental credit
+quality perspective.
+And I think that's another theme.
+You know, in talking about private credit,
+you know, there are more
+economically sensitive,
+lower quality loans.
+And then there's that a lot of growth
+on the investment grade side.
+It is very, very dangerous to assume
+something has an investment grade rating
+just because the rating agencies assign
+a rating to it.
+It's critically important
+that you do your own credit work today.
+All too frequently.
+You have, an investment grade
+rating from one entity.
+And again, market participants for years
+have always joked
+if you could only find one investment
+grade rating, it's
+pretty fair to assume everyone else's
+below investment grade.
+So in the bottom line
+is that there's been a lot of aggressive,
+underwriting going on,
+even with instruments
+that carry an investment grade rating
+at least from one entity.
+And again, when spreads are tight,
+when documentation is relatively weak,
+it's just critically important that you do
+your own fundamental credit work.
+I do think Pimco has some advantages
+in that area, both in terms of experience
+and resources.
+But it's super important
+because you're not always
+getting the terms that you want.
+When you do, you can unlock
+tremendous value for your clients.
+But this is an environment,
+where we have to be really,
+really selective
+as a, as a bond investor at least.
+Yeah.
+When I think back to, the 2015
+environment, I remember a lot of people
+were writing stories about the triple B
+bubble in investment grade.
+So triple B
+is the lowest tier of investment grade.
+And that had been absolutely exploding
+post financial crisis.
+And everyone, not everyone.
+A lot of people expected
+that to end in tears.
+And instead it ended
+with all those like Triple B's
+getting upgraded and a lot of junk
+getting upgraded as well,
+and having a bunch of rising stars,
+which I don't think a lot of people
+were necessarily expecting.
+But talk a little bit
+more about the rating agencies.
+What are the pressures that you think are
+perhaps driving them to,
+rate some of these structures
+higher than they otherwise might be?
+Well, again, there are multiple rating
+agencies that have different philosophies,
+to how they arrive at a rating.
+And, you know, there's,
+there's, there's going to be,
+you know, understandable disagreement,
+you know, within markets.
+But issuers are quite shrewd.
+You know, they're going to go
+to where they get the most favorable,
+ratings treatment.
+And this has always been the case.
+And I think the important point,
+you know, to note
+is that when stocks are going up
+15% a year, when the economy's
+growing, when you don't have
+a sustained period of economic weakness,
+even poorly underwritten credit,
+well, mature.
+We experience that in an extreme sense.
+You know, during the 2000s,
+what we try to do as active,
+investors is to underwrite, to weaker
+economic environments,
+environments where, you know, those
+underlying entities or the infrastructure,
+you know, that you that you're lending
+against go into a period of weakness.
+And I think that's where, you know,
+good fundamental credit
+work in this type of environment
+that we're in today.
+That's very much driven
+by rating arbitrage, you know, seeking out
+investment grade ratings,
+you know, for an insurance
+balance sheet or a reinsurance
+balance sheet, as an example,
+you know, can lead at times
+to aggressive, decisions. So
+it's just a nature of the fact
+that you have multiple agencies
+and some will be more optimistic
+in certain areas than others.
+But you know, that's great.
+You know,
+if we didn't have
+those sources of disagreement,
+there wouldn't be opportunities
+to generate,
+incremental return,
+you know, versus passive alternatives
+while we're here on credit, actually,
+you know,
+I was pro about a month ago
+or a month and a half ago.
+That's when we were getting
+all those headlines about Tree Killer.
+And that was when, Jamie Dimon
+made the sort of famous crickets thing
+I was getting. Really crunches.
+Cockroaches, cockroaches.
+I hate cockroaches, and I like crickets,
+so I want to make that clear.
+Crickets are lovely.
+You're right.
+I should not associate them with credit.
+Blow up.
+That's completely unfair to cricket.
+It's fair to cockroach.
+Jamie Dimon made those concrete.
+I was getting worried.
+I saw all these other ago.
+Another entity took a hit
+on. There's another entity.
+I was like, oh, this is very familiar.
+I don't like I don't like how many times
+the same company appears
+in the headlines, but
+we haven't gotten that much since then.
+It's not like
+there have been five more of those.
+I'm just sort of curing it.
+Setting aside some of the data center,
+the sexy private credit stuff
+that everyone's focus on,
+do you think over the last several years,
+was there some systematically bad
+underwriting going on,
+especially over the last few years,
+or was it
+could were there isolated
+cockroaches, the first cockroach
+before they had a chance to lay eggs
+and make babies?
+The lonely cockroaches. Yeah, yeah.
+So look at again
+because there's been so much growth in,
+in, in, in lending to, to lower quality,
+you know, companies.
+And again, the last major cycle
+was lending to lower quality, households.
+You know,
+there there's going to be areas
+of, of excess.
+And I think, you know,
+people are focused on these areas.
+But but again, when you look at,
+you know, the, the cumulative,
+you know, delinquencies and losses.
+Yes. They've, they've increased
+a bit over the last few years.
+But these situations have been relatively,
+isolated.
+But again, anytime
+we've had this much credit expansion,
+you're going to have challenges in
+these challenges are happening
+in a relatively strong economy.
+So we don't think
+this will be a catastrophe.
+The word I've used
+is that there's likely going
+to be disappointment
+in certain areas of the credit markets
+that have performed exceptionally
+well over the last 10 to 15 years,
+but that it shouldn't be viewed
+as an overly controversial statement.
+That's how markets work.
+You know, credit was very cheap
+10 or 15 years ago.
+High quality bonds were very,
+very expensive.
+Today, credit spreads are near all time
+tight, equities are near all time highs
+in value add high quality bonds looks
+reasonable relative to their history.
+So you know starting valuations tend to be
+pretty big drivers of future returns.
+If the economy continues to grow.
+If stocks keep going up
+15% a year, yes these will be,
+you know, relatively isolated situations.
+But if you get into a period of economic
+weakness,
+losses will go up
+and they'll likely be some disappointment.
+I think that's the best way
+to categorize it.
+And then I think the second
+important point, when you look at markets
+in a longer term historical context,
+is that regulators hate
+bailing out the same sectors twice.
+Back during
+the GFC, it was lending to the consumer.
+It was excessive lending from the banks
+that caused all of the problems,
+almost took down the financial system
+and not surprisingly,
+the regulations towards the banks
+and towards consumer lending was massive.
+And today when you look at the world,
+the household balance
+sheet, certainly middle income
+and above cohort groups,
+hasn't been stronger
+this strong in several decades.
+This record amounts of borrower equity
+in these areas of the market
+have been very, very strong.
+From an underwriting perspective,
+the areas that escaped the scrutiny
+the last time, you know, a lot of lending
+to non-financial corporates,
+a lot of, you know, this, this,
+this mid-market private lending
+that came out of that period relatively
+unscathed from a regulatory perspective
+has grown a lot.
+So I think a lot of this
+just relates to longer term cycles.
+Pimco was talking in a much different way
+back in 2005 and 2006,
+where we were screaming from the rooftops
+saying that, you know,
+what was going on was so irrational
+that there were major problems ahead.
+That's not what we are.
+And that's why I sometimes
+sound a bit more negative that we are.
+I think that the idea of disappointment,
+is the way people should think about
+some of these areas of the credit markets.
+And the good news is
+you don't have to accept disappointment.
+You can, you know, simply accept the fact
+that you had a great performance run
+and that by going up in quality,
+expanding into a global opportunity set,
+that hasn't been sufficiently embraced
+just yet, perhaps owning
+a little bit of non,
+you know, dollar exposure
+could get you the same place
+with much more resiliency,
+much more downside protection
+and a lot more liquidity
+or flexibility to change your mind
+in the in the future as well.
+Since you brought up household balance
+sheets, can you talk to us a little bit
+about your housing outlook?
+Because I believe Pimco has been
+pretty bullish on mortgages recently.
+But at the same time, we've seen a slight
+slowdown in the housing market.
+But then again, we still have long term
+structural, tailwinds
+such as a massive
+undersupply of homes in the US.
+Where do you see that going
+in the coming years particularly?
+You know, if we were to see
+inflationary pressures start to pick up
+and those longer end yields start to rise?
+Yeah.
+So we are very bullish
+on housing related investments,
+in the United States as well as,
+you know, in other areas around the world,
+agency guaranteed mortgages,
+still trade at very wide spreads.
+Relative to corporates.
+Even in an absolute sense,
+we think it's a very high quality liquid
+area of the market.
+That, again, makes a lot of sense,
+to own across a variety of,
+of different mandates.
+We also like lending,
+in the non-guaranteed area against
+the House, simply because borrowers
+have record amounts of equity.
+Pimco just loves collateral.
+That's what it sounds like.
+You love collateral?
+Yeah, we like the documentation.
+And good, good, good collateral.
+You know, at least, all else equal.
+But, you know, it's not a major
+bet on the directionality of homes
+when you're lending against,
+a household that has 70 percentage points
+of of borrower equity,
+your home can go down quite a bit
+and you're very well protected.
+That same dynamic exists,
+you know, over in the UK, across Europe,
+you know,
+and even in other parts of the world.
+So you know, again, regulators don't like
+bailing out the same sectors twice.
+That's pretty good asset
+allocation advice.
+It's quite straightforward.
+But also you know you have much better
+fundamentals across household.
+But to your specific question around
+housing you know it's a tough situation.
+We do think that homes are going to remain
+elevated from a valuation perspective,
+and affordability
+is going to remain quite constrained
+because there's no easy answer.
+You know, you bring the mortgage
+rate down, the home price goes up.
+You know, affordability
+doesn't change in a meaningful sense.
+What we really need, in this country
+and other parts of the world
+are more homes, more housing units.
+And again, because of a lot of the,
+you know, post global financial crisis
+regulation,
+it's been real hard to build new homes.
+So our base case view is that home
+prices are going to moderate here
+on a national level.
+You could see, at least in real terms,
+you know, some steady, declines
+over the course of the next several years
+in certain markets,
+that are a bit overextended,
+you know, a bit more volatility.
+But we do think that, you know, home
+prices are going to remain elevated,
+from a historical perspective,
+just because of the fact that people
+have locked in very,
+very low mortgage rates,
+30 years, you know, not just 5
+or 10 years, you know, which which were,
+you know, mortgage durations,
+you know, popular pre GFC.
+So, you know, you're not going to see,
+you know, too much turnover.
+And unfortunately
+that means that homes for,
+you know, a lot of younger Americans
+are going to remain out of reach.
+But but again
+maybe some incremental benefit, maybe,
+you know, this administration
+get mortgage rates down a bit,
+through some creative policy
+the next couple of years,
+by the way, would like that, given Pimco's
+current positioning.
+But again, but again,
+without without building new homes,
+which are going to take,
+you know, many, many years,
+you know, there's no easy solution.
+I want to go back.
+You mentioned this idea.
+There's there's an optimal amount
+of fiscal profligacy
+from the perspective of the bond investor.
+Maybe you want them to push it
+a little bit
+because then you could pay a little bit
+for taking on, but obviously
+you don't want them to push so forth
+where you get some fiscal dominance spiral
+leading to higher and higher inflation.
+You want to find that sweet spot.
+You know, I mentioned
+we're talking a little bit
+about politics earlier
+about whether an independent
+central bank can be sustained.
+But when you look abroad, you know,
+it seems like in a lot of pretty major,
+we're not the only country that's having
+political volatility these days.
+People are concerned about, the approach
+that the new Japanese PM is going to take.
+And so we know that rates are higher
+in Japan, France, very indebted country.
+They seem to have like a new government
+every two weeks.
+I like lose track of all the times
+their government collapses and so forth.
+The UK very indebted country.
+The moment anyone takes office,
+their approval ratings plunge
+to -30 or whatever.
+There's a lot going on on the political
+front, and that sort of determines
+whether countries or even it's
+even possible to run.
+What might be more responsible
+fiscal policies
+is that something that, I don't know,
+keeps you up at night is the right term,
+but is that something
+that's a big part of your work
+is trying to understand,
+especially when you think abroad,
+understand the political dynamics
+and all these countries
+that are happening right now?
+Yeah, absolutely.
+And, you know, we we get together,
+you know, once a year,
+you know, talk about the outlook
+for economies and markets over
+a, you know, five year type timeframe.
+And, you know, whenever advisors
+I think put it well was that, you know,
+we used to live in a world where,
+you know, economic outcomes
+would drive politics,
+if economies were strong,
+you know, politicians usually ended up in
+a, in a good situation. They
+would stay in office.
+Today, it feels like it's a bit reversed
+where political priorities,
+geopolitical tensions,
+are driving economics.
+And I think you see that to a degree
+with tariff policy, you see it,
+you know, to a degree
+with with various forms of reshoring.
+You see it in terms of these populist
+tendencies across markets.
+So they're all very, very important
+and a lot more important
+than they were in the past.
+And I think it takes a lot of humility
+from someone like myself,
+and others that grew up, you know, doing,
+you know, discounted cash flow analysis
+and, you know, derivative pricing,
+as opposed to understanding
+the political economy.
+So, you know,
+we think that that's important both
+from the perspective
+of gaining an edge in markets,
+but also understanding that,
+sometimes we'll be wrong.
+And when you're running the debt levels,
+that countries are running
+or your deficits in overall debt levels,
+there's going to be some unpredictability.
+And that's why this idea of,
+looking to exploit a global opportunity
+set prudent diversification,
+targeting some countries outside
+the US that aren't running,
+you know, 6 or 7% deficits.
+And there are high quality
+countries out there,
+Australia being an example, Germany
+being another example.
+Even the United Kingdom,
+although they have a lot less,
+policy flexibility than we do,
+given that there were smaller,
+you know, open economy with their own
+currency offer attractive yields.
+So this is less about picking
+your favorite country.
+From our perspective, it's
+more looking to take advantage
+of attractive opportunities
+around the globe with some tilt towards
+those countries
+that are balancing their budget and that
+do have a better overall fiscal picture.
+And we haven't talked about
+emerging markets, but there, you know,
+a few emerging markets that,
+you know,
+this cycle got ahead of inflation.
+That have been in some sense
+more fiscally prudent
+than their developed market counterparties
+and that have very, very high
+yields, even adjusted for inflation rates.
+So even some diversification
+in some of the higher quality
+areas of the emerging markets,
+you know, from our perspective, represents
+real good value or real good sources of,
+diversification in return versus,
+some of these assets, you know, here
+in the United States that have performed
+real well, historically.
+But where when you look at,
+you know, the likelihood for forward,
+performance, just just look a little bit
+less interesting.
+Actually, this reminds me, thinking
+back to 2015, 2015
+was actually a big year for Pimco
+because it was your first full year
+without Bill gross, right.
+Who left in late 2014?
+That's right.
+Can you talk to us,
+perhaps how the culture of Pimco
+has changed over the past ten years,
+and how you would describe that evolution?
+Because I imagine it's been a long time.
+It must have shifted a little bit.
+Yeah.
+Look at, you know, the way Bill left
+the firm was an ideal, to say the least.
+But, you know, Bill left us in,
+you know, an incredibly strong position.
+You know,
+he created a lot of the frameworks
+that we still use today to make decisions.
+You know, Bill was a strong personality,
+but he believed in teamwork,
+and believe that investing was,
+a team sport, you know, so to speak.
+So from that perspective, there didn't
+need to be a lot of change
+or certainly not radical change.
+But, you know, over the this period,
+you know, markets have become, you know,
+so much more specialized, client needs,
+have evolved, you know, over time,
+the introduction of a more sizable private
+opportunity set,
+has been important, technology, big data,
+using, you know, trading
+techniques, portfolio trading
+and other automated,
+you know, type, you know, trading
+strategies are all critically important.
+So, you know,
+we're a much more specialized firm today,
+which is a function of, again, you know,
+evolving client needs, but also just,
+you know, the realities of this world
+that we live in today
+where data is abundant,
+much less expensive to access.
+So from that perspective,
+we've needed to adapt.
+We've become, you know, even more global.
+So, you know, we tend to, you know,
+utilize regional committees and
+in regional, decision making structures.
+But, you know, a lot stayed the same.
+At least in terms of mindset.
+And we try to really leverage,
+you know, the history and the experience
+the firm has had managing and navigating
+through more challenging markets.
+22 was rough,
+you know, for both stocks and bonds.
+But, you know, in general,
+you know, the environment's
+been reasonably forgiving, but
+you can always get into these, you know,
+you know, tougher periods and, and again,
+we, we try to use these structures
+that, you know, Bill put in place.
+And Bill deserves,
+a tremendous amount of credit for it.
+Funny, in your last answer there,
+there were like five things you said
+that could merit full follow ups
+or even full follow up
+episodes, like about changing
+client needs over time, or what happens
+when the cost of data goes
+from costly to, fairly affordable, etc.
+all those sort of interesting things,
+but just the my last question
+and it sort of relates to technology, you
+know, when it comes to AI in investing.
+We've talked
+a little bit more on the short term,
+like high frequency side
+and the sort of models that they use
+and the signals that they use and,
+how that sort of relates
+to AI and their application.
+But for in a, for a firm like Pimco
+and when you're thinking about
+longer term holding periods and, you know,
+you want to have a good collateral
+and good documentation, etc.,
+currently today,
+have you found ways to apply cutting edge
+AI technology to the the, the
+the process of good securities selection?
+We have, and we're finding ways to utilize
+the technology at an accelerated rate.
+You know, we do some of this in
+some of our, you know, more quant focused
+strategies, you know, where we look to use
+AI to actually drive alpha.
+But just AI is a tool to drive efficiency.
+Has been will be, critically important,
+to, managing, an investment platform.
+Just the ease in which you can access
+data, that you can use
+AI to help support overall analysis.
+Both at the, you know, company level,
+the individual investment level.
+But even, you know, coming through
+economic history and understanding
+some of these geopolitical trends
+and themes that are hard,
+you know, at least intuitively, to grasp,
+are going to be critically important.
+In fact, before our discussion
+today, spent, you know, considerable time,
+you know, with our head of technology and,
+our head of,
+implementation talking about various firm
+wide initiatives.
+And I the only other point is,
+you know, my own use of AI, both at home
+and at the office has gone up almost
+exponentially over the last year or two.
+And I'm the last person you want
+to, you know, rely on it
+to understand this technology.
+It's the younger folks that we hired over
+the last year that are helping us
+with a lot of this, perspective.
+So this is, going to be quite disruptive,
+probably productivity
+enhancing, you know, at the, at the,
+you know, economy wide level.
+But it's also going to lead
+to considerable disruption.
+And it's important that,
+we don't get disrupted and that we use
+this technology to drive client returns.
+But, you know, it's going to be important,
+in so many ways.
+And we're really, really embracing it
+here, here at Pimco.
+Dan Ivascyn
+thank you so much for coming on Odd Lots
+That was a fantastic conversation.
+Really appreciate you taking the time.
+Thank you guys.
+Tracy I thought that was great.
+I really I really enjoyed talking to Dan.
+Fantastic overview.
+Yeah.
+So a couple of things stood out to me.
+So number one,
+the idea of no more free lunch and credit,
+although people have been talking
+about that for a while now.
+And obviously with the rate environment
+changing, you can see that argument.
+The other thing that I really liked was,
+his description of policymakers don't
+want to bail out the same thing twice.
+Yeah, that's an interesting framework
+or way to think about it.
+Yeah, absolutely.
+And it kind of reminded me of,
+there's another person in credit who,
+used to tell me, a line
+about how he invests,
+which is follow the bad guys.
+Right.
+So, like, the guys that blew up
+in one part of the market, usually,
+you know, start doing something new,
+they're going to get there.
+Wait, are you saying they're going
+to get their act together?
+No, they're going to do something.
+Oh, I'm saying move to the new thing.
+And then that blows up.
+And so if you can just identify
+the bad guys and just follow their career
+trajectories, just short
+everything the bad guys do, I love that.
+I love that take, you know, it was really
+I had not realized that stat, he said
+about how little you got paid for taking
+for buying poor credit up until the GFC.
+Yeah.
+And then post GFC, it's
+just totally flipped that you just got.
+You should just go as far out on the
+credit risk curve as you possibly can.
+And you've just walloped, anything safe.
+And I knew that, I guess on some level.
+But the extreme
+of that statistical divergence.
+But, you know,
+you have to think we had that.
+Well, it was more than a hiccup in 2020,
+but we did bounce back very fast from it.
+So really what we're looking at is,
+you know, well over
+15 years now of the lines just going up.
+And you have to think about
+what are the things that accumulate over
+that time, are the patterns
+that accumulate or the habits, etc..
+And this idea that there is a lot of
+safety at the far end of the risk curve
+and that people don't care,
+and that maybe, you know, some of the
+the perception that they're safety
+at the far end of the risk curve
+and how much that's been,
+burnished into people is very interesting.
+Absolutely.
+The other thing he said that I thought was
+very poignant was the idea of,
+you have all these private credit firms
+starting up, right,
+and promising these
+astonishing returns for investors.
+And he made the point that, like,
+you can't just say you're going
+to make all this money in private credit
+because like, those deals might not be out
+there and available to you.
+You have to do it on a risk
+or value adjusted basis.
+And as as I say
+that, I see, a headline in Bloomberg
+about capital Group
+getting into private credit as well.
+So so this is the thing
+like it's a booming market.
+There are a lot of competitive pressures,
+both on the lender side
+and also on the credit rating side.
+And you can see people really scrambling
+to get into the market
+and accumulate as much as they can.
+And so the temptation, of course, is to,
+you know, accept lower terms,
+accept lower quality.
+Totally.
+All right. Shall we leave it there?
+Let's leave it there.
+This has been another episode
+of the Odd Lots podcast.
+I'm Tracy Alloway.
+You can follow me @TracyAlloway
+and I'm Joe Weisenthal.
+You can follow me @thestalwart.
+Follow our producers Carmen Rodriguez,
+@carmenarmen, Dash Bennet @ Dashbot
+and Cale Brooks @calebrooks
+And if you want more,
+Odd Lots content,
+you should check out our daily newsletter
+that is @bloomberg.com/oddlots
+and you can join fellow listeners
+in conversation
+24-7  in our discord.
+Discord.gg/oddlots
+And if you enjoyed this conversation,
+if you are liking all these anniversary
+episodes, then please like the video
+or leave a comment.
+Or better yet, subscribe!
+Thanks for watching.

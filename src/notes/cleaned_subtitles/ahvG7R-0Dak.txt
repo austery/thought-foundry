@@ -1,0 +1,172 @@
+Hello everyone, welcome to my channel.
+In this video, I'll explain how this
+agent works. In short, the user types in
+a questions. It goes into this code
+generation agent and inside we load the
+data frame build prompt with schema call
+the llm generate Python code and execute
+it. From the user point of view it just
+text to chart in one click.
+So by the end of this video you will
+have a working text chart app that you
+can download and run on your own
+machine. Understand you a simple AI
+agent for turning natural language into
+charts. Understand the architecture and
+design. So you can swap in your own data
+set with just a few small changes. You
+will also understand the pros and cons
+of the AI agent and you will develop a
+AI native mindset.
+If you are not a developer, you will
+walk away with a tool where you can
+query data in plain English and get
+charts back without waiting for someone
+to build a new dashboard for you.
+So if you are ready, let's dive in.
+As a data scientist, I used to build
+dashboard and analytics to provide
+insights for my users. But very often
+they also want to ask their own
+questions. Since that I didn't hardcode
+into the dashboard.
+So I built this AI agent
+um to let them use natural language to
+generate their own charts on top of the
+same data. So on this dashboard you see
+is a um analytic dashboard for YouTube
+videos using this US videos data set.
+Um in the AI agent you can
+you can ask questions like shows the
+train of views over time and click ask.
+It's generates a chart um for the
+total views over a time period based on
+the data set.
+Um, let's try a different questions.
+Top 10 channels by total likes.
+So the agent generate the Python code to
+plot the chart and render the chart in
+the dashboard immediately.
+So in this video I'm going to walk you
+through how this text to chart agent
+works at high level using Python streaml
+and I um
+we'll keep it simple and focus on the
+idea not the code line by line and if
+you like to try this code yourself
+please subscribe like this video and
+check the link in the description. I'll
+share a starter project so that you can
+download the code and run it locally on
+your own machine.
+So this is a very simple agent. It's
+basically a single prompt single call
+code agent. So at higher level uh it
+received the user query from streamllet
+UI and it combines query with some data
+context and send everything to large
+language model. The model generates the
+Python code and we execute that code to
+render chart in streaml.
+So the most important piece here is a
+prompt we sent to the model. Um it's a
+single but very detailed prompt. Um it
+gives the model context about the data
+set.
+um what this table represent. Then it
+passes in any filters or user options
+from the UI and it gives the model the
+data frame schema or the column names
+and sometimes example values.
+We also define a very clear output
+format. We'll tell the model something
+like you already have a pandas data
+frame in memory. Use plotly to plot the
+chart only outputs Python code. no
+explanations.
+Usually we wrap the
+generated code in a code block because
+later we are going to extract the text
+between those markers and execute it.
+We also give the model a list of rules.
+For example, don't read files from disk.
+Don't import random
+libraries. use exist existing data frame
+that's already loading memory. So the
+agent basically knows I have a data
+frame in memory. I should only use that
+plus data pandas and plotly to create a
+chart.
+So on the streamllet UI side
+um the flow like this. The user types in
+a question and the app shows the
+detected column names and uh they know
+what they can refer to. And then when
+they click the button, we will send the
+question and the metadata to the code
+agent.
+And the code agent
+generates the Python code
+and uh the Python runtime execute Python
+code in a sandbox using the data frame
+in memory, pandas and plotly tools. And
+then it creates a chart and output
+return it to stream UI and then we see
+the chart and table on the UI.
+Now I want to talk a little bit about
+the pros and cons of this simple code
+agent approach. First, it's not a multi-
+aent system. It's not autonomous agent
+that plans multiple steps or maintains
+long-term memory. It's just a small
+focused agent that takes a query and
+outputs the code, but it definitely have
+a few nice properties. First is
+flexibility. The agent is free to decide
+how to answer the question, which column
+to use, which chart types make sense,
+and what transformation to apply to the
+data.
+And the second is transparency. The user
+can always see the generated Python
+code. they can check whether the logic
+actually match their intention.
+And third is that the contacts aware
+because we passing metadata as schema of
+the data frame um including the column
+names and sometimes the data ranges. The
+agent understands the real data set and
+it's less likely to hallucinate random
+column names.
+Lastly, its efficiency. Um it's a
+singleshot agent. Um each question is
+answered in one model call which is fast
+and relative cheap for simple charting
+tasks. And of course there are also some
+limitations because it's a single shot.
+It cannot selfcorrect.
+So if the first code generation is
+wrong, it doesn't automatically try
+again or inspect the error.
+um we don't store any um long-term state
+or long-term memory across the cause.
+The agent won't remember the previous
+code generations or previous questions.
+Um every request is stateless and
+handled from scratch.
+Um so even with this limitations, this
+is a very nice starter agent that you
+can actually implement in a very short
+time and start using.
+So if you like to play with this idea,
+you can download the code from the link
+below, run it locally and then customize
+the prompt, tweak the rules or replace
+with your own data set.
+If you enjoy this kind of practical AI
+project where we build small tools that
+actually work in work or life, uh please
+like this video and subscribe to our
+channel and come to join my community
+where we learn and build AI together.
+Thanks for watching.

@@ -1,0 +1,745 @@
+- Glass is inherently brittle.
+(glass smashing)
+It is the very symbol
+we use for fragility.
+But these days, we expect
+so much from this material.
+We want it to be perfectly transparent,
+scratch resistant,
+thin, and even flexible.
+But most of all, we want it not to break.
+So is it possible to
+make unbreakable glass?
+Well, in this video, I will make the case
+that glass is one of the
+most important materials
+humans have ever made.
+It has transformed how we live,
+launched numerous scientific revolutions,
+and forever altered how we think
+about our place in the universe.
+Part of this video was sponsored by Saily.
+In mid 2006, Steve Jobs had a problem.
+Apple was working on the first iPhone,
+set to be released in January 2007.
+But Jobs wasn't satisfied with the screen.
+The prototypes he was
+testing had plastic screens,
+which scratched easily.
+So Jobs wanted glass, but
+regular glass wouldn't work.
+It too would get scratched
+up and it would also shatter.
+Plus, he wanted the phone to be slick,
+so the glass had to be really thin.
+So he called up the CEO
+of Corning, Wendell Weeks,
+to ask him to make the glass for Apple.
+And six months later, it
+was on the first iPhone.
+This was Gorilla Glass.
+Gorilla Glass has been
+used in phones, computers,
+and wearable devices
+for the last 17 years.
+Now it's used on billions of devices,
+and over the years it's
+become a lot more durable.
+So we sent Veritasium producer, Petr,
+to Corning's headquarters,
+to see for ourselves how
+Gorilla Glass is made
+and how it works.
+- We'll need a volunteer.
+- [Petr] Yeah, guess that's me.
+- [Demonstrator] All right,
+so this is what we call
+our key scratch demo.
+In here we have a polycarbonate,
+which is basically a plastic,
+and then we have the Gorilla Glass.
+And what you can do is
+scratch this side first,
+the polycarbonate, see how it goes.
+- [Petr] Yep, definitely scratches.
+- Yep.
+- Try to scratch in our logo.
+Not quite.
+- There you go.
+- [Petr] Are we getting it?
+Veritasium.
+- [Camera Operator] Yes.
+- [Petr] All right.
+- [Demonstrator] So now try the same thing
+on the other side.
+So this is Gorilla Glass.
+- [Petr] Yeah, definitely
+does not scratch.
+- [Narrator] To break
+glass requires two things,
+a flaw and stress.
+To introduce the flaw,
+they sandblasted a spot
+in the middle of the glass
+to roughen up its surface.
+And Petr will apply the stress.
+- [Demonstrator] Take that tip
+and put it inside that circle
+and push down.
+See if you can break it apart.
+Not too hard, right?
+- [Petr] No.
+- [Demonstrator] All
+right, so next we have
+strengthened soda lime.
+Strengthened as much as
+you can for soda lime.
+So, all right.
+(glass cracking)
+- [Petr] Harder, for sure.
+- Harder, a little bit?
+Next we have Gorilla Glass.
+- [Petr] I'm kind of terrified.
+Oh, Man.
+(laughing) I know like we
+don't actually want to do this,
+but I want to do this.
+So.
+(Petr grunting)
+Are you kidding me?
+- There's two responses.
+The first response is either,
+"This is a really great demo,
+I completely understand
+what you're showing me."
+The second response is,
+'I'm taking this personally,
+and I need to try to break this glass."
+- Okay.
+It is a very good demo.
+I'm like genuinely really
+impressed at this point.
+I still want to break the glass.
+Right, last one.
+No.
+Like, I'm bending the stylus.
+Okay, amazing
+- Glass has existed in
+nature for billions of years.
+It's formed by meteorite impacts,
+lightning strikes and volcanic eruptions.
+But when humans came along,
+they found ways to use glass.
+Obsidian is volcanic glass.
+It forms when lava cools quickly.
+It's extremely brittle,
+so when you hit it with another rock,
+you can chip off sections of it
+to make a sharper and sharper edge.
+There's evidence of obsidian being used
+for cutting implements,
+arrowheads and tips of spears,
+as early as 1.2 million years ago.
+And it hasn't gone out of fashion.
+Today, some surgical
+scalpels have their tips
+sharpened to just three nanometers across,
+and the best material for
+this purpose is obsidian.
+Compared to the million plus
+years we've been using glass,
+we only started making it very recently,
+around 5,600 years ago.
+Most common glass is composed
+mainly of oxygen and silicon.
+The two most abundant
+elements in Earth's crust.
+In nature, you find them
+in the form of quartz,
+crystalline silicon dioxide.
+Crystalline means that
+the atoms are arranged
+in a regular repeating structure,
+and quartz is the primary
+constituent of sand.
+So if you take some sand,
+heat it up to about 1700
+degrees Celsius until it melts,
+and then rapidly cool it, it forms glass.
+During the rapid cooling process,
+the atoms don't have enough time
+to return to their periodically
+arranged crystal structure.
+So instead they are stuck where they are,
+like a liquid that's been
+flash frozen in place.
+That is why glass is
+considered an amorphous solid.
+Amorphous just means disorganized,
+not in any regular arrangement.
+But perhaps this is where
+the misconception about glass
+being a liquid comes from.
+It isn't a liquid at room temperature.
+Glass is solid because the
+atoms are fixed in place.
+They can't flow past each
+other like in a liquid.
+I even made a video about
+this nine years ago.
+They are disordered, but they are solid.
+This amorphous structure is
+also what makes glass so brittle
+because there's no way for the
+structure to relieve stress.
+When stress is applied to the glass
+a small crack will form
+at a flaw on the surface.
+And as the glass cracks,
+the stress is applied to
+atoms with fewer neighbors.
+So the crack grows bigger,
+which eventually leads
+to the glass fracturing.
+- [Demonstrator] So next
+we'll move to what we call
+the slapper demos.
+What we're using is sandpaper.
+This represents like an
+asphalt type surface.
+- Sure.
+- So if you were to get outta your car
+and you accidentally drop
+your phone in the parking lot.
+And what we're using is this fixture.
+It's bending it.
+- Mm hm.
+- So it's pre-stressing it.
+You have our rough surface
+to introduce the flaw.
+And on here we have an alternative glass.
+Similar to some of the competitive stuff,
+different things on the market.
+And when you're ready, you can drop.
+- On three, two, one.
+(glass clanging)
+Some sounds.
+Okay.
+- Right.
+- So it broke.
+- Not what you wanna see
+when you pick up your
+phone off the parking lot.
+- [Petr] No.
+Heartbreak.
+- And then we have the Gorilla Glass
+and what we call the mega slap.
+All right, very exciting name, right?
+Now you can see me dramatically
+increase the height.
+- Shall I do it from here?
+- Nope, from...
+- The very top?
+- From the very top.
+- Okay.
+So, we're not just increasing the height,
+we're also starting from way up here.
+- Right.
+- All right.
+Three, two, one.
+(metal clanging)
+No, we're good.
+That's pretty cool.
+(gentle music)
+- While, the basic recipe for glass
+involves silicon dioxide,
+glass makers have been
+adding other ingredients
+to change its properties
+for thousands of years.
+Adding sodium carbonate,
+also known as soda,
+and calcium oxide, also known as lime,
+lowers the temperature at
+which it becomes liquid
+from 1700 degrees Celsius
+to around a thousand degrees Celsius.
+And that's why soda lime
+glass accounts for around 90%
+of all glass manufactured today.
+Another recipe includes adding
+boron trioxide to the mixture,
+forming a borosilicate glass.
+Glass is usually quite sensitive
+to changes in temperature.
+If you throw boiling water
+on your car's windshield,
+it'll likely shatter due to
+the glass rapidly expanding.
+But borosilicate glass
+has a really low coefficient
+of thermal expansion.
+It doesn't grow or shrink very much,
+even with drastic temperature changes.
+So it's often used for
+laboratory glass, like beakers.
+- [Group Member] Let's go.
+(bystander laughing)
+- If you want to grab a pair
+of these screen glasses too?
+- [Petr] Yeah.
+- [Camera Operator] Oh yeah.
+- I can't see anything.
+- [Narrator] And while
+this specific recipe
+for Gorilla Glass is secret,
+it is based on a combination of silicon,
+aluminum, magnesium, and sodium.
+And the recipe keeps changing.
+The scientists are constantly
+trying different formulations
+to find more durable and
+scratch resistant glasses here.
+- This is so cool.
+Do you ever feel like a pizza chef?
+(group indistinct chattering)
+(Petr laughing)
+(group indistinct chattering)
+(light upbeat music)
+- [Narrator] This facility
+is actually where that
+experimentation takes place.
+(light music)
+The earliest human made
+glass was likely an accident.
+People have been working
+metal for thousands of years
+before they made glass.
+So it's thought that
+some sand made its way
+into metal working furnaces,
+forming small glass beads.
+But soon glass making
+became its own art form,
+to make decorations, ornaments, statues,
+tableware and containers.
+Unlike clay, glass is
+impermeable to water,
+making it an ideal material
+for bowls and bottles.
+But then glass makers noticed
+that by adding other
+elements into the mix,
+they could change the color of the glass.
+By adding cobalt oxide,
+you would get a vivid blue.
+Adding cuprite makes red.
+But all of the historical
+glasses we've been talking about
+have been opaque.
+Which is not really what
+we think of as glass today.
+After glass making was invented,
+thousands of years passed before
+we invented transparent glass.
+That's because making it is
+actually pretty difficult.
+(light bright music)
+The first step came around a hundred AD,
+when glass makers in Alexandria
+added manganese dioxide into the mixture,
+which led to a semi opaque glass.
+It definitely wasn't transparent,
+but it did let some light through.
+This is when glass began
+being used for windows.
+And glass windows were a huge deal.
+I mean, they provide a physical barrier
+that keeps the warm air in
+and the wind and critters out,
+while still allowing light
+to shine into your home.
+But the first truly transparent glass
+was made many centuries later,
+around the Italian city of Venice.
+The art of glass making was thriving
+and bringing a lot of money into the city.
+(cash register dinging)
+There was just one problem.
+To make and manipulate glass
+you need very hot furnaces.
+And at the time, Venice was a city
+built almost entirely out of wood.
+So yeah, glass makers were bringing
+a lot of money into the city,
+but they also kept
+accidentally burning it down.
+So in 1291, the government
+of Venice had had enough,
+so they moved all the glass
+makers to the island of Murano.
+The island became known
+as the Isle of Glass,
+celebrated for making the most beautiful
+and intricate glassware anywhere on earth.
+This is also where the glass
+maker, Angelo Barovier,
+invented clear glass.
+He took some seaweed rich in
+potassium oxide and manganese
+and burned it to create ash.
+Then he added this ash into his glass.
+And when it cooled, he found
+that the glass was transparent.
+Most materials are opaque
+because when photons hit them,
+the photons are absorbed.
+The photon excites an electron,
+pushing it up to a higher energy level.
+But this only happens
+when the photons energy
+matches the energy of an
+allowed electron transition.
+And different materials have
+different energy levels.
+In transparent glass,
+the energy required to move an electron
+from a lower state to a higher state
+is higher than the amount of energy
+that a photon of visible light has.
+So the photon just passes right through.
+Now, while glass is
+transparent to visible light,
+it does interact with other parts
+of the electromagnetic spectrum.
+It absorbs much of the
+ultraviolet spectrum,
+because UV photons have more energy.
+Hence, they can push the electron
+to the higher energy level
+and be absorbed.
+That makes it opaque to UV.
+This is also how colored glass is made.
+You add impurities into the glass,
+which affects the electron energy levels,
+which then changes the color of the glass.
+If you look at a pane of glass side on,
+you might notice that
+it looks slightly green,
+which is because the most
+common glass used for windows,
+soda lime, has impurities of iron oxides,
+which give the glass a green tinge.
+The glass absorbs more of the other colors
+than it does green.
+So that's why we see it.
+I think the only way we truly appreciate
+how important transparent glass is
+would be if all of a
+sudden it disappeared.
+So your windows, glasses,
+screens all gone.
+But there is another
+element in our daily lives
+that we take for granted,
+which is connectivity.
+I mean, we are always
+connected to the internet,
+and losing that connection,
+even for a few minutes, can
+be pretty uncomfortable,
+especially when you are traveling.
+Staying connected abroad requires
+either paying exorbitant roaming fees,
+or a continuous hunt for public wifi.
+But luckily, you can avoid all
+of this with today's sponsor,
+Saily.
+Saily makes it incredibly
+easy to set up a cell plan
+with data in more than 150 countries.
+And it's way cheaper than roaming.
+I went to Germany for our
+recent thermite video,
+and here's how easy it was
+to set up an eSIM with Saily.
+After downloading the app to my phone,
+all I had to do was click on the country,
+select a plan, and activate the eSIM.
+Then when I landed, I instantly
+connected to a local network
+with no hidden charges.
+That was it.
+You don't have to use
+any shady public wifi
+or worry about scammers
+selling fake SIM cards
+in front of the airport.
+Download Saily once and
+you'll always be connected.
+And if you find out that your
+phone isn't eSIM compatible,
+you'll get a full refund.
+To try Saily, you can scan this QR code,
+or click the link in the description.
+Make sure to use code
+veritasium at checkout
+to get a special 15%
+off your first purchase.
+So I wanna thank Saily for sponsoring
+this part of the video.
+And now back to transparent glass.
+(light upbeat music)
+Truly transparent glass was a massive deal
+for three reasons.
+Sometime in the early
+1300s, in northern Italy,
+this clear glass was
+ground, shaped and polished
+into small discs
+that were thicker in the
+center than at the edges.
+Due to their resemblance to lentil beans,
+they became known as lenses.
+Glasses to correct farsightedness
+didn't seem all that
+important at the time,
+because literacy rates were so low,
+they were almost
+exclusively used by monks.
+But after the invention of the
+printing press, circa 1440,
+glasses became a vital tool.
+The printing press led
+to a precipitous drop
+in the cost of producing books,
+which led to a rapid
+increase in literacy rates.
+Now a large number of people became aware
+that they were farsighted.
+Thankfully, there was
+a technology available
+to solve the problem.
+150 years later, a father and son,
+Hans and Zacharias Janssen,
+put two lenses in line with each other,
+rather than side by side.
+And this was likely the
+world's first microscope.
+It made objects appear about
+20 times their original size.
+In the 1660s,
+Antony Van Leeuwenhoek made
+significant improvements
+on the microscope, by
+grinding the lenses himself.
+He could magnify things 200 times,
+allowing him to see human cells.
+A few years later, Robert
+Hook published "Micrographia,"
+a book full of beautiful sketches
+of the microscopic world.
+And all of this was possible
+because of transparent glass.
+And in 1608, Hans Lippershey,
+an eyeglass maker,
+applied for a patent for a spy glass.
+His idea was for it to be used in warfare
+to spy on your enemy on the battlefield.
+The next year, Galileo
+Galilei heard about his idea
+and realized that he could
+point this device toward the sky
+to study the stars and planets.
+Galileo's telescope magnified
+objects in the night sky
+by about 30 times.
+In 1610, he was able to see
+he craters of the moon in
+detail, the phases of Venus,
+and four of Jupiter's largest moons.
+These observations were the
+final nail in the coffin
+for the geocentric model of the universe.
+He saw moons that were clearly
+revolving around Jupiter
+and not the earth.
+And how else could you
+explain the phases of Venus,
+other than to say that the
+planet must go around the sun?
+None of this would've been discovered
+without the invention
+of transparent glass.
+Four centuries later,
+we can now make glass
+that is orders of magnitude
+more transparent than water.
+Glass that is so transparent,
+that if you were able to make a column
+as deep as the Mariana trench,
+you'll be able to see all
+the way to the bottom.
+This is the glass inside optical fibers.
+- Oh, this is getting real.
+I'm stoked.
+(camera operator laughing)
+- [Narrator] But the
+main thing we all need
+is durable glass.
+So how do you take a substance
+that is typically delicate and brittle
+and improve its scratch
+resistance and drop resistance?
+First you start with an
+aluminosilicate base,
+and then after the glass is made,
+you submerge it in a
+potassium salt solution
+at 420 degrees Celsius.
+- [Petr] It really does look like water.
+- [Camera Operator] Doesn't it?
+- Yeah.
+I don't know if I want to drink it.
+- [Narrator] Potassium and sodium
+are chemically very similar.
+I mean, they both have one
+electron in their outer shell.
+So during this process,
+some of the sodium atoms are
+replaced by potassium atoms
+in the glass.
+Now, potassium atoms are physically larger
+than sodium atoms,
+but the glass is already set.
+It's rigid, so it
+doesn't increase in size.
+So now there's the larger potassium atoms
+all squeezed together,
+taking up the same amount
+of space as before.
+This increases the compressive strength
+in the surface of the glass,
+which makes it more durable.
+- [Camera Operator] Can you
+see any visual difference
+of size between them?
+- Honestly, no.
+I have two pieces of glass.
+One of them has gone through
+the ion exchange process.
+The other one hasn't.
+I don't know which one is which.
+And we're gonna figure
+that out really soon.
+You guys ready?
+Three, two, one.
+(glass shattering)
+Okay.
+(camera operator laughing)
+That was really cool.
+(glass clanging)
+Shall I hit it harder?
+- Yeah.
+(glass clanging)
+- Yeah, that was a thunk.
+My mind is genuinely blown.
+That's really cool.
+That's all just like ion exchange, right?
+That's all just...
+There's no other difference, right?
+- Yeah.
+- You put it in
+a bunch of salt.
+- Yep, for a few hours,
+and voila.
+- For a few hours.
+- Yep.
+- Ah.
+- I'm trying to think of
+a good analogy for this.
+You know, I can imagine
+if there were just a whole bunch of people
+sort of standing around casually
+and you try to run through them,
+you'd probably be able to
+bounce through a few of them,
+break through the crowd.
+But what if instead,
+all of those people
+were squeezed together,
+shoulder to shoulder, you know,
+like people trying to get
+into a subway or something.
+If you try to run through them,
+all of those forces are just
+gonna add up and prevent you
+from getting in or from
+making a dent, making a crack,
+anything like that.
+(light groovy music)
+But the scientists at Corning
+are constantly trying
+to refine the process,
+to make the glass even more durable.
+There is a whole team at the facility
+that is dedicated to testing and measuring
+different glass prototypes.
+- [Petr] Alright, we're displacing it
+by one and a half millimeters.
+- Yep.
+- [Petr] Two millimeters.
+(glass cracking)
+Well.
+- [Narrator] And they really
+put glass through its paces.
+Conducting bending
+tests, scratching tests,
+and dropping heavy steel
+balls onto the glass.
+- [Demonstrator] Three, two, one.
+(metal clanging)
+- [Narrator] They also have replica phones
+with different glasses for the screen.
+And they drop them from
+ever increasing heights.
+- But we can go up a little bit
+and maybe-
+- Right.
+- We can imagine that I'm taking a selfie.
+- [Narrator] All of this is to make
+the next version of Gorilla
+Glass even more durable
+than it already is.
+- Like, are we doing this?
+- If you want to.
+- Hell yeah.
+(machine whirring)
+1.7 meters.
+- That's roughly selfie height.
+Three, two, one.
+(glass clanging)
+- Amazing.
+- Go down and pick that up.
+- Still good.
+- Still survived.
+- [Petr] Dude, that's pretty wild.
+- You know, I think it's rather ironic,
+that we are making this video right now,
+while my phone looks like this.
+Can you see those?
+Yeah.
+So, it's still glass, it's still cracks.
+It is not perfect yet.
+But it is constantly improving,
+because scientists are working on ways
+to make this material
+more and more durable.
+And we have come such a long way.
+I am just appreciative that
+I can have this material.
+And it is amazing,
+even if it does still crack sometimes,
+with people who just refuse
+to get a case for their phone.
+(electronic device whirring)

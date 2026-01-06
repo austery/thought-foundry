@@ -1,0 +1,1429 @@
+- [Derek] What happens if I heat up
+this rubber band?
+When you heat materials
+like glass or plastic,
+the atoms vibrate faster.
+They get slightly farther apart
+and this reduces intermolecular forces.
+So the material gets weaker.
+Under tension, it stretches.
+But when I heat up this rubber
+band, the opposite happens.
+It actually pulls more strongly.
+The rubber band contracts
+and the weight goes up.
+So why does this happen?
+Well, rubber is unlike any other material.
+It's waterproof.
+As it's breaking, it
+actually becomes tougher
+and it can stretch up
+to 10 times its length
+and bounce back no worse for wear.
+These properties have made
+it essential for modern life.
+It forms the tubes and seals
+that carry our gas and water,
+the belts that drive our motors
+and the tires on our
+cars, trucks and planes.
+Even trains use rubber in
+their suspension systems.
+It's a perfectly engineered material
+but we didn't invent it.
+All of our most durable rubber
+still comes from a single natural source.
+This tree, it's a source
+at risk of being wiped out.
+And if that happens, the
+results could be devastating.
+- You're talking about a complete
+global societal meltdown.
+- This could be considered
+a national security issue.
+- You wouldn't think that we're
+so dependent on this thing?
+- Well, we are, and most
+people don't know that.
+They're waiting for a disaster to happen.
+- [Derek] Rubber comes from
+the Brazilian rubber tree.
+As early as 1600 BC,
+Mesoamericans cut the bark
+to release this milky white liquid,
+now known as latex.
+They noticed that if they let it dry,
+it turned into this stretchy,
+waterproof solid lump.
+To see this in person,
+we sent Veritasium producer
+and mechanical engineer, Henry van Dyck
+to the Akron Research and
+Development Laboratory,
+where they specialize
+in all things rubber.
+- In just all these racks,
+even though they look solid,
+they're all flowing right now.
+- Really?
+- If you look
+behind one of these racks,
+you can see these are actually dripping.
+- Oh, wow.
+- They're flowing slower
+than we can perceive.
+- [Derek] Unprocessed
+rubber is not the rubber
+we're used to.
+It slowly flows and
+can't maintain its shape.
+So how do you get this weird
+material in the first place?
+Well, just underneath the bark
+are special tube-like cells
+that carry the latex.
+Floating around inside are lots
+of isopentenyl pyrophosphate or IPP.
+This is the building block
+or monomer of rubber.
+In fact, IPP is found
+everywhere in nature,
+including inside you.
+- Huge amounts of us
+are dependent upon that little molecule.
+We make short chain rubber in our livers.
+It's called Dolichol.
+You're busily making rubber,
+you are a rubber factory.
+- How? What do you mean?
+Why am I making rubber?
+- It's essential for cell membranes.
+- [Henry] Special builder
+enzymes grab these monomers
+to build this long chain
+with over 10,000 monomers,
+they build a polymer.
+This is rubber.
+- So I get students to think
+about if this is a carbon atom
+and then I've got my next carbon atom
+along the chain next to it, yeah?
+And then, I've got my next carbon atom.
+How many do we have
+to make up the whole length of the chain?
+Well, we've got tens of
+thousands, hundreds of thousands
+of carbons along the back burn.
+You start going kilometers in distance
+from end to end if each atom is the size
+of this tennis ball.
+- [Derek] But the polymers
+aren't stretched out
+from end to end like that.
+Instead, they're all coiled up.
+- If you imagine the room
+that I'm in right now
+and I had the first
+ball here in the middle,
+the chances of the end of
+the chain leaving this room
+is quite small.
+- [Derek] So after you've
+dried out the latex,
+you're left with raw rubber, a
+jumble of all these polymers.
+And this is why it's flowing.
+Because over time,
+all those polymers slowly
+slide past each other.
+Now, when you pull on
+the rubber and let go,
+it bounces back.
+So why is this?
+- At room temperature,
+rubber's polymer chains
+are constantly vibrating
+and bumping into each other.
+And other smaller molecules
+like air molecules
+or trapped water molecules
+also jostle around
+and bump into the chains.
+Now, when you stretch rubber,
+these chains straighten out.
+But as you're doing this,
+those chains are still being bombarded
+by these smaller molecules.
+So when you release that stress,
+there's nothing holding
+those chains aligned anymore.
+And the constant bombardment
+from the smaller molecules
+and the other chains
+kinks those chains back up.
+So the rubber snaps back
+to its original size.
+And if you heat the rubber up,
+well then, everything is vibrating faster
+and so the chains are gonna
+get kinked up even more
+so the rubber pulls back stronger.
+- [Derek] This is why
+when you heat up rubber,
+it shrinks.
+- Rubber band's fascinating.
+To think that when they're sitting
+on an old package of
+papers for a long time
+holding those papers together,
+it's done by a perpetual
+pounding, pounding, pounding
+of the atoms against
+these chains to hold it,
+trying to kink them and
+trying to kink them.
+- [Derek] But there's also another reason
+why rubber is so stretchy.
+If you zoom in on a chain,
+you'll see that the monomers
+are attached to each other
+on the same side of the double bond.
+This is called cis-attachment.
+And it affects how the chain folds.
+On each monomer, there
+are three single bonds
+that can rotate to be
+at an angle or in line
+but these carbons with two
+hydrogens take up a lot of space.
+So it's favorable for at
+least one of these bonds
+to be at an angle.
+That makes the polymer wiggle in and out
+like a folded ribbon.
+So when you pull on a piece of rubber,
+first, all the polymers line up
+but then, each chain also unfolds.
+The wiggle makes rubber extra stretchy.
+But this state is very rare.
+All three bonds lined up is
+only one possible arrangement
+for any monomer.
+And one polymer usually
+has thousands of monomers.
+So after you release the stress,
+the chain goes from an improbable state,
+completely aligned to a more
+probable one, with wiggles.
+The chain itself bounces back.
+This is where rubber
+gets its elasticity from.
+So natural rubbers straight from the tree
+is already stretchy.
+It's also waterproof
+since all those chains
+are just a bunch of
+carbon and hydrogen atoms
+which are hydrophobic.
+But as we've seen, it
+eventually loses its shape.
+Plus, if you stretch it too much,
+it breaks quite easily.
+So we need to do more to get
+the rubber we're used to today.
+Early Mesoamericans
+improved the rubber slightly
+by mixing the latex
+with juice from the tropical
+morning-glory, a local flower.
+And they used this to form
+sandals, bottles and balls.
+- But for the next 3,000 years
+to the rest of the world,
+rubber was little more than a curiosity.
+Then in 1770, a piece of natural latex
+made its way to English
+chemist, Joseph Priestley.
+And he took this piece
+and used it to try to erase pencil marks.
+He noticed that it easily,
+quote, "rubbed them away."
+- [Derek] In the following decades,
+people started exploring
+other applications.
+Up until then, people
+used to waterproof fabric
+with oil, wax, or tar.
+But some oils were extremely flammable
+and prone to spontaneous combustion.
+And wax or tar would
+eventually crack with movement.
+Similarly, there were no
+real good flexible materials
+at the time.
+Leather was the best option
+but it had little give.
+Rubber had the potential
+to fix all those problems.
+So for the next 50 years,
+the use of rubber exploded.
+In England, people made
+waterproof clothing.
+And by the late 1820s,
+the rubber craze hit the US
+when everyone wanted their own pair
+of Brazilian waterproof boots.
+Factories sprung up all across the country
+to make new rubber products,
+including one New England factory
+called the Roxbury India Rubber Company.
+- In the spring of 1834,
+things were looking great for the company.
+The previous fall,
+they had sold over $20,000 worth of goods,
+rubber coats, shoes and the like.
+But as the summer came round,
+problems started to emerge.
+- They used to rubberize the fabric
+to make it water-resistant
+which was fine until you sat down
+on a wooden bench on a hot
+day and you stuck to it.
+- [Derek] See, all natural rubber
+has a critical weakness.
+It's extremely sensitive
+to temperature changes.
+It melts when it gets too hot
+and it freezes and becomes
+brittle when it gets too cold.
+- This made the coats and
+shoes practically useless
+during the hot summer.
+So customers returned their items on mass.
+Then, things went from bad to worse.
+One day, the Roxbury manager
+visited the warehouse.
+When he opened the door,
+he didn't see their newest products.
+Instead, he was met with a foul smell
+and a molten, gooey mess that
+covered the entire warehouse.
+- In fact, when we
+ordered some raw rubber,
+we were in for a similar nasty surprise.
+Oh, that is disgusting.
+The summer heat melted
+their rubber products
+and they started rotting.
+The sludge stank so badly,
+the manager had the employees
+secretly bury it at night.
+- [Derek] But later
+in that horrible summer,
+the manager got a visit
+from a man named Charles.
+Charles' previous
+business had gone bankrupt
+and he was deeply in debt.
+- He stumbled upon a rubber life preserver
+and he thought he could
+make a better valve.
+He pitched the Roxbury
+manager on his new design,
+hoping to pay back his lenders.
+The manager was impressed but
+couldn't buy Charles' work.
+He showed Charles the warehouse
+full of rotten rubber.
+Rubber had potential
+but in its current form,
+it was just too problematic.
+However, he said if
+anyone could figure out
+how to make rubber stable
+in a wider temperature range
+and non-sticky, well, then
+that person would stand
+to make a ton of money.
+So Charles was determined
+to become that person.
+But when he returned home
+to start his experiments,
+he was met by an angry creditor
+who threw Charles into debtor's
+prison for unpaid loans.
+Charles asked his wife
+to bring him raw rubber
+and her rolling pin.
+There in his jail cell,
+he started adding different
+compounds into raw rubber.
+- If rubber was naturally sticky,
+then why couldn't you add dry powders
+to absorb that stickiness?
+So he tried adding magnesia
+and he got a smooth non-sticky rubber.
+But over time, the stickiness returned.
+After his release,
+he tested the wear and tear
+of his rubber compounds
+by walking around in all rubber outfits.
+- [Henry] His hands were always covered
+with gum elastic.
+He playfully said that the
+only way to rub rubber off
+was by rubbing more on.
+- Some mixtures showed promise,
+but eventually, they'd all
+rot into a sticky mess.
+So he kept borrowing money
+to fund his experiments
+but because his mixtures
+all eventually failed,
+he ended up in debtor's
+prison so many times
+that he jokingly called it his hotel.
+But Charles refused to give up.
+When a friend told him rubber is dead,
+Charles replied, "I am
+the man to bring it back."
+In the summer of 1838,
+he met Nathaniel Hayward,
+a businessman and inventor.
+Hayward had done his own
+experiments with rubber.
+At one point, he laid
+out a sheet of rubber
+and sprinkled on sulfur powder.
+And when he let this sheet set in the sun,
+he noticed that it hardened
+and had a smooth and non-sticky surface.
+- But eventually, it would
+still melt in the heat
+and freeze in the cold. He offered his
+process to his previous company
+but it was so horribly
+smelly that they rejected it.
+But Charles saw the possibilities.
+So he helped Hayward get a patent
+and then he bought it
+so that he could use it
+in his own experiments.
+Then one day in the winter of 1839,
+Charles accidentally
+dropped a piece of rubber
+mixed with sulfur on a hot stove.
+When he went to scrape it off,
+he found that instead of melting,
+it had charred and hardened.
+His daughter later said,
+"As I was passing in and out of the room,
+I casually observed the
+little piece of gum,"
+which he was holding near the fire.
+And he was unusually
+animated by some discovery
+which he had made.
+He nailed the piece of gum
+outside the kitchen door
+in the intense cold.
+In the morning, he brought it
+in, holding it up exultingly.
+He had found it perfectly flexible
+as it was when he put it out.
+- So he had made a new rubber
+with completely different properties,
+one that seemed to be
+temperature-resistant
+and much stronger.
+In fact, we're going to
+test out unprocessed rubber
+against rubber processed in this way.
+- Okay, so this is uncured rubber
+and I'm gonna see how far I can pull it.
+Uncured rubber is very soft
+and stretches really far
+before easily breaking.
+Oh, oh, it's gonna hurt, ah!
+We need to cure it.
+- What does it smell like to you?
+- Smells like a barbecue.
+- This smells like a barbecue.
+- The smell of rubber does
+not seem to be natural.
+- Mm.
+- Like it smells very chemically
+like it was made in the factory.
+- Yeah, so when I was in the factory
+and I saw the natural rubber,
+it smelled just like a barbecue.
+And the reason is they take
+the sap from the rubber tree
+which is latex and then they smoke it.
+- [Derek] They're smoking it?
+- [Henry] Yeah.
+- Like you'd smoke some salmon?
+- Yeah.
+- They smoke the rubber sheets
+to get rid of excess moisture
+and to preserve it by
+getting rid of the bacteria.
+This gives most natural rubber
+a sort of brownish color.
+So step one, add the rub.
+- [Barry] One at a time.
+- [Henry] Next, you add several
+powders including sulfur.
+Everything is mixed and heated
+to get a much stronger rubber.
+- Just pull it, straight off.
+- Yeah, that's wild.
+Yeah, no.
+- Pretty tough.
+- It is tough, eh?
+Now, yeah, now it's
+like wicked hard, yeah.
+Now at 393 kilopascals,
+the uncured rubber broke after
+extending just under 900%
+of its original length.
+At the same stress,
+the cured rubber had
+only stretched around 5%.
+It eventually broke at 14.1 megapascals
+after stretching nearly
+600% of its original length.
+So what was it about sulfur and heat
+that changed the
+properties so dramatically?
+Well, chemically, sulfur powder
+is just rings of eight sulfur atoms.
+On the hot stove, the
+sulfur ring broke apart
+into smaller pieces.
+And now, those sulfur
+atoms or sulfur chains
+have free bonding sites
+so they look for places to attach.
+What likely happened is they
+grabbed onto a carbon atom
+from a rubber chain,
+breaking its double bond
+and attached itself.
+Then with another free bonding site,
+it grabbed onto a carbon atom
+from a different rubber chain,
+breaking its double bond
+and linking the two
+rubber chains together.
+This cross-linking forms flexible bridges
+of one, two or even more
+sulfur atoms in a row.
+Now, think about what
+this does to the rubber.
+Instead of each chain being loose
+and slippery like spaghetti,
+they're tied together in a
+flexible but connected network.
+So now, if rubber sits out in
+the sun on a hot summer's day,
+the tight bonds prevent it from melting.
+And in the cold, the
+cross-links make it harder
+for the rubber to fully freeze
+so it's less brittle and harder to break.
+And when you pull on the rubber,
+the chains stretch just as before.
+But as you release it,
+everything returns to
+its original position
+because it's all connected.
+So the cross-links make
+the rubber stronger,
+more resistant to temperature
+changes and more elastic.
+In fact, by tweaking the
+number and properties
+of these cross-links,
+you can change the properties of rubber.
+If you have a lot of cross-links,
+all the rubber chains are
+bound tightly together
+so the rubber becomes harder and stiffer.
+Great for things like shoe soles and tires
+that need to be durable but
+still a little flexible.
+If you have shorter cross-links,
+each link is harder to break.
+So the rubber is more resistant
+to heat and weathering.
+This is useful for seals and insulators.
+And if you have longer cross-links,
+the rubber chains can move more freely,
+so you can stretch it
+more before it breaks.
+That's perfect in the medical field
+for soft and flexible applications.
+So the cross-links are
+essential to stabilizing rubber.
+When Hayward sprinkled sulfur powder
+on rubber sheets,
+the heat from the sun did
+cause some cross-linking
+but only on the surface.
+When Charles kneaded in sulfur
+and then heated the entire mixture,
+the cross-links grew
+throughout the entire sample.
+So now, the results were much better.
+Eventually, this process
+was called vulcanisation
+after the Roman God, Vulcan,
+who was associated with heat
+and sulfur in volcanoes.
+Over the next five years,
+Charles perfected his
+method of vulcanisation.
+And then he patented it in 1844.
+With this, he transformed
+rubber from a curiosity
+into a material of endless possibilities.
+Little did he know
+that he actually wasn't
+the first to discover it.
+The Mayans or the Aztecs
+used, like, created rubber
+where they also vulcanising
+rubber, or was this the-?
+- They actually were.
+- In fact, Charles' discovery
+was very similar to what the Mesoamericans
+had been doing for thousands of years.
+They'd taken the juice
+from the morning-glory
+which contained sulfur,
+mixed it with natural latex,
+and then by laying it out
+in the sun, it would heat up
+and actually naturally
+create the cross-links
+that he'd discovered in his kitchen.
+Why did the Europeans, like,
+why did they have to
+reinvent the whole thing?
+Why didn't they just ask them?
+- Well,
+they hadn't even noticed, I don't think.
+- No.
+In the decades after Charles's invention,
+tons and tons of products were invented
+or improved with rubber.
+- [Announcer] Richards makes bold claim
+he could cross Pacific in this outfit.
+- [Derek] The inflatable
+bicycle tire arrived in 1888,
+the first rubber gloves for
+medical purposes in 1890,
+and the first car tire in 1895,
+and all of this was thanks
+to Charles' invention.
+- But despite almost single-handedly
+transforming the rubber industry,
+he never made much money.
+I mean he spent thousands of dollars
+defending his inventions
+in patent disputes.
+And when he passed away
+in 1860 at the age of 59,
+he was over $200,000 in debt.
+That would be around 7.7 million today.
+38 years later,
+American entrepreneur,
+Frank Seiberling, founded a tire company
+and decided to name it in honor
+of rubber's inventor, Charles Goodyear.
+Today, the Goodyear company
+makes $18.9 billion a year in revenue
+and it's the third largest
+tire manufacturer in the world.
+For the past hundred years,
+tires have consumed
+the most natural rubber
+out of any application.
+But vulcanised rubber
+alone isn't strong enough
+and would wear down quickly,
+lasting only around 8,000 kilometers.
+So in the early 1900s,
+car and tire companies started
+experimenting with additives,
+including something called carbon black.
+- So with natural rubber, we got
+carbon black.
+- Reinforcement.
+- Which is gonna add the cross-linking.
+- This doesn't do the cross-linking.
+- No, it doesn't?
+- So this is the reinforcement in filler.
+- Ah, okay.
+- This makes it
+durable and resilient.
+- [Derek] Nowadays, passenger car tires
+last about 100,000 kilometers.
+Carbon black is what gives them
+their color and durability.
+- But carbon black has another benefit.
+It conducts electricity.
+- That's hugely important
+because as you're driving down the road,
+you are charging up the vehicle.
+If you didn't dissipate
+that static charge,
+then you would get a shock
+when you earth the car,
+when you touch the car.
+- But later, some companies wondered
+if they could reduce rolling friction
+by using a different additive.
+So they tried silica instead,
+making a whitish-looking tire.
+But silica is a poor conductor
+and rubber itself is an insulator.
+So now, as the car moved, it
+would slowly build up charge.
+- As you go to refuel the car,
+you have a highly charged,
+static electricity-charged vehicle,
+you put an earth conductor,
+the fuel hose into the tank,
+you create a spark in
+the tank, car explodes.
+There's a very vital
+characteristic of tires
+is that they should be conductive.
+The other benefit is if
+you're in a thunderstorm
+and you are struck by lightning,
+the lightning will hit the car.
+It will act as a fire enclosure,
+it'll completely protect you
+and it'll dissipate down to the ground.
+- [Derek] So people have
+stuck to using carbon black
+for most of the tire and only
+a little silica in the treads.
+- And since Goodyear's invention,
+we've made over 70 billion tires.
+If they were stacked on top of each other,
+they could go to the
+moon and back 21 times.
+- [Derek] And almost all of these tires
+needed natural rubber.
+But fueling the rubber
+boom came at a price,
+especially early on.
+In the late 19th century,
+the Amazon region supplied
+over 90% of the world's rubber
+but wild rubber trees were often separated
+by hundreds of meters.
+So to keep up with growing demand,
+rubber barons began to exploit natives
+killing roughly 40,000 people
+in the Putumayo region alone,
+and likely over 100,000
+across the wider Amazon region
+between 1879 and 1911.
+The humanitarian activist Roger Casement
+said that, "It was first
+called 'India Rubber,'
+because it came from the Indies,
+and the earliest European use
+of it was to rub out or erase.
+It is now called India
+rubber because it rubs out
+or erases the Indians."
+- [Katrina] It is one of
+the most appalling instances
+of genocide and sickening
+ill-treatment of native peoples.
+- [Derek] But other countries like England
+weren't happy with Brazil's monopoly.
+So in 1876, the bio-pirate Henry Wickham
+managed to smuggle 70,000
+rubber seeds back to England.
+The British Empire planted these seeds
+all over Southeast Asia
+which had a similar climate.
+Only now, instead of having
+just a few rubber trees
+here and there, they made farms
+of acres and acres of
+nothing but rubber trees.
+These plantations produced
+far more than the Amazon.
+Brazil's share of the rubber supply
+dropped from over 80% in 1907
+to 1.6% just over three decades later.
+By the mid 1930s, over 90% of all rubber
+came from the British
+colonies in Southeast Asia.
+And two-thirds of that rubber
+went into making car tires.
+One of the largest car
+manufacturers at the time was Ford
+which made an average of
+1.5 million cars every year.
+And Henry Ford wasn't comfortable
+with England's monopoly.
+So in 1928, he bought 10,000
+square kilometers of land
+from the Brazilian government
+to build a utopian town.
+He called it Fordlandia.
+It had Cape Cod cottages,
+a hospital, swimming pools,
+a golf course and little
+red fire hydrants.
+It was an American city in
+the middle of the Amazon.
+It could house 10,000 people,
+all working to plant
+millions of rubber trees.
+- [Newscaster] Ford Plantation
+is a successful enterprise,
+a tribute to skill and science.
+- [Derek] But in the early 1930s,
+things started to go wrong.
+Every morning, the workers would wake up,
+walk to the line of rubber trees
+and they'd notice black spots.
+Just a few at first,
+little specks on the
+undersides of the leaves,
+like flakes of soot.
+But by the afternoon,
+they'd spread to cover
+the leaves entirely.
+And the next morning, the
+leaves were falling off.
+Shortly after that, the tree died.
+Every day, another row of
+trees was infected and dying.
+- People who've seen it say
+it looks like a fire front.
+You have the infected trees
+and it's green on one side
+and black on the other.
+And you see that black
+line move day by day,
+you could virtually watch it move
+and leaving dead trees behind it.
+- [Derek] The trees were infected
+by the South American leaf blight,
+a fungus native to South America.
+This blight ruined the
+3.6 million rubber trees
+from Ford's plantations
+by the early 1940s,
+turning it into a disaster.
+When planting his rubber trees,
+instead of separating
+them by hundreds of meters
+like they were in the wild,
+he planted them several meters apart.
+200,000 of them.
+- [Katrina] They're all touching,
+their roots are touching,
+their leaves are touching,
+their branches are touching.
+And so it's just like a plague,
+one straight through the plantation.
+- Ford tried relocating the project
+to a town downstream, Belterra,
+planting another 16,000
+acres with rubber trees
+but these too all died.
+- [Derek] Ford's son eventually abandoned
+the project in 1945.
+The Fordlandia buildings still
+stand in Brazil abandoned.
+- And to this day, there is
+no cure for the leaf blight.
+The blight is so fatal to rubber trees,
+they can't grow in plantations
+in their native country.
+That's why South America
+makes up less than 2%
+of the rubber supply.
+Over 90% comes from Asia
+which is why it is so essential
+to prevent the spread of the
+leaf blight to Southeast Asia.
+- [Derek] Virtually,
+all of the rubber trees
+in Southeast Asia came from
+those seeds Henry Wickham stole.
+And newer trees are just
+clones of the old ones.
+so the farms are essentially
+just one big monoculture.
+- As a consequence of that,
+we are particularly prone
+to the potential outbreaks
+of fungus and things like that.
+If you get a fungal infection in Malaysia,
+then you would end up
+dramatically reducing
+global production of rubber.
+- So what's the outcome if
+we were cut off from rubber?
+- If SALB gets established
+in Southeast Asia
+and you lose natural rubber,
+then you're talking about a complete
+global societal meltdown.
+You're left now with making
+synthetic rubber tires at the most.
+Worst case, they can't make them.
+You can't make a truck tire,
+you won't have any airplanes.
+But the real potential is urban famine,
+for over 50% of the world's
+population is in cities.
+How will you move food into
+the cities to feed them?
+- But something like this did wipe out
+a large part of the rubber
+supply just six years ago.
+In 2019, two different diseases
+jumped from palm trees to
+rubber trees in Thailand.
+- In six months,
+these diseases had spread
+across seven countries
+and a million acres of trees.
+And the next year saw a
+10% drop in production.
+- And the only reason it
+didn't destroy more trees
+was because of a different
+outbreak that we all remember.
+- COVID comes in early 2020.
+It stopped the spread of these diseases
+as a byproduct of trying to
+stop the spread of COVID.
+If COVID hadn't hit there,
+how far would that have gone?
+How many more millions of acres
+would've, in effect, been
+killed or seriously compromised
+by these two leaf blights?
+- Granted, it's hard to
+predict what would happen
+if we ran out of natural rubber.
+Some say the impact could be catastrophic.
+Grounded planes, failed
+railways, even famine
+and any disruption to the oil supply chain
+would send shockwaves through
+synthetic rubber products.
+But oil is such a polarizing
+and politically-charged topic,
+deeply tied to global power struggles
+and hidden incentives,
+that it's hard to know
+what's truly at stake.
+That's why we specifically ask Ground News
+to sponsor this video.
+They gather news sources from
+around the world in one spot.
+So you can read about the same issue
+from different perspectives,
+put the context needed to
+separate facts from politics.
+For example, Iran controls a single strait
+that handles roughly
+20% of the world's oil.
+What happens when they
+threaten to close it
+amid US strikes on their nuclear sites?
+Well, on the topic, USA today
+ran oil hits five-month high
+after US strikes key
+Iranian nuclear sites.
+But the New York Post
+led with US stocks surge
+after restrained around attack on US base.
+One headline warned to
+a looming energy crisis,
+the other stock market rally
+and strategic restraint.
+It's the same event but
+completely different conclusions.
+In times of uncertainty,
+knowing who is telling
+you the story and why
+is just as important as
+knowing what actually happened.
+Ground News helps you do that
+by showing you the split headlines
+and surfacing stories hidden
+from your usual news feeds
+due to bias through their blind spot feed.
+In fact, the Nobel Peace
+Center called Ground News
+"an excellent way to stay informed,
+avoid echo chambers
+and to expand your worldview."
+And I agree.
+If we want to properly
+understand the crises
+affecting us here at home
+and around the world,
+we need better tools.
+And I can't recommend Ground
+News as that tool enough.
+So visit ground.news/VE
+or scan the QR code here to
+subscribe for a 40% discount
+off their Vantage Plan
+but only with our link, ground.news/VE.
+I'd like to thank Ground News
+for sponsoring this video
+and now, back to rubber.
+- We take natural rubber for granted
+in a huge number of different products.
+So if you take a typical car,
+there's something close to
+250-300 rubber components
+within the car.
+You would have a nightmare
+trying to re-engineer
+all of those out of synthetic materials.
+- If we were to lose natural rubber
+and just rely on synthetic rubber,
+would it still be possible
+to do those applications?
+- So this has happened in the past.
+If you think about it,
+all of these synthetic polymers
+come from that initial thought process
+that we can't get natural rubber,
+we have to create other stuff.
+It's a national security issue.
+- That's wild.
+- You're just like, oh, it's a tire.
+But think about it, if
+you don't have tires,
+you can't move a military.
+- Yeah, yeah.
+The obvious question is, if
+natural rubber is so great,
+why can't we just replicate it in the lab?
+And that's the exact
+thing that the US tried
+when during the Second World War,
+Japan cut it off from roughly 97%
+of the world's natural rubber supply.
+- Modern war cannot be won without rubber.
+- What then happened was an
+enormous investment by the US,
+equivalent to $11.1
+billion in today's terms,
+into synthetic rubber
+and growing alternative
+natural rubber crops.
+- That's roughly a third
+of the Manhattan project.
+It was a complete gamble
+but the four big US tire companies
+were able to improve and manufacture
+a synthetic rubber
+called styrene-butadiene
+in less than three years.
+Unlike natural rubbers, styrene-butadiene
+is made from two monomers.
+Roughly 25% styrene and 75% butadiene,
+both usually come from crude oil refining.
+The monomers are dispersed in water
+and combined into long chains
+in a random arrangement.
+Then, the rubber is vulcanised.
+Now, compared to natural rubber,
+it doesn't wear down as
+quickly under friction
+but it has a much lower tensile strength.
+In 1942, the US used 99.6% natural rubber
+and 0.4% synthetic.
+But in 1945, it was practically reversed
+at 14% natural and 86% synthetic.
+Now, almost 70% of all
+rubber consumed is synthetic
+and the most common one is
+still styrene-butadiene.
+But there are some things
+that natural rubber is just better at.
+- If you think about airplane tires,
+it's absolutely incredible
+that they're up there
+umpteen degrees below zero
+before they start to come into land.
+And then you've got this
+huge weight of the airplane
+on these dinky little tires
+that increase in temperature enormously
+over an incredibly small space of time
+and only natural rubber can do it.
+So airplane tires are
+essentially 100% natural rubber
+and you can't land if you've
+got synthetic in the tire.
+- So what can natural rubber do
+that we just can't replicate?
+- Okay, what I want you to think about.
+- Yeah.
+- Is you start to stretch it,
+this first movement.
+- Yeah.
+- Hardly, it's very easy
+to stretch that bit.
+- Yeah.
+- That first bit, I assume.
+Now, think about how
+much force you're using
+to continue to stretch it.
+- Yeah, it gets harder.
+- Now,
+it gets harder and harder
+and harder and harder.
+- It feels like,
+yeah, it could snap.
+- And then eventually,
+you'll get to a break point.
+- Yeah, yeah.
+- But what's happening,
+why it's getting harder
+is that the rubber is getting
+stronger as you stretch it.
+- [Derek] As you stretch the polymers,
+they start to align and stick together
+through weak intermolecular forces
+called Van der Waal's forces.
+When they're packed tightly enough,
+the polymers freeze together
+in thin sheetlike crystals
+aligned in the direction you stretch.
+And as you keep pulling,
+more and more polymers
+join the crystal structure.
+Each crystal acts as a new cross-link,
+making the rubber harder and stronger.
+- That ability to form
+crystalite prevents tear.
+So if you have crack propagation,
+it hits a crystal and
+can't go any further.
+- [Derek] In a sample without a crack,
+the stress is evenly distributed.
+But if there is a crack, more
+load flows right to the edge
+so the rubber stretches more.
+That area forms more crystals
+so it becomes harder to break.
+The crystals stop the crack growth
+until a threshold is reached.
+And then, it breaks.
+This is what makes
+natural rubber so durable.
+It's self-reinforcing under stress,
+stopping cracks in their tracks.
+- Crystallization is what
+makes natural rubber so good
+for tough applications.
+- The plane can weigh 5, 600 tons.
+So if you think about that,
+you've gotta, you know,
+each tire is taking 20 tons.
+And it's coming from a very
+cold temperature up there, yeah?
+It's -50, -60,
+depending exactly how
+high you've been flying.
+And you go from zero rotational
+speed quite fast, very fast
+and you get generate a
+lot of frictional heat
+really quickly as well.
+There's a reason why they
+make tires for planes
+out of natural rubber
+and that's because it's
+really demanding application.
+And the crystallization
+helps a huge amount
+preserve those tires and help them last.
+- [Derek] One study notes
+that, "Experiment has shown
+that no detectable
+crack propagation occurs
+in rubber undergoing crystallization
+until the stress is so high
+as to generate abrupt
+catastrophic fracture."
+- Oh, that was fast.
+- That was fast.
+- And then eventually,
+you'll get to a break point.
+And yet you finally overcame it.
+- [Derek] When you pull
+on a rubber sample,
+you're applying a stress.
+The polymers realign
+and the wiggle unfolds.
+So the piece deforms and gets longer.
+The per unit change in
+length is known as strain,
+and we can plot this on
+a stress-strain curve.
+Lots of materials are
+elastic around low stresses.
+You stretch it a little
+and the spacing between atoms changes.
+But when you remove the force,
+it goes back to its original shape.
+But eventually, you hit a stress
+where there is permanent deformation.
+That's called the yield point.
+The material can't go back
+to the same shape after.
+And if you keep going, it will fracture.
+But the stress-strain curve
+for rubber is a little weird.
+It starts out stretching very
+far with very little force.
+That's the easy part.
+But then as you keep pulling,
+the stress shoots up really fast.
+- So stretch it fast.
+What do you notice?
+- It's a little warm, maybe?
+- It's hot, it's gone up in temperature
+by 10 degrees.
+- Yeah, yeah.
+That section where it gets really hard
+to pull it any further and it gets hotter,
+that's right where rubber
+starts to crystallize.
+The rubber warms up because
+as those new bonds form,
+they release a bit of energy as heat.
+Then if you keep stretching
+it, you get to the point
+where the crystal can no
+longer hold it when it breaks.
+But something strange happens
+if you stop right before
+that fracture point.
+Then the rubber bounces
+back but on a lower curve.
+- Keep it stretched, keep it stretched
+and wiggle it around.
+Now, relax it.
+Touch your lips, what do you got?
+- Now it's a much cooler.
+- Yeah, yeah, yeah.
+- Yeah.
+- So you went
+for crystallization formula.
+You stretched it, you crystallized it,
+that's an exothermic reaction.
+- Wow, okay.
+- You then allowed it to
+cool down to room temperature
+and the stretch state
+and you relaxed it
+and you dissolved the crystals.
+- That's weird.
+- How'd you dissolve the crystals?
+You've gotta take energy from somewhere
+to dissolve crystals.
+You cool the rubber band out.
+- [Derek] The reason the
+two curves are different
+is because it takes more
+energy to align the polymers
+than it does for the
+polymers to curl back up.
+And this energy difference
+is exactly the heat
+that's released over a full cycle.
+We've seen that natural rubber is built
+using these building blocks
+but the technical monomer
+is actually isoprene
+which looks like this.
+It's the same atoms but with some groups
+and bonds moved around.
+So the technical term for
+rubber is cis-1,4-polyisoprene.
+- And we've actually been able to make
+synthetic cis-1,4-polyisoprene.
+You can take isoprene and polymerize it.
+So it should behave exactly
+like natural rubber, right?
+- And that one is the closest
+but it doesn't perform nearly as well
+because it's not structurally as perfect
+as natural rubber.
+- [Derek] See, there are two ways
+for the monomers to attach.
+In natural rubber,
+they attach on the same
+side, the cis-attachment.
+- The percentage of cis
+in the molecular chain
+that nature can provide
+is really accurate.
+It's 99.99%, something
+of that sort of scale.
+- [Derek] But with synthetic rubber,
+it's easy for monomers
+to attach on the opposite
+side of the double bond.
+That's the trans-attachment.
+But now there's more room
+for them to lay flat.
+They don't have that extra wiggle
+so they stretch less and
+don't crystallize very well.
+- And when you make the
+synthetic equivalent,
+it's pretty good but it's
+98% cis polyisoprene.
+There is, you know, 1% or 2%
+it's gonna be trans-polyisoprene.
+And therefore, isn't
+susceptible for crystallization
+and it's not as good
+and hasn't not the same
+strengths properties
+that natural rubber would have.
+- [Derek] In a tensile
+test, a synthetic rubber
+also stretched to around
+600% before breaking.
+But it only took around 9.1 megapascals
+compared to over 14.1
+megapascals for natural rubber.
+But there are a few areas
+where a synthetic rubber is
+actually better than natural.
+Under low stress, where
+crystallization doesn't happen,
+natural rubber loses the advantage.
+So synthetic is preferred for the tread
+of passenger car tires for
+better abrasion resistance.
+Nitrile rubber, a synthetic
+rubber used for gloves,
+also blocks harsher chemicals
+from passing through.
+- So in polyisoprene, we used to see,
+let's say in chemotherapy agents,
+maybe 80%-90% permeation.
+In nitrile, we see maybe 10 - 20.
+- Wow.
+- So it's much better.
+- That's huge.
+- Mm, that's huge.
+For a cancer center worker, that's huge.
+- Nitrile gloves were
+developed in the late 1980s
+during the global AIDS pandemic
+in response to the growing latex allergy.
+Surprisingly, gloves weren't required
+for every single procedure until
+the CDC published a mandate
+to prevent HIV transmission in 1987.
+After the demand for gloves
+went from 300 million
+to over 36 billion by
+the end of the 1980s.
+Well, dozens of new latex glove factories
+sprang up to meet the demands.
+Typically, after a mold
+is dipped in latex,
+the glove is leached
+and lots of proteins from the
+tree are just washed away.
+But then, they got rid of that step.
+- This meant that all of
+those soluble proteins
+were left in the glove.
+- So when nurses or doctors
+were putting on or taking off
+these unleached powdered gloves,
+they would disperse all of
+those proteins into the air.
+- This nursing staff were
+breathing those particles in,
+breathing that dust in,
+through their entire shifts
+and into their lungs.
+Now the patients, you've got these gloves
+with loads of proteins,
+washing that around in your innards.
+- Thousands of people were exposed enough
+to become allergic to latex.
+- In the early 90s,
+you said if you had four
+surgical procedures,
+you almost certainly have
+Type I latex allergy.
+If you've had 10, you do.
+- So eventually, manufacturers
+received enough complaints
+that they started leaching again,
+but by then it was too late.
+Even if something's been properly leached,
+if someone has that Type I latex allergy,
+they're still gonna react to it.
+Nitrile gloves helped combat that allergy.
+But for long surgeries, some
+doctors still prefer the softer
+and more comfortable glove
+that comes from natural latex.
+So Dr. Cornish has been working
+on alternative natural
+rubber from the Guayule plant
+which doesn't have the proteins
+that people are allergic to.
+This plant can grow in desert climates
+and it makes a stronger, softer rubber
+than even the Brazilian rubber tree.
+- Not only does scaling up Guayule
+help with the latex allergy,
+it's also a safeguard in case
+the blight ever makes its way
+across to Southeast Asia.
+Transportation, healthcare, construction,
+there are so many industries
+that are dependent on natural rubber.
+- [Derek] There are regulations
+around South American leaf blight control
+and it's difficult to get a direct flight
+from Brazil to Southeast Asia
+but not impossible.
+- It seems shortsighted to
+leave the industry vulnerable
+to like one bad flight.
+For a material that only became
+useful around 200 years ago,
+it's now hard to imagine life without it.
+When Henry Ford developed Fordlandia,
+he didn't consult a
+single rubber tree expert
+who could have told him about the blight.
+So let's not make that same mistake again.
+(bright music fades)

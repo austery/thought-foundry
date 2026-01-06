@@ -1,0 +1,1745 @@
+Hello odd lots viewers.
+You are about to watch a conversation
+with Tarek Mansour, CEO of Kelce.
+This was recorded live onstage
+at Chicago's Untitled Supper Club.
+We had a blast
+and we hope you enjoy the show.
+Tarek, thank you so much.
+Really excited to chat about the.
+You're definitely having a moment.
+The South Park episode, I think last night
+was all about prediction markets.
+Did you watch it live?
+I try to avoid watching
+or reading anything about us.
+Yeah, without kind of getting the
+the third party reaction before.
+Oh, so we didn't know because we, we,
+we saw the thing like the announcement
+a few days ago there.
+Yeah, episode prediction wise.
+And we started kind of imagining all the
+types of things that they're going to do.
+It's crazy.
+I mean, the highlight, I think is like,
+they copied the app, like.
+Yeah, exactly.
+That was I mean,
+they even had the refillable
+and they even had some of the bugs.
+We haven't.
+They have.
+It's like, oh, amazing.
+It was unbelievable. So, but
+you know, it was it was pretty cool.
+I mean, there's a few parts
+I disagree with, but the other
+for the rest,
+I mean, it really enjoyed it.
+Yeah, I watched it this morning.
+Why do you think prediction
+markets are having this moment
+now after they've been around for decades?
+Literally. Why now?
+Yeah, I mean, I think there's like
+path dependance on these things. Right.
+Like it's not sort of like,
+I, I'm a strong believer
+that sort of like, you know, in history,
+you have to have a few agents
+that sort of like push and, you know, push
+the boundary of certain things and, and,
+and so somebody's
+got to do it type of thing.
+But, my, my view on this and that's
+why we started
+the company is the fundamentals are there.
+Like, this should be a very large market.
+And we can talk a little bit
+about the history, but
+when we first started the company,
+this idea of sort of
+like a financial market
+that prices questions about the future,
+what sort of we were very drawn to it
+because, you know, one,
+if you could build
+such a financial market,
+it could be the largest of them all
+because the largest number of people care
+and the number two is could be
+the most important because, you know, yes.
+Pricing the the
+you know, Sheriff Tesla is important.
+But pricing
+whether Brexit is going to happen
+or you know, who's gonna win an election
+or what's, you know,
+sort of a
+the next natural disaster are going to be,
+I think that's at least
+as important, if not more.
+I at least from my perspective,
+when I looked at the history
+and you were chatting a little
+about the history,
+like the Elephant Room was regulatory,
+it was, I mean, there's a very simple
+kind of like first order factor here.
+Well, well, it was illegal like.
+Yeah. That, that that's pretty good.
+That's tough.
+Yeah.
+And it's a pretty good reason
+for something
+not to, you know, generally kind of go
+mainstream and exist.
+And, and the legality has been sort of
+the thing that has weighed on
+all prior prediction markets.
+I don't know
+if you ever encountered Intrade.
+Yeah. Yeah.
+I mean I traded on there.
+Well, you know, so here you go. Right.
+I mean, Intrade was
+you know, how that story kind of it ended.
+How familiar are. You? I don't
+I don't know how it ended.
+So so John Delaney was
+this was a sort of founder of Intrade
+and is kind of a visionary.
+I mean, like in many ways,
+I mean, he really believed that,
+you know, he was on CNBC back in 2000,
+sort of like talking about the forecasts
+for the election.
+And so,
+but he sort of ran offshore from Dublin
+and it was kind of a like
+a VPN type setup.
+And then the company got shut down in 2012
+by the government.
+And two weeks later, John Delaney died,
+and he died, climbed Mount Everest.
+And there was a kind of whole
+controversy of like, what happened.
+I mean, was there
+some sort of causation there?
+But for us, when we we got really obsessed
+by doing this and realized, like,
+actually, that the only way for this
+to go big is you got to legalize it.
+Like, there was no other way.
+And no matter how big the company
+would get it, no matter how kind of
+how much culture there was going to be around the company, it didn't really matter,
+because the government could shut it down.
+And they will,
+after a certain level of scale.
+And so this was sort of like we spent,
+you know, three years and a half
+when we started after starting Koski,
+like all we did was basically
+regulatory work.
+It was like, how do we do fight exactly?
+The fight was actually like more like
+five years and a half, like three years
+and have to get to legalize
+prediction markets.
+And that was sort of the whole thing
+with the prior
+administration
+around, the election market, which we, we,
+we were completely uncompromising on,
+we had to do that.
+And that was kind of a whole two year
+long process that ended with our suing
+the government, our own regulator.
+And, and then I think that lawsuit,
+I view it as sort of
+the, the probably what the turning point,
+is for these markets like
+this is when we want that institution.
+Like this is when everything changed.
+I think. Yeah.
+Would you have died
+if Trump hadn't won in November?
+No, it would have just been slower
+and harder.
+But no, not died.
+I mean, we didn't die
+under the harshest environment of all.
+I think, like like, you know.
+Well, the first.
+Right, the first three years and a half
+was like, well, this was just not allowed.
+Right.
+And we didn't, you know,
+we kept sort of making progress on all
+the way up until legalizing and launching.
+But then, yeah,
+the reality is like the prior government
+I think was as hostile
+as it gets, that it was just not
+I mean,
+they just didn't want it to exist, so.
+Well, you say that like, it's
+really important to have a change
+in the regulatory landscape, that
+there is no way this could have taken off
+had this changed, had this not changed,
+however,
+there is a competitor that you can access
+via VPN fund with stablecoins.
+In theory,
+there doesn't even need to be a company
+that had been operating for several years.
+Like what?
+Like couldn't have happened?
+And could it still happen
+that the future of prediction markets
+is on chain and essentially outside
+of the regulatory landscape?
+I don't necessarily think that on
+chain, off chain is sort of necessarily
+kind of an unregulated regulated like
+like on chain doesn't mean a legal right.
+Like, sure.
+So but I think that.
+Like but
+there is a lot of volume on this entity
+that had all kinds of things while,
+you know. I'm sorry.
+I'm talking about Poly Market. So,
+It's not like we couldn't go on chain.
+Right?
+It's like, this is not a very hard thing
+to build, right?
+Like in terms of, like the, the,
+and actually like, it's funny,
+like the first two weeks,
+of course, you tried to do something on
+chain and realized like, well, again,
+it was a good way to sort of be
+maybe like somewhat smart
+about regulated regulation,
+but not really
+because augur was on chain also.
+And like that was also sort of shut down
+and there was a bunch of issues,
+for us, we stood very firmly
+that like for this to go mainstream,
+like you should avoid a VPN,
+you know, and, and, and,
+but but also like kind of
+how do you, how do you,
+how do you have this be legitimized?
+Financial markets attract
+the type of institutions that would trade,
+you know,
+a bunch of institutional partners
+and now the brokers
+and actually truly take this ministry.
+It was just no,
+no way to do it outside of like that's
+the universe of financial markets.
+You cannot do it outside.
+You have to expand it.
+And if you expand it,
+then I think we have a real winner.
+And I think the
+results show like, you know,
+yes, poly has a lot of volume, but like,
+there's not real revenue yet.
+There's a lot of wash like it's it's kind
+of how do you account for all this stuff?
+And even if you account for all of that
+today, where like something
+like three x bigger within a year.
+So definitely want to talk
+about the brokers and the market makers.
+But before we do a very basic question,
+but often the basic questions
+are the most interesting.
+Can you walk us through the life cycle of,
+you know, a
+binary event contract
+that gets created on your platform?
+It's a great question.
+Because that's a hard problem, right?
+Like,
+because in traditional markets, right,
+the life cycle is like, you know, we
+we have an idea like, a grain futures
+or onion futures or GPU, not. A
+you don't do on your futures.
+Onion futures is a bad idea.
+But you can set up a prediction. You know,
+what do I do? Things.
+Actually, I do think it's a little,
+lame that poorly market
+like it hasn't done onion futures.
+Because if you're going to like,
+what's the point of on chain
+if you're not sticking it to the man
+anyway?
+If like, the onion.
+Farmers are like finally have
+like instrument to hedge and yeah.
+What's the point of crypto
+if you're not using it to fight
+against these absurd rules?
+I mean, like, well,
+the onion futures role is truly absurd.
+Yeah, yeah.
+I mean, it's like that's one of those,
+but I guess now it's maybe kind of funny.
+Maybe we should just keep it. But, like,
+but but
+you know, or like, I mean, or like GPU
+if you mean, like the point here is, like,
+you have something where the lifetime is
+kind of like infinite,
+you list the future and the derivative
+and it's sort of there forever.
+And then you build the liquidity
+over time.
+You can take your time.
+It takes like usually
+that these things take time.
+They take years to kind of build up
+to market them and build liquidity.
+This is different, right?
+Like this is much more dynamic.
+It comes and goes like oftentime
+the trend could be sort of like there
+for 2 to 3 weeks,
+sometimes a week, sometimes it's a day.
+And you have to be much more, much faster.
+And kind of my mental model for what
+this looks like, it's
+sort of like there's an idea
+that can be from a user, from a, from
+the news, from a trend, from some tweet.
+Then there's a listing of the market,
+and then there's kind of like
+from a listing to kind of making it
+reasonably liquid and active.
+It's interesting
+because, you know, the first time.
+So we've, we've gone through like a,
+all kind of types of regulatory winters.
+But the first time we listed a market,
+it took us 18 months.
+That was just for listing.
+And because there's a lot like operations
+attack.
+These are tickers, right?
+Like you list them like a stock or like a,
+like WTI crude oil.
+Yeah. Now we do it within 30 minutes.
+And so we've expanded the territory
+quite a bit.
+And, and most.
+And when you list it, does it
+go to the CFTC or what.
+Basic. Removal process. Yeah.
+Because there's like a self-certification
+which is basically fight with the CFTC.
+And they kind of like
+generally they
+historically is basically like
+if you file it and you haven't engaged
+with them beforehand,
+they usually will basically block it.
+They'll call you and say, stop
+until we talk, and then you do it.
+But now we've covered so much territory
+and we've built so much technology
+and like the operations and the regulator
+in the loop that, like most new things
+that we do, actually fit into a bucket
+that we've already done.
+And sometimes they're arguably new things.
+Like right now, the frontier is actually
+some of the SEC like company
+related markets,
+I think is this sort of next frontier.
+But we've covered so much ground now
+that, like,
+most things are like of a similar flavor.
+We've been going this whole time,
+you know, you talk about company related
+stuff, talk about hedging onion futures
+maybe hedge or sorry hedging onion prices.
+Maybe you want to
+strip out something
+related to Tesla car sales.
+But let's talk about the business.
+How much of this is sports right now?
+How big is the gap
+between volume on a Sunday versus volume
+on a Wednesday?
+Volume on a Sunday is very, very big.
+But like, it's it's interesting.
+I mean, like the,
+I'll say a few things, like,
+I loved,
+the sports side has gone like, it's.
+I mean, I'm shocked. I'm still shocked.
+Yeah.
+Like, every week
+we do a forecast and we beat it and like,
+I mean, America likes NFL.
+I mean, I don't
+I mean, they like football,
+but I don't know more than I expected,
+I guess. But,
+the it's a little bit more than that.
+Like, you know,
+the thing about sports is,
+but, see, there's two things going on.
+One, there's
+just a lot of scheduled events, okay?
+There's just a lot in the week.
+But if you compare, like a 1 to 1,
+like a game to,
+like basically anything that Trump does,
+Trump will win.
+Like, you know, like the
+there was a volume 1 to 1.
+Like these markets do really, really well.
+And it could be literally unlike any
+I mean, anything he does
+the problem there is like
+there's not enough scheduled like that.
+Aren't that many of them.
+I think they may be over.
+But just like.
+What percentage is on Sunday?
+Like it's not
+I mean, probably 90% of sports
+on like a regular
+weekday is like much lower.
+And what's the gap in volume
+between Sunday and maybe.
+Okay, okay.
+So like yeah I mean NFL
+Sunday is like massive.
+But it's a little bit
+like it's it's a little bit
+like asking the question like okay
+well on Election Day what was the volume.
+Right. Yeah.
+It's like 99.9% elections. Right.
+So so sports is very large.
+But like we have other categories
+now like like culture for example
+I think is like growing at a similar rate.
+It's just starting
+from a much lower baseline.
+And our market diversity,
+our liquidity is just not there yet.
+Whereas sports is much more kind of like,
+I would say like much more diverse
+and much more liquid.
+Yeah. Okay.
+So I'm going to ask the obvious question,
+I guess, but why is it not sports betting?
+You know, I don't I don't get like
+as much wrong with the word betting.
+I think gambling is sort of where it
+where I have a problem.
+I mean,
+you know, when like, CME launched
+water futures, like 3 or 4 years ago,
+I, you know,
+I remember like the headline about
+that was like,
+oh, you can now bet on water.
+It's like, all right.
+I mean, I guess the word betting is used
+very sort of loosely, but like,
+look, I got two things.
+I sort of the legal question
+and there's sort of the,
+the, at the whole
+is this good for society question.
+And those are my.
+Yeah for sure that matter. We'll do
+both of them don't worry. Yeah.
+I mean I guess so.
+So the legal question I mean like
+our approach has always been sort of legal
+and regulated first,
+like always do it
+within the bounds and expand the bounds.
+So we did this
+prediction market and elections.
+You know, I mean a year ago right. Yeah.
+Well a year ago even like
+I mean people were saying
+this is going to destroy democracy, right.
+Like it it was
+it was the end of the world.
+If we ever got legalized and like,
+you know,
+and like it was and then we got legalized
+and it was like super biased.
+And, you know,
+I was being accused of being Mossad agent.
+I, I don't even remember that
+period. But like, it was like.
+I missed that one.
+I was like, it was like a whole thing
+about, you know, I worked at Palantir
+and that's I'm obviously kind of rigging
+the election, but like,
+and obviously the vibe has shifted
+pretty dramatically with the election.
+And because, you know,
+there is some kind of biases market.
+So when it comes to sports
+like on the legal piece, like it is
+legal, like the CFTC could stop it
+if they wanted to, but the states can't.
+That's called preemption
+and that's how it works.
+And where an extremely strong
+legal footing.
+I mean, Dan was mentioning
+sort of this year,
+I don't think city is asleep at the wheel.
+Like, you know, they have less staff,
+they have staff.
+And the staff is a way of sports.
+We talked about it.
+It's not like we showed up one day like,
+hey, surprise, it's worse.
+Markets are here.
+Like.
+Isn't Trump's nominee also on your board?
+The nominee for CFTC?
+Well, he was ex nominee now.
+I mean, we'll see.
+But I mean, I don't know,
+but I don't know if it's nominee.
+But like they're
+just going to have questions.
+But I, I
+he was not there when this happened.
+And like he was you know
+so he's still not there actually.
+So I don't think it's very relevant
+to the question.
+I think the change of the administration
+is relevant to the question.
+Like, yes.
+I mean,
+I think it would have been much more
+challenging in the prior administration.
+Like, there's no question about that.
+But the law is pretty clear. I mean,
+if you read the Commodities Exchange Act,
+there's like a two pronged test,
+and it is an event kind of related
+to war, tourism,
+assassination, violence or gaming.
+And then there's
+some sort of illegal stuff
+that's illegal under state or federal law.
+And so you can fall under that category,
+we could debate whether this falls
+under gaming or not.
+And there's actually quite
+a bit of debate there.
+And then the second test, which is like
+if it does fall into this category,
+the CFC can make an explicit determination
+that it's contrary to public interest.
+Right.
+So there is that sort of second standard.
+Yeah. Which raises the second
+question, which is like,
+I'm just I'm a believer in markets
+like I think a market based model for
+this market is better than the over
+the counter sportsbook model,
+because the odds are better
+anyone could be a price better.
+They don't have to be a price taker.
+And the results show like less people.
+I like the percentage of people that
+basically lose on couches closer to 5050.
+That's just not the case
+in like a traditional sports.
+And I think that's the sort of argument
+that wins it long term, which is like
+this is just better.
+Like you get better prices,
+more transparency and the ability to,
+you know, influence,
+like basically participate
+in a way represent an additional model.
+You already said, that
+you don't think that
+the distinction is not between trading
+and betting.
+The distinction is between
+betting and gambling.
+So you sort of preempted a question.
+But there is this Facebook ad that I saw
+and it says breaking news.
+Sports betting in California is now legal.
+And I saw a screenshot of
+I couldn't find it.
+I found it on a blog.
+But is that like an actual Kelce
+ad that ran?
+Well, we have a very large marketing team
+and this is the ad is not there anymore.
+But like regardless, I mean,
+So that was doing it.
+Well, you got.
+To imagine
+a company has like rule 100 like. Again.
+But like so like like nothing.
+You know, you're seeing like,
+breaking news.
+It like, I guess what I'm saying is, like,
+we all know what's going on
+there is just breaking.
+I mean, it is legal to trade on. Yeah.
+I mean, that's big news, you know. Yeah.
+And we are
+I mean, you know, and so but like
+I do actually think like
+I'm not as worried about this like like,
+you know,
+the word gambling
+is the one that really irks me.
+Like, you know, because.
+Like,
+okay, zero zero DT options like, yeah.
+Like what retail is doing
+what, like $1 trillion of volume?
+I mean, you probably know the numbers.
+What is it, Tracy?
+Cronos I can't remember, but it's a lot.
+Yeah.
+So what is retail doing there like hedging
+I mean, right now,
+what exactly are they doing?
+They're gambling.
+I don't know about that.
+No, I think I mean, I think it's fun,
+like I, I agree with like this
+premise that the idea of.
+Like dry line, it's
+basically like like it's it's
+the sort of thing where like,
+I mean, in 1905,
+I think we talked a little bit about this,
+like the Supreme Court.
+There was this whole question
+of grain futures and like,
+should it be gambling
+or should it be a financial instrument?
+And if it was gambling was going
+to go under the bucket shop laws.
+And, and and it was this Supreme Court
+case,
+Chicago Board of Trade versus Christi,
+where the Supreme Court basically
+like ruled in favor
+of the Chicago Board of Trade,
+which is like, yes,
+a lot of people are speculating,
+but there's value to these markets
+beyond the actual speculative,
+you know, activity is taking place.
+And then you get into
+the question of like,
+what is the standard
+the commodities exchange act like,
+should all the activity be hedging?
+Well, if that's the case
+then you let's just cancel the whole act.
+Let's just stop trading altogether.
+Because in most markets, including grain
+features like 95% plus is not hedging.
+It's speculative.
+And I think that's true
+in the stock market.
+And so you know and then like okay,
+well how do you distinguish and you know,
+should we take out the spec
+and even just keep the hedging.
+Well if you do that
+then there's no liquidity.
+And so it doesn't work.
+And then how do you even know
+who's hedging and speculating.
+Do you go and check.
+Sure. Yeah.
+So so you go into all these
+different questions. But like
+to me gambling is
+sort of like you create an artificial risk
+and then you, you roll a dice
+and then you gamble on it, you know.
+But trading on whether Brexit happened
+or not, that's just like a natural risk.
+That's sort of there.
+And then the second question is that.
+And to me, the even more important
+one is like the the market based
+mechanism versus sort of like you
+walk into a casino, the odds are like
+structurally stacked against you.
+And actually if you start making money
+like in the best case scenario,
+they basically, you know,
+stop you from participating.
+And that happens in sports.
+Also in other the worst case scenario
+they like kneecap you right.
+Like that.
+And so that to me is gambling.
+Like it's like the
+the revenue of the company
+is equal to the losses of its customer
+and vice versa.
+And I,
+I just don't think this is the same year.
+Like, that's not how the New York Stock
+Unit makes its money.
+It makes its money based on fees.
+Same with Robinhood, same with,
+you know, and, you know, same with Casey.
+And so I think there's a
+there's a big structural difference.
+Well, this was going to be my next
+question, actually.
+So setting aside the gambling terminology,
+part of your argument here is that
+even if it is betting,
+it is somehow qualitatively different
+than traditional betting,
+where, you know, you have a sportsbook
+maker who's setting all the prices.
+And you said earlier
+that there is more transparency and fairer
+pricing and all of that.
+But then again,
+if you look at some of the words
+that your own company has used to describe
+this, you've put up job advertisements
+saying that you need experts in something
+similar to sportsbook pricing.
+No, this that's not quite right.
+Now that the job advisor sports operations
+listing the markets, how to settle down
+all these different things.
+What's that dynamic is very
+I mean similar right.
+Like you have to know
+which markets to list how to list them.
+What are their price feeds to kind of like
+pull up to, to bowl to basically settle
+whether it's sort of like
+this team one versus the other.
+That's very different from like,
+you know, we need,
+I don't know, like someone
+who is like an expert in, like, you know,
+like, programed
+to, like, you know, bring in traders
+and figure out how to optimize, like,
+you know, how to, like, optimize,
+like, losses and things like that.
+Like, this is very, very different.
+Well, talk to us
+how the prices are actually set. That.
+And why does, you know, a platform
+that ostensibly is
+a peer to peer trading platform
+need market makers at all?
+Well, if you listen to market right
+now, like on let's
+let's give an example on, on,
+like even fed rates,
+you got to kickstart somehow, right.
+Like the financial markets
+aren't market makers, right.
+And they appear like financial markets
+are the ultimate version of peer to peer.
+That's what they are.
+But it's basically a way to kickstart
+and which I think
+actually are most liquid markets.
+The more successful a market becomes,
+the more profitable market becomes,
+the lower the percentage of market
+makers like, whether it's like partners
+like Susquehanna and institutional market
+makers and others.
+And the higher it is, it's it's
+basically organic liquidity.
+So actually, the more successful it is
+and the more profitable for us.
+And like, you know, anybody,
+it's the lower
+the participation of these market makers.
+So the use is actually like,
+you got to have somebody
+that starts to bid ask like you,
+otherwise you what am I kidding?
+There's nothing. It's just that.
+And so you have to kind of
+break the chicken and the egg.
+In some ways
+you start with the chicken
+and you incentivize that chicken
+so that the egg comes,
+and then you basically
+get the flywheel rolling.
+So I think it's kind of exactly
+the same as financial markets.
+And like a lot of our liquidity
+is in the non liquid market
+smart and market driven.
+And the liquid markets
+non-market market maker driven.
+Basically let's talk about some non-sports
+stuff and the future.
+Like any anything you could sort of
+future tries anything right.
+When you envision it.
+Could you have
+could we one day have a future
+for every single stock on the exchange?
+A perpetual future,
+a perpetual Tesla future,
+a perpetual apple
+future, a perpetual like?
+Could it be a world that we live
+in one day and a perpetual ten year
+Treasury future?
+I mean, cash is everything in Arabic,
+right? So.
+So you know, the long term
+vision is like, yes, I mean, the the
+I just think like
+we should have a market for.
+Perpetual,
+or a future for private companies.
+Space future. Yeah.
+And you know, like
+the idea is so kind of get like one,
+I guess, general and then specific.
+Answer to that specifically.
+So the general sort of principles, like,
+I think anything that has a difference
+of opinion, difference of opinion,
+of qualitative opinion should
+basically have a mechanism
+to resolve that quantitatively.
+So like instead of debating subjectivity
+or something like let's debate about it
+objectively and quantitatively,
+which is trading, you know, what's a mine.
+And so
+and then there's some limits like I,
+I think there are markets
+that do create bad incentives.
+And I think, actually CIA does
+handle them.
+And like we,
+we really haven't done these markets.
+But to your question, like, yes,
+I think that's, that's probably
+what the next frontier looks like.
+And I and I think that the concept
+of security futures
+has been like a very kind of like
+would say it's
+been a very exciting concept for that.
+I mean, even Pre-calc it's not sure where,
+but I think the CFTC SEC relationship
+historically
+has been a big part of the bottleneck,
+because if you're on the SEC side,
+you can't be
+do you don't really do futures.
+And if you're an CFTC like you've
+you don't need securities.
+And you had this question
+like should I get right.
+By both I mean yeah you already have one.
+That's sort of I mean
+you're like daily in your operations
+already.
+Very tough.
+Now you're adding a second one
+and it doesn't scale linearly at scale.
+It scales sort of quadratically.
+And so it's been really tough
+historically.
+But maybe now in this environment
+I think it might be possible
+and maybe,
+maybe we'll figure it out on Monday.
+So we'll see.
+Yeah. On Monday. Okay.
+Can I go back to the market makers
+for a second?
+Because this is an area where I think
+people have a lot of questions, but that
+what are the actual obligations
+of market makers on your platform?
+And you talked about how in the beginning,
+you know, maybe you have this really
+esoteric contract
+about throwing rubber objects
+on to basketball courts or whatever it is.
+We don't. Have that. But, you know.
+But that's. The other. Guys.
+Theoretically. Yeah.
+The other player.
+That won the CFC would like to go.
+How do you market
+makers decide what contracts
+to actually support initially, and
+are they obligated to come in and provide
+like for everything?
+No, because well, not everything. No.
+Because like well though
+if well you have fair access
+sort of requirements
+and and a CFC regulations,
+do you have to have rules
+that like basically I generally like,
+accessible by anybody,
+in a certain
+sort of like tranche or two or whatever.
+But like if I'm like make a wants
+to come and trade on Cassie,
+they could do that
+and they have no obligation.
+They can make, they could take,
+they could do whatever they want.
+Generally what happens is like,
+you know, if a market
+maker wants like, okay, but then
+how do you kind of incentivize liquidity?
+Then you could sort of say like,
+okay, maybe you rebate you some fees
+if you basically commit to obligations
+and the obligations,
+the way they look like is
+like if you make on the fed market.
+So that's an actual specific example
+like you put like 75,000 contracts
+up on each side
+within like for 3 to $0.04 spread.
+And you have like 98% availability or so
+you're pretty much there every time we
+we kind of probe, you could, for example,
+get your fees that you pay rebated
+so you don't have to pay.
+So that's kind of like actually
+our most common type of I mean, this is
+pretty much like the market program.
+A lot of them are public.
+And people can sign up to which markets
+they want to participate in.
+So some people sign up to economics,
+some people do politics,
+some people do sports.
+Some people do a combo of what
+a lot of people do.
+Financials.
+And the reason you want that actually
+is because without any sort of structure,
+then no one's going to commit to anything,
+right?
+Like then people will only do it
+when it's like advantageous for them,
+and they won't do it when it's,
+maybe like a novel market where we need
+to kind of bootstrap liquidity and so on.
+So you have to figure out the sort
+of set of incentives,
+especially in the beginning.
+And those over time go down
+as the market goes more and more liquid,
+as you need less and less of them.
+And are the rebates and incentives
+and I guess the information
+is that equal for all the market makers
+on the platform because you also happens.
+In the obligations. Okay.
+So like it's not like a you don't
+do something for like you don't do well.
+So well finish the sentence.
+Well I was going to ask about Katie.
+Yeah. Yeah.
+So people ask a lot about category
+so fully it's fully information
+like we've operated for five years.
+It's fully siloed. Informationally.
+It's like run independently and so on
+and so forth.
+What I can say, like emphatically,
+Katie has absolutely no advantages,
+like in any way, shape or form of other
+market makers or market participants.
+And we've always said that,
+you know, we're
+we don't think of this as a
+flank because it's true. And,
+the CFTC
+audits us and they see the numbers
+and the numbers, you know, are factual.
+They're not the best performing, trader,
+let alone market maker on call sheet,
+by orders of magnitude, like,
+you know, I'll leave it at.
+They're successful
+because they're not that successful.
+They're doing okay.
+I would say like and it's it's fine.
+It they, they, you know,
+try to kind of like push optically
+and some markets are harder
+and so on and so forth.
+And that's a good thing.
+Like otherwise these markets would sort of
+not be there.
+But I'll say for sure is
+they don't have any privileges
+or, you know, benefits
+aside from anybody else.
+Aside from saying aside from
+we have some small teams, 2 or 3 people
+that sign up to market maker programs.
+Some of these teams are actually beating
+all the other market,
+the institutional at including ours,
+institutional usually better than ours.
+But like,
+what we do is like there's like tiers.
+So if you kind of like abide by certain
+conditions, you can get more rebates,
+than if you do lower conditions
+and less rebates.
+And those is accessible
+to anybody that basically would do
+the conditions uniformly.
+One because regulatory wise, we have two
+and then two
+because otherwise, like,
+we wouldn't trust the sort of marketplace.
+So yeah, there's no, no, no.
+Like, we got accused a lot of a lot of
+different things, you know, but like,
+that's normal.
+I mean, there's like a lot of incentives
+and interest there
+on the other side of this equation
+for, for specificity.
+Okay.
+Now sports at the time, it was elections.
+But I think that kind of like
+we let the truth mean revert over time.
+So obviously you have these sort of legacy
+market makers who are now
+participating on your platform.
+You mentioned Susquehanna, etc..
+Have you seen like, I'm very curious about
+whether we'll see legacy institutions
+and use
+become actual sort of like use your market
+for actual hedging purposes.
+Now, I'm
+sure there's some around the election,
+but some of these other things
+like I'm curious, for example,
+do you know other hedge funds
+that might have a particular trade on
+and they want to, hedge
+against the possibility
+of a negative NFP print because they think
+that a bad jobs report is going to bust
+some trade like that is the risk
+or maybe a sort of hot CPI trade, etc..
+Do you see institutions
+using these markets yet
+to actually take hedging
+or positional trades yet?
+So I think that,
+so yes, but it's a kind of a size thing,
+right.
+Like the main
+bottleneck is basically liquidity.
+And it goes back to same question.
+It's like you have to incentivize
+more and more liquidity over time
+so that like, you get the larger size,
+it's like a typical
+I mean, the way I think about
+it is like there's a small prop shops
+and the smaller shops like those are doing
+some and like because you can take
+millions of liquidity on cash, it's
+not that difficult now.
+Depends on the markets and so on.
+But then if you get to sort of the buy
+side firms like the larger.
+Yeah, you know, like you know, where it's
+going to top 1015 on the street.
+1015 hedge funds on the street.
+And then after that, corporations like,
+then you're talking like the minimum
+minimum size,
+like for even to care is eight figures,
+but probably 50 to 100 million.
+And so I don't think the equity is there
+quite yet.
+Like elections start flirting with that
+sort of level and we start we've seen some
+but like the
+we don't see that like it's just a matter
+of time for liquidity to build up.
+Okay.
+For the kind of like deep institutional
+use case to basically start kicking in.
+And I think I see this over the next two,
+three years.
+Like, I think that's going to be
+a very big part of
+it's always been part of the vision
+because you
+you create a marketplace
+where you can price anything.
+You know, what you're doing at that point
+is you're pricing risk, sure pricing.
+Anyways. It's
+sort of happening in the world.
+And then when you price the risk, it's
+much easier to to create the liquidity
+the same way.
+It's easy to create liquidity
+for the option market today.
+That's much higher
+for some esoteric event,
+as there's more and more price benchmarks,
+then you can provide more liquidity.
+And then after that,
+we can basically really cater
+to the sort of institutional risk
+transfer, use case,
+which I think is kind of where
+the time really expands.
+Launcher.
+I mean, I assume in addition
+to talking to regulators, a big
+chunk of your time is spent going out
+and talking to institutional players,
+either on the market making side
+or maybe by side who might one day
+potentially be interested
+in actually using this as a hedge.
+What are those conversations
+actually like?
+You know, you you have this partnership
+with Susquehanna now.
+What are the concerns that they lay out
+when it comes to this new business?
+And what are the sort of I don't,
+I guess, enticements that you offer? So,
+I would say, like right
+now it's a lot more just like learning.
+It's not to say like, hey,
+our approach is much more like,
+let's we learn, we learn,
+and then we figure out how to build
+the right product. And then people come.
+It usually works that way.
+Not sort of like, oh, like sort of come.
+Did Susquehanna did they approach you
+that?
+We have it.
+It took a while.
+I mean, like we had a relationship,
+like we kind of when we started like
+thinking about the company.
+And this is where an issue with like
+a lot of the sort of institutional players
+and like the market makers
+and I mean, I like to say that before and,
+but like,
+I don't know if like we have,
+but I mean, we just had a relationship
+when we started talking and,
+you know, they see division like so
+Susquehanna really believes
+I mean, Jeff, yes.
+Really believes in the vision
+of sort of like this idea of like
+have some skin in the game to forecast
+any, any question about the future
+instead of debating about it.
+And he's always like prediction market.
+So there's a little bit of a natural
+fit there.
+But but like going back
+to the kind of institutional like
+what we learned is like
+it's there, right?
+A lot of them, whether they price these
+specific events like NFP specifically,
+or like a CEO or leaving a company
+specifically or they're worried about it,
+like even if they don't price it
+specifically, but they're sort of like,
+this is something that I'm worried
+about on my thesis.
+Like, I have a thesis,
+but these are some of the external factors
+that could, like,
+screw it up. That's a real thing.
+And like they would use it for hedging.
+And I think the requirements of it's like,
+okay,
+some of them that are like
+sort of like compliance, regulatory like,
+you know what, you have a clearinghouse
+regulated, all that kind of usual stuff.
+But then there's liquidity.
+Like how much size can I take for it to be
+worth it for me to kind of allocate a desk
+and, you know, put resources into it.
+And then the second one is like margins,
+which like, you know, today
+it's fully cash collateralized on couches.
+So if you want to trade
+$100, you have to put it up.
+That's very difficult for like you say,
+Citadel.
+Well. Yeah.
+I was going to ask actually,
+do you anticipate on the roadmap
+sort of beside traders
+when there is perhaps if it happens,
+sufficient liquidity,
+will they be trading on Kelce
+or will it be something
+they trade through their prime broker
+or their futures broker.
+Whose would you like.
+Are you in talks with the brokers.
+Yeah same exact sort of like I mean said
+like what do you need basically like
+and how does it work.
+But yes, I mean the prime brokerages
+are, are very important, because like,
+you get,
+you basically get
+like they have the full portfolio
+so you can get a bunch of margin benefits
+if you kind of
+do it all with one prime broker.
+And that's why usually prime brokers
+are the gateway into financial markets.
+Yeah.
+And the same way as our broker strategy
+for retail, right.
+Like what the Robinhood
+and people on some of the other brokers.
+Right.
+It's very similar actually, because you
+have your portfolio with the prime broker.
+And then like as you're thinking about
+a portfolio is like,
+hey, I could add on a hedge
+and it's much easier for me to do it
+through my prime broker
+than do it on a separate platform.
+But by the way, it's pretty crazy.
+If you go to the App Store
+and you just like, look at Robinhood, it's
+the first thing is like the foot,
+but the image of the football, right?
+Yeah.
+Because they're trading through you
+anyway.
+Just an interesting
+cultural on that point.
+I mean, there is a social utility question
+here, right?
+Like if I download Robinhood okay.
+Yes, I could get into 0 or 1 day options
+and we can talk about
+the social utility there.
+But maybe I'm going to invest in an actual
+stock that generates some income.
+But now I'm seeing ads for football
+and sports betting.
+And I don't know, I'm sure there are
+some old fashioned people out there
+potentially like me, who would say,
+who would say like, what does this do?
+What's the value.
+Thing that, do you think that sports like,
+let's even forget about like.
+I mean, first of all,
+I don't like sports. But.
+Well, I mean, but, like, you know, I mean,
+a lot of people love sports, right?
+I mean, like, you know,
+I don't know, I think that, like,
+my general view with these things,
+I mean, I'm a free market person, like.
+Sure.
+Building a company
+where the name is, you know,
+we want to have markets for everything.
+So, so,
+I'm much more in the camp of, like,
+you know, you figure out what people want
+to do and figure out how to do it
+in a safe, equitable and fair manner.
+Like,
+you know, make sure that like it's it's
+done with fair rules of the road
+for everybody to participate.
+And they want to get smart
+and do their own research.
+And if they don't, that's on them.
+And they figure it out and,
+and add some sort of checks and balances,
+around it to make sure it's safe
+and there's customer protection and,
+but it's you that like I'm
+a strong believer that, you know,
+sort of
+the job of regulators should not be,
+dictating what people should do
+with their money, or their lives.
+Like, I'm, I'm a very, very strong,
+like, staunch opponent of that
+sort of view
+of what a regulator should do.
+And I think that's fits there.
+I mean, in some ways maybe that's like,
+like if you look at Robinhood, like
+there's all these choices now and like
+it's a bit weird to me
+that like the decision
+here is, is sort of like,
+don't let them make the choice.
+Like if they want to invest in gray,
+then if they want to do football,
+then also great.
+I mean and decisions.
+That feels weird to me,
+which is like hide that option
+because the 50 year old
+or 30 year old man that's on Robinhood
+needs me to figure
+out what, what to do with their money.
+Right. Like and so that to me,
+that was always felt weird to me.
+And I think that's where financial
+regulation has sort of like gone too far.
+And the I don't even call it regulation.
+I'm, I'm very pro regulation.
+And we chose to be regulated upfront.
+Right, right, right.
+So but it's sort of like I would say
+like I would say,
+I mean, people are like, what, law fair.
+But whatever.
+Like the financial regulators,
+I think I've taken it too far
+and that in that dimension.
+So, as we've mentioned, a couple of times,
+there's this big,
+meeting in DC next week.
+There's going to be a roundtable,
+incidentally.
+So Tracy mentioned it, earlier
+in the day, we,
+interviewed Terry Duffy for an episode,
+and that'll be out in a couple of weeks.
+And I guess you haven't met.
+He said you've never met, but
+I guess you're going to meet on, Monday.
+But what, like what should we ask?
+Tarik and he said,
+I think if I'm getting this right,
+he said that Robin or that Kelsey
+characterized itself as CFTC approved.
+And he says it's not that.
+It's instead not CFTC ban that actually,
+because it's the self listing.
+Yeah.
+Are you CFTC approved and or is it just
+that the CFTC has not said no.
+Let's
+factually incorrect I mean I don't know.
+You know, it's like I mean,
+which I am based out of meaning tag.
+I mean, there is legend, but like,
+Well,
+we got a license and then a second one.
+Okay, exchange
+and then the clearinghouse. I mean.
+And then the and then the broker license.
+So the exchange was like in 2020
+and the and the clearing house 2024.
+And then the broker one was in, 2025.
+There's all approvals.
+I mean, it's not like, you know.
+But for instance, the individual contracts
+that go up to the CFTC
+are those each getting approved?
+Well, they just are.
+Not actually disapproved.
+Right. Like and we had to sue over it.
+And it was a
+and we were clearly right on the law
+given that we won the district
+and then the and and the appeals court.
+So, maybe there's like a
+separate dimension here,
+which is also the regulation,
+not always rights, but, you know, sure,
+there's a whole other thing there.
+But but
+self-certification is, is, is a regime
+which, by the way,
+CME is also operated within.
+And they, you know, so from a from
+that specific perspective for each market.
+Yes. It's
+not that every market goes through
+as a prospectus like in the SEC
+and then gets approved.
+It's actually like a disapproval regime.
+Yeah.
+But the CFTC has authority to say things
+and it's a very broad authority.
+Right. So,
+maybe it's a good question on the CFTC
+because, you know,
+I can't speak on their behalf.
+But. Oh, you can ask them on Monday.
+Yeah. We got to be on that table, but,
+you know.
+Oh, what is the,
+What are we talking safety all the time?
+But yeah.
+So, you know, obviously,
+Poly Market is a major competitor to
+what do you see as, like,
+what's your vision
+for what is traded on chain
+and what are like, could you imagine?
+You know, we just talked to Don. He said
+he could see
+in five years almost everything
+being on chain.
+Like, do you see that.
+Yeah, maybe.
+I mean well it's interesting
+because poly now is
+so there's kind of the on chain strategy
+and then the kind of what we did,
+the regulated, you know. Yeah.
+Normal clearinghouse
+like private clearinghouse strategy.
+And like, now what they're doing is sort
+of they're pivoting to ours, basically.
+That's, that's
+and so our view jelly is like, well,
+it's a pretty positive sign
+for our strategy.
+Probably. Right.
+Because, you know,
+But but even setting aside.
+Companies like for you, to me,
+it's a regulated like front.
+It's more. Sure.
+So so okay, there are a lot of benefits.
+I really believe that.
+And I think the. The
+to being to understand.
+Okay. Yeah. Because like,
+one of the ones that I'm less interesting
+is sort of like skirting regulation
+like that.
+But, but but I think that like there's
+a number of things which is like
+my mental model for it is, is a bit like,
+you know,
+the banking rails are set up
+in the kind of early 20th century.
+It's like JP Morgan,
+a bunch of his friends are like, hey,
+how do we dominate this whole thing?
+And you know, they set up a bunch of regs
+and then they close the door behind them.
+And that was sort of that.
+And there's a bunch
+more complexity to that.
+But to me it this sort of whole on chain
+thing is a is imagine a bit like having
+given
+that problem to a bunch of smart like,
+like hard working,
+developers without any limits
+and let them build.
+Right.
+And obviously that's going to be
+there's a lot of good
+that's going to come out of that,
+and then there's going to be some bad that
+comes out, comes out of that, obviously.
+But like to me is like, well, there's
+a lot of liquidity on on chain today.
+So that's
+that's something that we should access.
+And some point to
+I think the clearing side,
+there's a lot of benefits, for, you know,
+how like you have to do innovation
+and you have to do,
+immutable immutability
+and you that right now we do it from a
+like operational legal perspective.
+And obviously there's some tech, but,
+you know,
+launching really helps with that.
+That's like basically
+what it's designed to do.
+And so
+over time, like, I think, I hope
+as sort of regulators get more permissive,
+like I see some parts of clearing going on
+chain where, you know, it enables
+some of these use cases
+and also more transparency, like the,
+the trades and the transactions
+are all transparent for everybody to see.
+And then people can build interesting
+like UI and interesting projects on top
+without us having to sort of this whole
+permission list sort of concept.
+And so I'm very bullish on it.
+I do agree with Don, actually,
+that like over the next 4 or 5 years
+in economies
+like Robinhood, like companies
+like a lot of companies are leaning in,
+I think, while cash is also leaning in.
+So pretty excited about it.
+So obviously the trajectory
+of your business has changed enormously
+just over the past year,
+less than a year, really.
+If you were
+thinking about it now, today,
+as we sit here, what's the biggest,
+I guess, blockage to further growth
+for calculating.
+You know, right now.
+So the question
+I haven't been really thinking about
+is when it's growing so much right now,
+it's like all about like how do we like,
+not break basically because like,
+I mean, honestly, like we grew way
+more than we could have possibly imagine
+even in the most bullish scenarios.
+Even post winning the election lawsuit,
+like even like December 2024.
+What, like a forecast for 2025?
+Like it was, it was nowhere near
+what it what it is today. So
+and it's interesting because we're not
+it feels like we're sort of like
+halfway through, like there's
+still just the current structure.
+I think we're not even halfway through.
+Like we have more brokers.
+So like we have a very deep
+pipeline of brokers. So that's great.
+And more sports, I think it's
+the frontier is the SEC thing.
+So I think it's like more markets like
+and I think we have a lot of what we want.
+I think over time is like
+how do we start doing company related,
+prediction markets?
+And we're very excited about that.
+I just have one last question,
+and it's kind of a softball.
+But like after years of fighting
+all these different battles,
+regulatory battles, issues with states,
+etc., like how good does it feel?
+It must feel really good
+to actually kind of know
+that the business is real
+and have these battles.
+Yeah. I mean, like just like describe
+that feeling.
+It's weird because I don't know if I feel
+that would try to this year
+than last year.
+I mean, Logan, I only saw the company
+we really build a company around.
+I love this book.
+So have you ever read the book
+like discord takes care of itself?
+I don't think.
+It's a great book,
+but like, like everything, honestly, like,
+I really it's just
+all right now, you know, like,
+So John Warren was sort of basketball
+coach, like most legendary it I mean,
+the whole thing was always about, like,
+never mentioned winning about chain.
+The team is like,
+focus on the process and like day
+in, day out, like just fall in love
+with trading and like,
+if you do, you just start winning.
+And like I would say a few things.
+I see these things.
+I sort of there's good times and bad times
+for all companies.
+And so yes, right now
+we're having a pretty great time.
+Like as good
+as it gets for, for a company.
+But I don't feel that different.
+I think it's just like solutions
+bring new problems
+and like you,
+then you focus on the new problems.
+It must be so much, you know,
+go to work on building rather than.
+Pretty good at winning the election
+lawsuit like that one, because we were so
+there was some pretty big time vindication
+there.
+Like, I think we were,
+you know,
+because imagine like in 2020, like
+three going up to our board, you know,
+like Sequoia and a bunch of others.
+It's like, hey, like, yeah,
+we're not really figuring this out.
+It's been two years of like,
+you know, pouring money
+into this and like,
+you know, and nothing is working.
+We lost half our team over it.
+And like, company might die.
+And actually what we're going to do is
+to a triple down and sue a regulator now.
+So it's you know that was a
+they looked at us.
+They're like
+well that that that doesn't feel right.
+You know like
+and we still went through with it
+and like it ended up
+being absolutely the right decision.
+So that I think maybe like October 7th,
+the day we won the election loss,
+it was probably the day I felt happiest.
+What did you do
+when the CFTC dropped the lawsuit?
+That was not that important.
+It was the one where we the appeals were.
+You actually got.
+This? Yeah.
+Yeah, that was important because,
+Well, I first screamed a lot and like,
+we just, like, all the face in the office
+and, like, you know,
+you know, it was amazing.
+But then, you know,
+then we got back to work
+because you got to see me anxious about,
+like, you know, launching the thing.
+Yeah.
+That was a brutal
+three weeks because we had to ramp up
+really aggressively, and and,
+I mean, we really went from, like,
+we really grew 100 eggs overnight.
+Like, it was. It was crazy.
+And so
+that was three weeks that I wrote
+the hardest in my entire life.
+It was it was
+I was sleeping in the office, like, I,
+you know, I was like,
+I was given this chance.
+Like, we have to basically like,
+you know, utilize it to the fullest.
+And it was. And we didn't charge
+fees on the election market.
+I don't know if you knew
+that it was intentional decision
+because like the most,
+the KPI here is we got to show the world
+that these markets work.
+Yeah.
+And it's done safely
+and nothing bad is going to happen
+and democracy is going to be totally fine.
+And actually and you'll see
+we're announcing a few things
+with some some big news organizations
+pretty soon what you'll see the shift
+that's happened in culture
+where like the level of embracing
+that's happening with predation,
+like it's now, it's
+that's that's pretty nice to see this guy.
+Plus South. Park.
+And South. Park. Yeah.
+Turkmen. Sure.
+Thank you so much for,
+coming to all of us.
+Like, this is a lot of
+fun. Thank you so much, guys.
+But that's fine.
+Thank you.
+That's, that was our conversation
+with Tarek Mansour,
+recorded live on stage in Chicago.
+Thanks for watching. Shall we leave it
+there? Let's leave it there.
+All right.
+This has been another episode
+of the All Thoughts podcast.
+I'm Tracy Alloway.
+You can follow me at Tracy.
+Alloway and I'm Joe Weisenthal.
+You can follow me at the stalwart.
+And if you enjoyed this conversation
+then please like and subscribe
+or leave a comment down below.
+Thanks for watching.
+To be.

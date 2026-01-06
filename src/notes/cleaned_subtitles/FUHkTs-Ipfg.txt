@@ -1,0 +1,558 @@
+- In 1982, there was one SAT question
+that every single student got wrong.
+Here it is.
+In the figure above,
+the radius of circle A is
+1/3 the radius of circle B.
+Starting from the position
+shown in the figure,
+circle A rolls around circle B.
+At the end of how many
+revolutions of circle A
+will the center
+of the circle first
+reach its starting point.
+Is it A, 3/2, B, three, C, six,
+D, 9/2, or E, nine?
+SAT Questions are designed to be quick.
+This exam gave students 30
+minutes to solve 25 problems,
+so about a minute each.
+So feel free to pause the
+video here and try to solve it.
+What is your answer?
+I'll tell you right now that option B,
+or three, is not correct.
+When I first saw this problem,
+my intuitive answer was B,
+because the circumference of
+a circle is just two pi r,
+and since the radius of
+circle B is three times
+the radius of circle A,
+the circumference of circle
+B must also be three times
+the circumference of circle A.
+So logically, it should
+take three full rotations
+of circle A to roll around circle B.
+So my answer was three.
+This is wrong, but so are
+answers A, C, D, and E.
+The reason no one got question 17 correct
+is that the test writers
+themselves got it wrong.
+They also thought the answer was three.
+So the actual correct
+answer was not listed
+as an option on the test.
+Mistakes like this aren't
+supposed to happen on the SAT.
+For decades, it was the one
+exam every student had to take
+to go to college in the US.
+It had a reputation
+for determining people's entire futures.
+As a newspaper from the time stated,
+"If you mess up on your SAT
+tests, you can forget it.
+Your life as a productive citizen is over.
+Hang it up, son."
+Of 300,000 test takers,
+just three students wrote about the error
+to the College Board, the
+company that administers the SAT,
+Shivan Kartha, Bruce
+Taub, and Doug Jungreis.
+- I did a lot of math
+problems when I was young
+for the competitions.
+I probably did thousands of
+math problems and I read it
+and I was amazed how badly it's worded.
+I just put three down. I
+figured that's what they wanted.
+- The three
+students were confident none
+of the listed answers were correct,
+and their letters showed it.
+As a director at the
+testing service recalled,
+they didn't say they had come up
+with possible alternative answers
+or that maybe we were wrong.
+They said flat out, "You're
+wrong," and they proved it.
+- I discussed it with some
+other people and said,
+I think there was a mistake,
+and they mostly said,
+"No one cares."
+I wrote a letter to the
+Educational Testing Service.
+It was a little while later they called us
+and said I was correct.
+- Here is their argument.
+The simplest version of this problem
+is with two identical coins.
+These have the exact same circumference.
+So by our initial logic,
+this coin should rotate exactly once
+as it rolls around the other.
+So let's try it.
+Okay.
+But wait, we can see it's
+already right side up
+at the halfway point.
+So if we finish rolling
+it around the other coin,
+it'll have rotated not once, but twice.
+Even though the coins
+are the exact same size
+There are no tricks here,
+you can try it for yourself,
+and I'll do it again slowly.
+That's one,
+two.
+This is known as the
+coin rotation paradox.
+This paradox also applies to question 17.
+I've made a to scale model of the problem.
+One useful tip for standardized tests,
+even though they say their
+images are not to scale,
+they almost always are.
+So when we roll circle A around circle B,
+we can see that it rotates once, twice,
+three times, and four times in total.
+So the correct answer to this
+question is actually four.
+Once again, the circle
+rotates one more time
+than we expected.
+To understand this,
+let's wrap this larger
+circle in some ribbon
+And I'll make it the same
+length as the circumference,
+and then I will stick it down to the table
+as a straight line.
+I'm adding some paper here
+so there's something for this to roll on.
+And now it rolls one, two, three times.
+What's happening when we
+turn this straight path
+into a circular one is that
+circle A is now rolling
+the length of the circumference
+and it's going around a circle.
+The shape of the circular path itself
+makes circle A do an additional rotation
+to return to its starting point.
+So this is the general
+solution to the problem.
+Find the ratio between the
+circumferences of circle B
+and circle A and then add one rotation
+to account for the circular path traveled.
+But there is a way to correctly get three.
+Let's count the rotations of circle A
+from the perspective of
+circle B looking out at A.
+We can see circle A rotates one, two,
+three times.
+And it doesn't matter which
+circle you are looking from,
+to circle A, it also rotates three times
+to come back to its starting
+position around circle B.
+Similarly, from the
+perspective of the coins,
+we can see that the outer
+coin only rotates once
+as it rolls around the inner coin.
+Using the perspective of a circle
+is just like turning the
+circle's circumference
+into a straight line.
+It's only as external observers
+that we actually see
+the outer circle travel
+a circular path back
+to its starting point,
+giving us the one extra rotation.
+But there's even another answer.
+If you look closely at question 17,
+it asks how many
+revolutions circle A makes
+as it rolls around circle B
+back to its starting point.
+Now, in astronomy,
+the definition of a revolution is precise.
+It's a complete orbit around another body.
+The earth revolves around the sun,
+which is different from it
+rotating about its axis.
+So by the astronomical
+definition of a revolution,
+circle A only revolves
+around circle B once.
+It goes around one time.
+Now, other definitions of a
+revolution do include the motion
+of an object rotating about its own axis.
+So one isn't a definitive answer,
+but the wording of this
+question is extremely ambiguous
+if you can justify at least
+three different solutions.
+After reviewing the
+letters from the students,
+the College Board publicly
+admitted their mistake
+a few weeks later and
+nullified the question
+for all test takers.
+- They said they were
+discounting the problem
+and they were calling us
+because they were gonna tell the news
+and they thought that we should be warned
+that the news might contact us.
+I did a bunch of phone
+interviews and NBC News,
+they came to my school.
+They said I was right and
+they were discounting it.
+So that was great.
+- But there's
+more to the explanation.
+- It's easy to get an intuitive reason,
+but it's really hard to formally prove
+that the answer is four.
+I could give you some proofs if you want.
+- Well, that would be wonderful.
+I think that would be, we'd
+appreciate that for sure.
+- I have a whiteboard
+because I'm a mathematician,
+so I just happen to
+have a whiteboard here.
+Hold on.
+Can you see that?
+- Yep.
+- It turns out that the amount
+the small circle rotates
+is always the same as the
+distance the center travels.
+All right, so why is this true?
+Suppose you had a camera
+and the camera was always
+pointed at the center.
+So in your movie, it looks
+like the center doesn't move.
+In the real world,
+the center is going around the circle.
+Let's say it's going at some speed V.
+What's the velocity of this point?
+It's zero, and that's because
+it's rolling without slipping.
+If it had any component in that direction,
+that's what slipping would be.
+I mean, this is something I think they
+should have spelled out in the problem,
+but when you change
+your frame of reference,
+the relative velocities don't change.
+In the movee, the center
+always has velocity zero.
+So this point would have to
+have velocity negative V.
+So that means the speed
+that this is turning
+is the same as the speed
+the center is moving.
+So if they always have the same speed,
+they have to go the same total distance.
+The total distance this
+turns has to be the same
+as the total distance the center moves.
+In this problem,
+the center of the small
+circle goes around a circle
+of radius four.
+So the total distance that
+the center moves is eight pi.
+What's the total amount that
+the small circle rotates?
+It rotates four times, and
+its circumference is two pi.
+It's the same number.
+If it rolls without slipping,
+the total distance the
+center travels is the same
+as the total amount it turns.
+- And this is always true.
+Take a circle rolling without
+slipping on any surface
+from a polygon to a blob, on
+the outside or the inside,
+the distance traveled by
+the center of the circle
+is equal to the amount
+the circle has rotated.
+So, just find this distance
+and divide it by the circle circumference
+to get how many rotations it's made.
+This is an even more general
+solution than our answer
+to the coin paradox where we
+just took our expected answer,
+which we'll call N, and added one,
+and it reveals where
+this shortcut comes from.
+If a circle is rolling
+continuously around a shape,
+the circle center goes around the outside,
+increasing its distance traveled
+by exactly one circumference of the circle
+so the distance traveled
+by the circle center
+is just the perimeter of the shape
+plus the circle's circumference.
+When we ultimately divide this
+by the circle circumference
+to get the total number of
+rotations, we get N plus one.
+If a circle is rolling
+continuously within a shape,
+the distance travel by the
+circle center decreases
+by one circumference of the circle,
+making the total number
+of rotations N minus one.
+If the circle is rolling
+along a flat line,
+the distance travel by the circle center
+is equal to the length of the line which,
+divided by the circle
+circumference, is just N.
+This general principle extends far beyond
+a mathematical fun fact.
+In fact, it's essential in astronomy
+for accurate timekeeping.
+When we count 365 days going by in a year,
+365.24, to be precise,
+we say we're just counting
+how many rotations
+the earth makes in one
+orbit around the sun.
+But it's not that simple.
+All this counting is
+done from the perspective
+of you on earth.
+To an external observer,
+they'll see the earth
+do one extra rotation
+to account for its circular
+path around the sun.
+So while we count 365.24 days in a year,
+they count 366.24 days in a year.
+This is called a Sidereal year,
+Sidereal meaning with respect to the stars
+where an external observer would be.
+But what happens to that one extra day?
+A normal solar day is
+the time it takes the sun
+to be directly above you again on earth.
+But the earth isn't just rotating,
+it's orbiting the sun at the same time.
+So in a 24-hour solar day,
+earth actually has to
+rotate more than 360 degrees
+in order to bring the sun
+directly overhead again.
+But Earth's orbit is
+negligible to distant stars.
+To see a star directly overhead again,
+Earth just needs to rotate
+exactly 360 degrees.
+So while it takes the sun exactly 24 hours
+to be directly above you again,
+a star at night takes
+only 23 hours, 56 minutes,
+and four seconds to be above you again.
+That's a Sidereal day.
+This explains where the extra
+day goes in the Sidereal year.
+If we start a solar day
+and a Sidereal day at the same time,
+we'd see them slowly
+diverge throughout the year.
+After six months,
+the Sidereal day would be 12
+hours ahead of the solar day,
+meaning that noon would be midnight,
+and it would keep moving up
+until it's finally one full
+day ahead of the solar day,
+at which point a new
+year and orbit begins.
+365.24 days that are each 24 hours long
+are equal to 366.24 days
+that are each 23 hours,
+56 minutes, and four seconds long.
+So it makes no sense to
+use Sidereal time on earth,
+because six months down the line,
+day and night would be completely swapped.
+But equally, it's
+useless to use solar time
+while tracking objects in space,
+because the region you're
+observing would shift between say,
+10:00 PM one night and
+10:00 PM the next night.
+So instead, astronomers use Sidereal time
+for their telescopes to
+ensure that they're looking
+at the same region of space each night.
+And all geostationary satellites,
+like those used for
+communication or navigation,
+they use Sidereal time
+to keep their orbits locked
+with the Earth's rotation.
+So the coin paradox actually
+explains the difference
+between how we track time on earth
+and how we track time in the universe.
+The rescoring of the 1982
+SAT wasn't all good news.
+With question 17 scrapped,
+students' scores were scaled without it,
+moving their final result up or down
+by 10 points out of 800.
+Now, while that doesn't seem like much,
+some universities and scholarships
+use strict minimum test score cutoffs.
+And as one admissions expert
+put it, "There are instances,
+even if we do not consider them justified,
+in which 10 points can have an impact
+on a person's educational opportunities.
+It might not keep someone
+out of law school,
+but it might affect which
+one he could go to."
+This mistake didn't only
+cost points off the exam.
+According to the testing service,
+"Rescoring would cost them over $100,000,
+money that came outta the
+pockets of test takers.
+The question 17 circle problem
+was far from the last error
+on the SAT.
+But errors are likely
+the least of their concerns these days.
+I mean, the SAT is slowly
+becoming a thing of the past.
+After COVID-19, nearly 80%
+of undergraduate colleges
+in the US no longer require
+any standardized testing.
+And that 1982 exam, well,
+it didn't turn out too badly for some.
+How did you do on your
+math SAT, if I can ask?
+- I got an 800.
+Even before that, it was clear
+I was gonna go into math.
+I did math competitions.
+I really liked math.
+- Do you end up writing any
+math questions these days?
+- A while back I wrote problems
+for a math competition.
+- And were you careful with how
+you wrote them, the wording?
+- I hope so. I tried
+- Today's deep dive on
+one SAT question proves
+there's no substitute for
+hands-on exploration to understand
+and appreciate the everyday
+phenomena of our world.
+But you don't have to
+observe earth from space,
+or make cardboard cutouts
+to get hands-on with math,
+science, and cutting edge tech.
+In fact, you can do it
+from anywhere right now
+with this video sponsor, Brilliant,
+and you can get started for free.
+Just go to brilliant.org/veritasium.
+Brilliant will make you a better thinker
+and problem solver in
+everything from science to math,
+data programming, technology, you name it.
+Just set your goal and
+Brilliant will design a path
+to get you there.
+If you liked today's video,
+I highly recommend you check
+out one of my favorite courses
+on Brilliant, which is
+Scientific Thinking.
+Scientific Thinking takes
+you on an interactive tour
+of our physical world.
+You'll engage with key
+scientific principles
+and theories from simple
+machines like gears and pulleys
+to Einstein's special
+theory of relativity.
+Whether you're comparing circuits
+to understand voltage and current,
+playing snooker to learn
+the rules of collisions,
+or even planning your itinerary
+for an intergalactic music
+festival on a space time diagram,
+you will learn by doing
+and foster a deep understanding
+without getting bogged down
+in heavy mathematical formulas.
+They even have a version
+of the coin paradox.
+And by the end,
+this course will change
+how you think about
+the world around you.
+Beyond science, Brilliant
+has a massive library
+of content in math, data science,
+programming, and technology,
+all with that same hands-on approach
+that makes concepts
+incredibly easy to understand.
+And the best part is you can
+learn with Brilliant on the go.
+It's like having interactive
+versions of our videos
+in your pocket.
+To try everything Brilliant
+has to offer for free
+for 30 days, just visit
+brilliant.org/veritasium.
+I will put that link
+down in the description.
+And the first 200 of you
+will get 20% off Brilliant's
+annual premium subscription.
+So I wanna thank brilliant
+for sponsoring this video
+and I want to thank you for watching.

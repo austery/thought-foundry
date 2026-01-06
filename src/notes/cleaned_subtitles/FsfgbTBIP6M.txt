@@ -1,0 +1,483 @@
+For decades, a clear promise defined the 
+aspirations of young adults worldwide. If  
+you went to university—even if you accumulated 
+some debt—you got a ticket to the middle class.  
+That ticket guaranteed a white-collar job 
+and a salary premium over non-graduates. It  
+also paved the way to homeownership.
+That promise has been broken – the  
+golden ticket turned out to just be 
+a coupon for 10% off a student loan.
+ 
+We are witnessing a rare economic shift. A growing 
+economy usually rewards the effort taken to get  
+an education. Yet today, the economy has been 
+expanding while the door for graduate employment  
+has been closing. In May 2024, Oxford Economics 
+reported a statistic that defines this new era.  
+For the first time in 45 years, the unemployment 
+rate for recent university graduates in the  
+United States exceeded the national average. 
+Now while this is not great - it is by no  
+means a disaster - as US unemployment - while 
+rising is still hovering near all-time lows.
+ 
+This inversion is partly a story of supply. In 
+1960, only about 5 percent of young people in  
+the UK went to university. By 2007, that figure 
+had risen to 43 percent. The United States saw a  
+similar trajectory, with the share of adults 
+holding a degree jumping from 7.7 percent in  
+1960 to nearly 38 percent in 2023. The degree - 
+which was once a rare signal of elite capability,  
+has become a baseline expectation. As scarcity 
+disappeared, so did the pay premium. 
+ 
+It is not just the number of graduates 
+that have been growing either, there  
+has been grade inflation too. In the UK, for 
+example - the proportion of students awarded  
+a First-Class degree went from 7 percent 
+in the mid-90s to 26 percent today. The  
+problem with grade inflation like this is 
+that - if everyone is special, no one is.
+ 
+In September 2025, unemployment among 
+20–24-year-olds in the United States hit 9.2  
+percent, rising sharply from 7 percent a year 
+earlier. Broader data from Bloomberg reveals that  
+Americans with four-year degrees now account for 
+more than 25 percent of all unemployed workers.  
+This ratio has climbed to an all-time high, 
+surpassing even the temporary peak reached  
+during the pandemic layoffs of March 2020.
+The crisis can be seen in the frantic activity  
+required to just stand still. According to High 
+Fliers Research, final-year students in the UK now  
+make an average of 21.7 job applications each. 
+This nearly doubles the number of applications  
+made just two years ago in 2023 - yet success 
+rates have plummeted to their lowest levels in  
+three decades. Only 27 percent of UK final-year 
+students had a job lined up by February 2025,  
+down from 33 percent two years earlier. Graduate 
+job postings have plummeted in key sectors:  
+falling 78 percent in human resources, 46 percent 
+in marketing, and 42 percent in accounting.  
+While this is happening - the supply of 
+graduates keeps rising, with over 465,000  
+finishing their first degree in the UK last year.
+John Burn-Murdoch, the chief data reporter at the  
+FT, highlights that the most striking feature 
+of this new landscape is the gendered nature  
+of the divide. The collapse in graduate 
+hiring has hit young men the hardest.
+ 
+Detailed employment data from the US reveals that 
+the unemployment rate for recent male graduates  
+has jumped from under 5 percent to 7 percent over 
+the last year. For female graduates, the rate  
+remains unchanged. Women gained 135,000 jobs last 
+year, including nearly 50,000 in healthcare alone.  
+Men cluster in fields like tech and finance. 
+These sectors have been purging entry-level  
+roles after pandemic-era hiring binges. They 
+are also aggressively embracing automation.  
+Large Language Models now perform tasks young men 
+were once hired to do, such as writing basic code,  
+analyzing spreadsheets, and managing data. 
+Bloomberg reported last month that OpenAI had  
+hired more than 100 ex-investment bankers to 
+train its AI on how to build financial models  
+as it looks to replace the hours of grunt work 
+performed by junior bankers across the industry.
+ 
+Before I get to that, let me tell 
+you about today's video sponsor,  
+Shokz. I've been using Shokz headphones for more 
+than two years, and I really love them. Shocks has  
+been a pioneer in openear headphone technology, 
+making headphones that allow you to listen to  
+music without blocking your ears, meaning that you 
+can stay aware of your surroundings when out and  
+about. They provide authentic and natural sound 
+with immersive Dolby audio, which can be switched  
+on using the app. The Shokz open dots are one of 
+the most comfortable headphones I've ever worn.  
+There's none of the irritation you get with 
+in-ear headphones as they just wrap around  
+your ear and hold on securely. I wear them while 
+at work, while commuting, and even while running,  
+and they haven't fallen off once. They sound 
+great. They pair with my phone, my computer,  
+and the entertainment devices on airplanes in 
+seconds. They have 10 hours of battery life and  
+with the slim charging case, they'll last up to 40 
+hours before you need to plug them in. They make  
+an amazing Christmas gift, too. Go to Shokz.com 
+to get 30% off on Open Dots 1, plus an additional  
+5% off using my code patrick30. And there's a 
+limited buy 1 get one free quota available.
+ 
+There is some good news that hiring in tech is not 
+as bad as it was a year ago. A viewer sent me this  
+Instagram post during the week of a guy with a 
+double major from Stanford in mathematics and  
+computer science finding a job as a professional 
+basketball player – so there are jobs out there...  
+While tech hiring in general remains sluggish—down 
+roughly 20 percent from pre-pandemic levels  
+according to LinkedIn— there has been some bounce 
+back and specific, high-skill areas are showing  
+growth. Demand for AI developers and cybersecurity 
+specialists is stabilizing. The market now  
+prioritizes precision over volume. Companies 
+are recruiting smaller, specialized teams that  
+combine technical expertise with business acumen.
+Women – who have not been as hard hit - dominate  
+sectors that remain stubbornly human. Healthcare 
+alone added more jobs for young female graduates  
+last year than all other sectors combined added 
+for men. An aging population requires care,  
+and automation struggles with 
+this type of task. Consequently,  
+the advice for the next generation is to pay 
+attention to demographics so that you can be  
+ahead of the big trends shaping the workplace.
+On the job training - has long depended on  
+repetitive work. Junior lawyers spent their 
+first few years reviewing thousands of pages  
+of contracts while accountants checked audit 
+logs. Junior investment bankers spent years  
+building excel models and PowerPoint slideshows 
+for pitches. This work – while tedious - served  
+a critical function. By grinding through this 
+repetitive work for years – juniors both proved  
+themselves and learned how to do their job well.
+Artificial Intelligence has started to sever this  
+link. According to the FT, at Simmons & Simmons, 
+- a UK based international law firm - a custom  
+AI tool named "Percy" now handles document 
+review and legal summarization. Presumably,  
+the first thing Percy worked out was how to 
+make a font size small enough so the disclaimer  
+doesn’t seem longer than the document and the 
+second was 'How to bill 26 hours in a 24-hour  
+day. Percy’s already partner material.
+Some of the basic tasks that AI is being  
+used for at law firms once taught “the trade” 
+to fleets of trainee lawyers. Juniors have now  
+begun evolving from "doers" generating first 
+drafts into "checkers" verifying AI output.  
+But verifying the soundness of a contract 
+or the security of a piece of code requires  
+judgment – and the problem is that fresh graduates 
+rarely possess this skill. Discernment requires  
+experience – but companies are increasingly 
+reluctant to provide that experience.
+ 
+This technological shift towards AI has started 
+breaking the hiring process too. Generative AI  
+allows applicants to spam hundreds of custom cover 
+letters and resumes out to hiring firms with a  
+single click. The Economist describes how a good 
+cover letter - used to help distinguish between  
+high- and low-quality applicants. Employers - 
+now flooded with indistinguishable applications,  
+struggle to differentiate between candidates. 
+This creates a classic "lemons problem," a concept  
+introduced by the economist George Akerlof in 
+1970. In Akerlof’s model, when buyers can’t  
+distinguish between high-quality goods (or 
+peaches) and low-quality goods (lemons – a  
+slang term in America for a car that’s found 
+to be defective after it has been bought.),  
+their fear of buying a lemon drives 
+down the price they are willing to pay.  
+This drives sellers of high-quality goods 
+out of the market, leaving only lemons.
+ 
+In the graduate job market, the "goods" are 
+job applications. When employers are flooded  
+with thousands of AI-generated, indistinguishable 
+cover letters, they lose the ability to identify  
+the high-quality candidates who invested time 
+and effort. The signal is drowned out by noise.  
+Just as buyers in Akerlof's market stopped 
+buying used cars, employers are stopping the  
+open hiring process. They retreat to 
+offline networks and nepotism to find  
+people they feel they can trust. The issue 
+is that if everyone sounds perfect on paper,  
+the only signal left is a personal introduction.
+New technology is just one factor compounding the  
+pressure on young job seekers. It joins a perfect 
+storm of macroeconomic forces that make novice  
+employees - a potential financial liability. 
+Firms are dealing with constantly changing  
+tariff rules in the United States - the biggest 
+consumer market in the world. American firms don't  
+know what their raw materials will cost or if the 
+consumer will accept higher prices - they have no  
+idea what their margins will be if they might 
+have to swallow some of the cost increase. 
+ 
+Foreign firms don't know if they will be able 
+to export at all, or if they’ll face higher  
+competition in their domestic markets 
+from redirected Chinese exports. When  
+a company has no visibility as to what their 
+costs will be or what demand will look like,  
+they often freeze up. They postpone big 
+decisions until they have greater visibility.  
+The constantly changing nature of these tariffs 
+makes the situation particularly difficult for  
+businesses - and is likely reducing growth both 
+at US-based firms and international firms.
+ 
+Recent analysis from Goldman Sachs adds weight 
+to this gloomy outlook. Their researchers found  
+that private-sector layoff announcements 
+in October reached their highest level on  
+record outside of a recession. Furthermore, WARN 
+notices—which companies must file before mass  
+layoffs—have ticked up to levels not seen since 
+2016. While initial jobless claims remain low,  
+these leading indicators suggest 
+the US labor market is weakening.
+ 
+All of this uncertainty has led to a 
+"great freeze" in the broader job market.  
+We are seeing a "low-hire, low-fire" dynamic 
+– which has been termed “Job Hugging” - where  
+incumbent employees stay put, reducing the churn 
+that typically opens up entry-level spots at  
+firms. With quit rates falling, the ladder is 
+getting blocked somewhat from the top down.
+ 
+Governments around the world have been busy 
+raising minimum wages to combat the cost-of-living  
+crisis. While the US minimum wage has stayed 
+low – higher minimum wages have been imposed  
+by many states. The Economist recently wrote 
+about how academics have recently been getting  
+cold feet about the effects of high minimum 
+wages. While they may help the lowest earners,  
+they fundamentally alter the calculus of hiring. 
+By lifting the pay floor for entry-level workers  
+closer to that of experienced staff, these 
+policies may have inadvertently erased the  
+distinction between the two groups. In the 
+past, a lower starting salary offset the  
+cost of on-the-job training. Today, graduates are 
+more expensive. When the cost of an inexperienced  
+worker rivals that of a worker with a few years 
+of experience, the rational employer chooses  
+the proven candidate every time. Since trainees 
+can’t generate immediate value to justify their  
+new price tag, firms close the door to hiring 
+them. The Economist quotes a paper by Hannah  
+Farkas of Columbia University who found that 
+big increases in the wage floor led employers  
+to making working schedules less predictable and 
+the work less safe – with a higher incidence of  
+workplace injuries - in effect they make the 
+job worse to compensate for it paying more. 
+ 
+This leaves graduates in a precarious 
+position – where they face a frozen job  
+market while grappling with the highest 
+living costs in a generation. Inflation  
+has eroded their purchasing power, housing costs 
+have skyrocketed in the cities where jobs exist,  
+and many carry significant student debt. They 
+are priced out of employment by wage floors  
+and priced out of life by the cost of living.
+Employers increasingly retreat to offline hiring  
+and personal networks. This disadvantages 
+working-class graduates who have fewer  
+family connections with the ability to 
+influence hiring decisions. The trust  
+between recruiter and applicant has evaporated 
+due to the use of AI systems. Faced with 21.7  
+applications per student—many generated by 
+AI bots—recruiters turn off the firehose.
+ 
+Students see the door closing and respond by 
+buying a bigger key. Enrollment in Master’s  
+programs has skyrocketed in recent years. 
+It's like trying to fix a leak in your boat  
+by drilling another hole to let the water out. If 
+your Bachelor's in History didn't get you a job,  
+surely a Master's in Advanced History will 
+convince Open AI that you can write code.
+ 
+Fear is one of the drivers of the growth in 
+advanced degree programs – but the returns to  
+earning a master’s degree have started shrinking 
+too. Research shows that 40 percent of US master’s  
+programs deliver no real financial benefit. 
+In Britain, graduates with master’s degrees  
+often earn similar salaries to those with a 
+bachelor’s degree by age 35. Students have  
+found themselves in an arms race of credentials 
+that devalues the very qualifications they chase.
+ 
+Not all degrees are created equal. Analysis by the 
+Foundation for Research on Equal Opportunity – a  
+US based think-tank highlights a stark divide. 
+While engineering, nursing, and economics degrees  
+can offer a lifetime Return on Investment of over 
+half a million dollars - degrees in creative arts,  
+social care, agriculture, English, philosophy, 
+education, and psychology frequently result in  
+a negative financial return. The "ticket" to 
+the middle class is no longer a generic degree;  
+it is a specific, market-aligned skillset.
+According to researchers at Georgetown  
+University - the subject that you pick matters 
+more than the university you attend. While the  
+worst US colleges provide their students 
+with next to no value. In general - people  
+who enroll in America’s public universities get 
+a better return on investment than students who  
+go to the more prestigious private non-profit 
+ones – which – despite being nonprofits - tend  
+to be significantly more expensive.
+Interestingly, research shows that men  
+face a higher opportunity cost for attending 
+university - as men are more likely to work in  
+skilled trades—like plumbing, electrical work or 
+construction—which offer high earnings without the  
+need for a degree, the financial sacrifice of four 
+years out of the workforce is harder to justify.
+ 
+As the glass-walled office door closes, another 
+door opens to the warehouse, the construction  
+site, and the classroom. Bloomberg reports that 
+there has been a surge in applications for roles  
+graduates once ignored like substitute teachers 
+and prison guards. According to the article,  
+an Atlanta based traffic-flagging company now 
+receives up to 80 job applications a week,  
+compared with just ten five years ago. While 
+the overall jobless rate remains fairly low  
+at 4.3% - those out of work are lingering in 
+unemployment for longer. Some of these less  
+glamorous jobs offer what many office roles no 
+longer guarantee: stability. They are hard to  
+automate, and turnover in these roles is falling.
+Paradoxically, the Zoom revolution that everyone  
+was excited about in 2020 has reinforced the 
+value of physical presence. Corporate travel  
+is rebounding to pre-pandemic levels because 
+businesses have rediscovered a simple truth:  
+people buy from people. We thought Zoom 
+would kill business travel a few years ago,  
+but it turns out that nobody closes a 
+million-dollar deal with a person who  
+is secretly wearing pajama bottoms. Unless you’re 
+selling pajama bottoms, in which case—great move!
+ 
+Sales roles, which require travel and 
+face-to-face relationship building, remain  
+robust against automation. The willingness to get 
+on a plane is becoming a competitive advantage.
+ 
+While the job situation has been tough for 
+college graduates in the Anglosphere – it  
+is not a global problem, Southern 
+Europe offers a surprising bright spot.  
+Italy’s graduate unemployment rate is at its 
+lowest since records began in the 1990s. Greece  
+has fallen from 40 percent during the debt crisis 
+to just over 10 percent. Spain and Portugal show  
+stability or improvement. These economies avoided 
+the tech-and-finance binge of the 2020s and now  
+benefit from EU recovery funds - stimulating 
+demand for engineers and project managers.
+ 
+Corporate structures appear to be 
+changing. According to the American  
+Society of Employers - the old pyramid shaped 
+organizational structure, with just a few senior  
+executives at the top - more managers and high 
+value contributors in the middle and then lots  
+of entry level workers at the bottom, is 
+giving way to a diamond shaped structure  
+which is lean at the base and fat in the middle. 
+While a diamond structure might sound fancy - it  
+really just means there's a bunch of stressed 
+middle managers floating in mid-air with no  
+one below them to fetch coffee or fix the 
+formatting in their PowerPoint slides. The  
+bottom rung of the ladder hasn't just been 
+removed; it's been sold for scrap to pay  
+the consultant who recommended removing it.
+Firms are heavy with mid-career specialists  
+and hire fewer trainees than ever before. This 
+saves on the expense of training today - but  
+risks hollowing out leadership pipelines. 
+According to the FT, some recruiters are  
+warning that failing to hire juniors today - puts 
+a company's existence at risk within 15 years.
+ 
+Dan Priest - the chief AI officer at pwc 
+told the Economist that the structure might  
+eventually shift to an hourglass - where AI 
+hollows out middle management – essentially  
+the opposite of what we are seeing today. This 
+would allow AI-native graduates to leapfrog into  
+leadership. However, that optimism does rely 
+on an entry mechanism that currently appears  
+to be broken. I’m not sure how likely it is.
+Graduate jobs are by no means extinct, but they  
+are scarcer, more competitive, and harder to get 
+chosen for – to find one you will have to rely  
+more on networking than on spinning up AI cover 
+letters and making online applications. Geography,  
+gender, and sector seem to all be shaping outcomes 
+– and it matters much more today what subjects you  
+choose to study. AI may be having an impact 
+on graduate hiring, but economic uncertainty,  
+credential inflation, and structural change 
+are all playing important roles too.
+ 
+Despite the headwinds, the overall unemployment 
+rate remains low by historical standards – if you  
+are searching for a job – it’s at least not during 
+a recession – and it should work out for you,  
+but you do need to adopt different strategies 
+to separate yourself from the crowd. The "paper  
+ceiling" is cracking – your employability is not 
+all down to academic qualifications anymore. The  
+provable skills you have matter more than 
+the credential itself. The skills in the  
+highest demand today involve a mix technical and 
+human-centric abilities. Skilled tradespeople,  
+and specialist programmers remain in high demand. 
+The economy is not broken, but it is changing.
+ 
+For graduates, adaptation is essential. This 
+means mastering AI tools, building networks,  
+and choosing resilient sectors that 
+are likely to continue growing due  
+to demographic trends such as healthcare 
+and advanced manufacturing. For employers,  
+the question is whether short-term savings 
+justify the long-term risk of not having a  
+pipeline of qualified workers. For policymakers, 
+the task is to align education with reality.
+ 
+The first rung of the career ladder 
+is still there. It just takes more  
+effort—and more ingenuity—to reach.
+If you found this video interesting you  
+should watch the video I made a few years ago on 
+finding a job during the pandemic next – as all  
+of those ideas of how to find a job during 
+a tough job market still make sense today.  
+Don’t forget to check out our sponsor Shokz – 
+especially during their buy one get one free  
+promotion period before Christmas. Have a great 
+day and talk to you in the next video – bye.

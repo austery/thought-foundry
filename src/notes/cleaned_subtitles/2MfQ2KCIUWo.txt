@@ -1,0 +1,541 @@
+We are going to be unemployed.
+We are never getting a job.
+And I applied to 647 roles
+before I got one.
+One of my friends had an AI interview.
+The AI did the interviewing.?
+Yeah.
+Someone tell me.
+Someone tell me and explain to me
+what is going on
+with the job market recently.
+Okay, okay, I'll do it.
+As you've just seen, to a lot of
+especially young people,
+it feels like it's really difficult
+to get a job right now.
+Sure.
+Officially,
+the economy is still doing quite
+fine and stock
+markets are certainly super high.
+So what's going on?
+Why is it so difficult
+to get a job right now?
+According to a large share of bosses,
+the reason is simple.
+Most tasks carried out by entry level
+colleagues could be performed by a AI.
+But is that really true?
+Is the job market really that bad?
+Is it especially bad for young people?
+And most importantly, is it bad because of
+AI or are bosses just saying that
+because it's much less politically risky
+than blaming Donald Trump's trade war?
+Or it's easier than admitting that they
+hired too many people during the pandemic.
+That is the question economists have been
+doing a ton of in-depth research about.
+And yes, as always
+here on Money and Macro,
+we will spare you
+the need to read all of that yourself.
+And we have summarized
+the three most important explanations for
+this phenomenon in this video.
+But before getting into exactly
+what they are, let's have a quick
+look at the data.
+Are these TikTokers right?
+Is it actually difficult
+to get a job right now?
+The most obvious place to look
+first is the unemployment rate.
+That is, the percentage of working age
+people actively looking for a job,
+but who cannot find one right now
+in the US, we can clearly see that
+indeed, unemployment has been rising
+since the summer of 2022
+from about 3.5% to 4.3%.
+Meanwhile, in big European economies
+like the UK, Germany,
+where a job market crisis has also been
+in the news a lot, we can also see that
+unemployment is already heading back
+towards levels only seen in the pandemic.
+But what's really striking,
+though, about the labor market today
+is that we have seen that despite
+some really spectacular layoffs at high
+profile companies,
+and the rise in unemployment really
+does not seem to be driven
+by so many more layoffs,
+but rather by a quite spectacular
+fall in new job postings by companies.
+As we can see here.
+That trend holds for the US,
+but also for the UK and Germany.
+However, if we look at whether or not
+young people in particular
+are hit the hardest.
+We can see that in all three countries,
+youth unemployment is quite a bit higher
+than regular unemployment.
+But if we look at how much it's risen
+since 2022, we can see that
+only in the UK has the youth unemployment
+really risen much faster.
+In Germany, It's pretty close
+to regular unemployment, and in the US,
+young workers have actually still done
+better than average since 2022.
+That's kind of strange,
+given that AI was supposed to have taken
+so many entry level jobs.
+So there's clearly more going on here.
+In fact, we've identified three
+major trends
+that can help explain
+why you can't find a job anymore.
+Yes, AI is still a factor,
+but it's more subtle than you think.
+So let's get into it.
+Here's how the rise of AI
+is actually impacting the job market.
+One thing is for sure,
+many businesses are already using AI
+and many more are planning
+to introduce it.
+In Germany, for example,
+about 27% of firms are actively using AI.
+Another 80% is planning to use it
+and 34% is actively discussing it.
+And only about 21%
+think it's not relevant.
+These are very impressive numbers.
+Just to illustrate how spectacular
+AI adoption percentages are.
+Have a look at this graph comparing
+personal AI adoption to people adopting,
+for example, personal computers
+in the 1980s or the internet in the 1990s.
+This means that AI is the most rapidly
+adopted technology in human history.
+Think about that.
+So actually, it would be quite straight
+if we did not see any effect at all
+in the labor market.
+But just because businesses are using AI,
+that by itself
+does not mean that it's costing jobs.
+After all, companies
+could be using AI to replace people,
+but they could also be using it
+to make existing workers more productive.
+To find out
+whether AI is getting people fired
+or not hired, at least, Stanford
+economists Erik Brynjolfsson, Bharat
+Chander and Raju Chen studied
+super detailed payroll data
+from occupations
+that were especially exposed to new
+AI models like software developers
+and customer service.
+As you can see here, early career software
+developers who tended to support
+older coders by doing simple tasks
+rapidly, disappeared from companies
+after the launch of ChatGPT
+indicated by the vertical line.
+However, more experienced coders
+kept being hired.
+And as you can see here, the same trend
+can be seen in customer services.
+After GPT, young people disappeared
+from customer service centers
+at a rapid pace
+while more experienced workers remained.
+Meanwhile,
+young people in less exposed jobs
+like stock clerks
+working in warehouses and health aides
+did not see this
+massive drop in employment.
+That is some pretty solid evidence
+that AI is absolutely impacting jobs,
+but only in certain sectors
+and in these sectors,
+it's the young,
+less experienced people that are indeed
+hurt more
+than their more experienced colleagues.
+But of course, just looking at one
+study is not enough.
+Another really interesting study was done
+by economists Hui, Reshef and Zhou.
+Rather than looking at workers,
+they looked at freelancer jobs
+posted on the popular jobs
+market website Upwork.
+Specifically,
+they studied two distinct AI waves.
+First, they research
+how text based AI models like
+GPT affected writing based freelance jobs
+like copywriters.
+And after that, they looked at
+how image models like Midjourney and DALL
+E affected the freelance job market
+for graphic designers.
+Now, interestingly,
+they found a clear impact
+before the introduction of these models,
+which is the black vertical line, again,
+exposed and non-expert.
+Those jobs had a stable relation
+compared to each other.
+And then after AI, there is a clear trend
+showing the number of jobs were exposed.
+Jobs declined rapidly
+compared to these non exposed jobs.
+Combining these two studies,
+I think there's clear evidence
+that AI is already leading
+to some job losses where, given that it
+mostly affects less experienced people,
+this could indeed show up as less hiring,
+making it more difficult to find a job,
+especially for young people.
+Unless AI is creating more jobs
+than it is destroying.
+After all, in the past, new technologies
+have obliterated specific jobs very often.
+But soon after, new jobs
+appeared to replace them.
+For example, the invention
+of the printing press
+decimated the jobs market for scribes.
+But at the same time it created
+jobs like book
+binding, publishing, and book selling.
+The invention of digital technologies
+ruined the job market for switchboard
+operators, or so-called human computers,
+who did complex calculations by hand.
+But over time, it
+created a lot of new jobs like programmer,
+web developer, and data scientist.
+So is that the case today as well?
+Yeah. Probably somewhat.
+A recent analysis by researcher
+Henley Wing Chiu
+on the US job market reveals
+that many of the jobs with the biggest
+declines were exactly those that
+AI affected the most.
+Computer graphics
+artist, photographer and writer.
+On the other hand,
+the US job seeing the most increases
+last year was Machine Learning Engineer.
+Sadly, his analysis
+only gives us percentages though,
+so it does not tell us
+exactly how many jobs were lost
+so that we cannot compare them to jobs
+gained.
+In fact,
+I couldn't find any good research on this,
+but if I had to put my money on it,
+I bet that we are seeing both effects
+of AI right now.
+It is making some workers more productive,
+but on average
+is also costing more jobs
+than it is creating.
+But I think so far this effect is limited
+to sectors
+like graphic design and writing.
+However, as you can see in this graph
+by the Economic Innovation group,
+unemployment for jobs
+that are super exposed to AI like
+the orange and blue lines is rising.
+Absolutely.
+But actually unemployment in less exposed
+jobs like the green and yellow lines
+is rising as well.
+So I cannot fully explain
+why you cannot find a job right now.
+To truly get to the bottom of why
+it's so difficult to find a job right now.
+We need to talk about a second
+major global development.
+But first, we need to talk about something
+else that's happening behind the scenes.
+Because just like the job market,
+a lot of systems we rely on every day
+are changing in ways
+most people do not notice,
+including the networks
+that run our phones.
+That brings us to today's sponsor, Cape.
+America's
+only privacy first mobile carrier.
+If you are uncomfortable with big carriers
+like AT&T, Verizon, and T-Mobile
+engaging in opaque data selling practices,
+then you'll be happy
+to know that there's now
+finally a true privacy first alternative.
+Cape.
+Cape is built up from the ground
+for privacy and security.
+Sure, you can use a VPN or encrypted
+messenger app,
+but you'd always be vulnerable
+at the network level.
+Cape fixes that.
+Unlike traditional carriers,
+Cape does not ask for your name,
+address, or even Social Security number
+when you sign up.
+It collects really the bare
+minimum and automatically deletes
+what it does collect.
+Cape also protects against SIM swaps
+by using a 24 word private key
+that only you control.
+No customer service agent can move
+your number without it, and it's enhanced.
+Signaling protection blocks
+the kind of network level of text
+that can reveal your location or intercept
+your calls.
+Cape is not just another reseller either.
+It's a heavy MVNO,
+which means it owns and operates its own
+mobile core, giving it total control
+over the data which it gets collected
+and which does not, how it's secured
+and who can access it.
+That's something no other privacy
+focused carrier in the US does.
+So if you're tired of being the product
+and you actually want a carrier
+that keeps your data private, check out
+Cape through my link at Cape.co/moneymacro
+and use my code MANDM33
+to get 33% off
+your first six months of Cape, or use
+the link in the description to learn more
+and start protecting your phone today.
+That said, let's get back to explanation
+number two
+massive policy uncertainty.
+Of course,
+this reason is mostly about one man.
+Thank you everybody, and thank you
+to the media, the media has been terrific.
+Believe it or not,
+I didn’t use- see?
+I didn’t use the words fake news one time.
+That's right.
+Mr. Trump and his trade war
+so far has really been characterized
+by chaos and uncertainty.
+Have a look at this fascinating graph
+by the Financial Times.
+It shows that on average, Trump's proposed
+tariffs have been going up and down
+like crazy over the year.
+Meanwhile,
+actual tariffs have slowly followed.
+But crucially, businesses
+did not know that in advance.
+It's well known that when governments
+swing between aggressive and unpredictable
+policies, affected businesses
+freeze, firms delay hiring, postpone
+investments and wait to see what rules
+they'll be operating under next.
+And yes, we can actually see in the data
+that uncertainty is unusually high
+these days.
+The so-called policy
+uncertainty index has exploded
+over the past year in both Europe
+and the United States, coinciding
+with Donald Trump
+taking office in January 2025.
+Could this explain
+why companies are not hiring anymore?
+All around the world, former economics
+Nobel Prize winner Paul Krugman argues
+that Trump's wildly erratic policies
+are in fact creating huge uncertainty,
+which is deterring many companies
+from hiring workers.
+His main piece of evidence for this
+is that the number of long term unemployed
+has really surged since Liberation Day,
+the moment
+Trump announced his most dramatic tariff
+changes.
+The second piece of evidence concerns
+Black workers whose unemployment rate
+has also climbed sharply
+after Liberation Day.
+Historically, Black workers are among
+the first to be laid off
+and the last to be rehired in the US.
+So rising uncertainty there is really
+a signal of broader problems.
+But Trump policies have wider impact
+that go beyond U.S.
+borders as well.
+For example, Germany's Ifo institute
+estimates that German manufacturing
+could shrink by about 2.8%
+because of them, with the automobile
+and pharmaceutical industries
+taking the hardest hits.
+But Germany's uncertainty
+doesn't come from Trump alone.
+It comes from China as well,
+where a massive industrial rise is hitting
+German industry especially hard.
+In the less exposed countries, jobs don't
+seem to be under as much pressure yet.
+The Netherlands, France, Spain
+and all of these countries,
+AI is playing a major role,
+but there's less uncertainty,
+and this could explain
+why unemployment is not yet rising
+as much in these countries.
+Meanwhile, the UK is also less
+exposed to the trade war,
+but their businesses have indicated
+they are mostly concerned
+about uncertainty from its own government
+that is, struggling to provide clarity
+on how much it will raise taxes,
+how much it will increase the minimum wage
+and increase
+the national insurance contributions
+that these firms have to pay.
+However, whether it's about the US, China
+or UK uncertainty, there's one
+big problem with the uncertainty
+explanation in general; the timing.
+If we look at the falling hiring
+trend over a couple of years,
+it just doesn't match up.
+Jobs are decreasing
+ever since 2022, and in turn
+they only really became extreme in 2025.
+Therefore, to fully understand
+why it's so difficult to find a job
+right now, we need to talk
+about our final explanation,
+which is the unwinding
+of the Covid economy.
+You see, one thing
+I’m missing
+in the current media landscape,
+and that I hope to address
+with this channel,
+is that a truly long term
+macroeconomic perspective.
+Yes, as we have seen,
+unemployment is rising.
+But what happens
+if we zoom out a couple of decades?
+Then you get this picture in the US,
+you get this picture in the UK
+and you get this picture in Germany.
+Now, if we draw a line on these graphs,
+we can see that unemployment is still well
+under- or maybe in the case of the UK,
+near to its long term historical average.
+On top of that,
+two things really stand out to me.
+If I look at these pictures.
+The first is that unemployment
+comes and goes in cycles.
+And the second is that unemployment
+was really exceptionally low
+right before and after Covid.
+This was the period
+of the Great resignation,
+where jobs were so available
+that people were able to leave
+abusive bosses and underpaid jobs
+and move to better paid positions.
+That actually sounds like the way the job
+market should always be, doesn't it?
+So what ended this period?
+Well, I think the most plausible
+explanation is the end
+of high government
+stimulus and ultra low interest rates.
+Governments are now worried again
+about that.
+And central banks
+have increased interest rates.
+As a result, less money is circulating
+in most economies and as a result of that,
+there just now aren't as many jobs
+as there used to be.
+So to get back to our original question,
+is it really that difficult to find a job
+right now, especially for young people,
+like we're seeing in these TikToks?
+Yes, absolutely.
+At least when you compare it
+to just three years ago, this can
+partially be explained by AI sure,
+and some geopolitical uncertainty.
+Sure.
+But historically speaking, sadly,
+it looks like
+what we've seen so far
+is really simply an return to normality.
+That can be explained almost completely
+by the end of Covid stimulus.
+So will this situation get better
+or worse?
+Well, we can never know for sure.
+On the optimistic side,
+we have seen in the past that technologies
+have actually created more jobs,
+Sometimes.
+It took time for these to develop though,
+so I do think there is good reason
+to be hopeful that we haven't seen some of
+these more subtle benefits of AI yet.
+But honestly, my expectation
+is that geopolitical
+uncertainty will only get worse
+as we enter a multipolar world order.
+On top of that, AI adoption will likely
+first lead to more job losses.
+And with government debt
+so high and societies quickly aging,
+I certainly think it's unlikely
+we will see more government
+stimulus on the level
+as we saw during Covid again soon.
+So I think it's unlikely that
+the job market will get much better soon.
+But yeah, what do you think?
+Let me know in the comments below.
+And if you are already making privacy
+a priority in your life, consider
+going the extra mile by checking out
+our sponsor Cape using the link below.

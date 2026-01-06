@@ -1,0 +1,552 @@
+- Arthur C. Clarke had a sequel
+to "2001, A Space Odyssey."
+It's called "2010, Odyssey Two."
+And at the end of it,
+an alien intelligence
+converts Jupiter into a star.
+As a group of astronauts
+narrowly escape the implosion,
+they receive the following
+message from the aliens,
+"All these worlds are
+yours, except Europa,
+attempt no landing there."
+Now that was just a novel, but it suggests
+that already in 1982,
+we suspected that Europa
+might offer our best chance
+of finding alien life in the solar system.
+42 years later, in October 2024,
+NASA is actually launching
+the most advanced mission
+to hunt for signs of alien life.
+And it's going to Jupiter's moon Europa.
+There's just one problem,
+Jupiter kills everything around it.
+So how could life exist there?
+And how do you make a probe
+that can withstand the
+perilous conditions?
+(suspenseful music)
+(gentle music)
+Deep inside Jupiter,
+there is so much pressure,
+that hydrogen is believed to take the form
+of a metallic liquid.
+And this metallic liquid
+hydrogen generates
+an incredibly powerful magnetic field,
+almost 20,000 times stronger than Earth,
+if you measure at the same distance away.
+So if you could see this
+magnetic field from Earth,
+it would appear twice
+as big as the full moon.
+On its own, that magnetic
+field is harmless.
+But right in the middle of it
+is the most volcanically active
+world in the solar system,
+Jupiter's moon, Io.
+The volcanoes on Io's
+surface shoot out tons
+of sulfur dioxide, and every second,
+one ton of this material gets ionized
+and trapped inside
+Jupiter's magnetic field.
+And the field accelerates these particles
+to rotate incredibly fast with Jupiter.
+So they whizz around at over
+300 kilometers per second.
+Their inertia actually
+pulls back on the field,
+stretching it out.
+And this trapped material
+slams into other moons,
+ejecting even more particles
+from their surfaces.
+This cycle forms massive radiation belts
+which span past Europa and
+the other moons of Jupiter.
+Now, for electronics, this
+intense radiation is kryptonite.
+In the 1970s, the Pioneer
+10 and Voyager missions
+only briefly passed by Jupiter,
+but the radiation caused glitches,
+gave the instruments false commands,
+and corrupted some of their data.
+Even with modern shielding,
+a spacecraft within the radiation belts
+would only survive for
+around three months.
+So how will NASA's new
+mission, the Europa Clipper,
+orbit Europa for over four
+years without getting fried?
+Well, the solution is, it won't.
+It'll orbit Jupiter from afar
+and then swoop in every few
+weeks to quickly fly by Europa
+and then leave again.
+And since the mission is going
+to collect a lot of data,
+it can use the downtime
+while it's way out here
+to transmit it all back to Earth
+before going in for another swoop.
+In all, it'll do 49 flybys,
+mapping almost the entire surface.
+That's actually how the
+Clipper got its name,
+after the fast and nimble
+19th century Clipper ships,
+quickly dipping in and out of ports.
+But of all the places in the solar system
+to look for life, why Europa?
+If you stood on Europa's surface,
+you'd be hit with 5,400 milliSieverts
+of radiation in a single day.
+That's 1,800 times more than
+the annual dose here on Earth.
+If you stay here for a couple of hours,
+you would eventually die
+from radiation sickness.
+But Europa contains a secret.
+When Voyager 1 passed by Jupiter in 1979,
+it took this photo of Europa.
+If you compare it to
+most of the other moons
+in the solar system,
+you'll notice something
+is missing, craters.
+Every planet and moon has been bombarded
+by asteroids over billions of years.
+And most planetary surfaces show it.
+But not Europa.
+So why not?
+Well, something recent,
+say over the last 60 million years or so,
+must have been happening on Europa
+to erase most of these
+craters from the surface.
+16 years after Voyager,
+Galileo arrived to Jupiter.
+It spent eight years
+studying both the gas giant
+and its moons.
+And Galileo's magnetometer
+picked up something interesting on Europa.
+Jupiter's magnetic poles, like Earth's,
+aren't aligned with its geographic poles.
+So as the planet rotates every 10 hours,
+the whole magnetic field wobbles.
+This changing field from Jupiter
+induces a magnetic field on Europa,
+and a relatively strong one at that.
+That means there must be an
+electrically conductive layer
+within Europa that reacts
+to Jupiter's field.
+And readings from Galileo indicate
+that it must be somewhere
+close to the surface,
+only 10s of kilometers deep.
+So what kind of conductive layer?
+Well, Europa's white surface
+is almost entirely covered
+in a thick crust of water ice.
+These reddish-brown regions,
+when observed through a spectrometer,
+fit the description of a lot
+of things, like hydrated salts,
+sulfuric acid or even bacteria.
+We need more data to be sure,
+but recent experiments at
+JPL found that sea salt
+when bombarded with intense radiation,
+turns from white
+to this same brownish
+color found on Europa.
+So scientists suspect
+that there's a whole
+saltwater ocean inside Europa
+that could be 100 kilometers deep.
+Meaning that Europa would
+contain twice as much water
+as the whole of the Earth.
+And it must driving geological activity
+that constantly smooths out
+and renews the surface of the moon.
+But the Jupiter system only gets about 4%
+of the sunlight we get here on Earth.
+So Europa's surface is constantly
+below -160 deg Celsius,
+so you'd expect the
+ocean to be frozen solid.
+But there's a way to generate heat
+that doesn't rely on the Sun.
+And I've got a little
+demo here to prove it.
+Europa's orbit around Jupiter
+isn't a perfect circle.
+This is because Io, Europa and Ganymede
+are in orbital resonance.
+Each time Ganymede completes one orbit,
+Europa completes two and Io four.
+Because of that, Io tugs Europa inward
+on one side of the orbit,
+while Ganymede pulls it out on the other,
+making its orbit more eccentric.
+Now, Jupiter's pull is stronger
+on the closer side of the
+orbit than on the farther side.
+So Europa is constantly
+being stretched and squeezed,
+stretched and squeezed.
+And you can see how this
+rubber ball gets warmer
+as I squeeze it.
+Scientists believe that
+the friction caused
+by the tidal flexing of the entire moon
+can generate enough heat
+to keep the ocean liquid.
+This effect gets stronger the
+closer you are to Jupiter,
+which is why Io is so volcanically active.
+So you can see this ball is
+significantly hotter now.
+I held onto this ball at the same time
+to make sure that it wasn't
+just the heat coming in
+from my hand.
+What sort of temperature of
+the ocean are we thinking?
+- So it depends on how salty it is.
+So, melting temperature of ice
+or maybe depressed by 10
+degrees Celsius below that
+if it's a very salty ocean.
+Similar to cold oceans on Earth.
+- And how would the flexing differ
+if there's this big liquid ocean
+versus if there's no ocean there?
+- If there's no ocean, Europa should flex
+by only about one meter in amplitude.
+But if there's an ocean in there,
+then it flexes with an
+amplitude of 30 meters.
+So that's an enormous deflection.
+And that will come out pretty
+clearly in the gravity data.
+Another argument for how
+thick the ice shell is,
+we see these very strange
+features on the surface
+that are arcuate in shape,
+but like multiple arcs put together.
+We call them cycloids.
+Not something you'd expect
+to see on an icy moon.
+And we think they form
+if a crack propagates
+at just the right speed, about
+the speed someone would walk,
+and is following the changing stress field
+of Europa being squeezed as
+it orbits around Jupiter.
+And if there were no ocean down there,
+there wouldn't be enough of
+an amplitude of that motion
+to explain the cracking.
+But if there is an ocean,
+then it could explain the cracking.
+- All that tidal flexing pushes
+magma in the outer core up,
+closer to the seafloor.
+Water flowing through the
+crust above it is heated
+and it picks up minerals from the ground,
+ejecting them into the ocean.
+This creates hydrothermal vents.
+And where we find these on
+Earth, we also find life.
+Thousands of meters below the
+surface, with no sunlight,
+these vents are oases for ocean life.
+The lifeforms down here
+rely on unique bacteria,
+bacteria that feed on the
+minerals from the vents,
+rather than on the energy
+provided by the Sun.
+How long are we thinking
+that Europa has had an ocean?
+- It could be four billion
+years, we don't know for sure.
+- That amount of time could
+give life the opportunity
+to evolve in those oceans?
+- Right, exactly right.
+Organisms can use methane,
+carbon dioxide, sulfur reactions.
+Any chemical reaction you can think of
+that might happen in the
+ocean can potentially be used
+as a fuel for that organism's metabolism.
+So we're not talking about
+searching for fishes,
+or whales or squids or
+something down there,
+but looking for single cell organisms.
+- We were so concerned there
+might be life on Europa that,
+when the Galileo mission
+was ending in 2003,
+it was deliberately crashed into Jupiter
+to avoid the risk of contaminating Europa.
+But Clipper will not be able
+to drill through the
+kilometers-thick ice crust.
+So how are we going to find evidence
+for life beneath that thick surface?
+This is the SnotBot.
+It's a drone with Petri
+dishes glued to the top,
+and it flies right through whale blows
+to collect whale snot right here on Earth.
+And zoologists can use the SnotBot
+to retrieve all sorts of
+info on a whale's biology.
+And it turns we can do
+something very similar
+for celestial bodies too.
+We've actually captured images
+of water geysers shooting
+out of Enceladus,
+a moon of Saturn, housing
+a subsurface ocean.
+And the Hubble space telescope
+has picked up some evidence
+of what could be similar
+geyser eruptions on Europa.
+The hope is that Clipper
+could fly through one
+of these plumes, like the SnotBot,
+and reveal their chemical composition
+using a mass spectrometer.
+But evidence for an ocean
+on Europa isn't conclusive.
+Enceladus seems like a stronger candidate,
+we have actual images of its plumes
+and we've even flown through them.
+We are almost 100% certain
+there's a subsurface ocean there.
+If we have these plumes on Enceladus
+and there's clearly maybe
+a liquid ocean there,
+why does Europa have your
+attention more than Enceladus?
+Is there something that draws you?
+- We don't know how long
+it takes life to get going,
+but it's possible that Enceladus
+may have just kind of
+started up its engines,
+whereas Europa has more
+likely been well evolved
+over a long time.
+- Surprisingly, being bombarded
+by Jupiter's radiation
+actually makes Europa a better candidate.
+See, those high-speed particles
+hitting Europa's surface
+give water and carbon dioxide
+molecules enough energy
+to form new compounds,
+like formaldehyde or hydrogen peroxide.
+And these can serve as food
+for life beneath the surface,
+if they can get down that far.
+- And we have evidence of
+overturn of the icy shell
+at chaos zones where the icy
+crust seems to have collided
+and material has been
+shoved into the icy shell.
+So there may be ways
+for this fuel for life
+to get down into the icy shell
+and potentially to the ocean.
+- [Derek] And Clipper
+doesn't have to touch down
+on the surface to confirm this.
+- There's an infrared spectrometer
+to look at the chemical fingerprints
+of light bounced off the
+surface to help identify
+and map out where the salts are,
+find if there are organics there.
+There is an ultraviolet spectrograph
+that's aboard the spacecraft
+to look for plumes.
+Are they there?
+And of course, then can
+we fly through them?
+And then there'll be imaging
+of essentially the whole globe
+at better than 100 meters
+per pixel resolution.
+So one camera will take swaths of images
+as we fly over the surface
+and that's called the wide angle camera.
+And then the other camera
+is the narrow angle camera.
+From 50 kilometers altitude,
+it will get half meter
+per pixel images, right?
+So it'll be able to resolve my desk here
+if it were on Europa.
+And then it would be a future mission,
+like a lander that would go
+and actually search for
+signs of life on Europa.
+- Do you think a lander would
+have a chance of survival?
+- There have been studies
+that say we can get a lander living
+on the surface for a month.
+If we think that's
+sufficient to go in there,
+scoop some stuff up from below the depth
+of radiation processing,
+and put it into a mass
+spectrometer and see what we see.
+- But the Europa Clipper
+won't be studying Jupiter's moons alone.
+The European Space Agency's JUICE mission,
+or the Jupiter Icy Moon Explorer,
+is already on its way to Jupiter.
+It will come to the system
+just 15 months after Clipper
+and it'll even be doing
+a few flybys of Europa,
+before settling into a
+tight orbit around Ganymede.
+So the European Space Agency
+will also have a mission
+there at the same time?
+- Yes, we're having informal conversations
+with members of the JUICE science team.
+What would it mean to
+have two spacecraft there
+at the same time?
+The JUICE mission will end
+up in orbit around Ganymede
+and Ganymede has its own magnetosphere.
+Well, we'll be outside
+Ganymede's magnetosphere.
+So we might say, "Oh, look,
+there's this big burst
+coming from Jupiter."
+And then JUICE might say,
+"Oh, we felt that over here
+in our magnetic signals."
+So we wouldn't have to
+really do anything different
+except talk to each other
+and make sure that the sum of the whole
+is even bigger than its parts.
+- Europa Clipper was scheduled to launch
+on October 10, 2024,
+but NASA is waiting for
+Hurricane Milton to clear Florida
+before the spacecraft can take off safely.
+When will we get the first results?
+- You'll start seeing distant
+observations coming in in 2030
+as we look at Europa from
+afar and search for plumes.
+And then you'll see the first
+really high resolution data
+in 2031.
+- So after say 26 years of thinking
+about a mission to Europa,
+how does it feel to be so close to launch?
+- It's a little surreal,
+(laughs) I must say.
+This has been such a long time coming.
+It's occasionally hitting
+me that our spacecraft
+is going to be up there in the
+heavens, right, on its way.
+It turns out that, during a Europa Ocean Conference 
+in the late 1990s, 
+NASA actually video-called
+Arthur C. Clarke.
+And after showing him plans
+for a future mission
+to explore the faraway ocean world,
+Clarke finally gave NASA
+permission to land on Europa.
+(monitor whooshing)
+Europa Clipper is a perfect example
+of the amazing things we can do
+when we set ourselves ambitious goals
+and work together with
+others to achieve them.
+But I think we often get
+wrapped up in our everyday lives
+and forget just how much
+of an impact we can make on the world.
+That's true on a society-wide level,
+like these big international
+space missions,
+but I also think it's true
+at an individual level.
+You yourself can probably
+accomplish much more
+than you think when it comes
+to making the world a better place.
+And today's sponsor, 80,000 Hours,
+wants to help you do just that.
+They're not selling anything.
+80,000 Hours is a nonprofit
+that can help you work out
+a plan for achieving a big,
+positive impact in the world,
+and then executing on it.
+Career advice typically
+aims to help you find a job
+that suits your preferences.
+But what if you really care
+about helping the world?
+Well sure, they can tell you
+to be a doctor or a teacher,
+but these aren't your only options.
+Which is why 80,000 Hours
+have done over 10 years of research
+into how to find a career
+that does a lot of good,
+and also feels satisfying.
+They have everything from
+an in-depth career guide,
+to a podcast on the world's
+most pressing problems
+and how we can solve them.
+They even have a curated job board
+with hundreds of high-impact
+career opportunities.
+And everything they
+provide is free, forever.
+So if you want to make a difference
+with the 80,000 hours you
+have to shape your career,
+then sign up now at
+80000hours.org/veritasium.
+There's a link in the description
+or you can scan this QR code.
+So, I want to thank 80,000
+Hours for sponsoring this video,
+and I want to thank you for watching.

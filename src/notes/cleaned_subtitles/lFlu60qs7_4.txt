@@ -1,0 +1,1045 @@
+(dramatic music)
+- [Derek] A single sentence
+in one of the oldest math books
+held the key to
+understanding our universe.
+Euclid's "Elements" has been
+published in more editions
+than any other book except the Bible.
+It was the go to math
+text for over 2,000 years.
+But for all that time,
+mathematicians were
+skeptical of a single line
+which seemed like a mistake.
+Ultimately, some of the
+greatest math minds realized
+that Euclid wasn't wrong after all,
+but there was more to the story.
+Slight tweaks to this line
+opened up strange new universes
+out of nothing.
+Surprisingly, 80 years later,
+we found out those strange new universes
+are core to understanding
+our own universe.
+(contemplative music)
+Around 300 BC,
+the Greek mathematician, Euclid,
+takes on a massive project
+to summarize all mathematics
+known at the time,
+to essentially create the one book
+that contains everything
+that everyone knows about mathematics.
+But that's no easy task.
+See, before Euclid, there was
+a bit of a problem with math.
+- People would prove things,
+but they would just be
+going around in circles.
+"Why does a triangle have 180 degrees?"
+"'Cause if you take two parallel lines -"
+"Yeah, but why do parallel lines exist?"
+"Oh, that's because you can make a square.
+"Why does a square exist?"
+You have this infinite recursion
+of what the fundamental reason
+why something is true is.
+- [Derek] It's kind of
+like in the dictionary,
+every word is defined
+in terms of other words,
+so how do you get to ground truth?
+Euclid used a solution that
+was pioneered by the Greeks.
+Let's just accept a few of
+the most simple, basic things
+as being true, these are our postulates.
+Then, based upon these postulates,
+we can prove theorems one at a time,
+building up our math using logic,
+so that as long as those
+first statements are true,
+then everything else
+that follows from them
+must definitely be true.
+He had perfected the gold standard
+for rigorous mathematical proof
+that all modern math relies on.
+Euclid used this method
+when he published his 13 book
+series called, "The Elements,"
+in which he proved 465 theorems,
+covering almost all of
+mathematics known at the time,
+including geometry and number theory.
+And all these theorems depended
+on were some definitions,
+a few common notions, and five postulates.
+- We go right to book one,
+and book one starts with definitions,
+you gotta start somewhere.
+And the definition is,
+"A point is that which has no part.
+A line is a breadthless length."
+And, "The ends of lines are points."
+By line, he really means a curve,
+and then it has some ends.
+"A straight line is a
+line that lies evenly
+within the points on itself."
+And then so on, and so forth.
+He's got 23 definitions,
+then he's got the five postulates.
+(energetic music)
+- [Derek] The first four are simple.
+One, if you have two points,
+you can draw a straight line between them.
+Two, if you have a straight line,
+you can extend it indefinitely.
+Three, given a center and a
+radius, you can draw a circle.
+And the fourth is that all right angles
+are equal to each other.
+- [Alex] But postulate
+five gets the big guns.
+- [Derek] Which is that,
+if a straight line falling
+on two straight lines
+makes the interior angles on the same side
+less than two right angles,
+the two straight lines,
+if produced indefinitely,
+meet on that side,
+on which are the angles less
+than the two right angles.
+- What the hell is he talking about?
+That's a postulate?
+Like all of these are,
+you know, half of a sentence,
+and they're all blatantly obvious.
+And then comes five, out of left field,
+and it's like an entire paragraph.
+What is he doing?
+(contemplative music)
+- [Derek] This made
+mathematicians suspicious;
+it seemed like Euclid made a mistake.
+Greek philosopher Proclus
+thought Postulate 5
+ought even to be struck outta
+the postulates altogether,
+for it is a theorem.
+But if it's a theorem,
+we should be able to prove it
+from the first four postulates,
+so that's what many people tried.
+Some, including Ptolemy and Proclus,
+believed they had
+succeeded, but they hadn't.
+In fact, all they'd managed to do
+was just restate Postulate
+5 in different words.
+Here's one formulation.
+If you have a line, and a
+point that is not on that line,
+then there is a single unique line
+which will be parallel to the first line.
+For this reason,
+the fifth postulate is often
+called the Parallel postulate.
+(contemplative music)
+When the method of direct proof failed,
+other mathematicians, including
+al-Haytham and Omar Khayyam,
+tried a different approach,
+proof by contradiction.
+The idea is simple,
+you keep the first four
+postulates the same,
+but assume that the
+fifth postulate is false.
+Then you use those new
+postulates to prove theorems,
+and if that leads to a contradiction,
+for example, true equals false,
+well, then it means your new
+fifth postulate must be wrong.
+And, therefore, the only
+remaining option would be
+that Euclid's version of the
+fifth postulate is correct,
+and you would've proven
+the fifth postulate.
+So, what would it look like
+if the fifth postulate were false?
+Well, according to Euclid,
+through a point not on a line,
+there could only be one line
+that is parallel to the first.
+One alternative is that
+there are no parallel lines
+that you could draw through that point.
+- Well, people tried that,
+and they realized that thin lines
+had to be finite in length.
+And they're like, "Well, that can't be."
+- [Derek] So this option was ruled out,
+it contradicted the second postulate,
+which states that lines can
+be extended indefinitely.
+The other alternative
+is that you can draw more
+than one parallel line
+through a point not on the first line.
+- So that's what they would do,
+they would assume the
+postulate five fails,
+and they're like,
+"This has gotta be wrong.
+Where's the contradiction?"
+They couldn't find the contradiction.
+(intense acoustic music)
+- [Derek] So proof by
+contradiction also failed.
+In total, mathematicians
+spent more than 2,000 years
+trying to prove the fifth postulate,
+but everyone who tried failed.
+(contemplative music)
+Then, around 1820, János
+Bolyai, a 17 year old student,
+started spending his days and
+nights working on the mystery.
+His father became worried,
+and he wrote to his son,
+"You must not attempt this
+approach to parallels.
+I know this way to the very end,
+I have traversed this bottomless night,
+which extinguished all
+light and joy in my life.
+I intrigue you, leave the
+science of parallels alone.
+Learn from my example."
+But the young Bolyai didn't
+listen to his father,
+he could not leave the
+science of parallels alone.
+After years of work,
+he realized that maybe the fifth postulate
+can't be proven from the other four,
+it could be completely independent.
+(soft music)
+See, according to Euclid,
+you could have only one
+parallel line through a point.
+But Bolyai imagined a world
+where there could be more
+than one parallel line
+through that point.
+But how?
+Well, who said you needed
+to have a flat surface?
+On a surface that is curved like this,
+you can draw more than one line
+that is parallel to the original line.
+But wait a second, those
+lines don't look straight.
+Well, what makes straight lines special
+is that they're the shortest
+paths between two points.
+On this surface, those
+shortest paths just look bent,
+because the surface is curved.
+Here's a more familiar example.
+Airplanes always try to
+fly the shortest path
+between two cities,
+they're basically flying
+in a straight line,
+but that line doesn't
+look straight on a map
+because the surface is curved.
+These shortest paths on curved surfaces
+are called geodesics.
+So, all these lines are straight,
+they just don't look it,
+because the world Bolyai had imagined
+turned out to be curved.
+We now know this as hyperbolic geometry.
+- You know, when I used to
+think of the hyperbolic plane,
+I would just imagine
+it as one giant saddle.
+But that's not really what it is,
+the hyperbolic plane is much more like
+this piece of crocheting.
+So, it starts out pretty
+flat and even in the middle,
+but as you move outwards,
+more and more fabric is created,
+and that would push parallel lines apart.
+And the further and further out you go,
+the amount of fabric grows exponentially,
+and that ends up causing
+this crumpling effect.
+So if you really wanna think
+about the hyperbolic plane,
+I think you've gotta think about
+saddles, on saddles, on saddles,
+like it's a infinite crumpling mess.
+(soft music)
+- [Derek] But that little piece of crochet
+isn't the full hyperbolic plane.
+To show that, we need to make a map,
+one that fits the entire
+plane into a disc.
+To show how this works,
+we're gonna fill the entire
+plane with these triangles.
+Starting in the middle,
+just as with the crochet,
+things look pretty normal,
+but as you go farther out from the center,
+you get all this extra space,
+so you can fit more and more triangles.
+So they appear smaller,
+but they are actually the same size.
+Now, since the hyperbolic
+plane is infinite,
+you can keep adding triangles forever,
+and they all need to fit on the disk.
+So as you get closer to the edge,
+the triangles will appear
+smaller, and smaller, and smaller,
+infinitely smaller, never ending,
+and you can never quite reach the edge.
+This is known as the Poincare Disk Model.
+Here, straight lines are arcs of circles
+that intersect the disc at 90 degrees,
+and just like on our original shape,
+a straight line down the
+middle appears straight,
+while straight lines next
+to it appear to curve away.
+What's remarkable is that
+Bolyai didn't have a model
+of hyperbolic geometry yet,
+he was just drawing Euclidean
+triangles with the assumption
+that Euclid's fifth postulate didn't hold.
+And while Bolyai found
+that the behavior in hyperbolic geometry
+is very different than Euclid's,
+mathematically, it seemed
+just as consistent.
+(soft music)
+In 1823, the 20-year-old
+János wrote to his dad,
+"I have discovered such wonderful
+things that I was amazed.
+Out of nothing, I have created
+a strange new universe."
+(contemplative music)
+But Bolyai had been doing more
+than just tackling ancient math mysteries.
+In his twenties, he joined the army,
+where he continued developing
+two of his other passions,
+playing the violin and dueling.
+He had mastered both,
+but with a sword in
+particular, he was unmatched.
+Perhaps because of his many
+talents, Bolyai grew arrogant,
+and found it difficult to accept authority
+from his superiors.
+That made him hard to get along with.
+This reached a peak when,
+during one of his deployments,
+13 cavalry officers from his garrison
+challenged him to a duel.
+Bolyai accepted their challenge,
+on the condition that
+after every two duels,
+he could play for a little
+while on his violin.
+Bolyai fought each of them in succession,
+winning all 13 duels,
+and leaving behind all his
+adversaries on the square.
+While Bolyai loved dueling,
+his first love was still mathematics.
+In 1832,
+9 years after he discovered
+his strange new universe,
+he published his findings
+as a 24 page appendix
+to his father's textbook.
+Extremely proud and excited
+about his son's work,
+Farkas Bolyai sent it
+to perhaps the greatest
+mathematician of all time,
+Carl Friedrich Gauss.
+After careful examination,
+Gauss replied a few months later,
+"To praise it would
+amount to praising myself
+for the entire content of the work
+coincides almost exactly
+with my own meditations,
+which have occupied my mind
+for the past 30 or 35 years."
+(soft music)
+Years earlier, Gauss had
+wandered a similar path.
+In 1824, he wrote a private
+letter to one of his friends,
+in which he describes
+discovering a curious geometry,
+one with paradoxical,
+and to the uninitiated,
+absurd theorems.
+For example, Gauss writes,
+"The three angles of a triangle
+become as small as one wishes,
+if only the sides are taken large enough.
+Yet the area of the triangle
+can never exceed a definite limit."
+In other words,
+you can have a triangle
+that's infinitely long,
+but the area is finite.
+You can see why by using
+the Poincare disk model.
+A small triangle looks pretty ordinary,
+but as you make it bigger,
+the angles start to become
+smaller and smaller.
+Eventually, all those angles go to zero,
+because all these lines
+intersect the disk at 90 degrees.
+Now, these lines are infinitely long,
+but because of the geometry,
+the area is finite.
+In the same private letter, Gauss wrote,
+"All my efforts to
+discover a contradiction
+and inconsistency in this
+non-Euclidean geometry
+have been without success."
+Just like Bolyai, Gauss had
+found that this geometry
+seemed thoroughly consistent.
+He named it non-Euclidean geometry,
+a name that stuck.
+It describes geometries
+where Euclid's first four postulates hold,
+but the fifth doesn't.
+But Gauss decided not
+to publish his findings
+for fear of ridicule.
+This aversion to a
+different kind of geometry
+should at least be a little surprising,
+because there is one other geometry
+that we should be very familiar
+with, spherical geometry,
+since we all live on a sphere.
+(soft music)
+On a sphere, straight lines
+are parts of great circles,
+these are the circles
+with the largest possible circumference.
+On Earth, the equator,
+and circles of longitude,
+are examples of great circles,
+and we can use this to see
+how straight lines behave.
+These lines seem to go
+in the same direction,
+but as you keep extending them,
+you find that they intersect once,
+and then again on the
+other side of the earth.
+And this will always happen
+for any two great circles,
+because they must each
+have the largest possible circumference,
+so, on a sphere, there
+are no parallel lines.
+Gauss had long been fascinated
+by spherical geometry.
+He was also a geodesist,
+and frequently took
+measurements of the Earth.
+In the 1820s,
+he was tasked with surveying
+the Kingdom of Hanover
+to help make a map.
+As part of this survey,
+he climbed the mountains near Gottingen.
+With the help of people
+situated on other landmarks,
+they were able to carefully
+measure the angles
+of several triangles,
+which would then be used
+to determine the position
+of one place relative to another.
+As a reference for the survey,
+and to help determine the
+roundness of the Earth,
+they also precisely measured
+the angles of a large triangle
+formed by three mountains.
+But for all of Gauss' romantic notions
+of taking measurements
+on top of mountains,
+(contemplative music)
+he was not the kindest correspondent.
+When Bolyai received his hero's response,
+he was devastated,
+believing that Gauss was
+trying to undermine him
+and steal his ideas.
+He was so embittered by Gauss' response
+that he never published again.
+In 1848, Bolyai had to
+endure another hardship
+when he found out that
+Russian mathematician,
+Nikolai Lobachevsky,
+had independently discovered
+non-Euclidean geometry,
+several years before Bolyai had published
+his 24 page long appendix.
+When Bolyai died in 1860,
+he left behind 20,000 pages
+of unpublished mathematical manuscripts.
+He would not know
+that Gauss did independently discover
+non-Euclidean geometry,
+nor would he know, that
+upon receiving the appendix,
+Gauss had written to a friend,
+"I regard this young geometer, Bolyai,
+as a genius of the first order."
+(soft music)
+While Bolyai was embittered,
+non-Euclidean geometries
+continued to develop.
+Until 1854, spherical geometry
+wasn't actually considered
+a non-Euclidean geometry.
+That's because, on a sphere,
+lines can't be extended indefinitely.
+This is what earlier
+mathematicians had stumbled upon,
+and therefore dismissed this geometry,
+since Euclid's second
+postulate wouldn't hold.
+But in 1854,
+Riemann changed the second postulate
+from an infinite extension
+to something that is, quote, "unbounded,"
+so that the second postulate
+still holds on a sphere.
+With this change,
+spherical geometry became
+another valid non-Euclidean geometry.
+By using the generalized four postulates,
+and taking the fifth as there
+being no parallel lines,
+you could now derive spherical
+or elliptic geometry.
+Would you consider the
+fifth postulate a mistake?
+Would it have been better if
+he just never wrote that down?
+- If he never wrote that down,
+he would've stunted his geometry,
+'cause he wouldn't be able to prove
+a lot of things that he claimed to have.
+It's beautiful that he wrote this.
+It's beautiful that
+people spent 2,000 years
+trying to refute him,
+only to discover that,
+in fact, he was right
+in writing this in the first place.
+- [Derek] So, while Euclid was right
+to write down the fifth postulate,
+he did make a different mistake.
+- So here's the problem
+with what Euclid was doing.
+Definition 1, "A point is
+that which has no part."
+What does it mean to have a part?
+What is a part?
+What does it mean not to have a part?
+"A line is a breadthless length."
+What does it mean to have breadth?
+Lying evenly within itself,
+within the points on itself?
+What the hell is he talking about?
+We read this two minutes ago,
+and we were nodding along like,
+"Yeah, completely makes
+sense what he's saying."
+It's all nonsense.
+Don't give me a definition
+that's gonna have an infinite recursion.
+If you give me a definition
+in terms of other things,
+then you have to tell me
+what those things are.
+If you tell me what that is,
+you have to tell me what
+the thing before it is.
+- Are the definitions a bad idea?
+- You shouldn't have definitions,
+you should have undefined terms.
+I'm not gonna tell you what a point is,
+I'm not gonna tell you what a line is,
+I'm not gonna tell you what a plane is.
+All I'm gonna tell you is
+what the postulates are
+that they're assumed to satisfy.
+It's the relationships between
+the objects that's important,
+not the definitions of
+the objects themselves.
+And once you free your
+mind to that possibility,
+all of a sudden,
+you realize that there's a
+perfectly good geometric world
+in which, by line, you mean great circle,
+and by plane, you mean sphere,
+and by point, you mean
+a point on a sphere,
+and then four of those
+axioms are satisfied,
+just not the fifth.
+And similarly, there's another model,
+something called a disk
+model for hyperbolic space,
+which, the disk is the plane.
+What I mean by straight lines
+is arcs of circles that
+are orthogonal to the disk,
+and then points are
+points inside the disk.
+And the disk is the plane.
+- [Derek] See, you can
+think of geometry as a game.
+(thoughtful music)
+The first four postulates
+are like the minimum rules
+required to play that game,
+and then the fifth postulate
+selects the world that you'll play in.
+If you pick that there
+are no parallel lines,
+you're playing in spherical geometry.
+If you choose one parallel line,
+you're playing in flat geometry.
+And if you go for more
+than one parallel line,
+then you're playing in
+hyperbolic geometry.
+But Riemann decided to
+take it one step further.
+Instead of selecting just
+one world to play in,
+why not combine them all into one?
+During his inaugural speech in 1854,
+he laid out the groundwork for a geometry
+where the curvature could
+differ from place to place.
+One part might be flat,
+another part might be slightly curved,
+and yet another part might
+have a very strong curvature.
+And this geometry wouldn't be limited
+to two-dimensional planes either,
+it could be extended to
+three or more dimensions.
+(contemplative music)
+Another breakthrough came in 1868,
+when Eugenio Beltrami unequivocally proved
+that hyperbolic and spherical geometry
+were just as consistent
+as Euclid's flat geometry.
+That is, if there were any inconsistencies
+in hyperbolic or spherical geometry,
+then they must also be present
+in Euclid's flat geometry.
+The prospects for these new
+geometries were looking great.
+And it turns out, this
+was just the beginning.
+(soft music)
+In 1905, Einstein proposed the
+special theory of relativity,
+which is based on just two postulates.
+One, "The laws of physics are the same
+in all inertial frames of reference."
+And two, "The speed of light in a vacuum
+is the same for all inertial observers."
+So, as a result, space
+and time must be relative.
+But that created a problem
+for Newtonian gravity,
+because, according to Newton,
+the force of gravity is
+inversely proportional
+to the distance between
+the two objects squared.
+But in Einstein's special relativity,
+that distance is no longer well-defined.
+In whose reference frame are we measuring?
+And so Einstein had to
+find a way to reconcile
+relativity and gravity.
+Two years later, in 1907,
+Einstein had the happiest
+thought of his life,
+he imagined a man falling
+off the roof of a house.
+And what made Einstein so joyful
+is that he realized that
+while the man is falling,
+he would feel absolutely weightless,
+and if he let go of an object,
+it would just remain in
+uniform motion relative to him.
+It would be just like being
+in space, not near any masses,
+floating around in a spaceship
+at constant velocity.
+And that is an inertial observer.
+Now, here's the big breakthrough,
+Einstein realized that
+they're not just similar,
+they are identical,
+because there is no
+experiment you could do
+to determine whether you're in free fall
+in a uniform gravitational field,
+or whether you are in deep space,
+not near any massive objects.
+And so the free-falling man too
+must be an inertial observer,
+meaning he is not accelerating,
+and he's not experiencing
+any force of gravity.
+But if gravity is not a force,
+then how do you explain things
+like the space station orbiting Earth?
+Shouldn't it just fly
+off in a straight line?
+Well, astronauts in the space
+station also feel weightless.
+And that's the key,
+it feels just as if they're
+traveling at constant velocity
+in a straight line.
+It feels like that
+because that's precisely
+what they're doing,
+they're traveling in a straight line.
+How, then, could that
+straight line appear curved
+to a distant observer?
+The answer is,
+because the space time that
+straight line is on is curved.
+See, massive objects curve spacetime,
+and objects moving
+through curved spacetime
+will follow the shortest path
+through that curved geometry,
+the geodesic.
+So, while astronauts in the space station
+are following a straight line,
+it appears curved to a distant observer
+because the Earth curves
+the spacetime around it.
+So, the behavior of straight
+lines in curved geometries
+is core to understanding
+the universe we live in.
+And in the more than a hundred
+years since it was published,
+the general theory of relativity
+has been remarkably successful.
+(soft music)
+In 2014, astronomers briefly
+observed a supernova,
+a violent and extremely
+bright death of a star.
+In fact, they saw the exact same supernova
+in four different places.
+How?
+Well, in between the supernova and earth,
+there was a massive galaxy,
+which curved space time,
+so light from the supernova,
+which was spreading out in all directions,
+had several different
+paths to reach the earth,
+and four of those reached Earth
+at approximately the same time.
+The galaxy had functioned as
+a massive gravitational lens.
+The astronomers realized that
+other galaxies in the cluster
+might also lens the light
+from that supernova,
+but with different path lengths
+and gravitational potentials,
+so the light would reach
+earth at different times.
+After careful modeling,
+they predicted that
+they should see a replay
+of that supernova just a year later.
+And on the 11th of December, 2015,
+just as predicted, they saw
+the same supernova once more.
+In addition to being able
+to observe the effects
+of curved spacetime,
+we can now even measure the
+ripples of space time itself,
+gravitational waves
+formed by cosmic events,
+far, far away,
+like the merger of black holes.
+And according to a recent
+survey by NANOGrav,
+the fabric of spacetime
+seems to be buzzing
+with the remnants of grand cosmic events.
+In the hundred years since
+general relativity was published,
+countless findings have
+supported its predictions,
+and at its very core are
+the curved geometries
+of Bolyai and Riemann.
+But so far, all the
+effects we've looked at
+are local distortions of spacetime.
+What is the shape of the entire universe?
+(stars whooshing)
+(contemplative music)
+Using the differences
+between the geometries,
+we can find that out too.
+In flat geometry,
+we expect all the angles of a triangle
+to add up to 180 degrees without fail.
+But in spherical geometry,
+the angles don't add up to
+180 degrees, but to more.
+Similarly in hyperbolic geometry,
+the angles add up to
+less than 180 degrees.
+So, to determine the
+shape of the universe,
+you just need to measure
+the angles of a triangle.
+And measuring a triangle is
+precisely what Gauss was doing
+200 years ago.
+In fact, this led some to speculate
+that he was actually trying
+to measure the curvature
+of space itself.
+The angle he found,
+180 degrees, within observational error.
+But that shouldn't be very surprising.
+Take this balloon, for example,
+which approximates a sphere.
+If I draw a small triangle on it,
+well, the surface I'm
+drawing on is basically flat,
+so the angles inside the triangle
+will add up to essentially 180 degrees.
+Only if I make the triangle large enough
+will the effects of
+curvature come into play,
+and then the angles in the triangle
+will add up to more than 180 degrees.
+And this was the problem
+with Gauss' experiment,
+even if he was trying
+to measure the curvature
+of space itself, for which
+there is no solid evidence,
+the triangle he measured
+would've been far too small
+relative to the size of the universe.
+(ball thudding)
+(soft music)
+So, in order to overcome the scale issue
+that Gauss encountered,
+we need to scale the triangles
+formed between mountains
+up to the largest triangles we can.
+And since looking further and further away
+is the same as looking
+further back in time,
+we need to look back as far as possible,
+to the very first light we can see,
+the Cosmic Microwave Background, or CMB,
+a picture from when the universe
+was just 380,000 years old.
+While the CMB is almost
+completely uniform,
+there are some spots that are
+slightly hotter or colder.
+Now, we know how far away the CMB is,
+so if we can figure out
+how large such a spot is,
+then we can draw a cosmic triangle.
+It's thought that the first density
+and temperature variations
+originated from quantum fluctuations
+in the very early universe,
+which were then blown up
+as the universe expanded.
+But due to this rapid expansion,
+not all regions were in causal
+contact with each other.
+So, using the information we have
+of how the early universe evolved,
+astronomers can predict how
+often spots of different sizes
+should appear in the CMB.
+This is what this power spectrum shows,
+essentially a histogram of how often
+each spot size should occur
+if the universe is flat.
+So now we have something to
+compare our measurement to.
+If the universe is flat,
+the angle we measure on the sky
+should be the same as we'd expect.
+But if the universe is
+curved like a sphere,
+the angles of the triangle should add up
+to more than 180 degrees,
+so the angle we'd measure
+would be larger than predicted,
+and this peak would shift to the left.
+Similarly, if the universe
+has hyperbolic geometry,
+then spots should appear
+smaller than predicted,
+and this peak would shift to the right.
+So, what do we measure?
+This is the data from the Plank mission,
+which is almost exactly what you'd expect
+if the universe were flat.
+This mission also gives us
+the current best estimate
+for the curvature of the universe,
+which is 0.0007, plus minus 0.0019.
+So that's basically zero
+within the margin of error.
+So we're fairly certain
+that the universe we live in is flat.
+But living in a flat universe
+seems to be remarkably serendipitous.
+(contemplative music)
+Right now, the average mass energy density
+comes down to the equivalent
+of about six hydrogen atoms
+per cubic meter.
+If, on average, that was
+just one more hydrogen atom,
+the universe would've been
+more spherically curved.
+If there were just one less,
+the curvature would be
+hyperbolic geometry.
+And so far, we're not
+entirely sure why the universe
+has the mass energy density it has.
+What we do know is that general relativity
+is one of our best physical
+theories of reality,
+and at the very heart of it,
+are those paradoxical and
+seemingly absurd geometries,
+ones we found because mathematicians
+spent over 2,000 years
+thinking about a single sentence
+from the world's most famous math text.
+(high-tech blooping)
+When it comes to human brilliance,
+it's not just what you know,
+it's also how you think,
+and a great way to improve how you think
+is by building your knowledge
+and problem solving skills.
+So if you're looking
+for a free and easy way
+to do just that,
+then check out this video's
+sponsor, brilliant.org.
+With Brilliant,
+you can master key concepts
+in everything from math and data science
+to programming and technology.
+All you have to do is set your goal,
+and Brilliant will design the
+perfect learning path for you,
+giving you all the tools
+you need to reach it.
+Want to follow in the
+footsteps of Euclid and Bolyai?
+Then Brilliant's latest
+course, Measurement,
+is the perfect addition to
+your problem solving toolkit.
+The course takes you on a tour
+through the essentials of geometry,
+getting you hands-on with concepts
+to help sharpen your
+spatial reasoning skills.
+A solid foundation in geometry
+can be a launchpad to
+hundreds of applications,
+everything from computer graphics
+and data clustering in AI algorithms
+to understanding Einstein's
+theory of general relativity.
+Beyond measurement,
+Brilliant has a huge
+library of things to learn.
+But what I love most about Brilliant
+is that they connect what you
+learn to real world examples.
+And because each lesson is
+hands-on, you'll build intuition,
+so you can put what you've
+learned to good use.
+To try everything Brilliant has to offer
+for free for a full 30 days,
+visit brilliant.org/veritasium,
+or click that link down
+in the description.
+For the first 200 of you,
+you'll get 20% off Brilliant's
+annual premium subscription.
+So, I wanna thank Brilliant
+for sponsoring this video,
+and I wanna thank you for watching.

@@ -1,0 +1,2551 @@
+On the latest Masters in Business
+podcast, An amazing conversation.
+I sit down with Brian Timmer.
+He's the director of Global Macro at
+Fidelity.
+They run about $16 trillion in client
+assets.
+They touch about 50 million separate
+clients.
+What an amazing conversation.
+European has been started out in fixed
+income before he became a market
+technician.
+Now global macro is his beat, which
+means he covers everything U.S.
+overseas equity bonds, commodities,
+economic data.
+I thought this conversation was
+fascinating, and I think you will also
+what a depth and breadth of knowledge.
+With no further ado, my conversation
+with Fidelity's Uri and Timmer.
+Welcome to Bloomberg.
+Thank you very much, Barry.
+I've been looking forward to this.
+I've been consuming your stuff for it
+feels like forever.
+I'm a big fan of what you do.
+But before we get to your work at
+Fidelity for the past three decades,
+let's talk a little bit about your
+background.
+You get a Bachelors in Finance from
+Babson College.
+What was the original career plan?
+Well, so I was born and raised on the
+island of Aruba in 1962, when Aruba was
+still very small and sheltered and as a
+Dutch citizen, now also an American
+citizen.
+But, you know, generally, the the Dutch
+kids would go to Holland to go to higher
+education.
+But I was in love with the American
+culture.
+I met many tourists on the beach, you
+know, And so I wanted to go to the
+states and do the American thing.
+And then my father, who was an importer
+of construction materials, etc., he had
+contacts in Boston.
+They said, okay, well, you should send
+your your kid to Babson because it's
+small.
+He won't be overwhelmed as as an
+international student.
+And I've always wanted to be an
+architect.
+But then in the last year before
+finishing high school, I'm like, I don't
+think I'm good enough to be an
+architect, so let me do business.
+And I figured, you know, there's always
+something you can do with a business
+degree.
+And so I studied finance with a minor in
+investments, and then, you know, I
+graduated with no work permit, right?
+So I was in that place where you need to
+have obviously a work permit.
+So back then, I don't know if it's still
+the case, but back then you got one year
+practical training visa and then you had
+to go, you know, get a get a real a real
+visa.
+And so I took literally the only job
+that was offered to me in the United
+States.
+So I applied to every Dutch company.
+I figure at least they'll have maybe
+some sentimental reasons to hire a Dutch
+person.
+I could have worked in Holland, of
+course, but I wanted to be in the
+States.
+So the Dutch bank ABN, which later
+became ABN Amro, right, hired me.
+I went to New York into their corporate
+banking credit program in which I had
+zero interest.
+But it's like, you know, this is the job
+intended, not the boss.
+But you eventually become pretty senior
+in the fixed income group at ABN.
+Yeah.
+So I was very lucky.
+And again, you know, it's sort of you
+take the job that's offered to you and
+you make the best of it.
+You know, you play the hand that's
+dealt.
+And literally within a few months,
+ABN set up a capital markets group
+because, you know, we were the the
+primary dealer in New York together with
+LaSalle National Bank in Chicago for the
+HQ in Amsterdam, which of course was one
+of the world's largest banks at the
+time, and a very large Treasury book.
+And so I was the person who would
+execute the trades for HQ.
+So I became a client of like Solomon
+Brothers and Smith Barney and, you know,
+Goldman Sachs, etc..
+And so I got into the Wall Street game
+and I learned everything about fixed
+income.
+And to this day, I'm, you know, like if
+you're either a stock market person or a
+global macro person, having a foundation
+and fixed income is so important.
+It's so true.
+You say that some of my favorite stock
+analysts began as bond analysts because
+they're concerned about return of
+capital, not return on capital.
+And it focuses them very much on staying
+away from the speculative nonsense.
+And it's been very consistent over the
+years.
+I have a list of some favorite people in
+that space.
+So so you start out in fixed income.
+When did technical analysis and becoming
+a a CMT arise in your journey?
+So I was at ABN Amro in New York for ten
+years.
+And so I'm, you know, I'm there
+executing trades, learning about the
+markets, watching my tolerate and the
+Bloomberg's for still there were the
+quad screens with the amber right and
+you know I just I've always been a
+visual person and so I started
+gravitating towards charts and you know
+charts are kind of the mainstay of what
+I do even now, 40 years later, 40 years
+later.
+Yeah, it's great.
+And I like to write.
+I think I get that from my dad, who's a
+great writer.
+And so I always had this kind of urge to
+put pen to paper and and to show charts.
+And so I just started writing a
+newsletter for the people in my universe
+at the time.
+And, you know, it would be like charts
+from Coogee cut out, taped onto a type
+report and then faxed to people like
+that's what the technology was back
+then.
+And so it was, oh, so that's how it
+started.
+And then I ended up, you know, getting
+the the chartered market technician,
+although that may have been during the
+fidelity or so.
+So how did you go from ABN Amro to
+Fidelity when was up?
+So even so, the culture at ABN Amro
+not not to spill any beans, but this was
+a long time, two years ago.
+30 years ago.
+I didn't like where it was going.
+So we even had a bank in Chicago and
+they saw what a profit center in New
+York was.
+So they wanted to they wanted me to work
+for them, become a commission salesman.
+And I'm like, That's not what I do.
+And just coincidentally, at that time,
+Fidelity came looking around, looking
+for the most obscure job in the world, a
+fixed income technical analyst, right?
+I mean, talk about a narrow field, very
+specific.
+So that was in 1994.
+Around that time, you know, I was kind
+of looking around and and I had two
+major career highlights within six
+months of each other, because in 94, I
+was approached by Paul Tudor Jones's
+company.
+Oh, really?
+And so I had a meeting with Paul in his
+office downtown New York with this giant
+teller on the screen.
+And we were looking at the bond chart in
+94, the bear market.
+Right.
+And he very famously had called the 87
+crash before.
+And he was like, is that do you think
+that's a fourth wave?
+And we were having that conversation.
+That was great.
+And then, you know, I was approached by
+Fidelity and I ended up going with
+Fidelity.
+But the last interview of that process
+was with Ned Johnson.
+Oh, really?
+And so I was the founder.
+I spent an hour with him in his office
+talking about bankers because I was
+hired to go into the chart room.
+And at Fidelity, nobody got into the
+chat room without Ned's blessing,
+because then back then, were they still
+doing charts by hand?
+Yep.
+I mean, and so, so that, so that.
+Anyway, so that's how the Fidelity
+career started.
+And it was it was interesting because
+this is now early 95 and of course 94
+was that bear market with the so-called
+tequila crisis in Mexico.
+And so that and the new mandate from
+upstairs in 95 was we're not making any
+duration bets.
+You just stick to your bottom up.
+You know, you look at credits and like,
+I'm coming in there as a technician.
+I'm like, what am I supposed to do now?
+Like, there really is nothing for me to
+do.
+And so at that point, I kind of
+reinvented myself and became multi
+multiasset.
+And I went to the equity side.
+And anyway, so that was the when you say
+multi asset, I think you're the only
+person in all of finance with the title
+director of global macro global means
+around the world, macro means 30,000
+foot view is everything out there in
+your jurisdiction.
+Pretty much so I don't do security
+selection.
+I you know we have armies of very
+talented but you do stocks bonds all
+crypto commodities, gold you name it
+everything but it's top down as well as
+economic data.
+Yes, interest rates, employment, etc.
+And that's how I transitioned from being
+a technical strategist to being more
+kind of multidisciplinary because I
+quickly learned to at Fidelity as I was
+roaming the halls, pitching ideas to to
+portfolio managers who generally are
+fundamentally oriented.
+Right?
+I'm like, you know, I'm it's like I'm
+speaking a different language, right?
+So Fidelity has always had a lot of
+technical analysts and the chat room.
+But I, I had to like, reinvent myself
+again and pivot towards at least
+speaking their language And like, you
+know, a chart is a chart, right?
+It can just be a bar chart of the S&P or
+it could be of the p e ratio or earnings
+or monetary policy.
+So I figured a charts a chart.
+I'm going to like weave a broader
+approach to this.
+And that's where kind of I came up with
+the title.
+So whenever I see a technician and a
+fundamental analyst having a discussion
+somewhere along the line, someone says,
+Look, I am a technical analyst, I'm just
+telling you what's going on in the
+battle between supply and demand.
+It's up to you to create a narrative
+around that.
+You tell us what's going on.
+Fundamentally, I don't know, but I can
+tell you who's winning the buyers or the
+sellers.
+Yeah, so the fundamentals tell you.
+Kind of the why,
+maybe the what and the why and the
+technicals tell you kind of the when and
+the how much it helps give you
+conviction.
+And generally speaking, we use technical
+analysis like our equity PBMs do, like
+they're obviously going to have an idea
+about a company and what their long term
+prospects are.
+But then our technical analysts will
+say, okay, well, you've rated this stock
+a one meaning strong buy, but the chart
+looks like hell.
+Like you should be aware that what's in
+what's happening is not the same as what
+should be happening.
+And may be it takes time, but it's like
+so it's the second opinion which can be
+very helpful and the other way around as
+well.
+Like a chart looks amazing, but it gets
+a really poor fundamental ranking.
+And we also have a quantitative team
+that does a quant overlay as well.
+So so we talked about global macro.
+I'm curious, you're a Dutch citizen,
+originally born and raised in Aruba, now
+a citizen of the U.S.
+for the past 25 years.
+How does that international upbringing
+affect how you see the entire world of
+assets?
+Yeah, it's a great question.
+I do think
+that I'm I've been privileged to grow up
+in a very diverse environment.
+Like if you look at old high school
+pictures, I'm like maybe one of two
+white kids in there.
+Everyone else is different shades of
+yellow brown.
+You have all kinds of
+ethnic sort of diversity.
+What is the name for people from Aruba?
+Well, they're Arubans, Aruban.
+Is that all it is?
+Yeah,
+But so very, very diverse.
+And and so I think and also just going
+to different countries and learning
+different cultures or being exposed to
+them, I think it's helped me like I view
+myself sort of as a global citizen.
+Well, you're a globetrotter.
+You're you're in the U.S., you are in
+California, you're in New York, Boston.
+You go on to where?
+What's your next few stops?
+London.
+I'm flying to London on Saturday.
+I'll be in Geneva after that.
+And then we were just in Lake Geneva a
+year ago.
+Yeah.
+And then actually we're going to
+Holland, because my parents are they
+live in The Hague.
+They're celebrating their 70th wedding
+anniversary.
+So that's what there is, their 91 and
+97.
+So we've got three generations of Temer
+descending on The Hague.
+That's in about in about a week and a
+half.
+So, you know, talking about global
+trials, I'm in Amsterdam for a week.
+Two years ago, I feel like, oh, look how
+sophisticated lam I was just a tourist
+for seven days, but one of my favorite
+cities.
+Yeah.
+And I like, I think what I feel at home
+in almost any place really in the world.
+And, you know, when it's hard to
+understand what someone says because the
+English is not their first language, you
+you can kind of like you figure it out
+because you just kind of used to this,
+you know, this environment where
+everyone's coming from different places
+and and like, you know, even now, like I
+run and it's is totally separate topic,
+but I run a food camp at Burning Man and
+it's a very global camp.
+We have 90 people and we all cook meals
+that we gift away to the artists there,
+but we have like 30 Brazilians and we
+have like French and Swiss and Mexican
+people and obviously Americans.
+And that like it's it's easy to do
+because you just used to having all
+these different cultures in the same
+space.
+So I'm kind of fascinated by the new I
+don't love the earbuds.
+They're not comfortable in my ear.
+But the new air enables instant
+translation.
+That is Star Trek Next level is
+futuristic.
+I can see that saying, Oh, you want to
+go to Japan or Korea?
+China, here you go, knock yourself out.
+So that that sort of technological
+innovation is that that turns it into a
+must have technology for sure.
+How many languages do you speak?
+I speak obviously.
+Dutch is my native language, English.
+I used to be totally fluent in Spanish,
+but I've I've kind of lost that.
+And then, of course, there is the world
+language called Puppy Memento, which is
+what they speak in Aruba, which is
+essentially kind of a Spanish Portuguese
+blend.
+But if you don't know a word, you can
+just say it in Dutch or English.
+And it is and it's completely
+accessible.
+Really fascinating.
+So we were talking about
+what a globetrotter you are.
+Let's trot around the world and talk
+about various asset classes since you
+began your career with bonds.
+Let's let's start with bonds.
+How do you see what's been going on with
+Treasury yields anticipating not only
+the 25 basis point we had in September,
+but perhaps a couple more this year and
+next?
+Yeah, So so Treasury yields such an
+interesting market right now.
+We've been stuck sort of between four
+and 5% for a while.
+For a while.
+And when we go above four and a half,
+it's like nothing good happen.
+It's like the old Fed model from the
+Greenspan days comes lurching back and
+it starts to wobble the stock market
+because the bond yield and the equity
+yield are about the same right now.
+And and so that that takes you back to
+the the eighties and and, you know,
+mid-nineties and even the seventies and
+sixties where bonds the stocks were
+positively correlated instead of
+negatively correlated that happened that
+that began you know during the great
+moderation era late nineties until Covid
+basically and said that in 2022 of
+course, the correlation flipped back to
+positive.
+It was rising yields that caused the
+problem in the stock market.
+And and so there's a whole broader
+conversation about the 6040 but just
+dealing with treasuries right now.
+So as you get close to five, it really
+starts to freak the stock market out.
+But also the bond buyers start to emerge
+because there's value, right?
+I mean,
+yields over two and a half percent
+inflation, you're actually income is
+back into fixed income.
+Right.
+But down at four when you have a growth
+scare, kind of like I mean, I wouldn't
+say it's growth scare, but there's
+there's some nervousness and some I hate
+the word uncertainty, but there's a lack
+of clarity as to how all these things
+tariffs yield FOMC plays out.
+Yeah.
+So so at four generally I would be a
+better seller than than a buyer.
+But this question of, you know, fiscal
+dominance, you know, clearly the
+administration wants to grow out of the
+debt.
+I think that's the very
+overt plan for if you listen to Scott
+Bessant or they're pretty explicit about
+it.
+And so they're trying to goose the
+economy and outrun the debt because
+everyone knows you can't really cut the
+debt very much because too much of the
+budget is under is not discretionary.
+And so that's the plan.
+And I think it's basically it's a good
+plan because what are the alternatives,
+right?
+Raising taxes and cutting spending,
+which we know what the odds of that.
+Yes.
+But running kind of that fiscal train
+means deficit spending, or at least
+that's part of it.
+And that means more supply.
+And that could mean higher term premia
+for for long treasuries.
+And we saw we've seen that right.
+The term premium during the QE, QE
+financial repression days was like -150,
+which makes no sense.
+A term a risk premium should always be
+positive.
+And now it's plus 60 plus 70.
+But historically it's been plus 150 or
+even more.
+And so if if the term premium mean
+reverts back to a normal level, positive
+level, because deficit spending and debt
+levels are rising, you could easily see
+a five handle on Treasuries and a five
+handle on Treasuries are not going to
+sit well with equities like the equity
+market can go up, earnings can drive the
+bus, but the PE gets under pressure
+because the risk free asset is now
+competing with the risky asset and
+they're offering the same yield.
+So quick question on that.
+In the 20 tens or at least towards the
+end of the 20 tens, we had an inverted
+yield curve for a while.
+What's the impact of that on that term
+premium or lack thereof?
+Yeah, so we had that very inverted yield
+curve.
+Obviously it shouted recession and it
+didn't happen.
+And I think the reason in hindsight was
+that the economy is just less interest
+rate sensitive than it used to be.
+Right?
+So everyone refi their mortgage in 2020
+and 21 at sub 3%.
+That's also why the housing market is
+frozen.
+Right.
+But also, if you look at the big banks,
+Right.
+Why is a yield curve inversion typically
+bad is because banks net interest
+margins goes upside down, Right.
+They borrow short, lend long.
+And so banks stop lending and you get a
+credit crunch and you get a recession.
+But in this case, the large banks, you
+know, if you notice your your deposit
+rate at the large mega center banks has
+not really gone up commensurate with the
+yield on money market funds.
+Right.
+So that deposit rate went up to a half a
+percent and is now coming back down
+again.
+So for a large bank, the yield curve not
+only was never inverted, it was
+extremely steep, half a percent funding
+rate.
+If you're if you're funding your loans
+on deposits and you're paying half a
+percent on those deposits and you can
+lend at seven or 8%, you'll do that all
+day long.
+And yet at the same time, we've watched
+money markets go 5 trillion, 6 trillion,
+7 trillion.
+It's become so easy with your app to
+move money from, Hey, I'm going from
+Chase to Schwab.
+I'm going from City to Fidelity where
+I'm getting real yield.
+I wonder how much technology plays a
+role in people.
+It used to be a pain in the neck.
+Oh, I'm getting a quarter percent in my
+checking account, but do I really want
+to write a check and mail it out and
+wait for the.
+Yeah.
+So.
+So you leave money at the bank for
+convenience.
+You know, you got bills to pay, but if
+you have extra cash, you're buying a CD
+or money market fund or buying T-bills.
+So.
+What have you.
+And it's a lot easier than it used to
+be.
+And so now you've got 7 trillion in
+money market funds, which a lot of
+people actually think is money waiting
+to be invested in the stock market.
+But I don't think there's really a
+signal there because I think that money
+came out of the banks and probably will
+go back to the banks.
+So some people have said, hey, as soon
+as the Fed starts cutting rates, it'll a
+make the cost of borrowing cheaper for
+corporate America as well as American
+households.
+And B, is going to scare some of that
+money away and it's got nowhere to go
+but equity fear narrative for kind of a
+lot of wishful thinking.
+It could be a combination of both.
+But if you typically look at when money
+market fund assets swell like it did
+during the pandemic, it's money coming
+out of the stock market seeking a safe
+haven.
+And then when the stock market recovers,
+the money goes back in the stock market.
+That's not the pattern.
+This year.
+The money came out of the banks in part
+because of like the Silicon Valley
+debacle, but also 500 basis points of
+rate hikes, 2022.
+So money markets went from 0 to 5 and a
+half, suddenly attractive and depositors
+went from zero to half, you know, so
+money markets yielded ten x the bank
+deposit.
+And so some of that may go to the stock
+market, but but it didn't come from the
+stock market, let me put it that way.
+So you noted something really
+interesting.
+I remember you wrote in 2022, Bonds went
+from being a port in the storm to the
+storm itself.
+Yes.
+So normally we think of money leaving
+equity and going in the safe harbor of
+money markets.
+Were we seeing money exiting bonds and
+going to money markets?
+Is that what happened?
+Was it a duration play from among sort
+of the typical investors?
+We we have not really seen an exodus at
+all.
+And I think part of that is just the
+demographics of, you know, the baby boom
+solving for income more so than growth.
+So you look at fund flows into fixed
+income, they've remained strong and they
+were strong at, you know, 1% and they're
+strong at 4%.
+So I think that is more of a structural
+trend than playing the markets, if you
+will.
+Like I think the average investor is not
+looking at, okay, well, real rates are
+now positive.
+So let me do this.
+But they're solving for outcomes.
+They're buying solutions based funds
+like like our target date will have
+certain amount of fixed, which has just
+attracted so much money in for one case
+over the past 20 years.
+It's it's amazing.
+So let's talk a little bit about
+equities.
+I keep hearing people complain about
+valuations, but if you stayed out of
+equities due to elevated valuations, you
+miss most of this run from the 2013
+breakout.
+Yes.
+So
+so the market obviously is very
+bifurcated.
+We've got the Mach seven, the cap
+weighted PE is, you know, 23, 24, the
+equal weighted P is 18.
+So there's a very large gap there.
+You know, if you look back at the mid to
+late nineties, which is a kind of an
+analogous period to today.
+Right, we had the the 94 stealth bear
+market when Greenspan raised rates 300
+basis points, then he gave back 75 and
+we had a huge rally and it was also the
+start of the Internet boom.
+You know, the Netscape IPO I think was
+like in 96.
+Yeah.
+So the post 2022 periods, very analogous
+to post 1994, you know, soft landing is
+off the brakes, markets, markets rip and
+then the post 98 long term capital.
+Yeah that you know 22% decline very
+robust recovery and then Greenspan eases
+three times into that recovery.
+We're seeing the same thing now.
+We had a 21% tariff tantrum, Right?
+No recession.
+You know, the kind of the administration
+backed off very, very strong, one of the
+strongest ever recovers from a 20%
+decline other than 1998.
+And then now Powell is easing into that.
+And so but the point is that that period
+saw almost nonstop, multiple expansion.
+And that's what we've seen since 2022.
+And, you know, these are they have they
+are strong predictors of long term
+returns.
+So if you take a ten year cap ratio and
+you've regressed that against ten year
+forward returns, you see a very high
+you know, it explains the forward
+returns very well.
+But over the near term, a high P has
+very little to say about the next year
+or two.
+And this is because the market tends to
+be in a rising trend.
+Momentum begets momentum.
+And that's what what we're in.
+So it's it's a you know, it's a tough
+game to time.
+On the mean reversion of PS Either way,
+even though we know that historically
+it's between ten and 30 and it does mean
+revert but when the mean revert
+reversion starts and from what level is.
+Very, very difficult to do, especially
+during secular trends, which I think
+we're very clearly in.
+So, so many different places to go with
+this.
+I have a dozen questions.
+Maybe we'll go a little long the segment
+and delve deeper into equities.
+I love the concept of a secular bull
+market as opposed to a cyclical, but I
+think a lot of people don't really
+understand the difference.
+Give us your definition of what is a
+secular bull market when this one began
+and why.
+Yeah, so we have so we have the market
+cycle, which is generally driven by the
+business cycle.
+So you have a recession and you have the
+early cycle recovery where things get
+less bad.
+And of course the market is always
+anticipating that the market's always in
+price discovery and this is why at
+bottom price will lead earnings, which
+is why the PE always goes up in the
+first year of a bull market like it
+always does.
+And it doesn't make sense on the
+surface.
+People are like, Oh, this can't be real.
+It's all driven.
+Where are the earnings for the markets
+just from growing the earnings?
+Yeah, but then there are the secular
+trends and you know, if you go back 100
+years, you can see them,
+you can spot them very easily because
+the market has a kind of central trend
+line plus 10% nominal plus seven, six
+and three quarters real.
+And if you run a regression trend line
+against the total real return of the S&P
+or some basket of stocks going back 150
+years, it's like perfect.
+And then you have the pendulum swinging
+above it and below it.
+So you have very noisy, but still the
+overall trend is being maintained.
+You have these super cycles where you're
+outperforming the trend line.
+So the eighties and nineties was one of
+those.
+So instead of a 10% return, we got 18%
+returns for like eight years, the
+fifties and sixties after World War two,
+the twenties, that was a truncated one,
+but from 20 to 29, boy, did that thing
+go.
+And since oh nine is where I put it,
+other technicians generally disagree
+with me.
+They think it was 2013.
+When you look at the Cape model, you
+look at deviation from trend, you look
+at the slope of those early trend lines.
+For me, it's oh nine, which puts us at
+16 and of course, and then you have the
+secular bear markets, right?
+So the 2000 was one of the 1970s, very
+famous, of course, 1930s.
+Doesn't mean the market necessarily goes
+down, but it it's underperforming that
+10% trend line.
+And generally in real terms, it's
+probably going down.
+And so that's kind of how I define the
+secular trend.
+So we are in agreement on so much stuff.
+I'm going to circle back to oh nine and
+push back a little bit.
+But you mentioned that first year you
+get a spike as the market anticipates
+improving earnings.
+One of the things that's kind of
+fascinating is to see how much of a bull
+markets gains are attributable to not
+improving fundamentals, but multiple
+expansion from 82 to 2000 was it three
+quarters of the gains were multiple
+expansion.
+How much of that is psychology and how
+much of that is just people getting on
+board late in as the market rallies?
+It it's it's both.
+But yeah, for instance, in 82 the PE was
+like seven and in 2000 and what was a
+yields in 82 is double digits, almost
+20% competition.
+And then in 2000, yes, exactly.
+And in 2000 the P was 35 using operating
+earnings that that was the forward PE.
+Actually the trailing feels like 45.
+So that's a hell of a pendulum swing.
+Yeah.
+And you know, obviously 1982 inflation
+was very high.
+The at the malaise of in the economy
+bonds were very competitive.
+Nobody wanted to pay for earnings.
+The death of equities was the few years
+early on.
+Death of equities.
+Yes, for sure.
+And then people become more comfortable
+and then they go from comfortable to
+confident.
+And then it's like, yeah, I'm going to
+pay.
+I'm going to pay 20 or 25 times these
+earnings.
+And then of course, then you have to
+gross the growth stocks.
+So the late nineties obviously were, you
+know, I used to call them the Janice 20.
+There was a fund which as I recall the
+most stocks.
+And so remember the Ryan net net fund.
+Yes, exactly.
+And of course right now it's the Mag
+seven formerly known as the as the
+fangs.
+And those are secular growers.
+Right.
+And there is a theme, right?
+It was Internet back then, It's air now
+and people get onto the onto the
+bandwagon and it's like, yeah, you know,
+I'll pay 35 times earnings for a company
+that is in this space and is going to
+grow their earnings in a secular way,
+not a cyclical way.
+And so it's totally plausible and
+understandable, but at the end it goes
+too far.
+And I don't think we're we're anywhere
+close to that.
+But then you start looking for signs of
+froth.
+But yeah, but that's that's the pendulum
+swing.
+So.
+So let's talk about oh nine.
+And why so many of your technical
+brethren dated to 2013, which was when
+all of the major indices broke out over
+their prior trading range.
+So the pushback I hear to oh nine is,
+well, that's like dating the 82 to 2000
+bull market to the lows in 73, 74.
+And you're still all you're doing over
+that period is recovering.
+The sell off today are what we were down
+56 57% from October seven to March nine.
+And then to get back to where you were
+in oh seven.
+It took till 2013.
+Yeah.
+So.
+So why only as opposed to 13?
+It's totally legit argument.
+But I would say a couple of things.
+One is this is not an exact science,
+right?
+There's only been two or three or four
+secular bull markets, right?
+Small data says small data set.
+It's it's not a quant model.
+You have to look at the chart at the
+slope.
+So I date the secular bull market
+from the fifties.
+I date at 49.
+Even though 49 was not the low right of
+the low was 3646, something like that.
+But in 49, something changed and the
+slope started to, you know, like the
+market found itself and that trajectory
+started to really compound at double
+digits.
+And you broke out of that big shelf that
+was really from 29 all the way to 4970.
+The low was, of course, in 74 October
+74, after 48% bear market.
+We had some other little cycles, but
+then in 82 it took off.
+That was a change in the fundamentals
+code.
+Volcker broke inflation.
+And so and then you look at the so then
+I get verification from the
+fundamentals.
+So then so I look at the charts and yes,
+I see the argument and I agree it's a
+good point.
+But in oh nine, the market just went
+straight up.
+After a decade of sideways.
+In 82, the market went straight up after
+a decade of sideways in 49.
+Same thing, whether the low was in or
+not.
+And of course, in real terms, the 82 low
+was below the 74 lows.
+So because of inflation, you really felt
+so, so, so.
+So I want to get second opinions from
+the real chart and from the
+fundamentals.
+So the Cait model, again, where you
+compare the ten year P to the ten year
+forward return, looks very similar at
+the oh nine and not similar at the 13
+when the market already had a lot of
+momentum.
+And then the other thing I look at it
+again that 150 year regression trend
+line of the real S&P in 50 years.
+Yeah.
+And so at the at secular peaks the
+market is about 100% above the trend
+line.
+And at secular troughs it's about 50%
+below.
+So that point was in oh nine, it was not
+in 13.
+So, so I look at that at like the weight
+of the evidence from a multitude of
+indicators.
+And again, it's not an exact science.
+I'm not saying I'm right, they're wrong,
+but that's for me, that's where I get.
+But you've been a whole lot more right
+than than many other people.
+And it's interesting.
+So in oh nine, you know, I was actually
+running a fund back then, a kind of a
+global macro fund.
+And I was like, the market was so
+depressed.
+Right?
+So remember March of oh nine?
+Sure.
+Of course.
+And I'm like, you know, I want to be
+long,
+but what if I'm wrong?
+And I'm like, at this point, if I'm
+wrong, so what?
+You're already down 50 cut in half.
+But at that point, the whole system is
+going to collapse.
+So it's like, why?
+Why not?
+Why not bet at that point?
+And so, yeah, when is down more than 50%
+in U.S.
+markets?
+Not a great entry point.
+I mean, that's one thing.
+But I have to ask you a question about
+oh nine.
+So I was looking through some of my old
+notes as I was preparing for this.
+And, you know, I'm curious as to your
+thoughts on some of the behavioral
+aspects, including sentiment and bull
+bear ratios.
+I wrote something up in October nine
+calling that recovery the most hated
+bull market in market history.
+Markets went straight up.
+Everybody was miserable.
+It's a head fake.
+It's a false breakout.
+This is all going to be a disaster.
+And if you listen to those people, you
+left a ton of money on the table.
+What's your thought on that extreme
+sentiment in one direction or the other
+and just what it means when everybody
+hates a particular asset class?
+It's obviously an opportunity because
+that means that everyone is not on the
+same side of the boat.
+Right.
+And I actually and what I saw, they're
+all on the wrong side of the boat.
+But before I answer the rest of that, I
+wasn't what I was going.
+Say earlier was when you run the
+regression of the oh nine to present
+S&P, either in real or nominal terms and
+you run the same regression from 82 to
+2000 from 49 to 68.
+It's exactly the same slope.
+And so if in 09i got bullish and in 13
+I'm like, Yeah.
+Now we've taken out the high, so now we
+can say this bull market is confirmed.
+So the 13 for me is not the start, but
+it's confirmation.
+But if I had looked at nothing else for
+the for the next, you know, 12 years
+today I would be within 10% of that
+slope having materialized.
+And so, again, you're never going to do
+that on a secular chart.
+Do you want to have weight of the
+evidence?
+But it shows you how powerful that
+context can be to just look at those
+different timeframes and see where they
+are, because it'll keep you on the right
+side of the market.
+So last question on equities.
+Given the 49 to 66 rally, the 82 to 2000
+and then the oh nine forward, how much
+legs does this secular bull market have?
+Can can this go another five, six, seven
+years?
+And the other related question is how
+much of a reset does that giant fiscal
+stimulus of 20 2122 build into into
+markets?
+It's it's a great question.
+And so on the surface, if it were six
+years in, the last two were eight years.
+But again, sample size of two, like you
+can't go with that.
+Right.
+But the cap model again, which has been
+a very good long term model in terms of
+the ten year cure for the market
+suggests that the so the the p the the
+growth rate in the P peaked in 19 for
+obvious reasons because it's a ten year
+model.
+So oh nine rolls off and then you know
+you have that peak and we've been
+holding steady at around you know 14
+15%, ten year cagrs that actually has
+another peak in about like 2026, seven,
+eight.
+My guess is that that acceleration will
+be an air bubble or it could be where
+it's just like, you know, the air boom,
+the max seven.
+Like all of a sudden everyone's buying
+companies with no earnings because
+they're promising to be the next killer
+app and that sort of the next Pets.com.
+Yes.
+And my guess is that if we are heading
+into a fiscally dominant era or we're in
+it already, so we had 5 trillion of
+helicopter money in 2020, we now have
+another $5 trillion fiscal bill.
+If the next Fed post-poll is going to be
+just more dovish than the economics
+suggest, in order to fund that to help
+fund that debt, then you could see
+inflation, you know, be structurally
+higher than 2%, maybe 3 to 4.
+And if that and if the ten year yield at
+that point goes to a five handle because
+the term premium is back, you can easily
+see a scenario where in a few years,
+again, that Fed model principle of
+rising yields bringing down the PPI is
+going to be the thing that flattens that
+secular slope.
+That doesn't mean like a 2000 like bear
+market.
+It doesn't have to mean that, but it
+could just be a flattening.
+Instead of running at two x the ten year
+rate of change, maybe you're at half X
+or something like that.
+So generally speaking, when you see an
+elevated cape, it's not a sell signal,
+it's really a signal.
+Lower your future return expectations.
+Things are going to be a little more a
+little less easy sledding.
+Yes, I think the next ten years will be
+less less robust than the last.
+But it doesn't mean they have to be
+negative at all.
+You mentioned the eighties into the
+nineties in the post-World War two era.
+It's kind of fascinating to look at
+rolling 15 year periods the 15 years
+following oh nine is the third best 15
+year period in history.
+It's really amazing.
+Yeah, yeah, yeah.
+So, so let's talk a little bit about the
+current environment.
+You look at more than just stocks and
+bonds.
+You look at a lot of economic data as
+well and chart that.
+So how do you think where we are in the
+current economic cycle?
+How do you describe our location in the
+business cycle?
+So generally speaking, the economy
+remains pretty solid.
+People are employed, their wages are
+exceeding the inflation rate.
+At this point,
+debt levels are not high, at least as a
+percent of GDP.
+Right?
+So the household debt to GDP ratio
+peaked during the financial crisis.
+It's pretty modest.
+And it's yeah, it was 100% of GDP is now
+70.
+So there's a debt issue on the
+government's balance sheet.
+But but not in the household or even the
+core.
+For balance.
+Even the government side is in our debt
+to GDP ratio, like half of Japan,
+something like that.
+So about 120%, if it's just a federal
+debt, if you add all other debt, it's
+about 250.
+But it's comparable to other regions.
+But certainly Japan gets the prize and
+China as well.
+And just in terms of the growth rate of
+the China, oh, okay.
+Not total, but yeah, China has been
+growing debt and the Chinese provinces
+have been growing debt as well.
+And the Chinese numbers, of course, are
+can be a little vague because the
+federal debt in China is not high.
+But they have the four big policy banks
+that are essentially providing
+liquidity.
+And so you have to add that.
+And so China and Japan are the worst
+offenders.
+The U.S.
+is is on par with most kind of European
+and other other countries.
+But so anyway, so so that the economy
+looks pretty good.
+But, you know, one of the things that
+COVID did was it sort of upended a lot
+of the things we think about when we
+look at the at the economic cycle and
+the business cycle.
+So, you know, of course, we know what
+happened.
+The economy froze, people got laid off.
+And then at least in the U.S., the
+economy came back really fast, faster
+than in other places.
+And the labor wasn't there.
+Right.
+The baby boomers had checked out.
+They left the labor force.
+Of course, the borders were closed.
+And I remember like I was I was doing a
+lot of flying back to L.A.
+at the time because I was hiding in
+Santa Barbara because the office was
+closed.
+And it's like like the counter at
+JetBlue in Boston was like they just did
+not have enough people.
+People were coming back.
+Like everyone was like, okay, we're
+back.
+But they weren't.
+There wasn't the supply chains weren't
+there.
+And so we had this very tight labor
+market that of course, we would hear
+about all the time, you know, from the
+jobs report to job openings for every
+job seeker, that sort of thing.
+And that has been worked off over the
+last few years.
+I think that was the goal of the
+tightening policy or part of the goal.
+So when you look at the jobs report, you
+look at the U3 jobless rate relative to
+NAIRU, the non-accelerating rate of
+employment,
+everything is in balance like it's right
+at that zero line.
+So the supply, is that why we've kind of
+been hanging around for three, four,
+two?
+So unemployment, so no one's hiring, but
+not many people are looking for jobs and
+not a lot of people getting laid off.
+No.
+And so there's balance, right?
+They're job seekers versus the job
+providers.
+But you look at that chart over 50 years
+and you can see that there is a pendulum
+swing of that business cycle.
+So we went from very tight to neutral
+and you know, like the inclination is to
+look at that and it's like, well, every
+other time that's happened, the next
+phase is contraction.
+Yeah.
+And I think that's what the bond market
+is saying.
+That's, I think where the Fed's coming
+from.
+Now that they did the 25, they're
+looking at the job, started looking at
+the revision, write the jobs report
+revision the big downward revision most
+of nine on 11,000 jobs and they're like,
+okay, you know, we should we should
+build in some some cushion for that.
+And so I think that's generally the
+vibe.
+But other than that, you know, we have a
+whole economics team that looks at the
+business cycle and we're not really
+seeing a lot of red flags other than
+that yellow flag.
+If you how closely does the market cycle
+track the business cycle?
+Because, you know, I've heard it said so
+many times the market is not the economy
+and vice versa.
+And the old joke is the stock market is
+forecast nine of the last four
+recessions.
+How do you see the that overlay?
+There is, of course, a connection,
+right?
+If you look at GDP growth and
+inventories, I mean, it's less about
+that now than it was decades ago, the
+impact of monetary policy.
+But, you know, the markets are not the
+economy.
+There is a reflection because if the
+economy grows, earnings are going to
+grow and then, you know, the market's
+going to go up because price follows
+earnings.
+But there's a sentiment equation in the
+stock market that, of course, you don't
+have so much in the economic cycle and
+and you have the timing right.
+So the market is always going to
+anticipate future changes.
+So you have a chart showing markets
+bottom eight months below profits.
+So you can that's a huge lead time,
+eight months.
+So you could be 100% correct about the
+economic cycle and be 100% wrong about
+the market leaders, because if it's
+already been reflected right and if it's
+already have has even over earned
+against that future signal, then you're
+buying yesterday's miss.
+But yes, so the market generally at
+bottoms will bottom two or three
+quarters before earnings that happened
+during COVID.
+And I remembered like it was yesterday
+because during COVID, you know, the
+market fell 35% February, March, then
+like late March, it bottomed and I think
+20.
+And I think by June it was at new highs,
+Right.
+69% for the year from the lows.
+Yeah, which is amazing.
+And people like the economists had a
+cover saying this is divorced from
+reality and everyone.
+And so it's my job A to have people not
+sell in the first place to be to be the
+long term investor.
+You know, the way I always describe it
+is you're getting a really juicy ten 11%
+return by investing in stocks.
+But the price of admission is you got to
+endure some volatility.
+And if you can't stand the price, then
+you don't get the reward.
+How do you explain to clients, and I got
+a million calls, man, this market has
+become disconnected from reality.
+What's your explanation to that?
+So.
+So that what what happened?
+It happened after the financial crisis,
+right?
+So price bottoms, the market bets on
+recovery and it could be wrong.
+Right.
+Price discovery doesn't mean the market
+knows everything.
+And that's one thing where I sometimes
+disagree with technicians who say
+markets are always right.
+So what?
+The market's not always right, but the
+market's always right in discounting
+everything that's knowable.
+Right.
+So it's right in that.
+But it doesn't mean that that what it's
+discounting can't change.
+Right.
+And we saw this during the tariff
+tantrum in April.
+The market was pricing in a left tail
+that never arrived.
+And now and then it had to on price it.
+So but so the market looks ahead and the
+market bottomed in March of oh nine.
+Earnings didn't bottom until the third
+or fourth quarter.
+Same thing during COVID march bottomed
+in March of 2020.
+Earnings recover its third or fourth
+quarter.
+And and so you have so you can't look at
+the news and say, how can the market be
+here when the earnings or like people
+are dying?
+So how did you explain this to clients?
+I'm curious.
+I explained it exactly that way, that
+the price always leads and you can't
+look at it in sort of a linear way.
+You have to just
+you have to know that at an inflection
+points, the price action is going to
+make no sense.
+And this is why people, you know, sell
+at bottoms and buy a tops, because they
+are they're trying to understand the
+narrative.
+And that narrative is not the one that
+that is ruling the roost at the time.
+One of the things that we found was
+useful was explaining to clients that
+their life experience isn't market cap
+weighted.
+When you look at what's driving the big
+indexes, it was back then, it was the
+FAANG.
+Now we call it the Magnificent Seven.
+But we did a calculation and found out
+that if all the airlines, all the
+hotels, all the local retailers, like
+just a run of the worst businesses
+during the pandemic, if they just
+disappeared, tomorrow was 6% of the S&P
+500.
+And, you know, or Apple or Microsoft,
+it's like it's amazing how how our daily
+experience is so different from what
+markets are like.
+And we had that during Brexit in 2016.
+I mean, that was constantly the
+headlines.
+What about Brexit?
+Why is the the U.S.
+market ignoring it as well?
+Because well, because the U.K.
+is 3% of S&P revenue is that's why, you
+know, so and so that raises really
+interesting question about the U.S.
+versus the rest of the world in terms of
+economic activities.
+So the S&P 500 just gets just about half
+of its revenue from overseas for most of
+the past 15 years.
+The U.S.
+side of consumer spending, business
+spending, government spending has been
+very supportive of the domestic side of
+the S&P 500.
+Kind of feels like that's shifting a
+little bit.
+We're seeing a little slow down on
+consumer spending, a little slow down on
+economic activity here as Europe and
+Asia seem to be starting to finding
+their footing after about ten years.
+Can we just pass off the baton without
+the S&P stumbling?
+Is that is that possible?
+It's possible.
+And it's actually happening right now.
+And this is one of the areas that I'm
+most excited about right now is that
+this U.S.
+bull market has become a global bull
+market.
+You look at AM stocks, Chinese stocks,
+Europe, Japan.
+And it's very exciting because, you
+know, for many years, right.
+The U.S.
+exceptionalism train has been running
+since 20 1415 and the rest of the world
+was always so tempting with its lower
+valuation.
+And I I've had conversations, we all
+with our asset allocation PMS for years
+saying looks like, yeah, I can I could
+buy if I were I'm at 1414.
+It's like it's cheap for a reason
+though.
+It's cheap for a reason.
+The market's very efficient
+but for the but so the catalyst so you
+need a catalyst to make the mean
+reversion in valuation to trigger that.
+And the catalyst is always going to be
+related to earnings, like if you look at
+the relative performance, U.S.
+versus non-U.S.
+over the past ten years, it's exactly
+the same as a relative earnings line.
+It's the same thing.
+So you need something to change in the
+on the earnings side, and that's
+changing.
+So we have, of course, a very
+concentrated market in the U.S.
+and that does pose risks, right?
+I mean, if if those seven stocks go
+down, guess what?
+The S&P is going to go down even if 70%
+of the stocks in the S&P are going up.
+If you're an indexer or you're buying an
+ETN spy, you're not going to feel those
+gains because those top seven stocks are
+taking the index down.
+And so it was so for the last year or
+so, it was a question of how do you
+diversify against concentration risk?
+Do you go down capped, you buy the
+Russell 2000.
+But now the answer's easier because now
+you have a catalyst, a fundamental
+catalyst that is causing the mean
+reversion to happen between U.S.
+and non-U.S.
+stocks and where that's coming from.
+Is that so?
+I'm a big fan of the discounted cash
+flow model, the DCF, which looks at not
+so much earnings, but the payout of
+earnings.
+So if you have earnings growth of 10%
+and 70% of those earnings are being
+returned to shareholders as dividends or
+buybacks, the payout is that 70% and the
+payout ratio is 70%.
+And for the U.S., it's always been a
+very dominating scenario where the
+payout in the U.S.
+is very strong because of all the share
+buybacks we have here.
+Where are we today with that?
+Are we still seeing the same sort of
+share buybacks?
+Because it seems like we haven't been
+hearing a lot of announcements, but that
+doesn't mean it's nothing.
+We don't hear a lot.
+But the buybacks at record highs, 300
+billion over the last 12 months and the
+payout ratio is 75% for the S&P.
+But guess what?
+The payout for IFA, which is non-U.S.
+developed stocks,
+the payout ratio is also 75%.
+It always used to be lower because they
+don't do buybacks over there.
+They do dividends, but now they're doing
+more buybacks.
+And the growth rate in the payout itself
+over the last five years is now higher
+in IFA than in the U.S.
+So you're getting equal or superior or
+at least competitive fundamentals at at
+a fraction of the valuation.
+And that that is a good that's a good
+deal.
+And so that's so finally that that part
+is working where the pond that we're
+fishing from is now broader.
+And for me, kind of it's a barbell
+strategy.
+I don't want to be short the max seven
+because they can get bigger, right?
+And you don't want to miss out on that.
+But rather than going down cap in the
+U.S., go overseas, do a barbell of max
+seven and non-U.S.
+stocks, then you can play the dollar
+with dollar weakening story.
+You can get equally good fundamentals
+for a 15 PE instead of a 24 PE.
+And to me, that's that's that's a good
+that's a good thing right now.
+So so the last two things I want to talk
+to you about in terms of the current
+environment are inflation and sentiment.
+And I'm not sure how much of this is
+related.
+You know, when we see the Michigan
+sentiment data, it seems to be so awful
+and it just doesn't feel like, is this
+really worse than the financial crisis,
+worse than Covid, worse than the dot com
+implosion in 911 or worse than the 87
+crash?
+If you follow the sentiment data, it's
+saying yes, just doesn't feel that way.
+No, it doesn't.
+And I think the sentiment data,
+obviously they're very bifurcated by
+political belief.
+Right.
+You know and I seen those charts are
+really useful and I spend time on both
+coasts.
+And, you know, I was at a dinner party
+in Modesto, California, a few weeks ago,
+and people were like, how can everything
+look so good when we're like at the end
+of the world type of thing, right?
+And then I'll be in some other place and
+it'll be the total opposite.
+But I think a lot of the sentiment data
+are still driven by the inflation data.
+Like obviously the inflation rate has
+come down to 2.8%, but everything
+remains more expensive that that, you
+know, that COVID spike, you know, that
+has not been unwound.
+And one of and that's one of the things
+I worry about, because not not to make a
+comparison to the 1970s, which obviously
+was the great inflation in long term.
+But during the fifties and sixties,
+inflation was super low 2%.
+Then you to the second half of the
+sixties, it started to creep up and then
+it came back down.
+But in order to for the average to be at
+2%, if you go to 6%, you then need to go
+below two for the average to be two.
+And we haven't done that.
+We went from two to 9 to 2.8, right.
+And we never went below two.
+And if we for some reason get another
+upswing and we're at three and four,
+like that five year number is now going
+to be at four or 5%.
+And I think that's what's driving a lot
+of it, is it certainly did during COVID
+and it's things.
+It's like food, right?
+So, you know, like the beef prices are
+up and prices have come back down, but
+beef prices have run away.
+So I think a lot of it has to do with
+that because, you know, people are
+employed.
+Wages are competitive right now.
+And, you know, unemployment rates 4.3%.
+But I think it's just that that cost of
+living, it just kind of like grinds
+right now and has been grinding for five
+years now.
+So let's talk about that 2% target.
+You know, in the 20 tens, an era of
+concerns about deflation and monetary
+stimulus, 2% seemed like a reasonable
+number.
+Is that still a reasonable number?
+Now that and that was an upside target.
+Yeah, right.
+You were at 1% aiming for two.
+Now we're at two and a half, three
+aiming back at to maybe in an era of
+fiscal stimulus.
+Two and a half, 3% makes more sense.
+I mean, I'm not a monetarist, but I
+don't know why the whole world changes
+except for our inflation.
+There's nothing magical about two.
+Like if you go back 150 years again, the
+average inflation rate is like 3%, 2.8.
+If you look at a distribution of equity
+piece and the inflation rate, the sweet
+spot is sort of 1 to 4.
+Right.
+So whether you're at three or two, it's
+like for the stock market doesn't
+matter.
+Does it matter like 1010 to do it like
+that, nine, nine matter that matters.
+And that distribution is interesting
+because obviously the higher the
+inflation rate goes, the lower the P.
+Which makes perfect sense because if
+inflation goes up, bond yields go up,
+then the safe asset is very competitive
+with the risky assets.
+So why take the risk?
+Plus the cost of capital goes up.
+If you go to the left tail deflation,
+there is really no correlation.
+Nobody likes deflation.
+So so from that angle, two and a half is
+not a problem.
+Even three is not a problem.
+I think the Fed worries that if they
+were to ever admit that, you know,
+inflate inflation expectations could get
+unanchored.
+But they went to the 80 thing where the
+average inflation targeting
+and actually that actually prevented
+them from raising rates when they should
+have back in 2021.
+And two, they were late to the party to
+raise and they seem like they were late
+to the party to cut it.
+Yeah.
+So their policy was we need to see the
+whites in the eyes of inflation before
+we raise rates.
+And and by the time the whites of the
+eyes were visible, it was like too late.
+You know, inflation was at five going to
+nine.
+But so, you know, it's a nuance thing.
+But again, 3% is not going to be the end
+of the world.
+It just means that bonds have a term
+premium and stock market is still fine.
+Maybe the PE is like 17 instead of 19,
+But like, you know, if earnings are
+doing the heavy lifting, it doesn't
+matter.
+But again, it's like what?
+What will it take for the Fed to
+actually say that or will they ever say
+it, or will we just have a post Powell
+Fed that says, you know, instead of
+neutral being inflation plus 100 neutral
+is inflation.
+And and you know, so there are three
+instead of four or something.
+So so I see your charts everywhere.
+Not only are they all over social media,
+but you do regular chart packs.
+I love your monthly chart pack.
+I'm going to flip open my laptop and
+let's look at some of your favorite
+charts and I'll make these available on
+YouTube and and on the website when when
+this posts.
+Let's start with market cycles and what
+we see going back to around our birth
+date
+is just a series of long bull markets
+followed by shorter, shallower bear
+markets.
+Tell us about this market cycle chart
+and what are the different shading means
+in blue and red?
+What what's the significance of that?
+Yeah, so so the shadings are is the
+valuation, the five year cap ratio, when
+it starts to get pricey, it turns out it
+turns red.
+Yeah.
+And so what the top part of the chart
+shows are the market cycles.
+So the Green Hour, you know, the bull
+markets, of course, cyclical bull
+markets, the red are the bear markets.
+And you can see as we as we talked about
+earlier, they're really it's pretty rare
+for a 50% drawdown.
+There's only been really a couple of
+them.
+And so what this shows is that the
+current bull market, as strange as it or
+as unusual as it has felt for many
+people, actually is pretty garden
+variety, right?
+88% gain over 35 months.
+So it's pretty pretty average.
+But then when you look at the bottom
+panel, it shows the relative the
+percentage of stocks outperforming the
+index.
+And now you see something pretty
+unusual, something we've only seen a few
+times in history.
+And that is, of course, the
+concentration effect of the max seven.
+And before that, the.
+Thanks.
+And it is the market is as concentrated
+as it was in the late nineties and the
+early to mid seventies, which was the
+original Nifty 50 period.
+And so, you know, for
+for it indexer I guess it doesn't matter
+for an active manage active investor it
+does, but even for an index or it does
+because the largest stocks are getting
+bid up whether they deserve it or not.
+Of course they're large because they
+deserve to be generally, but it shows
+you how narrow the market has been
+during this cycle.
+And so it's it's just a way of
+describing kind of where we are.
+So you get the cyclical on the top and
+the bottom speaks more to the secular.
+Really interesting.
+Let's go to
+debt dynamics, which is kind of
+interesting, a footnote.
+I have to go for this.
+Do they pass it already?
+No.
+So this next one.
+There it is.
+Yeah.
+All right.
+All right.
+So let's talk about debt dynamics, which
+shows the change in federal debt versus
+what?
+So what this chart shows and it's a very
+simple chart, but it's I think it speaks
+volumes, is that, you know, during
+COVID, we kind of, I think, entered the
+fiscal lead dominant era where debt
+financing or deficit spending becomes a
+very major tool, which is definitely
+different from the financial crisis.
+When we actually had austerity after the
+financial crisis with the Tea Party
+movement.
+Now we have the opposite.
+And in the initial years after that
+fiscal expansion started, the Fed was
+actually doing a lot of the heavy
+lifting by putting those bonds or not
+those bonds, but putting bonds on its
+balance sheet.
+So you could see the rise in debt is is
+largely accommodated by an expanding
+balance sheet.
+Since that time, since 2022, the Fed has
+gone into quantitative tightening mode
+where it's shrinking its balance sheet,
+but the debt just keeps going up.
+So the debt is now up about 14 trillion
+in the last five years, and only about
+two and a half of that is sort of been
+absorbed by the Fed.
+So I put two and two together and say,
+okay, if that purple line at the top
+just keeps going up,
+who's going to buy this, right?
+And who's going to buy the debt?
+And will the Fed be forced
+back into playing a bigger role in kind
+of mopping up that supply?
+And that's the fiscal dominance thing.
+That's a little bit of modern monetary
+theory, is that the Fed can just buy up
+all the debt and there's no constraints
+whatsoever.
+So MA stands for what system open market
+account.
+So that's what the Fed has on its
+balance sheet.
+So that went up since the financial
+crisis and it's come down since 20.
+It's the part of the Fed's balance sheet
+that is sort of the QE part, if you
+will.
+All right.
+So let's talk a little bit about equity,
+supply and demand.
+What are we looking at?
+This chart back to 1986.
+Is this simply liquidity driven or
+what's going on here?
+So I think this is and it's not a lot of
+people talk about this, but I think this
+is one of the fundamental drivers of the
+current secular bull market era.
+And so you can see on the chart, I
+started the clock at the bottom in oh
+nine, which again I believe is the start
+of the secular bull market.
+And I look at just the supply and demand
+of equities just from within the
+corporate America structure.
+So not investor flows, but how much were
+there in IPOs and secondary issues.
+And it's a couple of trillion.
+How much was share buybacks and how much
+was M&A and share buybacks and M&A have
+something in common in that it's
+corporates buying shares of other
+corporates and those shares get retired,
+right?
+So that's the demand for shares.
+And what you see is if you look at the
+supply demand ratio, like it's very
+unbalanced, like it's the demand far
+exceeds the supply.
+And to me this has been one of the
+important drivers for driving returns in
+a secular bull market.
+And there's no signs that this is this
+is letting up.
+And so when we when we think about what
+inning is the secular bull market in,
+when is it going to end and why, This is
+one of the things I look at.
+It's just, you know, when when you're
+retiring far more shares than you
+issuing, it's like, duh, you know,
+markets are going to go up, all else
+being equal.
+What's so surprising about this is how
+relatively insignificant the retail
+flows are.
+Yes, they are.
+It's it's just the opposite of how so
+many people describe it.
+Yeah.
+Let's talk about us fundamentals versus
+ether fundamentals.
+So this looks at various market data
+buybacks, dividends, etc..
+Um, tell us what this chart is showing
+us.
+Yes, it is.
+We were talking about earlier about
+there finally being a catalyst for
+non-U.S.
+stocks to compete with the US with the
+max seven driven U.S.
+stock market.
+And so on the left, I show the earnings
+line for the S&P, the payout so that the
+share of earnings being returned, quote
+unquote to shareholders, shareholder
+yield as dividends and buybacks.
+And then at the bottom, you see that the
+payout ratio again, either as dividends
+in the yellow, buybacks in the purple,
+and you can see that the payout has
+risen very nicely, almost a double
+since, oh, since five years ago.
+Payout ratio is about 75%.
+So very bullish fundamentals like you,
+you know, those fundamentals deserve a
+high, high PE, right, because not only
+is are the earnings growing, but they're
+being returned to shareholders, which of
+course is worth more than if you're not
+getting them back.
+It's just the present value of future
+cash flows.
+But what's changed just in the last few
+years is that for EFA again, which is
+the.
+See, I non-U.S.
+developed index.
+You see an even better growth rate in
+the payout and you see it more than
+double.
+Yeah.
+And you see an equally robust payout
+ratio, again, of about 75%.
+So the rest of the world is really
+competitive now, despite the fact that
+this is such a Mag seven heavy market.
+And so this is, you know, just a very
+exciting time because you can actually
+you don't have to make that make or
+break binary decision like you're either
+in these big stocks or you're left
+behind.
+There are other places to get those
+returns down.
+What's so fascinating about this chart
+is how inverted the ratio of buybacks to
+dividends is.
+In the U.S., 45% of shareholder yield is
+buybacks, 30% are dividends.
+That flips In Europe, it's 47% or
+dividends, only 27% are buybacks or I
+should say e for not just Europe,
+although a lot of it seems to be
+concentrated in Europe.
+Yes.
+How much of that is just driven by tax
+policy and regulations?
+I think it's largely culture.
+It's just, you know, and Europe is more
+of a value market, right?
+So it's really like the banks are really
+running the show right now.
+And so the U.S., it's more the growth
+stocks.
+So they don't want to so, you know,
+dividends are kind of like a sacred
+contract, if you will like it takes a
+lot for dividends to be cut.
+So I think Europe and Japan has just
+generally been more of a of a value
+driven and the culture has been more,
+okay, we're going to earn so much and
+you're going to get that back as
+dividends, but especially the Japanese
+and also the Europeans are getting much
+more with the shareholder culture now in
+terms of unlocking value and and
+returning those as as buybacks.
+So it's they're getting they're starting
+to play it again.
+Last few questions before we get to our
+favorite questions.
+Um, you have a section in the chart book
+about the post 6040 world.
+I've heard people say the old 6040 is
+now 50, 30, 20 or 5030 1055.
+Tell us what you think of as the post
+6040 world.
+So I look at it, I call it the 6020 20.
+So the 6040 paradigm worked like a charm
+right from the late nineties until the
+early 2020s
+and you know, 60% S&P 40% Bloomberg AG
+So the investment grade bond index and
+you've got a 9% Kaga against the 9% vol
+and like what's not to like about that
+right it during that time inflation was
+like two and a half so you got a very
+attractive real return with really
+moderate volatility.
+But the whole premise of that paradigm
+was that the 40 was insurance against
+the 60.
+So the 60, of course, is always the
+anchor.
+That's where the compounding is.
+And the 40 would be your port in the
+storm.
+I think that's now changed.
+So 2022 obviously was a return to the
+old Fed model days where rising yields
+take, you know, take take the mojo out
+of the stock market, to put it mildly.
+The good news is that bonds, of course,
+now are a viable asset.
+They generate a positive real yield, but
+their correlation is now positive
+against equities instead of negative.
+So when I think about the post 6040
+world, I'm less worried about the 60.
+Like we can add more international in
+the 60 and like we were just discussing,
+but what do we do about the 40 if the 40
+can be the cause of problems rather than
+the solution to problems?
+And especially if we end up with a
+higher term premium, then bonds are not
+going to be as as safe as they used to
+be.
+So then I get into kind of, okay, I'm
+going to take some share from the bonds.
+It doesn't have to be 20.
+Like, again, this is not investment
+advice, but back of the envelope stuff
+and, you know, maybe some cash
+strategies are more competitive if we're
+not going to go back to the zero
+interest rate days, which I don't think
+we are.
+Gold are the proven anti bond over
+history, right?
+They don't produce a cash flow, 3700
+bucks as we speak.
+But when bonds do poorly, gold really
+shines, no pun intended.
+And then you got to throw Bitcoin in
+there as kind of the want to be
+exponential gold.
+And then other strategies like
+alternatives, right?
+Managed futures, equity, long short
+private credit, you know, all of those
+kind of alpha rather than beta
+strategies you have, you have tips in
+there as well.
+Yeah.
+Tips, high yield,
+you know, markets or asset classes that
+are not negatively correlated, but
+they're not positively correlated as
+well.
+So when you look at kind of the Sharpe
+ratios versus the.
+Correlation not just to to 60, but
+especially to the 40.
+Right?
+Because I want to hedge more against the
+40 than the 60.
+I was going to say this doesn't look
+like a yield chase.
+This looks like a diversifier.
+Is that's the thinking here.
+Yeah.
+And actually, if you go down one chart I
+think.
+Yeah, right.
+You look at that.
+So I want high Sharpe ratios or high
+super high sortino ratios and and and
+assets that are uncorrelated.
+Then you get into, you get into the B
+com commodities, you get into gold.
+C Bitcoin is not quite uncorrelated but
+all the old strategies are uncorrelated.
+And so to me that is sort of the next
+6040 really, really fascinating.
+Last question before we get to our
+favorites.
+You look at so many charts each week,
+you identify trends for a lot of people
+do what are investors not talking about
+but perhaps should be what topics,
+assets, geographies, data points, What
+do you think is getting overlooked but
+is really worth investors time to pay
+attention to one asset class and we just
+talked about it that I think generally
+is seen as a as a side show the way
+Bitcoin used to be.
+It's no longer a sideshow for sure is
+actually gold, because for even at 3700
+bucks, it's well, people still think of
+it as a sideshow.
+I think institutions do it right.
+So regular retail investors as as I call
+them, you know, you can buy gold or some
+other or gold ETF and like, you know, I
+own it in my portfolio.
+And so they're I think they're it's part
+of the conversation.
+But when you think about like large
+endowments, institutional investors,
+even mutual funds, like you need a
+special wrapper in your mutual fund to
+own physical gold.
+Like you need to go to the SCC and get
+approval.
+And so, you know, gold has been sort of
+dormant for so long until recently, that
+is like, yeah, I don't really want to go
+through this trouble.
+To buy something that doesn't have a
+cash flow, can't be valued, requires
+special regulatory approvals, and then
+all of a sudden it starts to run like it
+is now everybody.
+And so, so I think that's the story.
+So ironically, because Bitcoin has
+obviously come well after gold as a kind
+of a store of value, hard money asset.
+In a way, gold is kind of like where
+Bitcoin was ten years ago or five years
+ago where, okay, bitcoin's interesting,
+but I don't understand it.
+I don't feel like spending 100 hours on
+this.
+It's a bubble, it's a scam, it's a pet
+rock.
+And gold is like if it keeps going the
+way it is and I suspect it will, like
+the endowments are like, okay, like
+people are asking me about this.
+I need to like, really like figure out
+how do we not how do we buy it?
+You can buy it, of course, but it's
+always been a a dismissed asset, let me
+put it that way.
+I mean, that's what I grew up with.
+It was kind of mocked by the equity
+people.
+Depends on the length of the chart you
+look at.
+You could show a trailing multi-decade
+period where gold has outperformed the
+S&P.
+So so if you look at gold as in a
+secular bull market, yeah, I'm not
+asking for a forecast, but what's within
+the range of possible numbers gold could
+run to from 3700 up from the low 2000s
+and early.
+What do we peak in like 2014 and then
+2019, something like that.
+And it was like 260 that I remember in
+the 1980s.
+Yeah, Yeah.
+When Gold first came out, I want to say
+gold was about four 3440.
+I remember talking about it on TV and
+getting laughed at by figures.
+So I once saw a chart that actually Paul
+Tudor Jones created, speaking of Fall,
+where he compared the the aboveground
+value of gold or the value of above
+ground gold and compared it to the value
+of M2.
+And and they're trying to track each
+other.
+The chart concluded that when the money
+supply grows too fast,
+gold takes market share.
+So hard money takes market share from
+soft money from fiat money.
+And at certain extremes, like in the
+seventies and other periods of thirties
+gold, the value of gold would go all the
+way up or beyond the value of M2.
+And so right now, M2 is about 23
+trillion.
+Gold plus Bitcoin is is also about 23
+trillion.
+So in that sense, it's come a long way
+to to take that market share.
+And now it's a question of does M2
+either globally or in the U.S.
+continue to grow at an above average
+pace?
+So the average pace is about 6% nominal,
+about 2 to 3% real.
+So I do think a lot of the gains are in
+already, but it will it will naturally
+overshoot as these cycles all.
+Always do so.
+So that's kind of how I would how I
+would measure it.
+So if the money supply goes to 30
+trillion.
+Gold and Bitcoin could be 35 trillion.
+And obviously gold is a large part of
+that.
+Bitcoin's about 2 trillion.
+And then you convert that to to a price.
+But that's kind of how I think about the
+valuation side.
+Really fascinating.
+So I only have you for a limited amount
+of time.
+Let me jump to my favorite questions
+that I ask all of my guests, starting
+with.
+Tell us about your mentors who helped
+shape your career.
+Definitely.
+Nat Johnson Mm hmm.
+Because when I came in to Fidelity in
+95, I had been in the of in New York for
+ten years, didn't really have mentors.
+And so he.
+You know, Fidelity has a very strong
+corporate culture, let's put it that
+way.
+And especially around, you know, the way
+we approach long term investments, we're
+obviously a long term investor.
+But so he he was like the last person I
+spoke to before I got hired.
+And then in those formative years, I
+worked in the chat room and I would
+spend hours per week with with Ned.
+Like he would just come down really and
+hours per week and we would just pour
+over charts like we have these huge
+charts on the wall, floor to ceiling,
+you know, like 40 foot wide, like a
+daily chart of, of whatever the Dow and
+S&P by him.
+It would be computer generated but then
+because we don't want to print a whole
+new 40 foot sheet every year you would
+just you fill it in by hand and and you
+know, just the the oral tradition, the
+oral history.
+So he was looking at the chart and then
+he would say, okay, well, like and he
+would go from right to left and say,
+okay, you know, then and we'd end up
+like in 1968.
+And he's telling me about the glamour
+stocks and this and that.
+And I'm like, Wow, this is like gold or
+I like you don't, you know, literally.
+And so he would have this encyclopedic
+memory, but also just the way the
+information was displayed.
+Sammy Log skills, the chart room has
+like museum quality lighting, how you
+display, how you visualize, you know,
+data.
+And so that he instilled that culture,
+you know, we call it kaizen, kind of
+just gradually improving and having, you
+know, compounding isn't just for
+investing, right?
+It's just in our day to day stuff, you
+do something consistently right, It's
+going to make an impact.
+And when I look back at my 40 years and
+I'm not going anywhere, but like to me
+that that Kaizen has has really played a
+role in my relationships, in my work.
+And and I think a lot of that just came
+from him.
+Really, really interesting.
+Let's talk about books.
+What are some of your favorites?
+What are you reading now?
+So I hate to admit it, but
+I don't read a lot of finance books
+because I'm very interested in having
+balanced budget.
+I don't want finance between right and
+left.
+People read reminiscence of a stock
+operator.
+I'm curious as to what else you read.
+Well, I will say that during COVID, I
+read a huge tune called The History of
+the Federal Reserve by Alan Meltzer.
+Oh, sure.
+Because, you know, I've looked at so
+many charts.
+You've read the reports of like the
+financial thousand pages, official press
+doorstop, But I went like that book.
+It was like this blow by blow using the
+Fed minutes and all these, you know,
+correspondence to see how the Fed
+handled the, the financial repression of
+the forties.
+And so that was fascinating although
+most people would say, well, that sounds
+really boring.
+But but as as a as a consumer of the
+data just to hit to see okay you know
+like the whoever was at the Fed would go
+to the Treasury and they were playing
+games like the Treasury would issue
+bonds below market and then the auction
+would fill.
+Then knowing that the Fed would have to
+mop up the supply.
+Like all of that stuff is just really,
+really fascinating.
+And, you know, and we see the
+interference in politics with politics
+and money's monetary policy today, but
+it's nothing new.
+Like in the sixties, both Nixon and
+Kennedy were equally guilty.
+It seems a little more overt and more
+obvious today.
+It used to be sort of a cloak room.
+Sort of, Yes.
+So so that was one.
+But the most interesting recent book
+I've read was it's called Rock Me on the
+Water,
+and it's a book about music, TV and
+movies during the early seventies and
+how L.A.
+was like the epicenter of American
+culture.
+So you had like the Laurel Canyon folks
+and the musicians in Nashville.
+David Crosby had these groundbreaking TV
+shows, right?
+Because we were coming out of the
+straitjacket of the Sixties conformist,
+like no one dared to make a show that
+that, like, challenged the status quo.
+And then you had like, MASH and, you
+know, Mary Tyler Moore on the Family and
+then the movies like Taxi Driver and as
+a you know, as a I think I'm kind of Gen
+X, but on the border of Gen-X and Baby
+Boomer, the same like a foot in each
+camp.
+Yeah.
+And so growing up, you know, formative
+years in the seventies in Aruba, but
+consuming American pop culture, we would
+sit down every night watching like, you
+know, Wide World of sports and Mary
+Tyler Moore and all those show Rock Me
+on the water, rock me on the wall.
+That and it's just like so it's
+fascinating to read about the things
+that we lived through as kids, as
+teenagers.
+But then like, yeah, you know, that was
+so amazing.
+Let's talk about streaming.
+What are you watching or listening to
+right now?
+We are binge watching the bear.
+So I'm a I'm an avid cook.
+Like I said, I run a food camp at
+Burning Man.
+And that's that's and we tend to be late
+to shows and then we just watch like 44
+seasons of There Is great.
+Yeah.
+So we do cook or worked in restaurants.
+Yeah, it just rings so true.
+Yeah.
+I got to ask you a crazy question.
+You're a cook.
+What parts do you like?
+What knives do you like?
+I use the all-clad I have.
+I have two places.
+I have a gas stove in Santa Barbara and
+an induction stove in Boston.
+You know, I came this close to putting
+an induction stove in my primary
+residence, but we had just gotten gas,
+and so, of course we ran with gas.
+Yeah, I will run with gas any time.
+Induction is good.
+It's very precise.
+Yes.
+But I like the the organic kind of
+tactical, the tactic, tactile dimension
+of gas.
+But so All-clad and the the German
+knives
+with Scott Gustaf I forget and my go to
+knife is a ten inch chef's knife, not
+the really high one, but the medium one.
+So the medium one is is thick enough to
+like smash on garlic, but not so thick
+that you don't feel connected.
+You don't have the road feel of the
+knife on the cutting boards.
+My guilty pleasure on Tik-tok is a
+little food clips and I don't even have
+to have the sound on.
+It's just, you know, because I kind of
+know what works with recipes.
+So I don't need a recipe, but I just
+need someone to visualize an approach.
+And so a lot of the things I cook today
+are from TikTok.
+Oh, no kidding.
+Yeah.
+Oh, that's amazing.
+All right, our final two questions.
+What sort of advice would you give a
+recent college grad interested in a
+career in technical analysis, fixed
+income or just investing generally?
+Be open minded, be humble.
+You know that the true heroes of mine in
+our business, including that Johnson is
+no longer with us, Of course.
+Was that just humility?
+Right.
+I'll talk to Will Danoff, who runs 300
+billion.
+I love Will.
+He's the humble, this guy, right?
+He's amazing.
+Ever meet and there's no room for four
+big egos.
+Like no matter how important you are.
+Like, I have no time for that.
+Right?
+So stay humble.
+Don't figure out.
+Don't think you you'll figure it all
+out.
+When at the age of 25, you'll be learner
+and be ready to reinvent yourself.
+I've had to do it a number of times with
+fidelity, either
+as planned or as not planned.
+And you just got to roll with the
+punches.
+And like I said, the first job I had, I
+was like the last job I was interested
+in.
+But I took it because it was the only
+job, you know.
+And our final question, what do you know
+about the world of investing today?
+You wish you knew 40 years ago or so
+when you were first getting started.
+The markets go through cycles and it
+always comes back, not always quickly,
+but, you know, every time the market
+goes down 20 plus percent, it's like the
+end of the world.
+And it's like totally different from
+every other time.
+And this is like such a crisis.
+But then, you know, I've now been
+through like 12 bear markets in my
+career and it's like, yeah, whatever.
+And like, nothing shocks me anymore.
+Of course, I may be in a better place
+because I've I've earned my, my wealth.
+I'm not still building it, but, but it's
+just, you know, take, take, take a step
+back.
+Look at the bigger picture.
+Make sure your portfolio is where it
+should be in terms of risk and goals.
+And don't be your own worst enemy by
+selling at the bottom.
+You know, call someone like have them
+talk you off the ledge first.
+You know, you're Ian.
+Thank you for being so generous with
+your time.
+This has been just delightful.
+We have been speaking with Uri and
+Tamara.
+He is the director of Global Macro at
+Fidelity.
+If you enjoy this conversation, well, be
+sure to check out any of the 560 we've
+done over the past 11 years.
+You can find those on YouTube, Spotify,
+Bloomberg, Apple Podcasts, or wherever
+you get your favorite podcasts.
+Be sure to check out my new book, How
+Not to Invest the Ideas, Numbers and
+Behavior that Destroy Wealth and How to
+Avoid Them.
+I would be remiss if I did not think the
+crack team that helps me put these
+conversations together each week.
+Alexis Noriega and Ana Luke are my
+producers.
+Shawn Rousseau is my researcher.
+Sage Bauman is the head of podcasts here
+at Bloomberg.
+I'm Barry Ritholtz.
+You've been listening to Masters in
+Business on Bloomberg Radio.

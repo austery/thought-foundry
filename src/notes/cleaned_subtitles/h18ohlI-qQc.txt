@@ -1,0 +1,1763 @@
+- How can all the diversity
+and, sort of, seeming order
+that's out there in the world
+emerge from a process
+dependent upon chance?
+It kind of works like a staircase.
+Chance invents, and natural
+selection propagates
+that chance invention.
+Our immune system works on
+the very same principles
+of mutation and selection
+as evolution at large
+does in the big world.
+Cancer is truly an evolutionary disease,
+meaning that it is a disease that results
+from the exact same evolutionary
+process we're describing.
+So while Darwin's is the
+most famous figure associated
+with the theory of evolution,
+Alfred Russel Wallace played a key part.
+And in their day,
+this was referred to as
+the Darwin-Wallace theory.
+I'm Sean B. Carroll,
+evolutionary biologist
+and author of several books,
+including my most recent,
+"A Series of Fortune Events:
+Chance and the Making of
+Planet, Life, and You."
+- [Narrator] Chapter one, how life works:
+the staircase of evolution.
+- So evolution, what it really
+means is change over time.
+So we wanna know how that
+change occurs over time.
+And there's two dimensions
+to this process,
+and it kind of works like a staircase.
+And one process is mutation,
+and that's the rise in the staircase.
+Those occur by chance.
+If mutation didn't happen,
+all things would be identical.
+So you need mutation
+to make individuals
+different from one another.
+Those mutations are genetic
+changes, changes in their DNA.
+If by chance that changes a property
+that favors reproduction,
+survival of the individuals,
+it will spread, and that's
+the selection process.
+And that's, sort of, the
+run in the staircase.
+Chance invents, and natural
+selection propagates
+that chance invention.
+And once that process has happened,
+new mutations can then
+be added on top of that,
+maybe even changing the
+character a little bit further.
+And that's another rise in the staircase.
+And if that's working
+better, that's gonna spread.
+And so it's the cumulative
+set of mutations
+and the cumulative process of selection
+that takes us up that staircase.
+So that staircase could have
+goodness knows how many stairs,
+but it has to go through
+this stepwise process
+of individual mutations arising,
+sweeping through the population,
+new ones arising, sweeping
+through the populations.
+It doesn't go from the base of the stairs
+to the top of the stairs in one jump.
+And this is hard for people
+to get their heads around
+because they may think
+about that first step.
+And it's, sort of, hard to imagine,
+you know, how do you get
+something as complicated,
+you know, as individual organs like an eye
+or a wing of a bird or things like that.
+But time, immense time.
+The speed with which some
+new adaptation spreads
+through a population
+depends upon the magnitude
+of the advantage it conveys.
+If it's about a 3% advantage,
+meaning that about 103 individuals survive
+for every 100 that don't have it,
+well, that will take about
+a thousand generations
+to spread through the population.
+Now, I'm saying generations
+because it depends upon the
+generation time of the creature.
+So if the generation time, for example,
+if humans is 25 years,
+it'll take 25,000 years
+for that to spread through
+the human population.
+But if the generation time is 20 minutes,
+you can work it out.
+It'll take, you know, 20,000 minutes
+to spread through, which is much shorter.
+It's a matter of generations
+because reproduction
+is a generation-by-generation process.
+It's really important to underscore
+that these mutations occur at random
+without any consideration
+of whether they're good
+or bad for the organism.
+It's the external conditions
+that are gonna sort this out.
+So some things can be
+good for one creature
+and bad for another, okay?
+So for example,
+a color change might make
+a creature more invisible
+in some settings, more visible in another.
+Some mutation may make it better
+adapted to warmer climates,
+less well adapted to
+colder climates, right?
+So it depends on these
+external circumstances.
+So the mutations arise at random.
+Well, what about those
+external circumstances?
+Well, we'd say it's
+the abiotic conditions,
+the physical world that
+the creature is living in.
+Well, that's also
+generated a lot at random.
+Tectonic plates moving
+across the earth, vulcanism,
+all the things that shape
+the conditions of life
+are often due to physical
+processes of the earth.
+Of all the many thousands
+and millions of things that
+creatures have come up with,
+I have a few of my favorites
+that I think really exemplify
+this process of adaptation.
+And one of my favorite sets of creatures,
+there's some fish called icefish.
+They live in the southern
+ocean around the Antarctic.
+And they live in water
+that is actually below
+the freezing temperature of fresh water.
+They're right around about
+29 degrees Fahrenheit,
+is the ocean around the Antarctic.
+And that's a challenging environment,
+so challenging, for example,
+that you may know that there's
+ice flows around there,
+and if little ice crystals
+just get into the bodies
+of these fish, they'll nucleate freezing.
+They'll freeze like fish sticks.
+So they need to have a mechanism
+that prevents them from freezing
+at that cold temperature.
+And what they've done is
+they've evolved antifreeze.
+Certain proteins in their bloodstream,
+made in very large quantities,
+suppress the ability
+of ice crystals to grow
+inside their bodies.
+And so they're able to tolerate
+that subfreezing water of the Antarctic,
+and other fish aren't.
+So what's happened over the last 30
+or 40 million years is that a lot of fish
+that were once swam in those oceans,
+sharks and rays and all
+that, they're all gone.
+They're extinct from those waters.
+We find them in more temperate waters.
+But it's the icefish
+and the antifreeze-bearing
+relatives that those waters.
+And the icefish have also
+come up with something
+that's incredibly nifty
+and shocked naturalists when
+they first discovered it,
+which is if you open any fish you know,
+slice it open, you're gonna see red blood
+because that's something that
+animals with backbones have
+and have had for almost 500
+million years on this planet.
+But you slice open an icefish,
+their blood is colorless
+'cause they've gotten
+rid of red blood cells.
+So they don't even have a mechanism
+for carrying oxygen actively
+in their bloodstream like we do.
+They've ditched red blood cells,
+and the reason they've
+ditched red blood cells
+is that those low temperatures,
+it makes their blood too viscous.
+And that's a disadvantage.
+To the icefish,
+it was an advantage to get
+rid of red blood cells.
+To the rest of us, it's instantly fatal.
+So it's a good illustration
+of just how conditional
+these adaptations are
+that to exploit the resources
+of the southern ocean,
+you gotta make antifreeze
+and get rid of your red blood cells,
+where the other parts of the world,
+antifreeze would be irrelevant,
+and your red blood cells are necessary
+for every second of life.
+Let's talk about speciation.
+That process of variations
+helping to adapt,
+that's the process of adaptation.
+But speciation is the generation
+of two species from one.
+What does that take for there
+to be two species to form?
+And we know, and this is
+where in the island biology
+of Wallace and Darwin help,
+is that they were seeing
+species on different islands.
+Well, islands provide some isolation,
+and that isolation means
+that those populations
+aren't exchanging genes.
+Over time, each of those populations
+will accumulate mutations
+that exist in one population
+and not the other, vice versa.
+Well, those could become
+genetically distinct enough
+that if those things
+were ever to come back again in contact,
+they may not be compatible
+with one another,
+and they'll be species.
+So how long does that take?
+Well, it's been estimated
+for big animals like mammals and birds,
+that works out to roughly
+be about 2 million years.
+But 2 million years is still a long time.
+And you've probably heard, for example,
+that there's now very strong evidence
+that Homo sapiens, our species,
+mated with Neanderthals
+a distinct species.
+And what's really happened
+in the last few decades
+is that for biologists,
+that species barrier has
+become much more porous
+than we first thought it was.
+In the old days, in Darwin's day,
+species were characterized
+as really distinct things,
+and we didn't think there
+was any kinda shenanigans
+going on between them.
+But we now understand
+that it's a much more porous situation,
+that for some period of time
+as populations are diverging,
+they can get back together.
+And things that we humans
+might call distinct species
+can often interbreed.
+Another common question
+or idea is that, you know, for example,
+if humans evolve from apes,
+why are apes still around?
+Well, important thing is to understand
+that evolution is a splitting process.
+So the family trees keep splitting.
+So the human part of that tree
+has had now its own separate history
+from the eight part of that tree.
+We shared a common ancestor
+about 6 million years ago.
+But apes have gone on living as they do,
+for example, in the old world.
+And there's a great diversity of apes,
+of course, still here,
+baboons, orangutans, gorillas,
+chimpanzees, et cetera,
+while the human branch has gone on
+and has its own evolutionary trajectory.
+It's not that evolution is linear
+and that everything new replaces the old.
+It's a splitting process.
+And so that's why the tree of life
+has just split into
+enormous numbers of branches
+from common ancestors.
+Two of our main records of
+evolution are the fossil record
+and the DNA record.
+The DNA record is largely
+only accessible to us
+for living creatures
+and maybe some creatures
+that have lived over
+the past million years.
+You know, do we have every brick?
+Do we have every intermediate?
+No, 'cause, you know,
+extinction takes away 99.9%
+of all species.
+So if there was no extinction,
+we'd have a perfect record
+of evolution, right?
+We don't have the DNA record
+of dinosaurs, for example,
+but we've got the fossil
+record of dinosaurs.
+So we use these two records
+to, sort of, reconstruct
+the history of life.
+That allows us to
+reconstruct the evolution
+of things that are fairly complex.
+Let's take something like a
+walking limb from a fish fin.
+This evolutionary process transpired over,
+eh, 20, 30 million years,
+about 380, 390 million years ago.
+To do that, we have to get fossils
+that represent the various
+stages of evolution
+and see, how did all the bones change
+so you went from a swimming
+fin to a walking limb?
+And the fossil record, by
+now, is pretty darn good.
+Then we can go to creatures
+that have fins, fish,
+and we go to creatures like
+amphibians that have limbs,
+and we can figure out how do
+those genetic programs work,
+and where are the differences?
+Now, we don't have
+every detail sorted out,
+and that would be
+incredibly time-consuming
+and expensive to do,
+but we certainly have the general picture
+that we understand how the
+bones changed in history
+and we understand how the
+development of program changed
+to generate a limb in the place of a fin.
+And that's not something Darwin ever had.
+That's something that we really only had
+for the last 20 to 25 years.
+So evolutionary science
+keeps building on this huge foundation,
+and what we get is an ever more detailed
+and ever more confident
+record of what's happened.
+But what's at no doubt
+is that this process,
+mutation and selection,
+mutation and selection,
+is the universal, going
+on in every population
+of every living thing every day.
+In fact, this process of mutation
+and selection seems so universal
+that we think it must
+have played a vital role
+at the origin of life.
+And that anywhere where life exists
+in the universe, it's operating.
+So evolution is this
+vast and rich process,
+and you know, we've been
+trying to understand it
+for 160 years.
+And in the course of that,
+there's some misunderstanding
+in just how it's communicated,
+where I think there's some conflict
+between the terms we scientists use
+and, sort of, their common understanding.
+And one of those is theory. We
+talk of scientific theories.
+Theory is much higher on the
+hierarchy than, for example,
+a fact or just an observation.
+A theory is assembled from
+lots and lots of facts
+and independent lines of
+evidence that, sort of, cohere.
+So a theory is really,
+sort of, the top category
+of scientific idea,
+where, of course, you know, in the street,
+theory might mean that's my best guess
+or that's just something
+that I'm conjecturing.
+The way we talk about
+those kind of conjectures,
+we call those hypotheses.
+And that when hypotheses
+have been rigorously tested,
+that's what can contribute
+to making a theory.
+So folks, when we speak of theory,
+think that we're still
+very tentative about,
+you know, the truth of evolution.
+That's not all the case.
+The theory of evolution,
+which has grown enormously
+in the last 160 years,
+is a huge body of observations, evidence,
+and facts that are
+consistent with one another,
+that come from completely
+different sources of science.
+And that's what gives it its power.
+We, of course, wish that maybe
+that connotation of theory
+that's, you know, more of
+the everyday connotation
+would be better understood.
+- [Narrator] Chapter
+two, how our bodies work:
+the staircase of self-defense.
+- Now, here's something about
+the staircase of evolution
+that's very little appreciated.
+It's going on in every one
+of our bodies every day.
+It's keeping us alive.
+And that's because our immune system works
+on the very same principles
+of mutation and selection
+as evolution writ large
+does in the big world.
+Every day, we are exposed
+to all sorts of potential pathogens:
+bacteria, viruses, fungi, parasites.
+We've gotta fend these off.
+And by the time we're full-grown adults,
+there are actually more
+bacterial cells living on
+and in our bodies than
+there are our own cells,
+trillions and trillions of microbes.
+We've gotta keep these in check,
+or, of course, we'll
+suffer and potentially die.
+And that's the job of our immune system.
+And our immune system operates
+on the very same principles
+as the staircase of evolution.
+It's a staircase of self-defense.
+And the most remarkable
+property, our immune system,
+is it seems to be able to recognize
+as foreign virtually anything
+that can come at us out of nature,
+including entirely new pathogens
+that didn't even exist
+in the human population.
+And how do we do that?
+Well, it involves a process
+based on mutation and selection.
+And the way this starts,
+I'll just describe it
+starting with a single cell.
+So you have billions of cells,
+but these cells have different
+molecules on their surface
+that when they are complementary
+to molecules on the surface of a pathogen,
+they're activated, they're engaged.
+And when engaged, they
+multiply very rapidly
+such that over a period of about a week,
+one cell may become billions of cells
+and start to pump out large quantities
+of chemical weapons known as antibodies
+that thwart that invader.
+These billions of cells
+over our immune system
+are actually clones,
+clones that are subtly
+distinct from each other
+that have unique ability to
+recognize something else.
+Now, that something else
+could be any variety of things
+on an invading pathogen,
+but once they recognize that,
+that clone gets amplified,
+can grow to be many, many, many cells
+in the course of a week or so.
+That first wave of defense
+is decent, but not optimized.
+There's actually a mechanism
+to make those chemical weapons,
+the antibodies that cell
+makes, even more potent,
+even more deadly to essentially
+the invading pathogen.
+And that's because there's
+a specific genetic mechanism
+that mutates the antibody-encoding genes.
+Leaves the rest of the
+genes in the body alone,
+but just the antibody
+genes start undergoing
+a process called hypermutation
+and, therefore, generating all
+sorts of antibody variants.
+And the antibody variants
+that recognize the pathogen
+better are selected for.
+So here we go. We're
+climbing the staircase.
+So this hypermutation process,
+we now select antibodies,
+and this can go through various cycles
+to make ever better and better antibodies.
+So we're really zeroing in
+on this particular pathogen.
+So late in immune response,
+say, for example, the second
+week you're recovering
+from a flu virus,
+your immune system is ever more potent,
+ever more powerful in defeating its enemy
+because it's up that staircase.
+Eventually, a staircase, sort of, splits,
+and some cells are set aside
+as what's called memory cells.
+They're there to be used
+when this pathogen is encountered again.
+Other cells continue
+to make the antibodies.
+Now, this is the marvelous thing.
+Y'all are familiar with a
+phenomenon where, for example,
+you don't get measles twice,
+you don't get chicken
+pox twice, et cetera.
+Why is this? Immunological memory.
+That even if 50, 60,
+whatever number of years ago
+you might have been exposed to that virus,
+your immune system is still poised
+to attack it again if you're exposed again
+so you don't even get the infection.
+This system is called adaptive immunity,
+much like the process of evolution
+of mutation and selection is adaptive.
+It really only exists in this form,
+in animals with backbones,
+long-lived, generally larger animals.
+And you can see its utility
+because the longer your lifespan,
+the greater the chance
+you're gonna re-encounter
+a particular pathogen.
+If you're a short-lived
+mayfly or something like this,
+you don't live long enough
+to see the same thing twice.
+There's not that kind of immunity.
+So lots of animals including,
+you know, simpler things like
+worms and flies and all that,
+they have what we call innate immunity.
+They have ways
+that, sort of, put barriers
+up against pathogens.
+But this adaptive immunity only exists
+in creatures with
+backbones, with vertebrates.
+And it's pretty elaborate in us,
+in mammals, animals with fur, et cetera.
+But it's pretty well developed
+even in things like fish and sharks.
+Inside our bodies,
+the timescale of this
+process is very, very fast.
+It's more like what we described
+with respect to microbes
+'cause it starts with cells
+and cells that can
+multiply pretty frequently.
+So a lot of evolution can
+take place in a short time.
+Most of us are, sort of, familiar
+that, you know, most
+infections don't knock us down
+for more than about a week.
+That's when our immune
+system eventually, sort of,
+catches up and overtakes the pathogen.
+So that gives you a sense
+of the timescale it takes
+to mount the response,
+expand that response
+to the point where it
+overwhelms the pathogen,
+whereas out there in the world,
+sort of, a battle between
+predator and prey or whatever,
+that may go on for hundreds
+of thousands of years
+before there's, sort of, a winner.
+Same process, much more
+rapid timescale in your body.
+How is it possible that we can
+recognize virtually anything
+that the world will throw at us?
+And fundamentally, one
+of the problems there
+is, sort of, a coding problem.
+How can one make all the
+different kinds of antibodies
+that could recognize all the
+different possible pathogens
+that, you know, a species might encounter?
+And the solution to that
+required understanding
+how antibody genes are encoded in DNA,
+something we weren't able
+to do until the 1970s or so.
+And what that's revealed
+is that we mix and match
+pieces of antibodies in a way
+that we can generate millions
+of combinations of antibodies.
+And it's now estimated
+that we may be able to make
+about 10 billion different antibodies.
+And you might go,
+"Well, that sounds, sort
+of, impressive, but okay."
+Well, here's the thing:
+In our entire genome, all of our DNA,
+we only have about 20,000 genes.
+So how do you make 10 billion antibodies
+when there's only 20,000
+genes to begin with?
+And this is the brilliant
+trick of the immune system.
+It makes antibodies from
+short little gene segments
+that it mixes and matches in millions,
+if not billions, of combinations.
+So the trick of combinations
+is that it's just like in a,
+you know, if you can take
+a deck of cards, right,
+and you have, you know, five
+cards you draw from a deck,
+there's lots and lots of
+different combinations you can,
+even if you have only 52 different cards.
+And so from a modest
+number of antibody genes
+on the order of a few hundred,
+by mixing and matching them in pieces,
+we can generate enormous
+numbers of antibodies.
+So the immune system,
+even with all its powers,
+can still be, sort of, beat to the punch.
+There's still pathogens that can kill us.
+And this is why we vaccinate.
+And we understand, in vaccines,
+generally what we're giving
+is a little component,
+usually a non-living component,
+not the virus itself,
+not the pathogen itself,
+but maybe just a molecule
+that represents that pathogen.
+And we're using that to
+prime the immune system.
+So we're activating the immune system
+so it goes through some of
+those steps on the staircase,
+establishes memory, and
+is poised to respond,
+should we encounter that pathogen.
+And by being vaccinated,
+by being immunized,
+that can save lives,
+certainly save the suffering
+of a particular disease,
+shorten its course,
+save us days off work,
+whatever it might be.
+But this is why we have
+these vaccine strategies
+and we seek ways to give our
+immune system a head start
+'cause if we don't vaccinate,
+then we're at risk of suffering the damage
+that pathogen causes
+unless or until our
+immune system catches up,
+feeling lousy, or in some cases,
+there's lots of morbidity
+with these infections.
+One of the most notorious ones
+in human history is the smallpox virus,
+which killed hundreds of millions
+of people in human history
+and even tens of millions of
+people in the 20th century
+until we came up with a vaccine.
+And there was a global effort
+to vaccinate virtually
+every human on the planet.
+And that eradicated
+smallpox from the world
+so that now we don't even
+vaccinate for smallpox.
+But that was a virus that moved faster
+and caused greater pathology
+than our bodies could keep up with.
+- [Narrator] Chapter
+three, how cancer works:
+the staircase of mutation.
+- So we understand this
+evolutionary process
+is what drives our adaptive immune system
+and protects us against
+enemies from without.
+But it turns that sometimes the enemy
+is coming from within the house.
+And I'm speaking specifically of cancer.
+And cancer is truly an
+evolutionary disease,
+meaning that it is a disease that results
+from the exact same evolutionary
+process we're describing
+of the evolutionary process
+in the external world,
+of the evolutionary process
+in the immune system.
+Cancer forms in the same way,
+and that is mutations take
+place in individual cells
+that if they convey some growth
+advantage to those cells,
+those cells may outgrow their neighbors,
+and additional mutations may happen
+so they outgrow their neighbors further.
+And that's what we define as
+a tumor, a population of cells
+that is now growing unregulated
+relative to its normal neighbors.
+And that's a threat
+because that unregulated growth can lead
+to spread throughout the body,
+can lead to organ involvement,
+et cetera, and death.
+But the other concern is,
+is that cancer gets larger,
+some of those cells are gonna
+get yet additional mutations,
+and some of those cells
+are gonna get yet additional mutations.
+And so as cancer progresses over time,
+that tumor is less and less
+like the cell it started from,
+and the tumor itself is
+more genetically diverse.
+And that's giving us a real
+challenge therapeutically.
+So there is a staircase of cancer,
+and the way to understand that
+is that our risk of cancer
+is really age-dependent.
+The incidence of cancer
+goes up really significantly
+as we get older.
+And think for a moment why that might be.
+And what that is
+is it takes time to climb
+that whole staircase.
+So later in life,
+individual cells have gone
+through more divisions,
+they've had more chances
+to accumulate mutations,
+mutations that give them
+some growth advantage
+over other cells.
+And so our risk of cancer
+grows really significantly
+as we get into our 40s, 50s, 60s, and 70s.
+So that tells us not only is
+it an evolutionary disease,
+it's a genetic disease.
+It's mutations taking place in genes
+that somehow disrupt the normal process
+of controlling cell growth.
+So a huge interest has
+been, what are those genes?
+How do we find them?
+How does this all work?
+We first got a hint that
+cancer was a genetic phenomenon
+when scientists first started
+seeing chromosomal changes
+in cancers, chromosomes
+that were broken and fused
+and things like this
+and that all the tumor cells
+would have those broken chromosomes
+or tumors that arose
+independently in different people
+would have those rearranged chromosomes.
+And that gave us a hint,
+okay, something genetically is going on.
+But the crucial thing was to
+identify, well, what genes?
+Well, thanks to genomics,
+thanks to gene cloning,
+we now know that there
+are about 20,000 genes
+that essentially run the human body.
+And we've identified 150 of those
+that, when mutated, can
+contribute in some way to cancer.
+We'll call those drivers,
+and those drivers split into two classes.
+One class we'll call accelerators
+because when they're mutated,
+they really accelerate
+cell multiplication.
+They also have the name
+oncogenes, promoting cancer.
+Another class of genes,
+they serve as brakes,
+they hold back proliferation,
+But if they're disrupted by mutation
+and we no longer have
+their braking function,
+then the cells can grow out of control.
+So just like an out-of-control car,
+out-of-control self-proliferation
+can even be due
+to a stuck accelerator or a broken brake.
+It can be due to oncogenes
+that promote cancer
+or tumor suppressors
+that would normally suppress that cancer,
+but they've been disrupted by mutation.
+So scientists have banded
+together across the world
+to build this, sort of,
+catalog of driver genes.
+And so they study the state of these genes
+in all sorts of cancers.
+And there's some really,
+really clear insights from doing this.
+And the first is, well,
+it's a multi-hit process.
+Usually, any cancer has
+disruptions to multiple genes,
+might be three, four or five, even seven
+of these driver genes.
+And if we look at cancers
+that arrive in kids
+and compare that with
+cancers that arise in adults,
+there's a really profound distinction.
+When we look in kids,
+we see there are very
+few mutations overall
+in the DNA of the cancer cell,
+but they'll be in driver genes.
+And you don't see many other mutations
+that have taken place
+that are different, say,
+from Mom and Dad's DNA.
+And that's because a young child,
+its cells have not gone
+through that many divisions.
+It's not accumulated very
+many other mutations.
+It just so happens the
+mutations that occurred
+were in these critical driver genes.
+It's horrible, heartbreaking, bad luck.
+But the longer we live, all of our cells,
+whenever DNA is copied, mutations occur.
+Now, most of those
+mutations have no effect.
+They're sprinkled among the
+billions of bases that we have.
+But every now and then, one of
+these driver genes gets hit.
+Well, the longer we live
+and the more divisions our
+cells have gone through,
+the greater the chance that
+there have accumulated mutations
+and eventually hit one
+or more driver genes.
+And once they hit a driver gene,
+if that cell starts to
+out-proliferate its neighbors,
+well, then those cells
+in turn may be going
+through more rounds of
+division, more mutations.
+And so now, essentially
+the snowball is rolling
+such that by later in life,
+we have cells that have accumulated
+a number of driver mutations,
+and many of our cells at least
+have one driver mutation.
+It may not be pathogenic whatsoever,
+but a lot of our cells will
+have mutations in them,
+some of which could
+eventually be a problem.
+So understanding that cancer
+is this, sort of, disease,
+this interplay of mutation and selection,
+there's really three factors
+that can contribute to
+the formation of cancer.
+First is just bad luck, that
+the small number of mutations
+that are gonna happen anyway
+just happen to hit driver genes.
+Really, that's the explanation
+of pediatric cancer.
+And the kindest thing you can do
+to any parent whose child is
+struck is to reassure them
+that there was nothing
+they did to cause it
+and nothing they could
+have done to prevent it.
+Then there are lifestyle issues,
+like tobacco use and sun exposure.
+They'll increase the risk
+of particular cancers,
+lungs because that's where the smoke goes,
+and of course, the skin
+'cause that's what's being
+exposed to the sunlight.
+And the third is just age. It's time.
+The longer we live,
+the more divisions our
+cells have gone through,
+the more mutations have happened,
+and the more all the environmental things
+that we've been exposed to
+have had chance to work on us
+so that later in life,
+our cells are carrying loss of mutations,
+and we just hope that none of those cells
+have, sort of, that unlucky
+combination of mutations
+that will make it an uncontrollable tumor.
+So I think there's a few pillars
+of how we're combating cancer now
+that's really different
+from how we did it before.
+Now, for prevention,
+we're looking for these mutations.
+So you've seen, for example,
+a product like Cologuard
+where a stool sample can
+be sent to a company.
+Well, they're looking for
+mutations characteristic
+of gastrointestinal cancers
+in that fecal sample, okay?
+So that's early detection.
+And we know that the earlier
+you can detect cancer,
+the better shot you have
+of counteracting it.
+The second pillar is to know those cancers
+and to realize that different driver genes
+are mutated in different cancers.
+So instead of treating
+breast cancer as a monolith,
+we now subtype breast cancer
+according to the mutations
+that exist in an individual's tumor.
+So it's really important
+that the genotype,
+meaning the genetic makeup of a tumor,
+is analyzed when that is first diagnosed.
+That will shape the treatment course
+because the other thing
+that oncologists are doing
+is they use different drugs,
+different regimens to
+go after these cancers
+is to study which things work against
+which genotypes of cancer.
+So we're now, I think,
+classifying and categorizing cancers
+with much greater degree
+of sophistication.
+And then there is the
+specific therapy side.
+All sorts of drugs have been designed
+to go after those mutated genes,
+so to specifically target
+what has gone wrong in
+an individual cancer
+because of the mutation
+of a particular gene.
+Some of these drugs have
+been spectacular success.
+Some are doing a good job at,
+let's just say buying time
+in the hope that the cancer be contained
+and, you know, managed over
+the longer period of time
+and treated more as
+like a chronic disease,
+not necessarily eliminated,
+but at least managed.
+Only in the last about 25 years
+has this really been possible,
+but the practice of this
+has really grown enormously
+in the last about 15 years.
+And there's all sorts of new
+drugs under clinical trials
+at any given moment,
+again, trying to give a
+much more specific therapy
+to the particular alterations
+that had happened in a
+given individual's tumors.
+Better prevention, better
+diagnosis, better therapy,
+this is driving cancer rates down,
+certainly for certain types of cancers,
+and hopefully going to
+drive survival rates up
+over the long term.
+These parallels in how life evolves,
+how the immune system
+works, how cancer arises,
+at one level, they're startling
+because the connections aren't so obvious,
+but fundamentally, they're
+operating on the same process,
+this mutation and selection.
+But of course, mutation
+is a random process,
+and it's really hard to
+get our heads around,
+how can all the diversity
+and, sort of, seeming order
+that's out there in the world
+emerge from a process
+dependent upon chance?
+Yet there you have it.
+Whenever you have variation
+and you have competition,
+natural selection operates
+and gives us the variety of life.
+In the immune system,
+chance is being exploited.
+You think, "Well, we
+can't leave the defense
+of our bodies against chance,"
+but here we're exploiting chance.
+Now, of course, cancer
+has its root in chance,
+the unlucky mutation that hits a gene
+that could throw a cell
+out of balance with a body.
+That evolutionary process
+we've been discussing
+is one of error and trial,
+whereas humans, sort of,
+think like engineers.
+We think of what we want as an outcome
+and how we can get there, sort
+of, in the shortest distance.
+And we may use some trial and error,
+but we really try to minimize the error,
+whereas really these
+evolutionary processes
+start with error.
+They start with a random change
+and then try those things out.
+And I think it's just been hard for us
+to get our heads around that,
+yet the more we understand this
+and all of its manifestations
+and the immune system
+and cancer are too later realizations,
+we see that this process
+is a fundamental biological process,
+random genetic variation
+and the sorting of that variation
+through natural selection.
+- [Narrator] Chapter
+four: The untold story
+of Alfred Russel Wallace.
+- So about 15 years ago
+on a visit to the University of Cambridge,
+I happened to visit the archives there
+where they hold a lot of
+original materials from Darwin.
+And to my astonishment,
+they brought out and placed
+into these sweaty hands
+a copy of one of the
+early manuscripts that,
+many, many, many years later,
+would be modified into
+the origin of species.
+After Darwin got back from his voyage,
+he was pondering these ideas,
+and he decided to write
+them down in essay form.
+And by 1844, he completed a 230-page essay
+that's fleshed out a
+lot of his basic ideas.
+He wouldn't publish anything
+on evolution for 15 years.
+That essay, I think, was lost for decades
+and found under the steps of his house.
+So when it was presented to
+me, all over the manuscript,
+including on the back pages,
+there were drawings by Darwin's kids,
+they had been using it like scrap paper.
+It was a spine-tingling moment for me
+because this was really the birth
+of one of the biggest
+ideas humans have ever had.
+And I'm grateful that they
+found it under the stairway
+at Darwin's house.
+So while Darwin's is the
+most famous figure associated
+with the theory of evolution,
+Alfred Russel Wallace played a key part
+and deserves huge credit,
+both for his ideas and
+for his enormous effort.
+So really important to understand
+that the prevailing idea at the time
+to which Darwin subscribed
+and most British scientists subscribed
+was, we'll call special creation
+or the theory of special creation.
+And that was the idea
+that every species was
+specially created by God
+and, sort of, placed, or at
+least emerged in the habitat
+or in the place on the
+globe that best suited it.
+Now, what started to shake
+that theory in Darwin's
+mind and in Wallace's mind
+was in the course of their journeys,
+particularly when they
+visited archipelagos,
+strings of islands,
+each of them observed
+species on different islands
+that were slightly
+different from one another.
+Now, Darwin, and this is
+just a twist of his story,
+after nearly five years at sea
+and having made a full
+voyage around the world,
+they were about to turn
+from the southern tip of
+Africa back up to Europe.
+But his captain, who
+was, sort of, obsessive,
+decided he wanted to do
+some more measurements
+in South America, so he went
+back across the Atlantic.
+And Darwin was, at first, just crestfallen
+that he wasn't headed home,
+but he needed to make
+good use of that time.
+And he started to take his notebooks out
+and review what he had seen,
+but also, sort of, annotate them.
+And he thought back to
+the Galapagos Islands,
+and he thought back to these mockingbirds
+that he had seen on different islands.
+And he saw that on different islands,
+the Mockingbird were slightly
+different from one another
+in their feather patterns
+and things like that.
+And he thought,
+these islands were within
+sight of one another,
+just 50 or 60 miles away from one another.
+If a creator was placing species,
+sort of, perfectly adapted
+to each place, why would
+these mockingbirds be
+just slightly different from one another?
+Now, Wallace's story is more dramatic
+because Wallace, after
+four years in the Amazon,
+really at the breaking point,
+decided to return to England
+with specimens and whatever
+ideas he had collected.
+And on his way home, his ship caught fire.
+He had to get into a lifeboat.
+The ship sank right in front of him
+with all of his specimens.
+And he was in an open
+lifeboat for 10 days,
+hoping to be picked up.
+And he was picked up,
+eventually made his way back to England.
+You'd think after that experience,
+he would've sworn off all voyaging.
+But two years later, he goes back out
+and does an eight-year voyage
+across the Malay Archipelago
+and collects tens of
+thousands of more specimens.
+He noticed, for example,
+that birdwing butterflies,
+these beautiful, incredibly
+brilliantly-colored,
+large butterflies were slightly different
+from island to island.
+They both thought in the
+theory of special creation,
+these islands all looked alike.
+Why would there be just
+slightly different species,
+island to island?
+And it struck both of them:
+because species could change.
+Species weren't stable,
+they weren't immutable,
+as the theory of special creation argued.
+They in fact changed.
+And this opened up the big question then,
+or at least the daring question,
+of, are species the product
+of natural processes
+or divinely created?
+And they thought this was strong evidence
+that species change naturally.
+They change according to the
+conditions they encounter
+in different places.
+And the islands were crucial,
+sort of, laboratories
+for understanding this
+because the volcanic islands
+of the Galapagos look very
+similar to one another,
+but the creatures were a bit of different.
+The islands of the Malay Archipelago,
+very similar foliage and all that,
+but the creatures were
+a little bit different.
+And the only way they could,
+sort of, reconcile that
+was to say, well, the
+species were changing.
+They weren't fixed.
+They weren't immutable.
+And as they worked further,
+they thought about some other patterns.
+They knew about fossils.
+In fact, Darwin discovered
+some really interesting fossils
+on the coast of Argentina.
+And through correspondence
+back home while he was at sea,
+he realized these were,
+sort of, larger versions
+of animals that lived in
+South America at the time.
+So he found, for example,
+giant ground sloths.
+You know, huge, like,
+eight-feet-tall ground sloths,
+much larger than the living ones.
+But he realized, hmm, those
+are extinct creatures.
+What's the relationship between
+the extinct and the living?
+And he's starting to
+think about that genealogy
+between the extinct and the living.
+And Wallace is also becoming
+aware of these fossils
+'cause he's reading now what's coming out
+from the first studies fossils in Britain
+in the first part of the 19th century.
+They had also each read this work
+by an economist Thomas Malthus.
+And Malthus emphasized
+that there were limits on populations.
+He thought about the
+growth of populations.
+And Malthus said that, you know,
+disease and famine,
+that limited, for example,
+the growth of populations.
+Well, Darwin and Wallace
+being out in nature,
+they understood that life was very tough.
+They understood that, really,
+life was a battlefield,
+a contest, and that far
+more young are produced
+than can survive to adulthood.
+And what's uncanny is when
+you look at the writings
+of each of these individuals,
+Darwin's notebooks,
+Wallace's draft manuscript,
+they use the same language.
+They describe life as, quote,
+"A struggle for existence,"
+exactly the same words,
+unbeknownst to each other.
+And they talk about
+variations, however slight,
+and that they could be favored.
+And that led Darwin to coin
+the word natural selection.
+They'll be selected for in nature.
+And the things that are disadvantaged
+will be selected against.
+And Wallace said
+essentially the same thing,
+that one could imagine if
+there's a slight advantage,
+that slight advantage will be passed on,
+generation after generation.
+So Darwin, for 20 years,
+is back home in England.
+He's well-known
+because right after he did
+the voyage on the Beagle,
+he wrote a book that we call today,
+"The Voyage of the Beagle."
+And it was a popular
+read. It's a great read.
+It's still a great read
+today about his travels.
+And he was an eminent naturalist.
+Wallace was an unknown.
+He was from far more modest upbringing,
+and he was really paying
+his way on his voyages
+by selling a fraction of the specimens
+that he was collecting.
+So he was thousands and
+thousands of miles away
+from the center of science in England,
+and he wasn't connected really at all.
+So Wallace, by 1858,
+has a pretty good idea
+that life changes, life evolves.
+And he writes up a very short account
+of his thinking about how that works.
+And he decides to send
+it to the one naturalist
+with whom he struck up a correspondence
+who thinks might appreciate it.
+He sends it to Charles Darwin.
+Well, this event rocks Darwin,
+because Darwin has not gone public
+with his theory of evolution.
+And now here's this
+far-away correspondent,
+7,000 miles away from England,
+who, in just a few pages,
+essentially the same idea that Darwin has,
+that Darwin's labored
+on for about 20 years.
+Well, Darwin's friends rally
+and decide that the best thing to do
+would be to read Wallace's paper
+and an excerpt from Darwin's work
+in front of a British scientific society
+to, sort of, put both of
+these ideas out in the public.
+Darwin wasn't there.
+It turns out Darwin had suffered tragedy.
+He was burying Charles
+Jr., one of his sons,
+on the day this paper was read.
+And Wallace was 7,000 miles away,
+didn't even know it was going on.
+It really didn't make much of a splash,
+not much attention was paid.
+But the next year
+is when Darwin published
+"On the Origin of Species,"
+and that's when everyone paid attention.
+The response and acceptance or rejection,
+particularly to Darwin's
+"Origin of Species,"
+'cause that's the book everybody
+could put their hands on.
+It sold out in its first printing,
+it was reprinted quickly,
+it was translated into other languages,
+American versions were made.
+So people who are interested
+in science, biology,
+natural history around the
+world could get their hands
+on Darwin's ideas.
+So the reactions were
+a very wide spectrum.
+Thomas Huxley, who was one
+of Darwin's close confidants,
+sort of, thought, "You know, wow,
+why didn't I think of that?"
+He thought it was, you know,
+compelling and sort of obvious.
+But I think one thing to
+appreciate with Darwin
+is that his book is extraordinary
+in that he also presents
+and analyzes the critiques
+of his own theory.
+I mean, imagine that.
+This is just something that
+human beings don't generally do.
+If they've got an idea,
+they're gonna put out all the evidence
+in favor of their idea
+and they're usually not going to present
+to the opposition all the
+evidence either against it
+or all the evidence that's missing.
+But Darwin did this in a masterful way
+and basically often saying
+things like, you know,
+if a particular thing was found,
+it could crush my theory.
+Or if my theory is true,
+this would be true,
+but there wouldn't
+necessarily be any evidence
+weighing on that.
+So it was a masterful presentation.
+And I think it made it
+very accessible to people.
+They understood the strengths
+and weaknesses of the theory,
+and then new discoveries
+could be interpreted
+in light of that theory.
+And as some new discoveries,
+particularly from the fossil
+record, came to light,
+well, that gave a lot of power
+to Darwin, 'cause Darwin,
+at the time "Origin of
+Species" was published,
+the fossil record was pretty skimpy,
+but Darwin made some
+really strong predictions
+about what should be found,
+for example, in the fossil record.
+And one of those was transitional forms.
+If the tree of life has evolved
+in the way that he said,
+there should be forms
+that are intermediate
+between existing forms today.
+And two years after the
+"Origin of Species,"
+a fossil called Archaeopteryx,
+which has got mixed characteristics
+of both birds and
+reptiles, was discovered.
+And I mean,
+you couldn't have drawn
+anything better than that fossil
+for supporting Darwin's theory.
+So I think the reception of
+the scientific community,
+some of it, at first,
+was, you know, positive,
+but there were long, long holdouts.
+There were career long
+holdouts against Darwin
+among even very eminent
+natural historians,
+biologists, and scientists.
+And that holdout
+was really for reasons
+we'd all recognize today.
+While Darwin didn't, in 1859,
+didn't comment directly on
+the evolution of humans,
+he did later in 1871.
+Everyone knew that humans
+were gonna be a touchy subject,
+because for at least a couple millennia,
+the thinking was that,
+you know, man was created
+in God's image, not descended
+from some previous animal forms.
+But clearly Darwin's theory
+would be interpreted to say
+that, no, humans, just
+like every other animal,
+evolve their anatomy and their physiology
+from preexisting forms.
+And some scientists
+held out on that point,
+both perhaps from their
+own viewpoint of faith,
+but also, I think, because of
+some pressures in the academy.
+Darwin was on the short list
+to be knighted when the
+origin of species came out.
+Well, he never got that knighthood.
+So, you know, this was an idea
+that many people found repulsive.
+They were really worried about
+the societal implications
+to, sort of, take the creator
+out of the immediate picture
+of sort of, you know,
+tending to human affairs.
+And that's, of course, still a struggle
+that exists to today.
+And, you know, scientists, you
+know, being part of society,
+it was not universally,
+you know, accepted,
+far from it.
+Where Wallace really
+finally grasped the scope
+of what Darwin had been
+working and thinking
+was in 1859 when "The Origin
+of Species" was published.
+And he received a copy of
+"The Origin of Species."
+And he read it and reread it.
+In fact, Wallace's own copy
+is in the Natural
+History Museum in London.
+So we can understand, sort of,
+his reactions in real time.
+But I think one of the
+most poignant things I know
+in the history of science
+was Wallace's put his thoughts
+in reactions in a letter
+to his close friend in
+confidant, Henry Walter Bates,
+with whom he had first
+traveled to the Amazon.
+And Wallace is just gushing
+with admiration for Darwin.
+And he says, "I never,
+given any amount of time,
+I could have never come up
+with something as massive
+and compelling as Darwin."
+And he said, "I don't
+think any branch of science
+has ever been created by
+an individual such as this,
+such as Darwin."
+So Wallace was in awe
+of Darwin's synthesis,
+which was "The Origin of Species,"
+but they were mutually
+generous to each other.
+Darwin, right off on page
+one, acknowledges Wallace
+and Wallace's ideas.
+And Wallace later, for example,
+when he writes his first major book,
+he dedicates it to Darwin.
+They are, you know, mutual
+admirers to the point
+where, for example, Wallace
+is gonna be a pallbearer
+at Darwin's funeral.
+And in their day,
+this was referred to as
+the Darwin-Wallace theory.
+It's only later that biologists
+and historians just started
+kind of forgetting about Wallace
+and crediting Darwin.
+Now, there might be reasons for that.
+Darwin came from a wealthy family.
+The University of
+Cambridge did a great job
+at, sort of, amassing Darwin's collections
+and Darwin's writings.
+And so we just have a
+better historical record
+of everything that Darwin did.
+But at the time, it was
+the Darwin-Wallace theory.
+And I think by today's
+scientific standards,
+given the genesis of this theory,
+the theory certainly of natural selection
+by the two individuals,
+we would be crediting both of them.
+And you know, it's just
+the unfortunate sort of,
+you know, accidents of time
+that people kept talking about Darwin
+and Wallace, sort of,
+faded to the background.
+But I really feel in
+the last 25 years or so
+that Wallace has seen,
+sort of, a renaissance
+and that people are much more aware
+of Wallace's huge contributions.
+And then Wallace outlived
+Darwin by 30 years.
+So he was a really important figure
+in the discussion of evolution
+'cause, you know, this
+was a brand new science.
+It had relatively few
+advocates at the beginning,
+certainly people that
+really understood it well.
+And so Wallace played a huge role
+in getting people to help
+understand these ideas.
+I think if Darwin and
+Wallace were alive today,
+they would be so overjoyed
+by the detail with which
+we understand the process
+that they first figured out.
+They knew variation was important,
+they knew variation was the fuel
+of the evolutionary process,
+had no idea how that variation arose.
+Now any biologist can
+point right to the DNA
+in a newly hatched creature
+and say, "There's the mutation.
+That's what's gonna make the difference."
+So our understanding of the
+material basis of evolution
+is phenomenally strong.
+And I think that would be
+extremely gratifying to them.
+But these other manifestations,
+the role it plays in health and disease
+were nowhere in Darwin
+and Wallace's minds.
+So I think that would,
+again, further astound them
+that this process they figured out
+had such widespread ramifications
+beyond just the natural world.
+What we've seen are striking parallels
+in how life evolves, how
+our immune system works,
+and even how cancer arises,
+this process of mutation and
+selection, the staircase.
+So really, the process
+that Darwin and Wallace
+had that first insight into
+is a universal process.
+Wherever there's variation,
+wherever there's competition,
+selection will operate.
+For me personally as an
+evolutionary biologist,
+this just underscores
+the explanatory power
+of evolutionary theory
+and the importance of understanding
+the evolutionary process.
+You might think, "Well,
+the evolutionary process,
+let's just leave it to the
+scientists to worry about it."
+But I think in our daily lives,
+you understand that this
+is why we vaccinate.
+This is why we are now
+developing these strategies
+against cancer that we,
+of course, hope everybody
+will be able to benefit from.
+That's a long way from the Beagle voyage
+of 160 years ago.
+But that's fundamentally where Darwin
+and Wallace have brought us.
+- [Narrator] Wanna support the channel?
+Join the Big Think members community
+where you get access to
+videos early, ad-free.

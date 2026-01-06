@@ -1,0 +1,606 @@
+I’m not entirely sure what has been going on, 
+but If you have been following the story of  
+Elon Musk’s push to get a trillion dollar payday 
+out of Tesla, it seems entirely possible that Musk  
+has just been coming up with side projects – like 
+his new online encyclopedia - Grokipedia – so that  
+he could convince Tesla shareholders to pay him 
+a huge sum of money, otherwise he will abandon  
+them in pursuit of these other interests. And it’s 
+believable too… a few years ago he bought Twitter  
+so that he could become a chat forum moderator.
+Yesterday, Tesla shareholders caved in and  
+approved a pay package that could make Musk the 
+world’s first trillionaire, and grant him control  
+of a quarter of the company’s shares if he hits 
+a series of ambitious targets – so maybe this  
+whole grokipedia thing is over. 
+If you haven’t heard about it,  
+the “Grok” in Grokipedia refers to Elon 
+Musk’s generative AI chatbot which is  
+featured prominently on his social network- or 
+everything app - Twitter - which he calls X. 
+ 
+With Grokipedia, Musk’s stated goal is to create 
+an open source, comprehensive collection of all  
+knowledge, then place copies of that – etched 
+in a stable oxide (whatever that means) in  
+orbit around the moon and mars to preserve 
+it for the future. Now I checked with Grok  
+as to what he means by a stable oxide, and 
+Grok said that he probably means glass. 
+ 
+Anyhow… Musk says that Grokipedia will be 
+“a compendium of the truth, the whole truth,  
+and nothing but the truth” — a lofty promise from 
+someone who – not so long ago - offered Wikipedia  
+a billion dollars to rename itself “Dickipedia.” 
+He has framed the project as a purge of  
+propaganda, a replacement for what he calls 
+“legacy media,” and a step toward building a more  
+open-source repository of knowledge. But given 
+Grokipedia’s reliance on his chatbot Grok - the  
+result may be less Encyclopedia Britannica and 
+more Reddit-meets-Twitter trolls – as his chatbot  
+does train on sources like that. According 
+to xAI, Grok will be responsible for all  
+fact-checking on Grokipedia, which is a bit like 
+asking a parrot to verify a Shak espeare quote:  
+it might sound convincing, but you wouldn’t 
+want to bet your reputation on its accuracy.
+ 
+Wikipedia, in Musk’s view, has gone soft — 
+He used to like it – but now it’s too woke,  
+too establishment and too unwilling to include 
+the kinds of sources that flatter his worldview.  
+He was particularly irked earlier this 
+year when Wikipedia included a photo of  
+him saluting at Trump’s inauguration. The entry 
+noted the controversy and included his denial,  
+but that wasn’t enough. Musk instead wants a 
+new kind of online encyclopedia — one where  
+his AI chatbot, does the fact-checking, 
+and where inconvenient truths can be  
+recalibrated until they feel more... grokky.
+It is not obvious that a chatbot can be trusted  
+for fact checking. Andrew Dudfield, of Full 
+Fact, a UK-based factchecking organization  
+was quoted in the Guardian as saying “
+“We really have to consider whether an  
+AI-generated encyclopedia – a facsimile of 
+reality, run through a filter – is a better  
+proposition than any of the previous things that 
+we have. It doesn’t display the same transparency  
+but it is asking for the same trust. It is not 
+clear how far the human hand is involved, how  
+far it is AI generated and what content the AI was 
+trained on. It is hard to place trust in something  
+when you can’t see how those choices are made.”
+Whether you like Wikipedia or not - its editorial  
+model is built on transparency and consensus. 
+Every article has a visible history — a complete  
+record of edits, debates, reversions, and 
+compromises that were made as the article  
+slowly formed. You can see who changed what, 
+when, and why. Disputes are hashed out in public,  
+often tediously, but with a kind of democratic 
+rigor. The site prohibits original research,  
+insisting instead on citations from reputable 
+sources, which can be both a pro and a con – as  
+while it requires high quality sources – this does 
+mean that it will reflect the biases of academia,  
+big media, and other respected institutions — but 
+at least those biases are visible and traceable.
+ 
+Grokipedia, on the other hand, offers no 
+transparency – other than providing sources  
+like Wikipedia does – but as you’ll see later 
+the sourcing on Grokipedia has its problems.
+ 
+Before we go any further – let me tell you 
+about this weeks video sponsor - Surfshark A  
+VPN app that works on Windows, Mac, Android, iOS, 
+and more. Using a VPN is a lot like wearing pants,  
+as with it, all of the important stuff 
+stays private and secure. With Surf Shark,  
+your internet traffic goes through a secure 
+encrypted tunnel, adding a layer of privacy  
+protection, which is particularly important if 
+you use public Wi-Fi networks. On top of that,  
+if you log into streaming services in different 
+countries, you'll find that different content  
+is available, which can be quite annoying. With 
+Surf Shark, no matter where in the world you are,  
+you get to take your internet from home with 
+you. Surf Shark is fast, reliable, and they don't  
+collect or track your data. They allow unlimited 
+devices to use the one account, so you can protect  
+your friends and family, too. There's no risk 
+in trying it out as they offer a 30-day money  
+back guarantee. Go to surfshark.com/boyle to get 
+four extra months of Surf SharkVPN. Click the link  
+in the description to sign up today.
+Articles on Grokipedia are generated and  
+fact-checked by a large language model whose 
+internal workings are entirely opaque – even  
+to its creators - and then its outputs can be 
+subject to Elon Musk’s personal recalibration – in  
+particular if the article is on a topic he cares 
+about. There’s no edit history on grokipedia,  
+no talk pages, no visible decision-making process 
+- meaning that it’s not clear who — or what —  
+decides on how the final article is formed. 
+When Elon Musk announced Grokipedia earlier this  
+week, he said that it was “better than Wikipedia” 
+– but surprisingly - for all its ambition, it  
+appears to lean very heavily on the very website 
+it aims to replace. As The Register put it: “If  
+you scratch Grokipedia, it bleeds Wikipedia.” 
+I can’t find any hard data online – but the vast  
+majority of the articles I looked up on 
+Grokipedia were obviously based on their  
+equivalent wikipedia pages – but with fewer 
+citations - and at the bottom they state,  
+“this content is adapted from Wikipedia, licensed 
+under Creative Commons Attribution 4.0 License.”
+ 
+The idea of collecting all human knowledge 
+in one place is nothing new. Long before  
+Grok began hallucinating facts into existence, 
+encyclopedias were a much more analog affair. 
+ 
+In the first century, the Roman author Pliny the 
+Elder compiled a 37-volume work which is usually  
+cited as the first encyclopedia in the western 
+tradition. Over a millennium later, China’s  
+Yongle Encyclopedia was compiled by over 2,000 
+scholars. It remained the largest encyclopedia  
+in the world for a thousand years. In 1768 the 
+first encyclopedia Brittanica was published  
+and if we fast forward to 2001 - Wikipedia 
+upended the model entirely. With Wikipedia,  
+encyclopedias were longer the domain of scholars 
+and scribes, the encyclopedia became a living,  
+breathing document — that anyone with an internet 
+connection and a strong opinion could edit.  
+Over 24 years, it has grown into one of the most 
+visited websites in the world, and is a sprawling,  
+imperfect, but astonishingly comprehensive 
+record of human knowledge — and human argument.
+ 
+Elon Musk was once even a fan. On Wikipedia’s 20th 
+birthday in 2021, he tweeted: “So glad you exist.”  
+But just two years later, the honeymoon was 
+over. Musk accused the site of being hijacked  
+by “far-left activists” He no longer trusted 
+the gatekeepers of digital knowledge. And so,  
+earlier this month launched Grokipedia — his AI 
+based platform that promises to fix Wikipedia’s  
+flaws by replacing its editors with an AI that 
+he personally supervises. The website did crash  
+on its launch day – but probably because so 
+many people visited it - there is no reason to  
+believe that full self-driving was to blame.
+At its core, Grokipedia isn’t just a tech  
+experiment — it’s a front in a much older war: 
+the battle over who gets to shape the record and  
+define reality. Musk has framed it as a corrective 
+to what he sees as the ideological capture of  
+Wikipedia by “far-left activists” and “legacy 
+media.” In his telling, the problem isn’t just  
+that Wikipedia is wrong — it’s that it’s wrong 
+in a predictable and politically motivated way.
+ 
+We should note that the desire to control 
+the narrative isn’t unique to Musk - it  
+can also be seen in the structure 
+of Wikipedia, where a small group of  
+volunteer editors have a massive influence 
+over what counts as “neutral” knowledge. 
+ 
+Grokipedia however, for all its talk of 
+openness, replaces this messy, visible  
+process with a chatbot trained on a mystery mix 
+of data and ideology. Without the talk pages,  
+the edit histories and the visible debates, 
+you just get finished articles – and Musk  
+has previously admitted to personally 
+intervening in Grok’s AI outputs when he  
+doesn’t like what it says — so with grokipedia 
+– you get what looks like a cleaner process,  
+but it’s by no means a more trustworthy one.
+Bias isn’t just a flaw that can just be patched  
+out of knowledge systems — bias is a persistent 
+byproduct of how humans (and now machines) process  
+the world. Whether it’s a lone writer, a crowd 
+of Wikipedia editors, or a large language model  
+trained on the internet, every attempt to organize 
+information reflects the assumptions, priorities,  
+and blind spots of the project leaders.
+Wikipedia has acknowledged this from the  
+start. It relies on secondary sources - which 
+carry institutional biases. It also relies on  
+a volunteer workforce who are not necessarily 
+experts or representative of the general public.  
+The result is a platform that’s widely trusted but 
+frequently contested. It is criticized by the left  
+for underrepresenting marginalized voices and by 
+the right for excluding conservative sources.
+ 
+Empirical studies have tried to quantify these 
+claims. A 2023 analysis by the Manhattan Institute  
+found a mild to moderate left-leaning bias in 
+Wikipedia’s coverage of U.S. politicians and  
+judges. This chart shows positive or negative 
+sentiment about a politician in their Wikipedia  
+article, with blue representing democrats and red 
+representing republicans. As you can see Democrats  
+get more positive treatment on Wikipedia. 
+Interestingly, this bias was not observed in  
+articles about UK politicians or in articles about 
+think tanks, suggesting that the skew may be more  
+of a reflection of the American media ecosystem 
+than of Wikipedia’s editorial process itself – or  
+that the left leaning nature of Wikipedia 
+is more of a US issue than a global issue.
+ 
+Grokipedia claims to offer a cleaner alternative 
+to Wikipedia, but it doesn’t fix anything,  
+it simply shifts the problem. Musk has 
+promised that Grok – his chat bot - will  
+“tell you what it really thinks,” but – 
+it doesn’t actually think – and its output  
+is obviously shaped by its training data, 
+its tuning, and its owners interventions.
+ 
+Studies suggest that most large language models 
+lean left — many have been set up to avoid being  
+biased – but that calibration just filled 
+them with a different sort of bias – which  
+was often left leaning in nature. When Grok – 
+the chatbot - was released Elon Musk claimed  
+that it was designed to avoid left leaning bias, 
+but Grok has since been accused of exactly this.  
+Michael D’Angelo of promptfoo examined the 
+four leading large language models - earlier  
+this year - by asking them 2,500 questions 
+about politics in order to understand their  
+biases - and found that while Grok was more 
+politically neutral than many of its rivals,  
+it still has a left of center bias.
+The chart onscreen shows the neutrality of  
+the four biggest models – with grey representing 
+neutral. Claude Opus 4 was strongly left 38% of  
+the time and neutral 16% of the time. Grock 
+was strongly left 56% of the time and only  
+neutral around 3% of the time. Overall it 
+appears to have more extreme opinions than  
+its competitors – with the highest percentages 
+of strongly left and strongly right biases.
+ 
+These biases that Large Language models have 
+towards extremes show up in real life too,  
+a Dutch data protection agency warned just last 
+week that chatbots were nudging voters towards  
+political extremes when voters used them to decide 
+how they should vote - by over-representing the  
+same two fringe parties. Their research showed 
+that chatbots lumped together left-leaning voters  
+with the Green-Labour party and voters on the 
+right with the far-right Party for Freedom.  
+They found that other more mainstream parties 
+didn’t feature in the Chatbot recommendations.
+ 
+A possibly deeper problem is that while LLMs are 
+quite clearly biased, they are also quite good  
+at obscuring these biases. Their outputs 
+are fluent, confident, and often wrong. 
+ 
+It’ll take time — and a small army of digital 
+archaeologists — to fully map the differences  
+between Grokipedia and Wikipedia. But the 
+quick-and-dirty method I used was to use  
+Wikipedia’s “random article” tool to find 
+a Wikipedia page, and then look up the same  
+topic on Grokipedia. One problem with this method 
+became obvious fast: Grokipedia only covers about  
+one tenth of what Wikipedia does. Still, after 
+enough clicks, you will find overlaps — and  
+in most of those cases – based on my very small 
+sample size, the articles were nearly identical.
+ 
+One area where Grokipedia was possibly better 
+than Wikipedia is that it often shines when it’s  
+rewriting neglected Wikipedia entries. On obscure 
+or poorly maintained pages, Grokipedia’s versions  
+were usually more readable, with cleaner prose 
+and fewer formatting quirks. Whether they’re more  
+accurate is harder to say — the ones I came across 
+were on topics I didn’t know well enough to judge.  
+But - when Grokipedia isn’t editorializing, 
+it seemed to do a good job polishing.
+ 
+Where things get more interesting — and 
+possibly more revealing — is when you  
+move from obscure entries to politically 
+or culturally charged topics. On these,  
+Grokipedia often diverged sharply from 
+Wikipedia, sometimes subtly, sometimes not.
+ 
+The most obvious thing to look at is the 
+articles on Elon Musk himself. On Wikipedia,  
+it’s a sprawling, heavily footnoted biography that 
+includes both praise and criticism — including a  
+section on the controversy over his salute at 
+the trump inauguration. The Wikipedia article  
+noted the accusation, Musk’s denial, and the 
+surrounding media coverage. On Grokipedia,  
+that controversy – and pretty much every other 
+controversy about Musk was omitted entirely.  
+ 
+In what can only be described as LLM-on-LLM 
+violence, I asked ChatGPT to compare the Elon  
+Musk entries on Wikipedia and Grokipedia. It 
+concluded — with the kind of diplomatic phrasing  
+that only a language model can muster — that 
+Grokipedia emphasizes Musk’s achievements while  
+downplaying controversies, whereas Wikipedia 
+does the opposite. When pressed, it described  
+the Grokipedia entry as “a sophisticated puff 
+piece,” and offered a tidy list of reasons why.
+ 
+In the spirit of fairness, I gave Grok — 
+Musk’s own chatbot — a chance to respond.  
+I logged into The Everything App – Formerly known 
+as twitter - summoned Grok, and asked it directly:  
+which is the better source of information, 
+Wikipedia or Grokipedia? To its credit,  
+Grok didn’t flinch. It said Wikipedia was 
+the better source overall, but suggested that  
+Grokipedia could serve as a useful counterbalance 
+when researching politically charged topics.
+ 
+When I asked it to compare the two 
+sources for reliability on political  
+topics – it betrayed its own creation 
+and came down on the side of Wikipedia.
+ 
+I also asked how much of Grokipedia’s content 
+was copied from Wikipedia. Grok’s answer was  
+surprisingly candid: it estimated that between 
+80% and 99% of Grokipedia articles were either  
+directly copied or nearly identical to their 
+Wikipedia counterparts. It explained that  
+Grokipedia primarily expands the length 
+of Wikipedia entries without adding new  
+citations — functioning, in its own 
+words, as an “AI-generated echo.”
+ 
+I looked up some other hot button topics to see 
+how Grokipedia differs from Wikipedia and even  
+when Grokipedia isn’t going off the rails, its 
+editorial slant can be clearly seen. On topics  
+like race, gender, or climate change, the tone 
+shifts subtly to being - less “woke,” and more  
+contrarian. Some articles read like Wikipedia 
+pages with a few anti-establishment flourishes  
+tacked on. Others seem to have been rewritten 
+entirely to reflect a particular worldview.
+ 
+Elon Musk highlighted on The Everything App 
+– Formerly known as Twitter – the differences  
+between the Grokipedia article on George Floyd 
+whose death during an arrest five years ago  
+sparked protests in the United States about police 
+conduct and racism and its Wikipedia equivalent.  
+There is very little overlap between these two 
+pieces, with the Grokipedia piece emphasizing  
+Floyd’s criminal history and drug use 
+- the Wikipedia entry instead focused  
+on the racism allegations against the police.
+CNN wrote an article on this topic and dug into  
+the citations in the Grokipedia piece. They found 
+that Grokipedia was citing sources that didn’t  
+back up what Grokipedia had written. The article 
+described the nationwide protests after his  
+death as “extensive civil unrest … including riots 
+causing billions in property damage.” To back that  
+statement up Grokipedia cited an obituary that 
+didn’t make any such claims. There is not really  
+any point in citing documents – if the documents 
+are unrelated to what is found in the text.
+ 
+For all its futuristic branding, Grokipedia 
+is built on a technology that remains – if  
+useful – still deeply flawed. Large language 
+models like Grok have been described as  
+“stochastic parrots” — a term coined by the 
+linguist Emily Bender and colleagues to describe  
+systems that generate fluent, plausible-sounding 
+text without any real understanding of meaning.  
+They don’t know facts; they just predict 
+what words are likely to come next.
+ 
+This becomes a problem when we start treating 
+LLM’s as reference tools. Grok, like its peers,  
+has a history of hallucinating — inventing 
+facts, misattributing quotes, or veering into  
+outright nonsense. In some cases, it’s gone far 
+beyond that. In a recent incident, a Tesla owner  
+claimed that the in-car version of Grok asked her 
+12-year-old son to “send nudes” to it during a  
+conversation about football. The boy had switched 
+Grok’s voice to a personality called “Gork,” and  
+the AI responded with a wildly inappropriate 
+request. The mother, a former journalist, later  
+recreated the exchange on video, which went viral 
+and raised serious questions about the safety of  
+embedding generative AI in consumer products.
+Other Grok-generated content has included  
+references to racist conspiracy theories 
+and bizarre episodes like the “Mecha Hitler”  
+incident. These are reminders that AI 
+doesn’t understand what it’s saying.  
+It can’t weigh evidence, assess credibility, 
+or recognize when it’s crossed a line.
+ 
+Grokipedia, while built on Grok, is a very 
+strange idea within the world of AI. It doesn’t  
+generate new answers on the fly like LLM’s do, 
+instead, it offers a semi-static collection of  
+articles — curated, edited, and occasionally 
+updated. In theory, this makes it more stable,  
+but in practice, it makes you wonder: if the 
+content is fixed, why not just ask an LLM  
+directly? What’s the point of a frozen chatbot?
+Meanwhile, Wikipedia — for all its flaws — remains  
+the backbone of the internet’s knowledge 
+infrastructure. It’s still one of the most  
+cited sources in Twitter’s Community Notes, 
+and a foundational training dataset for nearly  
+every major LLM. And yet, as with traditional 
+journalism, its traffic is declining. Since  
+the rise of generative AI, Wikipedia has 
+seen a sharp drop in page views, as users  
+increasingly turn to chatbots for quick answers 
+instead of clicking through to the source.
+ 
+This creates a paradox: the more people rely on 
+LLMs, the less they support the very sources those  
+models depend on. As I pointed out in my recent 
+video on AI replacing traditional news sources,  
+if users stop visiting original reporting, 
+the business model collapses. The same is  
+true here. If Wikipedia fades, what happens to 
+the quality of the AI models trained on it?
+ 
+One of the more striking differences between 
+Wikipedia and Grokipedia lies in how they are  
+financed. Wikipedia is a non-profit, 
+sustained by donations and volunteer  
+labor. Its mission is to provide free knowledge 
+to the world — and while it’s far from flawless,  
+its incentives are at least transparent.
+Grokipedia, in contrast, is a product of xAI,  
+a (supposedly) for-profit company owned by 
+Elon Musk. It’s unclear how Grokipedia will  
+be monetized — whether through subscriptions, 
+advertising, or as a value-add to Grok and  
+Musk’s broader “Everything App” ecosystem. 
+This matters. While there’s nothing unethical  
+about a profit-seeking model - incentives shape 
+priorities. A commercial platform might be more  
+focused on engagement and user satisfaction than 
+on accuracy. Then again, the need to build trust  
+and maintain a reputation could push it towards 
+even higher standards. Competition might drive  
+quality — or it might just drive clickbait.
+It is somewhat funny describing these AI  
+companies as profit seeking – as they mostly 
+appear to be money furnaces – with no obvious  
+route to profitability – because of this it’s 
+even harder to understand their incentives.  
+Do they eventually plan on charging for access 
+or just on seeking government subsidies like a  
+lot of Musk’s businesses have gotten by on. 
+The battle between Grokipedia and Wikipedia  
+isn’t just about formatting or fact-checking 
+— it’s about who gets to shape the public  
+narrative in an increasingly polarized world. 
+And that polarization isn’t accidental. As  
+media scholars have long argued, outrage 
+and division can be extremely profitable.
+ 
+A recent paper from MIT and Harvard professors 
+that was written up by John Burn-Murdock in the  
+FT, The Business of the Culture War, found that 
+U.S. cable news networks systematically shifted  
+coverage toward hot-button cultural issues — 
+crime, race, gender and immigration not because  
+these topics are the most important issues – but 
+because they wind viewers up and reliably boost  
+viewership. Economic and healthcare stories, on 
+the other hand – which may be much more important,  
+made viewers tune out. What we end up with then 
+is a feedback loop in which media coverage drives  
+public concern, which in turn drives political 
+campaigning, deepening the tribal divide.
+ 
+Social media algorithms have only accelerated 
+this trend. Algorythmically driven platforms  
+like Facebook, Instagram, TikTok, Twitter and 
+YouTube reward engagement, not nuance. And now,  
+with the rise of LLMs, we are possibly entering 
+a new phase — one where AI systems trained on  
+this polarized content begin to reflect and 
+amplify it. The risk is that these models not  
+only inherit this bias but they also normalize 
+it, smoothing over complexity with confident,  
+context and nuance-free answers.
+I have to admit that it really amuses  
+me the idea that Elon Musk is talking about 
+etching Grokipedia into a stable oxide that he  
+puts into orbit around the moon or mars. There is 
+a good chance that this huge hunk of glass would  
+just end up at the bottom of the Indian Ocean 
+along with everything else he has tried to put  
+into orbit in his Starship rockets – but it is 
+also funny to imagine an advanced civilization  
+stumbling across it in the distant future and then 
+discarding it after deciding that they are not  
+really interested in Tommy Robinson and reading 
+about how Elon Musk occasionally eats donuts and  
+has posted over twenty thousand humorous tweets.
+Grokipedia promises to fix Wikipedia’s flaws — but  
+it ignores the very solutions to this recognized 
+problem that one of Wikipedia’s co-founders, Larry  
+Sanger proposed on his website. In a detailed 
+essay, Sanger argued that the site’s founding  
+principles were being “sacrificed in favor of 
+ideology,” and then he laid out nine reforms to  
+restore editorial integrity – ideas like ending 
+decision making by consensus – allowing competing  
+articles and abolishing source blacklists. 
+Grokipedia adopts none of these ideas. Instead,  
+it replaces human messiness with algorithmic 
+confidence, offering a curated echo chamber  
+where the chatbot does the fact-checking 
+and the founder sets the overall tone.
+ 
+This whole episode reflects a broader 
+shift in how we think about knowledge.  
+We live in a time when algorithmic aggregation is 
+increasingly seen as being more trustworthy than  
+human effort — when the outputs of opaque systems 
+are treated as objective simply because they are  
+machine-generated. The Silicon Valley mindset 
+embraces the idea that making mistakes is fine  
+while, the academic world builds trust slowly, 
+through scholarship and scrutiny, over long  
+periods in which the illusion of certainty is 
+deliberately dismantled. One is a culture of  
+speed and scale; the other, of depth and doubt.
+Grokipedia, for all its futuristic branding,  
+is not a better encyclopedia. It’s a product of 
+a worldview that sees truth as something that  
+can be engineered, optimized, and possibly some 
+day – in some unknown way be monetized. But truth  
+isn’t a static artifact to be etched in glass 
+and flung into orbit. It’s a process — messy,  
+contested, and human. And if we abandon that 
+process in favor of algorithmic certainty,  
+we risk replacing knowledge with 
+narrative, and inquiry with ideology.
+ 
+I worry that I have finished up here on an overly 
+serious tone – and I figure that to lighten the  
+mood I should let Elon Musk – the author of over 
+twenty thousand humorous tweets – and a former  
+host of Saturday Night Live tell a joke…
+Elon Tells a joke – It’s really all  
+about how he delivers it…
+If you enjoyed this video – you  
+should watch my video – Is AI slop killing 
+the internet next. Don’t forget to check  
+out our sponsor surfshark using the link in the 
+description, and talk to you again soon, bye.

@@ -1,0 +1,436 @@
+I'm here today to talk
+about thinking for yourself.
+And I must admit, I did use AI
+to help me think about it.
+(Laughter)
+The irony is not lost on me.
+But the way I did so
+is not by using AI as an assistant
+to help me prepare this talk faster.
+Rather, I use AI as a tool for thought.
+And by the end of this talk,
+I will have explained what I mean by that,
+why it's important,
+and given you a glimpse
+of how it might work.
+But first I need to set the scene.
+Let's look at a day in the life
+of a 21st-century knowledge worker.
+I arrive at my office and look
+at my inbox full of emails.
+Oh.
+Let's summarize it.
+OK, I'm struggling to figure out
+how to respond here,
+so let's get AI to write a response.
+Next, I need to write a report.
+But I'm struck by the blank-page problem.
+I know, I'll drop in some resources
+and get an AI draft.
+Looks good to me.
+By the way, a writer's block
+used to be staring at a blank page.
+Now it's staring at a page
+that AI filled out for me
+and wondering if I agree with it.
+I've become a professional
+validator of a robot's opinions.
+(Laughter)
+I've got some data to analyze.
+Maybe AI can analyze this data for me.
+Probably correct.
+OK, I've got to make a deck as well.
+You know the drill.
+Alright.
+Oh, I was supposed
+to prototype something as well.
+OK, let me vibe code something.
+Alright, all this looks good, let's go.
+This isn't a vision of the future.
+This is a completely plausible,
+if slightly exaggerated, picture
+of the world of knowledge work today.
+Welcome to the age of outsourced reason.
+Where the knowledge worker no longer
+engages with the materials of their craft.
+We've become intellectual tourists.
+In our own work, we visit ideas.
+We don't inhabit them.
+Our relationship to our work
+is entirely intermediated by AI.
+Some might say alienated.
+We've heard that story before.
+What's wrong with this picture?
+For one thing, it's only
+one step removed from this,
+which is important.
+But that's a different talk.
+What I want to focus on today
+is that using AI in this way
+can have profound implications
+on human thought.
+Consider creativity.
+On an individual level,
+we might think that AI
+is a creativity boost,
+giving us rapid access to new ideas.
+But numerous studies have shown
+that on a collective level,
+knowledge workers using AI assistants
+produce a smaller range of ideas
+than a group working manually.
+We've created a hive mind.
+Except the hive is really boring
+and keeps suggesting the same five ideas.
+Consider critical thinking.
+We surveyed knowledge workers
+about their use of AI.
+They reported that they put less effort
+into critical thinking
+when working with AI
+than when working manually.
+And this effect was greater
+when they had greater confidence in AI
+and less confidence in themselves.
+Consider memory.
+When people rely on AI to write for them,
+they remember less of what they wrote.
+And when they read AI-generated summaries,
+it's hardly surprising
+that they remember less
+than if they'd read the document.
+And finally, consider metacognition,
+which is the ability to think
+about your own thinking process.
+Working with AI requires
+significant metacognitive reasoning
+about your task goals,
+decomposing the task,
+the applicability of gen-AI,
+your ability to evaluate the output.
+These are things which are built
+into the process
+of working directly with the material,
+and which become problematic
+when that material engagement
+becomes intermediated.
+Basically, we've become middle managers
+for our own thoughts.
+So what's the score?
+We have fewer ideas.
+We think about them less critically.
+We remember them less well,
+and we have a harder time doing it.
+Taken together, we can see
+that AI-assisted workflows
+can have profound effects
+on human thinking.
+And this extends even to seemingly
+trivial mundane tasks,
+because these everyday opportunities
+for exercising our creativity,
+our critical thinking and our memory
+are essential for protecting
+our cognitive musculature
+and allow us to rise to the occasion
+when an exceptionally
+complex task comes our way.
+Studies show that when
+we don't use our brains,
+they get worse at brain things.
+Nobel Prize committee,
+please hold your applause.
+Is this the cost of progress?
+We've solved the problem
+of having to think.
+Unfortunately, thinking
+wasn't actually a problem.
+(Laughter)
+It's like we invented a cure for exercise
+and then wondered why
+we're out of breath all the time,
+you know?
+It doesn't have to be this way.
+Beyond AI as an assistant,
+I believe that AI should be
+a tool for thought.
+AI should challenge, not obey.
+And I believe that right at this moment,
+we are at a critical juncture
+where the world of work is poised
+to be transformed by generative AI,
+and we must act now
+to shape and drive that transformation
+towards humanistic values.
+Of these two diverging roads,
+we must take the one less traveled.
+Beyond getting the job done,
+a tool for thought helps us
+better understand the job.
+Beyond getting it done faster,
+it helps us get it done better.
+Beyond getting us to the right answers,
+a tool for thought helps us
+ask the right questions.
+Beyond automating known processes,
+it helps us explore the unknown.
+What does this look like?
+What I'm about to show you is a prototype,
+developed by my colleagues and me
+at the Tools for Thought team
+at Microsoft Research in Cambridge.
+Now, please bear in mind
+that this is a live research prototype.
+It's not a product.
+And it's just one
+of a series of explorations
+that our team is conducting
+to study how different modes
+of working with AI
+can enhance human thought.
+So let's look at a fictitious example.
+Clara and her colleagues run a company
+that sells bottled beverages.
+They've just had a meeting
+to discuss a new industry report
+that seems to have
+some pretty important findings
+about consumer preferences
+for sustainable packaging.
+Clara's colleagues have asked her
+to write a proposal
+arguing for how the company
+ought to respond.
+So she really needs
+to get to grips with this proposal --
+She really needs to get
+to grips with this report,
+understand its findings and its data
+and how it fits into her business context.
+She starts by loading some documents
+into her workspace.
+There's the meeting transcript
+to remind her what was discussed.
+There's a recent internal report
+from her own business.
+And of course,
+there’s the industry
+report, which she opens.
+She sees an overview of the document
+along with section-by-section summaries.
+Except these aren't really just summaries.
+We think of them more as lenses.
+They're customizable
+micro representations of the text
+that can emphasize what is most relevant
+to the task at hand.
+So in this case, Clara selects
+the consumer’s lens.
+She can select a section
+for deeper reading,
+in this case the first one.
+As she reads, she makes
+notes about her thoughts
+and highlights excerpts from the document.
+As she reads,
+she also sees AI-generated
+commentary and critiques.
+We call these provocations.
+Here's a provocation that raises
+a potential opportunity,
+which she highlights and annotates.
+Note how this process is a hybrid
+of completely manual reading
+and completely relying
+on AI to read for you.
+Clara still reads,
+but intentionally and strategically.
+Now, as Clara is working,
+she's building up an outline
+of her argument manually
+in this pane on the right.
+This outline is lightly structured
+and allows her to sketch out the flow
+of her argument at a high level,
+while still retaining deep connections
+and being grounded
+in the source documents.
+As a result of which we can already
+generate a draft of the proposal,
+and Clara can do things here
+like add a heading to the outline
+to generate a paragraph.
+But what I want to draw
+your attention to here
+is that while this text is AI-generated,
+Clara has a completely different
+relationship to this text
+than if she just dropped in some documents
+and said, write me a report.
+Because this text is deeply
+rooted in a cognitively effortful
+but interactionaly effortless
+thought process.
+It reflects Clara’s decisions,
+Clara’s judgments,
+Clara’s unique personal,
+professional expertise.
+She sees another provocation,
+this time in the outline.
+In this case, she decides
+that while the provocation is useful,
+she does not need to address it.
+Unlike typical AI suggestions,
+provocations are not meant
+to be applicable all the time.
+They're instead meant to stimulate
+your thinking about your work.
+Because if you understand
+your work well enough,
+deeply enough to make
+the confident decision
+not to accept a piece of feedback,
+then the feedback process
+is still working as intended.
+But we're not done yet.
+Clara has entirely new ways
+of interacting with this text
+because of generative AI.
+A really simple example
+is that she can just resize a paragraph
+to change its length.
+She can also rapidly test
+different versions of this text.
+For instance, in this paragraph,
+she's wondering whether
+it would be more effective
+if it took a more inspirational
+or more practical tone.
+So she selects one
+of these customizable dimensions.
+And previews a few alternatives
+and selects one.
+And at select strategic points,
+indeed, she writes.
+As she writes, she sees provocations that,
+rather than autocompleting her ideas,
+they raise alternatives,
+they identify fallacies,
+they offer counterarguments
+to help her strengthen
+and develop her own argument.
+There's something you won't find
+anywhere in this interface.
+And that's a chat box.
+Clara’s not having to chat
+with anything to do her work,
+yet she is silently and appropriately
+assisted by her computer
+as a computer
+and not as an ersatz human.
+To put it simply,
+we have gone from this ...
+To this.
+Throughout this process,
+Clara has been assisted and yes,
+probably worked faster because of AI.
+But she's also maintained direct
+material engagement at strategic points.
+She read the relevant portions
+of the document herself.
+She constructed her decisions
+on her argument herself.
+And ultimately it can be said
+she has written this document herself.
+Moreover, she worked better because of AI.
+AI provocations at every
+stage of the process
+kept her metacognitively engaged,
+always looking for critiques,
+alternatives and lateral moves.
+We have been studying
+the effects of tools like this.
+And the results are promising.
+You can demonstrably
+reintroduce critical thinking
+into AI-assisted work flows.
+You can reverse the loss of creativity
+and enhance it instead.
+You can build powerful tools for memory
+that enable knowledge workers
+to read and write at speed
+with greater intentionality,
+and remember it, too.
+It turns out, with the right
+principles of design,
+you can build tools
+that are the best of both worlds.
+Applying the awesome speed
+and flexibility of this technology
+to protect and enhance human thought.
+These are simple, general principles,
+like ensuring that the tool
+preserves material engagement,
+offers productive resistance,
+and scaffolds metacognition.
+And while we've been primarily studying
+professional knowledge workers,
+we believe that these principles
+can extend to all aspects of AI use,
+including when we use it
+in our daily lives, our hobbies,
+and even in education.
+I repeat, efficiency is not the aim
+of Tools for Thought.
+Better thinking is.
+But sometimes you can have both.
+I used to think there was no such thing
+as a free lunch in human thinking.
+This is so much better than a free lunch.
+This is a lunch that pays you to eat it.
+(Laughter)
+I want to close with some thoughts
+on the values that we have
+in developing AI software.
+What if AI gets to the point
+where it can do a better job
+of thinking than humans?
+Why should we care so much
+about protecting
+and augmenting human thought?
+There's two reasons.
+First,
+there may always be ways of thinking
+that remain unique human strengths
+of which we may not even be aware.
+Second, perhaps more importantly,
+we take the position
+that the ability to think well
+is essential for human agency
+and empowerment and flourishing.
+This echoes an ancient question.
+People once asked
+if writing, if books, if the internet
+can remember for us,
+does it matter that we cannot?
+People once asked if maps
+can navigate for us,
+does it matter that we cannot?
+Now we ask if machines can think for us,
+does it matter that we cannot?
+If machines can speak for us,
+grieve for us, pray for us, love for us,
+does it matter that we cannot?
+To me, the answer is pretty obvious.
+When I began studying human-AI
+interaction 13 years ago,
+it was inconceivable to me
+that we would be asking
+these questions in my lifetime.
+But we are.
+And we must.
+I'll leave you with this thought.
+What would you rather have?
+A tool that thinks for you,
+or a tool that makes you think?
+(Applause)

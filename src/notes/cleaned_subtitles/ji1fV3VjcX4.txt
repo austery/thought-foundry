@@ -1,0 +1,1212 @@
+Hello and welcome to another episode
+of the Odd Lord's Podcast.
+I'm Joe Weisenthal and I'm Tracy Alloway.
+Today you are going to be, listening or
+watching a special episode of our podcast,
+recorded live at a conference
+which you've probably never seen before.
+Yeah, this was at,
+the Lazard Forsquare Conference,
+and we interviewed Dmitry Shevelenko
+He is the chief business
+officer of Perplexity, which is something
+you might have used before.
+We certainly use it.
+Yep. One of the leading AI models.
+This is a conference
+related to media and dealmaking.
+And so we talked about
+what is going to be the impact of
+AI on brands, on the news
+and on the internet as we know it.
+So, take a listen.
+We also took questions from the audience.
+So you will hear us referring to questions
+that we are receiving on the app.
+We hope you enjoy. Take a listen.
+Sorry about the music
+ people
+either love or hate the music.
+Okay, so just a reminder,
+this is being recorded,
+so if you could keep it moderately quiet,
+you know, you can laugh,
+you can clap, do all of that, scream
+if you need to.
+Just don't rearrange the furniture
+and things like that.
+And also reminder
+we're taking questions from the audience
+throughout this discussion.
+So if you send them on the app,
+we will see them and be able to ask
+Demetry and if we're looking
+at our phones, that's our excuse.
+Yeah.
+We're engaged in the question.
+We're engaged in the interview.
+All right. So here's my first question.
+Should we even be talking to you?
+What I mean by that is
+I could just go on Perplexity
+and ask all these questions, and
+then we'll give me a pretty decent answer.
+What's the point?
+So, first of all, thank you for having me.
+It's great to be here.
+The, the the
+I love that that tee up
+and you guys are scheming backstage of,
+like, what's going to be the heart
+opening question, but I love it
+because the thing that humans
+will always be
+uniquely exceptional
+at is asking questions.
+So perplexity may have the answer,
+but perplexity does not have
+an innate desire to be curious.
+And that's what you guys have.
+And that's why journalism is so important,
+and that's why having these conversations
+is important.
+It's about the questions,
+not necessarily the answers.
+Kind of related to this, I guess.
+But here's the thing
+that I always think about, which is I'm,
+I enjoy using perplexity, etc..
+Let's say, you know,
+you have great relationships
+with all the news publishers, etc.
+and the really cool thing,
+all and all those deals get solved, etc.
+like, why do we need the internet
+as we know it has web
+things called websites built for humans.
+Now that we're in this age
+where we can go to a, chat
+bot or something like it,
+and the answer is right there,
+do we need to have what are traditionally
+called websites anymore?
+Why would a publisher continue to invest
+in design and all of these things?
+When I could just get the answer from,
+perplexity or ChatGPT or whatever else?
+So again, it goes
+back to
+I think the reason we're drawn to media
+properties is because of the questions
+that journalists and editors are asking.
+Right? It's it's not necessarily
+it's the framing.
+It is the
+what is actually worth asking about.
+What's worth reading about.
+Yeah.
+Perplexity doesn't have answers to that.
+Okay.
+You have to come to perplexity
+already armed with a question.
+And oftentimes people, you know, read news
+and there's something
+they didn't understand fully
+and they come to a perplexity
+to get that deeper understanding.
+But the spark, that comes
+from editorial judgment,
+that comes from the intuition
+of a world class reporter.
+And that's why we're excited through,
+you know, programs like comment plus,
+to, to find new business models for that.
+How do you actually judge editorial
+judgment or quality of news sources?
+Because I can imagine a future
+where a lot of our news consumption
+is through
+something like a perplexity model,
+which means that you're basically the
+arbiter of what information is reliable.
+So how do you make those decisions?
+It's it's not me at the, at the wheel.
+You know, ultimately this is where
+we focus, a big part of our technology.
+It's building accurate AI.
+The thing that we believe is
+that's going to be most
+scarce in the future is not intelligence.
+It's trust.
+I think the bedrock of trust
+is transparency.
+That's why perplexity pioneered,
+showing you exactly which source
+the information is coming from
+and empowering users to apply their own
+judgment of whether that is a good source
+or not so good source.
+But we deploy many different
+algorithmic strategies.
+Oftentimes if many, publications
+are saying the same thing,
+you know, that's a strong signal
+that they're on to something.
+And, you know, the outliers,
+you're kind of more, sensitive to,
+but this isn't,
+you know, it's not a simple problem.
+And this is why, you know,
+we raise a lot of capital and hire
+the world's best technologists
+to build accurate AI.
+So I think anyone could sort of
+intuitively understand why publishers
+might be anxious about perplexity
+as being a destination.
+Evidently, it's not just news publishers.
+Literally.
+When since we got on the stage in a three
+minutes ago, news broke that Amazon
+demands perplexity to stop AI from stop AI
+agent from making purchases.
+It literally just broke three minutes ago
+from Bloomberg.
+What is the.
+It's not just news that's anxious
+about the idea of perplexity
+being the destination.
+Clearly it's, all kinds of businesses.
+So I think, and I haven't read the article
+yet, but I'm going to read it out.
+All right.
+I think I have an understanding
+of the issues.
+Yeah.
+The, ultimately the issue
+with, with Amazon is tied to perplexities
+web browser called comment.
+And comment is a web browser
+that has an AI assistant built into it.
+And what we think is important
+is that consumer and end users
+have access to powerful
+AI when they are accessing,
+publications, accessing websites,
+accessing the internet.
+The first 30 years of the internet,
+we had lopsided AI where big tech,
+you know, Google, Netflix, Facebook,
+they used AI to control what we see,
+to get us to click on certain things
+and not click on other things.
+And what is changing now is perplexity
+is focusing on giving powerful
+AI to the end user.
+And we think
+this is the right thing to do.
+We think it's a principled viewpoint
+that when you're on Amazon,
+it's not Amazon's business.
+Whether you're using AI to help you
+evaluate, is this the best thing to buy?
+You know,
+can I find it cheaper somewhere else?
+Do I actually need to buy the other thing
+they're telling me to buy with it?
+The world's wealthiest
+people, they have personal shoppers
+that help them do this.
+And we're democratizing
+that sort of intelligence,
+that sort of assistant access to everyone.
+Just in terms of competition
+is the argument, basically,
+that technically, you know, a Google
+or an Amazon could create similar products
+to what you guys are doing, but their
+own business model basically prohibits
+them from doing what you're doing.
+I should have you join
+our next investor pitch is exactly that.
+It is,
+there is a big opening for an independent,
+neutral AI player
+that is aligned with users.
+You know, Google is still,
+you know, they're generating, you know,
+100 billion, in revenue per quarter,
+which is amazing.
+But a lot of that is coming from getting,
+you know, adver.
+Yeah, their customers, advertisers,
+you know, Amazon,
+they're trying to get you to buy
+as many things as possible.
+Our success metric is the users.
+Are they willing to pay
+for a perplexity subscription?
+And so we're purely
+aligned with our users.
+When speaking of competition,
+like what is the differentiator?
+Okay, maybe Amazon has some
+obvious, angles and some of the others.
+OpenAI seems sort of independent
+in the same bucket.
+It's really huge.
+It's one of the biggest websites
+in the in the world.
+It doesn't strike me.
+Many of the, things
+that they offer replicate seem
+sort of similar to perplexity.
+You must get this.
+I don't know, you know,
+private stock. Answer this.
+But what is the differentiator
+between you and, and, and OpenAI?
+So, you know, I,
+I'm fortunate to get to speak with a lot
+of curious people that have to answer
+a lot of hard questions every day.
+And they're they tell me
+they use perplexity.
+And it comes back to
+we're focused on accuracy above all else.
+ChatGPT is an amazing product.
+But they built a product
+that is optimized for engagement.
+It's trying to be your cheerleader,
+your coach.
+It's trying to get you to to keep going.
+And they've also built a product
+that is designed not to use the best,
+in service of your
+question,
+but it's designed to use their lives,
+and so part of being neutral, part
+of being independent,
+trustworthy, accurate
+is using the best possible technology
+to answer the question
+in the best possible way.
+And so being an aggregator of all the best
+models, having our own independent
+search infrastructure, that isn't the Bing
+search API, which is what, ChatGPT uses,
+those are all the building blocks
+of a more useful, accurate AI.
+What's your actual revenue source
+at this point?
+Because I know you're
+big on subscriptions.
+You experimented with ads.
+I think you might have paused
+that at this point,
+but it does seem if you're trying
+to be different to Google,
+you probably don't want to be as ad driven
+as they are.
+Yeah.
+So we're seeing tremendous traction
+with both consumer subscriptions
+and then companies buying the enterprise
+version of perplexity for their employees.
+Ultimately,
+it's in that enterprise context
+where having accurate,
+useful knowledge is incredibly valuable.
+And so, you know, we've had, you know,
+we've been fortunate
+with a enterprise
+go to market team of just five people.
+You know, seen that business, you know,
+more more than eight acts this year,
+seeing, you know, many multiples increase
+in our consumer subscriptions.
+And we're excited about building products,
+that are user aligned,
+that also create marketing value
+for brands and advertisers.
+But this isn't going to be rebuilding
+AdWords and click based systems.
+We think it's important
+to create real value
+so that when your personal
+AI agent, powered by perplexity,
+is evaluating a potential commercial
+opportunity, it's something you might buy.
+Imagine, you know, alongside the answer,
+you got an offer for an exclusive discount
+that would be something
+that your agent would say,
+hey, this is even though this someone's
+paying for this to show up here.
+This is actually a good deal.
+If it's just an ad that says
+click me, click me, click me,
+we don't think
+that's going to be sustainable.
+And that's not the type of marketing
+products we're looking to build.
+Can we talk a little bit
+about the fundraising environment for
+I mean, obviously we know how crazy,
+you know, intense things are,
+are people throwing cash at you
+as you walk down the street?
+But also, it feels like every day, like,
+I like it used to be
+when I paid attention to startups,
+it felt like there were discrete rounds.
+There was a seed and then an A, and then a
+B and maybe a C and then an IPO.
+When I read, it feels like every day
+there is just it or the
+are the rounds blending into each other.
+So that is just the sort of ongoing stream
+of oh, here's a do raise, etc..
+We got some new chips
+and then we are giving them some equity
+and so has the has
+the line between rounds.
+Is it blurring.
+Yeah.
+So before perplexity
+I mean, I spent most of my career
+at consumer internet companies,
+but a stint as,
+a founder of a robotics startup and,
+I is definitely a different
+fundraising environment than that was,
+which was, very challenging.
+I think at its core,
+a lot of investors believe in
+and we agree with this belief that,
+what's happening with AI now is
+as profound as the original introduction
+of the internet.
+And so there are going to be a wave
+of new generational companies
+that are being built right now.
+And, you know,
+a lot of the value is actually,
+you know,
+compounding while these companies
+are privately held, and so that that is
+yeah, there's a lot of conviction, by,
+by private investors in that,
+I think a second piece is that investors
+themselves are power
+users of products like perplexity.
+They are people that have
+a lot of questions, do a lot of research.
+And so they have not just an abstract
+understanding of a balance sheet.
+They have their own intuition,
+you know, which is very different
+than like B2B, SAS, where it's like,
+you know, you have to go do 30
+customer interviews and you're kind of
+getting all the second order information,
+you know, perplexity, use it yourself.
+You understand
+the value, the time that you just saved,
+the creative expansion you just had.
+And and that gives investors conviction.
+And so that
+that is, you know, fueling
+this environment,
+is that at times, you know, too frothy?
+Sure.
+You know, are there going to be some
+investors that, that make the wrong bets?
+Absolutely.
+But the core human need
+of getting good answers
+to good questions, you know,
+we think that is boundless.
+And so we're, we're confident in the path
+ahead.
+Well, speaking of froth,
+is there anyone you turn away
+in terms of being an investor?
+Yeah.
+So there's this phenomenon,
+that that tends to happen
+in bubbly periods of,
+multilayered SVS.
+So SPV are special purpose vehicles.
+And so you basically have many layers
+of outsource fundraising
+where you have,
+you know, principal agent misalignment,
+where the fundraiser
+is not making money off the investment,
+they're just making money
+off the management fee.
+And so we often get approach, from players
+in that space.
+And we, you know, whenever we can detect
+that's what it is.
+We, we avoid taking on funds like that
+because we want investors,
+who are getting direct access
+to perplexity
+and who are in it for the long haul,
+who aren't just trying to make a quick
+buck on on a management fee flip.
+I want to talk about this more.
+I'm really fascinated.
+We actually we did an episode,
+with a vlog ten of the Robinhood CEO,
+and he was talking about tokenization
+of private assets.
+And I guess this sort of actually relates
+to the question
+about discreet rounds,
+but does it feel like,
+you know, in theory,
+if some sort of slice of equity
+in, perplexity, maybe people sell forwards
+or these vehicles that are linked to it,
+does it feel like the line
+between what it means to be a private
+and a public company
+is inevitably going to disappear,
+especially adding
+the fact that we seem to be on this road
+where public companies
+will not be expected or required
+to have to report information,
+as timely as they used to.
+I think it's important,
+when you're a privately held company
+to control the sale of your equity.
+And I think the challenge, you know, why I
+we haven't.
+Yeah.
+We've been approached
+by a lot of these tokenization schemes.
+And, you know, again,
+if you have folks on your cap
+table
+that are not aligned for the long term.
+Yeah, they may be looking for quick flips.
+And then that creates
+a weird signal in the market.
+And that may harm,
+you know, a primary race.
+Right.
+And so the the noise that comes with that
+liquid, it's not like
+we're short on other,
+you know, investment, you know, avenues,
+so it's just an unnecessary
+kind of noise risk.
+So, speaking of throwing money
+around the $35
+billion bid for Chrome was.
+What was that? Was that a troll?
+We that was when we made that bid.
+The DOJ had still not decided,
+whether Chrome would be divested,
+from Google,
+the web browser, as evidenced by,
+you know, Amazon's,
+behavior is clearly incredibly
+valuable surface area,
+and that, you know, 35
+billion was the starting bid.
+You know, like,
+at this point, I can safely say
+I think Chrome is worth more than that.
+But what I can, confidently say is
+we had more than 35 billion of investor
+interest in making that bid.
+So it was not a, constraint
+on, you know, the funding side.
+Obviously,
+Google does not want to sell Chrome
+unless they will be forced to,
+and it doesn't look
+like the government will be forcing them.
+So you're serious about that one?
+It's not just a sort of antitrust flag
+waving exercise. No.
+We had, you know, very large
+sovereign wealth funds that, you know,
+we're
+we're kind of lined up and ready to go.
+Here's a great question from,
+someone anonymous via the app.
+Can you talk about unit margins?
+I you often hear this and it's like,
+oh, these AI companies,
+they're not even on a unit basis
+making money given the compute costs,
+etc., are
+what can you talk about gross margins.
+And right now, whether like, you know,
+a given query is profitable given
+the cost of delivering,
+so the,
+a paying pro subscriber to perplexity
+is profitable for us.
+Okay.
+So the unit margins are strong.
+The, you know, free users right now
+because we do not monetize them.
+Sure.
+You know, we don't, you know,
+we lose money on those,
+AI companies.
+I think
+something that is underappreciated,
+they generally actually, when they do that
+counting of free users, they attribute
+that to research and development,
+because you're still using those prompts
+to improve and train your system model.
+So, you know,
+it does allow for your unit economics
+to potentially appear
+more pristine than they are.
+Are all pro users profitable?
+Because this also strikes me as something
+unique with AI, which is that,
+you know, when back when Twitter
+was in its infancy, power users were good.
+It feels like in the case with AI,
+sometimes you get these power users
+where you're losing money on them.
+Are all pro users
+profitable, or do some use it so much
+that it's more than the subscription fee?
+I mean, I don't it's
+not a material amount,
+and we've also introduced a max tier.
+So we have a $20 a month Pro subscription.
+And for the folks that want, you know,
+the most expensive reasoning models
+and higher limits on them,
+there's a $200 a month product called Max.
+And then it also gets you access
+to our email assistant.
+And so I think you'll, you know,
+and other companies
+have also introduced
+kind of higher tiers of subscription.
+So this is not a problem
+that's unique necessarily to AI.
+And and you kind of introduce tiers
+of service to to support it at scale.
+What is your expenditure
+actually look like at this point.
+Like what
+are you spending the most money on?
+Is it we read about these insane salaries
+for engineers
+going to cloud or OpenAI or whatever.
+Is it talent retention
+or is it compute power?
+Is it
+the content deals with media organization.
+What are you spending on?
+So the biggest expense
+is inference, right.
+So it is the cost of compute.
+When you're you're asking a question
+and running, it through a, oh,
+you know, that that is,
+that is a material expenditure.
+We, you know,
+perplexity doesn't do pre-training.
+So the sorts of AI PhDs
+that other companies are,
+you know, paying, you know, reported,
+hundreds of millions of for,
+we're not that that's
+not we're not in the market for that.
+We have incredible
+AI application engineers and that's that's
+what we recruit for.
+Ultimately, engineers
+that are joining perplexity
+are joining because they believe
+we're just getting started.
+Right.
+And they're coming for an equity
+appreciation story.
+That's, you know, already bearing fruit.
+But we're just at the beginning
+of that journey.
+Maybe this is sort of a way
+of restating Tracy's question,
+but it all doesn't feel like any,
+any AI conversation.
+It's like, what is the bottleneck, right?
+Yeah, right.
+Is it talent?
+Is it capital? Is it compute?
+Is it power, etc.?
+Like if you could have unlimited amounts
+of any one of those things,
+what would you want more of right now?
+So I think it's important to bifurcate.
+There is the companies
+that do the training of foundation models.
+And those are
+the ones that are really pushing
+for the massive infrastructure build out.
+Yeah.
+We're not constrained on compute
+for inference,
+at the current usage levels, but
+as you know, behavior shift,
+I mean, by a show of hands in the room,
+like how many people have stopped
+primarily using Google
+when they have an informational question?
+So, you know, about what 80% of the room,
+you know, raise their hands
+and we see the early adopter behavior
+in you know, audiences like this,
+you know, folks that work in financial
+services, people that, again, for
+for whom quickly
+getting high quality information matters
+as you know,
+this behavior becomes more mainstream.
+We obviously will need
+more compute for inference.
+But the
+the folks that are kind of talking
+about trillions of dollars in investment,
+it's really a different universe
+than ours.
+I it's unclear to me
+why some of those investments are needed.
+Sometimes it feels like a strategy of,
+you know, kind of
+what what the US was trying to do
+with the Soviet Union of just getting your
+competitors to, go broke, by, you know,
+being able to raise the most capital.
+And we'll see how that plays out.
+Since you mentioned financial services,
+we have a good question from the audience.
+We've done some media navel gazing.
+I'm sure we're going to do some more,
+but for now, financial services,
+navel gazing.
+What do you think
+the impact of AI will be on places
+like Lazard and other Wall Street firms?
+I just think this is
+going to be a incredible
+flowering
+of creativity and productivity lift.
+I think of using a product like perplexity
+and other AI tools in the day to day
+of somebody that works on an investment
+bank is really twofold.
+The first is saving you 80% of the time,
+to get to that 80%
+first draft of a work product.
+Right.
+And investment banks, that's
+kind of putting together pitch decks.
+Doing modeling,
+just gaining tremendous efficiency.
+And it's not
+it's important to distinguish it's
+not about making that workflow autonomous.
+You still absolutely need human judgment
+on, you know,
+what the end output
+should be, how to approach it.
+This is this is not about replacing
+investment bankers.
+It's about giving them
+tremendous leverage.
+I think the more disruptive impact
+is now that
+it got a lot easier to begin
+a new initiative, to begin a new prospect,
+how many more new engagements
+are you going to be able to spin up?
+Right.
+Because the biggest constraint
+on new business
+is an employee feeling
+they have the bandwidth to take it on.
+And and, you know, experience leaders
+now have much more leverage.
+And I think that's going to play
+a profound role at Lazard.
+And you know, part of why I'm excited
+to be part of the organization,
+I love these audience questions
+because they're, saying things that
+I would think that reminded me
+and that I would have been rude to say.
+You didn't answer the first question
+about, are you going to kill journalism?
+But someone says you didn't
+answer the first question,
+how would journalism survive?
+When I had skin that I get,
+oh yeah, you know,
+I isn't interested in asking questions,
+but that's not the question is like,
+why would brands continue to, like,
+build out these presents for like a human
+reading and scrolling when I can just
+go to one destination that doesn't
+necessarily click me anywhere else?
+Well, I mean, when I look at the earnings
+numbers for the Wall Street Journal,
+The New York Times, for Bloomberg
+media companies seem to be doing fine.
+New York Times is doing well.
+So games and I don't know
+if you get earnings numbers for.
+But what I, what I hear.
+Yeah like some subscription numbers.
+But by the way
+yeah I was doing a lot more than games.
+I actually didn't know
+there. It's a very impressive company.
+But by and large I it does not look like
+the actual news business.
+It's a lifestyle
+company is doing particularly well.
+But I think it's it's
+part of the value of the bundle.
+I mean, it's, I mean, this is a very
+this is very analogous
+to when the internet was first introduced.
+You had traditional brick
+and mortar retailers and the best brick
+and mortar retailers
+adapted to the digital environment.
+And the best publishers are adapting
+and gaining leverage.
+With I mean, last night we had,
+the CEO, of Axel
+Springer, talk
+about how he's leaning into AI, and it's
+actually an incredible opportunity
+for productivity.
+And so I, I don't think this is zero sum.
+I do think there's going to be
+some publishers that thrive and others,
+and the media
+business is already facing challenges,
+you know, certain segments of it.
+Well, before I, so I don't see this as
+being kind of the fundamental tension.
+But if you fast forward 5
+or 10 years from now,
+what is the front page of the internet
+actually will look like to you?
+And what exactly is I?
+I guess the economic pact between
+media and platforms such as yourself.
+What would the ideal pact or agreement
+actually look like?
+Like how?
+Basically, give me your vision
+of the internet in five years,
+we, we're introducing
+something called Comet Plus,
+which, we already have the Washington
+Post and Condé Nast,
+LA times,
+many great publishers signed on for.
+And it was really inspired by Apple
+News Plus,
+where if you are a Comet Plus subscriber,
+which is $5 a month,
+and we bundled into perplexity Pro
+so even people that didn't necessarily,
+you know, want to pay for it.
+We're taking money out of our, cut and
+feeding it into this program to see it.
+As you consume premium content
+in the comet browser,
+we're then sharing that revenue back
+proportionately with publishers,
+and it's actually accounting for
+not just page views of premium content,
+but agent actions on that content
+and citations in the comet browser.
+And so ultimately, I think subscriptions
+are a very powerful business model
+for media.
+I think there's a lot more to do there.
+And we want to play a leading role
+in doing that.
+I'm very impressed by the,
+the finance, module within perplexity.
+You know,
+there's a whole graveyard of companies
+that have tried to take down our,
+our employer and, at Bloomberg.
+Do you see yourself
+as a potential challenger company?
+Tracy asked about,
+you know, financial services, etc..
+Do you see yourself at some point down
+the road as a challenger to the terminal?
+Yeah. I mean, how many people have access
+to Bloomberg Terminal?
+It's like, I mean, you guys like, it's
+not it's not millions, right?
+So yeah, it's not millions.
+So for for us the success of Perplexity
+Finance is it's similar
+to what I was saying about with Amazon
+and people that have personal shoppers
+like Bloomberg Terminal.
+Is that like it's this is like we know
+it's very lucrative is hiring a company.
+And so when you're thinking
+about the lazards of the world
+and all the other banks,
+could you at some point see yourself
+pitching perplexity or perplexity terminal
+as a where
+all these other ones had failed to do it?
+I think for us, the bigger picture,
+the bigger opportunity is not to go
+after Bloomberg Terminal.
+It's giving everyone who can't afford
+Bloomberg Terminal
+a version of it that is useful for them.
+And when they're making retail stock
+investment decisions,
+when they're understanding
+the interplay of the markets
+and the news cycle, that they have access
+to powerful technology.
+Right.
+So it's not I don't think
+we can't like Bloomberg Terminal.
+Like people are there for the chatting.
+Like there's all kinds of features there
+that we're not trying to replace.
+Thank you.
+And it's an amazing product and, amazing
+brand.
+I think it's for us, this is about
+democratizing and expanding the scope
+of who has access to premium
+financial intelligence.
+Another question from the audience.
+This one's from Olivier.
+Olivia on, what do you think will be
+the key skill sets for media entertainment
+executives to manage the impact
+of AI on content industries?
+I mean,
+I think, my answer to this is the answer.
+I think it's a key skill set
+for any professional in the age of AI
+is you have to get really good
+at asking the right questions.
+And so that means asking your teams,
+why are they working on
+what they're working
+on, what's the leverage?
+What's the unique differentiation.
+And so is approaching their business
+with a profound curiosity,
+and an understanding that, you know,
+there are new disruption
+and leverage opportunities
+and to kind of lead with that curiosity.
+Everyone always says that.
+But what does a good prompt
+actually look like to you?
+Can you give us a specific example of
+like a prompt that really impressed you?
+I think to me, asking you
+a good question is like a level deeper
+than like
+the prompt engineering is, is kind of
+that that in some ways will get abstracted
+very soon.
+When I say asking good question,
+it means a question that embodies
+and embeds
+all the known knowledge on a given topic.
+And the question you're asking is then,
+you know, where do you push the frontier?
+Like what is what is the the thing
+that is not yet knowable, that in your
+question you're pushing your organization
+on, you know, going back to,
+the browser question
+about the bid for Chrome, Google itself
+earlier this year,
+there are a lot of people like, oh,
+Google is going to get disrupted by AI.
+And it's a classic innovator's dilemma.
+They invented all this tech
+and they're not making.
+Now the stock market views Google's done
+phenomenally or alphabet.
+They've done phenomenally well.
+And a lot of people
+have really changed their tune on them.
+If the browser is such an important
+part of the real estate
+here,
+does that just give them a massive leg up?
+I mean,
+I know you're going to have your own
+and OpenAI is going to have its own,
+but Chrome is everywhere.
+Like how that sounds like a very big Mo.
+It's a very powerful
+distribution leverage point.
+But their greatest strength
+is is also a weakness
+in that they built it around
+a AdWords system where they're reliant on
+people clicking on links.
+And the behavior of clicking on promoted
+links will just matter less in the future
+of the internet than it has in the past.
+Speaking of promoted links is another
+question I've been wondering about.
+Sometimes I see these companies
+and they advertise on LinkedIn,
+and they offer what I think is sort of
+would be the equivalent of like
+the AI equivalent of SEO.
+Is that all snake oil is there,
+like whatever is, does that exist?
+Can are there
+these games that publishers or any brands
+can play to do well in AI,
+or is that sort of a fraud?
+I don't want to call it a fraud.
+I have not, uncovered,
+those
+companies provide analytics,
+but they're not actionable.
+Okay.
+And so I have not found an actionable
+output there.
+And in some ways,
+our purpose is to prevent those
+insights from being actionable.
+Because if you can game
+a perplexity answer,
+it means is not accurate and trustworthy.
+And so, you know, if they do find a hack,
+like we have better engineers
+that will, fill that hack,
+I have a slightly philosophical question,
+but is there any way to inject
+a tiny bit of randomness or creativity
+in some of, perplexity output?
+And what I mean by that is,
+I think at this point, we're all aware of,
+algorithmic content, moderation.
+And the idea that if you start
+your Netflix account and you watch one
+romantic comedy for the rest of your life,
+Netflix is going to be throwing like
+Matthew McConaughey films
+at you forever and ever and ever.
+How do you deal with that aspect of it?
+The risk that people are funneled into,
+like one particular answer stream
+or one quarter of the internet.
+So memory will be an important feature
+of products like perplexity.
+And the
+way we avoid that trap is transparency,
+just like we do with sources,
+where we actually show you
+all of the things
+that we've added to your memory.
+And if you don't want to be pigeonholed
+as a romantic
+comedy lover, you just delete that memory.
+And I mean, I, I'm kind of,
+I recently got into health supplements,
+and now every time I ask about health
+supplements, my decision to begin,
+you know, pomegranate supplements
+is getting mentioned.
+The answer and, yeah.
+And I, Yeah, I deleted that
+because I'm like, you know what?
+I don't want to, like coming back
+to the pomegranates.
+As great as they are,
+and that was, you know, that
+that I just went and deleted that memory.
+I saw where it was.
+And, you know,
+I'm pomegranate free in my answers.
+There's a question
+here about, let's see the comparison
+to the first wave of the internet.
+So this person is talking
+about content creation,
+AI agent Studios, pace of change, moving
+very fast.
+I mean, is decision.
+What's really extraordinary to me
+about the last several
+years is the speed with which we seem
+to get new paradigms right.
+Blogs were one or going to be a big deal.
+That was 20 years ago.
+They had a life span of a few years then,
+you know, social media, Twitter, etc.
+there's been how do you think about,
+things get, overturned so fast these days?
+How do you think about making investment
+decisions
+under such conditions of uncertainty?
+Yeah.
+This is, I mean, a funny time
+to to drop his name, but this is where
+we love the Jeff Bezos line of,
+you know, it's the hard thing
+to predict is not what's going to change,
+but what's going to remain the same.
+I think from our
+vantage point,
+the bedrock is accuracy and trust.
+Right.
+And that's actually as intelligence
+gets much more powerful.
+It's gets more powerful manipulating us.
+And so that's why kind of that
+trust bedrock, is paramount.
+That said,
+one of my,
+you know, management, mantras is that
+I have absolute conviction
+that six months from now,
+I'm going to have a top three priority,
+that today I don't know what it is.
+And that embedded in
+that is an understanding that
+even the model makers themselves,
+when they release a new model
+until it's out,
+they don't know what emergent capabilities
+and what the useful applications of that
+will be.
+Yeah.
+And so kind of, you know, having core
+foundational principles
+while at the same time
+preserving agility and adaptability
+and being the best at applying
+the new gifts we get,
+for the service of users that
+that's going to be a key operating skill.
+There's a second part of that
+audience question that Joe just asked.
+And I think it's it's probably
+the one that's on all of our minds,
+and it's the bluntest one.
+But is is I in a bubble?
+There are certainly parts of it
+that that are not you obviously
+your competitors, presumably.
+Right.
+I mean, I think of all of the time
+and leverage that
+professionals and knowledge
+workers are getting
+and I, I to me
+the ROI on that
+like I can see the trillions of dollars
+and economic productivity
+happening from it.
+But are there certain companies
+that have just raised too much capital
+and is going to create, imbalances
+in the ecosystem? Yes.
+All right.
+But we only have 45 seconds.
+My issue is a lot of things
+still don't work.
+And I, I tried to ask. ChatGPT.
+Yesterday how many full school weeks
+there are in New York City public schools?
+And it's like, oh,
+I'd have to count it by hand and do it.
+Seriously said
+that it puts a screenshot of it.
+A lot of these agent things,
+like they don't work very well.
+Like much like a lot of things
+I want to ask,
+who are the most common
+guests on our blogs over the years?
+It just gave me a bunch.
+This was like, this is not your site, but
+I'm just saying, like a lot of AI agents
+and so forth,
+they sort of crap out halfway through.
+Yeah, I'm tempted
+to do a live check of other products
+that will give you a good
+answer on that. But, the,
+This goes back to what I was saying
+about emergent capabilities,
+the fail case, and this comes up actually
+in many enterprise conversations,
+is just because you tried something
+two months ago.
+Yeah. It doesn't mean it didn't work.
+It doesn't mean it's not working today.
+And so we all need to keep this open mind
+that these technologies
+are getting smarter
+and better, at a rapid clip.
+And, you know,
+those are solvable problems.
+All right, Dmitry
+thank you so much for that.
+Thank you.
+Thanks, everyone. Thank you so much.
+I really appreciate it.
+That was our conversation
+with Dmitry Shevelenko
+of Perplexity. Shall we leave it
+there? Let's leave it there.
+All right. This has been another episode
+of the Odd Lots podcast.
+I'm Tracy Alloway.
+You can follow me at Tracy Alloway
+and I'm Joe Weisenthal.
+You can follow me at the stalwart.
+Follow our guest, Dmitry Shevelenko
+He's at Dmitry140.
+Follow our producers, Carmen Rodriguez
+and Cale Brooks
+And for Odd Lots content,
+you can find our daily newsletter
+that is over at
+https://www.bloomberg.com/oddlots
+and you can join fellow listeners
+in conversation
+on our discord discord.gg/oddlots
+And if you enjoyed the conversation
+then please like this video.
+Leave a comment or better yet, subscribe!
+Thanks for watching.

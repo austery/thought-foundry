@@ -1,0 +1,923 @@
+- What happens when you take
+the world's best night vision goggles
+into the world's darkest room?
+- You start to feel a little strange.
+And sometimes start to get
+a little bit of vertigo.
+- Can you tell the difference
+between your eyes being closed and open?
+- Should not be able
+to. It'll be that dark.
+- Three
+- Basically zero light
+in here.
+- Two.
+- Almost no photons.
+Invisible. That's right.
+- One.
+- Oh, I'm ready.
+- Pitch darkness.
+(laughs) No way. This is insane.
+These are the PVS-31As.
+That is incredible.
+One of the best night
+vision goggles in the world.
+It is literally like night and day.
+We visited a Navy base in Crane, Indiana
+to put them to the test
+in all kinds of darkness.
+Now things are gonna get real.
+It's my first time looking
+through night vision goggles.
+- I'm going to pan these down.
+- Oh wow. (laughs)
+Oh my God.
+To make a video about
+night vision goggles,
+we had to film in the pitch
+dark, which is really hard,
+because cameras work by focusing photons
+of light down onto a sensor.
+And there, the photons
+knock off electrons,
+generating a charge,
+which is converted into a voltage
+and digitized into ones
+and zeros for each pixel.
+Now, there's a setting we made
+use of, which is called ISO,
+which essentially boosts that voltage
+to make the whole image brighter.
+For reference, this is
+what a scene lit only
+by a single candle looks like
+at an elevated ISO of 6,400.
+Now, in a split screen,
+let me show you what this
+looks like at an ISO of 64,000.
+Now you can see a lot more
+detail in the shadows.
+This is pretty similar
+to the level of detail
+that the human eye can see
+in low-light situations.
+And now this is what it looks like
+on our camera's maximum ISO of 409,600.
+All the dark scenes in
+this video were shot
+at this maximum ISO.
+But look how dark it is compared
+to just a single candle.
+This is because the Navy base was located
+in the middle of nowhere,
+and we turned off all the streetlights.
+All right.
+Plus, we planned the shoot specifically
+for a moonless night.
+In these conditions,
+I'm gonna try to drive a
+military tactical vehicle
+with nothing but night
+vision goggles on for sight.
+I hope that's in drive.
+But the type of night vision
+goggles you use is essential.
+All affordable night vision
+goggles work the same way,
+and they're basically the same
+as strapping a flashlight onto your head.
+Except the light they give off
+is not visible, but near infrared,
+wavelengths that are just
+longer than our eyes can see.
+Then they have a camera that can capture
+that near-infrared light
+and display what the camera
+sees on a screen on the back.
+This is the simplest and
+cheapest version of night vision.
+It's called active illumination.
+There are actually three
+different types of night vision.
+- Night vision is different
+categories of technologies:
+ones that create their own light,
+ones that amplify existing light,
+and ones that image in the
+emissive infrared bands.
+- And while the other types
+of night vision can cost thousands,
+our active illuminators
+cost less than $200.
+It's very zoomed in, I feel like.
+(laughter)
+- It's not a one-to-one?
+- It's not a one-to-one.
+Because they're far cheaper
+and easier to make than any
+other kind of night vision,
+active illumination is what's used
+in almost all commercial
+night vision goggles
+or nighttime security cameras.
+These were the first night
+vision goggles I wore
+to attempt to drive in pure darkness.
+I have no idea where the focus is.
+If you could see this,
+you would be terrified.
+I'm looking out at the road,
+and I have the focus
+set to the first cone.
+Oh my goodness, this is not advisable.
+I have no idea how fast we're going.
+The problem with these goggles
+is it feels very zoomed in.
+It is bouncing,
+and it's not really bouncing
+in time with anything.
+It is just like, bouncing.
+If we hit a parked car right
+now, I would not be surprised.
+- Oh God.
+- Okay, straight. Straighten it out.
+- Straight, straight.
+- Straight?
+- Straighten it out.
+- Ben has military
+night vision goggles on,
+so he can actually see where we're going.
+- More to the left, more to the left. Yep.
+And we're probably good.
+- Oh!
+If I hadn't been directed from behind,
+we would've crashed so many times.
+I also feel a little bit
+sick. So there's that.
+This is one of the big drawbacks
+of active illumination.
+There's a significant delay
+between what the camera sees
+and what's displayed on screen.
+- For most digital systems,
+the fastest you could ever
+get is the frame rate.
+So if it's 24 frames per second,
+the fastest you could be in the delay
+is about 1/24 of a second.
+Tens of milliseconds, maybe.
+- That's enough to make
+people get motion sickness
+and lose their coordination.
+Oh boy. Do you wanna throw me a Frisbee?
+(mischievous music)
+(Frisbee scraping)
+- (laughs) You don't even move.
+- I can't see anything.
+(mischievous music)
+(Frisbee scraping)
+(Emily laughs)
+I think I'm gonna have to
+take these off shortly.
+There is crazy rolling shutter,
+and just everything's jiggling
+around in front of me.
+Another drawback of active illumination
+is that your range limited,
+since you can only see as
+far as the light shines.
+But the main reason you can't use these
+in the military is simple.
+They aren't passive.
+There's a bright beacon
+of near-infrared light,
+so enemies can easily spot you.
+In fact, military night vision goggles are
+a totally different technology.
+But they can still see
+in the near infrared.
+And this is why we've
+been filming through them
+to capture the light from
+the active illuminators.
+Have you ever been out at
+night with night vision goggles
+and sort of spotted someone
+who's got like, an active
+illumination device?
+- Yeah, no comment on that one.
+- (laughs) Fair enough.
+Military night vision goggles
+need to be far more concealed,
+so they don't use active illuminators.
+Instead, they rely exclusively
+on the second type of night vision:
+image intensification.
+So should we try good goggles now?
+Oh my goodness. It is
+literally like night and day.
+All right, let's do this.
+(exhilarating music)
+- Oh, he's off with so much confidence.
+- Because I can see.
+- Oh my god.
+- I'm going straight for the cone.
+I'm gonna go to the left of this cone,
+then I'm gonna go in between them.
+Oh, yes.
+- Whoa.
+- It's just like driving in the day.
+This technology uses only the
+existing light from a scene.
+When photons enter goggles,
+like these PVS-31As,
+they get physically amplified
+so that way more photons
+come out the other end
+to reach your eyes.
+And in terms of like, how much
+brighter it makes the light,
+can you comment on that?
+- Yeah, it's definitely at least
+on the order of thousands.
+- Thousands of times brighter.
+- Yeah.
+- And they're very light,
+so people can wear them for
+more than 10 hours straight.
+All powered by a single AA battery.
+Driving the vehicle now was super easy.
+So easy that I got a
+little bit overconfident.
+- Maybe a little slower on the corner.
+- Okay.
+And since the goggles don't
+use a camera or display,
+there's almost no delay in what you see.
+So you can shake the goggles,
+and the world just moves with you.
+- The time from light in to
+light back out is very short.
+You can get down to microsecond
+levels, maybe even quicker.
+Nanosecond levels.
+- It's as if there are
+no goggles there at all.
+No, I can see so incredibly well.
+Let me compare to like, no night vision.
+Oh my goodness.
+Man, the world looks so much
+better through these goggles.
+This is when we found an
+unexpected benefit of night vision.
+(delicate ethereal music)
+The stars are phenomenal.
+Through the goggles, starlight
+gets amplified enough
+to light your entire environment.
+This also means that the
+entire night sky gets revealed
+in its full glory.
+Emily, you are gonna have your mind blown
+when you see through these.
+- Oh my god. You can see
+like, so many satellites.
+Oh, and you can see the
+Milky Way so clearly.
+Okay. Yeah, I can drive with this.
+Oh my god, this stretch is gorgeous.
+And it all looks like
+you're driving in snow.
+Like, everything is sparkly
+and white. It's so fun.
+Honestly, I find it really relaxing.
+- The one problem I noticed is
+that these night vision goggles have
+a limited field of view.
+You got no peripheral, really.
+- None, none.
+I think I can, like,
+right now with my hands,
+I can get up to like, this far.
+- But the Navy have one
+set of goggles even better
+than the ones we've been using.
+(mysterious music)
+These are the GPNVG-18s.
+They also use image intensification,
+but now it's applied to four tubes
+to fill your field of view.
+- The way this optic is
+combining the four tubes,
+it's combining it into one sort of ellipse
+into your eye so that you can look
+with your eye side to side,
+without having to move your head.
+- They're the most
+expensive NVGs in the world.
+They retail for over $40,000 online.
+They're also the same goggles
+which were used in the SEAL Team Six raid
+on Osama bin Laden in 2011.
+(engine roaring)
+That's amazing.
+Yeah, I'd be happy to do
+anything in these goggles.
+Yes!
+It just makes you so much more
+confident to be able to see.
+The last thing that makes
+these military goggles feel
+so natural is their incredible resolution.
+- When we characterize
+a night vision tube,
+we don't think about it in terms of pixels
+or resolution in that sense.
+We think about it in terms
+of line pairs per millimeter.
+So how many line pairs can you resolve
+within one millimeter of physical space?
+- For a pair of night vision
+goggles to be military grade,
+they need to be able to resolve
+at least 64 line pairs per millimeter.
+- So there's a almost qualitative-like,
+but very skilled and historic process
+for how these are quantified
+for their performance.
+- Is it like years of
+training, or is it...
+- I'd say within six months
+we could have somebody
+up to speed.
+- Wow.
+- For this I'm gonna go completely dark.
+- Okay, there's a bright
+chart right in there.
+It says plus two on one
+side. Does it say that?
+- Maybe can't say what it really says.
+- Okay. I won't say what it really says.
+- We ran into this issue a lot.
+- Oh, I can't really answer that.
+Yeah, no comment on that one.
+(Derek laughs)
+I cannot comment on that.
+So the process to make
+the microchannel plate
+and the photocathode,
+yeah, we can't talk about that, either.
+- (laughs) So much about
+the night vision goggles
+is a secret, since they're
+still cutting edge.
+This video is the absolute limit
+of what the Navy is
+willing to reveal publicly
+about their night vision.
+Though we're not allowed
+to show the exact bar test,
+we can show these.
+- You see similar bars that we had
+in the night vision are out
+here, through the trees.
+And then we've got,
+if we maybe go towards this other corner,
+you could see at different distances.
+And the bigger the optic gets,
+the farther away you can see.
+And so you need farther and
+farther away calibration targets
+to understand the resolution
+and the quality of those images.
+We do a lot of lab characterization
+and modeling to predict
+how far it'll be able to see,
+but the ultimate test is to
+come out into the real world.
+- We use line pairs per millimeter
+to describe the goggles' resolution
+because image intensification
+is analog, not digital.
+This is the secret to how they emulate
+our normal vision so well.
+Digital cameras have refresh rates
+and resolution limits to worry about
+because they're converting photons
+into discrete values on pixels.
+But image intensifiers are a continuous,
+real-time, one-to-one
+way to amplify light.
+This is how it works.
+In a dark scene,
+limited light from things like
+stars reflect off the scene
+and sends some photons
+toward the image intensification tube.
+The lens focuses these
+photons onto the tube
+as an upside-down image, where
+they go through three steps.
+First, the photon hits a thin
+plate called a photocathode,
+made from semiconductors
+or alkaline metals.
+When a photon hits the plate,
+an electron in that part
+of the plate gets excited
+and is ejected into the vacuum.
+Next, the electrons are accelerated
+through the vacuum tube by a voltage.
+They head straight into
+another thin plate,
+called the microchannel plate,
+and this is made from insulating
+material, often glass,
+with about 6 million tiny channels in it.
+These are all angled at about five degrees
+to get incoming electrons to
+collide with the channel walls.
+When they do,
+they release more electrons
+from the wall material,
+which collide even more with the walls,
+releasing more electrons,
+creating an electron avalanche.
+So a few electrons go in,
+and a flood of thousands come out.
+Then this flood of electrons
+leaves each channel
+and gets accelerated in a straight line
+by another high voltage to
+hit a phosphorous screen.
+This is just a screen made of material
+that glows when exposed to radiation.
+So it converts the electron kinetic energy
+back into visible photons for you to see.
+So every photon
+that enters the tube gets
+multiplied thousands of times over
+while maintaining its position,
+which makes for a brighter
+but otherwise identical image.
+As a last step,
+there are 20 million
+optical fibers attached
+to the phosphorus screen that
+twist the image right side up.
+(soft music)
+- The photocathode,
+the microchannel plate,
+that vacuum gap, the phosphorus screen,
+is all in this first section.
+About the width of my fingernail.
+The rest of this space
+is the fiber optic twist.
+- Oh wow.
+For decades, the phosphorus
+screen was always green.
+It's this historic phosphor
+choice that's responsible
+for all the classic green
+night vision we know
+from movies or video games.
+But in dark conditions the
+human eye doesn't see best
+in the green part of the spectrum.
+There are two types of
+photoreceptors on your retina:
+rods and cones.
+Cones are better for well-lit vision,
+and they're good at distinguishing color.
+They're located in the
+center of your retina.
+Rods are better for low-light vision,
+and they're located at
+the edges of your retina.
+This is why you can
+sometimes see dim stars
+out of the corner of your eye,
+but they disappear if you
+look straight at them.
+The light sensitivity of rods peaks
+in the blue part of the visible spectrum.
+So that's why our PVS-31As look like this.
+They've been upgraded to white phosphor,
+which looks slightly blue overall,
+making it easier for people to make out.
+To see how well these night
+vision goggles amplify light,
+we put them in a well-lit room
+and covered them up entirely,
+except for a little thumbtack hole.
+This lets in only a tiny bit of light.
+But the view through the goggles
+is still brighter than the room itself.
+We couldn't expose the
+night vision goggles
+to any more light than this,
+but not because of
+anything like the movies,
+where bright light is enough
+to incapacitate people
+in night vision goggles.
+- So what would happen if
+we just turned on the lights
+without the cap?
+Would this just turn white?
+- It would still function,
+but you wouldn't want to do that
+for a very long period of time.
+It's got a current limiter
+in how much charge can be
+absorbed by the screen,
+and increasing the light
+intensity saturates
+that component of the circuit.
+- But what happens if we
+push image intensification
+to its opposite limit,
+by using the goggles in a
+room with no light at all?
+If you want to test night vision goggles,
+you gotta go to the place
+where it is absolutely pitch dark,
+underground, all sealed
+off, basically no photons.
+It's gonna be completely disorienting.
+- So we're in an underground range here
+at the Navy base, Crane.
+And this place is usually used
+to test small arms weapons,
+but we can also seal it
+up and make it very dark,
+all the way down to
+where there's almost no
+visible light whatsoever.
+- So there's basically zero light in here,
+almost no photons.
+- In the visible. That's right.
+- We are now going to
+turn off all the lights,
+make it completely pitch black in here,
+but on top of that, the
+range is full of smoke.
+So even with night vision goggles,
+we might have no luck at all.
+If you are in pure darkness
+for a long period of time,
+what happens?
+- You start to feel a little strange.
+Kind of like being in an anechoic chamber,
+where you can't hear things.
+The lack of sensory
+perception can sometimes start
+to give a little bit of vertigo
+or uneasy feeling to some.
+- Okay.
+- Three, two, one.
+- Pitch darkness.
+Okay, my night vision's on.
+- Wow, I actually can't
+see anything through these.
+- With PBS-31As in pure darkness,
+you mainly just see their
+analog processing in effect.
+- Oh my god, it just
+looks like a blizzard.
+- When I look that way,
+I see almost nothing.
+I just get snow.
+All this noise comes from
+electrons getting pulled
+through the goggles in two ways.
+One is thermionic emission.
+Just due to thermal energy,
+some electrons will have enough
+energy to escape the metal.
+And the other is due
+to the electric field.
+There's such a strong
+electric field in that tube
+that it'll pull some electrons
+off the photo cathode.
+Can you make out the face?
+'Cause I mean,
+there's a little bit of light
+coming out of the goggles,
+which might hit my face.
+Because image intensification
+can only amplify existing light,
+its one limitation is that
+it requires a light source.
+It can be tiny, but there
+has to be something.
+If you're in absolute darkness,
+even active illumination is a better bet.
+Now, this is advantageous
+because if you're in a really black room,
+then you do kind of need
+to light it a little bit.
+Unless you use the final
+type of night vision:
+thermal imaging.
+With my naked eye, I can't
+make out the exit sign,
+but with the goggles I know it's up there.
+While image intensification attempts
+to match your normal vision,
+thermal imaging goes beyond it.
+In the electromagnetic spectrum,
+the infrared range has longer wavelengths
+than the visible range.
+All the shorter wavelengths up
+to mid-wave infrared light are reflective,
+meaning that everyday objects
+don't emit these wavelengths
+on their own.
+You need a light source.
+To see my shirt, we can't be in the dark.
+You need visible light to
+reflect the blue to your eyes.
+And that's why we needed
+the near-infrared lights
+on the active illumination devices.
+But the long infrared
+range is actually emissive,
+meaning that it doesn't
+need a light source at all.
+That's because all objects
+emit electromagnetic radiation,
+and the shape of their
+spectra follows Planck's law.
+You can see that only
+extremely hot objects
+like stars have significant emission
+in the shorter wavelengths
+like visible light,
+but virtually everything
+emits in the infrared.
+Because thermal imaging doesn't require
+any external light, like
+image intensifiers do,
+and it doesn't need to
+create its own light,
+like active illuminators do,
+it's undefeated in
+completely black situations
+like the underground range.
+It's also the best choice
+when there's fog or smoke
+obstructing your view.
+I am about to walk into
+the fog in this range,
+and we'll see if I
+disappear in the visible,
+and then you guys can look and see
+if we can pick me up on
+the infrared cameras.
+- Yeah, I can't see you at all now.
+(mischievous music)
+Derek's getting his full workout.
+- Whew. I had no idea we'd
+be so emissive down there.
+Thermal imaging also sees
+things your eyes never could,
+like objects that have
+been buried underground
+or recently touched by someone's hand.
+The last advantage of thermal imaging
+is its unbeatable range,
+even better than the military
+night vision goggles.
+We set up a distance test
+hundreds of meters away
+from the tower to compare
+the infrared cameras
+against the PVS-31As.
+To the naked eye on a moonless night,
+this is what someone holding
+a cigarette lighter looks like
+at that distance.
+This is how it looks through
+the night vision goggles.
+And this is how it looks
+through the infrared cameras.
+To get even more subtle and
+remove all direct light,
+this is what a person checking
+their phone looks like
+in those conditions.
+Totally invisible to the naked eye,
+discernible through the
+night vision goggles,
+and perfectly clear through
+the infrared cameras.
+But thermal imaging has
+its weaknesses as well.
+It's a digital system
+with motion delays just
+like active illumination.
+Thermal imaging goggles aren't popular
+because high-quality
+infrared cameras are too big
+and too power hungry to be portable.
+And since they only
+detect thermal radiation,
+they can't even see lettering
+on signs, for example.
+This is looking at it in the infrared.
+E, F, P, T, O, Z, L, P, E, D.
+Anything that is visible solely due
+to the way light reflects off it
+is invisible to thermal cameras.
+E, D, F, C. I don't know what that is.
+Z, F, or Z, P.
+(bell dinging)
+Currently there is no one
+best type of night vision.
+They all have trade-offs
+between things like resolution,
+delay, light situation,
+concealment, and portability.
+The entire history of night
+vision has been driven
+by trying to minimize these trade-offs.
+The first night vision technology,
+known as Gen 0,
+was developed for sniper
+scopes during World War II
+and the Korean War.
+They used active infrared illumination,
+much like the commercial
+night vision goggles of today.
+Then Gen 1 night vision was
+developed for the Vietnam War.
+These used basic image intensifier tubes
+with just a photo cathode and screen.
+No microchannel plate.
+They stacked three of
+them together in a row,
+making them extremely bulky
+and distorted to look through.
+But the resulting scopes
+were sensitive enough
+to operate just off light
+from the Moon and stars,
+giving them the nickname Starlight.
+Gen 2 night vision was
+developed in the '60s and '70s
+and added the microchannel plate
+to the image intensifier tube,
+increasing sensitivity so
+that they could be used
+in dark conditions, like on
+cloudy or moonless nights.
+This addition also made the
+tubes much more compact,
+allowing the first sets of
+handheld night vision goggles
+to be created.
+The last generation, Gen 3,
+became available in the late '80s.
+These changed the photocathode material
+into the semiconductor gallium arsenide
+in order to better convert
+photons to electrons.
+They also coated the microchannel plate
+with an ion barrier film
+to increase the life
+of the tube from 3,000 to 10,000 hours.
+Though there hasn't been
+an official new generation
+of night vision goggles in over 30 years,
+researchers are constantly
+working on new improvements.
+- Some of the basic research aspects
+that I can talk about are looking at
+how to extend the infrared regime
+of the detectors overall.
+Looking at areas to have devices
+that can see farther into the infrared
+with less noise than what we can today.
+- How did you get into
+night vision goggles?
+- I was in the Marine Corps
+in infantry in early 2000s,
+and we still used a similar model
+as this one right here in
+Operation Iraqi Freedom.
+That was one of the
+actually driving factors
+of why I got into this field.
+I was using things like this
+that were good, but not great.
+You know, they could have been better.
+We were also using infrared systems
+that were not good at all.
+And so kind of using those in the field
+and feeling like, you know,
+asking that question to yourself,
+why is it not better?
+- And the value of night vision extends
+far beyond the military.
+What sort of applications would people use
+these goggles for?
+- Search and rescue or places
+where maybe there's not power.
+It's too dark to see,
+and you wanna be able
+to do things quickly.
+- Thermal imaging has grown
+to become an entire industry,
+with infrared cameras used in everything
+from firefighting to building inspections,
+to medical imaging.
+And the microchannel plate first developed
+for night vision now sits
+aboard space telescopes,
+like the Chandra X-ray Observatory,
+helping us discover the hidden world
+beyond what is simply visible by eye.
+- Wow, that's beautiful.
+I'm like, there are
+like, tears in my eyes.
+Okay, I'm good. (laughs)
+I feel like no one can see
+me 'cause it's in the dark,
+but you probably can, if
+you have night vision on.
+(gentle piano music)
+(machine whirring and trilling)
+- Testing this night vision
+technology perfectly illustrates
+how there is no substitute
+for hands-on exploration
+to truly appreciate new innovations.
+But you don't have to go all the way
+to a military base to get
+hands-on with cutting edge tech.
+- In fact, you can do it from anywhere
+with this video sponsor, Brilliant.
+And you can get started for free today.
+Just go to brilliant.org/veritasium.
+Brilliant is the best way
+to master key concepts
+in everything from technology to math,
+data science, programming, you name it.
+Just set your goal,
+and Brilliant will design
+a path to get you there.
+And if your goal is keeping
+pace with the latest tech,
+Brilliant's latest course,
+How Large Language Models Work,
+is the perfect place to start.
+How Large Language Models Work takes you
+under the hood of real language models,
+demystifying technologies like ChatGPT
+with interactive lessons on everything
+from how models build vocabulary
+to how they choose their next word.
+You'll learn how to tune
+large language models
+to your desired flavor of output.
+And you'll understand why training
+is everything by comparing models trained
+on Taylor Swift lyrics
+and the legalese of big
+tech's terms and conditions.
+This isn't just another course.
+It's an immersive AI workshop
+for you to experience
+and harness the mechanics
+of today's most advanced tool.
+Beyond their courses on the latest tech,
+Brilliant has a massive
+library of content,
+all with that hands-on approach
+that makes concepts in math, science,
+and programming incredibly
+easy to understand.
+And the best part is you can
+learn with Brilliant on the go.
+It's like having interactive lessons
+about our videos in your pocket.
+They're always coming out with new courses
+to cover the latest innovations.
+So no matter what comes
+next in the world of tech,
+rest assured you'll be able to learn
+about it right away on Brilliant.
+To try everything Brilliant has to offer
+for free for 30 days,
+visit brilliant.org/veritasium.
+I will put that link
+down in the description.
+And the first 200 of you to sign up
+will get 20% off a Brilliant
+annual premium subscription.
+So I wanna thank Brilliant
+for sponsoring this video,
+and I want to thank you for watching.
+Watching. Get it?

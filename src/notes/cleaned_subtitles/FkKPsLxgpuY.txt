@@ -1,0 +1,1106 @@
+- In popular culture, the
+term IQ is everywhere.
+- Do IQ exams do that?
+- You probably need 120 points of IQ.
+- Don't know what my IQ is.
+- And IQ.
+- IQ.
+- IQ.
+- Low IQ individual.
+- People who boast about
+their IQ are losers.
+- When people say IQ,
+what they mean is intelligence,
+an objective, rigorous measurement
+of intellectual ability.
+But does it actually work?
+Well, in this video, I want to find out:
+Where IQ came from.
+What does it actually measure?
+What can it predict about your life?
+And I guess, what is my IQ?
+I have never taken an
+official IQ test before.
+Honestly, I don't think
+I'm terribly smart.
+I've always kind of considered my IQ to be
+maybe just a little above average.
+- Exothermic or endothermic?
+- I feel like that should be exothermic.
+- Good job, science guy.
+- There are a lot of IQ tests online,
+but I am very skeptical
+about their accuracy.
+Still, I figured some of
+them may be good practice
+for the real thing.
+Tomorrow I'm going to
+do an IQ test for real.
+Before I do that, I want
+to try to improve my score,
+and so I'm going to try to do a
+whole bunch of practice tests.
+I think this test is trainable.
+But tomorrow we're going to
+see whether that's true or not.
+The idea of intelligence testing
+goes back hundreds of years,
+but the first concrete
+breakthrough occurred in 1904.
+English psychologist Charles Spearman
+was studying students'
+grades in different subjects
+and he wondered how their
+performance in one subject,
+like English, would relate
+to their performance
+in another, like Math.
+One option would be that the
+better a student did in math,
+the worse they would do in English,
+maybe because they spent
+more time on their math work
+and so had less time to devote to English.
+So performance in different subjects
+would be negatively correlated.
+Another option was that
+performance in one subject
+would be completely unrelated
+to performance in another.
+After all, different subjects
+require different skill sets,
+so maybe marks would be
+totally uncorrelated.
+The third option was that the
+better a student did in math,
+the better they would do in English.
+In other words, their marks
+would be positively correlated.
+A correlation coefficient can vary
+anywhere from negative
+one to positive one.
+A correlation coefficient of negative one
+indicates a perfect negative correlation,
+meaning an increase in
+one variable corresponds
+to a precise, predictable
+decrease in the other variable.
+Similarly, a correlation of positive one
+indicates a perfect positive correlation.
+A correlation of zero indicates
+no relationship between the two variables.
+And any value between zero and one
+indicates a positive correlation,
+but the data has some random spread.
+The square of the correlation coefficient
+tells you the amount of
+variation in one variable
+that can be explained by
+variation in the other variable.
+For example, if the
+correlation coefficient is 0.5,
+then 25% of the variation in one variable
+can be explained by the other.
+When Spearman analyzed his data,
+he found a clear positive correlation.
+Students who did better in math
+also tended to do better in English,
+and the correlation coefficient was 0.64.
+But Math and English
+weren't the only subjects
+the students studied.
+They also took Classics and French.
+And when Spearman looked
+at the correlations
+between all of these subjects,
+he found the same pattern.
+Students who did well in one subject
+tended to do well in them all.
+So how do you explain this observation?
+Well, Spearman proposed
+that each person has some
+level of general intelligence,
+what he called the g-factor.
+This construct was meant
+to capture how quickly
+students could learn new
+material, recognize patterns,
+and think critically regardless
+of the subject matter,
+which explains why students' scores
+across subjects are correlated.
+Those with high g, score
+well on all subjects
+and those with low g, score
+poorly on all subjects.
+Spearman published his
+conclusions in a paper titled
+"General Intelligence" Objectively
+Determined and Measured.
+But the correlations weren't perfect.
+So on top of the g-factor,
+Spearman proposed subject-specific
+factors, or s-factors.
+A student's performance
+in math, for example,
+would depend on their general intelligence
+plus their subject
+specific factor for math.
+Subject specific factors could increase
+or decrease performance on
+that particular subject.
+Spearman believed that specific
+factors could be trained
+but general intelligence was fixed.
+So he wanted to find a
+way to reliably measure
+general intelligence.
+At around the same time in France,
+Alfred Binet was tasked with figuring out
+which kids needed more help in school.
+Together with Theodore Simon,
+he developed the Benet-Simon test.
+Students were asked to name
+what's missing in the drawing,
+define abstract terms,
+and repeat back sentences.
+And there was also this question
+asking which face is prettiest.
+There were 30 tasks in all.
+Their performance was benchmarked
+against other students of different ages
+in order to assign them a mental age.
+For example, if a student performed
+about as well as the
+average eight year old,
+their mental age would be eight.
+This mental age was then
+divided by their actual age
+and multiplied by a hundred to arrive
+at a so-called intelligence
+quotient, and IQ was born.
+So the Binet-Simon test was
+the world's first IQ test.
+It was translated by Goddard into English
+and brought to the U.S.
+At Stanford, Lewis Terman standardized it
+using a large American sample,
+and with some modifications it became
+the Stanford-Binet test,
+and for decades it was
+the most widely used test
+in the United States.
+But this was just the start.
+Many other IQ tests were developed
+and they all had the same goal
+of measuring the g-factor.
+The way they did this was by assessing
+many different mental abilities,
+including memory, verbal,
+spatial, and numerical skills.
+Each one of these areas might
+have a subject-specific shift.
+But by averaging them all together,
+the idea was the subject-specific
+effects would cancel out,
+leaving a decent approximation of g.
+Of course, there would
+always be some error.
+But that's why psychologists
+designed IQ tests
+with upwards of seven to 10
+sections with distinct tasks
+to try to minimize
+subject-specific distortions.
+All the different IQ tests differed
+in the number of questions
+and their difficulty.
+So to standardize the scoring system,
+each test was given to a large
+sample of the population.
+Raw scores were normalized,
+usually so the mean was a hundred
+and the standard deviation was 15,
+and that's how it's
+still done to this day.
+This is known as IQ,
+and it's meant to be a measure
+of an individual's g-factor
+in comparison to the
+rest of the population.
+The way it's scaled,
+68% of people have an
+IQ between 85 and 115.
+Only around 2% score over 130 or under 70.
+(tranquil music)
+11 lions, four cats, and
+seven crows have a total of...
+Oh, boy.
+As I was studying for my IQ test,
+I practiced all the
+different types of questions
+that appear on modern tests.
+One section will almost
+certainly be on vocabulary.
+They give you one word like sanguine,
+and you have to pick which of
+the multiple choice options
+is most similar in meaning.
+Is it gloomy, asinine, recalcitrant,
+optimistic, or reflective?
+They might also ask you to pick a word
+with the opposite meaning.
+So what is the opposite of perspicacious?
+Is it canny, obsequious,
+dull, fanciful, or sagacious?
+Another section tests your ability
+to spot patterns with numbers.
+So pick the number that
+best completes the pattern.
+3, 5, 8, 12.
+What comes next?
+Originally, I was looking
+for complicated patterns,
+but as I familiarized myself
+with the online tests,
+I discovered the patterns
+were usually pretty simple.
+A good technique is to find the difference
+between adjacent terms.
+So in this case, the first two
+terms are separated by two,
+the next by three, and then four.
+So the logical next term should
+be five more than 12, so 17.
+The answer is C.
+Sometimes the numbers grow rapidly,
+like in the sequence three, 15, 60, 180.
+What comes next?
+In cases like this,
+I look at the ratio of one
+number to the one before it.
+In this case, the second
+number is five times the first.
+The next number is four times bigger,
+and the next one is three times larger.
+So the answer should be
+two times the fourth term,
+which is 360, answer B.
+One of the best known
+types of IQ test questions
+are Raven's progressive matrices.
+These involve a three by three grid
+with symbols in each of the cells,
+and you have to select
+the ninth cell which follows the pattern.
+I found that the bulk of these puzzles
+obey one of only a few
+different logical rules.
+One is translational motion.
+So the symbols move from
+one cell to the next
+in a predictable fashion.
+The second is rotational motion.
+One or several objects rotate
+from one cell to the next.
+The third is missing symbols,
+where in each row or column
+each symbol appears once.
+So to figure out which symbols
+appear in the final cell,
+you just have to spot
+which ones are missing.
+And the fourth is addition,
+where the first cell plus the second cell
+equals the third cell.
+In this case, lines
+that overlap cancel out,
+but a line plus nothing equals a line.
+In most modern IQ tests,
+all the questions are
+completed under time pressure.
+You may have only around 10
+to 30 seconds per question.
+Okay, this morning I'm
+taking an official IQ test,
+and I got to say that I'm pretty nervous.
+I always want to do well on tests,
+it's something I pride myself on.
+But at the same time, who
+knows how this is going to go.
+I'm not allowed to take you in there,
+because obviously people don't want
+the questions getting out,
+and they don't even want video
+of what it looks like in there.
+They're very strict about these things.
+So I'm going to go in, do the test,
+I'll come out and I'll
+let you know how it went.
+Wish me luck.
+What's remarkable about IQ tests
+is that an hour or two of
+questions on vocabulary,
+numbers, and arbitrary shapes
+can predict a surprising
+amount about your life.
+For one thing, the higher your IQ,
+the larger your brain is likely to be.
+A large meta-analysis from 2005
+estimated a correlation of
+0.33 between IQ and brain size.
+So high IQ is literally big brain.
+IQ is also predictive of school success.
+In 2007, Scottish psychiatrist Ian Deary
+measured the IQs of 13,000 11 year-olds.
+And five years later, when
+these students completed
+national school examinations,
+Deary compared their
+exam marks to their IQs.
+- Their performance on an
+IQ test when they were 11
+correlated with their performance
+five years later on the GCSEs, about 0.8.
+That's an extremely high correlation.
+- It means about two
+thirds of the variation
+in national school examination scores
+could be predicted by IQ
+tests taken five years prior.
+Now, the correlation
+coefficient of this study
+is at the high end of the 0.2 to 0.8 range
+found in similar studies.
+But research supports the claim that IQ
+is a good predictor of school success.
+It also predicts how much
+schooling a person will complete.
+Maybe this shouldn't be so surprising
+since some school tests
+are essentially IQ tests.
+It's been argued that tests
+like the SAT, ACT, and the GRE
+are basically IQ tests.
+They correlate with standard
+IQ tests at around 0.8.
+Now, on my SATs I got a score of 1,330,
+which of corresponds
+to an IQ of around 130.
+So it'll be interesting to see
+if my official IQ score matches that,
+or if I was able to increase my score
+by familiarizing myself
+with IQ-style questions.
+I don't know.
+But IQ also has predictive
+power outside of school.
+One of the most robust findings
+is that IQ can predict job success.
+- Particularly in technical
+or high complexity jobs.
+- How do you measure occupational success?
+- You ask people's bosses to rate them.
+You ask what people's income is.
+You measure productivity
+in ways that economists
+use about the output generated.
+- The correlations typically
+range from 0.2 to 0.6,
+and the effect is most
+notable for more complex jobs,
+which makes sense.
+The highest effect is
+for military training.
+In fact, the U.S. military
+will not accept anyone
+with an IQ under 80.
+They also limit to 20%
+the number of recruits
+with IQs between 81 and 92.
+During the Vietnam war,
+in order to increase
+the pool of applicants,
+they relaxed this last requirement.
+But what they found was that
+those below the threshold
+were 1.5 to three times as
+likely to fail recruit training,
+and they required between
+three to nine times
+as much remedial training.
+Taken together, this added so much strain
+that the military ran more efficiently
+without the extra recruits.
+In total, 5,478 people recruited
+under this initiative died
+at a fatality rate three times higher
+than ordinary recruits.
+So the military reinstated
+their requirements,
+and today anyone with an IQ less than 80,
+that is about 30 million Americans,
+would be ineligible to join the military.
+Even outside the military,
+IQ seems to play a role
+in how long you live.
+In a Scottish study,
+scientists uncovered IQ tests from kids
+when they were 11 years old.
+Now 65 years later, they check
+to see who from the sample
+was still alive at age 76.
+And they found that on average,
+for every 15 point
+increase on the IQ test,
+you would be 27% more likely
+to still be alive at age 76.
+A large meta-analysis confirms
+that people with higher IQs
+have a lower risk of dying
+during the timeframe
+investigated in each study.
+The last major thing that IQ
+seems to predict is income.
+This study shows a clear tendency
+for income to increase with IQ,
+and it found a correlation
+coefficient of 0.3.
+But the variance is huge.
+In fact, the top three
+earners in this study
+all had IQs below 100.
+A large meta-analysis of 31 studies
+found the correlation between
+IQ and income to be 0.21.
+That is significant but small.
+It means that only 4.4%
+of the variance in income
+is explained by IQ.
+Maybe one of the reasons why we don't see
+as high a correlation for income
+is just because economically
+intelligence is not necessarily
+that highly rewarded,
+in that maybe there are jobs,
+like just doing a real estate-type scheme,
+maybe that doesn't require a
+huge amount of intelligence.
+Simultaneously, you have all these
+very highly intelligent people
+who maybe become college professors,
+but that doesn't
+necessarily pay very well.
+- Yeah.
+- A lot of people who have
+very high intelligence scores
+don't have the same interest
+in accumulating money.
+- The relationship with
+net worth is even weaker.
+It hardly seems to correlate with IQ,
+even though people with higher IQs
+are supposedly more intelligent
+and on average they make
+more money each year.
+But this apparently doesn't translate
+into saving or accumulating
+more wealth overall.
+But if IQ correlates
+with school achievement,
+job performance, income, and longevity,
+why don't we hear more about it?
+Why aren't more people tested?
+I think it's because
+IQ has a dark history.
+When Henry Goddard brought
+Binet's test to America,
+its use and interpretation
+shifted dramatically.
+In France, Binet believed intelligence
+could be improved through education.
+He designed his tests so
+that struggling students
+could be given more help to catch up.
+But in the U.S., the modified
+test was given to adults
+to rank them by intelligence.
+And researchers like Spearman believed
+that g was unchangeable,
+that whatever general
+intelligence you were born with
+you would have for the rest of your life.
+And many thought g was inherited,
+passed down from parents to children.
+These days we would say
+it has a genetic basis.
+There is some evidence to
+support these assertions.
+IQ appears fairly consistent
+over one's lifetime.
+- So they had tests done when
+people were 11 years old.
+They found all those
+tests in a filing cabinet
+and followed those people up
+and gave them the same test
+when they were 90 years old,
+much, much later.
+- Their scores 80 years apart
+were correlated at around 0.5 to 0.6.
+There's also evidence for
+a genetic basis to IQ.
+- You find, for instance,
+that if you get two identical twins
+and give them an IQ test,
+they have a very strong correlation.
+It's actually about the same
+as giving the same person
+the test a few weeks apart.
+- Henry Goddard used the claims
+that intelligence was
+inherited and unchangeable
+to put IQ at the center of the
+American eugenics movement.
+Eugenicists wanted to prevent
+those with undesirable traits
+from having kids.
+In many states, laws were passed
+to enable forced sterilization of people
+who failed to meet a certain
+threshold on an IQ test.
+The constitutionality of these laws
+was upheld by the Supreme Court in 1927.
+- Even words that we
+now use as in insults,
+moron, idiot, imbecile, were
+used as scientific terms.
+- In his judgment, Justice
+Oliver Wendell Holmes wrote,
+"It is better for all the world
+if instead of waiting to execute
+degenerate offspring for crime,
+or to let them starve
+for their imbecility,
+society can prevent those
+who are manifestly unfit
+from continuing their kind.
+Three generations of
+imbeciles are enough."
+In total, over 60,000 people
+were forcibly sterilized
+as a result of these laws.
+In fact, they served as
+a model for Nazi Germany.
+Hitler himself claimed to be inspired
+by American eugenicists.
+- These have been used for
+horrific things in the past.
+- At the Nuremberg trials after the war,
+some Nazis quoted from the
+American Supreme Court decision.
+Given this awful history,
+I think it's understandable
+that many people
+completely disregard IQ today.
+On the science of intelligence,
+there are a number of things
+those early researchers got wrong.
+One is that IQ is not entirely
+determined by genetics.
+Can you quantify the effects
+of genetics versus environment?
+- When you look at twin studies,
+on average, across the whole
+lifespan, it's about 50/50
+to heritability and environment.
+- You simply can't, for ethical reasons,
+estimate it in humans
+with a reasonable degree
+of certainty or accuracy.
+Given my reading of that literature,
+it's a pretty broad range,
+probably somewhere between 40% and 70%.
+- Okay.
+And since education can improve IQ,
+it is not completely
+fixed over a lifetime.
+Plus, intelligence might
+not be a single construct
+as initially imagined.
+These days, scientists recognize
+two forms of intelligence,
+fluid and crystallized.
+Fluid intelligence is
+your ability to learn,
+process information, and
+solve novel problems.
+Whereas crystallized intelligence involves
+the knowledge you've
+accumulated over your lifetime.
+Both types of intelligence
+increase throughout childhood,
+but fluid intelligence
+peaks in early adulthood
+and then declines.
+Whereas crystallized
+intelligence remains more stable.
+But IQ has been further misused
+to promote the idea of racial
+differences in intelligence.
+There is, for example, an observed gap
+between the average IQ of
+black and white Americans.
+Articles have also been
+published on the IQs
+of different nations around the world.
+Many of these nations
+are purported to have
+average IQs below 70.
+That's the cutoff for
+intellectual disability.
+How could this be?
+The conclusion that some draw
+is that there are genetic differences
+between races or nations in intelligence.
+But I think that's a gross
+misrepresentation of the data.
+The problem, I'd argue, is that IQ tests
+don't necessarily measure what
+you think they're measuring.
+And the proof is that there's
+a representative sample
+of white Americans whose average IQ is 70.
+Who are these people?
+Just ordinary Americans
+who lived around a hundred years ago.
+Researcher James Flynn
+studied the average results
+of IQ tests over the past century,
+and every so often, the tests
+get updated and re-normalized
+to keep their average at a hundred.
+Now, what Flynn noticed
+was that each time they got re-normalized,
+the scores had to be
+shifted down a bit more
+by about two or three
+IQ points per decade.
+And if they didn't do
+this, what we would see
+is that the average IQ
+of the whole population
+was increasing at a steady rate
+for the last a 100 years,
+adding up to around a 30 point increase.
+This is known as the Flynn Effect.
+- Were our immediate ancestors
+on the verge of mental retardation?
+Because 70 is normally the
+score for mental retardation.
+Or are we on the verge
+of all being gifted?
+Because 130 is the cutting
+line for giftedness.
+- Now the genetics of the population
+haven't really changed
+over a hundred years.
+So what caused the increase?
+Well, there is some debate
+about the true causes,
+but one of them is probably
+improving childhood nutrition and health.
+- You know, height also increased
+across that time period.
+People got taller, and taller, and taller.
+- Another cause is better education.
+- There's lots of evidence
+that school makes you more intelligent.
+- You become better at problem solving
+if you have more knowledge.
+Because it's easier for
+you to make associations
+if you have more things to
+make the associations with.
+- A third proposed cause is a shift
+in the types of work that most people do,
+from mostly manual labor
+a hundred years ago,
+to much more abstract thinking these days.
+And that shift may have made us better
+at answering the types of questions
+that are asked on IQ tests.
+Rotate again.
+The point is that IQ tests appear
+to objectively measure
+intelligence, but they don't.
+Even in the same country,
+separated only by time,
+cultural changes can affect
+the average scores on IQ tests.
+So why shouldn't we expect
+cultural differences
+between groups at the same
+time to have the same effect?
+Some tests go so far as to
+label themselves culture fair,
+meaning the questions
+should be equally valid
+for all cultures.
+But the truth is it's impossible
+to construct such a test.
+Does that work?
+- No.
+- Okay.
+- No. I mean, that's just a title, right?
+That's just a marketing term.
+I don't think there is such a thing
+as a completely culture
+free or culture fair test.
+- Culture fair tests
+assess visual relations,
+geometric shapes and patterns,
+ignoring the fact that cultures differ in,
+for example, whether they
+have words for shapes
+or spatial relations.
+These differences influence
+how people think about
+and use categories.
+It's also debatable whether cultures
+without printed materials
+even perceive them
+in the same way that we do.
+What culture fair tests don't assess
+is ethnobotanical knowledge,
+or training dogs to hunt,
+or surviving alone in the rainforest.
+Arguably, these forms of intelligence
+are more important for survival
+than knowing, say the next
+number in the sequence.
+But since they're less
+common in our culture
+and we don't have good
+ways of measuring them,
+we see IQ puzzles as the definitive way
+to quantify intelligence.
+And the people who make these tests agree.
+There are stringent
+requirements before a test
+validated for one population
+can be used with a very
+different population.
+Even in the limited forms of intelligence
+that IQ attempts to assess,
+there are factors other than
+g which affect the final IQ,
+like motivation.
+How much someone is incentivized
+to complete the test
+can have a marked impact on their score.
+Many studies have tried paying subjects
+to complete an IQ test.
+In some studies, they're offered a little,
+say around a dollar.
+Other studies offer between $1 and $10.
+And the real high rollers
+offer more than $10.
+A large meta-analysis showed
+that motivating people
+in this way increased IQ.
+And the larger the dollar amount,
+the greater the average increase.
+At the high end, IQ
+increased by up to 20 points.
+The effect is largest for
+those with below average IQs.
+So in addition to g, IQ tests
+also measure motivation.
+But it doesn't stop there.
+They do rotate.
+Training and coaching for an IQ test
+can boost scores by up to eight points.
+I just completed the test
+in some random notice.
+(mumbles)
+I can barely talk after that.
+It seemed pretty fair.
+There were lots of different sections.
+The math section in particular,
+I feel like I killed.
+Those questions were easy.
+I would say having done the test,
+I feel like that should be trainable,
+like you should be able to
+train someone to do that well.
+Test taking strategy is also important.
+Some people are just
+better at taking tests
+under time pressure than others.
+I think the hardest thing about the test
+was the time limits.
+Looking for the patterns
+in a series of shapes,
+I mean, it just normally
+takes me a little while,
+and so I feel like I didn't finish those.
+You have to know when to skip questions,
+how to eliminate clearly wrong
+answers, and when to guess.
+Anxiety also plays a role.
+Apparently a small amount
+of anxiety is good,
+but past a certain point, it
+negatively impacts performance.
+I guess the overall review
+is, I think I did okay,
+and I think the training
+actually really, really helped.
+That's my prediction.
+Let us fast forward to the future
+and see how I actually did.
+I actually got my results
+from the author of the IQ test I took.
+- Those are three areas,
+three specific areas.
+- For the math one, for the numbers ones,
+I think that's where I
+felt really comfortable,
+and got there before the time was done
+and then I could go back
+and look at a few things.
+- Yes.
+You blew the roof off
+the quantitative one.
+On the quantitative, it was 143.
+Whereas on the crystallized
+intelligence index, it was 132.
+The fluid intelligence index was 118.
+- Hmm.
+- Which still
+is a higher score than 88.5%.
+- It's not, bad.
+But it's interesting that that one
+is significantly lower, I guess.
+- And that's not an unusual difference.
+Around that concept of g,
+people have strengths and weaknesses.
+If we were to look at the
+best estimate of g for you
+on this set of tests.
+And it'd be different if
+you took a different test.
+It was at 134, which is higher
+than 98.8% of the population.
+- Wow.
+- Hopefully you're not
+disappointed with any of that.
+- No.
+I wanted to do well.
+I feel like my motivation was high,
+possibly higher than the average person.
+So what is IQ good for?
+- My clinical practice now
+is forensic neuroscience,
+and about 90% of my
+cases are death penalty.
+One of the most common issues is
+what's referred to as the Atkins defense
+after the name of the
+US Supreme Court case
+that eliminated the death penalty
+for people with intellectual disability.
+- Can't the criminal
+just throw the IQ test?
+Can't they just intentionally
+- No.
+- answer every question wrong?
+- We'd know that.
+I mean, we include, just like
+in the test that you took,
+there are embedded measures of invalidity.
+It's detected using various
+mathematical algorithms.
+We're better than 95% accurate
+in detecting people who are attempting
+to fake poor performance.
+- Oh, wow.
+- One thing that we may
+be interested in doing
+is to boost people's cognitive
+ability early in life
+so that it takes them,
+even if they go into cognitive decline,
+it takes them longer to reach the point
+where they'll have sort of functional
+actual everyday problems
+where they lose independence,
+whether it comes to
+dealing with their money,
+or whether it comes to
+dealing with reading labels,
+whatever it is that people struggle with
+when they get into later
+stages of cognitive decline.
+If we could discover a way
+to lastingly boost people's intelligence,
+that would be massively helpful.
+- Maybe its best use is
+in identifying individuals
+with strong intellectual abilities
+who haven't otherwise been
+able to demonstrate them.
+- Teachers would recommend
+that a kid gets put in the
+gifted and talented program,
+because generally they'd observed them
+doing well in the classroom.
+But if you replace that
+with a standardized test,
+an IQ test, you find a higher
+proportion of poorer kids
+and kids from minority ethnic backgrounds
+in the gifted and talented
+program when you use an IQ test.
+And the reason is that you're
+using an objective measure.
+You're not just relying
+on some teacher's opinion.
+Getting into a good school
+was about who you knew,
+or who your parents knew,
+or how much money your parents had,
+not so much about how you were doing.
+The idea that you could try to develop
+an objective-ish measure
+that would try and iron out
+all those social biases was
+clearly a well-meaning idea.
+- IQ is something that
+not only psychology,
+but the general public has a
+love-hate relationship with.
+- Tell me about that.
+- Psychologists hate to
+talk about intelligence
+and people's intelligence test
+scores and that kind of stuff.
+And I've had parents, when
+I've included intelligence
+as part of a neuropsychological
+evaluation of their kid,
+they'll say, "Well, yeah,
+I'd like to know his IQ,
+but you know, we don't
+really care about that.
+What was it?"
+(both laughing)
+- And then I also think you
+have the debate about IQ,
+extremes on both sides,
+which I think doesn't help.
+You have the extreme of people who say
+this is the most important thing ever,
+people's IQ is a majorly important factor
+that we must know about them,
+and then we can classify
+them into particular schools,
+or particular ways of
+education or whatever.
+That's a one extreme,
+and I think that's totally unproductive.
+But there's another extreme.
+The other extreme is the
+kind of blank slate view,
+which is that these tests
+are completely useless,
+they don't tell us anything,
+that they're only a tool of
+racism and prejudice and so on.
+I think that's wrong as well.
+And there's just this massive firestorm
+on both sides happening around them.
+And the people in the
+middle just get forgotten,
+the people have more moderate
+views on these sort of topics.
+So I'd recommend that people
+look for the more moderate views on this.
+- I think the big mistake
+is thinking that IQ
+in some way determines someone's worth.
+What's much more important, in my opinion,
+is how you interact with and
+help the people around you.
+Which is why I think Stephen Hawking said,
+"People who brag about
+their IQ are losers."
+While IQ tells us something,
+it doesn't tell us how
+our lives will turn out.
+We have the ability to
+dramatically improve our outcomes
+by building knowledge
+and analytical skills.
+And if you're looking for a
+free and easy way to do that,
+then you should check
+out this video's sponsor,
+brilliant.org.
+With Brilliant, you
+can master key concepts
+in everything from data science and math
+to programming and technology.
+Just set your goal and Brilliant designs
+the perfect learning path for you,
+equipping you with the
+tools you need to succeed.
+They also helped me understand
+how IQ and net worth are related
+by creating some amazing
+data visualizations.
+Want to learn how to think
+like a data scientist?
+Then Brilliant's latest
+course, Exploring Data Visually
+is a fast and easy way to get there.
+It requires no coding skills,
+and instead you'll focus
+on the whys behind the data
+and analyze real data sets to
+learn things about the world.
+In today's world, data skills
+aren't just nice to have,
+they're essential.
+Brilliant is more than
+just a learning platform.
+It's your path to understanding
+the world of math,
+data and computer science.
+And what's great about Brilliant
+is that all the lessons are hands-on.
+So you build real intuition
+so you can put what you've
+learned to good use.
+One thing I didn't include
+in the main part of the video
+is that the only aspect of personality
+that correlates with IQ
+is openness to experience.
+The more you're willing
+to give new things a try,
+the more you'll learn and
+the smarter you'll be.
+So to try everything
+Brilliant has to offer
+for free for a full 30 days,
+visit brilliant.org/veritasium.
+I will put that link
+down in the description,
+and the first 200 of you to sign up
+will get 20% off Brilliant's
+annual premium subscription.
+So I want to thank Brilliant
+for sponsoring this video,
+and I want to thank you for watching.

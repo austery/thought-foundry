@@ -1,0 +1,758 @@
+- I want you to listen to these two sounds
+and decide which is higher.
+So this is sound A.
+(sample sound buzzing)
+And this is sound B.
+(sample sound buzzing)
+Okay, so to me, sound A is clearly higher,
+but that's strange
+because sound A was just
+a 100 hertz sine wave.
+Sound B had that same 100 hertz frequency,
+but also 150 hertz and 200 hertz.
+So we added higher frequencies,
+but the sound was lower.
+How does that work?
+I think there's this idea that
+what our ears do is simply
+detect the frequency
+of vibrations in our
+environment that are between
+20 hertz and 20,000 hertz.
+But there is so much more
+to hearing than that.
+And in this video, we're
+gonna go through a series
+of audio illusions that
+illustrate how our sense
+of hearing actually works.
+Most of these effects will work on a phone
+or laptop speakers, but if you
+have headphones handy, well,
+I'd recommend putting them
+on for the full experience.
+It's like a whole body
+instrument, isn't it?
+- Absolutely yeah, yeah.
+- This is the Sydney Town Hall pipe organ.
+When it was built in 1890,
+it was the largest organ in the world.
+Something I didn't realize about organs is
+that they were meant to
+sound like many different
+instruments playing together.
+- Organs are sort of a
+one person orchestra.
+Very flutie, right?
+- Yeah.
+- You can tell.
+Compare that to a trumpet.
+Oboe sound.
+So you can hear all these
+orchestral sounds on the organ.
+We could get inside the instrument too.
+- Should we go look?
+- Let's have a look. Yeah.
+- Okay.
+- For each instrument,
+there are a series of pipes
+in the organ which play all the different
+notes for that instrument.
+- I mean, there are 8,000
+pipes in this organ.
+- 8,000?
+- 8,000, yeah.
+- Why do you need that many?
+- To create all the different
+sounds of the orchestra.
+- What you see on the outside
+is just a tiny fraction
+of the organ itself.
+Whoa look at all these.
+They're all hidden in here.
+- [Titus] They are, yeah.
+And some are wooden, some are metal.
+Some have resonators at the bottom of them
+to create the more reedy
+sounds, the brassy sounds.
+But then these wooden ones are more
+of the deep flutie sounds as well.
+- This is like what a keyboard?
+- It's a keyboard. Yeah, that's right.
+A keyboard layout of pipes.
+- Very nice you position yourself well...
+- When two pipes of the
+same length vibrate,
+they both play the same note.
+That's because they're both
+producing the same fundamental
+frequency that is the lowest
+and usually highest amplitude
+vibration they produce.
+But if the pipes are made
+of different materials,
+they will sound different.
+So you can tell they are
+different instruments,
+and that's because each
+one produces a distinct set
+of higher frequencies called overtones.
+They're not as loud as the fundamental,
+and we don't hear them as distinct tones,
+but they affect the quality
+of the sound called timbre.
+It's how you can tell apart a trumpet
+from say a flute.
+They have overtones of
+different frequencies
+and relative amplitudes.
+For a lot of instruments,
+the most common overtones
+are integer multiples
+of the fundamental frequency.
+These are known as harmonics.
+- If this was your fundamental note,
+the notes that you're gonna
+be hearing with it would be...
+So all of those notes are
+within that fundamental note.
+- Now, harmonics can be
+useful when you're trying
+to play really low notes.
+The Sydney Town Hall pipe organ is one
+of only two in the world
+that has a 64 foot long pipe.
+- It's actually so large that it has
+to be folded over itself.
+- Where is the 64? Can we see it?
+- You've got the grand question
+that I don't know.
+I know it's somewhere here.
+- Like that's a really big
+chunk of wood right here.
+- Oh, yeah.
+- Could that be it?
+This pipe is used to produce
+a frequency of 8 hertz.
+- When you get to that
+level, it's more something
+that you feel rather than
+something that you hear.
+- For sure.
+The lowest note most big
+pipe organs can play is
+16 hertz, which is just at
+the limit of human hearing.
+But even this requires a 32
+foot pipe, which is too big
+or expensive for many organs.
+Do you know where the 32 footers are?
+- Well...
+- They're ones out the front?
+- They're the ones that
+you see at the front.
+That one.
+- That's the 32 footer.
+- Yeah.
+- So that's nearly 10 meters.
+- Nearly 10 meters. Yeah.
+It's pretty scary to think about
+from the top of it actually.
+- In 18th century Europe,
+Georg Joseph Vogler
+was a popular organist.
+He wanted to tour the continent,
+but that would require building
+a compact portable organ
+that he could take with him on the road.
+And we obviously couldn't haul
+around the huge 32 foot pipe
+required to produce 16 hertz.
+So how could he still
+create the low frequencies
+that make the organ so powerful?
+Well, Vogler realized that
+if he played the harmonics
+of 16 hertz using shorter pipes,
+your brain would hear
+this missing fundamental.
+Can we try the trick
+and see if it sounds?
+- Yeah, sure.
+The fifth is that sort of
+most common fundamental,
+which you're gonna hear
+to get the low sound,
+but basically the quint
+gets used with a 16 foot
+and it creates the lower resultant tone.
+So that's just the 16 metal.
+- It's so funny because you add it
+and I do not hear it going up.
+You're playing a fifth above.
+- Yes
+- But I'm hearing it go down.
+Like you just pull that out and I'm like,
+oh yeah, the note dropped.
+- That's the trick. Yeah.
+- With the two sounds I
+played at the beginning,
+the first was a pure 100 hertz.
+(sample sound buzzing)
+But the second sound was made up
+of the harmonics of 50 hertz.
+(sample sound buzzing)
+So you actually heard this
+fundamental frequency,
+even though it wasn't there.
+That's how higher frequencies
+together can sound lower than
+low frequencies if they are
+harmonics of a low fundamental.
+Now, this might not be
+as weird as it seems.
+If you look at the wave
+form of the harmonics,
+you find that adding
+the higher frequencies
+changes the period of the sound.
+It makes the period longer so
+that it's actually the same
+as the missing fundamental.
+- If you kind of recreate some
+of those harmonic pitches,
+you're actually gonna bring
+out more bass in the sound.
+- So, the idea of like you
+could play the harmonics
+and hear the fundamental
+even if you're not
+playing the fundamental.
+- That's right. Yeah.
+- So different frequency sounds can
+combine to make notes that aren't there,
+but they can also do
+something, even stranger.
+- Hello, it's me, Mario.
+- In Super Mario 64, there's a staircase
+that seems to go on forever.
+Players can't level up until
+they collect enough coins.
+Now listen carefully to the music.
+The scale sounds like
+it keeps going up and up
+and up, just like the endless staircase.
+This is the Shepard tone illusion,
+and here's a Shepard Glissando on its own.
+(music escalating)
+An ever increasing tone
+should be impossible
+because we can't hear anything
+beyond the 20,000 hertz limit,
+and yet this sound keeps
+going, always ascending.
+The trick is a Shepard
+tone isn't just one note.
+There are multiple
+frequencies being played,
+all separated by octaves.
+All of these frequencies are increasing,
+but as they do, their volumes change.
+So the high notes get quieter,
+and the low notes get louder.
+High notes soon fade out, and
+new low notes are faded in.
+This gives the illusion
+of an ever rising pitch,
+like the audio version
+of a barbershop pole.
+Shepard tones can also evoke emotional
+or physical responses in some listeners.
+A 2016 study found that
+after listening to Shepard tones,
+participants reported feeling nervous,
+anxious, and disturbed.
+Perhaps that's why during
+an intense bombing scene
+in the film, "Dunkirk"
+Shepard tones feature
+in the accompanying score.
+Hopefully this won't make you uneasy,
+but I want you to try to figure
+out which well-known tune,
+this is, all of the notes
+have been kept the same,
+but they've been mixed up
+into different octaves.
+(sound beeping)
+Did you recognize the song?
+Well, here is the unscrambled melody.
+(sound beeping)
+But now that you've heard that,
+can you follow the scrambled version?
+(sound beeping)
+To me, it's fascinating
+how the second time
+I heard the scrambled melody,
+the tune seemed obvious,
+which is very different from
+how it sounded the first time.
+Our brains can find patterns
+in random sounds too.
+This is the phantom word illusion created
+by Dr. Diana Deutsch.
+Listen to this audio
+and try to figure out
+which words are being said.
+You can put what you
+heard in the comments.
+When one speaker plays a word,
+the second speaker plays a different word
+at the same time.
+According to Dr. Deutsch,
+because the signals are mixed
+in the air before they reach your ears,
+you're given a pile of sounds
+to choose from, so you can
+create words in your mind.
+A lot of what we hear depends
+not on the frequencies
+of sound, but on how
+our brains process them.
+Dr. Deutsch noticed that when
+she played this illusion near
+exam week, students reported
+hearing words like, "No brain,"
+"I'm tired," or "No time."
+And we can actually
+prime the brain to hear
+what we want it to hear.
+For example, using text.
+Take the case of this crowd chanting.
+(crowd chanting)
+You're primed to hear the lyrics you see.
+These are called Mondegreens,
+after a misheard poem
+in which there's a line,
+"They have slain the Earl Amurray
+and Lady Mondegreen."
+Except in the real poem,
+the Earl dies alone
+and his killers actually
+laid him on the green.
+Sometimes mondegreens happen
+when sounds are divided
+logically, but incorrectly,
+such as hearing pullet surprise
+instead of Pulitzer Prize.
+Language familiarity would help you hear
+the correct one from the start.
+So while UK football fans
+might hear the common chant
+that is embarrassing.
+- [Crowd] That is embarrassing.
+- An American football fan might not.
+What's even more amazing is
+how subtle visual cues
+can affect what we hear.
+What am I saying in this clip?
+If you heard the word bear,
+that's because that's what I was saying.
+But what am I saying in this clip?
+Now I bet you heard fair,
+but if you play back both
+those clips without looking,
+you'll find it's the exact same audio.
+All we changed was the mouth movement,
+and I can prove it to you
+by playing those two
+clips at the same time.
+And what you hear will
+change depending on which
+clip you focus on.
+So what we see affects what we hear.
+And the reverse is also true.
+In this illusion if no sound is played,
+it looks like the two circles are passing
+through each other, but at
+a sound when they intersect
+(balls dashing)
+and immediately it seems like
+they're bouncing off each other.
+(balls dashing)
+What we see and hear are
+intrinsically linked.
+Because in the real world,
+one sense can reliably inform the other.
+But what if there are
+no visual cues to go on?
+In the 1950s, air traffic
+controllers were communicating
+with multiple pilots
+simultaneously in the same room.
+Unfortunately, messages from all
+of the pilots would play
+from a single loudspeaker,
+and the overlapping audio
+made it really difficult
+to pick out just one voice.
+So researchers started
+looking into the so-called
+cocktail party effect,
+because this problem resembled
+focusing on a single
+voice in a noisy room.
+Most of us can do this with
+little effort, but how?
+It's kind of like taking the recording
+of the entire party and pulling out
+a particular voices waveform.
+The sound waves interfere with each other
+before reaching your ears.
+So this should be a difficult task.
+In this recording, try
+to find the voice talking
+about a flight in this crowd.
+(crowd talking)
+I find that really hard,
+but if you hear the voice
+first, then the rest
+of the conversation is easier to follow,
+(crowd talking)
+This is much easier
+because you can predict
+what words will come next based on context
+and language structure.
+The second way we can focus
+on one voice is by identifying
+where the sound is coming from.
+Listen again, but this
+time focus on the pilot
+played in your left ear.
+(crowd talking)
+In a cocktail party, you
+can focus on your friend
+by ignoring sounds that
+come from other locations.
+Once researchers realized
+this, they advocated
+that different pilots be broadcast
+through different speakers,
+spread out throughout the control room.
+This allowed air traffic controllers
+to more successfully
+tune in to their pilot.
+But how do we actually
+locate the source of a sound?
+Well, I'm gonna put on this blindfold
+and ask my wife to walk around me
+and clap in different locations,
+and I am going to try to point
+to the location of the sound.
+So let's give it a try.
+Normally you can pinpoint a sound
+to within a degree or two.
+And there are actually four different cues
+that help me identify the
+location of the sound.
+How is it?
+The first is volume.
+A sound on my right will
+be louder in my right ear.
+My head sort of casts a sound
+shadow over my left ear.
+And the second cue is that
+this shadow attenuates
+higher frequencies more
+than low frequencies.
+It's kinda like when your
+neighbor is having a party.
+You can't really hear the high
+frequencies like the lyrics,
+but you can hear the bass
+because low frequencies
+are less attenuated
+by distance and obstacles.
+The third is time delay.
+It takes a sound half a
+millisecond to cross your head,
+so sound will usually arrive
+at one ear before the other.
+Listen to a beep on your left.
+(sound beeping)
+and then on your right.
+(sound beeping)
+Now, as the delay between
+those two beeps is shortened,
+(ound beeping)
+it's less of an echo
+and more just one sound
+that's really on your left.
+(sound beeping)
+The fourth cue we use
+to identify the source
+of a sound is at what
+point in the wave cycle
+the sound arrives at each
+ear or the phase of the wave.
+Is it arriving at a peak or a trough?
+The phase of the wave at one
+ear will typically be different
+than the phase at the other ear.
+Now you run into a bit of trouble
+when the sound is either directly in front
+or behind you or on any
+point in a vertical plane
+that passes through the
+middle of your head.
+And that's because the
+distance from the sound to both
+of your ears is the same.
+And therefore, those four
+cues aren't very useful.
+Owls solve this issue
+with asymmetrical ears.
+Their left ear is actually lower on their
+head than their right ear.
+So sounds from below are
+louder in their lower left ear.
+Humans typically have symmetric ears,
+but their shapes are important.
+This is where the outer
+part of your ear comes in.
+I mean, what we'd normally
+just refer to as the ear.
+Technically this is called the pinna.
+Depending on the location
+and the frequency of sound,
+it will bounce off these ridges
+and bumps on your ear
+and end up inside your ear
+actually going into the eardrum.
+And those reflections will actually change
+some frequencies differently than others
+depending on the location.
+Scientists placed tiny microphones
+inside volunteer's ears to measure this.
+They could see, for example,
+that a 6,000 hertz sound located
+above you might be
+amplified by 10 decibels,
+but that same sound below
+you would be attenuated
+by 10 decibels.
+These figures depend on the unique bumps
+and ridges of cartilage in your ear.
+So each person's ears have
+a unique response curve
+to different frequencies
+at different locations.
+And over the course of our lives,
+our brains learn the way
+different frequencies reflect off
+our ears, and we use that information
+to identify the source of the sound.
+Now, every person has
+a unique pinna shape.
+So what if our ears changed?
+In a 1998 study,
+researchers placed small
+molds into the ears of a group
+of participants changing
+the shape of their pinnas.
+Here's one subject's data.
+The rigid background grid represents
+where sounds were actually played.
+The dots are the subject's guesses,
+and the darker warped grid is
+the averages of those guesses.
+Before the study, they were
+fairly good at locating sounds,
+but after changing their pinna shape,
+they were downright terrible.
+Over a series of days and
+weeks with their new pinnas,
+the participants all adjusted
+and became better at locating sound.
+So it is something your
+brain can adapt to.
+Thankfully, after the molds were removed,
+participants had no trouble reverting back
+to their original ears.
+Pinna shape is so key to an
+immersive sound experience
+in virtual reality that
+companies like Apple
+and Sony actually scan your ears
+to create personalized spatial audio.
+And for a long time, people
+have been trying to harness
+and amplify our ability to locate sounds.
+In 1880, professor Alfred
+Mayer presented a device
+called a topophone to
+locate ships in the fog.
+It was made from two
+adjustable hearing cones.
+By changing the distance
+and angle between them,
+sailors could narrow down the
+direction of a ship's foghorn.
+Unfortunately, they weren't very useful
+because sound waves interact with fog.
+But then during World War I
+locating bombing planes on
+approach was of central importance.
+So armies developed special
+equipment called sound mirrors
+to amplify sound.
+In Britain, sound mirror
+stations coordinated together
+to locate an enemy up to
+15 minutes in advance.
+But as planes became faster,
+sound mirrors couldn't
+detect them early enough,
+and they were eventually abandoned
+after the invention of radar.
+But even though the
+technology became obsolete,
+the system was not.
+The radar team used the
+coordinating station's idea
+that was first developed from
+the Sound Mirror program.
+Linked radar stations
+were a critical defense
+in the Battle of Britain.
+This is the Vox Angelica on
+the Sydney Town Hall Organ.
+When two pipes are slightly out of tune,
+there's this pulsing effect to the sound.
+You can hear that in a more pronounced way
+if I play pure tones.
+Here is a pure 261 hertz sine wave.
+(sound beeping)
+And a pure 263 hertz sine wave.
+(sound beeping)
+When both of these tones
+play, those compression
+and refraction waves
+interfere with each other.
+Sometimes the peaks line up
+to produce a louder sound,
+and when a peak lines up with
+a trough, they cancel out.
+Because these frequencies
+are separated by two hertz,
+you hear two louder pulses every second.
+This is known as beating.
+(sound buzzing)
+Now the beats are really clear,
+and this makes sense when the two waves
+are interfering in the air.
+But what happens if a 261
+hertz tone is played in one ear
+and a 263 hertz tone
+is played in the other?
+(sound beeping)
+What did you hear?
+Well, the tones never
+had a chance to interact,
+but you can still hear
+some subtle beating.
+Your brain is firing
+at a rate corresponding
+to the phase difference
+causing the beat perception.
+When your brain mixes
+these frequencies together,
+it's called Binaural Beats.
+(sound beeping)
+And maybe you've already
+heard of Binaural Beats
+as a quick search of YouTube shows
+that some people claim they
+can improve focus or memory.
+But a 2023 review was inconclusive
+and emphasized the need
+for more standardized testing methods.
+Audio illusions aren't
+a sign that our sense
+of hearing is faulty.
+I mean, the world is a messy, noisy place,
+and our brains have
+developed complex methods
+to deal with ambiguity.
+You fill in the gaps
+with your past experiences
+or expectations.
+Without your brain making these
+subconscious adjustments,
+a cocktail party would always
+just sound like a total mess.
+Audio illusions show us where
+our perception goes wrong,
+but the system as a whole is pretty good
+at getting to the truth.
+(static hissing)
+Now, illusions remind us
+that we can't always take
+the world at face value.
+And while our unconscious minds
+might fill in the gaps from
+time to time, it's our
+critical thinking skills
+that do the heavy lifting of
+separating fact from fiction.
+And if you are looking
+to start building these
+skills yourself, you can do
+that right now for free with
+today's sponsor, Brilliant.
+Brilliant will make you a better thinker
+and problem solver while
+helping you build real skills
+in everything from math
+and data analysis to programming,
+technology, whatever it is
+that you're curious about.
+On Brilliant, you'll learn
+through discovery by trying
+things out for yourself.
+And you'll not only gain
+knowledge of key concepts,
+you'll learn to apply them
+to real world situations all
+while building your intuition.
+This gives you the tools
+to solve whatever problems come your way.
+You know, learning something
+new every day is one
+of the most important things
+you can do for yourself,
+and Brilliant is the perfect way to do it.
+They have thousands of bite-sized lessons
+you can do in just minutes.
+Right now, I'm spending a
+little time each day in their
+logic course, which has been a great way
+to brush up on my own skills
+of discerning what's true and false.
+And the best part about
+Brilliant is you can learn from
+anywhere right on your phone.
+So whenever you have a few minutes,
+spend them building a
+quicker, sharper mind.
+To try everything Brilliant
+has to offer for free
+for 30 days, visit
+brilliant.org/veritasium,
+or you can scan this QR code
+or click that link in the description.
+You'll also get 20% off Brilliant's
+annual premium subscription.
+So I wanna thank Brilliant
+for sponsoring this video,
+and I wanna thank you for watching.

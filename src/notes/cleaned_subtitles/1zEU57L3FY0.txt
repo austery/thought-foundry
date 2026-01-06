@@ -1,0 +1,766 @@
+>> What do you think of when I
+say the words industrial policy?
+Kind of sounds like jargon,
+right?
+But it's actually way more
+than that.
+Industrial policy is basically
+a guide designed by government
+to help shape the economy
+so it works better.
+It's about encouraging
+innovation, boosting
+productivity, and helping
+the country or province grow.
+It used to relate mostly to
+manufacturing, but people talk
+about it now in terms of all
+kinds of sectors.
+We know the province is
+focusing on automotive, EVs,
+AI and more.
+But could an industrial policy
+help us become more globally
+competitive and could
+innovation drive it?
+I asked David Wolfe,
+professor emeritus
+of political science at the
+University of Toronto and
+co-director of the Innovation
+Policy Lab at the Munk School
+of Public Policy and Stephany
+Lapierre, founder of and chief
+brand officer at Tealbook, a
+supply chain software start-up.
+David.
+Stephanie, welcome to
+The Rundown.
+How are you guys doing?
+>> Extremely well.
+Yeah.
+Good.
+Thanks for having us.
+>> All right, David, now that
+we understand what industrial
+policy is, why is industrial
+policy important?
+>> We're living in a different
+era than we did in the 20th
+century.
+Even the beginning of
+the 21st.
+And more and more countries
+are moving up the scale
+in terms of the complexity
+of the products they produce,
+the export markets they're
+penetrating into.
+And many of these countries have
+used industrial policy to get
+to where they are today.
+If we want to keep up
+or stay ahead, we need to use
+the same policy tools.
+>> Can you grade Canada in
+terms of its industrial policy?
+When we take a bigger picture.
+>> Canada doesn't have an
+industrial policy, neither does
+Ontario, so it would be very
+hard to grade them.
+Ontario Ontario created
+an industrial policy framework
+in 1992 that I was involved
+with to the best.
+It lasted 3 or 4 years and the
+next government got rid of it,
+and that's the last time we've
+tried to do anything on that
+kind of scale.
+>> All right.
+We'll get back to that.
+Stephanie, you are the
+founder and chief brand officer
+of Tealbook.
+What does your company do?
+>> So I'm trying to simplify
+this.
+>> For the non-tech people.
+>> Yeah, yeah.
+So we're a data company.
+So we focus on data.
+And we were one of the first
+companies in Toronto to use AI
+to collect data on businesses.
+So what it means is if a
+company, an enterprise has buy
+goods and services, they're
+buying from companies, and
+there's a lot of information to
+collect from those companies to
+manage finance and supply chain
+and procurement and risk.
+But right now, they're usually
+asking those providers to put
+information into portals.
+And so our technology collects
+all the information.
+We've created a very high
+quality and credible
+foundation of 230 million
+verifiable businesses.
+And we're connected to
+countries registries.
+So it's like if you're a
+business and you register
+with a government and get
+a tax ID number, we connect it
+to that.
+And that allows our customers
+to have a really good picture
+and all the information
+they need to do business
+with suppliers to manage risk
+or optimise what they're
+spending money on, or decide
+if they're going to buy
+more locally or, you know,
+trying to bring new suppliers
+from, you know, external.
+>> So procurement is the big
+sort of.
+>> So we've been focussed on
+procurement but data touches
+finance.
+It touches like if you're in
+risk and compliance
+in a company, you need to
+understand your supplier base
+so that you can monitor risk
+much better.
+You can also ensure that
+you're reviewing those
+suppliers on a consistent
+basis.
+So data is really important.
+And finance you're
+paying suppliers.
+So it's really important
+you're paying the right
+suppliers and you're
+not paying them twice.
+And supply chain you need to
+understand the risk and the
+potential disruption to your
+business.
+So there's a lot of reasons
+why everyone in the company
+that touches third
+party providers would need data.
+>> I imagine I'm hearing money
+here because I'm thinking for a
+lot of these companies,
+efficiency is important when
+you're thinking of the company
+itself.
+But the manufacturers
+tell me a little bit about sort
+of the importance of being an
+efficient company.
+>> Yeah.
+I mean, if you think
+just of the problem that we
+solve, we typically say that a
+company that has 6000 suppliers,
+which for us it would be a
+small customer and $1 billion
+in spend, which again, would be
+a small customer would be
+probably wasting about 8 to $10
+million a year just managing
+data because everyone's doing
+their own thing with the with
+the same suppliers and asking
+the same suppliers to come into
+different places, different
+doors in the company.
+And so that's just wasting
+a lot of time.
+And then there's no collective
+brain on who do we
+do business and where is this
+data stored that everyone can
+access.
+And so there's really
+limited visibility into like
+how do you optimise an enormous
+amount of dollars going through
+the company to, you know,
+improve your margins or drive
+more competitiveness from your
+supply base?
+>> Okay, David, we've come a
+long way with technology,
+as we can hear just from from
+Tealbook example there.
+What effect has the adoption
+of technology and AI
+had on industrial policy?
+>> It can be the object of
+industrial policy.
+The thing to remember about
+information technology over
+the last 20 to 30 years,
+and now AI, is that it's
+transforming virtually
+virtually every industry, every
+sector of the economy.
+There's no sector,
+as Stephanie's example makes
+really clear,
+there's no sector of the
+economy that's not touched by
+what technology can do.
+And now what AI is doing.
+We haven't had we've had
+policies to support research
+on AI.
+We've had policies to support
+training students to, you know,
+learn AI, to program an AI.
+But we haven't had an effective
+policy to diffuse AI out into
+the broader economy.
+We haven't had that at
+the federal level.
+We haven't had it at the
+provincial level.
+The feds are currently
+touting their $2 billion
+spend to buy more compute power
+for companies to use AI.
+Individual US companies
+are spending open AI and Nvidia.
+These companies are spending
+$50 billion a year on on their
+compute power.
+What we have from the
+governments is minuscule.
+>> Stephanie.
+On that note, the
+Ontario government has made
+investments in AI
+and innovation.
+In your view, is there enough
+support to ensure industries
+like yours can remain
+competitive?
+>> I'm going to be trying to be
+political, so we were involved
+in some of the programs that
+the government had put in place
+around.
+AI was a big investment
+with millions and millions of
+dollars.
+We didn't benefit from it.
+The the complexity of
+navigating the program was so
+challenging.
+And, and, and there was no
+real commercial value.
+So as a start-up company,
+you know what?
+You have time.
+You don't have a lot of time
+and money runs out.
+And so you need to focus
+your effort on winning
+customers.
+And when you add all this
+layers of complexity and
+who owns the IP and how can
+you commercialise the asset
+and that's unsure then then
+it's losing its purpose
+and it doesn't benefit.
+Start-up companies like ours.
+We've benefited from programs
+like shred that gives us tax
+benefit from investing in
+technology, but it's not
+necessarily specific to AI.
+And although we are an AI
+company based in Toronto,
+it's been very difficult
+to get funding
+and unnecessarily difficult,
+I would say, even though
+there are programs.
+>> What about the private
+sector in terms of funding?
+>> Yeah, I mean, we're private
+company from the government.
+I mean, we win customers, right?
+And they give us revenue,
+and that's how we get.
+>> The funding.
+Private investors.
+>> For VCs, right?
+We've we've raised capital.
+And so that's helped us
+build the technology
+to then be able to generate
+the revenue.
+So those are the two
+ways.
+But you know having our
+government, especially when AI
+has been a huge driver for
+Canada and we've lost our
+position, I think that a lot of
+the policies that could have
+been in place to accelerate the
+Canadian adoption and
+investment in AI could have put
+us in a much, much more
+competitive place globally.
+>> All right, David, I'm gonna
+get you to pick up on that.
+But I should mention we have a
+statement from the office of
+the Minister of Economic
+Development, Job Creation and
+Trade.
+Our government is creating
+the conditions for Ontario's
+tech businesses, innovators
+and workers to thrive.
+To support this growth,
+we have invested $107 Million
+in Ontario's critical
+technologies initiatives to
+provide access to and drive the
+commercialisation of
+technologies that will propel
+the next generation of
+innovation and ensure our
+businesses remain competitive.
+That includes support for the
+Ontario Centre for innovation
+and the Vector Institute.
+So with all that being said.
+>> The they have done some
+things not enough, but the
+question is do they have
+a strategy?
+Do they have a strategy
+that everyone understands
+that all of the firms
+in the relevant sectors
+understand?
+Is it a strategy that's been
+based on input from
+those firms?
+The economists and policy
+experts who study these
+things differentiate between
+old industrial policy, which
+was all top down government
+directed, and new industrial
+policy, which is much more
+participatory, collaborative,
+that involves firms in the
+sectors that are going to be
+affected by the policies in
+helping design and implement
+them.
+We don't do that in this
+country, and we certainly don't
+do it in this province.
+And a lot of what we
+do is very reactive.
+A company will say,
+well, we're interested in
+investing in Ontario.
+Can you help us?
+And then the government will
+put together a package
+of support, particularly
+in the automotive,
+but occasionally in other
+sectors as well.
+But we don't lay out a strategy.
+>> Is there a difference in
+laying out a strategy or
+writing that strategy down on
+paper?
+Is there a difference in
+in having it on paper?
+>> It doesn't matter whether
+it's on paper or whether it's
+digital.
+It needs to be communicated
+to the people you want to,
+you know, attract and and grow
+in this jurisdiction.
+The other thing that industrial
+policy does that one off
+individual policies don't do,
+it looks at what we call the
+policy mix.
+That is, what is
+the broad spectrum of policy
+instruments that the government
+has available to it.
+Tax policy, direct spending,
+regulatory policy, procurement.
+And how how do you put
+together those
+that mix of policies to deliver
+the maximum benefit to the
+companies that you're trying to
+grow in Ontario?
+>> All right.
+With that being said,
+let's take a broader look.
+Are there any international
+markets that we can compete
+with?
+>> We can't compete head to
+head with China.
+We can't compete in
+head to head with the US
+because of our size,
+because the the size of our
+companies.
+What we can do is target
+niche markets where we develop
+specific expertise,
+which is exactly what Stephanie
+is doing.
+And there are other
+software companies in Canada
+and Ontario that are doing the
+same thing.
+And we need to focus on
+those niches where we
+have distinctive research
+expertise that companies can
+take and deploy.
+And then we need to look at
+the mix of policy instruments
+that we can mobilise
+to give those companies
+the support they need
+to penetrate those
+international markets.
+Because, simply put,
+Canada's market is too small
+to grow an international
+technology company to scale.
+>> Can you give us an example?
+>> Countries where.
+>> We have examples?
+>> Yeah, we can be selling to
+Europe, we can be selling into
+the US.
+We can be selling to parts
+of East Asia.
+We certainly can be selling
+a lot more to India than we do.
+India is probably the largest,
+largest population in the world
+now.
+So one of the largest markets
+are foreign relations with India
+have not been the best
+for the last few years,
+but I believe the government is
+working hard to rectify that.
+That would be a huge market for
+us.
+>> Stephanie, what do companies
+like yours?
+We talk about the niche markets,
+smaller markets.
+What does your what does
+your company need to remain
+competitive customers?
+>> That's the only thing that
+matters, right?
+My view is like,
+you know, there's a lot of
+obviously we have to raise
+capital.
+In my case, this was a
+big investment in the tech.
+So we've raised about 70 million
+USD.
+And so we need to raise
+the capital.
+But the proof points come
+if there's a fit
+and you're building a
+technology that's solving a
+real problem, you win customers.
+The customers are paying you
+money.
+They give you feedback.
+You build better product that
+attracts more customers, that
+gives you money.
+And then investors are
+really attracted
+to your company and then they
+build better product.
+And so, you know,
+the one key driver
+and I've said this a lot from
+the public sector because we
+were really fortunate in Covid.
+We won the UK government.
+We won.
+We worked with the
+Department of Defence in the US,
+but we never won Canada.
+And it was not by lack of
+trying, but there's so much
+lobbying for the company
+and trying to get through
+to get a contract or
+solve real problems because
+supply chain was a real problem
+and we were in the UK able to
+set them up within 48 hours,
+with 60,000 manufacturers of
+PPE, ISO certified.
+With the history of how long
+they've been in business
+with their contact information.
+And so they could start,
+you know, going from being
+in the front of the paper,
+buying PPE from random companies
+to actually making sure that
+they're buying companies
+that met standards.
+And, you know, we try to
+advocate to get Canada to look
+at us as an opportunity to
+start looking for goods and
+services and either locally or
+outside the Anand.
+And it was impossible to
+work with our government.
+And so there's so much,
+you know, effort you want
+to put in.
+I'm better off winning the
+Kraft Heinz of this world
+and the, you know,
+Goldman Sachs of this world
+versus trying to knock on a
+door that makes it very
+difficult for tech companies to
+work with its government.
+>> Okay.
+We'll come back to that.
+David.
+>> Can I just follow up on
+Stephanie's point?
+Because we've interviewed tons
+of technology companies in
+Ontario, and Stephanie's story
+is one that I hear over and
+over again.
+Okay, we do not.
+So so in my field of study, we
+differentiate between supply
+side industrial policies and
+demand side industrial policies.
+And one of the most valuable
+for for companies, for start up
+and scale up companies is
+government procurement.
+We heard over and over again,
+you know, when I go into an
+international market, the first
+question they ask me is, well,
+who are you selling to in your
+home country, including your
+governments or your telcos or
+your banks?
+And I hear the story over
+and over again that
+these companies have to make
+their first sale
+internationally before they can
+get anyone in Canada to pay
+attention, and getting their
+governments to, to purchase.
+And by governments, you know,
+we don't just mean the actual
+government in Ontario, we mean
+the whole college, university,
+hospital, social services,
+municipal sector as well.
+Those are huge purchasers,
+the crown corporations,
+those are enormous markets.
+And if we could leverage
+their purchasing power
+to support companies like
+Stephanie's, we'd be a long way
+down the road towards having an
+effective industrial policy.
+>> Well, we know we're in a
+time right now where the
+sentiment is sort of changed,
+where there is, you know,
+elbows up by local.
+I want to stick with you, David.
+The Buy Ontario Act
+for procurement, is this
+the right move to support?
+>> It's a step in the right
+direction.
+But but if it's just
+if it just applies to the
+Ontario government, it doesn't
+apply to the broader public
+sector in Ontario.
+If it is, say, targeted to
+housing, that's great
+or targeted to infrastructure.
+But if it's not targeted to
+all sorts of technology
+products that the government
+itself is using or
+that the broader public sector
+is using, then it's only,
+you know, a first step
+towards where we need to go.
+>> And just to add to that, we
+were talking about the best way
+to drive behaviour and change
+is through policies.
+And we've seen, you know,
+in the US, for example,
+and I know there's a
+love and hate relationship
+right now, but a good example
+is that companies are driven to
+buy local or buy from minority
+owned businesses due to tax
+incentive, for example, or we
+have customers who have venture
+debt attached with an interest
+rate, depending on how much
+money they're spending with
+minority owned business and
+local businesses.
+So these are data points
+and report that
+they have to provide to their
+board level to their
+shareholders.
+So it does drive change.
+But if you don't have
+that it's just a sentiment
+that's Buy Canada because
+we're Canadian.
+It doesn't drive change
+in the way say, hey, we
+will give you tax incentive or
+we will, you know, give you
+some reduction in some of your,
+you know, venture debt so that
+you can, you know, to drive
+change.
+And so that's how I think
+we could enforce change.
+now Stephanie you're a Canadian
+company but most of your clients
+in th US correct? That's right
+so let's take out sentiment
+throw that ar the aside, throw
+legislation at the side
+even if there was any of that
+in place is it still feasible
+to do something like that?
+In Canada? in Canada
+I think so like the policy
+making of encouraging Canadian
+companies. The public sector
+100% because it sets the example
+especially if theres
+accountability, right
+because you can say that but if
+there's no accountability
+then when we've seen this in the
+papers but also from the private
+sector, those are the big
+dollars as well that are you
+know a lot of opportunities
+for them to adopt Canadian
+tech and that gives us logos and
+it gives us customers again
+and gives us the ability to
+attract talent and hire people
+as well so you also get some
+additional funding so. Ya I
+think absolutely that would be
+a huge driver for adopting
+local tech, local businesses
+and spend here in our country.
+>> David, you got the last word
+here.
+>> Okay.
+So we've we've interviewed
+over 100 companies in Ontario
+that are trying to scale.
+So they're at probably
+the same stage that Stefanie's
+company is they're out of the
+gate.
+They're past start-up.
+They want to grow.
+They want to expand
+into international markets.
+And we asked them,
+what do you need in terms of
+policy support to help you
+scale to penetrate those global
+markets?
+It's the same three things
+over and over again:
+access to capital, access to
+talent, access to markets and
+where.
+And we're we have bits
+and pieces both federally and
+provincially on all of them.
+But we don't have nearly enough.
+And where in Ontario last word
+right now is really deficient.
+Is the access to talent part.
+Ontario is spending the least
+amount per capita on its
+post-secondary education system.
+It's the students from that
+system that are going to go
+feed Stefanie's company and
+companies like hers.
+And if we can't prioritise
+the talent pipeline for for
+those technology companies,
+we are going to have
+an even bigger problem
+five, ten years down the road
+All right, we are going to have
+to leave it there.
+Stephanie. David,
+I really appreciate. Thank you
+so much for your insights.

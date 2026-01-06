@@ -1,0 +1,1156 @@
+This is Citicorp Center.
+In the summer of 1978,
+it had been open for less than a year
+when its structural
+engineer, Bill LeMessurier,
+made a terrifying discovery.
+His cutting edge skyscraper,
+an engineering marvel
+had a fatal flaw.
+Winds of just 110 kilometers per hour
+could cause it to collapse
+in the middle of Manhattan,
+potentially killing thousands.
+Over 200,000 people lived and worked
+in the surrounding area,
+and hurricane season was only weeks away.
+Here I am, the only man
+in the world who knew this.
+This thing is in real trouble.
+LeMessurier
+faced a stark choice.
+He could stay silent
+and hope for the best,
+or he could try to fix it
+and risk professional ruin and mass panic.
+But Citicorp Center had a 100% probability
+of total collapse by
+the end of the century.
+How could he save New York
+from a near certain disaster?
+And how was this allowed
+in the first place?
+Veritasium producer and
+engineer, Henry van Dyck,
+traveled to New York
+to investigate further.
+So in the 1960s, the
+financial giant, Citicorp,
+was trying to build a new
+headquarters in Manhattan.
+So just down the street from
+their original headquarters
+was this entire city block,
+which was up for sale.
+Well, everything except for
+this church, Saint Peter's.
+So Citicorp came to the
+pastor, Ralph Peterson,
+and asked, "What's it gonna
+take for you guys to leave?"
+And he came back and
+said, "We're not leaving.
+Anything that Citicorp builds
+has to involve the church as part of it."
+What the pastor wanted was for the church
+to have its own separate identity.
+So eventually they agreed on two things.
+One was to replace this
+old crumbling gothic church
+with a brand new one, which
+you see in front of you.
+And the second thing was that the church
+had to be physically
+distinct from the new tower.
+In other words, it had to
+be completely independent.
+And again, most importantly,
+two thirds of the space
+above the church had to be
+free and clear, had to be open.
+Citicorp then
+hired architect Hugh Stubbins
+to design the tower and the church
+and Bill LeMessurier as
+the structural engineer,
+Stubbins explained the
+constraints they faced.
+The church needed to be
+in the exact same spot
+and they needed to build
+the tower around it.
+If they were to maximize the
+floor area, they would have to
+notch out one corner of
+the tower for the church.
+LeMessurier agreed that could work,
+but why not notch two, three,
+or even all four corners,
+essentially constructing
+the skyscraper on stilts.
+So it's probably the
+first time in history
+that an engineer has come
+to an architect and said,
+"Let's make our job harder for us."
+The stilts would
+serve two main purposes.
+First, they would need
+to support at least half
+of the building's gravity load.
+The rest would be held up
+by a larger central column.
+Second, they would need
+to withstand the load
+due to high winds.
+But unlike an ordinary structure,
+the stilts wouldn't be at the corners.
+They would be at the center of each face.
+Imagine a chair, and
+instead of the columns
+or the supports on each
+corner of the chair,
+it's at the midpoint of each side.
+Obviously, it's not an ideal situation.
+It doesn't seem very stable.
+Exactly. So it created
+an engineering problem.
+As LeMessurier
+considered the problem,
+he suddenly had a flash of inspiration.
+He grabbed a napkin and
+sketched out an idea.
+He drew six layers
+of diagonal braces up
+each face of the tower.
+These chevrons would transfer
+the forces to the middle
+of each face and down to the stilts.
+Now we have to see the
+gravity loads, right?
+But now here's the trick.
+The gravity loads are
+coming down the column.
+When they get to the brace,
+they need to find their
+way into the brace.
+Okay.
+So what you do
+is you take out that column right there.
+There is no way that load can jump over
+and go to that column.
+And now they're coming
+down into the braces.
+They get down to the bottom here,
+and now they continue to go down.
+You take that column out,
+it has nowhere to go
+except into the brace.
+By removing the columns at the top
+and middle of each chevron,
+every tier acted as a separate unit.
+They were only connected to the braces
+and through the central core.
+So every eight stories,
+half of the gravity load
+would be forced through the chevrons
+to the midface columns,
+leading down to the stilts.
+Can you tell me how big
+of a new idea was this?
+Yeah, well, this particular
+system was entirely unique,
+driven by the placement of the columns,
+driven by the conditions of the building.
+As satisfied the chevrons
+could transfer the gravity load,
+LeMessurier turned his
+attention to the second problem,
+the wind.
+When wind hits the left
+side of a normal building
+with corner columns, the
+entire frame deforms like this.
+So to reduce this deformation,
+we could strengthen these
+joints, but there's a better way
+because beams and columns are
+much stronger in compression
+or tension than they
+are with bending loads.
+So if we add diagonal bracing,
+they can carry this horizontal load.
+The beams sort of act like springs,
+and when they're compressed,
+they push on the joints.
+When they're stretched, they pull inwards.
+With braces like these,
+the wind load compresses this diagonal
+and stretches this one.
+The left column pulls down in tension
+and the right column
+pushes up in compression.
+Where the braces meet,
+they both push the
+bottom beam to the right.
+This stretches the left side
+and compresses the right one.
+But this floor is the
+top of the next chevron,
+so this lower section
+is carrying the force
+from the layer above it
+and the normal wind load from the side.
+And this keeps happening at every chevron
+so the wind load builds up
+as you go down the building.
+But Citicorp can't have
+corner columns like this
+because of the gravity load.
+So in the wind, this entire triangle
+wants to rotate like this
+and to prevent that from happening,
+this chevron pulls down going into tension
+and the far chevron
+pushes up in compression.
+The top and bottom beams
+are again forced into
+compression and tension.
+The wind load ends up wrapping
+around the entire building.
+So every chevron works
+to transfer the wind load
+to the section below.
+When we think about skyscrapers,
+like how big of a deal is wind?
+If we made a skyscraper here, you know,
+out of all these different
+things, you push with your phone,
+you get a certain amount of force,
+but then you push on my phone as well
+with a certain amount of force,
+but your phone is also
+pushing on my phone.
+And so that's the shear in the building,
+what we call the building shear.
+It increases as you go down the building.
+You know, at the 10th floor,
+you may have a smaller force
+than at the 60th floor,
+but the total force of the 10th floor
+is like carrying everything above it.
+So it's much bigger than what's
+going on on the 60th floor.
+So these chevrons were key to LeMessurier's design,
+but the braces were massive, almost 40 meters long end to end. 
+So even if you could fabricate
+a steel brace that long,
+there would be no way to
+get it through Manhattan.
+So instead it was sent in pieces
+to be welded together on site.
+The chevron bracing solved the
+wind and gravity load issues,
+but it also created a different problem.
+Because of the chevron bracing system,
+they were able to save a
+lot of money and weight.
+It was a lighter construct
+than most other buildings
+in New York, I think it was
+22 pounds a square foot,
+which is very light.
+Unfortunately, that made
+the building swayable,
+it could move in the wind.
+That wasn't necessarily a
+structural problem, it was just,
+it could have been
+uncomfortable for the patrons.
+The way they could solve this was just
+let's add more structural steel
+and make it a lot stiffer.
+But the solution that
+LeMessurier came up with
+was far more elegant.
+He adopted something that
+had been regularly used
+in bridges, power lines and ships,
+but never before in a building:
+a tuned mass damper or TMD.
+So we're here at Stark Laboratories,
+and I'm not with Iron Man,
+but instead the Columbia Space Initiative,
+the student team here on
+campus who has helped us build
+this incredible tuned mass
+damper kind of system.
+We'll use this cart to
+represent a building.
+By pulling it back and releasing it,
+we can excite its resonant frequency,
+And then we'll put on a
+little pendulum, aluminum rod,
+and a mass at the bottom.
+As the building sways,
+it transfers some of its
+kinetic energy to the pendulum,
+which starts to swing.
+Then some of its energy is
+dissipated through friction
+at the hinge.
+The pendulum and the building oscillate
+out of phase from each other.
+So every time the building
+pulls the pendulum
+in a different direction,
+more energy is lost,
+significantly damping
+the sway of the tower.
+But this system needs
+to be carefully tuned
+so it has the same frequency
+as the building itself
+and the right amount of friction.
+So first, the mass needs
+to be at least one to 5%
+of the building's weight to be effective.
+And we tune the frequency of the TMD
+by adjusting the length of the pendulum.
+I assume engineers do
+math around this thing,
+but we're just doing it by feel.
+(both laugh)
+Second, by loosening
+or tightening the bolt,
+we can tune the amount of damping.
+We need to dissipate more energy
+from friction at the hinge
+to stop the swaying faster.
+We just tighten the top bolt,
+make the whole system a little bit,
+you know, add a little
+bit more resistance,
+and we'll see if we can
+dampen it now further.
+ 
+Woohoo.
+Much different. Yeah.
+Yeah, that looked
+great. That was so quick.
+Yeah, that was.
+It is cool when an experiment works.
+Does not always happen.
+There are many
+different types of TMDs,
+like pendulums, liquid columns,
+and a large mass on springs.
+LeMessurier used this
+last one in Citicorp.
+What you see
+is a mass of concrete,
+which is 29 feet square
+and about eight feet thick
+and weighs 400 tons.
+It was installed on the top floor
+and it's affectionately known
+as that great block of cheese.
+As Citicorp sways to one side,
+the block starts to move
+in the same direction.
+Some energy is dissipated
+through separate viscous dampers.
+Citicorp's oscillations are damped
+through those energy losses
+as the block oscillates
+out of phase to the building's motion.
+LeMessurier expected the
+damper to reduce the amplitude
+of swaying by roughly 50%,
+and he saved around $4 million
+by not needing an additional
+2,800 tons of structural steel.
+With both the chevron bracing
+to channel forces to the stilts
+and the tuned mass damper to reduce sway,
+LeMessurier was convinced
+the building was structurally sound.
+On Citicorp Center's opening day in 1977,
+it was the 11th tallest
+building in the world.
+It was described by the press
+as an acrobatic act of architecture.
+Later, the American
+Institute of Architects
+even gave it an honor award,
+calling it a tour de force
+as a stylish silhouette in the skyline,
+and, for the pedestrian, a
+hovering cantilevered hulk.
+So then, it's going
+swimmingly for years, right?
+Well, it's going
+swimmingly for about a year.
+The first hint of
+trouble came in May, 1978.
+LeMessurier was talking
+with another client
+about welding similar chevron braces.
+The architect and the
+steel fabricator said,
+"Tell me, how did those
+welded braces work out?"
+Seems like overkill, they thought.
+And LeMessurier says,
+"Yeah, they were fine.
+Let me call my guys in
+New York and I'll check."
+So he put the call into
+his office in New York
+and they say, "Oh, Bill, didn't you know?
+We bolted those connections."
+The contractor
+had suggested saving
+a quarter of a million
+dollars by using bolts
+to attach the braces instead of welds.
+And LeMessurier's firm had agreed.
+There is nothing that
+says a bolt is inherently
+worse or better than a weld.
+You use them in different circumstances
+for different reasons,
+but it's a little surprising to find out,
+I thought the connections
+in this tour de force,
+one of a kind skyscraper, you know,
+that's on the cutting edge
+of structural engineering,
+was connected one way,
+but apparently it's connected another way.
+But if the braces are going like this,
+where are they gonna go?
+You know, you only need the weld
+when the braces are going like this.
+Since the gravity load
+was always compressing the
+braces, some of the chevrons
+only went into tension
+under very high winds.
+And even then, it wasn't a lot of tension.
+LeMessurier trusted that his team
+did the right calculations,
+and the substitution was fine,
+logical, even.
+(phone ringing)
+But around a month later,
+LeMessurier got a phone
+call from a student
+who wanted to ask some questions
+about the Citicorp Center.
+And his teacher said to him,
+"That engineer didn't know what he's doing
+and nobody should put the
+columns in the middle.
+They should put 'em in the
+corners. That's silly."
+And I told the student, I said,
+"Well, you're a professor's full of it.
+He doesn't understand the
+problem we had to solve."
+LeMessurier went
+through the calculations
+with the student
+to reassure him the stilts
+were in the right place.
+But the interesting thing
+is, is in that moment,
+he's thinking about wind
+loads from all directions.
+You know, late spring,
+early summer of 1978,
+Bill LeMessurier is working
+on the back of a Hilton Hotel
+that, in plan, forms a
+triangle, not a rectangle.
+Now you got a triangle. What's
+your orthogonal direction?
+You just have to give up and say,
+"We're gonna analyze it
+from every direction."
+That's going on the moment
+that Bill LeMessurier
+gets this phone call.
+Then I called him back
+and pointed it out to him
+that there's some peculiar
+things about this building.
+The worst loading case
+was not the diagonal,
+but it was the ordinary wind
+that everybody thinks about.
+The wind pushes straight on the building.
+That was the critical case.
+He said, you know what,
+I've been getting all these
+calls from all these people.
+I'm gonna sit down and explain this thing.
+He decided to double check
+what happens to the
+building if wind is hitting
+a corner of the building, not
+straight on one of the faces.
+These are also known as quartering winds.
+So he split the wind into
+its perpendicular components.
+So the west side and north
+side are hit by the force
+divided by the square root of two.
+He computed the forces for
+each, as we did before,
+and summed up the result,
+but then he noticed something strange.
+Then now we
+look at the diagonals,
+the stresses in half of them vanish,
+and in the other half, double.
+Since the force on each side
+was F over the square root of two,
+these beams get double that.
+Compared to LeMessurier calculations
+for the perpendicular wind load,
+the forces here were 40% higher.
+So 1.4 by itself is not
+enough to wreck havoc.
+Okay? It may be, but it may not be.
+Okay.
+So then the question is,
+well, what happens?
+This increase in
+forces wouldn't have mattered
+in the original design
+since the chevrons were
+fully welded together.
+But that wasn't the case anymore.
+LeMessurier remembered
+his earlier phone call.
+The welds holding the chevrons together
+were swapped for bolts.
+How did his team calculate
+the number of bolts per joint?
+Did they consider quartering winds?
+It would be a miracle if
+they ever thought that through,
+to think about the diagonal wind.
+It just wasn't in the nature of anybody.
+So I had a bit of a worry.
+I didn't panic right away,
+but I decided to go down
+to New York to my office.
+LeMessurier
+requested the building diagrams
+and poured over all of the connections.
+He looked at how his firm
+calculated the number of bolts.
+There was no question, they
+had taken straight on wind,
+not the diagonal wind.
+Although wind speed is highest
+at the top of the tower,
+the wind shear builds up as you go lower.
+Looking at this brace around
+halfway down the tower,
+the perpendicular wind load is 454 tons.
+Because of the skipped columns,
+all of these braces carry
+the same gravity load,
+just 340 tons, from the
+eight stories above.
+The gravity load builds
+up in the center column,
+not in the braces,
+which means there are 114
+tons of tension in this brace.
+If each bolt can withstand around 28 tons,
+that would require four bolts.
+The original calculations said
+just four bolts were enough.
+So that was all they used.
+But when he added quartering winds,
+LeMessurier's calculations
+showed there were some braces
+that needed far more bolts.
+At this particular part of the building,
+which I can show you on my
+calculations is right about here,
+and Bill LeMessurier talked
+about the 30th floor,
+and I always wondered why
+was it the 30th floor?
+The 40% increase
+from quartering winds
+means that this brace has
+a wind load of 635 tons.
+The tension in the brace is now 295 tons,
+over double the original calculation.
+So these braces actually need
+around 10 bolts, not four.
+But then it turned out
+they had done something else.
+LeMessurier's
+firm considered the braces
+to be minor structural elements.
+They didn't use the right factor of safety
+to calculate the number of bolts.
+They should have overestimated
+the tension in the brace
+by underestimating the gravity load.
+With only 75% of the gravity load,
+the tension in the beam is now 380 tons.
+So they really needed 14
+bolts, but they used only four.
+I thought this
+thing is in real trouble.
+Imagine, you know,
+what Bill LeMessurier was
+thinking at that moment.
+You see that number and you're like,
+"Oh my God, this is serious.
+It's really serious."
+LeMessurier
+was starting to panic.
+He didn't wanna rush to conclusions,
+so he flew to Canada to
+check his calculations
+with Alan Davenport at the
+Boundary Layer Wind Tunnel.
+After running more tests,
+they found that it was even
+worse than LeMessurier thought.
+The estimated 40% increase in stress
+was technically correct,
+but LeMessurier made his calculations
+assuming the building wasn't moving.
+This is called static conditions.
+But the wind tunnel gave
+LeMessurier a dynamic analysis,
+how the forces change when
+the building is moving around.
+To LeMessurier's horror,
+the wind tunnel analysis
+showed that the stresses could increase
+up to 60% more than
+originally anticipated.
+LeMessurier squirreled
+himself away in Maine
+and worked through the data
+from the wind tunnel again,
+joint by joint on every floor.
+The weakest joints were at
+the building's 30th floor.
+If those failed, the
+entire building would fall.
+But what were the chances
+that a storm strong enough
+to topple the building would
+pass through New York City?
+LeMessurier dug through the
+historical weather reports.
+On average, a storm strong
+enough to tear the building apart
+occurred every 67 years.
+But only if the tuned
+mass damper was working.
+If a storm knocked out power,
+then even 110 kilometer per hour winds
+blowing for just five minutes
+would collapse the building.
+In any given year,
+the chance of a storm that
+size happening was one in 16.
+Just one year before
+Citicorp was completed,
+wind gusts of 110 kilometers per hour
+roared through New York City
+as Hurricane Belle passed through.
+What do you think this moment
+was like for LeMessurier,
+when he ran these calculations, like-
+Oh, it must have been devastating.
+I mean, it just must have
+been, I can't imagine the fear.
+I can't imagine the feelings.
+I mean, like, it just must have been truly
+a moment he never thought
+he would live through.
+That storm was gonna
+fall down in my lifetime.
+And since this was July,
+it could fall down the summer of 1978.
+LeMessurier needed to
+decide and decide fast.
+But revealing this mistake
+could mean lawsuits,
+bankruptcy and professional ruin.
+He could stay silent,
+only Davenport knew and he
+wouldn't reveal anything,
+or he could entirely disappear.
+In a later interview he
+admitted, "I did say to myself,
+I could drive down the Maine Turnpike
+at a hundred miles an hour
+and deliberately drive
+into a bridge abutment.
+That would be the end and
+all of this would go away.
+I thought about that."
+But there was a 1 in 16 chance
+of collapse that very fall.
+With thousands of lives at risk,
+there was never any
+other choice but to act.
+After speaking to a few lawyers
+and other engineering experts,
+LeMessurier told the architect,
+Stubbins, and together
+they informed Citicorp's
+chairman, Walter Wriston.
+Within hours of that meeting,
+LeMessurier acquired emergency generators
+for the tuned mass damper.
+The TMD was originally
+designed to stabilize
+any swaying for comfort,
+but now it became the crutch
+that the tower leaned on.
+LeMessurier pinned all his hopes on it.
+He called the confidential
+repair plan Project Pandora,
+but that sounded ominous,
+so he came up with the
+Special Engineering Review
+of Events Nobody Envisioned,
+or Project Serene for short.
+Each night, welders
+would enter the building
+after everyone left,
+rip off the sheet rock
+around the chevron beams,
+and then weld two five-centimeter thick,
+two-meter long steel plates on each joint.
+Like Band-Aids, literally Band-Aids,
+on both sides of these joints.
+After, they'd replaced the wall
+and clean everything up
+before the office workers
+came back the next morning,
+They needed to weld over 200 joints
+and LeMessurier ranked them by importance,
+starting with the ones on the 30th floor.
+But the repairs wouldn't be completed
+before hurricane season.
+So Citicorp worked with the Red Cross
+to develop a 10 block evacuation plan.
+Like, how many people
+were at risk in the building
+and if it fell, would it
+affect other buildings?
+Like, were there chances of it
+leading to something more disastrous?
+Absolutely, this would have toppled
+and it would've toppled
+into another building,
+which would've toppled
+into another building,
+which would've continued
+a horrific process.
+So it was untold what the
+ultimate effects could have been.
+I mean, like,
+just the evacuation plans
+were how many people?
+Thousands, the building
+itself housed thousands
+and then the residents and the businesses
+surrounding the building,
+it was into the thousands.
+Despite the risk,
+they decided not to tell the public
+or even the office
+workers in the building.
+No one wanted a mass panic.
+Instead, they fitted strain gauges
+on important structural members.
+The gauges monitored the
+skyscrapers every bend and twist
+from a comm center eight blocks away.
+At least that would give
+them a little bit of warning.
+But this plan required new telephone lines,
+and the phone company wouldn't get around to doing this
+for months.
+So Citicorp's chairman immediately called AT&T's president
+and the lines were
+installed the next morning.
+Now you might not be able to install
+emergency telephone lines at a whim,
+but you can still stay
+connected no matter what.
+(phone ringing)
+It's probably not that important.
+Henry, can you hear me? Hello!
+Team Veritasium travels all
+over the globe for our videos
+We traveled here to New York
+to visit the Citicorp Center,
+and there's one really annoying problem.
+It's hard to stay connected
+with the rest of the team
+while we're on site.
+We either have to pay
+ridiculous roaming charges,
+find a local SIM card and
+hope it actually works,
+or search around for public Wi-Fi
+that might not be the most secure.
+That's not something we
+wanna be dealing with
+while making a video.
+So Saily makes it incredibly
+easy and affordable
+to stay connected while abroad.
+Download it once and use
+it in over 180 countries.
+You choose how much data
+you want and for how long.
+It's much cheaper than roaming
+and super quick to set up.
+I just select the country and plan,
+then activate the e-SIM before
+I take off and I'm done.
+Then when I land, I'll
+automatically connect
+to a local network with no hidden charges
+and be able to do the important things,
+like access maps, book
+a car or call your boss.
+So if you've got travel plans coming up,
+scan this QR code to download the app.
+Choose a plan in the
+country you're going to
+and, here's the important thing,
+use our code, Veritasium, at checkout
+to get an exclusive 15%
+off your first purchase.
+Again, check out with code, Veritasium,
+and get connected no matter where you are.
+Thank you Saily for sponsoring this video.
+And now back to Project Serene.
+(phone ringing)
+(sighs) I mean, should probably take this.
+(phone beeps)
+But even though LeMessurier
+tried to keep Project Serene under wraps,
+people started asking questions.
+On August 8th, Citicorp
+released a statement
+about the repairs.
+Now, we had to cook up a
+line of bull, I'll tell you.
+And white lies at this
+point are entirely moral.
+(class laughs)
+You don't wanna spread terror
+in the community to people that
+don't need to be terrorized.
+We were terrorized, no
+question about that.
+Several
+newspapers reported on it,
+but they didn't have the details.
+Then LeMessurier got a message.
+The New York Times
+was trying to reach him.
+If he didn't respond, they
+would know something was up.
+So I mixed a martini for myself
+and it's one minute past six.
+I dialed The New York Times.
+I pick it up the phone,
+they pick up the phone,
+it's a tape recorder saying,
+The New York Times has gone
+on strike as of six o'clock.
+(class laughs)
+Not only did The New
+York Times go on strike,
+but all the newspapers in
+New York went on strike
+until October.
+So we had a press blackout
+and that was the greatest
+thing that ever happened.
+(class laughs)
+The press was off their back
+and the weather was beautiful.
+The repair work continued smoothly.
+But late August brought the
+news everyone had been dreading.
+Hurricane Ella starts
+brewing in the Caribbean.
+And this is the one storm
+that they're nervous about.
+The repairs
+were halfway done by now.
+I think it was a one in 200 year storm
+that it could withstand,
+but LeMessurier wasn't taking chances
+'cause he didn't know the
+intensity of the storm.
+And this was a strong storm.
+So there was, there was a chance.
+There was absolutely a chance
+and they had to prepare for that chance.
+ 
+By Friday, September 1st,
+Ella was making her way toward New York,
+with winds reaching 200
+kilometers per hour.
+City officials braced
+to start the evacuation.
+Police would go door to
+door to get everyone out
+within a 10 block radius.
+For 24 tense hours, Ella
+stalled around North Carolina.
+Like LeMessurier said,
+we were sweating blood.
+But sometime in the night,
+Hurricane Ella veered off into
+the sea at the last minute.
+It intensified and hit Canada
+with peak winds of 225
+kilometers per hour.
+But Citicorp was safe.
+LeMessurier described that
+next morning in New York
+as the most beautiful day
+that the world's ever seen.
+They completed the repairs in October,
+just six weeks after
+LeMessurier told Citicorp.
+Now the building,
+according to LeMessurier,
+can withstand a one in 1000 storm.
+The repairs cost
+between $4 and $5 million,
+but LeMessurier argued
+that Citicorp approved
+an earlier building design
+that cost $5 to $6 million more,
+so they were willing to spend that much
+on the skyscraper anyway.
+And for almost two decades,
+the secret was confined
+to a small inner circle.
+But in 1995, "The New Yorker"
+finally brought Project
+Serene into the light.
+Far from being vilified,
+LeMessurier was praised
+for owning up to his mistake
+and fixing the issue as soon as possible.
+After the article, New
+York updated the building code
+to require quartering wind calculations.
+And since that
+first damper in Citicorp,
+TMDs have spread across the globe.
+allowing architects to push
+skyscrapers taller and slimmer.
+It's in the first tall
+building in the world
+ever built with mechanical help
+to make the structure work.
+That's remarkable.
+Incidentally, that has been now copied
+a hundred times in Japan,
+this is ubiquitous,
+and when I go to Japan,
+I'm treated like a tin god
+'cause I'm the father of
+the tuned mass damper.
+I said, "Really?"
+Of the 20 tallest
+buildings in the world,
+six include the tuned mass damper,
+ and they're especially critical in typhoon or earthquake-prone regions.
+For example, Taipei 101 has
+a massive 660 ton pendulum
+that stabilizes the building. It can withstand up to 200
+kilometer per hour winds
+and earthquakes with magnitudes over 6.8.
+But the legacy of this building
+is still steeped in controversy.
+First, who was the mysterious
+student that started it all?
+ I think it was spring of 1978. There's a student at Princeton,
+an undergraduate student
+by the name of Diane Hartley, and she's studying structural engineering.
+It was time for her to
+consider a senior thesis,
+and then they decided that a study
+of the new Citicorp
+Tower would be wonderful.
+It's a remarkable thesis.
+It contains a lot of the
+original engineering calculations
+by the engineers.
+She's looking through the documentation,
+where did they consider quartering winds?
+And she's not seeing it
+"I must be wrong," she says.
+She's just an undergraduate student
+and you guys are award-winning
+structural engineers.
+The engineer explains to Diane Hartley,
+quartering winds are not
+a factor in this building.
+So she's satisfied. She
+graduates, that's it.
+Doesn't think about it again.
+But a year after "The
+New Yorker" article,
+the BBC released a
+documentary on the crisis.
+And so she, she was holding her baby
+and she turned on the
+television, and lo and behold,
+she heard them reference a
+conversation with a student,
+an engineering student from New Jersey
+reaching out to LeMessurier.
+And she said, "I almost
+dropped my baby." 
+And then so she just assumed
+for years afterwards,
+she assumed that it wasn't me
+because I didn't speak to LeMessurier.
+But then in 2003,
+her thesis advisor told Diane
+that he checked all the
+other New Jersey engineering
+and architecture programs, and no one else
+was working on a project
+about Citicorp in 1978.
+She was the only one.
+She never spoke to
+LeMessurier personally.
+She never claimed to speak
+to LeMessurier personally.
+The assumption was that either
+LeMessurier was mistaken
+and that it was Diane
+Hartley who made the call,
+it was a female, or more likely
+that LeMessurier was basically tipped off
+by his New York engineers.
+Then, in 2011,
+a man named Lee DeCarolis came forward.
+And the phone call, as we understand it,
+came from a student
+at the New Jersey Institute of Technology.
+His name is Lee DeCarolis.
+He's not asking for money,
+he's not asking for fame or glory.
+He's just saying, "This is interesting.
+And I'm the guy who made this call."
+And he said, "Yeah,
+I had a conversation
+with Bill LeMessurier."
+And he pretty much lined up
+with what LeMessurier himself said.
+Sadly, LeMessurier
+passed away in 2007
+before he could confirm
+the student's identity.
+Believe it or not, 40
+years later, there's still,
+I learned, a lot of raw
+feeling still on this.
+People aren't anxious to talk about this,
+especially people that
+were involved in it,
+even people that weren't involved in it
+but were tangentially involved in it.
+We reached out to a
+LeMessurier Associates
+and they refused to
+respond to our request.
+You think that the namesake
+for their company stood up
+and did the right thing,
+but I don't think they wanna
+be associated with mistakes.
+Their project
+description for Citicorp
+doesn't even mention the repairs.
+The building was sold to
+Boston Properties in 2001,
+who renamed it 601 Lexington.
+They also didn't respond
+to our request for comment
+and refused to let us
+film inside the building.
+Further questions arose
+in 2021, with a new study
+from the National Institute
+of Standards and Technology.
+They wanted to see if quartering
+winds were more demanding
+for a building like Citicorp,
+Although they did conclude
+that the pressure from
+perpendicular winds was greater,
+their analysis didn't include
+any internal structure
+specific to Citicorp.
+As for LeMessurier,
+the engineering field
+still regards his actions as upstanding.
+And the Citicorp case is
+taught all over the world
+as a case of good engineering ethics.
+In fact, in my own
+engineering ethics course,
+I learned about the Citicorp building.
+And every structural
+engineer experiences this.
+When you actually feel the
+weight of the responsibility,
+you're saying, "Based on my engineering,
+that building is gonna stand up."
+Nobody else worries about it.
+And so if you think about
+the emotional pressure
+that Bill LeMessurier was under
+and then needing to come back
+and do something about it
+and to mobilize and to hold
+that during this entire process,
+it's truly a remarkable story.
+I mean, I can't imagine
+it. I can't imagine it.
+I said, look, if you got
+a license from the state
+and a certification from university first,
+then now you're gonna use that license
+to hold yourself out as a professional,
+you have a responsibility beyond yourself.
+If you see something
+that is a social risk,
+good heavens, this thing
+would kill thousands,
+you must do something,
+you must do something.

@@ -1,0 +1,564 @@
+- This is the world's
+largest earthquake simulator.
+It's called E-Defense.
+Its huge shake table can
+support a 10-story building
+and then move it in all directions
+with the force of the world's
+most destructive earthquakes.
+E-Defense has conducted
+more than a hundred tests,
+subjecting all kinds of buildings
+to different simulated earthquakes,
+all to learn how to make buildings
+more earthquake-resistant.
+Part of this video was
+brought to you by Shopify,
+more about them later in the video.
+On the 17th of January, 1995
+at 5:46 in the morning,
+an earthquake struck
+the city of Kobe Japan.
+It took everyone by surprise.
+Japan is one of the most
+seismically active countries
+in the world.
+It sits on the boundary
+of four tectonic plates
+and 90% of all earthquakes,
+and almost all of the powerful ones
+happen at tectonic plate boundaries.
+But Kobe isn't near one.
+This earthquake was caused
+by an interplate fault,
+essentially a crack in the Earth's surface
+that isn't at the boundary
+of a tectonic plate.
+This fault hadn't produced any earthquakes
+for around a thousand years,
+so the city was completely unprepared.
+(woman speaking in Japanese)
+The quake measured a magnitude 6.9
+just under the definition
+of a major earthquake.
+Despite this, the earthquake
+killed more than 6,000 people
+and left another 300,000 homeless.
+More than 80% of the
+fatalities were caused
+by the collapse of buildings.
+The total economic cost was estimated
+at 80 billion US dollars.
+In response, the government
+gathered scientists
+for a conference on earthquake
+disaster prevention,
+and there they agreed
+to build the largest earthquake simulator
+the world had ever seen.
+So I sent Petr to Japan
+for an exclusive look
+inside this facility.
+- So we're entering the world's
+biggest earthquake simulator
+as they're about to do an experiment.
+So let's go.
+Right now there's eight concrete walls
+that they're gonna feed seismic signals
+into the shake table,
+and they're gonna see which
+ones are the most sturdy.
+So the seismic data that
+they're gonna feed in
+is from the El Centro earthquake,
+which was an earthquake
+that happened on the 18th of May, 1940.
+It was a 6.9 magnitude earthquake,
+and it's one of the first ones
+that we actually have seismic data from.
+Oh.
+Okay, things are wow, wow,
+wow, wow, wow, wow, wow.
+Oh, oh.
+Okay.
+It is just really cool to
+see such a big structure
+kind of moving that far and that fast.
+Wow.
+The first test that I actually saw,
+it was on the schedule
+and it said white noise.
+- So the white noise is just
+all different frequencies,
+low frequencies, high frequencies,
+everything in between.
+- Yeah.
+They make this big deal.
+They're like, oh, one minute,
+like, and then they do like
+the 10 second countdown.
+Three, two, one.
+And then it's just like
+functionally nothing.
+We flew all the way to
+Japan to to see this,
+so let's hope at least one wall falls down
+and I couldn't figure
+out why for a long time.
+- All the structure has natural frequency.
+When the structure is damaged,
+natural frequency becomes shorter.
+So by inputting white noise
+with components of wide range
+of frequency, so we can
+find natural frequency
+of building.
+So first, input white noise fast,
+and after that input as quick motion,
+and then we we usually
+input another white noise
+so we can find a change
+of natural frequency.
+- [Derek] At the center of E-Defense
+is a 20 meter by 15 meter shake table,
+which weighs 800 tons.
+On each side there are
+five hydraulic actuators,
+which push the table side to side,
+and the whole thing is supported
+by another 14 actuators at the bottom,
+which moved the table up and down.
+The whole facility is massive.
+There is one warehouse where
+the shake table is housed,
+but it's in such high demand
+that all the buildings are constructed
+in a separate warehouse and
+then transferred across.
+Then there is a whole
+area full of giant engines
+and nitrogen storage tanks
+just to power the shake table.
+- [Petr] Oh my God.
+This is a huge engine.
+- [Derek] Using this setup,
+the scientists can perfectly simulate
+past earthquakes and determine
+their effects on different buildings.
+The shake table can hold
+masses up to 1200 tons
+and jolt them with accelerations
+up to 15 meters per second squared.
+That's over one 1.5 gs.
+Now, I know jet fighters can
+pull like 10 gs as they turn,
+but it's another story
+if you're in your house and
+the floor starts accelerating
+faster than a falling object.
+The goal of the shake table
+is to realistically simulate earthquakes.
+To do this, you need two things.
+A way of being able to apply enough force
+in a precise and controlled
+way, and the signal data
+from real earthquakes.
+This is how they do it.
+- Are you okay at high elevation place?
+- Let's see.
+(both laughing)
+- This one is actuator.
+- The actuators themselves are hydraulic.
+Inside each one, there's a 30 ton piston
+driven by high pressure oil.
+- This is massive.
+This is, I don't know, a meter,
+meter and a half in diameter.
+- [Derek] But to generate
+the pressure needed
+to operate the shake table
+and sustain it for minutes at a time,
+E-Defense needs huge
+reserves of pressure storage.
+That's why there's a whole
+section of the warehouse
+with massive high pressure
+storage tanks full of nitrogen.
+- We have 20 of these lead
+spherical shaped accumulators,
+so we accumulate the pressure.
+- To pressurize these
+tanks liquid nitrogen
+is pumped in from a large
+storage tank outside,
+and as that liquid warms
+up, it turns into a gas
+and expands 694 times its original volume.
+It's relatively easy
+to obtain very high
+pressures with nitrogen.
+Then when the pressure is needed,
+it's transferred to the oil
+using a bunch of pistons.
+As the test runs, the oil
+is pumped to the actuators
+by these giant engines,
+but even they can't
+sustain the pressure needed
+to operate the shake table for very long.
+And so the nitrogen pressure reserves mean
+that the shake table can deliver
+a consistent amount of force
+from the start of the
+test right to the end.
+While a test is run, the
+pressurized oil needs to be pumped
+to the actuators by the engines.
+The flow to each actuator is controlled
+by electronic servo valves,
+meaning precisely timed
+and measured forces can be applied
+to the table to match any earthquake.
+Now, because the actuators can
+only move in one dimension,
+if they were fixed directly to the table,
+there would be no flexibility
+and they would break.
+And so the engineers at
+E-Defense designed bespoke
+seven meter long universal joints
+to transfer the force from the
+actuators to the shake table.
+To simulate real earthquakes.
+The shaking can't be random.
+I mean, each earthquake has its own
+characteristic pattern of movement,
+which can be recorded using a seismometer.
+Early seismometers were
+basically just a pen attached
+to some springs, drawing a line
+over a moving roll of paper.
+And when there was an
+earthquake, the pen would shake
+and draw out the pattern of
+acceleration of that earthquake.
+The trace that was seen on the paper
+is known as a seismograph.
+Nowadays we use geophones.
+A geophone is made from
+a coil of wire suspended
+around a magnet all
+held together by springs
+when the ground shakes, the springs shake,
+causing the wire to move up
+and down over the magnet,
+which generates a current.
+This current is recorded
+to produce a seismograph
+to get the full picture
+of how the earth's surface
+moves in all three dimensions,
+three geophones are needed,
+one oriented in each orthogonal direction.
+The strength of an earthquake is measured
+on the magnitude scale.
+The smallest earthquake
+that humans can feel is about
+a billion times less powerful
+than the biggest earthquake ever recorded.
+Because of this, the magnitude
+scale is logarithmic.
+An increase of one on the
+magnitude scale represents
+a tenfold increase in the
+force of the earthquake.
+An earthquake under 2.5
+on the magnitude scale
+is imperceptible to humans.
+These happen millions of times every year,
+but can only be detected by geophones.
+Earthquakes higher than
+six on the magnitude scale
+can damage buildings, but
+occur far less frequently,
+only a few hundred times a year globally.
+The most powerful earthquake ever recorded
+was the great Chilean earthquake of 1960,
+which measured 9.5 on the magnitude scale.
+It killed somewhere
+between 1 and 6,000 people
+and caused more than 400 million
+US dollars worth of damage.
+But how destructive an earthquake is
+isn't just determined by the magnitude.
+It also matters how
+close the epicenter is.
+- Behind me is what was until 2022
+the world's longest suspension bridge.
+The Akashi Kaikyo Bridge connects Honshu,
+the main island of Japan to Awaji Island
+nearly four kilometers away.
+The center span the distance
+between the two towers is 1,990
+meters and 80 centimeters.
+I'm here because a few
+kilometers that way,
+and 16 kilometers
+underground was the epicenter
+for the Great Hanshin earthquake of 1995.
+As the earthquake struck,
+the bridge was still under construction.
+And despite being right
+above the epicenter,
+there was no major
+damage to the structure.
+But the earth underneath
+the bridge had moved,
+and the original plans
+would no longer work.
+The plans would need to be modified.
+So that's how the world's
+longest suspension bridge
+became 80 centimeters longer.
+- [Derek] After E-Defense opened in 2005,
+one of their first tests was a comparison
+between two traditional
+Japanese wooden houses.
+The houses were transported
+from the nearby city of Akashi.
+They were rebuilt on the table
+and shaken at the magnitude
+of the Kobe earthquake.
+The house that stayed up
+had been retrofitted with wooden braces,
+beams, and metal joints making
+it more earthquake resistant.
+The other was unmodified.
+This test demonstrated
+that older Japanese houses
+are not able to withstand
+powerful earthquakes.
+It also presented a solution.
+Some relatively simple
+and inexpensive structural reinforcement
+can significantly increase
+earthquake resistance.
+- In 1981, the Japanese
+government introduces
+like all these new building
+codes for new houses, right?
+And they're like, you need
+this kind of seismic dampening,
+you need these isolation things.
+You need these like wooden beams.
+All of the buildings that
+were built post 1981 in Kobe
+0.3% of them collapsed
+during this earthquake.
+Of the ones that didn't, 8.4%,
+like about a 30 time difference
+between new houses and old houses, right?
+This is kind of like weird thing,
+like I was there on day one, you know,
+watching like the shake table work,
+and I'm just kind of like looking around
+this entire, like this giant warehouse,
+and I see this section
+where it's just like,
+what looks like IKEA furniture?
+Can you tell me what this is for?
+- To see the, you know, in room safety,
+yeah, we place lots of furniture
+in the structured specimen.
+- A lot of the injuries, right,
+that happen in earthquakes
+is from stuff falling
+on top of you.
+A cabinet falling over
+and hitting your head,
+or, you know, you being crushed
+by a fridge or something like that.
+Half of the injuries that were sustained
+indoors in Kobe were from,
+you know, furniture
+falling on top of people.
+So one of the things that
+E-Defenses does is like,
+how do you make sure
+buildings don't collapse,
+but it's also how do you make sure
+that the insides of the
+buildings are also safe?
+- This part of the video was
+brought to you by Shopify.
+You know, back in 2015,
+I came up with Snatoms,
+a better way of modeling molecules,
+and I've been using Shopify
+to sell Snatoms ever since.
+And over those last eight years,
+I found Shopify really easy to work with.
+They offer an all-in-one commerce platform
+that anyone can use to sell
+products, manage inventory,
+or grow their business.
+One of my favorite things about Shopify
+is the depth of data that they provide.
+You can see real-time data
+on how many people are on
+your site at any given time
+and how many are checking out.
+Plus, from the analytics,
+I can learn which products
+are selling and when.
+There are more than
+8,000 easy-to-use apps,
+which help with ad tracking,
+integrating your shop
+with TikTok or Pinterest,
+or automatically recommending
+frequently bought products.
+Despite it being so powerful,
+Shopify is incredibly easy to use.
+So if you are just
+starting out your business
+or side hustle, or if you
+wanna make the sales process
+more efficient, you really
+should be using Shopify.
+They power more entrepreneurs
+than any other platform
+with millions of businesses
+in 175 countries.
+Seriously, Shopify is great,
+and for a free trial, you can
+go to shopify.com/veritasium
+or just scan this QR code.
+And if you wanna buy a Snatoms kit,
+there is a link for that
+in the description too.
+So I wanna thank Shopify
+for sponsoring this part of the video,
+and now back to earthquakes.
+- So for this next test,
+they're gonna feed in the seismic signals
+from the Great Hanshin earthquake
+which is also known as
+the Kobe earthquake.
+It only lasted for about 20 seconds,
+but it had a magnitude of 6.9,
+and the maximum acceleration
+was about 0.9 g,
+which is, you know, kind
+of crazy to think about
+for an earthquake.
+Oh boy.
+Like, that rumble.
+Oh man.
+Oh, the whole building is,
+oh my God.
+How short that was and
+how powerful that was.
+Boy, earthquakes are no joke.
+- That's a nice way to
+observe an earthquake.
+Like how else can you
+observe an earthquake
+without being subject
+to that shaking, right?
+No one has got to experience
+the Kobe earthquake
+from like just right
+beside it, but not shaking.
+- In Kobe earthquake, we
+recorded very, very large motion,
+but it's very short.
+But in 2011 in Japan earthquake,
+we recorded very, very
+long duration motion,
+like five minutes.
+And the bottom one,
+it's expected earthquake
+in future Tokai Tonankai earthquake.
+So we are expecting very,
+very long duration motion.
+- [Petr] How do you predict
+what kind of earthquake
+you're going to get
+- Ask seismologists.
+- [Petr] I'll ask seismologists.
+- I'm sorry about that.
+- No, that's good.
+That's good.
+- Seismologists give a 70% chance
+that a magnitude eight
+earthquake will occur
+somewhere near the Tokai region,
+home to more than 15 million people
+within the next 30 years.
+The Nankai trough located off
+the southeast coast of Japan
+is where the Eurasian plate pushes
+against the Philippine plate and produces
+a massive earthquake
+every 100 years or so.
+But the Tokai region hasn't experienced
+such an earthquake in over 160 years.
+The government estimates
+that more than 320,000 people
+could lose their lives.
+Most fatalities will likely be caused
+by the 30 meter tsunami,
+but a quarter, around 82,000,
+could result from building collapse.
+This is why earthquake
+preparedness is such a big deal.
+- Newly built buildings
+are very, very safe.
+You know, they, they have
+very high seismic performance.
+So even in a very, very large earthquake,
+you know, these buildings can survive.
+- [Derek] Except in extreme cases,
+most new buildings in Japan can survive
+most large earthquakes.
+So the next challenge is
+to keep them functional.
+Currently, even when
+buildings don't collapse,
+water pipes often burst leaving people
+without water and electricity,
+and so they still have
+to leave their homes.
+This is the next challenge
+they're trying to solve at E-Defense.
+- So now we can prevent a fatal collapse,
+but now we have to think how to prevent
+this kind of functional loss.
+- [Petr] You guys are now at the step
+that's beyond what I was thinking, right?
+My step was like, how do we make sure
+that houses don't fall down
+and you guys are like, yeah,
+no, we figured that out.
+We can make sure that
+houses don't fall down
+more or less.
+Doing this very important work
+like you guys are making
+the world a safer place.
+You guys are making Japan a safer place.
+You're updating building codes to make it,
+you know, so fewer people die.
+- What I love about the story of E-Defense
+is that Japan didn't simply
+wait for more earthquakes
+to happen and just hope for the best.
+They spent billions in research
+to prevent people suffering
+from these disasters.
+They realize that while they can't predict
+the next big earthquake,
+they can make sure
+that they are prepared
+when it does happen.

@@ -1,0 +1,545 @@
+There is a riddle that
+is so counterintuitive,
+it still seems wrong even
+if you know the answer.
+- You'd think it's an
+almost impossible number.
+- I feel like you probably
+hit me with some truth bomb.
+- I mean, if you're trying
+to create controversy
+and you're trying to confuse people,
+you're gonna succeed.
+(both laughs)
+- There are a bunch of
+YouTube videos about it,
+but I find all of them either
+incorrect or incomplete.
+So in this video, I'm going to dive deeper
+and explain it fully.
+Here is the setup.
+(suspenseful music)
+Say there are 100 prisoners
+numbered 1 to 100.
+Slips of paper containing
+each of their numbers
+are randomly placed in 100
+boxes in a sealed room.
+One at a time, each prisoner
+is allowed to enter the room
+and open any 50 of the 100 boxes,
+searching for their number.
+And afterwards, they must leave the room
+exactly as they found it,
+and they can't communicate in any way
+with the other prisoners.
+If all 100 prisoners find their own number
+during their turn in the room,
+they will all be freed.
+But if even one of them
+fails to find their number,
+they will all be executed.
+The prisoners are allowed to strategize
+before any of them goes into the room.
+So what is their best strategy?
+If they each search for
+their own number randomly,
+then each prisoner has a
+50% chance of finding it.
+So the probability that all 100
+prisoners find their numbers
+is 1/2 times 1/2 times 1/2 a hundred times
+or 1/2 to the power of 100.
+This is equal to 0.00000000 30 zeros,
+and then an eight.
+To put this probability into perspective,
+two people have a better
+chance of picking out
+the same grain of sand from all
+the beaches and deserts on earth
+than by escaping this way.
+But what have I told you
+that with the right strategy,
+there's a way to raise their
+chances to nearly one in three.
+It improves their odds of a random chance
+by nearly 30 orders of magnitude.
+That's like taking a
+millimeter and scaling it up
+to the diameter of the
+observable universe.
+- But they can only coordinate
+this strategy beforehand.
+- Correct?
+- Is this true?
+- Yes.
+- Teach me.
+- This is not a trick question.
+The solution just involves an
+incredible feature of math.
+So what is this mathematical strategy?
+Well, if you don't
+already know the answer,
+feel free to pause the video
+here and try it for yourself.
+And if you don't come
+up with it, don't worry,
+you're in good company.
+Even the person who came
+up with this riddle,
+computer scientist Peter Bro Miltersen,
+he didn't even think of this strategy
+until a colleague pointed it out.
+Miltersen, ultimately published
+this problem in a paper
+where he generously left the solution
+as an exercise for the reader.
+So here is the solution.
+Pretend you are one of the prisoners,
+when you go into the room,
+open the box with your number on it,
+the number on the slip inside
+probably won't be yours,
+but that's okay.
+Go to the box with that number on it.
+look at the number inside,
+then go to the box with that
+number on it, and so on.
+Keep doing this until you find
+the slip with your number.
+If you find your number,
+that essentially tells you
+to go back to the box where you started.
+It closes the loop of numbers
+you've been following.
+But if you've found your
+number, then you're done.
+You can stop and leave the room.
+This simple strategy
+gives over a 30% chance
+that all the prisoners
+will find their number.
+- The entire pool has a 30...
+- Everyone can find their
+number 31% of the time.
+- What?
+- But how does it work?
+The first thing to
+notice is that all boxes
+become part of a closed loop.
+The simplest loop would be
+a box that contains its own number.
+If you're prisoner number
+one and you go to box one,
+it contains slip one, then you're done.
+Your number was part of a loop of one,
+but you could also have a loop of two.
+Say box one points to box seven
+and box seven points back to box one.
+Or you could have a loop
+of three, or four, or five,
+or any length all the way up to 100.
+The longest loop you
+could have would connect
+all the numbers in a single loop.
+But more generally, any random arrangement
+of the slips in these boxes
+will result in a mixture of some shorter
+and some longer loops.
+When you start with a box
+labeled with your number,
+you are guaranteed to be on the loop
+that includes your slip.
+So the thing that
+determines whether or not
+you find your slip is
+the length of the loop.
+If your number is part of a
+loop that is shorter than 50,
+then you will definitely find your slip.
+But if your number is part of
+a loop that is 51 or longer,
+you are in trouble.
+You won't find it before you've exhausted
+the 50 boxes you're allowed to search.
+When you open the box
+labeled with your number,
+you are in fact starting
+at the farthest point on
+the loop from your slip.
+You wanna know where is the
+slip that points to this box,
+but to find it, you have to
+follow the loop of numbers
+all the way around to the end.
+That means if the prisoners
+follow this strategy
+and the longest loop is 51,
+not just one or two prisoners
+will fail to find their number,
+but all 51 on this loop won't make it.
+They make it to the box just
+before the box with their slip,
+but they have to stop searching there.
+(both laughs)
+So the probability that all
+of the prisoners succeed
+is just the probability
+that a random arrangement
+of a hundred numbers contains
+no loops longer than 50.
+Now I promised that this
+probability would come out
+to around one in three,
+but how do we calculate it?
+Well, imagine writing down
+all the different ways
+that you could connect
+100 boxes to form a loop
+of length 100.
+So you could have box
+one points to box two,
+box two points to box three
+to box four, and so on,
+all the way to 100,
+and then box 100 would
+point back to box one,
+or you could have something random.
+Box five points to box
+99 to box 17 and so on,
+and let's pick the last one,
+is 63.
+And box 63 points back to box five.
+So how many different arrangements
+of these a hundred boxes
+or permutations could you have?
+Well, for the first box,
+I have 100 different boxes
+that I could choose from.
+The second box, because
+I've already used one,
+I can only pick from 99 boxes,
+and the next one, I can pick
+from 98 boxes, and so on,
+down to the very last box.
+I don't really have a choice.
+There's only one box left I
+could put in the last position.
+So the total number of
+different permutations
+would be 100 times 99, times 98, times 97,
+all the way down to one.
+That is just 100 factorial.
+There are 100 factorial different ways
+that you could create a
+loop of a hundred boxes.
+But what we can't forget
+is that these are not
+just lines of numbers.
+They are loops.
+So some of these lines that look different
+are actually the same loop.
+For example, two, three,
+four, five, and so on
+up to 100 and then 1
+is the same thing as 1, 2, 3, 4, 5 to 100.
+You can rearrange the way
+you write these numbers
+a hundred different ways,
+but they all represent the same loop.
+So the total number of
+unique loops of length 100
+is 100 factorial divided by 100.
+So what is the probability that any
+random arrangement of 100 boxes
+will contain a loop of length 100?
+Well, it's just equal to the
+number of unique such loops
+that we just calculated,
+100 factorial over 100,
+divided by the total number of ways
+that you could put a
+hundred slips in 100 boxes,
+which is 100 factorial.
+So the answer is 1 over 100.
+So there is a 1% chance that
+a random arrangement of slips
+results in a loop of length 100,
+and this is a general result.
+The probability that you
+get a loop of length 99
+is 1 over 99.
+The probability that you
+get a loop of length 98
+is 1 over 98.
+So the probability that there
+is a loop longer than 50
+is 1 over 51 plus 1 over 52
+plus one over 53, et cetera.
+Add all these up, and it equals .69.
+There is a 69% chance of
+failure for the prisoners,
+meaning a 31% chance of success
+where the longest loop is 50 or shorter.
+- I still find it difficult to believe.
+- [Derek] This feels a bit like magic.
+Using the loop strategy,
+all the prisoners are more
+likely to find their numbers
+than even just two prisoners
+choosing at random.
+So using the loop strategy,
+what is the probability
+that each prisoner alone
+finds their number?
+It is still 50%.
+Each prisoner can still
+only open half the boxes,
+so their individual chance is still 1/2,
+but these probabilities
+are no longer independent of each other.
+Imagine running this experiment
+a thousand times over.
+If everyone is guessing randomly,
+you'd expect that on most
+runs around 50 prisoners
+would find their number.
+On lucky runs, the number
+would be a bit higher,
+on unlucky runs, a bit lower.
+But using the loop strategy,
+all of the prisoners
+would find their numbers
+31% of the time.
+And 69% of the time, fewer
+than 50 find their number.
+The prisoners all win together
+or the majority loses together.
+That's how this strategy works.
+- Why are you assuming that
+your number will always be
+on the loop that you're on?
+- I feel like-
+- I don't understand that.
+- This is a key question, right?
+- 'Cause I feel like
+it's possible to start
+and go on a complete loop
+and not come back to your own number
+because you got on the wrong loop
+and then you'd have to
+get on another loop,
+so I don't know that I'd buy this.
+- Right, right, right,
+right, right, right.
+Now, the big question everyone asks is
+how do you know that if you start
+with a box with your number on it
+you are guaranteed to be on the loop
+that contains your slip?
+Well, if you think about it,
+the slip that says 73,
+if anyone sees that,
+they will definitely go to
+the box with the number 73.
+So the slip and box with the same number
+essentially form a unit.
+They're like a little Lego brick.
+And then every slip is
+hidden inside another box.
+So as I start laying out
+slips and boxes randomly,
+you can see that there's no way
+that we can end up with a dead end.
+It's not like you can just
+get to a box and then stop
+because every box contains a slip
+and that points at another box.
+So the only way for you to see only boxes
+when you walk into the room
+is for every slip to be
+contained within a box,
+and that necessarily will mean
+that we are forming loops.
+So when I start with box 73,
+I must eventually find slip 73,
+because then and only then
+will I be directed to go back to box 73
+which closes the loop.
+- Who is the warden to this prison?
+And what kind of sadistic
+mathematical warden
+are you dealing with here?
+This is awful.
+- Now, what if there is a
+sympathetic prison guard
+who sneaks into the room before
+any of the prisoners go in?
+Well, then they can guarantee
+success for the prisoners
+by swapping the contents
+of just two boxes.
+That's because there
+can be at most one loop
+that is longer than 50,
+and you can break it in half
+just by swapping the
+contents of two boxes.
+And now I have two separate loops
+that are each shorter than 50.
+But what if there was a malicious guard
+who figured out that the prisoners
+were going to use this loop strategy?
+Well, then they could
+put the numbers in boxes
+to ensure they formed
+a loop longer than 50.
+In this case, are the prisoners doomed?
+Surprisingly, no.
+They can counter by arbitrarily
+renumbering the boxes.
+They could, for example,
+add five to each box number.
+The loops are set both by
+the locations of the slips
+and by the box numbers.
+Renumbering the boxes
+is essentially the same
+as redistributing the slips.
+So the problem is back to a
+random arrangement of loops,
+meaning the prisoners are back to their
+31% chance of survival.
+Now, what happens if you
+increase the number of prisoners?
+- Fun fact, nobody knows if
+as you have more and more prisoners
+it's going towards a limit,
+or if it'll eventually
+go down to zero, or what?
+- That is my friend Matt Parker,
+and I think what he meant to say
+is we know exactly what happens
+as you increase the number of prisoners.
+With a thousand prisoners each
+allowed to check 500 boxes,
+you might expect their chance of success
+to drop dramatically,
+but you can calculate
+it like we did before,
+and it comes out to 30.74%,
+only half a percentage point
+lower than for 100 prisoners.
+For 1 million prisoners,
+the probability of success is 30.685%,
+which is only a little
+higher than for 1 billion.
+Of course, their bigger problem would be
+the time it takes to open all the boxes.
+So your probability of winning this game
+does indeed approach a limit.
+So what is that limit?
+The formula we've been using
+is one minus the chance of failure,
+which is the series 1
+over 51 plus 1 over 52,
+and so on, up to 1 over 100.
+We can depict this series as
+the sum of areas of rectangles,
+and there is a curve that follows
+the heights of these blocks.
+That curve is one over X.
+The area under that curve from 50 to 100
+approximates the area
+of all the rectangles.
+And as the number of
+prisoners goes to infinity,
+it becomes a better and
+better approximation.
+So to find the probability of failure,
+we can just take the
+integral of one over X
+from n to 2n.
+And we find that it's equal to
+the natural logarithm of two.
+This gives a probability of success
+of one minus the natural log of two,
+which is about 30.7%.
+The bottom line is
+that no matter how many
+prisoners you have,
+you'll always end up
+with above a 30% chance
+of escaping using this strategy.
+And that feels really wrong.
+I mean, at first it seemed
+essentially impossible
+for all 100 prisoners
+to find their numbers.
+But now we're seeing that you could have
+a hundred, a million,
+or any arbitrarily large
+number of prisoners
+with at least a 30% chance that
+they all find their numbers.
+The beauty of the loop strategy
+is linking everyone's outcomes together,
+instead of each prisoner walking in
+with their own 50-50 shot.
+Following the same loops
+means that they have
+the exact same chance
+of finding their number
+as everyone else in their loop.
+And once the boxes and slips are arranged,
+that chance is set at either 100% or 0%.
+With this strategy, you can't
+ever get close to winning
+with only a few people
+missing their numbers.
+You can only fail hard
+or succeed completely.
+Now, if you like solving puzzles
+even outside of life-threatening
+prison situations,
+well, you'll love Brilliant,
+these sponsor of this video.
+Brilliant is a website and app
+that builds problem-solving skills
+and guides you through
+engaging interactive lessons
+in math and science.
+They have great courses on tons of topics,
+from statistics to astrophysics to logic.
+Now, if you liked this riddle
+and you want more just like it,
+I'd recommend their
+perplexing probability course,
+featuring other seemingly impossible odds
+and even another mathematically
+inclined prison warden.
+They've also got a joy
+of problem solving course
+to take you through some of their
+most delightful math puzzles.
+Every lesson builds on
+what you learned previously
+to give you an in-depth understanding
+with any course you take.
+Your knowledge is constantly developed
+and tested through interactive
+experiments and quizzes.
+And if you get stuck, there's
+always a helpful hint.
+Head over to brilliant.org/veritasium
+to check out all these courses
+and test your instincts
+after learning about
+the 100 prisoners riddle.
+If you click through right
+now, Brilliant are offering
+20% off an annual premium subscription
+to the first 200 people to sign up.
+So I wanna thank brilliant
+for supporting Veritasium,
+and I want to thank you for watching.

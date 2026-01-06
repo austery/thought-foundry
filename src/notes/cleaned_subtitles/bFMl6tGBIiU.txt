@@ -1,0 +1,328 @@
+- The structure of classical mechanics
+implies that if you knew
+the position and velocity,
+not just of one particle,
+but of every particle in the universe,
+then the laws of physics would
+determine what happens next,
+at the next moment and the next moment,
+and infinitely far into the future,
+and for that matter,
+indefinitely far into the past.
+Now, this might bother you a little bit
+if you wanna think, well, wait a minute,
+I'm a person, I'm a human being,
+I have the ability to make choices.
+I'm not determined by the laws of physics.
+And both scientists and
+philosophers thought about that.
+They still don't agree
+on what the right way
+to think about it is.
+I'm Sean Carroll.
+I'm a physicist and philosopher
+at Johns Hopkins University,
+host of the "Mindscape Podcast,"
+and also author of a bunch of books.
+Most recently, "The Biggest
+Ideas in the Universe" series,
+including "Space, Time, and
+Motion" and "Quanta and Fields."
+- [Narrator] Is reality
+just a clockwork machine?
+I like to say that physics is
+hard because physics is easy,
+by which I mean we actually
+think about physics as students.
+You know, we took classes, we
+read books, and it was hard
+because there's all this
+new stuff, all these ideas,
+all these equations that
+we don't come across
+in our everyday lives.
+But the reason those ideas are hard
+and those equations are there,
+is because physicists have a technique
+that has been amazingly successful,
+which is to take all the
+messy world around us
+with all its peculiarities
+and specificities,
+and to boil it down to
+really, really simple systems.
+You might imagine or remember
+when you were taking physics courses,
+there were frictionless surfaces,
+there were pendula that rocked
+back and forth perfectly.
+We're always idealizing,
+we're always imagining
+there are no complications,
+and then we're putting them back in.
+That's a strategy that
+would completely fail
+if you tried to do it for psychology
+or biology or political science.
+But for physics, it turns
+out to work incredibly well.
+There's a joke that physicists
+like to tell each other.
+They don't like to tell it to others
+'cause it's not very funny.
+But the idea is that a dairy farmer
+wants to improve his yield,
+more milk out of the cows,
+and for some reason, he
+approaches a physicist and says,
+"Could you look at my farm
+and tell me how to get
+more milk out of the cows?"
+And the physicist thinks about it,
+and he comes back with
+a sheaf of calculations
+and he says, "Okay, first
+imagine a spherical cow."
+The idea, I know it's not
+that funny, but the idea is
+that the first thing the
+physicist is gonna do
+is try to imagine a simpler situation.
+Real cows are not spherical.
+It would be a very different dairy farm
+if the cows were spherical,
+but you can calculate
+the volume of the cow
+and the metabolic rate of
+the cow much more easily
+if it were spherical.
+And the joke, of course, is that
+that doesn't work in dairy farming,
+but it works really well
+when you're considering
+a spherical universe
+or a spherical solar
+system or a spherical atom.
+The first really huge
+revolution in physics
+was the existence of classical mechanics
+handed down by Isaac Newton and others.
+It took a while.
+Newton was building on
+the shoulders of giants.
+But before Newton, there was Aristotle.
+And Aristotle says that
+things have natural places
+they wanna be, natural
+ways they want to move.
+And Newton says something
+completely different.
+He says, if something is
+not acted on by a force,
+it's gonna continue in a straight line
+at a constant velocity forever.
+And if it is acted on by a force,
+I can tell you how it'll move.
+I have an equation to do that.
+Physicists like to simplify
+things a great deal.
+But billiards, you know, the pool game,
+is pretty close to being simple.
+It's not exactly, because you know,
+when you hear those balls
+click against each other,
+that sound is giving off energy,
+and it's kind of wasteful.
+But in principle, if you
+had no friction, no sound,
+no air resistance, the balls
+bouncing around the pool table,
+let's also imagine there's no pockets,
+so the balls can just bounce off
+the edges of the table forever.
+They would go forever.
+They wouldn't stop, right?
+The energy contained in the
+system remains constant.
+And the laws of physics,
+as Laplace points out,
+suffice it to predict exactly
+what the balls are gonna do
+at every moment, given what
+they're doing right now.
+So to the extent that it's okay
+to ignore friction and noise
+and things like that, not only is it true
+that if you imagine hitting the balls
+and watching them move,
+you could predict exactly
+what's gonna happen
+on the basis of the laws of physics.
+If somehow you could take a
+snapshot later in their motion
+so you know both where they are
+and how fast they're moving,
+so maybe a little clip of a movie,
+then the laws of physics would let you
+go backwards and reverse engineer
+what exact configuration
+the balls were in.
+We don't perceive that
+in our everyday world
+because the world is full
+of noise and dissipation
+and air resistance and things like that.
+But in the pristine, perfect world
+of imagined classical mechanics,
+the past and future work equally well.
+You can go from any one
+moment to any other moment.
+It's interesting that Newton came up
+with the framework of classical
+mechanics in the 1600s,
+and people were very excited,
+you know, physicists,
+mathematicians, philosophers.
+They didn't really have
+physicists at the time.
+They were all considered
+to be natural philosophers,
+but they worked on it,
+you know, they thought
+about the motions of the
+planets and things like that.
+And the implications of
+this idea are profound
+for how we think about what physics is,
+what physics tells us.
+Because it wasn't realized
+until Pierre-Simon Laplace
+over a hundred years after Newton.
+But the structure of classical mechanics
+implies that if you knew
+the position and velocity,
+not just of one particle,
+but of every particle in the universe,
+and you knew the laws of physics
+and you had infinite
+calculational abilities,
+none of these are at all plausible,
+but we're imagining right now.
+Then the laws of physics would
+determine what happens next
+at the next and the next moment
+and infinitely far into the future,
+and for that matter,
+indefinitely far into the past.
+So you can take any one moment
+in the history of the universe
+according to classical mechanics,
+and the information contained
+in what is going on at that moment
+is sufficient to fix what will happen
+at every other moment in history.
+And Laplace, who is quite
+imaginative about these things,
+put it in terms of a metaphor.
+He says, "Imagine a vast intelligence."
+Later, commentators
+dubbed it Laplace's demon.
+He didn't call it that, he
+was famously an atheist.
+He didn't like to talk about demons.
+But the demon, the vast intelligence
+who could know everything
+about the universe
+at any one moment, Laplace
+says to that vast intelligence,
+the past and future are an open book.
+You would know everything
+because what happens now
+fixes the entirety of space and time.
+The idea that the laws of physics
+fix what's going to happen
+in principle precisely and exactly
+if you know what's happening right now.
+So this became known as the
+clockwork universe paradigm.
+The universe clicks along
+in perfect accord with the
+laws of physics forever.
+Now, this might bother you a
+little bit if you wanna think,
+well, wait a minute, I'm a
+person, I'm a human being,
+I have the ability to make choices.
+I'm not determined by the laws of physics.
+And both scientists and
+philosophers thought about that.
+They still don't agree
+on what the right way
+to think about it is.
+But the favorite way to think
+about it is the following.
+In principle, if you knew
+exactly everything that was
+going on in the universe,
+you could predict the future.
+Now, classical mechanics
+isn't quite right.
+Eventually, we're gonna talk
+about quantum mechanics,
+so that's another thing
+you have to keep in mind.
+But to the approximation that
+classical mechanics is good,
+you are determined in
+what is going to happen.
+But guess what?
+You don't know all the
+positions of all the atoms
+and all the molecules that make up you.
+Indeed, you literally cannot know them
+because the memory storage
+capacity to know all that
+would be at least as big as
+your brain, if not bigger.
+And if you made your brain bigger,
+now you just have more
+molecules to keep track of.
+It is impossible to actually have
+a real Laplace's demon in the universe.
+It's just a thought experiment
+to make vivid the
+implications of determinism.
+So philosophers have settled
+on what they decided to call
+compatibilism in the sense
+that on the one hand,
+the deep down microscopic laws of physics
+are perfectly deterministic,
+or they're not if you're
+in quantum mechanics,
+but they're pretty deterministic anyway.
+But since you don't know it,
+you should be asking yourself,
+what is the best I can do?
+What is the best way that
+I can try to understand
+human beings given the vastly
+incomplete information I have?
+I know about, you know,
+my friends' personality,
+and you know their
+predilections and their traits,
+but I don't know every
+neuron in their brain.
+And under those
+circumstances, you will model,
+you will think about a fellow
+human being or about yourself
+as an agent capable of making choices.
+Everyone does that, and
+that's the right thing to do
+because you are not Laplace's demon.
+- [Announcer] Wanna support the channel?
+Join the Big Think's Members Community
+where you get access to
+videos early ad free.

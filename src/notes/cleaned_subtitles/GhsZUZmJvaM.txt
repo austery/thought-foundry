@@ -1,0 +1,261 @@
+I'm at the Jet Propulsion Laboratory in Pasadena,
+and I'm here to see the first drone that's gonna fly on another planet.
+It's the Mars helicopter. Come on!
+- So this is our baby.
+- No way!
+- Yeah.
+- That thing right there is the actual machine that is going to take off and land on Mars.
+It's going with the Mars 2020 mission. That is the Mars helicopter.
+- This will be the first powered flight in another planet.
+- How awesome is that?
+Now it's necessary to say first powered flight,
+because in 1985, the Soviet Vega missions deployed two helium balloons on Venus.
+They transmitted data for over forty six hours while floating at an altitude of 54 kilometers in Venus's dense atmosphere,
+which at the surface has a pressure of over 90 Earth atmospheres.
+In contrast, Mars has very little atmosphere, only around 1% of Earth's.
+- Flying this kind of helicopter is equivalent to flying a similar helicopter on Earth at a hundred thousand feet.
+So you don't know, you don't hear about many helicopters at a hundred thousand.
+I think forty thousand feet is probably the record.
+- I checked. Forty thousand feet is the record altitude reached by helicopters on Earth.
+85,000 feet is the highest a plane has ever flown.
+On Mars, the air is even thinner than that.
+- Right. In terms of density is 1% of what you have in this room.
+So in this room, a cubic meter of air is about a kilogram.
+- Yeah
+- The same cubic meter on Mars will be about 15 grams to 18 grams.
+So that much
+- So you have to push a lot of air down.
+- Yes. You gotta get a lot of air flowing.
+And so the obvious trick, if you will, is to spin the blades faster.
+- It can spin between 2300 rpm and 2900 rpm.
+- That is fast.
+- That is fast. Yes.
+- Here I'm trying to work out exactly how fast that is.
+So I looked it up, and on Earth helicopters typically spin their rotors at around 500 rpm.
+So the Mars helicopter will have to spin its blades five times faster.
+- But there are some limits you know, you really don't want to get the tips of the blades breaking the speed of sound,
+- cause then you have shockwaves and all sorts of
+- and you get all kinds of funky aerodynamics and you know the transonic flows and things like that, so you don't want to go there.
+So we, in our designs, keep the tip Mach numbers down to below about 0.7.
+- So 70% the speed sound.
+- Yeah. It was very conservative.
+- One advantage of flying on Mars is that gravity is only 38% of what it is on Earth.
+Even so, making the craft lightweight was essential.
+- Keeping the mass of this vehicle contained during the entire design process has been the major challenge.
+- Every single part had to be considered.
+The entire vehicle is less than 1.8 kilograms
+- Woah!
+- So, less than four pounds
+- That's about the same as this laptop.
+- The blades are a foam core with carbon fiber layup. Each of them is about 35 grams.
+- Wow.
+- Yes, it's quite light. Yes.
+- 35 grams is the mass of six quarters.
+Think about that: two 35 gram blades lifting an 1800 gram helicopter by spinning 40 times per second in just 1% of Earth's atmosphere.
+How long can it fly for?
+- It's designed to fly up to 90 seconds.
+- A minute and a half of flight.
+- Yes.
+- To me that sounds like forever,
+when you're talking about another planet, flying autonomously by itself
+in 1/100 earth atmosphere, I mean, come on!
+Like, that's a long time!
+- That is. Yeah.
+- One of the questions I had was, why didn't they use a quadcopter design?
+Well, because on Mars, the blades have to be so long that the whole craft would barely fit on the rover.
+Two counter-rotating propellers provide the simplest design.
+They also generate lift more efficiently when stacked on top of each other.
+- The bottom rotor sees the sort of the more compactified flow.
+The top one pulls it, the bottom one sees sort of a more concentrated flow.
+So the bottom rotor actually can do better than if they were separated apart.
+- But how do you test a helicopter designed for conditions on Mars on Earth?
+What would happen if you just took your Mars helicopter and you tried to take off on Earth?
+- It would just make a lot of noise.
+- Really?
+- And it probably wouldn't get the full head speed either...
+- because of how much atmosphere we've got.
+- Exactly, it's like trying to swim in a thick soup.
+We have a really amazing chamber here on lab called the 25-foot space simulator.
+And in that chamber you could simulate any kind of atmosphere you want.
+You can go to Martian pressures, you can stay at Earth pressures, whatever you want.
+But that only took care of half of the problem, that was the aerodynamics aspect of it.
+There's the other part which is the gravity.
+We needed a way to fake Mars' gravity here on Earth,
+and the best way that we could figure out to do that was a gravity offload.
+- Gravity offload just means pulling up on the helicopter,
+so it only has to support about 38% of its weight just like it will have to do on Mars.
+- And effectively it was a high-tech fishing reel,
+so taking a brushed DC motor, a reaction torque sensor, and a pulley,
+mounting that a couple stories in the air
+and then attaching a fishing string to the top of the helicopter
+that would tug the necessary force required to offload the differences in gravity.
+- An actual fishing line?
+- Yeah, real fishing line.
+- But isn't that stretchy,
+like don't you want something that's perfectly rigid so as soon as you apply the torque it gets applied to the craft?
+- Right right, and we did a lot of testing with different vendors to find out which fishing line had the best spring constant for us.
+- What does the helicopter sound like?
+I imagined that in 1% of Earth's atmosphere, the helicopter would be pretty quiet.
+- Yeah you're still at 1%, but it's still, real loud.
+- Really?
+- Yeah we have audio recordings of it too.
+But it's it's, I would characterize it more like a 'baaaaaaaaah', something like that.
+(baaaaaaah)
+When gravity offload systems working and the chamber was pumped down, the helicopter thought it was on Mars.
+It felt like it was on Mars.
+- How do you actually steer this thing around and drive it?
+- So the way helicopters work is they have something called collective and cyclic.
+So what collectives do is they change the pitch on the blades uniformly.
+So throughout the entire revolution you will move the collective,
+the blades will change, you can change your angle of attack, you'll get more lift
+so that's basically what you would provides you height control,
+Right? You pitch more you go up, pitch less you come down.
+But then, there's something called a cyclic on helicopters,
+which basically what it does is it modulates the pitch as it goes around,
+so it can pitch it a little bit more here, less here, so it kind of like modulates.
+So what that does is it provides an asymmetric torque, right?
+When you're pitched up there you get that additional torque.
+Now you get it, depending upon the stiffness the system you actually get it with that a gyroscopic lag that can happen afterwards.
+So once you get an asymmetric torque, the vehicle wants to start pitching or rolling. Right?
+So once it pitches and rolls,
+you're doing it stably.
+You are now pointed in a direction and your thrust vector now has a component that's horizontal in the direction that you pitched. Right?
+So then you start translating in that direction.
+- I've heard that initially someone tried to fly it with a joystick?
+- Yes.
+- Was it an early prototype?
+- If you were sitting right there on Mars and you were trying to joystick it, what is it like?
+And it's almost unflyable.
+And the reason for that it's the aerodynamics of when you want to command a roll to the left
+because you see yourself starting to move to the right and you start commanding a roll to the left.
+There's a delay aspect.
+So that that delay effect makes it very very difficult for a human to try and pilot it.
+- You can't fly this from Earth...
+- because of the twenty-minute kind of time delay, so you have to really send sequences.
+- So essentially you're gonna push a button,
+and like 20 minutes later it'll take off and do its thing and then you will find out.
+- The way this flies autonomously,
+it has onboard gyros, onboard accelerometers and onboard camera,  an altimeter and an inclinometer;
+and so using that sensor suite,
+real-time measurement, you know against terrain and of course the gyros and the accelerometers sensing onboard
+the real-time estimation of the state of the vehicle is made continuously again at hundreds of Hertz
+and then that's fed into the closed-loop control algorithm,
+that takes the estimated state
+and then generates the correction that's needed at the blade level,
+and then the blades are continuously being controlled.
+So when you see video tapes of our "successful flights", right!
+And the vehicle looks dead calm, it's coming up, and hovering, and going laterally, coming back;
+you know the machines are working very very fast and very very hard it just looks very calm, but yes
+so the the blades are being continuously controlled.
+- That is amazing.
+How will it handle a gentle breeze?
+- A lot of the movies depict
+- Dust storms?
+- The big dust storms as being very aggressive on Mars.
+The truth of the matter is that with 1% Earth's atmosphere, there is very little matter actually hitting you.
+- I mean, you're using that to lift yourself.
+- Exactly, so there's enough to lift, right?
+But we also need to spend at 2200 rpms to be in the ballpark of lifting ourselves.
+- We built our own wind tunnel that we put inside this 25 foot chamber.
+How many fans was it, Teddy?
+960 computer fans.
+So, but it does sound like a like a jet engine taking off.
+So we built a fan wall array, it's called an open cross-section wind tunnel, where you don't need the walls,
+just the fact of having an array of fans we are very confident of being able to go at 11 meters per second,
+in this vehicle.
+if I had known that somewhere along the way I'd be building a wind tunnel to do this,
+I would have probably not taken the job on, right?
+- How long does it take to recharge?
+We recharge the whole day.
+So, the whole day at Mars.
+- Right. But does that mean that you could do one flight a day kind of thing? In theory?
+- In theory, yes, by design it can.
+- What is the size of the battery?
+- Between 35 and 40 watt hours total.
+- That's equivalent to just three smartphone batteries.
+And get this -- most of that energy isn't even used for flying.
+- It has to survive temperatures as low as about minus 80 to minus hundred degrees C at night.
+So we keep the batteries warm and we surround the batteries with our electronics board so the electronic boards also stay warm.
+We take approximately two-thirds of energy just keeping things warm and warming things up to operate.
+Only one-third of the energy is available for flight.
+- Do you have insulation on there to keep it warm?
+- Yes. When you look at that helicopter, right, you have the solar panel on top with antenna,
+and then next is the rotor system,
+and then bottom what you see this cube, is what we call the fuselage,
+you are seeing it now actually uncovered
+because you're seeing the last day of final. We're recovering for delivery to be integrated onto the rover.
+okay so usually you won't be seeing that.
+So the center of the cube is the ring of batteries, okay.
+There is space between the battery and the circuit boards that you are seeing.
+And then there will be a shell that we put on called the fuselage shell,
+and that will close like CO2, the gas, around.
+And so the enclosure itself we're using the CO2 gas as the insulation material
+- Oh wow! No aerogel?
+- No aerogel. We did it consider it. It was in the game,
+it was in the consideration in the beginning,
+and it turns out that just the CO2 as insulator itself was sufficient for us to close our thermal model.
+- Right.
+- And so guess why we wouldn't want to use aerogel if we have a choice.
+- Weight.
+- Yep, there you go. Welcome to our team
+- Now before the helicopter can experience the frigid conditions on Mars,
+first it has to get there.
+And that's a reminder that not only is this an aircraft, it's also a spacecraft.
+- It has to survive launch.
+It has to survive launch loads which, you know, easily exceed about 80G
+You know, because of the vibration. Vibrational loads are 80G.
+- Yeah.
+Then it has to survive the seven-month trip, complete with radiation.
+And finally after pulling nine Gs on entry into the Martian atmosphere the helicopter needs to be deployed.
+This is gonna be on the rover, before you take off, does the rover like pick you up and put you down somewhere?
+- We're gonna be stowed underneath the rover on the belly pan on our side.
+And there's gonna be several several sequences of firings of explosive devices
+to actually rotate us right side up and then drop us on the surface.
+- For example the very last thing the rover does is it's got us by this bolt, it's holding us about this high,
+and then it goes has to drop us, right?
+- Yeah.
+- So how do you undo a bolt on, on a spacecraft?
+- You blow it up.
+- You blow it up. Basically it's materials you know undergoes a phase transition
+which suddenly increases the, the stress in the metal part of the thing
+and makes the bolt break. It's called a frangibolt.
+- Then once we're on the surface, the rover drives over us,
+it gets about 100 meters away,
+and then we have about a two-hour counter internally,
+where we'll wake up after 2 hours, wait to hear some RF transmissions,
+and if we do get that link with the rover then great.
+- Our base station on the rover would issue the fly now command.
+First flight will probably be a mutual selfie, you would think..
+This is after all the selfie age.
+- I like that as the goal of the first flight.
+- Yes it is. In fact, it is good to know the best time to fly this
+is at 11 o'clock in the morning local time on Mars.
+and that the reason for that is, we would have come out of the night,
+where we would have spent a lot of battery power trying to you know stay warm.
+By 11 o'clock, the state of the charge would have gotten to the point where you could fly
+without risking a brownout on the battery and then, you know, dropping the whole craft to the ground.
+Also 11 o'clock is where the Sun would have warmed up things,
+so we don't quite have to heat up as much.
+And also it's not late afternoon where because of the warmth, the density has begun to drop,
+okay, and the winds have begun to pick up.
+Now, what we will investigate is after we get the first couple of flights under our belt,
+I'm sure we will try to fly in the afternoon and you know do more exploratory things.
+But the most conservative thing we can do
+is to sort of pick a mid-morning flight.
+- So what is the purpose of this mission?
+The Mars helicopter is first and foremost a technology demonstration
+to prove that we can fly on another planet.
+The helicopter can take color photos and videos, but its purpose is not to make scientific discoveries.
+Instead it is to help engineers figure out how to design and build aircraft for future missions.
+- You can imagine something that's about 30 kilograms carrying you know a 2 kilogram science payload, doing exploration,
+acting like a scout, like a small vehicle, like this, scouting ahead for some future rover;
+or it could be a gadget that goes and picks up some kind of samples and brings it back to a central lander for more sophisticated analysis;
+or it could be a completely standalone craft, and maybe more than one
+that are exploring places where humans and rovers can't get to easily:
+polar ice caps, you know
+sides of cliffs and so forth.
+So the real emphasis here is to try to get back all the engineering data so that it can inform that future design.
+- Flying on other planets will provide a new dimension in space exploration.
+An aircraft is faster and capable of covering more ground than a rover
+and it can provide higher resolution imagery than an orbiting spacecraft.
+So maybe one day, aircrafts will be the companions of future rovers or even astronauts exploring other worlds.
