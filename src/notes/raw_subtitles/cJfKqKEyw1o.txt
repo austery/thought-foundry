@@ -1,0 +1,412 @@
+Let's take a moment
+and reflect back upon our lives
+when we were 20 years old.
+Think about where you were
+and the opportunities for work and career
+that lay in front of you.
+I'm curious, tell me,
+how many of you had a pretty good idea
+of what you wanted to do for your career?
+OK, not too many.
+How many were overwhelmed
+by all the options?
+OK, I know I felt the same.
+Well buckle up.
+It's only going to get more overwhelming.
+When I was 20 years old,
+I was graduating from Stanford University
+with a degree in pure mathematics.
+Nobody had sat me down to tell me
+that my pure math major
+wasn't going to be
+the most desirable qualification
+for prospective employers.
+And I probably wouldn't
+have listened if they did.
+So I went off along my default path,
+a math PhD program at UCLA,
+buying at least one more year
+to figure out my career.
+Now my first month in graduate school,
+Lehman Brothers went under.
+The start of the global financial crisis.
+Most of my friends, particularly
+the ones that felt the most secure
+in their financial careers,
+found themselves packing up
+their cubicles, out of work.
+Some of us wondered whether
+the economy would recover at all
+or whether we were in store
+for another decade-long Great Depression.
+But amidst the uncertainty,
+the pessimism,
+the malaise really, of that time,
+some of us found a source of optimism.
+The iPhone,
+and in particular, the App Store,
+came out that very same year, 2008.
+I still remember when the SDK,
+which was the instruction manual
+for how to build iPhone apps,
+was released.
+I was at my parents’ house,
+and I was up all night
+reading it, learning,
+trying to understand.
+I saw an opportunity
+for a new level playing field.
+And if you think about it,
+pretty much everything
+I've done since then,
+the company that I created,
+my professional career since that point
+was a product, both
+of the economic malaise
+but the technological optimism
+of the time as well.
+But times have changed.
+If the questions I'm hearing
+on the podcast circuit are any indication,
+the average 20-year-old today
+also has quite a bit of fear.
+But this time,
+emerging technology
+is not the antidote to that fear.
+It's the source.
+And they’re asking themselves:
+Will that career I’m looking at
+even be around in 10 years?
+Will humans still be writing
+computer software?
+Will we even be writing books?
+And I think one reason why it feels
+different this time is because AI,
+unlike the iPhone,
+is the first tool that we've built
+that's capable of leaving the toolbox,
+and we don't yet know its limits.
+A few years ago,
+I founded another company
+with the mission to build
+mathematical superintelligence.
+That's an artificial
+intelligence that can reason
+and solve problems
+better than any mathematician.
+You know, when I grew up,
+I always thought of mathematics
+as the pinnacle of human
+intellectual activity.
+If you could solve math problems,
+you could do pretty much anything.
+So a superhuman AI at mathematics
+could potentially be
+superhuman at everything.
+And that's a bit of a scary thought.
+So when you think about that,
+and I combine that with my day job,
+which is running a global
+financial services platform,
+it's led to me spending a lot of time
+pondering one very important question:
+What do we do in a world
+where the vast majority
+of today's jobs are gone?
+And I want to analyze
+this question rationally,
+without fear and hyperbole.
+One way to do it is to look
+back through history
+and see if there's been a time
+where we've faced this type
+of job disruption before,
+at anything near these levels,
+and how we as humans have navigated it.
+I should say one thing.
+I'm a technologist, not a historian.
+So with that caveat, let's go back in time
+to a world a 20-year-old
+would have known very long ago.
+Tens of thousands of years ago,
+to be more precise.
+Now as you can tell,
+the main occupations of this time,
+the Paleolithic era,
+are largely gone.
+Hunters, gatherers, toolmakers.
+But they didn't disappear overnight.
+Instead, they were subdivided
+into lots of other, more specialized jobs.
+So why don’t we move forward,
+to the Neolithic era.
+Now here, humans
+have mastered a few new things:
+farming, keeping livestock.
+And I'm going to zoom through this,
+but this was a big transformation.
+Actually, the invention of these things
+allowed us to spend more time
+doing what we consider creative work
+and less time on pure
+survival and subsistence.
+And this opened up a lot of new jobs.
+You had artisans like weavers,
+you had farmers, of course,
+potters, construction laborers.
+And these jobs, too, largely all gone.
+So in the US today, we should say,
+farmers make up less
+than two percent of the workforce.
+Let's move ahead through the changing jobs
+of the Bronze Age,
+the Iron Age.
+One of my favorites, the Dark Ages.
+Here we've got the Renaissance
+and the Age of Exploration.
+Too many jobs to count,
+a lot of them are gone.
+Now, any blacksmiths
+or explorers in this room?
+(Laughter)
+I didn't think so.
+I would have loved to be an explorer.
+How cool of a job would that be?
+It might come back,
+with space exploration.
+My great grandfather was a farmer
+in a village near Stara Zagora, Bulgaria.
+Now legend has it
+he was the first person in his village
+to see an automobile.
+And when he saw it,
+he ran back into the village and said,
+"There's a dragon out in the fields."
+(Laughter)
+His son, my grandfather,
+was also a farmer that didn't venture
+too far from the village.
+His son, my father,
+was the first in his family
+to go to the big city,
+Varna, Bulgaria, on the Black Sea coast,
+where I was also born.
+There, he became a professor of tourism,
+which was certainly
+a job that my grandfather
+and great grandfather never imagined.
+If you think about it,
+most of our last names are from jobs
+that our families no longer do.
+Potter, Butler, Butcher,
+even the most common, Smith.
+Any Fletchers in the audience?
+Anyone know what a fletcher is?
+I was going over my talk
+this weekend and my son said,
+"I know what a fletcher is, dad."
+He plays Minecraft.
+(Laughter)
+Everything old is new again, right?
+A fletcher is someone
+that makes and sells arrows.
+So if you know someone
+with that last name,
+their relatives were arms dealers.
+(Laughter)
+Now my point in all of this is
+you can probably take any prediction
+that you see in the media
+of job disruption
+and, in the fullness of time,
+at some point, even that
+will be an underestimate.
+Even that will be conservative.
+And what we find is that job disruption
+is then an essential quality
+of human evolution.
+We want work to disappear
+because it means that we're
+doing our jobs as humans,
+making our lives better and easier.
+And when it comes to labor,
+we yearn to increase
+dollars earned per hour worked.
+And this creates the market
+for the ever improving set of innovations
+that save us time and money.
+So with AI,
+maybe it’s not the job disruption itself
+that makes us so nervous
+but the speed with which it's happening
+and the acceleration.
+Maybe that's what makes us nervous.
+So why don't we accelerate?
+We’re going to go right through
+the Industrial Revolution
+into the modern era.
+So in the 20th century, a young person,
+in the wake of companies
+expanding and automating,
+there was a lot of change,
+would have found
+an entirely new menu of jobs
+that their parents never had access to.
+So instead of working in a factory,
+they would have had the selection
+of a wide assortment of new office jobs.
+And some of the parents
+were probably thinking,
+"You sit in a chair all day.
+That's not real work."
+Now let’s go through the Internet Era.
+OK, most of us have lived
+through at least a portion of this,
+and we see all around us
+jobs that didn't exist before.
+Some of us are probably in them.
+Maybe most of us.
+I know I am.
+So where does all this leave
+our 20-year-old
+at the dawn of the AI era?
+One feature that we found
+is recurrent throughout generations
+is this feeling of exceptionalism.
+We'd like to think that somehow
+we're at a discontinuity
+where history ends
+and we're in a new world
+with no precedent.
+And maybe it's true this time,
+we really don't know if we're building
+a super assistant or an apex predator.
+We don't.
+And certainly all change and disruption
+brings with it a painful transition.
+Jobs will disappear.
+Perhaps they'll disappear
+at an accelerating rate.
+But at the same time,
+what we've gone through here is tens
+of thousands of years of human history.
+And we see one undeniable trend.
+There's going to be new jobs
+and lots and lots of them.
+AI researchers talk
+about this idea of a singularity,
+an intelligence explosion.
+But what we see in the data
+is that we're also on a curve
+of rapidly accelerating job creation,
+which I like to call
+the “job singularity,”
+a Cambrian explosion of not just new jobs
+but new job families
+across every imaginable field.
+Where the internet
+gave people worldwide reach,
+AI gives them a world-class staff.
+And so, if you look at this cloud of jobs,
+certainly there's going to be some jobs
+that we can't predict yet.
+But I think we can make some predictions.
+There's going to be a flurry
+of new entrepreneurial activity
+with micro-corporations, solo institutions
+and single-person unicorns,
+which, by the way, I don't think
+we're very far from.
+Another defining feature
+of this job singularity,
+is that when you look into the future,
+the jobs will not look like real work.
+Much like to our predecessors,
+our current jobs
+would have looked like leisure.
+We have people getting paid
+to play video games,
+eat at restaurants,
+travel
+and talk to their friends on video.
+Those last people we call podcast bros.
+(Laughter)
+And we take our jobs very seriously.
+Those of us that do well
+certainly wouldn't say it's easy,
+but if you took someone
+from the 20th century
+when people first started
+contemplating these problems
+and they could peek into our world today,
+they would think
+that all of the predictions
+around "technological
+unemployment" came true.
+They'd say, we don't have any more jobs,
+and I bet that we would feel the same
+about our descendants in the future.
+So now what?
+We've shown that there's going to be
+lots of jobs to choose from.
+Some would argue too many,
+and that the jobs,
+along with the flurry
+of new entrepreneurial activity,
+will likely look like leisure to us,
+much like our jobs did to our ancestors.
+And I can tell you with near certainty
+that a humanity that's capable
+of building a superintelligent AI
+also has the creativity
+to navigate through this potential
+job doom-and-gloom scenario.
+Although we'll never
+stop worrying about it,
+we'll never stop worrying about it,
+because being hyper vigilant
+about threats to our survival
+is a key part of our survival mechanism.
+Also a key part of evolution,
+what makes us human.
+And although it'll take a lot of time
+to go into what kind of jobs
+are future-proofed,
+I can tell you that you
+shouldn't take predictions
+about future job disruption
+to keep you from doing something
+you feel very passionately about.
+You know, when I was a kid, in the '90s,
+teachers discouraged me from
+becoming a computer programmer.
+I don't know if many else heard this,
+but back then it was a common thought
+that all those jobs would be
+shipped off to China.
+Around the same time,
+If you guys remember, 1997,
+Deep Blue beat Garry Kasparov in chess.
+That was the first time an AI succeeded
+in what was considered a solely
+human intellectual affair.
+But now the chess industry
+is booming, bigger than ever.
+So even where it seems obvious,
+sometimes our predictions of the future
+end up being completely off.
+Humanity has always excelled
+at providing itself
+with meaning and purpose,
+even in the darkest
+and most uncertain of times.
+So if I had to guess,
+I feel very, very confident
+that the 20-year-olds of the future,
+perhaps in collaboration with AI,
+will continue to build new things
+which simultaneously,
+we're going to be scared of,
+but also excited by.
+Thank you for considering these ideas.
+(Applause)
