@@ -1,0 +1,1359 @@
+Hi
+ everybody.
+ Today
+ I'm
+ joined
+ by
+ Joel
+
+
+Helmar
+ who
+ is
+ the
+ founder
+ and
+ CEO
+ of
+
+
+Sana
+ which
+ is
+ an
+ a
+ really
+ important
+
+
+Swedish
+ AI
+ company.
+ They
+ specialize
+ in
+
+
+knowledge
+ management
+ and
+ Joel
+ is
+ behind
+
+
+the
+ very
+ important
+ new
+ Swedish
+ AI
+
+
+reform.
+ Now
+ this
+ reform
+ will
+ bring
+ AI
+
+
+models
+ to
+ 2.3
+ million
+ Swedes.
+ Wow.
+ What
+
+
+is
+ the
+ Swedish
+ AI
+ reform?
+ The
+ history
+ of
+
+
+the
+ Swedish
+ AI
+ reform
+ goes
+ back
+ to
+ the
+
+
+90s
+ where
+ Sweden
+ introduced
+ the
+ PC
+
+
+reform.
+ The
+ PC
+ reform
+ was
+ was
+ focused
+ on
+
+
+providing
+ a
+ a
+ personal
+ computer
+ in
+ every
+
+
+household.
+ Um
+ through
+ um
+ you
+ know
+ clever
+
+
+tax
+ uh
+ setups,
+ we
+ managed
+ to
+ get
+ one
+
+
+million
+ households
+ with
+ pieces
+ and
+ a
+ lot
+
+
+of
+ folks
+ credit
+ you
+ know
+ the
+ Swedish
+
+
+tech
+ wonder
+ if
+ you
+ like
+ coming
+ from
+ the
+
+
+Swedish
+ PC
+ reform.
+ So
+ what
+ we
+ started
+
+
+thinking
+ about
+ is
+ what
+ does
+ the
+
+
+equivalent
+ for
+ AI
+ look
+ like?
+ What
+ could
+
+
+we
+ do
+ for
+ AI
+ to
+ make
+ it
+ democratic
+
+
+across
+ Sweden?
+ And
+ so
+ we
+ set
+ up
+ uh
+ the
+
+
+Swedish
+ AI
+ reform.
+ We're
+ providing
+
+
+frontier
+ models
+ to
+ 2.3
+ million
+ Swedes
+
+
+for
+ free.
+ So
+ that's
+ all
+ universities,
+
+
+all
+ schools,
+ all
+ public
+ servants
+ that
+
+
+gets
+ free
+ access
+ to
+ all
+ of
+ the
+ frontier
+
+
+models.
+
+
+>> Who
+ pays
+ for
+ this?
+
+
+>> So
+ we
+ decided
+ to
+ set
+ up
+ a
+ structure
+ uh
+
+
+where
+ the
+ foundation
+ paid
+ for
+ it.
+ So
+
+
+through
+ the
+ generous
+ support
+ of
+ um
+ some
+
+
+of
+ the
+ Swedish
+ some
+ of
+ Sweden's
+ most
+
+
+successful
+ business
+ folks
+ uh
+ we
+ set
+ up
+ a
+
+
+foundation
+ that
+ ultimately
+ funded
+ uh
+ the
+
+
+the
+ access
+ to
+ these
+ models
+ that
+ enabled
+
+
+us
+ to
+ move
+ super
+ quickly.
+ So
+ uh
+ during
+
+
+the
+ time
+ of
+ six
+ weeks
+ we
+ managed
+ to
+ set
+
+
+up
+ the
+ foundation
+ get
+ it
+ funded
+ and
+ and
+
+
+then
+ start
+ distributing
+ these
+ models
+ to
+
+
+to
+ to
+ the
+ Swedish
+ population.
+
+
+>> And
+ how
+ much
+ money
+ are
+ we
+ talking
+ here
+
+
+if
+ you
+ have
+ to
+ put
+ a
+ number?
+ I
+ think
+ for
+
+
+a
+ nation
+ like
+ like
+ like
+ Sweden
+ um
+ it's
+
+
+in
+ the
+ sort
+ of
+ millions
+ of
+ of
+ dollars
+ to
+
+
+to
+ distribute
+ it
+ but
+ then
+ of
+ course
+ it
+
+
+depends
+ on
+ the
+ the
+ usage
+ of
+ the
+
+
+services.
+
+
+>> So
+ 20
+ 30
+ million
+ Swedish.
+
+
+>> Yeah
+ it
+ it
+ can
+ can
+ range
+ uh
+ as
+ you
+ scale
+
+
+it
+ up
+ but
+ that
+ would
+ be
+ a
+ ballpark.
+
+
+>> How
+ do
+ you
+ split
+ the
+ work
+ between
+ the
+
+
+private
+ sector
+ and
+ the
+ public
+ sector
+
+
+here?
+
+
+>> So
+ the
+ private
+ sector
+ is
+ is
+ funding
+ it.
+
+
+The
+ private
+ sector
+ is
+ also
+ building
+ the
+
+
+tools
+ and
+ we're
+ collaborating
+ with
+ the
+
+
+public
+ sector
+ to
+ distribute
+ it
+ and
+ so
+ um
+
+
+what
+ what
+ we
+ want
+ to
+ focus
+ on
+ is
+ can
+ we
+
+
+get
+ the
+ speed
+ of
+ of
+ funding
+ that
+ we
+ can
+
+
+get
+ for
+ these
+ initiatives
+ can
+ we
+ get
+ the
+
+
+speed
+ of
+ the
+ development
+ the
+ quality
+ of
+
+
+the
+ development
+ uh
+ if
+ these
+ tools
+ are
+
+
+not
+ consumer
+ grade
+ tools
+ people
+ are
+ not
+
+
+going
+ to
+ adopt
+ them
+ they
+ they
+ need
+ to
+ be
+
+
+at
+ the
+ very
+ frontier
+ of
+ of
+ AI
+ too
+ but
+
+
+then
+ if
+ we
+ can
+ combine
+ that
+ with
+ the
+
+
+public
+ sector
+ that
+ of
+ course
+ powers
+ our
+
+
+societies
+ and
+ has
+ all
+ of
+ the
+
+
+distribution
+ and
+ has
+ all
+ of
+ the
+ trust.
+
+
+Um,
+ that's
+ where
+ it
+ can
+ be
+ the
+ most
+
+
+effective.
+ So,
+ we're
+ taking
+ care
+ of
+ the
+
+
+funding.
+ I
+ don't
+ want
+ to
+ wait
+ for
+
+
+government
+ approvals
+ to
+ fund
+ this.
+ I
+
+
+don't
+ want
+ to
+ wait
+ for
+ a
+ long
+ process
+
+
+for
+ governments
+ to
+ develop
+ these
+ tools.
+
+
+That's
+ what
+ I
+ think
+ we
+ can
+ do
+ great
+ in
+
+
+the
+ in
+ in
+ the
+ in
+ the
+ private
+ sector.
+
+
+However,
+ there's
+ a
+ lot
+ of
+ trust
+ required
+
+
+for
+ this.
+ There's
+ a
+ lot
+ of
+ distribution
+
+
+required
+ for
+ this
+ and
+ that's
+ what
+ I
+
+
+think
+ the
+ public
+ sector
+ can
+ do
+ can
+ do
+
+
+really
+ well.
+
+
+>> Is
+ the
+ public
+ sector
+ willing
+ to
+
+
+distribute
+ this?
+ Are
+ they
+ doing
+ a
+ good
+
+
+job
+ distributing
+ it
+ in
+ Sweden?
+
+
+>> Uh
+ I
+ I I
+ think
+ so.
+ And
+ we
+ we
+ have
+ two
+
+
+approaches.
+ So
+ um
+ it's
+ part
+ bottoms
+ up,
+
+
+part
+ tops
+ down.
+ So
+ uh
+ bottoms
+ up,
+ anyone
+
+
+can
+ sign
+ up
+ on
+ the
+ website,
+ just
+
+
+instantly
+ get
+ get
+ access,
+ they
+ get
+
+
+access
+ to
+ these
+ AI
+ tools
+ that
+ can
+
+
+support
+ them
+ in
+ their
+ daily
+ work.
+ And
+
+
+then
+ there's
+ other
+ aspects
+ where
+ we're
+
+
+doing
+ more
+ top
+ down
+ where
+ we're
+ talking
+
+
+with
+ with
+ the
+ leaders
+ of
+ different
+
+
+government
+ um
+ institutions
+ and
+ then
+ they
+
+
+are
+ distributing
+ it
+ in
+ in
+ their
+ in
+ their
+
+
+organizations.
+
+
+>> So
+ just
+ to
+ get
+ it straight
+ the
+ tool
+
+
+basically
+ you
+ you
+ uh
+ you
+ signed
+ up
+ to
+
+
+your
+ tool
+ and
+ behind
+ the
+ tool
+ you
+ have
+
+
+different
+ type
+ of
+ models,
+ right?
+ So
+ it's
+
+
+not
+ dependent
+ just
+ on
+ one
+ uh
+ one
+ uh
+
+
+large
+ language
+ model.
+ It's
+ just
+ like
+ a
+
+
+range
+ of
+ tools.
+ Is
+ that
+ correct
+
+
+understanding?
+
+
+>> Exactly.
+ So
+ you
+ get
+ access
+ to
+ all
+ of
+ the
+
+
+frontier
+ models.
+ Whether
+ you
+ want
+ to
+ run
+
+
+on
+ anthropic
+ or
+ or
+ Gemini
+ or
+ open
+ AI
+
+
+models
+ or
+ anything
+ else,
+ we
+ have
+ access
+
+
+to
+ all
+ of
+ the
+ front
+ frontier
+ uh
+ frontier
+
+
+models.
+ These
+ are
+ models
+ that
+ in
+ some
+
+
+cases
+ can
+ cost
+ you
+ hundreds
+ of
+ dollars
+ a
+
+
+month
+ to
+ get
+ get
+ access
+ to.
+ Combined
+
+
+with
+ that,
+ we
+ also
+ enable
+ you
+ to
+ connect
+
+
+those
+ models
+ to
+ your
+ data
+ or
+ your
+
+
+knowledge.
+ And
+ we've
+ built
+ this
+ system
+
+
+in
+ a
+ way
+ that
+ respects
+ all
+ of
+ the
+ guard
+
+
+rails
+ that
+ you
+ for
+ example
+ need
+ in
+
+
+public
+ sector.
+
+
+>> So
+ given
+ that
+ I'm
+ a
+ bit
+ thick
+ u
+ what's
+
+
+going
+ to
+ happen
+ Sweden
+ here
+ with
+ all
+ the
+
+
+tools
+ Norway
+ here
+ not
+ applying
+ the
+ tools
+
+
+what's
+ going
+ to
+ happen
+ to
+ the
+ two
+
+
+countries
+
+
+>> I
+ think
+ you
+ get
+ a
+ compounding
+ advantage
+
+
+of
+ using
+ these
+ tools
+ and
+ that
+ advantage
+
+
+will
+ just
+ compound
+ uh
+ over
+ over
+ time.
+ So
+
+
+um
+ my
+ expectations
+ is
+ the
+ companies
+ that
+
+
+adopt
+ these
+ tools
+ more
+ effectively,
+
+
+they're
+ going to
+ have
+ more
+ successful
+
+
+companies,
+ both
+ new
+ companies
+ being
+
+
+founded.
+ That's
+ what
+ happened
+ after
+ the
+
+
+PC
+ reform.
+ People
+ learned
+ how
+ to
+ program
+
+
+and
+ then
+ when
+ they
+ learned
+ how
+ to
+
+
+program,
+ they
+ founded
+ Spotify
+ and
+ Cla
+
+
+and
+ and
+ other
+ companies
+ like
+ like
+ that.
+
+
+But
+ secondly,
+ the
+ Swedish
+ companies
+ are
+
+
+going
+ to
+ be
+ more
+ competitive
+ because
+
+
+they
+ know
+ how
+ to
+ use
+ these
+ tools.
+ They
+
+
+can,
+ you
+ know,
+ ultimately
+ it
+ starts
+
+
+eating
+ at
+ at
+ your
+ margins.
+ are
+ going
+ to
+
+
+be
+ able
+ to
+ provide
+ a
+ better
+ better
+
+
+better
+ product
+ more
+ cost-
+ effectively.
+
+
+Um
+ and
+ then
+ third,
+ I
+ think
+ um
+ as
+ a
+
+
+society,
+ we're
+ going to
+ have
+ higher
+
+
+quality
+ healthcare,
+ higher
+ quality
+
+
+education,
+ and
+ higher
+ quality
+ research.
+
+
+And
+ this
+ every
+ single
+ year
+ will
+ just
+
+
+keep
+ compounding.
+ And
+ so
+ I
+ think
+ the
+
+
+countries
+ that
+ adopt
+ this
+ slower
+ will
+
+
+will
+ take
+ a
+ very
+ long
+ time
+ to
+ to
+ catch
