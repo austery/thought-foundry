@@ -1,0 +1,387 @@
+Imagine you're a doctor
+and you're trying to save
+the life of a patient,
+but you can only see
+a fifth of their body.
+How are you going to prescribe medicine?
+How are you going to do surgery?
+See, this is exactly
+the situation we're in
+with nature across the planet.
+We need to act now
+to protect ecosystems under threat,
+but there's so much we don't know
+about life on Earth.
+I'm an AI researcher and an ecologist,
+and as a professor at MIT,
+I lead a research group
+that develops methods
+to help us learn more
+about the natural world.
+And I see a future where AI
+can help exponentially increase
+our ecological knowledge
+across species and ecosystems.
+But to get there, we need to change
+how we use AI in ecology.
+We need methods that are flexible,
+methods that are interactive,
+methods that scientists can use
+to discover knowledge hidden in our data.
+Now let me tell you
+why this is so important.
+Scientists estimate
+there are 10 million species
+sharing the planet with us.
+But we have only ever observed
+two million of those.
+That means eight million species,
+80 percent of the diversity of life
+on Earth, remains unknown.
+And we need to know much more
+than just a species exists
+to be able to protect it.
+Where does it live?
+What does it eat?
+Does it migrate? How far?
+This deeper knowledge about species
+takes far more than a single observation.
+But it's necessary to understand
+what puts species at risk.
+So, for an example,
+what if insect populations
+crash across North America?
+We know this is currently happening.
+What does that mean
+for birds that eat insects?
+Which birds are going to be most at risk,
+and which are going to be able
+to adapt to other food sources?
+What about predators further
+up the food chain that eat birds?
+Everything is interconnected,
+and a threat to one species,
+or a group of species,
+can ripple outward
+and trigger the complete collapse
+of an ecosystem as we know it.
+Unfortunately, species are under threat
+from every direction.
+Habitats are shrinking,
+temperatures are rising,
+food and water sources are disappearing.
+Natural disasters like fire are causing
+large-scale death and displacement.
+And invasive species are moving in
+and outcompeting
+native species for resources.
+As a result, extinction rates
+are now 100 to 1,000 times higher
+than what we would expect
+based on past data.
+Scientists, policymakers
+and community members worldwide
+are racing to understand
+what is causing this,
+what are the factors
+that are most contributing to this loss
+and what actions we can take to stop it.
+But unfortunately, it can feel
+like we're discovering species
+just in time to write their obituaries.
+Take the Tapanuli orangutan.
+We discovered this orangutan in 2017.
+It's one of only three species
+of orangutan on Earth,
+and it was critically endangered
+before we even knew it existed.
+Traditional forms of data collection
+are just too slow to keep up
+with our current crisis.
+And this is where I finally
+have some good news,
+because we are sitting
+on vast databases of ecological knowledge,
+and we have barely scratched the surface.
+Let's talk about just one
+of these databases,
+which is a platform called iNaturalist.
+300 million images
+have been uploaded to this platform
+by passionate volunteers.
+In every single image,
+the community has identified a species,
+and that level of species occurrence data
+has already been
+transformative for science.
+But there is a hidden
+treasure trove of knowledge
+that remains in the pixels.
+So let's look at just one of these images.
+In iNaturalist, this
+was labeled Grant’s zebra.
+And it's clearly evidence
+that Grant's zebra were sighted
+in this place and time.
+But it shows us so much more than that.
+There are three
+Grant's zebra in this image.
+We can identify each of them
+to the individual level
+based on their unique stripe pattern.
+By identifying individuals,
+we can do things like monitoring
+how species move across the planet,
+looking at social networks
+of species, growth, health,
+even estimating the full population size.
+These zebra are also coexisting
+with a herd of wildebeest.
+And if we look closely,
+we can even see an oxpecker,
+a bird that eats ticks
+and helps reduce the spread of disease.
+We could look at the background
+of the image and identify the type
+and coverage of vegetation.
+We can estimate biomass,
+use that to learn
+about locally stored carbon.
+We can look at what
+the animals are eating in the image
+and build a stronger knowledge
+of a local food chain.
+Take this much knowledge in one image
+and multiply it by 300 million
+images in iNaturalist,
+and then add in our other
+ecological databases.
+Millions of bioacoustic
+recordings on xeno-canto,
+tens of millions of camera-trap
+images and wildlife insights,
+thousands of hours
+of deep-sea footage in FathomNet.
+We're sitting on an ecological goldmine
+and the problem is accessing
+the knowledge efficiently.
+So say you want to look
+through all this data,
+assuming it takes you about a second
+to look at every image,
+you would need to work
+full-time for 40 years
+to look through all the images
+in iNaturalist alone.
+And this is where AI is transformative.
+It can just help us look
+through all the data quickly.
+So an ecologist today, say,
+they're interested in bird diets,
+and they want to find examples
+of birds eating insects in the database.
+What they can do is they can train
+an AI model to help them.
+So to do this, they collect hundreds
+or even thousands of examples
+to teach the model what to look for.
+Now once they’ve trained this model,
+it’s an incredible tool.
+It can very, very quickly find
+new examples of birds eating insects
+in the database.
+But this process of collecting hundreds
+or thousands of examples
+every time we want to look
+for something new,
+it's still too slow.
+So let's reframe the question.
+Scientific discovery really begins
+with scientific curiosity,
+with asking questions
+about the world and how it works.
+Things like, how far
+can a Grant's zebra migrate?
+What plants grow back after a forest fire?
+Do birds eat insects during the winter?
+Wouldn't it be great if instead
+we could just directly ask questions
+to our databases and get answers back?
+This is what my team at MIT
+has been working towards,
+and we've developed a system
+that we call Inquire
+that helps ecologists
+find answers in the data
+without collecting any examples
+to teach an AI model
+or needing to write any lines of code.
+Now under the hood,
+what we're doing
+is we're developing AI models
+that can learn and understand similarities
+between images and scientific language.
+And this is what allows us to just ask.
+So how does Inquire work?
+Well, first, an ecologist
+designs an experiment
+by taking a scientific question
+and breaking it down
+into a series of search terms
+that they can use to discover data
+that they'll analyze downstream.
+So one of those terms
+might be "bird eating insect."
+Now what happens
+is Inquire takes that search,
+and it directly compares it to all
+300 million images within seconds.
+It's engineered to do this,
+both quickly and efficiently,
+which is important because it means
+the system is truly interactive.
+But it also requires far less
+computational power
+than a generative
+AI approach like ChatGPT.
+Now once all of these images are sorted
+based on their relevance to the query,
+it's really easy for a scientist
+to just focus their attention
+on the data that’s most likely
+to be relevant to them
+and quickly verify the true matches.
+Now you have human-verified
+examples of data
+that you can directly export and analyze.
+One of our collaborators used this system,
+and they found thousands of examples
+of birds eating insects,
+but also seeds, fruit, nuts,
+carrion, nectar, plants.
+And then they took that data
+that they discovered quickly
+and they analyzed differences
+in species' diets
+between summer and winter.
+Now what they found was that, yeah,
+some birds do eat insects in the winter.
+American robins actually do,
+but far less than they do in the summer.
+And some species,
+like American tree sparrow,
+that are incredibly dependent on insects
+as a food source in the summer,
+don't eat them at all in the winter.
+This entire process, question-to-answer,
+took them about three hours.
+Another team spent 1,560 hours
+manually curating the data
+to do a similar study.
+And when you compare the results
+from Inquire to that study,
+you see an almost perfect match.
+I think this is so exciting, right?
+It means that we can start
+quickly getting access
+to all of this hidden knowledge.
+And really, I've been so inspired
+by the creativity
+of the scientists using the system.
+All of the flexible ways
+that people have explored many,
+many different questions.
+Things like looking
+at how forests regenerate after fire.
+Or discovering differences
+in species’ mortality
+between urban and rural areas.
+Or looking at how flowering
+events are changing
+in relation to a changing climate.
+The possibilities are truly endless.
+And the fact that it's open-ended
+means that any scientist
+can ask the questions
+they're interested in.
+Now this is also just the beginning,
+because we've shown
+that we can do this for images,
+but we can also imagine designing
+similar discovery-driven systems
+for bioacoustic recordings,
+for aerial video, for satellite data,
+for GPS trajectories
+coming from animal collars,
+any ecological data type you can think of.
+And that brings up
+a whole new opportunity,
+because all of these types of data
+are innately interrelated.
+They’re all looking at the same thing.
+They’re capturing complementary
+but distinct perspectives
+of life on Earth.
+And I can imagine a future
+where we have systems
+that help scientists quickly discover
+hidden connections between them all.
+Now, of course, this alone
+cannot solve our global nature crisis.
+But what it does do is
+it helps us maximize the value
+of data that we've already collected.
+And that means that then, in turn,
+we can carefully understand
+what knowledge gaps remain
+and strategically use our resources
+to collect new data to fill those.
+Overall, this means
+we're reducing the time
+and the cost of driving information
+that supports conservation actions.
+Things like understanding
+how to ensure that food
+and habitat resources are available
+to species when they need them most,
+when they're migrating through an area,
+when they're breeding or rearing young,
+or when they're recovering
+from natural disasters like fire.
+We stand at a unique point in history.
+We have both an unprecedented
+biodiversity crisis,
+but we also have unprecedented
+tools to address it.
+We have millions of people
+around the world
+eager to contribute to nature conservation
+and scientific discovery.
+And we have AI tools that enable
+scientists to find patterns
+in all of that data at scales
+impossible for humans alone.
+The future of conservation
+doesn't just lie in remote rainforests
+or deep ocean trenches.
+The future of conservation is hiding
+in our ecological databases,
+both the ones we have now
+but also the ones we have yet to collect.
+And that is where all of you come in,
+because everyone can contribute.
+Everyone can collect data
+and upload it to platforms
+like iNaturalist.
+Every photo uploaded,
+every sound recorded,
+every observation shared
+is a piece of the puzzle.
+We know that we need to act now
+to save nature under threat.
+And together with scientific
+AI tools in our toolbox,
+we can help by building
+the complete picture of life on Earth.
+Thank you.
+(Cheers and applause)
