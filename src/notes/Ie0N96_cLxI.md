@@ -34,13 +34,6 @@ products_models: []
 media_books: []
 status: evergreen
 ---
-[AI_META_START]
-# YAML Format Requirements (v8.0 - Strict Entity Control):
-# - All string values MUST be wrapped with English double quotes "
-# - For string content *inside* the quotes, use Chinese quotation marks "..."
-# - Each YAML array field MUST be followed by a blank line
-# - Use consistent 2-space indentation
-
 
 The center of this US strategy in Venezuela is oil. The country holds the world's largest reserves. And President Trump just announced that the country will be turning over millions and millions of barrels to the United States at market price.
 
