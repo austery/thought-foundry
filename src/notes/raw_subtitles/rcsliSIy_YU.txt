@@ -1,0 +1,12826 @@
+All
+
+
+right.
+ Thank
+ you
+ all
+ for
+ for
+ joining
+ for
+
+
+automating
+ massive
+ refactors
+ with
+ uh
+
+
+with
+ parallel
+ agents.
+ Um
+ super
+ excited
+
+
+to
+ talk
+ to
+ you
+ all
+ today
+ about
+ uh
+ you
+
+
+know
+ what
+ we're
+ doing
+ with
+ open
+ hands
+ to
+
+
+really
+ automate
+ large
+ scale
+ chunks
+ of
+
+
+software
+ engineering
+ work.
+ Lots
+ of
+ uh
+
+
+lots
+ of
+ toil
+ related
+ to
+ tech
+ debt,
+ code
+
+
+maintenance,
+ code
+ modernization.
+ Uh
+
+
+these
+ are
+ tasks
+ that
+ are
+ super
+
+
+automatable.
+ Uh
+ you
+ can
+ throw
+ agents
+ at
+
+
+them,
+ but
+ they
+ tend
+ to
+ be
+ way
+ too
+ big
+
+
+for
+ like
+ you
+ know
+ a
+ single
+ just
+ one
+
+
+shot.
+ So
+ it
+ involves
+ a
+ lot
+ of
+ what
+ we
+
+
+call
+ agent
+ orchestration.
+ Uh
+ we're
+ going
+
+
+to
+ talk
+ a
+ little
+ bit
+ about
+ how
+ we
+ do
+
+
+that
+ uh
+ with
+ Open
+ Hands
+ and
+ also
+ just
+
+
+more
+ generically.
+
+
+Uh
+ a
+ little
+ bit
+ about
+ me.
+ Um
+ my
+ name
+ is
+
+
+Robert
+ Brennan.
+ I'm
+ the
+ co-founder
+ and
+
+
+CEO
+ at
+ Open
+ Hands.
+ Uh
+ my
+ background
+ is
+
+
+in
+ dev
+ tooling.
+ I've
+ been
+ working
+ in
+
+
+open
+ source
+ dev
+ tools
+ for
+ over
+ a
+ decade
+
+
+now.
+ I've
+ also
+ been
+ working
+ in
+ natural
+
+
+language
+ processing
+ for
+ about
+ the
+ same
+
+
+amount
+ of
+ time.
+ Um
+ uh
+ I've
+ been
+ really
+
+
+excited
+ over
+ the
+ last
+ few
+ years
+ to
+ see
+
+
+those
+ two
+ fields
+ suddenly
+ converge
+ as
+
+
+LMS
+ are
+ really
+ good
+ at
+ writing
+ code.
+ Um
+
+
+and
+ I'm
+ super
+ excited
+ to
+ be
+ be
+ working
+
+
+in
+ the
+ space.
+ Uh
+ then
+ open
+ hands
+ is
+ an
+
+
+MIT
+ licensed
+ coding
+ agent.
+ Open
+ hands
+
+
+started
+ at
+ open
+ dev
+ about
+ a
+ year
+ and
+ a
+
+
+half
+ ago
+ when
+ Devon
+ first
+ launched
+ their
+
+
+uh
+ demo
+ video
+ of
+ a
+ fully
+ autonomous
+
+
+software
+ engineering
+ agent.
+ Uh
+ my
+
+
+co-founders
+ and
+ I
+ saw
+ that
+ got
+ super
+
+
+excited
+ about
+ you
+ know
+ what
+ was
+ possible
+
+
+what
+ the
+ future
+ of
+ software
+ engineering
+
+
+might
+ look
+ like.
+ uh
+ but
+ realized
+ that
+
+
+that
+ shouldn't
+ happen
+ in
+ a
+ black
+ box,
+
+
+right?
+ If
+ our
+ adopts
+ are
+ going
+ to
+
+
+change,
+ we
+ want
+ that
+ change
+ to
+ be
+ driven
+
+
+by
+ the
+ software
+ development
+ community.
+
+
+We
+ want
+ to
+ have
+ a
+ say
+ in
+ that
+ change.
+ Um
+
+
+and
+ so
+ we
+ started
+ opens
+ uh
+ then
+ open
+ dev
+
+
+as
+ a
+ way
+ to
+ give
+ the
+ community
+ a
+ way
+ to
+
+
+help
+ drive
+ what
+ the
+ future
+ of
+ software
+
+
+engineering
+ might
+ look
+ like
+ in
+ an
+ AI
+
+
+powered
+ world.
+
+
+Uh
+ so
+ hopefully
+ not
+ uh
+ controversial
+ for
+
+
+me
+ to
+ say
+ that
+ software
+ development
+ is
+
+
+changing.
+ Um,
+ I
+ know
+ my
+ workflow
+ has
+
+
+changed
+ a
+ great
+ deal,
+ uh,
+ in
+ the
+ last
+
+
+year
+ and
+ a
+ half.
+ Um,
+ uh,
+ I
+ would
+ say
+
+
+now,
+ like,
+ you
+ know,
+ pretty
+ much
+ every
+
+
+line
+ of
+ code
+ that
+ I
+ write
+ goes
+ through
+
+
+an
+ agent.
+ Uh,
+ rather
+ than
+ me
+ opening
+ up
+
+
+my
+ IDE
+ and
+ typing
+ out
+ lines
+ of
+ code,
+ I'm
+
+
+now
+ asking
+ an
+ agent
+ to
+ do
+ the
+ work
+ for
+
+
+me.
+ I'm
+ still,
+ you
+ know,
+ doing
+ a
+ lot
+ of
+
+
+critical
+ thinking.
+ You
+ know,
+ a
+ lot
+ of
+
+
+the
+ the
+ mentality
+ of
+ the
+ job
+ hasn't
+
+
+changed,
+ but
+ what
+ the
+ actual
+ work
+ looks
+
+
+like
+ has
+ changed
+ quite
+ a
+ bit.
+ Uh,
+ but
+
+
+what
+ I
+ want
+ to
+ convince
+ you
+ all
+ of
+ is
+
+
+that
+ it's
+ still
+ changing.
+ We're
+ still
+
+
+just
+ in
+ the
+ first
+ innings
+ of
+ this
+
+
+change.
+ We
+ still
+ haven't
+ realized
+ all
+
+
+the
+ um
+ all
+ the
+ impact
+ that
+ large
+
+
+language
+ models
+ are
+ have
+ already
+ brought
+
+
+to
+ the
+ job
+ and
+ are
+ going
+ to
+ continue
+ to
+
+
+bring
+ to
+ the
+ job
+ as
+ they
+ improve.
+ Uh
+ I
+
+
+would
+ say
+ even
+ if
+ you
+ froze
+ large
+
+
+language
+ models
+ today
+ and
+ they
+ didn't
+
+
+get
+ any
+ better,
+ you
+ would
+ still
+ see
+ the
+
+
+job
+ of
+ software
+ engineering
+ changing
+
+
+very
+ drastically
+ over
+ the
+ next
+ two
+ to
+
+
+three
+ years
+ as
+ we
+ figure
+ out
+ ways
+ to
+
+
+operationalize
+ the
+ technology.
+ Uh
+ I
+
+
+think
+ there's
+ still
+ a
+ lot
+ of
+ uh
+ sort
+ of
+
+
+psychological
+ and
+ organizational
+ hurdles
+
+
+to
+ adopting
+ uh
+ large
+ language
+ models
+
+
+within
+ software
+ engineering.
+ Um
+ and
+
+
+we're
+ seeing
+ a
+ lot
+ of
+ those
+ hurdles
+
+
+disappear
+ as
+ time
+ goes
+ on.
+
+
+A
+ brief
+ history
+ of
+ kind
+ of
+ how
+ we
+ got
+
+
+here.
+ U
+ everything
+ started
+ I
+ would
+ say
+
+
+with
+ what
+ I
+ call
+ contextware
+ code
+
+
+snippets.
+ um
+ some
+ of
+ the
+ first
+ large
+
+
+language
+ models
+ it
+ turned
+ out
+ were
+ very
+
+
+good
+ at
+ writing
+ chunks
+ of
+ code
+
+
+especially
+ things
+ that
+ they'd
+ seen
+ over
+
+
+and
+ over
+ again.
+ So
+ you
+ could
+ ask
+ it
+ to
+
+
+write
+ bubble
+ sort.
+ Uh
+ you
+ could
+ ask
+ it
+
+
+for
+ you
+ know
+ small
+ algorithms
+ you
+ know
+
+
+how
+ to
+ how
+ to
+ access
+ a
+ SQL
+ database
+
+
+things
+ like
+ that.
+ Uh
+ it
+ was
+ able
+ to
+
+
+generate
+ little
+ bits
+ of
+ code.
+ It
+ was
+
+
+able
+ to
+ to
+ you
+ know
+ it
+ seemed
+ to
+
+
+understand
+ the
+ logic
+ a
+ bit.
+ But
+ this
+ was
+
+
+totally
+ context
+ unaware
+ right
+ it
+ was
+
+
+just
+ dropping
+ code
+ into
+ a
+ chat
+ window
+
+
+that
+ you
+ had
+ asked
+ for.
+ It
+ had
+ no
+ idea
+
+
+what
+ project
+ you
+ were
+ working
+ on
+ what
+
+
+the
+ context
+ was.
+
+
+Shortly
+ thereafter
+ we
+ got
+ these
+
+
+contextaware
+ code
+ generation.
+ Uh
+ so
+ like
+
+
+GitHub
+ copilot
+ as
+ autocomplete
+ um
+ was
+
+
+probably
+ like
+ the
+ the
+ best
+ example
+ here
+
+
+right
+ uh
+ so
+ you
+ actually
+ was
+ in
+ your
+ IDE
+
+
+it
+ could
+ see
+ you
+ know
+ where
+ you're
+
+
+typing
+ you
+ know
+ what
+ the
+ what
+ the
+ code
+
+
+you're
+ working
+ on
+ in
+ uh
+ and
+ it
+ could
+
+
+generate
+ code
+ that
+ was
+ specific
+ to
+ your
+
+
+codebase
+ that
+ reference
+ you
+ know
+ local
+
+
+variable
+ names
+ that
+ reference
+ you
+ know
+
+
+local
+ table
+ names
+ in
+ your
+ database
+ uh
+
+
+huge
+ huge
+ improvement
+ for
+ um
+ uh
+ you
+ know
+
+
+our
+ productivity
+ so
+ instead
+ of
+ copy
+
+
+pasting
+ back
+ and
+ forth
+ between
+ the
+ chat
+
+
+GBT
+ window
+ and
+ your
+ IDE
+ now
+ All
+ of a
+
+
+sudden,
+ you
+ can
+ see
+ the
+ little
+ robot
+ get
+
+
+its
+ eyes.
+ It
+ can
+ see
+ inside
+ your
+
+
+codebase
+ and
+ it
+ can
+ actually
+ generate
+
+
+relevant
+ code
+ for
+ your
+ for
+ your
+ your
+
+
+codebase.
+
+
+And
+ then
+ I
+ think
+ the
+ the
+ giant
+ leap
+
+
+happened
+ in
+ early
+ 2024
+ um
+ with
+ the
+
+
+launch
+ of
+ Devon
+ and
+ then
+ uh
+ the
+ next
+ day
+
+
+the
+ launch
+ of
+ open
+ devon
+ now
+ open
+ hands.
+
+
+Uh
+ this
+ is
+ where
+ we
+ first
+ started
+ to
+ see
+
+
+autonomous
+ coding
+ agents.
+ So
+ this
+ is
+
+
+when
+ AI
+ started
+ not
+ just
+ writing
+ code
+
+
+but
+ could
+ run
+ the
+ code
+ that
+ it
+ wrote
+ and
+
+
+it
+ could
+ Google
+ an
+ error
+ message
+ that
+
+
+came
+ out,
+ find
+ a
+ stack
+ overflow
+ article,
+
+
+apply
+ that
+ to
+ the
+ code,
+ add
+ some
+ debug
+
+
+statements
+ into
+ the
+ code
+ and
+ run
+ it
+ and
+
+
+see
+ what
+ happens.
+ Basically
+ automating
+
+
+the
+ entire
+ inner
+ loop
+ of
+ development.
+ Um
+
+
+this
+ was
+ this
+ was
+ a
+ huge
+ uh
+ step
+
+
+function
+ forward.
+ Um
+ you
+ can
+ see
+ the
+
+
+little
+ the
+ little
+ robot
+ gets
+ arms
+ in
+
+
+this
+ picture.
+ Um
+ this
+ was
+ a
+ this
+ was
+ a
+
+
+huge
+ jump
+ at least
+ at least
+ in
+ my
+ own
+
+
+productivity.
+ um
+ being
+ able
+ to
+ like
+ just
+
+
+write
+ a
+ couple
+ sentences
+ of
+ English,
+
+
+give
+ it
+ to
+ an
+ agent
+ and
+ let
+ it
+ churn
+
+
+through
+ the
+ task
+ until
+ it's
+ got
+
+
+something
+ that's
+ actually
+ working,
+
+
+running,
+ tests
+ are
+ passing.
+
+
+And
+ then
+ now
+ what
+ we're
+ seeing
+ is
+ uh
+
+
+parallel
+ agents,
+ what
+ we're
+ calling
+
+
+agent
+ orchestration.
+ Uh
+ folks
+ are
+
+
+figuring
+ out
+ how
+ to
+ get
+ multiple
+ agents
+
+
+working
+ uh
+ in
+ parallel,
+ sometimes
+
+
+talking
+ to
+ each
+ other,
+ sometimes
+
+
+spinning
+ up
+ new
+ agents
+ under
+ the
+ hood.
+
+
+Um
+ you
+ know,
+ agents
+ creating
+ agents.
+ Um
+
+
+this
+ is
+ uh
+ I
+ would
+ say
+ kind
+ of
+ bleeding
+
+
+edge
+ of
+ what's
+ possible.
+ Um
+ people
+ are
+
+
+just
+ starting
+ to
+ experiment
+ with
+ this
+
+
+are
+ just
+ starting
+ to
+ see
+ success
+ with
+
+
+this
+ at
+ scale
+ but
+ there
+ are
+ some
+ uh
+ some
+
+
+really
+ good
+ tasks
+ that
+ are
+ um
+ uh
+ very
+
+
+amenable
+ to
+ this
+ sort
+ of
+ workflow.
+ Uh
+
+
+and
+ it
+ has
+ the
+ potential
+ to
+ really
+ uh
+
+
+automate
+ away
+ a
+ huge
+ mountain
+ of
+ tech
+
+
+that
+ sits
+ under
+ you
+ know
+ every
+
+
+contemporary
+ software
+ company.
+
+
+a
+ little
+ bit
+ about
+ kind
+ of
+ like
+ the
+ the
+
+
+market
+ landscape
+ here.
+ Um,
+ again,
+ you
+
+
+can
+ kind
+ of
+ see
+ that
+ same
+ evolution
+ from
+
+
+left
+ to
+ right
+ where
+ we
+ really
+ started
+
+
+with,
+ you
+ know,
+ plugins
+ like
+ GitHub
+
+
+copilot
+ inside
+ of
+ our
+ existing
+ IDEs
+ and
+
+
+we
+ got
+ these
+ like
+ AI
+ AI
+ empowered
+ IDEs,
+
+
+ids
+ with
+ like
+ AI
+ tacked
+ onto
+ them.
+ Um,
+ I
+
+
+would
+ say
+ your
+ your
+ median
+ developer
+ is
+
+
+kind
+ of
+ adopting
+ local
+ agents
+ now.
+ They
+
+
+may
+ be
+ running
+ cloud
+ code
+ locally
+ for
+ uh
+
+
+one
+ or
+ two
+ things.
+ Um,
+ maybe
+ some
+ ad
+ hoc
+
+
+tasks.
+ Uh
+ your
+ early
+ adopters
+ though
+ are
+
+
+starting
+ to
+ look
+ at
+ cloud-based
+ agents,
+
+
+agents
+ that
+ get
+ their
+ own
+ sandbox
+
+
+running
+ in
+ the
+ cloud.
+ This
+ allows
+ uh
+
+
+those
+ early
+ adopters
+ to
+ run
+ as
+ many
+
+
+agents
+ as
+ they
+ want
+ in
+ parallel.
+ U
+ it
+
+
+allows
+ them
+ to
+ run
+ those
+ agents
+ much
+
+
+more
+ autonomously
+ than
+ if
+ they
+ were
+
+
+running
+ on
+ their
+ local
+ laptop,
+ right?
+ If
+
+
+it's
+ running
+ on
+ your
+ local
+ laptop,
+
+
+there's
+ nothing
+ stopping
+ the
+ agent
+ from
+
+
+doing
+ rmrf
+ slash
+ trying
+ to
+ delete
+
+
+everything
+ in
+ your
+ home
+ directory,
+
+
+whatever
+ it
+ might
+ do,
+ installing
+ some
+
+
+weird
+ software.
+ Whereas
+ if
+ it's
+ got
+ its
+
+
+own
+ like
+ containerized
+ environment
+
+
+somewhere
+ in
+ the
+ cloud,
+ you
+ can
+ run
+ a
+
+
+little
+ bit
+ more
+ safely
+ knowing
+ that
+ you
+
+
+know
+ the
+ worst
+ it
+ can
+ do
+ is
+ ruin
+ its
+ own
+
+
+environment
+ uh
+ and
+ um
+ uh
+ you
+ don't
+ have
+
+
+to
+ like
+ sit
+ there
+ babysitting
+ it
+ and
+
+
+hitting
+ the
+ Y
+ key
+ every
+ time
+ it
+ wants
+ to
+
+
+run
+ a
+ command.
+ Uh
+ so
+ those
+ cloud-based
+
+
+environments
+ much
+ more
+ scalable
+ uh
+ a
+ bit
+
+
+more
+ secure.
+ Um
+ and
+ then
+ uh
+ I
+ would
+ say
+
+
+at
+ the
+ far
+ right
+ here
+ what
+ we're
+ really
+
+
+just
+ seeing
+ the
+ top
+ like
+ 1%
+ of
+ early
+
+
+adopters
+ uh
+ start
+ to
+ experiment
+ with
+ is
+
+
+orchestration.
+ this
+ idea
+ that
+ you
+ not
+
+
+only
+ have
+ these
+ agents
+ running
+ in
+ the
+
+
+cloud,
+ but
+ you
+ have
+ them
+ talking
+ to
+ each
+
+
+other.
+ Uh
+ you're
+ coordinating
+ those
+
+
+agents,
+ you
+ know,
+ on
+ a
+ larger
+ task.
+ Uh
+
+
+maybe
+ those
+ agents
+ are
+ spinning
+ out
+ sub
+
+
+aents
+ within
+ the
+ cloud
+ that
+ have
+ their
+
+
+own
+ sandbox
+ environments.
+ Uh
+ some
+ really
+
+
+cool
+ stuff
+ happening
+ there.
+ Uh
+ I
+ would
+
+
+say,
+ you
+ know,
+ with
+ open
+ hands,
+ we
+ we
+
+
+generally
+ started
+ with
+ cloud
+ agents.
+ Uh
+
+
+we've
+ leaned
+ back
+ a
+ little
+ bit
+ and
+ built
+
+
+local
+ CLI
+ similar
+ to
+ cloud
+ code
+ in
+ order
+
+
+to
+ meet
+ developers
+ where
+ they
+ are
+ today.
+
+
+you
+ know
+ these
+ these
+ types
+ of
+
+
+experiences
+ are
+ much
+ more
+ comfortable
+
+
+for
+ developers.
+ Uh
+ you
+ know
+ we've
+ been
+
+
+using
+ autocomplete
+ for
+ decades
+ just
+ got
+
+
+million
+ times
+ better
+ with
+ GitHub
+ go-
+
+
+pilot.
+ Um
+ I
+ would
+ say
+ these
+ experiences
+
+
+on
+ the
+ right
+ side
+ are
+ very
+ foreign
+ to
+
+
+developers.
+ They
+ feel
+ very
+ strange
+ to
+
+
+like
+ give
+ off
+ a
+ pass
+ to
+ an
+ agent
+ or
+ a
+
+
+fleet
+ of
+ agents
+ uh
+ and
+ let
+ them
+ do
+ the
+
+
+work
+ for
+ you.
+ It
+ feels
+ kind
+ of
+ like
+ uh
+
+
+for
+ me
+ at
+ least
+ uh
+ the
+ jump
+ that
+ I
+ made
+
+
+when
+ I
+ went
+ from
+ being
+ an
+ IC
+ to
+ being
+ a
+
+
+manager
+ um
+ is
+ is
+ what
+ it
+ feels
+ like
+
+
+going
+ from
+ writing
+ code
+ myself
+ to
+ giving
+
+
+that
+ code
+ to
+ agents.
+ Uh
+ so
+ very
+ very
+
+
+different
+ way
+ of
+ working.
+ I
+ think
+ one
+ of
+
+
+the
+ developers
+ have
+ been
+ very
+ slow
+ to
+
+
+adopt.
+ Uh
+ but
+ again
+ the
+ top
+ 1%
+ or
+ so
+ of
+
+
+engineers
+ that
+ we've
+ seen
+ adopt
+ the
+
+
+stuff
+ on
+ the
+ right
+ side
+ of
+ this
+ uh
+
+
+landscape.
+ Uh
+ they've
+ been
+ able
+ to
+ get
+
+
+you
+ know
+ massive
+ massive
+ lifts
+ in
+
+
+productivity
+ and
+ tackle
+ huge
+ backlogs
+ of
+
+
+tech
+ that
+ other
+ teams
+ just
+ weren't
+
+
+getting
+ to.
+
+
+Uh
+ some
+ examples
+ of
+ where
+ you
+ would
+ want
+
+
+to
+ use
+ orchestration
+ rather
+ than
+ a
+
+
+single
+ agent.
+ Uh
+ typically
+ these
+ are
+
+
+tasks
+ that
+ are
+ going
+ to
+ be
+ very
+
+
+repeatable
+ and
+ very
+ automatable.
+
+
+Uh
+ so
+ some
+ examples
+ are
+ things
+ like
+ the
+
+
+basic
+ code
+ maintenance
+ tasks,
+ right?
+
+
+Every
+ codebase
+ has
+ to
+ uh
+ you
+ know
+
+
+there's
+ there's
+ a
+ certain
+ amount
+ of
+ work
+
+
+to
+ do
+ to
+ just
+ keep
+ the
+ lights
+ on,
+ right?
+
+
+To
+ keep
+ dependencies
+ up
+ to
+ date
+ to
+ uh
+
+
+make
+ sure
+ that
+ any
+ vulnerabilities
+ get
+
+
+solved.
+ Uh
+ we
+ have
+ one
+ client
+ for
+
+
+instance
+ that
+ is
+ using
+ open
+ hands
+ to
+ uh
+
+
+remediate
+ CDEs
+ throughout
+ their
+ entire
+
+
+codebase.
+ They
+ have
+ tens
+ of
+ thousands
+ of
+
+
+developers,
+ thousands
+ of
+ thousands
+ of
+
+
+repositories.
+ Um
+ and
+ basically
+ every
+
+
+time
+ a
+ new
+ vulnerability
+ gets
+ announced
+
+
+in
+ an
+ open
+ source
+ project,
+ they
+ have
+ to
+
+
+go
+ through
+ their
+ entire
+ codebase,
+ figure
+
+
+out
+ which
+ of
+ their
+ repos
+ are
+ vulnerable,
+
+
+uh
+ submit
+ a
+ poll
+ request
+ to
+ that
+
+
+codebase
+ to
+ uh
+ actually
+ uh
+ you
+ know
+
+
+resolve
+ the
+ CVD,
+ update
+ whatever
+
+
+dependency,
+ fix
+ breaking
+ API
+ changes.
+ Uh
+
+
+and
+ they
+ have
+ seen
+ a
+ 30x
+ improvement
+ on
+
+
+time
+ resolutions
+ for
+ these
+ CVDs
+ by
+ doing
+
+
+uh
+ orchestration
+ at
+ scale.
+ uh
+ they
+
+
+basically
+ have
+ a
+ setup
+ now
+ where
+ every
+
+
+time
+ an
+ ACV
+ gets
+ announced,
+ new
+
+
+vulnerability
+ comes
+ in.
+ Uh
+ they
+ kick
+ off
+
+
+an
+ open
+ hand
+ session
+ to
+ scan
+ a
+ repo
+ for
+
+
+that
+ vulnerability.
+ Uh
+ make
+ any
+ code
+
+
+changes
+ that
+ are
+ necessary
+ and
+ open
+ up
+ a
+
+
+pull
+ request
+ and
+ all
+ the
+ downstream
+ team
+
+
+has
+ to
+ do
+ is
+ click
+ merge,
+ validate
+ the
+
+
+changes.
+
+
+Um
+ you
+ can
+ also
+ do
+ this
+ for
+ like
+
+
+automating
+ documentation
+ and
+ release
+
+
+notes.
+ Um
+ there's
+ a
+ bunch
+ of
+
+
+modernization
+ challenges
+ that
+ uh
+
+
+companies
+ face.
+ Um,
+ for
+ instance,
+ uh,
+
+
+you
+ might
+ want
+ to
+ add
+ type
+ annotations
+
+
+to
+ your
+ Python
+ codebase
+ if
+ you're
+
+
+working
+ with
+ Python
+ 3.
+ Um,
+ you
+ might
+
+
+want
+ to
+ split
+ your
+ Java,
+ you
+ know,
+ like
+
+
+a
+ monolith
+ into
+ microservices.
+ Um,
+ these
+
+
+are
+ the
+ sorts
+ of
+ tasks
+ that
+ are
+ still
+
+
+going
+ to
+ take
+ a
+ lot
+ of
+ um,
+ thought
+ for
+
+
+an
+ engineer.
+ You
+ know,
+ you
+ can't
+ just
+
+
+like
+ one
+ shot
+ it
+ with
+ code
+ and
+ say
+ like
+
+
+uh,
+ you
+ know,
+ refactor
+ my
+ model
+ if
+ it's
+
+
+microservices,
+ but
+ it
+ is
+ still
+ very
+ real
+
+
+work,
+ right?
+ You're
+ still
+ just
+ kind
+ of
+
+
+like
+ copying
+ and
+ pasting
+ a
+ lot
+ of
+ code
+
+
+around.
+ So
+ if
+ you
+ thoughtully
+ or
+ trade
+
+
+agents
+ together,
+ they
+ can
+ do
+ this.
+ Um
+ a
+
+
+lot
+ of
+ migration
+ stuff.
+ So
+ migrating
+
+
+from
+ like
+ old
+ versions
+ of
+ Java
+ to
+ new
+
+
+versions
+ of
+ Java.
+ We're
+ working
+ with
+ one
+
+
+client
+ to
+ migrate
+ a
+ bunch
+ of
+ Spark
+ 2
+
+
+jobs
+ to
+ Spark
+ 3.
+ Um
+ we've
+ uh
+ used
+ Open
+
+
+to
+ migrate
+ our
+ entire
+ front
+ end
+ from
+
+
+React
+ uh
+ from
+ Redux
+ to
+ Zustand.
+ U
+ so
+ you
+
+
+can
+ do
+ these
+ very
+ large
+ migrations.
+
+
+Again,
+ lots
+ of
+ very
+ growth
+ work.
+ still
+
+
+takes
+ a
+ lot
+ of
+ um
+ thinking
+ from
+ a
+ human
+
+
+about
+ how
+ they're
+ going to
+ orchestrate
+
+
+these
+ agents.
+ Um
+ and
+ there's
+ a
+ lot
+ of
+
+
+tech
+ that
+ uh
+ detecting
+ unused
+ code
+
+
+getting
+ rid
+ of
+ that
+ um
+ you
+ know
+ we
+ we
+
+
+have
+ one
+ client
+ who's
+ using
+ our
+ SDK
+ to
+
+
+basically
+ scan
+ their
+ data.logs
+ every
+
+
+time
+ there's
+ a
+ new
+ error
+ pattern
+ go
+ into
+
+
+the
+ codebase
+ and
+ uh
+ add
+ error
+ handling
+
+
+fix
+ whatever
+ problem
+ is
+ uh
+ is
+ cropping
+
+
+up.
+ Um,
+ so
+ lots
+ of
+ things
+ that
+ you
+ know
+
+
+are
+ a
+ little
+ too
+ big
+ for
+ a
+ single
+ agent
+
+
+to
+ just
+ one
+ shot.
+ Um,
+ but
+ are
+ super
+
+
+automatable
+ are
+ good
+ tasks
+ to
+ handle
+
+
+with
+ an
+ agent
+ as
+ long
+ as
+ you're
+
+
+thoughtful
+ about
+ orchestrating
+ them.
+
+
+A
+ bit
+ about
+ why
+ these
+ aren't
+ onestopable
+
+
+tasks.
+ Uh,
+ some
+ of
+ them
+ are
+
+
+technological
+ problems,
+ some
+ of
+ them
+ are
+
+
+more
+ like
+ human
+ psychological
+ problems.
+
+
+On
+ the
+ technology
+ side,
+ you
+ have
+ a
+
+
+limited
+ amount
+ of
+ context
+ uh
+ that
+ you
+
+
+can
+ give
+ to
+ the
+ agent.
+ So
+ extremely
+ long
+
+
+running
+ tasks
+ are
+ tasks
+ that
+ span
+ like
+ a
+
+
+very
+ large
+ code
+ base.
+ Usually
+ you
+ don't
+
+
+really
+ have
+ enough
+ there.
+ You're
+ going
+
+
+to
+ have
+ to
+ uh
+ compact
+ that
+ context
+
+
+window
+ to
+ the
+ point
+ the
+ agent
+ might
+ get
+
+
+lost.
+ Uh
+ we've
+ all
+ seen
+ the
+ laziness
+
+
+problem.
+ Uh
+ I've
+ tried
+ to
+ launch
+ out
+
+
+some
+ of
+ these
+ types
+ of
+ tasks.
+ And
+ the
+
+
+agent
+ will
+ say,
+ "Okay,
+ I
+ migrated
+ three
+
+
+of
+ your
+ 100
+ services.
+ I
+ need
+ to
+ hire
+ a
+
+
+team
+ of
+ six
+ people
+ to
+ do
+ the
+ rest."
+ Um
+
+
+uh
+ the
+ agents
+ often
+ lack
+ domain
+
+
+knowledge
+ within
+ your
+ codebase,
+ right?
+
+
+They
+ don't
+ have
+ the
+ same
+ intuition
+ that
+
+
+you
+ do
+ for
+ the
+ problem.
+
+
+Uh
+ and
+ errors
+ compound
+ when
+ you
+ go
+ on
+
+
+these
+ really
+ long
+ trajectories
+ with
+ an
+
+
+agent.
+ Uh
+ a
+ tiny
+ error
+ in
+ the
+ beginning
+
+
+is
+ going
+ to
+ uh
+ you
+ know
+ compound
+ over
+
+
+time.
+ The
+ agent
+ is
+ going
+ to
+ basically
+
+
+repeat
+ that
+ error
+ over
+ and
+ over
+ and
+ over
+
+
+again
+ for
+ every
+ single
+ step
+ that
+ it
+
+
+takes
+ in
+ its
+ task.
+ Uh
+ and
+ then
+ on
+ the
+
+
+human
+ side
+ uh
+ you
+ know
+ we
+ do
+ have
+ this
+
+
+intuition
+ for
+ the
+ problem
+ we
+ can't
+
+
+convey.
+ You
+ know
+ say
+ you
+ want
+ to
+ break
+
+
+your
+ model
+ into
+ microservices.
+ You
+
+
+probably
+ have
+ a
+ mental
+ model
+ of
+ how
+
+
+that's
+ going
+ to
+ work.
+ Uh
+ if
+ you
+ just
+
+
+tell
+ the
+ agent
+ break
+ the
+ model
+ with
+
+
+microservices
+ it's
+ just
+ going
+ to
+ take
+ a
+
+
+shot
+ in
+ the
+ dark.
+ based
+ on
+ patterns
+ seen
+
+
+in
+ the
+ past
+ without
+ any
+ real
+
+
+understanding
+ of
+ your
+ codebase.
+
+
+Uh
+ we
+ have
+ some
+ difficulty
+ decomposing
+
+
+apps
+ for
+ agents
+ and
+ understanding
+ like
+
+
+what
+ agent
+ can
+ actually
+ get
+ done
+ uh
+ in
+
+
+one
+ shot.
+ Um
+ uh
+ we
+ also
+ like
+ you
+ you
+ uh
+
+
+do
+ need
+ this
+ intermediate
+ review
+
+
+intermediate
+ checkin
+ from
+ the
+ human
+ as
+
+
+the
+ agent's
+ doing
+ its
+ work.
+ We'll
+ talk
+ a
+
+
+little
+ bit
+ about
+ what
+ that
+ loop
+ looks
+
+
+like
+ later.
+ Uh
+ but
+ it's
+ again
+ not
+
+
+something
+ you
+ can
+ just
+ like
+ tell
+ an
+
+
+agent
+ to
+ do
+ and
+ expect
+ the
+ final
+ result
+
+
+to
+ come
+ in.
+ have
+ to
+ kind
+ of
+ approve
+
+
+things
+ as
+ the
+ agent
+ goes
+ along.
+ Uh
+ and
+
+
+then
+ not
+ having
+ a
+ true
+ definition
+ of
+
+
+them.
+ I
+ think
+ uh
+ if
+ you
+ don't
+ really
+
+
+know
+ what
+ finish
+ looks
+ like
+ for
+ this
+
+
+project,
+ it's
+ hard
+ to
+ tell
+ the
+ agent.
+
+
+Uh
+ on
+ these
+ types
+ of
+ orchestration
+
+
+paths,
+ want
+ to
+ make
+ it
+ super
+ clear
+ that
+
+
+we
+ don't
+ expect
+ every
+ developer
+ to
+ be
+
+
+doing
+ agent
+ orchestration.
+ Um,
+ we
+ think
+
+
+most
+ developers
+ are
+ going
+ to
+ use
+ a
+
+
+single
+ agent
+ locally
+ uh
+ for
+ you
+ know
+
+
+sort
+ of
+ ad
+ hoc
+ tasks
+ that
+ are
+ common
+ for
+
+
+engineers
+ building
+ new
+ features
+ uh
+
+
+fixing
+ a
+ bug
+ things
+ like
+ that.
+ I
+ think
+
+
+running
+ quad
+ code
+ locally
+ uh
+ in
+ a
+
+
+familiar
+ environment
+ alongside
+ an
+ IDE
+ is
+
+
+probably
+ going
+ to
+ be
+ a
+ common
+ workflow
+
+
+at least
+ for
+ the
+ next
+ couple
+ years.
+ Uh
+
+
+what
+ we're
+ seeing
+ is
+ that
+ a
+ small
+
+
+percentage
+ of
+ engineers
+ who
+ are
+ early
+
+
+adopters
+ of
+ agents
+ who
+ are
+ really
+
+
+excited
+ about
+ agents
+ are
+ finding
+ ways
+ to
+
+
+orchestrate
+ agents
+ to
+ t
+ tackle
+ like
+ huge
+
+
+mountains
+ of
+ tech
+ debt
+ at
+ scale
+ and
+ get
+
+
+a
+ much
+ bigger
+ lift
+ in
+ productivity
+ for
+
+
+that
+ smaller
+ select
+ set
+ of
+ tasks.
+ Right?
+
+
+You're
+ not
+ going
+ to
+ see
+ 3,000%
+ lifted
+
+
+productivity
+ for
+ all
+ software
+
+
+engineering.
+ Probably
+ going
+ to
+ get
+ more
+
+
+of
+ that,
+ you
+ know,
+ 20%
+ lift
+ that
+
+
+everybody's
+ been
+ reporting.
+ uh
+ but
+ for
+
+
+some
+ select
+ tasks
+ like
+ CDE
+ remediation
+
+
+or
+ codebased
+ modernization
+ you
+ can
+ get
+ a
+
+
+massive
+ massive
+ lift
+ you
+ can
+ do
+ you
+ know
+
+
+ending
+ your
+ years
+ of
+ work
+ in
+ a
+ in
+ a
+
+
+couple
+ weeks
+
+
+I
+ want
+ to
+ talk
+ a
+ little
+ bit
+ about
+ what
+
+
+these
+ workflows
+ look
+ like
+ in
+ practice
+ so
+
+
+this
+ loop
+ probably
+ looks
+ pretty
+ familiar
+
+
+if
+ you're
+ used
+ to
+ working
+ with
+ local
+
+
+agents
+ um
+ this
+ is
+ very
+ typical
+ loop
+ that
+
+
+looks
+ a
+ lot
+ like
+ the
+ inner
+ loop
+ of
+
+
+development
+ for
+ you
+ know
+ nonI
+ coding
+ as
+
+
+well
+ but
+ basically
+ you
+ know
+ you
+ give
+ the
+
+
+agents
+ a
+ prompt
+
+
+uh
+ it
+ does
+ some
+ work
+ in
+ the
+ background.
+
+
+Maybe
+ you
+ babysit
+ it
+ and
+ watch,
+ you
+
+
+know,
+ everything
+ it's
+ doing
+ and
+ hit
+ the
+
+
+Y
+ key
+ every
+ time
+ it
+ wants
+ to
+ run
+ a
+
+
+command.
+ Uh
+ then
+ the
+ agent
+ finishes,
+ you
+
+
+look
+ at
+ the
+ output.
+ Uh
+ you
+ see
+ the
+ tests
+
+
+are
+ passing.
+ You
+ see
+ if
+ this
+ actually
+
+
+satisfies
+ uh
+ what
+ you
+ asked
+ for
+ and
+ then
+
+
+maybe
+ you
+ prompt
+ the
+ agent
+ again
+ to
+ get
+
+
+it
+ to
+ get
+ a
+ little
+ closer
+ to
+ the
+ answer.
+
+
+Or
+ maybe
+ you're
+ satisfied
+ with
+ the
+
+
+result.
+ You
+ uh
+ you
+ know,
+ you
+ commit
+ the
+
+
+results
+ and
+ and
+ push.
+
+
+For
+ bigger
+ orchestrated
+ tasks,
+ this
+
+
+becomes
+ a
+ little
+ bit
+ more
+ complicated.
+
+
+Uh
+ basically
+ what
+ you
+ need
+ to
+ do
+ is
+ uh
+
+
+you
+ or
+ maybe
+ handinhand
+ with
+ cloud
+ you
+
+
+want
+ to
+ decompose
+ your
+ task
+ into
+ a
+
+
+series
+ of
+ tasks
+ that
+ can
+ be
+ executed
+
+
+individually
+ by
+ agents.
+ Uh
+ then
+ you'll
+
+
+send
+ off
+ an
+ agent
+ for
+ each
+ one
+ of
+ those
+
+
+individual
+ tasks
+ and
+ you'll
+ do
+ one
+ of
+
+
+those
+ one
+ of
+ those
+ agents
+ for
+ each
+ of
+
+
+the
+ individual
+ tasks.
+ And
+ then
+ finally
+
+
+at
+ the
+ end
+ uh
+ you
+ maybe
+ with
+ the
+ help
+ of
+
+
+an
+ agent
+ are
+ going
+ to
+ need
+ to
+ pull
+ in
+
+
+all
+ the
+ output
+ together
+ from
+ all
+ those
+
+
+individual
+ agents
+ into
+ a
+ single
+ change
+
+
+uh
+ and
+ merge
+ that
+ into
+ your
+ codebase.
+
+
+Very
+ importantly
+ there's
+ still
+ a
+ lot
+ of
+
+
+human
+ in
+ the
+ loop
+ here.
+ Um
+ you
+ need
+ to
+
+
+review
+ not
+ just
+ the
+ final
+ output
+ of
+ the
+
+
+collated
+ result
+ but
+ uh
+ the
+ intermediate
+
+
+outputs
+ for
+ each
+ agent.
+ Um
+ I
+ like
+ to
+
+
+tell
+ folks
+ the
+ goal
+ is
+ not
+ to
+ automate
+
+
+this
+ process
+ 100%.
+ It's
+ something
+ like
+
+
+90%
+ automation.
+ Uh
+ that's
+ still,
+ you
+
+
+know,
+ an
+ order
+ of
+ magnitude
+ productivity
+
+
+lift.
+ Um
+ I
+ think
+ this
+ is
+ this
+ is
+ really
+
+
+tricky
+ to
+ get
+ right.
+ This
+ is
+ where
+ a
+ lot
+
+
+of
+ like
+ thought
+ comes
+ into
+ the
+ process
+
+
+of
+ like
+ how
+ am
+ I
+ going
+ to
+ break
+ the
+ tax
+
+
+down
+ so
+ that
+ I
+ can
+ verify
+ individual
+
+
+step
+ uh
+ and
+ so
+ that
+ uh
+ I
+ can
+ actually
+ uh
+
+
+automate
+ this
+ whole
+ process
+ without
+ just
+
+
+ending
+ up
+ with
+ a
+ high
+ coded
+ mess.
+
+
+Uh
+ this
+ is
+ a
+ typical
+ git
+ workflow
+ that
+ I
+
+
+like
+ to
+ use
+ for
+ tasks
+ like
+ this.
+ Uh
+
+
+typically
+ we'll
+ start
+ a
+ new
+ branch
+ on
+
+
+our
+ repository.
+ Uh
+ we
+ might
+ add
+ some
+
+
+high
+ level
+ context
+ to
+ that
+ branch
+ using
+
+
+like
+ an
+ agent
+ or
+ an
+ open
+ hand
+ the
+
+
+concept
+ of
+ a
+ micro
+ agent.
+ Uh
+ but
+ I
+ just
+
+
+a
+ markdown
+ explaining
+ you
+ know
+ here's
+
+
+what
+ we're
+ doing
+ here.
+ Uh
+ just
+ so
+ the
+
+
+agent
+ knows
+ okay
+ we're
+ migrating
+ from
+
+
+Redux
+ is
+ us
+ andor
+ we're
+ going
+ to
+ migrate
+
+
+these
+ Spark
+ 2
+ jobs
+ to
+ Spark
+ 3.
+ uh
+ you
+
+
+might
+ want
+ to
+ put
+ some
+ kind
+ of
+
+
+scaffolding
+ in
+ place.
+ Uh
+ I'll
+ talk
+ a
+
+
+little
+ bit
+ more
+ about
+ examples
+ of
+ of
+ uh
+
+
+scaffolding
+ later.
+ Uh
+ you're
+ going
+ to
+
+
+create
+ a
+ bunch
+ of
+ agents
+ based
+ on
+ that
+
+
+on
+ that
+ first
+ branch.
+ Uh
+ the
+ idea
+ is
+
+
+that
+ they're
+ going
+ to
+ be
+ submitting
+
+
+their
+ work
+ into
+ that
+ branch
+ and
+ it's
+
+
+basically
+ going
+ to
+ accumulate
+ our
+ work
+
+
+as
+ we
+ go
+ along
+ and
+ then
+ eventually
+ once
+
+
+we
+ get
+ to
+ the
+ end
+ we
+ can
+ rip
+ out
+ our
+
+
+scaffolding
+ and
+ merge
+ that
+ branch
+ into
+
+
+main.
+ Uh
+ now
+ for
+ uh
+ if
+ you're
+ you're
+
+
+kind
+ of
+ getting
+ started
+ with
+ this
+ I
+
+
+would
+ suggest
+ limiting
+ yourself
+ to
+ about
+
+
+three
+ to
+ five
+ concurrent
+ agents.
+ Uh
+ I
+
+
+find
+ more
+ than
+ that
+ your
+ brain
+ starts
+ to
+
+
+break.
+ Uh
+ but
+ for
+ folks
+ that
+ have
+ really
+
+
+adopted
+ orchestration
+ at
+ scale
+ uh
+ we
+ see
+
+
+them
+ running
+ hundreds
+ even
+ thousands
+ of
+
+
+agents
+ concurrently.
+ Usually
+ a
+ human
+ is
+
+
+not
+ uh
+ in
+ the
+ loop
+ for
+ you
+ know
+ one
+
+
+human
+ is
+ not
+ on
+ the
+ hook
+ to
+ review
+ every
+
+
+single
+ one
+ but
+ maybe
+ those
+ agents
+ are
+
+
+sending
+ out
+ pull
+ requests
+ to
+ individual
+
+
+teams
+ things
+ like
+ that.
+ Um,
+ so
+ you
+ can
+
+
+scale
+ up
+ very
+ aggressively
+ once
+ you
+
+
+start
+ to
+ get
+ a
+ feel
+ for
+ how
+ all
+ this
+
+
+works
+ and
+ you
+ feel
+ like
+ you
+ have
+ a
+ very
+
+
+good
+ way
+ of
+ getting
+ that
+ human
+ input
+
+
+into
+ the
+ loop.
+
+
+I'm
+ going
+ to
+ kick
+ it
+ off
+ to
+ uh
+ my
+
+
+coworker
+ Calvin
+ here.
+ He's
+ going
+ to
+ talk
+
+
+about
+ uh
+ a
+ very
+ very
+ large
+ scale
+
+
+migration
+ uh
+ basically
+ u
+ eliminating
+
+
+code
+ smells
+ from
+ the
+ open
+ hands
+ database
+
+
+that
+ he
+ did
+ using
+ our
+ refactor
+ SDK
+ up
+
+
+here.
+
+
+Open
+
+
+hands
+ excels
+ at
+ solving
+ open
+ tasks.
+ Give
+
+
+it
+ a
+ focused
+ problem
+ something
+ like
+ fix
+
+
+my
+ failing
+ CI
+ add
+ and
+ debug
+ this
+ end
+
+
+point
+ and
+ it
+ delivers.
+ But
+ like
+ all
+
+
+agents
+ it
+ can
+ stumble
+ when
+ the
+ scope
+
+
+grows
+ too
+ large.
+ Let's
+ say
+ I
+ want
+ to
+
+
+refactor
+ an
+ entire
+ code
+ base.
+ Maybe
+
+
+enforce
+ certifiing
+ update
+ with
+ your
+
+
+dependency
+ or
+ even
+ migrate
+ from
+ one
+
+
+framework
+ to
+ another.
+
+
+These
+ are
+ not
+ tasks.
+ They're
+ sprawling
+
+
+interconnected
+ changes
+ that
+ can
+ touch
+
+
+hundreds
+ of
+ files.
+
+
+To
+ battle
+ problems
+ at
+ this
+ scale,
+ we're
+
+
+using
+ the
+ open
+ hands
+ agent
+ SDK
+ to
+ build
+
+
+tools
+ designed
+ to
+ specifically
+
+
+orchestrate
+ collaboration
+ between
+ humans
+
+
+and
+ multiple
+ agents.
+
+
+As
+ an
+ example,
+ let's
+ work
+ to
+ eliminate
+
+
+code
+ from
+ the
+ open
+ answer.
+
+
+Here's
+ the
+ repository
+ structure.
+ Just
+
+
+the
+ core
+ agent
+ definition
+ has
+ about
+ 380
+
+
+files
+ uh
+ spanning
+ 60,000
+ lines
+ of
+ code.
+
+
+Says
+ a
+ lot
+ about
+ the
+ volume
+ of
+ the
+ code
+
+
+but
+ not
+ much
+ about
+ the
+ structure.
+ So
+
+
+let's
+ use
+ our
+ new
+ tools
+ to
+ visualize
+ the
+
+
+dependency
+ graph
+ of
+ this
+ chunk
+ of
+ the
+
+
+repository.
+
+
+Here
+ each
+ node
+ represents
+ a
+ file.
+ The
+
+
+edges
+ show
+ dependencies
+ who
+ imports
+ who.
+
+
+And
+ as
+ we
+ keep
+ zooming
+ out
+ it
+ becomes
+
+
+clear
+ this
+ tangled
+ web
+ is
+ why
+
+
+refactoring
+ at
+ scale
+ is
+ hard.
+ To
+ make
+
+
+this
+ manageable,
+ we
+ need
+ to
+ break
+ the
+
+
+scrap
+ up
+ into
+ humanized
+ chunks.
+ Think
+ PR
+
+
+size
+ batches
+ that
+ an
+ agent
+ can
+ handle
+ a
+
+
+human
+ can
+ understand.
+
+
+There
+ are
+ many
+ ways
+ to
+ bash
+ based
+ on
+
+
+what's
+ important
+ to
+ you.
+ Graph
+ theoretic
+
+
+algorithms
+ give
+ strong
+ guarantees
+ about
+
+
+the
+ structure
+ of
+ edges
+ in
+ between
+
+
+induced
+ batches,
+ but
+ for
+ our
+ purposes,
+
+
+we
+ can
+ simply
+ use
+ the
+ existing
+ directory
+
+
+structure
+ to
+ make
+ sure
+ that
+ semantically
+
+
+related
+ files
+ appear
+ inside
+ the
+ same
+
+
+batch.
+ Navigating
+ back
+ to
+ the
+ dependency
+
+
+graph,
+ we
+ can
+ see
+ that
+ the
+ codes
+ of
+ the
+
+
+nodes
+ are
+ no
+ longer
+ randomly
+
+
+distributed.
+ Instead,
+ they
+ correspond
+ to
+
+
+the
+ batch
+ that
+ each
+ of
+ those
+ associated
+
+
+files
+ exist.
+ Zooming
+ out
+ and
+ zooming
+
+
+back
+ in,
+ we
+ easily
+ find
+ a
+ cluster
+ of
+
+
+adjacent
+ notes
+ that
+ are
+ all
+ the
+ same
+
+
+color,
+ which
+ indicates
+ that
+ an
+ agent
+ is
+
+
+going
+ to
+ access
+ all
+ of
+ those
+ files
+
+
+simultaneously.
+
+
+Of
+ course,
+ this
+ graph
+ is
+ still
+ large
+ and
+
+
+incredibly
+ tangled.
+ To
+ construct
+ a
+
+
+simpler
+ view,
+ we'll
+ build
+ a
+ new
+ graph
+
+
+where
+ nodes
+ are
+ batches
+ and
+ the
+ edges
+
+
+between
+ those
+ nodes
+ are
+ dependencies
+
+
+that
+ are
+ inherited
+ from
+ the
+ files
+ within
+
+
+each
+ of
+ those
+ patches.
+ This
+ view
+ is
+ much
+
+
+simpler.
+ We
+ can
+ see
+ the
+ entire
+ structure
+
+
+on
+ our
+ screen
+ at
+ the
+ same
+ time.
+
+
+But
+ this
+ is
+ something
+ we
+ have
+ with
+ using
+
+
+a
+ graph.
+ We
+ can
+ identify
+ batches
+ that
+
+
+have
+ no
+ redies
+ and
+ expect
+ the
+ files
+ that
+
+
+go.
+ Dispatch,
+ for
+ example,
+ add
+ 16.
+ Looks
+
+
+like
+ it's
+ in
+ the
+ file.
+ It's
+ probably
+
+
+empty.
+ Let's
+ check.
+
+
+Now,
+ this
+ is
+ a
+ tool
+ intended
+ for
+ human
+
+
+AI
+ collaboration.
+ So,
+ once
+ we
+ know
+ that
+
+
+this
+ file
+ is
+ empty,
+ we
+ might
+ determine
+
+
+that
+ it's
+ better
+ to
+ move
+ it
+ elsewhere.
+
+
+Or
+ maybe
+ we're
+ okay
+ keeping
+ it
+ inside
+
+
+this
+ batch.
+ And
+ all
+ that
+ we
+ want
+ to
+ do
+
+
+is
+ add
+ a
+ note
+ to
+ ourselves
+ or
+ reach
+ so
+
+
+we
+ know
+ the
+ contents.
+
+
+Of
+ course,
+ when
+ refactoring
+ code,
+ it's
+
+
+important
+ to
+ consider
+ the
+ complexity
+ of
+
+
+what
+ it
+ is
+ you're
+ moving.
+ This
+ batch
+ is
+
+
+trivial.
+ Let's
+ find
+ one
+ that's
+ a
+ little
+
+
+bit
+ more
+ complex.
+ Here's
+ a
+ batch
+ that
+
+
+has
+ four
+ files.
+ They
+ all
+ do
+ and
+ the
+
+
+complexity
+ measures
+ reflect
+ this.
+ These
+
+
+are
+ useful
+ to
+ indicate
+ to
+ a
+ human
+ that
+
+
+we
+ should
+ be
+ more
+ careful
+ when
+ this
+ for
+
+
+example
+ the
+ first
+ examples.
+
+
+You
+ need
+ to
+ identify
+ what's
+ wrong
+ in
+ the
+
+
+first
+ place.
+ Enter
+ the
+ verifier.
+
+
+There
+ are
+ several
+ different
+ ways
+ of
+
+
+defining
+ the
+ verifier
+ based
+ on
+ what
+ you
+
+
+care
+ about.
+ You
+ consider
+ it
+ to
+ be
+
+
+programmatic.
+ So
+ it
+ calls
+ a
+ match
+
+
+command.
+ This
+ is
+ useful
+ if
+ your
+
+
+verification
+ is
+ checking
+ unit
+ tests
+ or
+
+
+running
+ a
+ lender
+ or
+ a
+ text.
+
+
+Instead
+ though,
+ because
+ I'm
+ interested
+
+
+in
+ code
+ smells,
+ I'm
+ going
+ to
+ be
+ using
+ a
+
+
+language
+ model
+ that's
+ going
+ to
+ be
+
+
+looking
+ at
+ the
+ code
+ and
+ trying
+ to
+
+
+identify
+ any
+ problematic
+ patterns
+ based
+
+
+on
+ a
+ set
+ of
+ rules
+ that
+ I
+ provided.
+
+
+Now,
+ let's
+ go
+ back
+ to
+ our
+ first
+ batch
+
+
+and
+ actually
+ put
+ this
+ verifier
+ to
+ use.
+
+
+Remember,
+ this
+ batch
+ is
+ trivial
+ and
+
+
+fortunately
+ the
+ verifier
+ recognizes
+ it
+
+
+as
+ such.
+ It
+ comes
+ back
+ with
+ a
+ nice
+
+
+little
+ report
+ indicating
+ which
+ person
+
+
+identified
+ and
+ didn't.
+ And
+ status
+ of
+
+
+this
+ batch
+ is
+ turned
+ to
+ completed
+ green.
+
+
+Good.
+
+
+And
+ this
+ change
+ in
+ status
+ is
+ also
+
+
+reflected
+ in
+ the
+ batch
+ graph.
+ Navigating
+
+
+back
+ and
+ toggling
+ the
+ color
+ display,
+ we
+
+
+can
+ see
+ that
+ we
+ have
+ exactly
+ one
+ node
+
+
+out
+ of
+ many
+ completed
+ and
+ the
+ rest
+ are
+
+
+still
+ yet
+ to
+ be
+ handled.
+ But
+ this
+
+
+already
+ gives
+ us
+ a
+ really
+ good
+ sense
+ of
+
+
+the
+ work
+ that
+ we've
+ done
+ and
+ how
+ it
+ fits
+
+
+into
+ the
+ bigger
+ picture.
+
+
+So
+ now
+ our
+ strategy
+ for
+ ensuring
+ that
+
+
+there
+ are
+ no
+ code
+ smells
+ in
+ the
+ highly
+
+
+of
+ our
+ repository
+ is
+ straightforward.
+ We
+
+
+just
+ have
+ to
+ ensure
+ that
+ every
+ single
+
+
+node
+ on
+ this
+ batch
+ graph
+ turns
+ green.
+ So
+
+
+let's
+ go
+ back
+ to
+ our
+ batches
+ and
+
+
+continue
+ verifying
+ till
+ we
+ run
+ across
+ a
+
+
+failure.
+
+
+We'll
+ keep
+ going
+ in
+ dependency,
+ making
+
+
+sure
+ that
+ we
+ pick
+ nodes
+ that
+ don't
+ have
+
+
+any
+ dependencies
+ on
+ other
+ batches
+ that
+
+
+we
+ have
+ yet
+ to
+ analyze.
+ This
+ next
+ batch
+
+
+is
+ about
+ as
+ simple
+ as
+ the
+ first,
+ but
+
+
+because
+ the
+ init
+ file
+ is
+ a
+ little
+ bit
+
+
+more
+ complex.
+ The
+ report
+ that
+ gets
+
+
+generated
+ is
+ a
+ little
+ bit
+ more
+ verbose.
+
+
+Continuing
+ down
+ the
+ list,
+ we
+ come
+ across
+
+
+the
+ bash
+ we
+ identified
+ earlier
+ with
+ some
+
+
+chunky
+ files
+ of
+ relatively
+ high
+ code
+
+
+complexity.
+ And
+ this
+ batch
+ happens
+ to
+
+
+give
+ us
+ our
+ first
+ tree
+ later.
+ Notice
+
+
+that
+ the
+ status
+ turns
+ red
+ instead
+ of
+
+
+green.
+ Now
+ this
+ batch
+ has
+ more
+ files
+
+
+than
+ what
+ we've
+ seen
+ in
+ the
+ past.
+ So
+ the
+
+
+verification
+ report
+ is
+ proportionally
+
+
+longer.
+ Looking
+ through
+ see
+ that
+ it
+ is
+
+
+listing
+ file
+ by
+ file.
+ The
+ code
+ that
+ is
+
+
+identified
+ in
+ which
+
+
+I
+ see
+ one
+ file
+ is
+ particularly
+ egregious
+
+
+with
+ its
+ violations.
+ We'll
+ have
+ to
+ come
+
+
+back
+ to
+ that.
+
+
+And
+ if
+ we
+ zoom
+ all
+ the
+ way
+ back
+ out
+ to
+
+
+the
+ bash
+ graph
+ and
+ look
+ at
+ the
+ status
+
+
+indicators,
+ we'll
+ see
+ the
+ two
+ green
+
+
+nodes
+ representing
+ the
+ batches
+ we've
+
+
+already
+ successfully
+ verified.
+ We'll
+
+
+also
+ see
+ the
+ red
+ representing
+ the
+ batch
+
+
+that
+ we
+ just
+ saw
+ that
+ verification.
+ Now,
+
+
+our
+ student
+ goal
+ is
+ to
+ turn
+ this
+ entire
+
+
+graph
+ green.
+ This
+ red
+ node
+ presents
+ a
+
+
+little
+ bit
+ of
+ an
+ issue.
+ To
+ convert
+ this
+
+
+red
+ node
+ into
+ a
+ green
+ node,
+ we
+ need
+ to
+
+
+address
+ the
+ problems
+ that
+ the
+ verifier
+
+
+found
+ using
+ the
+ next
+ step
+ of
+ the
+
+
+pipeline,
+ the
+ fixer.
+
+
+Just
+ like
+ the
+ verifier,
+ the
+ fixer
+ can
+ be
+
+
+defined
+ in
+ a
+ number
+ of
+ different
+ ways.
+
+
+The
+ programmatic
+ fixer
+ can
+ run
+ a
+ batch
+
+
+command
+ or
+ you
+ can
+ feed
+ the
+ entire
+ batch
+
+
+into
+ a
+ language
+ model
+ and
+ hope
+ it
+
+
+addresses
+ the
+ issues
+ in
+ a
+ single
+ step.
+
+
+But
+ by
+ far
+ the
+ most
+ powerful
+ fixer
+ that
+
+
+we
+ have
+ uses
+ the
+ open
+ agent
+ SDK
+ to
+ make
+
+
+clean
+ copy
+ of
+ the
+ code
+ instead
+ of
+ an
+
+
+agent
+ that
+ has
+ access
+ to
+ all
+ sorts
+ of
+
+
+tools
+ to
+ run
+ tests,
+ examine
+ the
+ code,
+
+
+look
+ at
+ documentation
+ on
+ the
+ do
+ whatever
+
+
+it
+ needs
+ to
+ to
+ address
+ these
+ issues.
+ So
+
+
+let's
+ go
+ back
+ to
+ the
+ scaling
+ dash
+ and
+
+
+run
+ the
+ fixer
+ and
+ see
+ what
+ happens.
+
+
+Now
+ this
+ part
+ of
+ the
+ demo
+ is
+ sped
+ up
+
+
+considerably,
+ but
+ because
+ we're
+
+
+exploring
+ these
+ patches
+ in
+ dependency
+
+
+order,
+ while
+ we're
+ waiting,
+ we
+ can
+
+
+continue
+ to
+ go
+ down
+ the
+ list,
+ running
+
+
+our
+ verifiers,
+ and
+ spinning
+ up
+ new
+
+
+instances
+ of
+ the
+ open
+ agent
+ using
+ the
+
+
+SDK
+ until
+ we
+ come
+ across
+ a
+ node
+ that's
+
+
+blocked
+ because
+ one
+ of
+ its
+ extreme
+
+
+dependencies
+ is
+ still
+ complete.
+
+
+When
+ the
+ fixer
+ is
+ done,
+ the
+ status
+ of
+
+
+the
+ batch
+ is
+ set.
+ We'll
+ need
+ to
+ rerun
+
+
+verification
+ in
+ the
+ future
+ to
+ make
+ sure
+
+
+the
+ associated
+ returns
+ again.
+
+
+Looking
+ at
+ the
+ report
+ that
+ the
+ fixer
+ is
+
+
+returned,
+ there's
+ not
+ much
+ information,
+
+
+just
+ the
+ title
+ of
+ the
+ DR.
+ We've
+ set
+ this
+
+
+up
+ so
+ that
+ every
+ fixer
+ produces
+ a
+ nice
+
+
+tidy
+ for
+ request
+ ready
+ for
+ human
+
+
+approval.
+ Just
+ because
+ the
+ refactor
+ is
+
+
+automated
+ doesn't
+ mean
+ it
+ needs
+ to
+ be
+
+
+viewed.
+
+
+And
+ here's
+ the
+ generated.
+ and
+ the
+ agent
+
+
+does
+ an
+ excellent
+ job
+ of
+ summarizing
+ the
+
+
+code
+ smells
+ that
+ identified
+ the
+ changes
+
+
+made
+ to
+ address
+ those
+ as
+ well
+ as
+ any
+
+
+changes
+ that
+ they
+ have
+ to
+ make.
+ It's
+
+
+also
+ less
+ helpful
+ for
+ the
+ reviewer
+ and
+
+
+some
+ notes
+ for
+ anybody
+ working
+ on
+ this
+
+
+part
+ of
+ the
+ code
+ in
+ future.
+
+
+And
+ when
+ we
+ look
+ at
+ the
+ content
+ of
+ this,
+
+
+we
+ see
+ it's
+ very
+ risky.
+ All
+ the
+ changes
+
+
+are
+ tightly
+ focused
+ on
+ addressing
+ the
+
+
+code
+ snails
+ that
+ we
+ provided
+ earlier.
+
+
+And
+ we've
+ only
+ modified
+ a
+ couple
+ hundred
+
+
+lines
+ of
+ code,
+ the
+ bulk
+ of
+ which
+ is
+
+
+simply
+ refactoring
+ messed
+ block
+ into
+ its
+
+
+own
+ function
+ call.
+
+
+Not
+ all
+ the
+ scope
+ to
+ be
+ this
+ small,
+ but
+
+
+our
+ batching
+ strategy
+ and
+ narrow
+
+
+instructions
+ ensure
+ that
+ the
+ scope
+ of
+
+
+the
+ changes
+ are
+ well
+ considered.
+ This
+
+
+helps
+ to
+ improve
+ performance,
+ but
+ it
+
+
+also
+ will
+ easily
+
+
+from
+ here.
+ The
+ full
+ process
+ for
+ removing
+
+
+code
+ smells
+ from
+ the
+ entirety
+ of
+ code
+
+
+becomes
+ clear.
+ Use
+ the
+ verify
+ to
+
+
+identify
+ problems.
+ Use
+ the
+ fixer
+ to
+ spin
+
+
+up
+ the
+ address
+ those
+ problems.
+ Review
+
+
+and
+ merge
+ those
+ PRs.
+ Unblock
+ new
+ fixes
+
+
+and
+ repeat
+ until
+ that
+ entire
+ screen.
+
+
+We've
+ already
+ used
+ this
+ tool
+ to
+ make
+
+
+some
+ pretty
+ significant
+ changes
+ to
+ the
+
+
+code
+ including
+ typing
+ and
+ improving
+
+
+test.
+ And
+ we
+ could
+ not
+ have
+ done
+ it
+
+
+without
+ the
+ open
+ HSDK
+ power
+ everything
+
+
+under
+ the
+ hood.
+ All
+
+
+right.
+ So,
+ that's
+ the
+ uh
+ open
+ hands
+
+
+refactor
+ SDK
+ powered
+ by
+ our
+ open
+ hands
+
+
+agent
+ SDK.
+ Uh
+ we're
+ going
+ to
+ walk
+
+
+through
+ a
+ little
+ bit
+ later
+ on
+ the
+
+
+workshop
+ how
+ to
+ build
+ something
+ a
+ little
+
+
+simpler
+ but
+ very
+ similar
+ where
+ we
+ get
+
+
+parallel
+ agents
+ working
+ together
+ to
+ fix
+
+
+tasks
+ that
+ were
+ discovered
+ by
+ initial
+
+
+agent.
+
+
+Uh
+ I
+ want
+ to
+ talk
+ a
+ little
+ bit
+ about
+
+
+strategy
+ for
+ both
+ decomposing
+ tasks
+ and
+
+
+sharing
+ context
+ between
+ these
+ agents.
+
+
+These
+ are
+ both
+ really
+ big
+ important
+
+
+parts
+ of
+ agent
+ orchestration.
+ Uh
+ so
+
+
+effective
+ task
+ decomposition
+
+
+uh
+ you're
+ really
+ looking
+ to
+ uh
+ break
+
+
+down
+ your
+ very
+ big
+ problem
+ into
+ tasks
+
+
+that
+ a
+ single
+ agent
+ can
+ solve,
+ a
+ single
+
+
+agent
+ can
+ one
+ shot.
+ Um
+ something
+ that
+
+
+can
+ fit
+ in
+ a
+ single
+ commit,
+ single
+ pull
+
+
+request.
+ Um
+ super
+ super
+ important
+
+
+because
+ you
+ don't
+ want
+ to
+ be,
+ you
+ know,
+
+
+constantly
+ iterating
+ with
+ each
+ of
+ the
+
+
+sub
+ agents.
+ You
+ want
+ each
+ one,
+ you
+ want
+
+
+a
+ pretty
+ good
+ guarantee
+ that
+ each
+ one
+ is
+
+
+just
+ going
+ to
+ one-shot
+ the
+ thing.
+ you'll
+
+
+be
+ able
+ to
+ rubber
+ stamp
+ it
+ and
+ get
+
+
+merged
+ into
+ your
+ ongoing
+ branch.
+
+
+Uh
+ you
+ want
+ to
+ look
+ for
+ things
+ that
+ can
+
+
+be
+ parallelized.
+ This
+ is
+ going
+ to
+ be
+ a
+
+
+huge
+ way
+ to
+ increase
+ the
+ uh
+ the
+ speed
+ of
+
+
+the
+ task.
+ Um
+ you
+ know,
+ if
+ you're
+ just
+
+
+executing
+ a
+ bunch
+ of
+ different
+ agents
+
+
+serially,
+ you
+ might
+ as
+ well
+ just
+ have
+ a
+
+
+single
+ agent
+ moving
+ through
+ the
+ task
+
+
+serially.
+ U
+ the
+ more
+ you
+ can
+
+
+parallelize,
+ the
+ more
+ you
+ get
+ many
+
+
+agents
+ working
+ at
+ once,
+ the
+ faster
+
+
+you're
+ going
+ to
+ able
+ to
+ move
+ through
+ the
+
+
+task
+ uh
+ and
+ iterate.
+ Um,
+ you
+ want
+ things
+
+
+that
+ you
+ can
+ verify
+ as
+ correct
+ very
+
+
+easily
+ and
+ quickly.
+ Ideally,
+ you'll
+ have
+
+
+something
+ where
+ you
+ can
+ just
+ like
+ look
+
+
+at
+ the
+ CI/CD
+ status
+ and
+ have
+ good
+
+
+confidence
+ that
+ if
+ everything's
+ green,
+
+
+you're
+ good.
+ Uh,
+ maybe
+ you'll
+ need
+ to
+
+
+click
+ through
+ the
+ application
+ itself,
+
+
+something
+ like
+ that,
+ run
+ a
+ command
+
+
+yourself
+ to
+ verify
+ that
+ things
+ look
+ good
+
+
+to
+ you.
+ Uh,
+ but
+ you
+ want
+ to
+ be
+ able
+ to
+
+
+very
+ quickly
+ understand
+ whether
+ an
+ agent
+
+
+has
+ done
+ the
+ work
+ you
+ asked
+ it
+ to
+ or
+
+
+not.
+ U,
+ and
+ you
+ want
+ to
+ have
+ clear
+
+
+dependencies
+ and
+ order
+ in
+ between
+ tasks.
+
+
+Uh
+ you
+ notice
+ these
+ these
+ uh
+ criteria
+
+
+are
+ pretty
+ similar
+ to
+ how
+ you
+ might
+
+
+break
+ down
+ work
+ for
+ an
+ engineering
+ team,
+
+
+right?
+ You
+ need
+ to
+ make
+ sure
+ that
+ you
+
+
+have
+ tasks
+ that
+ are
+ maybe
+ separable,
+
+
+tasks
+ that
+ like
+ different
+ people
+ on
+ your
+
+
+team
+ can
+ execute
+ in
+ parallel
+ and
+ then
+
+
+colle
+ the
+ results
+ together.
+ You
+ want
+ to
+
+
+know
+ uh
+ once
+ I
+ get
+ task
+ A
+ done,
+ then
+
+
+that
+ unlocks
+ tasks
+ B,
+ C,
+ and
+ D
+ and
+ then
+
+
+once
+ those
+ are
+ done,
+ we
+ can
+ do
+ E.
+ Um
+ so
+
+
+very
+ similar
+ to
+ breaking
+ down
+ work
+ for
+ a
+
+
+team
+ of
+ engineers.
+
+
+Uh
+ there
+ are
+ a
+ few
+ different
+ strategies
+
+
+for
+ breaking
+ down
+ a
+ very
+ large
+ refactor
+
+
+like
+ the
+ one
+ we
+ saw
+ challenges
+ do.
+ Uh
+
+
+the
+ simplest
+ like
+ most
+ one
+ is
+ to
+ just
+ go
+
+
+piece
+ by
+ piece.
+ You
+ know
+ you
+ might
+
+
+iterate
+ through
+ every
+ file
+ in
+ the
+
+
+repository,
+ every
+ directory,
+ maybe
+ every
+
+
+function
+ or
+ class.
+ Um
+ you
+ know
+ this
+ this
+
+
+uh
+ is
+ a
+ fairly
+ straightforward
+ way
+ to
+ do
+
+
+things.
+ It
+ works
+ well
+ uh
+ if
+ those
+ um
+
+
+dependencies
+ are
+ can
+ be
+ kind
+ of
+ executed
+
+
+um
+ you
+ know
+ without
+ depending
+ on
+ one
+
+
+another
+ too
+ much.
+ Um
+ so
+ good
+ examples
+
+
+might
+ be
+ like
+ adding
+ type
+ annotations
+
+
+throughout
+ your
+ pipeline
+ codebase.
+ Um
+
+
+uh
+ and
+ then
+ you
+ know
+ at
+ the
+ very
+ end
+
+
+once
+ you've
+ migrated
+ every
+ single
+ file
+
+
+say
+ you
+ can
+ collect
+ all
+ those
+ results
+
+
+into
+ a
+ single
+ PR.
+
+
+A
+ slightly
+ more
+ sophisticated
+ thing
+
+
+would
+ be
+ to
+ create
+ a
+ dependency
+ tree.
+ Um
+
+
+and
+ the
+ idea
+ here
+ is
+ to
+ add
+ some
+
+
+ordering
+ to
+ that
+ piece
+ by
+ piece
+ approach
+
+
+where
+ you
+ know
+ you
+ start
+ as
+ we
+ saw
+
+
+Calvin
+ do
+ you
+ start
+ with
+ like
+ the
+ leaf
+
+
+nodes
+ in
+ your
+ dependency
+ graph
+ right
+ you
+
+
+start
+ with
+ maybe
+ your
+ utility
+ files
+ get
+
+
+those
+ migrated
+ over
+ um
+ and
+ then
+ anything
+
+
+that
+ depends
+ on
+ those
+ you
+ know
+ it's
+
+
+going
+ to
+ have
+ those
+ those
+ initial
+ fixes
+
+
+in
+ place
+ and
+ the
+ dependencies
+ can
+ uh
+ can
+
+
+start
+ working
+ through
+ um
+ you
+ know
+ their
+
+
+their
+ set
+ of
+ the
+ process.
+ You
+ can
+
+
+basically
+ back
+ your
+ way
+ up
+ to
+ whatever
+
+
+the
+ entry
+ point
+ of
+ the
+ application
+ is.
+
+
+Uh
+ this
+ is
+ often
+ a
+ a
+ better
+ way
+ to
+
+
+proceed.
+ Um
+ it's
+ more
+ kind
+ of
+ a
+
+
+principal
+ approach
+ for
+ how
+ you're
+ going
+
+
+to
+ order
+ through
+ these
+ tasks.
+
+
+Another
+ example
+ is
+ to
+ create
+ some
+ kind
+
+
+of
+ scaffolding
+ that
+ allows
+ you
+ to
+ live
+
+
+in
+ both
+ the
+ like
+ pre-migrated
+ and
+ post
+
+
+migrated
+ worlds.
+ Um
+ we
+ did
+ this
+ uh
+ for
+
+
+example
+ when
+ migrating
+ our
+ React
+ state
+
+
+management
+ system.
+ Uh
+ we
+ basically
+ had
+
+
+an
+ agent
+ set
+ up
+ uh
+ some
+ scaffolding
+ that
+
+
+would
+ allow
+ us
+ to
+ to
+ work
+ with
+ both
+
+
+Redux
+ Redux
+ and
+ Zustan
+ at
+ the
+ same
+ time.
+
+
+Um
+ pretty
+ ugly,
+ not
+ something
+ you
+ would
+
+
+actually
+ really
+ want
+ to
+ do.
+ Um
+ but
+ it
+
+
+allowed
+ us
+ to
+ test
+ the
+ application
+ as
+
+
+each
+ individual
+ component
+ got
+ migrated
+
+
+from
+ the
+ old
+ state
+ management
+ system
+ to
+
+
+the
+ new
+ state
+ management
+ system.
+ Uh
+ and
+
+
+then
+ we
+ sent
+ off
+ parallel
+ agents
+ for
+
+
+each
+ of
+ the
+ components.
+ uh
+ I
+ got
+ each
+
+
+component
+ done
+ and
+ then
+ at
+ the
+ very
+ end
+
+
+once
+ everything
+ was
+ using
+ zestand
+ we
+
+
+were
+ able
+ to
+ rip
+ out
+ all
+ of
+ the
+ u
+ all
+
+
+the
+ scaffolding
+ so
+ there
+ was
+ no
+ more
+
+
+mention
+ of
+ redux
+ and
+ everything
+ was
+
+
+working
+ but
+ having
+ that
+ scaffolding
+ in
+
+
+place
+ allowed
+ us
+ to
+ validate
+ you
+ know
+ as
+
+
+each
+ agent
+ finished
+ its
+ work
+ for
+ just
+
+
+that
+ one
+ component
+ we
+ could
+ validate
+ the
+
+
+application
+ was
+ still
+ working
+ that
+
+
+component
+ still
+ works
+ uh
+ we
+ didn't
+ have
+
+
+to
+ do
+ everything
+ all
+ at once
+ we
+ got
+ some
+
+
+kind
+ of
+ human
+ uh
+ feedback
+ from
+ the
+
+
+agents
+
+
+uh
+ next
+ I
+ want
+ to
+ talk
+ a
+ bit
+ about
+
+
+context
+ sharing
+ uh
+ as
+ you
+ go
+ through
+ a
+
+
+big
+ large
+ scale
+ project
+ like
+ this
+ uh
+
+
+you're
+ going
+ to
+ learn
+ things
+ right
+
+
+you're
+ going
+ to
+ figure
+ out
+ okay
+ what
+ I
+
+
+my
+ original
+ mental
+ model
+ wasn't
+ actually
+
+
+complete
+ I
+ didn't
+ actually
+ uh
+ you
+ know
+
+
+understand
+ the
+ problem
+ correctly
+ um
+ your
+
+
+agents
+ might
+ uh
+ run
+ into
+ that
+ you
+ know
+
+
+you
+ might
+ have
+ a
+ fleet
+ of
+ agents
+ you
+ got
+
+
+10
+ agents
+ running
+ they're
+ all
+ hitting
+
+
+the
+ exact
+ same
+ problem
+ you
+ kind
+ of
+ want
+
+
+to
+ share
+ the
+ solution
+ of
+ that
+ problem
+ so
+
+
+they're
+ not
+ all
+ getting
+ stuck
+ right
+
+
+there's
+ a
+ bunch
+ of
+ different
+ strategies
+
+
+for
+ doing
+ this
+ context
+ sharing
+ between
+
+
+agents
+
+
+Uh,
+ one
+ strategy
+ that
+ I
+ think
+ the
+ most
+
+
+naive
+ thing
+ you
+ can
+ do
+ is
+ share
+
+
+everything.
+ Basically,
+ every
+ agent
+ sees
+
+
+every
+ other
+ agent's
+ context.
+ Uh,
+ this
+
+
+is,
+ uh,
+ not
+ great.
+ Uh,
+ it's
+ basically
+
+
+the
+ same
+ thing
+ as
+ just
+ having
+ a
+ single
+
+
+agent
+ working
+ iteratively
+ through
+ the
+
+
+task.
+ Uh,
+ you're
+ going
+ to
+ leave
+ your
+
+
+context
+ window
+ really
+ quickly
+ if
+ you
+ do
+
+
+something
+ like
+ this.
+ Uh,
+ so
+ this
+ is
+ this
+
+
+is
+ not
+ going
+ to
+ help.
+
+
+Uh,
+ a
+ a
+ better
+ value
+ approach
+ would
+ be
+
+
+to
+ have
+ the
+ human
+ being
+ just
+ sort
+ of
+
+
+manually
+ enter
+ information
+ into
+ the
+
+
+agents.
+ Uh
+ if
+ you
+ have
+ a
+ chat
+ message,
+ a
+
+
+chat
+ window
+ with
+ each
+ agent,
+ you
+ can
+
+
+just
+ paste
+ in
+ like
+ hey
+ use
+ library
+ 1.2.3
+
+
+instead
+ of
+ 1.2.2.
+
+
+Um
+ the
+ human
+ can
+ also
+ modify
+ like
+ an
+
+
+agent
+ MD
+ or
+ micro
+ agent
+ to
+ pass
+ messages
+
+
+to
+ these
+ agents.
+ Uh
+ but
+ this
+ does
+
+
+involve
+ manual
+ human
+ effort.
+ Um
+ it
+
+
+involves
+ a
+ lot
+ more
+ like
+ babysitting
+ of
+
+
+the
+ agents.
+ So
+ it's
+ it's
+ not
+ super
+
+
+scalable.
+
+
+Uh
+ you
+ can
+ also
+ have
+ the
+ agents
+
+
+basically
+ share
+ context
+ with
+ each
+ other
+
+
+through
+ a
+ file
+ like
+ agent
+ MD.
+ Uh
+ you
+ can
+
+
+allow
+ the
+ agents
+ to
+ actually
+ modify
+ this
+
+
+file
+ themselves.
+ Uh
+ maybe
+ they
+ send
+ a
+
+
+pull
+ request
+ into
+ the
+ file
+ as
+ they
+ learn
+
+
+new
+ things.
+ Uh
+ downside
+ here
+ is
+ that
+
+
+sometimes
+ agents
+ will
+ try
+ and
+ learn
+
+
+unimportant
+ things.
+ Uh
+ they
+ can
+ get
+ kind
+
+
+of
+ aggressive
+ about
+ pushing
+ information
+
+
+to
+ this
+ file.
+ Uh
+ so
+ doing
+ some
+ kind
+ of
+
+
+human
+ review
+ seems
+ to
+ help.
+
+
+And
+ then
+ last
+ uh
+ this
+ is
+ probably
+ the
+
+
+most
+ like
+ leading
+ edge
+ idea
+ here.
+ Um,
+
+
+but
+ you
+ can
+ basically
+ give
+ each
+ change
+
+
+in
+ a
+ tool
+ that
+ allows
+ it
+ to
+ send
+
+
+messages
+ to
+ other
+ agents.
+ Uh,
+ it
+ could
+
+
+be
+ like
+ a
+ broadcast
+ message
+ that
+ goes
+
+
+out
+ to
+ all
+ the
+ other
+ agents.
+ Uh,
+ or
+ it
+
+
+could
+ be,
+ uh,
+ you
+ know,
+ pointto-point
+
+
+conversation.
+ Uh,
+ this
+ is
+ super,
+ uh,
+ fun
+
+
+to
+ experiment
+ with.
+ We're
+ doing
+ a
+ lot
+
+
+uh,
+ to
+ experiment
+ with
+ this
+ now,
+ uh,
+
+
+with
+ our
+ SDK.
+ Um,
+ but
+ it's,
+ uh,
+ it's
+
+
+tricky
+ to
+ get
+ right.
+ It's,
+ uh,
+ you
+ you
+
+
+once
+ you
+ get
+ agents
+ talking
+ to
+ each
+
+
+other,
+ you're
+ like
+ increasing
+ the,
+ uh,
+
+
+level
+ of
+ non-determinism
+ in
+ the
+ system.
+
+
+Uh,
+ things
+ can
+ get
+ a
+ little
+ bland.
+ Uh
+ I
+
+
+have
+ an
+ example
+ here
+ on
+ the
+ right
+ of
+ uh
+
+
+this
+ is
+ from
+ a
+ doctor's
+ report
+ where
+
+
+they
+ had
+ two
+ agents
+ just
+ talk
+ to
+ each
+
+
+other.
+ They
+ just
+ entered
+ into
+ a
+ loop
+ of
+
+
+wishing
+ each
+ other
+ zen
+ perfection.
+
+
+Um
+
+
+cool.
+ Uh
+ now
+ I
+ want
+ to
+ work
+ through
+ an
+
+
+exercise.
+ Uh
+ I
+ would
+ love
+ it
+ if
+ you
+ all
+
+
+want
+ to
+ follow
+ along.
+ Um
+ you
+ can
+ access
+
+
+this
+ presentation
+ for
+ uh
+ copy
+ pasting
+
+
+purposes
+ at
+ uh
+ dev.shophands-workshop.
+
+
+Um,
+ we'll
+ work
+ through
+ some
+ coding
+
+
+exercises
+ with
+ the
+ open
+ hands
+ SDK
+
+
+specifically
+ to
+ uh
+ do
+ CD
+ remediation
+ at
+
+
+scale.
+ Um,
+ we're
+ going
+ to
+ write
+ a
+ script
+
+
+that
+ will
+ take
+ in
+ a
+ GitHub
+ repository,
+
+
+scan
+ it
+ for
+ open
+ source
+ vulnerabilities
+
+
+for
+ CDEs.
+ Um,
+ uh,
+ and
+ then
+ set
+ up
+ a
+
+
+parallel
+ agent
+ for
+ every
+ single
+
+
+vulnerability
+ we
+ find
+ to
+ solve
+ that
+ and
+
+
+open
+ up
+ a
+ poll
+ request.
+
+
+So,
+ dub.shophandworkshop.
+
+
+uh
+ let
+ me
+ know
+ anybody
+ can
+ access
+ it.
+
+
+>> It's
+ gonna
+ be
+ the
+ slideshow.
+
+
+>> So,
+ so
+ it
+ should
+ be
+ the
+ slideshow
+ if
+ you
+
+
+want
+ to.
+ There
+ will
+ be
+ um
+
+
+uh
+ copy
+ pasteable
+ prompts
+ and
+ uh
+ links
+
+
+and
+ stuff
+ like
+ that
+ around
+ slide
+ 29.
+
+
+>> Got
+ it.
+
+
+>> We'll
+ get
+ there.
+
+
+Uh
+ so
+ in
+ terms
+ of
+ how
+ this
+ process
+ is
+
+
+going
+ to
+ work,
+
+
+uh
+ basically
+ we're
+ going
+ to
+ start
+ with
+
+
+one
+ agent
+ that
+ runs
+ a
+ CVE
+ scan
+ on
+ this
+
+
+repository.
+ It's
+ going to
+ stand
+ for
+
+
+vulnerabilities.
+ Uh
+ what's
+ nice
+ about
+
+
+using
+ an
+ agent
+ for
+ this
+ is
+ it
+ can
+ look
+
+
+at
+ the
+ um
+ uh
+ the
+ repository
+ and
+ decide
+
+
+how
+ am
+ I
+ going
+ to
+ scan
+ for
+
+
+vulnerabilities,
+ right?
+ Am
+ I
+ going
+ to
+
+
+use
+ trivia
+ to
+ scan
+ a
+ Docker
+ image?
+ Uh
+ am
+
+
+I
+ going
+ to
+ run
+ npm
+ audit
+ on
+ a
+
+
+package.json?
+
+
+uh
+ so
+ it
+ can
+ it
+ can
+ basically
+ detect
+ the
+
+
+programming
+ language
+ to
+ figure
+ out
+ how
+
+
+am
+ I
+ going
+ to
+ stand
+ for
+ CDES
+ here.
+ Uh
+
+
+then
+ once
+ we
+ have
+ our
+ list
+ of
+
+
+vulnerabilities,
+ we're
+ going
+ to
+ run
+ a
+
+
+separate
+ agent
+ for
+ each
+ individual
+
+
+vulnerability.
+ Uh
+ each
+ of
+ these
+ agents
+
+
+is
+ going
+ to
+ research
+ whether
+ or
+ not
+ it's
+
+
+solvable.
+ Uh
+ it's
+ going
+ to
+ update
+ the
+
+
+relevant
+ dependency,
+ fix
+ any
+ breaking
+
+
+API
+ changes
+ throughout
+ the
+ codebase,
+ and
+
+
+then
+ open
+ up
+ a
+ poll
+ request.
+ Uh
+ what's
+
+
+nice
+ about
+ this
+ is
+ that
+ we
+ can
+ merge
+
+
+those
+ individual
+ PRs
+ once
+ they're
+ ready.
+
+
+You
+
+
+>> show
+ the
+ link
+ again.
+ Yeah.
+
+
+Uh
+ what's
+ nice
+ about
+ running
+ the
+ solving
+
+
+in
+ parallel
+ is
+ that
+ you
+ know
+ we
+ get
+ we
+
+
+get
+ a
+ bunch
+ of
+ different
+ PRs.
+ Uh
+ so
+ we
+
+
+can
+ merge
+ them
+ as
+ they're
+ ready.
+ If
+ one
+
+
+agent
+ gets
+ stuck,
+ one
+ of
+ the
+
+
+vulnerabilities
+ isn't
+ solvable.
+ All
+ the
+
+
+other
+ ones
+ are
+ still
+ going
+ to
+ work.
+ Uh
+
+
+maybe
+ we
+ get
+ to
+ 90%
+ or
+ 95%
+ solved.
+ Uh
+ we
+
+
+don't
+ have
+ to
+ get
+ to
+ 100%
+ in
+ order
+ to
+
+
+have
+ any
+ value
+ here.
+ Uh
+ just
+ some
+ quick
+
+
+pseudo
+ code
+ of
+ what
+ this
+ is
+ going
+ to
+
+
+look
+ like.
+
+
+Uh
+ so
+ this
+ is
+ an
+ example
+ using
+ the
+
+
+openhance
+ SDK
+ of
+ how
+ to
+ create
+ an
+ agent.
+
+
+You
+ can
+ see
+ we
+ create
+ a
+ large
+ language
+
+
+model.
+ Um
+ we
+ then
+ pass
+ that
+ large
+
+
+language
+ model
+ to
+ an
+ agent
+ object
+ along
+
+
+with
+ some
+ tools.
+ Uh
+ a
+ terminal,
+ a
+ file
+
+
+owner,
+ a
+ pass
+ tracker
+ for
+ planning.
+ Uh
+
+
+we
+ give
+ it
+ a
+ workspace
+ and
+ then
+ we
+ just
+
+
+tell
+ it
+ we
+ want
+ to
+ do
+ run.
+ Uh
+ this
+ is
+ a
+
+
+pretty
+ like
+ naive
+ hello
+ world
+ example.
+
+
+We'll
+ see
+ how
+ it
+ gets
+ a
+ little
+ bit
+ more
+
+
+complicated
+ as
+ we
+ progress
+ through
+ this
+
+
+particular
+ task.
+
+
+Uh
+ but
+ then
+ once
+ that
+ first
+ agent
+ is
+
+
+done,
+ we're
+ going
+ to
+ iterate
+ through
+ all
+
+
+of
+ the
+ vulnerabilities
+ to
+ get
+ back
+ out.
+
+
+Um
+ and
+ then
+ for
+ each
+ one,
+ we'll
+ send
+ off
+
+
+a
+ new
+ agent
+ uh
+ asking
+ it
+ to
+ solve
+ that
+
+
+particular
+ CDE.
+
+
+All
+ right.
+ So,
+ uh
+ to
+ get
+ started
+ here,
+
+
+uh
+ it
+ would
+ say
+ create
+ a
+ new
+ GitHub
+
+
+repository.
+ Uh
+ we
+ start
+ save
+ our
+ work
+
+
+there.
+ Uh
+ you're
+ also
+ going
+ to
+ need
+ both
+
+
+a
+ GitHub
+ token
+ and
+ an
+ LLM
+ token.
+
+
+Uh,
+ I
+ would,
+ uh,
+ if
+ you
+ sign
+ up
+ for
+ for
+
+
+OpenHands
+ app.allands.dev,
+ you
+ can
+ get
+ a
+
+
+$10
+ free
+ credit
+ u
+ LLM
+ credits
+ there.
+ Um,
+
+
+if
+ you're
+ already
+ an
+ existing
+ user,
+ let
+
+
+me
+ know
+ and
+ I
+ can
+ I
+ can
+ bump
+ up
+ your
+
+
+your
+ existing
+ credits
+ for
+ the
+ purpose
+ of
+
+
+this
+ exercise.
+
+
+Um,
+ then
+ we're
+ going
+ to
+ start
+ uh
+ an
+
+
+agent
+ server.
+ Uh,
+ this
+ is
+ a
+ um
+ uh
+
+
+basically
+ like
+ a
+ Docker
+ container
+ that's
+
+
+going
+ to
+ house
+ all
+ the
+ work
+ that
+ our
+
+
+agents
+ are
+ doing.
+ Uh
+ this
+ is
+ a
+ great
+ way
+
+
+again
+ to
+ run
+ agents
+ securely
+ and
+ more
+
+
+scalably.
+ So
+ instead
+ of
+ running
+ the
+
+
+agents
+ on
+ our
+ local
+ machine
+ to
+ solve
+ all
+
+
+these
+ CVEes
+ uh
+ we're
+ going
+ to
+ run
+ them
+
+
+inside
+ of
+ a
+ container.
+ Hypothetically
+ if
+
+
+we
+ were
+ doing
+ thousands
+ of
+ CVEs
+ we
+ could
+
+
+run
+ this
+ in
+ like
+ a
+ Kubernetes
+ cluster
+ so
+
+
+that
+ you
+ know
+ we
+ have
+ as
+ many
+
+
+workstations
+ as
+ we
+ want
+ for
+ our
+ agents
+
+
+but
+ for
+ the
+ purposes
+ of
+ this
+ exercise
+
+
+we'll
+ just
+ run
+ one
+ one
+ Docker
+ container
+
+
+as
+ a
+ home
+ for
+ our
+ agents.
+ Um
+ then
+ we
+ can
+
+
+create
+ uh
+ an
+ agent
+ of
+ be
+ or
+ an
+ open
+
+
+enhance
+ micro
+ agent
+ to
+ uh
+ you
+ know
+ start
+
+
+working
+ through
+ this
+ task.
+ I'm
+ going
+ to
+
+
+be
+ using
+ the
+ openhand
+ CLI
+ as
+ we
+ go
+ here.
+
+
+Um
+ you're
+ welcome
+ to
+ check
+ out
+ the
+ open
+
+
+hand
+ cli.
+ You
+ can
+ also
+ use
+ cursor
+ or
+ pod
+
+
+code
+ or
+ whatever
+ you're
+ used
+ to
+ using
+ uh
+
+
+as
+ we
+ uh
+ kind
+ of
+ bode
+ our
+ way
+ through
+ a
+
+
+CD
+ remediation
+ process
+ with
+ open
+ hands.
+
+
+Uh
+ I'm
+ going
+ to
+ give
+ it
+ a
+ couple
+
+
+minutes.
+ I'm
+ going
+ to
+ walk
+ through
+
+
+creating
+ my
+ GitHub
+ repo,
+ getting
+ my
+
+
+GitHub
+ token,
+ etc.
+ Um
+
+
+uh
+ if
+ you
+ all
+ have
+ any
+ trouble
+ feel
+ free
+
+
+to
+ raise
+ your
+ hand
+ and
+ come
+ around
+ and
+
+
+uh
+ help
+ you
+ know
+ getting
+ it
+ all
+ out
+ etc.
+
+
+You
+ said
+ app.allhands.dev
+
+
+app.
+
+
+>> Yeah.
+
+
+So,
+ I've
+ got
+ my
+ new
+ GitHub
+ repo
+ here.
+
+
+Uh,
+ so
+ I'm
+ gonna
+ add
+ a
+ quick
+ open
+ hands
+
+
+micro
+ agent
+ here.
+
+
+Perfect.
+
+
+I'm
+ just
+ going
+ to
+ tell
+
+
+a
+
+
+uh
+ process
+ for
+ remediating
+
+
+with
+ agents.
+
+
+relevant
+ talks
+
+
+for
+ the
+ open
+ hand
+ SDK
+ are
+ at
+
+
+open
+ hands
+ SDK.
+
+
+So
+ some
+ data
+ opens
+ a
+ little
+ bit
+ of
+
+
+context
+
+
+similar
+ to
+ agent.
+ Um
+ we
+ now
+ have officed
+
+
+uh
+ to
+ get
+ a
+ token.
+ I'm
+ not
+ actually
+
+
+going
+ to
+ do
+ it
+ here
+ so
+ that
+ was
+ my
+ token
+
+
+but
+ you
+ can
+ go
+ to
+ GitHub
+ settings
+ your
+
+
+profile
+
+
+then
+ developer
+ settings
+
+
+personal
+ access
+ tokens.
+
+
+I
+ like
+ to
+ do
+ classic
+ tokens.
+
+
+Uh
+ classic
+ token.
+ Give
+ it
+ a
+ name
+ and
+
+
+then
+ uh
+ the
+ repo
+ scope
+ is
+ really
+ what
+
+
+you'll
+ need.
+ Uh
+ that
+ way
+ we
+ can
+ open
+ up
+
+
+pull
+ requests
+ uh
+ to
+ solve
+ to
+ the
+ CS
+
+
+involved.
+
+
+>> We
+ did
+ a
+ classic
+ token
+ not
+ the
+ new
+
+
+thing.
+
+
+I
+ I
+ haven't
+ gotten
+ a
+ link
+
+
+used
+ to
+ you're
+ welcome
+ to
+ do.
+ I
+ guess
+
+
+you
+ could
+ create
+ a
+ new
+ repository.
+
+
+>> I
+ haven't
+ got
+ to
+ them
+ either.
+ So,
+
+
+>> I'm
+ not
+ with
+ you.
+
+
+>> Back
+ in
+ the
+ old
+ days.
+
+
+>> So,
+ what
+ permissions
+ do
+ we
+ need
+ to
+
+
+>> uh
+ just
+ the
+ repo
+ permission?
+
+
+Also,
+ it's
+ going
+ to
+ show
+ you
+ sign
+ up
+ for
+
+
+app.alland.dev.
+
+
+Um,
+
+
+you
+ go
+ to
+
+
+piece
+ under
+ your
+ profile
+ here,
+ you
+ can
+
+
+get
+ your
+ open
+ API
+ key,
+ your
+ L
+ key
+ here.
+
+
+I
+ won't
+ show
+ it,
+ but
+
+
+this
+ will
+ allow
+ you
+ to
+ use
+ our
+ proxy
+
+
+step.
+
+
+Last,
+ I'm
+ gonna
+
+
+start
+ up
+ some
+ agent
+ server
+ here.
+ You'll
+
+
+probably
+ want
+ to
+ copy
+ paste
+ this
+ out
+ of
+
+
+the
+ presentation.
+
+
+Got
+ my
+ repo
+ close
+
+
+dinner.
+
+
+Maybe
+
+
+that's
+ back
+ here.
+ If
+ you
+ do
+ want
+ to
+ work
+
+
+with
+ the
+ open
+ hand
+ cli
+
+
+tool
+ install
+ open
+ hands
+
+
+I'm
+ going
+ to
+ start
+ up
+ the
+ open
+ hands
+
+
+CLI.
+
+
+Again,
+ you
+ can
+ use
+ cloud
+ code,
+ cursor,
+
+
+whatever
+ else
+ if
+ you
+ want.
+ Uh
+ you
+ folks
+
+
+need
+ a
+ little
+ more
+ time
+ with
+ the
+ setup.
+
+
+key
+ get
+ token
+ set
+ up.
+
+
+Sorry,
+ check.
+
+
+Uh
+ so
+ I'm
+ gonna
+ start
+ with
+
+
+this
+ first
+ prompt.
+ Uh
+ basically
+ what
+
+
+we're
+ going
+ to
+ do
+ is
+ we're
+ going
+ to
+
+
+point
+ our
+ agent
+ uh
+ at
+ the
+ open
+ hands
+ SDK
+
+
+point
+ it
+ at
+ the
+ documentation
+
+
+uh
+ and
+ just
+ ask
+ it
+ to
+ basically
+ check
+
+
+that
+ our
+ LLM
+ API
+ key
+ is
+ working
+ that
+ it
+
+
+can
+ actually
+ do
+ an
+ LLM
+ deletion.
+ This
+
+
+will
+ be
+ like
+ a
+ very
+ basic
+ hello
+ world.
+
+
+just
+ kind
+ of
+ get
+ started
+ here.
+ Um,
+ I'm
+
+
+going
+ to
+ tell
+ it
+ uh
+ I'm
+ using
+ I'm
+ using
+
+
+the
+ open
+ hands
+ uh
+ key
+ that
+ I
+ generated
+
+
+at
+ app.allands.dub.
+
+
+Um,
+ so
+ I'm
+ telling
+ it
+ to
+ use
+ this
+ open
+
+
+handbon
+ 4
+ model.
+ Uh,
+ you
+ can
+ replace
+
+
+this
+ with
+ enthropic.
+ If
+ you
+ want
+ to
+ use
+
+
+just
+ like
+ a
+ regular
+ anthropic
+ API
+ key.
+
+
+Uh,
+ you
+ may
+ need
+ to
+ set
+ this
+ model
+ a
+ bit
+
+
+differently
+ depending
+ on
+ if
+ you're
+ using
+
+
+open
+ AI
+ using
+ light.
+
+
+You
+ can
+ look
+ at
+ the
+ light
+ all
+ docs
+ to
+
+
+figure
+ out
+ if
+ you
+ have
+ an
+ open
+ API
+ key
+
+
+or
+ an
+ open
+ AI
+ key.
+ Uh
+ you
+ can
+ look
+ at
+
+
+the
+ light
+ all
+ docs
+ to
+ figure
+ out
+ which
+
+
+model
+ plug
+ for
+ the
+ string.
+ But
+ I'm
+ just
+
+
+going
+ to
+ copy
+ paste
+ this
+ as
+ is.
+
+
+Sorry,
+ what's
+ the
+ step
+ for
+ uh
+ agents.md
+
+
+or
+ the
+ one
+ for
+ open
+ hands?
+
+
+>> So
+ I
+ would
+ say
+ just
+ create
+ a
+ u
+ a
+ file
+
+
+either
+ the
+ agents.md
+ if
+ you're
+ working
+
+
+with
+ a
+ a
+ tool
+ that's
+ compatible
+ with
+
+
+that
+ or
+
+
+uh
+ for
+ open
+ hands
+ we
+ have
+ it's
+ called
+ a
+
+
+micro
+ aent
+ I
+ can
+ get
+ to
+ it.
+ Uh
+ so
+
+
+openhands.openhandsmicroagent
+
+
+by
+ convention
+ repo.mmd
+ is
+ the
+
+
+description
+ of
+ the
+ repository
+ you're
+ in.
+
+
+Um
+ and
+ I
+ just
+ gave
+ it
+ a
+ couple
+ links
+ to
+
+
+the
+ SDK
+ documentation
+ uh
+ and
+ the
+
+
+repository
+ for
+ the
+ SDK
+ so
+ it
+ has
+ access
+
+
+to
+ you
+ know
+ basically
+ the
+ the
+ API
+ docs
+
+
+there.
+
+
+This
+ is
+ kind
+ of
+ an
+ optional
+ step.
+ Make
+
+
+things
+ a
+ little
+ easier
+ though.
+
+
+is
+ doing.
+ All right,
+ it
+ thinks
+ it's
+ got
+
+
+something
+ good.
+ So,
+ let's
+ see
+ what's
+
+
+going
+ on.
+
+
+Python
+ CV
+ solver
+
+
+need
+
+
+environment
+ variables.
+
+
+I'm
+ using
+ the
+ to
+ set
+ my
+ brightness
+ here.
+
+
+Make
+ sure
+ I
+ don't
+ check
+ those
+ in.
+
+
+One
+ more
+ time.
+
+
+Got
+ a
+ small
+ error.
+ Looks
+ like
+ the
+ agent
+
+
+didn't
+ quite
+ get
+ the
+ API
+ doc
+ right.
+
+
+Let's
+ uh
+ paste
+ the
+ error
+ back.
+ See
+ what
+
+
+happens.
+
+
+Let's
+ try
+ again.
+
+
+Of
+
+
+course,
+ never
+ never
+ go.
+
+
+Not
+ there.
+
+
+She's
+ working.
+
+
+version.
+
+
+>> Let's
+ use
+ club.
+
+
+UV
+
+
+tool
+ install
+ that
+ breaks.
+
+
+>> Yeah.
+
+
+>> You
+ know
+ what
+ version
+ of
+ UV
+ you're
+ on?
+
+
+>> I'm
+ on
+ 096.9.6.
+
+
+>> What
+ error
+ are
+ you
+ getting?
+
+
+>> I
+ don't
+ know
+ why.
+
+
+No
+ executables
+ are
+ provided
+ by
+ package
+
+
+open
+ hands.
+ Removing
+ tool
+ error
+ failed
+
+
+to
+ install
+ entry
+ points.
+
+
+>> I'm
+ newish
+ to
+ the
+ Python
+ world.
+ So
+ I
+
+
+assumed
+ I
+ was
+ doing
+ silly.
+
+
+>> You
+ could
+ try
+ updating
+ on
+ 111
+ which
+ is
+
+
+what
+ I'm
+ on.
+ But
+ okay.
+ Yeah,
+ I'll
+ try.
+
+
+>> Another
+ question.
+
+
+>> Yeah.
+
+
+>> Um,
+ so
+ I
+ was
+ able
+ to
+ I
+ see
+ you
+ running
+
+
+through
+ the
+ CLI.
+ I
+ was
+ able
+ to
+ run
+ this
+
+
+on
+ the
+ like
+ all
+ all.dev.
+
+
+>> Yeah.
+ Cool.
+ and
+ it
+ submitted
+ a
+ PR
+ and
+
+
+created
+ it.
+ Looks
+ good.
+
+
+>> Awesome.
+
+
+>> Why
+ are
+ you
+ doing
+ it
+ through
+ the
+ CLI?
+
+
+>> Uh
+ really
+ just
+ for
+
+
+um
+
+
+normally
+ I
+ actually
+ prefer
+ to
+ work
+
+
+through
+ the
+ web
+ UI
+ here.
+ Um
+
+
+I
+ think
+ uh
+ being
+ able
+ to
+ like
+ run
+ and
+
+
+show
+ that
+ script
+ is
+ working
+ locally.
+ Uh
+
+
+it's
+ like
+ a
+ little
+ bit
+ better
+ of
+ a
+ hand
+
+
+out.
+ I
+ actually
+ like
+ to
+ work
+ through
+ the
+
+
+web
+ UI
+ normally
+ and
+ then
+ have
+ the
+ agent
+
+
+push
+ and
+ I
+ pull
+ locally
+ if
+ I
+ really
+ want
+
+
+to
+ work
+ locally,
+ but
+ figured
+ that
+ was
+
+
+just
+ extra
+ extra
+ steps
+ for
+ presenting
+
+
+purposes.
+
+
+Yeah,
+ feel
+ free
+ to
+ use
+ the
+ the
+ web
+ or
+
+
+the
+ tool.
+
+
+Looks
+ like
+ I
+
+
+API
+ key
+ here.
+ Come
+
+
+Jesus.
+
+
+200.
+
+
+>> What's
+ that?
+
+
+>> Should
+ we
+ get
+ 200?
+
+
+>> Uh
+ yeah,
+ you
+ should
+ get
+ something
+ like
+
+
+this.
+ Uh
+ like
+ I
+ just
+ got
+ finally
+ uh
+
+
+where
+ the
+ other
+ one
+ says
+ hello.
+
+
+Just
+
+
+section.
+
+
+Anybody
+ managed
+ to
+ get
+ connection
+
+
+working?
+
+
+>> I
+ think
+ so.
+ I've
+ created
+ the
+ file.
+
+
+>> Nice.
+
+
+Uh
+ just
+ a
+ quick
+ view
+ of
+ what
+ this
+ looks
+
+
+like
+
+
+in
+ the
+ first
+
+
+basically
+ you
+ can
+ see
+ we
+ create
+ an
+ tell
+
+
+what
+ model
+ we
+ want
+ to
+ use
+ what
+ I
+ key
+ we
+
+
+want
+ we
+ want
+ to
+ use
+
+
+and
+ then
+ just
+ send
+ a
+ quick
+ message
+ to
+ to
+
+
+the
+ to
+ make
+ sure
+ it's
+ actually
+ working.
+
+
+Uh
+ all
+ right
+ for
+ the
+ second
+ time
+ I'm
+
+
+going
+ to
+ move
+ towards
+ prompt
+ two.
+ Uh
+ so
+
+
+here
+ we're
+ going
+ to
+ actually
+ start
+ to
+ do
+
+
+some
+ work
+ for
+ the
+ uh
+ so
+ we're
+ going
+ to
+
+
+tell
+ um
+ you
+ know
+ the
+ agent
+ we're
+ working
+
+
+with
+ uh
+ we
+ want
+ to
+ use
+ the
+ SDK
+ to
+ create
+
+
+a
+ new
+ agent
+ uh
+ that's
+ going
+ to
+ take
+ in
+ a
+
+
+GitHub
+ repository.
+ Uh
+ it's
+ going
+ to
+
+
+connect
+ to
+ a
+ remote
+ workspace
+ uh
+ running
+
+
+at
+ localhost
+ 8000.
+ Again
+ that's
+ the
+ the
+
+
+docker
+ start
+ command
+ from
+ before.
+ If
+ you
+
+
+haven't
+ already
+ run
+ that
+ now's
+ a
+ good
+
+
+time
+ to
+ get
+ Docker
+ running.
+ uh
+ Docker
+
+
+run
+ this
+ agent
+ server.
+ Uh
+
+
+it's
+ going
+ to
+ uh
+ clone
+ our
+ repository
+
+
+into
+ that
+ Docker
+ container.
+ Uh
+ we're
+
+
+going
+ to
+ create
+ an
+ agent
+ that's
+ going
+ to
+
+
+work
+ inside
+ that
+ Docker
+ container
+ and
+
+
+we're
+ going
+ to
+ tell
+ that
+ agent
+ to
+ scan
+
+
+this
+ repository
+ for
+ any
+
+
+with
+ the
+ open
+ ends
+ CLA.
+ Is
+ there
+ a
+ way
+
+
+to
+ interrupt
+ and
+ get
+ it
+ to
+ stop?
+
+
+>> Uh,
+ hit
+ control
+ P
+ or
+ pause.
+ Yeah.
+
+
+>> And
+ then
+ can
+ I
+ insert
+ my
+ corrections?
+
+
+>> Yeah.
+ Then
+ you
+ can
+ type
+ me
+ a
+ message
+ or
+
+
+just
+ type
+ continue.
+
+
+Yeah,
+
+
+>> I
+ got
+ the
+ CLI
+ to
+ install,
+ but
+ I
+ had
+ to
+
+
+add
+ -
+ AI.
+
+
+>> Seems
+ on
+ PI
+ that
+ there's
+ a
+ D
+ AI
+ version,
+
+
+but
+ then
+ it
+ says
+ in
+ the
+ docs.
+
+
+>> I
+ don't
+ I
+ think
+ the
+ AI
+ one
+ is
+
+
+deprecated,
+ but
+ it
+ is
+ it
+ is
+ a
+ usable
+
+
+CLI.
+ You
+ want
+ to
+ use
+ that
+
+
+service
+ that
+ one
+ off
+ our
+ team.
+
+
+Did
+ you
+ get
+ the
+ dash
+ AI1
+ to
+ work?
+
+
+Because
+ as
+ soon
+ as
+ I
+ tried
+ to
+ run
+ it,
+ it
+
+
+crashed.
+ Oh,
+
+
+>> oops.
+ It
+ installed.
+ I
+ was
+ so
+ happy.
+
+
+>> Yeah,
+ it
+ installed
+ and
+ then
+ it
+ it
+ didn't
+
+
+work.
+
+
+>> There's
+ a
+ deprecation
+ warning
+ when
+ I
+ go
+
+
+to
+ version.
+ So,
+ yeah,
+
+
+>> there
+ is
+ a
+ if
+ you
+ want
+ to
+ download
+ an
+
+
+executable
+ binary
+ on
+ our
+ release
+ page.
+
+
+>> Okay,
+
+
+>> that
+ might
+ be
+ straightforward.
+ You
+ can
+
+
+also
+ run
+ it
+ in
+ a
+ docker
+ container.
+ Um,
+
+
+if
+ you
+ CLI
+ docs,
+
+
+I
+ think
+ there's
+ a
+ UV
+ run
+ as
+ well.
+
+
+Try
+ UV
+ run.
+
+
+the
+ version.
+
+
+The
+ version
+
+
+that's
+ for
+ the
+ not
+ open
+ AI
+ regular.
+
+
+>> Okay.
+
+
+Thank
+ you.
+
+
+Okay,
+ supposedly
+ have
+ an
+ agent
+ working
+
+
+here.
+ Let's
+ see.
+ Going
+ to
+ run
+ it
+ with
+
+
+repo.
+ It
+ should
+ have
+ a
+ few
+ CVs
+ in
+ it.
+
+
+Let's
+ see
+ if
+ we
+ find
+ any
+ vulnerable
+
+
+by
+ default.
+ Open
+ hands.
+ We'll
+ uh
+
+
+we'll
+ visualize
+ the
+ output
+ here.
+ So,
+ we
+
+
+can
+ see
+ the
+ agent
+ working
+ uh
+ even
+ with
+
+
+the
+ SDK.
+ pretty
+ similar
+ to
+ how
+ we
+ saw
+
+
+the
+ uh
+ uh
+ CLI.
+
+
+Uh
+ you
+ can
+ see
+ it's
+ task
+ list.
+
+
+It's
+ uh
+
+
+the
+ repository.
+
+
+It's
+ uh
+ doesn't
+ have
+ trivia
+ itself.
+ So
+
+
+it's
+ like
+ trivia.
+ It's
+ basically
+ doing
+
+
+what
+ we
+ would
+ expect
+ an
+ agent
+ to
+ do.
+ Uh,
+
+
+we've
+ been
+ a
+ task.
+ We
+ can't
+ get
+ to
+ it.
+
+
+So,
+ we're
+ running
+ Trivia
+ now.
+
+
+show
+ a
+ bit
+ about
+ what
+ this
+ what
+ this
+
+
+generated
+ code
+ looks
+ like.
+ Uh
+ you
+ can
+
+
+see
+ so
+ we
+ we
+ instantiated
+ our
+ LLM
+ in
+ the
+
+
+first
+ step.
+
+
+Now
+ we're
+ actually
+ passing
+ this
+ LLM
+ to
+
+
+an
+ agent.
+ We're
+ also
+ giving
+ it
+ terminal
+
+
+tool
+ and
+ file
+ editor
+ tool.
+ Uh
+ we're
+
+
+creating
+ this
+ remote
+ workspace
+ that's
+
+
+connecting
+ to
+ our
+ Docker
+ container
+ so
+
+
+that
+ a
+ can
+ start
+ working
+ in
+ its
+ own
+
+
+environment.
+ Uh
+ we
+ create
+ what's
+ called
+
+
+a
+ conversation
+ which
+ is
+ basically
+ one
+
+
+chunk
+ of
+ context
+ that
+ the
+ is
+ going
+ to
+
+
+manage
+ as
+ it
+ goes
+ about
+ it
+ its
+ work.
+ Uh
+
+
+we
+ pass
+ it
+ a
+ task
+ with
+ some
+ clear
+
+
+instructions
+ for
+ what
+ it's
+ supposed
+ to
+
+
+do
+ and
+ then
+ send
+ that
+ send
+ that
+ task.
+
+
+Looks
+ like
+ that
+ initial
+ scanner
+ agent
+ is
+
+
+almost
+ done.
+
+
+Looks
+ like
+ that
+ agent
+ ran
+ just
+ fine.
+ Got
+
+
+these
+ results.
+
+
+I'll
+ keep
+ uh
+ keep
+ plugging
+ along
+ here.
+
+
+We've
+ got
+ an
+ agent
+ that's
+ uh
+ scanning
+
+
+for
+ vulnerabilities.
+
+
+Uh
+ so
+ the
+ next
+ thing
+ I'm
+ going
+ to
+ ask
+
+
+this
+ to
+ do
+ is
+ basically
+ we're
+ going
+ to
+
+
+reach
+ into
+ the
+ environment
+ and
+ get
+ the
+
+
+vulnerability
+ list
+ out
+ from
+ it.
+ Uh
+ the
+
+
+idea
+ is
+ we're
+ going
+ to
+ have
+ it
+ save
+ as
+
+
+the
+ vulnerabilities
+ to
+ a
+ JSON
+ file.
+ Uh
+
+
+then
+ we
+ can
+ on
+ that
+ workspace
+ object
+
+
+inside
+ of
+ the
+ docker
+ container
+ we
+ can
+
+
+run
+ execute
+ command
+ in
+ order
+ to
+ get
+
+
+those
+ vulnerabilities
+ back
+ out.
+ We
+ also
+
+
+have
+ some
+ some
+ options
+ for
+ like
+
+
+manipulating
+ files
+ uh
+ within
+ the
+
+
+workspace.
+ Uh
+ then
+ for
+ now
+ we're
+ just
+
+
+going
+ to
+ iterate
+ over
+ the
+
+
+vulnerabilities.json
+ file,
+ print
+ it
+ down
+
+
+just
+ so
+ we
+ can
+ see
+ we
+ were
+ able
+ to
+ reach
+
+
+into
+ this
+ workspace
+ and
+ get
+ some
+
+
+information
+ back
+ out.
+
+
+All
+
+
+right.
+ Supposedly
+
+
+good
+ to
+ go.
+ See
+ what
+ happens.
+
+
+Sheep.
+
+
+Got
+ some
+ vulnerability
+ results.
+
+
+Agent's
+ finished.
+ Let's
+ see
+ if
+ our
+
+
+script
+ can
+ get
+
+
+results
+ back.
+
+
+person.
+ Jace
+
+
+Um,
+
+
+One
+ more
+ time.
+
+
+>> What
+ is
+ the
+ observation
+ event?
+ So
+ for
+
+
+every
+
+
+states
+ uh
+ there's
+ a
+ there's
+ an
+ action
+
+
+and
+ then
+ an
+ observation.
+ So
+ it
+ might
+ be
+
+
+run
+ this
+ command
+ and
+ then
+ an
+ observation
+
+
+comes
+ back
+ with
+ the
+ output
+ of
+ that.
+
+
+>> Uh
+ it's
+ more
+ than
+ a
+ it's
+ it's
+ the
+
+
+basically
+ the
+ entire
+ trajectory
+ the
+
+
+agent
+ takes
+ of
+ events
+ and
+ then
+ there's
+
+
+two
+ kinds
+ of
+ events
+ actions
+ and
+
+
+observations.
+ So
+ fans
+ whenever
+ we
+ get
+
+
+calls
+ with
+ the
+ LM
+ it
+ comes
+ back
+ with
+ an
+
+
+action
+ to
+ take
+ or
+ basically
+ a
+ tool
+ call
+
+
+uh
+ and
+ then
+ the
+ observation
+ is
+ like
+ a
+
+
+tool
+ call.
+
+
+If
+ anyone
+ stuck
+ on
+ anything,
+ happy
+ to
+
+
+come
+ around
+ to
+ free
+ to
+ raise
+ a
+ hand.
+
+
+Number
+
+
+three.
+
+
+>> Nice.
+ Yeah,
+ it
+ looks
+ like
+ it's
+ printing
+
+
+the
+ CV
+ list.
+ Yeah,
+ that
+ looks
+ good.
+
+
+create
+ like
+
+
+a
+ specific
+ sub
+ agent
+ for
+ each
+ script
+ we
+
+
+are
+ running.
+ Why
+ you
+ overating
+
+
+the
+ same
+ file
+ again
+ and
+ again?
+
+
+>> So
+ the
+ the
+ process
+ we're
+ going
+ through
+
+
+here
+ with
+ the
+ five
+ the
+ five
+ prompts
+ this
+
+
+is
+ really
+
+
+uh
+ to
+ demonstrate
+ what
+ it
+ would
+ feel
+
+
+like
+ to
+ actually
+ like
+ build
+ with
+ our
+
+
+SDK,
+ right?
+ uh
+ this
+ is
+ not
+ the
+ way
+ that
+
+
+I
+ would
+ this
+ is
+ the
+ way
+ I
+ I
+ would
+ maybe
+
+
+like
+ work
+ if
+ I
+ was
+ actively
+ working
+ on
+ a
+
+
+problem
+ you
+ know
+ I
+ could
+ have
+ just
+ given
+
+
+you
+ this
+ this
+ whole
+ fully
+ packaged
+ code
+
+
+base
+ pre-built
+ right
+ yeah
+
+
+>> that
+ had
+ all
+ this
+ built
+ but
+ uh
+
+
+is
+ that
+ what
+ you're
+ asking
+ like
+ why
+ are
+
+
+we
+ why
+ are
+ we
+ pasting
+ these
+ prompts
+ in
+
+
+one
+ by
+ one
+
+
+>> eventually
+ we
+ get
+ a
+ very
+ large
+ script
+
+
+right
+ we
+ should
+ break
+ it
+ several
+
+
+separate
+ files
+ or
+ sections
+
+
+>> yeah
+ yeah yeah
+ no
+ I
+ think
+ there's
+
+
+there's
+ definitely
+ better
+ ways
+ to
+
+
+organize
+ this
+ code
+ than
+ to
+ have
+ one
+
+
+single
+ script
+ just
+ uh
+ easier
+ for
+ demo
+
+
+purposes.
+ Yes,
+ I
+ do
+ have
+ a
+ I
+ do
+ have
+ a
+
+
+demo
+ repo
+ um
+ I
+ think
+ it's
+ openhand
+ CVE
+
+
+demo
+ that
+ uses
+ special
+ classes.
+ There's
+
+
+a
+ single,
+ you
+ know,
+ CVE
+ agent
+ subassm
+
+
+that's
+ a
+ little
+ bit
+ more
+ than
+ just
+ this
+
+
+one
+ script.
+
+
+We're
+ still
+ pressing
+ JSON.
+
+
+Seems
+
+
+Yes.
+
+
+Focus.
+
+
+Enough
+ of
+ us.
+
+
+That's
+ beautiful
+ question.
+
+
+Our
+
+
+SC
+
+
+the
+ open
+ source
+ models.
+
+
+We're
+ actually
+
+
+I
+ don't
+ know
+ what
+ I'll
+ be
+ doing.
+
+
+All
+ right.
+
+
+The
+ thing
+ is
+
+
+I
+ mean
+
+
+>> Yeah.
+
+
+Heat.
