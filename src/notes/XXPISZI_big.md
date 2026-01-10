@@ -12,7 +12,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=XXPISZI_big
-speaker: all-in-podcast
+speaker: All-In Podcast
 status: evergreen
 summary: 布莱恩·约翰逊分享了他关于健康和长寿的见解，揭示了优化睡前静息心率是改善睡眠、提升健康和延长寿命的关键。他提供了简单实用的方法，并强调睡眠对意志力和心理健康的重要性。
 tags:

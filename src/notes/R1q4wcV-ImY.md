@@ -11,7 +11,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=R1q4wcV-ImY
-speaker: all-in-podcast
+speaker: All-In Podcast
 status: evergreen
 summary: Toma Bravo创始人Orlando Bravo分享了公司从早期发展到成为行业巨头的历程，探讨了私募股权在经济中的作用、如何识别和改造科技公司，以及对AI时代挑战和波多黎各州地位的看法。
 tags:

@@ -11,7 +11,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=5bSGrQou4Lo
-speaker: all-in-podcast
+speaker: All-In Podcast
 status: evergreen
 summary: YouTube CEO Neal Mohan深入探讨了平台在全球创作者经济中的核心地位、对AI生成内容的政策、在内容审查方面的立场，以及YouTube
   TV、Premium等创新产品对其未来发展的战略意义。

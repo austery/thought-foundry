@@ -28,14 +28,14 @@ def update_file(file_path):
     # 替换 author 和 speaker 字段
     original_frontmatter = frontmatter
     frontmatter = re.sub(
-        r'^author:\s*張内咸\s*$',
-        'author: 張内咸脫口秀',
+        r'^author:\s*all-in-podcast\s*$',
+        'author: All-In Podcast',
         frontmatter,
         flags=re.MULTILINE
     )
     frontmatter = re.sub(
-        r'^speaker:\s*張内咸\s*$',
-        'speaker: 張内咸脫口秀',
+        r'^speaker:\s*all-in-podcast\s*$',
+        'speaker: All-In Podcast',
         frontmatter,
         flags=re.MULTILINE
     )

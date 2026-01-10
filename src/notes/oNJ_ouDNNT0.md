@@ -13,7 +13,7 @@ products_models:
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=oNJ_ouDNNT0
-speaker: all-in-podcast
+speaker: All-In Podcast
 status: evergreen
 summary: 凯茜·伍德分析了颠覆性创新如何重塑经济，预测AI将加速GDP增长并抑制通胀。她分享了ARK的投资策略，包括比特币和特斯拉的展望，并讨论了零售投资者准入及公司治理等挑战。
 tags:

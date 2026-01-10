@@ -12,7 +12,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=OQcveYRfZgs
-speaker: all-in-podcast
+speaker: All-In Podcast
 status: evergreen
 summary: Andrew Ross Sorkin探讨1929年股市崩盘与当今经济泡沫、监管、技术变革及社会思潮的异同，并分享对未来挑战的看法。
 tags:

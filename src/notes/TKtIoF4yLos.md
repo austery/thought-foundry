@@ -11,7 +11,7 @@ products_models: []
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=TKtIoF4yLos
-speaker: all-in-podcast
+speaker: All-In Podcast
 status: evergreen
 summary: 红杉资本管理合伙人Roelof Botha深度探讨了风投行业当前面临的挑战，如资金过剩和“无回报风险”。他分享了红杉在人才培养、中国市场战略调整以及独特投资哲学（如Sequoia
   Capital Fund）方面的洞见，并揭示了其成功文化背后的核心特质。
