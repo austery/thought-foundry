@@ -204,7 +204,8 @@ The repository includes batch processing tools for frontmatter manipulation:
 - **remove_tag.py**: Removes specific tags from all files
 - **find_empty_tags.py**: Detects files with empty tag arrays
 - **analyze_unmapped.py**: Identifies content without proper categorization
-- **update_speaker_author.py**: Updates speaker/author fields
+- **update_speaker_author.py**: Updates `speaker` and `author` fields.
+    - Usage: `python3 scripts/update_speaker_author.py "Old Name" "New Name" [--dry-run]`
 - **find_unknown_speaker_files.py**: Finds files missing speaker metadata
 
 These scripts preserve frontmatter structure while safely updating specific fields.

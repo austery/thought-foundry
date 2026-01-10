@@ -71,22 +71,6 @@ For Python automation scripts, you'll need Python 3.13+ and `uv` for dependency 
 
 ### Installation
 
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/austery/thought-foundry.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd thought-foundry
-   ```
-
-3. Install the dependencies:
-
-   ```bash
-   npm install
    ```
 
 ## Usage
