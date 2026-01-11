@@ -14,9 +14,9 @@ title: 中年危机：从转机到新机的人生重塑
 summary: 本讲座探讨中年危机如何转化为人生转机与新机遇。强调避免逃避与否定，转而寻求智慧，通过回顾过去、重新评估人生优先次序、再度定向，以及在身体健康、兴趣爱好、亲子关系和夫妻关系上进行重建与更新，最终实现更丰盛的人生。核心在于拥抱改变，依靠信仰，将挑战视为成长的契机。
 insight: ''
 draft: true
-series: ''
-category: ai-ml
-area: tech-engineering
+series: '家庭生活系列讲座'
+category: life-family
+area: family-relations
 project: []
 people: []
 companies_orgs: []
