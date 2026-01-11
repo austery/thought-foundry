@@ -16,7 +16,7 @@ products_models: []
 project: []
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=0_3-hCgQ36c
-speaker: ''
+speaker: 士每拿Smyrna RCI
 summary: null
 tags:
 - family-life
