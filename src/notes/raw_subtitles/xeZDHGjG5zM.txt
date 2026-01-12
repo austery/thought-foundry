@@ -1,0 +1,14220 @@
+People
+ love
+ how
+ thorough
+ and
+ diligent
+
+
+Codeex
+ is.
+ It's
+ not
+ the
+ fastest
+ tool
+ out
+
+
+there,
+ but
+ it
+ is
+ the
+ most
+ thorough
+ and
+
+
+best
+ at
+ hard
+ complex
+ tasks.
+
+
+>> If
+ you're
+ a
+ software
+ engineer
+ or
+
+
+somebody
+ who's
+ even
+ just
+ new
+ to
+ using
+
+
+some
+ of
+ these
+ AI
+ tools,
+ where
+ would
+ you
+
+
+get
+ started
+ with
+ Codeex?
+
+
+>> We're
+ building
+ it
+ into
+ a
+ full
+ software
+
+
+engineering
+ teammate.
+ One
+ of the
+ things
+
+
+that
+ Codex
+ is
+ great
+ at
+ is
+ simply
+
+
+answering
+ questions.
+ If
+ you
+ have
+ a
+ chat
+
+
+where
+ Codex
+ is
+ producing
+ these
+ plans
+ and
+
+
+you
+ want
+ to
+ change
+ something,
+ it's
+
+
+actually
+ really
+ nice
+ for
+ the
+ model
+ if
+
+
+you
+ just
+ use
+ the
+ same
+ chat
+ to
+ ask
+ for
+
+
+changes
+ to
+ the
+ plan
+ and
+ that
+ way
+ it
+ has
+
+
+all
+ this
+ context
+ in
+ its
+ head
+ when
+ it's
+
+
+ready
+ to
+ get
+ going.
+ This
+ is
+ a
+ great
+
+
+starter
+ flow
+ that
+ shows
+ how
+ flexible
+
+
+this
+ platform
+ is
+ and
+ how
+ it
+ can
+ meet
+ a
+
+
+bunch
+ of
+ people
+ at
+ a
+ variety
+ of
+ levels
+
+
+of
+ tasks.
+ How
+ is
+ OpenAI
+ using
+ this
+ for
+
+
+bigger
+ features
+ and
+ bigger
+ products?
+
+
+>> We
+ used
+ Codex
+ to
+ build
+ a
+ sore
+ app
+ for
+
+
+Android
+ in
+ 28
+ days
+ [music]
+ and
+ it
+
+
+immediately
+ became
+ the
+ number
+ one
+ app
+ in
+
+
+the
+ app
+ store.
+
+
+[music]
+
+
+>> Welcome
+ back
+ to
+ How
+ I
+ AI.
+ I'm
+ Claire
+ Vo,
+
+
+product
+ leader
+ and
+ AI
+ obsessive
+ here
+ on
+
+
+a
+ mission
+ to
+ help
+ you
+ build
+ better
+ with
+
+
+these
+ new
+ tools.
+ Today
+ we
+ have
+ Alexander
+
+
+Emiros,
+ product
+ lead
+ for
+ Codeex
+ from
+
+
+Open
+ AI,
+ and
+ he's
+ going to
+ show
+ us
+ how
+
+
+you
+ can
+ get
+ the
+ most
+ out
+ of
+ Codeex.
+
+
+Whether
+ you're
+ a
+ non-technical
+ user
+
+
+trying
+ to
+ make
+ changes
+ to
+ an
+ existing
+
+
+codebase
+ or
+ want
+ the
+ power
+ tips
+ and
+
+
+tricks
+ for
+ getting
+ the
+ most
+ out
+ of
+ it
+ in
+
+
+the
+ terminal.
+ Let's
+ get
+ to
+ it.
+ This
+
+
+episode
+ is
+ brought
+ to
+ you
+ by
+ Brex.
+
+
+[music]
+ If
+ you're
+ listening
+ to
+ this
+
+
+show,
+ you
+ already
+ know
+ AI
+ is
+ changing
+
+
+how
+ we
+ work
+ in
+ real
+ practical
+ [music]
+
+
+ways.
+ Rex
+ is
+ bringing
+ that
+ same
+ power
+ to
+
+
+finance.
+ Brex
+ is
+ [music]
+ the
+ intelligent
+
+
+finance
+ platform
+ built
+ for
+ founders.
+
+
+With
+ autonomous
+ agents
+ running
+ in
+ the
+
+
+background,
+ your
+ finance
+ [music]
+ stack
+
+
+basically
+ runs
+ itself.
+ Cards
+ are
+ issued,
+
+
+expenses
+ are
+ filed,
+ and
+ fraud
+ is
+ stopped
+
+
+in
+ real
+ time
+ without
+ you
+ having
+ to
+ think
+
+
+about
+ it.
+
+
+>> [music]
+
+
+>> Add
+ Brex's
+ banking
+ solution
+ with
+ a
+ high
+
+
+yield
+ treasury
+ account
+ and
+ you've
+ got
+ a
+
+
+system
+ that
+ helps
+ you
+ spend
+ smarter,
+
+
+move
+ faster,
+ and
+ scale
+ with
+ confidence.
+
+
+One
+ in
+ three
+ startups
+ in
+ the
+ [music]
+ US
+
+
+already
+ runs
+ on
+ Brex.
+ You
+ can
+ too
+ at
+
+
+bre.com/howi
+
+
+AI.
+ Alex,
+ thanks
+ for
+ joining
+ How
+ I
+ AI.
+
+
+I'm
+ excited
+ about
+ today's
+ episode
+
+
+because
+ we
+ actually
+ haven't
+ seen
+ a
+ deep
+
+
+dive
+ into
+ codeex
+ yet
+ and
+ we
+ are
+ going
+ to
+
+
+get
+ the
+ expert
+ take
+ on
+ how
+ to
+ get
+ the
+
+
+most
+ out
+ of
+ this
+ tool.
+ And
+ I
+ love
+ that
+
+
+we're
+ just
+ going
+ to
+ dive
+ in
+ and
+ do
+ a
+
+
+0ero
+ to
+ one
+ hello
+ world
+ with
+ Codeex.
+ So
+
+
+if
+ you're
+ a
+ software
+ engineer
+ or
+
+
+somebody
+ who's
+ even
+ just
+ new
+ to
+ using
+
+
+some
+ of
+ these
+ AI
+ tools,
+ where
+ would
+ you
+
+
+get
+ started
+ with
+ Codex?
+
+
+>> Codex
+ is
+ a
+ coding
+ agent.
+ We're
+ building
+
+
+it
+ into
+ a
+ full
+ software
+ engineering
+
+
+teammate.
+ But
+ to
+ get
+ started,
+ let's
+ just
+
+
+talk
+ about
+ where
+ most
+ people
+ use
+ it,
+
+
+which
+ is
+ in
+ their
+ IDE.
+ Uh
+ I
+ happen
+ to
+
+
+use
+ VS
+ Code.
+ So
+ I'll
+ show
+ you
+ Codex
+ in
+
+
+VS
+ Code.
+ You
+ can
+ also
+ use
+ it
+ uh
+ the
+
+
+Codex
+ extension
+ in
+ any
+ VS
+ code
+ fork
+ like
+
+
+cursor,
+ etc.
+ So
+ let's
+ say
+ that
+ I
+ just
+
+
+installed
+ Codex
+ from
+ the
+ VS
+ Code
+
+
+extension
+ marketplace.
+ Do
+ you
+ want
+ me
+ to
+
+
+show
+ that
+ by
+ the
+ way
+ or?
+
+
+>> Yeah,
+ let's
+ do
+ it.
+ Let's
+ truly
+ zero.
+ All
+
+
+right.
+ Okay.
+ Truly
+ zero
+ to
+ one.
+ I
+ mean,
+
+
+I'm
+ not
+ going
+ to
+ uninstall
+ and
+ log
+ out,
+
+
+but
+ we
+ can
+ pretend
+ I
+ did
+ that.
+ Yes,
+ I
+
+
+love
+ it.
+
+
+>> Pretend
+ I
+ clicked
+ on
+ install
+ and
+ then
+ I
+
+
+clicked
+ in.
+ Right.
+ So,
+ what
+ would
+ happen
+
+
+then
+ is
+ I'm
+ going
+ to
+ get
+ this
+ glyph
+
+
+here,
+ uh,
+ which
+ is
+ the
+ Codex
+ extension.
+
+
+I
+ have
+ to
+ click
+ through
+ some
+ steps
+ and
+
+
+log
+ in.
+ And
+ so,
+ in
+ case
+ you
+ didn't
+ know,
+
+
+Codex
+ is
+ included
+ in
+ your
+ charge
+ PT
+
+
+plan.
+ So,
+ you
+ need
+ a
+ paid
+ plan.
+ So,
+ if
+
+
+you
+ have a
+ plus
+ plan,
+ pro,
+ uh,
+ business
+
+
+team
+ or
+ EDU,
+ you
+ can
+ use
+ Codex.
+ Um,
+ and
+
+
+the
+ limits
+ are
+ really
+ generous.
+ Okay.
+
+
+So,
+ let's
+ say
+ I
+ have
+ this
+ thing
+ up
+ and
+
+
+truly
+ zero
+ to
+ one.
+ Let's
+ pretend
+ I
+ like
+
+
+actually
+ I
+ just
+ heard
+ that
+ this
+ is
+ a
+
+
+game,
+ but
+ I
+ don't
+ even
+ know
+ how
+ to
+ play
+
+
+this
+ game.
+ Uh,
+ one
+ of
+ the
+ things
+ that
+
+
+Codex
+ is
+ great
+ at
+ is
+ simply
+ answering
+
+
+questions.
+ I'm
+ the
+ product
+ lead
+ for
+
+
+Codex.
+ So,
+ I
+ I
+ actually
+ use
+ Codex
+ a
+ lot
+
+
+for
+ asking
+ questions,
+ probably
+ more
+ than
+
+
+most
+ engineers
+ do,
+ cuz
+ I
+ don't
+ want
+ to
+
+
+bother
+ engineers
+ with
+ silly
+ questions.
+
+
+So,
+ I
+ might
+ ask,
+ how
+ do
+ I
+ play
+ this
+
+
+game?
+ We
+ just
+ launched
+ a
+ new
+ model
+
+
+today.
+ So,
+ I'm
+ actually
+ curious
+ what
+
+
+model
+ that
+ used.
+ 5.2.
+ Cool.
+ We're
+ going
+
+
+to
+ talk
+ about
+ that,
+ I
+ guess.
+ So,
+ I'm
+
+
+just
+ going
+ to
+ run
+ npm
+ rundev
+ here
+ as
+
+
+it's
+ saying,
+ boot
+ up
+ the
+ server
+ and
+
+
+let's
+ take
+ a
+ look
+ at
+ the
+ game.
+ Okay,
+ so
+
+
+what
+ I
+ have
+ here
+ is
+ like
+ a
+ simple
+
+
+commander
+ type
+ game.
+ I
+ can
+ move
+ my
+
+
+character
+ around.
+ Um,
+ I
+ can
+ recruit
+
+
+troops.
+ It
+ looks
+ like
+ planting
+ windmills
+
+
+is
+ not
+ implemented
+ yet.
+ And
+ I've
+ heard
+
+
+there's
+ something
+ wrong
+ with
+ the
+ jump.
+
+
+Okay,
+ that's
+ way
+ too
+ high.
+ So,
+ let's
+ get
+
+
+to
+ work
+ fixing
+ some
+ of
+ these
+ issues.
+ So,
+
+
+what
+ I
+ can
+ do
+ here
+ is
+ I
+ can
+ just
+ go
+ and
+
+
+ask,
+ let's
+ just
+ say
+ that
+ jump
+ is
+ way
+ too
+
+
+big.
+ Uh,
+ lower,
+ please.
+ And
+ so
+ uh
+ for
+
+
+those
+ of
+ you
+ who
+ are
+ new
+ to
+ coding
+
+
+agents,
+ I
+ mean
+ this
+ is
+ pretty
+ pretty
+
+
+basic.
+ I
+ just
+ wrote
+ in
+ plain
+ natural
+
+
+language,
+ plain
+ English
+ what
+ the
+ change
+
+
+that
+ I
+ wanted.
+ And
+ we
+ can
+ see
+ codeex
+
+
+getting
+ to
+ work
+ thinking
+ up
+ of
+ a
+ plan.
+
+
+Okay,
+ I
+ need
+ to
+ figure
+ out
+ how
+ the
+ jump
+
+
+works.
+ I
+ need
+ to
+ then
+ reduce
+ it
+ and
+ then
+
+
+I
+ need
+ to
+ like
+ make
+ sure
+ this
+ whole
+
+
+thing
+ works.
+ So
+ let's
+ do
+ that.
+ And
+ uh
+
+
+while
+ we're
+ at
+ it,
+ let's
+ make
+ some
+ more
+
+
+changes
+ as
+ well.
+ How
+ about
+ we
+ uh
+
+
+implement
+ the
+ windmill
+ planting?
+
+
+Um
+ I'm
+ just
+ doing
+ these
+ in
+ your
+ chat
+ so
+
+
+they
+ can
+ go
+ in
+ parallel.
+ Yeah,
+ I
+ I
+ want
+
+
+to
+ call
+ out
+ some
+ stuff
+ for
+ for
+ folks
+
+
+listening
+ or
+ not
+ watching.
+ So,
+ what
+
+
+you're
+ basically
+ showing
+ is
+ the
+ process
+
+
+of
+ starting
+ with
+ an
+ existing
+ codebase
+
+
+and
+ you
+ as
+ a
+ let's
+ just
+ pretend
+ you're
+ a
+
+
+semi-technical
+ user.
+ You're
+ like
+ a
+
+
+product
+ manager
+ on
+ this
+ and
+ you're
+ like,
+
+
+eh,
+ you
+ know,
+ they
+ ship
+ something
+ but
+
+
+not
+ exactly
+ what
+ you
+ want.
+ What
+ you're
+
+
+using
+ codecs
+ for
+ is
+ one,
+ how
+ do
+ I
+ even
+
+
+run
+ this
+ thing
+ locally?
+ which
+ I
+ think
+ is
+
+
+just
+ such
+ a
+ you
+ know
+ people
+ forget
+ these
+
+
+basic
+ use
+ cases
+ because
+ I
+ know
+ there
+ are
+
+
+a
+ lot
+ of
+ software
+ engineers
+ that
+ listen
+
+
+to
+ this
+ podcast
+ but
+ people
+ forget
+ like
+
+
+not
+ everybody
+ knows
+ how
+ to
+ run
+ every
+
+
+repo
+ locally.
+ So,
+ one
+ little
+ thing
+ you
+
+
+can
+ do
+ is
+ like
+ just
+ how
+ do
+ I
+ get
+ this
+
+
+codebase
+ running
+ so
+ I
+ can
+ test
+ it?
+ And
+
+
+then
+ two,
+ you're
+ setting
+ up
+ little
+
+
+parallel
+ tasks,
+ which
+ I
+ think
+ is
+ really
+
+
+nice
+ and
+ I'm
+ curious,
+ you
+ know,
+ how
+ many
+
+
+of
+ these
+ do
+ you
+ find
+ yourself
+ doing
+ on
+
+
+anyone
+ anyone
+ codebase
+ to
+ just
+ fix
+
+
+little
+ things?
+ And
+ so
+ I
+ guess
+ my
+
+
+question
+ for
+ you
+ is
+ on
+ these
+ parallel
+
+
+tasks
+ which
+ in
+ this
+ example
+ are
+ very
+
+
+small.
+ Do
+ you
+ feel
+ like
+ it's
+ a
+ better
+
+
+approach
+ to
+ set
+ up
+ parallel
+ tasks
+ and
+
+
+just
+ have
+ you
+ know
+ individual
+ ones
+
+
+running
+ or
+ to
+ do
+ them
+ in
+ sort
+ of
+ a
+
+
+serial
+ basis?
+ Like
+ why
+ one
+ or
+ the
+ other?
+
+
+>> This
+ totally
+ depends.
+ So
+ like
+ this
+ is
+ a
+
+
+bit
+ of
+ a
+ toy
+ project
+ but
+ realistically
+
+
+like
+ the
+ way
+ that
+ I
+ I
+ typically
+ work
+ if
+
+
+I'm
+ like
+ running
+ around.
+ Um
+ so
+ this
+ is
+
+
+like
+ very
+ tactical
+ to
+ like
+ I
+ guess
+ PMs.
+
+
+So
+ I'm
+ looking
+ at
+ a
+ terminal
+ here
+ and
+ I
+
+
+often
+ just
+ have
+ some
+ like
+ question
+ that
+
+
+I
+ want
+ to
+ know
+ about.
+ So
+ actually
+ like
+
+
+literally
+ this
+ morning
+ I
+ was
+ like
+ okay
+
+
+I'm
+ going to
+ do
+ a
+ demo.
+ I
+ know
+ we
+ just
+
+
+launched
+ a
+ new
+ feature
+ that
+ makes
+ it
+
+
+easier
+ to
+ pick
+ models.
+ Can
+ I
+ disable
+
+
+that?
+ And
+ so
+ I
+ ran
+ codeex
+ which
+ popped
+
+
+me
+ in.
+ Uh
+ this
+ is
+ just
+ some
+ internal
+
+
+auto
+ update
+ logic
+ that
+ I
+ ran
+ codeex
+ and
+
+
+then
+ I
+ asked
+ hey
+ uh
+ we
+ have
+ this
+ new
+
+
+feature.
+ By
+ the
+ way
+ I
+ don't
+ mind
+ telling
+
+
+you
+ guys
+ about
+ it
+ because
+ open
+ source
+ so
+
+
+a
+ lot
+ of
+ new
+ things
+ are
+ just
+ like
+ out
+
+
+there
+ in
+ public.
+ We
+ have
+ this
+ new
+
+
+feature
+ that
+ offers
+ um
+ balanced
+
+
+reasoning
+ settings.
+ I'm
+ going
+ to
+ quote
+
+
+it
+ actually
+ to
+ give
+ the
+ model
+ a
+ clue
+
+
+that
+ I
+ wanted
+ to
+ search
+ that
+ string.
+ Uh
+
+
+reasoning
+ settings.
+ How
+ do
+ I
+ disable
+
+
+that
+ for
+ the
+ demo?
+ So,
+ you
+ know,
+ I
+ might
+
+
+do
+ this
+ kind
+ of
+ thing
+ like
+ super
+
+
+frequently
+ or
+ I
+ might
+ be
+ like,
+ "Hey,
+ I
+
+
+heard
+ a
+ customer
+ report
+ about
+ this
+
+
+behavior.
+ Is
+ that
+ done?"
+ Or
+ I
+ might
+ ask
+
+
+a
+ question
+ like,
+ "Hey,
+ uh
+ did
+ we
+ ship
+
+
+this
+ feature?
+ I
+ I
+ like
+ I
+ lost
+ track
+ of
+
+
+whether
+ or
+ not
+ we
+ shipped
+ something."
+
+
+So,
+ I
+ ask
+ these
+ kinds
+ of
+ questions
+ a
+
+
+lot.
+ And
+ when
+ I
+ do
+ this,
+ running
+ them
+ in
+
+
+parallel
+ is
+ like
+ great,
+ there's
+ no
+
+
+reason
+ to
+ to
+ do
+ anything
+ else.
+ On
+ the
+
+
+other
+ hand,
+ if
+ I'm
+ making
+ changes,
+ then
+
+
+I'm
+ more
+ likely
+ to
+ think
+ about,
+ okay,
+
+
+how
+ likely
+ is
+ this
+ change
+ to
+ conflict
+
+
+with
+ another
+ change?
+
+
+>> And
+ typically,
+ I'll
+ either
+ do
+ one
+ at
+ a
+
+
+time
+ or
+ I'll
+ use
+ something
+ called
+ a
+ work
+
+
+tree,
+ which
+ is,
+ I
+ guess,
+ a
+ bit
+ more
+ of
+
+
+an
+ advanced
+ concept.
+ U,
+ we
+ can
+ get
+ into
+
+
+that
+ if
+ you're
+ interested.
+ Uh,
+ I'll
+ use
+
+
+a
+ work
+ tree
+ and
+ I'll
+ just
+ spend
+ send
+
+
+codeex
+ off
+ to
+ do
+ its
+ work
+ on
+ a
+ separate
+
+
+work
+ tree.
+ No,
+ let's
+ take
+ let's
+ take
+ a
+
+
+minute
+ to
+ to
+ look
+ at
+ work
+ trees
+ because
+
+
+I
+ think
+ this
+ is
+ something
+ that
+ um
+ most
+
+
+folks
+ that
+ are
+ new
+ to
+ these
+ tools
+ aren't
+
+
+really
+ using
+ particularly
+ well.
+ I
+ see
+
+
+sort
+ of
+ the
+ two
+ paths
+ that
+ you
+ showed
+
+
+which
+ is
+ one
+ I'm
+ just
+ going
+ to
+ do
+ like
+
+
+one
+ big
+ branch
+ do
+ these
+ things
+ in
+ serial
+
+
+and
+ then
+ commit
+ them
+ in
+ or
+ two
+ I'm
+ just
+
+
+going
+ to
+ like
+ kick
+ off
+ a
+ bunch
+ of
+
+
+different
+ tasks
+ but
+ they're
+ all
+ going
+ in
+
+
+the
+ same
+ conflicting
+ space
+ and
+ creating
+
+
+issues.
+ And
+ so
+ maybe
+ we
+ take
+ a
+ minute
+
+
+and
+ talk
+ about
+ work
+ trees
+ and
+ how
+ those
+
+
+work
+ within
+ codeex
+ or
+ how
+ you
+ set
+ them
+
+
+up
+ and
+ use
+ them
+ to
+ make
+ sure
+ that
+ you
+
+
+can
+ run
+ par
+ parallel
+ changes
+ but
+ that
+
+
+they
+ don't
+ conflict
+ with
+ each
+ other
+ and
+
+
+can
+ be
+ reviewed
+ separately.
+
+
+>> Basically,
+ if
+ we're
+ going
+ to
+ have
+ codeex
+
+
+make
+ changes
+ and
+ maybe
+ I
+ can
+ come
+ up
+
+
+with
+ an
+ example
+ on
+ the
+ fly.
+ Let's
+ say
+
+
+that
+ we
+ want
+ to
+ change
+ like
+ the
+ language
+
+
+of
+ this
+ input
+ to
+ like
+ French
+ or
+ German.
+
+
+Like
+ obviously
+ those
+ both
+ can't
+ be
+ true
+
+
+at
+ the
+ same
+ time.
+ This
+ is
+ a
+ very
+
+
+contrived
+ example,
+ right?
+ But
+ maybe
+ I
+
+
+want
+ to
+ try
+ both.
+ Maybe
+ I'm
+ prototyping
+
+
+something.
+ Mhm.
+
+
+>> What
+ I
+ need
+ then
+ is
+ I
+ need
+ two
+ different
+
+
+copies
+ of
+ the
+ codebase.
+ So
+ I
+ could
+ just
+
+
+copy
+ the
+ codebase
+ twice,
+ right?
+ Like
+
+
+just
+ command
+ C,
+ command
+ V
+ in
+ finder
+ or
+ I
+
+
+could
+ get
+ clone
+ the
+ the
+ repo
+ twice.
+ But
+
+
+Git
+ has
+ this
+ really
+ nice
+ affordance
+
+
+called
+ a
+ work
+ tree
+ which
+ basically
+ lets
+
+
+one
+ get
+ instance
+ track
+ multiple
+ copies
+
+
+of
+ the
+ codebase.
+ So
+ uh
+ you
+ know
+ as
+ a
+ as
+
+
+sort
+ of
+ a
+ classic
+ mammal,
+ I
+ am
+ lazy
+ and
+
+
+so
+ I
+ don't
+ want
+ to
+ remember
+ the
+ commands
+
+
+for
+ workree
+ even
+ though
+ they're
+ very
+
+
+simple.
+ So
+ typically
+ the
+ way
+ that
+ I
+
+
+would
+ actually
+ do
+ this
+ is
+ I
+ would
+ just
+
+
+ask
+ Codex
+ to
+ create
+ work
+ trees.
+ So
+ I
+
+
+might
+ say
+ something
+ like
+ Codex
+ and
+ uh
+ I
+
+
+could
+ launch
+ Codex
+ like
+ I
+ just
+ did
+ and
+
+
+type
+ the
+ prompt.
+ But
+ a
+ shortand
+ what's
+
+
+kind
+ of
+ nice
+ in
+ Codex
+ is
+ you
+ can
+ just
+
+
+put
+ your
+ prompt
+ right
+ in.
+ So
+ I
+ might
+ say
+
+
+codeex
+ in
+ here
+ uh
+ create
+ two
+ new
+ work
+
+
+trees
+
+
+uh
+ off
+ the
+ main
+ branch.
+ I
+ might
+ not
+ be
+
+
+this
+ super
+ explicit
+ if
+ I
+ was
+ actually
+
+
+doing
+ it.
+ main
+ branch,
+ one
+ called
+ French
+
+
+and
+ one
+ called
+ German.
+
+
+And
+ so
+ what
+ you
+ can
+ see
+ happen
+ just
+ here
+
+
+is
+ that
+ Codex
+ just
+ launched
+ and
+ went
+
+
+straight
+ into
+ this
+ prompt.
+ I
+ do
+ this
+ all
+
+
+the
+ time.
+ In
+ fact,
+ I
+ I've
+ gotten
+ so
+ used
+
+
+to
+ running
+ this
+ that
+ sometimes
+ I
+ will
+
+
+forget
+ to
+ write
+ codeex-
+ quote
+ and
+ I
+ will
+
+
+literally
+ just
+ do
+ something
+ like
+ this.
+
+
+Uh
+ I'll
+ be
+ in
+ terminal,
+ I'll
+ say
+ in
+
+
+here,
+ do
+ this.
+ Yeah,
+ I
+ was
+ I
+ was
+ just
+
+
+looking
+ at
+ this
+ because
+ this
+ we're
+ in
+ a
+
+
+very
+ meta
+ repository
+ right
+ now
+ which
+ is
+
+
+in
+ you're
+ in
+ a
+ folder
+ in
+ called
+ codecs
+
+
+running
+ codecs
+ talking
+ to
+ codeex.
+ It's
+
+
+all
+ you
+ know
+ it's
+ codecs
+ all
+ the
+ way
+
+
+down
+ as
+ they
+ would
+ say.
+ But
+ yeah,
+ I
+
+
+think
+ this
+ is
+ an
+ important
+ one
+ to
+ call
+
+
+out
+ for
+ folks
+ that
+ are
+ not
+ watching
+ the
+
+
+YouTube
+ and
+ maybe
+ are
+ listening
+ is
+ you
+
+
+can
+ type
+ as
+ you
+ open
+ a
+ new
+ codeex
+
+
+instance
+ in
+ the
+ CLI,
+ you
+ can
+ type
+ this
+
+
+dash
+ dash
+ and
+ your
+ first
+ prompt
+ right
+ in
+
+
+one
+ line.
+ And
+ this
+ is
+ like
+ classic
+
+
+developer
+ productivity.
+ It's
+ like
+ I
+
+
+cannot
+ be
+ expected
+ to
+ press
+ enter,
+ wait,
+
+
+and
+ then
+ type
+ my
+ words.
+ Exactly.
+
+
+>> Um,
+ so
+ I
+ love
+ this.
+ Okay,
+ so
+ then
+ what
+
+
+you've
+ done
+ here
+ is
+ you've
+ used
+ codeex
+
+
+um
+ to
+ do
+ what
+ we
+ all
+ use
+ codeex
+ for,
+
+
+which
+ is
+ not
+ have
+ to
+ memorize
+ git
+ cli
+
+
+commands
+ and
+ you're
+ creating
+ two
+ new
+ git
+
+
+work
+ trees
+ off
+ main.
+ And
+ then
+ I'm
+
+
+presuming
+ as
+ you
+ work
+ inside
+ codeex,
+
+
+what
+ you're
+ saying
+ is
+ like,
+ okay,
+ in
+ the
+
+
+French
+ work
+ tree
+ do
+ ABC
+ and
+ in
+ German
+ do
+
+
+XYZ.
+
+
+>> Yeah.
+ So
+ let's
+ let's
+ actually
+ show
+
+
+working
+ in
+ those
+ work
+ trees.
+ So
+ if
+ you
+
+
+see
+ here,
+ I
+ now
+ have
+ two
+ folders.
+
+
+>> I
+ have
+ one
+ called
+ French
+ and
+ one
+ called
+
+
+German.
+ So
+ what
+ I
+ might
+ just
+ do
+ is
+ I
+
+
+might
+ CD
+ into
+ French.
+ And
+ then
+ um
+ I
+
+
+might
+ run
+ codeex.
+ Uh
+ let's
+ go
+ in
+ and
+
+
+I'll
+ just
+ say
+ translate
+ the
+ input
+ field
+
+
+placeholder
+ strings
+
+
+strings
+ to
+ French.
+ Again,
+ very
+ contrived
+
+
+example.
+
+
+>> Yep.
+
+
+>> So
+ now
+ I
+ can
+ open
+ a
+ new
+ tab.
+ And
+ what
+ I
+
+
+will
+ do
+ is
+ I
+ will
+ now
+ cd
+ into
+ the
+ German
+
+
+tab
+ instead.
+ and
+ I'll
+ run
+ codeex.
+ I'll
+
+
+use
+ my
+ nice
+ shortcut
+ to
+ just
+ immediately
+
+
+give
+ it
+ the
+ command
+ and
+ I'll
+ say
+
+
+translate
+ the
+ input
+ placeholder
+ string
+
+
+to
+ German.
+
+
+And
+ so
+ now
+ Codex
+ can
+ go
+ work
+ on
+ both
+ of
+
+
+these
+ changes
+ at
+ the
+ same
+ time.
+ Here's
+
+
+the
+ French
+ one
+ going.
+ It's
+ figuring
+ out
+
+
+where
+ to
+ do
+ this.
+ Here's
+ the
+ German
+ one
+
+
+going.
+ And
+ so
+ that's
+ awesome.
+
+
+>> You
+ know,
+ we
+ have
+ a
+ lot
+ of
+ people
+ that,
+
+
+you
+ know,
+ go
+ go
+ on
+ social
+ media
+ and
+
+
+they're
+ like,
+ we're
+ running
+ I'm
+ running
+
+
+15
+ instances
+ of
+ codecs
+ across
+ my
+
+
+terminal.
+ They
+ show
+ all
+ these
+ tabs,
+ but
+
+
+they're
+ not
+ sharing
+ practically
+ how
+
+
+they're
+ creating
+ separation
+ of
+ concerns
+
+
+across
+ this
+ code.
+ And
+ you
+ know,
+ I
+ I
+ love
+
+
+that
+ we're
+ showing
+ AI
+ tools,
+ but
+ I
+ think
+
+
+also
+ what
+ these
+ coding
+ tools
+ are
+
+
+allowing
+ people
+ to
+ do
+ is
+ come
+ to
+
+
+software
+ engineering
+ a
+ lot
+ of
+ times
+
+
+without
+ the
+ basics
+ of
+ things
+ like
+ Git.
+
+
+And
+ so,
+ you
+ know,
+ it's
+ in
+ addition
+ to
+
+
+learning
+ some
+ of
+ these
+ AI
+ tools,
+ if
+ I
+
+
+could
+ tell
+ anybody
+ like
+ learn
+ the
+
+
+fundamentals
+ of
+ Git
+ and
+ then
+ you
+ will
+ be
+
+
+in
+ a
+ safe
+ space
+ when
+ you're
+ we're
+ when
+
+
+you're
+ running
+ with
+ the
+ power
+ of
+ these
+
+
+tools,
+ I
+ think
+ is
+ is
+ really
+ important.
+
+
+Okay.
+ So,
+ you
+ know,
+ what
+ we've
+ shown
+ is
+
+
+you
+ can
+ spin
+ up
+ codecs
+ kind
+ of in
+ one
+ of
+
+
+two
+ ways,
+ which
+ I
+ also
+ want
+ to
+ call
+ out.
+
+
+One,
+ in
+ your
+ IDE
+ through
+ an
+ extension
+
+
+plugin.
+ Two,
+ if
+ you
+ just
+ want
+ to
+ go
+
+
+straight
+ into
+ the
+ terminal
+ experience,
+
+
+great.
+ You
+ can
+ you
+ know
+ ask
+ it
+ to
+ do
+
+
+either
+ ex
+ explanatory
+ tasks
+ which
+ is
+ I
+
+
+use
+ it
+ a
+ lot
+ even
+ on
+ code
+ I
+ have
+ written
+
+
+myself
+ [laughter]
+ like
+ what
+ what
+ you
+
+
+know
+ what
+ did
+ I
+ do
+ here
+ remind
+ me
+ how
+
+
+this
+ works
+
+
+>> as
+ well
+ as
+ sort
+ of
+ discrete
+ tasks
+ and
+
+
+then
+ you
+ can
+ parallelize
+ these
+
+
+especially
+ by
+ using
+
+
+>> work
+ trees.
+ So
+ I
+ think
+ this
+ is
+ a
+ is
+ a
+
+
+great
+ you
+ know
+ kind
+ of
+ like
+ foundational
+
+
+how
+ you
+ would
+ use
+ some
+ of
+ the
+ basics
+ of
+
+
+this
+ but
+ how
+ is
+ OpenAI
+ using
+ this
+ for
+
+
+bigger
+ features
+ and
+ bigger
+ products.
+
+
+>> Totally.
+ So
+ actually
+ we
+ just
+ published
+ a
+
+
+blog
+ post
+ about
+ this
+ that
+ I
+ think
+ could
+
+
+be
+ cool
+ for
+ people
+ to
+ know
+ about
+ about
+
+
+how
+ we
+ used
+ Codex
+ to
+ build
+ Sora
+ the
+ Sora
+
+
+app
+ for
+ Android
+ in
+ 28
+ days
+ and
+ it
+
+
+immediately
+ became
+ the
+ number
+ one
+ app
+ in
+
+
+the
+ app
+ store.
+ So
+ you
+ know
+ four
+
+
+engineers
+ 28
+ days
+ number
+ one
+ app
+ in
+ the
+
+
+app
+ store
+ and
+ it's
+ not
+ a
+ trivial
+ app
+
+
+that
+ I
+ was
+ super
+ impressed
+ by
+ the
+ speed
+
+
+as
+ I
+ was
+ watching
+ this
+ team
+ go
+ and
+ uh
+
+
+this
+ article
+ has
+ a
+ bunch
+ of
+ like
+ really
+
+
+practical
+ advice
+ for
+ how
+ to
+ do
+ it
+ how
+ to
+
+
+how
+ to
+ do
+ so
+ and
+ um
+ I
+ think
+ the
+ you
+ know
+
+
+if
+ you
+ so
+ this
+ is
+ really
+ written
+ for
+
+
+professional
+ software
+ engineers
+ building
+
+
+like
+ big
+ production
+ apps
+ like
+ working
+ in
+
+
+like
+ complex
+ code
+ bases
+ and
+ um
+ a
+ really
+
+
+cool
+ sort
+ of
+ headline
+ to
+ take
+ away
+ here
+
+
+is
+ that
+ with
+ coding
+ agents
+ it
+ doesn't
+
+
+get
+ easier
+ but
+ you
+ just
+ move
+ way
+ faster
+
+
+and
+ sort
+ of
+ the
+ idea
+ here
+ is
+ that
+ you
+
+
+know
+ the
+ we
+ didn't
+ have
+ four
+ engineers
+
+
+just
+ like
+ purely
+ vibe
+ code
+ this
+ app
+ in
+
+
+28
+ days
+ they
+ didn't
+ go
+ in
+ and
+ just
+ say
+
+
+hey
+ codeex
+ build
+ the
+ Sora
+ Android
+ app
+
+
+and
+ have
+ it
+ work
+ actually
+ slight
+
+
+correction
+ they
+ did
+ try
+ that
+ and
+ it
+
+
+didn't
+ work
+ [laughter]
+ it
+ didn't
+ go
+ in
+
+
+one
+ prompt
+ and
+ build
+ the
+ entire
+ Sora
+
+
+Android
+ app
+ but
+ instead
+ what
+ they
+ did
+ is
+
+
+they
+ thought
+ really
+ hard
+ about
+ the
+
+
+architecture
+ that
+ they
+ wanted
+ the
+ app
+ to
+
+
+have.
+ And
+ they
+ used
+ a
+ technique
+ called
+
+
+planning,
+ which
+ I
+ would
+ say
+ is
+ just
+ a
+
+
+super
+ practical
+ thing
+ that
+ you
+ can
+ do.
+
+
+So,
+ let
+ me
+ see.
+ I'm
+ going
+ to
+ pull
+ up
+ uh
+
+
+the
+ codeex
+ codebase
+ here,
+ which
+ is
+ a
+
+
+slightly
+ bigger
+ codebase.
+ And
+ what
+ I
+
+
+might
+ do
+ in
+ order
+ to
+ do
+ this
+ is
+ I
+ might
+
+
+start
+ a
+ task
+ here.
+ Oh
+ yes,
+ sorry.
+ One
+
+
+thing
+ that
+ I
+ actually
+ I
+ wanted
+ to
+ share
+
+
+when
+ you
+ first
+ install
+ the
+ Codex
+
+
+extension,
+ it
+ will
+ appear
+ here
+ in
+ the
+
+
+left
+ and
+ I
+ highly
+ recommend
+ dragging
+ it
+
+
+over
+ to
+ here.
+ It's
+ just
+ a
+ nice
+ place
+ for
+
+
+it
+ to
+ live.
+ So
+ there
+ you
+ go.
+
+
+>> News
+ you
+ can
+ use.
+
+
+>> Yeah,
+ in
+ VS
+ Code
+ this
+ easy
+ IDE
+ is
+ like
+
+
+cursor.
+ It
+ is
+ hard
+ to
+ find
+ that.
+ So
+ I
+
+
+will
+ let
+ you
+ explore
+ where
+ it
+ is
+ because
+
+
+it
+ I
+ feel
+ like
+ it
+ even
+ changes.
+ But
+ so
+ I
+
+
+might
+ say
+ something
+ like,
+ hey,
+ we
+ want
+
+
+to
+ make
+ this
+ like
+ non-trivial
+ change.
+
+
+Like
+ for
+ instance,
+ we
+ have
+ a
+ TypeScript
+
+
+SDK
+ and
+ maybe
+ we
+ want
+ to
+ write
+ a
+ Python
+
+
+SDK.
+
+
+>> Right?
+ So
+ that's
+ I
+ don't
+ necessarily
+
+
+want
+ a
+ oneshot
+ codeex
+ on
+ that.
+ Although
+
+
+I
+ could
+ it
+ might
+ work.
+ Uh
+ so
+ I
+ might
+ say
+
+
+something
+ like
+ this.
+ Make
+ a
+ plan
+ to
+
+
+build
+ a
+ you
+ know
+ Python
+ SDK
+ based
+ off
+
+
+our
+ TypeScript
+ SDK.
+ And
+ this
+ is
+ a
+
+
+reasonable
+ prompt.
+ I
+ could
+ just
+ send
+
+
+this.
+ This
+ would
+ be
+ fine.
+ But
+ actually,
+
+
+some
+ of
+ our
+ power
+ users
+ at
+ OpenAI
+ have
+
+
+gotten
+ fairly
+ opinionated
+ about
+ how
+ they
+
+
+like
+ their
+ plans
+ to
+ work,
+ and
+ we've
+
+
+actually
+ published
+ a
+ blog
+ post
+ on
+ really
+
+
+effective
+ planning.
+ So,
+ Aaron
+ posted
+ a
+
+
+blog
+ post
+ about
+ using
+ plans.mmd
+ and
+ it's
+
+
+super
+ easy
+ to
+ use
+ this
+ technique.
+
+
+Basically,
+ what
+ you
+ do
+ is
+ you
+ go
+ to
+ this
+
+
+blog
+ post
+ and
+ you
+ just
+ copy
+ this
+
+
+description.
+ It's
+ kind
+ of
+ like
+ a
+ meta
+
+
+plan.
+ It's
+ like,
+ hey,
+ when
+ you
+ plan,
+
+
+this
+ is
+ what
+ a
+ good
+ plan
+ looks
+ like.
+
+
+>> Yep.
+
+
+>> So,
+ for
+ instance,
+ a
+ good
+ plan
+ is
+ like
+
+
+self-contained.
+ as
+ a
+ good
+ plan
+ has
+
+
+milestones
+ and
+ you
+ know
+ the
+ agent
+ should
+
+
+update
+ the
+ plan
+ as
+ it
+ goes.
+ So
+ I
+ have
+
+
+done
+ so
+ I
+ have
+ copied
+ that
+ into
+ uh
+ a
+
+
+markdown
+ file
+ plans.mmd.
+ There
+ you
+ go.
+ I
+
+
+just
+ copy
+ pasted
+ that
+ from
+ the
+ website.
+
+
+And
+ so
+ what
+ I
+ might
+ actually
+ do
+ instead
+
+
+here
+ is
+ I
+ might
+ say
+ using
+ plans.mmd
+
+
+make
+ a
+ plan.
+
+
+>> Yep.
+
+
+>> Right.
+ And
+ so
+ I
+ might
+ just
+ send
+ this
+
+
+prompt.
+ Um
+ this
+ will
+ take
+ a
+ while
+
+
+because
+ the
+ if
+ you
+ look
+ at
+ the
+ spec
+ for
+
+
+plans.mmd
+ it's
+ very
+ thorough.
+ And
+ this
+
+
+is
+ actually
+ something
+ that
+ Codex
+ is
+
+
+really
+ good
+ at.
+ Like
+ people
+ love
+ how
+
+
+thorough
+ and
+ like
+ diligent
+ codeex
+ is.
+
+
+It's
+ not
+ the
+ fastest
+ tool
+ out
+ there,
+ but
+
+
+it
+ is
+ the
+ most
+ thorough
+ and
+ like
+ best
+ at
+
+
+hard
+ complex
+ tasks.
+ And
+ so
+ I
+ actually,
+
+
+yeah,
+ I
+ could
+ say,
+ let's
+ say,
+ put
+ it
+ in
+
+
+temp.md.
+ I'm
+ asking
+ it
+ to
+ put
+ it
+ in
+ a
+
+
+random
+ file.
+ Uh,
+ mostly
+ because
+ I
+ did
+
+
+this
+ ahead
+ of
+ time.
+ So
+ here
+ is,
+ uh,
+ a
+
+
+the
+ plan
+ that
+ it
+ came
+ up
+ with.
+ And
+ so
+
+
+you
+ can
+ see
+ it's
+ about
+ 120
+ lines
+ that
+ we
+
+
+could
+ read
+ through
+ together.
+ We
+ see
+
+
+these
+ todos
+ that
+ it
+ wanted.
+ Um,
+ we
+ see
+
+
+that
+ it's
+ identified
+ the
+ TypeScript
+
+
+naming
+ conventions.
+ This
+ is
+ great
+ codeex
+
+
+thread,
+ etc.
+ like
+ we
+ actually
+ are
+ really
+
+
+intentional
+ about
+ how
+ we
+ name
+ our
+ SDK
+
+
+parameters.
+ So,
+ it's
+ really
+ important
+
+
+for
+ me
+ to
+ read
+ these
+ and
+ verify
+ them,
+
+
+make
+ sure
+ that
+ it
+ didn't
+ get
+ that
+ wrong.
+
+
+Um,
+ it's
+ making,
+ you
+ know,
+ various
+
+
+decisions
+ in
+ here
+ uh
+ that
+ I
+ might
+ be
+
+
+happy
+ with.
+ Okay,
+ great.
+ And
+ so
+ now
+ what
+
+
+I
+ can
+ do
+ is
+ I
+ could
+ say
+ I
+ start
+ chat
+ and
+
+
+say
+ implement
+
+
+the
+ plan
+ in
+ SDK
+ plan
+ MD
+ if
+ I'm
+ just
+
+
+happy
+ with
+ it.
+
+
+>> Yep.
+ um
+ and
+ it
+ would
+ just
+ go
+ and
+ this
+
+
+would
+ this
+ would
+ take
+ this
+ is
+ probably
+
+
+like
+ a
+ 30
+ minute
+ to
+ 1
+ hour
+ task
+ but
+ I
+
+
+would
+ be
+ pretty
+ confident
+ in
+ the
+ results
+
+
+of
+ this
+ task.
+ Um
+ and
+ that's
+ how
+ they
+
+
+built
+ the
+ sort
+ of
+ Android
+ app
+ as
+ well.
+
+
+One
+ very
+ concrete
+ recommendation
+ is
+ if
+
+
+you
+ have
+ a
+ chat
+ where
+ Codeex
+ is
+ um
+
+
+producing
+ these
+ plans
+ and
+ you
+ want
+ to
+
+
+change
+ something,
+ it's
+ actually
+ really
+
+
+nice
+ for
+ the
+ model
+ if
+ you
+ just
+ use
+ the
+
+
+same
+ chat
+ to
+ ask
+ for
+ changes
+ to
+ the
+ plan
+
+
+and
+ that
+ way
+ it
+ has
+ all
+ this
+ context
+ in
+
+
+its
+ head
+ when
+ it's
+ ready
+ to
+ get
+ going.
+
+
+First
+ of
+ all,
+ I
+ I
+ love
+ that
+ you
+ said
+
+
+that
+ it
+ has
+ a
+ head.
+ So,
+ we
+ are
+ the
+ model
+
+
+has
+ model
+ has
+ its
+ brain.
+ Yeah.
+ I
+ mean,
+
+
+we
+ see
+ this
+ we
+ see
+ this
+ a
+ lot.
+ This
+ sort
+
+
+of
+ like
+ build
+ a
+ plan.
+ Obviously,
+ I
+ love
+
+
+a
+ spec.
+ I
+ love
+ a
+ purity.
+ I
+ love
+ a
+
+
+technical
+ design
+ document.
+ I'm
+ curious
+
+
+just
+ if
+ we
+ take
+ take
+ it
+ the
+ we
+ take
+ the
+
+
+Sora
+ app
+ example.
+ I'm
+ presuming
+ that
+ you
+
+
+had
+ a
+ plan
+ of
+ plans
+ which
+ is
+ essentially
+
+
+like
+ you
+ look
+ across
+ the
+ the
+
+
+architecture
+ of
+ an
+ app
+ and
+ then
+ you
+ do
+
+
+kind
+ of
+ what
+ we've
+ always
+ done
+ in
+
+
+software
+ engineering
+ which
+ is
+ you
+ spec
+
+
+out
+ the
+ full
+ thing
+ you
+ want
+ to
+ do
+ you
+
+
+break
+ it
+ down
+ into
+ components
+ or
+
+
+initiatives
+ that
+ you
+ can
+ execute
+ on
+ and
+
+
+then
+ where
+ I
+ think
+ you're
+ suggesting
+ the
+
+
+velocity
+ comes
+ from
+ is
+ anyone
+ engineer
+
+
+can
+ do
+ a
+ detailed
+ you
+ know
+ like
+
+
+technical
+ spec
+ and
+ plan
+ in
+ in
+ partner
+
+
+partnership
+ with
+ Codeex
+ and
+ then
+ have
+
+
+Codex
+ execute
+ the
+ kind
+ of
+ like
+ V1
+ of
+
+
+that
+ plan
+ for
+ review
+ very
+ quickly.
+ And
+
+
+so
+ you
+ don't
+ kind
+ of
+ get
+ to
+ bypass
+ the
+
+
+architectural
+ thinking
+ of
+ like
+ how
+
+
+should
+ this
+ app
+ be
+ set
+ up
+ and
+ what
+ what
+
+
+capabilities
+ do
+ we
+ want
+ it
+ to
+ have
+ and
+
+
+all
+ that
+ stuff.
+ Although
+ you
+ can
+ use
+ AI
+
+
+as
+ a
+ brainstorming
+ partner
+ for
+ that.
+ Um
+
+
+but
+ then
+ once
+ you
+ have
+ the
+ kind
+ of
+
+
+right-sized
+ chunks
+ of
+ work
+ and
+ they
+ can
+
+
+be
+ pretty
+ meaty.
+ I
+ mean
+ like
+ building
+ an
+
+
+entire
+ TypeScript
+ SDK
+ is
+ not
+ like
+ a
+
+
+small
+ initiative.
+ It's
+ not
+ like
+ adding
+ a
+
+
+method
+ to
+ something.
+ Um,
+ then
+ you
+ can
+
+
+use
+ this
+ planning
+ kind
+ of
+ uh
+ planning
+
+
+strategy
+ to
+ then
+ get
+ what
+ you're
+ going
+
+
+to
+ do
+ all
+ laid
+ out
+ and
+ then
+ have
+ codecs
+
+
+executed.
+
+
+>> Yeah,
+ I
+ think
+ that's
+ I
+ think
+ that's
+ like
+
+
+similar
+ to
+ how
+ I
+ think
+ about
+ it.
+ So,
+ I
+
+
+would
+ say
+ right
+ now
+ I
+ I
+ kind
+ of
+ like
+ the
+
+
+terms
+ vibe
+ coding
+ and
+ vibe
+ engineering
+
+
+to
+ be
+ honest.
+ My
+ sense
+ is
+ that
+ right
+ now
+
+
+you
+ have
+ a
+ lot
+ of
+ agency
+ in
+ how
+ you
+
+
+spend
+ your
+ time
+ as
+ a
+ developer
+ or
+ you
+
+
+know
+ as
+ a
+ product
+ manager.
+ I
+ think
+ when
+
+
+you're
+ going
+ to
+ do
+ something
+ like
+ the
+
+
+Sor
+ you
+ know
+ build
+ a
+ production
+ app
+ like
+
+
+Sor
+ app
+ that
+ you
+ know
+ you
+ have
+ to
+ scale
+
+
+it's
+ really
+ important
+ that
+ you
+ know
+
+
+maybe
+ you
+ have
+ a
+ bunch
+ of
+ like
+ codec
+
+
+senior
+ engineers
+ but
+ you
+ want
+ that
+ like
+
+
+architect
+ right
+ or
+ staff
+ engineer
+ think
+
+
+about
+ the
+ shape
+ of
+ the
+ app.
+ Um,
+ and
+ so
+
+
+that's
+ critically
+ important
+ I
+ think
+ at
+
+
+the
+ same
+ time
+ that
+ so
+ you
+ know
+ you're
+
+
+gonna
+ have
+ to
+ think
+ a
+ lot
+ about
+ the
+
+
+shape
+ of
+ the
+ app
+ and
+ you're
+ gonna
+ want
+
+
+to
+ be
+ really
+ careful
+ with
+ review
+ and
+ we
+
+
+can
+ actually
+ talk
+ about
+ some
+ of
+ that
+ how
+
+
+we've
+ accelerated
+ review
+ at
+ OpenAI
+ which
+
+
+is
+ kind
+ of
+ becoming
+ you
+ know
+ now
+ that
+ we
+
+
+can
+ write
+ so
+ much
+ code
+ like
+ the
+
+
+bottlenecks
+ are
+ kind
+ of
+ like
+ thinking
+
+
+about
+ what
+ code
+ to
+ write
+ and
+ then
+ making
+
+
+sure
+ that
+ code
+ is
+ good
+ reviewing
+ it
+ and
+
+
+landing
+ it.
+ I
+ think
+ at
+ the
+ other
+ at
+ the
+
+
+same
+ time
+ though
+ Codex
+ can
+ be
+ really
+
+
+powerful
+ for
+ those
+ places
+ where
+ you
+ just
+
+
+want
+ to
+ learn
+ and
+ you
+ don't
+ actually
+
+
+need
+ like
+ a
+ scalable
+ production
+ ready
+
+
+app.
+ So
+ for
+ instance
+ we
+ use
+ codecs
+ a
+ lot
+
+
+for
+ prototyping.
+ The
+ designers
+ on
+ Codex
+
+
+actually
+ have
+ a
+ fully
+ mostly
+ vibecoded
+
+
+full
+ prototype
+ of
+ like
+ all
+ the
+ codec
+
+
+surfaces
+ that
+ they
+ can
+ just
+ like
+ design
+
+
+into
+ with
+ code
+ and
+ then
+ we
+ use
+ that
+ to
+
+
+play
+ around
+ and
+ see
+ if
+ we
+ like
+ things
+
+
+and
+ then
+ if
+ we
+ do
+ then
+ we'll
+ often
+ vibe
+
+
+code
+ like
+ a
+ branch
+ in
+ the
+ actual
+
+
+product.
+ So
+ a
+ lot
+ of
+ things
+ are
+ just
+
+
+tried
+ by
+ designers
+ there
+ and
+ then
+ you
+
+
+know
+ sometimes
+ the
+ vibe
+ code
+ of
+
+
+prototype
+ is
+ like
+ exactly
+ like
+ pretty
+
+
+close
+ to
+ what
+ we
+ want
+ and
+ so
+ they'll
+
+
+just
+ like
+ land
+ it
+ with
+ the
+ help
+ of
+ an
+
+
+engineer
+ uh
+ or
+ by
+ themselves
+ even
+ and
+
+
+then
+ sometimes
+ we're
+ like
+ okay
+ this
+
+
+direction
+ was
+ good
+ or
+ we
+ we
+ learned
+ some
+
+
+stuff
+ we
+ iterated
+ on
+ the
+ vibe
+ coded
+
+
+prototype
+ now
+ we
+ know
+ what
+ we
+ want
+ to
+
+
+build
+ and
+ then
+ we
+ can
+ actually
+ go
+ and
+
+
+give
+ that
+ like
+ really
+ well-
+ definfined
+
+
+spec
+ to
+ an
+ engineer
+ who
+ might
+ you
+ know
+
+
+rethink
+ some
+ of
+ the
+ fundamental
+
+
+assumptions
+ and
+ so
+ end
+ up
+ having
+ to
+ use
+
+
+codeex
+ to
+ rebuild
+ a
+ lot
+ of
+ it
+ from
+
+
+scratch.
+ So
+ I
+ think
+ there's
+ like
+ two
+
+
+flavors
+ of
+ acceleration.
+ I
+ think
+ there's
+
+
+massive
+ acceleration
+ on
+ learning
+ and
+
+
+then
+ there's
+ also
+ massive
+ acceleration
+
+
+on
+ like
+ executing
+
+
+>> execution.
+ Yeah.
+ This
+ episode
+ is
+ brought
+
+
+to
+ you
+ by
+ Graphite,
+ the
+ AI
+ powered
+ code
+
+
+[music]
+ review
+ platform
+ helping
+
+
+engineering
+ teams
+ ship
+ higher
+ quality
+
+
+software
+ faster.
+ As
+ developers
+ adopt
+ AI
+
+
+tools,
+ code
+ generation
+ is
+ [music]
+
+
+accelerating.
+ But
+ code
+ review
+ hasn't
+
+
+caught
+ up.
+ PRs
+ are
+ getting
+ larger,
+
+
+noisier,
+ and
+ teams
+ are
+ spending
+ more
+
+
+time
+ blocked
+ [music]
+ on
+ review
+ than
+
+
+building.
+ Graphite
+ fixes
+ this.
+ Graphite
+
+
+brings
+ all
+ your
+ code
+ review
+ essentials
+
+
+into
+ [music]
+ one
+ streamlined
+ workflow.
+
+
+Stacked
+ diffs,
+ a
+ cleaner,
+ more
+ intuitive
+
+
+PR
+ page,
+ AI
+ powered
+ reviews,
+ [music]
+ and
+
+
+an
+ automated
+ merge
+ queue.
+ All
+ designed
+
+
+to
+ help
+ you
+ move
+ through
+ review
+ cycles
+
+
+faster.
+ Thousands
+ of
+ developers
+ rely
+ on
+
+
+graphite
+ to
+ move
+ through
+ review
+ faster
+
+
+so
+ you
+ [music]
+ can
+ focus
+ on
+ building
+ not
+
+
+waiting.
+ Check
+ it
+ out
+ at
+ graphite
+
+
+dev.link/howi
+
+
+aai
+ to
+ get
+ started.
+ That's
+ graphite
+
+
+dev.link/howi.
+
+
+So
+ I
+ I
+ have
+ to
+ ask
+ one
+ question
+ and
+ then
+
+
+I
+ do
+ want
+ to
+ go
+ to
+ code
+ review
+ which
+ is
+
+
+you
+ know
+ like
+ it's
+ sort
+ of
+ this
+ you
+ know
+
+
+when
+ you
+ know
+ you
+ know
+ um
+ but
+ how
+ do
+ you
+
+
+decide
+ between
+ what
+ needs
+ a
+ plan
+ and
+
+
+what
+ doesn't?
+ to
+ some
+ extent
+ it
+ it
+ it
+
+
+depends
+ more
+ about
+ me
+ than
+ it
+ depends
+
+
+about
+ the
+ task.
+ So
+ obviously
+ the
+ harder
+
+
+the
+ task
+ the
+ more
+ likely
+ you
+ want
+ to
+
+
+have
+ a
+ spec.
+ Um
+ but
+ I
+ also
+ think
+ it
+ kind
+
+
+of
+ depends
+ like
+ what
+ you're
+ up
+ to
+ at
+
+
+that
+ time.
+ For
+ instance
+ like
+ if
+ I
+ just
+
+
+want
+ to
+ get
+ something
+ done
+ like
+ quickly
+
+
+I
+ might
+ not
+ have
+ time
+ to
+ like
+ wait
+ for
+ a
+
+
+plan
+ and
+ then
+ go
+ back
+ and
+ forth.
+ So
+ I
+
+
+might
+ kind
+ of
+ throw
+ throw
+ codex
+ at
+ it
+
+
+but
+ I
+ might
+ just
+ do
+ it
+ four
+ times
+ in
+
+
+parallel
+ instead.
+ This
+ is
+ actually
+ a
+
+
+thing
+ we
+ do
+ like
+ Codex
+ we
+ you
+ can
+ also
+
+
+use
+ Codex
+ um
+ in
+ the
+ cloud
+ so
+ on
+ web
+
+
+where
+ it'll
+ like
+ run
+ on
+ its
+ own
+ computer
+
+
+and
+ that
+ has
+ a
+ feature
+ called
+ best
+ event
+
+
+where
+ it'll
+ just
+ like
+ do
+ the
+ same
+ task
+
+
+four
+ times
+ and
+ so
+ often
+ like
+ you
+ can
+
+
+just
+ have
+ Codex
+ explore
+ uh
+ instead
+ of
+
+
+like
+ exploring
+ to
+ do
+ a
+ plan
+ and
+ then
+ you
+
+
+collaborate
+ you
+ just
+ have
+ it
+ try
+ four
+
+
+different
+ attempts
+ and
+ find
+ out
+ what
+
+
+works
+ best
+ and
+ you
+ know
+ I
+ also
+ do
+ that
+
+
+with
+ work
+ trees
+ locally
+ as
+ well.
+ So
+ I
+
+
+guess
+ the
+ the
+ the
+ better
+ answer
+ to
+ your
+
+
+question
+ is
+ the
+ harder
+ the
+ task
+ uh
+ the
+
+
+more
+ you
+ want
+ to
+ plan
+ but
+ the
+ lazy
+
+
+answer
+ to
+ your
+ question
+ is
+ uh
+ also
+ it
+
+
+depends
+ if
+ I
+ have
+ time
+ to
+ wait
+ for
+ a
+
+
+plan
+ or
+ not.
+
+
+>> I
+ like
+ that.
+ I
+ know
+ one
+ of
+ the
+ things
+
+
+that
+ I
+ have
+ found
+ myself
+ doing
+ which
+ I
+
+
+think
+ is
+ really
+ funny
+ is
+ as
+ these
+ you
+
+
+know
+ longer
+ running
+ coding
+ models
+ come
+
+
+out
+ 52
+ being
+ among
+ them
+ I'm
+ like
+ waiting
+
+
+a
+ lot
+ more.
+ I
+ got
+ to
+ I
+ I'm
+ like
+ trying
+
+
+to
+ find
+ ways
+ to
+ fill
+ my
+ time.
+ And
+ as
+
+
+somebody
+ who
+ used
+ to
+ have
+ this
+ like
+
+
+fancy
+ executive
+ job
+ where
+ like
+ I
+ really
+
+
+had
+ a
+ manager's
+ schedule
+ and
+ then
+ over
+
+
+the
+ past
+ two
+ years
+ I've
+ been
+ like
+
+
+builder
+ life
+ and
+ now
+ I'm
+ like
+ damn
+ I'm
+
+
+back
+ to
+ manager
+ schedule.
+ Like
+ I
+ send
+
+
+the
+ task
+ off
+ and
+ somebody
+ else,
+ you
+
+
+know,
+ quote
+ unquote
+ does
+ it
+ and
+ then
+ I
+
+
+got
+ to
+ find
+ something
+ to
+ do
+ with
+ my
+ time
+
+
+and
+ I
+ refuse
+ to
+ add
+ more
+ meetings
+ to
+ to
+
+
+my
+ list.
+ So
+ um
+ I'm
+ with
+ you.
+ Do
+ I
+ have
+
+
+the
+ time
+ and
+ patience
+ for
+ a
+ plan?
+ I
+
+
+mean,
+ a
+ lot
+ of
+ the
+ a
+ lot
+ of
+ the
+
+
+engineers
+ on
+ the
+ Codex
+ team
+
+
+>> will
+ basically
+ run
+ two
+ things
+ that
+
+
+they're
+ building
+ in
+ parallel,
+ not
+ more
+
+
+than
+ two,
+ like
+ it's
+ usually
+ two.
+
+
+>> Yeah.
+
+
+>> Um,
+ and
+ so
+ they'll
+ kind
+ of
+ like
+ be
+
+
+thinking
+ about
+ what
+ to
+ do
+ on
+ on
+ one
+ side
+
+
+and
+ then
+ and
+ you
+ by
+ the
+ way,
+ this
+ might
+
+
+just
+ be
+ like
+ two
+ different
+ work
+ trees
+
+
+and
+ two
+ different
+ instances
+ of
+ their
+ IDE
+
+
+open.
+ It
+ could
+ be
+ something
+ like
+ that.
+
+
+>> And
+ uh
+ they
+ might
+ just
+ be
+ thinking
+ and
+
+
+collaborating
+ with
+ Codex
+ in
+ one
+ while
+
+
+it's
+ working
+ in
+ the
+ other.
+ And
+ just
+
+
+juggling
+ two
+ seems
+ to
+ be
+ manageable
+ for
+
+
+sort
+ of
+ normal
+ people.
+ Uh
+ juggling
+ more
+
+
+than
+ two
+ seems
+ quite
+ hard
+ for
+ normal
+
+
+people.
+ But
+ my
+ view
+ on
+ this
+ from
+ a
+
+
+product
+ direction
+ perspective
+ is
+ we
+
+
+don't
+ really
+ want
+ to
+ ask
+ humans
+ to
+
+
+juggle.
+ Like
+ that's
+ not
+ fun
+ for
+ many
+
+
+people.
+ Well,
+ some
+ people
+ like
+ Starcraft
+
+
+in
+ code,
+ but
+ uh
+ we're
+ training.
+
+
+>> Quick
+ pause.
+ I
+ love
+ Starcraft,
+ which
+ is
+
+
+why
+ I
+ feel
+ like
+ I'm
+ really
+ good
+
+
+[laughter]
+ at
+ all
+ this
+ right
+ now.
+
+
+>> Yeah.
+ Yeah.
+ Yeah.
+
+
+Um
+ I
+ think
+ it's
+ actually
+ kind
+ of
+ it's
+
+
+kind
+ of an
+ apt
+ analogy
+ but
+ it's
+ not
+ I
+
+
+didn't
+ come
+ up
+ with
+ it.
+ I
+ forget
+ who
+
+
+did.
+ Um
+ but
+ uh
+ what
+ we're
+ trying
+ to
+ do
+
+
+is
+ just
+ make
+ codecs
+ faster
+ and
+ faster.
+
+
+>> Yeah.
+
+
+>> And
+ we
+ are
+ also
+ trying
+ to
+ basically
+ set
+
+
+it
+ up
+ so
+ that
+ you
+ don't
+ have
+ to
+ do
+ the
+
+
+waiting
+ like
+ as
+ the
+ models
+ get
+ smarter
+
+
+and
+ smarter
+ they
+ can
+ take
+ on
+ harder
+ and
+
+
+harder
+ tasks.
+ Like
+ I
+ just
+ heard
+ from
+
+
+Naveen
+ at
+ every
+ this
+ morning
+ who
+ was
+
+
+sharing
+ a
+ demo
+ of
+ a
+ bug
+ that
+ he
+ no
+ model
+
+
+could
+ fix
+ and
+ then
+ 5.2
+ 2
+ came
+ out
+ um
+
+
+yesterday
+ and
+ um
+ he
+ threw
+ 5.2
+ two
+ at
+ it
+
+
+and
+ it
+ thought
+ for
+ 37
+ minutes
+ and
+ was
+
+
+like
+ this
+ is
+ the
+ bug
+ and
+ then
+ in
+ fact
+
+
+that
+ was
+ the
+ bug
+ and
+ he
+ got
+ the
+ bug
+
+
+fixed
+ right
+ so
+ as
+ we
+ have
+ smarter
+ and
+
+
+smarter
+ models
+ there
+ is
+ going
+ to
+ be
+ more
+
+
+instances
+ there
+ are
+ going to
+ be
+ more
+
+
+instances
+ where
+ you
+ want
+ to
+ wait
+ but
+ I
+
+
+think
+ that's
+ our
+ job
+ as
+ the
+ product
+
+
+builders
+ around
+ the
+ model
+ to
+ make
+ it
+ so
+
+
+that
+ even
+ when
+ the
+ model
+ is
+ thinking
+
+
+you're
+ not
+ waiting
+ for
+ it
+ to
+ think
+
+
+>> yeah
+ or
+ you
+ know
+ that
+ you're
+ waiting
+ and
+
+
+you
+ feel
+ good
+ about
+ it
+ I
+ think
+ that's
+
+
+one
+ of the
+ challenges
+ I've
+ had
+ with
+ with
+
+
+some
+ of
+ these
+ where
+ the
+ thinking
+ time
+ as
+
+
+long
+ is
+ I
+ find
+ myself
+ and
+ blessed
+ it's
+
+
+like
+ when
+ I
+ you
+ know
+ worked
+ with
+ human
+
+
+software
+ engineers
+ I
+ find
+ myself
+ being
+
+
+like
+ how
+ how's
+ it
+ go
+ how's
+ it
+ how's
+ it
+
+
+going
+ you
+ still
+ you
+ still
+ on
+ it
+ like
+ you
+
+
+still
+ good
+ and
+ so
+ I
+ do
+ think
+ it's
+ a
+
+
+really
+ interesting
+ product
+ problem
+
+
+because
+ there
+ is
+ you
+ know
+ useful
+ latency
+
+
+in
+ in
+ these
+ models
+ um
+ but
+ as
+ a
+ product
+
+
+and
+ designer
+ being
+ able
+ to
+ expose
+ that
+
+
+latency
+ and
+ that
+ reasoning
+ and
+ the
+
+
+progress
+ in
+ a
+ way
+ that
+ makes
+ people
+ not
+
+
+feel
+ antsy
+ about
+ it
+ I
+ think
+ is
+ still
+ a
+
+
+challenge
+ out
+ there
+ for
+ for
+ you
+ all
+ and
+
+
+for
+ everybody
+ else
+ building
+ these
+ kinds
+
+
+of
+ tools.
+ You
+ know,
+ this
+ was
+ this
+ has
+
+
+been
+ super
+ helpful
+ on
+ sort
+ of
+ like
+ the
+
+
+basics
+ of
+ codeex.
+ I
+ would
+ love
+ to
+ hear
+
+
+one
+ or
+ two
+ integrations
+ with
+ other
+
+
+systems
+ or
+ tools
+ that
+ you
+ found
+ have
+
+
+been
+ really
+ like
+ really
+ multiply
+ the
+
+
+impact
+ you
+ can
+ get
+ out
+ of
+ codeex.
+
+
+>> I
+ think
+ the
+ biggest
+ one
+ by
+ far
+ is
+ going
+
+
+to
+ be
+ GitHub
+ and
+ code
+ review.
+ Um,
+ and
+
+
+then
+ there
+ are
+ some
+ others
+ as
+ well.
+ This
+
+
+is
+ just
+ a
+ nifty
+ graph
+ while
+ I'm
+ here
+
+
+about
+ 5.2.
+ to
+ uh
+ the
+ model.
+ Um
+ well,
+
+
+let's
+ take
+ a
+ quick
+ digression.
+ I'll
+ show
+
+
+you
+ because
+ I
+ just
+ think
+ it's
+ super
+
+
+cool.
+ Basically,
+ what
+ this
+ graph
+ shows
+
+
+is
+ that
+ uh
+ 5.2
+ when
+ you
+ give
+ it
+ as
+ long
+
+
+as
+ it
+ wants
+ to
+ think
+ uh
+ is
+ an
+ amazingly
+
+
+intelligent
+ model
+ at
+ Sweetbench
+ Pro,
+
+
+which
+ is
+ an
+ eval
+ of
+ software
+ engineering
+
+
+tasks.
+ But
+ the
+ x-axis
+ is
+ pretty
+
+
+interesting.
+ Basically,
+ what
+ it
+ shows
+ is
+
+
+the
+ number
+ of
+ output
+ tokens
+ that
+ the
+
+
+model
+ took
+ to
+ perform
+ these
+ tasks.
+ And
+
+
+so,
+ it's
+ kind
+ of
+ like
+ how
+ long
+ did
+ the
+
+
+model
+ have
+ to
+ think?
+ And
+ when
+ we
+ say,
+
+
+"Hey,
+ you
+ can
+ think
+ as
+ long
+ as
+ you
+ want
+
+
+ish."
+ Uh,
+ it's
+ really
+ smart.
+ But
+ the
+
+
+other
+ cool
+ thing
+ is
+ we're
+ able
+ to
+ say,
+
+
+"Hey,
+ like
+ we
+ actually
+ don't
+ want
+ you
+ to
+
+
+think
+ that
+ hard
+ or
+ we
+ want
+ you
+ to
+ like
+
+
+kind
+ of
+ answer
+ quickly."
+ And
+ so
+ it's
+
+
+performing
+ like
+ even
+ higher,
+ you
+ know,
+
+
+results
+ than
+ like
+ say
+ this
+ previous
+
+
+model
+ here,
+ 51
+ thinking,
+ but
+ in
+
+
+significantly
+ less
+ time.
+ And
+ so
+ this
+ is
+
+
+kind
+ of
+ what
+ we're
+ trying
+ to
+ build
+ going
+
+
+back
+ to
+ what
+ we
+ were
+ saying
+ about
+
+
+waiting,
+ right?
+ We
+ want
+ to
+ just
+ get
+ you
+
+
+the
+ same
+ result
+ much
+ faster
+ and
+ then
+ get
+
+
+you
+ more
+ intelligent
+ results
+ and,
+ you
+
+
+know,
+ then
+ you
+ give
+ the
+ model
+ time.
+
+
+>> Yeah.
+ get
+ get
+ the
+ right
+ result
+ in
+ the
+
+
+appropriate
+ amount
+ of
+ time.
+ Right.
+
+
+>> Yeah.
+
+
+>> Exactly.
+ So,
+ one
+ thing
+ you
+ can
+ do
+ with
+
+
+codeex
+ is
+ uh
+ you
+ can
+ ask
+ it
+ for
+ code
+
+
+review.
+ This
+ is
+ actually
+ super
+ easy
+ to
+
+
+do
+ but
+ without
+ uh
+ integrating
+ with
+
+
+GitHub.
+ Uh
+ we
+ could
+ just
+ be
+ in
+ here.
+
+
+Let's
+ just
+ say
+ that
+ it
+ it's
+ written
+ some
+
+
+code.
+ Um
+ I'm
+ going
+ to
+ kind
+ of
+ ignore
+ uh
+
+
+what
+ what
+ happened
+ there.
+ And
+ I'm
+ just
+
+
+going
+ to
+ pretend
+ that
+ I
+ wanted
+ to
+ review
+
+
+this
+ code.
+ Uh
+ so
+ I
+ could
+ type
+ slash
+
+
+review
+ u
+ and
+ basically
+ ask
+ it
+ to
+ start
+
+
+reviewing
+ his
+ code.
+ And
+ this
+ is
+
+
+something
+ that
+ people
+ really
+ love.
+ And
+
+
+you
+ know
+ right
+ now
+ it
+ does
+ feel
+ like
+
+
+when
+ you
+ put
+ the
+ model
+ in
+ a
+ certain
+
+
+mindset
+ like
+ hey
+ you
+ are
+ a
+ reviewer
+ and
+
+
+you
+ give
+ it
+ a
+ different
+ conversation
+
+
+context
+ than
+ the
+ model
+ that
+ wrote
+ the
+
+
+code
+ you
+ know
+ you'll
+ just
+ get
+ like
+ even
+
+
+better
+ critiques
+ than
+ you
+ might
+ get
+ from
+
+
+a
+ human
+ engineer
+ partially
+ because
+ this
+
+
+model
+ is
+ not
+ you
+ know
+ does
+ has
+ a
+ lot
+ of
+
+
+time
+ to
+ read
+ all
+ the
+ code
+ and
+ like
+ maybe
+
+
+even
+ execute
+ code
+ to
+ like
+ validate
+ those
+
+
+changes.
+ So
+ this
+ is
+ this
+ is
+ just
+
+
+something
+ super
+ useful
+ that
+ I
+ I
+
+
+recommend
+ doing
+ and
+ like
+ many
+ engineers
+
+
+on
+ Codeex
+ will
+ like
+ have
+ Codex
+ do
+ work
+
+
+and
+ then
+ multiple
+ times
+ ask
+ it
+ to
+ either
+
+
+review
+ its
+ code
+ or
+ critique
+ its
+ code
+ or
+
+
+just
+ make
+ the
+ code
+ more
+ elegant
+ and
+
+
+that's
+ just
+ like
+ a
+ massive
+ accelerant.
+
+
+So
+ so
+ let's
+ say
+ that
+ you
+ like
+ this
+ right
+
+
+and
+ and
+ your
+ team
+ has
+ a
+ practice
+ of
+
+
+doing
+ review
+ something
+ that
+ you
+ can
+ go
+
+
+do
+ is
+ actually
+ enable
+ automated
+ code
+
+
+review
+ in
+ GitHub.
+ And
+ so
+ here
+ when
+ this
+
+
+PR
+ was
+ pushed,
+ Codex
+ automatically
+
+
+without
+ anyone
+ having
+ to
+ prompt
+ it
+ and
+
+
+without
+ anyone
+ having
+ to
+ have
+ a
+ computer
+
+
+running,
+ this
+ is
+ just,
+ you
+ know,
+ in
+ the
+
+
+cloud,
+ Codex
+ went
+ took
+ a
+ look
+ and
+ found
+
+
+an
+ issue
+ with
+ the
+ code.
+ And
+ the
+ hit
+ rate
+
+
+on
+ these
+ is
+ is
+ really
+ high.
+ Like
+ we
+
+
+built
+ this
+ feature
+ so
+ that
+ it
+ only
+
+
+points
+ out
+ issues
+ that
+ it's
+ like
+ very
+
+
+confident
+ or
+ issues
+ because
+ you
+ know
+ the
+
+
+sort
+ of
+ the
+ principle
+ here
+ is
+ just
+ like
+
+
+human
+ attention
+ is
+ so
+ scarce.
+ We
+ really
+
+
+want
+ to
+ protect
+ it.
+ But
+ when
+ it
+ finds
+ a
+
+
+really
+ important
+ issue,
+ it'll
+ post
+ here
+
+
+and
+ this
+ is
+ where
+ you
+ start
+ to
+ feel
+ the
+
+
+AGI
+ a
+ little
+ bit.
+ It
+ found
+ this
+ issue
+
+
+and
+ then
+ Ham
+ basically
+ replied
+ like,
+
+
+"Hey
+ Codex,
+ can
+ you
+ fix
+ it?"
+ And
+ then
+
+
+Codex
+ went
+ unfixed
+ it,
+ right?
+ And
+ so
+ we
+
+
+can
+ get
+ into
+ this
+ kind
+ of
+ loop
+ like
+
+
+that.
+ So
+ that
+ would
+ be
+ my
+ number
+ one
+
+
+integration
+ to
+ give.
+ The
+ number
+ two
+
+
+might
+ be
+ Slack
+ and
+ Linear.
+
+
+>> Well,
+ I
+ so
+ I
+ I
+ love
+ this
+ flow
+ and
+ I
+
+
+think
+ again
+ um
+ optimizing
+ I'm
+ actually
+
+
+running
+ a
+ 52
+ branch
+ review
+ right
+ now.
+
+
+Um,
+ I'm
+ not
+ running
+ it
+ in
+ codeex,
+ but
+ I
+
+
+will
+ do
+ a
+ comparison
+ on
+ the
+ two
+
+
+experiences,
+ but
+ I'm
+ doing
+ a
+ very
+ much
+
+
+like
+ compare
+ this
+ to
+ base.
+ Tell
+ me
+ what
+
+
+what
+ we
+ did
+ what
+ what
+ what
+ we
+ did
+ here.
+
+
+If
+ there's
+ anything
+ I
+ need
+ to
+ be
+ aware
+
+
+of,
+ I
+ do
+ like
+ these
+ in
+ GitHub
+ code
+
+
+reviews.
+ I
+ do
+ feel
+ like
+ where
+ I
+ have
+
+
+found
+ the
+ highest
+ quality
+ is
+ reducing
+
+
+noise
+ in
+ these.
+ So,
+ it's
+ really
+ great
+
+
+that
+ you
+ have
+ kind
+ of
+ focused
+ on
+
+
+confidence,
+ focused
+ on
+ what
+ what
+ bugs
+
+
+really
+ are
+ going
+ to
+ matter
+ and
+ then
+ this
+
+
+loop
+ of
+ kind
+ of
+ can
+ can
+ you
+ fix
+ it?
+ And
+
+
+so,
+ are
+ you
+ running
+ this
+ on
+ kind
+ of
+ all
+
+
+your
+ repos?
+ Has
+ this
+ become
+ like
+ how
+
+
+code
+ gets
+ reviewed?
+
+
+>> Yeah,
+ I
+ mean
+ Codex
+ is
+ is
+ just
+ everywhere
+
+
+at
+ OpenAI,
+ which
+ has
+ been
+ really
+ cool
+ to
+
+
+see.
+ You
+ know,
+ I
+ feel
+ like
+ when
+ I
+ hear
+ a
+
+
+story
+ of
+ of
+ some
+ tool
+ being
+ used
+
+
+everywhere,
+ I'm
+ always
+ like
+ a
+ little
+
+
+skeptical.
+ These
+ people
+ are
+ biased.
+ So
+
+
+the
+ thing
+ I
+ can
+ tell
+ tell
+ the
+ audience
+
+
+here
+ is
+ that
+ earlier
+ this
+ summer
+ codeex
+
+
+was
+ used
+ by
+ around
+ half
+ the
+ company
+
+
+which
+ is
+ like
+ I
+ don't know
+ a
+ pretty
+ low
+
+
+number
+ right
+ half.
+ Um
+ we're
+ now
+ at
+ the
+
+
+point
+ where
+ um
+ basically
+ like
+ all
+ of
+
+
+technical
+ staff
+ nearly
+ all
+ of
+ technical
+
+
+staff
+ is
+ using
+ codecs
+ constantly.
+ And
+ so
+
+
+it's
+ funny
+ because
+ we
+ don't
+ even
+ have
+
+
+this
+ comparison
+ point
+ since
+ everyone's
+
+
+using
+ Codex.
+ It's
+ like
+ hard
+ to
+ compare
+
+
+the
+ people
+ using
+ Codex
+ and
+ the
+ people
+
+
+not.
+ But
+ there
+ was
+ this
+ period
+ of
+ time
+
+
+where
+ we
+ were
+ seeing
+ that
+ like
+ the
+
+
+people
+ using
+ codeex
+ were
+ like
+ 70%
+ more
+
+
+productive
+ if
+ you
+ looked
+ at
+ PR
+ volume.
+
+
+Obviously
+ PR
+ volume
+ isn't
+ like
+ the
+ best
+
+
+thing
+ to
+ measure
+ but
+ it's
+ a
+ thing
+ you
+
+
+can
+ look
+ at.
+ Um
+ and
+ now
+ that
+ metric
+
+
+doesn't
+ mean
+ anything
+ anymore
+ because
+
+
+everyone
+ uses
+ codeex.
+ Codex
+ code
+ review
+
+
+itself
+ is
+ enabled
+ on
+ pretty
+ much
+ every
+
+
+single
+ repo
+ at
+ the
+ company
+ and
+ reviews
+
+
+like
+ pretty
+ much
+ all
+ PRs.
+ Um,
+ and
+ you
+
+
+know,
+ it's
+ one
+ of
+ those
+ features
+ where
+
+
+we
+ were
+ a
+ little
+ bit
+ nervous
+ when
+ we
+
+
+shipped
+ it
+ about
+ how
+ people
+ would
+ feel,
+
+
+but
+ it
+ was
+ just
+ an
+ immediate
+ hit
+ and
+
+
+like
+ people
+ really
+ like
+ it.
+ Uh,
+ you
+
+
+know,
+ maybe
+ this
+ is
+ a
+ bit
+ of a
+ segue,
+
+
+but
+ you
+ know,
+ speak
+ product
+ person
+ to
+
+
+product
+ person,
+ like
+ something
+ that
+
+
+we've
+ been
+ thinking
+ about
+ is
+ if
+ our
+
+
+mission
+ is
+ to
+ deliver
+ the
+ benefits
+ of
+
+
+AGI
+ to
+ all
+ humanity.
+ I
+ believe
+ one
+ of
+
+
+the
+ biggest
+ limiting
+ factors
+ is
+ like
+ do
+
+
+people
+ want
+ to
+ type
+ the
+ prompt
+ or
+ not?
+
+
+[laughter]
+ You
+ know,
+ like
+ I
+ don't
+ like
+
+
+typing.
+ So,
+ you
+ know,
+ I
+ I
+ would
+ be
+ too
+
+
+lazy
+ to
+ do
+ this.
+ And
+ so,
+ we
+ were
+
+
+thinking
+ a
+ lot
+ about
+ like,
+ okay,
+ what
+
+
+are
+ things
+ we
+ can
+ do
+ for
+ teams
+ that
+ are
+
+
+just
+ useful
+ without
+ anyone
+ having
+ to
+ do
+
+
+any
+ work?
+ And
+ so,
+ we
+ we
+ tried
+ a
+ few
+
+
+things.
+ Code
+ Rio,
+ as
+ I
+ showed
+ you
+ here,
+
+
+is
+ one
+ of
+ the
+ things
+ we
+ tried.
+ Big
+ hit.
+
+
+Um,
+ we
+ tried
+ some
+ other
+ things
+ that
+ were
+
+
+pretty
+ interesting,
+ like
+ we
+ built
+ a
+
+
+feature
+ that
+ would
+ automatically
+ attempt
+
+
+to
+ revise
+ um
+ the
+ PR
+ when
+ you
+ know,
+ you
+
+
+got
+ a
+ code
+ review
+ feedback
+ from
+ someone
+
+
+else.
+ And
+ uh
+ you
+ know
+ maybe
+ I'
+ I'd
+ be
+
+
+interested
+ to
+ try
+ that
+ again.
+ But
+
+
+interestingly
+ enough
+ that
+ feature
+ was
+
+
+not
+ super
+ popular.
+ The
+ hit
+ rate
+ was
+ like
+
+
+often
+ like
+ PR
+ feedback.
+ I
+ mean
+ sometimes
+
+
+it's
+ nits
+ but
+ often
+ it's
+ like
+ kind
+ of
+ in
+
+
+there.
+ You
+ need
+ a
+ lot
+ of
+ human
+ context
+
+
+to
+ understand
+ that
+ PR
+ feedback.
+ And
+ so
+
+
+Codex
+ wasn't
+ acing
+ it.
+ And
+ the
+ sort
+ of
+
+
+hit
+ rate
+ wasn't
+ high
+ enough
+ to
+ be
+ worth
+
+
+the
+ like
+ email
+ you
+ get
+ every
+ time
+ an
+
+
+event
+ happens
+ on
+ GitHub.
+ Whereas
+ code
+
+
+review,
+ you
+ know,
+ we
+ were
+ really
+ careful
+
+
+with
+ like
+ how
+ often
+ it
+ did
+ things
+ and
+ we
+
+
+made
+ sure,
+ for
+ instance,
+ this
+ is
+ one
+
+
+where
+ codeex
+ didn't
+ find
+ any
+ issues.
+ It
+
+
+doesn't
+ even
+ notify
+ you.
+ It
+ just
+ thumbs
+
+
+up
+ emotion,
+ you
+ know,
+ you're
+ done.
+
+
+>> Yeah.
+ I
+ I
+ mean,
+ I've
+ had
+ this
+ experience
+
+
+too
+ where
+ it's
+ it's
+ interesting.
+ I
+ have
+
+
+also
+ used
+ automated
+ code
+ review
+ and
+ I
+
+
+have
+ attempted
+ that
+ like
+ full
+ closed
+
+
+loop
+ and
+ I
+ have
+ also
+ been
+ dissatisfied
+
+
+with
+ not
+ just
+ the
+ the
+ bug
+ fixes.
+
+
+Sometimes
+ they're
+ fine,
+ sometimes
+
+
+they're
+ not.
+ But
+ I
+ I
+ often
+ feel
+ like
+
+
+putting
+ a
+ human
+ in
+ the
+ loop
+ that
+ says,
+
+
+"I'm
+ pretty
+ sure
+ this
+ is
+ fine
+ because
+
+
+XYZ
+ or
+ just
+ remember
+ we
+ did
+ this
+ because
+
+
+ABC
+ and
+ sometimes
+ there's
+ a
+ little
+
+
+context
+ lost."
+ But
+ the
+ other
+ thing
+ from
+
+
+a
+ product
+ perspective
+ I
+ think
+ is
+
+
+interesting
+ on
+ these
+ like
+ proactive
+
+
+versus
+ reactive
+ agentic
+ experiences
+ is
+
+
+if
+ you
+ have
+ a
+ full
+ agent
+ loop,
+ the
+ human
+
+
+bar
+ for
+ quality
+ is
+ extremely
+ high.
+ And
+
+
+so
+ dissatisfaction
+ and
+ frustration
+ can
+
+
+bubble
+ up
+ very
+ quickly.
+ It's
+ one
+ thing
+
+
+if
+ like
+ your
+ code
+ review
+ b
+ you
+ know
+ bot
+
+
+says
+ this
+ is
+ broken,
+ you
+ go
+ fix
+ it
+ and
+
+
+then
+ you
+ get
+ it
+ reviewed
+ again
+ and
+ it
+
+
+knits
+ you.
+ You're
+ like
+ okay
+ I
+ didn't
+ do
+
+
+exactly
+ what
+ you
+ wanted.
+ But
+ if
+ you
+ had
+
+
+the
+ experience
+ where
+ like
+ your
+ code
+
+
+review
+ bot
+ you
+ know
+ raises
+ something
+ it
+
+
+fixes
+ something
+ and
+ it
+ knits
+ itself
+ that
+
+
+gets
+ really
+ annoying.
+
+
+>> Totally.
+ And
+ so
+ I
+ do
+ again
+ this
+ is
+ like
+
+
+a
+ little
+ bit
+ of
+ a
+ aentic
+ product
+ design
+
+
+challenge
+ that
+ that
+ we're
+ now
+ going
+ to
+
+
+have
+ that
+ people
+ I
+ think
+ need
+ to
+ pay
+
+
+attention
+ to
+ which
+ is
+ like
+ how
+ do
+ you
+
+
+design
+ for
+ latency?
+ How
+ do
+ you
+ design
+
+
+for
+ perceived
+ quality
+ and
+ bars
+ when
+
+
+humans
+ are
+ involved
+ when
+ they're
+ not
+
+
+involved?
+ And
+ then
+ one
+ last
+ thing
+ I
+ want
+
+
+to
+ say
+ to
+ your
+ comment
+ which
+ is
+ I
+ mean
+
+
+if
+ if
+ our
+ human
+ fingers
+ are
+ no
+ longer
+
+
+valuable
+ and
+ used
+ what
+ role
+ are
+ we
+ going
+
+
+to
+ play
+ like
+ protect
+ the
+ typers
+
+
+[laughter]
+
+
+but
+ um
+ I
+ I
+ mean
+ I
+ get
+ what
+ you're
+ saying
+
+
+which
+ is
+ almost
+ all
+ the
+ friction
+ right
+
+
+now
+ in
+ my
+ product
+ development
+ software
+
+
+development
+ flow
+ is
+ like
+ literally
+
+
+writing
+ the
+ first
+ prompt
+
+
+>> like
+ sitting
+ down
+
+
+>> and
+ just
+ going
+
+
+now
+ let's
+ like
+ let's
+ do
+ the
+ now
+ and
+ it's
+
+
+such
+ a
+ funny
+ shift
+ from
+ where
+ we've
+ been
+
+
+before.
+
+
+>> Yeah.
+ I
+ mean
+ it's
+ it's
+ interesting
+ to
+
+
+think
+ about
+ right
+ like
+ you
+ know
+
+
+obviously
+ our
+ mission
+ is
+ to
+ just
+ like
+
+
+massively
+ accelerate
+ every
+ single
+
+
+developer
+ and
+ you
+ know
+ broadly
+ that
+
+
+anyone
+ who's
+ doing
+ anything
+ where
+ an
+
+
+agent
+ using
+ a
+ computer
+ can
+ help.
+ And
+ so
+
+
+yeah
+ the
+ question
+ of
+ what
+ our
+ role
+ is
+ is
+
+
+interesting
+ like
+ I
+ like
+ to
+ joke
+ that
+ the
+
+
+limiting
+ factor
+ is
+ typing
+ speed.
+ I
+ think
+
+
+that's
+ half
+ true.
+ So
+ like
+ I
+ think
+ for
+
+
+things
+ like
+ review
+ this
+ code
+ please
+ the
+
+
+limiting
+ factor
+ is
+ is
+ typing
+ speed.
+
+
+there's
+ a
+ lot
+ of
+ just
+ like
+ micro
+ places
+
+
+where
+ an
+ agent
+ could
+ help
+ you.
+ Um,
+ but
+
+
+then
+ I
+ think
+ the
+ other
+ half
+ is
+ actually
+
+
+thinking,
+ right?
+ Like
+ now
+ that
+ we
+ can
+
+
+just
+ have
+ ubiquitous
+ code
+ and
+ we
+ can
+
+
+basically
+ prototype
+ things
+ like
+
+
+trivially.
+
+
+The
+ hard
+ parts
+ I
+ think
+ become
+ like
+
+
+deciding
+ what
+ actually
+ should
+ make
+ it
+ in
+
+
+thinking
+ like
+ what
+ a
+ product
+ should
+ do
+
+
+like
+ knowing
+ a
+ customer
+ actually
+ and
+
+
+then
+ you
+ know
+ if
+ you're
+ building
+ a
+
+
+complex
+ system
+ like
+ being
+ really
+
+
+thoughtful
+ about
+ like
+ the
+ architecture
+
+
+of
+ that
+ system
+ and
+ kind
+ of
+ curating
+ the
+
+
+agent
+ work.
+ So
+
+
+>> yeah,
+
+
+>> you
+ know,
+ I
+ think
+ it's
+ I
+ talked
+ to
+
+
+developers
+ who
+ are
+ really
+ motivated
+ by
+
+
+like
+ seeing
+ people
+ use
+ what
+ they
+ build
+
+
+and
+ I
+ think
+ those
+ developers
+ are
+
+
+increasingly
+ just
+ like
+ thrilled,
+ right?
+
+
+And
+ then
+ I
+ also
+ talk
+ to
+ developers
+ who
+
+
+just
+ love
+ like
+ the
+ feeling
+ of
+ writing
+
+
+code.
+ I
+ I
+ I
+ don't
+ know.
+ I
+ experience
+ joy
+
+
+from
+ both.
+ And
+ I
+ think
+ that's
+ a
+ place
+
+
+where,
+ you
+ know,
+ we
+ think
+ constantly
+
+
+about
+ like,
+ okay,
+ how
+ do
+ we
+ make
+ this
+
+
+feel
+ as
+ fun
+ as
+ possible?
+ Uh,
+ right?
+ Like
+
+
+setting
+ up
+ dependencies
+ kind
+ of
+ sucks,
+
+
+but
+ you
+ have
+ to
+ do
+ that
+ for
+ your
+ agent.
+
+
+So
+ like
+ how
+ do
+ we
+ make
+ that
+ easy?
+
+
+Reviewing
+ kind
+ of
+ sucks.
+ So
+ like
+ how
+ do
+
+
+we
+ make
+ that
+ easy?
+
+
+>> Great.
+ Well,
+ just
+ to
+ recap
+ because
+ we've
+
+
+done
+ a
+ lot
+ here
+ so
+ far
+ before
+ we
+ get
+ to
+
+
+lightning
+ round.
+ We
+ have
+ shown
+
+
+installing
+ codecs
+ as
+ an
+ extension,
+
+
+setting
+ up
+ tasks,
+ setting
+ up
+ work
+ trees,
+
+
+using
+ plan
+ and
+ in
+ particular
+
+
+the
+ plan
+ on
+ how
+ to
+ plan
+ on
+ the
+ openi
+
+
+blog
+ to
+ generate
+ plans
+ for
+ more
+ complex
+
+
+implementations
+ especially
+ when
+ you
+ need
+
+
+longer
+ running
+ tasks.
+ Um
+ and
+ then
+
+
+automations
+ around
+ uh
+ code
+ review
+ and
+
+
+bug
+ fixes.
+ The
+ things
+ we
+ didn't
+ call
+ out
+
+
+but
+ I
+ think
+ are
+ really
+ important
+ are
+ you
+
+
+can
+ basically
+ use
+ codecs
+ wherever
+ you
+
+
+want.
+ So
+ we
+ showed
+ it
+ in
+ VS
+ Code,
+ we
+
+
+showed
+ it
+ in
+ the
+ terminal,
+ you
+ can
+ get
+
+
+it
+ on
+ the
+ web,
+ you
+ can
+ get
+ it
+ in
+ Slack,
+
+
+you
+ can
+ get
+ it
+ in
+ linear,
+ it
+ can
+ kick
+
+
+off
+ in
+ GitHub.
+ Like
+ I
+ do
+ love
+ this
+ idea
+
+
+of
+ kind
+ of
+ like
+ codeex
+ anywhere
+ is
+ also
+
+
+really
+ nice.
+ So
+ again,
+ if
+ you're
+
+
+intimidated
+ by
+ or
+ don't
+ understand
+
+
+VS
+ Code,
+ great.
+ Kick
+ it
+ off
+ in
+ the
+ web.
+
+
+If
+ you
+ love
+ your
+ command
+ line
+ tool,
+
+
+great.
+ Let's
+ use
+ use
+ a
+ couple
+ of
+ those
+
+
+keyboard
+ shortcuts
+ that
+ we
+ showed.
+ And
+
+
+so
+ I
+ just
+ think
+ this
+ is
+ a
+ great
+ kind
+ of
+
+
+like
+ starter
+ flow
+ that
+ shows
+ how
+
+
+flexible
+ this
+ platform
+ is
+ and
+ how
+ it
+ can
+
+
+meet,
+ you
+ know,
+ kind
+ of
+ like
+ a
+ bunch
+ of
+
+
+people
+ at
+ a
+ a
+ variety
+ of
+ levels
+ of
+
+
+tasks.
+ So
+ I'm
+ actually
+ going
+ to
+ start
+
+
+there
+ with
+ our
+ lightning
+ round
+
+
+questions,
+ which
+ is,
+ you
+ know,
+ you
+ just
+
+
+released
+ um
+ 52,
+
+
+you
+ showed
+ Bench.
+ We're
+ clearly,
+ you
+
+
+know,
+ like
+ model
+ wars
+ every
+ week.
+ Um,
+ I
+
+
+am
+ really
+ curious
+ about
+ harness
+ wars.
+
+
+Like
+ why
+ does
+ the
+ interface
+ to
+ the
+ model
+
+
+like
+ codeex
+ matter
+ so
+ much?
+ And
+ you
+
+
+know,
+ we've
+ seen
+ a
+ couple
+ things
+ that
+
+
+you've
+ built
+ into
+ the
+ platform,
+ you
+
+
+know,
+ PR
+ review
+ or
+ code
+ review,
+ you
+
+
+know,
+ little
+ like
+ small
+ UX
+ fixes
+ that
+
+
+make
+ make
+ it
+ easy
+ to
+ use,
+ but
+ like
+ where
+
+
+do
+ you
+ feel
+ like
+ harness
+ differentiates
+
+
+in
+ your
+ experience
+ using
+ these
+ coding
+
+
+tools?
+
+
+>> I
+ think
+ there's
+ two
+ places.
+ One
+ is
+ just
+
+
+the
+ quality
+ of
+ model
+ work
+ and
+ then
+ the
+
+
+other
+ is
+ in
+ the
+ user
+ experience.
+ Right?
+
+
+So
+ taking
+ the
+ quality
+ of
+ model
+ work
+ I
+ I
+
+
+presume
+ many
+ people
+ listening
+ to
+ this
+
+
+podcast
+ you
+ know
+ tinker
+ with
+ models
+ or
+
+
+have
+ friends
+ who
+ are
+ building
+ models
+ and
+
+
+like
+ some
+ people
+ just
+ are
+ you
+ know
+ you
+
+
+they're
+ model
+ whisperers
+ and
+ they
+ know
+
+
+they
+ know
+ how
+ to
+ use
+ a
+ model
+ and
+ some
+
+
+people
+ are
+ model
+ whisperers
+ for
+ like
+ a
+
+
+specific
+ model
+ but
+ then
+ maybe
+ not
+ for
+
+
+another
+ model
+ and
+ one
+ of
+ the
+ things
+
+
+that's
+ I
+ think
+ very
+ true
+ is
+ that
+ these
+
+
+models
+ are
+ changing
+ all
+ the
+ time
+ right
+
+
+like
+ we've
+ been
+ I've
+ lost
+ track
+ I
+ think
+
+
+we're
+ shipping
+ a
+ new
+ model
+ like
+ every
+
+
+two
+ weeks
+ recently
+ at
+ openi
+ right
+ and
+
+
+they're
+ each
+ model
+ we
+ ship
+ is
+ better
+
+
+than
+ the
+ last
+ model.
+ It's
+ like
+ super
+
+
+exciting.
+ Um,
+
+
+but
+ they're
+ also
+ evolving,
+ right?
+ They
+
+
+have
+ new
+ capabilities
+ that
+ are
+ kind
+ of
+
+
+hard
+ to
+ keep
+ track
+ of
+ unless
+ you
+ spend
+
+
+all
+ day
+ on,
+ you
+ know,
+ Twitterx.
+
+
+And
+ so
+ I
+ think
+ that
+ there's
+ kind
+ of
+ two
+
+
+things
+ here.
+ The
+ first
+ is
+ like
+ you
+ need
+
+
+to
+ know
+ how
+ to
+ get
+ the
+ most
+ out
+ of
+ the
+
+
+model.
+ You
+ need
+ to
+ know,
+ for
+ example,
+
+
+that
+ open
+ models,
+ we
+ kind
+ of
+ have
+ this
+
+
+like
+ very
+ again
+ agilled
+ way
+ that
+ we
+
+
+train
+ models.
+ we
+ kind
+ of
+ just
+ give
+ them
+
+
+access
+ to
+ a
+ shell
+ and
+ we
+ say
+ like
+ go
+ and
+
+
+do
+ whatever
+ you
+ think
+ you
+ should
+ do
+ in
+
+
+the
+ shell.
+ And
+ so
+ we
+ see
+ these
+ like
+
+
+really
+ interesting
+ emerging
+ behaviors
+
+
+where
+ you
+ know
+ sometimes
+ the
+ model
+ will
+
+
+decide
+ to
+ write
+ a
+ Python
+ script
+ to
+ make
+
+
+many
+ many
+ edits
+ to
+ code
+ and
+ then
+ we
+ have
+
+
+debates
+ about
+ well
+ is
+ that
+ a
+ good
+ idea
+
+
+or
+ not?
+ Like
+ would
+ we
+ prefer
+ it
+ if
+ the
+
+
+model
+ was
+ like
+ plotting
+ through
+ the
+
+
+edits
+ or
+ do
+ we
+ like
+ it
+ running
+ a
+ script?
+
+
+But
+ either
+ way
+ that's
+ like
+ a
+ thing
+ you
+
+
+should
+ know.
+ And
+ so
+ one
+ of
+ the
+ cool
+
+
+things
+ about
+ Codeex
+ is
+ that
+ we're
+
+
+building
+ off
+ harness
+ in
+ open
+ source.
+ And
+
+
+so
+ you
+ get
+ to
+ see
+ the
+ updates
+ we're
+
+
+making
+ for
+ each
+ model
+ that
+ we
+ ship
+ to
+
+
+make
+ the
+ most
+ out
+ of
+ the
+ model.
+ And
+ I
+
+
+can
+ say
+ like
+ every
+ time
+ we
+ ship
+ a
+ model,
+
+
+engineers
+ from
+ the
+ Codex
+ team
+ will
+ go
+
+
+like
+ test
+ it,
+ think
+ about
+ it,
+ talk
+ to
+
+
+the
+ research
+ team.
+ I
+ mean
+ it's
+ they're
+
+
+it's
+ just
+ working
+ super
+ closely
+ together
+
+
+to
+ figure
+ out
+ how
+ to
+ make
+ the
+ most
+ out
+
+
+of
+ the
+ model.
+ And
+ sometimes
+ we we'll
+
+
+ship
+ a
+ new
+ capability
+ like
+ model's
+
+
+getting
+ better
+ at
+ parallel
+ tool
+ calling.
+
+
+Let's
+ see
+ how
+ that
+ works.
+ or
+ recently
+ we
+
+
+shipped
+ something
+ called
+ compaction
+
+
+where
+ the
+ model
+ can
+ basically
+ where
+ we
+
+
+can
+ basically
+ have
+ the
+ model
+ like
+ prep
+
+
+like
+ start
+ a
+ new
+ conversation
+ with
+
+
+itself
+ with
+ a
+ fresh
+ context
+ and
+ what
+
+
+it'll
+ do
+ is
+ just
+ give
+ itself
+ just
+ enough
+
+
+just
+ the
+ right
+ information
+ so
+ that
+ to
+
+
+the
+ user
+ it
+ just
+ feels
+ like
+ it's
+ one
+
+
+conversation
+ rather
+ than
+ like
+ two
+
+
+conversations
+ and
+ so
+ when
+ we
+ build
+
+
+features
+ like
+ that
+ by
+ building
+ both
+ the
+
+
+harness
+ and
+ the
+ model
+ together
+ we
+ can
+ be
+
+
+much
+ more
+ opinionated
+ about
+ what
+ to
+ do
+
+
+with
+ the
+ model
+ and
+ then
+ we
+ can
+ make
+ the
+
+
+actual
+ outcomes
+ like
+ way
+ better
+ for
+
+
+users.
+ And
+ so
+ part
+ of
+ why
+ the
+ Codex
+ CLI
+
+
+is
+ open
+ source
+ is
+ so
+ that
+ anyone
+ who
+
+
+wants
+ to
+ get
+ the
+ best
+ out
+ of
+ Codex
+
+
+models
+ and
+ actually
+ just
+ open
+ models
+
+
+generally
+ can
+ just
+ go
+ observe
+ our
+ how
+ it
+
+
+works.
+ They
+ can
+ use
+ the
+ Codex
+ SDK
+ if
+
+
+they
+ want
+ and
+ just
+ like
+ not
+ even
+ touch
+
+
+the
+ harness
+ just
+ like
+ delegate
+ to
+ us
+ for
+
+
+that.
+ Or
+ if
+ you
+ want
+ to
+ build
+ your
+ own
+
+
+harness,
+ you
+ can
+ just
+ go
+ copy
+ paste
+
+
+parts
+ of
+ code.
+ So
+ we
+ do
+ this
+ all
+ the
+
+
+time.
+ Like
+ I'm
+ in
+ a
+ bunch
+ of
+ like
+ slack
+
+
+DMs
+ with
+ customers
+ and
+ we'll
+ just
+ send
+
+
+them
+ point
+ code
+ pointers
+ like
+ oh
+ yeah
+
+
+this
+ is
+ how
+ we
+ do
+ this
+ just
+ like
+ just
+
+
+copy
+ this
+ code
+ please.
+ So
+ that's
+ on
+ the
+
+
+just
+ like
+ having
+ higher
+ quality
+ model
+
+
+outputs
+ but
+ also
+ keeping
+ pace
+ with
+ the
+
+
+pace
+ of
+ innovation
+ from
+ our
+ research
+
+
+team.
+ That
+ would
+ be
+ like
+ why
+ I
+ think
+ the
+
+
+codeex
+ harness
+ is
+ awesome
+ there.
+ The
+
+
+other
+ side
+ is
+ is
+ um
+ is
+ product
+ overhead.
+
+
+For
+ instance,
+ um
+ earlier
+ this
+ year,
+ most
+
+
+of
+ the
+ sort
+ of
+ like
+ really
+ powerful
+
+
+agentic
+ flows
+ that
+ people
+ were
+ using
+
+
+like
+ codecs
+ and
+ other
+ were
+ in
+ the
+ CLI,
+
+
+right?
+ And
+ this
+ is
+ super
+ basic,
+ but
+ like
+
+
+I
+ I
+ I
+ spoke
+ to
+ many
+ people
+ who
+ don't
+
+
+really
+ like
+ spending
+ all
+ day
+ in
+
+
+terminal.
+ Like
+ I
+ love
+ using
+ the
+
+
+terminal,
+ but
+ I
+ spoke
+ to
+ many
+ people
+ who
+
+
+don't.
+ And
+ I
+ spoke
+ to
+ many
+ people
+ who
+
+
+really
+ like
+ seeing
+ the
+ code
+ that
+ is
+
+
+being
+ edited
+ at
+ the
+ same
+ time.
+
+
+>> That's
+ me.
+ I'm
+ I'm
+ a
+ co
+ I'm
+ a
+ code
+
+
+reader.
+ I
+ like
+ to
+ read
+ my
+ code,
+
+
+>> right?
+ And
+ so,
+ you
+ know,
+ that's
+ a
+ very
+
+
+very
+ basic
+ thing,
+ but
+ it's
+ a
+ place
+ where
+
+
+just
+ building
+ the
+ right
+ product
+
+
+experience
+ unlocked
+ a
+ ton
+ of
+ growth
+ for
+
+
+us.
+ And
+ so,
+ you
+ know,
+ empirically,
+ I
+
+
+could
+ say
+ that
+ we
+ see
+ many
+ many
+ more
+
+
+people
+ who
+ like
+ looking
+ at
+ the
+ code
+
+
+that's
+ being
+ written
+ at
+ the
+ same
+ time
+ as
+
+
+the
+ agent
+ uh
+ than
+ we
+ see
+ like
+ just
+ like
+
+
+running
+ in
+ terminal
+ like
+ on
+ the
+ side.
+ Um
+
+
+so
+ uh
+ I
+ think
+ you
+ know
+ that's
+ a
+ very
+
+
+basic
+ example
+ and
+ then
+ we
+ were
+ kind
+ of
+
+
+touching
+ on
+ this
+ point
+ of
+ like
+ latency
+
+
+for
+ a
+ more
+ advanced
+ example
+ like
+ I
+ think
+
+
+if
+ we
+ can
+ harness
+ the
+ model
+ right
+ we
+ can
+
+
+make
+ it
+ so
+ that
+ you
+ can
+ deploy
+ the
+ model
+
+
+to
+ help
+ you
+ with
+ like
+ hundreds
+ of
+
+
+thousands
+ of
+ things
+ a
+ day
+ but
+ without
+
+
+you
+ having
+ to
+ type
+ right
+ but
+ also
+
+
+without
+ it
+ being
+ annoying
+ to
+ like
+ filter
+
+
+these
+ outputs
+ and
+ without
+ you
+ having
+ to
+
+
+wait
+ because
+ whenever
+ it's
+ helping
+ you
+
+
+with
+ something
+ proactively
+ it's
+ sort
+ of
+
+
+doing
+ so
+ on
+ its
+ own
+ computer
+ and
+ only
+
+
+letting
+ you
+ know
+ when
+ it
+ has
+ something
+
+
+great.
+ So
+ my
+ view
+ is
+ actually
+ that
+ even
+
+
+as
+ all
+ these
+ models
+ are
+ progressing
+ if
+
+
+like
+ let's
+ just
+ say
+ that's
+ stopped
+ which
+
+
+it
+ won't
+ there
+ are
+ many
+ years
+ of
+ product
+
+
+building
+ to
+ do
+ to
+ just
+ like
+ get
+ the
+
+
+harness
+ right
+ and
+ useful
+ for
+ people.
+
+
+Well,
+ that's
+ great.
+ And
+ I
+ do
+ want
+ to
+
+
+make
+ sure
+ people
+ did
+ not
+ miss
+ this
+ tip,
+
+
+which
+ is
+ if
+ you're
+ trying
+ to
+ figure
+ out
+
+
+how
+ to
+ get
+ the
+ most
+ out
+ of
+ out
+ of
+ these
+
+
+new
+ models,
+ you
+ go
+ go
+ peek
+ under
+ the
+
+
+hood
+ at
+ at
+ Codeex
+ open
+ source
+ and
+ just
+
+
+see
+ what
+ kind
+ I
+ mean,
+ I
+ think
+ that's
+ the
+
+
+other
+ thing
+ is
+ what
+ kinds
+ of
+ changes
+ do
+
+
+you
+ have
+ to
+ make
+ when
+ a
+ new
+ model
+ comes
+
+
+out.
+ Especially
+ if
+ you're
+ a
+ builder
+ out
+
+
+there,
+ maybe
+ you're
+ not
+ building
+ a
+
+
+coding
+ tool,
+ but
+ you're
+ building
+ a
+ SAS
+
+
+product
+ that
+ use
+ these
+ models
+ when
+ they
+
+
+come
+ out.
+ Being
+ able
+ to
+ observe
+ how
+ the
+
+
+creators
+ of
+ the
+ models
+ actually
+ maximize
+
+
+their
+ unique
+ strengths,
+ I
+ think
+ is
+ a
+
+
+really
+ valuable
+ thing
+ that
+ I
+ think
+
+
+people
+ really
+ underestimate.
+ Okay,
+ my
+
+
+second
+ question.
+ I
+ spied
+ with
+ my
+ little
+
+
+eye.
+ Atlas.
+ Tell
+ me
+ your
+ favorite
+ Atlas
+
+
+use
+ cases
+ that
+ you
+ think
+ people
+
+
+underappreciate.
+
+
+The
+ first
+ one
+ is
+ kind
+ of
+ boring
+ but
+ it's
+
+
+it's
+ really
+ really
+ true
+ which
+ is
+ I
+ have
+
+
+started
+ just
+ asking
+ chat
+ for
+ everything
+
+
+instead
+ chat
+ being
+ chatbt.
+ Um
+ I
+ just
+ ask
+
+
+chat
+ for
+ everything
+ uh
+ because
+ I
+ get
+
+
+answers
+ that
+ are
+ like
+ really
+ catered
+ to
+
+
+me
+ because
+ I
+ talk
+ to
+ chat
+ about
+
+
+everything.
+ You
+ know
+ I'm
+ a
+ weird
+ person
+
+
+like
+ if
+ I
+ ask
+ a
+ question
+ and
+ then
+ um
+ I
+
+
+like
+ make
+ a
+ decision
+ based
+ off
+ it.
+ I
+
+
+tell
+ it
+ what
+ decision
+ I
+ made
+ because
+
+
+then
+ it
+ remembers.
+ And
+ so
+ then
+ the
+ next
+
+
+question
+ I
+ answer
+ I
+ get
+ is
+ even
+ better.
+
+
+And
+ so
+ just
+ simply
+ like
+ my
+ workflow
+ for
+
+
+anything
+ that's
+ not
+ code
+ is
+ I
+ go
+ to
+
+
+Atlas,
+ I
+ command
+ T
+ to
+ open
+ a
+ new
+ tab
+ and
+
+
+then
+ I
+ just
+ type
+ whatever
+ I
+ want
+ and
+ I
+
+
+get
+ an
+ answer.
+ And
+ I
+ often
+ follow
+ up
+
+
+like
+ for
+ me
+ that's
+ the
+ sort
+ of
+ magic
+
+
+thing
+ about
+ using
+ an
+ LLM.
+ Um
+ so
+ being
+
+
+able
+ to
+ just
+ like
+ ask
+ your
+ question
+ and
+
+
+then
+ follow
+ up
+ and
+ then
+ maybe
+ navigate
+
+
+to
+ links
+ like
+ super
+ boring
+ but
+ but
+ I
+
+
+love
+ that.
+ Um
+ my
+ other
+ sort
+ of
+ favorite
+
+
+feature
+ is
+ u
+ the
+ fact
+ is
+ Sidhat.
+ So
+
+
+basically
+ any
+ page
+ you
+ open
+ should
+ I
+
+
+show
+ maybe
+ I
+ can
+ show
+ this.
+
+
+>> I
+ think
+ I
+ should.
+
+
+>> Yeah.
+
+
+>> And
+ while
+ you're
+ doing
+ that
+ I
+ have
+ to
+
+
+call
+ out
+ that
+ you
+ have
+ settled
+ a
+ debate
+
+
+that
+ I
+ saw
+ today
+ on
+ X
+ which
+ is
+ like
+
+
+should
+ you
+ tell
+ your
+ AI
+ when
+ it's
+ done
+
+
+something
+ right
+ or
+ wrong
+ after
+ it's
+ done
+
+
+it?
+ Like
+ once
+ something's
+ fixed
+ a
+ bug.
+
+
+I'm
+ the
+ person
+ that's
+ like
+ great
+ it
+
+
+looks
+ awesome.
+ Thanks
+ that
+ fixed.
+
+
+[laughter]
+ But
+ I
+ do
+ think
+ that
+ I
+ in
+ my
+
+
+mind
+ I've
+ convinced
+ myself
+ that
+ closed
+
+
+loop
+ creates
+ some
+ context
+ that's
+ like
+
+
+yes
+ I
+ did
+ this
+ particular
+ thing
+ right
+ or
+
+
+wrong
+ user
+ has
+ accepted
+ it
+ and
+ that
+ in
+
+
+some
+ future
+ world
+ it's
+ going
+ to
+ make
+ my
+
+
+life
+ better.
+
+
+>> Yeah.
+ I
+ mean
+ so
+ I
+ think
+ there's
+ two
+
+
+reasons
+ to
+ do
+ that.
+ The
+ first
+ is
+ just
+
+
+like
+ memory.
+
+
+>> Yeah.
+
+
+>> Right.
+ Like
+ if
+ you
+ have
+ memory
+ enabled
+
+
+which
+ most
+ people
+ do
+ then
+ you'll
+ get
+ a
+
+
+better
+ answer.
+ A
+ very
+ concrete
+ example
+
+
+is
+ I
+ was
+ on
+ holiday
+ and
+ some
+ plans
+
+
+changed.
+ So
+ we
+ were
+ deciding
+ where
+ to
+
+
+get
+ dinner.
+ Uh,
+ and
+ so
+ we
+ just
+ asked
+
+
+chat
+ for
+ dinner
+ recommendations.
+ Uh,
+ to
+
+
+be
+ clear,
+ we
+ also
+ we
+ like
+ food
+ a
+ lot,
+ so
+
+
+we
+ also
+ like
+ searched.
+ Um,
+ but
+ it's
+
+
+interesting
+ to
+ get
+ ask
+ chat
+ because
+ it
+
+
+knew
+ like
+ where
+ we
+ were
+ staying
+ and
+ it
+
+
+knew
+ what
+ food
+ we'd
+ had
+ like
+ the
+ day
+
+
+before
+ or
+ whatever.
+ And
+ so
+ it
+ just
+ gave
+
+
+like
+ a
+ really
+ bespoke
+ recommendation
+ and
+
+
+that
+ was
+ cool.
+ Uh,
+ I
+ think
+ my
+ other
+ sort
+
+
+of
+ hot
+ take
+ reason
+ to
+ do
+ this
+ is
+ I
+ think
+
+
+it's
+ important
+ to
+ be
+ polite
+ to
+ AI.
+ I
+
+
+know
+ this
+
+
+>> this
+ is
+ not
+ an
+ official
+ company
+ stance
+
+
+just
+ to
+ be
+ clear
+ but
+ my
+ sort
+ of
+ meta
+
+
+reason
+ here
+ is
+ I
+ just
+ think
+ it's
+
+
+important
+ to
+ be
+ polite
+ to
+ everyone
+
+
+>> and
+ I
+ think
+ that
+ if
+ you
+ start
+ not
+ being
+
+
+polite
+ to
+ chat
+ I
+ think
+ it
+ can
+ wear
+ off
+
+
+on
+ you
+ and
+ you
+ just
+ start
+ not
+ being
+
+
+polite
+ to
+ other
+ people
+ in
+ your
+ life
+ and
+
+
+like
+ we're
+ adults
+ like
+ imagine
+ kids
+
+
+right
+ they
+ hear
+ us
+ like
+ talking
+ to
+ the
+
+
+rai
+ in
+ some
+ way
+ they're
+ going to
+ go
+
+
+treat
+ someone
+ who
+ they
+ you
+ know
+ they're
+
+
+children
+ they
+ don't
+ know
+ in
+ some
+ like
+
+
+not
+ polite
+ way
+ so
+ that's
+ kind
+ of
+ my
+ my
+
+
+hot
+ thing
+ like
+ could
+ not
+ agree
+ agree
+
+
+more.
+ I,
+ you
+ know,
+ I
+ am
+ a
+ please,
+ thank
+
+
+you,
+ good
+ job.
+ And,
+ and
+ honestly,
+ it's
+
+
+not
+ because
+ of
+ the
+ AI's
+ humanity.
+ It's
+
+
+to
+ protect
+ my
+ own
+ humanity,
+ which
+ is
+ if
+
+
+I
+ get
+ used
+ to
+ being
+ a
+ jerk
+ to
+ anything
+
+
+humanlike,
+ there
+ is
+ no
+ way
+ that
+ does
+ not
+
+
+bleed
+ into
+ how
+ I
+ think
+ about
+ people,
+
+
+speak
+ to
+ people,
+ uh,
+ clip
+ this,
+ pin
+ it
+
+
+to
+ the
+ top
+ of
+ the
+ YouTube
+ channel,
+ be
+
+
+polite
+ for
+ you
+ if
+
+
+>> that, that
+ resonates
+ a
+ lot.
+ It's
+ like
+
+
+our
+ our
+ humanity
+ is
+ defined
+ by
+ how
+ we
+
+
+treat
+ others,
+ not
+ how
+ they
+ treat
+ us.
+
+
+Right.
+
+
+>> Exactly.
+
+
+>> So,
+ side
+ chat.
+ So,
+ basically,
+ um
+ I
+ can
+
+
+go
+ in
+ here.
+ I
+ can
+ click
+ this
+ button
+ and
+
+
+I
+ can
+ ask
+ questions
+ about
+ the
+ page.
+
+
+Right.
+ So,
+ I
+ could
+ be
+ like,
+ "What's
+
+
+great
+ about
+ GPT
+ 5.2?"
+ Uh
+ you
+ might
+ joke
+
+
+like
+ and
+ be
+ like,
+ "Why
+ are
+ you
+ asking
+ AI
+
+
+to
+ summarize
+ this
+ article?"
+ But
+ like
+
+
+oftentimes
+ I'll
+ be
+ at
+ work
+ and
+ someone
+
+
+will
+ send
+ me
+ a
+ thing
+ and
+ be
+ like,
+
+
+"Thoughts?"
+ And
+ I
+ just
+ like
+ don't
+ have
+
+
+time.
+ thought
+ [laughter]
+ it's
+ like
+ what
+
+
+is
+ this
+ right
+ and
+ then
+ you
+ know
+ and
+ then
+
+
+I
+ can
+ have
+ a
+ conversation
+ though
+ right
+
+
+till
+ then
+ I
+ can
+ be
+ like
+ oh
+ like
+
+
+interesting
+ like
+ you
+ know
+
+
+>> um
+
+
+>> hey
+ chat
+ what
+ do
+ I
+ think
+ about
+ this
+
+
+[laughter]
+
+
+>> I
+ mean
+ what
+ that
+ question
+ is
+ it
+ often
+
+
+grounds
+ itself
+ in
+ what
+ I've
+ talked
+ to
+ it
+
+
+about
+ before
+ it's
+ like
+ well
+ since
+ you
+
+
+are
+ a
+ person
+ who
+ likes
+ you
+ know
+ like
+
+
+this
+ you
+ probably
+ would
+ be
+ interested
+ in
+
+
+this
+ detail
+ um
+ so
+ I
+ mean
+ this
+ this
+ is
+
+
+not
+ maybe
+ the
+ best
+ example
+ because
+ I'm
+
+
+asking
+ for
+ a
+ summary
+ but
+ oftent
+ times
+ if
+
+
+I'm
+ looking
+ at
+ like
+ numbers
+ or
+ math
+
+
+>> or
+ I
+ need
+ to
+ learn
+ more
+ about
+ like
+ a
+
+
+concept,
+ I'll
+ use
+ this.
+
+
+>> You
+ can
+ also
+ use
+ this
+ to
+ rewrite
+
+
+something.
+ So
+ if
+ I
+ was
+ like,
+
+
+>> you
+ know,
+ in
+ a
+ Google
+ doc,
+ I
+ could
+ like
+
+
+select
+ some
+ text
+ and
+ like
+ be
+ like,
+ hey,
+
+
+like
+ how
+ else
+ might
+ you
+ rephrase
+ this?
+
+
+So
+ I
+ think
+
+
+>> for
+ me,
+ side
+ chat
+ is
+ is
+ a
+ really
+ cool
+
+
+feature.
+
+
+>> Um,
+ but
+
+
+>> I
+ think
+ I
+ might
+ be
+ a
+ bit
+ nerd
+ sniped
+ by
+
+
+it
+ to
+ be
+ honest
+ in
+ the
+ sense
+ that
+ this
+
+
+is
+ this
+ is
+ what
+ I
+ joined
+ OpenAI
+ to
+ like
+
+
+help
+ build.
+ So
+ I'm
+ very
+ interested
+ in
+
+
+it.
+ I'm
+ like
+ for
+ me
+ the
+ idea
+ of
+ an
+ agent
+
+
+that
+ I
+ don't
+ have
+ it
+ it
+ understands
+ me
+ I
+
+
+don't
+ have
+ to
+ like
+ map
+ myself
+ to
+ its
+
+
+world
+
+
+>> is
+ really
+ powerful.
+ So
+ side
+ chat
+ is
+ that
+
+
+codeex
+ is
+ that
+ too
+ right?
+ You
+ launch
+ it
+
+
+in
+ the
+ codebase
+ and
+ it's
+ in
+ your
+
+
+environment.
+ You
+ don't
+ have
+ to
+ go
+ to
+ it.
+
+
+>> Um
+ I
+ think
+ this
+ is
+ the
+ future
+ and
+ I'm
+
+
+like
+ really
+ excited
+ for
+ how
+ we
+ can
+ just
+
+
+like
+ take
+ all
+ the
+ best
+ ideas
+ from
+ Atlas
+
+
+and
+ Codex
+ and
+ kind
+ of
+ bring
+ them
+
+
+together
+ into
+ like
+ a
+ basically
+ AGI
+ super
+
+
+assistant.
+
+
+>> AGI
+ super
+ assistant.
+ Maybe
+ we'll
+ see
+ it
+
+
+next
+ next
+ year.
+ It
+ sounds
+ like
+ It
+ sounds
+
+
+like
+ the
+ name
+ of
+ a
+ product
+ you
+ would
+
+
+really
+ [laughter]
+
+
+super
+ assistant
+ 5.1
+
+
+>> 5.2
+ thinking
+ high.
+
+
+>> Yeah.
+
+
+>> Um
+ okay,
+ last
+ question.
+ And
+ we
+ maybe
+
+
+already
+ covered
+ this,
+ but
+ um
+ you
+ we've
+
+
+established
+ you
+ are
+ polite
+ to
+ AI,
+ but
+
+
+when
+ it
+ is
+ not
+ replying,
+ not
+ doing
+ what
+
+
+you
+ want,
+ not
+ remembering,
+
+
+what
+ is
+ your
+ prompting
+ technique
+ to
+ get
+
+
+it
+ back
+ on
+ track?
+ Yeah.
+ I
+ mean,
+ so
+ first
+
+
+off,
+ I
+ have
+ a
+ bit
+ of
+ a
+ weird
+ job
+ in
+ that
+
+
+if
+ I
+ notice
+ the
+ EI
+ not
+ replying,
+ I
+ have
+
+
+to
+ go
+ probably
+ file
+ a
+ bug
+ or
+ like
+ start
+
+
+a
+ SEV.
+ Sev
+ being
+ like
+ a
+ word
+ for
+ an
+
+
+incident.
+ So
+ I,
+ you
+ know,
+ yeah,
+ I
+ have
+
+
+to
+ go
+ do
+ those
+ things.
+ But
+ um
+ I
+ think
+
+
+context
+ is
+ everything.
+ So
+ if
+ I
+ see
+ the
+
+
+agent
+ not
+ doing
+ what
+ I
+ want,
+ so
+ I
+ guess
+
+
+one
+ really
+ tactical
+ tip
+ is
+ I
+ I
+ don't
+
+
+usually
+ ask
+ for
+ things
+ from
+ the
+ agent
+
+
+without
+ asking
+ for
+ context,
+ without
+
+
+giving
+ context.
+ So
+ I'll
+ say
+ like
+ hey
+ I
+
+
+want
+ you
+ to
+ like
+ like
+ change
+ this
+ UI
+
+
+from
+ this
+ to
+ this
+ so
+ that
+ you
+ know
+ users
+
+
+do
+ this
+ or
+ like
+ because
+ we
+ don't
+ want
+
+
+people
+ to
+ be
+ confused
+ about
+ XYZ
+ and
+ I
+
+
+often
+ it's
+ funny
+ I
+ think
+ P
+ like
+ another
+
+
+hot
+ take
+ I
+ think
+ PMs
+ are
+ the
+ best
+
+
+prompters
+
+
+um
+ because
+ we're
+ used
+ to
+ not
+ being
+ the
+
+
+expert
+ in
+ what
+ we're
+ doing
+ and
+ we're
+
+
+used
+ to
+ not
+ being
+ the
+ most
+ intelligent
+
+
+person
+ in
+ the
+ room
+ right
+ and
+ so
+ usually
+
+
+we
+ can
+ just
+ like
+ maybe
+ suggest
+ but
+ we
+
+
+don't
+ even
+ know
+ if
+ that's
+ right
+ So
+ I
+ I
+ I
+
+
+I
+ sort
+ of
+ work
+ with
+ codeex
+ in
+ that
+ way.
+
+
+I'll
+ be
+ like,
+ "Hey,
+ can
+ you
+ like
+ make
+
+
+this
+ more
+ elegant
+ and
+ I
+ won't
+ say
+ what
+ I
+
+
+want
+ because
+ I
+ actually
+ it'll
+ look
+ at
+
+
+the
+ code
+ and
+ it'll
+ know
+ better
+ than
+ me."
+
+
+Um,
+ so
+ tip
+ number
+ one
+ is
+ give
+ a
+ lot
+ of
+
+
+context
+ and
+ actually
+ get
+ really
+ good
+ at
+
+
+describing
+ the
+ level
+ of
+ ambiguity
+ of
+
+
+your
+ request.
+ Like
+ do
+ not
+ create
+ false
+
+
+precision
+ in
+ your
+ prompt
+ if
+ you
+ don't
+
+
+actually
+ care
+ exactly
+ about
+ what
+ what
+
+
+the
+ outcome
+ is.
+ And
+ then
+ the
+ second
+
+
+thing
+ is
+ like
+ if
+ that
+ doesn't
+ work
+ and
+
+
+you
+ explain
+ why
+ again
+ and
+ it
+ still
+
+
+doesn't
+ work
+ then
+ I
+ just
+ start
+ a
+ new
+
+
+chat.
+ Um
+ and
+ you
+ can
+ do
+ things
+ the
+ this
+
+
+is
+ a
+ very
+ like
+ advanced
+ user
+ thing
+ that
+
+
+I
+ don't
+ think
+ anyone
+ listening
+ to
+ this
+
+
+will
+ ever
+ do
+ but
+ Codex
+ is
+ a
+ very
+ open
+
+
+product.
+ It
+ stores
+ its
+ conversations
+
+
+logs
+ uh
+ in
+ like
+ your
+ home
+ directory
+ in
+
+
+acodex
+ folder
+ in
+ a
+ subfolder
+ called
+
+
+sessions.
+ So
+ likeex
+ sessions.
+ So
+ you
+
+
+could
+ just
+ go
+ say
+ like,
+ "Hey,
+ I
+ started
+
+
+a
+ new
+ session
+ because
+ you
+ got
+ confused.
+
+
+I
+ wanted
+ you
+ to
+ do
+ this
+ because
+ of
+ this.
+
+
+Go
+ read
+ your
+ previous
+ session
+ to
+
+
+understand
+ what's
+ going
+ on."
+ And
+ then
+
+
+and
+ then
+ like,
+ you
+ know,
+ continue
+ from
+
+
+there.
+
+
+>> I
+ love
+ it.
+ Ending
+ this
+ episode
+ with
+ a
+
+
+hidden
+ hot
+ tip,
+ which
+ we
+ didn't
+ get
+ to
+
+
+through
+ our
+ our
+ Codeex
+ walkthrough,
+
+
+which
+ is
+ all
+ your
+ all
+ your
+ sessions
+ are
+
+
+stored
+ locally,
+ so
+ just
+ ask
+ it
+ ask
+ it
+ to
+
+
+go
+ read
+ them.
+ This
+ has
+ been
+ really
+ fun.
+
+
+Alex,
+ where
+ can
+ we
+ find
+ you?
+ And
+ other
+
+
+than
+ reporting
+ bugs,
+ how
+ can
+ we
+ be
+
+
+helpful?
+
+
+>> I
+ am
+ hiring
+ PMs.
+ So
+ if
+ you're
+
+
+interested,
+ please
+ uh
+ apply
+ on
+ the
+ job
+
+
+site
+ and
+ also
+ hit
+ me
+ up
+ on
+ socials.
+ Uh
+
+
+we
+ are
+ hiring
+ generally
+ a
+ lot
+ on
+ codecs.
+
+
+We
+ do
+ love
+ bug
+ reports
+ and
+ we
+ do
+ love
+
+
+feedback
+ and
+ actually
+ it's
+ already
+ an
+
+
+open
+ source
+ so
+ I
+ don't
+ mind
+ talking
+
+
+about
+ it.
+ We
+ actually
+ are
+ also
+ releasing
+
+
+a
+ bunch
+ of
+ new
+ configuration
+ abilities
+
+
+for
+ codecs
+ like
+ the
+ ability
+ to
+ allow
+ us
+
+
+commands
+ or
+ skills.
+ So
+ if
+ you
+ wanted
+ to
+
+
+like
+ help
+ build
+ Codex
+ skills
+ or
+ like
+
+
+tell
+ us
+ what
+ configuration
+ you
+ want,
+
+
+that
+ would
+ be
+ very
+ helpful.
+ And
+ lastly,
+
+
+just
+ check
+ it
+ out.
+ Codex
+ is
+ awesome.
+ So
+
+
+uh
+ you
+ can
+ find
+ me
+ uh
+ on
+ Twitter.
+ I'm
+
+
+embarrass
+
+
+subreddit.
+ We
+ are
+ there
+ all
+ the
+ time
+ and
+
+
+also
+ love
+ chatting
+ there.
+
+
+>> Amazing.
+ Well,
+ thank
+ you
+ for
+ joining
+ How
+
+
+I
+ AI.
+
+
+>> Cool.
+ Thanks
+ for
+ having
+ me.
+
+
+>> Thanks
+ so
+ much
+ [music]
+ for
+ watching.
+ If
+
+
+you
+ enjoyed
+ this
+ show,
+ please
+ like
+ and
+
+
+subscribe
+ here
+ on
+ YouTube,
+ or
+ even
+
+
+better,
+ leave
+ us
+ a
+ comment
+ with
+ your
+
+
+thoughts.
+ You
+ can
+ also
+ find
+ this
+ podcast
+
+
+on
+ Apple
+ Podcasts,
+ Spotify,
+ or
+ your
+
+
+favorite
+ podcast
+ app.
+ [music]
+ Please
+
+
+consider
+ leaving
+ us
+ a
+ rating
+ and
+ review,
+
+
+which
+ will
+ help
+ others
+ find
+ the
+ show.
+
+
+You
+ can
+ see
+ all
+ our
+ episodes
+ and
+ learn
+
+
+more
+ about
+ the
+ show
+ at
+ howiaipod.com.
+
+
+See
+ you
+ next
+ time.
