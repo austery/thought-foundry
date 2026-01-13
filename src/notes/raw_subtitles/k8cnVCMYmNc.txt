@@ -1,0 +1,17363 @@
+I'll
+ introduce
+ myself
+ in
+ in
+ just
+ a
+
+
+moment,
+ but
+ I'd
+ like
+ to
+ get
+ to
+ know
+ a
+
+
+little
+ bit
+ about
+ you.
+ So,
+ you
+ know,
+ you
+
+
+can
+ see
+ that
+ there's
+ there's
+ two
+ brands
+
+
+up
+ on
+ the
+ screen
+ here.
+ There's
+ OpenAI
+
+
+agents
+ SDK
+ in
+ particular,
+ and
+ there's
+
+
+Temporal.
+ I
+ work
+ for
+ Temporal.
+ I'll
+ tell
+
+
+you
+ more
+ about
+ myself
+ in
+ just
+ a
+ second.
+
+
+Um,
+ I'm
+ curious,
+ how
+ many
+ folks
+ are
+
+
+using
+ the
+ OpenAI
+ agents
+ SDK
+ today?
+
+
+Okay,
+ about
+ a
+ quarter
+ of
+ you.
+ um
+
+
+any
+ other
+ um
+ a
+ agentic
+ frameworks?
+
+
+Okay,
+ about
+ the
+ same
+ set
+ of
+ you.
+ So,
+
+
+it's
+ it
+ looks
+ like
+ there's
+ a
+ hand
+ quite
+
+
+a
+ number
+ of
+ you
+ who
+ are
+ not
+ using
+ an
+
+
+agent
+ framework
+ just
+ yet.
+ So,
+ I'll
+ teach
+
+
+you
+ a
+ little
+ bit
+ about
+ that.
+ Okay,
+ next
+
+
+question.
+ How
+ many
+ folks
+ are
+ doing
+
+
+anything
+ with
+ temporal?
+
+
+Not
+ very
+ many.
+ Awesome.
+ I'm
+ gonna
+ get
+ to
+
+
+teach
+ you
+ some
+ stuff.
+ Um,
+ okay,
+ cool.
+
+
+So,
+ uh,
+ we're
+ going
+ to
+ talk
+ today
+ about
+
+
+both
+ those
+ technologies.
+ I'm
+ going
+ to
+
+
+talk
+ about
+ them
+ each
+ independently,
+ but
+
+
+I'm
+ going
+ to
+ spend
+ a
+ lot
+ of
+ time
+ on
+ them
+
+
+together.
+ Uh,
+ spoiler,
+ we
+ actually
+ have
+
+
+an
+ integration
+ between
+ the
+ two
+ products
+
+
+that
+ Temporal
+ and
+ OpenAI
+ worked
+ on
+
+
+together.
+ Um,
+ and
+ so,
+ and
+ and
+ you'll
+ see
+
+
+it's
+ it's
+ really
+ quite
+ sweet.
+ So,
+ let
+ me
+
+
+very
+ briefly
+ introduce
+ myself.
+ My
+ name
+
+
+is
+ Cornelia
+ Davis.
+ I'm
+ a
+ developer
+
+
+advocate
+ here
+ at
+ Temporal.
+ Um
+ I
+ have
+
+
+spent
+ a
+ lot
+ of
+ time
+ I
+ think
+ the
+ bulk
+ of
+
+
+my
+ career
+ has
+ been
+ spent
+ in
+ this
+
+
+distributed
+ system
+ space.
+ So
+ I
+ was
+ super
+
+
+fortunate
+ to
+ be
+ at
+ Pivotal
+ um
+ working
+ on
+
+
+Cloud
+ Foundry
+ from
+ the
+ early
+ 2010s.
+ So
+ I
+
+
+was
+ really
+ there
+ during
+ the
+ kind
+ of
+
+
+movement
+ toward
+ micros
+ service
+
+
+architectures,
+ distributed
+ systems,
+
+
+those
+ types
+ of
+ things.
+ Um
+ any
+ Cloud
+
+
+Foundry
+ folks
+ in
+ the
+ room?
+ Oh,
+ just
+ a
+
+
+few.
+ Um,
+ so
+ for
+ those
+ of
+ you
+ who
+ don't
+
+
+know
+ Cloud
+ Foundry,
+ Cloud
+ Foundry
+ was
+ um
+
+
+the
+ early
+ the
+ early
+ container
+ technology
+
+
+out
+ on
+ the
+ market.
+ It
+ was
+ incubated
+ as
+ a
+
+
+open-
+ source
+ project
+ at
+ VMware
+ and
+ it
+
+
+used
+ um
+ uh
+ container
+ images,
+ Linux
+
+
+containers,
+ container
+ orchestration,
+
+
+eventual
+ consistency,
+ all
+ of
+ that
+ stuff
+
+
+before
+ Docker
+ even
+ existed
+ and
+ well
+
+
+before
+ Kubernetes
+ existed.
+ So
+ I
+ was
+ very
+
+
+very
+ fortunate
+ that
+ I
+ was
+ there
+ at
+ the
+
+
+beginning
+ of
+ that
+ movement
+ o
+ over
+ toward
+
+
+platforms
+ that
+ supported
+ this
+ more
+ agile
+
+
+distributed
+ systems
+ way
+ of
+ doing
+ things
+
+
+and
+ because
+ I
+ spent
+ so
+ much
+ time
+ in
+ the
+
+
+microservices
+ world
+ I
+ also
+ wrote
+ this
+
+
+book.
+ Okay.
+ So
+ what
+ we're
+ going
+ to
+ talk
+
+
+about
+ today
+ is
+ we're
+ going
+ to
+ talk
+ about
+
+
+the
+ open
+ agent
+ a
+ uh
+ open
+ AI
+ agents
+ SDK.
+
+
+Then
+ I'm
+ going
+ to
+ give
+ you
+ a
+ temporal
+
+
+overview.
+ I'm
+ going
+ to
+ do
+ lots
+ of
+ demos
+
+
+and
+ I'm
+ going
+ to
+ show
+ you
+ the
+ repos.
+ If
+
+
+you
+ want
+ to
+ if
+ you
+ want
+ to
+ follow
+ along,
+
+
+you
+ can
+ go
+ ahead
+ and
+ grab
+ the
+ repos.
+
+
+Both
+ of
+ my
+ demos
+ I
+ actually
+ changed
+ this
+
+
+morning
+ so
+ they're
+ sitting
+ in
+ branches
+
+
+instead
+ of
+ in
+ the
+ main
+ branches,
+ but
+ I
+
+
+will
+ make
+ that
+ very
+ clear
+ as
+ well.
+ Going
+
+
+to
+ do
+ lots
+ of
+ demos
+ there
+ and
+ then
+ I'm
+
+
+going
+ to
+ do
+ uh
+ move
+ over
+ to
+ the
+
+
+combination
+ of
+ the
+ OpenAI
+ agents
+ SDK
+ and
+
+
+temporal
+ together
+ and
+ we'll
+ do
+ more
+
+
+demos
+ there
+ as
+ well.
+ And
+ then
+ I'm
+ going
+
+
+to
+ talk
+ a
+ little
+ bit
+ about
+ orchestrating
+
+
+agents
+ kind
+ of
+ in
+ the
+ general
+ sense.
+
+
+So
+ this
+ here
+ is
+ a
+ notebook
+ that
+ we're
+
+
+I'm
+ not
+ going
+ to
+ use
+ today.
+ And
+ so
+ I
+
+
+decided
+ I
+ just
+ ran
+ this
+ workshop
+ earlier
+
+
+this
+ week
+ and
+ I
+ decided
+ that
+ for
+ the
+ AIE
+
+
+crowd
+ it
+ was
+ way
+ too
+ basic.
+ That
+ said,
+
+
+if
+ you're
+ interested,
+ you
+ can
+ go
+ there.
+
+
+It
+ will
+ take
+ you
+ through.
+ It's
+ it's
+ set
+
+
+up
+ with
+ Jupyter
+ notebooks.
+ You
+ can
+ run
+
+
+it
+ in
+ code
+ spaces
+ on
+ GitHub
+ and
+ you
+ can
+
+
+run
+ your
+ first
+ OpenAI
+ agents
+ SDK
+ agent.
+
+
+Then
+ you
+ can
+ run
+ your
+ first
+ 101
+ temporal
+
+
+a
+ uh
+ not
+ agent
+ but
+ temporal
+ application.
+
+
+Then
+ you
+ can
+ move
+ all
+ the
+ way
+ through
+
+
+the
+ agenda
+ that
+ way.
+ But
+ it's
+ pretty
+
+
+basic
+ and
+ I
+ decided
+ that
+ for
+ this
+ crowd
+
+
+I
+ wanted
+ to
+ do
+ something
+ more
+ advanced.
+
+
+So
+ we're
+ not
+ going
+ to
+ use
+ that
+ today.
+ Um
+
+
+and
+ I
+ just
+ crafted
+ some
+ of
+ these
+ demos
+
+
+this
+ morning.
+ Okay.
+ So
+ without
+ further
+
+
+ado,
+ this
+ is
+ going
+ to
+ be
+ the
+ shortest
+
+
+part
+ of
+ the
+ presentation
+ is
+ I'm
+ going to
+
+
+give
+ you
+ an
+ intro
+ to
+ the
+ OpenAI
+ agents
+
+
+SDK.
+ This
+ was
+ launched
+ in
+ I
+ think
+ around
+
+
+the
+ May
+ time
+ frame
+ or
+ so.
+ Um
+ and
+ I
+ I'm
+
+
+not
+ going
+ to
+ read
+ you
+ these
+ slides
+ and
+
+
+oh
+ just
+ so
+ you
+ know
+ where
+ we're
+ going.
+ I
+
+
+am
+ going
+ to
+ use
+ some
+ slides
+ because
+ I'm
+
+
+one
+ of
+ those
+ people
+ where
+ I
+ think
+ the
+
+
+pictures
+ really
+ help.
+ I've
+ got
+ lots
+ of
+
+
+diagrams
+ in
+ here,
+ but
+ we
+ are
+ going
+ to
+
+
+spend
+ a
+ lot
+ of
+ time
+ stepping
+ through
+ the
+
+
+code
+ as
+ well.
+ I
+ don't
+ think
+ I
+ need
+ to
+
+
+define
+ what
+ an
+ agent
+ is.
+ I
+ will
+ tell
+ you
+
+
+that
+ that
+ for
+ me
+ personally
+ the
+
+
+distinction
+ that
+ I
+ make
+ between
+ Genai
+
+
+applications
+ and
+ then
+ when
+ they
+ get
+ to
+
+
+agents
+ is
+ when
+ we
+ give
+ the
+ LLM's
+ agency
+
+
+when
+ the
+ LLMs
+ are
+ the
+ ones
+ that
+ are
+
+
+deciding
+ on
+ the
+ flow
+ of
+ the
+ application.
+
+
+That
+ to
+ me
+ is
+ what
+ what
+ an
+ agent
+ is.
+ And
+
+
+these
+ frameworks
+ like
+ the
+ OpenAI
+ agents
+
+
+SDK
+ are
+ designed
+ to
+ make
+ it
+ easier
+ for
+
+
+you
+ to
+ get
+ started
+ with
+ those.
+ And
+ in
+
+
+fact,
+ we'll
+ see
+ that
+ really
+ we'll
+ see
+ a
+
+
+contrast
+ on
+ that
+ with
+ the
+ two
+ major
+
+
+demos
+ that
+ I'm
+ going
+ to
+ show
+ you
+ today.
+
+
+It's
+ available
+ um
+ in
+ both
+ Python
+ and
+
+
+Typescript.
+
+
+And
+ here
+ is
+ the
+ most
+ basic
+ application.
+
+
+So
+ what
+ you
+ see
+ here
+ is
+ that
+ we've
+
+
+defined
+ an
+ agent.
+ We've
+ given
+ it
+ a
+ name
+
+
+and
+ we've
+ given
+ it
+ instructions
+ and
+ it's
+
+
+taken
+ defaults
+ for
+ the
+ rest
+ of
+ it.
+ Other
+
+
+things
+ things
+ that
+ are
+ defaulted
+ are
+
+
+things
+ like
+ the
+ model
+ itself.
+ I
+ don't
+
+
+know
+ what
+ the
+ default
+ is
+ right
+ now.
+ And
+
+
+then
+ all
+ you
+ can
+ all
+ you
+ need
+ to
+ do
+
+
+after
+ that
+ is
+ you
+ basically
+ need
+ to
+ run
+
+
+it.
+ And
+ anytime
+ you
+ see
+ that
+ runner.run,
+
+
+what
+ that
+ corresponds
+ to
+ is
+ an
+ agentic
+
+
+loop.
+ And
+ we'll
+ talk
+ about
+ the
+ agentic
+
+
+loop
+ several
+ times
+ throughout
+ the
+
+
+presentation.
+ Every
+ time
+ you
+ see
+ one
+ of
+
+
+those
+ runner.runs,
+ it's
+ its
+ own
+ agentic
+
+
+loop.
+ And
+ when
+ we
+ get
+ to
+ the
+
+
+orchestration
+ stuff
+ later
+ on,
+ you'll
+ see
+
+
+why
+ I
+ make
+ that
+ distinction.
+
+
+It
+ also
+ as
+ as
+ I
+ said
+ this
+ is
+ really
+
+
+simple
+ here
+ but
+ it
+ has
+ a
+ lot
+ of
+ other
+
+
+options
+ that
+ you
+ can
+ put
+ in
+ place
+ into
+
+
+the
+ agent
+ configurations
+ that
+ that
+ drive
+
+
+how
+ the
+ agentic
+ loop
+ works.
+ You
+ can
+ have
+
+
+handoffs.
+ We
+ will
+ talk
+ about
+ those.
+ So
+
+
+I'll
+ clarify
+ that
+ later.
+ But
+ you
+ could
+
+
+put
+ guard
+ rails
+ in
+ place.
+ You
+ can
+ you
+
+
+can
+ add
+ tools.
+ And
+ we're
+ going
+ to
+ see
+
+
+both
+ of
+ my
+ examples
+ are
+ heavy
+ duty
+ on
+
+
+LLM
+ agency
+ and
+ it
+ deciding
+ which
+ tools
+
+
+to
+ use.
+ So,
+ I'm
+ going
+ to
+ show
+ you
+ tools.
+
+
+So,
+ there's
+ a
+ lot
+ more
+ that
+ you
+ can
+ do
+
+
+in
+ here,
+ and
+ I'll
+ show
+ you
+ examples
+ of
+
+
+that
+ as
+ we
+ go
+ along.
+ And
+ really,
+ this
+ is
+
+
+the
+ picture
+ of
+ what
+ I'm
+ talking
+ about
+ is
+
+
+that
+ every
+ one
+ of
+ those
+ runner.runs
+
+
+basically
+ has
+ a
+ loop
+ that
+ is
+ constantly
+
+
+going
+ back
+ to
+ the
+ LLM.
+ And
+ after
+ the
+ LLM
+
+
+call,
+ it
+ decides
+ to
+ do
+ things.
+ And
+ if
+
+
+the
+ LLM,
+ for
+ example,
+ has
+ said,
+ I
+ want
+
+
+you
+ to
+ invoke
+ some
+ tools,
+ it
+ will
+ go
+
+
+ahead
+ and
+ invoke
+ those
+ tools.
+ And
+ then
+
+
+it'll
+ take
+ the
+ output
+ from
+ the
+ tools
+ and
+
+
+route
+ it
+ back
+ to
+ the
+ LLM
+ and
+ keep
+ going.
+
+
+And
+ the
+ LLM
+ gets
+ to
+ decide
+ when
+ it's
+
+
+done
+ following
+ the
+ system
+ instructions
+
+
+and
+ we'll
+ see
+ that.
+ Okay.
+ So
+ that
+ is
+ the
+
+
+basic
+ um
+ you
+ know
+ agent
+ framework
+
+
+overview
+ and
+ there's
+ lots
+ of
+ a
+ agent
+
+
+frameworks
+ out
+ there.
+ Okay.
+ Since
+ very
+
+
+few
+ of
+ you
+ know
+ know
+ temporal
+ I'm
+ going
+
+
+to
+ slow
+ down
+ a
+ little
+ bit
+ here
+ and
+ tell
+
+
+you
+ more
+ about
+ temporal.
+ So,
+ Temporal
+ is
+
+
+an
+ open-source
+ project.
+ It's
+ been
+ around
+
+
+for
+ about
+ five
+ or
+ six
+ years.
+ So,
+ yes,
+ it
+
+
+well
+ predates
+ the
+ Gen
+ AI
+ boom
+ that
+ we're
+
+
+in.
+ It's
+ designed
+ for
+ distributed
+
+
+systems
+ and
+ what
+ are
+ AI
+ applications
+ if
+
+
+not
+ distributed
+ systems?
+ So,
+ it
+ turns
+
+
+out
+ that
+ temporal
+ is
+ beautifully
+ suited
+
+
+for
+ these
+ this
+ category
+ of
+ AI
+ of
+ use
+
+
+cases.
+ Now,
+ it's
+ used
+ in
+ a
+ lot
+ of
+ nonAI
+
+
+use
+ cases.
+ So,
+ for
+ example,
+ every
+ snap
+
+
+Snapchat
+ goes
+ through
+ Temporal.
+ Every
+
+
+Airbnb
+ booking
+ goes
+ through
+ Temporal.
+
+
+Pizza
+ Hut,
+ Taco
+ Bell
+ orders
+ go
+ through
+
+
+Temporal.
+ Um,
+ there's
+ lots
+ of
+ other
+ ones
+
+
+that
+ I'm
+ not
+ remembering.
+ OpenAI
+ Codeex
+
+
+runs
+ on
+ Temporal.
+ So,
+ now
+ we
+ start
+
+
+moving
+ into
+ the
+ AI
+ use
+ cases.
+ Codeex
+
+
+runs
+ on
+ Temporal.
+ OpenAI's
+ image
+ gen
+
+
+runs
+ on
+ temporal.
+ Those
+ are
+ the
+ two
+ I
+
+
+can
+ tell
+ you
+ about.
+ Those
+ are
+ the
+ two
+
+
+that
+ are
+ publicly
+ known.
+ Um,
+ so
+ we've
+
+
+got
+ lots
+ of
+ others
+ out
+ there,
+ lovable
+
+
+runs
+ on
+ on
+ temporal.
+ So
+ we're
+ definitely
+
+
+making,
+ you
+ know,
+ inroads,
+ lots
+ lots
+ of
+
+
+use
+ in
+ the
+ AI
+ space.
+ So
+ I've
+ told
+ you
+
+
+who's
+ using
+ it,
+ but
+ let
+ me
+ tell
+ you
+ what
+
+
+it
+ is.
+ What
+ it
+ is
+ is
+ distributed
+ systems
+
+
+as
+ a
+ backing
+ service.
+ So
+ I
+ think
+
+
+everybody's
+ familiar
+ with
+ the
+ notion
+ of
+
+
+Reddus
+ as
+ a
+ backing
+ service
+ or
+ Kafka
+ as
+
+
+a
+ backing
+ service
+ or
+ a
+ database
+ as
+ a
+
+
+backing
+ service.
+ So
+ I've
+ got
+ my
+
+
+applications
+ that
+ are
+ running
+ and
+ I
+ use
+
+
+these
+ back-end
+ services
+ to
+ serve,
+ you
+
+
+know,
+ to
+ play
+ a
+ part
+ of
+ my
+ application.
+
+
+Temporal
+ is
+ a
+ backing
+ service.
+ What
+ it
+
+
+delivers
+ is
+ distributed
+ systems
+
+
+durability.
+
+
+And
+ I'll
+ make
+ that
+ clearer
+ as
+ we
+ go
+
+
+through
+ the
+ presentation.
+ What
+ that
+
+
+means
+ is
+ that
+ you
+ as
+ the
+ developer
+ get
+
+
+to
+ program
+ the
+ happy
+ path.
+ You
+ get
+ to
+
+
+program
+ your
+ business
+ logic.
+ And
+ the
+
+
+business
+ logic
+ that
+ we're
+ going
+ to
+
+
+program
+ today
+ are
+ AI
+ agents.
+ So
+ you
+ get
+
+
+to
+ say,
+ you
+ know
+ what,
+ what
+ I
+ want
+ to
+ do
+
+
+is
+ I
+ want
+ to
+ call
+ an
+ LLM.
+ Then
+ I
+ want
+ to
+
+
+take
+ the
+ output
+ from
+ the
+ LLM
+ and
+ I
+ might
+
+
+want
+ to
+ invoke
+ some
+ other
+ APIs
+ and
+ then
+
+
+I
+ want
+ to
+ loop
+ back
+ to
+ the
+ LLM.
+ And
+ you
+
+
+don't
+ have
+ to
+ build
+ the
+ logic
+ in
+ there
+
+
+that
+ says
+ what
+ happens
+ if
+ the
+ LLM
+ is
+
+
+rate
+ limited.
+ What
+ happens
+ if
+ my
+
+
+downstream
+ API
+ is
+ down
+ for
+ a
+ moment?
+
+
+What
+ happens
+ if
+ my
+ application
+ crash
+
+
+crashes?
+ You
+ don't
+ have
+ to
+ program
+ any
+
+
+of
+ that.
+ We
+ do
+ it
+ for
+ you.
+ And
+ I'll
+ show
+
+
+you
+ a
+ few
+ pictures
+ on
+ how
+ this
+ works
+ in
+
+
+just
+ a
+ moment.
+
+
+So
+ there's
+ a
+ a
+ temporal
+ service
+ that
+ is
+
+
+the
+ backing
+ service.
+ And
+ the
+ way
+ that
+
+
+you
+ connect
+ to
+ the
+ backing
+ service
+ is
+
+
+through
+ an
+ SDK.
+ And
+ so
+ the
+ SDK
+ sits
+
+
+alongside
+ your
+ business
+ logic.
+ So
+ you
+
+
+get
+ to
+ program
+ your
+ business
+ logic.
+ And
+
+
+the
+ way
+ that
+ you
+ craft
+ your
+ business
+
+
+logic,
+ you
+ put
+ wrappers
+ around
+ certain
+
+
+functions.
+ And
+ that
+ allows
+ the
+ SDK
+ to
+
+
+say,
+ "Oh,
+ hang
+ on.
+ You're
+ making
+ a
+ a
+
+
+downstream
+ API
+ call.
+ I'm
+ going
+ to
+ step
+
+
+in
+ and
+ I'm
+ going
+ to
+ provide
+ you
+ some
+
+
+service.
+ So
+ I'm
+ going
+ to
+ provide
+ you
+
+
+retries.
+ If
+ that
+ downstream
+ service
+ uh
+
+
+succeeds,
+ I'm
+ going
+ to
+ record
+ that
+ for
+
+
+you.
+ I'm
+ going
+ to
+ record
+ the
+ answer
+ for
+
+
+you
+ so
+ that
+ in
+ in
+ the
+ event
+ that
+
+
+something
+ happens
+ and
+ we
+ need
+ to
+ go
+
+
+through
+ the
+ flow
+ again,
+ I
+ can
+ just
+ get
+
+
+the
+ the
+ result
+ that
+ you
+ called
+ before.
+
+
+What
+ that
+ means
+ is,
+ for
+ example,
+ if
+ you
+
+
+have
+ used
+ temporal
+ to
+ lend
+ durability
+ to
+
+
+your
+ agents,
+ when
+ you're
+ on
+ the
+ 1,350
+
+
+second
+ turn
+ to
+ the
+ LLM
+ and
+ your
+
+
+application
+ crashes,
+ no
+ sweat.
+ We
+ have
+
+
+kept
+ track
+ of
+ every
+ single
+ LLM
+ call
+ and
+
+
+return
+ and
+ you
+ will
+ not
+ be
+ reburning
+
+
+those
+ tokens.
+ That's
+ what
+ it
+ means.
+
+
+That's
+ what
+ durability
+ means
+ in
+ this
+
+
+space.
+ We
+ support
+ um
+ we
+ formally
+ support
+
+
+seven
+ different
+ programming
+ languages,
+
+
+but
+ Apple
+ just
+ a
+ couple
+ of
+ weeks
+ ago
+ um
+
+
+released
+ a
+ Swift
+ SDK
+ as
+ well.
+ So
+ there's
+
+
+support
+ in
+ just
+ about
+ any
+ language.
+
+
+There's
+ also
+ experimental
+ stuff
+ out
+
+
+there
+ in
+ Closure,
+ those
+ types
+ of
+ things.
+
+
+I
+ said
+ it's
+ an
+ open-
+ source
+ project.
+ The
+
+
+vast
+ majority
+ of
+ it
+ is
+ MIT
+ licensed.
+ Um
+
+
+there's
+ a
+ little
+ bit
+ of
+ Apache
+ 2
+ left
+
+
+over
+ from
+ in
+ the
+ Java
+ SDK.
+ So
+ very
+ very
+
+
+permissive
+ licenses
+ and
+ um
+ those
+ of
+ you
+
+
+who
+ don't
+ know
+ the
+ history
+ uh
+ temporal
+
+
+was
+ a
+ fork
+ of
+ a
+ project
+ that
+ was
+ created
+
+
+out
+ of
+ Uber
+ called
+ Cadence.
+ Anybody
+ know
+
+
+Cadence?
+ Yeah.
+ Okay.
+ So
+ a
+ few
+ people
+
+
+know
+ Cadence.
+ So
+ Cadence
+ pretty
+ much
+
+
+every
+ application
+ running
+ at
+ Uber
+ runs
+
+
+on
+ Cadence
+ and
+ it's
+ because
+ they
+ can
+
+
+program
+ the
+ happy
+ path
+ and
+ all
+ the
+
+
+durability
+ is
+ just
+ taken
+ care
+ of
+ for
+
+
+you.
+ So
+ that's
+ kind
+ of
+ the
+ overview
+ of
+
+
+what
+ temporal
+ is.
+ So
+ there's
+ really
+ kind
+
+
+of
+ I'm
+ going
+ to
+ talk
+ about
+ two
+
+
+foundational
+ abstractions.
+ There's
+ a
+
+
+handful
+ of
+ others
+ as
+ well,
+ but
+ the
+ two
+
+
+foundational
+ abstractions
+ that
+ you
+ need
+
+
+to
+ know
+ about
+ as
+ a
+ developer
+ is
+ you
+ need
+
+
+to
+ know
+ about
+ an
+ activity.
+ And
+ an
+
+
+activity
+ is
+ just
+ a
+ chunk
+ of
+ work.
+ This
+
+
+is
+ work
+ that
+ either
+ is
+ going
+ to
+ make
+
+
+external
+ calls.
+ So
+ it's
+ work
+ that
+ might
+
+
+fail.
+ It's
+ like
+ a
+ lot
+ of
+ work
+ that
+ might
+
+
+fail.
+ or
+ if
+ you
+ are
+ doing
+ a
+ lot
+ of
+ work
+
+
+that
+ you
+ don't
+ want
+ to
+ have
+ to
+ redo
+ in
+
+
+the
+ event
+ that
+ something
+ goes
+ wrong,
+ you
+
+
+might
+ want
+ to
+ put
+ that
+ in
+ an
+ activity
+ as
+
+
+well.
+ So,
+ it's
+ things
+ like
+ withdrawing
+
+
+from
+ an
+ account,
+ depositing
+ into
+ an
+
+
+account.
+ We'll
+ get
+ to
+ the
+ AI
+ use
+ cases
+
+
+in
+ just
+ a
+ moment.
+ So,
+ those
+ are
+
+
+activities
+ you
+ wrap
+ that
+ Oh,
+ and
+ I
+
+
+didn't
+ mention
+ it,
+ but
+ the
+ SDKs
+ are
+ not
+
+
+just
+ thin
+ wrappers
+ that
+ are
+ sitting
+ on
+
+
+top
+ of
+ a
+ REST
+ API.
+ These
+ are
+ SDKs
+ where
+
+
+as
+ you
+ can
+ imagine
+ be
+ let
+ uh
+ delivering
+
+
+durability
+ across
+ distributed
+ systems
+
+
+means
+ that
+ all
+ of
+ those
+ algorithms
+ that
+
+
+you
+ thought
+ that
+ you
+ had
+ to
+ implement
+
+
+like
+ worry
+ about
+ concurrency
+ and
+ and
+ and
+
+
+um
+ uh
+ quorum
+ and
+ all
+ of
+ that
+ stuff
+
+
+that's
+ all
+ implemented
+ in
+ temporal
+ and
+
+
+so
+ our
+ SDKs
+ have
+ a
+ lot
+ of
+ that
+ logic
+ is
+
+
+in
+ the
+ SDK.
+ The
+ service
+ is
+ mostly
+
+
+persistence
+ for
+ that.
+ So
+ there's
+ a
+ lot
+
+
+of
+ intelligence
+ in
+ the
+ SDK.
+
+
+So
+ these
+ activities,
+ if
+ you've
+ said,
+
+
+look,
+ here's
+ my
+ work.
+ Here's
+ a
+ heavyduty
+
+
+piece
+ of
+ work
+ or
+ something
+ that's
+ going
+
+
+external.
+ Let's
+ put
+ an
+ activity
+
+
+decorator
+ on
+ that.
+ Then
+ the
+ SDK
+ says,
+
+
+oh,
+ okay,
+ I'm
+ going
+ to
+ give
+ you
+ some
+
+
+special
+ behavior.
+ Then
+ you
+ orchestrate
+
+
+those
+ activities
+ together
+ into
+ your
+
+
+business
+ logic.
+ And
+ what
+ we
+ call
+ those
+
+
+orchestrations
+ is
+ workflows.
+
+
+Okay?
+ So,
+ and
+ you'll
+ see
+ that
+ what
+
+
+happens
+ when
+ you
+ put
+ activities
+ and
+
+
+workflows
+ together,
+ that's
+ where
+ the
+
+
+magic
+ really
+ happens.
+ There
+ is
+ some
+
+
+level
+ of
+ magic
+ in
+ the
+ activities
+ and
+ in
+
+
+fact,
+ we're
+ just
+ starting
+ to
+ release
+
+
+what
+ we
+ call
+ standalone
+ activities.
+ So,
+
+
+you'll
+ be
+ able
+ to
+ use
+ activities
+ without
+
+
+workflows
+ and
+ get
+ some
+ of
+ those
+
+
+durability
+ benefits
+ there
+ as
+ well.
+ So,
+
+
+there's
+ all
+ sorts
+ of
+ evolution
+ that's
+
+
+happening.
+ But
+ the
+ type
+ of
+ magic
+ that
+
+
+I'm
+ talking
+ about
+ when
+ you
+ um
+ bring
+
+
+workflows
+ and
+ activities
+ together
+ is
+
+
+that
+ I
+ overlaid
+
+
+um
+ a
+ bunch
+ of
+ icons
+ on
+ here.
+ So
+ I
+
+
+overlaid
+ these
+ little
+ retry
+ icons.
+ So
+
+
+what
+ you
+ do
+ is
+ you
+ specify
+ in
+ your
+
+
+workflow
+ logic
+ you
+ specify
+ the
+ um
+ retry
+
+
+uh
+ configuration.
+ So
+ you
+ can
+ decide
+ are
+
+
+you
+ going
+ to
+ do
+ exponential
+ backoffs?
+
+
+Are
+ you
+ going
+ to
+ do
+ unlimited
+ retries?
+
+
+Are
+ you
+ going
+ to
+ top
+ out
+ at
+ five
+
+
+retries?
+ Are
+ you
+ going
+ to
+ have
+ a
+ maximum
+
+
+window
+ between
+ retries?
+ You
+ get
+ to
+
+
+configure
+ all
+ of
+ that.
+ And
+ as
+ soon
+ as
+
+
+you
+ do
+ that
+ and
+ you
+ orchestrate
+ these
+
+
+things
+ together,
+ now
+ you
+ get
+ retries.
+
+
+And
+ you'll
+ see
+ the
+ code
+ in
+ just
+ a
+ minute
+
+
+simply
+ by
+ calling
+ these
+ activities.
+ I
+
+
+don't
+ have
+ to
+ implement
+ the
+ retry
+ logic.
+
+
+I
+ don't
+ have
+ to
+ implement
+ any
+ of
+ this
+
+
+other
+ logic.
+ It
+ just
+ happens
+ for
+ me.
+ So
+
+
+I
+ get
+ retries.
+ I
+ also
+ get
+ these
+ little
+
+
+cues.
+ So
+ what
+ looks
+ to
+ you
+ like
+ a
+ single
+
+
+process
+ application
+ I'm
+ calling
+ this
+
+
+then
+ I'm
+ calling
+ this
+ and
+ I'm
+ calling
+
+
+this
+ every
+ single
+ time
+ you
+ call
+ into
+ an
+
+
+activity
+ every
+ time
+ you
+ come
+ back
+ from
+
+
+an
+ activity
+ to
+ the
+ main
+ workflow
+ all
+ of
+
+
+that
+ is
+ facilitated
+ over
+ cues
+ so
+ that
+
+
+what
+ looks
+ like
+ just
+ a
+ single
+ monolithic
+
+
+application
+ is
+ already
+ turns
+ into
+ a
+
+
+distributed
+ system.
+ So
+ you
+ can
+ go
+ and
+
+
+deploy
+ a
+ whole
+ bunch
+ of
+ instances
+ of
+
+
+those
+ and
+ you
+ can
+ basically
+ scale
+ by
+
+
+just
+ deploying
+ more
+ instances
+ of
+ it.
+ You
+
+
+don't
+ have
+ to
+ manage
+ and
+ I
+ you
+ don't
+
+
+have
+ to
+ manage
+ Kafka
+ cues
+ any
+ of
+ that
+
+
+stuff.
+ It's
+ all
+ built
+ in.
+ I
+ spoke
+ with
+
+
+somebody
+ this
+ week
+ here
+ at
+ AI
+ Engineers
+
+
+um
+ who's
+ who's
+ a
+ an
+ open
+ source
+ user
+
+
+actually
+ a
+ customer
+ of
+ ours
+ and
+ I
+ asked
+
+
+him
+ it's
+ a
+ relatively
+ small
+ startup
+ and
+
+
+I
+ said
+ you
+ know
+ why
+ did
+ you
+ pick
+
+
+temporal
+ and
+ he
+ said
+ because
+ we
+ tried
+ to
+
+
+build
+ all
+ of
+ this
+ with
+ Kafka
+ cues
+ and
+ we
+
+
+ended
+ up
+ spending
+ all
+ of
+ our
+ time
+ doing
+
+
+operations
+ on
+ Kafka
+ and
+ spending
+ 25%
+ of
+
+
+our
+ time
+ on
+ the
+ business
+ logic
+ when
+ we
+
+
+switched
+ over
+ to
+ temporal
+ we're
+ spending
+
+
+75%
+ of
+ our
+ time
+ on
+ business
+ logic
+ and
+
+
+they're
+ using
+ temporal
+ cloud.
+ I
+ didn't
+
+
+mention
+ our
+ business
+ model
+ is
+ that
+ we
+
+
+have
+ it
+ that
+ that
+ that
+ service
+ we
+ offer
+
+
+that
+ as
+ SAS.
+ So
+ they're
+ using
+ temporal
+
+
+cloud.
+ So
+ they
+ basically
+ shifted
+ from
+
+
+2575
+
+
+to
+ 7525
+ by
+ moving
+ over
+ here.
+ No
+ longer
+
+
+have
+ to
+ manage
+ Kafka
+ cues
+ or
+ red
+ reddus
+
+
+or
+ anything
+ like
+ that.
+ And
+ speaking
+ of
+
+
+Reddus,
+ you
+ see
+ in
+ the
+ upper
+ right
+ hand
+
+
+corner
+ you
+ see
+ state
+ management.
+ And
+ so
+
+
+one
+ of
+ the
+ things
+ that
+ we
+ do
+ as
+ well
+ is
+
+
+we
+ keep
+ track
+ of
+ where
+ you
+ are
+ in
+ the
+ e
+
+
+execution
+ of
+ your
+ application.
+ We
+ do
+
+
+that
+ by
+ recording
+ the
+ state.
+ Again,
+
+
+every
+ time
+ you're
+ making
+ calls
+ to
+ an
+
+
+activity
+ and
+ coming
+ back,
+ we
+ record
+
+
+that.
+ It's
+ basically
+ event
+ sourcing.
+
+
+That's
+ what
+ we're
+ doing.
+ It's
+ not
+ only
+
+
+event-
+ driven
+ architectures,
+ but
+ we're
+
+
+doing
+ event
+ sourcing
+ as
+ a
+ service.
+ So
+
+
+you
+ you
+ get
+ to
+ do
+ that.
+ So,
+ we
+ store
+ all
+
+
+of
+ that
+ state
+ so
+ that
+ if
+ something
+ goes
+
+
+wrong,
+ and
+ I'm
+ going
+ to
+ demo
+ that,
+ we're
+
+
+going
+ to
+ see
+ things
+ going
+ wrong,
+ um,
+ it
+
+
+will
+ pick
+ up
+ where
+ it
+ left
+ off
+ because
+
+
+we
+ will
+ just
+ run
+ run
+ through
+ the
+ event
+
+
+history
+ and
+ pick
+ up
+ where
+ we
+ left
+ off.
+
+
+So,
+ those
+ little
+ icons
+ that
+ I
+ showed
+
+
+overlaid
+ on
+ the
+ logical
+ diagram,
+ I'll
+
+
+get
+ to
+ your
+ question
+ one
+ second.
+
+
+Actually,
+ all
+ of
+ those
+ services
+ live
+ up
+
+
+here
+ in
+ the
+ service.
+ So,
+ they're
+ all
+
+
+durable.
+ So
+ it's
+ not
+ that
+ they're
+ living
+
+
+in
+ the
+ process,
+ but
+ they're
+ living
+ here
+
+
+in
+ the
+ service.
+ You
+ have
+ a
+ question?
+
+
+>> Not
+ sure
+ it's
+ relevant.
+ So
+ a
+ lot
+ of
+ the
+
+
+agents
+ I
+ have,
+ they
+ handle
+ streaming
+
+
+data.
+
+
+So
+ I
+ wanted
+ to
+ see
+ if
+ help
+ with
+ that.
+
+
+>> Oh,
+ great
+ question.
+ So
+ yeah,
+ so
+ the
+
+
+question
+ was
+ a
+ lot
+ of
+ the
+ agents
+ that
+
+
+I'm
+ building
+ are
+ doing
+ streaming.
+ Do
+ you
+
+
+do
+ streaming?
+ And
+ the
+ answer
+ right
+ now
+
+
+is
+ a
+ very
+ simple
+ no,
+ we
+ don't.
+ But
+ it
+ is
+
+
+one
+ of
+ the
+ things.
+ and
+ my
+ colleague
+ at
+
+
+the
+ back,
+ Johan,
+ um
+ is
+ uh
+ head
+ of
+ AI
+
+
+engineering.
+ Um
+ so
+ chat
+ with
+ him,
+ chat
+
+
+with
+ either
+ of
+ us.
+ It
+ is
+ one
+ of
+ the
+ two
+
+
+top
+ priority
+ things
+ that
+ we're
+ working
+
+
+on
+ right
+ now.
+ Um
+ the
+ other
+ one
+ is
+ large
+
+
+payload
+ storage.
+ If
+ I
+ don't
+ have
+ a
+
+
+chance
+ to
+ to
+ talk
+ about
+ it
+ here
+ during
+
+
+the
+ workshop,
+ come
+ find
+ one
+ of
+ us.
+ We
+
+
+can
+ tell
+ you
+ about
+ that.
+ You
+ can
+ imagine
+
+
+what
+ large
+ payload
+ storage
+ is.
+ is
+ that
+
+
+you're
+ doing
+ LLMs,
+ you're
+ gonna
+ you're
+
+
+gonna
+ passing
+ big
+ stuff
+ around.
+ Instead
+
+
+of
+ passing
+ it
+ around
+ by
+ value,
+ pass
+ it
+
+
+by
+ reference.
+ That's
+ what
+ large
+ payload
+
+
+storage
+ is.
+ That's
+ Johan.
+
+
+>> I'll
+ just
+ mention
+ there
+ are
+ a
+ bunch
+ of
+
+
+people
+ using
+ workarounds.
+
+
+>> True.
+
+
+>> Screening
+ in
+ production
+ today
+ at
+ scale.
+
+
+So
+ happy
+ to
+ talk
+ about
+ that,
+ but
+ there's
+
+
+going
+ to
+ be
+ more
+ integrated
+ solution
+
+
+coming.
+
+
+>> Yeah.
+ So
+ I
+ ju
+ I'm
+ just
+ going
+ to
+ repeat
+
+
+what
+ Johan
+ said
+ in
+ case
+ you
+ you
+ couldn't
+
+
+hear
+ it.
+ So
+ we
+ do
+ have
+ customers
+ that
+
+
+have
+ built
+ streaming
+ support
+ on
+ top
+ of
+
+
+temporal,
+ but
+ what
+ we're
+ doing
+ is
+
+
+building
+ it
+ in
+ natively.
+ So,
+ yep.
+ So,
+
+
+you
+ can
+ do
+ it
+ today.
+ It's
+ just
+ a
+ little
+
+
+bit
+ more
+ work.
+ It's
+ not
+ the
+ happy
+ path.
+
+
+So,
+ okay.
+ Um,
+ so
+ with
+ that,
+ uh,
+ I
+ want
+
+
+to
+ give
+ you
+ a
+ demo.
+ So,
+ this
+ is
+ going
+ to
+
+
+be
+ my
+ first
+ demo
+ that
+ I
+ move
+ over
+ here.
+
+
+Let's
+ see
+ if
+ I
+ can
+ get
+ my
+ screen
+ back.
+
+
+Okay.
+ So,
+ if
+ you
+ want
+ to
+ follow
+ along,
+
+
+the
+ first
+ thing
+ I'm
+ going
+ to
+ do
+ is
+ I'm
+
+
+going
+ to
+ come
+ over
+ here
+ and
+ I
+ am
+ going
+
+
+to
+ let
+ me
+ increase
+ the
+ font
+ size.
+ Um,
+ so
+
+
+I'm
+ going
+ to
+ point
+ you
+ to
+ two
+
+
+repositories.
+ This
+ is
+ actually
+ the
+
+
+second
+ repository,
+ but
+ what
+ I
+ have
+ up
+ on
+
+
+the
+ screen
+ right
+ now
+ is
+ that
+ if
+ you
+ want
+
+
+to
+ get
+ started
+ with
+ temporal,
+ super
+
+
+simple,
+ you
+ don't
+ have
+ to
+ use
+ temporal
+
+
+cloud.
+ You
+ can
+ just
+ run
+ a
+ temporal
+
+
+service.
+ So,
+ the
+ backing
+ service,
+ you
+
+
+can
+ just
+ run
+ it
+ locally
+ on
+ your
+ machine.
+
+
+So
+ you
+ can
+ do
+ it
+ by
+ curling
+ this.
+ You
+
+
+can
+ homebrew
+ install
+ it
+ as
+ well.
+ Um
+ and
+
+
+then
+ to
+ run
+ that
+ local
+ server,
+ you
+ can
+
+
+just
+ say
+ temporal
+ server
+ start
+ dev.
+ And
+
+
+now
+ you've
+ got
+ a
+ temporal
+ service
+ that's
+
+
+running
+ locally.
+ And
+ all
+ of
+ my
+ um
+
+
+applications
+ here
+ are
+ just
+ connecting
+ to
+
+
+my
+ local
+ host.
+ Um
+ and
+ we
+ we'll
+ see
+ the
+
+
+UI
+ in
+ just
+ a
+ moment.
+ Um
+ I'll
+ come
+ back
+
+
+to
+ this
+ uh
+ repository
+ in
+ just
+ a
+ moment.
+
+
+The
+ repo
+ that
+ I'm
+ going
+ to
+ demo
+ for
+ you
+
+
+is
+ this
+ one.
+ And
+ um
+ sorry
+ I
+ don't
+ know
+
+
+how
+ to
+ uh
+ increase
+ the
+ font
+ size
+ but
+ you
+
+
+can
+ see
+ that
+ the
+ org
+ and
+ the
+ repository
+
+
+here
+ is
+ the
+ org
+ is
+ temporal
+ io.
+ That's
+
+
+also
+ where
+ you'll
+ find
+ all
+ of
+ the
+ open
+
+
+source
+ for
+ temporal.
+ Um
+ and
+ then
+ we
+ have
+
+
+something
+ called
+ the
+ AI
+ cookbook
+ and
+
+
+that's
+ one
+ of
+ the
+ examples.
+ I
+ I
+ I
+
+
+actually
+ extended
+ the
+ example
+ just
+ this
+
+
+morning,
+ but
+ um
+ and
+ you're
+ going
+ to
+ find
+
+
+that
+ um
+ in
+ the
+ the
+ branch
+ that
+ we're
+
+
+going
+ to
+ demo
+ here
+ today
+ is
+ called
+ the
+
+
+agentic
+ loop
+ de
+ branch.
+ So
+ if
+ you
+ want
+
+
+to,
+ you
+ know,
+ go
+ back
+ and
+ take
+ a
+ look
+ at
+
+
+this
+ later
+ on
+ um
+ yourself,
+ that's
+ what
+
+
+we're
+ going
+ to
+ be
+ looking
+ at.
+ Okay.
+ So
+
+
+with
+ that,
+ let
+ me
+ get
+ to
+ my
+ right
+
+
+terminal.
+
+
+And
+ um
+ so
+ this
+ is
+ where
+ I'm
+ going
+ to
+ run
+
+
+it,
+ but
+ I
+ want
+ to
+ show
+ you
+ the
+ code
+
+
+first.
+
+
+Okay.
+ So
+ am
+ I
+ in
+ the
+ right
+ uh
+
+
+one?
+ OpenAI.
+ Nope.
+ This
+ is
+ the
+ wrong
+
+
+one.
+ My
+ other
+ cursor.
+ Here
+ we
+ go.
+ So
+
+
+this
+ is
+ the
+ agentic
+ loop.
+ So
+ I'm
+ doing
+
+
+two
+ demos
+ throughout
+ today.
+
+
+And
+ so
+ what
+ you
+ see
+ here
+ on
+ the
+ left
+
+
+hand
+ side,
+ let
+ me
+ make
+ it
+ just
+ one
+ tick
+
+
+bigger
+ is
+ that
+ remember
+ that
+ I
+ talked
+
+
+about
+ activities
+ and
+ I
+ talked
+ about
+
+
+workflows.
+ So
+ that's
+ the
+ first
+ thing
+ I'm
+
+
+going
+ to
+ do
+ is
+ I'm
+ going
+ to
+ show
+ you
+ the
+
+
+activities.
+ Remember
+ we
+ had
+ withdraw
+ and
+
+
+and
+ and
+ uh
+ and
+ deposit,
+ you
+ know,
+ that
+
+
+type
+ of
+ thing.
+ Here,
+ of
+ course,
+ what
+
+
+we're
+ doing
+ is
+ an
+ agentic
+ loop.
+ So
+ my
+
+
+activities
+ are
+ going
+ to
+ be
+ um
+ call
+ the
+
+
+OpenAI
+ API,
+ not
+ the
+ agents
+ SDK
+ yet,
+ just
+
+
+the
+ OpenAI
+ a
+ um
+ API
+ and
+ invoke
+ some
+
+
+tools.
+ So
+ these
+ are
+ my
+ two
+ activities.
+
+
+So
+ let's
+ look
+ at
+ the
+ first
+ one
+ and
+
+
+you'll
+ see
+ how
+ simple
+ it
+ is.
+ I
+ promised
+
+
+you
+ the
+ happy
+ path.
+ It
+ really
+ is
+ that.
+
+
+So
+ here
+ is
+ my
+ call
+ to
+ the
+ OpenAI
+
+
+responses
+ API.
+ Okay,
+ it
+ is
+ exactly
+ what
+
+
+you
+ would
+ expect.
+ I'm
+ passing
+ in
+ the
+
+
+model.
+ I'm
+ passing
+ in
+ some
+ instructions.
+
+
+Um,
+ the
+ user
+ input
+ is
+ going
+ to
+ come
+ in
+
+
+my
+ tools,
+ which
+ I'll
+ show
+ you
+ in
+ just
+ a
+
+
+moment.
+ And
+ then
+ I've
+ got
+ some
+ timeouts
+
+
+that
+ I
+ can
+ configure
+ there.
+ That's
+ for
+
+
+the
+ OpenAI.
+
+
+What
+ I've
+ done
+ is
+ I've
+ wrapped
+ that
+ in
+ a
+
+
+function.
+ It
+ takes
+ in
+ that
+ request.
+ So,
+
+
+all
+ of
+ those
+ parameters
+ came
+ from
+ a
+
+
+request
+ that
+ I'm
+ passing
+ in.
+ And
+ you'll
+
+
+see
+ how
+ I
+ invoke
+ this
+ in
+ just
+ a
+ moment.
+
+
+And
+ here
+ is
+ that
+ annotation.
+ Now
+ the
+
+
+different
+ SDKs
+ have
+ different
+
+
+approaches.
+ TypeScript
+ for
+ example
+
+
+doesn't
+ require
+ a
+ bunch
+ of
+ annotations.
+
+
+It
+ just
+ figures
+ it
+ out.
+ It
+ knows
+ where
+
+
+the
+ activities
+ are.
+ Java
+ has
+ um
+
+
+annotations.
+ Those
+ types
+ of
+ things.
+ But
+
+
+this
+ is
+ Python.
+ So
+ you
+ can
+ see
+ here
+ that
+
+
+we
+ just
+ have
+ an
+ activity
+ decorator.
+ So
+
+
+by
+ just
+ having
+ that
+ decorator,
+ so
+ you
+
+
+can
+ see
+ it's
+ not
+ complicated
+ at
+ all.
+ All
+
+
+you
+ need
+ to
+ do
+ as
+ a
+ developer
+ is
+ say,
+
+
+"Here's
+ a
+ a
+ bunch
+ of
+ work
+ that
+ I
+ want
+ to
+
+
+do
+ that
+ I
+ want
+ to
+ kind
+ of
+ encapsulate
+
+
+into
+ a
+ step."
+ And
+ you
+ just
+ put
+ an
+ you
+
+
+put
+ it
+ in
+ a
+ function.
+ You
+ put
+ an
+
+
+activity
+ decorator
+ on
+ that.
+
+
+So,
+ I'll
+ come
+ back
+ to
+ the
+ tool
+ invoker
+
+
+in
+ just
+ a
+ minute
+ because
+ there's
+
+
+something
+ interesting
+ that's
+ going
+ on
+
+
+here.
+ So,
+ now
+ if
+ we
+ go
+ to
+ the
+ workflow,
+
+
+the
+ workflow
+ is
+ also
+ pretty
+ darn
+
+
+straightforward.
+ So
+ what
+ I
+ have
+ here
+ is
+
+
+I
+ have
+ my
+ workflow
+ definition.
+ You
+ can
+
+
+see
+ it's
+ a
+ class.
+ The
+ reason
+ it's
+ a
+
+
+class
+ is
+ because
+ there
+ when
+ you
+ create
+ a
+
+
+workflow
+ you
+ create
+ the
+ application
+ main
+
+
+what
+ I
+ call
+ the
+ application
+ main
+ and
+
+
+that's
+ what
+ has
+ the
+ workflow.run
+ on
+ it.
+
+
+But
+ this
+ workflow
+ also
+ I'm
+ not
+ going
+ to
+
+
+cover
+ these
+ abstractions
+ today
+ but
+ we
+
+
+have
+ a
+ handful
+ of
+ other
+ abstractions
+
+
+like
+ signals.
+
+
+So
+ for
+ a
+ running
+ workflow,
+ you
+ can
+
+
+signal
+ into
+ it
+ and
+ we
+ also
+ have
+ an
+
+
+abstraction
+ called
+ an
+ update.
+ It's
+ a
+
+
+special
+ kind
+ of
+ a
+ signal.
+ And
+ we
+ also
+
+
+have
+ the
+ analog
+ which
+ is
+ queries.
+
+
+So
+ those
+ things
+ are
+ added
+ to
+ this
+
+
+workflow
+ class
+ as
+ just
+ functions
+ that
+
+
+are
+ annotated
+ with
+ signal
+ update
+ or
+
+
+query.
+ So
+ that's
+ why
+ we've
+ got
+ a
+ class
+
+
+for
+ the
+ the
+ the
+ workflow.
+ And
+ if
+ we
+ take
+
+
+a
+ look
+ at
+ what
+ the
+ logic
+ is
+ in
+ here,
+ you
+
+
+can
+ see
+ that
+ I
+ have
+ a
+ while
+ true.
+ So
+
+
+this
+ simple
+ application
+ is
+ just
+ that
+
+
+same
+ picture
+ that
+ I
+ showed
+ you
+ earlier
+
+
+where
+ I
+ said
+ the
+ LLM
+ is
+ we're
+ just
+
+
+looping
+ on
+ the
+ LLM.
+ And
+ if
+ the
+ LLM
+ makes
+
+
+the
+ decision
+ to
+ do
+ so,
+ we're
+ going
+ to
+
+
+call
+ tools.
+ That's
+ the
+ whole
+
+
+application.
+ But
+ you're
+ going
+ to
+ see
+
+
+that
+ I'm
+ doing
+ a
+ couple
+ of
+ interesting
+
+
+things
+ with
+ temporal
+ here.
+ So
+ in
+ order
+
+
+to
+ invoke
+ the
+ LLM,
+ I
+ execute
+ that
+
+
+activity.
+ So
+ you
+ can
+ see
+ that
+ I'm
+
+
+passing
+ in
+ my
+ model.
+ Um
+ the
+ instructions
+
+
+here,
+ I
+ I
+ won't
+ show
+ it
+ to
+ you,
+ but
+ you
+
+
+can
+ see
+ it
+ all
+ in
+ the
+ repository.
+ The
+
+
+helpful
+ agent
+ system
+ instruction
+
+
+basically
+ just
+ says
+ you're
+ a
+ helpful
+
+
+agent.
+ If
+ if
+ you
+ if
+ the
+ user
+ says
+
+
+something
+ and
+ you
+ think
+ you
+ should
+ be
+
+
+using
+ a
+ tool,
+ let
+ me
+ know.
+ You
+ know,
+
+
+choose
+ a
+ tool.
+ Otherwise,
+ respond
+ in
+
+
+haikus.
+ You'll
+ see
+ that
+ in
+ just
+ a
+
+
+moment.
+ Like
+ haikus
+ are
+ like
+ the
+ fooar
+
+
+of
+ the
+ AI
+ world,
+ right?
+ Ever
+ we're
+ all
+
+
+we're
+ all
+ going
+ to
+ write
+ agents.
+ It's
+
+
+the
+ hello
+ world
+ of
+ of
+ the
+ agentic
+ space.
+
+
+So
+ we're
+ going
+ to
+ respond
+ in
+ haikus.
+ Um
+
+
+and
+ that's
+ it.
+ So
+ we're
+ doing
+ this
+ at
+ a
+
+
+while
+ true.
+ And
+ I've
+ got
+ a
+ couple
+ of
+
+
+print
+ statements
+ there.
+ You're
+ you're
+
+
+going
+ to
+ see
+ how
+ this
+ runs
+ in
+ just
+ a
+
+
+moment.
+
+
+Simplifying
+ assumption
+ here.
+ I'm
+ making
+
+
+the
+ assumption
+ that
+ it's
+ only
+ calling
+
+
+one
+ tool
+ at
+ a
+ time.
+ So
+ I'm
+ grabbing
+ the
+
+
+output
+ of
+ that.
+ And
+ then
+ I
+ just
+ take
+ a
+
+
+look
+ at
+ it
+ and
+ say,
+ is
+ it
+ a
+ function
+
+
+call?
+ And
+ if
+ it
+ if
+ it
+ is
+ a
+ function
+
+
+call,
+ then
+ I'm
+ going
+ to
+ handle
+ that
+
+
+function
+ call.
+ I'll
+ show
+ you
+ that
+ code
+
+
+in
+ just
+ a
+ second.
+ And
+ then
+ I'm
+ going
+ to
+
+
+take
+ the
+ output
+ from
+ that
+ function
+ call
+
+
+and
+ I'm
+ going
+ to
+ add
+ it
+ to
+ the
+
+
+conversation
+ history.
+ So
+ I'm
+ not
+ doing
+
+
+any
+ fancy
+ context
+ engineering
+ here.
+ None
+
+
+of
+ that.
+ I'm
+ just
+ basically
+ tacking
+ onto
+
+
+the
+ end
+ of
+ the
+ conversation
+ history.
+
+
+Okay.
+
+
+Now,
+ handling
+ the
+ function
+ call
+ is
+
+
+really
+ straightforward
+ as
+ well.
+ So
+ the
+
+
+first
+ thing
+ that
+ I'm
+ doing
+ is
+ I'm
+ adding
+
+
+the
+ response
+ from
+ the
+ LLM.
+ So
+ there's
+
+
+we're
+ going
+ to
+ by
+ the
+ time
+ we're
+ done
+
+
+with
+ this
+ function
+ call,
+ we're
+ going
+ to
+
+
+have
+ added
+ two
+ things
+ to
+ the
+
+
+conversation
+ history.
+ We're
+ going
+ to
+
+
+have
+ added
+ the
+ response
+ from
+ the
+ LLM
+
+
+which
+ says
+ please
+ make
+ a
+ function
+ call
+
+
+and
+ then
+ we're
+ going
+ to
+ do
+ the
+ function
+
+
+call
+ and
+ then
+ we're
+ going
+ to
+ add
+ the
+
+
+result.
+ And
+ I
+ just
+ showed
+ you
+ where
+
+
+we're
+ adding
+ the
+ result
+ of
+ the
+ function
+
+
+call.
+ So
+ here,
+ this
+ is
+ just
+ me
+ adding
+
+
+that
+ to
+ the
+ um
+ and
+ this
+ is
+ some
+ of
+ the
+
+
+squirrel
+ stuff.
+ I'm
+ I
+ have
+ this
+ this
+
+
+application
+ running
+ against
+ the
+ um
+
+
+Gemini
+ API
+ as
+ well.
+ And
+ the
+ biggest
+ pain
+
+
+in
+ the
+ butt
+ in
+ all
+ of
+ this
+ stuff
+ is
+ that
+
+
+the
+ formats
+ are
+ different.
+ So
+ I
+ have
+ to
+
+
+rewrite
+ because
+ the
+ JSON
+ formats
+ of
+
+
+conversation
+ history
+ are
+ different
+
+
+between
+ the
+ different
+ models.
+ Yes,
+ I
+
+
+know
+ there's
+ um
+ light
+ LLM
+ out
+ there,
+ but
+
+
+I
+ don't
+ like
+ least
+ common
+ denominators.
+
+
+And
+ also
+ I
+ like
+ to
+ understand
+ what
+ those
+
+
+formats
+ look
+ like.
+ So
+ um
+ but
+ you
+ can
+ see
+
+
+here
+ that
+ I'm
+ just
+ doing
+ some
+ ugly
+
+
+parsing
+ and
+ then
+ I'm
+ executing
+ remember
+
+
+I'm
+ handling
+ the
+ tool
+ call
+ here.
+ I'm
+
+
+executing
+ the
+ activity
+ with
+ that
+ tool
+
+
+call.
+ So
+ I've
+ p pulled
+ the
+ tool
+ call
+ out
+
+
+of
+ the
+ response
+ from
+ the
+ um
+ LLM
+ and
+ then
+
+
+I'm
+ going
+ to
+ invoke
+ that
+ activity
+ which
+
+
+is
+ execute
+ activity
+ and
+ the
+ item
+ name
+ is
+
+
+the
+ tool.
+
+
+Now
+ one
+ of
+ the
+ things
+ that
+ I
+ was
+ really
+
+
+intent
+ on
+ here
+ is
+ that
+ I
+ didn't
+ want
+ to
+
+
+build
+ one
+ aentic
+ loop
+ application
+ that
+
+
+does
+ one
+ set
+ of
+ tools
+ and
+ then
+ have
+ to
+
+
+rebuild
+ a
+ whole
+ another
+ one
+ when
+ I
+ have
+
+
+a
+ different
+ set
+ of
+ tools.
+ the
+ agent
+
+
+itself
+ and
+ we
+ heard
+ I
+ don't
+ remember
+ who
+
+
+talked
+ about
+ this
+ but
+ somebody
+ talked
+
+
+about
+ this
+ on
+ stage
+ this
+ week
+ where
+ they
+
+
+said
+ look
+ the
+ agentic
+ pattern
+ is
+ the
+ is
+
+
+is
+ fairly
+ standard
+ and
+ what
+ we're
+ doing
+
+
+now
+ is
+ we're
+ inserting
+ things
+ into
+ this
+
+
+standardized
+ agentic
+ loop
+ and
+ that's
+
+
+exactly
+ what
+ these
+ um
+ AI
+ frameworks
+ are
+
+
+doing
+ these
+ agent
+ frameworks
+ and
+ I
+
+
+wanted
+ to
+ do
+ that
+ here
+ in
+ the
+ temporal
+
+
+code
+ as
+ well
+ the
+ cool
+ thing
+ is
+ that
+
+
+temporal
+ has
+ something
+ called
+ a
+ dynamic
+
+
+activity
+
+
+The
+ dynamic
+ activity
+ allows
+ you
+ to
+ call
+
+
+an
+ activity
+ by
+ name,
+ but
+ that
+ that
+
+
+activity
+ is
+ dynamically
+ found
+ at
+
+
+runtime.
+ So
+ the
+ activity
+ handler
+ here,
+
+
+and
+ I'm
+ going
+ to
+ show
+ you
+ the
+ code
+ in
+
+
+just
+ a
+ second,
+ is
+ basically
+ going
+ to
+
+
+take
+ in
+ that
+ name
+ and
+ say,
+ oh,
+ okay,
+ I
+
+
+and
+ remember
+ this
+ is
+ event
+ driven.
+ So
+ we
+
+
+have
+ an
+ activity
+ that's
+ waiting
+ for
+
+
+things
+ on
+ a
+ queue.
+ And
+ so
+ you
+ can
+
+
+configure
+ an
+ activity.
+ You
+ can
+ configure
+
+
+one
+ of
+ our
+ workers
+ to
+ say,
+ "Hey,
+ this
+ is
+
+
+a
+ worker
+ that
+ will
+ basically
+ pick
+ up
+
+
+anything
+ off
+ of
+ an
+ activity
+ queue.
+
+
+Doesn't
+ matter
+ what
+ the
+ name
+ is."
+ So
+ you
+
+
+don't
+ have
+ to
+ tightly
+ bind
+ to
+ a
+ specific
+
+
+topic
+ name
+ for
+ example.
+ Yes.
+ Question.
+
+
+>> I
+ need
+ in
+ advance
+ map
+ which
+ tools
+ would
+
+
+be
+ available
+ for
+ the
+ agent
+ based
+ on
+ the
+
+
+activity.
+
+
+>> Um
+ that
+ is
+ separate
+ and
+ I'm
+ going
+ to
+
+
+show
+ you
+ that
+ module.
+ There's
+ a
+ module
+
+
+here
+ that
+ you
+ see
+ that's
+ called
+ tools.
+
+
+If
+ you
+ see
+ the
+ tools
+ directory,
+ the
+ way
+
+
+that
+ I'm
+ running
+ it
+ here,
+ it
+ is
+ it
+ loads
+
+
+that
+ stuff
+ at
+ the
+ time
+ that
+ I
+ load
+ the
+
+
+application.
+ So,
+ I'm
+ not
+ doing
+ any
+
+
+dynamic
+ loading,
+ but
+ I
+ can
+ swap
+ in
+ and
+
+
+out
+ that
+ tools
+ module
+ and
+ the
+ agentic
+
+
+code
+ does
+ not
+ change
+ at
+ all.
+ So,
+ I'm
+ not
+
+
+going
+ all
+ the
+ way
+ to
+ the
+ point
+ where
+
+
+I've
+ implemented
+ a
+ registry
+ and
+ I'm
+
+
+doing
+ dynamic
+ calling
+ of
+ those
+ things.
+
+
+You
+ can
+ do
+ that,
+ but
+ this
+ simple
+ example
+
+
+has
+ basically
+ just
+ put
+ that
+ all
+ into
+ a
+
+
+separate
+ module.
+ And
+ you'll
+ see
+ how
+ that
+
+
+module
+ can
+ be
+ switched
+ in
+ and
+ out
+
+
+because
+ I'm
+ loading
+ it
+ at
+ at
+ at
+ um
+ at
+
+
+start
+ of
+ runtime.
+ So,
+ um
+ simplifying,
+
+
+but
+ yes,
+ you
+ could
+ do
+ that.
+ Okay.
+ So,
+
+
+I'm
+ just
+ going
+ to
+ call
+ an
+ activity.
+ And
+
+
+so,
+ let's
+ take
+ a
+ look
+ at
+ what
+ that
+
+
+activity
+ looks
+ like.
+ It's
+ this
+ tool
+
+
+invoker.
+ And
+ so
+ you
+ can
+ see
+ here
+ that
+ it
+
+
+has
+ the
+ activity
+ decorator
+ just
+ like
+ I
+
+
+showed
+ you
+ before,
+ but
+ now
+ it
+ says
+
+
+dynamic
+ equals
+ true.
+ So
+ that
+ means
+ that
+
+
+this
+ activity
+ handler
+ will
+ pick
+ up
+
+
+anything
+ that
+ is
+ showing
+ up
+ on
+ a
+ queue
+
+
+that
+ isn't
+ being
+ picked
+ up
+ by
+ some
+ other
+
+
+activity
+ already.
+ So
+ it'll
+ pick
+ up
+ it'll
+
+
+pick
+ up
+ get
+ weather.
+ It'll
+ pick
+ up
+ get
+
+
+random
+ number.
+ It'll
+ pick
+ up
+ whatever
+
+
+shows
+ up
+ in
+ there.
+ You
+ have
+ to
+ register.
+
+
+Um,
+ you
+ do
+ have
+ to
+ register.
+ No,
+ you
+
+
+don't
+ have
+ to
+ register
+ all
+ of
+ those.
+
+
+Those
+ things
+ can
+ be
+ done
+ dynamically.
+
+
+You
+ don't
+ have
+ to
+ register
+ them
+ into
+ the
+
+
+worker.
+
+
+And
+ what
+ you
+ can
+ see
+ here
+ is
+ that
+ we
+
+
+basically
+ grab
+ that.
+ We
+ get
+ the
+ tool
+
+
+name.
+ And
+ then
+ what
+ you
+ can
+ see
+ here
+ is
+
+
+that
+ I'm
+ effectively
+ looking
+ up
+ the
+
+
+function.
+ You
+ can
+ see
+ here
+ there's
+ no
+
+
+tool
+ names
+ in
+ here
+ at
+ all.
+ It's
+
+
+basically
+ looking
+ up
+ the
+ tool
+ name
+ from
+
+
+a
+ dictionary.
+ it
+ and
+ it
+ it's
+
+
+metaphorically
+ a
+ dictionary.
+ I'll
+ show
+
+
+you
+ those
+ those
+ uh
+ um
+ functions
+ in
+ just
+
+
+a
+ second.
+ So
+ I
+ have
+ one
+ function
+ which
+
+
+is
+ a
+ get
+ tools
+ function
+ um
+ which
+ by
+ the
+
+
+way
+ let
+ me
+ go
+ back
+ to
+ that.
+ So
+ in
+ the
+
+
+open
+ AI
+ responses
+ uh
+ no
+ sorry
+ it's
+ down
+
+
+in
+ the
+ workflow
+ when
+ I
+ invoke
+ the
+ LLM
+
+
+right
+ here.
+ Notice
+ that
+ I
+ made
+ this
+ get
+
+
+tools
+ call.
+ I'll
+ show
+ you
+ that
+ get
+ tools
+
+
+call
+ in
+ just
+ a
+ second.
+ It's
+ completely
+
+
+outside
+ of
+ the
+ scope
+ of
+ the
+ workflow
+ and
+
+
+the
+ activities.
+ It's
+ in
+ its
+ own
+ module.
+
+
+I'll
+ show
+ you
+ that
+ um
+ function
+ in
+ just
+ a
+
+
+second.
+
+
+Okay.
+ So,
+ back
+ to
+ the
+ tool
+ invoker.
+ It's
+
+
+basically
+ now
+ taking
+ the
+ name
+ and
+ then
+
+
+it's
+ doing
+ a
+ get
+ handler.
+ So,
+ somewhere
+
+
+here
+ is
+ a
+ get
+ handler
+ call.
+
+
+Here's
+ the
+ handler.
+
+
+>> You
+ just
+ passed
+ it.
+
+
+>> I
+ just
+ passed
+ it.
+ Sorry.
+
+
+>> 17.
+
+
+>> 17.
+ Thank
+ you.
+ I
+ appreciate
+ it.
+ So
+
+
+here's
+ the
+ get
+ handler
+ and
+ I'll
+ show
+ you
+
+
+that
+ function
+ in
+ just
+ a
+ second.
+ So
+ great
+
+
+question
+ on
+ the
+ like
+ how
+ tightly
+ bound
+
+
+are
+ these
+ things.
+ Let
+ me
+ show
+ you
+ where
+
+
+that
+ binding
+ is
+ right
+ now.
+ So
+ I
+ have
+ a
+
+
+tools
+ module
+ here
+ and
+ I
+ have
+ in
+ the
+ init
+
+
+is
+ where
+ I've
+ got
+ those
+ two
+ functions
+
+
+defined.
+ So,
+ I've
+ got
+ the
+ get
+ tools
+
+
+and
+ the
+ get
+ tools
+ are
+ basically
+ just
+
+
+taking
+ the
+ list
+ of
+ functions
+ and
+ I'll
+
+
+show
+ you
+ those
+ functions
+ and
+ those
+
+
+functions
+ what
+ we're
+ passing
+ in
+ here
+ is
+
+
+we
+ are
+ passing
+ in
+ the
+ JSON
+ blobs
+ that
+
+
+are
+ passed
+ to
+ the
+ LLM
+ as
+ the
+ tool
+
+
+descriptions.
+ So,
+ these
+ are
+ the
+ tool
+
+
+descriptions.
+ So,
+ for
+ example,
+ let
+ me
+
+
+show
+ you
+ the
+ get
+ weather
+ one.
+ So,
+ if
+ we
+
+
+go
+ over
+ here
+ to
+ get
+ weather,
+ you
+ can
+ see
+
+
+that
+ the
+ um
+ the
+ JSON
+ blob
+ is
+ right
+ here.
+
+
+And
+ it's
+ interesting
+ because
+ OpenAI
+
+
+um
+ in
+ in
+ the
+ completions
+ API,
+ they
+ had
+ a
+
+
+public
+ API
+ that
+ allowed
+ you
+ to
+ take
+ any
+
+
+function
+ that
+ has
+ dock
+ strings
+ on
+ it
+ and
+
+
+generate
+ the
+ JSON
+ for
+ the
+ completions
+
+
+API
+ for
+ the
+ tools.
+ The
+ responses
+ API
+ has
+
+
+no
+ no
+ such
+ public
+ API.
+ So
+ there's
+ a
+
+
+warning
+ in
+ here
+ that
+ says
+ this
+ API
+ that
+
+
+I'm
+ using
+ um
+ which
+ is
+ in
+ this
+ tool
+
+
+helper.
+ I'll
+ show
+ you
+ the
+ tool
+ helper.
+
+
+Where
+ is
+ my
+ tool
+ helper?
+ Uh
+ helpers.
+
+
+Here
+ we
+ go.
+ I
+ guess
+ I
+ could
+ put
+ that
+ in
+
+
+tools.
+ Is
+ that
+ there's
+ a
+ thing
+ in
+ there
+
+
+that
+ says
+ warning.
+ There
+ is
+ currently
+ no
+
+
+public
+ API
+ to
+ generate
+ the
+ JSON
+ blob
+ of
+
+
+tools
+ for
+ the
+ responses
+ API.
+ So
+ I'm
+
+
+using
+ an
+ internal
+ one.
+ There
+ is
+ an
+ open
+
+
+issue
+ on
+ this.
+ So
+ there's
+ just
+ a
+ warning
+
+
+in
+ there
+ that
+ I'm
+ using
+ an
+ internal
+ one.
+
+
+So
+ if
+ we
+ go
+ back
+ there,
+ I've
+ used
+ an
+
+
+internal
+ API
+ to
+ just
+ take
+ my
+ get
+ weather
+
+
+alerts
+ um
+ request
+ which
+ is
+ the
+ uh
+ it's
+ a
+
+
+pyantic
+ model
+ that
+ has
+ the
+ the
+ functions
+
+
+in
+ there
+ and
+ has
+ some
+ you
+ know
+
+
+additional
+ metadata
+ around
+ it
+ and
+ it
+
+
+generates
+ the
+ JSON
+ blob.
+ So
+ again,
+
+
+that's
+ what
+ you
+ see
+ when
+ we
+ go
+ into
+ the
+
+
+agent
+ is
+ we
+ that's
+ what
+ you're
+ getting
+
+
+with
+ get
+ tools
+ is
+ you're
+ getting
+ the
+ the
+
+
+the
+ array
+ of
+ JSON
+ blobs
+ for
+ each
+ of
+ the
+
+
+tools.
+ And
+ then
+ as
+ I
+ said
+ the
+ get
+
+
+handler
+ basically
+ has
+ it
+ it's
+ it's
+
+
+basically
+ a
+ dictionary
+ that
+ I've
+
+
+implemented
+ as
+ as
+ a
+ set
+ of
+ ifns.
+ So
+ it's
+
+
+a
+ takes
+ the
+ tool
+ name
+ and
+ then
+ it
+ picks
+
+
+up
+ what
+ the
+ actual
+ function
+ is
+
+
+completely
+ independent.
+ And
+ so
+ this
+
+
+particular
+ example
+ has
+ a
+ set
+ of
+ and
+ I'm
+
+
+going
+ to
+ demo
+ those
+ for
+ you
+ in
+ just
+ a
+
+
+second.
+ It
+ has
+ a
+ set
+ of
+ tools
+ here.
+ Um
+
+
+and
+ you
+ can
+ just
+ switch
+ those
+ things
+
+
+out.
+ You
+ do
+ have
+ to
+ restart
+ your
+ Python
+
+
+pro
+ process
+ at
+ the
+ moment
+ just
+ because
+
+
+of
+ the
+ way
+ that
+ I've
+ implemented
+ it.
+
+
+Okay.
+ Make
+ basic
+ sense.
+ All right.
+ Let
+
+
+me
+ show
+ you
+ this
+ in
+ action.
+
+
+Um
+ and
+ so
+ what
+ I've
+ got
+ here
+ is
+ I'm
+
+
+running
+ uh
+ the
+ worker.
+ I'm
+ not
+ spending
+
+
+a
+ lot
+ of
+ time
+ here
+ talking
+ about
+
+
+workers,
+ but
+ you
+ remember
+ that
+ I
+ said
+
+
+that
+ this
+ is
+ all
+ event
+ driven.
+ Um,
+ and
+
+
+so
+ there's
+ something
+ that
+ is
+ picking
+ up
+
+
+work
+ off
+ of
+ event
+ cues
+ and
+ then
+
+
+executing
+ the
+ right
+ workflows
+ and
+
+
+activities
+ based
+ on
+ what
+ it's
+ pulled
+ off
+
+
+of
+ the
+ event
+ cues.
+ The
+ the
+ um
+ the
+ thing
+
+
+in
+ temporal
+ that
+ does
+ that
+ is
+ what
+ we
+
+
+call
+ a
+ worker.
+ So
+ a
+ worker
+ is
+ a
+ process
+
+
+that
+ you
+ run.
+ with
+ that
+ worker,
+ you
+
+
+register
+ the
+ activities
+ and
+ the
+
+
+workflows
+ that
+ that
+ worker
+ is
+ going
+ to
+
+
+be
+ responsible
+ for.
+ So
+ it's
+ going
+ to
+ be
+
+
+looking
+ for
+ things
+ on
+ the
+ queue
+ to
+ pull
+
+
+off
+ of
+ those.
+ That
+ worker
+ itself
+ is
+
+
+multi-threaded.
+ So
+ it
+ is
+ not
+ one
+ worker
+
+
+one
+ process.
+ Um
+ in
+ general
+ people
+ run
+ it
+
+
+depends
+ you
+ can
+ do
+ worker
+ tuning
+ but
+ in
+
+
+general
+ people
+ run
+ several
+ hundred
+
+
+threads.
+ So
+ you
+ run
+ one
+ worker
+ and
+ it's
+
+
+already
+ a
+ a
+ a
+ you
+ know
+ concurrent
+
+
+multi-threaded
+ architecture.
+ Okay.
+ So
+
+
+this
+ is
+ some
+ solid
+ stuff.
+ Temporal
+ is
+
+
+just
+ the
+ coolest
+ stuff.
+ It's
+ really
+
+
+truly
+ is
+ distributed
+ systems
+ designed.
+
+
+Okay.
+ So
+ I'm
+ running
+ the
+ worker
+ up
+ here,
+
+
+which
+ is
+ effectively
+ where
+ you're
+ going
+
+
+to
+ see
+ the
+ outputs
+ coming
+ from
+ the
+
+
+activities
+ and
+ the
+ workflows.
+ And
+ I'm
+
+
+going
+ to
+ go
+ ahead
+ and
+ run
+ um
+ run
+ a
+
+
+workflow.
+ And
+ so
+
+
+let's
+ say
+ are
+ there
+ any
+ weather
+ alerts
+
+
+in
+ California?
+ That's
+ where
+ I'm
+ from.
+
+
+And
+ I
+ think
+ a
+ lot
+ of
+ you
+ are
+ from
+ and
+
+
+hopefully
+ where
+ I
+ will
+ be
+ headed
+ back
+ to
+
+
+tonight.
+ And
+ so
+ we're
+ going
+ to
+ start.
+
+
+And
+ what
+ you
+ can
+ see
+ here
+ is
+ the
+ way
+
+
+that
+ this
+ application
+ is
+ written
+ is
+
+
+basically
+ I
+ I
+ um
+ say
+ whether
+ or
+ not
+ I'm
+
+
+calling
+ a
+ tool.
+ And
+ so
+ you
+ can
+ see
+ here
+
+
+that
+ it
+ said,
+ oh,
+ I
+ made
+ a
+ call
+ to
+ get
+
+
+weather
+ alerts.
+ Um
+ and
+ that
+ is
+ what's
+
+
+happening.
+ So
+ there's
+ a
+ tool
+ call
+ that's
+
+
+happening.
+ And
+ in
+ just
+ a
+ moment,
+ I
+
+
+happen
+ to
+ know
+ that
+ as
+ soon
+ as
+ we
+ get
+ a
+
+
+few
+ drops
+ of
+ rain
+ in
+ California,
+ you
+
+
+know,
+ there's
+ alerts
+ all
+ over
+ the
+ place.
+
+
+So,
+ here
+ we
+ go.
+ Here's
+ a
+ whole
+ bunch
+ of
+
+
+weather
+ alerts
+ in
+ California.
+ You'll
+ see
+
+
+why
+ I'm
+ I'm
+ pointing
+ that
+ out.
+ It's
+ kind
+
+
+of
+ fun.
+ Um,
+ okay.
+ Now,
+ let
+ me
+ show
+ you
+
+
+what
+ this
+ looks
+ like
+ in
+ the
+ temporal
+ UI.
+
+
+So,
+ over
+ here
+ I
+ have
+ the
+ temporal
+ UI,
+
+
+and
+ you
+ can
+ see
+ that
+ I've
+ run
+ a
+ bunch
+ of
+
+
+workflows
+ this
+ morning.
+ And
+ so,
+ let
+ me
+
+
+refresh
+ refresh
+ this.
+ And
+ this
+ is
+ the
+
+
+one
+ that
+ I
+ just
+ ran.
+ And
+ what
+ we
+ see
+
+
+here
+ is,
+ yep,
+ there's
+ all
+ of
+ that
+ dense
+
+
+fog
+ advisory.
+ That's
+ that's
+ about
+ as
+ as
+
+
+extreme
+ as
+ we
+ get
+ in
+ California.
+ A
+
+
+little
+ bit
+ of
+ fog,
+ a
+ little
+ bit
+ of
+ wind,
+
+
+high
+ surf,
+ beach
+ hazards.
+ But
+ here
+ is
+
+
+what
+ happened.
+ So
+ you
+ can
+ see
+ in
+ the
+
+
+temporal
+ UI,
+ you
+ can
+ see
+ each
+ one
+ of
+
+
+those
+ activities
+ that
+ I
+ called.
+ You
+ can
+
+
+see
+ that
+ I
+ made
+ a
+ call
+ to
+ an
+ LLM.
+ That's
+
+
+the
+ create
+ line
+ that
+ you
+ see
+ on
+ the
+
+
+bottom.
+ So
+ we're
+ working
+ from
+ bottom
+ to
+
+
+top.
+ Then
+ you
+ can
+ see
+ that
+ I
+ did
+ a
+
+
+dynamic
+ activity,
+ but
+ the
+ dynamic
+
+
+activity
+ that
+ I
+ did
+ in
+ particular,
+ it
+
+
+doesn't
+ say
+ generic
+ dynamic
+ activity.
+ It
+
+
+says
+ I
+ did
+ a
+ get
+ weather
+ alerts.
+ And
+
+
+then
+ as
+ we
+ do
+ with
+ agentic
+ loops,
+ we
+
+
+take
+ the
+ output
+ of
+ the
+ tool
+ and
+ we
+ send
+
+
+it
+ back
+ into
+ the
+ LLM
+ and
+ we
+ get
+ this.
+
+
+Now
+
+
+I
+ want
+ to
+ show
+ you
+ something
+ here.
+ I'm
+
+
+gonna
+ show
+ you
+ a
+ different
+ example.
+ So,
+
+
+I'm
+ going
+ to
+ ask
+ the
+ question,
+ are
+ there
+
+
+any
+ weather
+ alerts
+ where
+ I'm
+ at?
+ So,
+
+
+does
+ it
+ know
+ where
+ I'm
+ at?
+ And
+ I'm
+ going
+
+
+to
+ start
+ this.
+ And
+ I'm
+ very
+ going
+ to
+
+
+quickly
+ going
+ to
+ come
+ over
+ here
+ and
+
+
+we'll
+ see
+ this
+ one
+ running.
+ And
+ you
+ can
+
+
+see
+ Oh,
+ I'm
+ going
+ to
+ be
+ too
+ slow
+ it
+
+
+looks
+ like,
+ but
+ I'll
+ I'll
+ come
+ back
+ and
+
+
+I'll
+ redo
+ this
+ demo.
+ But
+ you
+ can
+ see
+ how
+
+
+it
+ just
+ it's,
+ you
+ know,
+ brought
+ those
+
+
+things
+ in.
+ So,
+ the
+ other
+ So,
+ I
+ have
+
+
+three
+ tools
+ registered
+ right
+ now.
+ I
+ have
+
+
+a
+ tool
+ that
+ takes
+ in
+ a
+ state.
+ I
+ have
+ a
+
+
+tool
+ that
+ takes
+ in
+ um
+ an
+ IP
+ address
+ and
+
+
+returns
+ a
+ state.
+ And
+ I
+ have
+ a
+ tool
+ that
+
+
+gives
+ me
+ an
+ IP
+ address
+ for
+ the
+ currently
+
+
+running
+ computer.
+ And
+ so
+ I
+ didn't
+ I
+
+
+didn't
+ wire
+ that
+ up
+ that
+ the
+ LLM
+ made
+
+
+those
+ decisions
+ just
+ based
+ on
+ the
+ tools.
+
+
+So
+ all
+ I
+ did
+ was
+ I
+ provided
+ those
+ tools.
+
+
+But
+ you
+ can
+ get
+ that
+ visibility
+ across
+
+
+this
+ in
+ temporal.
+ So,
+ you
+ can
+ see
+ that
+
+
+we
+ started
+ with
+ get
+ IP
+ address,
+ then
+ we
+
+
+got
+ the
+ location
+ info
+ from
+ that
+ IP
+
+
+address,
+ then
+ we
+ got
+ the
+ weather
+ alerts.
+
+
+And
+ here's
+ the
+ ironic
+ thing
+ is
+ there
+ are
+
+
+no
+ weather
+ alerts
+ in
+ New
+ York.
+ So,
+ I
+
+
+think
+ of
+ New
+ York
+ as
+ a
+ place
+ that
+ has
+
+
+much
+ more
+ weather,
+ but
+ maybe
+ today
+ is
+
+
+cal.
+ You
+ have
+ fog,
+ but
+ there's
+ no
+ fog
+
+
+advisories.
+ So,
+ y'all
+ are
+ a
+ lot
+ more
+
+
+resilient
+ than
+ than
+ the
+ rest
+ of
+ us
+
+
+Californians.
+
+
+Okay.
+ So,
+ I
+ want
+ to
+ show
+ you
+ one
+ other
+
+
+thing,
+ which
+ is
+ I'm
+ gonna
+ come
+ back
+ over
+
+
+here.
+ I'm
+ gonna
+ run
+ this
+ again,
+ and
+ I'm
+
+
+going
+ to
+ try
+ to
+ be
+ I
+ I
+ can
+ be
+ a
+ lot
+
+
+quicker.
+ So,
+ I'm
+ going
+ to
+ hit
+ okay.
+ And
+
+
+now
+ I'm
+ going
+ to
+ come
+ up
+ here
+ and
+ I'm
+
+
+going
+ to
+ control
+ C.
+ No
+ workers
+ running.
+
+
+My
+ agent
+ is
+ not
+ running.
+ It's
+ not
+
+
+running
+ at
+ all.
+
+
+And
+ so
+ if
+ we
+ come
+ over
+ here
+ and
+ we
+ take
+
+
+a
+ look
+ at
+ what
+ this
+ looks
+ like
+ in
+
+
+temporal
+ and
+ this
+ is
+ going
+ to
+ give
+ you
+
+
+the
+ clearest
+ picture
+ of
+ what
+ I
+ mean
+ by
+
+
+durability
+ and
+ durable
+ agents
+ is
+ that
+ I
+
+
+have
+ this
+ agent
+ running
+ and
+ you
+ can
+ see
+
+
+that
+ it
+ made
+ the
+ first
+ LLM
+ call.
+ Then
+ it
+
+
+got
+ the
+ made
+ the
+ tool
+ call
+ to
+ the
+ IP
+
+
+address
+ and
+ now
+ it's
+ it's
+ stuck.
+ It
+
+
+started
+ to
+ call
+ the
+ LLM
+ but
+ hang
+ on
+ it
+
+
+something
+ went
+ wrong.
+ the
+ agent
+ itself
+
+
+is
+ not
+ running.
+ And
+ by
+ the
+ way,
+ I
+ could
+
+
+have
+ also
+ done
+ a
+ demo.
+ And
+ I
+ don't
+ have
+
+
+the
+ time
+ to
+ do
+ all
+ of
+ those
+ today,
+ but
+ I
+
+
+could
+ have
+ done
+ a
+ demo
+ where
+ I
+ cut
+ the
+
+
+the
+ network.
+ So
+ I
+ could
+ have
+ cut
+ the
+
+
+network.
+ And
+ what
+ you
+ would
+ have
+ seen
+
+
+here
+ in
+ this
+ little
+ red
+ bar
+ is
+ you
+ would
+
+
+have
+ seen
+ it.
+ Create
+ attempt
+ one,
+ create
+
+
+attempt
+ two,
+ create
+ attempt
+ three.
+ I
+
+
+could
+ have
+ brought
+ the
+ network
+ back
+ and
+
+
+then
+ it
+ would
+ have
+ gotten
+ through.
+ But
+
+
+for
+ brevity
+ here,
+ because
+ I
+ still
+ want
+
+
+to
+ I
+ still
+ have
+ more
+ stuff
+ to
+ cover.
+ I'm
+
+
+just
+ showing
+ you
+ one
+ of
+ the
+ failure
+
+
+scenarios.
+ There's
+ tons
+ of
+ failure
+
+
+scenarios
+ that
+ are
+ covered.
+ So,
+ I'm
+
+
+going
+ to
+ come
+ back
+ over
+ here
+ and
+ I'm
+
+
+going
+ to
+ restart
+ the
+ worker.
+ And
+ what
+ we
+
+
+should
+ see
+ happen
+ is,
+ oh,
+ sure
+ enough,
+
+
+it
+ keeps
+ going.
+ So,
+ it
+ picked
+ up
+ where
+
+
+it
+ left
+ off.
+ Now,
+ when
+ I
+ say
+ it
+ picked
+
+
+up
+ where
+ it
+ left
+ off,
+ of
+ course,
+ I
+
+
+killed
+ the
+ process.
+ There
+ was
+ nothing
+
+
+running
+ in
+ memory
+ anymore.
+ So,
+ when
+ I
+
+
+brought
+ the
+ worker
+ back,
+ it
+ had
+ to
+
+
+reconstitute
+ the
+ state
+ of
+ the
+
+
+application.
+ It
+ did
+ that
+ through
+ event
+
+
+sourcing.
+
+
+So
+ that's
+ the
+ way
+ temporal
+ works
+
+
+fundamentally.
+ Any
+ questions
+ on
+ that?
+
+
+Yes.
+
+
+>> Can
+ we
+ delegate
+ one
+ agent
+ to
+ another
+
+
+agent?
+
+
+>> Can
+ you
+ delegate
+ one
+ agent
+ to
+ another
+
+
+agent?
+ Absolutely.
+ Now
+ we
+ do
+ not
+ yet
+
+
+have
+ native
+ support
+ for
+ A
+ to
+ A
+ if
+ you're
+
+
+thinking
+ about
+ that
+ protocol
+ in
+
+
+particular.
+ But
+ one
+ of
+ the
+ things
+ that
+
+
+you
+ can
+ certainly
+ do
+ is
+ that
+ you
+ can
+
+
+have
+ an
+ agent
+ act
+ as
+ a
+ tool.
+ And
+ so
+
+
+there
+ are
+ a
+ number
+ of
+ different
+ ways
+ to
+
+
+do
+ that.
+ You
+ can
+ either
+ have
+ an
+ activity
+
+
+invoke
+ another
+ agent
+ or
+ you
+ can
+ use
+ some
+
+
+other
+ mechanisms.
+ We
+ have
+ child
+
+
+workflows
+ and
+ those
+ types
+ of
+ things.
+ I'm
+
+
+not
+ going
+ to
+ cover
+ that
+ more
+ advanced
+
+
+use
+ case.
+ But
+ yeah,
+ absolutely.
+
+
+>> A
+ couple
+ of
+ questions.
+ One
+ thing
+ is
+ the
+
+
+way
+ you
+ are
+ coding
+ it.
+ It
+ seemed
+ the
+
+
+functions
+ very
+ itemed.
+ There
+ was
+ like
+
+
+one
+ single
+ line
+ essentially.
+ uh
+ how
+ to
+
+
+make
+ sure
+ that
+ the
+ developers
+ are
+ you
+
+
+know
+ creating
+ function
+ so
+ that
+ the
+
+
+retries
+ are
+ posing
+ a
+ lot
+ so
+
+
+>> second
+ question
+ is
+ the
+ latency
+ just
+
+
+added
+ through
+ because
+ of
+ the
+ framework
+
+
+>> okay
+ I'll
+ so
+ first
+ question
+ is
+ about
+
+
+around
+ item
+ potence
+ so
+ you
+ have
+
+
+recognized
+ that
+ um
+ the
+ activity
+
+
+activities
+ themselves
+ should
+ be
+ item
+
+
+potent
+ um
+ we
+ don't
+ require
+ it
+ we
+ don't
+
+
+check
+ on
+ it
+ because
+ We
+ really
+ don't
+ get
+
+
+into
+ the
+ inner
+ workings
+ of
+ the
+
+
+activities.
+ We
+ leave
+ that
+ up
+ to
+ the
+
+
+developers.
+ Um
+ but
+ that
+ is
+ the
+ the
+
+
+guidance
+ is
+ that
+ if
+ they're
+ not
+ item
+
+
+potent
+ because
+ remember
+ that
+ when
+ we
+ do
+
+
+retries
+ on
+ your
+ behalf,
+ we
+ don't
+ know
+ wh
+
+
+why
+ we
+ never
+ heard
+ back
+ from
+ the
+ first
+
+
+invocation.
+ So
+ we
+ are
+ going
+ to
+ keep
+
+
+retrying
+ until
+ we
+ get
+ back
+ a
+ response.
+
+
+Of
+ course
+ it
+ could
+ be
+ that
+ the
+ request
+
+
+never
+ made
+ it
+ to
+ the
+ activity.
+ It
+ could
+
+
+be
+ that
+ it
+ made
+ it
+ and
+ it
+ invoked
+ the
+
+
+downstream
+ function
+ could
+ have
+ gone
+
+
+wrong
+ in
+ a
+ number
+ of
+ places.
+ So
+ how
+ do
+
+
+you
+ make
+ sure
+ that
+ your
+ developers
+ are
+
+
+doing
+ uh
+ creating
+ your
+ activities
+ to
+ be
+
+
+item
+ potent
+ education.
+ So
+ we
+ don't
+ have
+
+
+any
+ silver
+ bullets
+ there.
+ The
+ second
+
+
+question
+ was
+ around
+ latency
+ because
+ yes
+
+
+I
+ am
+ going
+ up
+ to
+ the
+ server
+ here
+ um
+ with
+
+
+every
+ one
+ of
+ those
+ activity
+ calls
+ and
+ so
+
+
+when
+ we
+ when
+ we
+ think
+ about
+ agents
+ um
+ we
+
+
+the
+ type
+ of
+ latency
+ and
+ Johan
+ I
+ don't
+
+
+remember
+ the
+ exact
+ numbers
+ do
+ you
+
+
+remember
+ what
+ the
+ numbers
+ are
+ I
+ mean
+
+
+it's
+ tiny
+ the
+ latency
+ to
+ go
+ up
+ to
+ the
+
+
+server
+ around
+ activities
+
+
+>> u
+ so
+ it's
+ going
+ to
+ depend
+ a
+ bit
+ where
+
+
+the
+ server
+ is
+ but
+ it's
+ tens
+ of
+
+
+milliseconds
+
+
+>> tens
+ of
+ millc
+ seconds.
+ So
+ it's
+ pretty
+
+
+small.
+ Um
+ so
+ whether
+ I
+ I
+ I
+ think
+ I
+ have
+
+
+heard
+ of
+ several
+ customers
+ who
+ are
+ using
+
+
+this
+ in
+ quite
+ realtime
+ applications.
+ But
+
+
+in
+ the
+ case
+ of
+ agents,
+ especially
+ agents
+
+
+where
+ they're
+ long
+ running
+ and
+ they're
+
+
+running
+ over
+ minutes,
+ hours,
+ days,
+ or
+
+
+they
+ have
+ user
+ interaction,
+ tens
+ of
+
+
+milliseconds
+ is
+ is
+ is
+ tolerable.
+ So
+
+
+there
+ might
+ be
+ use
+ cases
+ where
+ it's
+ not
+
+
+applicable
+ because
+ of
+ that
+ latency,
+ but
+
+
+it's
+ pretty
+ small.
+ It's
+ applicable
+ in
+
+
+most
+ cases.
+
+
+Okay.
+ All right.
+ So,
+ that
+ is
+ the
+
+
+temporal
+ overview.
+ Now,
+ I
+ want
+ to
+ switch
+
+
+back
+ over
+ to
+ the
+ agents
+ SDK
+ now
+ and
+ show
+
+
+you
+ the
+ differences
+ and
+ the
+
+
+similarities.
+ So,
+ let's
+ come
+ back
+ over
+
+
+here.
+ I'm
+ going
+ to
+ go
+ through
+ a
+ few
+ more
+
+
+pictures.
+
+
+Okay.
+ So
+ the
+ OpenAI
+ agents
+ SDK
+ the
+
+
+combination
+ of
+ these
+ two
+ things
+ at
+ a
+
+
+very
+ high
+ level
+ looks
+ like
+ this.
+ At
+ the
+
+
+foundation
+ we
+ have
+ the
+ OpenAI
+ models
+ and
+
+
+the
+ OpenAI
+ API
+ not
+ the
+ SDK
+ but
+ the
+
+
+OpenAI
+ API.
+ So
+ you
+ might
+ have
+ noticed
+
+
+that
+ I've
+ already
+ been
+ using
+ the
+ OpenAI
+
+
+API
+ and
+ we're
+ now
+ going
+ to
+ start
+ using
+
+
+the
+ agents
+ SDK.
+ And
+ then
+ we
+ also
+ have
+
+
+temporal
+ as
+ a
+ foundational
+ element.
+ And
+
+
+now
+ that's
+ what
+ the
+ agents
+ SDK
+ is
+
+
+layered
+ over
+ the
+ top.
+ So
+ those
+ are
+ two
+
+
+foundational
+ components.
+ So
+ it
+ isn't
+
+
+that
+ we're
+ making
+ that
+ temporal
+ sitting
+
+
+on
+ the
+ side
+ or
+ open
+ AI
+ models
+ are
+
+
+sitting
+ on
+ the
+ side.
+ We
+ have
+ actually
+
+
+integrated
+ these
+ things
+ and
+ I'll
+ make
+
+
+some
+ comments
+ when
+ we
+ get
+ to
+ the
+ code
+ on
+
+
+how
+ we
+ did
+ that
+ integration
+ and
+ I'll
+
+
+totally
+ invite
+ Johan
+ to
+ add
+ to
+ that
+ as
+
+
+well
+ because
+ he
+ led
+ the
+ in
+ led
+ the
+ the
+
+
+engineering
+ for
+ the
+ integration
+ here.
+ So
+
+
+now
+ you've
+ got
+ the
+ agents
+ SDK
+ and
+ now
+
+
+you're
+ going
+ to
+ use
+ the
+ agents
+ SDK
+ to
+
+
+build
+ your
+ agents
+ to
+ add
+ guard
+ rails.
+
+
+We're
+ going
+ to
+ I'm
+ going
+ to
+ show
+ you
+
+
+some
+ tracing.
+ So
+ I
+ showed
+ you
+ the
+
+
+temporal
+ UI,
+ but
+ the
+ agents
+ SDK
+ has
+ some
+
+
+really
+ cool
+ tracing
+ features
+ as
+ well.
+
+
+And
+ you'll
+ see
+ that
+ we've
+ integrated
+
+
+those
+ things
+ together.
+ You're
+ going
+ to
+
+
+see
+ those
+ come
+ together.
+ And
+ of
+ course
+
+
+tools.
+
+
+So
+ I've
+ been
+ talking
+ about
+ these
+
+
+temporal
+ activities
+ and
+ we
+ already
+ saw
+
+
+this.
+ I'll
+ skip
+ that.
+ uh
+ skip
+ that.
+ Um
+
+
+and
+ so
+ now
+ uh
+ we're
+ I'm
+ going
+ to
+ take
+
+
+the
+ same
+ exact
+ example
+ that
+ we
+ just
+ went
+
+
+through.
+ I'm
+ going
+ to
+ have
+ three
+ tools.
+
+
+One
+ is
+ the
+ weather
+ API
+ and
+ the
+ other
+ two
+
+
+are
+ those
+ location
+ APIs.
+ And
+ what
+ are
+ we
+
+
+going
+ to
+ do?
+ Well,
+ we're
+ going
+ to
+ put
+
+
+activity
+ decorators
+ around
+ them.
+ And
+
+
+I'll
+ show
+ you
+ what
+ that
+ looks
+ like
+ in
+
+
+the
+ other
+ codebase
+ in
+ just
+ a
+ moment.
+ We
+
+
+are
+ going
+ to
+ make
+ sure
+ we
+ have
+ doc
+
+
+strings
+ in
+ there
+ because
+ I
+ showed
+ you
+
+
+how
+ the
+ open
+ AAI
+ API
+ had
+ the
+ um
+ the
+ uh
+
+
+the
+ internal
+ helper
+ function
+ that
+
+
+allowed
+ us
+ to
+ generate
+ the
+ JSON
+ blobs
+ to
+
+
+describe
+ the
+ tools.
+ Well,
+ the
+ agents
+ SDK
+
+
+actually
+ does
+ even
+ more
+ of
+ that
+ for
+ us.
+
+
+So,
+ you'll
+ see
+ that
+ some
+ of
+ my
+ code
+ went
+
+
+away.
+ Um
+ and
+ then
+ uh
+ yeah,
+ and
+ then
+
+
+we'll
+ we'll
+ car
+ continue
+ on
+ from
+ that.
+
+
+And
+ then
+ and
+ this
+ is
+ going
+ to
+ be
+ our
+
+
+loop
+ here.
+
+
+I'm
+ going
+ to
+ show
+ you
+ when
+ we
+ get
+ to
+ the
+
+
+code
+ that
+ the
+ um
+ the
+ way
+ that
+ we
+ create
+
+
+that
+ JSON
+ blob
+ is
+ part
+ of
+ the
+
+
+integration.
+ So
+ you
+ can
+ take
+ an
+ activity
+
+
+and
+ we
+ have
+ provided
+ for
+ you
+ a
+ function
+
+
+called
+ activity
+ as
+ tool
+ that
+ will
+ take
+
+
+in
+ the
+ activity
+ the
+ function
+ itself.
+ So
+
+
+you
+ don't
+ have
+ to
+ worry
+ about
+
+
+serializing
+ it
+ yourself.
+ No
+ internal
+
+
+APIs.
+ This
+ is
+ a
+ public
+ API.
+ It's
+ part
+ of
+
+
+the
+ in
+ the
+ integration.
+ and
+ you're
+ going
+
+
+to
+ call
+ activity
+ as
+ tool
+ which
+ is
+ going
+
+
+to
+ generate
+ the
+ um
+ the
+ JSON
+ blob
+ and
+
+
+then
+ you
+ can
+ have
+ your
+ timeouts
+ as
+ well.
+
+
+There's
+ another
+ part
+ which
+ is
+ really
+
+
+important
+ which
+ is
+ that
+ you
+ have
+ to
+
+
+configure
+ the
+ integration.
+ So
+ you
+ have
+
+
+to
+ the
+ agents
+ SDK
+ alone
+ doesn't
+ use
+
+
+temporal
+ and
+ if
+ you
+ want
+ to
+ use
+ temporal
+
+
+you
+ need
+ to
+ make
+ sure
+ that
+ you
+ include
+ a
+
+
+plugin
+ and
+ I'll
+ show
+ you
+ the
+ code
+ for
+
+
+that
+ in
+ just
+ a
+ second.
+ And
+ then
+ of
+
+
+course
+ we're
+ going
+ to
+ run
+ it
+ and
+ we're
+
+
+going
+ to
+ run
+ it
+ the
+ same
+ basic
+ way.
+
+
+Okay.
+ So
+ let's
+ demo
+ that.
+ So
+ we're
+ going
+
+
+to
+ spend
+ a
+ lot
+ more
+ time
+ in
+ code
+ and
+
+
+demo
+ again.
+ Let
+ me
+ come
+ back
+ over
+ to
+
+
+cursor.
+ Okay.
+ So
+ I've
+ got
+ four
+ four
+
+
+files
+ that
+ I
+ want
+ to
+ show
+ you
+ here.
+ I'm
+
+
+going
+ to
+ start
+ with
+ the
+ activities
+
+
+again.
+ So
+ here's
+ the
+ get
+ weather
+
+
+activity
+ and
+ you'll
+ see
+ that
+ it
+ actually
+
+
+got
+ a
+ bit
+ simpler.
+ It's
+ just
+ has
+ the
+
+
+activity
+ decorator
+ on
+ the
+ get
+ weather
+
+
+alerts
+ and
+ then
+ here's
+ the
+ function
+
+
+where
+ it
+ actually
+ makes
+ the
+ the
+ U
+
+
+National
+ Weather
+ Service
+ API.
+ So
+ there
+
+
+was
+ another
+ there
+ was
+ a
+ bit
+ of
+ um
+ code
+
+
+in
+ there
+ that
+ was
+ doing
+ some
+ formatting
+
+
+where
+ it
+ made
+ that
+ API
+ call
+ to
+ generate
+
+
+the
+ JSON
+ blob
+ that
+ goes
+ away
+ because
+ we
+
+
+have
+ a
+ a
+ supported
+ function
+ for
+ that.
+
+
+The
+ location
+ activities
+ equally
+ simple.
+
+
+So
+ literally
+ this
+ is
+ the
+ entire
+ file.
+ So
+
+
+I've
+ got
+ these
+ two
+ functions
+ with
+ the
+
+
+activity
+ decorators
+ and
+ my
+ dock
+ strings.
+
+
+So
+ the
+ doc
+ strings
+ are
+ describing
+ the
+
+
+the
+ arguments
+ and
+ so
+ on.
+ Okay.
+ So
+ now
+
+
+what
+ about
+ the
+ agent
+ itself?
+ So
+ remember
+
+
+activities
+ were
+ just
+ the
+ things
+ that
+
+
+those
+ were
+ the
+ tools
+ that
+ the
+ agent
+ was
+
+
+using.
+ What
+ I
+ showed
+ you
+ before
+ was
+ an
+
+
+agentic
+ loop
+ written
+ in
+ Python
+ that
+ was
+
+
+orchestrating
+ the
+ LLM
+ call
+ and
+ the
+ tool
+
+
+invocations.
+
+
+So
+ now
+ if
+ I
+ come
+ over
+ to
+ the
+ workflow,
+
+
+what
+ does
+ my
+ workflow
+ look
+ like?
+ This
+ is
+
+
+it.
+
+
+So
+ I
+ have
+
+
+sorry
+ this
+ is
+ it.
+ This
+ is
+ the
+ workflow.
+
+
+Okay.
+ And
+ it's
+ basically
+ let
+ me
+ increase
+
+
+the
+ font
+ size
+ because
+ I
+ have
+ plenty
+ of
+
+
+space.
+ is
+ notice
+ that
+ I'm
+ using
+ the
+
+
+agents
+ SDK.
+ So
+ I'm
+ defining
+ an
+ agent
+
+
+right
+ here
+ on
+ line
+ 18.
+ I'm
+ giving
+ it
+ a
+
+
+name,
+ your
+ helpful
+ agent,
+ and
+ I'm
+ giving
+
+
+it
+ a
+ set
+ of
+ tools.
+ Those
+ tools
+ were
+
+
+implemented
+ as
+ activities.
+
+
+And
+ there
+ you
+ can
+ see
+ that
+ I've
+ made
+ the
+
+
+function
+ call
+ that
+ says
+ activity
+ as
+ tool
+
+
+that
+ generates
+ the
+ JSON
+ blob.
+
+
+That's
+ it.
+
+
+That's
+ all
+ there
+ is
+ to
+ it.
+ That's
+ the
+
+
+way
+ I've
+ implemented
+ it.
+ Now
+ notice
+ that
+
+
+I'm
+ still
+ doing
+ it
+ within
+ the
+ workflow
+
+
+because
+ remember
+ earlier
+ I
+ said
+ we've
+
+
+got
+ activities,
+ we've
+ got
+ workflows.
+
+
+When
+ you
+ put
+ them
+ together,
+ that's
+ where
+
+
+the
+ magic
+ happens.
+ So
+ putting
+ this
+ agent
+
+
+inside
+ of
+ a
+ workflow,
+ that's
+ what
+ adds
+
+
+all
+ of
+ these
+ durability
+ capabilities.
+
+
+Now
+ I
+ am
+ not
+ going
+ to
+ demo
+ the
+
+
+non-durable
+ version
+ of
+ this
+ because
+
+
+again
+ we
+ just
+ have
+ constrained
+ time
+ here
+
+
+today.
+ But
+ if
+ I
+ had
+ implemented
+ this
+
+
+with
+ just
+ the
+ agents
+ SDK,
+ which
+ is
+ just
+
+
+a
+ Python
+ library,
+ I
+ would
+ have
+ had
+ a
+
+
+single
+ process.
+ And
+ if
+ I
+ killed
+ that
+
+
+process,
+ it
+ everything
+ would
+ have
+ gone
+
+
+away
+ with
+ it.
+ I
+ there's
+ no
+ way
+ for
+ me
+ to
+
+
+scale
+ that
+ process.
+ And
+ remember,
+ I've
+
+
+got
+ an
+ a
+ runner.run
+ right
+ down
+ here,
+
+
+right?
+ So
+ every
+ one
+ of
+ those
+ runners
+ I
+
+
+it's
+ just
+ it's
+ just
+ a
+ it's
+ a
+ monolithic
+
+
+agent,
+ right?
+ It's
+ just
+ one
+ Python
+
+
+process.
+ By
+ doing
+ it
+ this
+ way,
+ you
+ can
+
+
+see
+ that
+ if
+ I'm
+ running
+ multiple
+
+
+workers,
+ I
+ can
+ just
+ keep
+ scaling
+ this
+
+
+out
+ by
+ just
+ running
+ multiple
+ workers
+ who
+
+
+are
+ just
+ pulling
+ other
+ things
+ off
+ of
+ the
+
+
+queue.
+
+
+>> Yes.
+
+
+>> Do
+ handoffs
+ to
+ other
+ agents
+ work?
+
+
+>> Do
+ handoffs
+ to
+ other
+ agents
+ work?
+ Yes.
+
+
+And
+ I'm
+ going
+ to
+ come
+ back
+ to
+ that
+ in
+
+
+the
+ final
+ section
+ where
+ we're
+ going
+ to
+
+
+talk
+ about
+ orchestrations.
+ Um,
+ yes,
+ they
+
+
+do.
+ Absolutely.
+ Um,
+ okay.
+ So,
+ now
+ let
+ me
+
+
+go
+ to
+ uh
+ I
+ need
+ to
+ I
+ do
+ need
+ to
+ get
+ one
+
+
+other
+ thing
+ out
+ of
+ here.
+ I
+ need
+ to
+ get
+
+
+my
+ worker.
+
+
+Um
+ where
+ is
+ my
+ worker?
+
+
+Here's
+ my
+ worker.
+
+
+because
+ it's
+ in
+ the
+ worker
+ where
+
+
+where's
+ the
+ plugin?
+ Johan,
+ help
+ me
+ out.
+
+
+>> I
+ just
+ passed
+ it.
+ Oh,
+ here
+ we
+ go.
+ OpenAI
+
+
+agents
+ plugin.
+ Okay,
+ so
+ it's
+ in
+ the
+
+
+worker.
+ Remember
+ the
+ worker
+ is
+ where
+ all
+
+
+the
+ execution
+ is
+ happening.
+ Think
+ of
+ it
+
+
+as
+ kind
+ of
+ like
+ a
+ logical
+ metaphorical
+
+
+container.
+ And
+ oftentimes
+ you
+ are
+
+
+running
+ the
+ workers
+ in
+ containers.
+ And
+
+
+here's
+ the
+ configuration
+ that
+ you
+ need
+
+
+to
+ put
+ in
+ there.
+ It's
+ those
+ and
+ notice
+
+
+that
+ it's
+ doing
+ things
+ like
+ it
+ it
+ is
+ um
+
+
+configuring
+ some
+ of
+ the
+ retry
+ behavior
+
+
+around
+ the
+ LLM.
+ You'll
+ notice,
+ did
+ you
+
+
+notice
+ that
+ I
+ did
+ not
+ give
+ you
+ an
+
+
+activity
+ for
+ invoking
+ the
+ LLM
+
+
+that's
+ done
+ as
+ a
+ part
+ of
+ the
+ agent,
+ but
+
+
+we
+ still
+ want
+ that
+ to
+ be
+ durable.
+ And
+
+
+that's
+ what
+ one
+ of
+ the
+ things
+ that
+ our
+
+
+implementation
+ does
+ here.
+ So
+ you're
+
+
+doing
+ some
+ retry
+ policies
+ for
+ the
+ LLM
+
+
+and
+ you're
+ basically
+ saying
+ hey
+ a
+ open
+
+
+AI
+ agents
+ SDK
+ use
+ these
+ parts
+ of
+
+
+temporal.
+
+
+So
+ let
+ me
+ tell
+ you
+ a
+ little
+ bit
+ about
+
+
+what
+ we
+ did
+ as
+ a
+ part
+ of
+ the
+
+
+integration.
+ What
+ we
+ did
+ if
+ you
+ go
+ back
+
+
+and
+ you
+ look
+ at
+ the
+ commit
+ history
+ of
+
+
+the
+ OpenAI
+ agents
+ SDK
+ you'll
+ find
+ a
+
+
+commit
+ where
+ it
+ says
+ make
+ the
+ runner
+
+
+class
+ abstract.
+
+
+They
+ did
+ that
+ for
+ us
+ because
+ that's
+ how
+
+
+we
+ imple
+ that's
+ how
+ we
+ got
+ this
+
+
+durability.
+ That's
+ how
+ we
+ were
+ able
+ to
+
+
+make
+ the
+ LLM
+ calls
+ durable
+ along
+ with
+
+
+all
+ of
+ the
+ tools
+ that
+ you
+ just
+ saw.
+ So
+
+
+we
+ have
+ our
+ own
+ implementation
+ of
+ the
+
+
+abstract
+ runner
+ class.
+ So
+ that
+ is
+ the
+
+
+way
+ that
+ this
+ works.
+ Okay.
+ So
+ we've
+
+
+looked
+ at
+ the
+ activities,
+ we've
+ looked
+
+
+at
+ the
+ workflow,
+ and
+ then
+ we
+ run
+ the
+
+
+tools
+ workflow.
+ So,
+ I
+ don't
+ think
+
+
+there's
+ anything
+ more
+ to
+ look
+ at
+ there.
+
+
+So,
+ let's
+ go
+ over
+
+
+to
+
+
+this.
+ Um,
+ let
+ me
+ find
+ my
+ right
+ window.
+
+
+It
+ is
+ this
+ window.
+
+
+Okay.
+ So,
+ what
+ I'm
+ doing
+ in
+ this
+ window,
+
+
+let
+ me
+ go
+ ahead
+ and
+ increase
+ my
+ font
+
+
+size
+ a
+ little
+ bit.
+ Is
+ up
+ here
+ in
+ the
+ top
+
+
+window.
+ And
+ I'm
+ going
+ to
+ exit
+ out
+ of
+
+
+these
+ because
+ I
+ only
+ need
+ two.
+
+
+Okay.
+ So,
+ in
+ the
+ top
+ window,
+ I'm
+ running
+
+
+my
+ worker
+ again.
+ You
+ saw
+ that
+ before.
+
+
+So,
+ I'm
+ running
+ the
+ worker
+ up
+ there.
+ And
+
+
+so,
+ it's
+ got
+ a
+ little
+ bit
+ of,
+ you
+ know,
+
+
+log
+ messages
+ that
+ are
+ going
+ to
+ come
+ out.
+
+
+And
+ then
+ down
+ here
+ is
+ where
+ I'm
+ starting
+
+
+the
+ workflow.
+ Here's
+ where
+ I'm
+
+
+interacting
+ with
+ the
+ agent.
+ So,
+ I'm
+
+
+going
+ to
+ I
+ just
+ pushed
+ some
+ of
+ this
+
+
+stuff.
+ Oh,
+ I'll
+ show
+ you
+ the
+ the
+
+
+repository
+ in
+ just
+ a
+ second.
+ So,
+ are
+
+
+there
+ any
+ weather
+ alerts
+ in
+ California?
+
+
+And
+ remember
+ the
+ code.
+ The
+ code
+ is
+ just
+
+
+that
+ agent,
+ right?
+ We've
+ still
+
+
+implemented
+ our
+ activities,
+ but
+ the
+ code
+
+
+is
+ that
+ agent
+ and
+ we
+ are
+ checking
+ and
+
+
+you
+ can
+ see
+ the
+ things
+ that
+ are
+
+
+scrolling
+ up
+ there.
+ So,
+ you
+ can
+ see
+
+
+actually
+ the
+ uh
+ API
+ calls
+ to
+ the
+ LLM.
+
+
+You
+ can
+ see
+ the
+ API
+ call
+ to
+ the
+ National
+
+
+Weather
+ Service.
+ And
+ so
+ if
+ we
+ come
+ back
+
+
+over
+ to
+ the
+ temporal
+
+
+UI,
+
+
+it's
+ a
+ different
+ it's
+ called
+ tools
+
+
+workflow.
+ Here
+ you
+ can
+ see
+ it
+ looks
+
+
+exactly
+ the
+ same,
+
+
+right?
+ And
+ that's
+ why
+ I
+ wanted
+ to
+ spend
+
+
+some
+ time
+ showing
+ it
+ to
+ you
+ with
+
+
+temporal
+ because
+ temporal,
+ if
+ you're
+
+
+building
+ these
+ temporal
+ native
+
+
+applications,
+ you
+ get
+ all
+ this
+
+
+durability.
+ You
+ get
+ this
+ visibility.
+ It
+
+
+looks
+ exactly
+ the
+ same,
+ but
+ you
+ were
+
+
+using
+ the
+ agents
+ SDK
+ to
+ implement
+ your
+
+
+agents,
+ which
+ I
+ think
+ is
+ just
+ so
+ cool.
+
+
+So,
+ let's
+ run
+ a
+ second
+ one.
+
+
+And
+ uh
+ I'll
+ show
+ you
+ the
+ repository
+ in
+
+
+just
+ a
+ second.
+ We're
+ going
+ to
+ run
+ this
+
+
+second
+ example
+ which
+ are
+ are
+ there
+ any
+
+
+weather
+ alerts
+ where
+ I
+ am.
+ And
+ we're
+
+
+going
+ to
+ come
+ over
+ here.
+ We'll
+ watch
+ it
+
+
+in
+ progress.
+
+
+So
+ here
+ it's
+ running.
+
+
+And
+ it's
+ running
+ exactly
+ the
+ same
+ way.
+
+
+And
+ I'm
+ going
+ to
+ run
+ it
+ one
+ more
+ time
+
+
+when
+ it
+ comes
+ back.
+ And
+ it
+ says,
+ "Nope,
+
+
+you're
+ good
+ in
+ New
+ York."
+ Let
+ me
+ run
+ it
+
+
+one
+ more
+ time.
+ I'll
+ let
+ it
+ get
+ started.
+
+
+Get
+ part
+ of
+ the
+ way
+ in.
+ Control
+ C
+ out
+ of
+
+
+this.
+ And
+ we
+ come
+ back
+ here
+
+
+and
+ we
+ see
+ the
+ same
+ thing
+ that
+ we
+ saw
+
+
+before,
+ right?
+ Agents
+ SDK
+ durable,
+
+
+which
+ is
+ so
+ sweet.
+ I
+ I
+ sorry
+ I
+ get
+ I
+ I
+
+
+do
+ this
+ all
+ the
+ time,
+ but
+ I
+ still
+ get
+ so
+
+
+excited
+ about
+ this.
+ Um
+
+
+and
+ there
+ it
+ goes.
+
+
+I'm
+ going
+ to
+ share
+ with
+ you
+ like
+ um
+ um
+ a
+
+
+a
+ way
+ to
+ think
+ about
+ this
+ intuitively
+
+
+what
+ we're
+ doing
+ here.
+ I've
+ been
+ writing
+
+
+software
+ for
+ over
+ 30
+ years.
+ Yes,
+ I
+ have
+
+
+the
+ gray
+ hair
+ to
+ prove
+ it,
+ right?
+ I
+ have
+
+
+I
+ have
+ written
+ that
+ software
+ where
+ I
+
+
+when
+ I'm
+ writing
+ the
+ software,
+ I'm
+
+
+thinking
+ about
+ the
+ processes
+ that
+ it
+
+
+runs
+ in.
+ I'm
+ thinking
+ about
+ the
+ fact
+
+
+that
+ oh
+ I've
+ got
+ a
+ process
+ here
+ and
+ what
+
+
+happens
+ if
+ something
+ happens
+ to
+ that
+
+
+process
+ or
+ as
+ I'm
+ scaling
+ things
+ out
+ and
+
+
+things
+ might
+ not
+ run
+ in
+ the
+ same
+
+
+processes
+ I'm
+ always
+ thinking
+ about
+
+
+processes
+
+
+with
+ temporal
+ what
+ you
+ get
+ to
+ do
+ is
+ you
+
+
+get
+ to
+ write
+ your
+ program
+ thinking
+ about
+
+
+a
+ process
+ as
+ a
+ logical
+ entity
+ and
+ just
+
+
+let
+ temporal
+ map
+ it
+ down
+ to
+ the
+ actual
+
+
+physical
+ processes
+ that
+ are
+ there.
+ This
+
+
+is
+ particularly
+
+
+it
+ it's
+ it's
+ so
+ cool
+ to
+ look
+ at
+ when
+ you
+
+
+do
+ things
+ like
+ human
+ in
+ the
+ loop.
+ So
+
+
+earlier
+ this
+ week
+ I
+ did
+ another
+ I've
+
+
+done
+ another
+ I
+ another
+ one
+ of
+ the
+ talks
+
+
+that
+ I
+ do
+ is
+ around
+ human
+ in
+ the
+ loop
+
+
+with
+ agents
+ and
+ one
+ of
+ the
+ big
+ pains
+ of
+
+
+human
+ in
+ the
+ loop
+ is
+ that
+ when
+ you're
+
+
+thinking
+ about
+ building
+ these
+ things
+ and
+
+
+you're
+ thinking
+ about
+ the
+ processes
+
+
+you're
+ like
+ okay
+ I
+ need
+ to
+ run
+ for
+ a
+
+
+little
+ while
+ and
+ now
+ I'm
+ going
+ to
+ wait
+
+
+for
+ the
+ human
+ in
+ the
+ loop
+ and
+ it
+ might
+
+
+take
+ a
+ second
+ it
+ might
+ take
+ a
+ minute
+
+
+likely
+ it's
+ going
+ to
+ take
+ hours
+ or
+ days
+
+
+before
+ this
+ human
+ comes
+ back.
+ What
+ do
+ I
+
+
+do
+ with
+ that
+ process
+ that's
+ waiting
+ for
+
+
+that
+ response
+ in
+ the
+ meantime?
+ Like
+ you
+
+
+as
+ a
+ developer
+ have
+ to
+ figure
+ that
+ out.
+
+
+With
+ temporal,
+ you
+ don't.
+ You
+ just
+ code
+
+
+it
+ as
+ if
+ that
+ process.
+ And
+ by
+ the
+ way,
+
+
+the
+ way
+ that
+ the
+ worker
+ architecture
+
+
+works
+ is
+ that
+ if
+ it's
+ waiting
+ on
+
+
+something
+ like
+ human
+ input,
+
+
+it
+ it'll
+ keep
+ it
+ in
+ memory
+ for
+ a
+ little
+
+
+while,
+ few
+ seconds,
+ then
+ it'll
+ take
+ it
+
+
+out
+ of
+ active
+ memory,
+ but
+ it's
+ still
+
+
+sitting
+ in
+ a
+ cache.
+ And
+ after
+ a
+ little
+
+
+bit
+ more
+ time,
+ it'll
+ come
+ out
+ of
+ the
+
+
+cache
+ and
+ it'll
+ be
+ just
+ as
+ if
+ you
+ had
+
+
+just
+ killed
+ that
+ process.
+ So
+ that
+ when
+
+
+it
+ does
+ come
+ back
+ after
+ days
+ or
+ weeks,
+
+
+when
+ the
+ user
+ comes
+ back
+ and
+ gives
+ you
+
+
+that
+ input,
+ it
+ just
+ reconstitutes
+ memory
+
+
+the
+ way
+ that
+ it
+ was
+ when
+ it
+ was
+ waiting
+
+
+for
+ the
+ user
+ and
+ continues
+ on.
+ So
+
+
+remember
+ I
+ said
+ it's
+ a
+ crash
+ or
+ it
+ might
+
+
+be
+ other
+ things,
+ operational
+ things,
+ all
+
+
+of
+ those
+ types
+ of
+ things.
+ So,
+ it's
+ so
+
+
+freeing
+ once
+ you
+ start
+ to
+ really
+ get
+
+
+into
+ this
+ temporal
+ thing.
+ It
+ is
+ so
+
+
+freeing
+ to
+ realize
+ that
+ I
+ don't
+ have
+ to
+
+
+think
+ about
+ physical
+ processes
+ anymore.
+
+
+To
+ me,
+ the
+ processes
+ are
+ just
+ logical.
+
+
+Temporal
+ takes
+ care
+ of
+ the
+ rest
+ for
+ me.
+
+
+Super
+ cool
+ stuff.
+ All
+ right,
+ we
+ have
+
+
+about
+ uh
+ 20
+ minutes
+ left.
+ I'm
+ going
+ to
+
+
+go
+ through
+ just
+ a
+ couple
+ more
+ slides
+ to
+
+
+answer
+ one
+ of
+ the
+ questions
+ around
+
+
+handoffs.
+
+
+um
+ and
+ just
+ show
+ you
+ just
+ a
+ little
+ bit
+
+
+more
+ content
+ and
+ then
+ we're
+ we'll
+ have
+ a
+
+
+little
+ bit
+ of
+ time
+ in
+ the
+ last
+ I
+ don't
+
+
+know
+ maybe
+ 10
+ you
+ know
+ 10
+ or
+ 15
+ minutes
+
+
+I'm
+ happy
+ to
+ take
+ more
+ questions
+ and
+
+
+Johan
+ would
+ be
+ I'm
+ sure
+ very
+ happy
+ to
+ to
+
+
+jump
+ in
+ as
+ well.
+ Okay.
+ So,
+ let
+ me
+
+
+So,
+ um
+
+
+there
+ are
+ with
+ the
+ OpenAI
+ agents
+ SDK.
+
+
+This
+ is
+ what
+ I'm
+ talking
+ about
+ here
+ is
+
+
+somewhat
+ specific
+ to
+ the
+ agents
+ SDK,
+ but
+
+
+this
+ does
+ kind
+ of
+ generalize
+ to
+ agents
+
+
+in
+ general,
+ which
+ is
+ with
+ the
+ open
+ AI
+
+
+agents
+ SDK.
+ The
+ kind
+ of
+ paradigm
+ that
+
+
+they
+ use
+ there
+ is
+ to
+ build
+ lots
+ of
+ small
+
+
+agents
+ that
+ have
+ their
+ own
+ independent
+
+
+agentic
+ loops
+ and
+ then
+ orchestrate
+ them
+
+
+together.
+ And
+ there's
+ two
+ ways
+ that
+ you
+
+
+can
+ orchestrate
+ them
+ together
+ in
+ the
+
+
+agents
+ SDK.
+ And
+ I'm
+ going
+ to
+ show
+ you
+
+
+both
+ of
+ those
+ in
+ just
+ a
+ moment.
+ So
+ what
+
+
+we
+ see
+ here
+ on
+ the
+ screen
+ are
+ just
+ a
+
+
+couple
+ of
+ diagrams
+ of
+ like,
+ okay,
+ I've
+
+
+got
+ a
+ triage
+ agent.
+ I've
+ got
+ a
+
+
+clarification
+ agent.
+ Then
+ I've
+ got
+ a
+
+
+human
+ in
+ the
+ loop.
+ That's
+ not
+ an
+ agent.
+
+
+Although
+ you
+ might
+ think
+ of
+ the
+ human
+ as
+
+
+the
+ agent
+ in
+ this
+ application,
+ right?
+
+
+Then
+ I've
+ got
+ an
+ instructions
+ agent
+
+
+that's
+ going
+ to
+ craft
+ some
+ stuff.
+ Then
+
+
+I've
+ got
+ a
+ planning
+ agent.
+ Then
+ you
+ can
+
+
+see
+ that
+ we're
+ doing
+ things
+ in
+ parallel.
+
+
+I
+ didn't
+ talk
+ about
+ this,
+ but
+ temporal
+
+
+has
+ all
+ those
+ abstractions.
+ You
+ can
+
+
+anything
+ that
+ you
+ can
+ write
+ in
+ a
+ regular
+
+
+programming
+ language,
+ you
+ want
+ to
+ do
+
+
+multi-threaded
+ and
+ have
+ a
+ bunch
+ of
+
+
+different
+ threads
+ and
+ do
+ things
+ in
+
+
+parallel
+ and
+ then
+ wait
+ for
+ them
+ to
+ come
+
+
+back
+ together.
+ You
+ can
+ do
+ that.
+ You
+ want
+
+
+to
+ have
+ some
+ kind
+ of
+ an
+ await
+ that
+ says,
+
+
+you
+ know what,
+ as
+ they
+ start
+ coming
+ in,
+
+
+I'll
+ start
+ processing
+ them.
+ No
+ problem.
+
+
+You
+ can
+ do
+ that.
+ Anything
+ that
+ you
+ can
+
+
+do
+ in
+ code,
+ you
+ can
+ do
+ with
+ temporal
+
+
+because
+ you're
+ just
+ coding.
+ So
+ that's
+
+
+effectively
+ the
+ way
+ that
+ it
+ works
+ here
+
+
+with
+ the
+ agent
+ SDK
+ as
+ well.
+ Um
+ I'll
+ show
+
+
+you
+ those
+ things
+ again
+ as
+ well.
+ So
+ you
+
+
+can
+ do
+ parallel,
+ you
+ can
+ have
+ long
+
+
+weights.
+ Um
+ and
+ you
+ can
+ have
+ loops.
+ So
+ I
+
+
+already
+ showed
+ you
+ the
+ fact
+ that
+ I
+
+
+didn't
+ have
+ to
+ craft
+ my
+ logic
+ in
+ the
+
+
+Python.
+ The
+ logic
+ the
+ LLM
+ made
+ the
+
+
+decisions
+ on
+ how
+ the
+ flow
+ was
+ going
+ to
+
+
+happen
+ in
+ that
+ application.
+ Right?
+ So
+ I
+
+
+just
+ had
+ a
+ loop
+ that
+ the
+ loop
+ itself
+ is
+
+
+like
+ fixed,
+ but
+ what
+ happens
+ in
+ the
+ loop
+
+
+is
+ entirely
+ determined
+ by
+ the
+ LLM.
+ So
+
+
+that
+ those
+ are
+ all
+ things
+ that
+ you
+ can
+
+
+do.
+ So
+ there's
+ two
+ ways
+ with
+ the
+ agents
+
+
+SDK
+ that
+ you
+ can
+ orchestrate
+ these
+
+
+microaggents.
+ And
+ by
+ the
+ way,
+ I
+ just
+
+
+have
+ to
+ say
+ I
+ love
+ the
+ term
+ microaggent.
+
+
+As
+ I
+ mentioned
+ early
+ on,
+ um
+ I
+ uh
+ I
+ spent
+
+
+a
+ lot
+ of
+ time
+ in
+ the
+ microservices
+ world
+
+
+and
+ oh
+ my
+ gosh,
+ did
+ we
+ get
+ a
+ lot
+ of
+
+
+mileage
+ out
+ of
+ that,
+ right?
+ That's
+ the
+
+
+reason
+ that
+ we
+ can
+ deploy
+ software
+
+
+multiple
+ times
+ a
+ day.
+ That's
+ the
+ reason
+
+
+why
+ we
+ can
+ scale
+ the
+ way
+ we
+ can
+ scale.
+
+
+Microservices
+ have
+ proven
+ themselves
+ to
+
+
+be
+ very
+ valuable.
+ we
+ I
+ think
+ we're
+ going
+
+
+to
+ see
+ a
+ very
+ similar
+ paradigm,
+ very
+
+
+similar
+ success
+ when
+ it
+ comes
+ to
+
+
+building
+ AI
+ agents,
+ MCP
+ tools,
+ and
+ all
+
+
+of
+ that
+ kind
+ of
+ stuff.
+ So,
+ I
+ love
+ the
+
+
+the
+ notion
+ of
+ microaggents
+ that
+ do
+ one
+
+
+thing
+ and
+ one
+ thing
+ well.
+ I've
+ spent
+
+
+enough
+ time
+ in
+ the
+ land
+ of
+ Unix
+ as
+ well
+
+
+that
+ makes
+ my
+ heart
+ sing.
+
+
+So,
+ just
+ code
+ and
+ handoffs.
+ The
+ just
+
+
+code
+ is
+ really
+ simple.
+ It's
+ what
+ I
+
+
+described
+ um
+ before.
+ So,
+ you
+ can
+ see
+
+
+here
+ that
+ I
+ have
+ a
+ runner.run.
+ I'm
+
+
+executing
+ an
+ agent.
+ I
+ get
+ back
+ a
+ result
+
+
+from
+ that
+ agent
+ and
+ I
+ pass
+ that
+ result
+
+
+into
+ the
+ next
+ agent.
+ I
+ can
+ parallelize,
+
+
+I
+ can
+ loop,
+ I
+ can
+ do
+ whatever
+ I
+ want.
+
+
+The
+ second
+ way
+ that
+ Oh
+ yeah,
+ and
+ I
+
+
+already
+ showed
+ all
+ that.
+ Um,
+ so
+ yeah.
+
+
+Yeah,
+ I
+ I
+ mentioned
+ all
+ of
+ those
+
+
+already.
+ Um,
+ the
+ second
+ uh
+ uh
+ way
+ that
+
+
+Open
+ AAI
+ and
+ were
+ you
+ talking
+ about
+ Open
+
+
+AI
+ specifically
+ when
+ you
+ were
+ asking
+
+
+about
+ handoffs?
+ Yeah.
+ So
+ for
+ those
+ of
+
+
+you
+ who
+ don't
+ know,
+ OpenAI
+ has
+ a
+ second
+
+
+way
+ of
+ doing
+ orchestrations
+ which
+ are
+
+
+called
+ handoffs.
+ And
+ so
+ what
+ you
+ see
+
+
+here
+ is
+ that
+ in
+ my
+ definition
+ of
+ an
+
+
+agent,
+ I
+ can
+ define
+ handoffs.
+ Those
+
+
+handoffs
+ are
+ other
+ agents.
+ They've
+ been
+
+
+defined.
+ I
+ probably
+ should
+ have
+ it
+ on
+
+
+the
+ slide,
+ but
+ I
+ have
+ a
+ weather
+ agent
+
+
+that
+ is
+ defined
+ very
+ similarly.
+ It's
+
+
+using
+ agent
+ has
+ a
+ name,
+ has
+
+
+instructions,
+ might
+ have
+ tools.
+
+
+So
+ these
+ two
+ are
+ agents.
+
+
+Um
+ and
+ all
+ of
+ this
+ works
+ with
+ the
+ the
+
+
+the
+ e
+ the
+ integration
+ with
+ with
+ um
+
+
+temporal
+ and
+ but
+ what's
+ interesting
+ here
+
+
+is
+ that
+ those
+ microaggents
+ when
+ it
+ hands
+
+
+off
+ to
+ an
+ agent
+ it
+ is
+ not
+ doing
+ a
+
+
+separate
+ agentic
+ loop.
+ it
+ effectively
+
+
+and
+ this
+ is
+ my
+ wacky
+ attempt
+ at
+ trying
+
+
+to
+ describe
+ what's
+ happening
+ here
+ is
+
+
+that
+ when
+ you
+ do
+ a
+ handoff
+ what
+ you're
+
+
+effectively
+ doing
+ is
+ just
+ changing
+ the
+
+
+context
+ of
+ the
+ agentic
+ loop
+ so
+ the
+ a
+
+
+there's
+ one
+ single
+ agentic
+ loop
+ you
+ have
+
+
+a
+ triage
+ agent
+ for
+ example
+ it
+ decides
+
+
+that
+ it's
+ going
+ to
+ go
+ into
+ delivering
+ I
+
+
+worked
+ at
+ Alexa
+ for
+ a
+ while
+ so
+ did
+ you
+
+
+ask
+ how
+ late
+ is
+ Costco
+ open
+ or
+ did
+ you
+
+
+ask
+ what
+ the
+ current
+ temperature
+ is
+
+
+right.
+ So
+ those
+ are
+ two
+ different
+
+
+agents,
+ the
+ weather
+ and
+ the
+ local
+ info
+
+
+agent.
+ And
+ what
+ you're
+ effectively
+ doing
+
+
+is
+ you
+ are
+ that
+ that
+ agentic
+ loop
+ is
+
+
+taking
+ on
+ a
+ different
+ persona.
+ You're
+
+
+just
+ switching
+ the
+ context.
+ And
+ we
+ heard
+
+
+lots
+ of
+ talks
+ this
+ week
+ about
+ context
+
+
+engineering
+ because
+ that's
+ the
+ beautiful
+
+
+thing
+ about
+ the
+ LLMs
+ being
+ forgetful
+ is
+
+
+that
+ you
+ can
+ just
+ you
+ can
+ completely
+
+
+control
+ what
+ you
+ want,
+ what
+ the
+ context
+
+
+is
+ that's
+ going
+ into
+ them.
+ So
+ this
+ works
+
+
+exactly.
+ So
+ temporal
+ is
+ totally
+ handoff.
+
+
+I
+ don't
+ have
+ a
+ live
+ demo
+ of
+ that.
+ Um,
+
+
+and
+ so
+ that's
+ it.
+ Okay.
+ So,
+ with
+ that,
+
+
+we're
+ going
+ to
+ have
+ a
+ few
+ minutes
+ left
+
+
+for
+ questions.
+ I
+ want
+ to
+ leave
+ you
+ with
+
+
+a
+ few
+ resources.
+ So,
+ what
+ you
+ see
+ here
+
+
+on
+ the
+ um
+ left
+ hand
+ side
+ is
+ you
+ see
+ a
+ QR
+
+
+code
+ for
+ the
+ uh
+ temporal
+ Python
+ SDK.
+
+
+You'll
+ find
+ lots
+ of
+ great
+ info
+ on
+ our
+
+
+Python
+ SDK,
+ but
+ you'll
+ also
+ find
+ a
+
+
+contrib
+ directory
+ and
+ that's
+ where
+ all
+
+
+of
+ the
+ integration
+ code
+ to
+ the
+ OpenAI
+
+
+agents
+ SDK
+ is.
+ And
+ you'll
+ find
+ lots
+ of
+
+
+samples
+ in
+ there.
+ On
+ the
+ right
+ hand
+
+
+side,
+ I
+ didn't
+ have
+ a
+ QR
+ code
+ for
+ it
+
+
+because
+ my
+ marketing
+ folks
+ don't
+ work
+ on
+
+
+Saturday
+ mornings.
+ Good
+ for
+ them.
+ Um,
+ is
+
+
+you
+ will
+ see
+ a
+ URL
+ UR
+ URL
+ here.
+ So,
+ if
+
+
+you
+ go
+ to
+ our
+ documentation,
+ so
+
+
+docs.temper
+ temporal.io.
+ At
+ in
+ the
+ top
+
+
+banner,
+ you'll
+ find
+ AI
+ cookbook.
+ We
+ have
+
+
+an
+ AI
+ cookbook
+ that
+ implements
+ a
+ bunch
+
+
+of
+ patterns.
+ The
+ one
+ that
+ I
+ showed
+ you
+
+
+today,
+ the
+ Agentic
+ Loop,
+ is
+ in
+ a
+ um
+
+
+branch
+ at
+ the
+ moment.
+ It
+ is
+ ready
+ to
+ be
+
+
+merged.
+ It's
+ been
+ reviewed,
+ but
+ my
+
+
+reviewer
+ didn't
+ actually
+ give
+ it
+ an
+
+
+approval
+ review.
+ They
+ just
+ reviewed
+ it
+
+
+and
+ said,
+ "Looks
+ good,
+ but
+ I
+ need
+ an
+
+
+approved,
+ so
+ I
+ couldn't
+ merge
+ it
+ this
+
+
+morning."
+ Um,
+ but
+ that
+ uh
+ recipe
+ will
+ be
+
+
+up
+ there.
+ And
+ there's
+ a
+ number
+ of
+
+
+others.
+ There's
+ a
+ recipe
+ in
+ there
+ for
+
+
+OpenAI
+ agents
+ SDK.
+ So
+ you'll
+ find
+ that
+
+
+in
+ there
+ as
+ well.
+ Um,
+ so
+ summing
+ it
+ up,
+
+
+I
+ don't
+ I'm
+ not
+ going to
+ belabor
+ that.
+ I
+
+
+think
+ we
+ went
+ over
+ that
+ as
+ well.
+ Two
+
+
+other
+ resources
+ that
+ I
+ want
+ to
+ leave
+ you
+
+
+with
+ is
+ on
+ the
+ left
+ hand
+ side
+ you'll
+
+
+find
+ our
+ blog
+ where
+ we
+ describe
+ the
+
+
+integration
+ of
+ the
+ OpenAI
+ agents
+ SDK
+ and
+
+
+Temporal.
+ So
+ that's
+ the
+ blog
+ on
+ the
+ left
+
+
+hand
+ side.
+ The
+ other
+ thing
+ you'll
+ notice
+
+
+is
+ that
+ that
+ I
+ have
+ a
+ paidantic
+ blog
+
+
+there.
+ And
+ so
+ this
+ idea
+ of
+ in
+ bringing
+
+
+durability
+ to
+ these
+ otherwise
+
+
+non-durable
+ a
+ you
+ know
+ agent
+ frameworks
+
+
+is
+ a
+ very
+ popular
+ one.
+ So
+ after
+ we
+ did
+
+
+open
+ AAI
+ agents
+ SDK
+ pyantic
+ themselves
+
+
+integrated
+ temporal
+ into
+ their
+ agent
+
+
+framework
+ and
+ Johan
+ do
+ you
+ I
+ I
+ don't
+
+
+know
+ which
+ ones
+ we
+ can
+ talk
+ about.
+ We
+
+
+have
+ a
+ whole
+ bunch
+ of
+ other
+ ones
+ in
+
+
+progress.
+ Is
+ that
+ all
+ we
+ want
+ to
+ say
+ or
+
+
+do
+ you
+ want
+ to
+ talk
+ about
+ any
+ of
+ those
+
+
+in
+ specific?
+ That's
+ that's
+ all
+ for
+
+
+today,
+ but
+ there's
+ more
+ coming.
+
+
+>> Yeah,
+ I
+ think
+ we
+ have
+ two
+ or
+ three
+ or
+
+
+four
+ that
+ are
+ in
+ progress
+ right
+ now
+ that
+
+
+will
+ be
+ popping
+ out
+ either
+ from
+ us
+ or
+
+
+from
+ some
+ of
+ the
+ other
+ agentic
+
+
+frameworks.
+ So,
+ this
+ idea
+ of
+ bringing
+
+
+durability
+ to
+ what
+ is
+ otherwise
+ kind
+ of
+
+
+just
+ a
+ a
+ proof
+ of
+ concept
+ tool
+ is
+ is
+
+
+turning
+ out
+ to
+ be
+ quite
+ powerful.
+ And
+
+
+then
+ finally,
+ if
+ you
+ would
+ be
+ so
+
+
+inclined,
+ here's
+ a
+ QR
+ code
+ and
+ a
+ URL.
+ If
+
+
+you
+ want
+ to
+ give
+ us
+ some
+ feedback
+ on
+
+
+this
+ workshop,
+ we'd
+ really
+ appreciate
+
+
+it.
+ Um,
+ and
+ include
+ in
+ that
+ feedback.
+
+
+There's
+ some
+ free
+ form
+ in
+ there.
+ Include
+
+
+in
+ that
+ feedback
+ what
+ you'd
+ like
+ to
+ see
+
+
+more
+ of.
+ Like,
+ hey,
+ this
+ was
+ cool,
+ but
+
+
+it
+ didn't
+ go
+ far
+ enough
+ or
+ you
+ mentioned
+
+
+this.
+ I'd
+ really
+ I'd
+ really
+ like
+ to
+ see
+
+
+more
+ about
+ Human
+ in
+ the
+ Loop.
+ By
+ the
+
+
+way,
+ if
+ you
+ go
+ on
+ our
+ YouTube
+ channel,
+
+
+you
+ will
+ find
+ a
+ bunch
+ of
+ different
+
+
+presentations.
+ So,
+ the
+ human
+ in
+ the
+
+
+loop,
+ I
+ did
+ a
+ webinar
+ on
+ that
+ like
+ three
+
+
+weeks
+ ago.
+ We've
+ done
+ some
+ MCP
+ module,
+
+
+MCP
+ things,
+ even
+ advanced.
+ So,
+ we
+ did
+ an
+
+
+advanced
+ one
+ where
+ where
+ we
+ showed
+ you
+
+
+how
+ you
+ can
+ use
+ temporal
+ to
+ implement
+ an
+
+
+MCP
+ server
+ that
+ is
+ durable
+ and
+ supports
+
+
+sampling
+ and
+ elicitation
+ in
+ a
+ much
+ more
+
+
+durable
+ way
+ than
+ it
+ otherwise
+ is.
+ Um,
+
+
+and
+ with
+ that,
+ we
+ still
+ have
+ now
+ about
+
+
+eight
+ minutes.
+ Um,
+ so,
+ oh,
+ I'll
+ also
+
+
+mention,
+ especially
+ if
+ you're
+ in
+ the
+ Bay
+
+
+Area,
+ but
+ if
+ you
+ even
+ if
+ you're
+ not,
+ is
+
+
+that
+ our
+ conference,
+ our
+ replay
+
+
+conference,
+ the
+ temporal
+ conference,
+ um,
+
+
+is
+ in
+ May
+ and
+ it's
+ going
+ to
+ be
+ at
+
+
+Moscone.
+ And
+ so,
+ we
+ sure
+ would
+ love
+ to
+
+
+see
+ you
+ there
+ as
+ well.
+ And
+ oh,
+ I
+ you
+
+
+know
+ this
+ this
+ QR
+ code
+ here
+ was
+ meant
+
+
+for
+ the
+ workshop
+ that
+ I
+ did
+ on
+ Tuesday,
+
+
+but
+ heck,
+ might
+ as
+ well
+ use
+ it
+ here.
+ 75%
+
+
+off.
+ Yes,
+ 75%
+ off
+ the
+ registration
+ um
+
+
+for
+ uh
+ replay.
+ So,
+ invite
+ you
+ to
+ come
+
+
+there.
+ You'll
+ find
+ me,
+ you'll
+ find
+
+
+Johan,
+ you'll
+ find
+ a
+ whole
+ bunch
+ more
+ of
+
+
+us.
+ And
+ you
+ can
+ see
+ that
+ we've
+ got
+ all
+
+
+sorts
+ of
+ really
+ cool
+ people
+ like
+ Samuel
+
+
+Coven
+ is
+ coming
+ and
+ we've
+ got
+ like
+
+
+people
+ from
+ Replet
+ and
+ Nvidia
+ and
+ lots
+
+
+more
+ coming.
+ So
+ I'll
+ leave
+ the
+ feedback
+
+
+up
+ there.
+ So
+ we
+ have a
+ few
+ minutes
+ left
+
+
+for
+ questions.
+
+
+>> Yes.
+
+
+>> Um
+ how
+ state
+ saved
+ temporal
+
+
+>> how
+ is
+ state
+ saved?
+
+
+>> You
+ shut
+ down
+ the
+ server
+ it
+ just
+ loses
+
+
+all
+ memory
+ of
+ all
+ the
+ workers.
+
+
+>> Yeah.
+ Okay.
+ So
+ you're
+ talking
+ about
+ the
+
+
+temporal
+ server
+ that
+ I
+ showed
+ you
+ how
+
+
+you
+ can
+ run
+ it
+ locally.
+ So
+ when
+ you're
+
+
+running
+ it
+ locally,
+ you
+ can
+ put
+ a
+ switch
+
+
+on
+ there
+ that
+ says,
+ "Hey,
+ store
+ it
+ in
+ a
+
+
+like
+ SQL
+ light
+ or
+ something
+ like
+ that."
+
+
+So
+ you
+ can
+ there
+ is
+ there's
+ state
+ that
+
+
+backs
+ it.
+ I
+ usually
+ don't
+ run
+ that
+ way
+
+
+because
+ I
+ want
+ to
+ throw
+ away
+ things
+
+
+anyway.
+ Um,
+
+
+so
+ Temporal
+ is
+ open
+ source
+ and
+ we
+ have
+
+
+lots
+ of
+ users
+ that
+ self-host
+ it.
+ Because
+
+
+it's
+ open
+ source,
+ we
+ literally
+ at
+ events
+
+
+like
+ this
+ always
+ run
+ into
+ people.
+ I
+ ran
+
+
+into
+ somebody
+ yesterday
+ or
+ something
+ who
+
+
+was
+ like,
+ "Oh
+ yeah,
+ we're
+ using
+
+
+Temporal."
+ And
+ I'm
+ like,
+ and
+ they're
+
+
+just
+ using
+ the
+ open
+ source.
+ Um,
+ so
+ it's
+
+
+it
+ truly
+ is
+ open-
+ source.
+ Um,
+ and
+ so
+ we
+
+
+do
+ have
+ people
+ who
+ are
+ self-hosting
+ it
+
+
+and
+ we
+ support
+ relational
+ database
+ and
+
+
+Cassandra
+ as
+ the
+ backing
+ stores
+ on
+
+
+temporal
+ cloud.
+ Part
+ of
+ the
+ reason
+ that
+
+
+um
+ that
+ people
+ come
+ to
+ cloud
+ is
+ that
+
+
+first
+ of
+ all,
+ we
+ run
+ cloud
+ in
+ 15
+
+
+different
+ Amazon
+ regions.
+ Uh
+ I
+ don't
+
+
+know
+ four,
+ five,
+ six
+ Google
+ regions.
+ We
+
+
+have
+ multi-reion
+ namespaces.
+ All
+ of
+ that
+
+
+durability.
+ And
+ then
+ we
+ do
+ also
+ have
+
+
+some
+ special
+ sauce
+ on
+ the
+ persistence
+
+
+that
+ allows
+ us
+ to
+ do
+ things
+ more
+
+
+efficiently.
+ Um
+ uh
+ but
+ we
+ have
+ people
+
+
+who
+ are
+ hosting
+ it
+ quite
+ quite
+
+
+successfully
+ using
+ the
+ Cassandra
+ or
+ the
+
+
+database
+ options.
+ So
+ yeah,
+
+
+any
+ other
+ questions?
+ Yes.
+
+
+>> Start
+ and
+ stop
+ the
+ agents.
+
+
+>> When
+ I
+ start
+ and
+ stop
+ the
+ instance
+ the
+
+
+agent
+ you
+ mean?
+ I
+ mean
+ how
+ do
+ we
+ stop
+ it
+
+
+if
+ the
+ user
+ wants
+ to
+ stop
+ it
+
+
+>> the
+ work
+ so
+
+
+>> the
+ workflow
+
+
+>> yeah
+
+
+um
+ so
+ there
+ there
+ are
+ a
+ couple
+ of
+
+
+different
+ ways
+ that
+ you
+ can
+ start
+ a
+
+
+workflow
+ you
+ can
+ start
+ a
+ workflow
+
+
+expecting
+ it
+ to
+ be
+ you
+ know
+ synchronous
+
+
+and
+ it
+ just
+ ends
+ and
+ you
+ would
+ have
+ to
+
+
+have
+ some
+ kind
+ of
+ a
+ kill
+ on
+ that
+ but
+
+
+more
+ commonly
+ you're
+ going
+ to
+ start
+ it
+
+
+in
+ an
+ async
+ mode
+ and
+ you're
+ going
+ to
+ get
+
+
+back
+ a
+ handle
+ and
+ then
+ you
+ can
+ do
+ things
+
+
+against
+ that
+ handle
+ to
+ stop
+ workflows.
+
+
+Um
+ but
+ generally
+ the
+ the
+ most
+ common
+
+
+thing
+ is
+ that
+ you
+ are
+ going
+ to
+ define
+ in
+
+
+your
+ logic
+ what
+ it
+ means
+ to
+ have
+
+
+completed
+ that
+ agentic
+ experience
+ or
+
+
+completed
+ that
+ workflow
+ in
+ some
+ way
+
+
+shape
+ or
+ form.
+ And
+ so
+ you
+ will
+ decide
+ oh
+
+
+I'm
+ done
+ now
+ and
+ you'll
+ just
+ return.
+ So
+
+
+it's
+ really
+ as
+ simple
+ as
+ doing
+ a
+ return
+
+
+from
+ it.
+ It's
+ that's
+ a
+ good
+ question
+
+
+though
+ since
+ we're
+ talking
+ about
+ these
+
+
+asynchronous
+ things.
+ I
+ didn't
+ talk
+ about
+
+
+it
+ in
+ this
+ session,
+ but
+ one
+ of
+ the
+
+
+really
+ powerful
+ things
+ is
+ that
+ these
+
+
+workflows
+ can
+ run
+ for
+ hours,
+ minutes,
+
+
+days,
+ weeks,
+ months,
+ years,
+ and
+ it's
+
+
+super
+ efficient.
+ And
+ what
+ we
+ what
+ a
+
+
+pattern
+ that
+ a
+ lot
+ of
+ our
+ users
+ use
+ is
+
+
+they
+ use
+ it
+ they
+ use
+ a
+ workflow
+ as
+ kind
+
+
+of
+ a
+ digital
+ twin
+ of
+ something
+ else.
+ We
+
+
+call
+ it
+ entity
+ workflows
+ as
+ well.
+ So,
+
+
+for
+ example,
+ you
+ might
+ have
+ a
+ workflow
+
+
+that
+ corresponds
+ to
+ a
+ loyalty
+ customer
+
+
+and
+ every
+ time
+ that
+ loyalty
+ customer
+
+
+scans
+ their
+ QR
+ code
+ at
+ the
+ checkout
+
+
+register,
+ it'll
+ send
+ a
+ signal
+ into
+ the
+
+
+workflow
+ and
+ the
+ workflow
+ is
+ otherwise
+
+
+not
+ consuming
+ any
+ resources
+ and
+ it
+ will
+
+
+just
+ pop
+ up,
+ take
+ the
+ signal,
+ process
+
+
+what
+ it
+ needs
+ to
+ and
+ go
+ away
+ again.
+ So
+
+
+that
+ is
+ a
+ very
+ very
+ common
+ pattern
+ is
+
+
+this
+ notion
+ of
+ digital
+ workflows
+ as
+
+
+digital
+ twins
+ of
+ some
+ um
+ other
+ processor
+
+
+some
+ other
+ entity.
+ Super
+ super
+ powerful.
+
+
+Lots
+ of
+ people
+ use
+ that.
+
+
+>> Yes.
+
+
+>> Another
+ one.
+
+
+>> Yeah.
+
+
+>> Um
+ so
+ if
+ work
+ goes
+ down
+ and
+ you've
+ got
+
+
+it
+ like
+ in
+ that
+ block
+ state
+ where
+ it's
+
+
+just
+ sitting,
+
+
+>> how
+ do
+ you
+ guys
+ have
+ any
+ kind
+ of
+
+
+integration
+ with
+ like
+ incident
+
+
+management
+ things
+ that
+ would
+ like
+
+
+trigger
+ an
+ alert
+ so
+ that
+ engineer
+ can
+
+
+come
+ in
+ the
+ worker?
+ Yeah.
+ So
+ we
+ we
+ as
+
+
+far
+ as
+ I
+ know
+ we
+ do
+ not
+ have
+ those
+
+
+integrations
+ but
+ we
+ our
+ customers
+ build
+
+
+those
+ integrations.
+
+
+>> Yeah.
+ Yeah.
+ They
+ absolutely
+ build
+ those
+
+
+on
+ top.
+ Whether
+ we
+ have
+ some
+ of
+ those
+ in
+
+
+cloud
+ I'm
+ not
+ sure
+ but
+ it
+ isn't
+
+
+something
+ like
+ we
+ don't
+ have
+ like
+ native
+
+
+Slack
+ connectors
+ or
+ those
+ types
+ of
+
+
+things.
+ And
+ some
+ of
+ that
+ of
+ course
+
+
+wouldn't
+ necessarily
+ be
+ a
+ temporal
+
+
+thing.
+ Like
+ if
+ you're
+ running
+ your
+
+
+workers
+ on
+ Kubernetes,
+ you
+ might
+ have
+ um
+
+
+set
+ up
+ your
+ Kubernetes
+ configuration
+ so
+
+
+that
+ when
+ the
+ when
+ the
+ um
+ when
+ the
+
+
+container
+ goes
+ down,
+ you're
+ going
+ to
+ get
+
+
+alerts
+ or
+ when
+ you
+ see
+ something
+ in
+ the
+
+
+Kubernetes
+ dashboard
+ where
+ oh
+ gosh,
+ like
+
+
+my
+ autoscaler
+ and
+ of
+ course
+ you
+ can
+ have
+
+
+these
+ workers
+ and
+ you
+ you
+ can
+ have
+ them
+
+
+running
+ in
+ on
+ Kubernetes
+ with
+
+
+autoscalers.
+ So
+ a
+ lot
+ of
+ that
+ or
+ you
+
+
+know
+ that
+ like
+ it
+ orchestration
+ stuff
+
+
+probably
+ would
+ come
+ through
+ your
+
+
+operational
+ environment.
+ Um
+ you
+ are
+
+
+that's
+ actually
+ a
+ really
+ good
+ point
+ is
+
+
+that
+ we
+ host
+ the
+ server
+ but
+ we
+ do
+ not
+
+
+host
+ the
+ workloads
+ for
+ you.
+ So
+ you're
+
+
+hosting
+ the
+ work
+ workloads
+ yourself.
+
+
+Most
+ people
+ love
+ that
+ because
+ they
+ want
+
+
+complete
+ control
+ over
+ that.
+ We
+ are
+
+
+toying
+ with
+ the
+ idea
+ in
+ some
+ instances
+
+
+of
+ maybe
+ hosting
+ workers
+ in
+ the
+ future
+
+
+but
+ that's
+ nothing
+ on
+ the
+ road
+ map
+ right
+
+
+now.
+
+
+So
+ yes,
+
+
+>> examples
+ of
+ people
+ building
+ like
+ voice
+
+
+agents
+ with
+ temporal
+ or
+
+
+>> examples
+ of
+ people
+ building
+ voice
+ agents
+
+
+with
+ temporal.
+ I
+ don't
+ know
+ of
+ any
+
+
+offhand.
+
+
+I
+
+
+>> I
+ don't
+ know
+ of
+ any
+ that
+ are
+ deployed.
+
+
+Um
+ people
+ are
+ experimenting
+ with
+ it.
+
+
+We're
+ experimenting
+ with
+ voice
+ agents.
+
+
+Um
+ and
+ it's
+ definitely
+ something
+ that
+
+
+that
+ makes
+ sense.
+ That's
+ one
+ of
+ the
+
+
+places
+ where
+ we
+ expect
+ agents
+ to
+ go
+ in
+
+
+the
+ future.
+
+
+>> Yep.
+ Yes.
+ question
+ in
+ the
+ back.
+
+
+>> So,
+ I
+ do
+ not
+ have
+ Claude
+ up
+ in
+ keep
+ an
+
+
+eye
+ on
+ the
+ cookbook.
+ I
+ do
+ not
+ have
+
+
+examples
+ for
+ Claude
+ just
+ yet.
+ Um,
+ I
+ have
+
+
+Gemini
+ almost
+ done.
+ Um,
+ and
+ yeah,
+ we
+
+
+want
+ to
+ we
+ want
+ to
+ add
+ Claude
+ to
+ the
+ the
+
+
+cookbook
+ as
+ well.
+ We'll
+ also
+ happily
+
+
+take
+ PRs.
+ So
+ if
+ you
+ want
+ to
+ take
+ this
+
+
+example
+ and
+ map
+ it
+ over
+ to
+ to
+ Claude,
+
+
+we'd
+ love
+ to
+ have
+ PRs
+ on
+ that
+ as
+ well.
+
+
+So
+ yeah,
+ this
+ this
+ is
+ the
+ cookbook
+ is
+
+
+all
+ open
+ source.
+ It's
+ all
+ in
+ MIT
+
+
+licensed
+ in
+ our
+ main
+ repository,
+ our
+
+
+main
+ org.
+
+
+>> Yes.
+
+
+>> Any
+ example
+ agents
+ on
+ extracting
+
+
+information
+ from
+ Excel,
+ PDF?
+
+
+>> Example
+ agents
+ of
+ extracting
+ from
+ Excel
+
+
+or
+ PDF?
+ I
+ don't
+ have
+ any
+ personally.
+
+
+um
+ you
+ know
+ we
+ one
+ of
+ the
+ other
+ things
+
+
+that
+ I'll
+ mention
+ is
+ that
+ we
+ have
+ a
+ code
+
+
+exchange
+ so
+ we
+ have
+ um
+ the
+ cookbook
+ is
+
+
+ours
+ and
+ that's
+ where
+ we're
+ very
+ we're
+
+
+very
+ careful
+ about
+ making
+ sure
+ that
+ it
+
+
+demonstrates
+ best
+ practices
+ and
+ we
+ we
+ do
+
+
+rigorous
+ reviews
+ on
+ those
+ because
+ we
+
+
+don't
+ want
+ to
+ mislead
+ you
+ at
+ all.
+ We
+
+
+also
+ have
+ a
+ code
+ exchange
+ which
+ we
+ have
+
+
+literally
+ I
+ think
+ 20
+ or
+ 30
+ or
+ 40
+
+
+examples
+ in
+ there.
+ There
+ might
+ be
+
+
+something
+ in
+ there.
+ I'm
+ I'm
+ honestly
+ not
+
+
+sure.
+ Um,
+ yeah.
+
+
+>> Is
+ it
+ like
+ a
+ GitHub?
+
+
+>> Yes,
+ it
+ is.
+ So,
+ you'll
+ find
+ the
+ code
+
+
+exchange
+ on
+ our
+ website
+ and
+ all
+ and
+ I
+
+
+believe
+ all
+ of
+ the
+ entries
+ in
+ the
+ code
+
+
+exchange
+ have
+ GitHub
+ URLs.
+ We
+ don't
+ own
+
+
+most
+ of
+ them
+ um
+ because
+ they're
+ from
+ the
+
+
+community,
+ but
+ they're
+ in
+ other
+ people's
+
+
+repositories.
+ So,
+ yeah,
+ you
+ would
+ find
+
+
+that.
+
+
+>> All
+ right.
+ Well,
+ this
+ has
+ been
+ Oh,
+ is
+
+
+there
+ another
+ question?
+ No,
+ I
+ I
+ just
+
+
+want
+ to
+ comment
+ that
+ uh
+ we've
+ mentioned
+
+
+a
+ few
+ times
+ that's
+ coming
+ or
+ that
+ would
+
+
+be
+ really
+ really
+ cool
+ to
+ do
+ and
+ um
+ you
+
+
+know
+ uh
+ my
+ team
+ is
+ hiring
+ uh
+ for
+ folks
+
+
+>> the
+ hiring
+ plug
+
+
+>> on
+ these
+ AI
+ applications
+ of
+ temporal.
+
+
+>> Okay.
+ And
+ since
+ he
+ said
+ that
+ I
+ am
+ a
+ I'm
+
+
+in
+ developer
+ advocacy.
+ We're
+ looking
+ for
+
+
+developer
+ advocates
+ too.
+ So
+ if
+ you
+ fit
+
+
+the
+ engineer
+ profile
+ talk
+ to
+ Johan.
+ If
+
+
+you
+ fit
+ the
+ developer
+ advocate
+ profile
+
+
+come
+ talk
+ to
+ me.
+
+
+So,
+ okay.
+ Well,
+ thank
+ you
+ so
+ much.
