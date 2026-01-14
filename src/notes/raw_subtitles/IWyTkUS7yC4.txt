@@ -1,0 +1,15204 @@
+Hi
+ everybody.
+ Uh,
+ welcome
+ to
+ In
+ Good
+
+
+Company.
+ I'm
+ Nicolola
+ Tangen,
+ the
+ CEO
+ of
+
+
+the
+ Norwegian
+ Sovereign
+ Wealth
+ Fund.
+ And
+
+
+today
+ we
+ have
+ the
+ founder
+ and
+ CEO
+ of
+
+
+Figma
+ visiting
+ us,
+ Dylan
+ Field.
+ Now,
+
+
+quite
+ incredibly,
+ uh,
+ Dylan
+ founded
+
+
+Figma
+ when
+ he
+ was
+ 19
+ years
+ old.
+ And
+ now
+
+
+14
+ years
+ later,
+ Figma
+ had
+ one
+ of
+ the
+
+
+biggest
+ IPO
+ uh,
+ IPOs
+ of
+ 2025.
+ So,
+ warm
+
+
+welcome.
+
+
+>> Thank
+ you
+ for
+ having
+ me.
+
+
+>> So,
+ um,
+ Dylan,
+ we
+ have
+ to
+ start.
+ What
+
+
+does
+ Figma
+ do?
+ Yes.
+ So,
+ Figma
+ is
+ a
+
+
+platform
+ that
+ helps
+ you
+ go
+ from
+ an
+ idea
+
+
+in
+ your
+ head
+ to
+ a
+ production
+ application
+
+
+uh
+ in
+ the
+ software
+ space,
+ but
+ also
+ once
+
+
+you
+ ship
+ something
+ uh
+ once
+ you
+ ship
+ some
+
+
+software,
+ you
+ want
+ to
+ then
+ market
+ it.
+
+
+And
+ we
+ also
+ help
+ with
+ that
+ too.
+
+
+>> We
+ help
+ you
+ get
+ your
+ brand
+ out
+ there
+ uh
+
+
+and
+ make
+ it
+ so
+ you
+ can
+ create
+ more
+
+
+collateral
+ around
+ it.
+ And
+ ultimately,
+
+
+it's
+ not
+ just
+ some
+ linear
+ process
+ where
+
+
+you
+ have
+ an
+ idea
+ and
+ you
+ get
+ to
+ finish
+
+
+product
+ and
+ you're
+ done.
+ uh
+ perhaps
+ in
+
+
+the
+ industrial
+ design
+ world,
+ we
+ were
+
+
+talking
+ about
+ that
+ before
+
+
+>> we
+ started,
+ that's
+ more
+ of
+ what
+ it
+ is,
+
+
+>> but
+ in
+ software,
+ it's
+ always
+ a
+ loop
+ and
+
+
+you're
+ always
+ iterating
+ and
+ you're
+
+
+learning
+ and
+ you're
+ trying
+ to
+ figure
+ out
+
+
+how
+ do
+ I
+ evolve
+ this
+ thing
+ that
+ I've
+
+
+created
+ with
+ my
+ team
+ and
+ uh
+ we
+ try
+ to
+
+
+make
+ it
+ very
+ collaborative
+ so
+ designers
+
+
+can
+ bring
+ their
+ entire
+ team
+ in
+
+
+>> to
+ do
+ that.
+ Uh
+
+
+>> so
+ listen
+ now
+ I'm
+ I'm
+ uh
+ I
+ run
+ a
+ cup
+
+
+factory.
+ Okay,
+ so
+ now
+ I'm
+ going
+ to
+
+
+design
+ a
+ new
+ cup.
+ Uh
+ here
+ we
+ go.
+ We
+ are
+
+
+like
+ four
+ people.
+ they
+ want
+ to
+ design
+ a
+
+
+cup.
+ How
+ do
+ we
+ use
+ your
+ software?
+
+
+>> Uh
+ we
+ have
+ people
+ that
+ will
+ maybe
+ draw
+
+
+cups
+ or
+ maybe
+ they
+ will
+ market
+ their
+
+
+cups
+ on
+ Figma,
+ but
+ we're
+ not
+ a
+ piece
+ of
+
+
+software
+ for
+ uh
+ 3D
+ or
+ you
+ know
+ CAD
+
+
+design.
+ And
+ so
+ that's
+ typically
+ not
+ what
+
+
+people
+ use
+ for.
+ But
+ I'm
+ always
+ amazed
+
+
+when
+ people
+ will
+ draw
+ 3D
+ assets
+ like
+ a
+
+
+beautiful
+ cup
+ with
+ a
+ amazing
+ shadow
+ and
+
+
+incredible
+ lighting
+ in
+ Figma.
+ Not
+ what
+
+
+it's
+ made
+ for,
+ but
+ people
+ do
+ it.
+ M
+
+
+>> that
+ said
+ uh
+ yeah
+ CAD
+ is
+ an
+ entirely
+
+
+different
+ area
+ and
+ we
+ really
+ stick
+ to
+
+
+digital
+ design.
+
+
+>> Why
+ is
+ um
+ why
+ is
+ design
+ such
+ an
+
+
+important
+ differentiator?
+
+
+>> So
+ I
+ think
+ going
+ back
+ a
+ bit
+ uh
+ and
+
+
+speaking
+ about
+ digital
+ product
+ design
+
+
+the
+
+
+history
+ of
+ design
+ I
+ think
+ is
+ interesting
+
+
+in
+ the
+ digital
+ realm
+ because
+ for
+ a
+ long
+
+
+time
+ there
+ were
+ very
+ very
+ few
+ designers.
+
+
+Almost
+ none
+ of
+ them
+ had
+ a
+ traditional
+
+
+art
+ school
+ background
+ or
+ very
+ few
+ did.
+
+
+And
+ many
+ of
+ them
+ randomly
+ found
+ their
+
+
+way
+ into
+ design.
+
+
+>> Sometimes
+ from
+ engineering,
+ sometimes
+
+
+they
+ were
+ in
+ a
+ band
+ and
+ made
+ a
+ poster.
+
+
+Uh
+ it
+ could
+ come
+ from
+ any
+ different
+
+
+place.
+ But
+ there's
+ a
+ period
+ of
+ time
+ in
+
+
+uh
+ for
+ example
+ 2000
+ uh
+ the
+ dot
+ era
+ where
+
+
+the
+ mantra
+ was
+ build
+ it
+ and
+ they
+ will
+
+
+come.
+ And
+ at
+ that
+ point,
+ if
+ you
+ had
+ a
+
+
+designer,
+ which
+ was
+ rare,
+
+
+the
+ sort
+ of
+ role
+ of
+ design
+ was
+ conceived
+
+
+to
+ be
+ what
+ uh
+ sometimes
+ in
+ America
+ we
+
+
+call
+ lipstick
+ on
+ a
+ pig.
+ The
+ uh
+ you
+ know,
+
+
+you
+ got
+ a
+ pig,
+ but
+ we're
+ going
+ to
+ put
+
+
+some
+ lipstick
+ on
+ it
+ to
+ make
+ it
+ pretty.
+
+
+And
+ it
+ was
+ really
+ about
+ making
+ it
+ uh
+
+
+aesthetically
+ pleasing,
+ but
+ not
+ thinking
+
+
+about
+ the
+ function,
+ the
+ form,
+ how
+ it
+
+
+works.
+ M
+
+
+>> and
+ that
+ has
+ changed
+ dramatically
+ over
+
+
+the
+ past
+ 25
+ years.
+
+
+>> First
+ we
+ got
+ to
+ the
+ 2010
+ era
+ where
+ you
+
+
+not
+ only
+ have
+ Apple
+ evangelizing
+ design
+
+
+and
+ saying
+ how
+ it
+ works
+ matters.
+ this
+ is
+
+
+why
+ you
+ should
+ buy
+ this
+ iPhone
+ with
+
+
+Steve
+ Jobs
+ championing
+ design.
+ But
+ also
+
+
+you
+ have
+ the
+ advent
+ of
+ consumer
+
+
+applications
+ like
+ Facebook
+ or
+ Gmail
+
+
+>> and
+ suddenly
+ the
+ expectations
+ rise
+ and
+
+
+at
+ the
+ same
+ time
+ you
+ know
+ things
+ like
+
+
+AWS
+ cloud
+ computing
+ are
+ starting
+ to
+ pick
+
+
+up
+ and
+ we've
+ moved
+ from
+ a
+ world
+ of
+
+
+managed
+ servers
+ to
+ cloud
+ from
+ box
+
+
+software
+ to
+ app
+ stores
+ and
+ it's
+ easier
+
+
+than
+ ever
+ uh
+ to
+ build
+ software
+ as
+ well.
+
+
+Because
+ developer
+ tools
+ are
+ improving.
+
+
+>> And
+ as
+ all
+ this
+ is
+ happening,
+ what's
+
+
+happening
+ to
+ the
+ distribution?
+ Well,
+ no
+
+
+longer
+ are
+ we
+ in
+ the
+ world
+ of
+ build
+ and
+
+
+they
+ will
+ come.
+ Uh
+ we're
+ starting
+ to
+
+
+transition
+ out
+ of
+ that
+ into
+ a
+ world
+
+
+where
+ well,
+ if
+ you
+ build
+ it
+ and
+ you
+ have
+
+
+really
+ great
+ design
+ and
+ really
+ great
+
+
+marketing,
+ then
+ you
+ might
+ have
+ a
+ chance
+
+
+uh
+ because
+ there's
+ more
+ software
+ and
+
+
+it's
+ not
+ the
+ case
+ anymore
+ that
+ you're
+
+
+building
+ something.
+ It's
+ the
+ only
+ thing
+
+
+like
+ that
+ that
+ exists
+ in
+ the
+ world.
+
+
+competition
+ is
+ increasing
+ and
+ the
+ value
+
+
+is
+ moving
+ up
+ the
+ stack.
+
+
+>> Now
+ your
+ initial
+ goal
+ was
+ to
+ I
+ think
+ you
+
+
+say
+ eliminate
+ the
+ gap
+ between
+
+
+imagination
+ and
+ reality.
+ What
+ does
+ that
+
+
+mean?
+
+
+>> Yeah.
+ So
+ when
+ we
+ started
+ uh
+ I
+ painted
+ a
+
+
+pretty
+ broad
+ vision
+ for
+ where
+ we
+ could
+
+
+go
+ partially
+ because
+ I
+ didn't
+ know
+
+
+exactly
+ where
+ we
+ were
+ going
+ to
+ go.
+ Uh
+
+
+you
+ know
+ we
+ had
+ a
+ hammer
+ that
+ was
+ WebGL.
+
+
+And
+ I
+ think
+ that
+ there's
+ always
+ this
+ uh
+
+
+why
+ now
+ for
+ great
+ companies.
+ Something's
+
+
+changed
+ in
+ the
+ world.
+ And
+ the
+ why
+ now
+ is
+
+
+uh
+ something
+ you
+ can
+ look
+ back
+ on
+ and
+
+
+you
+ can
+ point
+ at
+ one
+ or
+ two
+ or
+ three
+ of
+
+
+them
+
+
+>> and
+ say
+ this
+ is
+ why
+ this
+ company
+ came
+ to
+
+
+exist
+ at
+ this
+ particular
+ time.
+
+
+>> And
+ for
+ us
+ we
+ thought
+ okay
+ let's
+ look
+ at
+
+
+technology
+ that's
+ changing.
+ We're
+
+
+computer
+ scientists.
+ Uh
+ my
+ co-founder
+
+
+Evan
+ he
+ is
+ beyond
+ brilliant.
+ He
+ was
+ my
+
+
+TA
+ at
+ Brown
+ and
+ he
+ had
+ done
+ quite
+ a
+ lot
+
+
+of
+ exploration
+ into
+ WebGL.
+ Uh
+ Evan
+ is
+
+
+not
+ just
+ a
+ 10x
+ better
+ engineer
+ than
+ I
+
+
+am.
+ He's
+ like
+ a
+ 100x
+ better
+ better
+
+
+engineer
+ than
+ I
+ am.
+ M
+ uh
+
+
+>> you
+ called
+ him
+ Jesus
+ or
+ something,
+
+
+right?
+
+
+>> Uh
+ well,
+ I
+ did
+ not
+ call
+ him
+ Jesus.
+ Uh
+
+
+but
+ that
+ was
+ his
+ nickname
+ in
+ middle
+
+
+school
+ was
+ computer
+ Jesus
+ or
+ CJ
+ for
+
+
+short.
+ Uh
+ I
+ later
+ learned
+ um
+ I
+ called
+
+
+him
+ Evan.
+ Uh
+ but
+ uh
+ he
+ is
+ a
+ brilliant
+
+
+man
+
+
+>> and
+ I
+ was
+ very
+ very
+ lucky
+ to
+ get
+ to
+ work
+
+
+with
+ him
+ and
+ uh
+ I
+ mean
+ design
+ is
+ some
+
+
+right
+ brain
+ stuff
+ right
+ but
+ you
+ have
+
+
+your
+ background
+ also
+ in
+ like
+ in
+ math
+ and
+
+
+physics.
+ Uh
+ so
+ why
+ is
+ rigor
+ so
+ important
+
+
+here?
+
+
+>> Yeah,
+ I
+ wish
+ I
+ had
+ done
+ more
+ physics.
+
+
+Um,
+ I
+ can't
+ claim
+ that.
+ I've
+ done
+ some
+
+
+math,
+ but
+ not
+ enough.
+ And
+ I
+ think
+ that
+
+
+you
+ both
+ want
+ the
+ ability
+ to
+ think
+ in
+
+
+abstraction
+ in
+ design
+ as
+ well
+ as
+ the
+
+
+ability
+ to
+ have
+ the
+ EQ
+ and
+ emotionally
+
+
+connect
+ with
+ the
+ end
+ user.
+ And
+ so,
+ uh,
+
+
+of
+ course
+ there's
+ also
+ aesthetic,
+
+
+there's
+ judgment,
+ there's
+ thinking
+
+
+about,
+ uh,
+ things
+ temporally,
+ there's
+
+
+thinking
+ about
+ frameworks.
+ Uh
+ but
+ there
+
+
+yeah
+ there's
+ many
+ skills
+ that
+ come
+
+
+together
+ in
+ order
+ to
+ understand
+ all
+ that
+
+
+context
+ and
+ to
+ bring
+ into
+ one
+ place
+ and
+
+
+to
+ create
+ a
+ great
+ user
+ experience.
+
+
+>> And
+ we're
+ not
+ even
+ getting
+ to
+ sort
+ of
+
+
+the
+ top
+ of
+ the
+ pyramid
+ of
+ the
+ mass
+
+
+hierarchy
+ of
+ needs
+ for
+ design
+ where
+ you
+
+
+start
+ to
+ think
+ about
+ delight
+ and
+ joy
+ and
+
+
+what
+ does
+ it
+ mean
+ to
+ make
+ something
+ that
+
+
+people
+ love.
+ Uh
+ and
+ that's
+ I
+ think
+ more
+
+
+of
+ the
+ art
+ of
+ it.
+ Uh
+ not
+ many
+ people
+ can
+
+
+do
+ that
+ but
+ when
+ you
+ can
+ when
+ you
+ can
+
+
+apply
+ that
+ craft
+ it's
+ so
+ special
+ and
+
+
+those
+
+
+out.
+ So
+ if
+ you
+ were
+ to
+ kind
+ of
+ distill
+
+
+down
+ the
+ design
+ principles
+ of
+ Figma,
+ do
+
+
+you
+ do
+ you
+ have
+ such
+
+
+>> we
+ have
+ many
+ I
+ mean
+
+
+>> would
+ they
+ be
+ if
+
+
+>> some
+ of
+ the
+ ones
+ that
+ I
+ think
+ that
+ a
+ lot
+
+
+uh
+ one
+ is
+ keep
+ the
+ simple
+ things
+ simple
+
+
+but
+ make
+ the
+ complex
+ things
+ possible.
+
+
+>> So
+ in
+ Figma
+ as
+ with
+ any
+ tool
+
+
+especially
+ software
+ where
+ you're
+
+
+constantly
+ updating
+ and
+ you're
+ adding
+
+
+more
+ things
+ to
+ respond
+ to
+ the
+ market
+
+
+we're
+ not
+ talking
+ about
+ like
+ a
+ hammer.
+
+
+We're
+ talking
+ about
+ something
+ that
+ is
+ a
+
+
+complex
+ uh
+ ecosystem
+ of
+ operations
+ and
+
+
+functionality
+ and
+ you
+ want
+ it
+ to
+ be
+ a
+
+
+staircase
+ where
+ you
+ can
+ take
+ that
+ first
+
+
+step
+ or
+ the
+ second
+ step
+ very
+ easily
+ but
+
+
+then
+ if
+ you
+ keep
+ going
+ you
+ can
+ actually
+
+
+achieve
+ mastery
+
+
+>> and
+ that
+ mastery
+ is
+ so
+ important.
+ So
+ we
+
+
+want
+ to
+ make
+ it
+ so
+ that
+ there's
+ a
+
+
+balance
+ between
+ power
+ and
+ simplicity
+ at
+
+
+all
+ times.
+ That
+ balance
+ is
+ extremely
+
+
+hard
+ to
+ achieve.
+ So
+ we
+ have
+ to
+
+
+constantly
+ remind
+ ourselves
+ and
+ our
+
+
+users
+ and
+ our
+ team
+ of
+ this
+ that
+ we
+ need
+
+
+to
+ make
+ those
+ right
+ trade-offs
+ because
+
+
+approachability
+ is
+ I
+ think
+ a
+ flip
+ side
+
+
+of
+ it
+ which
+ is
+ you
+ come
+ into
+ Figma.
+ Does
+
+
+it
+ feel
+ like
+ an
+ inviting
+ environment?
+
+
+Are
+ you
+ welcomed
+ or
+ do
+ you
+ go
+ oh
+ my
+ gosh
+
+
+this
+ is
+ like
+ stepping
+ into
+ an
+ airplane
+
+
+cockpit.
+ I
+ don't
+ know
+ how
+ to
+ fly.
+ We
+
+
+want
+ it
+ to
+ be
+ that
+ you're
+ welcomed
+ of
+
+
+course.
+
+
+>> So
+ you
+ but
+ you
+ and
+ you
+ welcome
+ a
+ lot
+ of
+
+
+people
+ right?
+ You
+ got
+ like
+ a
+ huge
+
+
+community.
+ Um
+ you
+ got
+ a
+ lot
+ of
+ kind
+ of
+
+
+plug-in
+ solutions.
+ Just
+ how
+ do
+ you
+ think
+
+
+about
+ that
+ whole
+ ecosystem?
+ So
+ from
+ the
+
+
+start,
+ the
+ community
+ has
+ been
+ critical
+
+
+for
+ Figma.
+ We
+ are
+ so
+ lucky
+ to
+ have
+ an
+
+
+amazing
+ design
+ community
+ around
+ us
+ and
+
+
+they
+ gave
+ us
+ feedback
+ and
+ attention
+ when
+
+
+frankly
+ we
+ had
+ no
+ reason
+ for
+ them
+ to.
+ Uh
+
+
+you
+ know
+ I
+ would
+ cold
+ email
+ designers
+
+
+that
+ were
+ my
+ heroes
+ at
+ the
+ start
+ of
+
+
+Figma
+ and
+ just
+ ask
+ them
+ to
+ check
+ out
+
+
+this
+ thing
+ I
+ built
+
+
+>> and
+ they
+ would
+ sit
+ down
+ with
+ me.
+ and
+ I'd
+
+
+get
+ them
+ a
+ coffee
+ and
+ they
+ would
+ give
+ me
+
+
+like
+ an
+ hour-ong
+ master
+ class
+ on
+ not
+
+
+just
+ design
+ but
+ advice
+ on
+ how
+ to
+ go
+
+
+build
+ the
+ tool
+ that
+ they
+ wanted.
+
+
+>> So,
+ how
+ do
+ they
+ help
+ you
+ develop
+
+
+products
+ now?
+
+
+>> Well,
+ so
+ many
+ ways.
+ Uh
+ we
+ try
+ to
+ be
+ very
+
+
+tapped
+ into
+ our
+ community.
+ So,
+
+
+>> and
+ who
+ are
+ these
+ community
+ people?
+ What
+
+
+what
+ type
+ of
+ people
+ are
+ they?
+
+
+>> Uh
+ well,
+ designers,
+ like
+ I
+ said,
+ come
+
+
+from
+ all
+ backgrounds,
+ but
+ uh
+ we've
+ got
+
+
+um
+ over
+ 80%
+ of
+ our
+ weekly
+ active
+ users
+
+
+outside
+ the
+ United
+ States.
+ And
+ so
+ it's
+
+
+not
+ necessarily
+ like
+ just
+ United
+ States,
+
+
+it's
+ everywhere
+ in
+ the
+ world.
+ Uh
+ and
+ we
+
+
+have
+ friends
+ of
+ Figma
+ chapters,
+ user
+
+
+groups
+ all
+ over
+ the
+ place
+ too
+ that
+ are
+
+
+community-led.
+ We
+ also
+ try
+ to
+ gather
+
+
+people
+ together
+ in
+ one
+ place
+ every
+ year
+
+
+for
+ our
+ annual
+ user
+ conference
+ config.
+
+
+We're
+ free
+ for
+ education.
+ So
+ student
+
+
+communities
+ are
+ extremely
+ important
+ to
+
+
+us
+
+
+>> because
+ they're
+ the
+ future
+ and
+ they
+ are
+
+
+always
+ teaching
+ us
+ about
+ what
+ we
+ need
+ to
+
+
+go
+ do
+ in
+ order
+ to
+ meet
+ their
+ needs
+
+
+because
+ they're
+ always
+ a
+ little
+ bit
+
+
+ahead
+ of
+ everybody
+ else.
+ Mhm.
+
+
+>> Um
+ but
+ yeah,
+ we
+ also
+ have
+ online
+ forums.
+
+
+We've
+ got
+ uh
+ we're
+ always
+ trying
+ to
+
+
+monitor
+ and
+ uh
+ respond
+ and
+ engage
+ on
+
+
+social
+ media
+ and
+ uh
+ we
+ also
+ do
+ a
+ lot
+ of
+
+
+qualitative
+ and
+ quantitative
+ research
+
+
+and
+ so
+ all
+ that
+ along
+ with
+ just
+ the
+
+
+standard
+ sales
+ process
+ uh
+ creates
+
+
+dialogue
+ and
+ creates
+ conversation
+ lets
+
+
+us
+ tap
+ into
+ the
+ headsp
+ space
+ of
+ our
+
+
+customers.
+
+
+>> How
+ will
+ AI
+ change
+ all
+ this?
+ Well,
+ I
+
+
+think
+ AI
+ is
+ a
+ ch
+ force
+ that
+ will
+ change
+
+
+everything,
+ of
+ course,
+ and
+ um
+ you
+ know
+
+
+exactly
+ how
+ much.
+ That's
+ what
+ we're
+ both
+
+
+trying
+ to
+ figure
+ out
+ all
+ the
+ time.
+ But
+ I
+
+
+believe
+ that
+ AI
+ will
+ both
+ lower
+ the
+
+
+floor,
+ make
+ it
+ so
+ that
+ more
+ people
+ can
+
+
+come
+ into
+ the
+ design
+ process,
+ but
+ also
+
+
+raise
+ the
+ ceiling,
+ make
+ it
+ so
+ that
+
+
+creative
+ professionals,
+ designers
+ will
+
+
+be
+ able
+ to
+ do
+ so
+ much
+ more
+ uh
+ than
+ they
+
+
+ever
+ could
+ before
+ and
+ truly
+ uh
+ be
+ able
+
+
+to
+ lean
+ into
+ their
+ craft
+ because
+ I
+ think
+
+
+what
+ AI
+ does
+ is
+ it
+ makes
+ it
+ so
+ that
+ you
+
+
+can
+ explore
+ an
+ entire
+ option
+ space
+ uh
+ of
+
+
+what
+ you
+ can
+ build,
+ what
+ you
+ can
+ design,
+
+
+And
+ then
+ from
+ that
+ option
+ space,
+ you
+ can
+
+
+sample.
+ You
+ can
+ see
+ what
+ resonates,
+ what
+
+
+you
+ think
+ is
+ great,
+ what
+ you
+ think
+
+
+actually
+ you
+ shouldn't
+ go
+ into.
+ You
+ can
+
+
+use
+ that
+ to
+ figure
+ out
+ a
+ direction
+ and
+
+
+then
+ you
+ can
+ push
+ further
+ in
+ that
+
+
+direction.
+ Whereas
+ if
+ you
+ were
+ going
+ to
+
+
+do
+ it
+ without
+ AI,
+ you
+ could
+ only
+ sample
+
+
+a
+ few
+ points
+ from
+ that
+ option
+ space.
+ AI
+
+
+lets
+ you
+ sample
+ more.
+
+
+>> So
+ that
+ way
+ you
+ can
+ have
+ more
+
+
+intentionality
+ about
+ the
+ path
+ you
+
+
+choose.
+
+
+>> How
+ important
+ is
+ taste
+ in
+ this
+ new
+
+
+world?
+
+
+>> I
+ think
+ it's
+ incredibly
+ important.
+ Going
+
+
+back
+ to
+ the
+ uh
+ question
+ earlier,
+ um
+
+
+design
+ as
+ a
+ differentiator,
+ I
+ believe
+
+
+that
+ is
+ like
+ the
+ world
+ we
+ are
+ in
+ and
+
+
+people
+ don't
+ fully
+ appreciate
+ yet.
+
+
+>> This
+ has
+ been
+ my
+ thesis
+ for
+ the
+ past
+
+
+decade.
+ It's
+ not
+ just
+ an
+ AI
+ thing,
+ but
+
+
+AI
+ accelerates
+ it
+ because
+ we're
+ on
+ an
+
+
+exponential
+ curve
+ of
+ the
+ amount
+ of
+
+
+software
+ in
+ the
+ world
+ right
+ now.
+
+
+>> What
+ is
+ taste?
+
+
+>> Uh
+ this
+ is
+ a
+ whole
+ podcast
+ in
+ itself.
+
+
+Um,
+ I
+ think
+ that
+ uh
+ taste
+ is
+
+
+a
+ loop
+ that
+ you're
+ in
+ where
+ you
+ are
+
+
+always
+ trying
+ to
+ develop
+ an
+
+
+understanding
+ of
+ what
+ resonates
+ with
+ you
+
+
+and
+ what
+ doesn't.
+ And
+ based
+ on
+ that,
+
+
+you're
+ trying
+ to
+ create
+ frameworks
+ to
+
+
+figure
+ out
+ what
+ it
+ is
+ that
+ you
+ value,
+
+
+how
+ it
+ connects
+ to
+ your
+ uh
+ not
+ just
+
+
+aesthetic
+ values,
+ but
+ your
+ personal
+
+
+inner
+ values.
+ and
+ based
+ on
+ that
+ working
+
+
+to
+ express
+ that
+ in
+ a
+ form
+ that
+ others
+
+
+can
+ consume.
+
+
+uh
+ and
+ I
+ think
+ it's
+ not
+ just
+
+
+discriminating
+ in
+ terms
+ of
+ I
+ like
+ this,
+
+
+I
+ don't
+ like
+ that,
+ but
+ also
+ taste
+ is
+ uh
+
+
+an
+ enabler
+ of
+ building
+ amazing
+ things
+
+
+and
+ it
+ is
+ the
+ hardest
+ skill
+ to
+ develop
+
+
+uh
+ to
+ have
+ good
+ taste,
+ but
+ also
+ it
+ is
+ I
+
+
+think
+ it
+ just
+ brings
+ richness
+ to
+ your
+
+
+life
+ in
+ a
+ way
+ that
+ uh
+ I
+ don't
+ think
+
+
+everyone
+ appreciates
+ yet.
+ And
+ the
+ other
+
+
+thing
+ is
+ taste
+
+
+>> what
+ what
+ is
+ Dylan
+ Field's
+ taste
+
+
+>> on
+ what?
+
+
+>> Open-ended
+ question.
+
+
+>> Well,
+ um
+ I
+ care
+ a
+ lot
+ about
+ complexity
+
+
+and
+ being
+ able
+ to
+ understand
+ the
+ world.
+
+
+So
+ I
+ think
+ I've
+ got
+ a
+ lot
+ of
+ taste
+ when
+
+
+it
+ comes
+ to
+ framework
+ building
+ mental
+
+
+models.
+ Uh
+ that
+ applies
+ to
+ design
+ as
+
+
+well.
+ If
+ you
+ can
+ clearly
+ communicate
+ a
+
+
+mental
+ model
+ to
+ a
+ user
+ in
+ a
+ visual
+ form,
+
+
+uh
+ I
+ think
+ that's
+ a
+ great
+ thing.
+ And
+ not
+
+
+everyone's
+ able
+ to
+ do
+ that
+ properly
+
+
+because
+ if
+ you
+ think
+ about
+ it,
+
+
+if
+ I
+ design
+ the
+ right
+ chair
+ for
+ you,
+ for
+
+
+example,
+ that
+ might
+ not
+ be
+ the
+ right
+
+
+chair
+ for
+ me.
+ You
+ know,
+ we've
+ got
+
+
+different
+ bodies.
+ Uh
+ and
+ perhaps,
+ you
+
+
+know,
+ we
+ could
+ create
+ something
+ custom
+
+
+for
+ both
+ of
+ us.
+ And
+ yet
+ there's
+ a
+ reason
+
+
+why
+ we
+ create
+ the
+ same
+ software
+ for
+
+
+everyone.
+ Uh
+ and
+ there's
+ a
+ reason
+ why
+
+
+beyond
+ mass
+ production
+ we
+ lean
+ into
+ how
+
+
+to
+ create
+ uh
+ you
+ know
+ the
+ same
+ chair
+ in
+
+
+a
+ bigger
+ run.
+
+
+It's
+ I
+ think
+ uh
+ this
+ opportunity
+ to
+
+
+actually
+ apply
+ craft
+ and
+ figure
+ out
+ what
+
+
+is
+ it
+ that
+ you
+ can
+ do
+ to
+ as
+ an
+
+
+expression
+ of
+ yourself
+ put
+ something
+
+
+into
+ the
+ digital
+ or
+ physical
+ world.
+ Does
+
+
+AI
+ have
+ taste?
+
+
+>> I
+ think
+ AI
+ is
+ still
+ a
+ pattern
+ matching
+
+
+machine.
+ Uh,
+ and
+ humans
+ have
+ taste
+ and
+
+
+it's
+ been
+ trained
+ in
+ the
+ data.
+ And
+ so
+ if
+
+
+you
+ can
+ RHF
+ the
+ right
+ parts
+ of
+ AI,
+ you
+
+
+can
+ emulate
+ taste.
+ But
+ that's
+ only
+ with
+
+
+advanced
+ prompting
+ that
+ you
+ can
+ access
+
+
+it.
+ And
+ so
+ perhaps
+ prompters
+ have
+ taste
+
+
+and
+ can
+ pull
+ it
+ out
+ of
+ this
+ pattern
+
+
+matching
+ machine
+ with
+ a
+ sophisticated
+
+
+large
+ model.
+ Uh,
+ but
+ I
+ think
+ that's
+ not
+
+
+the
+ end
+ of
+ the
+ journey.
+ I
+ I
+ generally
+
+
+think
+ the
+ first
+ prompt
+ that
+ people
+ do
+ is
+
+
+only
+ the
+ starting
+ point
+ and
+ instead
+ you
+
+
+need
+ to
+ keep
+ going
+ and
+ that
+ could
+ be
+ you
+
+
+know
+ we
+ have
+ a
+ product
+ called
+ Figma
+ make
+
+
+prompt
+ to
+ working
+ application
+ and
+ one
+
+
+thing
+ we
+ do
+ with
+ Figma
+ make
+ is
+ make
+ it
+
+
+so
+ that
+ you
+ can
+ go
+ from
+ the
+ code
+ output
+
+
+and
+ copy
+ it
+ into
+ Figma
+ design
+ which
+ is
+ a
+
+
+free
+ form
+ design
+ tool
+ not
+ attached
+ to
+
+
+code.
+ The
+ reason
+ we
+ do
+ that
+ is
+ so
+ that
+
+
+way
+ you
+ can
+ explore
+ in
+ this
+ more
+ open
+
+
+way
+ across
+ a
+ digital
+ canvas
+ that's
+
+
+infinite
+
+
+>> and
+ you
+ can
+ riff
+ and
+ you
+ can
+ explore
+ in
+
+
+a
+ nonlinear
+ way
+ all
+ sorts
+ of
+ variations
+
+
+to
+ really
+ figure
+ out
+ visually
+ and
+ reason
+
+
+visually
+ about
+ what
+ it
+ is
+ that
+ resonates
+
+
+with
+ you
+ what
+ feels
+ right
+ what
+ doesn't
+
+
+feel
+ right
+ uh
+ what
+ solves
+ your
+ problems
+
+
+how
+ do
+ you
+ constraint
+ solve
+ for
+ the
+
+
+different
+ outcomes
+ and
+ the
+ more
+ that
+ you
+
+
+do
+ that
+ the
+ more
+ you
+ realize
+ okay
+ I
+ have
+
+
+this
+ path
+ but
+ it
+ has
+ this
+ trade-off,
+ I
+
+
+have
+ this
+ path,
+ it
+ has
+ this
+ other
+
+
+trade-off.
+ You
+ don't
+ actually
+ understand
+
+
+that
+ until
+ you
+ see
+ those
+ branching
+ paths
+
+
+of
+ where
+ things
+ can
+ go.
+
+
+>> What
+ what
+ what
+ part
+ of
+ this
+ process
+ is
+
+
+it
+ that
+ AI
+ can't
+ replicate?
+
+
+>> I
+ think
+ that
+ the
+ context
+ that
+ designers
+
+
+have
+ uh
+ is
+ extremely
+ hard,
+ perhaps
+
+
+impossible
+ to
+ replicate.
+
+
+>> So,
+ think
+ about
+ yourself.
+ You
+ have
+ a
+
+
+lived
+ context.
+ You
+ have
+ your
+ identity,
+
+
+but
+ also
+ all
+ of
+ your
+ experiences.
+
+
+You
+ have
+ all
+ sorts
+ of
+ things
+ you've
+
+
+interacted
+ with
+ in
+ the
+ physical
+ world
+
+
+across
+ your
+ life.
+ You're
+ part
+ of
+ various
+
+
+cultures
+ that
+ you
+ intersect
+ with
+ and
+
+
+interact
+ with.
+ Uh
+ and
+ you
+ come
+ with
+
+
+mental
+ models
+ informed
+ by
+ the
+ languages
+
+
+that
+ you've
+ learned.
+ Uh
+ and
+ from
+ there
+
+
+you're
+ coming
+ into
+ an
+ experience
+ being
+
+
+used
+ to
+ other
+ experiences.
+ Uh
+ and
+ then
+
+
+the
+ designer's
+ task
+ is
+ to
+ create
+
+
+something
+ for
+ you
+ that
+ also
+ applies
+ to
+
+
+others.
+ And
+ it's
+ a
+ thing
+ of
+ the
+ moment.
+
+
+It
+ is
+ related
+ to
+ the
+ culture
+ of
+ the
+
+
+moment.
+ And
+ it
+ also
+ needs
+ to
+ achieve
+
+
+business
+ goals.
+ It
+ needs
+ to
+ be
+ something
+
+
+that's
+ testable.
+ And
+ that
+ based
+ on
+ those
+
+
+tests,
+ you
+ can
+ iterate
+ on
+ it.
+ But
+ you
+
+
+don't
+ want
+ to
+ get
+ to
+ a
+ local
+ max.
+ You
+
+
+want
+ to
+ get
+ to
+ the
+ global
+ max.
+ And
+ uh
+ I
+
+
+I
+ just
+ don't
+ think
+ that
+ AI
+ is
+ very
+ close
+
+
+to
+ doing
+
+
+>> that
+ task
+ yet.
+ uh
+ it's
+ definitely
+ not
+
+
+close
+ to
+ the
+ point
+ of
+ getting
+ to
+ where
+
+
+you
+ can
+ actually
+ have
+ AI
+ do
+ deep
+ user
+
+
+research
+ and
+ understand
+ the
+ problems
+ and
+
+
+the
+ needs
+ of
+ the
+ end
+ customer.
+
+
+>> Do
+ you
+ think
+ taste
+ around
+ the
+ world
+ will
+
+
+diverge
+ or
+ come
+ together?
+
+
+>> So,
+ I
+ went
+ to
+ China
+ in
+ 2016.
+ I've
+ only
+
+
+been
+ there
+ once.
+ Uh
+ and
+ amazing
+ culture,
+
+
+the
+ most
+ uh
+ hospitality
+ I've
+ ever
+ found
+
+
+in
+ the
+ world.
+ And
+ uh
+ the
+ people
+ I
+ met
+
+
+were
+ just
+ incredible.
+ You
+ ride
+ the
+
+
+subway
+ there
+ and
+ you
+ look
+ at
+ uh
+ the
+ way
+
+
+that
+ people
+ use
+ mobile
+ applications
+ and
+
+
+the
+ way
+ they're
+ designed
+
+
+and
+ they're
+ just
+ completely
+ different
+ in
+
+
+the
+ United
+ States.
+ The
+ density
+ of
+ the
+
+
+typography,
+ the
+ bias
+ towards
+ a
+ super
+ app
+
+
+uh
+ and
+ the
+ way
+ that
+ people
+ are
+ are
+ in
+
+
+general
+ interacting
+ with
+ technology
+
+
+there.
+ Yeah,
+ it's
+ it's
+ just
+ completely
+
+
+different.
+ So
+ I
+ think
+ the
+ divergence
+
+
+already
+ exists
+ first
+ of
+ all.
+
+
+>> Mhm.
+
+
+>> Uh
+ I
+ think
+ the
+ counter
+ example
+ would
+ be
+
+
+Hollywood
+ where
+ somehow
+ uh
+ we've
+ got
+
+
+this
+ American
+ export
+ of
+ media
+ that
+ has
+
+
+become
+ a
+ global
+ phenomenon.
+ M
+
+
+>> and
+ even
+ in
+ today's
+ age
+ where
+ more
+
+
+content
+ is
+ being
+ created
+ bottoms
+ up
+
+
+across
+ the
+ world,
+ Hollywood
+ and
+ the
+ uh
+
+
+sort
+ of
+ American
+ media
+ complex
+ has
+
+
+incredible
+ enormous
+ reach
+
+
+>> and
+ ability
+ to
+ influence
+ culture.
+ And
+ so
+
+
+I
+ think
+ that
+ perhaps
+ uh
+ for
+ the
+ lowest
+
+
+common
+ denominator
+ of
+ taste
+ that's
+
+
+something
+ that
+ is
+ pervasive
+ and
+ more
+
+
+uniform.
+ But
+ I
+ think
+ as
+ you
+ start
+ to
+ go
+
+
+into
+ any
+ given
+ niche,
+ which
+ I
+ think
+
+
+we'll
+ see
+ a
+ lot
+ more
+ of
+ those
+ niches
+
+
+going
+ forward,
+ we
+ already
+ are,
+ then
+ I
+
+
+think
+ that
+ those
+ subcultures
+ create
+
+
+their
+ own
+ aesthetic,
+ their
+ own
+ point
+ of
+
+
+view
+ uh
+ and
+ sort
+ of
+ their
+ own
+ language
+
+
+and
+ sometimes
+ around
+ uh
+ what
+ they
+ are
+
+
+valuing
+ and
+ how
+ they
+ see
+ the
+ world.
+
+
+>> What
+ is
+ design
+ going
+ to
+ look
+ like
+ in
+ 10
+
+
+years
+ time?
+ 10
+ years
+ is
+ a
+ long
+ time
+ to
+
+
+make
+ predictions
+ about
+ right
+ now
+ in
+ a
+
+
+world
+ where
+ AI
+ is
+ a
+ chaotic
+ force
+ that
+
+
+uh
+ could
+ be
+ exponential
+ but
+ then
+ if
+ you
+
+
+really
+ draw
+ that
+ exponential
+ the
+ earth
+
+
+is
+ covered
+ every
+ square
+ inch
+ of
+ data
+
+
+centers
+ uh
+ so
+ something
+ might
+ not
+
+
+eventually
+ keep
+ up
+ with
+ the
+ exponential
+
+
+or
+ perhaps
+ we
+ have
+ data
+ centers
+ in
+ space
+
+
+I
+ don't
+ know
+ in
+ any
+ case
+ I
+ believe
+ that
+
+
+the
+ role
+ of
+ design
+ will
+ continue
+ to
+ uh
+
+
+elevate
+ And
+
+
+what
+ are
+ the
+ real
+ moes
+ in
+ software?
+ Now
+
+
+I
+ think
+ that
+ uh
+ liquidity
+ liquidity
+ of
+
+
+data
+ liquidity
+ in
+ a
+ marketplace
+ uh
+
+
+liquidity
+ of
+ social
+ interaction
+
+
+um
+ those
+ are
+ modes.
+
+
+There
+ are
+ businesses
+ where
+
+
+you
+ have
+ these
+ individuals
+ interacting
+
+
+in
+ a
+ certain
+ way
+ uh
+ or
+ there's
+
+
+regulatory
+ constraints
+ that
+ could
+ be
+ a
+
+
+moat.
+ But
+ we
+ can
+ name
+ many
+ more.
+ But
+ in
+
+
+general,
+ I
+ think
+ that
+ a
+ lot
+ less
+
+
+software
+ has
+ modes
+ than
+ in
+ the
+ past.
+
+
+>> Mhm.
+
+
+>> And
+ also
+ software
+ is
+ so
+ much
+ easier
+ to
+
+
+create.
+
+
+Now,
+ I'm
+ not
+ of
+ the
+ mind
+ that
+ you're
+
+
+going
+ to
+ go
+ and
+ uh
+ vibe
+ code
+ your
+ way
+ to
+
+
+Salesforce
+ or
+ Workday.
+ I
+ think
+ the
+
+
+people
+ that
+ are
+ saying
+ that
+ right
+ now
+
+
+are
+ maybe
+ extrapolating
+ a
+ bit
+ too
+ much.
+
+
+But
+ I
+ think
+ in
+ general
+ we're
+ going
+ to
+ uh
+
+
+see
+ so
+ much
+ more
+ competition
+ and
+ design
+
+
+will
+ be
+ a
+ huge
+ part
+ of
+ why
+ you
+ win
+ or
+
+
+lose
+ as
+ will
+ craft
+ as
+ will
+ point
+ of
+ view
+
+
+>> but
+ it
+ seems
+ like
+ vibe
+ coding
+ is
+ tailing
+
+
+off
+ a
+ bit
+ but
+ you
+ are
+ not
+ tailing
+ off.
+
+
+>> Yeah
+ we
+ have
+ seen
+ it
+ continue
+ to
+ grow.
+
+
+Um,
+ and
+ for
+ Figma,
+ I
+ think
+ that
+ the
+
+
+opportunity
+ to
+ help
+ in
+ the
+ B2B
+ context,
+
+
+designers,
+ product
+ managers,
+ anyone
+
+
+adjacent
+ to
+ designer
+
+
+>> be
+ able
+ to
+ prototype
+ in
+ an
+ easier
+ way
+ as
+
+
+well
+ as
+ get
+ things
+ into
+ production
+ or
+
+
+make
+ an
+ internal
+ app.
+ Uh,
+ that
+ is
+ a
+ use
+
+
+case
+ that's
+ just
+ starting.
+ So,
+ I
+ think
+
+
+it's
+ bifurcated.
+ There's
+ a
+ consumer
+
+
+aspect
+ too
+ and
+ we
+ care
+ about
+ that
+ of
+
+
+course.
+ I
+ mean
+ getting
+ people
+ the
+ access
+
+
+to
+ design,
+ their
+ ability
+ to
+ create
+ and
+
+
+express
+ that's
+ so
+ so
+ important
+ to
+ us.
+
+
+>> And
+ also
+ uh
+ I
+ believe
+ that
+ um
+ you
+ know
+
+
+our
+ focus
+ right
+ now
+ and
+ the
+ thing
+ that
+
+
+we
+ are
+ really
+ trying
+ to
+ make
+ sure
+ that
+
+
+we
+ are
+ world
+ class
+ at
+ is
+ more
+ of
+ that
+
+
+B2B
+ side
+ because
+ I
+ think
+ it
+ transfers
+
+
+over
+ the
+ consumer
+ side
+ later
+ on.
+
+
+>> How
+ important
+ is
+ the
+ integration
+ with
+
+
+the
+ chatb?
+
+
+>> Chat
+ is
+ a
+ learning
+ moment
+ for
+ us
+ still.
+
+
+So
+ we
+ are
+ exploring
+ that
+ in
+ the
+ context
+
+
+of
+ Fig
+ Jim,
+ our
+ whiteboarding,
+
+
+diagramming,
+ brainstorming
+ product.
+
+
+>> And
+ uh
+ it's
+ been
+ really
+ cool
+ to
+ see
+ how
+
+
+people
+ are
+ using
+ the
+ context
+ they
+ create
+
+
+in
+ these
+ chatbt
+ sessions
+
+
+>> in
+ order
+ to
+ then
+ bring
+ into
+ Fig
+ Jam
+ uh
+
+
+with
+ our
+ Figma
+ app
+ on
+ Chat
+ GBT
+ and
+ we're
+
+
+learning
+ a
+ lot.
+ It's
+ it's
+ too
+ early
+ to
+
+
+to
+ really
+ give
+ an
+ answer
+ there.
+
+
+>> How
+ is
+ um
+ AI
+ changing
+ the
+ way
+ you
+ lead
+
+
+the
+ company?
+ So
+ I
+ think
+ that
+ it's
+ really
+
+
+important
+ that
+ not
+ just
+ our
+ R&D
+ team
+ but
+
+
+the
+ company
+ in
+ general
+ have
+ AI
+ fluency
+
+
+and
+
+
+this
+ doesn't
+ just
+ mean
+ like
+ cost
+ cutting
+
+
+because
+ I
+ think
+ there's
+ sort
+ of
+ two
+
+
+frameworks
+ people
+ come
+ from
+ when
+ it
+
+
+comes
+ to
+ AI.
+ Uh,
+ and
+ I
+ I
+ always
+ think
+
+
+back
+ to
+ uh
+ this
+ dinner
+ I
+ was
+ at
+ maybe
+
+
+nine
+ months
+ ago,
+ 10
+ months
+ ago
+ with
+ a
+
+
+neighbor.
+ And
+ uh
+ they
+ have
+ two
+
+
+teenagers,
+
+
+uh,
+ a
+ boy
+ and
+ a
+ girl,
+ both
+ in
+ high
+
+
+school.
+ And
+
+
+the
+ question
+ at
+ the
+ dinner
+ table
+ was,
+
+
+"How
+ do
+ you
+ use
+ AI?"
+
+
+And
+ the
+ son
+ says,
+ "Well,
+ I
+ I
+ get
+ to
+ hang
+
+
+out
+ with
+ my
+ friends
+ more.
+ I
+ get
+ to
+ work
+
+
+out
+ more.
+ Uh,
+ love
+ an
+ AI.
+ It's
+ doing
+ a
+
+
+lot
+ of
+ my
+ homework
+ for
+ me.
+ It's
+ great."
+
+
+The
+ daughter
+ goes,
+ "Yeah,
+ it's
+ been
+
+
+really,
+ really
+ helpful.
+ I
+ have
+ used
+ it
+
+
+to
+ generate
+ 3x
+ the
+ problem
+ sets
+ so
+ I
+ can
+
+
+really
+ study
+ for
+ the
+ tests
+ ahead.
+ Uh,
+
+
+and
+ it's
+ been
+ amazing
+ as
+ a
+ learning
+
+
+assistant
+ for
+ me."
+
+
+>> I
+ suspect
+ you
+ are
+ in
+ the
+ letter
+ camp.
+
+
+>> Yeah,
+ I'm
+ much
+ more
+ in
+ the
+ like
+ I
+ want
+
+
+to
+ learn
+ as
+ much
+ as
+ possible
+ from
+
+
+everything,
+ but
+ I
+ think
+ it's
+ applicable
+
+
+to
+ companies,
+ too.
+ Yeah.
+
+
+>> I'm
+ not
+ saying
+ it's
+ an
+ either
+ or.
+ You
+
+
+can
+ do
+ both.
+ But
+ are
+ you
+ going to
+ be
+
+
+exclusively
+ focused
+ on
+ cost
+ cutting
+
+
+>> or
+ are
+ you
+ going
+ to
+ look
+ for
+ the
+ new
+
+
+opportunities
+ that
+ AI
+ enables?
+
+
+>> Well,
+ so
+ I
+ think
+ if
+ you
+ focus
+ in
+ on
+ cost
+
+
+cutting
+ too
+ early,
+ you're
+ just
+ going
+ to
+
+
+slow
+ down
+ the
+ whole
+ process
+ because
+
+
+people
+ don't
+ want
+ to
+ be
+ uh
+ you
+ know
+ cut.
+
+
+>> Well,
+ that
+ too.
+ Uh
+ but
+ I
+ also
+ think
+ that
+
+
+there's
+ an
+ opportunity
+ to
+ make
+ it
+ that
+
+
+people
+ are
+ more
+ productive
+
+
+>> but
+ also
+ doing
+ their
+ job
+ in
+ a
+ better
+
+
+way.
+
+
+>> Yeah.
+ Does
+ it
+ have
+ implications?
+ Going
+
+
+back
+ to
+ raising
+ the
+ ceiling,
+
+
+>> does
+ it
+ have
+ implications
+ for
+ what
+
+
+implications
+ does
+ it
+ have
+ for
+ who
+ you
+
+
+hire?
+
+
+>> So
+ you
+ know
+ how
+ many
+ people?
+ You
+ are
+ 1,
+
+
+how
+ many00?
+
+
+>> About
+ 1,800ish
+
+
+>> 1,800
+ now.
+ So
+ what
+ does
+ it
+ mean
+ for
+ who
+
+
+you
+ hire?
+
+
+>> You
+ know,
+ I
+ think
+ this
+ is
+ uh
+ one
+ of
+ the
+
+
+critical
+ debates
+ that
+ the
+ software
+
+
+industry
+ is
+ going
+ through
+ right
+ now
+ is
+
+
+does
+ AI
+ mean
+ that
+ you
+ should
+ hire
+ senior
+
+
+people
+ or
+ middle
+ level
+ or
+ junior
+ or
+ or
+
+
+all
+ the
+ jobs
+ going
+ to
+ go
+ away
+ because
+ AI
+
+
+will
+ replace
+ them
+ all.
+ Uh
+ I've
+ heard
+
+
+that
+ one
+ the
+ last
+ one
+ a
+ bunch
+ of
+ times
+
+
+and
+ then
+ it
+ hasn't
+ come
+ true
+ yet.
+ All
+
+
+the
+ people
+ have
+ said
+ that
+ they
+ continue
+
+
+to
+ hire.
+ So
+ I
+ my
+ bias
+ actually
+ is
+ a
+ lot
+
+
+more
+ towards
+ the
+ junior
+ folks.
+ And
+ I
+
+
+think
+ that
+ people
+ that
+ are
+ younger
+ are
+
+
+AI
+ native
+ in
+ a
+ way
+ that
+ folks
+ that
+ are
+
+
+older
+ uh
+ have
+ to
+ learn.
+ And
+ that
+ doesn't
+
+
+mean
+ that
+ we
+ don't
+ hire
+ a
+ mix.
+ We
+ do.
+ Uh
+
+
+we've
+ always
+ had
+ a
+ mix
+ of
+ you
+ know
+
+
+seniority
+ levels
+ at
+ Figma.
+ But
+ I
+ think
+
+
+that
+ it
+ is
+ important
+ that
+ people
+ come
+ in
+
+
+first
+ of
+ all
+ knowing
+ that
+ we're
+ pushing
+
+
+full
+ steam
+ ahead
+ into
+ the
+ AI
+ era.
+ So
+ if
+
+
+you
+ have
+ a
+ bias
+ against
+ AI,
+ that's
+ a
+
+
+great
+ dinner
+ table
+ conversation
+ between
+
+
+us,
+ but
+ we're
+ very
+ focused
+ on
+ making
+
+
+sure
+ that
+ we
+ build
+ for
+ this
+ AI
+ age.
+
+
+>> What's
+ the
+ average
+ age
+ of
+ your
+ people?
+
+
+>> Uh
+ I
+ don't
+ have
+ that
+ number
+ off
+ hand.
+
+
+>> What
+ do
+ you
+ think?
+
+
+>> I
+ would
+ guess
+ about
+ uh
+ 35
+ 36.
+
+
+>> Okay.
+ Does
+ it
+ have
+ any
+ implications
+ for
+
+
+um
+ the
+ pool
+ you
+ hire
+ from?
+ Is
+ it
+
+
+narrower
+ or
+ wider
+ than
+ before?
+
+
+>> The
+ pool
+ we're
+ hiring
+ from
+ has
+ only
+
+
+grown
+ wider
+ over
+ time.
+ Uh
+ been
+ kind
+ of
+
+
+incredible
+ to
+ see
+ that
+ growth
+ because
+ I
+
+
+think
+ back
+ to
+ the
+ earliest
+ days
+ of
+ Figma
+
+
+and
+ recruiting
+ was
+ so
+ hard.
+
+
+>> No,
+ but
+ I
+ mean
+ you
+ I'm
+ sure
+ you've
+ got
+
+
+thousands
+ of
+ people
+ applying
+ but
+ the
+
+
+type
+ of
+ people,
+ the
+ type
+ of
+ educational
+
+
+background
+ that
+ they
+ have,
+ has
+ that
+
+
+changed
+ at
+ all?
+
+
+>> No,
+ we
+ don't.
+ um
+ I
+ made
+ sure
+ that
+ we
+
+
+don't
+ look
+ at
+ degrees
+
+
+uh
+ as
+ part
+ of
+ the
+ hiring
+ process.
+ So,
+ uh
+
+
+perhaps
+ there's
+ bias
+ that
+ slips
+ in
+
+
+somewhere,
+ but
+ my
+ point
+ of
+ view
+ is
+ that
+
+
+it
+ shouldn't
+ matter
+ whether
+ you've
+
+
+graduated
+ college
+ or
+ not
+ because
+ coming
+
+
+from
+ my
+ own
+ perspective,
+ I
+ didn't
+
+
+graduate
+ from
+ college.
+ uh
+ and
+ I
+ think
+
+
+that
+ unfortunately
+ the
+ value
+ of
+ a
+
+
+college
+ degree
+ will
+ be
+ uh
+ plummeting
+ in
+
+
+terms
+ of
+ external
+ perception
+ not
+
+
+necessarily
+ the
+ value
+ of
+ the
+ college
+
+
+education.
+
+
+Uh
+ I
+ think
+ that
+ college
+ will
+ be
+ a
+
+
+amazing
+ place
+ if
+ you
+ can
+ afford
+ it.
+ But
+
+
+uh
+ that
+ said
+ I
+ think
+ that
+ you
+ know
+ going
+
+
+back
+ to
+ that
+ dinner
+ table
+ conversation
+
+
+how
+ do
+ you
+ know
+ that
+ someone
+ actually
+
+
+learned
+ all
+ the
+ things
+ they
+ said
+ they
+
+
+did
+ from
+ their
+ diploma?
+
+
+>> Do
+ you
+ think
+ do
+ you
+ think
+ you
+ would
+ have
+
+
+done
+ better
+ in
+ life
+ if
+ you
+ had
+ graduated
+
+
+from
+ college?
+ Uh
+ just
+ depends
+ on
+ the
+
+
+dimension
+ you're
+ talking
+ about.
+ Uh
+ you
+
+
+know
+ the
+ counterfactual
+ joke
+ sorry
+ the
+
+
+counterfactual
+ is
+ always
+ hard
+ right?
+ Uh
+
+
+but
+ um
+
+
+>> but
+ I'm
+ sorry.
+ But
+ so
+ when
+ you
+ hire
+ you
+
+
+you
+ don't
+ care
+ about
+ what
+ kind
+ of
+ degree
+
+
+they
+ have
+ whether
+ they
+ are
+ like
+ a
+ doctor
+
+
+or
+ scientist
+ or
+ you
+ know
+ economist
+ or
+ I
+
+
+mean
+ how
+ do
+ you
+
+
+>> I
+ mean
+ look
+ we've
+ had
+ uh
+ one
+ of
+ our
+
+
+first
+ data
+ science
+ hires
+ for example
+ he
+
+
+came
+ out
+ of
+ a
+ chem
+ chemistry
+ PhD.
+
+
+>> So
+ what
+ do
+ you
+ look
+ for
+ then?
+ So
+
+
+>> we
+ look
+ for
+ the
+ skill
+
+
+>> right?
+ And
+ uh
+ one
+ indicator
+ of
+ that
+
+
+skill
+ can
+ be
+ formal
+ education,
+
+
+>> but
+ also
+ projects
+ you've
+ done,
+ job
+
+
+experiences
+ you've
+ had,
+ uh
+ the
+ way
+ that
+
+
+you
+ spend
+ your
+ time.
+ These
+ are
+ all
+
+
+things
+ that
+ also
+ indicate.
+ And
+ I
+ think
+
+
+what's
+ most
+ important
+ and
+ something
+ that
+
+
+I'm
+ always
+ pushing
+ for
+ at
+ Figma
+ is
+ how
+
+
+do
+ we
+ find
+ the
+ people
+ that
+ are
+ showing
+
+
+tremendous
+ slope?
+
+
+>> They're
+ improving
+ at
+ a
+ rapid
+ rate.
+ And
+
+
+if
+ you
+ extrapolate
+ out,
+ uh
+ yes,
+ it's
+
+
+high
+ beta.
+ There's
+ some
+ risk
+ involved.
+
+
+you
+ don't
+ know
+ if
+ they're
+ going
+ to
+ be
+
+
+A++
+ or
+ actually
+ they
+ are
+ really
+ junior
+
+
+and
+ this
+ is
+ this
+ is
+ the
+ ceiling.
+
+
+>> How
+ do
+ you
+ assess
+ how
+ do
+ you
+ assess
+
+
+slope?
+
+
+>> I
+ just
+ talk
+ to
+ people
+ about
+ their
+
+
+backgrounds,
+ their
+ history,
+ how
+ they've
+
+
+approached
+ different
+ decisions
+ in
+ life
+
+
+>> and
+ understand
+ what
+ it
+ is
+ that
+ they
+
+
+value
+ and
+ how
+ they've
+ pushed
+ themselves
+
+
+to
+ grow.
+
+
+Uh,
+ and
+ I
+ think
+ that
+ the
+ decisions
+
+
+people
+ make
+ historically
+ and
+ the
+
+
+consistency
+ of
+ that
+ tells
+ you
+ a
+ lot
+
+
+about
+ uh,
+ their
+ growth
+ mindset
+ and
+ the
+
+
+way
+ that
+ they
+ like
+ to
+ level
+ up
+
+
+>> and
+ how
+ they
+ challenge
+ themselves.
+
+
+>> So,
+ I
+ always
+ want
+ people
+ with
+ a
+ growth
+
+
+mindset
+ because
+ we're
+ always
+ growing
+ at
+
+
+Figma.
+ We're
+ always
+ encountering
+ new
+
+
+problems.
+ We
+ need
+ people
+ that
+ are
+
+
+adaptable.
+
+
+>> And,
+ uh,
+ I
+ think
+ that,
+ yeah,
+ it's
+ it's
+
+
+unfortunately
+ such
+ a
+ bias
+ on
+ the
+ human
+
+
+side.
+ This
+ is
+ for
+ all
+ humans
+ to
+ really
+
+
+look
+ at
+ somebody
+ as
+ a
+ point
+ in
+ time
+ and
+
+
+it's
+ just
+ not
+ a
+ very
+ helpful
+ framework.
+
+
+Instead,
+ you
+ want
+ to
+ think
+ about,
+ okay,
+
+
+where
+ have
+ they
+ been
+ and
+ where
+ are
+ they
+
+
+going?
+ And
+ also,
+ if
+ you
+ meet
+ someone
+ two
+
+
+years
+ after
+ you
+ met
+ them
+ the
+ first
+ time,
+
+
+it's
+ another
+ bias
+ to
+ think
+ back
+ and
+ go,
+
+
+okay,
+ my
+ first
+ impression,
+ that
+ is
+ who
+
+
+they
+ are
+ in
+ my
+ mind,
+ and
+ they're
+ always
+
+
+going
+ to
+ be
+ that
+ way.
+ You
+ really
+ need
+ to
+
+
+be
+ able
+ to
+ update.
+ I've
+ certainly
+ been
+
+
+guilty
+ of
+ that
+ uh
+ and
+ missed
+ the
+
+
+opportunity
+ to
+ work
+ with
+ people
+ that
+ I
+
+
+would
+ have
+ loved
+ to
+ work
+ with
+ uh
+ because
+
+
+I
+ didn't
+ update
+ fast
+ enough.
+
+
+>> So,
+ I
+ think
+ that's
+ something
+ I'm
+ hyper
+
+
+aware
+ of
+ too
+ is
+ just
+ making
+ sure
+ that
+
+
+you
+ really
+ do
+ update
+ your
+ priors
+ there.
+
+
+>> Let's
+ um
+ if
+ we
+ just
+ move
+ back
+ to
+ uh
+ to
+
+
+the
+ moment
+ when
+ you
+ dropped
+ out
+ of
+ uh
+
+
+Brown.
+ So,
+ you
+ you
+ applied
+ for
+ this
+ um
+
+
+the
+ fellowship,
+ right?
+
+
+>> I
+ think
+ you
+ wrote
+ in
+ your
+ application
+
+
+that
+ you
+ hated
+ chocolate.
+ So
+ you're
+
+
+quite
+ famous
+ for
+
+
+>> one
+ of
+ the
+ most
+ famous
+ chocolate
+ haters
+
+
+uh
+ in
+ the
+ United
+ States.
+
+
+>> There
+ are
+ several
+ of
+ us
+
+
+>> now.
+ Um
+ how
+ did
+ you
+ have
+ the
+ conviction
+
+
+of
+ dropping
+ out
+ of
+ college
+ at
+ age
+ 20?
+
+
+>> You
+ know
+ I
+ didn't.
+ Um
+ I
+ had
+ conviction
+
+
+that
+ I
+ needed
+ to
+ go
+ explore
+ design
+
+
+>> and
+ so
+ I
+ had
+ signed
+ up
+ to
+ go
+ work
+ at
+
+
+Flipboard
+ a
+ second
+ time.
+ first
+ time
+ I
+
+
+was
+ a
+ software
+ engineering
+ intern
+ and
+
+
+doing
+ some
+ data
+ science
+ work
+ and
+
+
+recommendation
+ engines
+ machine
+ learning
+
+
+very
+ basic
+ machine
+ learning
+ let
+ me
+ be
+
+
+clear
+ uh
+ and
+ then
+ they
+ were
+ willing
+ to
+
+
+have
+ me
+ back
+ and
+ have
+ me
+ on
+ the
+ design
+
+
+team
+ I
+ had
+ really
+ no
+ formal
+ design
+
+
+background
+ so
+ I
+ didn't
+ really
+ know
+ why
+
+
+they
+ were
+ open
+ to
+ it
+ but
+ I
+ was
+ uh
+ I
+
+
+didn't
+ want
+ to
+ you
+ know
+ say
+ no
+ it
+ was
+ a
+
+
+gift
+ and
+ the
+ chance
+ to
+ work
+ with
+ them
+
+
+for
+ six
+ months
+ I
+ thought
+ this
+ will
+
+
+inform
+ my
+ studies
+ maybe
+ I'll
+ take
+ more
+
+
+classes
+ at
+ Risy
+ which
+ is
+ across
+ the
+
+
+street
+ from
+ Brown
+
+
+>> and
+ uh
+ perhaps
+ this
+ will
+ help
+ me
+ inform
+
+
+where
+ I
+ want
+ to
+ go
+ with
+ the
+ year
+ and
+ a
+
+
+half
+ left.
+
+
+>> So
+ is
+ the
+ college
+ the
+ premier
+ design
+
+
+school
+ in
+ America,
+ right?
+
+
+>> It's
+ an
+ incredible
+
+
+>> incredible
+ place.
+ And
+ I
+ wanted
+ to
+ just
+
+
+make
+ sure
+ I
+ was
+ informing
+ my
+ studies
+
+
+right.
+ And
+ so
+ I
+ decided
+ I'll
+ take
+ a
+
+
+semester
+ off
+ from
+ Brown.
+ I'll
+ graduate,
+
+
+you
+ know,
+ instead
+ of
+ 2013
+ 2013.5.
+
+
+And
+ uh
+ at
+ the
+ same
+ time,
+ right
+ before
+ I
+
+
+was
+ about
+ to
+ leave
+ Brown,
+ I
+ started
+
+
+talking
+ with
+ Evan,
+ who
+ later
+ became
+ my
+
+
+co-founder.
+ and
+ he
+ was
+ the
+ smartest
+
+
+person
+ I'd
+ ever
+ encountered.
+ And
+ I
+ had
+
+
+worked
+ with
+ some
+ incredible
+ people
+ in
+ my
+
+
+internships.
+ People
+ that
+ have
+ gone
+ on
+ to
+
+
+start,
+ you
+ know,
+ publicly
+ traded
+
+
+companies
+ that
+ were
+ then
+ engineers
+ who
+
+
+had
+ run
+ in
+ the
+ office,
+ run
+ into
+ the
+
+
+office
+ at
+ 2
+ am
+ jarraps,
+ for
+ example.
+
+
+That's
+ who
+ I'm
+ thinking
+ of
+ there,
+ uh,
+
+
+LinkedIn.
+ And
+ I
+ met,
+ you
+ know,
+ people
+
+
+that
+ had,
+ uh,
+ done
+ things
+ like
+ created
+
+
+Java,
+ the
+ programming
+ language.
+ And,
+ uh,
+
+
+at,
+ you
+ know,
+ 22,
+ 23
+ years
+ of
+ age,
+ Evan
+
+
+was
+ up
+ there.
+ Mhm.
+
+
+>> Uh
+ he
+ has
+ genius
+ level
+ talent
+ and
+
+
+insight.
+ And
+ I
+ thought,
+ okay,
+ if
+ there's
+
+
+a
+ chance
+ to
+ work
+ with
+ Evan,
+ I
+ will
+ learn
+
+
+more
+ from
+ that
+ than
+ from
+ anything
+ else
+ I
+
+
+can
+ do
+ in
+ my
+ life.
+ This
+ would
+ be
+ the
+
+
+most
+ unique
+ opportunity
+ I
+ could
+ ever
+
+
+have.
+ And
+ so
+ I
+ asked
+ him,
+ would
+ you
+ ever
+
+
+want
+ to
+ think
+ about
+ starting
+ a
+ company?
+
+
+And
+ I
+ was
+ very
+ surprised
+ that
+ he
+ was
+
+
+interested.
+ And
+ from
+ there,
+ uh
+ we
+
+
+started
+ to
+ explore.
+ And
+ I
+ didn't
+ know
+ if
+
+
+it
+ would
+ converge,
+ but
+ I
+ applied
+ for
+ the
+
+
+tail
+ fellowship
+ just
+ in
+ case.
+ And
+ then
+
+
+as
+ we
+ started
+ to,
+ you
+ know,
+ every
+
+
+weekend
+ talk
+ about
+ ideas,
+ prototype
+
+
+things,
+ pretty
+ quickly
+ I
+ was
+ like,
+
+
+"Okay,
+ well,
+ whether
+ or
+ not
+ we
+ get
+ the
+
+
+Teal
+ Fellowship,
+ let's
+ go
+ do
+ this.
+
+
+>> I
+ have
+ a
+ little
+ bit
+ of
+ savings.
+ You
+
+
+know,
+ maybe
+ we're
+ going
+ to
+ live
+ on
+ ramen
+
+
+and
+ live
+ in
+ a
+ bad
+ apartment,
+ but
+ like
+
+
+we'll
+ make
+ it
+ happen."
+ And
+ then
+ with
+ the
+
+
+Teal
+ Fellowship
+ and
+ the
+ ability
+ to
+
+
+actually
+ have
+ that
+ support,
+ 100K
+ over
+
+
+two
+ years,
+ that
+ made
+ it
+ a
+ nice
+ apartment
+
+
+with
+ uh
+ Whole
+ Foods.
+ So
+ just
+ uh
+ to
+ fill
+
+
+in
+ here
+ for
+ people
+ who
+ don't
+ know
+ the
+
+
+the
+ partnership
+ is
+ it's
+ made
+ by
+ Peter
+
+
+the
+ right
+ who's
+ the
+ venture
+ capitalist.
+
+
+Tell
+ me
+ what's
+ the
+ fellowship
+ about?
+
+
+>> Yeah
+ so
+ the
+ teal
+ fellowship
+ uh
+ I
+ think
+
+
+of
+ it
+ as
+ a
+ way
+ to
+ uh
+ empower
+ young
+
+
+people
+
+
+>> to
+ make
+ it
+ so
+ they
+ can
+ go
+ explore
+ ideas
+
+
+and
+ get
+ off
+ of
+ sort
+ of
+ the
+ traditional
+
+
+tracked
+ existence
+ that
+ many
+ folks
+ have
+
+
+earlier
+ in
+ life.
+ And
+ I've
+ really
+ started
+
+
+to
+ frame
+ it
+ in
+ my
+ mind
+ as
+ more
+ of
+ a
+ life
+
+
+accelerant
+ than
+ anything
+ else.
+ Uh
+ I
+
+
+haven't
+ done
+ like
+ a
+ study
+ of
+ it,
+ but
+ I
+
+
+actually
+ think
+ that
+ tail
+ fells
+ on
+
+
+average
+ have
+ uh
+ they
+ get
+ married
+ faster,
+
+
+they
+ have
+ kids
+ faster.
+ Uh
+ you
+ know,
+ they
+
+
+end
+ up
+ in
+ the
+ place
+ that
+ they're
+ going
+
+
+to
+ go
+ anyway,
+ but
+ just
+ on
+ a
+ much
+ quicker
+
+
+pace.
+ So
+ there
+ are
+ te
+ fellows
+ who
+ they
+
+
+dropped
+ out
+ of
+ undergrad,
+ they
+ worked
+ on
+
+
+their
+ own
+ for
+ two
+ years
+ and
+ they
+
+
+actually
+ went
+ back
+ to
+ academia
+ but
+ like
+
+
+in
+ a
+ PhD
+ program.
+ They
+ just
+ never
+ did
+
+
+the
+ undergrad
+ thing.
+
+
+>> Uh
+ there
+ how
+ many
+ other
+ now?
+
+
+>> Well,
+ there's
+ 20
+ per
+ year.
+ It's
+ been
+
+
+going
+ since
+ 2011.
+ Uh
+ the
+ I
+ think
+
+
+>> do
+ you
+ hang
+ out
+ together?
+
+
+>> Yeah,
+ that
+ was
+ actually
+ a
+ critical
+ part
+
+
+of
+ the
+ fellowship.
+ Mhm.
+
+
+>> The
+
+
+social
+ experience
+ I
+ had
+ after
+ uh
+ leaving
+
+
+Brown
+ was
+ weird.
+ Like
+ I
+ had
+ my
+ friends
+
+
+back
+ home
+ who
+ were
+ amazing.
+ I
+ grew
+ up
+ in
+
+
+Sonoma
+ County,
+ so
+ it
+ wasn't
+ that
+ far
+
+
+away
+ from
+ Palto
+ where
+ I
+ was
+ living
+ a
+ few
+
+
+hours
+ away,
+ but
+ they
+ were
+ all
+ on
+ very
+
+
+different
+ tracks
+ trying
+ to
+ figure
+ out
+
+
+their
+ lives
+ and
+ they're
+ all
+ all
+ their
+
+
+lives
+ were
+ going
+ divergent
+ directions.
+
+
+And
+ I
+ had
+ my
+ friends
+ back
+ at
+ Brown,
+ uh,
+
+
+mostly
+ computer
+ science
+ friends,
+ uh,
+
+
+some
+ that
+ were
+ in
+ the
+ liberal
+ arts
+ as
+
+
+well
+ and,
+ uh,
+ sciences,
+ and
+ they
+ were
+
+
+all
+ trying
+ to
+ figure
+ out
+ what's
+ my
+ job
+
+
+after
+ college.
+
+
+>> Mhm.
+
+
+>> I
+ had
+ my
+ friends
+ from
+ Flipboard.
+ They
+
+
+were
+ all
+ a
+ decade
+ older
+ than
+ me
+ or
+ more.
+
+
+Uh,
+ and
+ they
+ had
+ very
+ different
+ lives
+
+
+than
+ I
+ did.
+
+
+>> And
+ you
+ were
+ running
+ a
+ company.
+
+
+>> Yeah,
+ I
+ was
+ running
+ a
+ company.
+ And
+
+
+>> 20
+ years
+ old,
+ 10
+ people.
+ So,
+ how
+ did
+
+
+they
+
+
+>> Not
+ even
+ 10
+ then.
+ I
+ mean,
+ it
+ was
+ uh,
+ it
+
+
+was
+ just
+ me
+ and
+ Evan
+ at
+ the
+ start.
+ And
+
+
+you
+ know
+ it's
+ it's
+ existential
+ at
+ that
+
+
+point
+ in
+ time.
+ It
+ took
+ us
+ nine
+ months
+ of
+
+
+sort
+ of
+ existential
+ looking
+ into
+ the
+
+
+void
+ uh
+ and
+ you
+ know
+ really
+ kind
+ of
+
+
+absurdist
+ thought
+ to
+ figure
+ out
+ what
+ we
+
+
+were
+ doing.
+ We
+ were
+ trying
+ to
+ figure
+ out
+
+
+you
+ know
+ which
+ direction
+ we
+ go.
+ We've
+
+
+got
+ this
+ hammer
+ of
+ WebGL.
+ What's
+ the
+
+
+nail?
+ And
+ we
+ just
+ kept
+ trying
+ things.
+
+
+And
+
+
+>> so
+ you
+ spent
+ you
+ spent
+ quite
+ in
+
+
+retrospect
+ you've
+ said
+ that
+ you
+ you
+
+
+spent
+ four
+ years
+ building
+ the
+ product
+
+
+before
+ you
+ launched
+ right?
+ It
+ was
+ uh
+
+
+August
+ 2012
+ we
+ started
+ we
+ launched
+ our
+
+
+closed
+ beta
+ December
+ 2015
+ and
+ the
+ GA
+
+
+released
+ in
+ October
+ 2016.
+
+
+>> Didn't
+ start
+ charging
+ till
+ summer
+ 2017.
+
+
+>> Uh
+ but
+ yeah
+ throughout
+ that
+ all
+
+
+>> should
+ have
+ should
+ you
+ have
+ launched
+
+
+earlier?
+
+
+>> Oh
+ yeah
+ of
+ course.
+
+
+>> And
+ how
+ well
+ did
+ you
+ have
+ anything
+ to
+
+
+launch?
+
+
+>> Uh
+ well
+ we
+ always
+ had
+ something
+ uh
+ the
+
+
+question
+ was
+ was
+ it
+ good
+ enough?
+
+
+>> And
+ then
+ you
+ ask
+ okay
+ well
+ how
+ could
+ we
+
+
+have
+ moved
+ faster
+ and
+
+
+>> and
+ were
+ you
+ just
+ a
+ perfectionist?
+
+
+didn't
+ want
+ to
+ launch
+ until
+
+
+>> I'm
+ definitely
+ a
+ perfectionist
+ was
+ an
+ am
+
+
+I
+ have
+ to
+ constantly
+ check
+ that
+ bias.
+ Uh
+
+
+but
+ also
+ I
+ think
+ that
+ the
+
+
+uh
+ the
+ real
+ thing
+ we
+ could
+ to
+ move
+
+
+faster
+ is
+ we
+ should
+ have
+ hired
+ faster
+
+
+>> and
+ to
+ hire
+ faster
+ I
+ should
+ have
+ been
+
+
+more
+ on
+ top
+ of
+ the
+ culture
+ and
+ I
+ should
+
+
+have
+ figured
+ out
+ how
+ to
+ manage
+ people
+
+
+faster.
+
+
+>> I
+ was
+ a
+ bad
+ manager.
+
+
+>> Okay.
+ But
+ did
+ you
+ have
+ the
+ capital
+ to
+
+
+hire?
+ Could
+ you
+ have
+ hired?
+
+
+>> We
+ did
+ have
+ the
+ capital.
+
+
+>> There's
+ this
+ thing
+ called
+ blit
+ scaling,
+
+
+right?
+ You
+ you
+ want
+ to
+ scale
+ very
+ fast.
+
+
+So
+ just
+ tell
+ me
+ how
+ how
+ were
+ you
+
+
+thinking
+ about
+ speed
+ at
+ that
+ stage?
+
+
+>> I
+ was
+ thinking
+ about
+ we
+ got
+ to
+ get
+
+
+everything
+ right.
+ We
+ got
+ to
+ make
+ the
+
+
+perfect
+ tires.
+ We
+ got
+ to
+ make
+ the
+
+
+perfect
+ product.
+ I
+ was
+ too
+ much
+ in
+ the
+
+
+mode
+ of
+ there's
+ one
+ solution
+ to
+ things.
+
+
+There's
+ not.
+ There's
+ often
+ many
+ many
+
+
+solutions
+ to
+ things.
+ It's
+ rare
+ that
+
+
+there's
+ one
+ solution.
+ And
+ I
+ think
+ I
+
+
+didn't
+ fully
+ appreciate
+ it
+ then.
+ And
+
+
+also
+ I
+ think
+ I
+ lacked
+ at
+ the
+ start
+ of
+
+
+the
+ company
+ the
+ rigor
+ and
+ discipline
+ to
+
+
+every
+ day
+ many
+ times
+ a
+ day
+ be
+ looking
+ at
+
+
+that
+ recruiting
+ funnel
+ and
+ going
+ okay
+
+
+who's
+ in
+ process
+ where
+ are
+ they
+ in
+
+
+process
+ how
+ am
+ I
+ going
+ to
+ get
+ them
+ to
+
+
+the
+ next
+ stage
+ and
+ I
+ think
+ that
+ should
+
+
+have
+ been
+ my
+ obsession
+ instead
+ I
+ was
+
+
+obsessed
+ with
+ the
+ product
+ and
+ I'm
+ not
+
+
+saying
+ that
+ was
+ a
+ bad
+ thing
+ uh
+ obviously
+
+
+I'm
+ still
+ obsessed
+ with
+ the
+ product
+ but
+
+
+you
+ were
+ trying
+ to
+ be
+ obsessed
+ about
+
+
+growth
+
+
+>> so
+ you
+ should
+ have
+ been
+ spending
+ time
+
+
+hiring
+ rather
+ than
+ writing
+ software
+
+
+>> uh
+ I
+ think
+ I
+ should
+ have
+ been
+ doing
+
+
+both.
+ I
+ think
+ the
+ best
+ founders
+ figure
+
+
+out
+ how
+ to
+ do
+ it
+ all
+ and
+ I
+ think
+ I
+
+
+allocated
+ my
+ time
+ entirely
+ towards
+ the
+
+
+product.
+
+
+>> What
+ type
+ of
+ people
+ were
+ you
+ hiring
+ at
+
+
+the
+ stage?
+
+
+>> Engineers,
+ designers,
+ uh,
+ you
+ know,
+ ops
+
+
+roles.
+ Uh,
+ nothing
+ that
+ was
+ too
+ out
+
+
+there.
+ But
+ yeah,
+ I
+ think
+ that
+ um,
+ in
+
+
+retrospect,
+ we
+ made
+ some
+ great
+ hires
+
+
+during
+ that
+ time.
+ But
+ overall,
+ if
+ we
+ had
+
+
+hired
+ faster
+ and
+ if
+ I
+ had
+ had
+ the
+
+
+mindset
+ I
+ have
+ now
+ back
+ then,
+ we
+ could
+
+
+have
+ built
+ it
+ a
+ lot
+ quicker.
+
+
+>> Can
+ you
+ can
+ you
+ hire
+ a
+ super
+ people
+ if
+
+
+you
+ hire
+ that
+ super
+ fast?
+
+
+>> Oh,
+ yes.
+ Uh
+ but
+ I
+ think
+ it
+ requires
+
+
+uh
+ a
+ recruiting
+ muscle
+ that
+ everyone
+ in
+
+
+the
+ company
+ has
+ to
+ embrace.
+ Everyone
+ has
+
+
+to
+ really
+ be
+ aligned
+ and
+ on
+ the
+ same
+
+
+page
+ that
+ we
+ have
+ to
+ go
+ find
+ and
+ ret
+
+
+get,
+ you
+ know,
+ we
+ have
+ to
+ go
+ find
+ and
+ we
+
+
+have
+ to
+ go
+ attract
+ and
+ then
+ retain
+ the
+
+
+best
+ folks
+ in
+ the
+ world.
+
+
+>> And
+ there's
+ a
+ momentum
+ to
+ it.
+ If
+ you
+
+
+don't
+ have
+ the
+ momentum,
+ if
+ you
+ don't
+
+
+have
+ the
+ ability
+ to
+ uh
+ really
+ push
+ and
+
+
+get
+ that
+ ball
+ rolling,
+ it
+ just
+ never
+
+
+quite
+ starts.
+ and
+ it
+ goes
+ in
+ instead
+ in
+
+
+little
+ sprints
+ when
+ you
+ find
+ one
+ person
+
+
+and
+ you
+ really
+ have
+ to
+ parallel
+ path
+ it.
+
+
+>> And
+ is
+ it
+ right
+ that
+ you
+ started
+ to
+
+
+charge
+ because
+ Microsoft
+ told
+ you
+ that
+
+
+if
+ you
+ don't
+ charge
+ we
+ can't
+ buy
+ because
+
+
+you're
+ not
+ going
+ to
+ survive.
+ Is
+ that
+
+
+right?
+
+
+>> Yes,
+ it
+ is
+ the
+ story.
+
+
+It
+ was
+ a
+ surprise
+ uh
+ when
+ I
+ mean
+ they're
+
+
+so
+ nice
+ about
+ it.
+ Uh
+ the
+ person
+ that
+
+
+told
+ me
+ that
+ is
+ actually
+ still
+ at
+
+
+Microsoft
+ and
+ he's
+ just
+ a
+ wonderful
+ guy.
+
+
+Um,
+ but
+ yeah,
+ they
+ came
+ to
+ our
+ office
+
+
+and
+ they're
+ like,
+ "Hey,
+ got
+ a
+ lot
+ of
+
+
+people
+ using
+ your
+ software.
+ It's
+
+
+starting
+ to
+ be
+ kind
+ of
+ important
+ for
+ us.
+
+
+What's
+ your
+ business
+ model?"
+ And
+ I'm
+
+
+like,
+ "Oh,
+ well,
+ we're
+ going
+ to
+ figure
+
+
+it
+ out."
+ He
+ said,
+ "Yeah,
+ uh,
+ that
+ makes
+
+
+sense.
+ Why
+ are
+ you
+ waiting?"
+ Said,
+
+
+"Well,
+ I,
+ you
+ know,
+ I
+ know
+ the
+ product's
+
+
+not
+ good
+ enough
+ yet."
+ Going
+ back
+ to
+
+
+perfectionism,
+ uh,
+ and
+ I
+ I
+ just
+ think
+
+
+it'll
+ be
+ spread
+ faster
+ if
+ it's
+ free.
+ and
+
+
+they
+ said,
+ "Well,
+ uh,
+ if
+ it's
+ free,
+ you
+
+
+could
+ go
+ out
+ of
+ business,
+ and
+ so
+ we
+ want
+
+
+to
+ make
+ sure
+ you
+ don't
+ we
+ cannot
+ rely
+ on
+
+
+software
+ for
+ critical
+ operations
+ is
+
+
+gonna
+ could
+ go
+ out
+ of
+ business,
+ so
+
+
+please
+ charge
+ money."
+ And,
+ uh,
+ that
+ was
+
+
+the
+ point
+ where
+ I'm
+ like, "Oh,
+ I
+ think
+
+
+we're
+ really
+ behind
+ here."
+ Came
+ back
+ to
+
+
+the
+ team,
+ we
+ got
+ to
+ charge.
+ We
+ got
+ to
+
+
+get
+ pricing
+ in
+ order.
+ And
+ everyone's
+
+
+like,
+ "Uh,
+ yes,
+ duh.
+ We've
+ been
+ telling
+
+
+you
+ this."
+ So,
+ you
+ know,
+ sometimes
+ a
+
+
+little
+ slow.
+
+
+>> How
+ do
+ you
+ think
+ about
+ product
+
+
+innovation
+ and
+ and
+ launches?
+ I
+ mean,
+ now
+
+
+you're
+ launching
+ loads
+ of
+ products,
+
+
+right?
+ Yeah.
+
+
+>> How
+ do
+ you
+ think
+ about
+ which
+ problems
+ to
+
+
+solve?
+
+
+>> So
+ the
+ interesting
+ thing
+ about
+ Figma
+ is
+
+
+the
+ Figma
+ design
+ tool
+ at
+ the
+ core
+ of
+ it
+
+
+all.
+ Uh
+ made
+ for
+ designers,
+ made
+ for
+
+
+people
+ creating
+ digital
+ software.
+ And
+
+
+despite
+ that,
+ we
+ see
+ people
+ doing
+ so
+
+
+much
+ more
+ with
+ it.
+ We
+ see
+ people
+
+
+creating
+ complex
+ illustrations.
+ We
+ see
+
+
+people,
+ you
+ know,
+ using
+ it
+ for
+
+
+whiteboarding,
+ diagramming,
+
+
+brainstorming
+ slides,
+ uh,
+ using
+ it
+ for
+
+
+production
+ graphics,
+ making
+ websites,
+
+
+making
+ really
+ complex
+ prototypes
+ and
+
+
+more.
+ And
+ each
+ time
+ we
+ start
+ to
+ see
+ and
+
+
+notice
+ and
+ watch
+ these
+ use
+ cases
+ grow
+
+
+inside
+ of
+ Figma,
+
+
+we
+ try
+ to
+ pull
+ them
+ out
+ into
+ their
+ own
+
+
+product
+ surfaces.
+ The
+ reason
+ we
+ do
+ that
+
+
+is
+ because
+ otherwise
+ if
+ you're
+
+
+optimizing
+ for
+ a
+ use
+ case
+ like
+ slides
+
+
+for example
+ and
+ you
+ make
+ it
+ so
+ that
+ you
+
+
+really
+ build
+ around
+ it.
+ Okay,
+ well
+ now
+
+
+Figma
+ design
+ needs
+ presenter
+ notes
+ and
+
+
+it
+ needs
+ all
+ this
+ other
+ slides
+
+
+functionality
+ or
+ if
+ you're
+ trying
+ to
+ do
+
+
+diagramming
+ and
+ whiteboarding
+ there's
+ a
+
+
+bunch
+ of
+ features
+ you're
+ going
+ to
+ need
+
+
+to
+ pack
+ in
+ there
+ and
+ that
+ makes
+ the
+
+
+digital
+ design
+ product
+ Figma
+ design
+ more
+
+
+complex.
+ It
+ makes
+ it
+ less
+ approachable.
+
+
+But
+ if
+ you
+ pull
+ it
+ out
+ into
+ its
+ own
+
+
+space,
+ then
+ you
+ can
+ actually
+ help
+ it
+
+
+find
+ its
+ own
+ life
+ and
+ its
+ own
+ point
+ of
+
+
+view.
+ So
+ for
+ example,
+ Fig
+ Jam
+ is
+ a
+
+
+product
+ that
+ we
+ really
+ lean
+ into
+ fun
+ on.
+
+
+Fig
+ Jam
+ is
+ a
+ product
+ that
+ uh
+ we
+ explored
+
+
+all
+ these
+ ideas
+ that
+ we
+ wanted
+ to
+ create
+
+
+to
+ bring
+ joy
+ to
+ folks.
+ things
+ like
+ uh
+
+
+emoji
+ reactions,
+ cursor
+ chat,
+ stamps,
+
+
+stickers,
+ uh
+ as
+ well
+ as,
+ you
+ know,
+ how
+
+
+can
+ I
+ set
+ a
+ timer
+ during
+ a
+ brainstorm
+
+
+and
+ have
+ some
+ music
+ play,
+ you
+ know,
+ all
+
+
+these
+ little
+ details
+ that
+ if
+ we
+ had
+
+
+started
+ in
+ Figma
+ design
+ for
+ those,
+
+
+people
+ would have
+ said,
+ you're
+ getting
+
+
+in
+ my
+ way,
+ stop.
+
+
+But
+ instead
+ in
+ Fig
+ Jam,
+ you
+ can
+ wave
+
+
+your
+ cursor
+ around
+ and
+ it
+ gives
+ you
+ a
+
+
+high
+ five
+ if
+ you
+ intersect
+ with
+ someone
+
+
+else,
+
+
+>> you
+ know,
+ and
+ and
+ it's
+ just
+ uh
+ some
+ of
+
+
+those
+ things
+ we
+ later
+ bring
+ into
+ Figma
+
+
+design,
+ but
+ having
+ its
+ own
+ space
+ to
+
+
+develop
+ and
+ to
+ grow
+ and
+ find
+ its
+ own
+
+
+voice,
+ that
+ was
+ really
+ critical
+ for
+ Fig
+
+
+Jam.
+ It's
+ critical
+ for
+ many
+ of
+ the
+
+
+product.
+
+
+>> Tell
+ me
+ how
+ you're
+ building
+ kind
+ of
+ fun
+
+
+into
+ the
+ products.
+
+
+>> Yeah.
+ Well,
+
+
+>> because
+ that's
+ been
+ a
+ deliberate
+
+
+strategy,
+ right?
+ For
+ Fig
+ Jam,
+ it's
+
+
+definitely
+ been
+ I
+ don't
+ think
+ all
+ of
+ the
+
+
+products
+ uh
+ need
+ to
+ differentiate
+
+
+through
+ fun,
+ but
+ for
+ Fig
+ Jam,
+ that
+ was
+
+
+our
+ point
+ of
+ view
+ and
+ continues
+ to
+ be.
+
+
+And
+ it
+ really
+ started
+ with
+ a
+ one-day
+
+
+design
+ sprint.
+ Uh
+ it's
+ kind
+ of
+ wild
+ that
+
+
+it
+ was
+ one
+ day,
+ but
+ yeah,
+ we're
+ in
+
+
+COVID,
+ everyone
+ was
+ remote.
+ And
+ it
+ just
+
+
+felt
+ like
+ in
+ order
+ to
+ get
+ people
+ to
+ open
+
+
+up
+ and
+ to
+ brainstorm,
+ how
+ do
+ you
+ do
+
+
+that?
+ Well,
+ fun,
+ safety,
+ psychological
+
+
+safety,
+ that's
+ important.
+
+
+>> And
+ so,
+ we
+ really
+ tried
+ to
+ lean
+ into
+
+
+that
+ aspect
+ of
+ it.
+ And
+ it
+ was
+ amazing.
+ I
+
+
+mean,
+ I
+ think
+ in
+ one
+ day
+ we
+ had
+ a
+ small
+
+
+team
+ of
+ designers
+ generate
+ 20
+ 30
+ ideas,
+
+
+maybe
+ five
+ of
+ them
+ shipped.
+ Uh
+ several
+
+
+of
+ them
+ ended
+ up,
+ you
+ know,
+ being
+
+
+patented.
+ Uh
+ and
+ all
+ out
+ of
+ one
+ day
+ of
+
+
+brainstorming.
+
+
+>> Just
+ what
+ I
+ think
+ it's
+ sometimes
+ it's
+
+
+like
+ if
+ you
+ can
+ give
+ clear
+ direction
+ and
+
+
+directive
+ to
+ a
+ team,
+ they
+ can
+ just
+ do
+
+
+the
+ most
+ amazing
+ things
+ if
+ you
+ get
+ out
+
+
+of
+ their
+ way.
+
+
+>> And
+ now
+ you
+ do
+ dog
+ fooding,
+ right?
+ You
+
+
+use
+ your
+ own
+ tools
+ to
+
+
+>> always
+ have.
+
+
+>> Yeah.
+ use
+ your
+ own
+ tools
+ to
+ create
+ new
+
+
+products
+
+
+>> always.
+
+
+>> How
+ does
+ that
+ accelerate
+ innovation?
+
+
+>> Yeah.
+ Well,
+ it
+ doesn't
+ until
+ you
+ get
+ to
+
+
+the
+ point
+ where
+ the
+ product's
+ good.
+
+
+>> But,
+ uh,
+ I'll
+ give
+ an
+ example
+ from
+ the
+
+
+earliest
+ days
+ of
+ Figma.
+ I'll
+ give
+ you
+ an
+
+
+example
+ now.
+ So,
+ in
+ the
+ early
+ days
+ of
+
+
+Figma,
+ uh,
+ we
+ dog
+ fooded
+ Figma
+ design.
+
+
+And
+ the
+ only
+ thing
+ we
+ did
+ design
+ with
+
+
+after
+ we
+ got
+ to
+ a
+ certain
+ point,
+ which
+
+
+was
+ quite
+ early,
+ was
+ Figma
+ design.
+ And
+
+
+there
+ were
+ days
+ where
+ we
+ broke
+ the
+ build
+
+
+and
+ our
+ poor
+ designer
+ said,
+ "Okay,
+ I'm
+
+
+going
+ to
+ go
+ home
+ early
+ because
+ y'all
+
+
+don't
+ have
+ a
+ fix."
+ And
+ so,
+ uh,
+ that
+ was
+
+
+rough
+ and
+ it
+ very
+ quickly
+ became
+ a
+
+
+culture
+ of,
+ "Okay,
+ we
+ have
+ to
+ have
+
+
+quality.
+ We
+ can't
+ just
+ have
+ the
+ app
+
+
+crash.
+ We
+ can't
+ make
+ our
+ designer
+ so
+
+
+angry,
+ uh,
+ when
+ we,
+ you
+ know,
+ mess
+
+
+things
+ up."
+ And
+ so,
+ that
+ really
+
+
+instilled
+ right
+ away
+ a
+ loop
+ with
+ the
+
+
+customer.
+ The
+ customer
+ just
+ happened
+ to
+
+
+be
+ on
+ our
+ team.
+ moving
+ forward
+ today.
+ I
+
+
+mean,
+ Figma
+ make
+ for
+ example
+ or
+ our
+ dev
+
+
+modem
+ MCP.
+
+
+>> Uh
+ these
+ are
+ tools
+ that
+ really
+ help
+ us
+
+
+accelerate
+ uh
+ our
+ work
+ and
+ our
+
+
+prototyping,
+ our
+ exploration
+ of
+ what
+ we
+
+
+can
+ do
+
+
+>> and
+ that's
+ not
+ even
+ to
+ mention
+ some
+ of
+
+
+the
+ stuff
+ that
+ we've
+ got
+ in
+ the
+
+
+pipeline.
+
+
+>> Now
+ you
+ mentioned
+ that
+ some
+ of
+ these
+ was
+
+
+during
+ COVID
+ and
+ so
+ how
+ did
+ in
+ a
+ way
+ how
+
+
+did
+ co
+ help
+ you
+ uh
+ in
+ designing
+ products
+
+
+>> because
+ you
+ were
+ situated
+ in
+ all
+
+
+different
+ types
+ of
+ places
+ and
+ in
+ a
+ way
+
+
+the
+ whole
+ concept
+ is
+ to
+ tie
+ people
+
+
+together,
+ right?
+
+
+>> Yeah,
+ it's
+ interesting.
+ you
+ know,
+ we
+
+
+were
+ fully
+ in
+ person
+ before
+ COVID.
+ I
+
+
+mean,
+ I
+ think
+ there's
+ one
+ or
+ two
+ people
+
+
+that
+ needed
+ to
+ go
+ somewhere
+ else
+ in
+ the
+
+
+team
+ and
+ they
+ had
+ had
+ such
+ context
+ that
+
+
+we
+ said,
+ "Okay,
+ fine."
+ But,
+ I
+ mean,
+ it
+
+
+was
+ this
+ very
+ small
+ part
+ of
+ the
+
+
+population.
+
+
+>> And
+ then
+ overnight,
+ like
+ everybody
+ else,
+
+
+we
+ found
+ ourselves
+ a
+ remote
+ team.
+ We
+ had
+
+
+heard
+ for
+ ages
+ that
+ Figma
+ was
+ great
+ for
+
+
+remote
+ work,
+ but
+ we
+ never
+ experienced
+
+
+it.
+ And
+ then
+ suddenly
+ we
+ found
+ out,
+ oh
+
+
+yeah,
+ it
+ is.
+ uh
+ but
+ yeah
+ I
+ don't
+ think
+
+
+that
+ from
+ a
+ business
+ standpoint
+ co
+
+
+either
+ decelerated
+ or
+ accelerated
+ us
+
+
+instead
+ it
+ was
+ I
+ think
+ a
+ we
+ were
+ already
+
+
+on
+ a
+ very
+ strong
+ trajectory
+ at
+ that
+
+
+point
+ and
+ uh
+ that
+ trajectory
+ continued
+
+
+but
+ certainly
+ there
+ were
+ many
+ other
+
+
+challenges
+ uh
+ that
+ everyone
+ else
+ faced
+
+
+too
+ but
+ how
+ do
+ you
+ create
+ culture
+
+
+especially
+ for
+ new
+ folks
+ during
+ co
+ when
+
+
+we
+ started
+ uh
+ I
+ would
+ do
+ these
+
+
+breakfasts
+ for
+ new
+ hires
+
+
+>> where
+ we'd
+ all
+ have
+ breakfast
+ for
+ an
+
+
+hour
+ and
+ we
+ would
+ just
+ talk
+ about
+
+
+different
+ questions
+ that
+ were
+ on
+
+
+people's
+ minds.
+ But
+ then
+ we
+ started
+
+
+growing
+ faster
+ and
+ suddenly
+ I
+ realized
+
+
+that
+ if
+ I
+ were
+ to
+ uh
+ do
+ all
+ the
+
+
+breakfast
+ I
+ needed
+ to
+ do
+ with
+ a
+ group
+
+
+size
+ I
+ thought
+ was
+ right,
+ I
+ would
+ be
+
+
+doing
+ breakfast
+ 5
+ days
+ a
+ week
+ for
+ the
+
+
+next,
+ you
+ know,
+ whatever
+ amount
+ of
+ time.
+
+
+>> And
+ that's
+ when
+ unfortunately
+ I
+ had
+ to
+
+
+stop
+ that
+ one.
+
+
+>> Uh
+ so
+ not
+ everything
+ survived
+ scale,
+ but
+
+
+that's
+ not
+ the
+ reason
+ to
+ not
+ do
+ things.
+
+
+You
+ should
+ still
+ do
+ things
+ even
+ if
+
+
+they're
+ not
+ going
+ to
+ be
+ the
+ long-term
+
+
+solution.
+
+
+>> So
+ uh
+ we
+ did
+ lots
+ of
+ fun
+ things
+
+
+together.
+ For
+ example,
+ we
+ made
+ a
+ musical
+
+
+during
+ co
+ remotely.
+ Uh
+ we
+ have
+ a
+ thing
+
+
+called
+ maker
+ week
+ at
+ Figma
+ where
+ the
+
+
+entire
+ company
+ gets
+ a
+ week
+ to
+ make
+
+
+anything
+ that
+ can
+ be
+ beneficial
+ to
+ the
+
+
+company
+ and
+ this
+ includes
+ not
+ just
+
+
+engineers,
+ product
+ designers,
+ uh
+ you
+
+
+know
+ people
+ in
+ the
+ you
+ know
+ sort
+ of
+ R&D
+
+
+function
+ it's
+ anyone
+ that
+ wants
+ to
+
+
+participate
+ and
+ uh
+ yeah
+ we
+ had
+ a
+ new
+
+
+hire
+ who
+ had
+ come
+ from
+ a
+ background
+ of
+
+
+not
+ just
+ impeccable
+ engineering
+ but
+ also
+
+
+uh
+ you
+ know
+ being
+ able
+ to
+ create
+ musical
+
+
+scores
+ and
+ making
+ musicals.
+
+
+That's
+ one
+ of
+ their
+ passions.
+ And
+ uh
+ we
+
+
+also
+ happen
+ to
+ have
+ a
+ Broadway
+ star
+ on
+
+
+the
+ team.
+
+
+>> Well,
+ you
+ were
+ acting
+ too
+ when
+ you
+ were
+
+
+young.
+
+
+>> Oh,
+ yeah.
+ But
+ I
+ wasn't
+ a
+ Broadway
+ star.
+
+
+We
+ had
+ a
+ legitimately
+ like
+ amazing
+
+
+Broadway
+ star
+ who
+ had
+ the
+ most
+ amazing
+
+
+voice.
+ Uh
+ no,
+ not
+ not
+ comparable.
+ Um
+ and
+
+
+uh
+ and
+ also
+ a
+ lot
+ of
+ other
+ people
+ that
+
+
+were
+ just
+ very
+ excited
+ about
+ expressing
+
+
+and
+ having
+ fun
+ together.
+ And
+ so
+ that
+ was
+
+
+what
+ they
+ did.
+
+
+>> And
+ it's
+ online.
+ Uh
+ you
+ can
+ decide
+
+
+whether
+ it's
+ awesome
+ or
+ cringe.
+ Uh
+ I
+
+
+think
+ it's
+ awesome
+ for
+ what
+ it's
+ worth.
+
+
+>> Yeah.
+ Cool.
+ And
+ then
+ out
+ comes
+ Adobe
+ and
+
+
+offers
+ you
+ $20
+ billion
+ for
+ the
+ company.
+
+
+>> That's
+ true.
+
+
+>> I
+ mean
+ that's
+ quite
+ amazing.
+ But
+ then
+
+
+that
+ it
+ fell
+ through.
+ So
+ how
+ did
+ it
+ do
+
+
+to
+ what
+ did
+ that
+ do
+ to
+ the
+ organization?
+
+
+You
+ think
+ there's
+ a
+ big
+ check
+ coming
+ and
+
+
+then
+ it
+ ain't
+ coming.
+
+
+>> Uh
+ yeah
+ I
+ mean
+
+
+>> how
+ much
+ did
+ you
+ own
+ with
+ the
+ company
+ by
+
+
+then?
+
+
+>> Uh
+ I
+ forget
+ the
+ exact
+ ownership
+ at
+ that
+
+
+time.
+ It's
+ probably
+ uh
+ 10ish%
+ or
+ so.
+
+
+>> Yeah.
+ I
+ think
+ that
+ uh
+ first
+ of
+ all,
+ I
+
+
+mean
+ it
+ wasn't
+ the
+ first
+ time
+ they
+ had
+
+
+come.
+ It's
+ all
+ publicly
+ disclosed.
+ They
+
+
+are
+ an
+ amazing
+ company
+ and
+ I
+ think
+
+
+almost
+ everyone
+ at
+ Figma
+ has
+ not
+ just
+
+
+respect
+ for
+ them
+ but
+ also
+ grew
+ up
+ using
+
+
+their
+ tools.
+
+
+>> So
+ yeah,
+ we've
+ we're
+ big
+ fans,
+
+
+>> but
+ um
+
+
+>> yeah,
+ they
+ at
+ the
+ start
+ of
+ Figma,
+ we
+
+
+really
+ thought
+ about
+ them
+ as
+ a
+
+
+competitor.
+ Uh
+ we
+ thought
+ we
+ were
+ going
+
+
+to
+ go
+ be
+ the
+ creative
+ tools
+ company
+ and
+
+
+design.
+ It
+ was
+ such
+ a
+ small
+ market
+ for
+
+
+software
+ design
+ according
+ to
+ all
+ the
+
+
+data
+ we
+ saw.
+ I
+ mean
+ the
+ Bureau
+ of
+ Labor
+
+
+Stics
+ said
+ there
+ was
+ 250,000
+ designers
+
+
+in
+ the
+ United
+ States
+
+
+and
+ based
+ on
+ that
+ we
+ thought
+ okay
+ this
+
+
+will
+ be
+ a
+ start
+ and
+ then
+ we'll
+ expand
+
+
+out
+ just
+ so
+ happened
+ that
+ market
+ grew
+ in
+
+
+a
+ huge
+ way
+
+
+>> that
+ we
+ had
+ intuition
+ it
+ would
+ grow
+ like
+
+
+we
+ talked
+ about
+ with
+ the
+ exponential
+
+
+rise
+ of
+ software
+ and
+ the
+ value
+ of
+ design
+
+
+moving
+ up
+ the
+ stack
+ and
+ uh
+ the
+ design
+
+
+being
+ a
+ differentiator
+ but
+
+
+>> I
+ don't
+ think
+ we
+ truly
+ appreciate
+ how
+
+
+much
+ and
+ how
+ fast
+ it
+ could
+ grow
+ and
+ so
+
+
+we
+ suddenly
+ found
+ ourselves
+ elves
+ in
+ a
+
+
+world
+ where
+ we're
+ really
+ building
+ out
+ a
+
+
+platform
+ for
+ product
+ design
+ and
+
+
+development.
+ Again,
+ fit
+ into
+ our
+
+
+framework,
+ eliminate
+ the
+ gap
+ between
+
+
+imagination,
+ reality.
+ Well,
+ part
+ of
+ that
+
+
+is
+ making
+ it
+ so
+ you
+ can
+ go
+ from
+ idea
+ to
+
+
+a
+ shipped
+ digital
+ product.
+ But
+ it
+ wasn't
+
+
+competitive
+ anymore
+ with
+ Adobe.
+ There's
+
+
+a
+ period
+ of
+ time
+ where
+ they
+ tried,
+
+
+didn't
+ work.
+ They
+ deprecated
+ it
+ uh
+ and
+
+
+put
+ on
+ maintenance
+ mode.
+ So,
+ to
+ me,
+ it
+
+
+was
+ like,
+ okay,
+ we're
+ big
+ enough
+ now
+
+
+where
+ we
+ could
+ be
+ absorbed.
+ uh
+ this
+ is
+ a
+
+
+very
+ like
+ wellthoughtout
+ valuation
+
+
+and
+ I
+ think
+ that
+ the
+ pitch
+ uh
+ I
+ thought
+
+
+it
+ was
+ good
+ about
+ what
+ we
+ could
+ do
+ in
+
+
+the
+ cont
+ context
+ of
+ Adobe
+ and
+ also
+
+
+frankly
+ you
+ know
+ I
+ was
+ looking
+ around
+
+
+the
+ corner
+ at
+ AI
+ it
+ was
+ before
+ chatbt
+
+
+but
+ you
+ could
+ see
+ that
+ trend
+ and
+ where
+
+
+it
+ might
+ go
+ and
+ I
+ uh
+ I
+ didn't
+ know
+ if
+ it
+
+
+would
+ onetenth
+ or
+ 10x
+ our
+ business
+ or
+
+
+100th
+ or
+ 100x
+ our
+ business
+ I
+ mean
+ I
+ I
+
+
+really
+ couldn't
+ tell.
+ It
+ was
+ just
+ so
+
+
+chaotic.
+ And
+ so
+ I
+ thought,
+ okay,
+
+
+strengthen
+ the
+ numbers.
+ And
+ uh
+ for
+ all
+
+
+the
+ reasons
+ I
+ mentioned
+ and
+ then
+ some,
+
+
+let's
+ do
+ it.
+ And
+ uh
+ yeah,
+ the
+ definitely
+
+
+thought
+ that
+ it
+ would
+ go
+ through.
+ It
+ did
+
+
+not.
+ Uh
+ the
+ team
+ really
+ I'm
+ so
+ proud
+ of
+
+
+how
+ they
+ worked
+ through
+ that
+ with
+ with
+
+
+me.
+ And
+ you
+ know
+ it
+ was
+ a
+ moment
+ where
+
+
+we
+ needed
+ to
+ continue
+ accelerating
+
+
+whether
+ we're
+ going
+ to
+ be
+ at
+ Adobe
+ or
+
+
+we're
+ going
+ to
+ be
+ independent.
+ We
+ had
+ to
+
+
+keep
+ our
+ foot
+ on
+ the
+ gas.
+
+
+>> Mhm.
+
+
+>> And
+ the
+ team
+ did
+ that.
+ The
+ team
+ operated
+
+
+excellently
+ and
+ coming
+ out
+ of
+ it
+ we
+ were
+
+
+able
+ to
+ launch
+ dev
+ mode.
+ Uh
+ and
+ then
+ the
+
+
+next
+ year
+ four
+ additional
+ products
+ and
+ I
+
+
+think
+ our
+ pace
+ of
+ innovation
+ our
+
+
+momentum
+ has
+ only
+ increased
+ from
+ there.
+
+
+>> And
+ then
+ you
+ IPOed
+ instead.
+
+
+>> That's
+ correct.
+
+
+>> Are
+ you
+ happy
+ that
+ you
+ IPL?
+
+
+>> Yeah.
+
+
+Odd,
+ odd
+ question.
+ Um,
+
+
+>> no,
+ because
+ it's
+ not
+ odd
+ because
+ a
+ lot
+
+
+of
+ companies
+ these
+ days
+ choose
+ to
+ be
+
+
+private.
+
+
+>> Well,
+ look,
+ I
+ mean,
+ I
+ think
+ that
+ there
+
+
+are
+ some
+ companies
+ in
+ the
+ world
+ like
+
+
+SpaceX
+ where
+ they
+ have
+ every
+ right
+ to
+ be
+
+
+private
+ as
+ long
+ as
+ they
+ want
+ to.
+
+
+>> AI,
+ Dropics,
+ I
+ mean,
+ lots
+ of
+ them.
+
+
+>> Uh,
+ I
+ think
+ Stripe
+ and
+ SpaceX
+ are
+ maybe
+
+
+a
+ class
+ of
+ their
+ own
+ there.
+ M
+
+
+>> and
+ uh
+ SpaceX
+ in
+ particular,
+ yeah,
+ they
+
+
+have
+ no
+ reason
+ why
+ they
+ need
+ to
+ go
+
+
+public
+ or
+ uh
+ if
+ they
+ want
+ to
+ stay
+
+
+private,
+ they
+ should
+ be
+ able
+ to
+ do
+ that.
+
+
+>> Um
+ not
+ every
+ company
+ is
+ a
+ SpaceX
+ and
+ I
+
+
+think
+ that
+ we
+ are
+ an
+ incredible
+ company,
+
+
+but
+ we're
+ one
+ that
+ will
+ eventually
+ go
+
+
+public
+
+
+>> and
+ the
+ question
+ is
+ if
+ you're
+ going
+ to
+
+
+go
+ public
+ one
+ day,
+ why
+ not
+ now?
+
+
+>> We
+ were
+ ready.
+ Uh
+ and
+ I'm
+ glad
+ we
+ did
+
+
+it.
+
+
+It
+ forces
+ a
+ level
+ of
+ discipline
+ of
+
+
+course
+ but
+ that's
+ a
+ discipline
+ that
+ I
+
+
+think
+ we
+ should
+ have
+ had
+ anyway.
+
+
+>> Now
+ you
+ are
+ using
+ your
+ talent
+ and
+ your
+
+
+thinking
+ um
+ and
+ your
+ visions
+ to
+ invest
+
+
+in
+ other
+ in
+ other
+ uh
+ kind
+ of
+ startups
+
+
+like
+ drones,
+ crypto
+ uh
+ and
+ so
+ on.
+ What
+
+
+are
+ the
+ kind
+ of
+ things
+ that
+ you
+ are
+ um
+
+
+that
+ you
+ think
+ is
+ interesting?
+
+
+>> It's
+ more
+ a
+ question
+ of
+ I
+ don't
+ find
+
+
+interesting.
+ I
+ can't
+ think
+ of
+ anything.
+
+
+uh
+ the
+ um
+ yeah
+ I'm
+ pretty
+ curious
+ about
+
+
+the
+ world
+ in
+ general
+ and
+ uh
+
+
+>> uh
+ whether
+ it
+ be
+ anything
+ from
+ you
+ know
+
+
+certain
+ uh
+ parts
+ of
+ the
+ software
+ market
+
+
+to
+ uh
+ hardware
+ to
+ uh
+ the
+ life
+ sciences.
+
+
+Um
+
+
+>> but
+ I
+ mean
+ you
+ can't
+ invest
+ in
+
+
+everything.
+ So
+ where
+ do
+ you
+ choose
+ to
+
+
+invest?
+
+
+>> Well
+ look
+ my
+ time
+ is
+ very
+ limited.
+ So
+ my
+
+
+focus
+ is
+ on
+ Figma
+ and
+ I
+ spend
+ sort
+ of
+ uh
+
+
+I
+ don't
+ know
+ basically
+ all
+ my
+ waking
+
+
+hours
+ on
+ Figma.
+ And
+ so
+ then
+
+
+>> something
+ that
+ I
+ invest
+ in
+ has
+ to
+ be
+ so
+
+
+exciting
+ or
+ be
+ so
+ helpful
+ for
+ the
+ world
+
+
+>> and
+ economically
+ viable
+ that
+ because
+ I
+
+
+think
+ those
+ two
+ go
+ together.
+ If
+ you
+ are
+
+
+economically
+ viable
+ and
+ helpful
+ then
+ you
+
+
+can
+ be
+ more
+ helpful.
+ and
+ scales
+ uh
+ that
+
+
+it
+ has
+ to
+ keep
+ me
+ up
+ at
+ night
+ uh
+ because
+
+
+I'm
+ literally
+ going
+ to
+ trade
+ off
+ sleep
+
+
+in
+ order
+ to
+ go
+ evaluate
+ and
+ dive
+ into
+ an
+
+
+investment.
+
+
+>> Uh
+ and
+ if
+ that
+ is
+ true,
+ then
+ my
+
+
+curiosity
+ is
+ so
+ peaked,
+ then
+ yeah,
+ I'll
+
+
+dive
+ in
+ and
+ spend
+ time
+ and
+ understand
+
+
+the
+ company
+ and
+ then
+ I
+ have
+ the
+
+
+additional
+ test
+ of
+ do
+ I
+ want
+ to
+ keep
+
+
+spending
+ that
+ time?
+
+
+>> And
+ if
+ it's
+ so
+ exciting
+ to
+ work
+ with
+
+
+that
+ founder
+ because
+ they're
+ so
+
+
+incredible,
+
+
+>> that's
+ when
+ I
+ make
+ an
+ investment.
+
+
+Let's
+ um
+ talk
+ a
+ bit
+ about
+ culture.
+ So,
+
+
+how
+ do
+ you
+ think
+ your
+ leadership
+ style
+
+
+has
+ changed
+ from
+ when
+ you
+ started
+ until
+
+
+now?
+
+
+>> I'm
+ not
+ sure
+ my
+ leadership
+ style
+ has
+
+
+changed
+ so
+ much.
+ I
+ think
+ the
+ way
+ that
+ I
+
+
+lead
+ has
+ certainly
+ evolved.
+ Uh
+ I
+ think
+
+
+that
+ the
+ same
+ lessons
+ I'm
+ learning
+ now
+
+
+are
+ the
+ same
+ lessons
+ I've
+ learned
+ in
+ the
+
+
+past.
+
+
+>> Uh
+ for
+ example,
+ I'm
+ always
+ learning
+ that
+
+
+I
+ need
+ to
+ unpack
+ my
+ context
+ and
+ give
+
+
+more
+ of
+ my
+ thinking
+ and
+ articulate
+ more
+
+
+of
+ my
+ thinking
+
+
+>> to
+ explain
+ why.
+ Yeah,
+ it's
+ like
+ the
+ um
+
+
+you
+ know,
+ you're
+ doing
+ math
+ homework
+ and
+
+
+you
+ show
+ the
+ answer.
+ Well,
+ the
+ teacher
+
+
+wants
+ you
+ to
+ show
+ your
+ work.
+ And
+ uh
+
+
+>> why
+ is
+ that
+ important?
+ Why
+ is
+ that
+
+
+important?
+
+
+>> Well,
+ I
+ think
+ it's
+ really
+ important
+ that
+
+
+people
+ in
+ the
+ company
+ have
+ frameworks
+
+
+and
+ they
+ understand
+ your
+ reasoning
+ for
+
+
+things
+
+
+>> because
+ if
+ they
+ don't,
+ then
+ they
+ cannot
+
+
+replicate
+ your
+ point
+ of
+ view
+ when
+ you're
+
+
+out
+ of
+ the
+ room.
+
+
+>> And
+ if
+ you
+ don't
+ elevate
+ it
+ to
+ that
+
+
+level,
+ they
+ also
+ cannot
+ debate
+ it
+
+
+properly.
+
+
+>> Takes
+ more
+ time.
+
+
+>> Yes.
+ But
+ also
+ you
+ get
+ to
+ better
+
+
+thinking.
+
+
+>> Uh
+ even
+ writing
+ down
+ something
+ helps
+ you
+
+
+think
+ through
+ it.
+ And
+ whether
+ it's
+
+
+writing
+ it
+ down
+ or
+ it's
+ a
+ in-depth
+
+
+debate
+ that
+ then
+ gets
+ memorialized
+
+
+somewhere,
+ I
+ think
+ it's
+ really
+ helpful
+
+
+in
+ terms
+ of
+ scaling
+ your
+ thinking
+ and
+
+
+your
+ thought
+ processes
+ to
+ the
+ team.
+ So
+
+
+that's
+ something
+ I've
+ continued
+ to
+
+
+learn.
+
+
+>> Uh
+ I
+ think
+ I've
+ also
+ continued
+ to
+ learn
+
+
+uh
+ that
+ it's
+ so
+ important
+ to
+ empower
+ and
+
+
+you
+ hire
+ these
+ incredible
+ people.
+ Well,
+
+
+you
+ both
+ want
+ to
+ put
+ them
+ on
+ the
+ right
+
+
+path
+ and
+ make
+ sure
+ they
+ have
+ the
+ right
+
+
+constraints
+ going
+ back
+ to
+ the
+ previous
+
+
+topic,
+ but
+ also
+ it's
+ super
+ important
+
+
+that
+ you
+ get
+ out
+ of
+ their
+ way.
+
+
+>> Well,
+ it's
+ it's
+ but
+ it's
+ difficult
+ for
+
+
+perfectionists
+ to
+ empower
+ and
+ get
+ out
+ of
+
+
+the
+ way,
+ right?
+
+
+>> That's
+ attention,
+
+
+>> right?
+ And
+ how
+ do
+ you
+ do
+ that?
+ Well,
+ I
+
+
+try
+ my
+ best
+ to
+ give
+ good
+ feedback
+
+
+uh
+ and
+ identify
+ when
+ something
+ is
+ truly
+
+
+a
+ one-way
+ door
+ decision
+ where
+ it's
+
+
+irreversible
+ or
+ it
+ will
+ at least
+ be
+ very
+
+
+costly.
+ And
+ then
+ if
+ it's
+ going
+ to
+ be
+ a
+
+
+decision
+ that
+ uh
+ I
+ think
+ we
+ will
+ really
+
+
+regret
+ living
+ with
+ then
+ I
+ will
+ push
+ back
+
+
+and
+ I'll
+ push
+ back
+ hard
+ if
+ needed.
+ But
+
+
+in
+ general
+ uh
+ I
+ more
+ try
+ to
+ give
+ good
+
+
+feedback.
+
+
+uh
+ if
+ I
+ think
+ that
+ it's
+ not
+ being
+ heard
+
+
+or
+ actioned
+ on
+ that's
+ different.
+
+
+>> Uh
+ you
+ know
+ uh
+ if
+ we
+ all
+ agree
+ on
+
+
+something
+ and
+ we
+ don't
+ do
+ it
+ you
+ know
+
+
+and
+ we're
+ not
+ improving
+ the
+ quality
+ of
+
+
+something
+ then
+ that's
+ a
+ different
+
+
+problem
+ on
+ process.
+
+
+>> So
+ when
+ you
+ say
+ oneway
+ door
+ that's
+ a
+
+
+decision
+ that's
+ been
+ made
+ and
+ which
+ you
+
+
+can't
+ reverse.
+
+
+>> Uh
+ it's
+ a
+ decision
+ that
+ maybe
+ is
+ not
+
+
+made.
+ Maybe
+ it's
+ maybe
+ it's
+ made
+ it
+
+
+doesn't
+ matter
+ about
+ the
+ state
+ of
+ the
+
+
+decision
+ but
+ rather
+ the
+ potential
+ for
+ it
+
+
+is
+ that
+ it
+ irrevocably
+ changes
+ the
+
+
+organization
+ or
+ business
+ in
+ such
+ a
+ way
+
+
+or
+ product
+ that
+ you
+ cannot
+ uh
+ go
+ back
+
+
+easily
+ from
+ it.
+
+
+>> You
+ can't
+ un
+ ship
+ it
+ without
+ you
+ know
+ a
+
+
+lot
+ of
+ time
+ effort
+ or
+ cost.
+
+
+>> Yeah.
+ And
+ then
+ there
+ are other
+ decisions
+
+
+which
+ it
+ doesn't
+ really
+ matter
+ because
+
+
+you
+ can
+ overest
+ them.
+
+
+>> Yeah.
+ I
+ mean,
+ there's
+ plenty
+ of
+ things
+
+
+you
+ can
+ AB
+ test,
+ see
+ if
+ they
+ work
+ or
+
+
+not.
+ And
+ those
+ are
+ things
+ that
+ um,
+ you
+
+
+know,
+ you
+ shouldn't
+ waste
+ your
+ time
+ on.
+
+
+And
+ so,
+ then
+ it's
+ about,
+ okay,
+ well,
+ do
+
+
+I
+ have
+ folks
+ on
+ the
+ team
+ who
+ are
+
+
+exercising
+ and
+ showing
+ great
+ judgment?
+
+
+And
+ if
+ you've
+ got
+ great
+ judgment,
+ then
+
+
+most
+ time
+ your
+ batting
+ average
+ is
+ pretty
+
+
+high.
+ Everyone
+ makes
+ mistakes.
+ Uh,
+ if
+
+
+you're
+ not
+ making
+ any
+ mistakes,
+ you're
+
+
+probably
+ not
+ being
+ creative
+ or
+ exploring
+
+
+enough.
+ So,
+ I
+ think
+ that
+ it's
+ good
+ to
+
+
+let
+ people
+ make
+ mistakes
+ and
+ learn.
+ Uh
+
+
+but
+ if
+ you're
+ making
+ like
+ all
+ mistakes,
+
+
+that's
+ also
+ bad,
+
+
+>> of
+ course.
+ What
+ are
+ what
+ are
+ the
+
+
+non-negotiable
+ cultural
+ elements
+ that
+
+
+you
+ have
+ kept
+ as
+ you've
+ scaled
+ from
+ the
+
+
+two
+ of
+ you
+ to
+ 1,800
+ people?
+
+
+>> I
+ I
+ think
+ that
+ um
+ a
+ lot
+ of
+ it
+ we're
+ very
+
+
+lucky
+ because
+
+
+by
+ virtue
+ of
+ being
+ Figma,
+ we
+ kind
+ of
+ put
+
+
+this
+ bat
+ signal
+ in
+ the
+ sky
+ of
+ what
+ we
+
+
+stand
+ for.
+ uh
+ creative
+ expression,
+
+
+craft,
+
+
+uh
+ first
+ principles
+ thinking,
+ systems
+
+
+orientation,
+ and
+ the
+ people
+ that
+
+
+resonate
+ with
+ that,
+ they
+ are
+ attracted
+
+
+to
+ Figma.
+ And
+ so
+ our
+ population
+ that
+
+
+comes
+ to
+ us
+ looking
+ for
+ a
+ role,
+ uh
+ they
+
+
+really
+ do
+ share
+ a
+ lot
+ of
+ those
+ traits.
+
+
+But
+ another
+ one
+ that
+ I
+ would
+ call
+ out
+ is
+
+
+humility.
+ Another
+ one
+ that
+ is
+ even
+
+
+harder
+ uh
+ in
+ terms
+ of
+ screening
+
+
+sometimes
+ is
+ self-awareness.
+ Because
+ if
+
+
+you're
+ not
+ self-aware
+ and
+ I
+ give
+ you
+
+
+feedback,
+ uh
+ it's
+ not
+ clear
+ that
+ you'll
+
+
+take
+ it.
+
+
+>> And
+ so
+ that
+ makes
+ sort
+ of
+ feedback
+
+
+conversations
+ where
+ you
+ need
+ someone
+ to,
+
+
+you
+ know,
+ change
+ course
+ a
+ little
+ bit
+
+
+very
+ difficult.
+ And
+ I
+ think
+ if
+ you
+ are
+
+
+able
+ to
+ build
+ a
+ team
+ of
+ humble,
+
+
+self-aware
+ people
+ who
+ care
+ about
+ craft,
+
+
+who
+ have
+ a
+ growth
+ mindset,
+ who
+ care
+
+
+about
+ community,
+ uh
+ that
+ is
+ an
+
+
+incredible
+ team.
+ One
+ word
+ that
+ come
+ up
+
+
+again
+ and
+ again
+ when
+ people
+ talk
+ about
+
+
+you
+ is
+ that
+ you
+ are
+ kind
+
+
+>> a
+ kind
+ leader.
+
+
+>> I
+ try
+ to
+ be
+ uh
+ why
+ is
+ it
+ why
+ okay
+ my
+
+
+best
+ stupid
+ question.
+ Why
+ why
+ is
+ it
+
+
+important
+ to
+ be
+ a
+ kind
+ leader?
+
+
+>> Look
+ I
+ mean
+ I'm
+ I'm
+ Jewish
+ but
+ the
+ sort
+
+
+of
+ golden
+ rule
+ uh
+ I
+ think
+ is
+ a
+ very
+ good
+
+
+one.
+ Treat
+ others
+ the
+ way
+ you
+ want
+ to
+ be
+
+
+treated.
+ Uh
+ so
+ that's
+ just
+ like
+ a
+ moral
+
+
+thing.
+ The
+ energy
+ you
+ put
+ out
+ into
+ the
+
+
+world
+ is
+ the
+ energy
+ you'll
+ receive
+ back.
+
+
+uh
+ whether
+ that
+ be
+ because
+ of
+ your
+
+
+perception,
+ your
+ uh
+ way
+ that
+ you
+ frame
+
+
+the
+ world
+ and
+ sort
+ of
+ your
+ viewport
+ into
+
+
+the
+ motivations
+ of
+ others,
+
+
+>> but
+ people
+ match
+ you.
+ And
+ if
+ you
+ want
+ to
+
+
+create
+ an
+ environment
+ that
+ fosters
+
+
+creativity,
+ then
+ yes,
+ I
+ think
+ you
+ really
+
+
+need
+ to
+ create
+ an
+ environment
+ that's
+
+
+supportive.
+
+
+>> And
+ kindness
+ is
+ a
+ big
+ part
+ of
+ that.
+ But
+
+
+it's
+ also,
+ I'll
+ be
+ clear,
+ that
+ kindness
+
+
+is
+ not
+ always
+ saying
+ the
+ thing
+ that
+
+
+feels
+ nice
+ or
+ non-confrontational.
+
+
+Um,
+ if
+ I
+ believe
+ that
+ uh
+ you
+ have
+
+
+something
+ that
+ you
+ need
+ to
+ know,
+ even
+ if
+
+
+it's
+ hard
+ feedback,
+ uh
+ it's
+ my
+ duty
+ to
+
+
+tell
+ you.
+
+
+>> And
+ if
+ I
+ don't,
+ that's
+ not
+ kind
+ because
+
+
+it's
+ going
+ to
+ come
+ up
+ later
+ and
+ it's
+
+
+going
+ to
+ create
+ an
+ issue
+ for
+ you,
+ for
+
+
+me,
+ for
+ both
+ of
+ us,
+ and
+ that
+ could
+
+
+actually
+ escalate.
+
+
+>> So,
+ the
+ kindest
+ thing
+ is
+ to
+ be
+ extremely
+
+
+direct
+ in
+ my
+ opinion
+ and
+ upfront
+ make
+
+
+sure
+ that
+ people
+ are
+ communicating.
+ And
+
+
+that's
+ something
+ I'm
+ always
+ pushing
+ on
+
+
+is
+ how
+ to
+ get
+ people
+ to
+ be
+ more
+ direct
+
+
+with
+ each
+ other.
+
+
+>> I
+ think
+ it's
+ quite
+ interesting
+ because
+
+
+when
+ you're
+ young,
+ kind
+ is
+ the
+ opposite
+
+
+of
+ cool.
+
+
+>> Oh,
+ it
+ is.
+
+
+>> Well,
+ kind
+ of
+ isn't.
+ I
+ mean,
+ if
+ you're
+
+
+in
+
+
+>> I
+ was
+ never
+ I
+ don't
+ know,
+ but
+
+
+>> So,
+ I
+ mean,
+ I
+ was
+ never
+ cool
+ either,
+ but
+
+
+I
+ mean,
+ it's
+ like
+ the
+ cool
+ guys,
+ they
+
+
+were
+ not
+ very
+ kind,
+ but
+ when
+ you
+ get
+
+
+older,
+ kind
+ is
+ the
+ only
+ thing
+ that
+
+
+matters.
+
+
+>> Yeah.
+ I
+ I
+ mean,
+ look,
+ like
+ I
+ think
+ that
+
+
+there's
+ uh
+ all
+ sorts
+ of
+ ways
+ I
+ can
+ be
+
+
+more
+ kind.
+ And
+ I
+ certainly
+ get
+ intense
+
+
+sometimes.
+ Uh,
+ anyone
+ on
+ my
+ team
+ would
+
+
+probably
+ tell
+ you
+ that,
+ but
+ that's
+
+
+always
+ my
+ goal
+ is
+ to
+ deliver,
+ you
+ know,
+
+
+conversation,
+ feedback,
+
+
+uh,
+ and
+ content
+ with
+ kindness
+ and,
+ um,
+
+
+to
+ treat
+ other
+ with
+ others
+ with
+ empathy
+
+
+>> and
+ to
+ understand
+ where
+ they're
+ coming
+
+
+from.
+ Because
+ also
+ if
+ you
+ don't
+ actually
+
+
+have
+ empathy
+ for
+ someone
+ else
+ and
+ what
+
+
+they're
+ what's
+ happening
+ in
+ their
+ life,
+
+
+then
+ how
+ can
+ you
+ effectively
+ connect
+
+
+with
+ them
+ and
+ actually
+ understand
+ where
+
+
+they're
+ coming
+ from
+ and
+ learn
+ from
+ them?
+
+
+Uh
+ and
+ I
+ think
+ that
+ you
+ can
+ learn
+ from
+
+
+everyone.
+ So
+
+
+>> you
+ mentioned
+ curiosity
+ um
+ a
+ bit
+
+
+earlier.
+ Um
+ I
+ think
+ your
+ father
+ said
+
+
+somewhere
+ that
+ you
+ are
+ you
+ were
+ curious
+
+
+about
+ everything.
+
+
+>> That
+ sounds
+ right.
+ Uh
+ I
+ I
+ uh
+
+
+>> I
+ think
+ he
+ even
+ said
+ that
+ you
+ were
+ a
+ bit
+
+
+weird
+ when
+ you
+ were
+ a
+ child.
+ Oh
+ yeah,
+
+
+that
+ that's
+ definitely
+ something
+ he
+
+
+said.
+ Uh
+ I
+ was
+ a
+ weird
+ kid.
+
+
+>> But
+ weird
+ is
+ good.
+ No,
+
+
+>> I
+ think
+ so.
+
+
+It
+ was
+ interesting
+ actually.
+ My
+ dad
+ uh
+
+
+he's
+ passed
+ and
+ and
+ I
+ miss
+ him
+ dearly.
+
+
+But
+ uh
+ yeah,
+ when
+ I
+ got
+ the
+ Teal
+
+
+Fellowship,
+ his
+ comment
+ was,
+ uh
+ this
+ is
+
+
+pretty
+ cool.
+ I
+ thought
+ this
+ this
+ whole
+
+
+thing
+ was
+ very
+ uh
+ very
+ off,
+ but
+ now
+ that
+
+
+I've
+ actually
+ seen
+ all
+ the
+ finalists
+ in
+
+
+one
+ place,
+ I
+ I
+ I
+ get
+ it.
+ They're
+ just
+ as
+
+
+weird
+ as
+ you
+ are.
+
+
+>> I'm
+ like,
+ "Thanks.
+ Thanks,
+ Dad."
+ So,
+
+
+>> is
+ he
+ the
+ one
+ you
+ wanna
+ kind
+ of
+ show?
+ Is
+
+
+he
+ the
+ one
+ you
+ want
+ to
+ impress?
+
+
+>> Uh,
+ you
+ know,
+ my
+ dad
+ was
+ so
+ loving
+ and
+
+
+let
+ me
+ know
+ so
+ often
+ as
+ a
+ kid,
+ as
+ a
+
+
+teen,
+ when
+ I
+ had
+ no
+ reason
+ for
+ him
+ to
+
+
+say
+ this
+ and
+ as
+ an
+ adult
+ that
+ uh
+ that
+ he
+
+
+was
+ proud.
+ So
+ I
+ feel
+ uh
+ yeah
+ I
+ feel
+ very
+
+
+very
+ loved
+ always
+ have
+ by
+ him.
+ Uh
+ I'm
+
+
+very
+ lucky
+ to
+ have
+ a
+ great
+ family
+
+
+>> and
+ uh
+ very
+ supportive
+ family.
+
+
+>> Yeah.
+ No
+
+
+>> try
+ to
+ do
+ the
+ same
+ in
+ my
+ life
+ for
+ the
+
+
+people
+ I
+ love
+ as
+ well.
+
+
+>> Oh
+ that's
+ that's
+ great.
+ You
+ were
+ a
+ child
+
+
+actor
+ as
+ we
+ talked
+ about.
+ Uh
+ do
+ you
+
+
+think
+ it's
+ been
+ important?
+ You
+ know,
+ the
+
+
+the
+ thing
+ that
+ I
+ think
+ I've
+ drawn
+ the
+
+
+most
+ from
+ the
+ acting
+ as
+ a
+ kid,
+ and
+ by
+
+
+the
+ way,
+ I
+ acted
+ until
+ I
+ was
+ a
+ teen,
+ and
+
+
+then
+ I
+ got
+ super
+ awkward.
+ So,
+ that's
+
+
+where
+ I
+ capped
+ out
+ real
+ fast.
+ Uh,
+ but
+
+
+you
+ know,
+ as
+ an
+ actor,
+
+
+uh,
+ you
+ go
+ out
+ for
+ all
+ these
+ roles
+ and
+ I
+
+
+was
+ doing
+ theater,
+ I
+ was
+ doing
+ uh,
+ you
+
+
+know,
+ commercial
+ work,
+
+
+>> uh,
+ I
+ was auditioning
+ for
+ movies.
+ It's
+
+
+kind
+ of
+ the
+ whole
+ gamut.
+ And
+ I
+ was
+
+
+singing,
+ too.
+ Terrible
+ dancer
+ there
+ at
+
+
+the
+ time.
+ Uh,
+ so
+ only
+ had
+ two
+ of
+ the
+
+
+three,
+ but
+ you
+ go
+ out
+ for
+ all
+ these
+
+
+roles
+ and
+ you're
+ constantly
+ rejected.
+
+
+>> And
+ that
+ was
+ just
+ normal.
+ Like
+ it
+ didn't
+
+
+get
+ to
+ me
+ at
+ all.
+ It
+ was
+ never
+ like
+ a
+ me
+
+
+thing.
+ It
+ was
+ a
+
+
+>> Do
+ you
+ think
+ that's
+ you
+ get
+ your
+ stamina
+
+
+from?
+
+
+>> Maybe.
+ Uh,
+ I
+ think
+ it
+ helps.
+ I
+ mean,
+ I
+
+
+just
+
+
+>> don't
+ really
+ have
+ a
+ fear
+ of
+ going
+ up
+ in
+
+
+front
+ of
+ people.
+ I
+ don't
+ really
+ have
+ a
+
+
+fear
+ of
+ getting
+ rejected.
+
+
+>> And
+ so
+ I
+ I
+ do
+ have a
+ fear
+ of
+ not
+ trying.
+
+
+>> Uh,
+ to
+ me,
+ that's
+ more
+ the
+ framework.
+ M
+
+
+>> like
+ I
+ don't
+ want
+ to
+ look
+ back
+ and
+
+
+regret
+ not
+ trying
+ something.
+
+
+>> So
+ I
+ think
+ that
+ maybe
+ my
+ brain
+ is
+ just
+ a
+
+
+little
+ bit
+ different
+ from
+ others
+ that
+
+
+way.
+
+
+>> What
+ do
+ you
+ read?
+
+
+>> Uh
+ right
+ now
+ a
+ lot
+ of
+ machine
+ learning
+
+
+papers
+ uh
+ in
+ the
+ past
+ uh
+ literature,
+
+
+non-fiction,
+ uh
+ design
+ books,
+ blogs
+ that
+
+
+I
+ like
+ but
+ but
+ right
+ now
+ papers.
+
+
+>> What
+ does
+ your
+ day
+ what
+ is
+ your
+ day
+ look
+
+
+like?
+
+
+>> It
+ is
+ incredibly
+ variable.
+ Uh
+ I
+ wish
+ it
+
+
+>> when
+ you
+ wake
+ up
+ when
+ do
+ you
+ wake
+ up?
+
+
+Uh,
+ somewhere
+ between
+ 4
+ and
+ 8
+ am,
+
+
+>> right?
+ I
+ see.
+
+
+>> So,
+ just
+ to
+ show
+ you
+ the
+ variability.
+
+
+That's
+ a
+
+
+>> big
+ range.
+
+
+>> Yeah.
+ Or
+ I
+ think
+ I
+ actually
+ went
+ to
+ bed
+
+
+at
+ last
+ night
+ at
+ 4
+ a.m.
+ because
+ uh
+ I
+ was
+
+
+working
+ on
+ our
+ ourh
+ video
+ for
+ today's
+
+
+Gemini
+ release.
+ Uh,
+ so
+ if
+ I'm
+ a
+ little
+
+
+tired,
+ I'm
+ sorry.
+
+
+>> Well,
+ that that
+ does
+ not
+ come
+ through
+ at
+
+
+all.
+
+
+>> Trying
+ to
+ show
+ you
+ the
+ variability
+ is
+ is
+
+
+extreme.
+
+
+>> How
+ do
+ you
+ relax?
+
+
+>> Uh,
+ just
+ talking
+ to
+ my
+ wife
+ is
+ very
+
+
+relaxing.
+ We
+ just
+ got
+ a
+ sauna.
+ Uh,
+ all
+
+
+right.
+ That's
+ good.
+ That's
+ good.
+ So,
+
+
+that
+ has
+ honestly
+ been
+ the
+ That's
+ great.
+
+
+>> Well,
+ I'm
+ not
+ mentioning
+ because
+ it's
+
+
+Nordic.
+ I'm
+ mentioning
+ it
+ because
+ it
+ has
+
+
+been
+ the
+ most
+ life-changing
+ thing
+ or
+
+
+purchase
+ I've
+ ever
+ made
+ in
+ my
+ life.
+ And
+
+
+it's
+
+
+>> sas
+ are
+ wonderful.
+
+
+>> Yeah.
+
+
+>> Yeah.
+ I
+ mean,
+ just
+ like
+ you
+ sit
+ there
+
+
+and
+ your
+ entire
+ body
+ relaxes.
+ You
+ feel
+
+
+so
+ refreshed
+ afterwards.
+ So
+ that
+ uh
+ and
+
+
+then
+ I
+ think
+ also
+ you
+ know
+ it's
+ weird
+
+
+but
+ um
+ I
+ find
+
+
+uh
+
+
+very
+ odd
+ prompting
+ of
+ LMS
+ relaxing
+ these
+
+
+days.
+ So
+ I
+ uh
+ dive
+ really
+ deep
+ into
+ like
+
+
+how
+ do
+ I
+ get
+ weird
+ edge
+ behavior
+
+
+jailbreaks
+ and
+ whatnot
+ for
+ LMS
+ and
+ uh
+
+
+that
+ has
+ been
+ something
+ that
+ has
+ relaxed
+
+
+me.
+ I
+ haven't
+ been
+ into
+ a
+ TV
+ show
+ for
+ a
+
+
+long
+ time
+ though.
+
+
+>> Last
+ question.
+ We
+ got
+ a
+ lot
+ of
+ young
+
+
+listeners.
+ What
+ is
+ your
+ advice
+ to
+ young
+
+
+people?
+
+
+>> Well,
+ I
+ think
+ that
+ uh
+ if
+ you're
+ young
+
+
+right
+ now,
+ you
+ probably
+ see
+ a
+ lot
+ of
+
+
+problems
+ in
+ the
+ world,
+ a
+ lot
+ of
+ things
+
+
+that
+ could
+ be
+ improved.
+ And
+ I
+ think
+ that
+
+
+it's
+ really
+ important
+ to
+ feel
+ the
+ agency
+
+
+to
+ take
+ a
+ design
+ mindset
+ to
+ think
+ from
+ a
+
+
+system
+ standpoint,
+ learn
+ as
+ much
+ as
+ you
+
+
+can,
+ be
+ curious,
+ identify
+ your
+ passion,
+
+
+and
+ then
+ identify
+ how
+ that
+ passion
+ can
+
+
+connect
+ to
+ actually
+ helping
+ improve
+ the
+
+
+world
+ in
+ some
+ way.
+ And
+ I
+ think
+ that
+
+
+requires
+ optimism.
+
+
+And
+ uh
+ optimism
+ is
+ a
+ choice.
+ You
+ can
+
+
+choose
+ to
+ be
+ optimistic.
+ You
+ can
+ also
+
+
+choose
+ not
+ to
+ be.
+ But
+ if
+ you
+ choose
+ to
+
+
+be
+ optimistic,
+ then
+ you
+ actually
+ can
+ go
+
+
+and
+ try
+ and
+ uh
+ adjust
+ or
+ make
+ a
+
+
+difference
+ uh
+ for
+ your
+ society,
+ for
+ your
+
+
+local
+ community,
+ for
+ the
+ global
+ world.
+
+
+And
+ that
+ doesn't
+ mean
+ that
+ you
+ don't
+
+
+have
+ to
+ be
+ cynical
+ or
+ skeptical.
+ The
+ two
+
+
+can
+ coexist.
+ because
+ I
+ think
+ that
+ uh
+
+
+some
+ folks
+ that
+ have
+ a
+ optimistic
+ point
+
+
+of
+ view
+ are
+ also
+ running
+ a
+ subprocess
+ of
+
+
+okay
+ what
+ are
+ all
+ the
+ ways
+ they
+ can
+ go
+
+
+wrong
+ so
+ I
+ can
+ fix
+ them
+
+
+>> uh
+ but
+ you
+ still
+ have
+ to
+ have
+ that
+
+
+element
+ of
+ optimism
+ and
+ that's
+ a
+ choice
+
+
+>> so
+ choose
+ optimism
+
+
+>> that's
+ a
+ good
+ plan
+ well
+ you
+ for
+ sure
+
+
+have
+ the
+ combination
+ of
+ a
+ growth
+ mindset
+
+
+and
+ uh
+ curiosity
+ and
+ passion
+ it's
+ been
+
+
+tremendous
+ uh
+ speaking
+ with
+ you
+ thank
+
+
+you
+ so
+ much
+ you
+ thank
+ you
+ for
+ having
