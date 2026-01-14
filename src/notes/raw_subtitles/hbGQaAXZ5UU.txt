@@ -1,0 +1,4418 @@
+We
+ had
+ product
+ market
+ fit
+ and
+ we
+ had
+ it
+
+
+on
+ day
+ one
+ of
+ launch.
+ I
+ think
+ the
+ first
+
+
+lesson
+ is
+ like
+ talking
+ to
+ users
+ is
+ the
+
+
+lifeblood
+ of
+ the
+ built-in
+ product.
+ This
+
+
+happens
+ all
+ the
+ time.
+ You're
+ building
+
+
+something,
+ you're
+ like,
+ "This
+ is
+ great."
+
+
+And
+ then
+ you
+ put
+ it
+ in
+ front
+ of
+ users
+
+
+and
+ then
+ they
+ don't
+ understand
+ it.
+ For
+
+
+example,
+ there's
+ this
+ amazing
+ video
+ on
+
+
+YouTube,
+ a
+ product
+ designer
+ doing
+ a
+ user
+
+
+test
+ and
+ you
+ see
+ the
+ user
+ grab
+ the
+
+
+square
+ and
+ put
+ it
+ into
+ the
+ square
+ hole.
+
+
+The
+ designer's
+ like,
+ "Yes."
+ And
+ then
+ you
+
+
+see
+ the
+ user
+ grab
+ the
+ circle
+ and
+ put
+ it
+
+
+in
+ the
+ square
+ hole
+ and
+ the
+ user's
+ like,
+
+
+"What?"
+ And
+ then
+ you
+ just
+ see
+ like
+
+
+basically
+ completely
+ misunderstanding
+
+
+the
+ product
+ in
+ front
+ of
+ them.
+ If
+ it
+
+
+takes
+ a
+ month
+ to
+ to
+ get
+ feedback
+ on
+ it,
+
+
+it
+ almost
+ not
+ worth
+ doing
+ because
+ the
+
+
+thinking
+ you
+ had
+ when
+ you
+ made
+ the
+
+
+original
+ decisions,
+ you
+ don't
+ even
+
+
+remember.
+ So
+ I
+ think
+ the
+ short
+ cycle
+
+
+there
+ is
+ super
+ important.
+ What
+ I
+ don't
+
+
+believe
+ is
+ that
+ you
+ should
+ talk
+ to
+ users
+
+
+and
+ then
+ just
+ do
+ whatever
+ they
+ ask
+ you
+
+
+to
+ do,
+ right?
+ Cuz
+ users
+ are
+ going
+ to
+ say
+
+
+a
+ whole
+ lot
+ of
+ things
+ and
+ sometimes
+
+
+they'll
+ contradict.
+ Sometimes
+ what
+ users
+
+
+think
+ they
+ want
+ and
+ what
+ they
+ actually
+
+
+want
+ or
+ what
+ they
+ actually
+ need
+ are
+
+
+different.
+ I
+ think
+ if
+ you
+ just
+ make
+ a
+
+
+prioritized
+ list
+ of
+ user
+ needs
+ and
+ build
+
+
+those,
+ that
+ doesn't
+ work
+ very
+ well.
+
+
+Hi,
+ I'm
+ Chris
+ Pedrick.
+ I'm
+ the
+
+
+co-founder
+ and
+ CEO
+ of
+ Granola.
+ Granola
+
+
+is
+ an
+ AI
+ notepad
+ for
+ meetings.
+ Uh,
+ think
+
+
+of
+ it
+ like
+ Apple
+ Notes
+ except
+ it
+ will
+
+
+listen
+ in
+ the
+ background
+ and
+ when
+ your
+
+
+meeting
+ ends,
+ it'll
+ take
+ whatever
+ crappy
+
+
+or
+ raw
+ notes
+ you've
+ written
+ and
+ flesh
+
+
+them
+ out
+ into
+ great
+ notes.
+ We
+ launched
+
+
+Granola
+ a
+ year
+ and
+ a
+ half
+ ago.
+ We
+ were
+
+
+four
+ people
+ at
+ the
+ time.
+ We're
+ now
+ 35
+
+
+people.
+ We
+ raised
+ our
+ series
+ B
+ at
+ a
+ $250
+
+
+million
+ valuation
+ and
+ we're
+ growing
+
+
+super
+ quickly.
+
+
+I
+ really
+ love
+ building
+ tools
+ that
+ let
+
+
+people
+ do
+ things.
+ This
+ idea
+ of
+ oh,
+ if
+ I
+
+
+make
+ this
+ product
+ great
+ and
+ people
+ use
+
+
+it,
+ it
+ means
+ they
+ get
+ value
+ out
+ of
+ it
+
+
+and
+ their
+ lives
+ are
+ perhaps
+ a
+ little
+ bit
+
+
+better
+ as
+ a
+ result.
+ Like
+ that's
+
+
+something
+ that
+ I've
+ always
+ uh
+ found
+
+
+really
+ motivating.
+ I
+ was
+ born
+ in
+ '86
+ and
+
+
+Google
+ like
+ the
+ search
+ engine
+ launched
+
+
+in
+ '98.
+ So
+ I
+ was
+ 12
+ years
+ old
+ when
+
+
+Google
+ launched.
+ I
+ was
+ just
+ fascinated.
+
+
+I
+ lived
+ in
+ a
+ small
+ town
+ in
+ the
+ middle
+ of
+
+
+the
+ woods
+ in
+ upstate
+ New
+ York.
+ So
+ the
+
+
+internet
+ was
+ like
+ this
+ window
+ onto
+ the
+
+
+world.
+ I
+ kind
+ of
+ looked
+ at
+ California
+
+
+and
+ Silicon
+ Valley
+ and
+ Stanford
+ and
+
+
+Google
+ and
+ all
+ those
+ company.
+ I
+ looked
+
+
+at
+ them
+ as
+ like
+ a
+ you
+ know
+ up
+ on
+ an
+
+
+altar.
+ How
+ do
+ they
+ do
+ this?
+ So
+ when
+ I
+
+
+went
+ to
+ university,
+ I
+ kind
+ of
+ studied
+ I
+
+
+want
+ to
+ understand
+ how
+ do
+ computers
+
+
+work?
+ How
+ does
+ the
+ internet
+ work?
+ How
+ do
+
+
+you
+ build
+ things
+ for
+ the
+ internet?
+ So
+ I
+
+
+studed
+ computer
+ science.
+ Like
+ there
+ are
+
+
+these
+ very
+ key
+ moments
+ that
+ happened
+ to
+
+
+me
+ in
+ college
+ where
+ I
+ was
+ like
+ oh
+
+
+interesting
+ that
+ that
+ speaks
+ to
+ me.
+ And
+
+
+like
+ one
+ I
+ was
+ um
+ in
+ a
+ security
+ class
+
+
+and
+ I
+ learned
+ that
+ hey
+ cryptography
+ is
+
+
+basically
+ magic
+ but
+ most
+ almost
+ all
+
+
+security
+ vulnerabilities
+ come
+ from
+
+
+people
+ doing
+ the
+ wrong
+ thing
+ or
+ systems
+
+
+not
+ being
+ designed
+ in
+ a
+ way
+ that
+ makes
+
+
+sense
+ to
+ people
+ and
+ I
+ was
+ like
+ oh
+
+
+interesting
+ even
+ something
+ as
+ technical
+
+
+as
+ security
+ the
+ human
+ interaction
+
+
+element
+ is
+ huge
+ and
+ then
+ later
+ in
+ my
+
+
+journey
+ I
+ discovered
+ this
+ field
+ called
+
+
+human
+ computer
+ interaction
+ and
+ it's
+
+
+basically
+ the
+ study
+ of
+ how
+ do
+ people
+ use
+
+
+technology
+ and
+ how
+ do
+ you
+ design
+
+
+technology
+ for
+ people
+ like
+ if
+ you
+ want
+
+
+to
+ build
+ a
+ really
+ really
+ fantastic
+
+
+product,
+ you
+ really
+ really
+ need
+ to
+
+
+understand
+ your
+ user
+ in
+ that
+ moment.
+
+
+This
+ is
+ something
+ I
+ talk
+ about
+ a
+ lot
+
+
+internally
+ at
+ Granola
+ that
+ Granola
+ as
+ a
+
+
+product,
+ the
+ product
+ should
+ feel
+ like
+ it
+
+
+has
+ soul.
+ When
+ we
+ interact
+ with
+ a
+
+
+product,
+ like
+ if
+ I
+ pick
+ up
+ this
+ mug
+ and
+
+
+I
+ hold
+ it
+ and
+ I
+ interact
+ with
+ it,
+ it's
+ a
+
+
+little
+ bit
+ like
+ interacting
+ with
+ a
+
+
+person.
+ What
+ I
+ mean
+ by
+ building
+ a
+
+
+product
+ with
+ soul
+ is
+ that
+ that
+ whole
+
+
+product
+ should
+ feel
+ coherent,
+
+
+consistent,
+ like
+ it's
+ coming
+ from
+ the
+
+
+same
+ place.
+ It's
+ coming
+ from
+ the
+ same
+
+
+set
+ of
+ values.
+ And
+ I
+ think
+ it's
+ very
+
+
+easy
+ to
+ tell
+ if
+ a
+ product
+ has
+ that
+ and
+
+
+it's
+ very
+ hard
+ to
+ build.
+ The
+ reason
+ it's
+
+
+hard
+ to
+ build
+ is
+ because
+ the
+ bigger
+ the
+
+
+more
+ complex
+ a
+ product
+ gets,
+ the
+ more
+
+
+people
+ are
+ involved
+ in
+ the
+ making
+ of
+ the
+
+
+product.
+ And
+ when
+ lots
+ of
+ people
+ are
+
+
+involved
+ in
+ making
+ it,
+ they're
+ all
+ going
+
+
+to
+ have
+ different
+ values,
+ different
+
+
+viewpoints
+ for
+ different
+ ideas.
+ If
+
+
+they're
+ not
+ aligned
+ in
+ a
+ very
+ deep
+ way,
+
+
+every
+ screen
+ of
+ the
+ app
+ is
+ going
+ to
+ feel
+
+
+very
+ different.
+ You
+ know,
+ there's
+ that
+
+
+that
+ famous
+ thing
+ which
+ is
+ if
+ you
+ look
+
+
+at
+ a
+ product
+ and
+ you
+ can
+ tell
+ the
+
+
+organizational
+ structure
+ of
+ the
+ company
+
+
+that
+ built
+ it
+ by
+ the
+ design
+ of
+ the
+
+
+product
+ and
+ that's
+ really
+ really
+ bad.
+
+
+Take
+ your
+ your
+ best
+ friend.
+ Imagine
+ your
+
+
+best
+ friend,
+ right?
+ You
+ can
+ kind
+ of
+
+
+imagine
+ what
+ your
+ best
+ friend
+ is
+ going
+
+
+to
+ do
+ in
+ most
+ circumstances.
+ If
+ you
+ make
+
+
+fun
+ of
+ them
+ or
+ you
+ make
+ a
+ joke
+ or
+ you
+
+
+praise
+ them,
+ you're
+ kind
+ of
+ going
+ to
+
+
+know
+ if
+ they're
+ going to
+ be
+ graceful
+ or
+
+
+blush
+ or
+ make
+ fun
+ of
+ you
+ back
+ or
+ start
+
+
+crying.
+ You
+ kind
+ of
+ understand
+ what
+ they
+
+
+stand
+ for,
+ what
+ they
+ like,
+ what
+ their
+
+
+values
+ are.
+ We
+ build
+ these
+ mental
+
+
+pictures
+ of
+ people.
+ If
+ you
+ start
+ talking
+
+
+to
+ your
+ best
+ friend
+ and
+ all
+ of
+ a
+ sudden
+
+
+they
+ start
+ acting
+ like
+ your
+ principal,
+
+
+you
+ know,
+ or
+ your
+ boss,
+ it's
+ like
+ you're
+
+
+you
+ don't
+ really
+ know
+ what
+ to
+ do
+ with
+
+
+that.
+ And
+ we
+ do
+ the
+ same
+ thing
+ with
+
+
+products.
+ What
+ I
+ mean
+ is
+ like
+ a
+ product
+
+
+with
+ soul
+ is
+ the
+ exact
+ opposite.
+ It's
+
+
+not
+ about
+ the
+ company
+ structure.
+ It's
+
+
+coming
+ from
+ a
+ much
+ deeper
+ place
+ in
+ terms
+
+
+of
+ of
+ values
+ and
+ personality.
+
+
+>> I'm
+ Taylor
+ Rottwell,
+ the
+ founder
+ and
+ CEO
+
+
+of
+ Laravel.
+ Our
+ mission
+ is
+ to
+ help
+
+
+developers
+ build,
+ deploy,
+ and
+ monitor
+
+
+applications
+ consistently
+ and
+
+
+beautifully.
+
+
+Starting
+ projects
+ is
+ great,
+ but
+ more
+
+
+importantly,
+ you
+ need
+ to
+ ship
+ them.
+
+
+Great
+ ideas
+ mean
+ nothing
+ until
+ they
+
+
+ship.
+
+
+That's
+ exactly
+ why
+ I
+ built
+ Laravel,
+ to
+
+
+bring
+ your
+ entire
+ journey
+ from
+ idea
+ to
+
+
+production
+ into
+ one
+ seamless
+ flow.
+
+
+It's
+ more
+ than
+ a
+ PHP
+ framework.
+ It's
+ a
+
+
+complete
+ connected
+ ecosystem
+ built
+ for
+
+
+speed
+ and
+ confidence.
+ We
+ provide
+
+
+elegant,
+ opinionated
+ solutions
+ for
+
+
+everything
+ your
+ modern
+ web
+ app
+ needs.
+
+
+And
+ you
+ can
+ deploy
+ in
+ under
+ a
+ minute
+
+
+with
+ Laravel
+ cloud
+ straight
+ from
+ Git.
+
+
+Zero
+ config
+ needed.
+ Laravel
+ now
+ powers
+
+
+nearly
+ 600,000
+ live
+ websites,
+ helping
+
+
+developers
+ worldwide
+ ship
+ their
+ ideas
+
+
+faster.
+
+
+Build
+ with
+ elegance.
+ Deploy
+ with
+
+
+confidence.
+ Monitor
+ with
+ precision.
+
+
+Stop
+ configuring.
+ Start
+ shipping.
+ Visit
+
+
+laravel.com
+ today.
+
+
+My
+ whole
+ philosophy
+ is
+ that
+ there's
+ a
+
+
+explore
+ and
+ exploit.
+ I
+ think
+ a
+ huge
+
+
+advantage
+ for
+ us
+ when
+ we
+ started
+
+
+building
+ Granola
+ is
+ that
+ we
+ didn't
+
+
+launch
+ it
+ for
+ a
+ year.
+ And
+ what
+ that
+
+
+meant
+ is
+ that
+ during
+ that
+ year
+ as
+ we
+
+
+were
+ exploring
+ things
+ and
+ trying
+ new
+
+
+things,
+ we
+ had
+ a
+ lot
+ more
+ freedom
+ to
+
+
+change
+ the
+ product
+ drastically.
+ I'd
+ say
+
+
+for
+ the
+ first
+ 9
+ months,
+ 10
+ months,
+ we
+
+
+were
+ mostly
+ adding
+ things,
+ adding
+ new
+
+
+features,
+ trying
+ to
+ improve
+ them,
+ adding
+
+
+new
+ like
+ screens,
+ what
+ have
+ you.
+ And
+
+
+then
+ at
+ one
+ point,
+ we
+ kind
+ of
+ realized,
+
+
+okay,
+ here's
+ the
+ thing
+ that's
+ going
+ to
+
+
+be
+ most
+ important,
+ most
+ useful
+ to
+ users.
+
+
+And
+ we
+ went
+ and
+ we
+ cut
+ about
+ 50%
+ of
+ what
+
+
+we
+ had
+ built.
+ That
+ would
+ have
+ been
+
+
+really
+ hard
+ to
+ do
+ if
+ we
+ had
+ been
+
+
+launched
+ and
+ we
+ had
+ lots
+ of
+ users.
+ Like,
+
+
+it'd
+ be
+ very
+ hard
+ for
+ us
+ today
+ in
+ one
+
+
+fell
+ swoop
+ cut
+ half
+ of
+ the
+ product.
+ I
+
+
+think
+ our
+ users
+ would
+ really
+ yell
+ at
+ us.
+
+
+That's
+ a
+ big
+ part
+ of
+ the
+ the
+ way
+ we
+
+
+build.
+ So
+ for
+ any
+ product
+ that
+ you're
+
+
+building,
+ first
+ you
+ have
+ to
+ go
+ through
+
+
+this
+ explore
+ phase
+ where
+ you're
+ figuring
+
+
+out
+ what's
+ the
+ shape
+ of
+ the
+ solution.
+
+
+And
+ there
+ you
+ want
+ to
+ try
+ as
+ many
+
+
+different
+ things
+ as
+ possible.
+ And
+ once
+
+
+you
+ kind
+ of
+ know
+ what
+ the
+ shape
+ is,
+ then
+
+
+you
+ go
+ into
+ a
+ different
+ mode.
+ We
+ call
+ it
+
+
+exploit
+ internally
+ where
+ you
+ just
+
+
+polish,
+ right?
+ You
+ take
+ the
+ rough
+ shape
+
+
+and
+ you
+ polish,
+ polish,
+ polish,
+ polish.
+
+
+And
+ here's
+ where
+ the
+ details
+ matter.
+ But
+
+
+you
+ need
+ to
+ make
+ sure
+ you're
+ polishing
+
+
+the
+ right
+ shape
+ because
+ if
+ you're
+
+
+polishing
+ the
+ wrong
+ shape,
+ then
+ all
+ of
+
+
+that
+ is
+ throwing.
+ The
+ question
+ is
+ kind
+
+
+of
+ like
+ do
+ we
+ hit
+ something
+ that's
+
+
+valuable
+ and
+ now
+ it's
+ time
+ to
+ polish
+ or
+
+
+do
+ we
+ should
+ we
+ still
+ be
+ looking
+ for
+ a
+
+
+new
+ shape,
+ right?
+ The
+ answer
+ is
+ like
+ it
+
+
+is
+ really
+ hard
+ to
+ know
+ if
+ you
+ have
+ the
+
+
+right
+ shape
+ of
+ a
+ product.
+ It's
+ really
+
+
+hard.
+ When
+ we
+ launched
+ Granola,
+ I
+ didn't
+
+
+think
+ we
+ had
+ it
+ at
+ that
+ point.
+ I
+ was
+
+
+like,
+ I
+ think
+ this
+ is
+ good
+ enough
+ where
+
+
+we'll
+ learn
+ more
+ by
+ giving
+ it
+ to
+ more
+
+
+people.
+ That's
+ why
+ we
+ decided
+ to
+ launch
+
+
+when
+ we
+ did
+ cuz
+ we
+ said
+ like,
+ are
+ we
+
+
+going to
+ learn
+ faster
+ by
+ continuing
+ to
+
+
+do
+ this?
+ are
+ going
+ to
+ learn
+ faster
+ by
+
+
+launching
+ it
+ and
+ getting
+ feedback
+ from
+
+
+lots
+ of
+ users.
+ And
+ up
+ until
+ that
+ point,
+
+
+it
+ was
+ really
+ clear
+ to
+ me
+ that
+ we
+ would
+
+
+learn
+ faster
+ by
+ just
+ onboarding
+ two,
+
+
+three
+ people
+ every
+ day
+ and
+ getting
+
+
+feedback.
+ And
+ at
+ some
+ point
+ once
+ we
+
+
+started
+ doing
+ that
+ and
+ we
+ started
+
+
+hearing
+ the
+ same
+ things
+ over
+ and
+ over
+
+
+and
+ we
+ kind
+ of
+ understood
+ those
+ users,
+
+
+we
+ said,
+ "Okay,
+ now
+ let's
+ give
+ it
+ to
+
+
+lots
+ of
+ people
+ because
+ maybe
+ there
+ are
+
+
+people
+ who
+ want
+ to
+ use
+ it
+ for
+ use
+ case
+
+
+we've
+ never
+ thought
+ of."
+ And
+ the
+ fact
+ is
+
+
+we
+ had
+ product
+ market
+ fit
+ on
+ day
+ one
+ and
+
+
+we
+ didn't
+ realize
+ it.
+ And
+ one
+ of
+ my
+
+
+biggest
+ mistakes
+ was
+ not
+ noticing
+ it.
+ It
+
+
+took
+ me
+ six
+ months
+ to
+ realize
+ that
+ we
+
+
+had
+ product
+ market
+ fit
+ and
+ we
+ had
+ it
+ on
+
+
+day
+ one
+ of
+ launch.
+ The
+ first
+ lesson
+ is
+
+
+like
+ it
+ is
+ really
+ hard
+ to
+ know
+ when
+ you
+
+
+have
+ it.
+ I
+ heard
+ the
+ story
+ that
+ the
+
+
+Facebook
+ team
+ they
+ had
+ this
+ other
+ idea
+
+
+which
+ is
+ kind
+ of
+ like
+ Dropbox
+ for
+ music
+
+
+some
+ kind
+ of
+ file
+ sharing
+ thing
+ and
+ they
+
+
+worked
+ on
+ it
+ I
+ think
+ for
+ the
+ first
+ 6
+
+
+months
+ or
+ 9
+ months
+ after
+ they
+ launched
+
+
+Facebook
+ because
+ they
+ were
+ like
+ oh
+ I
+
+
+don't
+ know if
+ there's
+ a
+ there
+ there
+ you
+
+
+know
+ we
+ might
+ want
+ to
+ work
+ on
+ this
+ other
+
+
+thing
+ more
+ and
+ that's
+ Facebook
+ right
+
+
+that's
+ like
+ the
+ generational
+ company
+ of
+
+
+the
+ decade
+ and
+ they
+ still
+ didn't
+ know
+
+
+necessarily
+ if
+ they
+ were
+ on
+ to
+ something
+
+
+huge
+ so
+ what
+ I
+ got
+ wrong
+ I
+ think
+ a
+ lot
+
+
+of
+ early
+ founders
+ get
+ wrong
+ a
+ lot
+ of
+
+
+people
+ will
+ sit
+ down
+ and
+ say
+ I'm
+ going
+
+
+to
+ build
+ a
+ product
+ here's
+ the
+ painoint
+
+
+I'm
+ going
+ to
+ solve.
+ I
+ want
+ to
+ build
+ a
+
+
+great
+ solution
+ and
+ it's
+ all
+ about
+ can
+ I
+
+
+execute
+ on
+ that.
+ Have
+ you
+ ever
+ played
+
+
+those
+ video
+ games
+ where
+ you
+ land
+ on
+ a
+
+
+new
+ level
+ and
+ there's
+ like
+ a
+ little
+ map
+
+
+in
+ the
+ corner
+ and
+ it's
+ all
+ gray
+ and
+ then
+
+
+you
+ need
+ to
+ kind
+ of
+ go
+ and
+ walk
+ around
+
+
+and
+ then
+ the
+ map
+ kind
+ of
+ unblur.
+ But
+
+
+when
+ you
+ start
+ off
+ basically
+ you
+ have
+ no
+
+
+idea
+ of
+ what
+ the
+ terrain
+ around
+ you
+
+
+looks
+ like.
+ I
+ think
+ that's
+ the
+ right
+
+
+metaphor.
+ The
+ right
+ solution
+ is
+
+
+unknowable
+ until
+ you
+ go
+ out
+ and
+ you
+ try
+
+
+it
+ and
+ it
+ gets
+ contact
+ with
+ the
+ world.
+
+
+You
+ can't
+ sit
+ and
+ design
+ the
+ perfect
+
+
+thing.
+ You
+ need
+ to
+ like
+ put
+ stuff
+ out
+
+
+there,
+ probe
+ the
+ system,
+ and
+ see
+ how
+ the
+
+
+system
+ probes
+ back.
+
+
+I
+ very
+ much
+ believe
+ that
+ talking
+ to
+
+
+users
+ is
+ the
+ lifeblood
+ of
+ building
+
+
+product.
+ I
+ think
+ if
+ you're
+ not
+
+
+constantly
+ talking
+ to
+ users,
+ not
+
+
+constantly
+ getting
+ feedback,
+ you're
+ just
+
+
+not
+ going
+ to
+ build
+ something
+ really
+
+
+good.
+ You
+ need
+ to
+ systematize
+ your
+
+
+ability
+ to
+ talk
+ to
+ users.
+ If
+ the
+
+
+activation
+ energy
+ for
+ you
+ to
+ go
+ and
+ talk
+
+
+to
+ your
+ user
+ is
+ high,
+ then
+ you're
+ just
+
+
+not
+ going
+ to
+ do
+ it
+ very
+ often.
+ And
+ if
+
+
+you
+ can
+ lower
+ that
+ activation
+ energy
+
+
+necessary
+ to
+ go
+ talk
+ to
+ a
+ user,
+ and
+ if
+
+
+you
+ can
+ do
+ that
+ for
+ your
+ whole
+ company,
+
+
+great
+ things
+ are
+ going
+ to
+ happen.
+ So
+
+
+this
+ was
+ 2013.
+ I
+ started
+ edtech
+ company,
+
+
+an
+ AI
+ tutor
+ for
+ high
+ school
+ kids
+ called
+
+
+Socratic
+ in
+ New
+ York
+ City.
+ And
+ I
+ uh
+ I
+
+
+ran
+ that
+ for
+ 5
+ years.
+ And
+ then
+ Google
+
+
+acquired
+ that
+ company.
+ It
+ was
+ really
+
+
+hard
+ for
+ us
+ to
+ actually
+ go
+ and
+ talk
+ to
+
+
+high
+ school
+ students.
+ I
+ remember
+ we'd
+
+
+know
+ that
+ there
+ were
+ a
+ few
+ colleges
+ and
+
+
+a
+ few
+ high
+ schools
+ around
+ our
+ office
+ in
+
+
+New
+ York
+ and
+ I
+ would
+ sometimes
+ go
+ after
+
+
+school
+ and
+ be
+ like,
+ "Hey,
+ do
+ you
+ want
+ to
+
+
+answer
+ some
+ questions?"
+ And
+ it
+ felt
+
+
+super
+ creepy.
+ Eventually,
+ it
+ took
+ us
+ a
+
+
+while
+ to
+ get
+ there,
+ but
+ we
+ figured
+ out
+
+
+this
+ system
+ where
+ on
+ every
+ Tuesday
+ and
+
+
+Thursday,
+ we
+ would
+ have
+ I
+ think
+ it
+ was
+
+
+like
+ five
+ to
+ eight
+ high
+ school
+ students
+
+
+come
+ into
+ the
+ Socratic
+ office
+ and
+ spend
+
+
+the
+ afternoon.
+ We
+ didn't
+ have
+ anything
+
+
+to
+ talk
+ to
+ them
+ about.
+ that's
+ fine.
+ They
+
+
+would
+ just
+ sit
+ there,
+ do
+ their
+ homework,
+
+
+and
+ leave,
+ and
+ they
+ would
+ get
+ paid
+ for
+
+
+it,
+ and
+ they
+ were
+ super
+ happy.
+ But
+ if
+ we
+
+
+were
+ working
+ on
+ a
+ new
+ feature
+ or
+ if
+ we
+
+
+were
+ working
+ on
+ messaging
+ or
+ whatever
+ it
+
+
+was,
+ they
+ would
+ be
+ there,
+ and
+ we
+ could
+
+
+show
+ them
+ whatever
+ we
+ were
+ doing.
+ And
+
+
+the
+ moment
+ we
+ had
+ that,
+ our
+ ability
+ to
+
+
+improve
+ our
+ product
+ and
+ make
+ it
+ better
+
+
+sped
+ up
+ dramatically.
+ A
+ big
+ difference
+
+
+at
+ Granola
+ versus
+ Socratic
+ is
+ that
+ um
+ we
+
+
+can
+ talk
+ to
+ users
+ remotely,
+ like
+ over
+
+
+Zoom.
+ And
+ that
+ actually
+ makes
+ a
+ lot
+ of
+
+
+sense
+ because
+ our
+ product's
+ meant
+ to
+ be
+
+
+used
+ during
+ meetings,
+ right?
+ So
+ we'll
+ do
+
+
+a
+ lot
+ of
+ video
+ calls
+ with
+ with
+ users.
+ So
+
+
+we
+ we
+ usually
+ have
+ standing
+ user
+
+
+interviews
+ 4
+ days
+ a
+ week
+ that
+ anybody
+ at
+
+
+the
+ company
+ can
+ join
+ and
+ whoever
+ is
+
+
+working
+ on
+ stuff
+ can
+ ask
+ for
+
+
+information.
+ So
+ that's
+ something
+ that
+
+
+I've
+ taken
+ away
+ from
+ the
+ Socratic
+
+
+experience
+ and
+ have
+ kind
+ of
+ carried
+ with
+
+
+me
+ since.
+ The
+ second
+ thing
+ is
+ in
+ my
+
+
+opinion
+ like
+ the
+ secret
+ with
+ user
+
+
+interviews
+ is
+ you
+ don't
+ need
+ to
+ hear
+ the
+
+
+same
+ thing
+ from
+ 10
+ people.
+ If
+ I
+ put
+ a
+
+
+prototype
+ in
+ front
+ of
+ you
+ and
+ you
+ say
+
+
+this
+ button's
+ super
+ confusing
+ and
+ I
+ look
+
+
+at
+ it
+ and
+ I'm
+ like
+ oh
+ I
+ totally
+
+
+understand
+ why
+ you're
+ confused.
+ I
+ don't
+
+
+need
+ 10
+ other
+ people
+ to
+ tell
+ me
+ that.
+ I
+
+
+should
+ go
+ and
+ I
+ should
+ change
+ that
+
+
+button
+ immediately
+ so
+ that
+ next
+ time
+ I
+
+
+show
+ it
+ to
+ somebody
+ I
+ learn
+ what
+ the
+
+
+next
+ problem
+ is.
+ And
+ I
+ think
+ this
+ is
+
+
+something
+ that
+ especially
+ in
+ big
+
+
+companies
+ that's
+ unheard
+ of.
+ It's
+ very
+
+
+easy
+ to
+ delude
+ yourself.
+ Be
+ very
+ very
+
+
+skeptical
+ and
+ critical
+ and
+ honest
+ about
+
+
+if
+ what
+ you've
+ built
+ is
+ actually
+
+
+something
+ people
+ want
+ and
+ they're
+
+
+actually
+ going
+ to
+ use.
+ So
+ like
+ in
+ a
+ user
+
+
+interview,
+ never
+ ever
+ ask
+ someone
+ if
+
+
+they
+ would
+ use
+ something.
+ Or
+ you
+ can
+ ask
+
+
+it
+ but
+ then
+ completely
+ ignore
+ the
+
+
+answer.
+ If
+ you're
+ putting
+ them
+ in
+ front
+
+
+of
+ a
+ prototype,
+ ask
+ them
+ like
+ what
+ would
+
+
+you
+ do
+ next?
+ And
+ then
+ if
+ they
+ say
+
+
+something,
+ say,
+ "Is
+ that
+ true?"
+ Or
+ like,
+
+
+"Don't
+ you
+ think
+ you'd
+ be
+ tired?"
+ Or,
+
+
+you
+ know,
+ like
+ really
+ probe
+ on
+ it
+ from
+ a
+
+
+negative
+ perspective
+ because
+ that'll
+ I
+
+
+think
+ get
+ you
+ to
+ the
+ reality
+ faster.
+
+
+That's
+ just
+ human
+ nature.
+ In
+ a
+ user
+
+
+interview,
+ you're
+ going
+ to
+ try
+ to
+ say
+
+
+nice
+ things.
+ So
+ I
+ categorically
+ ignore
+
+
+all
+ positive
+ things
+ that
+ people
+ say
+ and
+
+
+use
+ really
+ conservative
+
+
+metrics
+ of
+ engagement.
+ Internally,
+ when
+
+
+we
+ say
+ a
+ user,
+ it's
+ only
+ a
+ user
+ who's
+
+
+done
+ at
+ least
+ one
+ meeting,
+ new
+ meeting
+
+
+on
+ this
+ day,
+ and
+ that
+ meeting
+ has
+ to
+
+
+have
+ over
+ 5
+ minutes
+ of
+ transcription.
+
+
+Otherwise,
+ we
+ don't
+ count
+ you
+ as
+ a
+ user.
+
+
+So,
+ if
+ you
+ use
+ Granola
+ yesterday,
+ we
+
+
+don't
+ count
+ you
+ as
+ a
+ user
+ today.
+ If
+ you
+
+
+open
+ up
+ Granola
+ and
+ looked
+ at
+ 10
+
+
+meetings,
+ but
+ you
+ didn't
+ do
+ a
+ new
+
+
+meeting,
+ we
+ don't
+ count
+ you
+ as
+ a
+ user.
+
+
+And
+ we
+ basically
+ from
+ the
+ get-go,
+ we've
+
+
+always
+ had
+ very
+ conservative
+ metrics
+ for
+
+
+what's
+ activity,
+ so
+ that
+ we
+ kind
+ of
+ we
+
+
+don't
+ kid
+ ourselves.
+ It's
+ so
+ so
+ easy
+ to
+
+
+come
+ up
+ with
+ excuses
+ or
+ say
+ like,
+ "Oh,
+
+
+you
+ know,
+ it's
+ actually
+ because
+ of
+ this
+
+
+other
+ thing
+ that
+ we're
+ going
+ to
+ fix.
+
+
+It'll
+ be
+ fine.
+ Like,
+ the
+ product's
+
+
+actually
+ good
+ enough."
+ What
+ I
+ don't
+
+
+believe
+ is
+ that
+ you
+ should
+ talk
+ to
+ users
+
+
+and
+ then
+ just
+ do
+ whatever
+ they
+ ask
+ you
+
+
+to
+ do.
+ Because
+ users
+ are
+ going to
+ say
+ a
+
+
+whole
+ lot
+ of
+ things
+ and
+ sometimes
+
+
+they'll
+ contradict.
+ Sometimes
+ what
+ users
+
+
+think
+ they
+ want
+ and
+ what
+ they
+ actually
+
+
+want
+ or
+ what
+ they
+ actually
+ need
+ are
+
+
+different.
+ So,
+ my
+ philosophy
+ is
+ to
+ talk
+
+
+to
+ users
+ so
+ you
+ can
+ really
+ get
+ their
+
+
+context.
+ you
+ can
+ hold
+ that
+ in
+ your
+
+
+brain,
+ but
+ then
+ use
+ your
+ intuition
+ and
+
+
+your
+ vision
+ of
+ what
+ the
+ product
+ should
+
+
+do.
+ So,
+ from
+ the
+ get-
+ go,
+ I
+ think
+ we've
+
+
+always
+ known
+ that
+ we
+ wanted
+ Granola
+ to
+
+
+be
+ a
+ very
+ simple,
+ minimal
+ design
+ product
+
+
+where
+ it
+ feels
+ nice
+ to
+ spend
+ time
+ in.
+
+
+It's
+ not
+ distracting.
+ It's
+ not
+ vying
+ for
+
+
+your
+ attention.
+ That's
+ been
+ rooted
+ on
+
+
+what
+ we
+ wanted
+ in
+ a
+ product,
+ right?
+ Cuz
+
+
+we
+ use
+ Granola
+ and
+ we've
+ always
+ wanted
+
+
+to
+ use
+ Granola.
+ But
+ as
+ we
+ try
+ to
+ build
+
+
+that
+ out,
+ we
+ have
+ hundreds
+ and
+ hundreds
+
+
+of
+ users
+ kind
+ of
+ in
+ our
+ heads
+ that
+ we
+
+
+can
+ kind
+ of
+ close
+ our
+ eyes
+ and
+ be
+ like,
+
+
+"Oh,
+ what
+ would
+ Nancy
+ think
+ of
+ this?"
+ We
+
+
+can
+ kind
+ of
+ visualize
+ the
+ response
+
+
+pretty
+ well.
+ And
+ I
+ think
+ that's
+ super
+
+
+important.
+ I
+ think
+ if
+ you
+ just
+ make
+ a
+
+
+prioritized
+ list
+ of
+ user
+ needs
+ and
+ build
+
+
+those,
+ that
+ doesn't
+ work
+ very
+ well.
+ Like
+
+
+whenever
+ we've
+ done
+ that,
+ users
+ never
+
+
+ended
+ up
+ using
+ those
+ features
+ very
+ much.
+
+
+Like
+ this
+ happens
+ all
+ the
+ time
+ where
+
+
+you're
+ building
+ something,
+ you're
+ like,
+
+
+"This
+ is
+ great."
+ And
+ then
+ you
+ put
+ it
+ in
+
+
+front
+ of
+ users
+ and
+ then
+ they
+ don't
+
+
+understand
+ it,
+ they
+ hate
+ it,
+ they
+ don't
+
+
+get
+ it.
+ There's
+ this
+ amazing
+ video
+ on
+
+
+YouTube,
+ a
+ product
+ designer
+ doing
+ a
+ user
+
+
+test,
+ and
+ you
+ see
+ the
+ user
+ grab
+ the
+
+
+square
+ and
+ put
+ it
+ into
+ the
+ square
+ hole.
+
+
+The
+ designer's
+ like,
+ "Yes."
+ And
+ then
+ you
+
+
+see
+ the
+ user
+ grab
+ the
+ circle
+ and
+ put
+ it
+
+
+in
+ the
+ square
+ hole,
+ and
+ the
+ user's
+ like,
+
+
+"What?"
+ And
+ then
+ you
+ just
+ see
+ like
+
+
+basically
+ completely
+ misunderstanding
+
+
+the
+ product
+ in
+ front
+ of
+ them.
+ I
+ think
+
+
+the
+ only
+ way
+ you
+ can
+ build
+ an
+ intuition
+
+
+is
+ by
+ putting
+ stuff
+ in
+ front
+ of
+ people
+
+
+and
+ getting
+ feedback
+ on
+ it
+ quickly.
+ If
+
+
+it
+ takes
+ a
+ month
+ to
+ to
+ get
+ feedback
+ on
+
+
+it,
+ it
+ almost
+ not
+ worth
+ doing
+ because
+
+
+the
+ thinking
+ you
+ had
+ when
+ you
+ made
+ the
+
+
+original
+ decisions,
+ you
+ don't
+ even
+
+
+remember.
+ So
+ I
+ think
+ the
+ short
+ cycle
+
+
+there
+ is
+ super
+ important.
+ When
+ we
+
+
+started
+ building
+ Granola,
+ we
+ took
+ a
+ very
+
+
+very
+ iterative
+ approach.
+ Like
+ we
+ built
+
+
+the
+ bare
+ minimum
+ thing
+ and
+ then
+ we
+ tried
+
+
+to
+ get
+ people
+ to
+ use
+ it
+ and
+ see
+ all
+ the
+
+
+reasons
+ why
+ it
+ didn't
+ work
+ and
+ then
+ we
+
+
+try
+ to
+ fix
+ those
+ and
+ then
+ we
+ try
+ to
+
+
+change
+ it.
+ And
+ I
+ think
+ your
+ intuitions
+
+
+do
+ get
+ better
+ but
+ you
+ can
+ never
+ stop
+
+
+doing
+ it.
+ That's
+ the
+ other
+ It's
+ like
+
+
+their
+ intuitions
+ get
+ better
+ and
+ then
+ you
+
+
+stop
+ talking
+ to
+ users
+ and
+ your
+
+
+confidence
+ level
+ still
+ stays
+ high.
+ So
+
+
+you're
+ like,
+ "Oh,
+ I
+ understand
+ users.
+ I
+
+
+know
+ what
+ I
+ can
+ what
+ what
+ I
+ need
+ to
+
+
+build."
+ And
+ then
+ when
+ you
+ start
+ user
+
+
+testing
+ again,
+ you
+ realize
+ you're
+
+
+totally
+ off
+ pieced.
+ And
+ I
+ think
+ two
+
+
+different
+ paths
+ you
+ can
+ take
+ when
+ you're
+
+
+building
+ products
+ on
+ top
+ of
+ AI.
+ You
+ can
+
+
+build
+ a
+ product
+ that
+ will
+ basically
+
+
+replace
+ the
+ human
+ or
+ you
+ can
+ try
+ to
+
+
+build
+ a
+ product
+ that's
+ going
+ to
+ augment
+
+
+or
+ enhance
+ what
+ the
+ human
+ does.
+ That's
+
+
+basically
+ where
+ we're
+ going
+ with
+
+
+Granola.
+ So
+ we're
+ starting
+ with
+ meaning
+
+
+notes.
+ We're
+ going to
+ help
+ you
+ with
+ all
+
+
+the
+ work
+ you
+ do
+ after
+ a
+ meeting.
+ Whether
+
+
+that
+ is
+ writing
+ follow-up
+ emails,
+
+
+whether
+ that's
+ drafting
+ memo,
+ we're
+
+
+going
+ to
+ help
+ you
+ prepare
+ for
+ your
+
+
+previous
+ meetings.
+ We're
+ going
+ to
+ help
+
+
+you
+ do
+ analysis
+ across
+ all
+ your
+
+
+meetings.
+ We're
+ going
+ to
+ help
+ you
+ do
+
+
+more
+ and
+ more
+ and
+ more
+ and
+ hopefully
+
+
+make
+ make
+ your
+ life
+ a
+ little
+ bit
+ better
+
+
+every
+ day.
