@@ -1,0 +1,324 @@
+I've been meeting a lot of people of late
+who ask me this question:
+“When will Africa catch up
+to the AI revolution?”
+And I look at them with a lot of humility,
+and I say to them,
+"You're asking the wrong question."
+And of course, a lot of them
+look at me with surprise.
+I say, here is the right question:
+“When will the world catch up
+to what Africa is doing with AI?”
+But before I dive into AI,
+you've heard a lot about AI,
+let me take you on a geography lesson.
+(Laughter)
+Africa is big.
+Just breathe in.
+Take it in.
+Find your country inside Africa.
+It's 54 countries,
+1.6 billion people,
+3,000 languages, not counting dialects.
+And Africa is young.
+I'm one of the older ones.
+And I consider myself young.
+(Laughter)
+Sixty percent of the world's youth
+is going to be African by the year 2050.
+These are digital natives,
+incredible digital skills.
+But it wasn't always like this.
+Thirty years ago,
+75 percent of Africans
+had never had a phone ring.
+There were five million
+telephone lines in Africa.
+There were more telephone lines
+in New York City
+than the whole of sub-Saharan Africa.
+But that was 30 years ago.
+In 30 years, here's what has happened.
+We now have a billion
+mobile phone connections.
+We now have 1.1 billion
+mobile money accounts.
+That's up from only
+300 million 10 years ago.
+It's driving financial inclusion
+at an unprecedented scale.
+Today, if I needed to pay my barber,
+the food vendor on the side of the road,
+my utility bill,
+my mechanic,
+it's easy, it's accessible,
+it's convenient, and it's cheap.
+I use my mobile money account,
+whether it's EcoCash or M-Pesa,
+it's one of those two.
+But Africa's demographic dividend
+is also one of its biggest challenges.
+I know,
+a lot of people think of Africa
+and they think of poverty
+and disease and wars,
+but this is not our biggest problem.
+Our biggest challenge
+is youth unemployment.
+And I think it's one challenge
+that AI is uniquely placed to solve.
+And Africa has been able
+to embrace technology
+at an unprecedented scale.
+So now that we've been through geography,
+let me take you into the future.
+Please meet Yemurai.
+Yemurai is 24.
+She’s a high school graduate.
+Born in Zimbabwe
+and raised in Zimbabwe, like me.
+Like millions of her peers,
+she's tech savvy.
+She can type faster than any of you.
+She knows all the shortcuts on WhatsApp.
+But up until now,
+her future would have been bleak.
+She would have been as unemployed
+as any of her peers
+but for the fact
+that she has just graduated
+from one of the AI academies
+that we have on the continent.
+And this is where we find her.
+Early morning,
+Yemurai is teaching math, using AI
+to over 200 students across five schools.
+These schools have got free internet.
+By midday,
+Yemurai has joined the local nurse
+at a health clinic
+that is not too far away
+from where she lives.
+Helping with diagnosis,
+malaria, TB,
+bilharzia -- that’s a disease, by the way.
+And by the evening,
+some of her neighbors
+are coming to see Yemurai
+with soil samples
+and with diseased plants
+that she takes photos of,
+and she's able to tell them
+what fertilizer, what seeds,
+what's happening to their maize crop.
+Yields are now up
+40 percent where she lives.
+But Yemurai is not a teacher.
+She's not a nurse.
+She's not an agronomist.
+What is she?
+She's what we call
+an AI-amplified community entrepreneur.
+She's paid for each
+of these services that I described
+through her mobile money accounts,
+and she's earning three times more
+than the peers in her local area,
+and even those that are
+in the urban areas.
+She's solving the problem
+of the shortage of teachers
+that is so pervasive
+across most of Africa.
+This is how we're going to solve
+the problem of a shortage of doctors
+that is so pervasive
+across most of Africa.
+And in many of the rural areas of Africa,
+where there's so much arable land,
+there is such a shortage of agronomists.
+And now Yemurai,
+powered with a smartphone
+and an AI assistant,
+is able to solve these problems.
+Now I'm looking at you
+and you're asking yourselves,
+how is this even possible?
+I'm glad you asked.
+My name is Hardy Pemhiwa,
+I am the CEO of Cassava Technologies.
+We are the company
+that has literally connected Africa.
+The map that you see
+on the screen is not a plan.
+It's a map that shows
+110,000 kilometers of fiber
+that we have built
+across the African continent,
+literally from Cape Town to Cairo,
+from Mombasa on the east coast
+to Moanda on the west coast.
+We are connecting more
+than 300 towns and cities
+across Africa with fiber broadband,
+bringing internet to more
+than 500 million people
+across the continent.
+And we have now added a platform
+of interconnected data centers
+that are AI-ready.
+And this is where AI
+meets the infrastructure
+that Cassava has been building.
+Our plan now is to build
+Africa's first AI factory
+using local data, algorithms,
+local compute capacity
+to produce local intelligence.
+We're building an AI ecosystem
+for those that were previously excluded,
+because we understand
+that without AI infrastructure,
+Africa is going to fall further behind.
+Our AI factory is
+about bringing breakthroughs.
+It's about bringing job creation.
+It's about powering Yemurai's dream
+of being a doctor,
+an agronomist and a teacher.
+Powered with mobile broadband,
+mobile money,
+fiber broadband and now GPUs
+that we've been able to get from Nvidia,
+we are bringing to life AI infrastructure
+for Africa to compete
+with everybody else in this AI age.
+This is Africa's AI revolution.
+It's not about substitution,
+it's about multiplication.
+We want to amplify human capacity,
+and we want to eliminate impossibility
+by bringing AI
+to those that the world
+had previously excluded.
+So what is our AI factory going to do?
+Already, we're powering
+more than 12,000 AI developers,
+more than 1,100 startups,
+across Southern Africa, East Africa
+West Africa and North Africa.
+285 universities
+are going to be using our AI factory.
+And because we've already been working
+with enterprises for the past 30 years,
+67,000 of Africa's largest enterprises,
+from banks to telcos
+to state-owned enterprises,
+are all embracing this vision
+of an AI-powered future for the continent.
+On a continent where
+the median age is only 19,
+this is not just an improvement
+of digital infrastructure.
+This is a revolution
+that we are bringing to Africa.
+Because the next one billion users of AI
+are not going to use AI the same way
+that the first one billion
+have been using it.
+They are coming from places
+where a single AI-amplified human
+must do the work of 10.
+They are building AI to not
+only diagnose diseases
+that some of us have never heard of,
+but to teach math
+and physics and chemistry
+in Swahili, in Ndebele,
+in Zulu, in Shona, you name it.
+They are building AI in order
+to detect counterfeit medicines.
+Africa has a big problem
+with counterfeit medicines.
+They are building AI to diagnose crops.
+They're building AI
+to amplify human possibility.
+Because in Africa, constraints
+have always driven innovation.
+That's why pay-as-you-go came from Africa.
+That's why mobile money came from Africa.
+Because we didn't have
+bank accounts to protect.
+And that's why AI models
+that are trained on African realities
+are more robust, more efficient,
+and more inclusive.
+So I'm going to go back
+to my initial question
+that I've been asked by so many,
+including some that I've met
+during this conference.
+“When will Africa catch up
+to the AI revolution?”
+I'm sure you agree with me
+that whilst we sit here
+in this conference,
+talking about AI ethics,
+in Africa, we are deploying AI
+to serve the many and not the few.
+We are optimizing AI for impact
+and not for social media clicks.
+(Applause)
+Thirty years ago,
+the "experts on Africa" said
+it would take 50 years
+for Africa to have the kind
+of mobile telephony that we have.
+And they estimated that it would require
+50 billion dollars to do it.
+Well, I have news for you:
+70 percent of the mobile
+money transactions
+that are going to happen
+in the world today
+are going to happen on African soil.
+And guess what?
+Africa is ready to do it again.
+We want to make AI inclusive, accessible,
+relevant and affordable.
+Because the future of AI
+is not just going to be
+written in Silicon Valley.
+The future of AI
+is going to be to be written
+in the Silicon Savanna in Kenya.
+It's going to be written
+on the streets of Lagos.
+It's going to be written
+in thousands of villages
+that some of us have never heard of.
+There are millions of Yemurais out there
+that are writing the future of AI,
+solving problems that we didn't
+even know existed,
+building a future where AI
+amplifies human potential
+instead of replacing it.
+In London, they are worrying
+about whether teachers are going
+to lose their jobs because of AI.
+In Africa, we're embracing AI
+to solve the shortage of teachers.
+In New York,
+they're building AI algorithms
+in order to trade stocks faster.
+For us, it's about AI
+that can increase crop yields
+and reduce mortality
+amongst five-year-olds.
+That's the future of AI.
+So this is not just Africa's AI moment.
+This is AI's Africa moment.
+Are you coming?
+(Applause)
