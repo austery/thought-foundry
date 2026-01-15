@@ -1,0 +1,388 @@
+[music] We're talking today about identity for AI agents and how we authorize uh agents, MCP servers and uh the Um, we launched a new product uh actually this week. So, uh, that made this presentation fun. [laughter] Uh, had a major release just a few days ago um, for several of these features and ging these. Um, um, additionally, I should probably preface by saying a lot of this workshop material has been repurposed and um, our our architect uh, Abbyek, he goes by nicknames Shrek. um kind of prepared a lot of this and we've kind of massaged it into this presentation. Um yeah, so we're going to cover each of these in depth. um some of the core features of this new release whether it's token vault um async off we're not going deep on FGA but uh just know that there is another kind of subproduct if you will that's all around role based access control um there's an open- source project around fine grain do off um which really extends this feature set but that's really kind of another talk Um, so yeah, that's some of the things we'll be talking. Uh, quick intros. Uh, uh, it's my first time at AIE, so thank you guys. It's been awesome week already. Learned so much. Um, um, yeah, I'm I'm from Raleigh, not not actually a Shire, but [laughter] uh, this is a little bit about me. Um, and, uh, yeah, it's been great. I came over from Duasio from Red Hat and I've learned a lot about the identity space in the last four years. Um I'm going to roll over to Carlos.
+>> Yeah. Hi. Um yeah, I'm I'm Carlos. I'm co-host with uh Patrick for this workshop today. Um first time in New York, first time in the US. So great so far. Uh thank you for the welcoming. Um I'm best in Spain in Mayor if you know the place it's a beautiful island. Um I joined Al and Octa. Um I did a bit more two years father of two and well yeah it's a little bit of about myself. So I'm going to I want to start this with a vision that I'll zero share. uh this is uh to free everyone to safely use any technology and the fun fact about this is is a vision that precedes the AI Asian era uh and still stands uh because at the end of the day is what what we do uh we deal with identity for past, present and future technology and yeah um just to give a little bit of what's the challenge. Um so I said that our vision is just to to free uh anyone to use any technology but it doesn't mean that all the technologies are the same and all the technologies has the same uh challenges. It's obvious that agents bring new challenges, new threats. And just to illustrate, this is an updated list of the OASP uh LFO top 10. Um so you can see new things that they didn't exist before. So yeah, obviously we need to to solve new problems. Um so how how we modeled or how we think of agents in our data. So we think yeah so far we've seen interactive agents chat box code editors but this is unlikely the the future. we start to see other uh modalities where the agents doesn't run anymore in a in interactive way. Um dash runners or autonomous agents is something that is very popular these days. But beyond that we see a feature where fully autonomous agents can do things uh either on behalf of the users or maybe just because agents will start talk to other agents. So this is how these are four pillars that we believe will cover all these new modalities. The first one is AI needs to know who I am. So this is this is key. Uh if the agent doesn't know who I am, it can never apply any security or any restriction or any authoration authentication because
+>> I'm just an anonymous source or actor in this and this is important. The second is obviously the agents will be autonomous enough but it doesn't mean that we'll be alone. It will be just doing things on its own. Eventually they will need to access other services to consume other resources. So AI needs to call APIs on on my behalf as a user. But sooner or later the agent will try to do something riskier or something that I don't I don't think as a user the agent should do on its own uh without any supervision uh from my side. So AI can request my confirmation and lastly um AI access should be fine grain. So I need to to give the agent control to access my resources but not any resource, not any collection or document or anything. It's just it has to be on my hands to what the agent can access and what not. And just to to also introduce where octa and alto can play or complement each other. So we talked about a user and it could be me, it could be you but eventually will be an employee within an enterprise or a company and in this case the employee is not only acting on his own behalf is also representing the company and in in those cases the company needs also control what exactly those agents that are acting on behalf those employees are doing. So that's where uh Opta also plays a uh important part and in the other end Alzero is what we uh the the capabilities and features that we've implemented I think is where they connect. Yeah.
+>> Just trying to understand you said the agents need to know who you are.
+>> Yes.
+>> Who you are is what as the user and the coder and the one with the permissions. uh is the subject of the the the operation that you're doing. Like it could be anything. It could be you as an employee. It could be you as an owner or something as an administrator or something. But at the end is a person a human.
+>> Yeah.
+>> Yeah.
+>> In in the scenario I was talking about.
+>> Is is this what what permission the agent have access to or who has access to the Asian capabilities? I'm not like I don't understand
+>> both. Yeah.
+>> What does that two here?
+>> We're sorry.
+>> We are definitely touching on both. So yes, let's Yes. And time for your questions at the end. Absolutely. Let's make sure.
+>> Thank you.
+>> Thank you.
+>> Thank you.
+>> All right. So let's get deep on exactly what we are going to present today. Uh we talk about four pillars. um not in a particular order but we are I'm going to introduce uh one of the three which is or how we made possible one of the three which is um AI can request my approval. Um for that we implemented a sync O as part of the O for uh AI us offering and basically [snorts] this feature what it does is creates a mechanism and and a protocol for the agent to reach out the user when an operation needs to be approved by the human in in in this flow. It's seems simple. Um it it is in in [snorts] essence but well it's security [laughter] but uh on it's built on top of uh client initiated authentication uh sorry client initiated back channel authentication protocol. It's an ITC uh specification and it's yeah so in this scenario is the agent that it's initiating the authentication and authorization. So the agent is running maybe it could be a long run autonomous thing and at some point needs to make a purchase or make something that is flagged as risk. Uh so with with a sync uh with a simple SDK call it can initiate um an authorization request that materializes a notification to the user. The user receives the details of that transaction well structured. The user acknowledges that, approves that and then that approval gets back to the to the agent in form of an access token. And that access token contains the exact details that the user approved. And yeah, I'm going to hand over to Patrick for this one.
+>> Awesome. Yeah, thank you Carlos. And yeah, good question. Thank you both questions. the the token vault as the other kind of like you know major feature we're introducing with this AI more AI targeted AIO release um token vault is a new mechanism for persisting your upstream uh resource refresh tokens so I'm sorry refresh tokens and you may have used oor before right for social providers um or in tangent with like other identity providers Um this makes use cases with agents much much easier. Um so we we we have a really fine grained now flow which allows you to exchange tokens. So on on behalf of users so I can you know I can send my access token or my application's refresh token um whether it's for an API whether it's for my application um and I can then request scopes for an upstream uh you know service. So whether that's accessing Slack API or Facebook API or um any any other identity you know uh scoped API and so yeah and we we actually persist scopes we manage lifetimes of tokens um we do a lot of handling there to ensure that your SDK life is very easy um and that your agent stays online and it's it's it's available and it's secure u um yeah we've been testing this flow really extensively. Um, but you can kind of get a picture of what is going on under the hood and um, yeah, we'll talk more about token vault in the in the shop. It'll make a lot more sense when we get in there. Um, I do want to kind of highlight a few flows though. Um, where you know I mentioned refresh token and access token. um as we are digesting each of the agentic frameworks you can kind of see that well it may differ if you're using a single page app right and uh you know you're you don't have a backend which is as you know uh as secure you're or you're wanting to access an external API um in these cases especially like with langraph uh we we use an access token it's shortlived access token um that's simply because langraph stands up an external API um there's a langraph protocol around the langraph CLI. So yeah, in this case like we kind of model that flow whereas like other flows you may just have a native app or a simple Nex.js regular web app um traditional web app with your agent running embedded. Um then yeah in this case like a refresh token may fits your use case perfectly fine. Um, and then I think as we're going to talk later, there's also cases where, you know, maybe you have an asynchronous agent accessing other data. Um, we have a new mechanism now called a custom API client. Um, which can allow an MCP server for example to access remote data. Um, so that's kind of the conceptually what we've done at Ozero. We've taken agent, we've kind of modeled it as a client and we've taken your APIs and kind of modeled them as traditional OOTH resource servers or APIs in our platform. Um, so yeah, that's a little bit what's going on here. I've kind of listed some details about token exchange on the [laughter] slide. Um, yes, that just know that the subject token type is kind of type of exchange whether access or refresh. The subject token is your your token. um [snorts] the user token be in exchange for the third party token. Um let's see. This is a really quick GIF of um our interrupt flow with Lingraph. Uh recently wrote this. Um so it just shows kind of you know what the what the mechanism looks like. If the the prompt says uh you know I need access to my calendar, we have a a Google social provider. um we have an interrupt you know as part of our SDK it will feed you back the the mention that you need to request additional scopes we then do the token exchange from token vault get you a new access token and then you can up access your upstream provider um really quite simple in our in our framework now um quickly about MCP and then we'll dive into the workshop um MCP [snorts] is very new for us we just launched a preview Um but we've been avidly working on this for quite some time. Um but yeah, you can kind of see where we've modeled the MCP server also as a client. Um and yes, there are cases where agent is a client talking to MCP server which is also a client talking to upstream APIs. So um and that's that's actually what I'm going to show today. [laughter] Um but yes, the the flow is quite similar and we'll talk more about MCP semantics and um you know how we've implemented dynamic client registration and um kind of what we have here. Uh these are totally from our teammates. So [laughter] just trying to pick our favorite slides. Um and yeah um as far as the workshop uh I think we're planning to just kind of highle high note each section. Um, if you don't want to work through it, that's okay. You can follow along. If you want to work through it and you're more hands-on, um, that's fine, too. Um, and yeah, we really truly appreciate all your feedback. We do have time at the end for questions and all kinds of feedback. So, um, we would love that. And, um, yeah, this is what we are building, um, today. Um, basically, we are building an agent Nex.js app. Um what's nice about Vcel's platform, right, is we can build MCP tools alongside our agent in the same infrastructure quickly. We can then use the agent client to communicate with the MCP server and then leverage the MCP server to talk to third parties. So um that's really powerful and you know it's secure and it's easy to build. um you know we we feel quite good about several areas of this the security stack there but yeah I think this is kind of the the rough idea like a lot of typical flows you might see um you know in the industry um yeah so uh I'm going to yeah so we can pull it up and get going uh so let's see uh yeah hopefully everybody is able to capture the link Um and
+>> all right. Uh so yeah.
+>> Yeah. Well, while while Patrick is um showing and kind of doing the workshop, um I'll be available for anyone has a question or uh a problem with with the workshop itself. Just raise your hand. I will approach you.
+>> Awesome. Awesome. Yeah. and then I'll do like a quick intro then kind of showcase what it does and we'll kind of step through this journey of building that topology. Um so yeah uh but welcome is really just around getting your dependencies and getting um a a client. Um so I guess the first step here we we have a a root tenant an upstream IDP for you. So this is kind of a little more of an enterprise use case. So let's say you have a a core IDP provider um that you know you you tap into for like upstream API management or upstream identity. Um so we have this like fictitious uh stock trade application uh which looks like this. Um and this application basically the idea is is that you know consumers can come here they can access a stock API they can establish identity here but this this application also exposes a stock an API for downstream consumers and downstream agent clients and and additional consumers. So we have a basically a link a federated a linked access uh with our ODC connection um to this to this tenant. Um so yeah uh so the first part is really just um getting your um your client. Um, I already have a client, but where you would start here is basically just um going through Ozer's stack and getting um uh a tenant and starting to get your client developer keys. Um so we'll add O as the as a subsequent step, but I'll show the like the first step where we just have a really simple agent and then we're we're adding on um identity and then authorization. Uh so so yeah these are some prerequisites node PNP standard toys um OS CLI so we use a CLI for a lot of CLI management of our stack it makes some things easier we use a combination of Terraform and CLIs um in this demo um um [sighs and gasps] yeah so that's kind of the conceptual overview and some of the like major dependencies Um, after you've created your your client and kind of signed up here, um, we've got a link to it here. Um, you should be ready to go for spinning up your tenant. Um, but yeah, I'll talk more about that in step two. Um, so yeah, let's start with the very beginnings here. Um, so we're in this step, we're just we're we're building our downstream chatbot. Um, this is a downstream application that we're just spinning up. hasn't connected to anything yet and we're adding we're adding on this upstream provider and adding on access um with agents and with tools. Um and so yeah uh I used OpenAI with my agent but yeah you'll need uh an open API access key. Um this is the repo which has the base um the base template. I'll give you a branch at the end which has all of the changes we make in this workshop. Um and um yeah, so let's take a look at what that looks like. Go for agent. Okay. Oops. [snorts] Okay. Go for it. One, two.
+>> Sure.
+>> So, well, yes, standard uh chat box. Um so at this point when when when you start if you try to do anything other than just regular gen AI questions you will get just the model nothing else but um the important part is if we try to to ask the model who who I am
+>> that's when the model then says okay I don't know who you are I don't know what they is so I don't I know nothing. The same for in this case this is a downstream of a trade uh app. If you try to consume data from that trading service like again the chatbot will tell you I know nothing. Uh so let's let's fix that. uh let's give uh the chat box awareness uh first of the service uh and tools and then also [clears throat]
+>> authentication. So let's let's authenticate and let the the agent know who who I am.
+>> Okay.
+>> Uh
+>> so that's okay. Yeah, keep going. I'm going to apply this.
+>> So well I will try to sing with Patrick here.
+>> Yeah. [laughter]
+>> Um yeah, this is pretty standard. I think you saw this in several workshops already just today and imagine several times in the last weeks but yeah we are uh in the basel uh AI SDKs we will introduce the uh get stock price tool
+>> um and later the uh authentication part. So, let's go for the simple thing. Um, in this case, Patrick is cheating because he has all everything stashed.
+>> Won't be that easy for you guys, but
+>> um
+>> rest assured that uh let's run it again. Um I
+>> was going to say rest assured all of the code that's here is is in this stash. So, you don't have to worry about that. So, um, let's go back to the chat box and let's ask again about prices.
+>> You guys want us to try to follow along? You're going to do an overview.
+>> Okay.
+>> Like, am I supposed to try to keep up with what you're doing?
+>> Yeah, that's hard, right?
+>> Yeah. [laughter]
+>> Let's let's let's complete everything, right? Yeah. Okay. Yeah. Good. Good call.
+>> You can tell it's the first time we run inspection. [laughter] Great.
+>> Pretty awesome.
+>> All right. So, let let's let's let's make an actual or let's start uh with a um trading questions or at least get info questions about it. Okay, cool. So, now we've got the chat box um connected to the upstream API.
+>> Yeah, exactly. Uh in this case it's a public service. It's a public endpoint. So no authentication association was required
+>> right
+>> let's try so let's move along.
+>> Um
+>> there are more info in that page but
+>> sorry.
+>> Yeah no no no it's okay. I was going to say that let's go back to the kind of important stuff.
+>> Okay.
+>> Um all right. What happens if we want to read not public uh data from [snorts] the upstream service but personalized data so data that I as a resource owner own in this case is we are going to use uh token board so basically when when we logged in can you go back uh the chat box
+>> yeah yeah yeah
+>> so so far we didn't go through any login process so there is no who I am or anything like so it's just um anonymous uh session so far but at some point we will log in we will log in in the uh Asian IDE
+>> right and but that will give us a relation a trust relationship between us and the Asian alone we need to go beyond that we need to establish a relationship also it's kind of a a three-way thing it's us is the upstream service and the agent so we need to establish this triangle relationship, right? And we do that we will do that through token bot. We will uh first authenticate the agent that in exchange well issue an ID token and an access token u an access token that basically authorize us to use the agent alone. But we can with token bowl we can use uh once we establish the third relationship we can use that access token to exchange to exchange it by an upstream access token. Yeah. And that's what token does. What it does is once we connect our upstream app, in this case the demo trade app, Alzero will start storing the refresh token and dealing with the issuance that of the access tokens. So we store the refresh token, we store the the access token for as long as it it until it expires. And every time the agent needs to access this data, it runs the refresh token uh grant to obtain a new access token and that is issued back to the agent. So
+>> can you Yeah, that's that's more or less the the graph. Can I yeah jump to uh
+>> so yes um you know it's also going to show just adding the basic off for your user and and built and then adding on these these token vault requests. Um the so SDK code here kind of walks you through like the sign up the terraform all of the tenant setup um so that you can start to use these services, right? so that you can access token mold so you can start using identity with providers. Um this is a very new feature set with some of these features. So you'll you'll notice like in some of our configuration you're enabling a connected accounts feature with our new my account API. Um you're you know setting up grant types for your client application, your agent [snorts] application. Um, and you're configuring your OIDC connection. Um, um, so yeah. Um, [sighs] I don't know if we want to. Let's keep moving and then we can kind of show the tenant. Um,
+>> um, but these are kind of the steps, um, we can apply to just add a basic identity. And yeah, I'll turn to you while I'm doing that.
+>> Yeah, TDR, all the steps are there. uh references, links, and everything you need in case you want this to want to do this later or at home.
+>> Uh all right. [clears throat] So,
+>> let's try. So, the
+>> So, at this point, what we're going to do is bring the login button to the agent basically.
+>> Um
+>> just kind of show what that looks like.
+>> Yeah.
+>> So, uh route.
+>> Yeah. So,
+>> so we use ALJ SDK for Nex that provides a middleware
+>> um
+>> not the right one. One second
+>> and a wrapper uh for our routes.
+>> You will see.
+>> Sorry. One second.
+>> Yeah,
+>> I think it's that. Oh, it's complaining. Sorry. Conflicts. There we go. Okay, there we go.
+>> Yeah, a huge change. It's intimidating but it's because um it's dealing with the connected account. I think uh we are in the process of simplifying that in the SDK
+>> way more.
+>> Uh but yeah uh
+>> what is this?
+>> Uh so this is the next uh route for the chat.
+>> Yeah. So we've taken the page uh that yeah has the the chat um client. Uh so it's yeah it's just your your standard NexJS page and um yeah this is our wrapper [snorts] um which then basically forces login um or gives you a redirect.
+>> Um yeah
+>> let's step back a
+>> yes
+>> and I'm going to add authentication to this agent.
+>> Yes.
+>> Okay. Where does this fit in?
+>> This is an embedded agent within the next app. So yes, this chatbot is an embedded agent. Um we'll show other
+>> I'll tell you what I'm agent do is
+>> I have a existing deployment what additional components you're sharing with me right now. What's my existing deployment?
+>> Yeah.
+>> And what's out of the box?
+>> Yeah. So it's really these wrappers u from the SDK which wrap an endpoint um you know whether it's a page route or um something else. Um so yeah and then this is pretty standard with like our next.js JS SDK now um we established a session um so yeah I'll show login but that's there's there's really not a lot of magic here um we are however requesting this new connected accounts to see if you have a federated connection so that's kind of the confusing part here because like you know the old school zero flows would not have that like you know we we wouldn't be requesting upstream providers in many cases or other APIs Um but in this case yes we are using a federated provider and um so yeah it's it's a little more contrived I guess um and yeah we're creating a client there you can kind of see the OIDC options we're providing which are you know are specific for OIDC and then um this connect account endpoint um is is new that's going to enable our new connected accounts API um for managing all of your accounts Um I think that's Yeah. So let me show that and kind of Yeah, go for it.
+>> Yeah.
+>> Okay. Um
+>> so that was code. Um I think
+>> let me restart.
+>> All right. Okay. Let's try it again.
+>> Yeah. Run it.
+>> No, it didn't.
+>> It's it's it's there.
+>> Awesome.
+>> So I'm gonna sign out and sign in.
+>> Yeah. So we sign out. Um so at this point is up to you want to place a login button or whatever login UX is suits best with with you in this case just to simplify if you try to access the URL it will just prompt you with the login screen right away.
+>> Um so we log in now um at this point we are
+>> well we it doesn't show but we are logging to the upstream ID. Yes. So using just one credentials and then [sighs and gasps] uh well at least uh now
+>> uh it knows that I've got a session uh
+>> and who I am.
+>> Let's see.
+>> Yeah.
+>> Awesome. So it got the profile from the IDP. It load that to the context. Yeah. So now it knows who we are.
+>> Yeah. And in this fictitious application like this is also the same identity that's uh I'm sorry that's linked with the the stock trader uh sorry yeah this dashboard. So so yeah your identities are now linked between you know these applications you're using an upstream provider and you'll also see shortly that they'll be linked with your MCP tools as well. So, okay. So, we've got identity for we've got login. Um, we've got an embedded agent running locally. Um, um, what else do we want to talk about in this step? Are we ready to go on?
+>> Okay. So, it knows who I am, but it doesn't know what I own. What What is that? It doesn't have access to the trading service resources that I own in. So if you go back to the
+>> uh demonstrated app one sec.
+>> Uh yeah this one.
+>> Yes. So my balance is 10k. I've got these recent orders.
+>> Yeah.
+>> Uh so on so forth. So how can we give the agent access to all this data?
+>> Yeah. So all right.
+>> So the first step is as we said earlier
+>> we need to connect the two accounts. So even if we are using the same credentials, we still didn't say explicitly or the a user didn't set the explicitly to the agent, hey I I know I I want you to know who I am, but I didn't give you permissions to access my account yet. So that's the step you are doing. We are connected the account. So that's when we prompt the user with these extra permissions that the agent needs, these extra scopes, right? And that's when the relationships is established. Uh so now the agent knows that uh I have access to this account
+>> with that exact permissions. Nothing more, nothing else.
+>> Yeah. Yep. And
+>> yeah.
+>> Yeah. So next I think it's just adding some tools which can now leverage this account. Um so I'm going to jump into portfolio tools. Um, and this is getting into that token exchange and um, yeah, now we can start to ask more pertinent queries, right? We can say, can you view my portfolio? Um, and uh, yeah, we're not going to give you access yet to create orders. That'll be uh, the next pieces. Um but yes uh this kind of shows how our SDK kind of models getting an access token for another [snorts] connection upstream. Um how to how to leverage shared tools and TypeScript. Um I think what's really nice here is that these tools can be versatile. They can be shared between whether it's an agent tool or an MCP tool. Um hopefully your framework has you know TypeScript support. Um that's also a really nice uh capability tool organization. Um so yeah let yeah if you want to keep going I'm going to add the the tools.
+>> Awesome. So the same as the same the first step we did we are going to load a uh well to give the agent a new tool. So far local tools we will get to we will get to into the MCP part later but uh it is a native tool that it does a simple
+>> um HTTP request to the service but uh the tool will have a
+>> so we can show yeah sorry
+>> so one of the other things that we provide in our SDKs is how we connect this tool uh with the authentication part and the authentication part.
+>> Yeah. [snorts]
+>> Use the the tools basically again.
+>> Yeah.
+>> So
+>> So can you show
+>> the code tool?
+>> Yeah. Yeah.
+>> No, the tool again the code tool.
+>> Uh you show the
+>> this one tools or
+>> the the get portfolio tool.
+>> Oh yeah. Go in uh Yeah. Sorry. Yeah.
+>> So at some point we have we create uh with with a client and in the handler.
+>> Yeah.
+>> What is that call?
+>> So yeah it's just a a get with a include history you know query pram option optional uh addition there. um pretty straightforward API call once you have a client and a token. Um but yeah, this the sweet sauce is the you know we can now leverage this get access token for connection really easily on our SDK. Um so yeah let me show that if you want to
+>> yeah it's everything is summarized on this slide that's what I wanted to show. Uh so our SDK provides this you provide the connection in this case that's the upstream name that is represented in in your tenant uh and that's what does all the dance with the top
+>> there I'll say can you show my portfolio sorry
+>> so yeah um all right
+>> so we've got an agent with access to our data now so he knows who I am but also has access to what I am has digital access. Well, it's up to you obviously that the tool implemented but at least yeah I already know exactly what we have.
+>> Okay.
+>> Okay.
+>> So, so we have portfolio tools uh which is great. Um I didn't show the scopes but [laughter] uh yeah rest assured that like I must show the MCP server really quickly. So kind of what we've scaffolded and modeled. Um and this may help with some of the questions but the um yeah here's the MCP server which we've we've modeled as an API. Um and we have you know scopes around accessing the MCP server. um we've kind of modeled those the same way as our as our upstream um API. So let's see permissions. Um we've got scopes around reading trades, reading our portfolio. Um and yeah, those are referenced in in those tools in the meta. Um that wasn't abundantly clear, but um yes, we are representing those as like scoped permissions. Um
+>> how do you create these permissions? Yes.
+>> The keyword trade and portfolio these are very application specific.
+>> Yes.
+>> Yes.
+>> Yes.
+>> So how would it know what they are mean in the context of the application?
+>> You want to take that one?
+>> What do you mean?
+>> So this app is a stock trading app. So the word trade and portfolio will have very specific meaning here.
+>> Yes. Yes.
+>> But I could have another app where the word trade or the word portfolio maybe it's like a project management app. Portfolio would mean something else.
+>> Yeah. But
+>> so so how does it identify [snorts] the meaning of the permission?
+>> That's taking it.
+>> Yeah, I can. So uh yes,
+>> I think I understand but at the end of the day is the upstream service that sets the rules, right? [clears throat] So [snorts] if you want to access my my my resources, I need an access token with this scope. Otherwise, I would reject your request.
+>> And it doesn't it doesn't matter if you're an agent or even a just traditional REST API client. And that rel that you as an implementer of the agent, you know that in advance. You know if you are connected to an upstream, you know what's the shape of the request and what's the authorization layer that I need to implement. You can model your scopes as you want in your local tenant but at the end of the day the translation the scopes to the upstream should be done. So you can you can tell
+>> where do I do that?
+>> It's in the connection.
+>> Yeah. When you define the connection.
+>> Yeah. Yeah. So the the enterprise connection here to our upstream is here. And yeah, you can kind of see we're requesting those scopes from the upstream tenant and it also in this case like has those scopes modeled around the stock API. So
+>> exactly.
+>> Yeah.
+>> So these scopes I'm getting from that from the from the service.
+>> Yes. So this comes out most likely publicly available or it's something that is part of the contract between you and the upstream
+>> and that's exactly what the user will see on on the prom that you saw at the moment that they connect the account.
+>> Exactly.
+>> So we are here for to simplify we use the same names but it could be different it could be different scopes have it's the translation happens on top of both.
+>> Yeah. Yeah. And um yeah, I should also worth mentioning like we model roles differently, right? like around you know personas or other identities scopes are really around API access right so if you're looking to kind of model more around a role um yeah definitely check out FDA um we have role based access controls which you can apply around tools as well or around pages but this is more just you know fine grained uh access around an API um so all right let's keep going
+>> and this is new
+>> yes Yeah, a lot of this is very new.
+>> Connections has been around for forever, but the purpose and actually that's the name we chose. Uh the purpose of a connection
+>> uh we create a new one which is talking mode.
+>> All right, we're still doing pretty good on time, but yeah, it's okay. Ready to jump in MCP. So
+>> yes, um any questions so far? Kind of switching topics here. I I wanted to ask similar to your question
+>> the scopes will be available you get them from the well-known oids like a hard common way to get these right and you can publicly fetch them and then
+>> yes
+>> yes yes
+>> yes exactly um so yeah that's you've jumped right into the next flow and
+>> uh yeah so we are trying to implement the current spec with MCP now and that's kind of the next part of this exercise is adding the well-known protected resource metadata endpoint. Um and um yeah, so we've been testing this with a lot of providers uh recently and recently we just EA our DCR uh feature like this week. So um but yeah, that this flow is a little more involved, right? Because the the MCP server becomes um you know a client of the agent. Um and we're kind of we're going to show kind of how we modeled that in the Verscell code. Um [clears throat] um and you can see like you know all of the steps there's you know obviously more involved but it's you know it's important because we're actually securing MCP resources and tools and kind of doing it in a granular way but also enabling dynamic registration um with many providers. Um so yeah we'll showcase that towards the end here. Um yeah, I can probably fire this up if you want. Um kind of see if there's So this kind of show maybe I'll talk through a little bit of this. This kind of shows some of the middleware um and how we apply like scope verification on the MCP server itself and how we expose metadata. So yeah, that's exactly what you're alluding to is like we we advertise the supported scopes um when you go to register um in that part of the flow and then um yeah further down I think it's in the transport when we actually construct uh so yeah this is just more helpers so it's like you know creating middleware to verify a JWT we're still you know still a beer token um public private key encryption. Um but yeah, we we reference those libraries. We have a lot of shared libraries for doing these things now. Um and then um yeah, it another important mention here is this is where we introduced this custom API client. Um maybe I can show so this is a separate client that we've modeled in this uh demonstration. You could really create any number of API clients if you want to model them, you know, more independently or how you want to build your stack. But, um, yeah, we've modeled this as a a linked client, which is also a new feature, not zero. Um, so now we can actually link APIs to clients and model them as basically you can think of them as, you know, an agent client or an MCP server client. So, um, so that's a really nice new feature. um those are now linked and um we have API support for those as well. Um so yeah you can see like constructing an API client with the MCP server client ID and secret. Um and yeah I'll run that in just a second. I want to see if this so this is again like monitoring these shared tools. So we've we've taken this like stock tool portfolio tool from the agent over to the MCP server now. So we can expose it from there as well. Um and then you know the registration of the tools. Um and then yeah this is where we create the transport right. So this is where we create this MCP's endpoint and construct the server and um yeah that that's where we invoke our middleware and so yeah let me show that and um yeah if you want to add anything else feel free
+>> yeah so in in this case to an attempt to to show the whole journey we decided to create the NCP as part of this workshop
+>> but it could also be that you
+>> get your upstream NCP not that you are building an NCP but you still need to authorize to that right so in in in both cases association works
+>> so it's not that we wanted to show both ends uh so that's why there's so many so so much code in in that page it's just because uh part of it is is the actual MCP server
+>> so I've unstashed all the changes in this that I just showed and Um yes like this is basically uh what's going to give us the MCP tools. Um so um yeah I will start this. [snorts] All right. Um so yeah we made the changes to the client. So in this case in this the same nextGS server that the agent is running is where the MCP is served. But it's up to you which as your architecture but same same concept apply.
+>> Yeah. So I'm gonna say
+>> yes go. Yeah.
+>> So if you go back to the chat UI, can you can [clears throat] you do a prompt injection to tell that now my connection have a different scope and
+>> so you can try that but it will take a no effect because the fact that you are asking scopes that are not part of the connection would be either ignored or rejected.
+>> So so basically just ignore that. Yeah, it depends on the the upstream, but yeah.
+>> Yeah.
+>> So, the scopes that are not part, correct me if I'm wrong, Patrick, but scopes that are not part of the connection can never
+>> end up in the access token.
+>> That's correct. That's right.
+>> Right. So, I think our policy most of the times is just ignore what we don't recognize.
+>> So, you just you will get an access token with valid scopes, but not the one you try to inject. Okay.
+>> And also I don't think now that you mentioned I don't think we expose the out part to the LM meaning we expose the tool and we grab the tool but the authorization happened before the tool execution. So I don't think the LM will have any influence in what exactly. But I'm not saying it's not possible because there [laughter] are many ways to do many things. But either way, even in our end,
+>> anything that we don't recognize shouldn't end up in an access token.
+>> Because you mean that the OP will actually recognize what connections you have before it pass your instruction over to LM to execute. Is that right?
+>> Yes. So you when you go Jio try to execute the tool. So the tool will say okay I need an access token because I need to do an API call. So it's our grapper or our SDK tools that provide this access token to the tool. It's not the tool on command to the end the to from the LLM that runs the authorization request. It's it's let me say it's just oldfashioned code. It's not LLM code.
+>> Okay. So uh now I'm going to show kind of step for step the DCR. Um so yeah it's our I'm using MCP inspector and common tool. Um and we'll show some others but um yeah this will kind of just show now we can actually target that MCP server directly you know running on the same server under /mcp now. Um so yeah and this will show our o flow and DCR happening. So I'm going to hit continue. disclaimer, open DCR is a thing. Yeah.
+>> But in as in early access and I don't think we will
+>> Yeah.
+>> There are some concerns about how this will scale.
+>> Yes.
+>> Um but there are other aspects coming uh that I think fit better in
+>> in this scenario.
+>> Absolutely. I agree. Uh but yeah, you can see the protected resource metadata coming back. So we have the well-known endpoint. Um you can see the scope supported and then we make a request to the authorization server. Um that returns more information about our tenant. Um and you know additional scopes how to authorize. Um so yeah, I'm going to jump through that. And then we get a registration call. Um, so now we're going to get a new client just for testing purposes with the MCP server. Um, so yeah, now we're going to get um believe this is PKCE. It's our authorization code flow with proof key code exchange. Um, so yeah, it's standard on zero flow, but it's also works well with with MCP. Um, so I'm going to copy this. Uh, okay. So, yeah, now it's going to prompt me and give me an authorization code. And at the end of the line here, we should get an access token. So, which is great. So now we can access the MCP server with these scopes from from anywhere, right? That's the great thing. So uh so now I'm going to hit connect and let's see if we can get some tools. Uh yeah. So yes, so now we have access to our portfolio and um you know our our identity tools kind of accessing um the same upstream stock API. Um, so yeah. Um, you want to add anything here, Carlos, before we go further? Oh, any question? Yeah.
+>> Sorry, I'll ask at the end. Yeah.
+>> Sure. All right. Okay. So, um, yeah, this is really the most involved part of this flow. Um I'm going to show the claude. Uh so I've actually deployed it if you want to play around. Uh and um yeah, so um that's that's really the most involved part with MCPA rather. Um um yeah, I think we're hitting time. So let's go into the async goth. That's all right.
+>> All right. Okay. Um
+>> go for it. Do you mind still um driving the the coding so I can
+>> All right. So we said that earlier the fact that the agent has access to our resources it doesn't mean that you should do anything in any time without my supervision. Right? I said this all the time. We don't want an hallucinating agent buying a stock in the middle of the night without my permission.
+>> What's wrong with that? [laughter]
+>> Yeah. So that's where part of our uh the bundle is provide a simple way and a seamless way to the agent to reach out the user and get their approval for risky operation. In this case, we consider place an order either buy or sell a risky operation. It's something that we as a developers of the agent define. It's up to us. Um so in this case what we are going to do is we are we will bring um the create order tool but with some conditions.
+>> Yes. So D conditions would be that before running the create order tool we will call uh back channel O that's the the SDK name for for the O uh sync
+>> we will obtain an access token that contains exactly what the user is so let me let me go step uh backward so we will create this request to back channel with the detail with the details of the transaction in this case it will be exactly the symbol I'm I'm buying or selling quantity and the price for the user to see that in their screen most likely out of plan device see that and approve that and only when that is approved we will place the order.
+>> Yeah. Yeah. for that in this in this case in this sample we will use guardian is our uh mfa uh application is is out of the box application you can use you can install and use um but also we support guardian SDK in case you want to implement your own
+>> um
+>> I'll show the user
+>> yeah so to for the agent to be able to reach out the user in for this channel in particular, the user needs to be enrolled on MFA.
+>> There are several mechanisms to do that uh just for for for the workshop. We show you kind of the back door of it,
+>> but it depends on the UIX how you it could be in sign up. It could be like a step up kind of thing. I don't know. It's up to uh to you. But we need to to enroll. So you will find this is in the docs but you will find a way to send an email that contains all the instructions to enroll.
+>> So once we enroll we will we can we can add this uh little helper here
+>> uh that just basically forwards the uh off to the to our SDK.
+>> All right, let me undo and reapply here.
+>> Yeah. Am I going faster than you?
+>> No, it's Yeah, it's [laughter] perfect. Sorry.
+>> Catching up.
+>> All right. Um
+>> uh one sec.
+>> Okay. So in a second I will show you exactly what we are going to send in this authorization.
+>> Um
+>> so we can see
+>> so I think it was in a zero we add the
+>> yeah so here is the uh this
+>> is the helper. It's just a wrapper just for wrap the errors and I'll test it. But basically it's again this this line of code in our SDK is what we sent and what will run all these steps
+>> internally.
+>> Show the tool.
+>> It will keep um it will wait for the user response. So it's basically an an sync uh operation and when the user responds the agent can resume. Oh, sorry. It's in uh it's in tools. This one.
+>> Uh yeah, this one.
+>> So, yeah. So, here [clears throat] we
+>> we're creating a new client with uh you know, so we're specifying like what we need in the authorization details. So, we can provide that rich authorization request detail when the authorization request comes in. um we're you know we're using this custom API client in this case that we've already created you could create others but yes we're creating a custom API client to then perform the back channel request um and then uh yeah it in this case it waits you could do a number of things you could pull you could there's other mechanisms here but yes in this case for simplicity sake we wait for the verification so let me give this a All right.
+>> Yeah. [snorts] So,
+>> okay. So, we run the client again. Uh, sorry, the chat box agent.
+>> So, we'll go back to here.
+>> All right.
+>> And so, now we can ask to
+>> I don't know place an order
+>> of what is it? Wayne.
+>> Wayne. Yeah. For example,
+>> fictitious stocks.
+>> Yeah. So in this case,
+>> yeah, go ahead.
+>> I have this question about the code. I don't know if all this code is checked in.
+>> I'm not sure. Do you have branches?
+>> Uh yes. Yes. Yes. Uh yes, I'm happy to share that towards uh towards the Do you want me to share it now or
+>> later? I just follow Yes, we do have a final state branch. Yes.
+>> Um in this case, the agent is instructed to inform the user that this is going to happen. So this is not yet the authorization request. is just heads up that hey you're going to receive a push notification is is okay it's just a really silly system um so you can proceed then
+>> yeah waiting hang on
+>> um one minute here should be connected let's see
+>> one a minute
+>> you run this like [laughter] Uh, turn that off. Oh, because you're hot.
+>> And [sighs] let's see. Let me try again. Let's see.
+>> Yeah. Refresh and try again.
+>> Refresh. [clears throat]
+>> Apart from push notifications, we also support email as a random note. Um, and more channels. We we will be implementing more channels to reach out there. Yeah, maybe I need to restart the application server is if I have
+>> can I just pre-authorize certain users
+>> in in your engine like
+>> yeah I I mean I guess it's up to you how you manage this session with your agent this
+>> no yeah I want to make sure no one else can engage like
+>> with the same agent You mean?
+>> Yeah. Or like can I can I get can I can I be able to pre-authorize the agent for certain access but also for preauthorize who can use the agent for access.
+>> Just trying to understand what are the different use cases around that.
+>> Um yeah but this is kind of up to you how you kind of the how you manage your sessions and permissions to access the app as a resource.
+>> Okay. Uh but once you establish that it's just you can you can establish any policy that you want at the end. I don't I don't know if I'm following the we can we can chat later but
+>> I approved it. So yeah I had to reconnect here on this network. So
+>> okay
+>> uh let me try one more time.
+>> It did come in
+>> in this example for this agent. It's saying okay basically the we the agent is asking if if it's allowed to go to that website. So I just want to make sure that the the agent is filled with that website but no other websites. That's what I meant about pre authentication authorization. But when you say website, you say the the service
+>> or certain APIs or certain tools just trying to see what if anything can be done as it because right now the application is happening as interactive.
+>> Yes.
+>> So I'm just saying can it be enough?
+>> Okay. I see. Yeah.
+>> Yeah. So
+>> this is how I I see I not access person.
+>> No no I understand I understand now. I understand now. So yeah, I I had similar concerns. I'm I'm not in product, sorry. But um yeah, so imagine that your interface is not a chat box.
+>> It's like a task runner kind of thing.
+>> Exactly.
+>> So I guess in what I would implement as an engineer is I would attach my identity or at least an identifier of the user, the subject to that task in my database. So I I enter the agent, I set up a task and I say, "Okay, I want to I don't know, find me a good deal or or advise me or buy Wayne stocks when it's below 70."
+>> It could be a task, right? I think that task is modeled in your system, right? It has to be modeled somehow. I don't know if it's prompt and ID of the user and that thing that's when you establish that. And we use the user that is the subject is what we use to identify if the user has a connection to that account you know so I need this account this user to have this connected this
+>> I understand
+>> and then I will only create a sensitive identity for the agent because I want to differentiate if the connection is coming from an agent or coming from the user
+>> but that's that's the thing you are in in our uh because the event is an agent performing the the the request to the service
+>> behalf
+>> is in my behalf. what I need
+>> but I want to know but but I want to differentiate though
+>> because if an agent goes wrong I want to know the agent goes wrong right so I want to know
+>> yeah you can you can
+>> yes so in that case because the agent is the client your access token will have an author authorizing party that's a claim identify not not the user but who is who the user is delegating the access to
+>> and that's where you can say okay This is my ID as an agent. This is my subject. So I can know exactly okay this agent is acting on behalf of this user and you can ruin any policy on that that you need.
+>> Yeah.
+>> That's all that's nothing new. It's been it's been around forever.
+>> No, but now I understand. I understand. Yes. So um yeah I wanted to show kind of logs and also just uh we did show the exchange in the last example for accessing the portfolio but this is the actual async siba exchange uh which is slightly different in our logs but I think it also kind of ties it together really well. Um and it shows you know I'm going to show like what an actual token payloaded looks like. again fictitious and these tokens are
+>> not going to give you much. [laughter]
+>> So this is the details I was talking about. Um we use an extension of it's reach authorization request is a it's in a specification and basically we can describe exactly what the user is giving consent to.
+>> Yeah. uh and that gets recorded in the accessory. In a real scenario, most likely the resource server will want to verify that.
+>> Uh but yeah, that that's up to the the stack that out of our but yeah,
+>> I'll show the uh notification to so yeah, it looks like so yeah, that's what it looked like on my phone actually when I actually connected it to the network and I got a slew of notifications. One of the challenges with uh rich associations request is that the object is reported. You can put anything you want. Um and that complicates thing in terms of rendering that request. To solve that, we created an schema. Uh so we we support an on schema. is flexible enough to give you any opportunity to display anything but is known and we can it helps for our [snorts] app in our case but also in your apps if you are developing yours to to render this dynamically. So our garden app is able to render any details um and yeah we provide this schema for you. All right,
+>> cool. We're good.
+>> All right.
+>> Awesome. So, that's a little bit about our new asynchronous authorization features. Um, last piece and then kind of open up more for discussion and yeah, I know we'll have a little bit of time, but um I just want to quickly show and kind of preface with like some of the integrations which we are testing. This is very beta and shipped very recently. But um yeah, this is using that DCR flow. Um I'm kind of showing how again how we did it with um with the inspector, but also with cloud code or with uh the chat uh I'm sorry, the open API app SDK. Um so this just kind of I'm not going to do this now. We're short on time, but obviously like we can you know we can deploy this to Burcell. Um I'm using an upstach database uh varus database for handling the state um on on the MCP server side. Um and yeah you you can get running pretty quickly on on versell. So you can you know you can take this agent and this MCP server and start sharing you know these tools. Uh bring your tools right anywhere. So um um yeah. So, I'm going to show um I guess just I've got a deployment that I mentioned earlier. I'll target that and uh I'll I'll DCR with my deployment. Ironically, it's also linked to the same identity provider. So, I'll get back my same information. Um which is nice. Uh and then um I'll show kind of how um in cloud code this works. Um I'm going to skip over chat uh GPT app SDK. There is there is an integration that is starting to work here. Um there's some configurations needed. So reach out and let's talk uh if you need this today. Um but yeah, it'll be pretty much readily available in you know the very near future. So we we do have some integrations today um that we've we've tested. Um but yes, there's this kind of gives you a rough overview of like how you could quickly bring those tools to J GPT. Um um so yeah, I'm gonna gloss through that. This is just me showing like oh yes, I've connected it in GPT and I can access my tools there. Um um yeah, let me go ahead and while if you want to talk a little bit more of that, I will show kind of uh getting a new a new client with the with my deployed instance and then integrating it in cloud code. [snorts] So yeah, just this is just to showcase that the the client the MCP client should also run the same policies all policies that so all clients should run the same uh so should identify authenticate me and author and the authorization the same authorization policy should happen. So in this case um we embedded the MCP as part of the server but um well in this case Patrick deployed that for us. [laughter]
+>> Uh so yeah
+>> disconnect
+>> same same thing we did before um in this case this is an production issue.
+>> Yeah same [snorts]
+>> as you can see it's asking for my authentication.
+>> Okay. and it got an access token with the scopes that we requested.
+>> All right. So now we're going to pull up claude
+>> and uh
+>> and yeah, we can just jump into uh cloud cut uh give it the MCP.
+>> So yep, I got a command in the read me here that's in the final.
+>> All right.
+>> So uh and then yeah, I need to replace the token. I'll save. So in this case, I am going to use my inspectors token and claude does support authentication. However, there is an open issue right now about specifying scopes. [laughter] Uh so yeah, I'm just going to use my inspector's access token. Um but yeah, you'll see you'll see that with Claude and then Claude will still initiate. Let me show that. Unfortunately, the spec is pretty new
+>> and not all the clients implemented the same way. Um,
+>> yeah.
+>> So, yeah, that's um I expect that to stabilize advantages.
+>> There's no like copy in this tool, is there?
+>> No. Okay. Okay. Once again, my my token is not going to do you much. These are fictitious uh trains.
+>> All right.
+>> Okay.
+>> So, yeah, same same thing as before. We can start asking about
+>> what we got in the in the app service.
+>> Uh what happened?
+>> It's connected.
+>> Is it connected? Okay. Oh, okay. So, let me res sometimes I have to restart it. I don't know why. Okay. Now, let's see. No. Huh. Yeah. Let me try once more here. That did not work. I'm sure. Yeah, I'm not seeing it. Okay. Clawed ad. Yeah, it looked like it was there. Let's see. [snorts] In the meantime, more questions.
+>> Yeah, [snorts] you had a question before.
+>> Uh, yeah, I I think I get the perview when you're a zero customer. Maybe the context here if you're building an app for let's say your consumers or something, then maybe this whole flow will be applicable. I'm thinking but if you are an octa uh tenant you're using octa in your workspace how do the two work together or do is this thing also going to be available on the opta side
+>> no I think the idea that got me I'm going to I don't know exactly so 100% but what I think it is is we are going to create some sort of bridge um that you can apply the the the same policies as octa as an employee to agents
+>> and restrict those accesses to those services as you would do with that employee that's where I is that your question more or less
+>> kind of yeah
+>> but also how how the two systems are going to work together because
+>> this seems like a feature of zero which is my understand
+>> yeah it is it is a separate part but um as far as I know work together on on protests. Um, but yeah, we can we can connect later if you want. I can dig into dogs. Yeah, most likely us. Yeah. Not sure what I'm doing wrong here. Uh, do you need to do the
+>> uh let's see
+>> this this cloud command you don't you have to run it outside cloud session
+>> maybe
+>> in the terminal.
+>> Oh, in the terminal. Okay. Yeah, let's try that.
+>> Anything else?
+>> Yeah. Uh so it seems like if I were deploying an agent, one way I can start is just to use the user's token on behalf of who the agent is acting as the token for the agent themselves. So what do you feel like is the advantage of existing agent identity? What are the the features that have?
+>> So when you say I can just pass so you authenticate the user and just forward the access token to the agent somehow or
+>> that's that don't do that please. So the access tokens are meant to first it will be in terms of operability it will be cumbersome because access tokens will expire eventually. So at some point you will need to reach out the user again okay login and do all the dance again. So how autonomous your agent will be in that scenario. Um so that's kind of what we try to solve. So we establish that connection, that relationship and we take care of this nasty complex part of refreshing tokens, storing tokens um and and yeah all the scope step up things like that.
+>> Okay, so finally got it working here. [laughter]
+>> Some of the interactions I might make with the agent are through say the the chat assistant and so whenever the agent is taking action, I'm initiating an action, right? Or Not necessarily as as for example the example we were talking about before. Imagine like a taskr runner kind of thing. You log in, you have the identity, you have a like a kind of traditional dashboard where you list your connectable apps, Slack, Gmail, uh Google calendar, whatever. And the user does that once, just once. So once the these are connected you can you give the Asian client well not not double quot is the Asian client
+>> access to those apps. So every time so the user next time that connects to the chat that's it. You don't need to run all this thing again.
+>> It's it's already done. It's it's the relationship has been established already. So the user will open the chat again. You don't need to do all this connecting scopes, prompts, consent screens. That's it. That's done. Eventually, it can die. It depends on the policy of your upstream. The refresh tokens may expire. In that case, yes, you will need to deal with, oh, you need to reload again. You do that once and that's it.
+>> Yeah. So, just an update. Was they finally able to have syntax or my version of cloud, I guess. But um yeah was able to off and kind of show went through the authenticate screen and um yeah now I can access my same tools in a deployed instance. Um you can do this with several providers now, right? Um all of which any which support uh D as as Carlos was saying like any which support DCR static client or preconfigured clients um and then yeah soon to be client ID metadata is the next uh spec I believe that's going to be implemented. Um, so yeah, you'll have a lot of options to to register new clients, new agents, um, and access your tools. Um, uh, yeah, I don't know if there's anything else we turn back to.
+>> Questions?
+>> Okay,
+>> I think that's it. Um, questions and feedback, whatever. Um, please reach out or
+>> Yeah. I know I the guy I showed in your workshop, but to his question, is there a a later branch?
+>> Yes.
+>> Yes, absolutely. And let me push that to his repository and let me show my final state now. And yeah, I'll pull that up and link it here.
+>> Also, the live demo and build a lot
+>> for the first time. Yeah, for the first time with a major release this week was like we just shipped this like two days ago. So, but [snorts] yeah.
+>> All right. Okay.
+>> Uh but yeah, the final state is in my branch here. Finish finish state. Uh that should have all the applied changes and I think I've like tweaked uh one of the like order history tools, but it's it's pretty straightforward. Um there's some other tools that are implemented there, but yeah, it's it's up to you what you want to implement there. Um but yeah, can I let's see I don't know if I can I can link this in the notes after and um
+>> we'll make sure that you have this uh I'll probably actually push it to our our upstream workshop branch. So, and yeah,
+>> just little disclaimer, the workshop app, well, it can suffer some disruptions uh as we uh develop more things. So, yeah, take that into consideration.
+>> All right.
+>> All right. Awesome. Thank you. [applause] [music] Heat.
