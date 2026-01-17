@@ -1,0 +1,5282 @@
+[music]
+
+
+Hi
+ everyone,
+ we're
+ about
+ to
+ start
+ the
+
+
+next
+ session.
+ Thank
+ you
+ guys
+ so
+ much
+ for
+
+
+coming
+ out
+ today.
+ Um,
+ this
+ is
+ going
+ to
+
+
+be
+ a
+ build
+ your
+ own
+ sales
+ agent
+
+
+workshop.
+ So,
+ we're
+ going
+ to
+ be
+ walking
+
+
+through
+ everything
+ you
+ need
+ to
+ know
+ to
+
+
+build
+ your
+ own
+ voice
+ agent.
+ My
+ name
+ is
+
+
+Sarah
+ Chang
+ from
+ Cerebras
+ and
+ I
+ am
+
+
+excited
+ to
+ be
+ joined
+ by
+ Genway.
+ Um,
+ and
+
+
+we
+ are
+ both
+ part
+ of
+ the
+ DevX
+ team
+ at
+
+
+Cerebras.
+
+
+>> Yeah,
+ thanks
+ Sarah.
+ Um,
+ so
+ today
+ we're
+
+
+going
+ to
+ walk
+ through
+ how
+ to
+ build
+ a
+
+
+voice
+ sales
+ agent
+ that
+ can
+ actually
+ have
+
+
+a
+ natural
+ conversations
+ with
+ customers
+
+
+and
+ our
+ sales
+ agents
+ will
+ pull
+ product
+
+
+contacts
+ from
+ an
+ external
+ source
+ to
+
+
+respond
+ in
+ real
+ time.
+ So,
+ we're
+ going
+ to
+
+
+be
+ building
+ an
+ AI
+ agent
+ that
+ can
+ speak,
+
+
+listen,
+ and
+ respond
+ intelligently
+
+
+um
+ to
+ your
+ company's
+ sales
+ materials.
+
+
+And
+ we
+ have
+ the
+ full
+ code
+ for
+ you
+ to
+
+
+follow
+ along
+ with.
+ We
+ have
+ a
+ notebook
+
+
+that
+ you
+ can
+ scan
+ later
+ um
+ to
+ step
+ ghost
+
+
+and
+ we'll
+ walk
+ you
+ through
+ it
+ step
+ by
+
+
+step
+ in
+ just
+ a
+ moment.
+
+
+So,
+ before
+ we
+ get
+ started,
+ let's
+ go
+
+
+through
+ what
+ you
+ will
+ get
+ out
+ of
+ this
+
+
+workshop.
+ So
+ you
+ will
+ get
+ free
+ API
+
+
+credits
+ for
+ Cerebrris
+ livekit
+ cartisia.
+
+
+You
+ will
+ have
+ the
+ quick
+ start.
+ We'll
+
+
+have
+ again
+ have
+ a
+ full
+ code
+ notebook
+ for
+
+
+you
+ to
+ follow
+ along
+ with
+ and
+ at
+ the
+ end
+
+
+you
+ will
+ have
+ your
+ very
+ own
+ sales
+ agent
+
+
+that
+ you
+ can
+ hook
+ up
+ to
+ your
+ company's
+
+
+materials
+ so
+ that
+ you
+ can
+ you
+ know
+
+
+implement
+ this
+ in
+ production.
+
+
+So
+ here's
+ the
+ starter
+ code
+ that
+ I
+ would
+
+
+recommend
+ scanning
+ just
+ so
+ you
+ can
+
+
+follow
+ along.
+ Um,
+ again,
+ this
+ is
+ what
+
+
+we'll
+ be
+ walking
+ through
+ step
+ by
+ step
+
+
+today.
+ And
+ there
+ will
+ be
+ individual
+
+
+modules
+ that
+ you'll
+ be
+ able
+ to
+ just
+ run
+
+
+and
+ see
+ some
+ good
+ outfits.
+
+
+So,
+ I'll
+ give
+ you
+ a
+ few
+ seconds
+ for
+
+
+that.
+
+
+We'll
+ have
+ the
+ QR
+ code
+ later
+ as
+ well,
+ so
+
+
+not
+ to
+ worry.
+ So,
+ before
+ we
+ get
+ started,
+
+
+I
+ wanted
+ to
+ talk
+ a
+ little
+ bit
+ about
+
+
+Cerebrus
+ and,
+ you
+ know,
+ Cerebrus
+
+
+inferences
+ secret
+ sauce.
+ So,
+ for
+ those
+
+
+of
+ you
+ who
+ are
+ unfamiliar,
+ we
+ are
+ a
+
+
+hardware
+ company.
+ We
+ are
+ building
+ an
+ AI
+
+
+processor
+ that
+ is
+ much
+ larger
+ and
+ much
+
+
+faster
+ than
+ what
+ you
+ are
+ probably
+
+
+familiar
+ with
+ with
+ Nvidia
+ GPUs.
+ So
+ out
+
+
+of
+ curiosity,
+ I'm
+ wondering
+ how
+ many
+
+
+people
+ here
+ have
+ heard
+ about
+ Cerebras
+
+
+hardware.
+ Not
+ bad.
+ Okay.
+ Higher
+ than
+
+
+last
+ year.
+ Okay.
+ Okay.
+ So
+ before
+ we
+ do
+
+
+go,
+ I
+ want
+ to
+ share
+ um
+ I
+ want
+ to
+ show
+
+
+everyone
+ [clears throat]
+ the
+ speed
+ of
+
+
+what
+ we're
+ talking
+ about
+ here.
+ So
+ So
+
+
+this
+ is
+ just
+ a
+ chat.
+ It's
+ running
+ on
+
+
+Cerebras.
+ You
+ can
+ choose
+ any.
+ So,
+ we
+ can
+
+
+host
+ any
+ different
+ model
+ on
+ our
+
+
+hardware.
+ So,
+ I'm
+ going
+ to
+ choose
+ an
+
+
+example
+ model
+ like
+ a
+ llama
+ model.
+ And
+
+
+I'm
+ [snorts]
+ going
+ to
+ give
+ it
+ a
+ prompt.
+
+
+So,
+ I'm
+ going to
+ give
+ it
+ a
+ prompt
+ that
+
+
+it's
+ intentionally
+ asking
+ it
+ to
+ respond
+
+
+something
+ a
+ little
+ longer.
+ This
+ go
+
+
+[clears throat]
+
+
+funny
+ dad
+ jokes,
+ but
+ make
+ each
+ joke
+ a
+
+
+couple
+ sentences.
+
+
+Sentences.
+
+
+And
+ that's
+ how
+ fast
+ it
+ generates.
+ Does
+
+
+anyone
+ else
+ have
+ a
+ prompt
+ you
+ want
+ to
+
+
+try?
+ A
+ longer
+ prompt.
+
+
+>> Amazing.
+ There
+ you
+ go.
+
+
+So,
+ really
+ quickly
+ before
+ we
+ get
+
+
+started,
+ I
+ know
+ we
+ have
+ a
+ lot
+ of
+
+
+software
+ geeks
+ here,
+ but
+ I
+ do
+ want
+ to
+
+
+for
+ a
+ second
+ talk
+ about
+ hardware.
+ And
+ I
+
+
+want
+ to
+ talk
+ a
+ little
+ bit
+ about
+ what
+
+
+hardware
+ innovations
+
+
+um
+ make
+ such
+ fast
+ inference
+ possible
+
+
+especially
+ as
+ we
+ build
+ a
+ new
+ generation
+
+
+of
+ AI
+ products.
+
+
+And
+ so
+ we're
+ going
+ to
+ a
+ little
+ bit
+ of
+ a
+
+
+hardware
+ segment,
+ but
+ one
+ of
+ the
+ main
+
+
+secret
+ sauces
+ for
+ Cerebras
+ is
+ that
+
+
+Cerebras
+ chips
+ do
+ not
+ have
+ memory
+
+
+bandwidth
+ issues.
+ And
+ I
+ don't
+ know
+ how
+
+
+familiar
+ you
+ guys
+ are
+ with,
+ you
+ know,
+
+
+GPU
+ architecture,
+ but
+ we're
+ actually
+
+
+gonna
+ de
+ deep
+ dive
+ really
+ quickly
+ into
+
+
+how
+ GPU
+ architecture
+ works
+ and
+ how
+ it
+
+
+compares
+ to
+ what
+ people
+ are
+ doing
+ today.
+
+
+And
+ so
+ for
+ context,
+ this
+ is
+ the
+ hardware
+
+
+that,
+ you
+ know,
+ all
+ of
+ our
+ inference
+
+
+runs
+ on.
+ It's
+ the
+ wafer
+ scale
+ engine
+ 3.
+
+
+It
+ is
+ quite
+ literally
+ the
+ size
+ of
+ a
+
+
+dinner
+ plate.
+ And
+ this
+ has
+ 4
+ trillion
+
+
+transistors,
+ 900,000
+ cores,
+ and
+ very
+
+
+significant
+ amounts
+ of
+ onchip
+ memory.
+
+
+And
+ so
+ this
+ is
+ the
+ comparison
+ of
+ what
+
+
+our
+ hardware
+ looks
+ like
+ next
+ to
+ the
+
+
+NVIDIA
+ GPU.
+ So
+ you
+ can
+ see
+ some
+ of
+ those
+
+
+metrics
+ line
+ up.
+ So
+ significantly
+ more
+
+
+transistors.
+
+
+But
+ to
+ actually
+ understand
+ what
+ Cerebras
+
+
+did
+ with
+ their
+ hardware
+ that
+ is
+ makes
+ it
+
+
+able
+ to
+ achieve
+ 20x
+ 30x
+ f
+ 70x
+ faster
+
+
+speeds
+ than
+ in
+ inference
+ on
+ Nvidia
+ GPUs.
+
+
+We're
+ going
+ to
+ actually
+ start
+ by
+ taking
+
+
+a
+ look
+ at
+ the
+ Nvidia
+ GPU.
+ So
+ this
+ is
+ a
+
+
+diagram
+ of
+ an
+ H100.
+
+
+And
+ if
+ you
+ look
+ at
+ the
+ red
+ rectangle,
+
+
+that
+ is
+ a
+ core.
+ And
+ so
+ on
+ the
+ H100
+
+
+there's
+ about
+ 17,000
+ cores
+ and
+ each
+ of
+
+
+these
+ cores
+ is
+ the
+ is
+ what
+ is
+ actually
+
+
+doing
+ all
+ of
+ the
+ mathematical
+
+
+computations
+ needed
+ in
+ training
+ or
+
+
+inference
+ or
+ whatever
+ computation
+ you
+
+
+need
+ to
+ do.
+ So
+ every
+ core
+ has
+ a
+ subset
+
+
+of
+ the
+ computations
+ um
+ that
+ is
+ assigned.
+
+
+So
+ when
+ you
+ run
+ inference
+ what
+ are
+ some
+
+
+of
+ the
+ types
+ of
+ things
+ that
+ a
+ core
+ will
+
+
+need
+ access
+ to
+ to
+ do
+ its
+ computation?
+ it
+
+
+needs
+ its
+ weight,
+ activations,
+ KV
+ cache,
+
+
+etc.
+ On
+ the
+ H100,
+ all
+ of
+ these
+ values
+
+
+are
+ stored
+ offchip.
+ So,
+ they're
+ stored
+
+
+in
+ an
+ offchip
+ memory.
+ And
+ so,
+ as
+ you
+ can
+
+
+imagine,
+ during
+ inference,
+ each
+ of
+ these
+
+
+cores,
+ there's
+ thousands
+ of
+ computations
+
+
+happening
+ constantly.
+ And
+ each
+ core
+ is
+
+
+needing
+ to
+ constantly
+ load
+ and
+ offload
+
+
+the
+ KV
+ cache,
+ activation,
+ weights,
+ etc.
+
+
+from
+ an
+ off-memory
+ location.
+ And
+ as
+ you
+
+
+can
+ imagine
+ this
+ creates
+ a
+ very
+
+
+significant
+ memory
+ channel
+ um
+ memory
+
+
+bandwidth
+ bottleneck.
+
+
+What
+ Cerebrris
+ has
+ done
+ instead
+ is
+ that
+
+
+instead
+ of
+ storing
+ all
+ these
+ values
+ off
+
+
+chip
+ every
+ single
+ core
+ on
+ the
+ Cerebrus
+
+
+hardware
+ the
+ WSC3
+ there's
+ 900,000
+ cores
+
+
+which
+ in
+ comparison
+ to
+ 17,000
+ is
+ already
+
+
+a
+ lot
+ larger.
+ Um
+ every
+ single
+ core
+ has
+
+
+direct
+ its
+ own
+ direct
+ onchip
+ memory.
+ So
+
+
+its
+ own
+ SRAMM.
+ So
+ every
+ single
+ core
+ on
+
+
+this
+ wafer
+ has
+ a
+ memory
+ right
+ next
+ to
+
+
+it.
+ And
+ what
+ that
+ means
+ is
+ that
+ all
+ of
+
+
+the
+ values
+ that
+ every
+ single
+ core
+ needs
+
+
+for
+ computations
+ like
+ weights,
+ KB
+ cache,
+
+
+etc.
+ is
+ directly
+ accessible
+ and
+ much
+
+
+faster
+ to
+ accessible
+ and
+ it's
+ right
+
+
+there.
+
+
+And
+ so
+ as
+ you
+ the
+ other
+ and
+ so
+ that's
+ a
+
+
+little
+ bit
+ that's
+ one
+ example
+ of
+ what
+
+
+Cerebrus
+ has
+ done
+ on
+ the
+ hardware
+ side.
+
+
+Um,
+ but
+ going
+ back
+ to
+ software,
+ I
+ also
+
+
+want
+ to
+ talk
+ about
+ really
+ quickly
+ one
+
+
+thing
+ that
+ Cerebrus
+ implements
+ on
+ the
+
+
+software
+ side
+ to
+ accelerate
+ inference.
+
+
+And
+ so
+ one
+ way
+ that
+ you
+ can
+ accelerate
+
+
+inference
+ is
+ through
+ a
+ technique
+ called
+
+
+spec
+ um
+ standard
+ decode
+ or
+ speculative
+
+
+decoding.
+ So
+ in
+ standard
+ decoding
+ you
+
+
+have
+ one
+ model
+ generate
+ every
+ single
+
+
+token
+ one
+ at
+ a
+ time.
+ And
+ this
+ is
+
+
+sequential,
+ right?
+ You
+ have
+ to
+ wait
+ for
+
+
+the
+ previous
+ token
+ to
+ be
+ generated
+ to
+
+
+generate
+ the
+ next
+ token.
+
+
+So
+ in
+ speculative
+ decoding,
+ you
+ combine
+
+
+two
+ models.
+ And
+ what
+ you're
+ doing
+ is
+ you
+
+
+use
+ a
+ smaller
+ model
+ that's
+ like
+ a
+ draft
+
+
+model
+ that
+ can
+ generate
+ all
+ of
+ the
+
+
+tokens
+ very
+ quickly.
+ And
+ then
+ you
+ use
+
+
+your
+ larger
+ model
+ to
+ go
+ back
+ and
+ verify
+
+
+that
+ the
+ output
+ of
+ the
+ smaller
+ model
+ is
+
+
+correct.
+ And
+ by
+ combining
+ these
+ two
+
+
+models,
+ you're
+ able
+ to
+ get
+ the
+ speed
+ of
+
+
+the
+ smaller
+ model
+ and
+ the
+ accuracy
+ of
+
+
+the
+ larger
+ model.
+ And
+ if
+ you
+ think
+ about
+
+
+it,
+ your
+ speed
+ is
+ capped
+ by
+ this
+ uh
+ your
+
+
+like
+ this
+ the
+ speed
+ um
+ is
+ capped
+ by
+ the
+
+
+speed
+ of
+ the
+ larger
+ model.
+ So
+ you
+ will
+
+
+up
+ to
+ the
+ large
+ like
+ the
+ speed
+ will
+ be
+
+
+up
+ to
+ the
+ larger
+ model
+ um
+ but
+ it
+ will
+
+
+never
+ go
+ beyond
+ it.
+ So
+ it
+ will
+ only
+ be
+
+
+ever
+ be
+ faster.
+
+
+So
+ as
+ a
+ kind
+ of
+ a
+ short
+ recap,
+ hardware,
+
+
+memory,
+ bandwidth,
+ we
+ talked
+ through
+
+
+that
+ software,
+ specular
+ decoding,
+ but
+
+
+that
+ was
+ a
+ little
+ side
+ moment
+ and
+ I
+ want
+
+
+to
+ go
+
+
+and
+ now
+ back
+ to
+ the
+ workshop.
+ Now
+ that
+
+
+you
+ have
+ all
+ the
+ context
+ that
+ you
+ need.
+
+
+>> Awesome
+ job.
+
+
+>> Yeah,
+ thanks
+ Sarah.
+ Um,
+ for
+ those
+ who
+
+
+folks
+ who
+ join
+ in
+ late,
+ you
+ guys
+ can
+
+
+scan
+ the
+ QR
+ code
+ to
+ get
+ the
+ starter
+
+
+code.
+ We
+ had
+ it
+ in
+ the
+ early
+ slide,
+ but
+
+
+um
+ since
+ we'll
+ be
+ teaching
+ you
+ guys
+ how
+
+
+to
+ build
+ these
+ sales
+ agents,
+ you
+ can
+
+
+follow
+ along
+ with
+ our
+ code.
+ Um
+ yeah,
+ so
+
+
+I
+ think
+ in
+ the
+ future,
+ most
+ customer
+
+
+interactions
+ will
+ probably
+ be
+ AI
+
+
+powered,
+ but
+ you
+ know,
+ instead
+ of
+ just
+
+
+typing
+ back
+ and
+ forth
+ with
+ the
+ chatbot,
+
+
+what
+ the
+ best
+ way
+ to
+ kind
+ of
+ really
+ have
+
+
+these
+ customer
+ interactions
+ is
+ really
+
+
+through
+ real
+ conversations,
+ which
+ is
+ why
+
+
+voice
+ agents
+ are
+ so
+ powerful.
+
+
+So
+ before
+ we
+ dive
+ deep
+ into
+ it,
+ what
+
+
+exactly
+ is
+ a
+ voice
+ agent?
+
+
+>> Absolutely.
+ Um
+ so
+ voice
+ agents
+ are
+
+
+stateful
+ intelligent
+ systems
+ that
+ can
+
+
+simultaneously
+ run
+ inference
+ while
+
+
+constantly
+ listening
+ to
+ you
+ when
+ you're
+
+
+speaking
+ and
+ they
+ can
+ actually
+ engage
+ in
+
+
+real
+ and
+ very
+ natural
+ conversations.
+ Um
+
+
+I
+ would
+ like
+ to
+ highlight
+ four
+ key
+ uh
+
+
+capabilities.
+ First,
+ they
+ understand
+ and
+
+
+respond
+ to
+ spoken
+ language.
+ um
+ they
+
+
+don't
+ just
+ spit
+ out
+ answers
+ based
+ on
+
+
+string
+ matching
+ or
+ keywords
+ but
+ rather
+
+
+they
+ can
+ actually
+ understand
+ the
+ meaning
+
+
+behind
+ what
+ people
+ are
+ saying.
+ Um
+ this
+
+
+also
+ means
+ that
+ they
+ can
+ handle
+ a
+ lot
+ of
+
+
+complex
+ tasks.
+ So
+ someone
+ might
+ ask
+ like
+
+
+I'm
+ looking
+ for
+ a
+ product
+ recommendation
+
+
+and
+ the
+ agent
+ can
+ subsequently
+ kind
+ of
+
+
+look
+ into
+ the
+ users's
+ purchase
+ history,
+
+
+the
+ shops's
+ current
+ stock
+ levels
+ and
+
+
+recommend
+ something
+ that
+ they
+ actually
+
+
+like.
+ And
+ you
+ actually
+ might
+ see
+ this
+
+
+referred
+ in
+ some
+ places
+ called
+ multi-
+
+
+aent
+ or
+ workflows.
+ Um
+ speech
+ is
+
+
+obviously
+ the
+ fastest
+ way
+ to
+ communicate
+
+
+your
+ intent
+ in
+ any
+ system.
+ We're
+
+
+speaking
+ now
+ I
+ guess
+ [laughter]
+ but
+ you
+
+
+can
+ just
+ say
+ what
+ you
+ want.
+ There's
+ like
+
+
+no
+ typing,
+ no
+ clicking
+ through
+ menus
+ and
+
+
+no
+ learning
+ learning
+ curves.
+ And
+ lastly
+
+
+um
+ none
+ of
+ this
+ would
+ be
+ possible
+ unless
+
+
+the
+ agent
+ can
+ keep
+ track
+ of
+ the
+ state
+ of
+
+
+the
+ conversation.
+ uh
+ which
+ means
+ the
+
+
+communications
+ obviously
+ is
+ very
+ highly
+
+
+contextual
+ and
+ your
+ agents
+ needs
+ to
+ have
+
+
+like
+ state
+ so
+ they
+ can
+ actually
+ hold
+ a
+
+
+coherent
+ conversation
+ across
+ time.
+
+
+So
+ as
+ you
+ can
+ imagine
+ this
+ makes
+ um
+
+
+voice
+ agents
+ perfect.
+ You
+ see
+ a
+ lot
+ of
+
+
+startups
+ happening
+ right
+ now
+ especially
+
+
+in
+ customer
+ service,
+ sales,
+ tech
+ support
+
+
+etc.
+ And
+ so
+ today
+ we're
+ going
+ to
+ be
+
+
+focusing
+ on
+ the
+ sales
+ agent
+ use
+ case.
+
+
+So,
+ first
+ let's
+ talk
+ about
+ what's
+
+
+actually
+ happening
+ inside
+ a
+ voice
+ agent
+
+
+when
+ you're
+ having
+ a
+ conversation
+ and
+
+
+break
+ it
+ down.
+
+
+>> Yeah.
+ So,
+ you
+ guys
+ can
+ see
+ on
+ this
+
+
+diagram
+ on
+ the
+ right,
+ once
+ speech
+ is
+
+
+detected,
+ the
+ voice
+ data
+ is
+ forwarded
+ to
+
+
+ST
+ or
+ that's
+ called
+ speech
+ to
+ text.
+ This
+
+
+listens
+ and
+ converts
+ to
+ your
+ your
+ words
+
+
+to
+ text
+ in
+ real
+ time.
+ And
+ the
+ last
+ step
+
+
+in
+ this
+ process
+ is
+ end
+ of
+ utterance
+ um
+
+
+or
+ end
+ of
+ turn
+ detection.
+ um
+ being
+
+
+interrupted
+ by
+ AI
+ every
+ time
+ you
+ pause.
+
+
+It's
+ like
+ very
+ annoying.
+ So,
+ while
+ VAD
+
+
+can
+ help
+ the
+ system
+ know
+ when
+ you
+ are
+
+
+and
+ you
+ aren't
+ speaking,
+ it's
+ also
+ very
+
+
+important
+ to
+ analyze
+ like
+ what
+ you're
+
+
+saying,
+ the
+ context
+ of
+ your
+ speech,
+ and
+
+
+to
+ predict
+ like
+ whether
+ you've
+ done
+
+
+sharing
+ your
+ thoughts.
+ So,
+ we
+ have
+
+
+another
+ small
+ smaller
+ model
+ here
+ that
+
+
+runs
+ quickly
+ on
+ the
+ CPU,
+ which
+ will
+
+
+instruct
+ the
+ system
+ to
+ wait
+ if
+ it
+
+
+predicts
+ you're
+ still
+ speaking.
+ So,
+ once
+
+
+your
+ turn
+ is
+ done,
+ the
+ final
+ text
+
+
+transcription
+ is
+ forwarded
+ to
+ the
+ next
+
+
+layer.
+
+
+And
+ then
+ after
+ that
+ phase,
+ we
+ have
+ the
+
+
+thinking
+ phase.
+ So
+ your
+ entire
+ question
+
+
+is
+ now
+ passed
+ onto
+ the
+ large
+ language
+
+
+model.
+ Um,
+ and
+ this
+ is
+ basically,
+ you
+
+
+know,
+ the
+ brain
+ like
+ understands
+ what
+
+
+you're
+ asking.
+ So
+ it
+ might
+ need
+ to
+ look
+
+
+things
+ up,
+ which
+ we'll
+ walk
+ through
+
+
+later.
+ Um,
+ like
+ checking
+ in
+ this
+ case,
+
+
+if
+ we're
+ doing
+ a
+ sales
+ call,
+ we'll
+ want
+
+
+to
+ pull
+ additional
+ context
+ like
+
+
+documents,
+ your
+ other
+ like
+ more
+
+
+information
+ about
+ your
+ company
+
+
+basically.
+
+
+>> Yeah.
+ And
+ then
+ the
+ third
+ and
+ the
+ final
+
+
+step
+ is
+ the
+ speaking
+ phase.
+ So
+ as
+ LM
+
+
+streams
+ response
+ back
+ to
+ the
+ agent,
+ the
+
+
+agent
+ will
+ immediately
+ starts
+ forwarding
+
+
+these
+ LLM
+ tokens
+ to
+ the
+ TTS
+ engine
+ or
+
+
+text
+ to
+ speech.
+ Um
+ this
+ generated
+ um
+
+
+audio
+ from
+ TTS
+ streams
+ back
+ to
+ your
+
+
+client's
+ application
+ in
+ real
+ time
+ and
+
+
+that's
+ why
+ the
+ agent
+ can
+ actually
+ start
+
+
+responding
+ when
+ it's
+ still
+ thinking.
+
+
+So
+ the
+ final
+ result
+ is
+ that
+ all
+ of
+ these
+
+
+components
+ tied
+ together
+ is
+ what's
+
+
+making,
+ you
+ know,
+ an
+ AI
+ agent
+ that
+ feels
+
+
+very
+ responsive,
+ that
+ feels
+ very
+
+
+cohesive
+ and
+ immediate,
+ even
+ though
+
+
+there's
+ a
+ lot
+ of
+ complex
+ processing
+
+
+happening
+ behind
+ the
+ scenes.
+ So
+ there's
+
+
+a
+ lot
+ of
+ moving
+ pieces.
+ In
+ this
+ case,
+
+
+we're
+ going
+ to
+ be
+ using
+ LiveKit's
+ agent
+
+
+SDK
+ to
+ handle
+ all
+ this
+ orchestration
+ for
+
+
+us.
+ Um,
+ it's
+ going
+ to
+ manage
+ the
+ audio
+
+
+streams,
+ keep
+ track
+ of
+ the
+ context,
+ and
+
+
+coordinate
+ all
+ these
+ different
+ AI
+
+
+services
+ that
+ we've
+ just
+ talked
+ about.
+
+
+So,
+ now
+ that
+ we
+ have
+ a
+ little
+ bit
+ of
+
+
+context,
+ um
+ you
+ can
+ access
+ the
+ starter
+
+
+code
+ here.
+ We
+ shared
+ it
+ already.
+ And
+ if
+
+
+you
+ want
+ to
+ run
+ the
+ first
+ section
+ right
+
+
+here,
+ it'll
+ allow
+ you
+ to
+ install
+ all
+ of
+
+
+the
+ necessary
+ packages.
+ So,
+ if
+ you
+ click
+
+
+on
+ it,
+ um
+ you'll
+ be
+ able
+ to
+ see
+ some
+ of
+
+
+the
+ output
+ of
+ the
+ packages
+ being
+
+
+downloaded.
+ And
+ so,
+ this
+ is
+ going
+ to
+ use
+
+
+live
+ kit
+ agents
+ with
+ support
+ for
+
+
+Cartisia,
+ Cilero
+ for
+ voice
+ activity
+
+
+detection,
+ and
+ openAI
+ compatibility.
+
+
+And
+ so
+ we've
+ very
+ briefly
+ talked
+ about
+
+
+Cerebras.
+ It
+ is
+ 50
+ times
+ faster
+ than
+
+
+GPUs.
+ And
+
+
+um
+ I'll
+ skip
+ here.
+ And
+ so
+ as
+ a
+ final
+
+
+note,
+ so
+ for
+ this
+ um
+ for
+ this
+ workshop,
+
+
+we're
+ actually
+ going
+ to
+ be
+ using
+ Llama
+
+
+3.3.
+ And
+ if
+ you
+ see
+ in
+ the
+ chart
+ on
+ the
+
+
+bottom
+ right,
+ this
+ is
+ a
+ chart
+ from
+
+
+artificial
+ analysis.
+ Artificial
+
+
+analysis,
+ if
+ you're
+ unfamiliar,
+ is
+ an
+
+
+independent
+ benchmark
+ that
+ benchmarks
+ a
+
+
+lot
+ of
+ different
+ models,
+ API
+ providers,
+
+
+etc.
+ um
+ on
+ intelligence,
+ speed,
+ latency,
+
+
+everything.
+ And
+ so
+ you
+ can
+ see
+ a
+
+
+comparison
+ here
+ of
+ Cerebrus
+ on
+ the
+ very
+
+
+left
+ in
+ terms
+ of
+ tokens
+ per
+ second
+ and
+
+
+any
+ of
+ your
+ other
+ providers
+ like
+ Nvidia.
+
+
+Awesome.
+ Um
+ going
+ back
+ to
+ our
+ code,
+ um
+
+
+hopefully
+ everyone
+ has
+ had
+ a
+ second
+ to
+
+
+kind
+ of
+ install
+ the
+ packages.
+ Um,
+ and
+
+
+now
+ let's
+ also
+ in
+ we
+ can
+ also
+ install
+
+
+the
+ live
+ CLI.
+ This
+ is
+ optional
+ for
+ our
+
+
+work
+ workshop
+ today,
+ but
+ if
+ you
+ want
+ to
+
+
+use
+ live
+ kit
+ beyond
+ this,
+ um,
+ here
+ are
+
+
+the
+ commands
+ depending
+ on
+ your
+ system.
+
+
+Um,
+ in
+ general,
+ we're
+ obviously
+ using
+
+
+Python
+ notebook
+ today.
+ So,
+ no
+ one
+ has
+ to
+
+
+battle
+ around
+ your
+ environment
+ when
+
+
+we're
+ getting
+ started.
+ But
+ again,
+ if
+ you
+
+
+want
+ to
+ continuously
+ build
+ and
+ deploy
+ uh
+
+
+the
+ voice
+ agent,
+ the
+ CLI
+ probably
+ is
+ the
+
+
+easy
+ way
+ easiest
+ way
+ to
+ do
+ it.
+ So
+ just
+
+
+uh
+ type
+ in
+ LK
+ app
+ create
+ and
+ you
+ can
+
+
+instantly
+ clone
+ a
+ pre-built
+ agent
+ like
+
+
+this
+ one.
+
+
+Cool.
+ And
+ um
+ let's
+ talk
+ a
+ little
+ bit
+
+
+about
+ what
+ exactly
+ LifeKit
+ is
+ and
+ why
+ we
+
+
+need
+ it
+ for
+ a
+ voice
+ agent.
+ So
+ the
+
+
+existing
+ internet
+ isn't
+ exactly
+ designed
+
+
+to
+ build
+ voice
+ agent
+ a
+ uh
+ application.
+
+
+So
+ HTTP
+ stands
+ for
+ hypertext
+ transfer
+
+
+protocol.
+ So
+ it
+ was
+ designed
+ for
+
+
+transferring
+ text
+ over
+ a
+ network
+ and
+
+
+obviously
+ for
+ what
+ we're
+ building
+ we
+
+
+need
+ to
+ transfer
+ voice
+ data
+ instead
+ of
+
+
+just
+ text
+ over
+ a
+ network
+ with
+ low
+
+
+latency.
+ Um
+ and
+ kit
+ is
+ a
+ real-time
+
+
+infrastructure
+ platform
+ for
+ doing
+ just
+
+
+that.
+ So
+ instead
+ of
+ using
+ HTTP
+ actually
+
+
+uses
+ a
+ different
+ protocol
+ called
+ web
+ RTC
+
+
+to
+ transport
+ voice
+ data
+ between
+ your
+
+
+client
+ application
+ AI
+ model
+ with
+ less
+
+
+than
+ 100
+ millisecond
+ of
+ latency
+ anywhere
+
+
+in
+ the
+ world
+ which
+ is
+ awesome.
+ It's
+ very
+
+
+resilient,
+ handles
+ a
+ lot
+ of
+ concurrent
+
+
+sessions
+ and
+ it's
+ fully
+ open
+ source.
+ So
+
+
+you
+ can
+ kind
+ of
+ dig
+ into
+ the
+ code
+ and
+
+
+you
+ can
+ see
+ how
+ it
+ works
+ or
+ even
+ host
+
+
+infrastructure
+ yourself
+ as
+ well.
+
+
+Um
+
+
+yeah,
+ so
+ you
+ can
+ use
+ live
+ kit
+ to
+ build
+
+
+any
+ of
+ type
+ of
+ like
+ voice
+ agents,
+ the
+
+
+ones
+ that
+ can
+ join
+ your
+ meetings,
+ the
+
+
+ones
+ you're
+ answering
+ phone
+ calls
+ and
+
+
+sell
+ centers
+ and
+ call
+ centers
+ and
+ in
+ our
+
+
+case
+ today
+ an
+ agent
+ that
+ can
+ speak
+ to
+
+
+prospective
+ customers
+ on
+ your
+ website
+ on
+
+
+your
+ behalf.
+ And
+ here
+ you
+ can
+ see
+
+
+connecting
+ it
+ to
+ the
+ original
+ diagram
+
+
+that
+ we
+ showed.
+ So
+ you
+ see
+ like
+ the
+ LLM,
+
+
+TTS,
+ ST
+ and
+ all
+ the
+ AI
+ components
+ that
+
+
+we
+ talked
+ about
+ earlier.
+ And
+ now
+ you
+ can
+
+
+see,
+ you
+ know,
+ how
+ these
+ actual
+ tools
+
+
+like
+ Live
+ Kit,
+ Tart,
+ Cartisia,
+ your
+
+
+inference
+ provider,
+ all
+ of
+ these
+ things
+
+
+are
+ actually
+ playing
+ together
+ to
+ help
+
+
+you
+ create
+ a
+ voice
+ agent.
+ And
+ so
+ the
+
+
+final
+ component
+ as
+ I
+ mentioned
+ is
+ the
+
+
+actual
+ speech
+ processing
+ um
+ which
+ so
+ in
+
+
+addition
+ to
+ cerebrus
+ and
+ lifkit
+ and
+ as
+ I
+
+
+mentioned
+ we'll
+ be
+ using
+ cartisia
+ to
+
+
+turn
+ the
+ voice
+ into
+ text
+ and
+ then
+ at
+ the
+
+
+end
+ text
+ back
+ to
+ voice.
+
+
+So
+ now
+ that
+ our
+ API
+ keys
+ are
+ set
+ up
+ step
+
+
+two
+ is
+ all
+ about
+ teaching
+ our
+ AI
+ sales
+
+
+agent
+ about
+ our
+ business.
+ So
+ when
+ you
+
+
+train
+ a
+ new
+ employee
+ you
+ have
+ to
+ give
+ it
+
+
+information
+ and
+ context
+ on
+ your
+
+
+business.
+ And
+ so
+ that's
+ what
+ we're
+ going
+
+
+to
+ be
+ doing
+ now.
+
+
+>> Yeah.
+ Um,
+ I
+ think
+ the
+ challenge
+ a
+ lot
+ of
+
+
+the
+ times
+ with
+ LLMs
+ is
+ that
+ they
+ know
+ a
+
+
+lot
+ about
+ everything,
+ but
+ they
+ might
+ not
+
+
+know
+ many
+ specific
+ things
+ or
+ domain
+
+
+things
+ about
+ your
+ company.
+ Um,
+ and
+
+
+they're
+ only
+ really
+ as
+ good
+ as
+ their
+
+
+training
+ set.
+ So,
+ if
+ we
+ want
+ to
+ respond
+
+
+with
+ any
+ information
+ that
+ isn't
+ common
+
+
+public
+ knowledge,
+ we
+ should
+ really
+ try
+
+
+and
+ load
+ it
+ into
+ the
+ LLM's
+ context
+ to
+
+
+minimize
+ hallucination
+ or
+ any
+ sort
+ of
+
+
+canned
+ responses
+ such
+ as,
+ "I
+ can't
+ help
+
+
+with
+ that."
+
+
+So,
+ in
+ this
+ case,
+ we're
+ just
+ going
+ to
+ be
+
+
+feeding
+ the
+ LLM
+ a
+ document
+ with
+
+
+additional
+ information.
+ So,
+ for example,
+
+
+we
+ can
+ load
+ our
+ pricing
+ details
+ if
+
+
+someone
+ asks
+ about
+ pricing.
+ But
+ we
+ can
+
+
+also
+ load
+ information
+ like
+ product
+
+
+descriptions,
+ pricing
+ info,
+ key
+ um
+ key
+
+
+benefits.
+ And
+ another
+ big
+ thing
+ that
+ we
+
+
+can
+ do
+ is
+ write
+ pre-written
+ responses
+ to
+
+
+common
+ objections.
+ So,
+ for
+ example,
+ if
+
+
+it's
+ common
+ that
+ someone
+ says
+ it's
+ too
+
+
+expensive,
+ you
+ can
+ write
+ a
+ pre-written
+
+
+message
+ so
+ that
+ our
+ agent
+ will
+ always
+
+
+stay
+ on
+ message
+ and
+ it
+ has
+ the
+ correct
+
+
+context.
+ So,
+ if
+ you
+ look
+ at
+ the
+
+
+notebook,
+ you
+ can
+ see
+ what
+ that
+ context
+
+
+looks
+ like
+ in
+ practice,
+ right?
+ you
+ don't
+
+
+have
+ to
+ just
+ give
+ it
+ access
+ to
+ a
+ full
+
+
+document.
+ Um
+ you
+ can
+ see
+ that
+ we've
+ in
+
+
+um
+ organized
+ all
+ the
+ information
+ that
+
+
+our
+ sales
+ agent
+ needs
+ into
+ a
+ very
+ simple
+
+
+structured
+ format
+ for
+ the
+ AI
+ to
+
+
+understand
+ and
+ reference.
+
+
+So
+ you
+ can
+ see
+ everything
+ that
+ you
+ um
+ a
+
+
+good
+ salesperson
+ would
+ need
+ like
+ the
+
+
+descriptions
+ and
+ then
+ as
+ we
+ mentioned
+ it
+
+
+has
+ these
+ pre-written
+ messages
+ as
+ well
+
+
+so
+ that
+ you
+ can
+ control
+ the
+ out
+ um
+ the
+
+
+behavior
+ of
+ your
+ voice
+ agent
+ more
+
+
+closely.
+
+
+Um,
+ now
+ we're
+ off
+ to
+ the
+ more
+ exciting
+
+
+part,
+ even
+ more
+ exciting
+ part,
+ step
+
+
+three,
+ where
+ we
+ actually
+ create
+ our
+
+
+sales
+ agent.
+ So,
+ this
+ is
+ where
+
+
+everything
+ that
+ we've
+ just
+ talked
+ about,
+
+
+the
+ components,
+ and
+ we're
+ going
+ to
+ wire
+
+
+them
+ all
+ together
+ into
+ a
+ working
+ system.
+
+
+Um,
+ and
+ before
+ you
+ run
+ anything,
+ let's
+
+
+actually
+ walk
+ through
+ what
+ is
+ happening
+
+
+in
+ the
+ sales
+ agent
+ class.
+ So,
+ in
+ the
+
+
+code,
+ you
+ can
+ see
+ we
+ start
+ by
+ loading
+
+
+our
+ contacts
+ by
+ using
+ the
+ load
+ context
+
+
+function
+ we
+ defined
+ earlier.
+ And
+ this
+
+
+gives
+ us
+ our
+ agent
+ access
+ to
+ all
+ the
+
+
+product
+ information,
+ pricing,
+ and
+
+
+objection
+ handlers
+ that
+ we
+ set
+ up.
+
+
+Oh,
+ sorry.
+
+
+So,
+ and
+ finally,
+ I
+ want
+ to
+ look
+ at
+ how
+
+
+we're
+ implementing
+ everything
+ in
+ code
+ in
+
+
+terms
+ of
+ creating
+ the
+ actual
+ sales
+
+
+agent.
+ So
+ the
+ there's
+ way
+ more
+ of
+ the
+
+
+code
+ in
+ the
+ notebook,
+ but
+ as
+ a
+ high
+
+
+level
+ um
+ you
+ want
+ to
+ start
+ there's
+ kind
+
+
+of
+ four
+ components.
+ So
+ you
+ want
+ to
+ start
+
+
+by
+ you
+ know
+ telling
+ your
+ sales
+ agent
+
+
+your
+ voice
+ agent
+ communicating
+ um
+ your
+
+
+sales
+ agent
+ commun
+ communicating
+ by
+
+
+voice
+ um
+ and
+ give
+ it
+ proper
+ rules
+ like
+
+
+you
+ know
+ don't
+ use
+ bullet
+ points
+ because
+
+
+everything
+ is
+ spoken
+ aloud.
+ So
+ you
+ want
+
+
+to
+ do
+ um
+ a
+ bit
+ of
+ prompting
+ and
+ then
+
+
+most
+ importantly
+ only
+ use
+ information
+
+
+from
+ the
+ context
+ that
+ you
+ provided.
+ So
+
+
+you
+ want
+ to
+ make
+ be
+ very
+ careful
+
+
+especially
+ with
+ voice
+ agents
+ that
+ you
+
+
+are
+ not
+ allowing
+ um
+ that
+ you're
+ reducing
+
+
+the
+ risk
+ of
+ hallucinations
+ as
+ much
+ as
+
+
+possible.
+ And
+ then
+ the
+ super
+ call
+ is
+
+
+what's
+ initializing
+ our
+ agent
+ and
+ passes
+
+
+all
+ of
+ our
+ configurations
+ to
+ the
+ parent
+
+
+agent.
+ And
+ this
+ is
+ setting
+ up
+ our
+ agent
+
+
+with
+ the
+ LMC
+ TTS
+ VA
+ and
+ all
+ the
+
+
+instructions
+ working
+ together.
+ And
+ then
+
+
+the
+ last
+ thing
+ that
+ we're
+ going to
+ do
+ is
+
+
+we're
+ also
+ going
+ to
+ define
+ an
+ onenter
+
+
+method
+ which
+ is
+ what's
+ going
+ to
+ start
+
+
+the
+ actual
+ conversation.
+ So,
+ as
+ soon
+ as
+
+
+someone
+ joins
+ the
+ conversation
+ with
+ the
+
+
+agent,
+ instead
+ of
+ sitting
+ in
+ silence,
+ it
+
+
+immediately
+ um
+ or
+ this
+ is
+ triggered
+ as
+
+
+soon
+ as
+ someone
+ joins
+ the
+ conversation.
+
+
+So,
+ instead
+ of
+ ever
+ sitting
+ in
+ silence,
+
+
+you're
+ going
+ to
+ immediately
+ generate
+
+
+that
+ grading
+ um
+ and
+ the
+ good
+ salesperson
+
+
+will
+ help.
+
+
+Yeah.
+ And
+ then
+ we're
+ off
+ to
+ our
+ step
+
+
+four.
+ We're
+ actually
+ launching
+ a
+
+
+sequence
+ and
+ running
+ the
+ agent.
+ Um,
+
+
+think
+ of
+ this
+ entire
+ kind
+ of
+ uh
+ entry
+
+
+point
+ function
+ as
+ a
+ start
+ button
+ to
+ our
+
+
+agent.
+ And
+ when
+ someone
+ wants
+ to
+ have
+ a
+
+
+conversation,
+ obviously
+ it
+ kicks
+ off
+
+
+every
+ in
+ the
+ gear
+ and
+ gets
+ the
+ agent
+
+
+ready
+ to
+ talk.
+ So
+ this
+ entry
+ point
+
+
+function
+ is
+ doing
+ three
+ main
+ things.
+ So
+
+
+it's
+ connecting
+ the
+ agent
+ to
+ a
+ virtual
+
+
+room
+ where
+ the
+ conversation
+ will
+ happen.
+
+
+So
+ it's
+ like
+ dialing
+ into
+ a
+ conference
+
+
+call.
+ Um,
+ then
+ it's
+ going
+ to
+ create
+ an
+
+
+instance
+ of
+ our
+ sales
+ agent
+ with
+ the
+
+
+setup
+ that
+ we
+ just
+ configured.
+ And
+ so
+
+
+finally,
+ it's
+ going
+ to
+ start
+ a
+ session
+
+
+that
+ manages
+ the
+ back
+ and
+ forth
+
+
+conversations.
+ And
+ so
+ that
+ is
+ it
+ for
+ the
+
+
+basis
+ or
+ like
+ I
+ guess
+ the
+ main
+ framework
+
+
+for
+ how
+ you
+ would
+ set
+ up
+ a
+ sales
+ agent.
+
+
+But
+ to
+ make
+ this
+ project
+ a
+ little
+ more
+
+
+robust,
+ we're
+ actually
+ going
+ to
+ talk
+
+
+about
+ one
+ a
+ few
+ ways
+ that
+ you
+ can
+ expand
+
+
+your
+ sales
+ agent.
+ So
+
+
+here's
+ one
+ example.
+
+
+Yeah.
+ So
+ one
+ thing
+ you
+ can
+ do
+ um
+ to
+
+
+expand
+ our
+ single
+ agent
+ into
+ a
+ multi-
+
+
+aent
+ system
+ is
+ um
+ to
+ just
+ you
+ know
+ if
+
+
+someone
+ calls
+ asking
+ really
+ deep
+
+
+technical
+ questions
+ about
+ API
+
+
+integrations
+ you
+ really
+ want
+ them
+
+
+talking
+ to
+ your
+ best
+ technical
+ person
+
+
+and
+ not
+ just
+ your
+ spicing
+ pricing
+
+
+specialist.
+ Um
+ again
+ all
+ limbs
+ have
+
+
+limited
+ context
+ windows
+ which
+ means
+ that
+
+
+similar
+ to
+ people
+ they
+ have
+ limits
+ on
+
+
+the
+ amount
+ of
+ things
+ that
+ they
+ can
+
+
+actually
+ specialize.
+ Um
+ and
+ here
+ are
+ the
+
+
+three
+ other
+ agents
+ in
+ addition
+ to
+ that
+
+
+single
+ agent
+ that
+ um
+ the
+ the
+ starter
+ co
+
+
+has
+ just
+ helped
+ you
+ guys
+ run.
+ Um
+ three
+
+
+of
+ the
+ different
+ agents
+ that
+ we
+ propose
+
+
+in
+ this
+ case
+ are
+ um
+ greeting
+ agents
+ um
+
+
+our
+ main
+ sales
+ agent
+ who
+ qual
+ qualifies
+
+
+leads.
+ We
+ have a
+ technical
+ specialist
+
+
+agent
+ as
+ you
+ can
+ see
+ on
+ the
+ left
+ um
+ who
+
+
+are
+ obviously
+ specialized
+ in
+ sol
+ solving
+
+
+technical
+ issues
+ is
+ the
+ intent
+ and
+ then
+
+
+finally
+ we
+ have
+ the
+ pricing
+ specialist
+
+
+agent
+ on
+ the
+ right
+ which
+ handles
+ budget
+
+
+ROI
+ and
+ also
+ deal
+ negotiations.
+ So
+ the
+
+
+main
+ thing
+ that
+ you
+ want
+ to
+ think
+ about
+
+
+here
+ is
+ you
+ know
+ on
+ a
+ real
+ sales
+ team
+
+
+you
+ want
+ or
+ any
+ like
+ multi-
+ aent
+ system
+
+
+you
+ want
+ all
+ of
+ your
+ agents
+ to
+ be
+ able
+
+
+to
+ do
+ very
+ different
+ things.
+ And
+ so
+ one
+
+
+of
+ the
+ key
+ things
+ in
+ this
+ um
+
+
+implementation
+ is
+ that
+ we
+ have
+ a
+ um
+ is
+
+
+that
+ we
+ have
+ a
+ handoff.
+ So
+ our
+ greeting
+
+
+agent
+ is
+ what
+ figuring
+ out
+ what
+ the
+
+
+customer
+ actually
+ needs
+ and
+ then
+ being
+
+
+able
+ to
+ route
+ to
+ the
+ um
+ to
+ the
+ relevant
+
+
+sub
+ agent.
+
+
+And
+ the
+ code
+ for
+ all
+ of
+ these
+ different
+
+
+agents
+ is
+ fully
+ fleshed
+ out
+ in
+ the
+
+
+notebook
+ as
+ well.
+ And
+ then
+ the
+ last
+
+
+thing
+ of
+ course
+ is
+ you
+ can
+ is
+ adding
+
+
+tool
+ calling.
+ So
+ for
+ example
+ when
+
+
+someone
+ a
+ customer
+ asks
+ about
+ technical
+
+
+details
+ you
+ know
+ we
+ can
+ properly
+ route
+
+
+and
+ then
+ this
+ is
+ also
+ implemented
+ as
+
+
+well
+ in
+ the
+ code
+ notebook
+
+
+and
+ that
+ is
+ it.
+ So
+ thank
+ you
+ guys
+ so
+
+
+much
+ for
+ coming.
+ Um
+ all
+ again
+ all
+ of
+ the
+
+
+notebook
+ with
+ all
+ the
+ instructions
+ and
+
+
+the
+ step
+ by
+ step
+ is
+ in
+ the
+ notebook
+ that
+
+
+we're
+ provided
+ and
+ have
+ built.
+ Um
+ and
+
+
+we'll
+ be
+ up
+ here
+ to
+ answer
+ any
+ questions
+
+
+that
+ you
+ guys
+ might
+ have.
+ Thank
+ you
+
+
+guys.
+
+
+[applause]
+
+
+>> [music]
