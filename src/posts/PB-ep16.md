@@ -20,6 +20,7 @@ layout: post.njk
 products_models: []
 speaker: 破壁圆桌
 source: https://www.xiaoyuzhoufm.com/episode/696ca885109824f9e12006c4
+date : "2026-01-17"
 media_books:
   - "Small Is Beautiful"
   - "The Power of Now"
