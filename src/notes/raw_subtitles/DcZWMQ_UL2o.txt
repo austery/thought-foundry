@@ -1,0 +1,1900 @@
+By the way, I don't have a psychosis.
+I have a Claude complex.
+Why is everyone making that joke? Wait.
+Which joke? The psychosis joke.
+I thought you were going to be proud of me
+for saying Claude Complex.
+Oh, that is very good.
+I think I do one pun finally for Tracy,
+and I was over making that joke.
+Well, I was thinking that was a joke.
+I had to go.
+I finally make a pun,
+and you just jump right over it.
+Well, everyone keeps saying
+that Claude code is I psychosis for smart
+people, right? Like,
+how did that become addictive?
+Yeah. All right.
+But there's a good. Fun
+also very bro coded.
+I find.
+Hello and
+welcome to another episode of the Odd Lots
+podcast.
+I'm Joe Weisenthal
+And I'm Tracy
+Alloway. So, Tracy you're cool.
+Like, if I like,
+you know, just
+start doing this part time as I like,
+build out my software business.
+Right. Like you're cool about that.
+I was going to say I've been thinking
+about AI and productivity.
+And so far
+your productivity has gone down, Joe.
+So instead of doing all thoughts things,
+you're coding your own software.
+Except that I'm creating content
+for the Odd Lots
+newsletter about coding
+and that is productivity.
+A creative.
+Debatable. Debatable.
+But but you're cool with that.
+You're cool with like me.
+Like, oh,
+I'm just going to, like, check in part
+time on Odd Lots when we have a record.
+Well, oh. Of course not.
+Okay, good, good, good.
+That's the right answer. I want you to.
+I want you to be really sad.
+But like a few other people, you know,
+I have, like,
+caught the sort of, like, bug of, like,
+AI coding, and I'm totally blown away.
+I like, played with it from the beginning.
+I started playing around with it
+last year, but then over the holidays
+and I've been writing about this
+in the newsletter suddenly, like,
+my Twitter feed is like club code, plug
+code, plug code
+and you just cursor before
+which I was very impressed by at the time.
+And so when I got home from vacation,
+one of the first things I did
+is like, figure out
+how to install plug code on my computer.
+And I was like, oh, I am like hooked.
+And this is actually like,
+I see why I have my Twitter feed
+is just like people posting about this.
+All right.
+So I have to say,
+I have not tried it because I only have
+a work computer
+and I can't install new software.
+And I probably definitely cannot install
+new software that then makes changes
+to existing software.
+I don't think Bloomberg would like that.
+But I have seen the hype.
+Lots of people talking about it.
+Have you seen, Claude Co-work?
+Have you heard of. Oh, yeah. Yeah,
+yeah, yeah.
+So one of the criticisms of Claude Code
+was that, you know, like, okay, you code,
+but you still need some background
+knowledge and coding because,
+like, you know,
+the interface is kind of like.
+Is. And, and all of that or 1990s, co-work
+apparently, like, goes
+a step further for, for normal people,
+including it makes it super, super easy.
+And the funniest thing is that apparently
+Claude code actually coded.
+Yeah.
+So the so this is like really relates
+to my experience last year
+and then this year,
+which is that even last year,
+like trying to use the AI coding tools,
+it was an annoying process
+because there were various things
+that you had to do in the actual command
+line of the computer
+that were like, I didn't,
+I don't know, command line vernacular.
+And you have to like
+install these libraries and stuff.
+Yeah.
+So there was this sort of like barrier
+that existed and
+but what's the
+what's really changed in the last year
+or with the, with Claude code,
+which has actually been around for a while
+and I should have like played with it
+before is the like
+because it sits on your computer.
+It's sort of takes away in deeper access
+and so when you talk about.
+It, it actually does the stuff.
+It does.
+Is it just like,
+oh, it's like, oh, we're
+going to need to install this open source
+natural language processing library.
+It just does it automatically.
+Instead of me trying to like figure out
+like what are the right keystrokes
+to pull that in or
+why is this not going into the right file
+folder or whatever.
+And so like, like Co-work,
+it's like all, like all of these sort
+of like little friction,
+like these technical things like command
+line use are very rapidly
+are like dissipating.
+Yeah.
+And so that like then
+you have something like Co-work
+where it's just like they know
+they're taking care of that.
+And so you get this like user interface
+that's just like
+it's just getting easier and friendlier.
+There's almost no technical frictions
+at all anymore.
+Also, it feels very iterative,
+like the code is improving upon itself.
+Yeah.
+At this point I think that was
+one of Claude's main selling points.
+Well, this is like you've seen like people
+talk about like, oh, is AGI here?
+And this is like part of the debate
+because one of the ideas, I guess, behind
+AGI is like, well,
+what happens when you have software
+that can train itself and so forth?
+And I don't really know if I buy that,
+but you do just see, like how fast
+the iteration cycles are.
+And I think
+we want to get into this in part,
+they're fast because a bunch of people
+are suddenly getting excited,
+and then the human provides
+this sort of like
+we're sowing the seeds of our own demise
+because we're so enthusiastically
+participating in the evolution.
+But I just like it's suddenly clear, like,
+oh, this is going to change.
+I think computing.
+And the other thing is the code works
+like it creates code that like
+this is like
+there's no bugs. You know, it works.
+Did you
+see speaking of automating yourself?
+Yeah.
+See there was a post on Reddit
+from a lawyer who said he's basically used
+cloud code to automate, like,
+his entire job, and he hasn't told anyone.
+I'm not exactly surprised, because
+the other thing that I experimented with
+is, and I haven't 100% verified this,
+but on jobs day last week,
+I downloaded the full PDF
+and I just typed into the cloud code
+like find the most interesting details
+and make some charts based on.
+And it did it in like a couple of minutes.
+I have no like, ability.
+Like I've never like built charts myself
+and or whatever, or like designer
+or whatever.
+And I didn't totally confirm yet
+that the data was all correct,
+but I'm pretty sure it was
+because everything I spot, so I didn't.
+Just that crucial. Detail,
+I know I didn't.
+That's why I didn't want to like,
+oh, like, here's what, here's the here's
+jobs report and charts.
+But it might.
+But what application did
+it actually build it in the charts?
+I don't know.
+I just had a like that's the thing.
+I had a file on my computer at that
+point. What kind of file?
+Like a PNG file.
+Like an image file?
+Yeah, that's the crazy thing,
+I don't know.
+And so there was just this image
+that had a bunch of charts, and my spark
+chunks did suggest, like,
+I didn't see anything off.
+And people get paid money
+to, like, build that kind of stuff
+for, like,
+analysts and stuff like that. Right.
+So this is the other big question.
+If everyone can build their own software,
+what actually happens to software?
+And I was reading something.
+I forget who it was by,
+but someone used cloud code to create.
+They wanted a website that would basically
+make them money for doing nothing.
+And that was the prompt.
+And did they do? Yeah.
+So the idea that,
+the model came up with was
+you can sell
+prompts, packages of good prompts
+and sell them for like 40 bucks
+and you'll make tons of money.
+And I was thinking about that, like, okay,
+it's possible to make money that way.
+But also,
+why wouldn't I just use cloud code. To.
+Do the same thing?
+There are many big questions
+that we as an economy
+are going to have to think about.
+And I think my main takeaway
+is we're going to have to
+think about this sooner rather than later.
+But what is cloud code?
+Why is everyone so hyped about it?
+And what is it about this
+particular piece of software that versus
+what exists from OpenAI and Gemini
+and all this stuff?
+Like, why is this captured
+everyone's imagination?
+We really do have the perfect guys
+because it's someone who, unlike me,
+has been getting their hands dirty
+and this stuff for longer.
+One of the few people that I know
+who is into LMS before ChatGPT existed
+and was actually using them via
+the API, and was actually talking about
+their technical capacity to do things
+like coding even before November of 2022.
+So truly the perfect guys we're going
+to be speaking with Noah Brier.
+He's the co-founder of L'échec,
+a consultancy that helps big companies
+deal with AI stuff.
+So, Noah, thank you so much for coming
+on, and let's thank.
+You for having. Me. What's the deal?
+How are you like using lemons
+before chat, GPT existed?
+I don't know, I know
+very few people who were doing that.
+I had the good fortune
+of shutting down a startup in 2022,
+and so I had a lot of free time
+on my hands.
+And then how are you using it, though?
+Like how do you look at your like,
+how did you aware
+that there was this thing
+that could be of potential use to.
+So my very first thing I was doing
+was using GitHub copilot,
+which at the time was built into VS code
+and it was autocomplete inside VS code.
+So it was a nice and pretty immediately
+realized that there were certain
+coding tasks
+that it could just handle completely.
+Anything that was very pattern based.
+So if you write code,
+you write a lot of tests.
+If you write tests, every test
+kind of follows the same pattern
+and you want it to follow
+the same pattern, you're
+looking for that structure
+in and over time,
+because it was looking at your code base,
+it was able to basically autocomplete it.
+I also started playing with the GPT
+three API,
+which had come out,
+I think that came out in November of 2021,
+and that was the first time
+it was publicly available to everybody.
+And they had a large language model
+as we know it today, available to them.
+So I was just testing and building things,
+and I pretty immediately
+realized the very first thing I did
+where it just blew my mind,
+was I built a web scraper.
+So I was I was just trying
+to pull pricing data from a website.
+And I've done a lot of this in my career.
+It's maybe the most annoying task
+you have to do in all of coding,
+because HTML is the most miserable
+language to have to parse.
+And I just had this thing
+where I took the page, I took the content,
+I took the text, and I gave it to the AI,
+and I asked it to give me back
+the pricing table, and it gave me back
+the pricing table.
+And I just thought,
+I'll never do it the other way again.
+That's is that HTML mentioned?
+Just brought up like memories of me
+in like the mid-nineties on HTML.
+Good. Easy to remember that site.
+Yeah.
+I wonder if it's still is it still up?
+That would be wild.
+Does clawed code?
+Does that count as AGI?
+This seems to be the debate right?
+Is it AGI?
+I try not to wade into what's AGI
+and what's not.
+I think my guess on on AGI,
+for what it's worth, is that
+it's probably going to be a conversation
+like the Turing test,
+where everybody thought it was really,
+really important.
+For a really long time,
+we thought the Turing test
+was the biggest thing for 70 years
+or whatever.
+And then.
+ChatGPT
+very clearly passed the Turing test,
+and now everybody pretends like it's
+just that they forgot.
+They pretend that it never mattered.
+Oh, and so I am kind of
+guessing that that's going to be
+what the conversation is like.
+It's just going to be a sort of forever
+moving goalpost.
+Because it turns out that the idea we had
+for what
+general intelligence looks like
+is not quite that.
+But I also think, you know, the computer
+scientists and the sort of serious
+AI researchers would say that
+much of what's going on inside cloud
+code is not the model itself,
+it's the model paired with a human.
+And I think that is
+a pretty important distinction.
+But I don't know about AGI.
+Well, okay, so you were using, GPT to code
+prior to the release of ChatGPT.
+So therefore coding models
+have been around a long time.
+So what is for those who haven't played
+or played around with it.
+What is Claude code?
+Because again, coding models
+have been around for a long time.
+If people maybe have heard of cursor
+Copilot
+or some of these other harnesses, etc.,
+what is cloud code?
+So if we back up first
+and we go to copilot because so copilot
+was the first sort of commercial
+application of a large language model.
+By most accounts.
+And what copilot did in its initial
+instantiation was just.
+Auto some Microsoft. Product.
+It's a Microsoft product.
+So Microsoft owns GitHub, GitHub
+developer Copilot.
+It was Microsoft
+had the partnership with OpenAI.
+And so they built it in and what it was
+doing was doing autocomplete.
+So if you're writing code,
+a lot of writing code is boilerplate or
+trying to remember the name of a function.
+And, you know, the reason
+StackOverflow existed
+was because you can never remember
+the exact name of that function or,
+or the exact regex that you need to use
+in order to find and replace something.
+And so you would go search for it.
+And they realized that you could just
+build that into the IDE,
+your code editor and,
+and have it autocomplete for you.
+And it was pretty amazing. Yeah.
+Then,
+ChatGPT came out, and even before that,
+I had built a simple chat bot for myself
+because I realized that, hey,
+I could just ask this and instead of going
+and searching StackOverflow,
+it was totally capable
+of answering code questions,
+and it was capable of writing regex
+or doing these things.
+And did it make mistakes? Yes.
+But like there's famous mistakes
+on StackOverflow of incorrect regex
+that now exists
+in every codebase in the world.
+And so, you know, there were a lot of us
+just kind of playing with these things
+and realizing they were a huge boon.
+And so I think really
+the next step is Curser comes out.
+And the thing is to realize that copilot
+didn't was that it wasn't good enough
+to have autocomplete.
+You also needed the Q&A
+because you have these things
+that you can't just autocomplete.
+You want to be able to ask the question
+and answer it.
+And then ChatGPT came out
+and everybody was switching between idea.
+And then I think really the next big piece
+is that cloud code came out,
+and what Cloud Code did
+that was so remarkable
+was they took
+the same set of models, really.
+And they took them out of the chat bot
+and they really just gave it
+some very basic functionality
+to operate within your machine.
+Right.
+And so, you know, if you really look
+at kind of what exists within cloud code,
+you're calling out to a model
+and they gave it capability around
+sort of two big things.
+One is you can read
+and write files on your computer.
+And then two is that you can operate Unix.
+The, the base commands, the bash commands
+that exist in your environment.
+And again, because
+these models were trained on the internet
+and there's no greater
+source of information
+on the internet
+than how to make the internet,
+they know how to use Unix commands
+incredibly well.
+Right? Because Unix has existed
+for whatever it is 60 years.
+And the way these commands were designed,
+they're all designed to be very,
+very simple.
+There's a find command
+and, you know, there's a thing called grep
+and it can search to a code base.
+And Unix has this sort of beautiful way
+of tying one command to another
+so you can take the output of one command
+and send it to another.
+And they kind of just gave the model
+access to these 2 or 3 very simple things.
+And it kind of turned out that it unlocked
+a whole bunch of functionality
+that I don't think even the people
+who built it fully realized.
+Like one example that I think about a lot
+is just the challenge
+you have with all of these
+AI models is that they're stateless.
+So every time you talk to ChatGPT, it's
+sending your entire conversation history
+back to ChatGPT because it has no saved
+history of that chat.
+Right?
+And that's fine. It's the way it works.
+It just fact, but it means that,
+you know, it forgets things.
+It doesn't know conversation,
+a conversation and one
+very easy way to save
+your state is just write it to a file.
+And so
+you give it right access
+and it can create files.
+And now all of a sudden
+you've overcome this like probably
+the single biggest challenge
+that exists inside these large
+language models, which is that
+they're fundamentally stateless.
+So Claude writes itself
+little like memory notes, right,
+to to remember
+the entire context of the conversation.
+And that's how it solved that problem.
+No. So there's sort of two things
+going on in cloud code beneath the hood.
+There's one thing that works exactly
+like ChatGPT or any of these other ones,
+which is it's maintaining
+a conversation history.
+So every message you send it and every,
+action, it takes, it's recording to a log.
+Right.
+Which is just one big file that's really
+no different than what ChatGPT can do.
+Where it gets really interesting,
+though, is it can also write files
+that it can then read.
+So whereas that conversation
+history is all saved off
+and eventually
+that conversation gets too long
+and it needs to do a thing
+called compaction.
+And when it compacts it,
+it tries to sort of just remember the bits
+because there the total window is, is, is
+large.
+But I mean, it's like 100,000 tokens.
+So that's what I mean by memory
+notes. Right?
+It compacts the information
+into the important stuff.
+So it doesn't retrieve. It does that.
+It only does that at the end.
+Like once it runs out of space, okay.
+Once it runs out of context window.
+So it has 200,000 tokens,
+I think, and 200,000 tokens in rough
+terms is probably 150,000 words.
+It says, okay, it's
+time for me to compact all of this stuff.
+And so it still saves your whole history
+on your computer.
+You still have the entire message.
+But for that session, it just compacts it
+down to this, you know,
+maybe 25,000 token memory. 25.
+What it was. Yeah.
+And is this,
+like something that was not obvious
+before as a solution like this compaction.
+How important is it for this being like,
+okay, as a human, I can work on this
+on a project for a long time.
+Like how much of an unlock was there?
+I'm not sure compaction was the okay.
+I think the compaction
+functionality is helpful.
+Okay.
+The way ChatGPT does it for
+what it's worth is
+they don't do compaction,
+they just forget your messages eventually.
+So if you're in one chat,
+eventually your oldest message is going
+to fall off the back.
+For coding,
+that's probably less helpful,
+but there are trade offs.
+I have both techniques work.
+I think fundamentally
+the thing that is special about cloud
+code is not the compaction,
+it's the it's the ability
+to write and read files on your computer.
+Yeah. Which means
+you can always write off memories.
+And then what does that mean?
+Right off memory.
+So you could say, hey,
+I it's really important that
+I remember this thing for future sessions.
+I want to always work this way.
+So in a code base of mine,
+I have a set of documentation
+that explains how I like to do things,
+and cloud code makes a mistake.
+And so the next time
+I can write a memory, essentially
+it's written as a thing they call a skill.
+And you can write it off and you say, hey,
+whenever you run into this,
+I want you to operate in this kind of way.
+And that existing across every session
+is really a thing you can only do
+when you can store it as a file.
+Yeah, it's a thing you can't do in
+quite the same way when you're
+operating in this environment where it's
+just going back and forth to the API.
+So this access to the file system
+is one really big piece.
+And then the second is,
+is just the Unix commands, I mean
+computers, every computer program
+lives
+on top of the sort of baseline functions.
+And the way that the designers of Unix
+built them is really elegant
+and they're very small.
+They all do one thing
+and they're all composable.
+And in
+coding terms, composable means they can be
+they can be chained together.
+Right.
+And so you can say, hey,
+look for files that mention this word
+and then from those files,
+I want you to take this second action.
+And then from the output of that action,
+I want you to take a third action.
+And that's just built into Unix.
+You literally
+just put a little pipe in between
+and you just pipe them from one to another
+and, and that's it.
+And so
+you give it access
+to write these commands,
+and all of a sudden
+it gets these sort of second and third
+order effects
+that are just incredibly powerful
+and built over a really long time.
+So how much of Claude code,
+the way it's different to other models,
+how much of that was overcoming
+technological challenges versus
+like just having a good idea
+because hearing you describe it,
+I mean, giving access to a computer
+seems like kind of obvious.
+Like, let's, let's just do that.
+I don't have a good answer to that.
+I think that it was kind of
+just a good idea.
+Yeah. I think they did some patterns
+really well.
+They're clearly incredibly talented,
+not just engineers, but kind of thinkers
+about how to structure it.
+Like, the, the primitives inside
+called code are just smart.
+And then the thing that they've done
+and Boris Cherny, who's the,
+lead developer on cloud coded anthropic,
+he talks about, latent demand a lot.
+Right.
+And latent demand is basically just,
+hey, look at the ways people are using
+these systems and then figure out ways
+to make that a part of the product itself.
+I think what they've done brilliantly,
+and this is kind of easy when you have
+a community of developers who are nerds,
+who want to go talk about all the ways
+that they're using these things,
+is they have.
+I am amazed at the speed in which,
+you know, I have a small community
+of 15 CTOs
+who all use this stuff religiously.
+And, you know,
+when we first started that community,
+it took them a month to
+I would see it in the chat,
+and then a month later,
+it would get built into cloud code.
+And then increasingly like
+it's like a day later,
+it feels like they're just
+they're just listening to it.
+But I think they're just not only tapped
+in, but they're really fundamentally,
+you know, they're they're dog fooding.
+They use their own products
+when you, you know,
+they talk about the productivity
+engineering, productivity at anthropic.
+You know, despite growing at a crazy clip,
+it continues to go up.
+And, you know, anybody who's built
+had to manage large scale
+pieces of software, large scale
+codebases knows that's not the norm.
+So vs code and cursor, these are ideas.
+Cloud code is not an ID, it's a CLI.
+A clear command line interface.
+Got it.
+And the other labs
+now they also have close.
+So why are we all talk about cloud code
+and AI charging.
+Because users are called Codex.
+I don't know what Gemini's is called.
+I think it's just called the gem.
+Okay, so.
+Why are we all talk about cloud code
+rather than the other classes
+that kind of have the same thing?
+Like what is the difference?
+I think first and foremost
+they were first.
+Okay. So and I think they've
+they've had a lot more.
+And you know, from
+my very personal opinion, I think they've
+done some things smarter and better
+as far as the Permissioning models.
+So, you know, one of the really dangerous
+things is you've got this thing
+running on your computer.
+You don't want it to go
+and delete everything.
+Right?
+And, they have a very fine grained
+permissioning model
+where you can say, hey,
+I want to allow this just this one time.
+I want to always allow it.
+You know. I always click, always allow.
+I living on the edge.
+You can, you can, next time you run it,
+you can just do a flag
+that says dangerously skip permissions.
+And and it'll
+just, they call it yolo mode.
+I think
+I think more fundamentally, though,
+if I look at at Codex versus Cloud Code,
+I think it's, a difference
+in philosophy around what you want.
+AI to do.
+To me, Codex,
+which is excellent, is very focused on
+building an agent that you can just
+give something to and it'll just go do it.
+So I want to give it that task.
+I don't want to intercede.
+I don't want to give it any more feedback.
+And cloud code
+is much more designed
+to be, kind of a pair programmer.
+And so, you know, in engineering,
+pair programing has existed for a while.
+It's a really weird
+sort of productivity thing
+where you put two engineers
+on the same problem and it turns out
+that you can get better code and worse,
+multiply.
+Yeah.
+And it sort of makes up for the fact
+that obviously, you know, you're
+doubling the staff on it,
+but because of how many fewer bugs
+because you have both sets of eyes, it
+it has seemed to work out for many folks.
+Most companies don't practice it.
+But I think cloud code fundamentally
+is much more designed in that way.
+It's a pair programmer.
+It's, they, you know, whenever
+I start a project, I start in plan mode.
+So you start in plan mode,
+you put together a plan.
+I really I mean,
+I spend a lot of time in plan mode.
+You go through you,
+it gives you a plan back.
+It asks you how you feel.
+You can give it
+a whole bunch of direction,
+and then it's only then that it goes off
+and it goes into it.
+So, you know, we're working together
+and I actually have a whole system now
+that I've designed where,
+I use
+a task management system called linear.
+So I have quad code
+write tasks off to linear.
+And then I've worked, with cloud code
+to write a document that helps
+sort of decide
+a set of heuristics to decide
+when you should assign it to Codex versus
+when you should give it to cloud code.
+And so if it's tightly defined enough
+and simple enough,
+I just send it off to Codex.
+And it does it totally independently.
+And then if it's complicated enough
+that I think it requires
+my time and attention, then it
+it saves it for me, us to do together.
+And we'll work on it together.
+And so if it's, it's sort of touching,
+kind of important enough if it's changing
+some part of the data model,
+there's these other kind of,
+you know, fairly
+basic set of criteria that I use. And,
+but that
+to me is the fundamental distinction.
+And, you know, I find cloud code
+in that way to be just in it
+sort of fits what I want to do
+and how I want to work.
+Much better.
+Talk a little bit more
+about how it actually impacts the workflow
+of an engineer, because, you know,
+my impression was people can code, right?
+Like the coding problem
+is kind of solved at this point.
+And even if you can't code, even
+if you're not a professional engineer,
+you can hire someone from like India
+or Indonesia
+or wherever to just write you a code.
+Maybe it'll take them a week
+instead of like two days with cloud code.
+But how much does this actually change
+the workflow for an engineer?
+As completely as it could be changed.
+I mean, I would say that over
+the last three months
+I've written personally,
+I don't know, a few hundred lines of code,
+like, I, I am mostly
+a manager of a set of agents
+who are writing code on my behalf.
+And, you know, increasingly,
+what I think is interesting,
+I've been thinking about
+this bunch lately is like,
+in some ways, it's just bringing me back
+to the core challenge
+that has always existed in software
+development, which is how do you manage,
+large scale software development projects?
+Coordination. Right.
+It has become a coordination problem.
+And, and I spent a lot of time sort of now
+designing
+my cloud code system
+to ensure that code goes through
+all the proper checks
+and that it it has all these things.
+The other thing that, you know, makes code
+a particularly good place to do this
+is that code is verifiable in a way
+that, you know, most other work is not.
+So, you know, with code, you can verify
+that the build works, right?
+So you can say, hey, I want to build this,
+I want to build this package.
+I want to make sure
+that it's actually going to build
+and that there's not going to be
+no failures.
+That's a very easy check. It's
+either true or it's not true.
+There's also coders use linting.
+And so linting is a way to kind of
+look it's static code analysis.
+So it basically tries to sort of find,
+things in your code base
+that are not going to work ahead of time,
+where you can predict that obviously,
+you can't predict, Alan Turing, proved
+that you can't predict, with certainty
+whether code is going to run.
+But there are certain patterns
+and things that it can find.
+It's essentially does static pattern
+analysis.
+And, so, you know,
+you haven't run all these things, but,
+the more kind of opinionated
+you can be about that
+and the more steps
+you can have a go through.
+So I find, you know,
+now I'm kind of the designer,
+which honestly, as an entrepreneur
+and as a CEO of companies
+like that's kind of always been my job.
+Like I've been up not I have less and less
+been a person who writes code.
+And more and more
+I've been a person who designs
+a system, in that case, a company
+with a bunch of people who write code.
+One of the funny things it
+seems to me
+is that setting aside clawed code
+code itself has a reputation for.
+It's a nicer chat bot to talk to people,
+find it,
+you know, ChatGPT
+seems to really be sycophantic.
+I still think it's.
+I know it's improved, but I actually don't
+think it's improved enough.
+It's still.
+People like the prose style of,
+claw clawed.
+And I'm curious
+that in the pair trading, pair trading,
+I'm thinking about finance, the peer
+engineering model,
+whether there is also an edge there,
+which is like here is a chat bot
+that is not annoying to talk
+to while you're iterating,
+and whether that is like a meaningful
+distinction between,
+you know, coding with Codex or whatever.
+Yeah, I, I don't know, I it still can be
+very annoying, I can tell you.
+And it'll still sometimes, be overly,
+overly
+effusive with me about a design choice
+I made or sort of noticed something,
+which I could live without.
+I so I'm working on this project
+that's, doing this linguistic things,
+and I eventually had to say, like,
+give it to me straight.
+How bad is this?
+And then so I said, I said, actually,
+what I said was and assume
+for a moment that you are
+a quantitative linguistics for the PhD.
+Give me your honest assessment
+of where we are with this.
+And it said, like you've developed
+a nice toy and there's no evidence
+that it actually does.
+And I was like, okay, that's nice to hear.
+I actually like I,
+you know, I appreciate that.
+And it was like a very blunt,
+no, you know, it's still like polite,
+but it was like, this does it
+you do have a really showing anything
+you haven't really established at all
+that your software does what it claims to.
+Yeah, I think so.
+I think stylistically
+I kind of personally agree.
+I my theory,
+by the way on on Claude versus
+OpenAI ChatGPT models is
+I think Claude is actually better
+at sort of reflecting what you give it.
+And so I think part of why we think
+it's better is it
+it's better at pretending it's us.
+Yeah.
+And so we tend to like that is
+this is purely, speculation.
+But that's always been my theory on.
+On to flatters you in a different. Way.
+I think it's flattering you in a much.
+More subtle way. Yeah. Interesting.
+But, for a long time, just,
+anthropic has been producing
+the best coding models, you know?
+I mean, there's
+there can be some debate there now, but,
+you know, there's a great story
+from cursor, actually,
+where cursor basically wasn't that good.
+And then sonnet 3.5 came out
+and all of a sudden
+cursor was amazing and cursor became
+a tool that everybody started using.
+But it wasn't
+until this other model came out
+and they made that the default model.
+And, you know, I for what it's worth,
+I think the other takeaway from that,
+which is a kind of big theme
+we see in the market, is the thing that,
+the Cloud Code team has talked about is,
+you just constantly
+have to be building ahead with AI in a way
+that is very unique
+in the world of software,
+where you kind of always want to build
+things that are working at like 70 or 80%,
+because if you really spend the time
+to get it up to 90 or 100,
+you're going to lose all the gains you get
+when the next model comes out.
+And the, you know, with the amount
+of CapEx being spent at these models,
+like there's a next model
+that's going to come out,
+that's going to be awesome,
+and you just kind of
+want to be downstream from that,
+and you don't want to waste six months
+getting an extra 3% when that new model
+is going to give you an extra seven.
+Yeah.
+This is the only certainty with
+AI is like, there's always going to be
+a new model.
+It's the worst model ever used
+is the one that we're using.
+That's right, that's right.
+Are we all going
+to become coding illiterate?
+Are we just going to forget how to code
+if everyone's using, you know,
+general language. To forget
+I never learned.
+Yeah, okay. You know what
+I've been thinking about? You know that,
+Scott Karp, the, CEO of Palantir.
+He has that line. He's like,
+when I was young,
+I was too poor to have a car or so
+I didn't get a.
+So I never learned to drive.
+And now I'm too rich.
+So I never learned to drive.
+I feel like when I was young,
+I was too dumb to learn to code.
+And now. You leaped. Ahead.
+Yeah.
+No, I'm too smart to learn Python
+or HTML or whatever.
+I have a couple of takes on this one
+personally.
+So, the first one is I just think like
+this is the worry of all technology ever.
+There was a paper that came out
+that showed that people were,
+you know, they were forgetting
+more things or something
+because they were
+using ChatGPT. But, you know,
+in Phaedrus, Plato was worried
+that people were going to forget things
+because they started writing things down.
+And, you know, I think the trade off
+there was pretty good.
+We got this scientific revolution,
+a couple other things. So,
+you know, I think that's
+the sort of natural kneejerk.
+With that said, it is
+I it's very strange when you have people,
+you know, the Cloud code team is talking
+about how little code they write.
+Now, I draw a distinction
+in between the sort of vibe coding
+and the kind of amateur people
+who have never written code.
+And I think that is amazing, by the way.
+And I think, there's a lot of software
+developers who are really mad about that,
+because they're, they, they claim
+it's for safety reasons or whatever.
+But I think fundamentally it's just
+they've got people on their turf.
+But I think that's incredible.
+I mean, my, I, my, my nine year
+old, vibe coded a website.
+Oh, wow. And, for secrets. Santa.
+She's now ten.
+She would get mad at me
+if I called her nine,
+but I think she got it when she was nine.
+But, that that's awesome, right?
+I don't know, that's amazing.
+That's a way for people
+to express themselves
+in a way that they couldn't before.
+You did your your linguistics project.
+That's that's fun and interesting.
+But yeah, I, I also think the other the,
+the thing that's happening
+with professional software developers,
+when you hear from anthropic
+or you know what I'm talking about, it's,
+you know,
+the code is going through this process
+and, you know,
+all the code
+still gets reviewed by people.
+We're not letting it get out the door
+if it's not at the same level as human.
+And it's just
+but what's amazing is I'm, I'm running
+five of these sessions at a time.
+Right.
+And so I've got like,
+software being developed in parallel
+in a way that is unimaginable.
+And, you know, the other thing is just,
+now the best software engineers
+wrote the least code.
+Anyway,
+you know, the sort of classic story of,
+like,
+the difference between a junior developer
+and or senior developer is that a junior
+developer gets a problem and they sit down
+and they put their fingers on the keyboard
+and they start writing code.
+And, senior developer gets a problem
+and sits there for three hours
+and tries to figure out
+what the best way to solve it is,
+and then spends five minutes
+writing code to get it done.
+True elegance is restraint.
+That's what I say.
+What are you seeing in the companies
+you're working for?
+Like, I find it hard to believe,
+and I was maybe skeptical of this,
+but it feels like right now
+we're here with technology.
+We're like,
+if I were like, companies like,
+like I said,
+you can build a charts of data
+in a way that used to be like
+someone would have had to get their hands
+dirty or etc.
+in the companies that you talk to
+is right now this having an effect
+on how they think about
+what positions they're hiring for
+and the skills they're looking for
+and so forth.
+I think that
+it's hard to answer right there.
+I think that certainly,
+I do think, I personally think
+if I look at the sort of layoffs
+in the technology industry
+over the last couple of years,
+I think some part of that is just looking
+at the output of these models
+and saying, hey,
+these models are able to produce it,
+you know, the median.
+And I have a whole bunch
+of sort of middle managers
+who are producing at the 65th percentile.
+And it's like, I can produce median
+for $1.50 per million tokens, or
+I can produce 65th percentile for however
+many hundreds of thousand dollars a year.
+It's a sort of fairly simple trade off.
+I think.
+So I do think there's
+a lot of downstream effects.
+I think the other thing that's happening
+is, is kind of like middle
+management is under threat
+because it's the realization that, hey,
+like part of what these models
+are amazing at is, is,
+I think of them as like a fuzzy interface.
+They can sort of turn
+any data into any other data, right?
+You can sort of transform data
+from one format to another.
+You can take a PDF
+and you can turn it into charts. Right.
+And there's whole people who exist.
+Or, you know,
+if you think about what product managers
+do, a lot of what product managers do
+is they take
+how people are using a product
+and they try to transform it into a,
+format that engineers can
+then use to figure out what to do.
+And I think a lot of those kind of,
+a lot of those pieces that
+used to just be kind
+of transferring knowledge.
+I've always said, Tracy,
+I think one of the most important roles
+in any organization
+is essentially translation work.
+And you see it in the newsroom
+where it's like, here is a team
+specialized in emerging market currencies,
+and then they have to like
+they have to then tell the senior editors
+what they're working on.
+But the senior editors who are maybe
+more generalist don't really know, like,
+why like some sort of like, you know, one.
+Yeah.
+And Carrie is important
+and that a really important role within
+any organization is essentially the,
+the team that can translate between
+the generalist team and the specialist.
+Absolutely.
+And so I that's an interesting observation
+in the sort of engineering
+world is like, okay, these are tools
+that are in some sense translation tool.
+So we talked to
+I agree completely by the way,
+but we talked about vibe coding.
+And Joe has this application, that
+I don't think you're looking to monetize.
+No, I'm just trying to make it
+for the good of the world.
+Right. Okay.
+When did that become a common,
+What did.
+But like this opens up massive questions
+for software as a service, right.
+For SAS.
+Because if everyone
+can write their own software,
+you can replicate anything that's out
+there that is currently charging money.
+What's going to happen to software?
+I think software is pretty screwed.
+A lot of it at least.
+Not all of it.
+You know,
+you still, depends on whether you call
+that cloud provider software or not.
+You know, you still need to run this stuff
+somewhere.
+And I think there's, there's certain
+kinds of software that,
+you know, you just don't really want to be
+in the business of writing.
+You know, I, as someone who's tried
+to build a project management
+system, I'd really rather.
+I don't think anybody
+should be in that business.
+But I do think
+fundamentally, I mean, we see this
+every day inside enterprises.
+The the sort of build versus buy
+pendulum has just swung.
+And, you know, I mean, I used to run
+a SAS company and we sold to enterprises
+and, you know, for a long time that, that
+I think that made a lot of sense, right?
+Because like, hey,
+it just didn't make sense
+to try to build this thing on your own.
+And so but the price of that was,
+you know, won the price, right?
+Like,
+and it got to be more and more expensive.
+The other price was that you were paying
+for a lot of stuff you didn't need.
+Right?
+Because the whole job of building SAS is
+you need to generalize problems
+and say you build things
+that are going to work for everybody,
+and that means either
+you have to sort of adapt
+or you have to build this sort
+of very configurable, software.
+And I think and
+what I see just, you know,
+firsthand is that,
+inside these organizations,
+you can now solve
+very specific problems
+that are highly valuable.
+And not only can you solve them
+better than generic software,
+but you can actually, in a lot of ways,
+do it for less money
+because you're trying to tackle
+less stuff.
+You didn't need the 16
+other features you bought it for, the one
+that you really, really cared about.
+And so, I think that part of it, you know,
+I don't like there's,
+I definitely think there are pieces
+of the software industry
+that are going to,
+you know, come out the other side.
+You're going to
+nobody wants to deal with payroll, right?
+Like, you know,
+somebody, you're still going to buy
+some payroll software
+and you're still going to have that.
+But, you know,
+I do think there are a lot of pieces
+where the software existed essentially
+as a kind of wrapper around a database.
+And now you're just going to, you know,
+with just the database, you can do that.
+And then, you know, the other piece
+I'd say here is it's this is not this is
+a kind of confluence of circumstances
+where it's not just the coding, it's
+also the fact that you have AI
+to do a whole bunch of work.
+So, you know, if we pick on CRM
+for a second, right, like, you know.
+Salesforce.com.
+Salesforce.com, we can, you know,
+you look at what the interface of that is.
+And essentially it has existed
+to get salespeople to take unstructured
+data, which is sales meetings,
+and turn it into structured data that so
+it can be stored in a database
+and now you have AI.
+And AI is very capable
+of taking unstructured data
+directly from the source.
+So you have people recording meetings
+and then it can structured
+into any data that you want.
+This is one of the very first sort of mind
+blowing moments I had was
+that I could give it,
+Json interface.
+I could describe exactly what I wanted
+the data structure to be,
+and it would give me back that information
+in that data structure.
+And we've just basically been having
+a bunch of humans
+do that work for a very long time,
+whether it's in CRM
+or project management
+or any of these other places,
+and the ability to just kind of
+get rid of that whole thing.
+I think it really does bring into question
+the value of a lot of these software
+companies.
+Well,
+so we have seen like a lot of software
+stocks, they look like melting ice cubes
+right now.
+Maybe the so what I want to talk
+I mean this is like
+you know, our listeners who are investors,
+there's a pretty high stakes question
+of like what residual value there is.
+But talk a little bit
+more about Salesforce.
+Maybe this should be a time
+to learn about what it actually does
+as it's massively being disrupted.
+Now we get around to learning
+what Salesforce is.
+But I know it's like many things,
+there are apps
+that people built on to Salesforce,
+but this sounds like we're hitting on one.
+I think
+probably one of the crucial questions
+for like the future
+of the software industry.
+So talk a little bit
+more about like the current approach
+and what people are buying
+when they buy a package or subscribe
+to a service from Salesforce.
+And then what
+the unlock opportunity is from having,
+I like, live in the same world
+as all your files.
+Yeah.
+So I think if you if we take CRM
+as a general category, say,
+you know, the biggest players there are.
+That's customer relationship.
+Customer relationship management,
+that's like where
+you know Salesforce does it, SAP does
+it, HubSpot does it for the mid-market.
+You know, when I think about that product
+and I think about the way we've used it
+inside enterprise
+sales organizations, essentially,
+you know, it's a database of companies.
+It's a database of contacts.
+It's a database of deals
+you have in the pipeline,
+and it's a way to track all those deals
+you guys hit on something before
+that I think is is really it,
+which is like inside companies.
+There is a huge group of people
+and who exists to answer
+the question from management
+of what is the status of something.
+Right.
+And you know, that can be sales
+management, it can be product management.
+It doesn't matter. Right?
+It could be within a newsroom.
+Somebody wants to know what the status is
+and somebody else exists
+to go figure out what the answer
+to that question is.
+And so fundamentally,
+I think those CRM tools
+are bought first and foremost to answer
+what is the status, right?
+What's my pipeline look like?
+And to answer
+what your pipeline looks like,
+you need a bunch of salespeople
+putting deals in.
+And those deals are associated
+with contacts and companies,
+and they say,
+when is that deal going to close?
+And and essentially you were asking
+the salespeople to make the updates
+in the system to do that. And
+just very tactically, I mean, you know,
+I run a company now, we talk to a lot of
+we have a lot of sales calls.
+We record those calls
+and they get transcribed.
+And the AI then looks through them
+and makes decisions
+about where
+this deal should be in the process.
+And it's much better than having somebody
+try to go update it,
+because those people never updated.
+Anyway, the secret of all of this
+enterprise software
+is that nobody was using it
+the way that anybody wanted to anyway.
+And so, you know,
+I think that that is sort of,
+you know, a lot of what's happening there.
+Again, it's sort of
+some of it's the coding,
+some of it's just the core capabilities.
+And then, you know,
+you still need databases, right?
+So it's like, you know,
+you look at what Databricks and Snowflake
+and, you know, I think those folks
+are still sort of genuinely sitting
+in a pretty good place where, you know,
+all software has to sit on, sort of
+on top of some database
+that you can sort of read and write to.
+But, you know,
+I think some of those categories that were
+specifically focused
+on kind of like human input.
+Now, of course,
+you know, Salesforce has a whole AI thing
+and they're saying, hey,
+you shouldn't have humans
+inputting in Salesforce, you know, to at
+sales is just one small piece.
+I have a whole customer support thing,
+which obviously also has
+an interesting implication where you know,
+you're doing support with AI agents.
+And so some of it comes back to seeds.
+I mean, you know, it gets to be fairly
+complicated, but I do think
+I think the fundamental underlying thing
+is anybody who buys software
+that is, you know, SAS,
+you're always buying for a subset
+of the functionality that there's nobody
+is using 100% of the functionality of SAS.
+And so there's always a trade off
+that's happening there where, you know,
+you're spending more money
+than you need to
+because
+you're not using all of these pieces.
+And so, you know,
+if you can more narrowly focus that,
+that is where you could say, hey, we could
+solve this kind of more narrow problem.
+And not only can
+we solve it more narrowly,
+we can solve it way more effectively.
+Because, you know, the trick with AI
+is that the more specific
+you are with it, the better
+the output is, right?
+So it's like if you know,
+if outside of coding,
+if you just asked ChatGPT to write you
+a story, it's going to write you a very,
+very median story.
+Right? Sort of exactly the median.
+But if you work with it and you, you know,
+then you're going to get it.
+The more of your own expertise
+you imbuing it,
+the further up above the median it's
+going to be.
+And it's going to be, you know,
+of course, that also means it's less
+where the line is between
+what's AI and what's not.
+AI is going to continue to get blurrier.
+Joe, how much does cloud code
+actually cost?
+Do you know?
+Well, I paid for the,
+200 or $200 a month version, but,
+like high roller.
+Yeah. No, but, you know, I think it's.
+You could get it
+with the pro version of like,
+or whatever
+the, the version of that below $20.
+But I hit a limit fairly quickly and
+I was like, I didn't have my website up.
+So like and then I bought the fact.
+Then I paid $5 for the extra compute
+and I was like, this is dumb.
+I think I'll just.
+Yeah. Oh, okay.
+So we going out to two nice dinners,
+right?
+That's not
+you know, when I think about that way,
+it doesn't seem that big of a deal. It's
+worth it to you. Yeah. Okay.
+So I think we can all agree
+this is like a valuable service
+that cloud code is providing.
+But we touched on this in the intro.
+It seems like the models
+just keep replicating themselves really,
+really quickly.
+So anything that cloud code can do,
+I would expect another model
+will come in in like a month,
+maybe less, and do the exact same thing.
+What does that mean for the actual
+like valuations of these companies
+and the models like how are they going
+to monetize it when it seems so difficult
+to actually differentiate yourself,
+especially
+for like a substantial portion of time?
+Yeah.
+Well, so again here,
+I think we have to distinguish
+between cloud code and the cloud model.
+So in Cloud Code's case,
+if you're using, you know the latest
+version, you're using opus 4.5
+which is the model.
+Opus 4.5 has a price of,
+you know, something in the dollar, 50
+to $2 for a million input tokens
+and whatever it is on the output,
+which is like roughly
+the going rate for cutting edge models.
+Gemini three Pro is the same price.
+OpenAI, ChatGPT 5.2 is there.
+They're all the same price.
+So the first thing is, is
+you have to differentiate between those.
+And so I think a big part of
+what anthropic is trying to do
+is they're trying to lock people
+into cloud code.
+In fact,
+there's just some, controversy amongst
+some nerds, where, open code,
+which is a competitor to cloud Code,
+used to let you use your cloud Max $200.
+So the trick with the cloud
+Max plan is if you're just buying those,
+that number of tokens, it would cost
+you significantly more than $200.
+It is a super, super discounted plan.
+You are probably you have the access
+I have the access to use,
+I would guess in the
+thousand or $2,000 of tokens,
+for my $200 a month.
+So it's it's a very, very heavily
+subsidized plan and open code,
+which is an open source version
+of cloud code, a sort of competitor.
+They had found a way that they would let
+you use your cloud
+Max plan
+with open code and anthropic last week.
+Shut that down. Yeah.
+And some open code, people got very upset,
+because they
+said, like, this is not
+what you're supposed to do, or.
+I mean, I'm
+not sure exactly what they said.
+I never felt like I got
+a particularly good argument out of it.
+But, you know,
+I do think part of what they're
+trying to get at, because is
+that, you know, at the very top models
+like these are
+all amazing, like the Google,
+OpenAI and anthropic,
+their best models are all on par
+with each other.
+I mean,
+I would move them around a little bit.
+I still think opus
+4.5 is the best model out there.
+But you know,
+I mean that might change tomorrow.
+Like, and that's where something like
+Cloud Code is really interesting
+because it's a, a product
+that is very it's just theirs.
+It's not it's a piece of software.
+It's not an AI model.
+And so it's sort of it's
+less able to be disrupted.
+Now, again, I think
+if somebody else wanted to copy that.
+Exactly, they could.
+Codex has one, Gemini has one.
+I just think they take a very different
+tact with it where it's much less.
+And so,
+you know,
+I think what they're trying to do
+is get developers like me
+to feel very comfortable inside that,
+so that when we go open, I still open
+Codex or try Gemini or I was playing with
+open Code the other day and,
+it just doesn't feel familiar
+in the same way that, you know, if you're
+trying to move somebody from a PC
+to a mac, it doesn't feel familiar, right?
+They want to own like the ecosystem, the.
+Environment. The environment.
+Work on One world.
+Noah,
+thank you so much for coming on Atlas.
+I was like dying to do an episode
+about this topic.
+By the way, I don't have I psychosis,
+I have a cloud complex.
+Why is everyone making that joke? Wait.
+Which joke? The psychosis joke.
+I thought you're going to be proud of me
+for saying cloud complex. Oh.
+Oh, that is very good.
+I it's like I do one pun
+finally for Tracy.
+No, it's like,
+well, I was over making that joke.
+Well, I was thinking that was a joke.
+I was handed a shirt.
+I finally make a pun
+and you just jump right over it.
+Well, everyone keeps saying
+that cloud code is AI psychosis
+for smart people, right?
+Like, how did that become a thing?
+Yeah. All right.
+But there's a good. Fun
+also very bro coded I find.
+You think so all of. AI is bro coded.
+This is true.
+We should talk more about this.
+You know, we should have David Shaw on.
+He's been doing a lot of polling
+about various demographics
+and how they feel about AI.
+We should, And, yeah, some interesting I.
+See into that.
+Yeah, we should, do that.
+Anyway, Noah,
+thank you so much for coming on out, love.
+Thanks for having me.
+Well, that was fun. Tracy.
+I really like I.
+It's obvious
+to anyone who's been within five minutes,
+five feet of me for the last two weeks.
+I'm like, totally addicted and gone down.
+I never gone down the rabbit
+hole and stuff.
+But like, I for the first time
+unironically, I'm like, okay,
+this is transformative technology
+beyond being very impressive.
+Technology, right?
+So I've been coming to a conclusion,
+which is that, you know,
+I can be both under hyped,
+and overvalued simultaneously.
+Like, I feel like that's kind of
+where we are at the moment, where.
+You're making your stock call.
+Yeah. No, but seriously like it.
+It's a big deal.
+It's going to change the way we work.
+But is it monetizable?
+Can you differentiate the actual models?
+The better
+the technology gets, like, the easier
+it is
+to just do what everyone else is doing.
+And also like
+the compute gets cheaper and cheaper.
+So I just don't know how you monetize
+this. Well.
+So that's very interesting.
+His point, which is that it's
+the tokens are heavily subsidized still.
+Yeah.
+And so that if you're paying
+and actually using that $200 max program
+and you actually use it to the limit,
+Claude is going to lose money on this.
+Right? And then the prices keep dropping.
+And I know, like Claude code is okay.
+They're attempting to create something
+that resembles a traditional software
+ecosystem that you feel as a user
+that you're locked into.
+But so far in my various
+like since November 2022,
+when I started playing with AI,
+it hasn't felt like anyone has established
+lock in with anything.
+And it's very,
+it's very movable.
+And I suspect even though I have this file
+now on my desktop
+that has a file called Claude mode
+that gives instructions, etc.,
+I'm certain that if I open this file
+with Codex or Googles,
+I could probably just pick it up the same.
+Yeah.
+I also think there's a fundamental issue
+with the lock in strategy,
+because when you're talking
+about technology in the internet, like
+it just feels very against the grain
+to try to lock people into anything.
+And we've seen various projects
+over the years
+and it's it's a lot harder than it looks.
+Yeah.
+I mean, I guess I would say
+it's a lot harder than it looks.
+But then we also know the flip side,
+which is that tons of people are locked
+into software that they hate. Right?
+Yeah. People are.
+Oh, I hate people.
+How many times have you or
+I hate outlook, right?
+Or I hate Microsoft Teams and I hate this
+and I spend money on it every month
+and my organization can't move off of it
+or we can't migrate off of it.
+So I do think that cuts both ways.
+I do think he offered the best explanation
+I've heard of why
+the AI coding models are a threat to a lot
+of pretty big software businesses,
+especially, especially the point
+about how the user never uses
+all of the features that they actually
+that the software got built for.
+And therefore maybe the build versus
+buy calculation really starts to shift
+when they can just design that one feature
+very quickly.
+I totally agree.
+On the software side,
+it seems like an existential threat, but
+just like the locked in ecosystem
+of a particular model.
+I know he said it's not actually a model,
+but that seems like a bigger issue to me.
+I don't know, I guess we'll see.
+We're going to see and I don't know,
+I kind of think we're gonna see quickly.
+Yeah.
+That's again, that's the only certainty is
+like, stuff is happening.
+Stuff is. Happening now. Yeah.
+All right. Shall we leave it
+there? Let's leave it there.
+Okay.
+This has been another episode
+of the Odd Lots podcast.
+I'm Tracy Alloway.
+You can follow me @tracyalloway
+And I'm Joe Weisenthal.
+You can follow me @thestalwart
+Follow our guest Noah Brier.
+He's @Heyitsnoah
+Follow our producers Carmen Rodriguez
+@carmenarmen,
+Dashiel Bennett @dashbot
+and Cale Brooks @calebrooks
+And for more Odd Lots content,
+and to see what Joe has actually
+been working on in Cloud Code,
+check out our daily newsletter.
+You can find that at bloomberg.com.
+Forward slash Odd Lots.
+And you can join
+fellow listeners in conversation
+24 seven in our discord,
+discord.GG slash Odd Lots.
+And if you enjoyed this conversation,
+if you like it when we talk about AI,
+then please leave a comment
+or like the video.
+Or better yet, subscribe.
+Thanks for watching.
