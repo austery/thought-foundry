@@ -1,0 +1,824 @@
+This is a video of light traveling through 
+a bottle at 250 billion frames per second. 
+And here's that same video. 
+But now with the camera moving. 
+You can see it sweeps across the scene 
+faster than the laser pulse itself, 
+which means this camera must be 
+traveling faster than light. 
+So how is this possible? 
+Well, in this video, I wanna show you 
+three unusual ways of stopping time 
+and what you can see if 
+you just keep slowing down.
+From a century old technique that 
+still beats modern slow-mo cameras,
+ as all the way to a massive 
+quadrillion frames per second camera 
+that captures electrons 
+whizzing around molecules. 
+By the 1920s, electric motors were the new 
+standard for powering factories and mills, 
+but many of these motors also came with a flaw. 
+They were sensitive to fluctuations 
+in the electrical grid. 
+A power surge, like from a lightning 
+strike made them behave unpredictably. 
+So one MIT engineer named Harold "Doc' 
+Edgerton, set out to find a solution. 
+He had a setup that could induce these power 
+surges in a lab, but no matter what he tried, 
+Edgerton just couldn't see what was 
+going on with the motors because the  
+machines would spin too fast 
+for the human eye to see. 
+And cameras at the time offered no help. 
+Their exposure times were too slow,  
+so any photograph of a running 
+motor would come out blurry. 
+But one day, Edgerton noticed that 
+every time he triggered a power surge,  
+his equipment gave off a bright flash of light. 
+And when that flash hit the motor,  
+the moving parts appeared to stand 
+perfectly still as if frozen in time, 
+which gave him an idea. 
+He could turn off all the lights in the room, 
+set up a camera, and leave the shutter open. 
+And since there was no light, no 
+image would form on the film. 
+But then if he could illuminate the motor 
+with a very brief and very bright flash,  
+like the ones his equipment gave off, 
+well then he would get a sharp photograph. 
+All Edgerton needed was a way to 
+reliably create these flashes. 
+So he started by using a high voltage 
+power source to load electrons onto a  
+capacitor where they piled 
+up onto one of the plates. 
+But because there was an insulator 
+slotted between the two sides,  
+the electrons couldn't just jump to the 
+positive side to balance out the charges. 
+The only way for them to get there would be 
+to travel through the rest of the circuit. 
+And the circuit was intentionally designed so 
+that electrons would have to cross a glass tube 
+filled with a non conducting 
+gas like argon or xenon. 
+On their own they would not have 
+the energy to get through that gas. 
+So Edgerton added a trigger that sent a  
+high voltage pulse through a 
+wire wrapped around the tube
+and the electric field from that pulse would rip 
+electrons off the gas atoms inside the chamber,  
+ionizing the gas and turning it into a conductor. 
+In that instant, the charge stored in 
+the capacitor would surge through heating  
+the gas to around 10,000 Kelvin, nearly 
+twice as hot as the surface of the Sun. 
+This would produce a very bright, very brief 
+flash of light lasting just 10 microseconds. 
+Then the electrons would recombine with the  
+gas atoms stopping the current and 
+the circuit would go dark again. 
+This was Edgerton's strobe. 
+By the early 1930s, he was eager 
+to test it outside the lab,  
+so he packed up a strobe and 
+hit the road with his wife. 
+When he saw a random factory, he 
+pulled over, got inside the nearest  
+phone booth and called up the factory's 
+president and asked him something like: 
+"Do you happen to have any 
+motors in there that don't  
+work right? I'd like to show you something." 
+More often than not, he ended up inside setting 
+up the strobe next to one of the motors. 
+The workers would watch as 
+Edgerton froze the motor in time,  
+allowing them to take sharp 
+pictures of the gears in motion.
+Edgerton isn't the first to make a 
+strobe. Rather he took new bits of  
+technology that existed so he 
+could make a better strobe. 
+A strobe that was brighter, shorter flash 
+duration. But he was not unique in that. 
+There were lots of electrical engineers in the 
+world at that time who could have done that.
+No, what Edgerton uniquely brought to 
+the table was his eye for photography.
+He took photos of synchronous motors,  
+and I think in part because he just 
+thought synchronous motors were cool. 
+One day he showed his wife the 300th photo 
+of a synchronous motor. And she said, 
+"Harold, can't you take a picture of 
+something a little more interesting?"
+And so he did. 
+Tennis balls, pancaked against the 
+racket, hummingbirds frozen in time.
+He was one of the first to really 
+start using strobes to communicate
+what's happening at these 
+timescales we can't see. 
+He would do this through like "Life 
+Magazine," "National Geographic, magazines. 
+These magazines in the '30's, '40's,  
+were essentially the social 
+media influencers of the day.
+He just had this eye for composition.
+Most of these pictures were 
+taken in the 1930s and yeah,  
+it seems easy enough to swing a racket and it's 
+easy enough to press a button on the strobe, 
+but how do you time the strobe to go off 
+exactly as the racket hits the tennis ball?
+That is the million dollar question, right? 
+You have a strobe that turns on and off and 
+half a millionth of the second, that's nice. 
+How do you get it to go off to the right half  
+millionth of the second? 'Cause 
+there are a lot of them right? 
+And the answer is we use sound.
+So we're gonna try and recreate 
+one of Edgerton's photos,  
+popping a balloon and freezing it in time. 
+Is it okay if we walk through the setup?
+I think that would make perfect sense. 
+Why don't you blow up a balloon. 
+Step one is you set up the experiment, 
+or in this case, the performer. 
+And the next thing you 
+wanna do is frame the image.
+- So you're framing now before the 
+balloon pops to get focus and things?
+Exactly, if you can't get a good 
+photo with nothing happening,  
+adding the motion will not help. 
+And so the next step will be to 
+get the strobe in the right spot. 
+Now the strobe is set up with a 
+trigger unit with a microphone. 
+And when a sharp sound hits the microphone,  
+the trigger unit sends a 
+signal to set off the strobe. 
+We're gonna turn the lights out and then 
+we're gonna open the shutter of the camera,  
+but there won't be an image 
+because the room will be dark. 
+And I'll say three, two, one, pop. And when I 
+say pop, pop the balloon with an upward motion. 
+And when the sound from the pop hits the mic, 
+after a minor delay, the strobe will fire. 
+The camera will capture that image for 
+the one 100,000th of a second it's lit. 
+Alright, we ready? 
+Lights out please. And three, two, one, pop. 
+Lights. 
+Oh, there you go. Oh, you look hmmmm. 
+Do not mess with this man. Nope.
+- Oh, it's awesome. You can see inside the balloon. 
+That's really cool. 
+This is another image we took. Can you guess 
+what this is? This hovering white orb. 
+Here's another photo just a moment later. 
+It's like a little sombrero!
+It is, yes.
+That orb is a drop of milk falling onto a plate.
+That's a pancake. But you'll notice 
+the little drops are all spreading out.
+Yeah, it's so, so crisp.
+Come around and have a look here. Right, it's 
+translucent here. You're seeing through it.
+Oh, wow. 
+Now, once Edgerton showed the world 
+how powerful strobe photography was,  
+he attracted some unexpected attention. 
+In 1939, a US major named George Goddard 
+walked into Edgerton's lab unannounced. 
+He was working in the Army's photographic lab,  
+developing ways to photograph enemy 
+movements from a plane during the nighttime.
+The old way of doing a night 
+reconnaissance photograph was to  
+fly over the site at high altitude 
+and drop a flare on a parachute. 
+And then the reconnaissance plane 
+had to fly in under the flare  
+where it would be silhouetted, 
+where you could shoot at it. 
+Big problem...
+Right? So totally exposed.
+Goddard wanted a safer way. So 
+he asked Edgerton whether he  
+could develop a strobe powerful 
+enough to illuminate the ground
+from a plane that was a mile or so 
+up in the sky. A strobe that would  
+be bright enough to take a reconnaissance photo.
+Edgerton pulled out some paper, 
+did a few calculations and said: 
+"We can do that." 
+The flash released about 60,000 
+joules in a single millisecond. 
+A peak power of roughly 60 megawatts, which is 
+comparable to the output of a large solar farm.
+One, two, three, push.
+The flash lamp was quickly 
+utilized in World War II and  
+it allowed the allies to take pictures 
+of Normandy the night before D-Day. 
+This way they could confirm that German 
+troops were unprepared for the attack. 
+It's hard to ignore just how 
+sharp these strobe photos are,  
+especially the ones Edgerton took in the 1930s. 
+So we got a research grade slow-mo camera from 
+2020 that shoots at 20,000 FPS, and we're gonna  
+compare its quality to Edgerton's technique 
+by shooting a bullet through a playing card. 
+So let's do the slow-mo camera first.
+Three, two, one. 
+Let's see the video.
+Oh, it's great to see how long the top 
+part, which is now levitating, it stays up.
+Is now, yeah.
+Okay, and now let's do the 
+same with Edgerton's method.
+Light's going out. Shutter.
+Shutter open.
+Three, two, one.
+Okay, I think I saw it! That's cool. 
+The focus is amazing. The edge 
+of the card is beautiful. 
+You see this ghost effect? There's like card.
+Ah, you do see the ghost effect 
+and that's because you open the  
+shutter and it was a second or two 
+before I actually fired the gun. 
+There's enough stray light in the room 
+to give you a faint exposure there.
+Also, we still used a microphone to time the 
+bullet, even though it's faster than sound.
+So here's the gun, it fires, 
+the sound of the gun comes out,  
+but the bullet is coming out ahead of the sound, 
+but the bullet is supersonic and a supersonic  
+object moving through the air 
+creates a sound, a sonic boom.
+Now you can pick up that 
+sonic boom with a microphone,  
+and by moving the microphone 
+physically along the trajectory,  
+you get the time where the bullet is 
+gonna be when the strobe goes off.
+I think it's a brilliant way to solve the problem 
+and I get to say that because I did not invent it.
+Edgerton was very inventive and 
+had projects all over the place. 
+He was teaching at MIT, but then 
+he had companies for things like  
+underwater cameras and he was making movies,
+and oh, he even won an Oscar. 
+So if there's anything he wanted 
+to do, he sort of just did it. 
+And I feel like I'm quite the opposite. 
+You know, when I joined Veritasium back 
+in 2023, I started off as a researcher. 
+I was fact checking videos and setting up shoots,  
+but then Derek and the other writers 
+suggested I should make a video of my own. 
+And I remember thinking, yeah, 
+I don't know, maybe one day. 
+But they kept pushing for me to do it. 
+And I'm so glad that they did because 
+when Derek and I made my first video,  
+I fell in love with it. 
+So if there's anything you're putting 
+off, you should just go do it. 
+And if that something is a project you want 
+to set up as an entrepreneur or a creator,  
+well, today's sponsor Hostinger, 
+makes that first step really simple. 
+Say you need a website or a store 
+or any kind of online presence, H
+ostinger is an all-in-one AI-powered ecosystem 
+that will get you up and running within minutes. 
+With Hostinger you don't need any kind of  
+crazy tech skills. It's all 
+frictionless and affordable. 
+So you can go from an idea to execution 
+without needing 10 apps on your computer. 
+If there's a project you've been 
+putting off for that 'one day',  
+turn that into your 'day one' with Hostinger. 
+Head to hostinger.com/Veritasium10 
+and use our code Veritasium to get  
+10% off your subscription. You 
+can also scan QR code here. 
+So I want to thank Hostinger 
+for sponsoring this part of  
+the video. And now let's go look 
+at pictures of that card we shot. 
+So here are the two techniques side-by-side, 
+and here's Edgerton's original as well. 
+So why does a research grade 
+camera from 2020 struggle to  
+get the same resolution as 
+a camera from decades ago? 
+That's because we are really 
+working with two resolutions here. 
+A spatial resolution or how 
+many pixels your image has, 
+and a temporal resolution which dictates whether 
+you only capture one frame, like a strobe photo 
+or a progression of frames 
+like our high speed video. 
+The problem is that more often than not,  
+the hardware is limited so that you really 
+have to trade one resolution for the other. 
+High pixel count or high frame rate.
+The fundamental limit you hit is how 
+fast you can get pixels off the sensor. 
+And that's why there's a maximum speed to 
+read every pixel and then to go any faster,  
+you have to not read out all the pixels. 
+So this camera will give you 
+a million frames a second,  
+but you're like 16 by 128 pixels. 
+And that's not much of a image.
+Okay, so there's always this trade off. Either you  
+go for very high pixel counts 
+and bring the frame rate down.
+At the Edgerton Center we pushed this as far 
+as it goes with one frame and that's it. 
+But you can also push it the other way, one 
+pixel and very high FPS. 1 trillion FPS in fact. 
+But wait, it's just one pixel. 
+What can you do with one pixel? 
+Great question. In the cameras that I can 
+show you today are cameras that you're right,  
+they can really only see one pixel at a time, 
+but they can see close to a trillion 
+frames per second. And what that lets  
+you do is ultra slow motion videos 
+showing light actually traveling.
+Here's that video of light traveling 
+through a bottle. You can see the  
+wavefronts that form below the bottle and 
+even how the light bounces off the cap. 
+And even though this looks like a normal video,  
+you can take it with a camera 
+that only sees one pixel. 
+Here's how you do it. 
+A single pixel camera is one that captures just 
+one thing, how many photons land on the sensor.
+And the sensor here is typically sensitive enough 
+to register whether even a single photon hits it. 
+And it can count those incoming photons 
+around a trillion times a second. So each bin,  
+and technically each frame is 
+roughly one picosecond long. 
+In that time, even light itself 
+travels only 0.3 millimeters. 
+Sounds impressive, but we've actually had  
+this tech in many phones for 
+years now. It's just LIDAR. 
+You shoot out a pulse of light,  
+it bounces off and you time how long 
+it takes for that pulse to come back. 
+And from that you get the distance to 
+the object that it bounced off of. 
+But this is all you need to 
+take a speed of light video.
+We have a setup here that is basically a scaled  
+down room. And we just have 
+some different shapes in it. 
+We have a cone of sphere, we have 
+a mirror in the back. And finally  
+we have the Veritasium and 
+the Camera Culture logos.  
+We wanna see light propagating through a scene.  
+So the way we do that is we shoot out a 
+really short laser pulse that hits just  
+one point in the scene and that laser 
+pulse has a ton of photons in it.  
+Those photons will hit an 
+object scatter everywhere,  
+and we want to see what that scattering looks 
+like at all these portions of the scene.  
+To start, our single pixel camera 
+will point at the top left corner.  
+So when a pack of photons from the laser 
+pulse hit this random spot on the wall,  
+reflect to the corner and 
+finally bounce into the camera,  
+the sensor is gonna pick up their 
+signal at a trillion frames per second,  
+but that signal will be pretty faint.
+So the problem here is that we're 
+exposing for such a short time that  
+you actually just don't get 
+that much photon return.  
+What we do is we actually take a bunch of 
+measurements and then group them all together and  
+that gives us actual usable information about, you 
+know, how far away the light traveled in a scene.
+Then you move the camera slightly 
+and repeat the experiment.  
+So you shoot out a laser pulse, you let it scatter  
+off the same spot and record the 
+signal from this new position.  
+You can do that a couple hundred times and move  
+the camera again until you get a grid 
+of points across the whole scene.  
+You're literally going just one pixel at a time.
+One pixel at a time. That's 
+the caveat. Yeah, exactly. 
+We actually have two mirrors 
+here that let us steer the beam,  
+you know, left and right and up and down.  
+So by turning where the mirror is, 
+we can turn where the sensor looks.
+The most important thing for this 
+technique to work is that the scene  
+has to play out pretty much exactly the 
+same every time you move the sensor,  
+because if it didn't, then every 
+pixel will tell a different story.  
+It's like if I try to record this 
+section four separate times and use  
+a quarter of each to fill in the screen 
+screen, I would get a garbled mess.  
+Thankfully the laser pulse in our 
+scene scatters pretty predictably.
+That's what lets us get unlimited 
+resolution. So we can basically say,  
+let's scan as many points in the scene as we 
+need. That gives us good spatial resolution.
+The more points you scan along this grid, the 
+higher your final resolution. If you want 4K,  
+you simply scan a 4K grid of pixels. 
+It's just gonna take more time.
+The nice thing is light is fast, so we can 
+do this as fast as the mirrors can move.
+Within just a couple of minutes. 
+The sensor captures millions of  
+laser pulses across the whole grid.  
+So this is now everything compiled 
+together for a time of flight?
+Exactly, this is everything put together. So what  
+we're looking at now is going to 
+be again for a fixed laser spot. 
+So I'm gonna click play.
+Oh, Camera Culture logo!
+Yeah
+All of this was less than 
+eight nanoseconds of time. 
+And here's another scene under the same setup. 
+Now you can also take this 
+a step further by rotating  
+the scene and recording multiple points of view.
+We have this algorithm that kind 
+of takes this Coke bottle video  
+capture from different views and is 
+able to create these fly-throughs,
+being able to see the light propagate  
+from any direction and like flying 
+through the scene as it's happening.
+Oh, that's so cool.
+So some things that are interesting to note is – 
+because we're moving towards the right and 
+the light is propagating towards the right,  
+but we're moving kind of 
+faster in this visualization –
+this wavefront appears stationary, as you can see.
+Oh yeah. That is kind of breaking physics. I 
+mean, you are moving the camera faster than light.
+Yeah, exactly, yeah it's kind 
+of mind boggling almost. 
+So this is a fish tank that we put a 
+mirror into and this diffuse reflector.
+So you'll see a pulse of light 
+will enter the fish tank,  
+it will reflect off the mirror 
+and hit the diffuse reflector.
+That's crazy.
+This is a diffraction grating. So it's kind of 
+defracts the light into different modes. So again,  
+you see the light enter the tank and it 
+separates into these different modes.
+Those are the different modes? That's insane. 
+My first impression was, oh, these are 
+just simulations from I don't know,  
+Unreal Engine 5. But this is, like, real data.
+It's like the bullet time video in 
+"Matrix." You've probably seen that.
+No way! Is your motivation "The Matrix?"
+By the way, these videos were created 
+at the University of Toronto and MIT, 
+but Brian from AlphaPhoenix actually built one of  
+these speed of light cameras 
+in his garage, which is mad.
+You should go check that out. 
+So those are the two extremes. 
+Strobe photography on one side 
+and a trillion FPS on the other. 
+But if you combine both, you actually 
+get to see what electrons are doing.
+Even though what that means exactly is debated.
+You say electrons act like 
+waves? No, they don't exactly. 
+They act like particles. No, they don't exactly. 
+We can write mathematical expressions and 
+calculate what the thing is going to do. 
+Without actually being able to picture it.
+Do electrons exist?
+How truthful do you want me to be?
+Now we still don't have a video or photo of 
+electrons, but this might be the next best thing. 
+And to pull it off, we had to build big, 
+really big. 
+Okay, we're driving down what up until 
+2017 was the world's straightest object. 
+So we've been driving for like 
+what, five, five-ish minutes?
+Yeah, and we are wanna say about halfway there.
+Oh, I thought we were… Oh 
+no, there's a lot more there.
+Let's do it.
+Let's go see it. 
+This is SLAC, a US national lab 
+that houses a 3.2-kilometer-long,  
+perfectly straight electron accelerator. 
+Whoa. That is so long down there!
+And that it just continues 
+like this all the way down it.
+The noise you hear is exactly 120 hertz. 
+That's the frequency at which 
+electron pulses are generated  
+underneath this building, 120 pulses a second. 
+And this is the sound of the 
+equipment that accelerates  
+them to over 99.9999992% the speed of light. 
+And this lets you see electron clouds 
+move around molecules, essentially?
+Right? So why would you care? 
+Because essentially electrons create the 
+fields in which everything else happens. 
+Molecular bonds break and form because the 
+electrons essentially give them a push to do so. 
+Right, so the electrons are responsible 
+for everything that you see in nature 
+and being able to look into their motion  
+is the most fundamental way of 
+studying materials and matter.
+Now, to achieve this, you need a 
+nanoscopic equivalent of a strobe. 
+So you first feed these relativistic  
+electron pulses through a set 
+of devices called undulators. 
+They're stacks of magnets spaced only a few 
+millimeters apart, with alternating poles. 
+So the first pair has the north pole facing the  
+electron pulse from above 
+and the south from below. 
+Then the second pair flips and so on. 
+Now because the electrons are traveling through a 
+magnetic field, a force called the Lorentz force 
+will push them in a direction perpendicular to 
+both their velocity and the magnetic field lines, 
+in accordance with the left hand rule. 
+So at one magnet pair, the 
+electrons will curve clockwise,  
+and at the next pair counterclockwise and so on. 
+This causes the electrons to wiggle. 
+Now since the electrons carry a charge,  
+this wiggling motion causes them 
+to emit electromagnetic radiation. 
+And even though they oscillate at these millimeter 
+wavelengths because of the magnet spacing, 
+the wavelength of the resulting 
+EM radiation is much smaller.
+This is the fun thing about 
+the theory of relativity. 
+If you would travel at near the speed 
+of light, the length scales contract. 
+While that periodic structure 
+is macroscopic for us,  
+right? We see each magnet, 
+these are centimeter scales. 
+For the electron because it's traveling 
+so fast, all of that space contracts. 
+And so it's actually oscillating 
+really, really fast. 
+And these oscillation periods are compressed. 
+And it means that if you compare that to 
+wavelengths, that is in the x-ray domain.
+Now that actually only gets your wavelength 
+part of the way to the true x-ray regime.
+But if as an observer you stand at 
+the far end of the accelerator, 
+all those electrons will be coming at 
+you at more than 99% the speed of light. 
+So in your reference frame, any light those 
+electrons emit will additionally be blueshifted,
+producing x-rays as small as 
+50 picometers in wavelengths. 
+Initially, these x-rays are created 
+randomly along the undulator,  
+producing an incoherent light pattern. 
+But soon after, the electric fields from the 
+x-rays start to interact with the electrons, 
+speeding some of them up and slowing others down.
+This causes faster electrons 
+to catch up with slower ones. 
+So they get bunched up into periodic structures,  
+parallel sheets that are spaced at distances 
+exactly equal to the wavelength of the X-rays. 
+This is called microbunching. 
+Now these sheets of electrons 
+emit light as unified fronts. 
+So the resulting X-rays come 
+out coherently as a laser  
+pulse. This dramatically increases their intensity
+And the pulses come out incredibly tightly 
+packed, being only a few femtoseconds long, 
+and they can get as short as 
+a couple hundred attoseconds. 
+That's 10 to the power of negative 
+18. An absurdly quick pulse. 
+To put it another way, the attosecond is to the  
+second what the second is 
+to the age of the universe.
+On an attosecond scale, you can see electrons 
+zip around essentially atoms and molecules.
+That's insane. Yeah. 
+After the undulators the x-ray pulses are sent to 
+experimental stations at the end of the tunnel. 
+So where's the main x-ray beam?
+The main x-ray beam is coming 
+through this tube over here.
+Okay.
+If you wanted to... It's a little harder to 
+see, but coming in through this tube over here.
+So this is the main place where 
+the x-rays come into the hutch. 
+And so the x-rays focus into what 
+we call an interaction point.
+Now you fill this interaction point with the 
+molecules whose electrons you want to study.
+Now we shine that x-ray pulse on a molecule,  
+and when it hits the molecule, 
+it will ionize the molecule 
+and it ionizes predominantly from these 
+inner shells from the very core parts.
+The thing is, core level electrons from different 
+elements have different ionization energies. 
+So if you want an x-ray to eject a 
+core level electron from a nitrogen,  
+it needs around 400 electron volts. 
+Whereas for an oxygen, it needs around 550. 
+So by tuning the x-ray energy to 
+match these ionization energies, 
+you get to choose which of these atoms within 
+the molecule the x-ray is going to ionize. 
+And any excess energy left after 
+an x-ray has ejected an electron  
+will be taken by that electron as kinetic energy.
+Now, once you ionize this molecule,  
+the kinetic energy will tell you something 
+about what's going on around that electron. 
+Well, electrons are not independent 
+particles, they talk to each other, right? 
+They have a negative charge.
+So if you have a high electron 
+density around a particular atom, 
+the core level electrons will be 
+bound less tightly to the nucleus 
+because of the presence of all these 
+other electrons around the atom. 
+So its ionization energy will 
+actually be slightly lower. 
+Whereas if you have a lower electron 
+density than average around an atom, 
+those core level electrons will be bound more 
+tightly with a higher ionization energy. 
+Therefore, when you measure the kinetic 
+energy of the electrons you eject, 
+you can use the difference between the input x-ray  
+energy and the output kinetic energy to 
+infer what that electron density was.
+Now, once we can take a 
+picture of an electron density,  
+we can change what the molecule is doing, 
+make it do some process in time, and then we 
+can look at how electron densities change. 
+We have above us. We actually 
+have an entire laser hall. 
+So we generate laser light,  
+we bring it down through tubes like here 
+behind you or over here on the ceiling.
+Traditional laser light. 
+These are infrared lasers. 
+We bring them onto this table. And you 
+see all these boxes on this table? 
+These boxes are to condition laser to 
+give it the properties that we want.
+We can change the color of the laser, 
+we can change the polarization state, 
+we can change the duration of the pulse. 
+So we sculpt these pulses, then we have them go 
+co-propagating with the x-rays into our target. 
+And so, now our first laser pulse will create 
+some non-equilibrium state in the molecule, 
+will drive some dynamics and then 
+our x-ray pulse will probe it.
+This attosecond x-ray pulse ejects an electron 
+from the molecule after a time delay t. 
+And by measuring the kinetic 
+energy of the electron,  
+you can study how the electron density of 
+the molecule reacted to the trigger laser. 
+So you get an attosecond snapshot, like 
+a strobe, of how the molecule changed. 
+Then you can get another sample of the same 
+molecule, shoot it with a laser again, 
+but this time increase the probe 
+delay slightly to t plus delta t. 
+This will tell you how the electron 
+density changes a little later. 
+And you can keep increasing 
+this delay each time to get  
+a sequence of snapshots of how that 
+electron density evolves over time. 
+Isn't there a big assumption 
+here that every time you do it,  
+you're expecting a repeatable 
+result from the molecules?
+Yes, absolutely, so you need for your initiator 
+to drive the same dynamics over and over again. 
+If you have a new process happening 
+every time, this technique will fail.
+But if the scene is repeatable, 
+then like the trillion FPS camera,  
+you can use this technique 
+to create a molecular movie. 
+And here, the smallest amount by 
+which you can tweak the time delay  
+for this x-ray strobe is around 300 attoseconds. 
+So you can get frames that are only a 
+few hundred attoseconds seconds apart. 
+And if you stitch those together,  
+you get a movie that technically runs 
+at over a quadrillion frames per second.
+So this is a movie of the dynamics 
+that we might like to image. 
+So this is a small molecular system. 
+This is called para-aminophenol. 
+This calculation was done by some 
+of our collaborators in Madrid. 
+They had calculated what is the response of 
+this molecule to the removal of an electron. 
+So they simulate an x-ray pulse 
+coming in and removing an electron. 
+So the red color here represents an 
+increase in the density of the electron,  
+and the blue represents a decrease. 
+And so we see that when we've shined this x-ray  
+pulse onto this molecule and 
+we've removed an electron, 
+we initiate some charge distribution 
+that starts to move across the molecule.
+And so we wanna image this charge motion.
+The video is a simulation, but it's been 
+validated by the experiments done at SLAC.
+Our method for probing these seems to work. 
+We can compare to a handful of points 
+and say, oh, these look broadly similar. 
+Much after this few femtosecond, as we approach 
+five to 10 femtoseconds, we start to diverge. 
+Our prediction starts to 
+diverge from our measurement. 
+And actually this is the most 
+exciting time in science, right? 
+When you have a prediction, and 
+then you have a measurement,  
+and they don't agree, that's 
+when you get really excited, 
+because you just found something 
+you didn't know ahead of time. 
+You couldn't have predicted that.
+I think the most powerful thing for me here 
+is we animate a lot of electrons, right? 
+And pretty much every Veritasium video 
+has electrons moving in some way. 
+So the fact that we're actually seeing 
+these electron densities move around…
+I don't know, I think it's spectacular.
+Absolutely.
