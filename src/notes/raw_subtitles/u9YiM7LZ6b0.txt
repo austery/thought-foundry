@@ -1,0 +1,1693 @@
+- Quantum mechanics is weird
+because despite the fact
+that we're celebrating its
+100th anniversary right now,
+we still don't understand it.
+What is really going on in this our best,
+most important framework for
+doing fundamental physics?
+We understand on the basis
+of quantum gravity why the
+earth moves around the sun
+or apples fall from trees,
+but we don't understand what happens
+when gravity becomes
+strong like in a black hole
+or near the big bang.
+So basically, nature uses every
+trick that it can think of
+to make physics work in interesting ways,
+and it really does give physicists a sense
+of accomplishment at the end
+of the day to figure it all out.
+I'm Sean Carroll.
+I'm a Physicist and Philosopher
+at Johns Hopkins University,
+Host of the Mindscape Podcast
+and also author of a bunch of books,
+most recently "The Biggest
+Ideas in the Universe" series,
+including "Space, Time and
+Motion" and "Quanta and Fields".
+- [Narrator] How does
+quantum mechanics work?
+- I'd like to think if
+you were a physicist,
+circa 1895, okay?
+The very end of the 19th century,
+you would've been forgiven for thinking
+that we were almost there.
+We were almost having a complete theory
+of nature in our grasp,
+because they had the
+idea of particles, right?
+You know, the idea of an
+atom was a little bit sketchy
+to a lot of physicists in the 1800s,
+but they eventually caught on
+and they were beginning to
+realize that atoms were made
+of other particles, protons, neutrons,
+electrons and so forth.
+And then the particles,
+which make up matter,
+are pushed around by fields,
+by the electric field,
+by the magnetic field,
+by the gravitational field and so forth.
+So you have this sort of two-part harmony.
+Matter is made of particles,
+forces come from fields,
+and the all of the effort in the future
+of physics would be figuring
+out what are all the particles,
+what are all the fields?
+And then you'd be done.
+There were a couple of
+clouds on the horizon.
+One of them ended up being relativity.
+The fact that the symmetries
+of Maxwell's theory of
+electromagnetism were different
+than the symmetries
+of Newton's theory of classical mechanics.
+But the others were that
+there were certain properties
+of matter and materials
+that didn't quite seem to make sense.
+And I'm gonna be a historical now.
+Let's pop forward to like 1911.
+They were putting together
+the picture of the atom
+that is the cartoon
+you've always seen, right?
+There's a little nucleus
+at the center of the atom,
+and electrons are circling around it
+like planets orbiting a star.
+This is called the Rutherford Atom Model
+after Ernest Rutherford, who
+was a brilliant experimental
+and theoretical physicist.
+And this was entertained
+and people liked the idea
+that electrons were kind
+of like little planets, but
+they instantly figured out
+it can't possibly be right,
+because that electron orbiting the nucleus
+would give off electromagnetic waves.
+It's a moving particle.
+Moving charged particles give off light.
+All of the light you're
+looking at right now came
+from some electron in
+motion moving around.
+So you can calculate.
+You can say if the electron
+is moving around in orbit
+around the atomic nucleus,
+if it gives off light, it will lose energy
+and spiral into the nucleus.
+How long should that take?
+And the answer is, every
+atom in the universe,
+including the ones in the
+chair you're sitting on,
+or even in your own body, should collapse
+to a point in a hundredth
+of a billionth of a second.
+So that clearly does not happen.
+The idea that electrons
+are like little planets
+in a solar system is just wrong.
+And this and other things,
+black body radiation
+and other experimental
+results convinced people
+that there wasn't this clean division
+between particles and forces.
+They said there's aspects
+of light, which is supposed
+to be a wave, which are particle-like,
+Einstein said that.
+There are aspects of
+particles like electrons
+that are wave-like.
+Louis de Broglie following
+work by Niels Bohr
+and others said that.
+And this whole thing coalesces
+almost exactly 100 years ago in 1925
+in the theory of quantum mechanics.
+And almost right at the same time,
+two different versions of it came out.
+Werner Heisenberg had his
+version called matrix mechanics.
+Erwin Schrödinger had his
+version called wave mechanics.
+They show that they were actually
+mathematically equivalent,
+but quantum mechanics, I
+like to say it was the second
+of two big ideas in
+the history of physics.
+The first big idea in physics
+was classical mechanics.
+Relativity is a pretty big idea,
+but not as big as classical mechanics
+or the second big idea,
+which is quantum mechanics.
+Quantum mechanics throws
+away classical mechanics
+and replaces it with
+something very different.
+It says that electrons are
+not particles or waves.
+They act like waves until you look at them
+and then they look like particles.
+That is a very, very
+difficult thing to swallow,
+and physicists are still trying
+to figure out what to make of it.
+It's so much fun reading the history
+of how these ideas developed,
+'cause today we're just
+taught the final result,
+but you know, they didn't know
+what was going on back in the early days.
+In 1926, Erwin Schrödinger
+presents an equation,
+what we now call the wave function.
+It's a dopey name for
+a very important idea.
+So think of that little electron
+instead of orbiting in
+a circle, it's a wave.
+It has a profile around
+the center of the atom.
+And the equation works very well.
+It's still the equation that we use today,
+but then you have to ask, okay,
+semi-philosophical question,
+what is the wave function?
+What is it telling us?
+And Schrödinger thought, well, okay,
+in some cases, electrons act like waves.
+In other cases they act like particles.
+Maybe the equation says that if you start
+with an electron wave all
+spread out, it will sort
+of localize itself near some point
+and it will look like a particle.
+Turns out not to be true.
+The equations don't care
+about your feelings.
+It's the opposite.
+If you start out with a
+localized electron wave,
+it will spread out all over the place.
+So it was yet another physicist, Max Born,
+different than Niels Bohr,
+who pointed out the right way
+to think about
+Schrödinger's wave function.
+He said, think about what happens
+when you measure a
+property of the electron,
+like its position or its velocity
+or whatever you wanna measure.
+He says, "What the wave function
+is doing is it's telling me
+the probability of getting a
+different measurement outcome."
+In particular, if you want the math,
+you square the wave function,
+that tells you the probability
+of seeing the electron somewhere.
+And this was just bizarre
+and crazy for all sorts of reasons.
+People didn't like the idea probabilities
+were involved at all.
+Of course there's probabilities
+when you flip a coin,
+but that's just 'cause you
+just don't know everything
+there is to know about the coin.
+Since the time of Newton
+and Laplace, we thought
+that physics deep down was
+perfectly deterministic.
+And here's Max Born saying, no, it's not.
+That was difficult to swallow.
+But the other thing that's difficult
+to swallow is why in the world is the idea
+of measuring or observing something,
+showing up in the
+fundamental laws of physics?
+That had never happened before.
+Of course you have to think
+about measuring things
+and observing things,
+but it was always imagined
+that if I measure the position
+of a planet or something
+like that, in principle,
+I can do that measurement
+completely benignly
+without disturbing the
+system in any way at all.
+And what Born is saying
+is that when you measure
+an electron, you instantly
+and dramatically change its wave function.
+And to tell me what the
+fundamental laws of physics are,
+according to what became known
+as the Copenhagen interpretation
+of quantum mechanics
+after the city where Niels
+Bohr and Werner Heisenberg
+and others were doing their work, part
+of those fundamental laws
+are a set of rules that say,
+here's what's happen,
+what happens when you measure
+the properties of a system.
+So quantum mechanics is the
+only theory in the history
+of physics that has rules
+about measurement outcomes
+and has measurement
+playing an important role
+in what those laws are.
+And if you ask, well,
+what is a measurement?
+What counts?
+Do I have to be conscious?
+Can a video camera do a measurement?
+The answer is we're not gonna
+tell you the answer to that.
+We don't have an agreed
+upon set of criteria
+for when a measurement happens.
+And this is known cleverly
+as the measurement problem
+of quantum mechanics.
+There's various plausible
+resolutions to it,
+but we don't agree on
+what the right one is.
+Very often in physics, learning
+physics, teaching physics,
+doing physics, it's very helpful
+to visualize things, either precisely
+or maybe in some toy kind
+of metaphorical way of doing things.
+But we have to keep in
+mind it's not necessary
+that there be an accurate way
+to visualize certain things.
+We have to accept that
+the world is not here
+to make things easy for us.
+So when it comes to the wave
+function of quantum mechanics,
+we're a little bit stuck.
+There are simple cases.
+Like if you have one electron
+and that's it, no other particles,
+you're talking about the wave
+function of one electron,
+you can actually visualize that.
+If you just think about
+space as two dimensional
+to make your life easy, the
+wave function is a function.
+You're cheating a little bit
+because rather than having
+a value, it's a complex number that means
+to say a real part plus
+'i' times an imaginary part
+where 'i' is squared to minus one.
+But okay, who cares?
+What you need to know is there's
+a profile, there's a shape.
+There's basically a value
+at every point in space
+which says, this is the wave function
+of the electron at every point in space.
+So go ahead and visualize it.
+If you ever took chemistry class
+and you saw those images
+of what are called orbitals
+in different kinds of atoms,
+those are literally
+pictures of wave functions.
+Those are values of the wave
+functions of different shapes,
+the wave function of an
+electron can take in an atom.
+But just to show you that the universe
+is not gonna always go that easy on you,
+sometimes you have two
+electrons that you care about.
+And one of the most profound
+features of quantum mechanics,
+which separates it from
+classical mechanics
+is that you don't have a wave
+function for electron one
+and a separate wave
+function for electron two,
+because remember, the job of
+the wave function is to say,
+what is the probability
+that I measure something?
+Right?
+So when I have two electrons,
+I can have the probability
+of seeing one electron
+anywhere in the universe,
+and I also have the
+probability I see the other one
+everywhere in the universe,
+but they can be connected.
+Maybe I know that the electrons
+are one centimeter apart,
+but I don't know where they are, right?
+If I measure one of them,
+then I instantly know
+where the other one is.
+But I don't know ahead of time
+where either one of them are.
+This is the phenomenon
+called entanglement,
+and what it means is
+that rather than having
+one separate wave
+function for one particle
+and a distinct one for the other one,
+which would mean there's
+no connection between them,
+the wave function tells me the probability
+of both particles at once.
+Mathematically, if you want the details,
+you assign a complex number
+to every pair of positions,
+the position of particle one
+and the position of particle two.
+You want to visualize that?
+Good luck.
+You're not really gonna be able to do it
+unless you can visualize complex functions
+in six-dimensional space.
+But that's what it actually is.
+We can write it down
+and we can deal with it,
+and we can go back to
+what things look like
+when it's just one electron
+if we wanna really wanna visualize things,
+but at some point we have to trust
+that the equations know
+what they're doing.
+You would think from the
+name quantum mechanics
+that quantum mechanics has something to do
+with quantum, which is a word made up
+to denote a discreet amount of stuff.
+It comes from the fact
+that in the early days
+of inventing quantum mechanics,
+when you had radiation coming
+from hot radiating bodies
+or when you had electrons
+in orbits around atoms,
+there were discreet possible
+energies you could observe.
+Light is absorbed at
+certain frequencies by gas
+and not at other frequencies.
+When an electron changes
+energies inside an atom,
+it goes from a certain energy
+to another one without being
+in between, without sort
+of continuously evolving
+from one energy to another.
+So there was this idea of a
+quantum jump from one state
+to another, but that discreetness
+is not fundamental to quantum mechanics.
+It's not built in.
+It's not because quantum
+mechanics says the world
+is discreet, it's made of pixels,
+it's sit on a lattice
+or anything like that.
+It's because the opposite.
+Quantum mechanics is a story
+of waves, but sometimes waves only vibrate
+with certain discreet sets of frequencies.
+Think of a string attached
+at two ends, like on a guitar
+or a violin or whatever.
+You can pluck the string,
+and given the tension of the string
+and the distance between
+the ends, it will vibrate,
+it will give you a certain note,
+but the same string is also able
+to vibrate at twice the frequency.
+There's the fundamental frequency
+where the string vibrates
+as a whole up and down,
+and there is the next
+overtone where it sort
+of vibrates half and
+half on different sides.
+And then a harmonic series, there's a way
+that the string can vibrate, so it goes up
+and then down and up again.
+That's three times, and so on.
+So a discreet set of possible
+frequencies comes out
+of the motion of a
+continuous string vibrating.
+And likewise, the continuous wave function
+in certain circumstances can only vibrate
+with certain discreet frequencies.
+And so that's why electrons
+have discreet energies in atoms.
+Now, quantum mechanics is a framework,
+just like classical mechanics is.
+Classical mechanics doesn't
+say what the world's made of.
+It gives you the fundamental rules
+and you pick out, oh, the
+world is made of particles
+or fluids or whatever,
+and here are the forces acting on them.
+And you plug that into the
+framework of classical mechanics.
+Quantum mechanics is the same way.
+Most of what you talk about
+when you first encounter
+quantum mechanics, electrons and photons
+or whatever, you're applying the rules
+of quantum mechanics to particles.
+But we've known since the
+time of Maxwell at least
+that there are also fields, right?
+There's the electric
+field, the magnetic field,
+the gravitational field,
+maybe there are others.
+So we can also apply the rules
+of quantum mechanics to fields.
+And lo and behold, we get
+what is called quantum field theory.
+Quantum field theory
+then is not a replacement
+or an improvement on quantum mechanics.
+It's just the rules of
+quantum mechanics applied
+to fields rather than particles.
+And what happens is you take a field,
+so a field is the opposite of a particle.
+A particle has a location,
+a field exists everywhere,
+but it has a value at every point.
+So the electric field is a little arrow
+at every single point in space,
+has a direction and a length.
+And then you say, okay, that's a field.
+I'm gonna apply the rules
+of quantum mechanics to it.
+So I'm gonna invent a wave
+function for the field,
+and I'm gonna say, what is the probability
+the field looks a certain
+way doing certain things?
+And the math just goes
+through exactly like an
+electron sitting in an atom.
+There are certain discreet
+vibrational frequencies
+of the field, and that shows up
+in particle physics
+experiments as particles.
+The field vibrates a little bit,
+you think you're looking at one particle.
+If the field vibrates a little bit more,
+now you think you're
+looking at two particles,
+and you can match up exactly
+the mathematical descriptions
+on both sides.
+So the resolution to this early mystery
+of quantum mechanics, why do electrons
+or photons behave like
+particles sometimes,
+behave like waves other times?
+The answer is number one, they're waves.
+That's what they are.
+They're waves in a field.
+Not only is there an electric
+field, a magnetic field,
+there's an electron field
+for the electron particle.
+There's a neutrino field,
+there's a quark field,
+everything is made of fields.
+But number two, when you apply the rules
+of quantum mechanics to fields,
+they show up in our
+experiments like particles.
+So this is why it
+explains this distinction
+that things act like waves
+when we're not looking at them
+and appear to us as particles when we do.
+If we think back to that
+late 19th century physicist
+who thought matter was made
+of particles, forces come from fields,
+what happened to that guy?
+Like where is he now in the world
+where everything is actually fields
+but they look like particles
+when you apply the rules
+of quantum mechanics to it?
+Well, it turns out there are
+two different kinds of fields,
+fermions and bosons.
+And the difference is, are you allowed
+to stack up vibrations of the
+fields on top of each other
+to let them vibrate more and more?
+That's what you're used to, right?
+If I have a violin string,
+I can pluck it a little bit.
+I can pluck it a lot.
+That is what we call a bosonic field.
+Boson fields can compile
+on top of each other.
+But fermion fields have this
+slightly interesting property
+that there's only one kind
+of vibration at a time
+going on in the field.
+In the particle language, we
+say that in any one region
+of space or in any one
+quantum state, we can have
+as many boson particles as we like,
+but a fermion takes up space.
+Fermions can only be one at a time.
+If you go back to your
+chemistry class again,
+why can't you put all the
+electrons in the lowest orbital?
+There's a rule called the
+Pauli exclusion principle
+that says that for any one
+shape of an atomic orbit,
+only one electron can
+be in there at a time.
+Technically it's two electrons
+'cause it can be spinning
+clockwise or counterclockwise,
+but that's the basic point.
+Fermions take up space.
+So the reason why our 1898
+physicist thought the world
+was made of particles and fields
+is because really it's made of fields,
+but those fields can
+be bosons or fermions,
+and fermion fields kind
+of act particle-like.
+They cannot pile on top of each other
+to make a big classical
+field like electricity
+or magnetism or gravity.
+The 20th century in physics,
+it'll still be considered
+an amazingly important time
+in the history of physics.
+We're still teaching physics
+1,000 years from now,
+the 20th century will be remembered.
+Not only did we invent
+relativity and quantum mechanics,
+but we figured out what
+particles in fields there are,
+at least the ones that make up you and me.
+You know, we started circa 1900.
+We were trying to understand atoms.
+We realized there's a nucleus,
+and around the nucleus
+there are electrons.
+And then we realized that the
+nucleus is not indivisible.
+It's made up of protons and neutrons.
+Skip forward to the 1960s and '70s,
+and we realize that protons
+and neutrons are not elementary
+particles themselves.
+Each proton and each neutron
+contain three quarks.
+And the way it works is a proton
+has electric charge plus one,
+a neutron has electric charge zero.
+There are a kind of quark
+called the up quark,
+which has charge plus two thirds,
+and the kind of quark
+called the down quark,
+which has charge minus one third.
+So if you sit down there at home
+and try to figure out
+how can I make a proton?
+How can I make a neutron?
+You'll quickly figure out a proton
+has two up quarks and one down quark,
+a neutron has two down
+quarks and one up quark.
+And that's a pretty good
+picture right there,
+but it becomes complicated by the fact
+that particles change
+identities sometimes.
+This was again, an exciting
+thing in the early 20th century.
+Radioactive decays, right?
+If I have a neutron all by itself,
+it can decay into a
+proton and an electron.
+It doesn't quite work
+because certain things like
+energy are not conserved.
+We eventually figured
+out there's another kind
+of particle called the neutrino
+that is created when a neutron decays.
+Really a neutron decays
+into proton, electron and anti-neutrino.
+And how's that happening?
+Well, neutron has two down quarks
+and an up, proton has two ups and a down.
+Inside the neutron,
+one of those down quarks
+converts into an up quark
+by spitting out an electron
+and an anti-neutrino.
+So that's a pretty good picture.
+We have four different
+kinds of matter particles,
+four different kinds of fermion,
+up quarks and down quarks.
+Those are both inside
+protons and neutrons.
+Then we have electrons and neutrinos.
+Okay, you think that maybe
+that's your complete picture.
+Then we discovered now all
+the way back in the 1930s,
+a heavier cousin of the electron.
+This is called the muon.
+And famously, there was a
+physicist at Columbia, I.I Rabi,
+who said, "Who ordered that?"
+We did not know why the electron needed
+to have a heavier cousin in
+involved, but now we know
+it's because this idea of
+the two quarks up and down
+and the two non-quarks,
+which we now call leptons,
+the electron and the neutrino,
+that pattern is repeated two more times.
+So there are three families of particles.
+There's the up quark and the down quark,
+but then there's heavier
+cousins, the charm quark
+and the strange quark,
+and even heavier cousins, the top quark
+and the bottom quark.
+And then on the lepton
+side, we have the electron
+and a neutrino associated
+with the electron,
+which we cleverly call
+the electron neutrino.
+We have the muon, its heavier
+cousin and a muon neutrino.
+And then we have a tau particle,
+which is heavier than the muon
+and a tau neutrino.
+Six quarks, six leptons
+arranged in three families.
+And all of these particles,
+these are all the fermions
+that interact via bosonic fields.
+We have of course the
+electromagnetic field,
+we have the gravitational field,
+and then we have the nuclear forces.
+Inside the proton and
+neutron, there are gluons
+which carry what we call
+the strong nuclear force.
+The gluons hold particles together,
+hold quarks together in
+the protons and neutrons.
+And that conversion
+of the neutron into a
+proton, electron, neutrino,
+that's the weak nuclear force.
+It is carried by particles
+called the W and Z bosons.
+So that's more or less the picture.
+That was the picture of all the particles
+that we discovered up
+until a few years ago.
+We have six kinds of fermions,
+we have four kinds of forces.
+It turns out that to make
+the whole thing fit together,
+we need one more particle,
+which is of course the Higgs boson.
+The Higgs boson is not really
+a force-carrying particle,
+but it's not really a fermion either.
+It's part of a field that
+exists all throughout space,
+and the other particles
+are kind of swimming in it.
+The other particles like
+the quarks and the electrons
+and so forth, feel the
+influence of the Higgs field,
+and it affects their
+properties like their masses
+and their charges.
+So the Higgs field was
+finally discovered in the form
+of the Higgs boson in 2012,
+and that as far as we
+know is all the particles
+that we're able to produce here on Earth.
+This puts together
+in what we call the standard
+model of particle physics.
+And if you do an experiment here on earth,
+it is so far to date 100% compatible
+with the standard model
+of particle physics.
+We look outside and we see
+that we need dark matter
+and things like that.
+Dark matter doesn't seem to
+fit into the standard model.
+So we're optimistic that
+there are more particles
+we haven't yet discovered,
+but right now we're doing
+a good job of fitting
+the data that we have.
+If you think about the standard model,
+it's on the one hand amazing.
+Like everything fits together
+like a really tightly
+constructed jigsaw puzzle.
+Everything matters.
+Everything is doing
+some purpose, et cetera.
+But on the other hand,
+it is kind of baroque
+and almost ugly in some ways.
+So many particles,
+random-looking kinds of masses
+and interactions for those particles.
+We would like something
+a little bit prettier.
+In fact, most of the particles
+in the standard model
+don't play a role in your everyday life,
+and that's simply
+because there's a feature
+that if you have a heavier
+particle, a particle
+with large mass, it will be able
+to and want to decay
+into lighter particles.
+The only thing that stops
+it is there are quantities
+that are conserved like
+electric charge and spin
+and things like that that
+you just can't get rid of.
+The total number of quarks in the universe
+is conserved, for example.
+So the electron is the lightest particle
+with an electric charge, charge minus one.
+The proton is the lightest stable particle
+that has a non-zero total
+number of quarks inside.
+The neutrino is the lightest
+particle that has spin,
+a half spin unit, as we say,
+that makes it a fermion.
+And turns out these are
+basically the particles
+that make up us.
+There's also the neutron
+gets thrown in there
+because when you combine
+a neutron and a proton,
+you can make a stable nucleus.
+But if you think about the
+charm quark, the muon, the tau,
+whatever, the top and bottom
+quarks, the Higgs boson,
+all these particles just decay away.
+They were there near the big bang
+in the very early universe,
+but then they decayed
+in the lighter particles.
+Those lighter particles
+assemble into atoms.
+The atoms turnaround inside
+stars and make heavier elements,
+and ultimately they make us.
+So you don't need a lot of the ingredients
+of the standard model to explain you.
+You are made out of up quarks, down quarks
+and electrons held together
+by the strong nuclear
+force and electromagnetism.
+That's 99.99% of understanding you.
+You need to understand some
+details about the masses
+and the Higgs boson and things like that.
+Gravity is important, but it
+doesn't require that much.
+And what's interesting is,
+of course you can imagine,
+and particle physicists love to imagine,
+that there are new fields
+and particles we haven't yet discovered.
+Dark matter in the universe
+is the best evidence
+that we have directly,
+there must be some particle
+we haven't yet discovered
+in order to account
+for the gravity we see in
+galaxies and the universe.
+We don't know what the
+dark matter particle is.
+We know how much dark matter
+there is and where it is.
+We don't know what kind of particle it is,
+but we know it doesn't interact
+with you and your body.
+How do we know that?
+Because there are rules for what happens
+when one particle interacts with another.
+And if a certain particle could interact
+with the things you're made
+of, the electrons, the protons
+and neutrons, then we would be able
+to make it in the laboratory.
+We would just smash
+other particles together,
+watch what comes out, and
+the dark matter would appear.
+Indeed, this is particle
+physicists' favorite thing to do,
+look for new particles by
+smashing other ones together.
+We haven't found anything by doing that
+that is not already in the standard model
+of particle physics.
+So there almost certainly
+are new unknown particles
+and fields out there,
+but there are either too energetic
+to make in our best particle accelerators.
+They're too massive.
+It just takes too much
+energy to create them.
+Or they only interact
+with ordinary matters
+so feebly, so weakly that
+maybe there's a chance
+of making one, but we don't notice.
+Either way, you are made
+of electrons, protons
+and neutrons interacting through
+electromagnetism, gravity
+and the nuclear forces.
+One super fascinating thing
+about the way the physical world
+has arranged itself is
+this phenomenon we like
+to call emergence.
+The idea that the air in this room.
+I could describe by saying,
+well, it has a certain density,
+a certain temperature, you know,
+a certain velocity perhaps.
+But I know deep down that it's
+made of atoms and molecules.
+But I don't need to tell you the position
+and velocity of every atom
+and molecule in the
+air to tell you useful,
+interesting things about it.
+We can have approximate,
+but really, really good descriptions
+of things based
+on wildly incomplete
+information about them.
+I can predict the motion of the earth
+around the sun without
+knowing the exact position
+and velocity of every atom in the earth.
+So this is a good news, bad
+news situation for physics.
+We know the particles that
+you and I are made of.
+We know what is called the
+core theory of physics.
+The core theory is
+basically Einstein's theory
+of general relativity for
+gravity, plus the standard model
+of particle physics.
+And that core theory
+suffices to underlie all
+of the physics of the everyday world.
+That's the good news.
+There's two pieces of bad news.
+One piece of bad news is
+it's hard to go beyond that.
+We know that this theory
+is not the final answer.
+We're not saying that the core theory
+is the theory of everything.
+It doesn't explain the
+big bang or black holes
+or dark matter, et cetera.
+Okay?
+The other piece of bad
+news is in principle,
+it does account for chemistry, biology,
+psychology, politics, who knows?
+But in practice, that's
+completely useless information.
+If you want to be a biologist,
+knowing about the top quark
+is not important to your life.
+Even knowing about up and down
+quarks is not that important,
+despite the fact
+that there are protons
+and neutrons in nuclei
+and there are nuclei in atoms,
+and there are atoms in
+biological organisms.
+If you wanna study biology, your best bet
+is to study biology, not
+to study particle physics.
+So I think it's incredibly significant
+how the different layers of
+reality depend on each other.
+And we know one layer really, really well,
+the layers of particles
+and forces at the level
+of quantum field theory
+and atoms and things like that.
+We would like to do even
+better at that layer,
+but we understand it very, very well.
+It leads to the layer
+of chemistry and atoms.
+The stability of the chair
+that I'm sitting on ultimately
+comes down to the rules
+of quantum field theory.
+Those atoms and molecules
+come together with electricity
+and magnetism to make all of chemistry,
+which is a pretty big deal.
+Chemistry comes together to make biology
+and so up on the ladder.
+We can both appreciate
+that these different
+levels depend on each other
+while appreciating also that to study them
+and to understand them, we need
+to take each level seriously
+for its own sake.
+Physics is not just a set of true facts
+and equations and things like that.
+In many ways it's kind of an attitude.
+It's a way of thinking
+about different things.
+So it can take you very far.
+You can talk about the
+physics of different kinds
+of things all the way up
+to the physics of society.
+You can model social groups or voting
+or things like that
+using very similar ideas
+to statistical mechanics
+and other ideas that
+came about in the 1800s.
+So there should be and is
+a close cross-pollination
+between different disciplines.
+There's a whole department
+at my university,
+Johns Hopkins, called
+Biophysics, because physicists
+and biologists working together
+is an incredibly useful endeavor.
+Having said that, that doesn't mean
+that all ideas in physics
+are useful to biologists,
+and in particular, the
+ideas of the Higgs boson
+or the mass of the top quark
+or spontaneous symmetry breaking
+in the strong interactions.
+These are not that
+interesting to biologists
+and they don't need to be.
+They're specific ideas.
+They're not general techniques.
+The closest I could come
+to saying, how useful is it
+for a biologist to know a
+little bit about the core theory
+of physics is kind of in a negative sense.
+There are things you
+might plausibly imagine
+could be important to
+biology, but the physicist
+can come along and say,
+no, that can't work.
+It violates the laws of physics.
+I'm thinking of something
+like bending a spoon
+with my mind, right?
+You know, we could imagine
+that I have the powers of telekinesis.
+I can use what's going on in my mind,
+which after all, the
+brain is very complicated.
+We don't really understand
+a lot about how it works.
+Maybe it's possible that it
+could give rise to some force
+that could push things around
+without me touching it.
+The laws of physics are here
+to tell you that's not going
+to happen, because we only
+have a few ingredients.
+We have gravity, we have
+electromagnetism and so on.
+We know certain limits
+on what is possible.
+If you're an engineer,
+you might be a very,
+very clever engineer.
+You're not gonna design a rocket ship
+that can travel faster
+than the speed of light.
+You're not gonna build an engine that runs
+with no fuel input or
+energy input forever.
+You're not gonna build a
+perpetual motion machine.
+You're not gonna violate
+the rules of conservation
+of electric charge and things like that.
+So sadly, physics puts
+limits on what we can do
+that are a little bit more
+narrow than what we can imagine,
+but also it suggests new ideas for things
+that might be possible,
+and those can lead to some big surprises.
+By the middle of the 20th century,
+physics was in a funny kind of place
+because we had the idea
+of quantum mechanics.
+We even had the ideas
+of quantum field theory.
+It was in the 1940s, early '50s
+that people like Richard
+Feynman, Julian Schwinger,
+Shin'ichirō Tomonaga, figured
+out how to tame the problems
+that quantum field theory seemed to have.
+When people first invented
+quantum field theory,
+it gave nonsense answers
+for very simple questions
+like what is the probability
+the two electrons bump into each other?
+So Feynman and his friends
+figured out how to fix that,
+but it was really only
+for electromagnetism.
+That was the one force of
+nature that we really understood
+at the quantum level.
+We knew there were other forces.
+We didn't know about quarks,
+but we knew that protons
+and neutrons were kept together
+inside the nucleus of an atom.
+And in fact, we had hints
+that there was something
+called the strong nuclear force
+and the weak nuclear force.
+So what were they?
+Well, an obvious thing the
+do is to say if electricity
+and magnetism works so well,
+let's just generalize the
+idea underlying electricity
+and magnetism, which is
+something called gauge symmetry,
+symmetry of rotating
+fields into each other
+at different points in space and time.
+So this is what Yang and Mills did.
+They said, we can go from
+electromagnetism, a la Maxwell,
+to a whole bunch of
+other kinds of theories
+that are different, but similar.
+Maybe one of them describes
+the nuclear forces.
+The problem was in
+electromagnetism, the existence
+of that symmetry predicts
+something very noticeable,
+namely, the photon has zero mass.
+It's a massless particle.
+Being a massless particle
+means the force associated
+with that particle extends
+very far throughout space.
+And indeed the two massless
+particles we know about
+are the photon of electromagnetism
+and the graviton of gravity,
+both of which give rise
+to long range forces.
+But the nuclear forces are not long range.
+They're confined to very short
+distances inside the nucleus.
+So other people said, well,
+it can't be a similar gauge
+principle like electromagnetism,
+has to be something different.
+It turns out that indeed
+both the weak nuclear force
+and the strong nuclear force
+are due to gauge symmetries
+much like electromagnetism,
+but nature hides them from
+us in very clever ways.
+And I like to say this is
+because the universe loves us,
+and the reason why the universe loves us
+is because it uses every
+possible trick in its book
+to construct the standard
+model of particle physics
+to make it the most rewarding
+it can be when physicists figure it out
+and when graduate students
+have to solve those problems.
+So basically, if you want
+these massless particles
+to not give rise to long range forces,
+there's two different ways to do it.
+One way is made use of by
+the strong interactions,
+and the other way is made use
+of by the weak interactions.
+And the strong interactions is the gluons
+that are carrying the
+strong nuclear force.
+They are massless particles,
+but they don't stretch out to infinity
+because they keep bumping into each other.
+The strong nuclear force is a
+strongly interacting theory,
+so the gluons just zoom around in circles,
+bumping into each other inside
+the protons and neutrons,
+and you can't pull them apart.
+That is why that force is short range.
+For the weak nuclear force,
+it's the Higgs boson
+that is doing the work.
+The Higgs boson fills all of space
+and basically confines
+the weak nuclear force
+by absorbing it.
+The lines of force from the W
+and Z bosons, which would want
+to stretch out to infinity,
+get eaten up by the Higgs
+field that is all around them.
+So basically, nature uses every
+trick that it can think of
+to make physics work in interesting ways,
+and it really does give physicists a sense
+of accomplishment at the end of the day
+to figure it all out.
+Quantum mechanics is weird
+because despite the fact
+that we're celebrating its
+100th anniversary right now,
+we still don't understand it.
+We use it, we put it to
+work with amazing success,
+whether it's building
+large Hadron Collider
+or building like a semiconductor device
+in a consumer electronics thing,
+quantum mechanics is there,
+tested very, very reliable,
+but remember, it has this idea
+that when you measure
+something, it changes the state
+of the quantum system you measured,
+and you haven't told me what
+it means to measure something,
+the measurement problem.
+So of course the most obvious example
+of measuring something
+is when I as a conscious
+human being actually make
+a measurement of something.
+So it was perfectly legitimate
+and absolutely tempting,
+let's say, in the middle
+of the 20th century, to wonder
+out loud, does this mean
+that consciousness plays an important role
+in the fundamental laws of physics?
+Now, all I can tell you
+is I don't think so.
+I think very much the other way.
+I think the consciousness arises out
+of the ordinary interplay
+of all the complicated things going on
+according to the laws of physics.
+But there is a school of thought
+that says actually
+consciousness is responsible
+for the collapse of the wave
+function in quantum mechanics,
+or maybe I shouldn't even
+think about wave functions
+as real things.
+I should think about
+agents making measurements
+as the real things,
+and I use quantum mechanics
+as a tool to predict
+what their measurement outcomes will be.
+So on the one hand, I have my
+opinions about what the answer
+to these questions are,
+but on the other hand,
+even more importantly,
+I think we don't spend enough time
+and spend enough brain power
+addressing these questions.
+We've kind of swept them under the rug.
+There's this whole field
+called the foundations
+of quantum mechanics.
+What is really going on in this our best,
+most important framework for
+doing fundamental physics?
+And I like to sort of semi joke
+that if you were to tell
+somebody who didn't know anything
+about it, oh yeah,
+we have this wonderful
+theory of the world,
+but there's a part of it
+which we don't understand,
+we're still struggling with that.
+They would think, oh, it must
+be that trying to understand
+that stuff is the single most
+important goal in physics.
+That the people who are specializing it
+are the glamour scientists
+who are stolen away
+by the best universities with
+huge salaries and so forth,
+whereas the reality is the opposite.
+If this is your specialty in
+physics, you'll find it very,
+very difficult to get a job.
+Most physics departments don't want
+to think about the foundations
+of quantum mechanics
+because they can't figure
+out a way to make progress
+by doing experiments.
+So I'm glad that people have crazy ideas
+about the foundations
+of quantum mechanics,
+even if those crazy ideas
+somehow bring consciousness
+into the mix.
+I don't think that's
+ultimately the way to go,
+but we're not gonna figure it out
+unless a lot of smart people put a lot
+of effort into doing so.
+I've said before that the
+late 19th century physicist
+would be forgiven for thinking
+that they were almost done.
+They almost had it
+completely under control.
+By the way, very few people actually did.
+You can find one or two quotes
+from physicists of the era,
+but most physicists
+are a little bit more cautious than that.
+In fact, some were very explicitly saying,
+no, no, no, we're not.
+We're not done yet.
+Hang in there.
+It's happening again, right?
+Now, over 100 years later,
+we're in a situation
+where we have a theory,
+the standard model plus general relativity
+that fits all the data that we have,
+but we know it's not the final answer.
+You'll find zero physicists today saying
+that we have the complete theory.
+They might have different
+opinions about how close we are
+to having the complete theory.
+There's several obvious
+reasons why we know
+we don't have the complete theory.
+Dark matter in the universe
+is the most obvious experimental result.
+Even though we haven't
+detected dark matter
+in the laboratory, we've
+seen its effects in the sky.
+We can't fit it into the standard model,
+so that's evidence that
+we can't be finished
+with particles and fields yet.
+On the theoretical side, I
+said that we have gravity
+and we have the standard
+model of particle physics,
+but we only understand quantum gravity
+in a very limited regime
+where the gravitational
+field is relatively weak.
+We understand on the basis
+of quantum gravity why the
+earth moves around the sun
+or apples fall from trees,
+but we don't understand what happens
+when gravity becomes
+strong like in a black hole
+or near the big bang.
+This is the problem of quantum gravity,
+and it's experimentally
+inaccessible at the present moment.
+We know what energy you would need
+to have at a particle accelerator in order
+to make quantum gravitational
+effects become obvious,
+and it's way, way, way, way, way bigger
+than what we can possibly do here on earth
+with present day technology.
+There was this moment in the
+1980s when there was a lot
+of excitement about what
+is called string theory,
+or super string theory,
+and the excitement was entirely warranted
+because people made the
+relatively bold conjecture
+that instead of particles,
+you should imagine
+that the fundamental units
+of matter are little loops of string.
+And just follow your nose,
+plug that into the rules
+of quantum mechanics, see what happens.
+And what happens is absolutely amazing.
+Number one, you inevitably
+predict gravity,
+which is important 'cause gravity exists.
+Number two, you inevitably have the room
+for everything else, for all
+of the fermions and bosons
+and all these fields that
+we see in the universe.
+So the idea of a single unified theory
+of everything seemed very attainable,
+and they were very excited
+in the 1980s continuing on in the 1990s.
+String theory, as it is called,
+is still a very, very promising approach
+to unifying everything
+we know about physics,
+but we have completely
+failed in connecting it
+with experimental data.
+We were hopeful back there in the '80s.
+People said, okay, let's
+calculate the mass of the electron
+according to string theory.
+Turns out to be much,
+much harder than we ever
+anticipated it would be.
+And maybe that's because
+strength theory is not right.
+We don't know.
+Maybe it's because nature
+is just not being kind
+to us this time.
+So I think that today, far
+fewer physicists would try
+to predict how close we are
+to the fundamental theory of everything.
+I think there needs
+to be a fundamental theory of everything
+'cause there is the universe.
+There is the real world.
+The real world does something.
+The theory of everything is just the list
+of everything the universe does.
+And that may or may not be easy
+for us human beings to figure out.
+The "3 Body Problem" is
+this fun TV show based
+on these wonderful novels by Cixin Liu,
+and there's a lot of interesting
+ideas that are related
+to physics and cosmology that come up.
+I'm not gonna give you any
+spoilers or anything like that,
+but I've consulted on various TV shows
+and Hollywood films and things like that,
+and people always want to know
+how realistic the physics is.
+And I say, you know, most often,
+like the unrealistic physics
+is that the star wakes up
+after sleeping in their bed
+and their pajamas are not wrinkled.
+Like that is completely
+incompatible with laws of physics
+as I understand them.
+But it's this process of doing science
+that is really unrealistic
+in a lot of shows,
+and the "3 Body Problem" is no different.
+A big plot point in the show
+is that scientists have discovered
+that there are data coming
+in that are incompatible
+with their theories and they sort of panic
+and they don't like it
+and you know, they commit suicide
+or they quit physics or whatever.
+This is exactly the opposite
+of what would happen in the real world.
+There's nothing better in
+physics than when your theory
+is incompatible with a new piece of data,
+especially a theory
+that has been working very,
+very well for a long time.
+Now, if you are individually
+the person who came up
+with the theory, you might be sad.
+But as a community, that's
+how you make progress.
+If you want to win the
+Nobel Prize in physics,
+you don't show that Einstein was right.
+You show that Einstein was wrong.
+That's the way to get people excited.
+And for whatever reason, right
+now, we're in a situation
+where in fundamental physics,
+in cosmology, gravity,
+particle physics, our
+theories are almost too good.
+Our theories are fitting the
+data really, really well.
+It's very different than
+the situation 100 years ago
+when we were chasing all of these new,
+surprising experimental results.
+That's when you can come
+up with better ideas.
+The space of possible theories
+of physics is way too big
+to just guess the right answer.
+We need guidance from experiments,
+and the kind of guidance we
+need is unexpected results.
+So the only way to do
+that is to build bigger
+and better experiments,
+and that's what we're trying
+very hard to do right now.
+It's an almost inevitable
+temptation to think
+that when we build better computers,
+whether it's literally quantum computers
+or just much more effective
+artificial intelligence algorithms,
+that that will help us doing physics,
+that that will give us new ideas,
+maybe new input from somewhere.
+I'm on the one hand super
+optimistic about the usefulness
+of quantum computers and
+AI as tools in physics,
+and at the same time,
+pretty darn skeptical
+that it will lead to new
+conceptual breakthroughs.
+What computers are really good at doing
+is solving well-posed problems.
+So in mathematics, for
+example, if you have a theorem
+and you want to prove the
+theorem, this is a lot
+of what mathematicians do, prove theorems,
+I have no trouble imagining that computers
+are gonna start becoming
+better at proving theorems
+than human beings are.
+Computers are better at playing chess
+and go than human beings are.
+Proving theorems is kind
+of in the same direction.
+But doing math is so much more than that
+because doing math involves asking
+the questions in the first place.
+Like, what if I put this thing
+together with that thing?
+And physics is very similar.
+What if I think about
+this particular system
+in a completely new way?
+They're not well-defined problems,
+and those are the areas where
+computers are not as good.
+Maybe they will get there.
+I have no doubt that in
+principle, a computer
+can be just as good as a human being.
+But because we human beings
+don't even understand
+what's going on when we
+make these creative leaps
+it's hard for us to train
+the computers to do it.
+So in my lifetime anyway, I don't think
+that my job is in danger
+of being put out of work
+by the computer revolution.
+There's so many questions
+that are easy to ask
+and hard to answer.
+You know, people ask me
+on my podcast, you know,
+if you just be having one
+physics result from the future
+told you, what would it be?
+Well, I wanna know the
+theory of everything, right?
+Like, is that cheating?
+Is that not giving an unfair answer?
+I wanna know everything.
+But if you wanna narrow
+it down to like one aspect
+of everything that we
+better to understand,
+I wanna understand how to
+reconcile quantum mechanics
+with gravity, right?
+I wanna understand
+what quantum mechanics
+itself actually says
+and how gravity emerges from that.
+I have some ideas about it.
+We're working on it, you
+know, in our day jobs,
+but I suspect that there's something deep
+that we haven't yet guessed at yet,
+and that's gonna be related to a bunch
+of other questions like, what
+happened at the Big Bang?
+What happens inside Black Holes?
+There's many other
+questions you could ask,
+but that's one group of questions
+that everyone recognizes
+is really important.
+We're all thinking about it very hard,
+but we don't know the final answers yet.
+- [Announcer] Wanna support the channel?
+Join the Big Think Members
+Community where you get access
+to videos early ad-free.
