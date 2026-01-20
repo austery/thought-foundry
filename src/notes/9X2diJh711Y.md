@@ -1,0 +1,184 @@
+---
+author: TVO Today
+date: '2026-01-20'
+guest: ''
+layout: post.njk
+source: https://www.youtube.com/watch?v=9X2diJh711Y
+speaker: TVO Today
+tags:
+  - iran-protests
+  - political-transition
+  - foreign-policy
+  - exiled-leadership
+  - regime-change
+title: 伊朗民主前景：抗议、干预与未来之路
+summary: 本次访谈聚焦近期伊朗街头抗议活动，探讨了经济困境、伊斯兰共和国政府的镇压，以及美国总统特朗普的表态。嘉宾Moral Karimi分析了流亡王子\"Reza Pahlavi\"的政治诉求及其与美国右翼的潜在联系，并评论了特朗普在伊朗问题上反复无常的态度。访谈还讨论了加拿大在处理与伊朗无外交关系的情况下，如何援助其公民，并对伊朗的民主化前景进行了展望，强调这是一场长期的斗争。
+insight: ''
+draft: true
+series: ''
+category: geopolitics
+area: geopolitics
+project: []
+people:
+  - Reza Pahlavi
+  - Donald Trump
+companies_orgs: []
+products_models: []
+media_books: []
+status: evergreen
+---
+### 伊朗抗议现状
+
+**Interviewer**: Since late December, Iranians have been taking to the streets, protesting dire economic conditions and calling for an end to the **Islamic Republic government**. The regime has responded with brutal crackdowns, reportedly killing thousands. US President **Donald Trump** has pledged to help the protesters, and military action seems to be a real possibility. I sat down with **Moral Karimi**, a faculty lecturer at **Toronto Metropolitan University**, who was born in Iran soon after the **1979 revolution**. We talked about whether US intervention could help or hurt the cause, what our own government should be doing, and how Iranians in Canada are coping.
+
+<details>
+<summary>Original English</summary>
+
+**Interviewer**: Since late December, Iranians have been taking to the streets, protesting dire economic conditions and calling for an end to the **Islamic Republic government**. The regime has responded with brutal crackdowns, reportedly killing thousands. US President **Donald Trump** has pledged to help the protesters, and military action seems to be a real possibility. I sat down with **Moral Karimi**, a faculty lecturer at **Toronto Metropolitan University**, who was born in Iran soon after the **1979 revolution**. We talked about whether US intervention could help or hurt the cause, what our own government should be doing, and how Iranians in Canada are coping.
+
+</details>
+
+### 加拿大社区影响
+
+**Moral Karimi**: Things are things are obviously tense uh when we talk about Iran right now. Can you give us a sense of the toll on the Iranian community here in Canada? Obviously not a monolith. Uh but can you give some stories? What are we hearing? Are people uh trying to get in touch with family? What is that? What are the conversations you're hearing?
+
+<details>
+<summary>Original English</summary>
+
+**Moral Karimi**: Things are things are obviously tense uh when we talk about Iran right now. Can you give us a sense of the toll on the Iranian community here in Canada? Obviously not a monolith. Uh but can you give some stories? What are we hearing? Are people uh trying to get in touch with family? What is that? What are the conversations you're hearing?
+
+</details>
+
+**Moral Karimi**: Well, the community, as you said, is is quite tense. They're worried about loved ones back home as the um lines of communication are slowly being reestablished and most of the time it's only phone and it's only one way they can uh connect with uh loved ones. Oftentimes [clears throat] they're horror stories of uh very short conversations. Uh sometimes the news is I talk to my dad or my mom or my cousin and yesterday I read a family has lost 10 members um in the protest um and or uh you know we're all good but there is a blood bath. We've seen things that we can never forget and we need the international community to help us.
+
+<details>
+<summary>Original English</summary>
+
+**Moral Karimi**: Well, the community, as you said, is is quite tense. They're worried about loved ones back home as the um lines of communication are slowly being reestablished and most of the time it's only phone and it's only one way they can uh connect with uh loved ones. Oftentimes [clears throat] they're horror stories of uh very short conversations. Uh sometimes the news is I talk to my dad or my mom or my cousin and yesterday I read a family has lost 10 members um in the protest um and or uh you know we're all good but there is a blood bath. We've seen things that we can never forget and we need the international community to help us.
+
+</details>
+
+### 流亡王子的诉求
+
+**Interviewer**: One of the voices that has sort of come up through through this conversation but through the headlines is actually exiled crown uh Prince **Reza Pahlavi**. He's outlined his aspirations if the Iran theocracy was to be toppled. What's on his what's on the top of his list?
+
+<details>
+<summary>Original English</summary>
+
+**Interviewer**: One of the voices that has sort of come up through through this conversation but through the headlines is actually exiled crown uh Prince **Reza Pahlavi**. He's outlined his aspirations if the Iran theocracy was to be toppled. What's on his what's on the top of his list?
+
+</details>
+
+**Moral Karimi**: Well, your guess is almost as good as mine, Jan. It's over the years um Raza Palvi has flip-flopped uh from uh I'm just an inspirational leader to um I'm [clears throat] the crown prince to I can um I I can only lead I would only lead the transition to sometimes even you know people will will vote and we'll find out. So we're not sure exactly his latest iteration is that um I am going to lead this um uprising and uh however um we don't it's unclear where he got his mandate from or whom he got it from.
+
+<details>
+<summary>Original English</summary>
+
+**Moral Karimi**: Well, your guess is almost as good as mine, Jan. It's over the years um Raza Palvi has flip-flopped uh from uh I'm just an inspirational leader to um I'm [clears throat] the crown prince to I can um I I can only lead I would only lead the transition to sometimes even you know people will will vote and we'll find out. So we're not sure exactly his latest iteration is that um I am going to lead this um uprising and uh however um we don't it's unclear where he got his mandate from or whom he got it from.
+
+</details>
+
+**Interviewer**: The exiled crown prince **Reza Pahlavi** has has mentioned that uh he does not want a pursuit of nuclear weapons. He wants to confront drug trafficking, an immediate recognition of the state of **Israel**. Some experts have pointed out that the exiled crown prince's aspirations are exactly what **Donald Trump** wants to hear. Your thoughts?
+
+<details>
+<summary>Original English</summary>
+
+**Interviewer**: The exiled crown prince **Reza Pahlavi** has has mentioned that uh he does not want a pursuit of nuclear weapons. He wants to confront drug trafficking, an immediate recognition of the state of **Israel**. Some experts have pointed out that the exiled crown prince's aspirations are exactly what **Donald Trump** wants to hear. Your thoughts?
+
+</details>
+
+**Moral Karimi**: Sounds well, he is aligned. He has largely aligned himself with the Israeli right and the American right. the two groups that uh have the most potential to support him to uh reinstate monarchy or lead Iran. Which brings me to my previous point of um it is difficult to to trust a figure that on the one hand, [clears throat] excuse me, um states that um he is only the uh wants to be the um transitional leader and on the other hand the points that he puts forward are more uh likely uh they're they're the the aspirations of a leader of a long-term leader and And let me remind you that we in the recent history we've had a very similar figure figure called Ayati. And I've studied and I've and I discuss in my book uh the rhetoric of **Ayatollah Khomeini** both prior to the 79 revolution and after. And that's exactly what he talks about. I'm just a spiritual leader. I'm just a clergy. Uh people want me to lead this this movement now. And once I go home and the revolution is victorious, I'm going to back go back to the seminaries and um you know not be involved in politics. And we also know transition governments have immense power and this is all assuming that the regime will fall which is unlikely. um they're the ones who um for example put together a um a group of people, a coalition um to write the future constitution. They're the ones who decide what the structures um and institutions of the future government are going to be. So it's not just a simple um leading the transition. It it doesn't stop there.
+
+<details>
+<summary>Original English</summary>
+
+**Moral Karimi**: Sounds well, he is aligned. He has largely aligned himself with the Israeli right and the American right. the two groups that uh have the most potential to support him to uh reinstate monarchy or lead Iran. Which brings me to my previous point of um it is difficult to to trust a figure that on the one hand, [clears throat] excuse me, um states that um he is only the uh wants to be the um transitional leader and on the other hand the points that he puts forward are more uh likely uh they're they're the the aspirations of a leader of a long-term leader and And let me remind you that we in the recent history we've had a very similar figure figure called Ayati. And I've studied and I've and I discuss in my book uh the rhetoric of **Ayatollah Khomeini** both prior to the 79 revolution and after. And that's exactly what he talks about. I'm just a spiritual leader. I'm just a clergy. Uh people want me to lead this this movement now. And once I go home and the revolution is victorious, I'm going to back go back to the seminaries and um you know not be involved in politics. And we also know transition governments have immense power and this is all assuming that the regime will fall which is unlikely. um they're the ones who um for example put together a um a group of people, a coalition um to write the future constitution. They're the ones who decide what the structures um and institutions of the future government are going to be. So it's not just a simple um leading the transition. It it doesn't stop there.
+
+</details>
+
+### 特朗普的角色
+
+**Interviewer**: **Donald Trump** has some say egg on protesters uh in Iran and has said help is on the way. In one of his social media posts, he even uh wrote MIGA MIG AA **make Iran great again**. Of course, reference to MAGA, **make America great again**. Iran has warned that any attack on the country's supreme leader would be a declaration of war. How do you see this all playing out where things are changing so quickly? Uh what's what happens next?
+
+<details>
+<summary>Original English</summary>
+
+**Interviewer**: **Donald Trump** has some say egg on protesters uh in Iran and has said help is on the way. In one of his social media posts, he even uh wrote MIGA MIG AA **make Iran great again**. Of course, reference to MAGA, **make America great again**. Iran has warned that any attack on the country's supreme leader would be a declaration of war. How do you see this all playing out where things are changing so quickly? Uh what's what happens next?
+
+</details>
+
+**Moral Karimi**: Well, I think we can agree that the only consistent thing about **Donald Trump** is that he's inconsistent and that um he um on consecutive days he um first he said if if there are any attacks on Iran on on the protesters will attack. Help is on the way. And then uh he somehow came up with a number. We still don't know the the the the the source of uh the the 800 um people that he claimed were the Islamic Republic was going to execute in public. And then when that didn't happen, he came out and he said he thanked the Iranian leadership for not doing that.
+
+<details>
+<summary>Original English</summary>
+
+**Moral Karimi**: Well, I think we can agree that the only consistent thing about **Donald Trump** is that he's inconsistent and that um he um on consecutive days he um first he said if if there are any attacks on Iran on on the protesters will attack. Help is on the way. And then uh he somehow came up with a number. We still don't know the the the the the source of uh the the 800 um people that he claimed were the Islamic Republic was going to execute in public. And then when that didn't happen, he came out and he said he thanked the Iranian leadership for not doing that.
+
+</details>
+
+**Interviewer**: Flip-flop.
+
+<details>
+<summary>Original English</summary>
+
+**Interviewer**: Flip-flop.
+
+</details>
+
+**Moral Karimi**: Yeah. Flip-flopping again. And then the next day once the supreme leader uh spoke and held him and the **United States** government responsible, **Donald Trump** came back back and said, "Well, um he's an ill leader and and maybe it's time for regime change." His position has been similar when it comes to the crown prince, but he typically, I have to say to **Donald Trump**'s credit, this time around, he has remained largely consistent, though not explicit. Um, most of the time, has said that he doesn't seem to have a base in Iran. He doesn't seem to be able to lead. Um, however, Trump, I think what we know of him is he is he looks for quick wins. And right now that quick win seems to be Greenland. His focus is on that. Iran is going to be an extremely tough pill to swallow for him. To the west of Iran, there is Iraq and we all know what happened there once US invaded. And to the to east of Iran is Afghanistan.
+
+<details>
+<summary>Original English</summary>
+
+**Moral Karimi**: Yeah. Flip-flopping again. And then the next day once the supreme leader uh spoke and held him and the **United States** government responsible, **Donald Trump** came back back and said, "Well, um he's an ill leader and and maybe it's time for regime change." His position has been similar when it comes to the crown prince, but he typically, I have to say to **Donald Trump**'s credit, this time around, he has remained largely consistent, though not explicit. Um, most of the time, has said that he doesn't seem to have a base in Iran. He doesn't seem to be able to lead. Um, however, Trump, I think what we know of him is he is he looks for quick wins. And right now that quick win seems to be Greenland. His focus is on that. Iran is going to be an extremely tough pill to swallow for him. To the west of Iran, there is Iraq and we all know what happened there once US invaded. And to the to east of Iran is Afghanistan.
+
+</details>
+
+**Interviewer**: Still same story. And and uh Iran is much stronger in terms of its military and and political institutions. um and the opposition as those two. So, it's not an easy he doesn't have an endgame in Iran.
+
+<details>
+<summary>Original English</summary>
+
+**Interviewer**: Still same story. And and uh Iran is much stronger in terms of its military and and political institutions. um and the opposition as those two. So, it's not an easy he doesn't have an endgame in Iran.
+
+</details>
+
+### 加拿大的困境
+
+**Interviewer**: So, there are at least 3,000 Canadian citizens and permanent residents in Iran at the moment. As we know, **Canada** and Iran do not have any diplomatic relations in more than a decade or so. What does how does this limit what Canada can do for those who are there?
+
+<details>
+<summary>Original English</summary>
+
+**Interviewer**: So, there are at least 3,000 Canadian citizens and permanent residents in Iran at the moment. As we know, **Canada** and Iran do not have any diplomatic relations in more than a decade or so. What does how does this limit what Canada can do for those who are there?
+
+</details>
+
+**Moral Karimi**: I think um **Canada** actually can play a a significant role. we can uh back channel through the diplomatic means with our allies who do have um um embassies and consulates in Iran um and kind of try to get our citizens out and also try to deescalate these threats that **Israel** and the **United States** pose on Iran, the threats of bombings and you know invasion which just escalate the crisis more. very quickly. A couple seconds left, but uh want to hopefully leave on some hope uh with where we are right now, but uh how are you watching this and and what do you hope uh comes as a resolution?
+
+<details>
+<summary>Original English</summary>
+
+**Moral Karimi**: I think um **Canada** actually can play a a significant role. we can uh back channel through the diplomatic means with our allies who do have um um embassies and consulates in Iran um and kind of try to get our citizens out and also try to deescalate these threats that **Israel** and the **United States** pose on Iran, the threats of bombings and you know invasion which just escalate the crisis more. very quickly. A couple seconds left, but uh want to hopefully leave on some hope uh with where we are right now, but uh how are you watching this and and what do you hope uh comes as a resolution?
+
+</details>
+
+### 长期斗争的希望
+
+**Moral Karimi**: Well, this is a marathon, not a sprint. This is clearly a devastating setback uh for the people of Iran and their aspirations, but they've been doing this for over a century and a half. We're adept at fighting and this quest for democracy and dignity is clearly not going anywhere. Well, thank you so much. Really appreciate it.
+
+<details>
+<summary>Original English</summary>
+
+**Moral Karimi**: Well, this is a marathon, not a sprint. This is clearly a devastating setback uh for the people of Iran and their aspirations, but they've been doing this for over a century and a half. We're adept at fighting and this quest for democracy and dignity is clearly not going anywhere. Well, thank you so much. Really appreciate it.
+
+</details>
+
+**Interviewer**: Thank you for having me.
+
+<details>
+<summary>Original English</summary>
+
+**Interviewer**: Thank you for having me.
+
+</details>
