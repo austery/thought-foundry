@@ -1,0 +1,353 @@
+(Overlapping voices and music)
+(Electronic countdown sound)
+Gary Hustwit: (Laughs)
+Hey, everyone.
+Hi, I'm an independent filmmaker,
+and for the past 20 years,
+I've been making documentaries
+about design, art and music,
+but they're really about people.
+And over the years,
+I started to question the limitations
+of documentary filmmaking.
+Because human beings are multidimensional.
+There's never just one story
+about any of us.
+The documentary film is,
+by its nature, reductive.
+Any documentary you've ever seen
+is just a tiny sliver of the actual story.
+But what if a film
+could tell more than one story?
+Or what if one film could tell
+thousands of stories about its subject?
+How could we reenvision documentaries
+so that they were as multifaceted
+as human beings are?
+Well that’s what my team and I
+have been working on.
+And last year, we released
+a film called "Eno."
+It's a documentary
+about the musician and artist Brian Eno
+that changes every time it's shown.
+It's the world's first
+generative feature film,
+and there are billions
+of possible variations of it.
+It's always a story about Brian Eno,
+it's just a different story
+every time you watch it.
+So you probably have some questions,
+like "How does the film change?"
+"Why does the film change?"
+"How do I talk to my friend about a movie
+if they've seen a totally
+different version of it?"
+Or "Why are you doing this to us, Gary?
+We like our movies the way they are."
+Yes, we all love movies.
+We've watched hundreds
+of them in our lifetime.
+Thousands, probably.
+And we have our favorites.
+But there's one thing
+that all of these movies have in common.
+They are all linear, fixed experiences.
+There's a beginning and an end,
+and they're the same
+every time we watch them.
+But have you ever wondered why?
+Like why do films
+have to be the same every time?
+The reason is actually
+a technical constraint
+from 130 years ago, when cinema was born
+and film was a physical medium,
+a reel of celluloid images
+that had to scroll
+through cameras and projectors,
+and they had to make
+duplicate copies of those reels
+and send them out to theaters.
+But 25 or 30 years ago,
+when filmmaking all went digital,
+suddenly, this constraint
+of physicality is gone,
+but we've continued to make movies
+kind of in the same way we always have.
+It's like we're playing by a rule book
+that doesn't exist anymore.
+So in 2019, I reached out
+to Brendan Dawes,
+who is a digital artist in England,
+and we started experimenting.
+We wanted to see if we could make
+a cinematic documentary
+that was created dynamically in software,
+with real footage,
+that could tell
+a different story each time.
+We built a generative video platform
+that was entirely human-coded.
+It wasn't an AI model based
+or trained on other people's work.
+And as we were experimenting, we realized,
+like, who the ideal subject would be
+for the first generative film.
+And then, we reached out to this guy.
+(Music)
+Video: Can you tell us your full name?
+Video: Brian Peter George
+St John the Baptist de la Salle Eno.
+(Electronic sound)
+GH: We'll just use his shortened form
+of his name for this talk.
+So, Brian, for the past 50 years,
+has been pushing the boundaries
+of creativity and technology,
+from his electronic music
+experiments in Roxy Music
+to his collaborations with David Bowie
+on records like "Heroes,"
+to producing Talking Heads,
+U2, Laurie Anderson,
+Grace Jones, so many others.
+And he's released over 40 solo
+and collaboration records.
+And in the 1990s,
+long before generative AI,
+Brian was making software
+to create generative music.
+He likened it to planting the seeds
+for a piece of music,
+and then letting
+that piece of music flower
+in thousands of different ways
+over the course of time.
+It was like the music was a living thing.
+Now I’d actually approached Brian
+several years before this
+about doing a normal documentary,
+and he turned me down,
+and he turned down a lot of filmmakers.
+But his reason was really fascinating.
+He said he hated
+biographical documentaries
+because it was always one person's version
+of another person's story,
+and there was never
+just one story about anyone.
+But Brendan and I
+thought we had a solution to this,
+and we showed him an early demo
+of our generative film software,
+and he was really excited.
+I still don't think he wanted
+to have a movie made about him,
+but he wanted to be part
+of this generative film experiment,
+and that was the price
+that he had to pay. (Laughs)
+Brian gave us access
+to hundreds of hours of archival footage
+on every obsolete
+videotape format imaginable.
+It took us two years just to digitize
+and catalog all this stuff,
+but we needed more than just
+archival footage to tell this story.
+So I filmed another 50 hours with Brian
+talking about his creative process.
+In the end, we had
+over 500 hours of material
+for this generative software platform.
+And I'll show you how that works.
+We start off with a data set
+of edited scenes, raw footage and music,
+and the system selects pieces
+from that material
+and builds them into a film
+that's probably 85 to 90 minutes long.
+Now the system knows
+what all the contents of these pieces are,
+and it knows how to arrange them
+into a good story flow.
+It also creates transitions
+between the scenes
+dynamically, in real time.
+The biggest challenge for us
+was how to make it so that every version
+of the film had an engaging story arc,
+regardless of what
+individual pieces were in it.
+Filmmakers are notoriously control freaks,
+but I still have control.
+But it's on this higher level.
+Like I’m curating
+all the different little pieces
+that could go into this system,
+and I'm also designing the limitless ways
+that they can interact.
+So I don't have control over the contents
+of each individual film,
+but it doesn't matter,
+because it always works.
+We've designed it that way.
+And I get to be surprised
+by my own film every time I watch it,
+which is crazy and so liberating.
+If you have 500 hours of footage
+you got to get down to a 90-minute film,
+this is what you're left with.
+It's the cutting-room floor thing.
+Normally in a film, you'd have to get rid
+of all that other footage
+and get it down to that time thing.
+"Killing your darlings" is what they say.
+But in this approach,
+there is no cutting-room floor.
+I can put as much material in,
+and it will come up in different versions
+of the film in different ways.
+So it's not like a "choose
+your own adventure."
+Well actually, it’s more
+like the adventure choosing you.
+But another thing that we built in
+that's really cool
+is that, in any iteration
+of the film, in every one,
+either Laurie Anderson
+or David Byrne will appear
+and choose one of Brian's
+"Oblique Strategies" cards.
+These are, like, random prompts.
+If you're in a creative bind,
+you can read them.
+So there's dozens of them,
+and depending on which one
+comes up in the film,
+it will divert the movie
+or react in some way.
+So I'll show you how that works.
+[Oblique Strategies]
+Laurie Anderson: Retrace your steps.
+(Music)
+David Byrne: Turn it upside down.
+(Music)
+LA: Gardening.
+Not architecture.
+BE: So this is Cotinus.
+That's a family of plants
+that I like a lot.
+In fact, in this garden, we have a lot
+of Cotinus, a lot of dogwood.
+GH: There are many more cards
+and many more directions
+that they can push the film.
+The code that we've been seeing on screen
+is our system parsing the data set
+and going through all the file names,
+and deciding what it's going
+to choose next.
+We premiered the film
+at the Sundance Film Festival,
+and we've shown it in hundreds
+of cinemas around the world since then,
+and every time,
+it’s been a different version.
+And each audience that’s seen it
+was seeing a film that was made for them,
+that no other audience
+in the world will ever see.
+People have come back three,
+four, 10, 20 times or more
+to see different versions,
+and every time, they're getting
+another layer of Brian's story.
+Then they talk to their friends
+and they're, like, comparing versions.
+"Did you see the David Bowie scene?"
+"No, I didn't see it."
+So it's a totally new way to watch movies.
+Oh, the film was shortlisted for the
+Academy Award for Best Documentary.
+(Laughter)
+I buried the lede.
+(Cheers and applause)
+(Laughs)
+(Cheers and applause)
+Oh my God, I buried the lede.
+But the question was
+what was actually being nominated.
+Like which version of the billions
+of different versions of the film?
+And all of them?
+Like nobody really knew.
+But these are questions
+that the film industry in Hollywood
+will have to answer soon.
+Now we’re developing streaming software
+so we can stream
+generative films like this.
+And we're also collaborating
+with other filmmakers
+to bring this technology into their films.
+And there are so many creative
+possibilities as we scale this idea up.
+Like what about a Marvel film
+where it’s different in every theater,
+and fans can go see multiple versions
+and piece together the story puzzle.
+We can also remix existing films
+with the software.
+For the past few months,
+we've been playing
+with a generative version
+of David Lynch's "Mulholland Drive,"
+which is crazy, just re-edits
+itself over and over again.
+Or it could just play
+forever and never repeat.
+Just to be clear, this approach,
+I'm not saying it's a replacement
+for, you know, normal movies,
+but it's a different path.
+And I think it's so important for us
+to keep questioning these legacy models.
+Just because something
+is one way for a long time
+doesn't mean it's the only way
+or the best way.
+As filmmakers, we've never
+had to ask the question of, like,
+"How would my film change
+if it could change,"
+because we didn't have
+the technical capability to even do it.
+So now that we have that ...
+the fun part is thinking about all the new
+storytelling possibilities
+and all the cinematic languages
+that this can unlock.
+(Electronic sound)
+BE: When you create something,
+you're doing this thing
+that humans are very good at,
+which is imagining.
+(Music)
+We really need to be able
+to harness the intelligence
+and creativity of everybody, actually.
+Art is a way we do that.
+I think that's a real hope for the future.
+LA: Is it finished?
+(Laughter)
+GH: We'll never be finished reinventing
+the way we tell stories as human beings,
+but this talk is finished.
+Thank you so much, everyone.
+(Cheers and applause)
+Thank you.
+(Cheers and applause)
