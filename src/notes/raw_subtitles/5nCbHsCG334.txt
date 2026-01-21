@@ -1,0 +1,7630 @@
+All
+ right,
+ everybody.
+ We're
+ thrilled
+ to
+
+
+have
+ the
+ one,
+ the
+ only
+ Tata
+ Nadella
+
+
+here,
+ the
+ third
+ CEO
+ of
+ Microsoft
+ for
+ a
+
+
+uh
+ impromptu
+ fireside
+ chat
+ with
+ David
+
+
+Saxs,
+ Arzar
+ of
+ AI
+ and
+ crypto.
+ Satia
+
+
+third,
+ CEO
+ of
+ Microsoft,
+ born
+ in
+ India.
+
+
+What
+ an
+ incredible
+ story.
+ came
+ here
+
+
+right
+ after
+ college
+ and
+ uh
+ you
+ had
+ a
+
+
+little
+ round
+ trip
+ to
+ pick
+ up
+ your
+ wife
+
+
+in
+ your
+ book
+ to
+ to
+ bring
+ her
+ here.
+ Tell
+
+
+everybody
+ briefly
+ uh
+ how
+ that
+ occurred.
+
+
+>> Well
+ um
+ uh
+ you
+ know
+ so
+ that's
+ that's
+ a
+
+
+great
+ story
+ of
+ uh
+ the
+ uh
+ the
+ labyrinth
+
+
+that
+ is
+ the
+ immigration
+ policies
+ of
+ the
+
+
+United
+ States
+ I
+ think.
+ Um
+ I
+ my
+ wife
+ and
+
+
+I
+ went
+ to
+ college
+ together
+ in
+ India.
+ I
+
+
+came
+ here
+ for
+ grad
+ school.
+ We
+ then
+ got
+
+
+married.
+ Uh
+ I
+ got
+ my
+ green
+ card.
+ Um
+ and
+
+
+she
+ couldn't
+ come
+ join
+ because
+ we
+ got
+
+
+married.
+ So
+ the
+ story
+ goes
+ basically
+ I
+
+
+had
+ to
+ give
+ up
+ my
+ green
+ card.
+ So
+ the
+
+
+funny
+ thing
+ is
+ I
+ went
+ to
+ the
+ American
+
+
+embassy
+ in
+ Delhi
+
+
+>> and
+ I
+ said
+ where's
+ the
+ line
+ to
+ give
+ up
+
+
+my
+ green
+ card?
+ And
+ they
+ said
+ there
+ is
+ no
+
+
+such
+ line.
+ Um
+
+
+>> that
+ would
+ be
+ a
+ crazy
+ thing
+ to
+ do
+ in
+ the
+
+
+'9s.
+ So
+ it
+ was
+ a
+ strange
+ thing
+ to
+ give
+
+
+up
+ your
+ green
+ card,
+ get
+ an
+ H1
+ so
+ that
+
+
+she
+ could
+ join,
+ but
+ it
+ all
+ worked
+ out.
+
+
+So
+ um
+ you
+ know
+ it's
+ a
+ long
+ lost
+ memory
+
+
+but
+ it
+ was
+ you
+ know
+ a
+ way
+ to
+ work
+ around
+
+
+it.
+ Um
+ I
+ wanted
+ to
+ ask
+ you
+ uh
+ having
+
+
+launched
+ a
+ co-pilot
+ first
+ with
+ GitHub
+
+
+then
+ having
+ a
+ co-pilot
+ on
+ the
+ desktop.
+
+
+You
+ made
+ a
+ very
+ bold
+ move
+ for
+ Microsoft
+
+
+to
+ put
+ that
+ in
+ the
+ Windows
+ product,
+
+
+which
+ I
+ use
+ every
+ day,
+ on
+ the
+ desktop,
+
+
+but
+ you
+ did
+ that
+ before
+ it
+ really
+ could
+
+
+recognize
+ the
+ file
+ system
+ and
+ interact
+
+
+with
+ applications.
+ Got
+ a
+ little
+ bit
+ of a
+
+
+lukewarm
+ reception,
+ but
+ now
+ you've
+ been
+
+
+doubling
+ down,
+ doubling
+ down,
+ and
+ there
+
+
+seems
+ to
+ be,
+ in
+ my
+ estimation,
+ three
+
+
+modalities
+ for
+ knowledge
+ workers.
+
+
+Elon's
+ building
+ at
+ XAI,
+
+
+what
+ they're
+ calling
+ a
+ human
+ emulator,
+
+
+if
+ you
+ saw
+ that
+ leak
+ this
+ week.
+ Yeah.
+
+
+uh
+ where
+ they're
+ just
+ building
+ employees
+
+
+and
+ just
+ putting
+ them
+ into
+ their
+ chat
+
+
+rooms
+ and
+ email.
+ Then
+ you
+ have
+ Claude
+
+
+came
+ out
+ with
+ co-work
+ this
+ week.
+
+
+Incredibly
+ powerful.
+ People
+ are
+ kind
+ of
+
+
+losing
+ their
+ minds
+ over
+ it.
+ I've
+ been
+
+
+playing
+ with
+ it
+ for
+ the
+ last
+ 40
+ hours.
+
+
+Truly
+ impressive.
+
+
+What's
+ your
+ vision
+ for
+ Microsoft
+ and
+ how
+
+
+knowledge
+ workers
+ will
+ actually
+ put
+ this
+
+
+to
+ use
+ because
+ there
+ seems
+ to
+ be
+ a
+ gap
+
+
+between
+ you
+ know
+ playing
+ around
+ with
+
+
+chatbt
+ and
+ getting
+ some
+ interesting
+
+
+results
+ and
+ getting
+ business
+ results.
+
+
+>> Yeah.
+ So
+ I
+ think
+ it
+ one
+ of the
+ most
+ um
+
+
+perhaps
+ illustrative
+ examples
+ um
+ of
+
+
+trying
+ to
+ understand
+ these
+ various
+ form
+
+
+factors
+ is
+ looking
+ at
+ coding
+ which
+ is
+
+
+obviously
+ a
+ form
+ of
+ knowledge
+ work
+ or
+ uh
+
+
+probably
+ the
+ best
+ example
+ of
+ knowledge
+
+
+work
+ and
+ if
+ you
+ think
+ about
+ the
+ journey
+
+
+coding
+ has
+ been
+ it
+ started
+ with
+ u
+
+
+essentially
+ uh
+ uh
+ the
+ next
+ edit
+ suggest
+
+
+right
+ that
+ was
+ the
+ first
+ time
+ in
+ fact
+ my
+
+
+own
+ belief
+ in
+ this
+ entire
+ uh
+ generation
+
+
+of
+ tech
+ really
+ sort
+ of
+ got
+ formulated
+
+
+where
+ I
+ started
+ seeing
+ I
+ think
+ it
+ was
+ G
+
+
+you
+ know
+ there's
+ a
+ codeex
+ model
+ back
+ in
+
+
+the
+ day
+ it
+ was
+ preGPT35
+
+
+uh
+ that's
+ when
+ next
+ edits
+ started
+
+
+working
+ with
+ some
+ real
+ accuracy
+ then
+ we
+
+
+went
+ to
+ chat
+ then
+ we
+ went
+ to
+ actions
+ and
+
+
+now
+ to
+ full
+ autonomous
+ agents
+ and
+ then
+
+
+the
+ autonomous
+ agents
+ can
+ be
+ both
+
+
+foreground
+ background
+ in
+ the
+ cloud
+ or
+
+
+local
+ right
+ so
+ that's
+ all
+ the
+ form
+
+
+factors
+ that
+ exist
+ today
+ when
+ you're
+
+
+coding
+ and
+ interestingly
+ If
+ you
+ look
+ at
+
+
+it,
+ you
+ use
+ all
+ of
+ them,
+ right?
+ It's
+ not
+
+
+like
+ there's
+ only
+ one
+ form
+ factor.
+ So
+
+
+that's
+ I
+ think
+ probably
+ one
+ of
+ the
+ other
+
+
+lessons.
+ So
+ for
+ example,
+ when
+ I'm
+ in
+ a
+
+
+CLI,
+ I
+ can
+ you
+ go
+ a
+ foreground
+ agent,
+
+
+background
+ agent,
+ and
+ then
+ just
+
+
+literally
+ go
+ edit
+ in
+ VS
+ Code,
+ right?
+
+
+There
+ all
+ happening
+ in
+ parallel,
+ right?
+
+
+So
+ that
+ sort
+ of
+ shows
+ how
+ these
+ form
+
+
+factors
+ even
+ composed.
+ So
+ then
+ you
+ bring
+
+
+that
+ to
+ knowledge
+ work
+ to
+ your
+ point.
+ We
+
+
+started
+ with
+ chat.
+ chat
+ with
+ reasoning
+
+
+sort
+ of
+ goes
+ beyond
+ just
+ request
+
+
+response
+ because
+ you
+ now
+ have
+ that
+ chain
+
+
+of
+ thought
+ uh
+ where
+ you
+ can
+ see
+ it
+ work
+
+
+now
+ they're
+ actions
+ right
+ essentially
+
+
+either
+ through
+ computer
+ use
+ or
+ through
+
+
+uh
+ AP
+ you
+ know
+ basically
+ skills
+ uh
+ and
+
+
+agent
+ calls
+ so
+ you
+ can
+ do
+ actions
+ so
+
+
+that's
+ kind
+ of
+ the
+ state
+ of
+ the
+ copilot
+
+
+today
+ now
+ there
+ is
+ a
+ way
+ to
+ think
+ about
+
+
+you
+ know
+ the
+ the theory
+ of
+ the
+ mind
+
+
+evolution
+ Right?
+ Because
+ you
+ need
+ like
+
+
+if
+ you
+ remember
+ you
+ know
+ Jobs
+ had
+ the
+
+
+best
+ line
+ I
+ would
+ say
+ for
+ PCs
+ or
+
+
+computers
+ was
+ to
+ say
+ if
+ you
+ it's
+ a
+
+
+bicycle
+ for
+ the
+ mind.
+ Bill
+ had
+ a
+ line
+
+
+which
+ I
+ liked
+ as
+ well
+ which
+ was
+ it's
+
+
+information
+ at
+ your
+ fingertips.
+ We
+ kind
+
+
+of
+ need
+ now
+ a
+ new
+ concept
+ metaphor
+ for
+
+
+how
+ we
+ use
+ computers
+ in
+ the
+ AI
+ age.
+ And
+
+
+you
+ have
+ one
+
+
+>> and
+ the
+ one
+ I
+ like
+ actually
+ came
+ from
+
+
+the
+ CEO
+ of
+ notion
+ which
+ I
+ you
+ know
+ that
+
+
+manager
+ of
+
+
+>> incredible
+ product.
+ Yeah.
+
+
+>> You
+ haven't
+ bought
+ it
+ yet?
+ I've
+ not
+ got
+
+
+that.
+ Uh
+ but
+ the
+ it's
+ both
+ management
+ of
+
+
+you
+ know
+ basically
+
+
+a
+ manager
+ of
+ infinite
+ minds.
+ That's
+ a
+
+
+nice
+ way
+ to
+ think
+ about
+ it
+ right
+ when
+
+
+you
+ sort
+ of
+ really
+ look
+ at
+ all
+ the
+
+
+agents
+ that
+ you
+ are
+ working
+ with.
+ You
+
+
+kind
+ of
+ need
+ to
+ understand
+ what
+ I
+ in
+
+
+fact
+ the
+ other
+ term
+ I
+ like
+ is
+ we
+ macro
+
+
+delegate
+ and
+ micro
+ steer.
+ In
+ fact
+ you
+
+
+kind
+ of
+ need
+ that
+ in
+ in in
+ coding
+ you
+
+
+kind
+ of
+ have
+ it
+ right.
+ So
+ you
+ do
+ a
+ macro
+
+
+delegation
+ and
+ then
+ I
+ can
+ in
+ parallel
+
+
+give
+ it
+ instructions
+ while
+ it
+ is
+ doing
+
+
+work.
+ So
+ that's
+ sort
+ of
+ the
+ state
+ even
+
+
+today
+ of
+ co-pilot
+ or
+ what
+ have
+ you.
+ you
+
+
+bring
+ up
+ a
+ little
+ bit
+ of
+ what
+ one
+ of
+ one
+
+
+of the
+ form
+ factors
+ I'm
+ very
+ excited
+
+
+about
+ and
+ you'll
+ see
+ us
+ even
+ in
+ the
+ next
+
+
+week
+ even
+ uh
+ do
+ things
+ is
+ while
+ I'm
+
+
+sitting
+ in
+ GitHub
+ copilot
+
+
+what
+ it's
+ not
+ as
+ if
+ software
+ developers
+
+
+sit
+ in
+ isolation
+ right
+ it's
+ not
+ like
+ the
+
+
+only
+ thing
+ I
+ work
+ on
+ is
+ my
+ repo
+ I
+ attend
+
+
+meetings
+ um
+ I
+ write
+ specs
+ or
+ others
+ have
+
+
+written
+ specs
+ that
+ I'm
+ implementing
+ uh
+ I
+
+
+need
+ to
+ have
+ my
+ repo
+ be
+ consistent
+ with
+
+
+that
+ so
+ that
+ means
+ using
+ either
+ a
+
+
+straightforward
+ MCP
+ server
+ or
+ a
+ skill
+ I
+
+
+want
+ to
+ be
+ able
+ to
+ call
+ into
+ my
+ work
+ IQ
+
+
+which
+ is
+ the
+ co-pilot
+ bring
+ that
+ in
+
+
+that's
+ the
+ type
+ of
+ composition
+ uh
+ of
+
+
+knowledge
+ work
+ that'll
+ happen
+ same
+ thing
+
+
+with
+ security
+ say
+ you're
+ a
+ security
+
+
+professional
+ you
+ have
+ lots
+ of
+ logs
+ uh
+
+
+how
+ do
+ you
+ sort
+ of
+ really
+ analyze
+ them
+
+
+you
+ drop
+ them
+ into
+ a
+ file
+ system
+ then
+
+
+write
+ code
+ on
+ top
+ of
+ it
+ create
+ a
+
+
+dashboard
+ what
+ have
+ you
+ those
+ are
+ the
+
+
+types
+ of
+ knowledge
+ work
+ that
+ we
+ can
+
+
+enable
+ there
+ I
+ think
+ you
+ bring
+ up
+ one
+
+
+more
+ thing
+ which
+ is
+ can
+ you
+ create
+ quote
+
+
+unquote
+ digital
+ employees
+ digital
+
+
+co-workers
+ or
+ what
+ have
+ you
+ and
+ it's
+ all
+
+
+about
+ credentials
+ right
+ so
+ the
+ I
+ today
+
+
+you
+ could
+ like
+ you
+ can
+ literally
+ assign
+
+
+>> are
+ you
+ working
+ on
+ that
+ as
+ well
+
+
+>> yeah
+ so
+ in
+ fact
+ we
+ introduced
+ something
+
+
+called
+ agent
+ 365
+ as
+ a
+ way
+ to
+ give
+
+
+identities
+ in
+ fact
+ extending
+ the
+
+
+identities
+ we
+ have
+ for
+ humans
+ today
+ uh
+
+
+and
+ the
+ endpoint
+ protection
+ we
+ have
+ for
+
+
+their
+ compute
+ devices
+ to
+ agents
+ so
+
+
+>> so
+ you
+ might
+ clone
+ me
+ working
+ in
+ the
+ HR
+
+
+department
+ or
+ working
+ in
+ the
+ marketing
+
+
+department
+ and
+ have
+ a
+ virtual
+ correct
+
+
+>> version
+ of
+ me
+ inside
+ of
+ office.
+
+
+>> That's
+ correct.
+ So,
+ so
+ there
+ are
+ two
+
+
+sort
+ of
+ modalities
+ there.
+ One
+ is
+ you
+
+
+give
+ every
+ knowledge
+ worker
+ infinite
+
+
+minds.
+ That's
+ kind
+ of
+ one
+ and
+ then
+ you
+
+
+create
+ even
+ infinite
+ minds
+ independent
+
+
+of
+ the
+ your
+ identity
+ because
+ the
+
+
+identity
+ is
+ one
+ of
+ the
+ key
+ things
+ you
+
+
+got
+ to
+ get
+ right
+ even
+ for
+ it
+ to
+ work
+
+
+right.
+ Right.
+ So
+
+
+>> permissions
+
+
+>> and
+ decision
+ making
+
+
+>> permissions
+ decision-
+ making
+ and
+ like
+
+
+one
+ of
+ the
+ key
+ in
+ things
+ is
+ who
+ did
+ what
+
+
+to
+ whom
+ is
+ sort
+ of
+ the
+ most
+ important
+
+
+query
+ in
+ an
+ organization
+ right
+ at
+ the
+
+
+end
+ of
+ the
+ day
+ the
+ organization
+ needs
+ to
+
+
+understand
+ what
+ work
+ got
+ done
+ h
+ and
+
+
+what's
+ the
+ provenence
+ of
+ that
+ work
+ uh
+
+
+and
+ how
+ do
+ you
+ trace
+ it
+ back
+ right
+ so
+
+
+therefore
+ you
+ kind
+ of
+ want
+ either
+ what
+
+
+if
+ it's
+ a
+ human
+ with
+ a
+ lot
+ of
+ agents
+
+
+then
+ it's
+ really
+ macro
+ delegation
+ micro
+
+
+steering
+ by
+ the
+ human
+ whose
+ identity
+ was
+
+
+passed
+ on.
+ So
+ it's
+ delegation
+ versus
+ a
+
+
+separate
+ identity.
+
+
+>> And
+ that
+ was
+ done
+ by
+ a
+ level
+ of
+
+
+management,
+ product
+ management
+ that
+
+
+you've
+ eliminated,
+ that
+ Alphabets
+
+
+eliminated.
+ Meta
+ has
+ started
+ to
+
+
+eliminate
+ in
+ their
+ organization
+ four
+
+
+years
+ ago.
+ You
+ had
+ the
+ same
+ number
+ of
+
+
+employees
+ you
+ have
+ at
+ Microsoft
+ now,
+ but
+
+
+you
+ put
+ a
+ $90
+ billion
+ onto
+ the
+ top
+ line
+
+
+of
+ the
+ revenue
+ in
+ that
+ time
+ and
+ you
+
+
+doubled
+ your
+ income
+ during
+ that
+ time.
+ So
+
+
+how
+ did
+ that
+ happen?
+ Is
+ that
+ automation
+
+
+of
+ those
+ jobs?
+ Is
+ it
+ you
+ were
+ a
+ little
+
+
+bit
+ overstaffed?
+
+
+>> Unpack.
+
+
+>> I
+ think
+ it's
+ it's
+ actually
+ you're
+
+
+pulling
+ on
+ a
+ very
+ interesting
+ thread
+
+
+which
+ is
+ at
+ some
+ level
+ what's
+ the
+ big
+
+
+structural
+ change
+ that
+ needs
+ to
+ happen.
+
+
+In
+ fact,
+ I
+ would
+ say
+ this
+ is
+ probably
+
+
+the
+ biggest
+ change
+ in
+ knowledge
+ work
+
+
+since
+ PCs.
+ I
+ mean
+ I
+ always
+ you
+ know
+
+
+think
+ about
+ like
+ how
+ did
+ work
+ happen
+
+
+precise
+ right?
+ I
+ mean
+ think
+ about
+ a
+
+
+multinational
+ company
+ like
+ ours
+ trying
+
+
+to
+ do
+ a
+ forecast.
+ uh
+ right
+ faxes
+ went
+
+
+around,
+ inter
+ office
+ memos
+ got
+ sent
+ and
+
+
+then
+ you
+ kind
+ of
+ created
+ a
+ you
+ know
+ uh
+ a
+
+
+forecast
+ then
+ suddenly
+ you
+ know
+ PCs
+
+
+became
+ standard
+ issue
+ uh
+ you
+ put
+ an
+
+
+Excel
+ spreadsheet
+ put
+ some
+ numbers
+ sent
+
+
+it
+ in
+ email
+ everybody
+ entered
+ numbers
+
+
+and
+ you
+ had
+ a
+ forecast
+ so
+ the
+ work
+ the
+
+
+work
+ artifact
+ and
+ the
+ workflow
+ all
+
+
+changed
+ that's
+ what's
+ happening
+ so
+ for
+
+
+example
+ I'll
+ give
+ you
+ uh
+ at
+ LinkedIn
+
+
+uh
+ we
+ used
+ to
+ have
+ product
+ managers
+ we
+
+
+had
+ designers
+ uh
+ we
+ had
+ front-end
+
+
+engineers
+ and
+ then
+ we
+ had
+ CIS
+ backend
+
+
+engineers
+ and
+ so
+ on.
+ So
+ what
+ we
+ did
+ is
+
+
+we
+ sort
+ of
+ took
+ those
+ first
+ four
+ roles
+
+
+and
+ combined
+ them
+ in
+ fact
+ increased
+
+
+scope
+ and
+ said
+ let's
+ they're
+ all
+ full
+
+
+stack
+ builders.
+ So
+ I
+ like
+ that
+ because
+
+
+that's
+ a
+ structural
+ change
+ that
+ allows
+
+
+for
+ us
+ to
+ increase
+ the
+ change
+ both
+ the
+
+
+work
+ and
+ the
+ workflow
+ between
+ these
+
+
+functions
+ and
+ I
+ would
+ assume
+ the
+
+
+velocity
+ because
+ you
+ don't
+ have
+ four
+
+
+people
+ communicating
+ and
+ that
+ throughput
+
+
+of
+ ideas
+ it's
+ just
+ one
+ person
+ and
+ vibe
+
+
+coding.
+ Exactly.
+ And
+ there's
+ a
+ new
+
+
+workflow.
+ So
+ what
+ at
+ the
+ same
+ time
+ as
+
+
+you
+ can
+ imagine
+ if
+ to
+ build
+ an
+ AI
+
+
+product
+ today
+ there's
+ a
+ complete
+ new
+
+
+workflow
+ right
+ it
+ starts
+ with
+ eval
+ right
+
+
+so
+ basically
+ there's
+ this
+ eval
+ to
+
+
+science
+ to
+ infrastructure
+ and
+ so
+ eval
+
+
+are
+ done
+ by
+ these
+ full
+ stack
+ builders
+
+
+and
+ what
+ have
+ you
+ and
+ product
+ managers
+
+
+in
+ the
+ new
+ form
+ the
+ infrastructure
+ is
+
+
+built
+ by
+ the
+ systems
+ engineers
+ at
+ the
+
+
+back
+ end
+ because
+ they
+ support
+ the
+
+
+science
+ that
+ supports
+ the
+ product.
+ So
+ in
+
+
+some
+ sense
+ there's
+ a
+ new
+ loop
+ uh
+ and
+ you
+
+
+have
+ to
+ structurally
+ change
+ and
+ so
+ a
+ lot
+
+
+of
+ what
+ is
+ happening
+ inside
+ a
+ tech
+ is
+
+
+that
+ change
+ uh
+ which
+ is
+ I
+ think
+ going
+ to
+
+
+be
+ pretty
+ massive
+ uh
+ and
+ at
+ the
+ same
+
+
+time
+ a
+ company
+ like
+ ours
+ I
+ have
+ to
+ do
+
+
+everything.
+ It's
+ not
+ like
+ I
+ can
+ just
+ so
+
+
+go
+ live
+ in
+ the
+ future.
+ I
+ have
+ to
+ make
+
+
+sure
+ we're
+ doing
+ a
+ fantastic
+ job
+ of
+
+
+doing
+ hot
+ patching
+ on
+ Windows
+ is
+ done
+
+
+with
+ quality
+ uh
+ while
+ at
+ the
+ same
+ time
+
+
+building
+ the
+ evals
+ that
+ are
+ improving
+
+
+co-pilot
+ quality.
+ Right?
+ And
+ so
+ both
+ of
+
+
+those
+ have
+ to
+ be
+ first
+ class.
+
+
+>> I
+ assume
+ this
+ is
+ the
+ most
+ challenging
+
+
+moment
+ of
+ your
+ career
+ because
+ Microsoft
+
+
+was
+ so
+ dominant
+ duopoly
+ in
+ some
+ spaces.
+
+
+Um
+ but
+ you
+ really
+ weren't
+ up
+ against
+ the
+
+
+competition
+ level
+ you're
+ up
+ against
+ now.
+
+
+I
+ was
+ talking
+ to
+ Elon,
+ you
+ know,
+ and
+ he
+
+
+was
+ sort
+ of
+ saying,
+ well,
+ building
+ cars
+
+
+was
+ pretty
+ easy.
+ Uh
+ because
+ I
+ was
+ up
+
+
+against
+ the
+ legacy
+ car
+ makers
+ and
+ now
+
+
+I'm
+ up
+ against
+
+
+just
+ look
+ at
+ the
+ set
+ you're
+ up
+ against.
+
+
+Yeah,
+ it's
+ it's
+ a
+ pretty
+ intense
+ time.
+ I
+
+
+mean,
+ so
+ the
+ way
+ I
+ I
+ I
+ always
+ think
+ is
+
+
+it's
+ always
+ helpful
+ uh
+ when
+ you
+ have
+ a
+
+
+complete
+ new
+ set
+ of
+ competitors
+ every
+
+
+decade
+ because
+ that
+ keeps
+ you
+ fit.
+ Uh
+ if
+
+
+you
+ think
+ about
+ it,
+ I
+ joined
+ uh
+
+
+Microsoft
+ in
+ '92
+ when
+ I
+ had
+ Noel
+ as
+ the
+
+
+big
+ existential
+ competitor
+ we
+ had.
+ Um
+
+
+and
+ here
+ we
+ are
+ in
+ 2026.
+ Uh
+ and
+ it
+
+
+you're
+ absolutely
+ right,
+ it's
+ a
+ pretty
+
+
+intense
+ time.
+ I'm
+ glad
+ there's
+ the
+
+
+competition.
+ uh
+ it's
+ it's
+ quite
+ honestly
+
+
+at
+ the
+ end
+ of
+ the
+ day
+ when
+ I
+ look
+ at
+ it
+
+
+right
+ as
+ a
+ percentage
+ of
+ GDP
+ 5
+ years
+
+
+from
+ now
+ where
+ will
+ tech
+ be
+ right
+ uh
+ it
+
+
+will
+ be
+ higher
+ so
+ we're
+ blessed
+ to
+ be
+ in
+
+
+this
+ industry
+ it's
+ lot
+ of
+ intense
+
+
+competition
+ but
+ it's
+ not
+ so
+ zero
+ sum
+ as
+
+
+some
+ people
+ make
+ it
+ out
+
+
+>> it's
+ getting
+ much
+ bigger
+
+
+>> much
+ the
+ TAM
+ and
+ the
+ you
+ know
+ just
+ the
+
+
+impact
+ of
+ this
+ tech
+ is
+ going
+ to
+ be
+ so
+
+
+massive
+ um
+ the
+ question
+ then
+ of
+ course
+
+
+is
+ what
+ is
+ like
+ I
+ I
+ always
+ go
+ back
+ to
+
+
+what's
+ the
+ brand
+ identity
+ Microsoft
+ has
+
+
+brand
+ permission.
+ We
+ have
+ what
+ do
+
+
+customers
+ expect
+ from
+ us.
+ It's
+ sometimes
+
+
+we
+ kind
+ of
+ overthink
+ somehow
+ that
+ every
+
+
+customer
+ wants
+ the
+ same
+ thing
+ from
+ all
+
+
+of
+ the
+ competitors
+ and
+ finding
+ that
+ out,
+
+
+right?
+ It's
+ kind
+ of
+ a
+ different
+ take
+ on
+
+
+the
+ Peter
+ Theal
+ thing
+ which
+ is
+ you
+ got
+
+
+to
+ avoid
+ competition
+ by
+ really
+
+
+understanding
+ what
+ customers
+ really
+ want
+
+
+from
+ you
+ uh
+ versus
+ thinking
+ everybody's
+
+
+a
+ competitor.
+
+
+>> David.
+
+
+>> Yeah.
+ So
+ there
+ are a
+ lot
+ of
+ heads
+ of
+
+
+state
+ here
+ obviously
+ at
+ Davos
+ as
+ well
+ as
+
+
+CEOs
+ of
+ Fortune
+ 500
+ companies
+ and
+ I
+
+
+think
+ you
+ got
+ asked
+ a
+ question
+ last
+
+
+night
+ at
+ the
+ dinner
+ about
+ how
+ they
+
+
+should
+ think
+ about
+ AI
+ and
+ how
+ to
+ be
+
+
+successful
+ and
+ I
+ recall
+ they
+ used
+ the
+
+
+word
+ diffusion
+ and
+ I
+ was
+ wondering
+ if
+
+
+you
+ could
+ expand
+ on
+ those
+ remarks
+
+
+because
+ that
+ really
+ resonated
+ with
+ some
+
+
+of
+ the
+ policy
+ work
+ I've
+ been
+ doing.
+
+
+>> No,
+ absolutely.
+ In
+ fact,
+ uh
+ what
+ you
+ all
+
+
+have
+ been
+ doing
+ to
+ make
+ sure
+ in
+ in
+ this
+
+
+context
+ of
+ the
+ American
+ tech
+ stack
+ um
+ is
+
+
+broadly
+ used
+ around
+ the
+ world
+ and
+ is
+
+
+trusted
+ around
+ the
+ world
+ because
+ I
+ think
+
+
+uh
+ when
+ I
+ look
+ back
+ David
+ to
+ me
+ um
+ uh
+ at
+
+
+the
+ end
+ of
+ the
+ day
+ you
+ create
+ the
+
+
+technology
+ but
+ really
+ the
+ benefits
+
+
+come
+ only
+ by
+ intense
+ use.
+ In
+ fact,
+ one
+
+
+of
+ my
+ favorite
+ studies
+ has
+ always
+ been
+
+
+this
+ work
+ that
+ uh
+ an
+ economist
+ I
+ think
+
+
+out
+ of
+ Dartmouth
+ did
+ uh
+ his
+ name
+ is
+
+
+Diego
+ Comman
+ where
+ he
+ studied
+ uh
+
+
+basically
+ what
+ happened
+ during
+ the
+
+
+industrial
+ revolution
+ um
+ how
+ did
+
+
+countries
+ get
+ ahead?
+ Um
+ and
+ the
+ simple
+
+
+sort
+ of
+ takeaway
+ from
+ that
+ was
+ any
+
+
+country
+ uh
+ that
+ brought
+ the
+ latest
+
+
+technology
+ into
+ their
+ uh
+ country
+ and
+
+
+then
+ did
+ value
+ add
+ technology
+ on
+ top
+ of
+
+
+it.
+ Right?
+ So
+ it's
+ like
+ don't
+ reinvent
+
+
+the
+ wheel.
+ Bring
+ the
+ latest
+ and
+ then
+
+
+build
+ on
+ top
+ of
+ it.
+ That's
+ to
+ me
+ uh
+ what
+
+
+happens
+ you
+ know
+ when
+ you
+ have
+
+
+diffusion.
+ So
+ especially
+ with
+ general
+
+
+purpose
+ technologies
+ like
+ AI
+ it
+ needs
+ to
+
+
+spread
+ like
+ right
+ in
+ our
+ you
+ know
+ in
+ our
+
+
+own
+ country
+ in
+ the
+ United
+ States
+ we
+ now
+
+
+need
+ we
+ have
+ the
+ tech.
+ The
+ question
+ is
+
+
+is
+ it
+ being
+ used
+ in
+ healthcare?
+ Is
+ it
+
+
+being
+ used
+ um
+ in
+ financial
+ services?
+ Is
+
+
+it
+ being
+ used
+ in
+ every
+ sector
+ of
+ the
+
+
+economy
+ by
+ large
+ businesses,
+ small
+
+
+business,
+ public
+ sector?
+ Um
+ so
+ to
+ me
+ un
+
+
+unless
+ and
+ until
+ we
+ see
+ that
+ diffusion
+
+
+and
+ intense
+ use
+ uh
+ we're
+ not
+ going
+ to
+
+
+have
+ the
+ success.
+ Um
+ uh
+ and
+ so
+ that's
+
+
+the
+ phase
+ we
+ are
+ in
+ it's
+ f
+ you
+ know
+ it's
+
+
+diffusing
+ faster
+ um
+ and
+ so
+ some
+ of
+ the
+
+
+work
+ policy
+ work
+ you
+ have
+ done
+ um
+ and
+ in
+
+
+general
+ all
+ you
+ know
+ the
+ good
+ news
+ here
+
+
+is
+ the
+ technologies
+ there
+ the
+ rails
+
+
+around
+ cloud
+ and
+ mobile
+ that
+ were
+ laid
+
+
+out
+ make
+ it
+ possible
+ for
+ this
+ thing
+ to
+
+
+spread
+ right
+ it's
+ not
+ you
+ know
+
+
+impossible
+ to
+ get
+ the
+ tokens
+ the
+
+
+question
+ is
+ what
+ are
+ the
+ use
+ cases
+ how
+
+
+do
+ and
+ how
+ do
+ you
+ manage
+ the
+ change
+ in
+
+
+all
+ of
+ that
+ um
+ you
+ know
+ like
+ one
+ of
+ the
+
+
+questions
+ at
+ least
+ in
+ Davos
+ is
+ it's
+ one
+
+
+for
+ the
+ west
+ and
+ the
+ developed
+ nations.
+
+
+What
+ about
+ the
+ global
+ south?
+ Um
+ I
+ think
+
+
+global
+ south
+ has
+ a
+ huge
+ opportunity
+ too
+
+
+quite
+ frankly
+ because
+ to
+ me
+ like
+ let's
+
+
+say
+ you
+ know
+ 40%
+ 50%
+ of
+ the
+ GDP
+ of
+ most
+
+
+global
+ south
+ countries
+ is
+ public
+ sector.
+
+
+So
+ just
+ imagine
+ this
+ tech
+ making
+ a
+
+
+difference
+ in
+ how
+ the
+ governments
+ uh
+
+
+really
+ parlay
+ their
+ taxpayer
+ money
+ into
+
+
+services
+ for
+ citizens
+ and
+ there's
+ if
+
+
+there's
+ efficiency
+ gains
+ that's
+ probably
+
+
+couple
+ of
+ points
+ of
+ GDP
+ growth
+ right
+
+
+there
+ and
+ so
+ I'm
+ very
+ optimistic
+ that
+
+
+there's
+ going
+ to
+ be
+ a
+ pull
+ uh
+ and
+ that
+
+
+we
+ should
+ as
+ the
+ United
+ States
+ given
+ the
+
+
+technology
+ stack
+ we
+ have
+ uh
+ in
+ Europe
+ in
+
+
+Asia
+ in
+ you
+ know
+ in
+ South
+ America
+ in
+
+
+Africa
+ and
+ everywhere
+
+
+get
+ it
+ to
+ be
+ broadly
+ deployed.
+
+
+>> You
+ one
+ of
+ the
+ questions
+ I
+ get
+ asked
+ a
+
+
+lot
+ about
+ the
+ AI
+ race
+ is
+ how
+ do
+ you
+ know
+
+
+if
+ you're
+ winning
+ or
+ how
+ do
+ you
+ know
+ if
+
+
+the
+ United
+ States
+ is
+ ahead
+ of
+ its
+ global
+
+
+competitors?
+ And
+ the
+ answer
+ I
+ give
+ is
+
+
+market
+ share.
+ You
+ know,
+ if
+ we
+ look
+
+
+around
+ the
+ world
+ in
+ 5
+ years
+ and
+ we
+ see
+
+
+that
+ American
+ companies,
+ American
+
+
+technology
+ has
+ say
+ 80%
+ market
+ share,
+ it
+
+
+means
+ we
+ did
+ a
+ good
+ job.
+ If
+ we
+ look
+
+
+around
+ the
+ world
+ in
+ five
+ years
+ and
+ see
+
+
+that
+ it's
+ say
+ Chinese
+ chips
+ and
+ Chinese
+
+
+models
+ that
+ are
+ being
+ used
+ all
+ over
+ the
+
+
+world,
+ well
+ means
+ we
+ probably
+ lost.
+ So
+
+
+you
+ know
+ ultimately
+ usage
+ is
+ the
+ proof
+
+
+of
+ the
+ pudding
+ is
+ in
+ the
+ eating
+ of
+ it.
+ I
+
+
+mean
+ the
+ in
+ this
+ case
+ the
+ way
+ that
+ you
+
+
+know
+ that
+ you're
+ succeeding
+ is
+ through
+
+
+market
+ shares
+ through
+ usage.
+
+
+>> I
+ and
+ I
+ I
+ would
+ agree
+ with
+ that.
+ But
+
+
+David,
+ since
+ you
+ even
+ worked
+ at
+
+
+Microsoft
+ for
+ a
+ few
+ years,
+ um
+ you
+ you
+
+
+know,
+ one
+ of
+ the
+ things
+ that
+ I'm
+ very
+
+
+grounded
+ on
+ is
+ always
+ uh
+ that
+ Bill
+ Gates
+
+
+line
+ of
+ a
+ platform,
+ right?
+ So,
+ one
+ of
+
+
+the
+ things
+ that
+ I
+ always
+ think
+ about
+ is
+
+
+it's
+ market
+ share,
+ but
+ it's
+ also
+
+
+ecosystem
+ effects,
+ right?
+ See,
+ what
+ the
+
+
+United
+ States
+ always
+ has
+ done
+ is
+ not
+
+
+just
+ about
+ our
+ market
+ share
+ or
+ even
+ um
+
+
+the
+ revenues
+ to
+ US
+ companies.
+ In
+ fact,
+
+
+one
+ of
+ the
+ things
+ I
+ learned
+ at
+ Microsoft
+
+
+is
+ whenever
+ I
+ did
+ a
+ country
+ visit,
+ the
+
+
+data
+ I
+ would
+ first
+ study
+ is
+ in
+ let's
+ say
+
+
+in
+ the
+ UK
+ or
+ in
+ Switzerland
+ or
+ what
+ have
+
+
+you
+ is
+ what
+ is
+ the
+ total
+ employment
+
+
+created
+ in
+ Switzerland
+ uh
+ in
+ our
+ channel
+
+
+that
+ used
+ to
+ be
+ like
+ the
+ number
+ one
+
+
+thing
+ uh
+ in
+ our
+ country
+ reports
+ right
+
+
+and
+ the
+ total
+ number
+
+
+>> that
+ be
+ like
+ the
+ number
+ of
+ IT
+ workers
+
+
+the
+ number
+
+
+>> office
+ workers
+ channel
+ so
+ channel
+
+
+partners
+ we
+ so
+ number
+ of
+ ISVs
+
+
+uh
+ who
+ were
+ there.
+ So
+ we
+ used
+ to
+ have
+ a
+
+
+complete
+ marker
+ of
+ how
+ did
+ the
+ ecosystem
+
+
+around
+ the
+ platform
+ get
+ built
+ one
+
+
+country
+ at
+ a
+ time
+ and
+ that
+ is
+ what
+ the
+
+
+United
+ States
+ has
+ always
+ done.
+ In
+ fact
+
+
+the
+ US
+ tech
+ stack
+
+
+>> including
+ in
+ China
+ got
+ built
+ because
+
+
+others
+ built
+ around
+ our
+ tech
+ stack
+ the
+
+
+same
+ thing
+ is
+ going
+ to
+ happen.
+ So
+ that's
+
+
+why
+ I
+ think
+ the
+ work
+ you're
+ doing
+ around
+
+
+diffusion,
+
+
+>> right,
+
+
+>> is
+ about
+ really
+ increasing
+ the
+ size
+ of
+
+
+the
+ pie,
+ the
+ trust
+ in
+ the
+ platform
+ so
+
+
+that
+ there
+ is
+ true
+ economic
+ opportunity
+
+
+quite
+ frankly.
+
+
+>> Well,
+ you're
+ right
+ and
+ and
+ I
+ remember
+
+
+actually
+ you
+ you
+ brought
+ back
+ some
+
+
+memories
+ from
+ this
+ is
+ about
+ a
+ decade
+ ago
+
+
+when
+ my
+ company
+ Yammer
+ was
+ acquired
+ by
+
+
+Microsoft.
+ we
+ were
+ part
+ of
+ uh
+ the
+
+
+SharePoint
+ group
+ and
+ I
+ remember
+ that
+ the
+
+
+um
+ the
+ product
+ managers
+ there
+ were
+ very
+
+
+proud
+ of
+ the
+ fact
+ that
+ the
+ revenue
+ from
+
+
+the
+ SharePoint
+ ecosystem
+ meaning
+
+
+non-Microsoft
+
+
+the
+ um
+ the
+ consulting
+ community
+ the
+
+
+implementers
+ who
+ would
+ go
+ into
+ companies
+
+
+implement
+ SharePoint
+ I
+ think
+ their
+
+
+revenue
+ is
+ something
+ like
+ seven
+ times
+
+
+greater
+ than
+ Microsoft's
+ own
+ software
+
+
+revenue
+ and
+ I
+ think
+
+
+>> in
+ aggregate
+
+
+>> in
+ aggregate
+ and
+ I
+ think
+ and
+ I
+ think
+
+
+Bill
+ had
+ a
+ line
+ about
+ you're
+ not
+ an
+
+
+ecosystem
+ or
+ platform
+ until
+ the
+ revenue
+
+
+on
+ top
+ of
+ your
+ platform
+ is
+ some,
+ you
+
+
+know,
+ factor
+ of
+ your
+ own
+ revenue.
+ And
+
+
+and
+ I
+ and
+ I
+ think
+ that
+ I
+ think
+ what's
+
+
+really
+ important
+ about
+ this
+ is
+ when
+ we
+
+
+talk
+ about
+ diffusion
+ and
+ obviously
+ want
+
+
+the
+ United
+ States
+ to
+ have
+ this
+ leading
+
+
+position,
+ it
+ doesn't
+ mean
+ it's
+ bad
+ for
+
+
+the
+ rest
+ of
+ the
+ world
+ because
+ they're
+
+
+able
+ to
+ build
+ on
+ top
+ of
+ those
+ platforms
+
+
+and
+ create
+ even
+ more
+ value.
+
+
+>> 100%.
+ In
+ fact,
+ that's
+ sort
+ of
+ the
+ most
+
+
+important
+ point,
+ right?
+ So
+ this
+ is
+ not
+
+
+that
+ this
+ is
+ not
+ about
+ uh
+ American
+ tech
+
+
+um
+ and
+ America
+ revenues
+ to
+ the
+ United
+
+
+States.
+ It's
+ actually
+ creating
+
+
+opportunity
+ using
+ a
+ new
+ platform
+
+
+everywhere.
+ And
+ in
+ fact
+ you
+ know
+ the
+ you
+
+
+know
+ like
+ I
+ remember
+ I
+ worked
+ on
+ our
+
+
+database
+ products
+ uh
+ in
+ the
+ '90s
+ u
+ you
+
+
+know
+ with
+ SAP
+ in
+ fact
+ the
+ combination
+ of
+
+
+uh
+ SQL
+ Server
+ and
+ R3
+ were
+ successful
+ on
+
+
+both
+ sides.
+ There's
+ a
+ lot
+ talked
+ about
+
+
+Intel
+ and
+ Microsoft,
+ but
+ one
+ of the
+
+
+other
+ things
+ that
+ I
+ grew
+ up
+ in
+ which
+ has
+
+
+sort
+ of
+ been
+ foundational
+ in
+ how
+ I
+ look
+
+
+at
+ the
+ world
+ is
+ what
+ we
+ did
+ with
+ a
+
+
+European
+ software
+ company
+ that
+ is
+ still
+
+
+uh
+ you
+ know
+ a
+ giant.
+ And
+ so
+ that
+ you
+
+
+know
+ who
+ knows
+ what
+ the
+ next
+ big
+ AI
+ app
+
+
+will
+ be
+ and
+ where
+ and
+ what
+ will
+ happen.
+
+
+But
+ uh
+ I
+ I
+ sort
+ of
+ go
+ in
+ with
+ the
+
+
+attitude
+ that
+ there
+ will
+ be
+ tech
+
+
+companies
+ uh
+ maybe
+ even
+ top
+ five
+ tech
+
+
+companies
+ that
+ could
+ emerge
+ everywhere
+
+
+with
+ even
+ the
+ American
+ tech
+ stack.
+ you
+
+
+have
+ um
+ done
+ some
+ amazing
+ acquisitions
+
+
+and
+ you're
+ quite
+ a
+ dealmaker
+ on
+ top
+ of
+
+
+being
+ a
+ technologist.
+ It's
+ probably
+ the
+
+
+least
+ reported
+ aspect
+ of
+ your
+
+
+spectacular
+ tenure
+ and
+ the
+ massive
+
+
+growth
+ you've
+ had.
+
+
+But
+ you
+ did
+ a
+ deal
+ with
+ OpenAI
+ and
+
+
+probably
+ one
+ of
+ the
+ most
+ savvy
+
+
+slashcontroversial
+ dealmakers
+ of
+ all
+
+
+time,
+ Sam
+ Alman.
+ That
+ deal
+ was
+ looked
+ at
+
+
+as
+
+
+you
+ you
+ you're you're
+ set
+ up
+ to
+ get
+ a
+
+
+windfall
+ in
+ cash
+ which
+ you
+ don't
+ need
+ as
+
+
+Microsoft.
+ always
+ nice
+ I'm
+ guessing
+ if
+
+
+they
+ IPO
+ but
+ did
+ you
+ create
+ potentially
+
+
+and
+ this
+ was
+ the
+ criticism
+ of
+ it
+
+
+an
+ ultimate
+ competitor
+ to
+ Microsoft
+ and
+
+
+how
+ do
+ you
+ think
+ about
+ that
+ and
+ how
+ can
+
+
+Microsoft
+ which
+ missed
+ Steve
+ Bombber's
+
+
+biggest
+ regret
+ missing
+ the
+ mobile
+
+
+revolution
+ how
+ can
+ you
+ not
+ have
+ a
+ Gemini
+
+
+an
+ XAI
+ a
+ claude
+ that
+ is
+ your
+ own
+ or
+ in
+
+
+your
+ mind
+ do
+ you
+ have
+ that
+ because
+ you
+
+
+have
+ the
+ source
+ code
+ of
+ open
+ AI
+
+
+>> yeah
+ I
+ think
+ that
+ that's
+ right
+ so
+ when
+
+
+when
+ people
+ say
+ uh
+ where
+ is
+ your
+
+
+foundation
+ model?
+ I
+ mean
+ at
+ the
+ end
+ of
+
+
+the
+ day
+ we
+ do
+ have
+ the
+ IP
+ but
+ that
+ said
+
+
+I
+ think
+ you
+ bring
+ up
+ a
+ couple
+ different
+
+
+things
+ right
+ one
+ is
+ to
+ us
+ the
+ most
+
+
+important
+ thing
+ when
+ I
+ look
+ at
+ what
+ is
+
+
+Microsoft's
+ uh
+ strategy
+ today
+ one
+ is
+ we
+
+
+want
+ to
+ build
+ token
+ factories
+ right
+ so
+
+
+our
+ biggest
+ business
+ today
+ is
+ Azure
+
+
+business
+ and
+ the
+ Azure
+ business
+ the
+ TAM
+
+
+given
+ what's
+ going
+ to
+ happen
+ is
+ is
+ so
+
+
+huge
+ that
+ we
+ now
+ need
+ to
+ be
+ fantastic
+ uh
+
+
+at
+ building
+ these
+ token
+ factories
+ and
+ um
+
+
+that's
+ means
+ a
+ heterogeneous
+ fleet
+ of
+
+
+infrastructure
+
+
+and
+ that
+ every
+ hyperscaler
+ has
+ always
+
+
+done
+ which
+ is
+ use
+ software
+ to
+ make
+
+
+maximum
+ use
+ of
+ it
+ and
+ for
+ TCO
+ and
+
+
+utilization.
+ So
+ that's
+ one
+ side
+ of
+ it.
+
+
+Then
+ there's
+ the
+ app
+ server
+ business
+
+
+right
+ which
+ is
+ everybody
+ we
+ you
+ talked
+
+
+about
+ like
+ if
+ everyone's
+ going
+ to
+ be
+
+
+building
+ agents
+ have
+ infinite
+ minds
+ have
+
+
+these
+ RL
+ gyms
+ have
+ eval
+ what
+ have
+ you
+
+
+there's
+ an
+ entire
+ just
+ like
+ every
+
+
+platform
+ has
+ had
+ an
+ app
+ server
+ this
+ one
+
+
+has
+ an
+ app
+ server
+ that's
+ what
+ we're
+
+
+doing
+ with
+ foundry
+ and
+ what
+ have
+ you
+
+
+right
+ so
+ there's
+ an
+ app
+ server
+ business
+
+
+in
+ that
+ app
+ server
+ one
+ of
+ the
+ things
+
+
+that
+ structurally
+ now
+ is
+ pretty
+ clear
+ is
+
+
+anyone
+ building
+ any
+ application
+ or
+ any
+
+
+company
+ is
+ going
+ to
+ use
+ not
+ one
+ model
+
+
+but
+ all
+ the
+ models
+ Right?
+ Why
+ would
+ I
+
+
+not?
+ Right?
+ Which
+ is
+ in
+ fact
+ I
+ will
+
+
+orchestrate
+ for
+ any
+ given
+ task
+ even
+
+
+multiple
+ models.
+ Right?
+ There's
+ this
+ one
+
+
+nice
+ thing
+ that
+ we
+ came
+ out
+ in
+ our
+
+
+healthcare
+ practice
+ called
+ the
+ decision
+
+
+orchestrator.
+ What
+ it
+ proves
+ is
+ that
+ by
+
+
+assigning
+ roles,
+ right?
+ So
+ investigator,
+
+
+data
+ analyst,
+ domain
+ expert,
+ just
+ giving
+
+
+even
+ prompted
+ roles
+ to
+ models
+ and
+ then
+
+
+orchestrating
+ them
+ gets
+ better
+ results
+
+
+than
+ any
+ one
+ single
+ frontier
+ model.
+ Am
+ I
+
+
+right
+ to
+ read
+ into
+ that
+ then
+ that
+ you're
+
+
+bullish
+ on
+ the
+ open-
+ source
+ models
+ and
+
+
+think
+ large
+ language
+ models
+ will
+ largely
+
+
+be
+ commoditized
+ and
+ that's
+ not
+ where
+ the
+
+
+value
+ will
+ occur.
+ In
+ fact,
+ the
+ way
+ I
+
+
+think
+ about
+ it
+ is
+ that
+ just
+ like
+ what
+
+
+happened
+
+
+>> and
+ Apple
+ thinks
+ that
+ too
+ by
+ the
+ way.
+
+
+>> By
+ the
+ way,
+ what
+ the
+ way
+ you
+ think
+ about
+
+
+what
+ happened
+ in
+ the
+ database
+ market,
+
+
+right?
+ You
+ know,
+ I
+ used
+ to
+ be
+ like
+
+
+everything
+ is
+ just
+ a
+ SQL
+ database
+ until
+
+
+it
+ was
+ not,
+ right?
+ There
+ was
+ I
+ mean,
+
+
+think
+ about
+ it.
+ There
+ dock
+ databases,
+
+
+there
+ is
+ no
+ SQL
+ databases.
+ The
+
+
+proliferation
+ of
+ databases,
+ right?
+ Who
+
+
+would
+ have
+ thought
+ that
+ the
+ database
+
+
+market
+ would
+ have
+ such
+ a
+ richness
+ to
+ it
+
+
+>> or
+ that
+ it
+ could
+ ever
+ be
+ open
+ source?
+
+
+That
+ was
+
+
+>> that's
+ true.
+ I
+ mean
+ talk
+ about
+ Postgress
+
+
+or
+ what
+ has
+ happened
+ even
+ with
+
+
+which
+ is
+ open
+ but
+ there
+ are
+ even
+
+
+companies
+ that
+ have
+ backed
+ it
+ and
+ so
+ so
+
+
+to
+ me
+ that's
+ what's
+ going
+ to
+ happen
+ and
+
+
+to
+ me
+ a
+ model
+ is
+ like
+ the
+ database
+
+
+market
+ you
+ know
+ it's
+ it's
+ got
+ it's
+ going
+
+
+to
+ differences
+ but
+ I
+ sort
+ of
+ somehow
+
+
+think
+ that
+ uh
+ it's
+ not
+ there
+ are
+
+
+definitely
+ going
+ to
+ be
+ frontier
+ models
+
+
+that
+ are
+ closed
+ source
+ you
+ know
+ there
+
+
+going
+ to
+ be
+ open
+ source
+ models
+ that
+ are
+
+
+going
+ to
+ be
+ uh
+ uh
+ frontier
+ class
+ in
+ fact
+
+
+if
+ anything
+ I
+ think
+ in
+ this
+ next
+ year
+
+
+what'll
+ be
+ probably
+ a
+ big
+ part
+ of
+ the
+
+
+discussion
+ is
+ what's
+ the
+ future
+ of
+ a
+
+
+firm?
+ A
+ firm
+ should
+ be
+ able
+ to
+ take
+ the
+
+
+tacet
+ knowledge
+ it
+ has
+ and
+ embed
+ it
+
+
+inside
+ a
+ weights
+ in
+ a
+ model
+ that
+ they
+
+
+control.
+ Right?
+ So
+ when
+ somebody
+ asks
+ me
+
+
+how
+ many
+ models
+ should
+ be
+ there,
+ I'll
+
+
+say
+ as
+ many
+ models
+ as
+ firms
+ in
+ the
+
+
+world.
+ Right?
+ That's
+ sort
+ of
+ the
+ an
+
+
+extreme
+ way.
+ Uh
+ because
+ because
+ to
+ me
+
+
+that's
+ how
+ I
+ think
+ this
+ you
+ know
+ this
+
+
+knowledge
+ economy
+ becomes
+ an
+ AI
+ economy.
+
+
+>> Are
+ you
+
+
+secretly
+ and
+ you
+ can
+ say
+ it
+ here
+ since
+
+
+we're
+ on
+ allin
+ working
+ on
+ an
+ LLM
+ to
+
+
+exist
+ on
+ the
+ Windows
+ desktop
+ because
+
+
+that
+ you
+ are
+ you
+ have
+ it
+ like
+ today
+
+
+there's
+ a
+ five
+ silica
+ model
+ which
+ is
+
+
+completely
+ resident
+ using
+ NPUs
+ and
+ of
+
+
+course
+ using
+ uh
+ GPUs
+ in
+ fact
+ the
+ largest
+
+
+installation
+
+
+um
+ of
+ high
+ power
+ in
+ fact
+ it's
+ one
+ of
+ the
+
+
+fascinating
+ the
+ workstation
+ is
+ back
+ I'm
+
+
+one
+ of
+ the
+ most
+ if
+ you
+ went
+ to
+ see
+
+
+>> which
+ is
+ great
+ for
+ Microsoft
+ because
+ you
+
+
+you
+ have
+ a
+ nice
+ desktop
+ business.
+
+
+>> Absolutely.
+ And
+ so
+ we
+ and
+ in
+ fact
+ we
+
+
+think
+ that
+ that
+ form
+ factor
+ especially
+ I
+
+
+mean
+ I
+ I
+ always
+ say
+ this
+ which
+ is
+ u
+ you
+
+
+know
+ I
+ started
+ my
+ career
+ on
+ a
+ command
+
+
+line.
+ Who
+ knows
+ I
+ may
+ just
+ end
+ it
+ in
+ a
+
+
+command
+ line.
+
+
+>> Well
+ you
+ started
+ at
+ Sun
+ which
+ was
+ the
+
+
+original
+ 5
+ $10,000
+ workstation.
+ Do
+ you
+
+
+see
+ a
+ time
+ where
+ you'll
+ be
+ meeting
+ with
+
+
+your
+ customers
+ here
+ and
+ advocating
+ a
+ 10
+
+
+$20,000
+ desktop
+ machine
+ that
+ has
+ an
+ LLM
+
+
+and
+ the
+ hardware?
+ You
+ can
+ you
+ can
+ put
+ a
+
+
+DGX
+ card
+ and
+ you
+ can
+ have
+ like
+ just
+ a
+
+
+fantastic
+ machine
+ and
+ the
+ models
+ I
+ and
+
+
+by
+ the
+ way
+ you
+ know
+ we
+ are
+ one
+
+
+architecture
+ tweak
+ away
+ from
+ even
+ having
+
+
+some
+ kind
+ of
+ a
+ distributed
+ model
+
+
+architecture
+ right
+ even
+ ane
+ architecture
+
+
+that
+ shows
+ knows
+ how
+ to
+ really
+
+
+distribute
+ itself
+ right
+ that's
+ the
+ type
+
+
+of
+ breakthrough
+ that
+ can
+ completely
+
+
+change
+ uh
+ what
+ hybrid
+ AI
+ may
+ look
+ like
+
+
+but
+ we're
+ absolutely
+ committed
+ and
+
+
+focused
+ on
+ making
+ the
+ PC
+ a
+ great
+ place
+
+
+for
+ local
+ models
+ uh
+ and
+ local
+ models
+
+
+that
+ then
+ do
+ even
+ a
+ lot
+ of
+ the
+ prompt
+
+
+processing
+ and
+ call
+ into
+ the
+ cloud,
+
+
+right?
+ So
+ there's
+ a
+ whole
+ lot
+ of
+ work
+
+
+that
+ can
+ happen
+ and
+ that's
+ sort
+ of
+
+
+definitely
+ something
+ that's
+ underway.
+
+
+>> Yeah,
+ I
+ think
+ that
+ the
+ cloud
+ co-work
+ has
+
+
+kind
+ of
+ shown
+ the
+ power
+ of
+ tapping
+ into
+
+
+the
+ local
+ file
+ drive
+ and
+ be
+ able
+ to
+ use
+
+
+that.
+ That
+ that
+ brings
+ up
+ another
+ point.
+
+
+you
+ you
+ got
+ me
+ thinking
+ about
+ Yammer
+ and
+
+
+for
+ people
+ who
+ don't
+ know
+ um
+ you
+ know
+
+
+Yammer's
+ claim
+ to
+ fame
+ this
+ is
+ about
+ 15
+
+
+years
+ ago
+ was
+ that
+ it
+ pioneered
+ a
+ lot
+ of
+
+
+um
+ well
+ it
+ used
+ a
+ lot
+ of
+ consumer
+ growth
+
+
+tactics
+ to
+ attack
+ enterprise
+ software
+
+
+I'm
+ wondering
+ as
+ you
+ think
+ about
+
+
+enterprise
+ adoption
+ of
+ AI
+ how
+ do
+ you
+
+
+think
+ it's
+ going
+ to
+ spread
+ over
+ the
+ next
+
+
+year
+ it
+ feels
+ like
+ we're
+ at
+ sort
+ of
+ a
+ a
+
+
+a
+ critical
+ point
+ do
+ you
+ think
+ it's
+ going
+
+
+to
+ be
+ top
+ down
+ is
+ it
+ going
+ to
+ come
+ from
+
+
+the
+ CEO
+ directing
+ a
+ team
+ giving
+ them
+ a
+
+
+strategic
+ transformation
+
+
+project
+ and
+ they're
+ going
+ to
+ do
+ an
+ RFP
+
+
+or
+ do
+ you
+ think
+ it's
+ going
+ to
+ spread
+
+
+bottom
+ up
+ in
+ the
+ enterprise
+ through
+ AI
+
+
+native
+ employees
+ who
+ are
+ adaptable
+ who
+
+
+are
+ using
+ the
+ tools
+ in
+ their
+ own
+ lives
+
+
+and
+ they
+ start
+ to
+ bring
+ these
+ things
+ to
+
+
+work
+ and
+ start
+ accomplishing
+ amazing
+
+
+things.
+
+
+>> Yeah.
+ No,
+ I
+ think
+ you
+ know
+ like
+ all
+
+
+things
+ David
+ I
+ think
+ it's
+ both
+ the
+ top
+
+
+down
+ bottom
+ up
+ right.
+ uh
+ the
+ that
+ the
+
+
+reason
+ I
+ say
+ that
+ top
+ down
+ is
+ if
+ I
+ look
+
+
+at
+ the
+ ROI
+ uh
+ of
+ uh
+ applying
+ AI
+ in
+
+
+customer
+ service
+ uh
+ or
+ in
+ supply
+ chain
+
+
+or
+ in
+ HR
+ self-service
+ those
+ are
+ the
+ easy
+
+
+projects
+ where
+ uh
+ IT
+ and
+ CXOs
+ can
+ make
+
+
+calls
+ and
+ that's
+ where
+ you'll
+ see
+ the
+
+
+first
+ drop
+ of
+ uh
+ real
+ AI
+ adoption
+ but
+
+
+the
+ bottom
+ up
+ is
+ what
+ ultimately
+ will
+
+
+happen
+ right
+ I
+ mean
+ with
+ even
+ with
+ the
+
+
+PCs
+ in
+ fact
+ if
+ you
+ think
+ back
+ at
+ the
+
+
+lawyers
+ brought
+ word
+ in
+ and
+ then
+ finance
+
+
+bought
+ Excel
+ in
+ and
+ then
+ email
+ came
+ and
+
+
+then
+ it
+ became
+ standard
+ issue.
+ That's
+
+
+what's
+ happening
+ right
+ now.
+ So
+ for
+
+
+example,
+ these
+ agents
+ when
+ I
+ sort
+ of
+
+
+talk
+ about
+ everybody's
+ building
+ agents,
+
+
+they
+ are
+ figuring
+ out
+ a
+ way
+ to
+ go
+ create
+
+
+these
+ things
+ that
+ are
+ changing
+ workflow
+
+
+and
+ removing
+ drudgery
+ in
+ their
+ work.
+
+
+Right?
+ That's
+ sort
+ of
+ the
+ beginning
+ of
+
+
+what
+ is
+ a
+ bottomup
+ transformation.
+ Um
+ I
+
+
+you
+ I
+ was
+ in
+ fact
+ the
+ thing
+ that
+ I'm
+
+
+most
+ excited
+ about
+ is
+ this
+ bottomup
+
+
+change
+ even
+ at
+ Microsoft
+ for
+ example
+ we
+
+
+manage
+ something
+ like
+ 500
+ odd
+ fiber
+
+
+operators
+ around
+ the
+ world
+ in
+ in
+ Azure
+
+
+today
+ and
+ by
+ the
+ way
+ I
+ not
+ myself
+
+
+realized
+ it
+ a
+ lot
+ of
+ it
+ you
+ know
+ it's
+
+
+called
+ DevOps
+ but
+ it's
+ a
+ it's
+ a
+ physical
+
+
+asset
+ things
+ get
+ cut
+ and
+ when
+ you
+ sort
+
+
+of
+ say
+ DevOps
+ that
+ means
+ you
+ literally
+
+
+are
+ emailing
+ people
+ and
+ saying
+ hey
+ what
+
+
+happened
+ to
+ that
+ fiber
+ cut
+ how
+ do
+ we
+
+
+repair
+ it
+ so
+ there's
+ a
+ lot
+ of
+ back
+ and
+
+
+forth
+ so
+ this
+ network
+ the
+ the
+ person
+ who
+
+
+runs
+ our
+ global
+ network
+ basically
+ has
+
+
+built
+ to
+ your
+ point
+ about
+ these
+ person
+
+
+they're
+ just
+ digital
+ employees
+
+
+essentially
+ that
+ are
+ doing
+ all
+ of
+ that
+
+
+devops
+ uh
+ and
+ so
+ that's
+ and
+ there's
+ a
+
+
+completely
+ bottoms
+ up
+ uh
+ where
+ you
+ see
+
+
+the
+ tools
+ it's
+ kind
+ of
+ like
+ hey
+ I
+ have
+
+
+the
+ new
+ way
+ to
+ build
+ agents
+ it's
+ there
+
+
+I'm
+ going
+ to
+ use
+ it
+ to
+ create
+ levels
+ of
+
+
+automation
+ uh
+ that
+ remove
+ drudgery
+
+
+improve
+ efficiency
+ improve
+ quality
+ and
+
+
+that
+ ultimately
+ is
+ a
+ skilling
+ thing
+
+
+which
+ is
+ sort
+ of
+ the
+ big
+ issue
+ which
+ is
+
+
+um
+ and
+ skilling
+ is
+ not
+ mystical
+ it's
+
+
+just
+ by
+ doing
+ right
+ so
+ it's
+ not
+ like
+ I
+
+
+go
+ to
+ a
+ class
+ per
+ se
+ it's
+ like
+ the
+
+
+diffusion
+ of
+ the
+ tools
+ uh
+ and
+ using
+ the
+
+
+tools
+ and
+ that
+ I
+ think
+ is
+ what's
+ really
+
+
+going
+ to
+ be
+ happening
+
+
+>> and
+ and
+ we're
+ in
+ a
+ very
+ interesting
+
+
+moment
+ empowering
+ an
+ existing
+ employee
+
+
+with
+ these
+ tools
+ is
+ so
+ much
+ easier
+ than
+
+
+hiring
+ and
+ mentoring
+ and
+ bringing
+ up
+ the
+
+
+next
+ generation
+ so
+ it
+ feels
+ like
+ we're
+
+
+in
+ a
+ little
+ bit
+ of
+ an
+ indigestion
+ moment
+
+
+at
+ Microsoft,
+ do
+ you
+ think
+ who's
+ going
+
+
+to
+ have
+ my
+ job
+
+
+>> in
+ 30
+ or
+ 40
+ years,
+ if
+ the
+ company
+ stays
+
+
+the
+ same
+ size?
+ Because
+ given
+ your
+
+
+technology
+ first
+ approach,
+ there's
+
+
+really
+ no
+ reason
+ to
+ ever
+ add
+ another
+
+
+Microsoft
+ employee
+ at
+ the
+ pace
+ this
+ is
+
+
+going
+ and
+ you
+ haven't
+ for
+ four
+ years.
+
+
+So,
+ how
+ you
+ may
+ have
+ swapped
+ some
+ in
+ and
+
+
+out
+ and
+ changed
+ the
+ texture
+ of
+ it.
+ So,
+
+
+how
+ do
+ you
+ think
+ about
+ maybe
+ this
+ next
+
+
+generation?
+ What
+ advice
+ would
+ you
+ have
+
+
+for
+ these
+ college
+ graduates
+ who
+ maybe
+
+
+don't
+ have
+ an
+ offer
+ for
+ Microsoft
+ right
+
+
+now?
+ And
+ you
+ used
+ to
+ spend
+ a
+ lot
+ of
+ time
+
+
+on
+ that
+ building
+ that
+ group,
+ but
+ maybe
+
+
+you
+ don't
+ have
+ that
+ luxury
+ now.
+ Do
+ you
+
+
+think
+ about
+ it
+ ever?
+
+
+>> No,
+ I
+ I
+ mean
+ it's
+ a
+ great
+ question.
+ I
+
+
+you
+ know
+ there's
+ a
+ little
+ bit
+ of
+ a
+
+
+debate
+ what
+ happens
+ to
+ early
+ in
+ career
+
+
+and
+ how
+ is
+ college
+ recruiting.
+ I
+ still
+
+
+am
+ a
+ big
+ believer
+ in
+ uh
+ college
+
+
+recruiting
+ because
+ at
+ the
+ end
+ of
+ the
+ day
+
+
+um
+ this
+ is
+ going
+ to
+ change
+ the
+ curve
+ by
+
+
+which
+ anyone
+ can
+ pick
+ up
+ proficiency
+ in
+
+
+a
+ codebase.
+ Let's
+ just
+ it
+ takes
+ sort
+ of
+
+
+just
+ regular
+ CS
+ hiring.
+ uh
+ what
+ has
+
+
+changed
+ is
+ perhaps
+ for
+ someone
+ who
+ comes
+
+
+in
+ new
+ into
+ a
+ team
+ and
+ to
+ be
+ able
+ to
+
+
+ramp
+ up
+ thanks
+ to
+ all
+ of
+ uh
+ the
+
+
+markdowns,
+ the
+ skills,
+ uh
+ the
+ fact
+ that
+
+
+I
+ can
+ go
+ ask
+ the
+ agent.
+ I
+ mean,
+ think
+
+
+about
+ it,
+ right?
+ It's
+ like
+ having
+ an
+
+
+unbelievable
+ mentor
+ who
+ is
+ getting
+ you
+
+
+onboarded
+ onto
+ a
+ codebase
+ faster.
+ So
+ in
+
+
+some
+ sense
+ the
+ productivity
+ curve
+ uh
+ of
+
+
+a
+ college
+ hire
+ is
+ going
+ to
+ be
+ much
+
+
+steeper
+ than
+ it
+ ever
+ before.
+ So
+ I
+ think
+
+
+there
+ might
+ be
+ a
+ difference.
+ In
+ fact,
+
+
+one
+ of
+ the
+ things
+ we're
+ experimenting
+
+
+with
+ is
+ a
+ different
+ type
+ of
+
+
+apprenticeship,
+ right?
+ Which
+ is
+ you
+ take
+
+
+somebody
+ who's
+ an
+ IC
+ senior
+ dev
+ have
+
+
+like
+ a
+ cohort
+ of
+ college
+ uh
+ hires
+
+
+working
+ with
+ them
+ because
+ it's
+ a
+ new
+ way
+
+
+of
+ working.
+ It's
+ like
+ I
+ remember
+ like
+
+
+all
+ you
+ know
+ everybody
+ who
+ joined
+
+
+Microsoft
+ would
+ say
+ go
+ how
+ how
+ did
+ you
+
+
+know
+ whatever
+ um
+ Cutler
+ implement
+ Malik
+
+
+or
+ what
+ have
+ you
+ right
+ he
+ would
+ go
+ try
+
+
+to
+ read
+ uh
+ his
+ code
+ to
+ understand
+ uh
+
+
+what
+ great
+ craftsmanship
+ looks
+ like
+
+
+nowadays
+ I
+ think
+ that
+ great
+
+
+craftsmanship
+ uh
+ comes
+ by
+ looking
+ at
+
+
+even
+ how
+ the
+ 10x
+ 100x
+ engineers
+ use
+ AI
+
+
+to
+ build
+ great
+ quality
+ products
+ uh
+ and
+
+
+that
+ is
+ what
+ these
+ new
+ college
+ grads
+
+
+will
+ learn
+ and
+ learn
+ faster
+ and
+ so
+
+
+that's
+ a
+ beneficial
+ thing
+ for
+ a
+ company
+
+
+like
+ us
+ because
+ at
+ the
+ end
+ of
+ the
+ day
+
+
+you
+ know
+ until
+ we
+ saw
+ longevity
+ or
+
+
+something
+ we
+ need
+ people
+ to
+ come
+ into
+
+
+the
+ workforce
+ be
+ successful
+ at
+ Microsoft
+
+
+so
+ we
+ are
+ very
+ committed
+ but
+ we
+ are
+ also
+
+
+making
+ sure
+ that
+ the
+ scopes
+ of
+ the
+ jobs
+
+
+make
+ sense
+ for
+ what
+ the
+ aspirations
+ of
+
+
+people
+ are
+ going
+ to
+ be
+ both
+ who
+ are
+
+
+currently
+ in
+ the
+ workforce
+ and
+ people
+
+
+who
+ are
+ entering
+ the
+ workforce.
+
+
+Okay,
+ on
+ that
+ note,
+ Sache
+ Nadella,
+
+
+>> thank
+ you
+ so
+ much.
