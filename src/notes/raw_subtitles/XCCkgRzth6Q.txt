@@ -1,0 +1,16121 @@
+We
+ have
+ maxed
+ out
+ the
+ features.
+ We
+ have
+
+
+maxed
+ out
+ the
+ hardware.
+ That's
+ what
+ we
+
+
+get.
+
+
+>> By
+ almost
+ any
+ definition
+ anyone
+ could
+
+
+have
+ written
+ down,
+ let's
+ say
+ 5
+ years
+ ago
+
+
+or
+ 10
+ years
+ ago,
+ we
+ basically
+ have
+ the
+
+
+vision
+ of
+ AGI
+ that
+ that
+ we
+ had
+ back
+
+
+then.
+
+
+>> Everything
+ that
+ grows
+ exponential
+ will
+
+
+level
+ off
+ because
+ if
+ you
+ need
+ resources,
+
+
+the
+ resources
+ will
+ be
+ exhausted.
+
+
+>> You
+ can
+ see
+ up
+ to
+ two
+ orders
+ of
+
+
+magnitude
+ more
+ compute
+ available,
+ 100x
+
+
+more
+ compute.
+
+
+>> If
+ you
+ don't
+ know
+ how
+ to
+ use
+ agents
+
+
+well,
+ you
+ will
+ be
+ left
+ behind.
+
+
+>> How
+ far
+ can
+ you
+ push
+ it?
+ I
+ think
+ it's
+
+
+never
+ been
+ a
+ more
+ exciting
+ time
+ to
+ work
+
+
+in
+ AI.
+ Hi,
+ I'm
+ Matt
+ Turk.
+ Welcome
+ to
+ the
+
+
+Matt
+ podcast.
+ Today
+ we
+ have
+ a
+ special
+
+
+reality
+ check
+ on
+ AGI
+ with
+ two
+ guests
+ who
+
+
+are
+ very
+ close
+ to
+ the
+ computational
+
+
+reality
+ of
+ AI.
+ Tim
+ Demmer
+ of
+ AI2
+ and
+
+
+Danfu
+ of
+ Together
+ AI.
+ In
+ this
+ episode,
+
+
+the
+ team
+ argues
+ that
+ we
+ are
+ hitting
+
+
+diminishing
+ returns
+ and
+ running
+ into
+
+
+hard
+ physical
+ constraints
+ while
+ Dan
+
+
+argues
+ that
+ we
+ are
+ still
+ leaving
+ huge
+
+
+performance
+ on
+ the
+ table
+ and
+ that
+
+
+today's
+ models
+ are
+ lagging
+ indicators
+ of
+
+
+hardware
+ progress.
+ Then
+ we
+ shift
+ into
+ a
+
+
+fun
+ practical
+ discussion
+ on
+ how
+ to
+ use
+
+
+agents
+ and
+ what
+ to
+ expect
+ from
+ AI
+ in
+
+
+2026.
+ Please
+ enjoy
+ this
+ fun
+ conversation
+
+
+with
+ Tim
+ and
+ Dan.
+
+
+>> Tim
+ and
+ Dan,
+ welcome.
+
+
+>> Thanks
+ for
+ having
+ us.
+
+
+>> So
+ Tim,
+ a
+ few
+ weeks
+ ago
+ you
+ wrote
+ a
+
+
+great
+ provocative
+ blog
+ post
+ entitled
+ Why
+
+
+AGI
+ will
+ not
+ happen.
+ And
+ then
+ Dan,
+ a
+ few
+
+
+days
+ later
+ you
+ replied
+ with
+ your
+ own
+
+
+blog
+ post
+ equally
+ fascinating
+ entitled
+
+
+Yes,
+ AGI
+ will
+ happen.
+ I'd
+ love
+ to
+ uh
+ go
+
+
+into
+ your
+ backgrounds.
+ You
+ both
+ have
+ the
+
+
+very
+ interesting
+ characteristic
+ of
+ being
+
+
+having
+ a
+ foot
+ in
+ industry
+ and
+ a
+ foot
+ in
+
+
+academia.
+ So
+ uh
+ Timmy
+ if
+ you
+ want
+ to
+
+
+start
+ with
+ yours.
+
+
+>> I'm
+ assistant
+ professor
+ at
+ Carnegie
+ Man
+
+
+University
+ machine
+ learning
+ and
+ copa
+
+
+science
+ department
+ and
+ also
+ research
+
+
+scientists
+ at
+ the
+ Ellen
+ Institute
+ for
+
+
+AI.
+ My
+ past
+ research
+ has
+ been
+ mostly
+ on
+
+
+efficient
+ deep
+ learning
+ quantization.
+ Uh
+
+
+that
+ means
+ model
+ compression.
+ take
+ large
+
+
+models,
+ compress
+ them
+ down
+ from
+ like
+ 16
+
+
+bit
+ to
+ something
+ like
+ 4bit.
+ Key
+ research
+
+
+has
+ been
+ there.
+ Um,
+ for
+ example,
+ it's
+ a
+
+
+very
+ efficient
+ fine
+ tuning.
+ We
+ compress
+
+
+to
+ 4bit,
+ use
+ adapters
+ on
+ the
+ model
+ and
+
+
+then
+ use
+ up
+ to
+ 16
+ times
+ uh
+ less
+ memory
+
+
+than
+ if
+ you
+ have
+ dense
+ both
+ handling
+ and
+
+
+now
+ I'm
+ working
+ on
+ coding
+ agents
+ that
+ we
+
+
+have
+ a
+ very
+ exciting
+ release
+ in
+ about
+
+
+two
+ weeks.
+ um
+ state-of-the-art
+ agents.
+
+
+You
+ can
+ quickly
+ specialize
+ to
+ private
+
+
+data,
+ get
+ like
+ strong
+ performance
+ on
+ any
+
+
+code
+ base
+ that
+ you
+ like.
+ Um
+ and
+ yeah,
+
+
+that's
+ very
+ exciting.
+
+
+>> Dan,
+
+
+>> hey.
+ Um
+ so
+ I'm
+ an
+ assistant
+ professor
+ at
+
+
+UC
+ San
+ Diego.
+ Uh
+ and
+ also
+ my
+ total
+ VP
+ of
+
+
+kernels
+ at
+ together
+ AI.
+ So
+ um
+ in
+ in
+
+
+industry,
+ I
+ focus
+ a
+ lot
+ on
+ um
+ basically
+
+
+making
+ models
+ go
+ fast.
+ So
+ GPU
+ kernels
+
+
+are
+ the
+ things
+ that
+ that
+ actually
+
+
+translate
+ the
+ models
+ to
+ um
+ to
+ to
+ how
+
+
+they
+ run
+ on
+ on
+ the
+ GPU.
+ You
+ can
+ think
+ of
+
+
+them
+ as
+ as
+ basically
+ specialized
+ GPU
+
+
+programs.
+ A
+ lot
+ of
+ my
+ research
+ uh
+ in
+ my
+
+
+PhD
+ in
+ my
+ lab
+ uh
+ focused
+ on
+ that.
+ So
+ I
+ I
+
+
+developed
+ things
+ like
+ flash
+ attention
+
+
+which
+ was
+ a
+ efficient
+ kernel
+ for
+ the
+ one
+
+
+of
+ the
+ core
+ operations
+ of
+ of
+ a
+ lot
+ of
+
+
+the
+ uh
+ language
+ models
+ that
+ that
+ we
+ use
+
+
+today.
+ I
+ also
+ did
+ research
+ on
+ sort
+ of
+
+
+alternative
+ architectures
+ to
+
+
+transformers,
+ things
+ like
+ state
+ space
+
+
+models
+ and
+ and
+ things
+ like
+ that.
+ And
+
+
+together
+ I'm
+ really
+ focused
+ on
+ how
+ do
+
+
+you
+ make
+ the
+ best
+ language
+ models
+ that
+
+
+we
+ have
+ today.
+ How
+ do
+ we
+ make
+ them
+ go
+
+
+faster?
+ Uh
+ I
+ think
+ you
+ know
+ as
+ of
+ uh
+ as
+
+
+of
+ this
+ morning's
+ recording,
+ we
+ actually
+
+
+just
+ released
+ a
+ blog
+ post
+ with
+ Cursor
+
+
+about
+ how
+ we
+ accelerated
+ a
+ bunch
+ of
+
+
+their
+ uh
+ models
+ and
+ and
+ helped
+ them
+
+
+launch
+ composer
+ 2.0
+ um
+ on
+ Nvidia's
+
+
+Blackwell
+ GPU.
+ So
+ that
+ that's
+ a
+ a
+ bit
+ of
+
+
+a
+ flavor
+ of
+ what
+ I
+ do.
+ So
+ let's
+ get
+ into
+
+
+this
+ AGI
+ discussion
+ and
+ then
+ in
+ the
+
+
+second
+ part
+ of
+ this
+ conversation
+ we'll
+
+
+talk
+ about
+ agents
+ and
+ coding
+ agents
+ and
+
+
+your
+ thoughts
+ there
+ because
+ I
+ want
+ to
+
+
+make
+ sure
+ we
+ cover
+ that
+ AGI
+ uh
+ obviously
+
+
+it's
+ a
+ term
+ that
+ uh
+ everybody
+ uses
+ and
+ I
+
+
+think
+ we
+ can
+ all
+ agree
+ that
+ nobody
+
+
+really
+ knows
+ what
+ that
+ means
+ but
+ for
+ for
+
+
+purposes
+ of
+ this
+ discussion
+ uh
+ what
+ is
+ a
+
+
+uh
+ useful
+ definition
+ of
+ AGI
+ from
+ your
+
+
+perspective?
+
+
+>> Sure.
+ Yeah.
+ I
+ think
+ so.
+ One one
+ of
+ the
+
+
+things
+ that
+ that
+ we
+ kind
+ of
+ discussed
+
+
+back
+ and
+ forth
+ in
+ in
+ this
+ set
+ of
+ blog
+
+
+posts
+ is
+ sort
+ of
+ what
+ AGI
+ means.
+ For
+ me,
+
+
+I
+ think
+ one
+ of
+ the
+ things
+ that
+ I've
+ been
+
+
+thinking
+ about
+ recently
+ is
+ that
+ if
+ you
+
+
+took
+ where
+ we
+ are
+ today
+ with
+ the
+ models
+
+
+that
+ we
+ have
+ today
+ with
+ the
+ language
+
+
+models
+ and
+ I
+ think
+ you
+ know
+ we'll
+
+
+probably
+ talk
+ about
+ this
+ a
+ bit
+ more
+ with
+
+
+the
+ later
+ with
+ the
+ agents
+ by
+ almost
+ any
+
+
+definition
+ anyone
+ could
+ have
+ written
+
+
+down
+ let's
+ say
+ 5
+ years
+ ago
+ or
+ 10
+ years
+
+
+ago.
+ Certainly
+ when
+ you
+ know
+ Tim
+ you
+ and
+
+
+I
+ started
+ our
+ PhDs
+ we
+ basically
+ have
+ the
+
+
+vision
+ of
+ AGI
+ that
+ that
+ we
+ had
+ back
+
+
+then.
+ We
+ have
+ things
+ that
+ can
+ write
+
+
+code.
+ They
+ can
+ write
+ you
+ know
+ human
+ text
+
+
+even
+ though
+ you
+ know
+ maybe
+ the
+ they
+ they
+
+
+use
+ too
+ many
+ m
+ dashes
+ or
+ or
+ something
+
+
+like
+ that
+ but
+ they
+ can
+ uh
+ do
+ do
+ these
+
+
+really
+ really
+ amazing
+ things.
+ I
+ think
+
+
+one
+ of
+ the
+ things
+ that
+ I
+ think
+ about
+ is
+
+
+at
+ what
+ level
+ does
+ this
+ kind
+ of
+ become
+ a
+
+
+new
+ industrial
+ revolution
+ where
+ you
+ can
+
+
+where
+ this
+ technology
+ is
+ really
+ going
+ to
+
+
+change
+ a
+ lot
+ of
+ what
+ the
+ way
+ that
+ we
+ do
+
+
+things
+ today
+ the
+ the
+ and
+ have
+ a
+ huge
+ you
+
+
+know
+ really
+ really
+ great
+ economic
+ impact
+
+
+in
+ terms
+ of
+ software
+ engineering
+ I
+ feel
+
+
+like
+ we're
+ already
+ there
+ or
+ almost
+ there
+
+
+like
+ uh
+ there
+ are
+ there
+ are
+ things
+ that
+
+
+may
+ be
+ super
+ specialized
+ like
+ I
+ don't
+
+
+know
+ if
+ they're
+ going
+ to
+ be
+ able
+ to
+
+
+write
+ like
+ the
+ best
+ forran
+ and
+ cobalt
+
+
+code
+ in
+ the
+ world
+ um
+ but
+ for
+ web
+
+
+development
+ a
+ lot
+ of
+ even
+ a
+ lot
+ of
+
+
+low-level
+ systems
+ engineering,
+ they're
+
+
+they're
+ already
+ really
+ great.
+ One
+ of
+ the
+
+
+reasons
+ that
+ that
+ that
+ I
+ wrote
+ my
+ blog
+
+
+post
+ was
+ um
+ if
+ you
+ kind
+ of
+ think
+ about
+
+
+where
+ we
+ are
+ today,
+ you
+ know,
+ we
+ maybe
+
+
+already
+ have
+ AGI
+ or
+ like
+ some
+ some
+ form
+
+
+of
+ AGI.
+ And
+ if
+ not,
+ then
+ certainly
+ the
+
+
+next
+ generation
+ of
+ models,
+ the
+ models
+
+
+that
+ today
+ are
+ training
+ already.
+ Um
+ if
+
+
+they're
+ at
+ all
+ better
+ than
+ what
+ we
+ have
+
+
+today,
+ then
+ we're
+ we're
+ we
+ we've
+ already
+
+
+hit
+ something
+ that's
+ that's
+ really
+
+
+amazing
+ and
+ and
+ and
+ and
+ pretty
+ wild.
+
+
+when
+ I
+ wrote
+ my
+ blog
+ post
+ actually
+ I
+ um
+
+
+I
+ noticed
+ like
+ oh
+ I
+ I
+ forgot
+ to
+ put
+ the
+
+
+definition
+ of
+ AGI
+ my
+ blog
+ post
+ even
+
+
+though
+ my
+ blog
+ post
+ is
+ very
+ much
+ about
+
+
+AGI
+ and
+ and
+ I
+ think
+ that
+ sometimes
+ sort
+
+
+of
+ reflects
+ how
+ we
+ think
+ about
+ AGI
+ we
+
+
+don't
+ think
+ carefully
+ about
+ the
+
+
+definition
+ I
+ mean
+ there
+ are
+ sort
+ of
+ um
+
+
+and
+ I
+ I
+ thought
+ about
+ it
+ before
+ and
+ I
+
+
+think
+ there
+ sort
+ of
+ uh
+ different
+ kind
+ of
+
+
+definitions
+ that
+ have
+ sort
+ of
+ advantages
+
+
+disadvantages
+ I
+ wouldn't
+ say
+ I
+ mean
+ as
+
+
+you
+ said
+ before
+ there's
+ not
+ one
+
+
+definition
+ that
+ people
+ agree
+ on
+ just
+ to
+
+
+mention
+ sort
+ of
+ a
+ couple
+ um
+ and
+ I
+ think
+
+
+one
+ that's
+ sort
+ of
+ quite
+ widespread
+ is
+
+
+to
+ see
+ AGI
+ as
+ sort
+ of
+ cognitive
+
+
+abilities,
+ cognitive
+ tasks.
+ What
+ can
+ you
+
+
+do
+ cognitive?
+ I
+ mean
+ and
+ software
+
+
+engineering
+ very
+ cognitive
+ writing
+ very
+
+
+cognitive
+ moving
+ a
+ robot
+ in
+ in
+ space
+ um
+
+
+that's
+ more
+ genetic
+ um
+ sort
+ of
+ you
+ can
+
+
+you
+ could
+ also
+ say
+ like
+ hey
+ you
+ also
+
+
+need
+ to
+ think
+ about
+ how
+ you
+ move
+ that's
+
+
+also
+ part
+ of
+ cognition
+ but
+ I
+ think
+ most
+
+
+people
+ would
+ separate
+ that
+ and
+ um
+ say
+
+
+everything
+ digital
+ is
+ kind
+ of
+ cognitive
+
+
+and
+ if
+ you
+ have
+ physical
+ that
+ goes
+
+
+beyond
+ that
+ what
+ I
+ think
+ makes
+ sense
+ is
+
+
+sort
+ of
+ this
+ economic
+ angle
+ can
+ we
+ at
+
+
+another
+ ind
+ industrial
+ revolution.
+ What
+
+
+it
+ means
+ is
+ is
+ AI
+ useful
+ and
+ it's
+ so
+
+
+broad
+ and
+ useful
+ that
+ you
+ want
+ to
+ use
+ it
+
+
+everywhere
+ kind
+ of
+ um
+ it
+ accelerates
+ all
+
+
+kinds
+ of
+ things
+ um
+ similar
+ to
+ where
+
+
+computers
+ were
+ introduced
+ productivity
+
+
+increase
+ not
+ initially
+ a
+ productivity
+
+
+actually
+ went
+ down
+ and
+ you
+ need
+ your
+
+
+diffusion
+ in
+ the
+ economy
+ to
+ pick
+ it
+ up
+
+
+again.
+ we
+ might
+ see
+ something
+ like
+ that
+
+
+with
+ AGI
+ more
+ broadly
+ in
+ task
+ for
+ like
+
+
+software
+ engineering
+ scale
+ it's
+ going
+ up
+
+
+uh
+ pretty
+ significantly
+ but
+ yeah
+ I
+ think
+
+
+that
+ is
+ useful
+
+
+>> let's
+ jump
+ into
+ the
+ the
+ heart
+ of
+ the
+
+
+argument
+ Tim
+ I
+ was
+ amused
+ by
+ what
+ you
+
+
+said
+ about
+ um
+ where
+ where
+ all
+ those
+
+
+ideas
+ of
+ a
+ super
+ intelligence
+ uh
+ come
+
+
+from
+ if
+ you
+ want
+ to
+ uh
+ talk
+ to
+ that
+
+
+>> yeah
+ and
+ to
+ sort
+ of
+ lay
+ out
+ sort
+ of
+ the
+
+
+entire
+ narrative
+ there
+ are
+ certain
+
+
+thoughts
+ about
+ AGI
+ that
+ is
+ sort
+ of
+ very
+
+
+much
+ rooted
+ in
+ a
+ certain
+ kind
+ of
+
+
+thinking.
+ Uh
+ it
+ comes
+ from
+ effective
+
+
+altruism
+ communities
+ of
+ the
+ rationality
+
+
+communities.
+ I
+ was
+ part
+ of
+ this
+
+
+communities
+ like
+ long
+ time
+ ago
+ that
+ is
+
+
+now
+ 15
+ years
+ ago.
+ If
+ you
+ look
+ on
+ Twitter
+
+
+there's
+ always
+ like
+ oh
+ we
+ get
+ AGI
+ in
+ 2
+
+
+years
+ and
+ then
+ one
+ year
+ later
+ oh
+ we
+ get
+
+
+AGI
+ in
+ two
+ years
+ and
+ one
+ year
+ later
+ we
+
+
+get
+ AGI
+ in
+ two
+ years.
+ I
+ feel
+ like
+ it's
+ a
+
+
+little
+ bit
+ of
+ lazy
+ thinking,
+ a
+ little
+
+
+bit
+ of
+ being
+ in
+ a
+ bubble
+ and
+ not
+ being
+
+
+exposed
+ to
+ different
+ ideas.
+ And
+ that
+ was
+
+
+one
+ of
+ the
+ main
+ motivations
+ for
+ me
+
+
+writing
+ the
+ blog
+ post
+ because
+ I
+ feel
+
+
+like
+ there
+ are
+ some
+ things
+ some
+ ideas
+
+
+that
+ if
+ you
+ think
+ about
+ them
+ um
+ they
+
+
+might
+ provide
+ a
+ counterpoint
+ to
+ a
+ lot
+ of
+
+
+the
+ thinking
+ that's
+ out
+ there.
+
+
+>> Yeah.
+ And
+ you
+ and
+ your
+ c
+ your
+ core
+
+
+thinking
+ is
+ that
+ um
+ there
+ is
+ a
+ tension
+
+
+between
+ those
+ ideas
+ and
+ the
+
+
+computational
+ reality.
+ Is
+ that
+ is
+ that
+ a
+
+
+fair
+ way
+ to
+ put
+ it?
+ Yeah,
+ there's
+ some
+
+
+there's
+ a
+ physical
+ component
+ and
+ then
+
+
+there's
+ an
+ idea
+ component,
+ but
+ there
+
+
+similar
+ structure
+ and
+ this
+ structure
+ is
+
+
+basically
+ diminishing
+ returns.
+
+
+Everything
+ that
+ grows
+ exponential
+ will
+
+
+level
+ off
+ because
+ if
+ you
+ need
+ resources,
+
+
+the
+ resources
+ will
+ be
+ exhausted.
+
+
+Resources
+ can
+ mean
+ different
+ things
+ and
+
+
+if
+ you
+ look
+ at
+ the
+ physical
+ aspect
+ um
+ it
+
+
+gets
+ just
+ more
+ and
+ more
+ difficult
+ to
+
+
+advance
+ technology.
+ That
+ is
+ the
+ case
+
+
+almost
+ with
+ any
+ field
+ of
+ uh
+ research
+ or
+
+
+development.
+ um
+ things
+ get
+ more
+ more
+
+
+easily.
+ You
+ need
+ more
+ resources
+ to
+ make
+
+
+further
+ progress
+ and
+ the
+ pro
+ progress
+
+
+sort
+ of
+ and
+ goes
+ uh
+ lower
+ and
+ lower
+ and
+
+
+so
+ if
+ you
+ look
+ at
+ the
+ physical
+ reality
+
+
+of
+ computational
+ devices
+ and
+ then
+ also
+
+
+computation
+ itself
+ has
+ particular
+
+
+structure
+ and
+ so
+ basically
+ computation
+
+
+useful
+ computation
+ is
+ two
+ things.
+ The
+
+
+first
+ is
+ you
+ need
+ to
+ gather
+ data
+ from
+
+
+one
+ location
+ and
+ aggregate
+ it
+ in
+ a
+
+
+certain
+ location
+ where
+ you
+ then
+ put
+ this
+
+
+new
+ information
+ together
+ to
+ compute
+ a
+
+
+transformation
+ of
+ that
+ information.
+ You
+
+
+basically
+ want
+ to
+ combine
+ um
+ sort
+ of
+
+
+known
+ things
+ and
+ compute
+ some
+ new
+ sort
+
+
+of
+ um
+ things
+ that
+ you
+ didn't
+ know
+
+
+before.
+ Useful
+ information.
+ useful
+
+
+information
+ can
+ and
+ needs
+ to
+ be
+
+
+transformed
+ from
+ information
+ that
+ you
+
+
+already
+ know.
+ If
+ you
+ move
+ a
+ lot
+ of
+
+
+information
+ around
+ but
+ you
+ don't
+
+
+transform
+ it,
+ you
+ can't
+ make
+ new
+
+
+information.
+ If
+ you
+ do
+ a
+ lot
+ of
+
+
+computation
+ on
+ the
+ information
+ that
+ you
+
+
+already
+ have,
+ you
+ miss
+ out
+ on
+ the
+ long
+
+
+distance
+ insight,
+ the
+ indirect
+ insights.
+
+
+I
+ think
+ a
+ lot
+ of
+ this
+ actually
+ maps
+ to
+
+
+the
+ neural
+ network
+ architectures
+ that
+ we
+
+
+have.
+ Um
+ the
+ beginnings
+ we
+ had
+
+
+convolutional
+ networks
+ they
+ are
+ very
+
+
+effective
+ and
+ what
+ they
+ doing
+ they
+ don't
+
+
+move
+ much
+ memory
+ they
+ do
+ a
+ lot
+ of
+
+
+computation
+ and
+ that
+ means
+ your
+ device
+
+
+needs
+ a
+ lot
+ of
+ flops
+ and
+ memory
+
+
+bandwidth
+ is
+ not
+ that
+ important
+ once
+ you
+
+
+go
+ to
+ very
+ dense
+ computation
+ very
+ large
+
+
+matrices
+ then
+ it
+ goes
+ in
+ the
+ direction
+
+
+um
+ of
+ the
+ current
+ neural
+ networks
+ but
+
+
+there
+ you
+ have
+ still
+ sort
+ of
+ this
+
+
+component
+ of
+ your
+ recurrent
+ um
+ basically
+
+
+paying
+ attention
+ to
+ previous
+ states.
+ And
+
+
+but
+ because
+ it's
+ recurrence,
+ the
+ memory
+
+
+reuse
+ of
+ that
+ computation
+ is
+ minimal.
+
+
+And
+ with
+ um
+ transformers,
+ you
+ basically
+
+
+then
+ had
+ these
+ large
+ matrices
+ that
+
+
+compute
+ basically
+ that
+ transform
+ the
+
+
+incoming
+ information
+ from
+ the
+ previous
+
+
+layer.
+ And
+ then
+ you
+ had
+ a
+ tension
+ that
+
+
+now
+ computes
+ the
+ information
+ across
+ time
+
+
+or
+ space.
+ And
+ um
+ I
+ would
+ argue
+ these
+ are
+
+
+the
+ most
+ two
+ fundamental
+ ways
+ of
+
+
+computing
+ information.
+ You
+ want
+ relate
+
+
+information
+ to
+ itself
+ or
+ transformation
+
+
+of
+ that
+ uh
+ information.
+ But
+ then
+ you
+
+
+also
+ want
+ to
+ basically
+ relate
+
+
+information
+ to
+ um
+ distantly
+ related
+ of
+
+
+information.
+ So
+ you
+ want
+ long-term
+
+
+relationships
+ and
+ you
+ want
+ a
+
+
+transformation
+ based
+ on
+ what
+ you
+ already
+
+
+know.
+
+
+>> And
+ you
+ say
+ this
+ is
+ slowing
+ down,
+ right?
+
+
+like
+ in
+ your
+ um
+ blog
+ post
+ you
+ have
+ a
+
+
+pretty
+ striking
+ sentence
+ where
+ you
+ say
+
+
+uh
+ GPUs
+ will
+ no
+ longer
+ improve
+ meaning
+
+
+fully.
+ We
+ have
+ essentially
+ seen
+ the
+ last
+
+
+generation
+ of
+ significant
+ GPU
+
+
+improvements.
+
+
+>> Yeah.
+ So
+ this
+ has
+ two
+ components
+ and
+ so
+
+
+one
+ is
+ also
+ sort
+ of
+ a
+ very
+ fundamental
+
+
+thing
+ and
+ it's
+ physical
+ in
+ the
+ sense
+
+
+that
+ um
+ I
+ mentioned
+ these
+ two
+ um
+
+
+components
+ uh
+ memory
+ movement
+ and
+
+
+computation
+ and
+ so
+ computation
+ can
+ only
+
+
+be
+ useful
+ if
+ you
+ move
+ memory
+ to
+ this
+
+
+sort
+ of
+ local
+ neighborhood
+ where
+ you
+ do
+
+
+this
+ computation.
+ Now
+ this
+ is
+ a
+
+
+geometric
+ problem.
+ You
+ need
+ to
+ have
+ a
+
+
+large
+ store
+ of
+ information
+ and
+ then
+ use
+
+
+this
+ large
+ store
+ to
+ move
+ information
+
+
+closer
+ to
+ where
+ you
+ do
+ want
+ to
+ do
+ the
+
+
+computation.
+ And
+ we
+ have
+ figured
+ out
+ how
+
+
+to
+ physically
+ do
+ is
+ optimal.
+ We
+ have
+
+
+like
+ a
+ large
+ slow
+ memory
+ that's
+ DRAM.
+
+
+Then
+ we
+ move
+ it
+ to
+ a
+ cache.
+ If
+ you
+ look
+
+
+at
+ the
+ geometry,
+ that's
+ how
+ you
+ do
+ it
+
+
+fast.
+ If
+ you
+ have
+ a
+ certain
+ size
+ of
+
+
+computation,
+ this
+ is
+ optimal.
+ If
+ you
+
+
+have
+ a
+ different
+ size
+ of
+ computation
+
+
+matrix
+ multiplication,
+ then
+ you
+ want
+ to
+
+
+use
+ not
+ a
+ CPU
+ but
+ more
+ like
+ a
+ GPU
+ which
+
+
+has
+ higher
+ latency
+ but
+ more
+ throughput.
+
+
+You
+ can
+ move
+ more
+ data
+ but
+ more
+ slowly.
+
+
+And
+ um
+ yeah,
+ if
+ you
+ look
+ at
+ all
+ of
+ that,
+
+
+you
+ can
+ push
+ around
+ a
+ little
+ bit
+ how
+ you
+
+
+structure
+ everything
+ like
+ the
+ caches
+ and
+
+
+uh
+ how
+ large
+ they
+ are
+ and
+ how
+ much
+ cores
+
+
+are
+ they
+ shared.
+ But
+ in
+ the
+ end
+ uh
+ the
+
+
+fundamental
+ problem
+ uh
+ remains
+ the
+ same.
+
+
+You
+ have
+ a
+ geometric
+ problem.
+ You
+ can
+
+
+only
+ fill
+ the
+ space
+ in
+ a
+ certain
+ way
+ and
+
+
+that
+ means
+ you
+ always
+ have
+ certain
+
+
+access
+ pattern
+ with
+ certain
+ um
+ latencies
+
+
+and
+ the
+ biggest
+ latency
+ is
+ a
+ big
+ block
+
+
+of
+ uh
+ DRAM
+ that
+ is
+ the
+ major
+ bottleneck.
+
+
+This
+ is
+ also
+ called
+ the
+ uh
+ fonoman
+ uh
+
+
+battle
+ neck
+ bottleneck
+ based
+ on
+
+
+computers
+ almost
+ all
+ computers
+ that
+ we
+
+
+have
+ and
+ this
+ is
+ a
+ bottleneck
+ of
+ um
+
+
+moving
+ a
+ program
+ to
+ where
+ you
+ execute
+
+
+the
+ program
+ and
+ for
+ neuronet
+ networks
+
+
+that's
+ basically
+ move
+ the
+ weights
+ in
+ the
+
+
+inputs
+ to
+ uh
+ the
+ execution
+ where
+ you
+
+
+execute
+ the
+ program
+ that
+ would
+ be
+ the
+
+
+tensor
+ course.
+ there
+ are
+ not
+ many
+ ways
+
+
+how
+ you
+ can
+ go
+ around
+ this
+ bottleneck.
+
+
+Um
+ the
+ only
+ way
+ is
+ to
+ store
+ the
+ memory
+
+
+locally
+ and
+ do
+ the
+ local
+ computation
+
+
+there.
+ And
+ there
+ are
+ some
+ processes
+ that
+
+
+do
+ something
+ like
+ that.
+ For
+ example,
+
+
+this
+ reburse
+ processor.
+ So
+ they
+ don't
+
+
+have
+ this
+ forment
+ bottleneck
+ in
+ a
+ major
+
+
+way
+ on
+ the
+ ship,
+ but
+ then
+ they
+ need
+ to
+
+
+also
+ pipe
+ data
+ into
+ that
+ ship.
+ And
+ so
+
+
+the
+ forment
+ bottleneck
+ moves
+ basically
+
+
+away
+ from
+ the
+ ship
+ to
+ your
+ storage
+ or
+ 2J
+
+
+network.
+ And
+ so
+ you
+ just
+ move
+ it
+ away
+
+
+but
+ still
+ the
+ same
+ bottleneck.
+ You
+ need
+
+
+to
+ load
+ the
+ program
+ which
+ might
+ side
+ on
+
+
+the
+ disk
+ or
+ memory
+ through
+ the
+ network
+
+
+to
+ the
+ ship
+ and
+ same
+ physical
+ problem.
+
+
+You
+ just
+ move
+ a
+ couple
+ of
+ variables
+
+
+around.
+ That
+ is
+ sort
+ of
+ one
+ part
+ of
+ the
+
+
+problem.
+ We
+ don't
+ have
+ architectures
+
+
+that
+ can
+ solve
+ this
+ problem.
+ That's
+ sort
+
+
+of
+ the
+ second
+ part
+ where
+ um
+ my
+ argument
+
+
+kicks
+ in
+ and
+ that
+ is
+ you
+ need
+ new
+
+
+technology
+ to
+ overcome
+ bottlenecks.
+ But
+
+
+once
+ you
+ have
+ leveraged
+ that
+ technology,
+
+
+you
+ need
+ new
+ technology
+ to
+ get
+ over
+
+
+that.
+ If
+ you
+ look
+ at
+ what
+ we
+ can
+ do
+ is
+
+
+we
+ move
+ from
+ DAM
+ to
+ uh
+ HPM.
+ So
+ that's
+ DM
+
+
+that's
+ stacked.
+ That's
+ much
+ faster,
+ but
+
+
+you
+ can
+ only
+ stack
+ it
+ that
+ high
+ because
+
+
+it's
+ very
+ difficult
+ to
+ manufacture
+ and
+
+
+test
+ in
+ correctness.
+ um
+ the
+ yields
+ is
+
+
+very
+ low
+ and
+ we
+ run
+ actually
+ in
+ 2026
+
+
+there's
+ not
+ enough
+ HDM
+ you
+ can't
+ build
+
+
+the
+ nice
+ processes
+ and
+ more
+ because
+ you
+
+
+run
+ out
+ and
+ it's
+ just
+ too
+ difficult
+ to
+
+
+manufacture
+ them
+ and
+ with
+ that
+ um
+ we
+
+
+have
+ all
+ these
+ innovations
+ one
+ of
+ those
+
+
+tensor
+ core
+ big
+ step
+ up
+ then
+ have
+ 8
+ bit
+
+
+precision
+ another
+ step
+ up
+ then
+ we
+ have
+
+
+four
+ bit
+ precision
+ uh
+ with
+ particular
+
+
+blockwide
+ quantization
+ particular
+ data
+
+
+types
+ from
+ my
+ research
+ another
+ research
+
+
+we
+ know
+ that's
+ those
+ two
+ information
+
+
+theoretically
+ opt
+ able
+ in
+ a
+ practical
+
+
+sense.
+ If
+ you
+ train
+ on
+ enough
+ data,
+ four
+
+
+bit
+ precision
+ is
+ not
+ up
+ enough.
+ You
+ need
+
+
+actually
+ 8
+ bit
+ precision.
+ So
+ you
+ can't
+
+
+go
+ further.
+ The
+ hardware
+ is
+ maxed
+ out.
+
+
+We
+ have
+ no
+ new
+ technology.
+ We
+ can
+ make
+
+
+it
+ easier
+ to
+ manufacture
+ and
+ a
+ little
+
+
+bit
+ cheaper
+ but
+ not
+ faster.
+ And
+ we
+ have
+
+
+maxed
+ out
+ on
+ the
+ additional
+ features.
+
+
+Sparity
+ could
+ be
+ something
+ people
+ tried
+
+
+it
+ for
+ 50
+ years.
+ I
+ tried
+ it
+ present
+
+
+well.
+ And
+ so
+ that
+ might
+ be
+ the
+ last
+
+
+thing
+ but
+ 4bit
+ precision
+ is
+ the
+ end
+ of
+
+
+quantization.
+ So,
+ um,
+ that's
+ the
+ end
+ of
+
+
+it.
+ Like,
+ we
+ have
+ maxed
+ out
+ the
+
+
+features,
+ we
+ have
+ maxed
+ out
+ the
+
+
+hardware,
+ that's
+ what
+ we
+ get.
+
+
+>> Okay.
+ Fascinating.
+ All right,
+ Dan,
+ what
+
+
+is
+ your
+ perspective
+ on
+ all
+ of
+ this?
+
+
+>> I
+ really
+ appreciated
+ Tim's
+ post
+ because
+
+
+I
+ think
+ one
+ one
+ thing
+ that
+ that
+ I
+ really
+
+
+appreciated
+ is
+ that
+ there's
+ some
+ some
+
+
+AJI
+ talk
+ that
+ if
+ you
+ just
+ kind
+ of
+ like
+
+
+trace
+ the
+ exponential,
+ at
+ some
+ point
+ you
+
+
+get,
+ you
+ know,
+ the
+ the
+ thing
+ that
+ will
+
+
+eat
+ up
+ the
+ the
+ universe
+ or
+ or
+ whatever.
+
+
+Um,
+ which
+ I
+ I
+ always
+ found
+ it
+ a
+ little
+
+
+bit
+ odd
+ to
+ to
+ think
+ that
+ way.
+ I
+ I
+
+
+appreciate
+ the
+ the
+ thing
+ in
+ terms
+ of
+ the
+
+
+actual
+ physical
+ constraints
+ because
+ uh
+
+
+you
+ know
+ like
+ Tim
+ said
+ these
+ are
+
+
+physical
+ systems
+ with
+ physical
+ inputs
+ um
+
+
+and
+ uh
+ and
+ actually
+ doing
+ physical
+
+
+computation.
+ I
+ think
+ my
+ perspective
+ was
+
+
+that
+ if
+ you
+ look
+ at
+ where
+ the
+ systems
+
+
+are
+ today
+ and
+ you
+ look
+ at
+ the
+ the
+ models
+
+
+that
+ we've
+ trained
+ uh
+ we
+ are
+ just
+ so
+ far
+
+
+from
+ being
+ from
+ even
+ using
+ the
+ last
+
+
+generation
+ of
+ hardware
+ as
+ as
+ efficiently
+
+
+as
+ as
+ possible.
+ So
+ not
+ to
+ mention
+ all
+
+
+the
+ new
+ hardware
+ that
+ that's
+ being
+ built
+
+
+out.
+ So
+ I
+ think
+ on
+ the
+ technical
+ side
+
+
+I'd
+ say
+ there
+ there
+ are
+ two
+ major
+ points
+
+
+I
+ I
+ wanted
+ to
+ make
+ in
+ my
+ post
+ which
+ was
+
+
+one
+ if
+ you
+ look
+ at
+ the
+ models
+ that
+ are
+
+
+kind
+ of
+ the
+ the
+ really
+ great
+ ones
+ um
+
+
+that
+ uh
+ that
+ that
+ we
+ know
+ today
+ and
+ I
+ in
+
+
+my
+ blog
+ post
+ I
+ mostly
+ talked
+ about
+ open
+
+
+source
+ models
+ because
+ they
+ talk
+ a
+ little
+
+
+bit
+ more
+ about
+ how
+ they
+ train
+ the
+
+
+resources
+ behind
+ it.
+ um
+ we
+ don't
+ have
+
+
+public
+ figures
+ behind
+ you
+ know
+ how
+ much
+
+
+open
+ AI
+ and
+ enthropic
+ are
+ using
+ um
+ but
+
+
+if
+ you
+ look
+ at
+ the
+ deepseek
+ model
+ for
+
+
+instance
+ this
+ is
+ one
+ of the
+ best
+ open
+
+
+source
+ models
+ we
+ have
+ out
+ there
+ today
+ it
+
+
+was
+ trained
+ at
+ the
+ end
+ of
+ 2024
+ on
+ last
+
+
+generation
+ kind
+ of
+ nerfed
+ GPUs
+ H800's
+
+
+instead
+ of
+ H100's
+ the
+ 800
+ is
+ nerfed
+ I
+ by
+
+
+all
+ sorts
+ of
+ ways
+ from
+ from
+ Nvidia
+ um
+ to
+
+
+to
+ get
+ around
+ the
+ the
+ export
+
+
+restrictions
+ at
+ the
+ time
+ um
+ and
+ they
+
+
+were
+ trained
+ with
+ let's
+ call
+ it
+ like
+
+
+about
+ 2,000
+ H800s
+ uh
+ according
+ to
+ the
+
+
+report
+ for
+ I
+ I
+ think
+ about
+ a
+ month
+ and
+
+
+when
+ you
+ compute
+ how
+ much
+ how
+ long
+ that
+
+
+took
+ when
+ you
+ see
+ how
+ much
+ compute
+ was
+
+
+actually
+ available
+ on
+ the
+ chip
+ you
+ get
+
+
+something
+ like
+ a
+ 20%
+ um
+ uh
+ effective
+
+
+chip
+ utilization
+ or
+ something
+ like
+ that
+
+
+the
+ the
+ number
+ that
+ the
+ the
+ term
+ of
+ art
+
+
+is
+ called
+ MFU
+ model
+ flop
+ utilization
+ um
+
+
+but
+ basically
+ that's
+ a
+ a
+ 20%
+ um
+
+
+utilization
+ number
+ um
+ meanwhile
+ you
+ know
+
+
+in
+ I
+ think
+ in
+ the
+ early
+ earlier
+ in
+ the
+
+
+2020s
+ we
+ were
+ seeing
+ lots
+ of
+ training
+
+
+runs
+ on
+ on
+ older
+ hardware
+ different
+
+
+model
+ architectures
+ that
+ were
+ easily
+
+
+achieving
+ 50
+ 60%
+ MFU.
+ So
+ if
+ you
+ just
+
+
+take
+ that
+ number
+ and
+ then
+ say
+ hey
+ maybe
+
+
+there's
+ a
+ way
+ to
+ to
+ to
+ to
+ get
+ it
+ out
+
+
+there
+ since
+ then
+ um
+ you
+ know
+ my
+ good
+
+
+friend
+ Tri's
+ released
+ a
+ whole
+ new
+ set
+ of
+
+
+kernels
+ on
+ how
+ to
+ train
+ the
+ these
+ models
+
+
+better
+ and
+ you
+ say
+ okay
+ there's
+ a
+ 3x
+
+
+there
+ just
+ just
+ from
+ from
+ from
+ that
+ one
+
+
+piece.
+ Um
+ then
+ the
+ other
+ thing
+ to
+
+
+realize
+ is
+ that
+ so
+ that
+ is
+ a
+ model
+ that
+
+
+is
+ being
+ used
+ today
+ in
+ early
+ 2026
+ as
+ the
+
+
+base
+ for
+ some
+ of
+ the
+ best
+ um
+ open-
+
+
+source
+ or
+ or
+ open
+ source
+ adjacent
+ models
+
+
+out
+ there.
+ It
+ would
+ have
+ started
+
+
+training
+ the
+ base
+ model
+ at
+ least
+ a
+ year
+
+
+and
+ a
+ half
+ ago.
+ So
+ let's
+ call
+ it
+ mid
+
+
+2024.
+ Since
+ then
+ we
+ started
+ building
+ out
+
+
+completely
+ new
+ clusters
+ with
+ the
+ current
+
+
+generation
+ of
+ hardware.
+ So
+ in
+ in
+ on
+
+
+Nvidia
+ these
+ are
+ the
+ blackwells.
+ Um,
+
+
+we've
+ started,
+ you
+ know,
+ there
+ there
+
+
+companies
+ like
+ Poolside
+ that
+ are
+
+
+building
+ out
+ tens
+ of
+ thousands
+ of
+ of
+
+
+B200,
+ GB200
+ chips.
+ You
+ know,
+ there's
+
+
+there's
+ uh
+ other
+ folks
+ like
+ Reflection
+
+
+who
+ are
+ b
+ who
+ are
+ building
+ out
+ tens
+ of
+
+
+thousands
+ of
+ of
+ B200
+ chips.
+ So
+ this
+ is
+
+
+comparing
+ we
+ have
+ a
+ new
+ set
+ a
+ new
+
+
+generation
+ of
+ hardware
+ where
+ even
+ if
+ you
+
+
+take
+ the
+ exact
+ same
+ precision
+ as
+ you
+ had
+
+
+before
+ exact
+ same
+ everything
+ uh
+ 2
+ to
+ 3x
+
+
+faster
+ compute
+ 10x
+ larger
+ clusters
+ um
+
+
+plus
+ you
+ know
+ maybe
+ 3x
+ lurking
+ in
+ terms
+
+
+of
+ just
+ pure
+ optimization
+ that's
+ 3
+ *
+ 3
+
+
+times
+ maybe
+ another
+ 10
+ that's
+ like
+ what
+
+
+another
+ 90x
+ of
+ compute
+ available
+ um
+ and
+
+
+that's
+ not
+ even
+ looking
+ at
+ future
+
+
+buildouts
+ that
+ is
+ literally
+ clusters
+
+
+that
+ you
+ can
+ point
+ to
+ today
+ um
+ that
+ that
+
+
+people
+ have
+ started
+ training
+ on
+ that
+
+
+that
+ you
+ might
+ hope
+ that
+ at
+ the
+ end
+ of
+
+
+that
+ you'll
+ you'll
+ get
+ much
+ better
+
+
+models.
+ The
+ point
+ I
+ really
+ wanted
+ to
+
+
+make
+ was
+ if
+ you
+ just
+ look
+ at
+ it
+ from
+
+
+those
+ basic
+ inputs,
+ you
+ can
+ look
+ around,
+
+
+you
+ can
+ squint
+ a
+ little
+ bit,
+ you
+ can
+ see
+
+
+up
+ to
+ two
+ orders
+ of
+ magnitude
+ more
+
+
+compute
+ available
+ um
+ compared
+ to
+ the
+
+
+models
+ that
+ we
+ are
+ indexing
+ on
+ today.
+
+
+Now
+ we
+ can
+ argue
+ about
+ you
+ know
+ is
+ there
+
+
+are
+ there
+ going
+ to
+ be
+ diminishing
+
+
+diminishing
+ returns
+ in
+ ter
+ in
+ terms
+ of
+
+
+scaling
+ up
+ um
+ are
+ there
+ going
+ to
+ be
+ do
+
+
+we
+ expect
+ the
+ scaling
+ curves
+ to
+ hold
+ and
+
+
+and
+ all
+ that
+ um
+ but
+ you
+ you
+ can
+ just
+
+
+look
+ around
+ and
+ see
+ it
+ and
+ that's
+ that's
+
+
+you
+ know
+ 100x
+ more
+ compute.
+ So
+ I
+ think
+
+
+from
+ the
+ physical
+ just
+ a
+ pure
+ compute
+
+
+perspective
+ there's
+ a
+ lot
+ more
+ available
+
+
+a
+ lot
+ more
+ um
+ that
+ that
+ we're
+ not
+ doing.
+
+
+Uh
+ this
+ is
+ not
+ even
+ to
+ mention
+ a
+ bunch
+
+
+of
+ the
+ the
+ great
+ points
+ that
+ you
+
+
+mentioned
+ Tim.
+ So,
+ these
+ are
+ all
+ 8bit
+
+
+training
+ runs.
+ We've
+ just
+ started
+
+
+writing
+ the
+ papers
+ about
+ how
+ to
+ do
+ a
+
+
+4-bit
+ training
+ run
+ properly.
+ Um,
+ there's
+
+
+new
+ things
+ like
+ the
+ uh
+ on
+ the
+ GB200,
+ you
+
+
+have
+ 72
+ of
+ these
+ really
+ connected
+ really
+
+
+really
+ quickly.
+ I
+ don't
+ think
+ we've
+ even
+
+
+seen
+ the
+ first
+ pre-trained
+ model
+ come
+
+
+out
+ of
+ that
+ yet.
+ GPT
+ 5.2
+ 2
+ I
+ think
+ was
+
+
+the
+ first
+ time
+ that
+ that
+ you
+ saw
+ in
+ one
+
+
+of
+ OpenAI's
+ reports,
+ hey,
+ this
+ was
+
+
+trained
+ on
+ H100,
+ H200,
+ and
+ GP200,
+ which
+
+
+to
+ me
+ suggests
+ that
+ was
+ actually
+
+
+pre-trained
+ on
+ one
+ of
+ the
+ really
+ old
+
+
+clusters,
+ maybe
+ some
+ fine-tuning
+ was
+
+
+done
+ um
+ on
+ on
+ the
+ new
+ GP200s.
+
+
+>> You
+ make
+ the
+ point
+ that
+ not
+ not
+ only
+ is
+
+
+the
+ hardware
+ underutilized,
+ but
+ you
+ also
+
+
+say
+ that
+ uh
+ models
+ themselves
+ are
+ a
+
+
+lagging
+ indicator.
+
+
+>> Yeah.
+ So
+ the
+ models
+ that
+ we
+ see
+ today
+
+
+that
+ we
+ can
+ play
+ with
+ today
+ have
+ been
+
+
+pre-trained
+ on
+ clusters
+ that
+ were
+ built
+
+
+out
+ uh
+ a
+ year
+ or
+ two
+ ago.
+ Um
+ because
+ you
+
+
+know
+ you
+ you
+ need
+ enough
+ time
+ to
+ get
+ the
+
+
+cluster
+ running.
+ You
+ need
+ enough
+ time
+ to
+
+
+do
+ the
+ large
+ pre-training
+ run
+ and
+ then
+
+
+you
+ need
+ enough
+ time
+ to
+ really
+
+
+post-train
+ it,
+ fine-tune
+ it,
+ do
+ all
+ the
+
+
+LHF
+ and
+ and
+ all
+ that
+ stuff.
+ Um
+ so
+ the
+
+
+the
+ models
+ that
+ we
+ have
+ a
+ snapshot
+ today
+
+
+that
+ at
+ the
+ beginning
+ of
+ a
+ conversation
+
+
+it's
+ like
+ h
+ maybe
+ it
+ is
+ AGI
+ maybe
+ it
+
+
+isn't
+ are
+ already
+ trained
+ on
+ uh
+ clusters
+
+
+that
+ are
+ a
+ year
+ and
+ a
+ half
+ old
+ we've
+
+
+built
+ out
+ much
+ larger
+ clusters
+ since
+
+
+then
+ we
+ can
+ expect
+ you
+ know
+ you you
+ can
+
+
+expect
+ that
+ they're
+ going
+ to
+ use
+ them
+
+
+for
+ for
+ pre-training
+ the
+ models
+ that
+ we
+
+
+see
+ today
+ that
+ we
+ index
+ on
+ quality
+ today
+
+
+are
+ actually
+ trained
+ on
+ pretty
+ old
+
+
+hardware
+ um
+ and
+ we've
+ got
+ new
+
+
+generations
+ of
+ hardware
+ more
+ software
+ uh
+
+
+choices
+ we
+ can
+ make
+ not
+ to
+ mention
+
+
+architectural
+ choices
+ like
+ so
+ so
+ Tim
+ you
+
+
+were
+ mentioning
+ that
+ this
+ thing
+ about
+
+
+you
+ need
+ to
+ move
+ data
+ and
+ then
+ compute
+
+
+on
+ data
+ um
+ we've
+ actually
+ seen
+ the
+
+
+transformer
+ change
+ in
+ architecture
+ um
+
+
+for
+ over
+ the
+ last
+ a
+ little
+ bit
+ slowly
+
+
+for
+ like
+ you
+ know
+ for
+ for
+ researcher
+ a
+
+
+little
+ bit
+ slowly
+ for
+ my
+ taste
+ but
+
+
+you've
+ seen
+ the
+ fundamental
+ way
+ we
+ do
+
+
+the
+ computation
+ change
+ even
+ if
+ you
+ find
+
+
+another
+ 1.5x
+ or
+ 2x
+ there
+ now
+ you're
+
+
+talking
+ you
+ know
+ 100
+ 150x
+ more
+ compute
+
+
+like
+ um
+ so
+ there
+ there
+ there's
+ a
+ lot
+
+
+more
+ compute
+ out
+ there
+ um
+ to
+ to
+ train
+
+
+better
+ higher
+ quality
+ models.
+
+
+>> If
+ I
+ understand
+ this
+ whole
+ discussion
+
+
+correctly,
+ all
+ of
+ this
+ is
+ about
+
+
+pre-training,
+ right?
+ And
+ whether
+ we
+ can
+
+
+train
+ bigger
+ model
+ with
+ uh
+ you
+ know
+ more
+
+
+data
+ and
+ more
+ compute.
+ But
+ in
+
+
+conversations
+ on
+ this
+ pod,
+ a
+ lot
+ of
+ the
+
+
+conversation
+ have
+ been
+ about
+ the
+
+
+importance
+ of
+ post-raining
+ and
+ the
+ you
+
+
+know
+ building
+ AI
+ systems
+ with
+
+
+pre-training
+ plus
+ RL.
+ Where
+ does
+ that
+
+
+fit?
+ That's
+ a
+ great
+ question
+ and
+ and
+ I
+
+
+think
+ another
+ piece
+ that
+ that
+ we
+ we
+
+
+didn't
+ you
+ know
+ I
+ don't
+ think
+ either
+ of
+
+
+our
+ blogs
+ particularly
+ hit
+ on.
+ One
+ way
+ I
+
+
+like
+ to
+ think
+ about
+ it
+ is
+ that
+
+
+pre-training
+ is
+ like
+ the
+ general
+
+
+strength
+ training
+ that
+ you
+ do
+ in
+ the
+
+
+gym.
+ You
+ go
+ lift
+ heavy
+ weights,
+ you
+
+
+improve
+ your
+ strength,
+ improve
+ your
+ your
+
+
+your
+ general
+ ability
+ and
+ then
+
+
+post-training
+ is
+ like
+ the
+ specific
+
+
+drills
+ that
+ you
+ run
+ to
+ um
+ to
+ to
+ get
+ a
+
+
+good
+ at
+ at
+ a
+ particular
+ task.
+ So
+
+
+historically
+ the
+ vast
+ amount
+ of
+ compute
+
+
+has
+ gone
+ to
+ pre-training.
+ suggest
+
+
+building
+ models
+ that
+ are
+ more
+ generally
+
+
+capable
+ of
+ doing
+ many
+ things
+ have
+ a
+ lot
+
+
+of
+ knowledge
+ get
+ to
+ a
+ point
+ where
+ maybe
+
+
+they
+ they
+ have
+ more
+ knowledge
+ than
+ than
+
+
+your
+ average
+ person
+ you
+ know
+ I
+ I
+
+
+certainly
+ don't
+ know
+ as
+ much
+ as
+ as
+ chat
+
+
+GBT
+ for
+ for
+ instance
+ and
+ then
+ the
+ post
+
+
+training
+ is
+ both
+ how
+ do
+ you
+ make
+ it
+
+
+helpful
+ so
+ uh
+ you
+ know
+ chat
+ GBT
+ you
+ ask
+
+
+it
+ to
+ do
+ something
+ and
+ then
+ it
+ actually
+
+
+listens
+ to
+ you
+ um
+ and
+ and
+ tries
+ to
+ tries
+
+
+its
+ best
+ to
+ do
+ it
+ but
+ I
+ think
+ the
+ other
+
+
+thing
+ that
+ that
+ we've
+ started
+ to
+ see
+
+
+increasingly
+ in
+ post
+ training
+ is
+ that
+
+
+you
+ can
+ start
+ to
+ postrain
+ specific
+
+
+speific
+ skills.
+ So,
+ uh
+ the
+ model
+ that's
+
+
+really
+ good
+ at
+ helping
+ you
+ code
+ uses
+ a
+
+
+lot
+ of
+ the
+ knowledge
+ that
+ you
+ got
+ from
+
+
+pre-training
+ but
+ is
+ actually
+ adapted
+ to
+
+
+be
+ particularly
+ good
+ for
+ coding
+ or
+ um
+ or
+
+
+the
+ or
+ the
+ the
+ model
+ that's
+ really
+ good
+
+
+for
+ legal
+ work,
+ for
+ instance,
+ has
+ a
+ lot
+
+
+of
+ the
+ the
+ pre-training
+ backbone,
+ but
+
+
+then
+ the
+ post-
+ training
+ is
+ really
+ what
+
+
+gets
+ it
+ to
+ that
+ to
+ that
+ place
+ where
+ it's
+
+
+really
+ useful.
+ From
+ a
+ pure
+ computational
+
+
+perspective,
+ pre-training
+ is
+ usually
+
+
+much
+ more
+ compute
+ expensive
+ than
+ post-
+
+
+training.
+ um
+ post-training
+ the
+ work
+ that
+
+
+you
+ have
+ to
+ do
+ I
+ think
+ um
+ I
+ I'm
+ not
+ a
+
+
+post-
+ trainining
+ expert
+ but
+ the
+ work
+
+
+ends
+ up
+ looking
+ a
+ lot
+ more
+ like
+ how
+ do
+
+
+you
+ build
+ a
+ useful
+ product
+ how
+ do
+ you
+
+
+get
+ user
+ feedback
+ how
+ do
+ you
+ do
+ things
+
+
+like
+ that
+ even
+ then
+ there's
+ there
+
+
+there's
+ a
+ world
+ where
+ uh
+ you
+ know
+ maybe
+
+
+the
+ the
+ next
+ generation
+ of
+ models
+ is
+ the
+
+
+the
+ next
+ generation
+ of
+ pre-trained
+
+
+models
+ is
+ is
+ a
+ strong
+ enough
+ base
+ that
+
+
+if
+ you
+ go
+ tackle
+ each
+ vertical
+ of
+ the
+
+
+economy
+ that
+ you
+ care
+ about
+ you
+ could
+
+
+actually
+ post-
+ train
+ it
+ to
+ um
+ to
+
+
+something
+ quite
+ useful
+ Um,
+ so
+ I
+ think
+
+
+that
+ that
+ that's
+ a
+ whole
+ other
+
+
+computational
+ aspect
+ of
+ it.
+ So
+ maybe
+ we
+
+
+don't
+ even
+ need
+ that
+ 100x
+ more
+ compute
+
+
+that
+ that
+ may
+ that
+ that
+ may
+ be
+ out
+
+
+there.
+ Maybe
+ it's
+ more
+ a
+ a
+ more
+
+
+traditional
+ work
+ of
+ you
+ know
+ let's
+
+
+understand
+ this
+ problem
+ deeply
+ to
+
+
+understand
+ how
+ to
+ train
+ in
+ almost
+ the
+
+
+human
+ sense
+ like
+ how
+ how
+ would
+ you
+ take
+
+
+an
+ intern
+ and
+ and
+ train
+ this
+ intern
+ to
+
+
+to
+ do
+ this
+ specific
+ task?
+ How
+ do
+ you
+ get
+
+
+this
+ very
+ powerful
+ pre-trained
+ model
+ to
+
+
+do
+ something
+ really
+ useful?
+ Um
+ in
+ in
+
+
+this
+ post-
+ training
+ sense
+
+
+>> is
+ this
+ concept
+ of
+ usefulness
+ that
+ you
+
+
+both
+ mention
+ where
+ both
+ of
+ your
+ point
+ of
+
+
+views
+ maybe
+ converge
+ some
+ ways
+ AGI
+ is
+
+
+something
+ but
+ what
+ ultimately
+ matters
+ is
+
+
+is
+ where
+ you
+ land
+ in
+ terms
+ like
+
+
+usefulness
+ in
+ the
+ industry
+ and
+ therefore
+
+
+even
+ though
+ you
+ one
+ may
+ not
+ be
+ able
+ to
+
+
+reach
+ that
+ kind
+ of
+ ethereal
+ definition
+
+
+of
+ AGI
+ that
+ nobody
+ really
+ understands
+ uh
+
+
+due
+ to
+ diminishing
+ returns
+ in
+ some
+ ways
+
+
+doesn't
+ matter
+ because
+ we
+ still
+ have
+
+
+like
+ so
+ much
+ juice
+ to
+ squeeze
+ that
+ uh
+ we
+
+
+have
+ enough
+ to
+ go
+ until
+ we
+ get
+ to
+ a
+
+
+place
+ where
+ this
+ is
+ truly
+ useful
+ not
+
+
+just
+ for
+ coding
+ but
+ for
+ the
+ rest
+ of
+ the
+
+
+economy.
+
+
+>> Yeah.
+ The
+ main
+ conclusion
+ of
+ sort
+ of
+ my
+
+
+blog
+ post
+ was
+ exactly
+ that
+ like
+ we
+
+
+shouldn't
+ pay
+ too
+ much
+ attention
+ to
+ AGI
+
+
+but
+ more
+ about
+ thinking
+ about
+ how
+ can
+ we
+
+
+make
+ it
+ most
+ useful
+ that
+ might
+ go
+ beyond
+
+
+of
+ how
+ useful
+ is
+ a
+ model.
+ I
+ mean
+ Dan
+
+
+mention
+ mentioned
+ like
+ post
+ training
+ as
+
+
+a
+ product.
+ An
+ important
+ part
+ we
+ saw
+ with
+
+
+computers
+ is
+ diffusion
+ in
+ the
+ economy
+
+
+that
+ requires
+ a
+ very
+ different
+ mindset.
+
+
+US
+ mindset
+ is
+ build
+ the
+ best
+ model
+ and
+
+
+then
+ everybody
+ will
+ use
+ it
+ but
+ it
+ can
+
+
+help
+ to
+ really
+ figure
+ out
+ how
+ can
+ you
+
+
+benefit
+ the
+ most
+ people
+ in
+ the
+ most
+
+
+pragmatic
+ way
+ and
+ I
+ think
+ that's
+ sort
+ of
+
+
+more
+ the
+ Chinese
+ mindset
+ and
+ so
+ that
+
+
+that
+ sort
+ of
+ mindset
+ so
+ if
+ I
+ think
+ of
+
+
+usefulness
+ one
+ is
+ model
+ the
+ other
+ is
+
+
+sort
+ of
+ the
+ mindset
+ but
+ I
+ would
+ agree
+ I
+
+
+think
+ I
+ think
+ that
+ both
+ Dan
+ and
+ I
+ I
+
+
+think
+ most
+ people
+ would
+ agree
+ that
+ if
+
+
+you
+ have
+ an
+ AI
+ that
+ does
+ very
+ impressive
+
+
+things
+ like
+ math
+ olympiate
+ things
+ and
+
+
+that
+ sort
+ of
+ thing
+ but
+ it
+ can't
+ do
+
+
+anything
+ useful
+
+
+is
+ at
+ AGI
+ um
+ mean
+ um
+ and
+ so
+ models
+ are
+
+
+already
+ useful
+ so
+ that
+ that
+ scenario
+
+
+will
+ not
+ happen
+ but
+ I
+ think
+ what
+ we
+
+
+really
+ want
+ is
+ very
+ very
+ useful
+ models
+
+
+and
+ I
+ think
+ we
+ have
+ that
+ and
+ I
+ think
+ we
+
+
+can
+ prove
+ that
+ but
+ um
+ I
+ don't
+ think
+ we
+
+
+get
+ to
+ AGI
+
+
+by
+ SER
+ definitions
+ but
+ we
+ will
+ see
+
+
+significant
+ impact
+
+
+>> yeah
+ I
+ think
+ I
+ I
+ would
+ just
+ add
+ to
+ that
+
+
+that
+ um
+ Tim
+ you
+ had
+ this
+ point
+ about
+ you
+
+
+know
+ how
+ much
+ of
+ the
+ economy
+ is
+ is
+
+
+physical
+ how
+ much
+ of
+ it
+ is
+ um
+ um
+
+
+knowledge
+ work
+ and
+ I
+ think
+ that
+ the
+ US
+
+
+China
+ you
+ know
+ contrast
+ is
+ is
+ really
+
+
+interesting
+ there
+ and
+ you
+ know
+ there's
+
+
+been
+ these
+ analyses
+ this
+ book
+ by
+ Dan
+
+
+Wong
+ going
+ around
+ about
+ um
+ the
+
+
+manufacturing
+ economy
+ the
+ engineering
+
+
+economy
+ versus
+ the
+ more
+ lawyerly
+ economy
+
+
+um
+ and
+ I
+ think
+ there's
+ certainly
+ a
+ lot
+
+
+of
+ great
+ knowledge
+ work
+ to
+ to
+ be
+ done
+ in
+
+
+the
+ US
+ um
+ I
+ think
+ there
+ there's
+ also
+ if
+
+
+you
+ look
+ at
+ what
+ the
+ actual
+ sectors
+ of
+
+
+the
+ economy
+ are.
+ So
+ a
+ large
+ portion
+ of
+
+
+it
+ is
+ healthcare,
+ a
+ large
+ portion
+ of
+ it
+
+
+is
+ education.
+ Um
+ tech
+ is
+ certainly
+ a
+
+
+also
+ a
+ large
+ portion
+ that's
+ kind
+ of
+
+
+leading
+ the
+ stock
+ market
+ and
+ and
+ driving
+
+
+the
+ stock
+ market.
+ We
+ have
+ a
+ there
+
+
+there's
+ a
+ lot
+ of
+ great
+ people
+ who
+ are
+
+
+trying
+ to
+ use
+ the
+ new
+ models
+ to
+ try
+ to
+
+
+do
+ things
+ like
+ develop
+ new
+ drugs
+ or
+ or
+
+
+understand
+ how
+ to
+ how
+ to
+ make
+ a
+ real
+
+
+impact
+ in
+ in
+ healthcare
+ or
+ if
+ we
+ can
+ get
+
+
+robotics
+ off
+ the
+ ground
+ and
+ do
+ things
+
+
+like
+ start
+ taking
+ um
+ helping
+ with
+ some
+
+
+of
+ the
+ the
+ the
+ you
+ know
+ the
+ the
+ physical
+
+
+labor
+ um
+ maybe
+ not
+ necessarily
+ building
+
+
+houses
+ but
+ the
+ the
+ day-to-day
+ household
+
+
+labor
+ um
+ that
+ that
+ could
+ be
+ large
+
+
+untapped
+ portions
+ of
+ the
+ economy.
+ Those
+
+
+pieces
+ are
+ are
+ are
+ really
+ great.
+ can
+ you
+
+
+can
+ almost
+ start
+ to
+ see
+ the
+ first
+ pieces
+
+
+towards
+ it.
+ Uh
+ the
+ self-driving
+ analogy
+
+
+is
+ really
+ interesting
+ to
+ me
+ because
+
+
+early
+ on
+ I'll
+ say
+ early
+ on
+ in
+ my
+ PhD
+ I
+
+
+was
+ quite
+ skeptical
+ about
+ uh
+
+
+self-driving.
+ So
+ let's
+ call
+ this
+ 2018
+
+
+2019
+ it
+ felt
+ like
+ self-driving
+ was
+
+
+always
+ a
+ year
+ away
+ or
+ two
+ years
+ away
+ or
+
+
+if
+ you
+ ask
+ the
+ the
+ experts
+ they
+ say
+ oh
+
+
+five
+ years
+ away.
+ Um
+ and
+ then
+ last
+ year
+ I
+
+
+rode
+ in
+ a
+ Whimo
+ and
+ today
+ I
+ can
+ I
+ can
+ I
+
+
+I
+ just
+ actually
+ got
+ got
+ access
+ to
+ Whimo
+
+
+on
+ the
+ highway.
+ So
+ now
+ conceivably
+ I
+
+
+could,
+ you
+ know,
+ potentially
+ sell
+ my
+ car
+
+
+and
+ I
+ live
+ in
+ in
+ the
+ Bay
+ Area
+ in
+
+
+California.
+ Um
+ I
+ won't
+ because
+ I
+
+
+personally
+ like
+ driving.
+ Um
+ but
+ there's
+
+
+there's
+ a
+ lot
+ of
+ the
+ progress
+ is
+ funny
+
+
+in
+ this
+ way
+ where
+ it's
+ kind
+ of
+ it's
+ not
+
+
+there.
+ It's
+ not
+ there.
+ It's
+ not
+ there.
+
+
+And
+ then
+ one
+ day
+ something
+ a
+ switch
+
+
+flips
+ and
+ then
+ you're
+ suddenly
+ like,
+ oh,
+
+
+not
+ only
+ is
+ this
+ thing
+ pretty
+ good,
+ it's
+
+
+actually
+ a
+ lot
+ better
+ than
+ the
+ service
+
+
+that
+ I'd
+ get
+ in
+ an
+ Uber
+ or
+ a
+ taxi
+ or
+
+
+something
+ like
+ that.
+ That's
+ a
+ really
+
+
+exciting
+ thing
+ if
+ we
+ see
+ that
+ happen.
+ if
+
+
+that
+ we
+ see
+ that
+ flips
+ that
+ switch
+ flip
+
+
+for
+ like
+ you
+ know
+ household
+ cleaning
+ or
+
+
+or
+ putting
+ away
+ the
+ dishes
+ or
+ things
+
+
+like
+ that
+ I
+ think
+ it
+ would
+ it
+ would
+ it
+
+
+would
+ really
+ be
+ really
+ exciting
+ it
+ would
+
+
+change
+ a
+ lot
+ of
+ folks
+ perspectives
+ I'm
+
+
+not
+ a
+ roboticist
+ myself
+ but
+ I'm
+ really
+
+
+watching
+ that
+ space
+ with
+ a
+ lot
+ of
+
+
+excitement
+
+
+>> Dan
+ as
+ a
+ quick
+ tangent
+ do
+ you
+ think
+ we
+
+
+evolving
+ towards
+ a
+ multi-h
+ hardware
+
+
+multi-chip
+ kind
+ of
+ world
+ based
+ on
+ what
+
+
+you
+ see
+ you
+ know
+ obviously
+ there's
+ been
+
+
+gro
+ and
+ Nvidia
+ there's
+ cerebras
+ there's
+
+
+like
+ a
+ bunch
+ of
+ sort
+ of
+ special
+ AS6
+
+
+companies
+ coming
+ up
+ from
+ from
+ your
+ kind
+
+
+of
+ like
+ lowlevel
+ in
+ the
+ stack
+ vantage
+
+
+point.
+ What
+ do
+ you
+ see?
+
+
+>> Yeah,
+ that
+ that's
+ a
+ great
+ question.
+ So,
+
+
+it's
+ something
+ that
+ I
+ spend
+ quite
+ a
+ bit
+
+
+of
+ time
+ thinking
+ about
+ um
+ more
+ so
+ I'd
+
+
+say
+ on
+ the
+ lab
+ side
+ than
+ than
+
+
+necessarily
+ um
+ in
+ on
+ on
+ the
+ industry
+
+
+side.
+ Um
+ although
+ of
+ course
+ we're
+ we're
+
+
+paying
+ close
+ attention
+ kind
+ of
+ on
+ both
+
+
+sides.
+ I
+ think
+ it's
+ it's
+ at
+ a
+ really
+
+
+exciting
+ time
+ where
+ um
+ the
+ Nvidia
+ chips
+
+
+are
+ really
+ strong,
+ really
+ reliable.
+ Uh
+
+
+there's
+ a
+ lot
+ of
+ software
+ support
+ around
+
+
+them
+ that
+ that
+ that
+ has
+ built
+ around
+
+
+we're
+ starting
+ to
+ see
+ the
+ same
+ things
+
+
+happen
+ for
+ example
+ on
+ AMD
+ chips
+ um
+ with
+
+
+with
+ some
+ some
+ of
+ the
+ research
+ there.
+ So
+
+
+on
+ the
+ lab
+ side,
+ we
+ put
+ out
+ a
+ recently
+ a
+
+
+library
+ called
+ Hipkittens
+ led
+ by
+ my
+
+
+great
+ friend
+ Simron
+ Aurora.
+ Um,
+ and
+ she
+
+
+was
+ really
+ looking
+ at,
+ okay,
+ how
+ can
+ we
+
+
+take
+ what
+ are
+ the
+ right
+ software
+
+
+abstractions
+ to
+ to
+ program
+ on
+ these
+ AMD
+
+
+GPUs?
+ And
+ turns
+ out
+ they're
+ not
+ exactly
+
+
+the
+ same
+ as
+ the
+ Nvidia
+ GPUs.
+ So
+ even
+
+
+even
+ two
+ GPUs
+ that
+ have
+ relatively
+
+
+similar
+ specs
+ certainly
+ compared
+ to
+
+
+Grock
+ or
+ Cerebras
+ or
+ Sabanova
+ or
+ one
+ of
+
+
+these
+ other
+ chips
+ um
+ even
+ though
+ they're
+
+
+relatively
+ similar
+ they
+ they
+ actually
+
+
+have
+ pretty
+ different
+ software
+
+
+abstractions
+ you
+ need
+ to
+ use.
+ Um
+ and
+ I
+
+
+think
+ more
+ people
+ are
+ getting
+ excited
+ by
+
+
+that
+ and
+ and
+ investing
+ time
+ and
+ and
+
+
+energy
+ into
+ that.
+ Um
+ we
+ saw
+ the
+ Grock
+
+
+acquisition
+ from
+ Nvidia.
+ A
+ lot
+ of
+ people
+
+
+are
+ excited
+ about
+ TPUs
+ today.
+ I
+ think
+ uh
+
+
+Cerebras
+ and
+ OpenAI
+ just
+ just
+ announced
+
+
+um
+ their
+ partnership.
+ Um
+ so
+ I
+ think
+
+
+certainly
+ it's
+ going
+ to
+ be
+ a
+ wave
+ of
+
+
+things
+ coming
+ forward
+ that
+ that
+ you're
+
+
+going
+ to
+ see
+ um
+ a
+ lot
+ more.
+ I'm
+ sure
+
+
+Nvidia
+ will
+ still
+ do
+ great
+ and
+ still
+
+
+grow
+ beyond
+ their
+ $5
+ trillion
+ company
+ or
+
+
+whatever
+ it
+ is
+ at
+ the
+ time
+ of
+ recording.
+
+
+But
+ I
+ think
+ you're
+ you're
+ going
+ to
+ see
+ a
+
+
+lot
+ more
+ diversity
+ um
+ especially
+ around
+
+
+I
+ think
+ inference
+ of
+ the
+ model.
+ So
+
+
+training
+ and
+ inference
+ are
+ actually
+
+
+quite
+ different
+ computations
+ and
+ as
+ a
+
+
+result
+ you
+ might
+ actually
+ want
+ quite
+
+
+different
+ chips
+ to
+ do
+ it.
+ Um
+ on
+ the
+
+
+inference
+ side
+ you
+ might
+ want
+ for
+
+
+example
+ your
+ models
+ to
+ live
+ locally
+ on
+
+
+your
+ phone
+ on
+ your
+ laptop.
+ You
+ know
+ my
+
+
+phone
+ my
+ my
+ iPhone
+ which
+ is
+ a
+ few
+ years
+
+
+old
+ at
+ this
+ point
+ is
+ already
+ more
+
+
+powerful
+ than
+ some
+ of
+ the
+ GPUs
+ that
+ that
+
+
+I
+ had
+ when
+ when
+ I
+ was
+ starting
+ my
+ PhD.
+
+
+That
+ growth
+ of
+ of
+ that
+ hardware
+ power
+ is
+
+
+is
+ really
+ exciting
+ to
+ see.
+ And
+ Dan,
+ you
+
+
+mentioned
+ a
+ a
+ second
+ ago
+ in
+ reference
+ to
+
+
+uh
+ self-driving
+ cars,
+ that
+ moment
+ where
+
+
+where
+ things
+ flipped,
+ switches
+ is
+ turned
+
+
+on.
+ Has
+ that
+ happened
+ with
+ agents
+
+
+already?
+ You
+ talked
+ about
+ software
+
+
+singularity.
+ Are
+ we
+ are
+ we
+ at
+ that
+
+
+moment
+ for
+ agents?
+
+
+>> Yeah,
+ I
+ think
+ that
+ so
+ personally
+ in
+ in
+
+
+my
+ life,
+ I'd
+ say
+ that
+ moment
+ was
+ last
+
+
+Juneish.
+ So
+ June
+ 2025
+ was
+ the
+ moment
+
+
+that
+ that
+ it
+ really
+ flipped
+ for
+ me.
+ to
+
+
+give
+ some
+ context
+ here.
+ So
+ what
+ I
+ do
+ in
+
+
+my
+ day
+ job
+ at
+ Together
+ AI
+ is
+ we
+ write
+ a
+
+
+lot
+ of these
+ GPU
+ kernels.
+ I
+ I
+ don't
+ know
+
+
+how
+ popular,
+ but
+ the
+ in
+ the
+ in
+ the
+
+
+general
+ ML
+ zeitgeist
+ GPU
+ kernels
+ are
+
+
+thought
+ of
+ as
+ kind
+ of
+ like
+ the
+ final
+
+
+boss
+ of
+ the
+ thing
+ that
+ you
+ learn
+ how
+ to
+
+
+program.
+ They're
+ very
+ hard.
+ They're
+ very
+
+
+highly
+ parallel.
+ Uh
+ you
+ don't
+ write
+ them
+
+
+like
+ you
+ have
+ to
+ write
+ in
+ C++
+ which
+ is
+
+
+this
+ old
+ language
+ that
+ the
+ old
+ systems
+
+
+people
+ used,
+ you
+ know,
+ decades
+ ago
+ or
+
+
+whatever.
+ They're
+ not
+ in
+ Python,
+ etc.
+
+
+When
+ you're
+ trying
+ to
+ hire
+ for
+ people
+
+
+who
+ can
+ write
+ kernels,
+ it's
+ very
+ hard.
+
+
+It's
+ a
+ very
+ challenging
+ skill
+ set.
+ It's
+
+
+certainly,
+ you
+ know,
+ the
+ the
+ the
+ the
+ the
+
+
+tip
+ of
+ the
+ spear
+ in
+ terms
+ of
+ um
+ the
+
+
+their
+ programming
+ strength.
+ And
+ last
+
+
+June,
+ we
+ had
+ this
+ really
+ interesting
+
+
+realization
+ where
+ we
+ realized
+ that
+ cloud
+
+
+cloud
+ code,
+ cursor
+ agent,
+ these
+ agentic
+
+
+coding
+ assistants
+ were
+ actually
+ very
+
+
+good
+ at
+ writing
+ these
+ kernels.
+ So,
+ um,
+
+
+there
+ was
+ one
+ week
+ where
+ I
+ think
+ I
+ wrote
+
+
+like
+ three
+ or
+ four
+ different
+ features
+
+
+that
+ usually
+ would
+ have
+ taken
+ me
+ a
+ week
+
+
+each
+ and
+ I
+ wrote
+ all
+ of
+ those
+ in
+ in
+ a
+
+
+single
+ day.
+ Um,
+ and
+ I
+ was
+ like,
+ "Oh
+ my
+
+
+god,
+ this
+ thing
+ is
+ making
+ me
+ five
+ times
+
+
+more
+ productive
+ as
+ a
+ kernel
+ expert.
+ Um,
+
+
+I
+ got
+ my
+ team
+ on
+ it.
+ Now
+ my
+ team
+ has
+ all
+
+
+these
+ really
+ complex
+ systems
+ that
+
+
+they've
+ built
+ where
+ they
+ can
+ write
+ a
+
+
+whole
+ feature
+ that
+ I
+ think
+ would
+ have
+
+
+taken
+ um
+ months
+ of
+ a
+ of
+ a
+ whole
+ team's
+
+
+time
+ before.
+ Um,
+ and
+ this
+ is
+ kind
+ of
+ the
+
+
+the
+ that
+ that
+ final
+ boss
+ of
+ of
+
+
+programming
+ challenge
+ that
+ that
+ was
+
+
+really
+ that
+ was
+ really
+ challenging.
+ So
+
+
+from
+ from
+ our
+ perspective
+ for
+ coding
+ for
+
+
+this
+ really
+ technically
+ challenging
+ GPU
+
+
+um
+ kernel
+ programming,
+ it
+ kind
+ of
+
+
+crossed
+ that
+ that
+ kind
+ of
+ crossed
+ the
+
+
+Rubicon
+ for
+ us
+ already.
+ And
+ I
+ think
+ you
+
+
+know
+ uh
+ I
+ gave
+ this
+ talk
+ a
+ few
+ months
+
+
+ago
+ um
+ at
+ Slush
+ about
+ what
+ we're
+ calling
+
+
+the
+ software
+ singularity
+ where
+ we
+
+
+realized
+ hey
+ in
+ terms
+ of
+ software
+
+
+engineering
+ even
+ for
+ these
+ really
+ niche
+
+
+skills
+ um
+ it's
+ it's
+ certainly
+ better
+
+
+than
+ the
+ average
+ programmer.
+ It's
+ at
+ a
+
+
+place
+ where
+ it
+ can
+ accelerate
+ the
+ really
+
+
+expert
+ programmer.
+ So
+ um
+ it's
+ right
+ now
+
+
+as
+ of
+ you
+ know
+ today's
+ recording
+ is
+ at
+ a
+
+
+place
+ where
+ if
+ I
+ just
+ let
+ it
+ on
+ its
+ own
+
+
+it
+ might
+ not
+ generate
+ the
+ right
+ thing
+
+
+for
+ you.
+ But
+ if
+ you
+ give
+ an
+ expert
+
+
+programmer
+ this
+ set
+ of
+ tools,
+ they
+ can
+
+
+go
+ 10
+ 10
+ times
+ faster
+ than
+ than
+ they
+
+
+were
+ able
+ to
+ go
+ before.
+ Um,
+ and
+ I
+ think
+
+
+that
+ that
+ that's
+ a
+ really
+ exciting
+ uh
+
+
+place
+ to
+ be.
+
+
+>> And
+ on
+ that
+ topic
+ of
+ agents,
+ Tim,
+ you
+
+
+just
+ wrote
+ another
+ great
+ blog
+ post
+
+
+called
+ uh
+ use
+ agents
+ or
+ be
+ left
+ behind.
+
+
+And
+ part
+ of
+ what
+ you
+ talk
+ about
+ is
+
+
+coding
+ agents
+ versus
+ agents
+ for
+ the
+ rest
+
+
+of
+ tasks.
+ Where
+ are
+ we
+ in
+ that
+ arc
+ where
+
+
+um
+ agents
+ are
+ are
+ transitioning
+ from
+
+
+being
+ excellent
+ at
+ code
+ to
+ useful
+ for
+
+
+the
+ rest
+ of
+ our
+ lives?
+
+
+>> That
+ blog
+ post
+ was
+ also
+ as
+ as
+ a
+ reaction
+
+
+to
+ what
+ I
+ see
+ is
+ there
+ are
+ a
+ lot
+ of
+
+
+productivity
+ gains
+ if
+ you
+ use
+ coding
+
+
+agents
+ for
+ all
+ kinds
+ of
+ tasks
+ and
+ as
+ a
+
+
+professor
+ you
+ don't
+ code
+ that
+ much.
+ You
+
+
+can
+ actually
+ code
+ more
+ easily
+ which
+
+
+probably
+ other
+ professors
+ previously
+
+
+would
+ not
+ do.
+ so
+ easy
+ now.
+ But
+ yeah,
+
+
+also
+ for
+ non-coding
+ tasks,
+ it's
+ super
+
+
+useful.
+ And
+ when
+ I
+ look
+ at
+ um
+ the
+
+
+productivity
+ gains
+ that
+ I
+ have,
+ some
+ of
+
+
+it
+ is
+ smaller
+ like
+ two
+ or
+ three.
+
+
+Sometimes
+ it's
+ like
+ 10
+ times
+ faster.
+ I
+
+
+do
+ task
+ 10
+ times
+ faster.
+ The
+ quality
+ is
+
+
+not
+ degraded.
+ Sometimes
+ the
+ quality
+ is
+
+
+um
+ higher.
+ Um
+ an
+ agent
+ might
+ not
+ be
+ as
+
+
+good
+ as
+ I
+ am,
+ but
+ the
+ agent
+ doesn't
+ get
+
+
+tired.
+ Agent
+ doesn't
+ uh
+ make
+ sort
+ of
+ bad
+
+
+mistakes
+ or
+ Yeah.
+ and
+ you
+ cognitively
+
+
+struggle
+ like
+ with
+ like
+ complicated
+
+
+information
+ that
+ you
+ put
+ together
+
+
+similar
+ to
+ Buddha
+ kernels
+ what
+ what
+ um
+
+
+Dan
+ mentioned
+ all
+ of
+ that
+ is
+ working
+ and
+
+
+um
+ I
+ mean
+ Matt
+ as
+ you
+ put
+ it
+ is
+ coding
+
+
+agents
+ and
+ agents
+ for
+ other
+ stuff
+ but
+
+
+how
+ I
+ would
+ see
+ it
+ is
+ it's
+ just
+ coding
+
+
+agents
+ coding
+ agents
+ are
+ general
+ agents
+
+
+uh
+ coding
+ agents
+ can
+ write
+ programs
+ that
+
+
+solve
+ other
+ problems
+ and
+ code
+ is
+ so
+
+
+general
+ if
+ there's
+ a
+ digital
+ problem
+ you
+
+
+could
+ solve
+ it
+ with
+ code
+ and
+ coding
+
+
+agents
+ make
+ the
+ things
+ so
+ easy
+ that
+ um
+
+
+now
+ you
+ can
+ solve
+ a
+ variety
+ of
+ problems
+
+
+in
+ a
+ way
+ that
+ you
+ couldn't
+ solve
+ before
+
+
+and
+ this
+ angle
+ makes
+ you
+ productive.
+ I
+
+
+would
+ say
+ this
+ is
+ the
+ main
+ the
+ main
+
+
+thing
+ that
+ has
+ been
+ changing.
+ Coding
+
+
+agents
+ allow
+ you
+ to
+ check
+ a
+ problem
+ in
+ a
+
+
+way
+ that
+ you
+ could
+ think
+ before
+ and
+ is
+
+
+at
+ a
+ pace
+ that
+ you
+ couldn't
+ think
+
+
+before.
+ You
+ can
+ paralyze
+ a
+ lot
+ of
+
+
+different
+ tasks.
+ The
+ agent
+ doesn't
+ get
+
+
+tired.
+ Um
+ you
+ just
+ keep
+ going.
+ the
+ works
+
+
+much
+ easier.
+ One
+ bit
+ I
+ love
+ in
+ your
+ post
+
+
+is
+ that
+ you're
+ careful
+ to
+ separate
+ hype
+
+
+from
+ reality
+ at
+ the
+ beginning
+ but
+ then
+
+
+quickly
+ you
+ land
+ from
+ your
+ experience
+ of
+
+
+experimenting
+ uh
+ with
+ agents
+ uh
+ for
+ the
+
+
+live
+ stream
+ in
+ particular
+ you
+ land
+ at
+
+
+the
+ conclusion
+ that
+ more
+ than
+ 90%
+ of
+
+
+code
+ and
+ text
+ should
+ be
+ written
+ by
+
+
+agents
+ you
+ need
+ to
+ do
+ so
+ or
+ you
+ will
+ be
+
+
+left
+ behind
+
+
+>> and
+ I
+ think
+ for
+ for
+ many
+ people
+ that
+ are
+
+
+engineers
+ that's
+ already
+ true
+ and
+ there
+
+
+is
+ sort
+ of
+ this
+ thinking
+ oh
+ if
+ you
+
+
+produce
+ text
+ or
+ code
+ and
+ everything
+ sent
+
+
+by
+ Asians
+ must
+ be
+ low
+ quality
+ much
+ must
+
+
+be
+ bad
+ but
+ um
+ the
+ key
+ thing
+ is
+ you
+
+
+inspect
+ the
+ code
+ you
+ inspect
+ the
+ text
+
+
+you
+ might
+ might
+ make
+ some
+ slide
+ edits
+
+
+the
+ 10%
+ that
+ you
+ do
+ might
+ make
+ a
+ big
+ big
+
+
+difference
+ through
+ this
+ um
+ basically
+ um
+
+
+sort
+ of
+ editing
+ just
+ reviewing
+ of
+ output
+
+
+you
+ kind
+ of
+ make
+ it
+ your
+ own
+ um
+ AI
+
+
+generated
+ things
+ um
+ are
+ not
+ less
+
+
+personal
+ than
+ things
+ you've
+ written
+ on
+
+
+know
+ I
+ see
+ that
+ if
+ if
+ I
+ write
+ a
+ grant
+
+
+proposal
+ with
+ the
+ help
+ of
+ an
+ agent
+ it's
+
+
+sort
+ of
+ alive
+ it
+ I
+ can
+ feel
+ like
+ it's
+
+
+exciting
+ like
+ if
+ person
+ reading
+ it
+ said
+
+
+like
+ yeah
+ this
+ is
+ good
+ research
+ I
+ want
+
+
+to
+ fund
+ this
+ I
+ think
+ that's
+ just
+ the
+
+
+reality
+ like
+ if
+ you
+ just
+ generate
+ things
+
+
+and
+ don't
+ look
+ at
+ it
+ and
+ just
+ say
+ like
+
+
+yep
+ that's
+ good
+ that
+ will
+ not
+ help
+ you
+
+
+but
+ um
+ you
+ can
+ quickly
+ review
+ content
+
+
+you
+ can
+ skin
+ it
+ you
+ can
+ look
+ at
+ like
+ ah
+
+
+this
+ doesn't
+ look
+ right
+ or
+ I
+ want
+ it
+
+
+different
+ and
+ edit
+ it
+ and
+ you're
+ good
+ to
+
+
+go
+ that
+ will
+ be
+ the
+ reality
+ and
+ the
+
+
+skills
+ that
+ you
+ need
+ to
+
+
+um
+ work
+ in
+ that
+ way.
+ They're
+ not
+ fully
+
+
+developed
+ for
+ most
+ people.
+ They're
+ also
+
+
+not
+ fully
+ developed
+ for
+ me.
+ It's
+ still
+
+
+sort
+ of
+ a
+ face
+ of
+ experimentation.
+
+
+Models
+ move,
+ frameworks
+ move.
+ And
+ so
+ you
+
+
+need
+ to
+ adapt,
+ you
+ need
+ to
+ learn,
+
+
+there's
+ lots
+ to
+ learn,
+ but
+ if
+ you
+ do
+ it,
+
+
+payoffs
+ are
+ huge.
+ And
+ I
+ think
+ there
+ was
+
+
+a
+ thinking
+ that
+ software
+ engineers
+ will
+
+
+no
+ longer
+ exist.
+ But
+ I
+ think
+ people
+ no
+
+
+longer
+ believe
+ that.
+ It's
+ like
+
+
+subconscious
+ are
+ so
+ productive.
+ That
+ is
+
+
+exactly
+ what
+ you
+ need
+ to
+ learn.
+ If
+ you
+
+
+use
+ agents
+ well,
+ you
+ can
+ do
+ so
+ many
+
+
+things
+ and
+ I
+ think
+ that's
+ the
+ core
+
+
+thing.
+ If
+ you
+ don't
+ know
+ how
+ to
+ use
+
+
+agents
+ well,
+ you
+ will
+ be
+ left
+ behind.
+
+
+That
+ will
+ become
+ a
+ critical
+ skill.
+
+
+>> Practically,
+ how
+ do
+ I
+ do
+ that?
+ If
+ I'm
+ uh
+
+
+not
+ a
+ coder
+ and
+ I
+ think
+ about
+ automating
+
+
+some
+ parts
+ of
+ of
+ my
+ job,
+ what
+ are
+ some
+
+
+of
+ your
+ recommendations
+ on
+ how
+ to
+
+
+approach
+ that
+ problem?
+ Yeah,
+ I
+ mean
+ the
+
+
+best
+ thing
+ is
+ just
+ sort
+ of
+ being
+ sort
+ of
+
+
+very
+ pragmatic.
+ Just
+ think
+ about
+ things
+
+
+and
+ trying
+ to
+ code
+ them.
+ particular
+ if
+
+
+you're
+ not
+ a
+ coder
+ that's
+ very
+ difficult
+
+
+and
+ there's
+ sort
+ of
+ this
+ barrier
+ where
+
+
+say
+ like
+ I
+ haven't
+ coded
+ before
+ like
+ I
+
+
+don't
+ know
+ this
+ and
+ but
+ if
+ you
+ interact
+
+
+with
+ agents
+ um
+ they
+ can
+ just
+ build
+ stuff
+
+
+and
+ with
+ minimal
+ learning
+ I
+ mean
+ they
+
+
+can
+ also
+ explain
+ stuff
+ with
+ minimal
+
+
+learning
+ you
+ can
+ get
+ there
+ execute
+
+
+programs
+ build
+ websites
+ of
+ this
+ visual
+
+
+you
+ get
+ quick
+ feedback
+ it's
+ not
+ that
+
+
+difficult
+ anymore
+ I
+ mean
+ often
+ I
+
+
+mentioned
+ you
+ need
+ to
+ inspect
+ things
+ but
+
+
+if
+ you
+ build
+ simple
+ tools
+ for
+ yourself
+
+
+to
+ make
+ your
+ life
+ easier.
+ Often
+ you
+
+
+don't
+ need
+ to
+ do
+ that.
+ The
+ agents
+ write
+
+
+good
+ code.
+ If
+ you
+ work
+ in
+ a
+ company,
+ you
+
+
+need
+ to
+ integrate
+ it
+ in
+ a
+ good
+ code
+
+
+base.
+ You
+ probably
+ should
+ review
+ it.
+ But
+
+
+if
+ you
+ build
+ a
+ small
+ program
+ on
+ your
+ own
+
+
+to
+ make
+ your
+ work
+ more
+ productive,
+ um
+
+
+that's
+ easy.
+ Um
+ just
+ to
+ give
+ you
+ an
+
+
+example
+ that
+ might
+ be
+ random
+ here
+ I
+ bet
+
+
+for
+ example
+ a
+ tool
+ that
+ if
+ I
+ have
+ a
+
+
+video
+ where
+ I
+ talk
+ so
+ I
+ record
+ videos
+ of
+
+
+how
+ I
+ interact
+ with
+ agents
+ then
+ there
+
+
+are
+ certain
+ phases
+ where
+ I
+ just
+ look
+ at
+
+
+the
+ outputs
+ and
+ try
+ to
+ understand
+ things
+
+
+and
+ there
+ are
+ phases
+ where
+ I
+ talk
+ so
+ I
+
+
+just
+ build
+ a
+ tool
+ that
+ recognizes
+ the
+
+
+speech
+ that
+ when
+ I'm
+ saying
+ gets
+ a
+
+
+timestamps
+ then
+ it
+ slices
+ the
+ video
+ so
+
+
+basically
+ I
+ have
+ an
+ entire
+ video
+ where
+ I
+
+
+talk
+ rather
+ than
+ sort
+ of
+ moments
+ where
+
+
+uh
+ nothing
+ happens
+ and
+ that's
+ very
+ easy
+
+
+to
+ do.
+ I
+ built
+ this
+ like
+ in
+ 20
+ minutes.
+
+
+I
+ think
+ everybody
+ can
+ do
+ it
+ because
+ I
+
+
+didn't
+ look
+ at
+ the
+ code.
+ The
+ agent
+ that
+
+
+did
+ it
+ and
+ then
+ I
+ look
+ at
+ the
+ video
+ I'm
+
+
+like,
+ "Oh
+ yeah,
+ let's
+ do
+ it."
+ Right.
+ If
+
+
+you
+ get
+ started
+ with
+ a
+ feedback
+ loop,
+ um
+
+
+you
+ don't
+ need
+ to
+ code.
+ You
+ just
+ need
+ to
+
+
+inspect
+ the
+ output
+ that
+ you
+ can
+
+
+understand
+ or
+ learn
+ how
+ to
+ execute
+ a
+
+
+Python
+ program
+ or
+ a
+ bash
+ shell
+ and
+
+
+you're
+ there.
+
+
+>> How
+ do
+ you
+ pick
+ what
+ you
+ want
+ to
+
+
+automate?
+ Like
+ how
+ do
+ you
+ how
+ do
+ I
+ think
+
+
+about
+ automation
+ in
+ my
+ life?
+
+
+>> Yeah.
+ So
+ I
+ also
+ um
+ talked
+ about
+ that
+ in
+
+
+a
+ blog
+ post
+ and
+ it
+ can
+ be
+ yeah
+ sort
+ of
+
+
+um
+ sort
+ of
+ uh
+ more
+ intuitive
+ thing
+ and
+
+
+then
+ a
+ more
+ nuance
+ thing.
+ I
+ think
+ the
+
+
+more
+ intuitive
+ thing
+ is
+ like
+ you
+ just
+
+
+think
+ about
+ what
+ could
+ be
+ useful
+ and
+
+
+then
+ can
+ be
+ like
+ something
+ more
+ complex.
+
+
+You
+ say
+ I
+ want
+ an
+ Android
+ app
+ or
+ an
+
+
+iPhone
+ app
+ that
+ does
+ this
+ thing
+ and
+ you
+
+
+initially
+ might
+ think
+ that's
+ complex
+ but
+
+
+then
+ you
+ throw
+ a
+ coation
+ it
+ works
+
+
+immediately.
+ the
+ world's
+ your
+ uh
+ voice.
+
+
+It's
+ like
+ there's
+ so
+ many
+ things
+ that
+
+
+you
+ can
+ just
+ do
+ and
+ you
+ can
+ be
+ very
+
+
+creative
+ and
+ say
+ like
+ what
+ I
+ always
+
+
+wanted
+ to
+ have
+ and
+ it
+ wasn't
+ there.
+
+
+Nobody
+ built
+ this
+ product.
+ Can
+ I
+ build
+
+
+it
+ now?
+ And
+ I
+ think
+ that
+ mindset
+ gives
+
+
+you
+ useful
+ things
+ that
+ makes
+ you
+ more
+
+
+productive.
+ But
+ it
+ also
+ flexes
+ your
+
+
+muscle
+ and
+ sometimes
+ it
+ doesn't
+ work
+ and
+
+
+then
+ you
+ understand
+ like
+ okay
+ add
+ agent
+
+
+cycle
+ this
+ or
+ this
+ is
+ what
+ I
+ still
+ need
+
+
+to
+ learn
+ to
+ make
+ both
+ these
+ kind
+ of
+
+
+things
+ and
+ I
+ think
+ that
+ is
+ sort
+ of
+ the
+
+
+more
+ intrusive
+ perspective
+ that's
+ very
+
+
+useful
+ and
+ that
+ quickly
+ get
+ you
+ started
+
+
+on
+ the
+ path
+ where
+ you
+ say
+ like
+ um
+ I
+ mean
+
+
+first
+ there's
+ excitement
+ then
+ it's
+ sort
+
+
+of
+ sober
+ the
+ sober
+ reality
+ but
+ then
+ you
+
+
+pick
+ up
+ again
+ and
+ it's
+ like
+ you
+ realize
+
+
+okay
+ I
+ do
+ like
+ this
+ I
+ get
+ more
+ and
+ more
+
+
+productive
+ day
+ by
+ day
+ that's
+ sort
+ of
+ the
+
+
+more
+ intuitive
+ part
+ the
+ more
+ nuance
+ part
+
+
+is
+ the
+ sort
+ of
+ part
+ that
+ I
+ I
+ learned
+ in
+
+
+automation
+ industry
+ I
+ worked
+ like
+ three
+
+
+years
+ in
+ automation
+ industry
+ in
+ Germany
+
+
+automating
+ factories
+ and
+ it's
+ sort
+ of
+ a
+
+
+very
+ calculated
+ sort
+ of
+ approach
+ where
+
+
+you
+ you
+ look
+ at
+ you
+ how
+ you
+ work
+ you
+
+
+time
+ each
+ of
+ these
+ steps
+ and
+ then
+ you
+
+
+say
+ if
+ I
+ automate
+ this
+ exact
+ step
+ in
+
+
+such
+ a
+ way
+ what
+ could
+ be
+ the
+ payoff
+ how
+
+
+much
+ time
+ would
+ I
+ save
+ and
+ then
+ you
+
+
+calculate
+ what
+ is
+ the
+ productivity
+ gain
+
+
+and
+ then
+ you
+ calculate
+ how
+ much
+ time
+ do
+
+
+I
+ need
+ to
+ develop
+ this
+ automation
+ and
+ if
+
+
+you
+ do
+ that
+ you
+ can
+ quickly
+ realize
+ that
+
+
+certain
+ automating
+ certain
+ things
+ will
+
+
+not
+ make
+ a
+ difference
+ the
+ blog
+ post
+ I
+
+
+mentioned
+ emails
+ doesn't
+ really
+ work
+ um
+
+
+and
+ there
+ might
+ be
+ other
+ things
+ like
+ a
+
+
+big
+ thing
+ is
+ like
+ always
+ calendar
+
+
+invites
+ nobody
+ likes
+ to
+ create
+ like
+
+
+invites
+ for
+ a
+ meeting
+ but
+ then
+ if
+ you
+
+
+think
+ about
+ it
+ is
+ you're
+ also
+ very
+
+
+particular
+ about
+ meetings
+ like
+ some
+ days
+
+
+you
+ want
+ more
+ meetings
+ you
+ meeting
+ day
+
+
+or
+ you
+ say
+ like
+ ah
+ I
+ can
+ put
+ this
+ in
+
+
+before
+ lunch
+ an
+ agent
+ doesn't
+ know
+ that
+
+
+and
+ if
+ you
+ specify
+ that
+ to
+ an
+ agent
+ you
+
+
+could
+ also
+ just
+ create
+ the
+ calendar
+
+
+invite
+ this
+ meeting
+ by
+ flight
+ and
+ it
+ it
+
+
+doesn't
+ increase
+ productivity
+ by
+ much
+
+
+and
+ so
+ there
+ are
+ a
+ lot
+ of
+ problems
+ if
+
+
+you
+ think
+ about
+ this
+ nuance
+ way
+ and
+ can
+
+
+say
+ like
+ okay
+ I
+ don't
+ do
+ that
+ but
+ ah
+
+
+this
+ this
+ will
+ help
+ me
+
+
+>> and
+ then
+ on
+ your
+ end
+ what
+ have
+ you
+
+
+learned
+ or
+ observed
+ in
+ terms
+ of
+ agents
+
+
+what
+ works
+ what
+ currently
+ doesn't
+ work
+
+
+but
+ will
+ work
+ soon
+ how
+ to
+ manage
+ them.
+
+
+>> I
+ think
+ there
+ there
+ there's
+ two
+ broad
+ um
+
+
+things
+ I
+ I
+ I've
+ noticed
+ for
+ agents.
+ So
+
+
+the
+ first
+ is
+ um
+ making
+ the
+ agents
+
+
+effective
+ uh
+ ends
+ up
+ being
+ a
+ lot
+ like
+
+
+managing
+ um
+ junior
+ folks
+ on
+ your
+ team
+ or
+
+
+or
+ at
+ a
+ company.
+ So
+ for
+ example,
+ the
+ new
+
+
+intern
+ who
+ who
+ shows
+ up
+ on
+ your
+ team
+ um
+
+
+you're
+ not
+ going
+ to
+ go
+ to
+ the
+ intern
+ and
+
+
+say,
+ "Hey,
+ go
+ fix
+ our
+ revenue
+ for
+ the
+
+
+year,
+ double
+ our
+ revenue
+ for
+ the
+ year,"
+
+
+or
+ something
+ like
+ that.
+ like
+ maybe
+
+
+you'll
+ try
+ that
+ once,
+ but
+ you're
+ you're
+
+
+unlikely
+ to
+ to
+ see
+ um
+ the
+ the
+ payoff
+
+
+from
+ that.
+ Um
+ instead,
+ what
+ you
+ often
+ do
+
+
+with
+ junior
+ folks
+ is
+ you
+ say,
+ "Hey,
+
+
+here's
+ a
+ first
+ little
+ task
+ that
+ you
+ can
+
+
+do
+ that
+ in
+ to
+ get
+ to
+ know
+ this
+
+
+complicated
+ codebase
+ and
+ here
+ are
+ the
+
+
+things
+ that
+ you
+ might
+ run
+ into."
+ Um
+
+
+because
+ you
+ you've
+ kind
+ of
+ done
+ it
+
+
+before.
+ And
+ when
+ you
+ give
+ the
+ agents
+
+
+that
+ context,
+ give
+ them
+ that
+ ability
+ to
+
+
+look
+ at
+ those
+ things,
+ then
+ then
+ they
+ can
+
+
+usually
+ figure
+ things
+ out.
+ The
+ other
+ bit
+
+
+is
+ that
+ when
+ you
+ have
+ a
+ a
+ new
+ person
+ on
+
+
+your
+ team,
+ you
+ maybe
+ won't
+ give
+ them
+
+
+access
+ to
+ all
+ the
+ production
+ credentials
+
+
+and
+ and
+ all
+ the
+ production
+ database
+ and
+
+
+all
+ those
+ things,
+ but
+ you're
+ going
+ to
+
+
+give
+ them
+ enough
+ tools
+ to
+ to
+ be
+
+
+productive.
+ Um,
+ so
+ sometimes
+ there
+
+
+there's
+ this
+ tension
+ between,
+ oh,
+ I
+
+
+don't
+ want
+ my
+ agent
+ to
+ go
+ delete
+ my
+
+
+everything
+ in
+ production,
+ so
+ I'm
+ just
+
+
+going
+ to
+ have
+ it
+ be
+ hamstrung
+ and
+ and
+
+
+watch
+ every
+ little
+ thing
+ it
+ does.
+
+
+Whereas,
+ if
+ you
+ did
+ that
+ with
+ a
+ person,
+
+
+you
+ would
+ never
+ expect
+ that
+ person
+ to
+ be
+
+
+productive.
+ That's
+ another
+ big
+ you
+ kind
+
+
+of
+ want
+ to
+ you
+ know
+ think
+ about
+ the
+
+
+agents
+ as
+ at
+ least
+ today
+ as
+ you
+ know
+
+
+maybe
+ interns
+ or
+ or
+ more
+ junior
+ folks.
+
+
+The
+ other
+ really
+ interesting
+ thing
+ that
+
+
+I've
+ noticed
+ and
+ I
+ think
+ when
+ I
+ think
+
+
+more
+ the
+ educational
+ role
+ of
+ a
+ of
+ a
+
+
+professor
+ and
+ how
+ do
+ you
+ prepare
+ people
+
+
+for
+ this
+ future
+ where
+ agents
+ are
+ going
+
+
+to
+ be
+ such
+ an
+ important
+ part
+ of
+ of
+
+
+workflows
+ is
+ that
+ how
+ do
+ you
+ train
+ for
+
+
+that?
+ And
+ one
+ of
+ the
+ things
+ that
+ I've
+
+
+noticed
+ is
+ that
+ the
+ more
+ expertise
+
+
+somebody
+ has,
+ so
+ whether
+ that's
+ in
+ for
+
+
+example
+ Tim
+ with
+ process
+ automation
+ um
+
+
+or
+ uh
+ expertise
+ in
+ in
+ what
+ I
+ do
+ in
+
+
+kernels
+ and
+ writing
+ these
+ very
+ highly
+
+
+specialized
+ programs,
+ the
+ more
+ expertise
+
+
+you
+ have,
+ the
+ more
+ powerful
+ the
+ agent
+
+
+makes
+ you.
+ And
+ that's
+ because
+ you
+ can
+
+
+work
+ at
+ such
+ a
+ higher
+ level
+ of
+
+
+abstraction.
+ You
+ know
+ what
+ the
+ important
+
+
+things
+ are.
+ You
+ know
+ how
+ to
+ set
+ the
+
+
+direction.
+ um
+ you
+ know
+ what
+ the
+ common
+
+
+pitfalls
+ are
+ like
+ what
+ is
+ easy
+ what's
+
+
+kind
+ of
+ hard
+ what
+ you
+ need
+ to
+ break
+ up
+
+
+into
+ multiple
+ steps.
+ One
+ piece
+ of
+
+
+conversation
+ that
+ um
+ was
+ coming
+ up
+ for
+
+
+for
+ a
+ while
+ was
+ like
+ are
+ agents
+ going
+ to
+
+
+replace
+ all
+ software
+ engineers
+ or
+ things
+
+
+like
+ that
+ or
+ are
+ they
+ going
+ to
+ replace
+
+
+all
+ junior
+ people
+ or
+ something
+ like
+
+
+that.
+ Um
+ I
+ think
+ where
+ we
+ are
+ today
+
+
+that's
+ probably
+ you
+ know
+ clearly
+ not
+ the
+
+
+case
+ anymore.
+ Um
+ where
+ you
+ know
+ if
+ I
+
+
+have
+ a
+ tool
+ to
+ make
+ my
+ team
+ 10x
+ stronger
+
+
+I'm
+ not
+ going
+ to
+ fire
+ nine
+ people
+ on
+ my
+
+
+team.
+ I'm
+ going to
+ say,
+ "Okay,
+ go
+ do
+
+
+this.
+ Become
+ a
+ 100x
+ more
+ productive
+ than
+
+
+you
+ were
+ before."
+ That's
+ one
+ bit.
+ But
+
+
+then
+ also
+ kind
+ of
+ the
+ script
+ for
+ how
+ you
+
+
+become
+ an
+ expert
+ at
+ something.
+ Uh
+ is
+ is
+
+
+probably
+ pretty
+ similar
+ to
+ to
+ the
+ way
+
+
+that
+ it
+ was
+ before.
+ You're
+ going
+ to
+
+
+study
+ things
+ deeply.
+ You're
+ going
+ to
+ try
+
+
+to
+ understand
+ things
+ a
+ lot.
+ Um
+ you're
+
+
+going
+ to
+ want
+ to
+ do
+ things
+ yourself
+ with
+
+
+with
+ your
+ um
+ you
+ know,
+ hands-on
+ and
+ and
+
+
+really
+ get
+ things
+ done.
+ Uh
+ in
+ this
+
+
+world,
+ you
+ know,
+ the
+ chat
+ GPT
+ can
+ teach
+
+
+you
+ a
+ lot
+ of
+ things.
+ I
+ was
+ personally
+ um
+
+
+uh
+ personally
+ I
+ was
+ trying
+ to
+ get
+ Catch
+
+
+APG
+ to
+ teach
+ me
+ all
+ the
+ little
+ ins
+ and
+
+
+outs
+ of
+ how
+ a
+ car
+ works.
+ I
+ don't
+ know
+
+
+how
+ effective
+ it
+ was
+ so
+ far,
+ but
+ um
+ you
+
+
+know
+ there
+ it's
+ it's
+ a
+ lot
+ easier
+ to
+ to
+
+
+learn
+ things
+ now
+ than
+ it
+ was
+ um
+
+
+certainly
+ even
+ five
+ two
+ three
+ years
+ ago.
+
+
+Um
+ so
+ th
+ those
+ are
+ kind
+ of
+ some
+ of
+ the
+
+
+the
+ the
+ things
+ I'd
+ say.
+ So
+ you
+ know
+ you
+
+
+want
+ to
+ treat
+ the
+ agents
+ as
+ if
+ you're
+
+
+you
+ are
+ in
+ that
+ manager
+ role.
+ You
+ want
+
+
+to
+ help
+ them
+ get
+ unstuck.
+ You
+ don't
+ want
+
+
+to
+ just
+ say
+ like
+ throw
+ the
+ agent
+ at
+ the
+
+
+problem,
+ walk
+ away
+ and
+ and
+ never
+ look
+ at
+
+
+it
+ again.
+ Um,
+ but
+ you
+ also
+ want
+ to
+ kind
+
+
+of
+ figure
+ out
+ how
+ to
+ level
+ yourself
+ up
+
+
+so
+ that
+ you
+ can
+ be
+ a
+ better
+ manager,
+
+
+have
+ more
+ domain
+ expertise
+ and
+ and
+
+
+really
+ understand
+ things
+ in
+ a
+ deeper
+
+
+way.
+
+
+>> So
+ the
+ fact
+ that
+ you
+ need
+ to
+ learn
+ and
+
+
+be
+ an
+ expert
+ uh
+ and
+ that
+ doesn't
+ change
+
+
+uh
+ I
+ think
+ that's
+ very
+ interesting
+ and
+
+
+that
+ makes
+ a
+ lot
+ of
+ sense.
+ The
+ question
+
+
+is
+ like
+ if
+ you
+ show
+ up
+ on
+ the
+ job
+ as
+ a
+
+
+you
+ know
+ young
+ kernel
+ engineer
+ and
+
+
+that's
+ your
+ first
+ day
+ typically
+ they
+
+
+would
+ be
+ okay
+ well
+ you
+ do
+ this
+ simple
+
+
+task
+ and
+ that
+ other
+ simple
+ task
+ and
+ then
+
+
+by
+ year
+ two
+ you
+ graduate
+ to
+ a
+ more
+
+
+complex
+ task.
+ How
+ does
+ this
+ sort
+ of
+
+
+hands-on
+ job
+ training
+ look
+ like?
+
+
+>> Right.
+ Yeah.
+ So
+ we
+ we
+ think
+ about
+ this
+ a
+
+
+lot
+ together
+ because
+ you
+ know
+ we're
+
+
+we're
+ still
+ hiring
+ aggressively
+ even
+ in
+
+
+this
+ world
+ where
+ the
+ the
+ the
+ models
+ are
+
+
+very
+ good,
+ the
+ agents
+ are
+ very
+ good.
+ the
+
+
+way
+ we
+ think
+ about
+ it.
+ So,
+ first
+ I
+
+
+actually
+ went,
+ you
+ know,
+ the
+ professor
+
+
+and
+ me
+ went
+ and
+ actually
+ recorded
+ a
+
+
+bunch
+ of
+ lectures
+ on
+ how
+ GPUs
+ work.
+ Um,
+
+
+so
+ I
+ I
+ make
+ everybody
+ watch
+ those
+ and
+
+
+then
+ I
+ still
+ give
+ them
+ um
+ a
+ a
+ task
+ from
+
+
+scratch,
+ which
+ is,
+ okay,
+ go
+ take
+ this
+
+
+flash
+ attention
+ kernel
+ and
+ modify
+ it
+ to
+
+
+do
+ some
+ other
+ thing.
+ You
+ can
+ pick
+ the
+
+
+the
+ extra
+ feature.
+ The
+ nice
+ thing
+ about
+
+
+the
+ agents
+ is
+ that
+ you
+ can
+ dive
+ into
+
+
+that
+ higher
+ impact
+ role
+ in
+ a
+ way
+ that
+
+
+you
+ weren't
+ able
+ to
+ before.
+ So
+ it's
+
+
+really
+ impactful
+ I
+ think
+ when
+ a
+ junior
+
+
+IC
+ goes
+ to
+ try
+ to
+ manage
+ someone
+ for
+ the
+
+
+first
+ time
+ um
+ because
+ you're
+ suddenly
+
+
+starting
+ to
+ think
+ in
+ much
+ more
+ precise
+
+
+terms.
+ So
+ um
+ you
+ know
+ the
+ the
+ classic
+
+
+software
+ engineer
+ thing
+ is
+ hey
+ the
+ PM
+
+
+asked
+ me
+ to
+ do
+ this
+ and
+ wrote
+ this
+ super
+
+
+long
+ doc
+ with
+ all
+ these
+ requirements
+ but
+
+
+then
+ the
+ minute
+ that
+ you
+ try
+ to
+ go
+ ask
+
+
+someone
+ else
+ to
+ do
+ something
+ you
+ realize
+
+
+the
+ specificity
+ that
+ you
+ need
+ when
+ you
+
+
+want
+ to
+ address
+ a
+ feature
+ or
+ something
+
+
+like
+ that.
+ The
+ nice
+ thing
+ about
+ agents
+
+
+is
+ you
+ can
+ almost
+ start
+ to
+ shortcut
+ that
+
+
+process
+ where
+ you
+ can
+ have
+ the
+ junior
+
+
+IC,
+ still
+ be
+ an
+ IC,
+ still
+ do
+ IC
+ style
+
+
+contributions,
+ but
+ they
+ can
+ now
+ act
+ as
+
+
+that
+ manager
+ role
+ and
+ act
+ as
+ their
+ own
+
+
+PM.
+ Um,
+ because
+ when
+ you're
+
+
+communicating
+ with
+ the
+ agents,
+ you
+ need
+
+
+to
+ be
+ as
+ precise
+ about
+ what
+ what
+ you're
+
+
+trying
+ to
+ get
+ done.
+ So,
+ in
+ some
+ sense,
+
+
+I've
+ seen
+ um
+ with
+ the
+ with
+ the
+ really
+ uh
+
+
+you
+ know,
+ the
+ junior
+ folks
+ who
+ are
+
+
+joining
+ my
+ team.
+ So,
+ these
+ are
+ folks
+
+
+fresh
+ out
+ of
+ college
+ or
+ or
+ fresh
+ out
+ of
+
+
+a
+ masters.
+ Um,
+ when
+ they
+ are
+ really
+
+
+gung-ho
+ about
+ understanding
+ and
+ being
+
+
+able
+ to
+ use
+ the
+ AI
+ agents,
+ they're
+
+
+they're
+ able
+ to
+ communicate
+ so
+ much
+
+
+better
+ than
+ in
+ in
+ the
+ olden
+ days.
+
+
+They're
+ they're
+ able
+ to
+ level
+ up
+ their
+
+
+um
+ their
+ level
+ of
+ understanding
+ a
+ lot
+
+
+faster.
+ Um,
+ and
+ then
+ of
+ course
+ they
+ they
+
+
+can
+ do
+ things
+ and
+ build
+ tools
+ at
+ a
+ speed
+
+
+that
+ that
+ um
+ would
+ have
+ been
+ really
+
+
+really
+ hard
+ to
+ do,
+ you
+ know,
+ 5
+ 10
+ 5
+ 10
+
+
+years
+ ago.
+ And
+ maybe
+ I'll
+ add
+ sort
+ of
+
+
+the
+ educational
+ perspective
+ there
+
+
+because
+ I
+ think
+ it's
+ sort
+ of
+ quite
+
+
+interesting.
+ It's
+ a
+ little
+ bit
+ sort
+ of
+
+
+contrasting.
+ So
+ what
+ is
+ also
+ quite
+
+
+interesting
+ is
+ the
+ educational
+
+
+perspective
+ sort
+ of
+ from
+ agents.
+ I
+ talk
+
+
+quite
+ a
+ bit
+ that
+ um
+ basically
+ use
+ agents
+
+
+or
+ be
+ left
+ behind
+ and
+ that
+ is
+ also
+ true
+
+
+for
+ students
+ but
+ just
+ like
+ as
+ Dan
+ said
+
+
+um
+ you
+ need
+ the
+ domain
+ expertise
+ you
+
+
+need
+ to
+ have
+ some
+ knowledge
+ to
+ use
+
+
+agents.
+ Well,
+ what
+ we're
+ seeing
+ is
+ if
+ we
+
+
+allow
+ students
+ to
+ use
+ agents,
+ they
+ are
+
+
+very
+ productive,
+ but
+ sometimes
+ they
+
+
+build
+ solutions
+ that
+ look
+ correct
+ that
+
+
+are
+ actually
+ very
+ bad
+ or
+ just
+ wrong
+ and
+
+
+they
+ don't
+ realize.
+ We
+ at
+ this
+ point
+
+
+where
+ it's
+ almost
+ very
+ difficult
+ to
+
+
+learn
+ both
+ domain
+ expertise
+ and
+ uh
+ a
+
+
+agent
+ use.
+ That's
+ a
+ very
+ difficult
+
+
+balance
+ to
+ achieve
+ uh
+ because
+ we
+ don't
+
+
+want
+ to
+ have
+ students
+ that
+ don't
+
+
+understand
+ things,
+ but
+ we
+ also
+ want
+ to
+
+
+have
+ students
+ that
+ um
+ and
+ basically
+ can
+
+
+use
+ agents
+ and
+ so
+ if
+ they
+ can't
+ do
+ that,
+
+
+they
+ will
+ not
+ be
+ effective
+ in
+ the
+
+
+workforce.
+ What
+ Dan
+ said
+ is
+ you
+ already
+
+
+have
+ a
+ pretty
+ good
+ person
+ with
+ strong
+
+
+background
+ knowledge
+ and
+ then
+ that
+
+
+person
+ can
+ level
+ up.
+ They're
+ equipped
+
+
+with
+ agents.
+ But
+ what
+ do
+ you
+ do
+ if
+ you
+
+
+have
+ someone
+ that
+ just
+ learns
+ computer
+
+
+science?
+ How
+ much
+ AC
+ should
+ they
+ learn?
+
+
+how
+ much
+ just
+ um
+ work
+ should
+ you
+ do
+
+
+without
+ agents
+ and
+ that's
+ a
+ very
+ tricky
+
+
+balance
+ and
+ we
+ don't
+ know
+ how
+ to
+ solve
+
+
+it.
+ If
+ we
+ let
+ people
+ use
+ agents,
+ they
+
+
+perform
+ very
+ poorly
+ on
+ basic
+ knowledge.
+
+
+And
+ if
+ we
+ let
+ people
+ just
+ do
+ the
+
+
+balancing
+ knowledge,
+ they
+ don't
+ know
+ how
+
+
+to
+ use
+ agents
+ and
+ they
+ can't
+ compete.
+ So
+
+
+they
+ can't
+ do
+ useful
+ work
+ in
+ the
+ in
+ the
+
+
+workforce
+ nowadays.
+ Maybe
+ the
+ their
+
+
+solution
+ is
+ do
+ all
+ sort
+ of
+ the
+ basic
+
+
+knowledge
+ first
+ and
+ then
+ agents.
+ But
+
+
+that's
+ not
+ what
+ students
+ do.
+ Students
+
+
+have
+ access
+ to
+ these
+ AI
+ tools.
+ They
+ will
+
+
+use
+ them
+ because
+ it's
+ easy.
+ And
+ so
+ maybe
+
+
+the
+ solution
+ is
+ just
+ you
+ need
+ a
+ way
+ of
+
+
+thinking
+ and
+ of
+ working
+ with
+ information
+
+
+and
+ knowledge
+ that
+ you
+ don't
+ understand
+
+
+and
+ develop.
+ I
+ mean
+ there's
+ critical
+
+
+thinking.
+ I
+ think
+ this
+ goes
+ beyond
+
+
+critical
+ thinking.
+ You
+ basically
+ need
+ to
+
+
+uh
+ basically
+ know
+ the
+ unknown
+ unknowns
+
+
+things
+ that
+ you
+ didn't
+ consider
+ and
+
+
+don't
+ understand
+ and
+ that
+ you
+ didn't
+
+
+even
+ think
+ about.
+ you
+ need
+ to
+ have
+ that
+
+
+ability
+ to
+ think
+ more
+ about
+ that
+ to
+
+
+really
+ keep
+ up
+ with
+ agents
+ because
+ I
+
+
+think
+ in
+ the
+ future
+ it's
+ realistic
+ that
+
+
+we
+ work
+ on
+ problems
+ that
+ we
+ don't
+
+
+understand
+ that
+ agents
+ understand
+ but
+ we
+
+
+need
+ to
+ keep
+ up
+ in
+ some
+ way
+ um
+ that
+
+
+would
+ be
+ difficult.
+
+
+>> All
+ right.
+ So
+ to
+ switch
+ ts
+ as
+ we
+ uh
+ get
+
+
+uh
+ closer
+ to
+ the
+ end
+ of
+ this
+
+
+conversation
+ what
+ are
+ you
+ guys
+ currently
+
+
+working
+ on?
+ what's
+ top
+ of
+ mind
+ for
+ you
+
+
+at
+ um
+ Allen
+ Institute
+ on
+ the
+ one
+ hand,
+
+
+together
+ on
+ the
+ other
+ hand,
+ whoever
+
+
+wants
+ to
+ take
+ it
+ first.
+
+
+>> Well,
+ we
+ have
+ actually
+ sort
+ of
+ a
+ very
+
+
+exciting
+ project
+ that
+ will
+ be
+ released
+
+
+uh
+ very
+ soon
+ in
+ the
+ next
+ weeks
+ and
+ um
+ so
+
+
+I
+ worked
+ quite
+ a
+ bit
+ of
+ efficiency.
+ Um,
+
+
+I've
+ been
+ switching
+ my
+ work
+ basically
+ to
+
+
+coding
+ agents
+ and
+ so
+ we
+ will
+ have
+ a
+
+
+major
+ release
+ of
+ an
+ open
+ source
+ coding
+
+
+agent
+ that
+ has
+ a
+ couple
+ of
+ key
+ features.
+
+
+For
+ one,
+ training
+ is
+ 100
+ times
+ cheaper.
+
+
+Um,
+ you
+ need
+ to
+ generate
+ synthetic
+ data,
+
+
+then
+ you
+ need
+ to
+ train
+ on
+ it.
+ And
+ so
+ we
+
+
+have
+ a
+ method
+ that's
+ 100
+ uh
+ roughly
+ 100
+
+
+times
+ cheaper,
+ but
+ still
+ get
+
+
+state-of-the-art
+ performance.
+ And
+ then
+
+
+uh
+ we
+ have
+ another
+ sort
+ of
+ major
+ result
+
+
+uh
+ which
+ um
+ you
+ can
+ almost
+ see
+ as
+ a
+ holy
+
+
+grail
+ of
+ open
+ source
+ um
+ models
+ and
+ that
+
+
+is
+ we
+ can
+ take
+ a
+ private
+ codebase
+ like
+
+
+you
+ have
+ a
+ company
+ you
+ have
+ this
+
+
+codebase
+ uh
+ cloud
+ doesn't
+ know
+ your
+
+
+codebase
+ but
+ um
+ you
+ have
+ the
+ data
+ you
+
+
+can
+ find
+ a
+ model
+ in
+ it
+ so
+ uh
+ what
+ we
+
+
+have
+ is
+ you
+ can
+ just
+ point
+ our
+ method
+ to
+
+
+that
+ repository
+ you
+ don't
+ need
+ to
+ have
+
+
+any
+ sort
+ of
+ tests
+ or
+ um
+ need
+ to
+
+
+understand
+ how
+ to
+ generate
+ the
+ data.
+
+
+It's
+ just
+ automatic.
+ You
+ quickly
+
+
+generate
+ the
+ data
+ and
+ then
+ you
+ have
+ um
+
+
+an
+ agent
+ that
+ is
+ as
+ a
+ frontier
+ model,
+
+
+but
+ you
+ can
+ have
+ like
+ a
+ 32
+ billion
+
+
+agent.
+ You
+ can
+ deploy
+ locally.
+ You
+ can
+
+
+have
+ an
+ army
+ of
+ specialized
+ models
+ for
+
+
+particular
+ tasks
+ for
+ particular
+ code
+
+
+bases
+ and
+ so
+ forth.
+ And
+ uh
+ yeah,
+ I
+ think
+
+
+that
+ that
+ is
+ a
+ very
+ powerful
+ results.
+
+
+All
+ that
+ is
+ also
+ packaged
+ with
+ um
+ a
+
+
+science
+ of
+ coding
+ agents.
+ There
+ are
+ a
+
+
+lot
+ of
+ confounding
+ factors,
+ a
+ lot
+ of
+
+
+hidden
+ things
+ in
+ papers
+ that
+ are
+ not
+
+
+mentioned.
+ We
+ sort
+ of
+ unearth
+ them,
+ uh,
+
+
+build
+ scaling
+ laws
+ and
+ show
+ what
+ does
+
+
+matter
+ and
+ what
+ doesn't
+ matter.
+ And
+ if
+
+
+you
+ put
+ all
+ of
+ that
+ together,
+ I
+ think
+
+
+the
+ sheet
+ agents,
+ very
+ few
+ GPUs,
+
+
+everybody
+ can
+ use
+ it
+ and
+ very
+ easily.
+ We
+
+
+unblock
+ people
+ by
+ revealing
+ all
+ the
+ sort
+
+
+of
+ secrets.
+ I
+ think
+ there
+ will
+ be
+ a
+ vast
+
+
+change
+ in
+ terms
+ of
+ how
+ quickly
+ we
+ can
+
+
+progress
+ in
+ coding
+ agents.
+
+
+>> Very
+ cool.
+ What
+ about
+ you,
+ Dan?
+ Yeah.
+ So
+
+
+together
+ I
+ think
+ the
+ the
+ the
+ major
+
+
+question
+ that
+ we're
+ trying
+ to
+ answer
+
+
+today
+ is
+ we
+ have
+ all
+ these
+ powerful
+ AI
+
+
+models
+ that
+ that
+ can
+ do
+ all
+ these
+
+
+amazing
+ things.
+ They're
+ very
+ expensive
+
+
+to
+ run
+ today.
+ So
+ you
+ know
+ the
+ the
+
+
+question
+ in
+ all
+ the
+ public
+ markets
+ is
+
+
+like
+ is
+ OpenAI
+ going
+ to
+ be
+ able
+ to
+ turn
+
+
+a
+ profit
+ um
+ ever.
+ Um
+ and
+ what's
+ really
+
+
+exciting
+ about
+ together
+ is
+ that
+ we
+ are
+
+
+kind
+ of
+ on
+ the
+ forefront
+ of
+ getting
+ the
+
+
+these
+ models
+ to
+ to
+ use
+ the
+ hardware
+ as
+
+
+as
+ good
+ as
+ it
+ can.
+ Um,
+ we
+ talked
+ a
+
+
+little
+ bit
+ about
+ training,
+ you
+ know,
+ ear
+
+
+early
+ on
+ in
+ the
+ podcast.
+ At
+ inference
+
+
+time,
+ when
+ the
+ when
+ when
+ you
+ have
+ the
+
+
+model,
+ when
+ it's
+ already
+ been
+ trained,
+
+
+already
+ been
+ post-trained,
+ the
+ hardware
+
+
+utilization
+ is
+ like
+ less
+ than
+ 5%.
+ Um,
+ so
+
+
+it's
+ it's
+ at
+ a
+ place
+ where
+ there's
+ so
+
+
+much
+ more
+ that
+ we
+ can
+ do.
+ There's
+ so
+
+
+much
+ more
+ efficiency
+ that
+ that
+ we
+ can
+
+
+push
+ out
+ of
+ these.
+ And
+ we're
+ really
+
+
+excited
+ about
+ figuring
+ out
+ how
+ to
+ use
+
+
+the
+ hardware
+ the
+ the
+ best
+ way
+ that
+ we
+
+
+can.
+ Um,
+ whether
+ it's
+ serving,
+ you
+ know,
+
+
+customers
+ like
+ Curser
+ or
+ or
+ whatever
+ the
+
+
+the
+ next
+ great
+ foundation
+ model
+ company
+
+
+is.
+ Um,
+ but
+ yeah,
+ we're
+ we're
+ really
+
+
+excited
+ about
+ pushing
+ that
+ frontier
+ and
+
+
+then
+ really
+ getting
+ us
+ to
+ this
+ future
+
+
+that
+ the
+ that,
+ you
+ know,
+ if
+ these
+ models
+
+
+are
+ going
+ to
+ be
+ as
+ impactful
+ as
+ you
+
+
+think,
+ if
+ they're
+ going
+ to
+ be
+ running
+
+
+everywhere,
+ running
+ your
+ daily
+ lives,
+
+
+uh,
+ you
+ know,
+ running
+ your
+ toaster,
+ uh,
+
+
+well,
+ we
+ better
+ make
+ it
+ the
+ the
+ best
+
+
+possible
+ toaster
+ that
+ we
+ can.
+
+
+>> Do
+ you
+ want
+ to
+ talk
+ about
+ uh,
+ Mega
+
+
+Kernels
+ and
+ Together
+ Atlas
+ for
+ a
+ minute?
+
+
+>> Together
+ Mega
+ kernels,
+ Together
+ Atlas.
+
+
+These
+ are
+ both
+ um,
+ projects
+ along
+ these
+
+
+lines.
+ So,
+ let
+ me
+ dive
+ into
+ the
+ mega
+
+
+kernels
+ first.
+ So
+ to
+ understand
+ this
+ uh
+
+
+the
+ the
+ first
+ thing
+ when
+ we
+ say
+ kernels
+
+
+is
+ we
+ usually
+ mean
+ we
+ are
+ going
+ to
+ write
+
+
+a
+ specialized
+ GPU
+ program
+ for
+ a
+ single
+
+
+operation
+ in
+ a
+ model
+ um
+ you
+ can
+ think
+ of
+
+
+as
+ model
+ as
+ one
+ of
+ these
+ train
+ models
+ is
+
+
+like
+ ABC
+ different
+ operations
+ in
+ a
+ row
+
+
+and
+ there
+ will
+ be
+ hundreds
+ of
+ these
+ and
+
+
+the
+ way
+ that
+ we've
+ been
+ writing
+ kernels
+
+
+for
+ the
+ whole
+ history
+ of
+ let's
+ say
+ call
+
+
+it
+ Nvidia
+ hardware
+ is
+ that
+ you
+ really
+
+
+specialize
+ a
+ single
+ kernel
+ for
+ a
+ single
+
+
+operation
+ with
+ these
+ mega
+ kernels
+ we're
+
+
+doing
+ something
+ quite
+ interesting
+ which
+
+
+is
+ we
+ can
+ take
+ the
+ entire
+ model,
+ however
+
+
+many
+ billions
+ of
+ parameters,
+ and
+ put
+ it
+
+
+into
+ a
+ single
+ GPU
+ kernel.
+ Um,
+ and
+ with
+
+
+that,
+ you
+ can
+ start
+ to
+ do
+ a
+ lot
+ more
+
+
+fine
+ grain
+ optimization
+ than
+ you
+ were
+
+
+able
+ to
+ do
+ before.
+ Uh,
+ it
+ actually
+
+
+starts
+ to
+ make
+ the
+ Nvidia
+ GPU
+ look
+ a
+
+
+little
+ bit
+ more
+ like
+ a
+ Cerebras
+ chip
+ or
+
+
+look
+ a
+ little
+ bit
+ more
+ like
+ a
+ Samanova
+
+
+chip
+ in
+ terms
+ of
+ the
+ the
+ optimization
+
+
+that
+ you're
+ able
+ to
+ do.
+ And
+ this
+ is
+
+
+really
+ critical
+ at
+ inference
+ time.
+ So,
+
+
+we're
+ able
+ to
+ see
+ 2x
+ sometimes
+ 3x
+ speed
+
+
+ups
+ um
+ over
+ even
+ highly
+ optimized
+
+
+inference
+ engines.
+ Um,
+ so
+ we're
+ working
+
+
+on
+ bringing
+ that
+ to
+ um
+ uh
+ to
+ to
+ really
+
+
+work
+ in
+ production,
+ bring
+ bring
+ it
+ to
+
+
+fruition
+ and
+ and
+ use
+ it
+ across
+ our
+ whole
+
+
+stack
+ together.
+ Atlas
+ is
+ another
+ really
+
+
+great
+ uh
+ interesting
+ research
+ project
+
+
+that
+ we've
+ done
+ recently
+ where
+ we
+ can
+
+
+get
+ the
+ model.
+ There's
+ this
+ uh
+ there's
+
+
+this
+ technique
+ called
+ speculative
+
+
+decoding
+ that
+ we
+ use
+ at
+ inference
+ where
+
+
+basically
+ we
+ have
+ a
+ little
+ model
+ that
+ is
+
+
+trying
+ to
+ guess
+ what
+ the
+ big
+ model
+ is
+
+
+going
+ to
+ do
+ and
+ because
+ of
+ the
+ ways
+ that
+
+
+we've
+ designed
+ language
+ models.
+ If
+ the
+
+
+little
+ model
+ guesses
+ correctly,
+ you
+
+
+basically
+ get
+ those
+ tokens
+ for
+ free.
+ Um
+
+
+so
+ if
+ you
+ do
+ the
+ speculative
+ decoding
+
+
+right,
+ you
+ can
+ get
+ again
+ 2x
+ 3x
+ speed
+ ups
+
+
+um
+ over
+ over
+ you
+ know
+ just
+ just
+ running
+
+
+a
+ a
+ vanilla
+ model.
+ Um,
+ with
+ Together
+
+
+Atlas,
+ we
+ do
+ one
+ extra
+ thing,
+ which
+ is
+
+
+we
+ say,
+ "Okay,
+ we
+ can
+ get
+ that
+ little
+
+
+model
+ and
+ we
+ can
+ actually
+ adapt
+ it
+ to
+
+
+your
+ traffic."
+ The
+ longer
+ you
+ use
+ this
+
+
+model,
+ the
+ more
+ it
+ learns
+ the
+ patterns
+
+
+of
+ what
+ you're
+ asking,
+ of
+ what
+ you're
+
+
+saying,
+ and
+ it
+ can
+ actually
+ get
+ faster
+
+
+over
+ time.
+ Um,
+ so
+ all
+ these
+ things,
+ you
+
+
+know,
+ we
+ we
+ have
+ efficiency
+ in
+ mind,
+
+
+inference
+ efficiency
+ in
+ particular,
+ and
+
+
+we're
+ all
+ kind
+ of
+ pushing
+ towards
+ um
+
+
+making
+ making
+ all
+ these
+ things
+ faster.
+
+
+What
+ are
+ you
+ excited
+ about
+ for
+ 2026
+ at
+ a
+
+
+reasonably
+ granular
+ level?
+ Like
+ what
+
+
+what
+ do
+ you
+ think
+ happens?
+ What
+ do
+ you
+
+
+think
+ doesn't
+ happen?
+
+
+>> Yeah.
+ So
+ I
+ think
+ they're
+ both
+ sort
+ of
+ um
+
+
+I'm
+ sort
+ of
+ split.
+ I
+ think
+ a
+ lot
+ of
+
+
+things
+ will
+ be
+ very
+ boring
+ and
+ not
+ much
+
+
+innovation,
+ but
+ then
+ we
+ also
+ surprised
+
+
+by
+ a
+ couple
+ of
+ things
+ that
+ we
+ maybe
+
+
+don't
+ see.
+ And
+ I
+ think
+ actually
+ sort
+ of
+
+
+in
+ the
+ frontier
+ we
+ will
+ be
+ less
+
+
+surprised.
+ I
+ mean
+ it's
+ no
+ secret
+ that
+ we
+
+
+ran
+ out
+ of
+ pre-training
+ data
+ and
+ as
+ Dan
+
+
+said
+ like
+ these
+ are
+ sort
+ of
+ the
+ muscles.
+
+
+Then
+ you
+ can
+ sort
+ of
+ smooth
+ over
+ and
+ you
+
+
+smooth
+ over
+ with
+ synthetic
+ data
+ and
+ um
+
+
+that's
+ how
+ you
+ build
+ coding
+ agents
+ um
+ on
+
+
+lots
+ and
+ lots
+ of
+ different
+ environments
+
+
+and
+ combine
+ the
+ data.
+ U
+ we
+ make
+ some
+
+
+progress
+ there
+ but
+ I
+ think
+ you
+ already
+
+
+see
+ the
+ machine
+ learns.
+ I
+ don't
+ think
+
+
+coding
+ agents
+ will
+ be
+ that
+ much
+ better.
+
+
+The
+ user
+ experience
+ will
+ probably
+
+
+improve.
+ uh
+ but
+ um
+ you
+ see
+ it
+ that
+ um
+
+
+all
+ these
+ models
+ get
+ almost
+ equally
+ good
+
+
+like
+ if
+ I
+ use
+ um
+ I
+ had
+ my
+ u
+ config
+ like
+
+
+uh
+ GLM
+ 4.7
+ setup
+ and
+ I
+ used
+ it
+ and
+ I
+
+
+thought
+ I
+ was
+ using
+ Opus
+ 4.5
+ and
+ then
+
+
+later
+ realized
+ oh
+ wait
+ I
+ use
+ a
+ different
+
+
+model
+ because
+ they
+ keep
+ quite
+ similar
+
+
+and
+ so
+ I
+ think
+ we
+ see
+ less
+ progress
+
+
+there
+ where
+ I
+ think
+ we
+ see
+ more
+ progress
+
+
+is
+ um
+ actually
+ the
+ small
+ models
+ if
+ you
+
+
+train
+ smaller
+ models
+ on
+ more
+ specialized
+
+
+data,
+ they
+ can
+ do
+ quite
+ well.
+ And
+ the
+
+
+smaller
+ models
+ you
+ get,
+ they're
+ pretty
+
+
+powerful.
+ A
+ 100
+ billion
+ parameter
+
+
+models,
+ you
+ can
+ fit
+ it
+ pretty
+ well.
+ Even
+
+
+sort
+ of
+ low-grade
+ data
+ center
+ GPU
+ like
+
+
+an
+ RTX
+ 6,000
+ cost
+ $6,000.
+ I
+ think
+ for
+ a
+
+
+lot
+ of
+ companies,
+ it
+ will
+ be
+ very
+
+
+interesting.
+ They
+ don't
+ need
+ to
+ rely
+ on
+
+
+the
+ frontier
+ models.
+ The
+ small
+ models
+
+
+might
+ even
+ be
+ better
+ because
+ of
+
+
+specialized.
+ big
+ problem
+ and
+ like
+ uh
+
+
+Anthropic
+ CEO
+ pointed
+ it
+ out
+ you
+ have
+
+
+these
+ powerful
+ open
+ rate
+ models
+ but
+
+
+nobody
+ uses
+ them
+ because
+ the
+ deployment
+
+
+is
+ so
+ complex
+ and
+ that
+ is
+ because
+ once
+
+
+you
+ go
+ beyond
+ 8
+ GPUs
+ that
+ you
+ first
+ need
+
+
+the
+ users
+ to
+ make
+ it
+ efficient
+ but
+ then
+
+
+also
+ very
+ complicated
+ in
+ systems
+ there's
+
+
+no
+ open
+ source
+ system
+ that
+ can
+ do
+ that
+
+
+at
+ the
+ moment
+ you
+ need
+ disagregated
+
+
+infrance
+ separation
+ across
+ sequence
+
+
+lengths
+ and
+ so
+ forth
+ perhaps
+ um
+ we
+ can
+
+
+build
+ this
+ we
+ can
+ build
+ this
+ also
+ for
+ an
+
+
+HGPU
+ machine
+ for
+ smaller
+ models
+ and
+ then
+
+
+the
+ efficiency
+ that
+ you
+ see
+ with
+ a
+ 100
+
+
+billion
+ model
+ will
+ rival
+ what
+ frontier
+
+
+models
+ have.
+ So
+ you
+ will
+ get
+ the
+
+
+efficiency
+ of
+ small
+ models.
+ You
+ get
+ the
+
+
+flexibility
+ of
+ small
+ models.
+ Performance
+
+
+on
+ the
+ frontier
+ will
+ stagnate
+ but
+ on
+ the
+
+
+smaller
+ level
+ we
+ get
+ more
+ more
+ powerful
+
+
+models
+ still
+ because
+ you
+ can
+ distill
+
+
+from
+ these
+ large
+ models
+ into
+ these
+ small
+
+
+models
+ and
+ taken
+ together.
+ I
+ think
+ that
+
+
+will
+ change
+ things.
+
+
+>> I'm
+ also
+ you
+ know
+ really
+ excited
+ about
+
+
+small
+ models.
+ I
+ think
+ uh
+ we're
+ going
+ to
+
+
+see
+ a
+ lot
+ more
+ capability
+ out
+ of
+ them.
+
+
+Um
+ I'll
+ be
+ watching
+ the
+ open
+ source
+ uh
+
+
+models
+ pretty
+ closely.
+ I
+ think
+ uh
+ you
+
+
+know
+ with
+ things
+ like
+ JM
+ 4.7,
+ you're
+
+
+starting
+ to
+ see
+ it.
+ You're
+ starting
+ to
+
+
+see
+ the
+ open
+ source
+ models
+ rival
+ some
+ of
+
+
+um
+ at
+ least
+ our
+ current
+ best
+ Frontier
+
+
+models.
+ Uh
+ I
+ think
+ we're
+ going
+ to
+ see
+
+
+another
+ big
+ jump
+ in
+ open
+ source
+
+
+capabilities
+ this
+ year.
+ Um
+ I'm
+ really
+
+
+excited
+ to
+ see
+ new
+ hardware.
+ So
+ we're
+
+
+starting
+ to
+ hear
+ a
+ little
+ bit
+ about
+
+
+Reuben,
+ uh
+ the
+ next
+ generation
+ of
+ Nvidia
+
+
+uh
+ GPUs.
+ I
+ think
+ we're
+ starting
+ to
+ hear
+
+
+a
+ bit
+ about
+ the
+ AMD
+ 400
+ series
+ of
+ GPUs.
+
+
+Um
+ really
+ excited
+ to
+ see
+ kind
+ of
+ what
+
+
+that
+ next
+ jump
+ in
+ hardware
+ capabilities
+
+
+is
+ even
+ as
+ we
+ haven't
+ fully
+ kind
+ of
+ used
+
+
+even
+ the
+ current
+ generation
+ of
+ hardware.
+
+
+I'm
+ excited
+ to
+ see
+ what
+ people
+ do
+ kind
+
+
+of
+ with
+ all
+ the
+ other
+ modalities.
+ I
+
+
+think
+ last
+ year
+ video
+ generation
+ models
+
+
+had
+ a
+ little
+ bit
+ of
+ a
+ moment
+ with
+ Sora
+ 2
+
+
+with
+ with
+ Gemini
+ um
+ and
+ and
+ VO
+ I
+ think
+
+
+they
+ called
+ it.
+ Really
+ excited
+ to
+ see
+
+
+what
+ what
+ they
+ can
+ do.
+ Um,
+ and
+ yeah,
+
+
+really
+ excited
+ to
+ just
+ just
+ see,
+ you
+
+
+know,
+ what
+ is
+ that
+ frontier
+ of
+ of
+
+
+intelligence
+ that
+ you
+ can
+ get
+ on
+ your
+
+
+laptop
+ or
+ on
+ your
+ phone
+ and
+ how
+ fast
+ can
+
+
+you
+ push
+ it?
+ How
+ how
+ far
+ can
+ you
+ push
+
+
+it?
+ I
+ think
+ it's
+ never
+ been
+ a
+ more
+
+
+exciting
+ time
+ to
+ work
+ in
+ AI.
+
+
+>> You
+ both
+ mentioned
+ state
+ space
+
+
+architectures
+ earlier
+ in
+ the
+
+
+conversation.
+ Do
+ you
+ think
+ that's
+ part
+
+
+of
+ the
+ near
+ future
+ that
+ we
+ sort
+ of
+
+
+evolve
+ to
+ post
+ transformer
+ architectures
+
+
+whether
+ state
+ space
+ ja
+ world
+ models
+
+
+whatever
+ direction
+ is
+ that
+ something
+
+
+that
+ you
+ see
+ in
+ the
+ near-term
+ horizon
+
+
+and
+ that
+ you
+ think
+ is
+ uh
+ desirable?
+
+
+>> I
+ think
+ uh
+ in
+ a
+ lot
+ of
+ places
+ they're
+
+
+they're
+ already
+ there.
+ So
+ some
+ of
+ the
+
+
+best
+ audio
+ models
+ in
+ the
+ world
+ are
+ at
+
+
+least
+ partially
+ based
+ on
+ state
+ space
+
+
+models.
+ I
+ think
+ Nvidia
+ released
+ a
+ bunch
+
+
+of
+ really
+ great
+ hybrid
+ models
+ recently.
+
+
+I
+ think
+ uh
+ Neotron
+ is
+ is
+ what
+ they
+
+
+called
+ them.
+ And
+ so
+ there
+ there's
+ a
+ lot
+
+
+of
+ really
+ great
+ um
+ work
+ kind
+ of
+ there
+
+
+already.
+ Um
+ I
+ think
+ we
+ will
+ see
+ the
+
+
+architectures
+ continue
+ to
+ evolve.
+ So
+ um
+
+
+in
+ some
+ sense
+ the
+ deepseek
+ MLA
+
+
+compression
+ takes
+ some
+ of
+ those
+ ideas.
+
+
+Uh
+ one
+ of
+ the
+ miniax
+ models
+ had
+ sort
+ of
+
+
+a
+ linear
+ attention
+ idea.
+ So
+ I
+ think
+
+
+you're
+ going
+ to
+ see
+ a
+ lot
+ more
+ diversity
+
+
+in
+ architectures.
+ You're
+ kind
+ of
+ already
+
+
+seeing
+ it.
+ Um
+ but
+ certainly
+ certainly
+ I
+
+
+think
+ out
+ of
+ the
+ Chinese
+ labs
+ where
+ um
+
+
+there
+ isn't
+ really
+ an
+ open
+ AI
+ of
+ China
+
+
+right
+ so
+ there
+ there
+ isn't
+ like
+ an
+ open
+
+
+AI
+ orthropic
+ or
+ or
+ or
+ a
+ Google
+ gem
+ right
+
+
+that
+ kind
+ of
+ brings
+ all
+ these
+ you
+ know
+
+
+these
+ um
+ centers
+ of
+ like
+ product
+ and
+
+
+model
+ and
+ revenue
+ and
+ all
+ those
+
+
+together.
+ So
+ um
+ I
+ think
+ you
+ see
+ a
+ lot
+
+
+more
+ risk
+ takingaking
+ out
+ of
+ the
+ Chinese
+
+
+labs
+ where
+ you're
+ trying
+ to
+
+
+differentiate
+ the
+ next
+ model
+ your
+ next
+
+
+open
+ source
+ model.
+ One
+ way
+ to
+ do
+ that
+ is
+
+
+architecture.
+ Um
+ another
+ way
+ to
+ do
+ that
+
+
+of
+ course
+ is
+ just
+ pure
+ quality.
+ So
+ I
+
+
+think
+ we're
+ we're
+ going
+ to
+ see
+ a
+ lot
+
+
+more
+ explosion
+ of
+ of
+ different
+
+
+architectures.
+
+
+>> All
+ right.
+ Well,
+ this
+ has
+ been
+ a
+
+
+fascinating
+ conversation.
+ Really
+
+
+appreciate
+ the
+ time
+ and
+ insight
+ and
+
+
+thoughts.
+ Thank
+ you
+ so
+ much.
+ Really
+
+
+appreciate
+ it.
+
+
+>> Yeah,
+ thank
+ you
+ so
+ much,
+ Matt.
+
+
+>> Thanks
+ so
+ much
+ for
+ having
+ us.
+ Great
+ to
+
+
+see
+ you,
+ Tim.
+ This
+ was
+ a
+ lot
+ of
+ fun.
+
+
+>> Hi,
+ it's
+ Matt
+ Turk
+ again.
+ Thanks
+ for
+
+
+listening
+ to
+ this
+ episode
+ of
+ the
+ Mad
+
+
+Podcast.
+ If
+ you
+ enjoyed
+ it,
+ we'd
+ be
+ very
+
+
+grateful
+ if
+ you
+ would
+ consider
+
+
+subscribing
+ if
+ you
+ haven't
+ already,
+ or
+
+
+leaving
+ a
+ positive
+ review
+ or
+ comment
+ on
+
+
+whichever
+ platform
+ you're
+ watching
+ this
+
+
+or
+ listening
+ to
+ this
+ episode
+ from.
+ This
+
+
+really
+ helps
+ us
+ build
+ a
+ podcast
+ and
+ get
+
+
+great
+ guests.
+ Thanks,
+ and
+ see
+ you
+ at
+ the
+
+
+next
+ episode.
