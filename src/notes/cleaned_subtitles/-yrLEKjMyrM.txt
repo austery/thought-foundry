@@ -1,0 +1,562 @@
+This guy is literally gonna hover over us. This pilot hates podcasting. What a prick.
+>> The besties are broadcasting from the USA House at the World Economic Forum. Our episode is sponsored by the New York Stock Exchange. Are you looking to change the world and raise capital? Do it at the NYSC. The NYSE is a modern marketplace and a massive platform built for scale and long-term impact. So, if you're building for the future, the NYSC is where it happens.
+>> I'm Jason Calakanis. This is the All-In interview show. Uh, last minute we got added to the roster here at the World Economic Forum, and we had time to do a halfozen interviews and, uh, Brian was here, and uh, this is your Brian Armstrong from Coinbase, of course, and friend of the pod. This is probably your fourth or fifth appearance on the pod. You come to Davos because this actually isn't for you about networking. This is about serious regulations on a global basis. Yeah.
+>> Well, that's been the focus of this attendance at Davos is we are trying to get market structure legislation done for crypto. But actually there I mean there is a lot of networking that happens here. We've done a lot of commercial meetings. You know five of the top 20 global banks are now using Coinbase to build their crypto infrastructure into their products. uh we meet with heads of leaders of different countries and talk to them about economic freedom and how crypto can update their financial system. So there's all kinds of good meetings.
+>> So uh you had embedded in there these partnerships with banks. Uh is that like a white label type thing so they can sell crypto to their customers? Is it disclosed which banks are doing that and how that works?
+>> Um a couple of them are public. Uh we've talked about integration with JP Morgan, PNC Bank. Um, you know, there's a couple others that are not public yet, but five of the top 20 gibs are now using Coinbase for that. And then we're also powering integrations with like Black Rockck and, you know, they they've said they want to tokenize every single one of their funds. And so, a lot of these financial institutions are coming on chain, which is great.
+>> And this is quite I mean, I was thinking on the way over here how you've really struggled to work with regulators over the last decade. I remember under the Biden administration, the 46th administration, you went to DC and were like, "I'm here. I would love to talk to you." And they were like, "Yeah, we don't want to talk to you."
+>> Now, some people might have varying uh feelings about Donald J. Trump, our our 47th president. But one thing he has nailed is interfacing with the business community and taking regulation and creating a legal path for crypto specifically very seriously. What's the how's the last year? How have the how have things changed for you in the last year?
+>> Yeah. Well, I know you like to call balls and strikes and I think just looking at it objectively, you know, the Biden administration really tried to unlawfully kill this industry in America from my point of view. And Donald J. Trump, you got to give him credit. I mean, he campaigned on this idea of making the United States the crypto capital of the world. He's kept his promises. He's leaned in and tried to get clear rules and regulations passed so that uh American companies can thrive, American consumers can earn more money on their money. Um and he understands also it's an important political issue. There's a huge base of there's like 52 million Americans who've used crypto now,
+>> right?
+>> And they want to see clear rules. They want to see this, you know, get better financial services in the United States. It's also, frankly, a global competitiveness issue, right? I mean, China just announced that they're going to pay interest on their central bank digital currency. Some of the largest stable coin issuers are still offshore. He wants to repatriate that capital and bring it into the US.
+>> This is the crazy thing we went through. I was never a fan calling balls and strikes of people doing things that weren't buttoned up.
+>> Mhm.
+>> But I was even less of a fan of the prior administration just not meeting and saying, "Hey, this is uniquely different. let's figure out a way to give you a path to do it properly. And so,
+>> you know, in our industry, sometimes you have to reinterpret rules. Airbnb uh Uber the biggest success of my investment career like they bent rules too. Crypto bent some rules. Um some cases people broke them uh and uh they paid the price. But here we are now the rule set is being refined. The most important one I think for you is stable coins and your competition with the bank. You have banks as partners, but you're also a competitor to them. Yeah.
+>> Well, I I'd say it's mostly collaborative. I'd say the of the bank CEOs that I've met with here, I most of them are actually very into crypto. They're they're starting to integrate it. You know, I met with one of the top 10 global banks in the world yesterday and the CEO told me, "Crypto is is my number one priority. We view that this is existential. We're all in. We're going to put all
+>> Why is it existential for them? What do you think?" they're seeing it's like it's like when the internet came around um you know and you had Amazon competing with Barnes & Noble or you had blogs competing with not New York Times like in print, right? Yes.
+>> And so anytime there's always change happening in the world and you can think of it as an opportunity or you can think of it as a threat and bury your head in the sand and pretend it's not happening. But the reality is that uh crypto is massive like something like 500 million people have used it globally. You know Bitcoin was the best performing asset class of the last decade. um the largest financial institutions of the world are now integrating this. And so at this point, I don't I think it's foolish to pretend that this isn't happening. And we also, by the way, have the Genius Act, the stablecoin bill is now passed into law. So we're not going to undo that. That is that is law of the land. Like Congress just put that into law.
+>> And it's very important because um what uh David Saxs uh my my bestie um I think led there was these have to be audited. These have to be above board. We can't have a run on stable coins, which let's face it, people anticipated Tether would have at some point. There were lots of fines they got. There was these attestations people didn't know if they even had the resources they had. And now it's pretty clear you have to keep your assets in treasuries. Correct. That's correct. Under the Genius Act that got passed into law last year, US regulated stable coins have to have 100% of the assets stored in short-term US treasuries. So I something like 30 days. 30-day treasuries are the max I believe. So um that's pretty much the safest thing you can get. You know, you're basically trusting the United States government is not going to fail in 30 days, which I think is a pretty safe bet.
+>> I'm going to go safe bet.
+>> Yeah. And um you know, I've been making this point as well that um you know, banks do something called fractional reserve lending. They actually don't store all your money there. They're lending it out. That's why they have such high regulatory overhead because there can be a run on the bank and it gives them a very unique business model. Um they can basically lend it out. You know the the old joke is like you lend it out at 6% um you pay three and you're on the you know the tea time by 3:00 or whatever. But um that business model is not available to you unless you have a business a bank license. But in a stable coin world with 100% reserves, you don't need a bank license for that and and you can give people
+>> because it's safer,
+>> right? And we saw this Silicon Valley Bank essentially
+>> had mistimed their allocations with um
+>> uh treasuries, I guess. And what happened? They had a run on the bank. Literally, I was in a board meeting and in the board meeting on I think it was like a Thursday and the run happened Thursday afternoon.
+>> I get a text like get your money out of Silicon Valley Bank. I'm in the board meeting. We're having it's on the docket like the third thing is to talk about Silicon Valley Bank and we're have 100% of our money in there. Two of the board members are like we can't just take all the money out of Silicon Valley. They've been incredible partners for 30 years. I said how about we take out half so we can make payroll. I insisted.
+>> Yeah.
+>> Literally that night, boom. Uh and so the key issue now is your business model. You you need to have revenue and the revenue from these stable coins is paying some interest and the people who are putting their money in there being able to make some interest on their hard-earned capital. Yeah, that's the sticking point for you.
+>> Yeah. And it's not interest, it's a rewards program. This was carefully negotiated in the Genius Act.
+>> And yes, that's that's our view. I mean, look, in my opinion, it's actually
+>> What's the difference there? What what the reward program, we should think of it like American Express points.
+>> Yeah. I mean, there's lots credit card reward programs, but the difference legally is that rewards can't be based solely on the balance you're holding. The customer has to do some sort of other activity like payments or trading or they have a subscription to Coinbase 1. So, when customers do that, we actually pass along about 100% of the economics to them uh for holding those stable coins with us. And that's a big driver of growth. Now, you know, there's always been um this balance between do people want to put their money in money markets or do they want to put it as bank deposits. Um I think that that is not this crypto is not really new in that dimension. Like it's just another flavor of this happening. And um there's been a lot of hand ringing about, you know, this is going to destroy all the lending market. And like I don't think that's true. Like money markets are already trillions of dollars and there's high depos high yield checking accounts. But these banks haven't had to deal with a disruptive competitor, a technology competitor who's really good at what they're doing. So, they're a little bit nervous about their franchise. Yeah.
+>> Is my interpretation. Am I correct?
+>> Some of again, some of them are nervous, some of them are leaning into it as an opportunity. I think the latter we want everyone to win here. I think that's what um you know, I don't speak for the president, but like my interpretation of his comments is that he wants all American businesses to win. There there is a win-win outcome here. Um, but if someone, you know, is going to try to undermine his legislation that just got passed in Genius, he'd probably
+>> Is that what's happening now? The banks are trying to retrade the deal.
+>> I, you know, I don't want to like I mean, be careful here. I There's the bank trade groups which I believe um are trying to undo the Genius Act. It just got passed into law 4 months ago. And for us, that's a red line. I've talked to many others in the industry that for them that's a red line. I think we have to accept that that's law and that's going to continue to exist. But that doesn't mean banks and crypto companies can both win in this new world.
+>> Yeah. So this is just a classic tale of uh incumbents.
+>> Yeah. Incumbents and and new folks and you want to partner with them. You want to enable it? You have a good partnership with Jeremy Lair, old friend of mine at Circle. Are they like the default stable coin in Coinbase or how do you think about the relationship with them? How should we think about the relationship with them? Yes, we've got a strong relationship with Circle and USDC is the largest regulated stable coin because it is compliant under Genius in the US. They're compliant under Mika in Europe, etc., etc. Um, you know, there's another one that you're familiar with which is still,
+>> but I think it's in the process of being
+>> they're trying to clean it up is my understanding.
+>> Yeah.
+>> So that they can participate. The likely scenario is there'll be two tethers, a United States one and then that complies and then there'll be the Wild West one outside the US. Is that what you've heard as well?
+>> Yeah.
+>> Yeah.
+>> Yeah. And I should mention um we don't have like an exclusive with Circle or anything like that. We we actually list other stable coins on our platform.
+>> Do you list Tether?
+>> We support it in certain ways. Um you know, especially people who want to convert Tether, but we we support it. We also support PayPal stable coin. We're open to listing others, too. So, we we don't have an exclusive on USDC.
+>> Yeah. But you're not endorsing it. And do you let people trade into Tether or just let them trade out of Tether? Like, how does it work mechanically?
+>> I think it's different in different countries. I want to make sure I get it exactly right. But in countries where we're allowed to do it, I mean, we support Tether,
+>> right?
+>> It's it's nuanced.
+>> Are you concerned about or have you been historically concerned about Tether and like their little bit of a loosey goosey approach to regulations and trading? I'm giving it that descriptor, not you. But I I would think having it on your platform with regulators pretty focused on it over the last 5 or 10 years and this, you know, belief that this thing could all come apart and create a run that to you is just not worth the risk to to be too close to it in case it does flip over. Yeah.
+>> Yeah. We we've definitely gotten questions on it. And look, I I want to be careful here. I actually like the Tether guys. I think they've done a lot of good things in the world. There's people who really are they're struggling with local currencies that are have like 70 100% inflation year-over-year. And so there was high demand for the dollar. They got great distribution in a lot of the emerging markets. I actually think they've done a lot of good for the world. Um but yeah, it's not currently compliant under the Genius Act in the US. And so it doesn't follow those same 100% reserves and short-term US treasuries is my understanding. So people have to make their own determination on that. And I think other countries are following suit in terms of cleaning this up. Is there in crypto now a way to give a rating that is sort of objective for consumers to say like this one has this grade?
+>> Mhm.
+>> And follows these regulations. Hey, this one is follows this level. It's a lower grade and this one doesn't follow and it's you know it's a memecoin. Whatever. This is the wild west. Like no crying in the casino coins. like what what is your responsibility as a platform or opportunity as a platform to like inform the people who are participating?
+>> Yeah. So what we try to do is have minimum listing standards. Um so if we believe that there's a cyber security risk to it um the developer could you know rug everyone or if if it's really it's illegal from a compliance point of view. You know there's a few different areas we look at. So if it meets the minimum bar, we will list it and then we let customers decide it. I don't feel like it's our job to be recommending investments, you know, like in the traditional financial world, there's like these AAA rated bonds and you know, and I it always felt a little bit like those organizations that do the ratings are kind of always be politicized and like
+>> go see the big short.
+>> Yeah, exactly. So I don't it's I think of it a little bit like um the app stores, right? I mean you or the or let's say Amazon. I mean, you want to have the everything exchange. You want to have the everything store. You know, everything that's legal should be in the store, but um maybe there's customer reviews we we could add at some point. We actually tried that for a little bit. Like if you see a two out of five star thing on Amazon, you can still buy it, but it's kind of at least you're informed. We we tried making user ratings at one point. It didn't go that well cuz people were basically voting with their whatever they like, you know.
+>> Sure. They're talking their book.
+>> Yeah. Talking their book. So, um, anyway, we we right now we're in the regime of just disclosures and minimum listing standards.
+>> Yeah. Which crypto projects do you find the most fascinating right now? The Bit Tensor one, some of these ones that are popping up that are actually providing technological solutions to problems, distributed computing, etc. You I find those fascinating.
+>> They are. I mean, people are trying to tokenize data centers and like oil reserves. I think I think the biggest trends happening in crypto right now is number one it's the everything exchange. So it's not just crypto you can trade um you're getting equities you know are increasingly getting closer to being able to trade uh onchain you know um prediction markets are
+>> you have a partner for that right?
+>> Yeah we're working with KI currently
+>> is that exclusive or are you willing to put anybody up on the thing?
+>> It's not exclusive so we're looking at others as well I know you guys work with Poly Market or whatever on the show. I mean, I'm a I was one of the original angel investors in uh Robin Hood and I think they're doing Kelsey, too. It seems like people are plugging different ones in. Poly Market's our favorite. Yeah.
+>> Yeah. We So, we're talking to Poly Market, but you know, we can also list our own um prediction markets.
+>> Oh, yeah. So, you could fire up your own.
+>> Yeah. So, anyway, we're along I think that Yeah, the biggest trends are all assets are coming on chain for trading. Um prediction markets are growing like crazy and stable coin payments are growing like crazy. Those are the probably the three biggest trends in crypto right now. When do you think stable coins tip into the area of businesses two-part question businesses using it for payments? You know, maybe
+>> uh to reduce friction. You know, some designer does some work for Coinbase and makes sure a new logo and you want to send them $25,000. It goes through a stable coin. When does that start to happen? And then for consumers, when do people at a poker game start settling up with, you know, through their Coinbase account with a stable coin? Yeah. So the biggest growth area over the last year has been B2B crossber payments and crossboarder.
+>> Yeah. Cross border especially because there's a lot of these companies you know they might be buying goods from Asia or Europe trying to sell it in their shop in Brazil or whatever it is and they have to wait 7 days and there's high FX fees and all this kind of stuff to move
+>> crazy the fees.
+>> Yeah. Uh so that's been growing really nicely. You know we we launched a product called Coinbase Business which is serving lots of small and mediumsized companies who want to do crossber payments and invoicing and tax and accounting and all that. How do you find those customers? You I mean that that's like a real unique group of people or do they just find you?
+>> Currently they're beating a path to our door. We we actually have a huge backlog we need to people waiting to onboard. So we need to staff up that team.
+>> Um we also launched something called Coinbase developer platform uh which provides it's kind of like AWS if you want. So that's like you can white label anything like with the banks but lots of other businesses are using that for wallets, trading, payments, staking, financing, all kinds of things. You mentioned uh tokenization. I was talking with Vlad. He did a little experiment. Hey, why don't I tokenize some OpenAI shares? Sam wasn't Sam Wman wasn't too thrilled with that. How do you think about that opportunity? I'm a private market investor. I would love to be able to take my early position in Robin Hood or my early position in Uber as it was going up and put it into a market and let people trade it. that would be very interesting uh to for VCs for you know angel investors to be able to move that around. How do you think about it?
+>> Well, I think it has to be done with the permission of the companies cuz you know if you're if you're a private company you don't want your employees to be able to get liquid after one year. you're trying, you know, that's why you have vesting. That's why it's it's a retention mechanism, right? Let's all build this together and like maybe when we go public because there are stories of founders who like took a little secondary too early, then the company didn't didn't work out and it's, you know, bad off.
+>> So, I think what's going to happen in in crypto is that um in the private markets like first of all, we should make onchain capital formation way easier for private companies. So, if you want to go um this is this is what we're chatting with the SEC about and others is like, you know, can you go register a security? Um right now you'd only be able to raise money from credit investors in the US. I know you you and I agree on this like we'd like to expand how you can become an accredited investor.
+>> And there is a bill right now that's working its way and it would basically mean the SEC and and they've already been charged with this, but they they I don't know if you've uh studied the SEC at all. They tend to take their time and then not do what they've been told to do. Uh, and that was one of the things they were supposed to do is create an accreditation test.
+>> Uh, well, this I say this SEC is actually moving very quickly. But this one is Yes.
+>> Yeah. Um, but yeah, I think that would be a more fair way because otherwise it's kind of like a regressive tax like only rich people can get richer on private investments. But um, anyway, I think onchain capital formation is going to be massive for private companies. I think eventually like you'll actually just be able to go public totally onchain too. And um yeah, these markets are just going to get
+>> would lower the cost massively, reduce the friction and increase the democratization of wealth creation.
+>> Yeah.
+>> If you think about when you were a private company.
+>> Mhm.
+>> Like you had all this pent-up demand, people trying to buy the shares like crazy. They were all doing backdoor kind of shady stuff, popping up SPVS. I don't know if you've been following the SPV market now, but there's like it's turned into a boiler room. It's no longer Chris Saka
+>> representing Twitter and you know doing an orderly thing or
+>> Elon doing every six months an orderly thing where SpaceX keeps control of it. Now people are going out raising money from dentists and civilians high net worth individuals to buy SpaceX or Andrea or whatever it is and then they go try to find the shares and they charge them 10% loadin fee no carry.
+>> Mhm.
+>> I mean think about how crazy that is.
+>> Yeah. there's such high demand for some of these large private companies and
+>> you know it's kind of a good example of like the unintended consequences of higher regulation sometimes.
+>> Yeah.
+>> Like um you know Sarbain Oxley and all that kind of stuff really cut down the number of how how long companies stayed private before they went public and then yeah I mean Uber and Airbnb and a lot of these things like they all the money was made by private investor or credit investors like you know yourself and then when they went finally went public it kind of went sideways.
+>> Oh yeah. Airbnb, Uber, they all had like a 5-year uh indigestion period, I would say, you know, and it it and some people, I think Instacart wound up going from 30 billion down to 10 billion when they went public and it was like, okay, we got to dig out of a hole the last series of investors. And that is the unintended consequence of this because you don't have anybody setting a proper valuation for the company in some reasonable way. What about funds? You know, I get approached by a lot of people offshore, etc., hey, take your next seed fund. You're going to do a $50 million fund. to put it on the chain. And then, hey, if you were one of my LPs and you were like, "Oh, I need liquidity. I could just sell it to somebody else or if I was an LP in a Sequoia fund and I wanted to sell you the interest, you could buy it for me and we could just
+>> take our wallets out and zip zip."
+>> Yeah, I think that's that's absolutely going to happen. I mean, Coinbase launched a product actually called Coinbase tokenize. So, we're helping any fund or real estate project or anybody who wants to tokenize their products and it just democratizes access. It increases demand. It gets rid of a lot of the back back office fees, gets rid of the settlement risk because it can be settled instantly on chain and there's some very innovative company. I mean like Black Rockck, Apollo, like these the top funds in the world are putting they they've come out publicly and said they want to tokenize every single one of their products. It's it's absolutely happening.
+>> How do they keep control of it? Because you have this more liquid back to consequences or this would be downstream effects, second order effects, third order effects. What are the third second and third order effects that would happen if a venture fund or a REIT were onchain?
+>> Have you thought that through?
+>> Have you thought it through? Yeah.
+>> Yeah. I mean there so there's different types of funds. Um some are going to be only available to institutions accredited. Some would be open to retail and so um for the retail side I mean you could actually get I don't know like tens of millions of people around the world in five minutes to all put in in the average price might be $100 or $1,000, right? So it starts to really democratize access. I mean, we actually just published this um this report recently and people have heard about the unbanked, but there's actually 4 billion adults who are unbrokered as well, which means they don't have any ability to invest in these highquality assets. So, it's like this is the engine of wealth creation for capitalists, you know, like you and I. A lot of people are just stuck. The only way they can earn is from their labor, right? and they they want to probably put like even if they're they have $100 or $1,000, they might want to put 10% of that into the S&P 500 or Coinbase stock or whatever, Nvidia, whatever. And they can't do that because
+>> but they can use prize picks. They could use some other thing. No, and I like prize picks. I use prize picks to bet on Nick's parlays. Uh but they they wind up putting it somewhere else and why not being able to, you know, if they want to bet on the Knicks, that's fine. But or go to Vegas, that's fine, too, and play in a poker tournament. Yeah, maybe they hear about this company LinkedIn because they work in the HR department. Yeah. And everybody in the HR department's over the moon about it. That rank and file 75K person working in HR, they understand what the next big product will be. They'll know Indeed or LinkedIn's going to work and they can make a life-changing bet with just $1,000. They make it a,000x return.
+>> Yeah. Yeah. I mean, there's a financial literacy component to this as well. And I think actually the AI agents are now getting really good. that we've integrated one into Coinbase app. It can kind of teach people about dollar cost averaging and you know tax loss harvesting. So there's a the financial educa literacy is is a part of it but then yeah let's make high quality investments available to them and democra it's just like lifting people out of poverty. It's great. I mean you're thinking about the whole globe but just thinking in the United States a lot of what people are upset about and the topic we've been talking about a lot um is the rise of socialism in
+>> um New York specifically California. I'm not sure if you're still a resident. I won't put you on the spot here, but
+>> considering options
+>> considering I mean
+>> as we all are.
+>> I two years ago I moved to three years ago I moved to Austin. I was like I'm done. I just the social issues and you know I saw the writing on the wall. I mean I actually think there's a chance
+>> that the that California goes bankrupt and I said that on the podcast like this feels like it's trending towards insolveny. I never thought they would get to the wealth tax or just seizing people's assets.
+>> Yeah.
+>> What's your take on all that? Some I was reading something this morning which said that actually just the people who have already left which is probably like
+>> my my estimates would probably be 20% of the billionaires have already left in California
+>> that it's already created a negative 10 billion tax hole even if even with the amount that they hope to raise from the people who stay.
+>> Yeah.
+>> So it's one of the biggest cell phones I've ever seen. Um it's a disaster and I uh you know I'm torn actually because part there's always kind of this question of voice or exit right like voice do you try to fix it from within exit do you leave like you did
+>> and I think um
+>> the incentives are strange because on the one hand like I love California um but on the other hand it's been kind of um it's like an abusive relationship you know it just keeps coming back with another thing and another thing
+>> and in some ways like if you do make the decision to leave um you don't have really much incentive to try to fix it at that point you actually want to get a lot of the the builders and the top talent out of California at that point and just all resettle in a new place that is welcoming to us and businesses.
+>> Yeah. I don't think people understand how easy it is for somebody who's in a certain strata to is already operating globally. I'm on planes and on four different continents every year, you know, like I it doesn't matter where I am. It matters my wife and my kids are happy and they love the place we live and we love Austin. And then the thing I've seen you the probably one of the hardest thing you had to deal with with your employees and your team at Coinbase is the price of their housing.
+>> Like how many times did you try to recruit somebody to come to California
+>> and it's like a family of, you know, four and they need private school, they need a house and you're like, "Oh my god, what is their nut going to be here?"
+>> Yeah. My their nut. I love that. There's a great South Park episode on that. But um yeah, I mean I you're right. That's a major barrier whenever we make an offer to somebody um in California, you know, or for New Limit the Biotech, like that's always like, well, my cost of living is going to double like you need to pay me more. So, it's getting expensing through to you, the business owner.
+>> Yeah, it does. I mean, San Francisco had this um kind of like revenue based tax that was very punitive on um financial services companies. Stripe Stripe moved out when that happened.
+>> I think Mark Benoff regrets supporting that one.
+>> Yeah, I think so.
+>> Yeah. But in fairness, he did want to finance the homeless industrial complex, which has been completely ineffective in reducing the number of homeless individuals because
+>> they're not homeless. They're addicted to drugs.
+>> A home doesn't help that problem.
+>> Exactly. I mean, I I'm I'm preaching to the choir here, but yeah, I think people would have a lot more tolerance to pay higher taxes if they felt like it was working. But the history of the last 10 years in California is that the budget has gone up dramatically and the services have gotten worse. It's like it's actually creating the wrong incentives. Like the more ser the more money we spend on homelessness, the more homeless people are. So, you know, and then the waste and fraud. Oh my gosh. Like you guys Nick Shirley and all that. I think
+>> what do you what I mean what could we even guess is the level of abuse in California? It's going to it's going to make Minnesota look
+>> like peanuts. Such a big economy with so many NOS's and so many homeless organizations taking down hundreds of millions of dollars in San Francisco alone.
+>> Yeah.
+>> Um so tell everybody about the the side hustle your your other company. Yeah. That you
+>> Oh, the biotech.
+>> Yeah.
+>> Yeah. Well, when Coinbase went public in um 2021, you know, I got some liquidity from that and I just I thought it through and I was like, "All right, I want to be CEO of continue to be CEO of Coinbase. Being a public company CEO is a really cool thing. I just feel like we're at the beginning of our journey."
+>> Um but I also felt like I wanted to start to use some of that capital to go after these like big bets, right? I was kind of a little inspired by Elon actually. I think, you know, he did the thing with um PayPal and X and um and then, you know, he went into these like the world of atoms, not bits, right? It's actually like in software is more forgiving. Startups are all hard, but software is a little more forgiving because you have higher margins. The world of atoms is much less forgiving. So anyway, I was lucky enough to meet um some really amazing co-founders um that came together with this idea in the longevity space and it's called, you know, there's the fundamental science behind it is called epigenetic reprogramming. It's sort of you can reprogram your cells to restore function they had when they were younger. There was some really cool research being done. I hosted a couple dinners. Anyway, I decided to uh fund these guys and a bunch of other people have invested now and uh I'm a board member. I've been helping them in in small
+>> and the name of it is
+>> New Limit. Yes,
+>> New Limits.
+>> So, they've been incredible progress. It's
+>> when will they have a product? This feels like a 20-year investment, not a two or five.
+>> Yeah. Well, biotech does move more slowly, but um it's moved faster than I would have thought. I thought this was going to be like five years of just basic research. M um but it turned out actually within the first uh 2 or 3 years they were able to successfully demonstrate reprogramming of human cells to restore function they had when they were younger and the first drug candidate is probably going to go into clinical trials next year. So
+>> amazing.
+>> Yeah,
+>> that's super rewarding. Five minutes. Yeah. Okay, great. Um so coming out of Davos, uh what's your take on the state of the world? Everybody when they get here seems to uh it seems like the ESG DEI kumbaya stuff
+>> has switched in the last year or two to you know brass tax deal making whether it's between countries um and businesses like this is turning into a business conference that used to be this is what everybody's telling me on the streets in in the you know in the houses
+>> um it's it's about business now and on the margins there's a patina of you know globalization versus nationalism. What's your take on the state of the world in 2026 talking to regulators, talking to, you know, people who work in government?
+>> Mhm.
+>> I think you're right. I mean, I've only been at Davos once before, but it did feel more um, you know, how do we make a global government? How do we do lots of ESG and DEI? And that's really not what anyone's talking about now. I think partially it's because of Larry Fing coming in, the new leader defect, you know, more or less. And um I also think it's because of Donald Trump. I mean,
+>> yeah, he shook it up.
+>> Yeah. Like the numbers that the United States is putting up in terms of GDP growth and low inflation and just that business environment. It's like, hey, how do we all win? That's how you create prosperity for everyone in society. Um I do think it actually benefits everyone like you know even the poorest people in society are they do the best in high economic freedom countries that are anyway.
+>> Growth solves a lot of problems.
+>> It does. It does. I mean, and the growth is objectively calling balls and strikes spectacular. We have not seen this level of GDP since we pumped a bunch of money and printed a bunch of dollars during co like
+>> 5.6 GDP is pretty spectacular. Let's hope it keeps up. Unemployment very reasonable 4.6 lowest of our lifetime. I think 4.3 was the lowest it hit. Inflation, yeah, closer to three than two, but you know, the actual average has been like 2.8 2.9. So the two is the target.
+>> Yeah. So we're right around the average. not hitting the target yet, but I think we'll get there. So, yeah, it seems like
+>> growth does not come from government spending, right? That's like the key that this is this Keynesian economic argument I think is basically wrong. Like growth comes from uh having like deregulation, having lowcost energy, allow the private markets to bill, let them have clear rules about what's allowed and not and then create a level playing field. Everyone competes, the consumer benefits, the b the companies benefit, all the employees, the shareholders. Capitalism is like the biggest win-win. You know that someone had a great rant about that recently.
+>> Yeah.
+>> And so we're seeing the private companies in the United States really cook. It's great,
+>> right? And if you're cooking, uh, you create more jobs, hopefully pay more taxes, all that just starts the cycle in the right direction. How do you I'll end on AI. Big debate on the pod. You haven't been on with the four of us in a while, but when somebody gets sick, we'll definitely rotate you in. Everybody loves when you are on like the the quartet. You're like a fan favorite, by the way. Um, but I'm curious what you think about AI and job displacement. Sax and I have been debating this. When is it going to be here? Is it here? Young people can't find jobs, but we're still a pretty low unemployment rate overall, but then Elon's position and Bernie Sanders position is in sync. Hey, listen. It's going to be a lot of job displacement. So, how do you think about it? Obviously, Amazon also is the one I'm watching because the idea that somebody's going to drive packages or pack packages in the age of Optimus and Robo Taxi and Whimo sounds crazy.
+>> So, those jobs are going away. How do you think about job displacement? And what are you seeing with the most AI first employees in Coinbase?
+>> Yeah. Well, just zooming out for a second, I think like crypto and AI are the two most important technology trends happening in the world. And what's cool, most people don't realize actually they're going to come together because AI agents need to get work done and they have to do payments
+>> and the whole traditional financial system is built around kind of knowing your a human behind every product with your you upload your
+>> Oh, know your customer. Yeah.
+>> Yeah. So AI agents I think are going to use stable coins and wallet crypto wallets.
+>> Know your agent.
+>> Well, I don't even know if you need to know the just but yeah. Anyway, that's one of the important trends that we're trying to help happen in terms of job displacement. Um I don't know. I I maybe this is a bit of a techno optimist take um but I actually think you know if you go back and look at like the 19 early 1900s I think it was like 80% of the US population was in was working in agriculture
+>> and so that's like hard manual labor out in the fields and when agriculture got automated you know now it's like 3% or something of the workforce working
+>> that happened over 30 years. Yeah.
+>> Yeah. And so I think they would look at what you and I do for a living like we're just having a cool conversation in Davos talking. They'd be like that's not a real job. Like real job is like manual labor in the fields, right?
+>> Uh you just you're on vacation all the time. But we we think of it as a job and you know people who are like typing on a keyboard all but you get to sit in an air conditioned office or whatever.
+>> It's stressful. That's for sure.
+>> It can be stressful but that's just I'd rather be doing that than be doing backbreaking labor in this in the sun digging a ditch or something. Right. So I think that job displacement is like not a bad thing actually. Um if it means that people can do new kinds of work and new kinds of job. Now is there going to be a transition period? Yes. I I basically I think if the AI uh plays out as we all think it will with robots and a lot of there will be job displacement but it means that we'll be in a world of more abundance and people are going to have jobs that's there like they're streaming on video games on YouTube or whatever. Like I don't know what it's going to be but
+>> or they'll think about the future. they'll think about like great philosoph you know philosophical works might be written uh because we don't have to burden ourselves with like the tedium of packing boxes. So I I'm basically an optimist on it. I think it'll be good.
+>> I'm pretty optimist about it as well. I just having watched the robo taxi self-driving thing
+>> and just watching the velocity that it's getting better and having watched the Uber story up close for 12 years. I'm like yeah that's going to happen in six. Mhm.
+>> I think it's just like it's going to just
+>> Yeah. It feels to me and the thing I'm starting to see in the field is you have in Wuhan there and and Beijing, they're having protests and they're saying, "Well, we're just going to give out a certain number of self-driving license. We're going to contain it."
+>> And then you have Boston and a couple and California now. They're saying, "Hey, listen. We're only going to allow a certain number of robotoxies." Or Boston's like, "We're not going to let you have them here. We're going to protect these jobs." So, this is going to become, I think, one of these uh very class, you know, debates we're going to have over the coming years. But what about employees in the company? You have the same number of employees as you had a couple years ago. You overhired for a bit maybe or hiring for growth.
+>> Mhm.
+>> Now, how do you think about hiring versus hiring and training young people versus just automating stuff or just having those AI? You must have some people on the staff who are using claude co-work or something and they're just like 10x knowledge workers. Not developers are obvious, but yeah, talk to me about knowledge workers and what you're seeing with your most AI first employees.
+>> Yeah. So, one of the big pushes we made in the last year was um we got our own internal hosted AI model that was connected to all of our data sources, right? So, it's like every Slack message, every Google doc, every Salesforce data confluence, you know. So now um this is all linked up in one like the data is all aggregated and you can ask these agents. So every team's legal is sorry every team is using it um legal finance everything just
+>> it's like the oracle of Coinbase.
+>> Yeah. And I've started to ask it really it's not just like prompting it hey can you write this kind of memo for me or something. It's like I'm asking these AI agents now um as CEO like what should I be aware of um in the company that I might not be aware of? and it'll tell me, "Did you know that like there's actually disagreement on this team about the strategy?" And I was like, "Actually, I didn't know that cuz it can read every Slack message in every every Google doc." And then, you know, I've been prompting it like I actually Toby on my board, he he he said this is like it's call he's calling it reverse from Shopify.
+>> Yeah. Yeah. He he said this is like reverse prompting. So, instead of telling the AI agent what you want to do, you ask it what you should be thinking more about,
+>> right? And
+>> it's a mentor.
+>> Yeah. It's like a coach.
+>> Yeah. Like, what could make me a better CEO? And it's like, well, I notic I looked at all how you spent your time in the last quarter. Here's how you said that you wanted to spend it, but you actually spent like 32% of your time on this instead of 20. Um, and it'll I've asked it other questions like, you know, what's the thing that I changed my mind on the most over the last year? Things like that. So, it's been it's now becoming like it'll it'll like prompt you with information you should be thinking about instead of the other way around.
+>> I recently did this and I I don't know if you play with Claude Co yet. Uh, have you played with it? this week play with there's claude opus 4.5 or something.
+>> Yeah. But there's co-work which is kind of like
+>> you describe what you want to do as a knowledge worker and it starts to build it. So instead of doing vibe coding and saying hey I want to write code for this you just describe like what do you want the end application and the result to be and then it kind of like a wizard kind of takes you through it. It's pretty scary cuz I connected my notion to it, my Slack to it
+>> and my Google Docs and it did the same type of thing. I was like, "Tell me about myself." And it was like, "Whoa, you need to spend more time with your founders that are winning as opposed to more time with your internal team." It was
+>> really interesting to analyze your uh your teams. And I think that's going to be like the future of this. All right. Listen, Brian, you got a lot more meetings to do. Uh thanks for coming on the program.
+>> I'm thrilled because my guest started building AI chips seven six seven years. Six, seven years before Chat GPT was launched. Andrew Felman is of course the CEO of Cerebra Systems and they are building wafer scale engine WSE. Yep.
+>> That's the category of chips you're working on and they're for inference.
+>> For inference or for training both
+>> or for training or both. And you have one with you? I do.
+>> So here is a way for scale engine. Remember usually chips are the size of a postage stamp.
+>> Yeah.
+>> And so this is say 56 times larger than a B200.
+>> Wow. And it's a 4 trillion transistor part. And for AI work, big chips process more information and they deliver results in less time. So you can faster results for your your query.
+>> And what does that cost for the typical system today? And how does it compete with like the H100 200s?
+>> Well, the first one cost us half a billion to make.
+>> Yes.
+>> First one I've heard is the most expensive.
+>> Turns out the first one's the kicker,
+>> right?
+>> Yeah.
+>> These come in a system.
+>> All right. And we can deliver the system on premise. Yeah. Or you can use it in our cloud.
+>> On premise they're about a million million and a half depending on how you have it configured. And on in the cloud you can rent it by the token. So by the million tokens it'll vary by different models from 50 cents a million tokens to several dollars per million tokens or or you can rent it by the month or the year. How did you know seven years before Chat GPT was launched? Or did you that the AI revolution would be this fast, furious, you know, unstoppable? I mean, it and has what's happened in the last two years even surprised you?
+>> For sure. I I think Yeah, I think anybody except maybe Sam and Ilia.
+>> Yeah.
+>> Uh who really saw it? M
+>> you know we talked to them in 2015 and and what they were saying is now it was unbelievable how how right they've been but I I think what we saw was the rise of a new computational problem called AI and it would put new and different pressure on a processor and we saw this on the horizon and we said what would happen if this got giant
+>> and we had no idea how big it would get or how fast it would come but as a computer architect you try and think about could I build a machine that's way faster at this new thing
+>> and will there be enough of it to build a business around? And so we saw AI on the horizon. We said to ourselves, could we build a a processor that would be unique in its performance? Could we build something not one or two or three or five times faster, but 20 or 50 times faster? And we came to believe we could. We chose an approach that that solved a problem that had been open in the comput industry for 75 years. Nobody had ever built a chip this big. Um, many smart guys had failed. Uh, and we delivered it and it's blisteringly fast.
+>> What were the first applications? You know, Nvidia got to perfect their compute
+>> and really their company off of the backs of video game
+>> uh players, then Bitcoin and crypto. It was almost like there were just a number of way points before AI emerged. You didn't have those.
+>> We didn't have that. And you know, if you look at Nvidia's stock price from 2004 to 2010, it was flat.
+>> Yeah.
+>> Right. And um they were trying to find a new market, right? That they had a lot of the graphics market and that market was sort of flat. They they found love with gamers. Um they tried to go into the supercomput world. Um we were focused entirely on AI. And so at first we we found love with with the national labs, with the military, uh with some pharma. Um
+>> what were the applications they were using?
+>> They were training various types of models.
+>> Got it. And this is before large language models.
+>> This is before language models existed.
+>> So they were doing models for sequencing you know proteins.
+>> Sequencing models. They they were doing different forms of vision models. they were doing uh work at the at the edges of high performance computing and AI.
+>> What is now um taking the most compute? We see a lot of applications now images, video production, the training of the models, um and really deep learning, deep thinking, I guess, where it's firing off many many threaded jobs. Which one of those is the most compute, the most limited? Right now,
+>> deep research is deep research uses an enormous amount of compute.
+>> Explain to the audience what happens when they do one of those deep research queries. As an example, I've been playing with the latest Claude and they have um a co-working Yep.
+>> co-pilot type application and I made a prompt every time we have a guest on the podcast
+>> and I had it do, you know, maybe 15 or 20 steps every podcast you've been on, every news item, a timeline,
+>> right?
+>> And it was unbelievable when it makes this document. It's better than anything a human has ever made for me. And I've been doing interviews for 20 years. lots of pretty smart assistants whose job that exact thing was.
+>> And when I tell you they would ask for 48 hours to do a dossier that was 20% of what this does in under 10 minutes, I I'm I'm not even joking. And and last year I told them like you can use it to kind of get ideas and get some links, but you know, keep doing it the old way. So it kind of cut their time from 16 hours to 8. Now it's 16 hours to I don't need them.
+>> Literally don't need them to do this work. Right. Now imagine if you could get it in 10 seconds.
+>> Yeah.
+>> Right. That's what we do.
+>> Yeah.
+>> That's it. Exactly. And so what what happens remember we we make AI with training and we use AI with inference. All right. And that's the simplest way. The reason inference is going through the roof is because everybody's using AI. Yes.
+>> All right. A task that you kicked off, right? It starts a bunch of little threads and each of those asks queries and each of those queries deliver results that are the input to other queries. So you've got a cascade of queries that is going on.
+>> It's wild.
+>> And each of those requires more compute. And so you've got, you know, 20 different queries being kicked off. Each query asks 20 queries. Each one of those requires 10 or 15 or 20 seconds to get done in traditional comput. So you you have this giant waterfall of time and answers. And we built this part so you can get all those answers back in 4 seconds in 10 seconds. And when does that happen? You know, right now it seems like when I do these kind of deep research,
+>> it's, you know, grab a cup of coffee time,
+>> right?
+>> 5 minutes,
+>> right?
+>> Not 15, but it seems like about 5 minutes is what it averages. When you're doing an image or a 5-second video, it seems like it's 90 seconds or so.
+>> When does that come down to, you know, the experience we had with dialup going to,
+>> you know, fiber?
+>> That that's the the perfect analogy, right? When when the internet was slow, Netflix delivered DVDs and envelopes. I know you remember this, right? Oh, I do. When Netflix got fast, when the internet got fast, Netflix didn't get better at delivering DVDs. Netflix became a movie studio.
+>> It enabled them to be something different. It wasn't a change in degree. It was a fundamental change in kind. And what speed does for AI is the same. So, we have customers uh like Cognition who use us to power their coding engine. All right. And if you read the tweets and you read people's comments, they're they're odd. There is zero latency between their requests and their answers. So they can stay in the flow as they write code. All right. And so this is the idea. The idea is you shouldn't have to wait at all. And uh Claude is not a anthropic is not a customer, but we recently announced OpenAI,
+>> right? They were original investors. They were
+>> and now they've just put in a major purchase order. they have and this is really exciting and part of it I think was because what we could do is we could deliver extraordinary speed so that the user experience changed
+>> and as we know having watched Google Larry and Sergey Marissa the team over there came to a conclusion when we shave off milliseconds it's the number one way we get usage to go up
+>> that's exactly right published that paper years ago that said even milliseconds even even amounts of time that the individual user doesn't recognize noticeable That's exactly what is it GM? What is the psychological just notible perception? I believe your mom would know. She's a behavioral
+>> She would know.
+>> Just noticeable. It's 15% of whatever the number is. So like if you could cut 15% off the time people they use it more, they leave less. Yes. You know, there's a uh Paul Graham had a had a great tweet. He said, "I I' I'd use Google half as much if Chat GPT weren't so slow."
+>> And if you think about that, that's what happens, right? while you're waiting for Claude or you're waiting for Chad GPT, you you get a coffee or you poke around somewhere else and you've lost the customer. That's the cost of being slow is the customer has gone somewhere else
+>> or you do what I do which is I have a nice wide Dell monitor.
+>> I have three browser windows open. I pay for all three services. I have them all Gemini, I got Claude, I got chat. I pay for all of them. I'm paying probably close to $600 700 personally a month. So, I'm spending 10,000 a year just for me,
+>> right?
+>> And I just take the same query and I go bing bing bing bing and I start them all
+>> or start them all. And
+>> I'm probably burning like 10 trees. I mean, there's it's probably probably being a little greedy.
+>> It's it's not 10 trees, but um
+>> it uh I I think that's a really interesting way to manage how slow it is,
+>> right?
+>> And so we exist to fix that problem. And what what we partnered with OpenAI to do is is to to deliver blisteringly fast speed across the world's most popular models.
+>> What's the scope of the deal? Uh
+>> what we announced was 750 megaww
+>> is what was announced.
+>> When did we switch from talking about the number of chips, the number of units being sold to the amount of power being sold? It's a little bit confusing for folks and it started probably about last summer. So actually what happened was that the change has been coming a lot longer. We used to talk about data centers in terms of square footage. I got 100,000 square foot data center,
+>> right? And now nobody cares how many square feet they you have. They care about how much power you have. So the limiting constraint on data centers is always their power footprint. And right now for large deployments, the limiting constraint is how much power can be delivered. So by talking about how many p how much power is delivered, you're talking in in the unit of the limiting constraint.
+>> Mhm. And so the limiting constraint is power. We're trying to find this huge amount of power uh for OpenAI. It'll be delivered over several years.
+>> And you're responsible for the power as well or is that like a joint effort?
+>> So uh it's a cloud uh deal. So
+>> Oh, so they're utilizing your cloud. So you've got to do all the work.
+>> We are we are building the the cloud infrastructure for it.
+>> Got it. Where are you going to where are you building your data centers? What's the best location here in 2026 to be placing these things? Is it overn gas? Is it near hydro? What's the state of the art now?
+>> So the the the cheapest power in the in the world is is hydro. Yeah.
+>> Without question. After that is natural gas.
+>> And so where places have natural gas, you you have an abundance of relatively lowcost power,
+>> which is Texas.
+>> West Texas, Wyoming, um outside the US, uh in the Caribbean, in Gana, you have a huge amount of natural gas. You do in uh you have geothermal, which is its own thing in in the Nordics. Um, but natural gas is a is a very inexpensive way, particularly if it's coming from uh as a byproduct from from petroleum mining where where what you have is it used to be what's called flare off gas. They used to just throw it away. They used to just burn it at the top. Bitcoin miners found the Bitcoin miners found that, right? And so, we'll take that.
+>> That's right. Like, whoa, don't make that fire make
+>> Yeah.
+>> So, basically, you look for the existing flare off. And then tell me about hydro because it does seem to me that people knew that for a long time they were moving data centers there. Heat still an issue with your chips and others.
+>> We're water cooled and and so water is an extremely efficient coolant.
+>> So, you know, we we we knew early on that we'd be going to water. We were some of the first production AI systems to use water. The TPU early on moved to water as well. Before that, there'd been some water cooling, mostly in the the Department of Energy supercomput labs that they'd used some water.
+>> Does it matter because I remember early on when people were talking about water to cool 10 years ago, the source of the water and how cold that water is coming in or just water's cool enough?
+>> No.
+>> And you're fine.
+>> It depends on on your particular design,
+>> but you'd like cooler water.
+>> Sure.
+>> Is better.
+>> So, Alaska and Canada feel pretty good about that. or or you bring chillers or or you cool the water,
+>> right? You can often you can take general groundwater or other forms of other locations for
+>> there's a huge misperception today that this water is not recycled and that AI is using all this water when it's it's not even comparable to golf courses. Let's say
+>> first golf courses are are extremely water inefficient. Most of our data centers use uh a closed loop,
+>> right? So we we're we're passing the water by the back of our chip. They pull the heat off. They warm the water. The warm water goes down and through a closed loose system is chilled and pumped back. And so you're not using
+>> and the water is not damaged.
+>> The water's not damaged. It's just
+>> not like some chemicals or anything that gets put into them.
+>> No, not at all.
+>> There's a lot of misperceptions about AI right now. There's a bit of a it seems like it's almost like there's some dark PR forces at work trying to make the data center build out seem worse than it is. And then there's also I think maybe some valid concerns around jobs. When you look at each one of those issues, what do you think is, you know, the ones that are most frustrating as an AI executive building data centers?
+>> It's a really good point. I think some of the hyperscalers sort of they they made a bad call in the way they they went into some of these rural communities. Right. So what are you looking for? You're looking for a place that land is cheap that has an abundance of power and they went to these communities and they didn't do a good job talking to people.
+>> Right.
+>> Right. And
+>> tech people didn't do a good job talking to humans. Right. What a surprise. And they went into these communities and they cut deals with the power company. And the power company was looking to build new infrastructure to support them. Yeah.
+>> And traditionally the regulated power industry would then advertise that cost over 20 or 30 years. So they ended up increasing
+>> the local people's power rates, right? And so the people got upset and that very reasonable, very reasonable. If instead
+>> you'd have gone in and said, uh, look, great. We we we're going to be good citizens. We're going to be big taxpayers here. Let's build more schools. We we can build a school for you. It's it's a rounding error in the cost of this facility. We're going to make a bunch of construction jobs and we're going to be good citizens. Yes.
+>> Um they would have had a very different approach.
+>> And not only that, they kind of were a little heavy-handed early on where they said, "We're going to play three communities off each other and who's going to give us the biggest tax discount?" Right.
+>> That was another cell phone mistake. Yeah.
+>> Now, what I just saw is that Microsoft just put out,
+>> we talked about it this week on the show.
+>> I thought it was a very thoughtful and reasonable sort of approach for a company that's sort of a national champion, right? That that they're going to be good citizens. They want to make sure that that your rates.
+>> They basically said just to catch the audience up, we guarantee you our usage of energy will not increase the uh
+>> cost of your utilities.
+>> The cost of your utilities.
+>> That's fair. I mean,
+>> I mean, very reasonable. And I think the next step we were brainstorming on the pod. There are people putting solar on roofs and uh there's base power. Um Michael Dell's son doing a really interesting project.
+>> Yeah. Where they just put batteries on the side of your house. They don't have to be super intricate and they load those batteries up when there's extra power and it's cheap and they deploy it when you know the duck curve or whatever the demand hits. So if you think Microsoft and you talk about rounding errors, well, if you give everybody a battery at home to store some energy when it's cheap and there it's and then that can be used to flow back into the data centers. I think we're could live in a world where you say, "Hey, we're going to put a data center here and everybody's energy is free."
+>> I think well, there are a couple things. First is we chose as a nation not to invest in our grid for 40 or 50 years, right? And so our our our grid is behind and vastly in need of improvement, right? our our grid is is decrepit compared to other advanced nations and in particular compared to what what China has done.
+>> I think the ability to store power at your home and to use it when power is the the most expensive is an obviously a reasonable thing to do,
+>> right? Obviously the reasonable thing to do
+>> and it takes load off the the grid as well. And people like the idea of being a little resilient, right?
+>> They do. If you do lose your power, which in California, I think they turn it off about on the peninsula, was it about a half dozen times a year for you?
+>> Only when it's really hot or really cold.
+>> Either either one.
+>> Yeah.
+>> And they'll leave it off for 2 days cuz it's wind and it's just a complete disaster. Oh, and by the way, I don't know if you knew this, there were subsidies given for nuclear where the people living around nuclear power plants in France and where they just said in exchange for living near a nuclear power plant, which some people might have concerns about. Uh maybe they're reasonable, maybe they're unreasonable. Put that aside, we're going to just give you free energy for life. Very interesting. What is your thought on small modular and nuclear? It's just it's too far out. Yeah. For you to be concerned with right now. I think it's both the obviously the right thing to do and probably not the source of data centers for the next three or four years.
+>> Yeah,
+>> both. Right. That that obviously we need to be working on that. Obviously, it's an extremely efficient form of power creation. Um nuclear has uh over 20 or 30 years is vastly more efficient than any other power we know how to how to create. Um it has a disadvantage. It upfront it's a little more expensive, right? So the fees are are are upfront and then you get the benefit over years. But clearly we should be working on this.
+>> And if you had the ability to do one, you would do it.
+>> Oh yeah, for sure. And you're seeing some of that in the more aggressive nations. The UAE
+>> uh is building uh modular uh nuclear data center based data centers. Um putting huge amounts of power on the grid with nuclear. And what a great idea.
+>> I went to see Elon a couple weeks ago on a Sunday afternoon. and we're talking he really thinks um that putting data centers and chips in space, cooling's pretty easy in space, solar is much more effective. What do you think, and he's been talking about this publicly, so I'm not speaking out of school, but what do you think about data centers in space? Have you started researching it?
+>> We have. I think first betting against Elon's ideas is is probably
+>> longterm
+>> not a good betting strategy. However, he getting the timing right is something that that has been uh less uh a less
+>> he's never wrong. He's frequently late.
+>> That's right. I always I look I I think that's the both the blessing and the curse of visionary.
+>> Yeah.
+>> Is you see things other people uh can't see and in your mind they're just some technical hurdles to overcome.
+>> You took a couple years to build that.
+>> It took took a couple years.
+>> Were you on time?
+>> Um
+>> we we were we were plus or minus a year.
+>> Okay. in delivery of something that nobody had ever done.
+>> Um,
+>> it's hard to predict.
+>> It's it's it's really hard. I I think the idea of using uh space for to grab solar power is obviously a smart idea.
+>> Yeah.
+>> Right. You're you're you're you're miles closer to the sun. You have much uh thinner atmosphere blocking the rays, so you can gather up the power. I think there's a lot of technical work to be done. Yes, it's cold there, but you're also in a vacuum. So, the actual cooling isn't an easy problem. It's a solvable problem. I think the communication among satellites
+>> is a real real issue. And figuring out which technology you want to do to get the data back to Earth, right? Remember, uh when you got your uh your cable TV, uh when you tried to get internet from those satellites, it was really glitchy. Yeah,
+>> there were these big delays. Now, those were higher orbit satellites. The ones he's thinking about are much lower orbit. They'd have lower latency, but there's some real work to be done.
+>> I I think it's in the 8 to 10 year category, not in the 3 to five.
+>> Yeah, I I think it maybe split the difference, but yeah, it's and it it's all of these are worth pursuing if you believe that we're not going to overbuild. So, knowing what you know and watching this build out, is it possible that we're overbuilding right now and we'll need a digestion period or do you think, you know, based on what we're seeing there's just going to be the next workload, next workload, next workload.
+>> I think we are still really early in in the demand for AI compute. And I I think if you think about, you know, what portion of enterprises have really adopted AI in a meaningful way that has changed their workflow, it's tiny. I think even the most frequent users at the consumer level are going six, eight times a day. What what when what happens when they go to 100 times a day? What happen when all their devices are going for them? What what happens when everybody in GNA, right? when every engineer is using it as a as a coding co-pilot, right? We're going to see enormous amounts of demand for inference. The models are getting better, more people are using, they're using more often, and the the amount of compute taken with each usage is increasing. So, I think we're just at the beginning. How do you portion off the effort when you're making systems right now in terms of energy efficiency, the raw horsepower, and then the transport layer? these seem to be the three most important parts of what you're doing. Um, correct me if I'm wrong. And and then how how do you allocate with engineers and your overall team tackling those three major issues?
+>> One way to think about it that that I don't hear often enough is the way you make a computer is you think about three things, right? How fast you can do a calculation.
+>> Where you can store the result.
+>> Mhm.
+>> All right. Memory. and how fast you can get the result to somebody who wants to use it.
+>> Transport,
+>> not transport. These are the three things that make a computer. And if you do really fast calculations, but your storage is is slow.
+>> All right, bottleneck.
+>> You're bottlenecked. If you can do fast calculations, you can store it, but your IO is slow, then you can't get it to the user.
+>> You are constantly thinking about as a computer architect the balance
+>> of these three dimensions, right? And so you make a a jump in your in the the performance of calculation. You got to think about storage. All right. Then you got to think I mean it is a constant.
+>> Are you thinking about those three simultaneously or are there teams grinding out each one of those individual verticals? How do you architecturally build a group of engineers to do that? So you usually your most senior architects, your your CTO and your your technical leads are thinking about that as the the the basis of a design,
+>> right? I mean it it it doesn't matter how fast the car can go if it can't turn you, right? It's not a good car except maybe for drag racing, right? And so the the designers are constantly thinking about um where should we use power in the design? What can we make the memory faster? Can can we can we add memory? What is the cost of adding memory versus making it faster? The GPU, for example, has a lot of capacity of memory, but it's really slow. All right? And that's a huge bottleneck in inference. It's why they can't be fast. It's why they just spent 2020 20 billion dollars buying Grock is because they didn't have an answer for fast inference. Fast inference needs fast access to memory and the GPU doesn't have it. So, these are things we're constantly thinking of
+>> and we're having a massive memory shortage right now because of this. How does that get resolved? Is that like just a short-term bottleneck or is that going to be a long-term problem?
+>> I think what it's a a crazy problem. I think everybody knew that the demand would increase. Um, and this is true among the the major memory makers. Um people get a little scared and what happens is they place a full year's worth of demand and they get the wrong answer back which is we don't we don't exactly know h when you can have it. So then their response is all right we'll give you 18 months of demand. So suddenly everybody went from giving six months of demand to 18 months of demand.
+>> Okay.
+>> All right. Everybody all the supply chain is confused. All right. We were making the exact same amount of memory we are now as we were four months ago. All right. And what's happened is the signal into the the makers has exploded and it will take us about 18 months to digest. The prices will stay high. Um this is a known phenomenon in the memory market. This happens every six or eight years. Um what's different right now is the the GPUs are using a huge amount of HBM which is a flavor of DRAM and they're chewing through that and that's maybe leaving a little less for other devices consumers. far along are the Chinese in catching up to your company, Nvidia, Grock, and how do you think about the geopolitics of the AI race? Like if they is there a scenario where they win and we lose, we win, they lose, or is that overblown in your mind?
+>> I think the geopolitics are a real issue.
+>> Okay.
+>> We are in we are well ahead in chipm.
+>> Okay. within a few square miles of Santa Clara. Uh you you had Intel, you had uh AMD, you had Nvidia, you have our team, you have ARM, you have one of ARM's great teams. You you have maybe talent, you have six of the world's great 10 chip teams.
+>> Um I think the the way you get good at building high-speed chips is to build high-speed chips.
+>> And when that that's really how you do it and
+>> you play the game, you get better at the game.
+>> That's right. Turns out you get better at the game. and that that's been a a weakness in the Chinese chipm ecosystem. Now they're running hard and and they know they're behind on that. I think on the other side, I think they have pushed ahead in the open model category.
+>> Yes, the open source.
+>> The open source model is an area where they've pushed ahead. I think
+>> because they're a top- down economy, they were able to make decisions like we're going to bring a huge amount of power onto our grid. We're going to modernize our grid. So they were able to bring on huge amounts of power and that's something that we're behind on. I think it's unpleasant to to think of them as as adversaries and we got to figure that out together. Um I think the world is a better place where we're not adversaries but right now we are
+>> and I I think certainly in an in an industrial context we're we're adversaries.
+>> There's the industrial context and then there's as we discussed what impact does this actually have? What's downstream of us winning? And it's every developer being a 100x developer and then every knowledge worker being a 100x knowledge worker and every biotech innovation.
+>> Systems that are recursive, right? That build on themselves at rapid rates
+>> have a huge winner take all feel, right? Right. By getting ahead, you get further ahead. Your iteration speed accelerates and even small differences at the beginning are magnified very quickly. That's why this race is so important.
+>> So, here we are. We're at Davos. It's a lot of politicians. My friend David Sax, co-host here on the pod. He's our AIS are. And Trump, whether you voted for him or not, is very focused on this issue. Biden, their team wasn't courting Silicon Valley. In fact, they kind of looked at us as the problem, demonized to a certain extent. How how do you think objectively, you know, independent of how you might feel about ICE agents in our cities or Greenland, etc. How do you think the Trump administration is doing on their AI policy and the support they're giving the AI industry?
+>> I think even a lot of fronts are doing really well. I I I think
+>> unpack it.
+>> I think we we had made a mistake in the previous administration keeping our chips from our allies. Let's keep China separate for a second, but uh the UAE is clearly an ally. absolutely
+>> as an ally, right? Modern Arab nation, been a source of peace, uh made peace with Israel early on, huge Western influence. Um and we kept chips from them,
+>> right? We like KSA, we like the Kingdom of Saudi Arabia to move in the same direction, kept chips from them,
+>> right? We then made no sense. We we then made a hierarchy
+>> that that made the Danes feel second rate, right? We said, "You are a number two friend." Um bad idea. um we should be empowering our allies, right? So that's the first thing and and I don't think the previous administration did a good job. They didn't understand that at all and Trump did a good job of that. Not only do we want those institutions, those nations and their institutions using our technology, we want them investing in the US and we under the previous administration, we had a cifhious organization in Treasury that was was was difficult to work with and that's all of those much improved and
+>> they were unclear. They were not communicative.
+>> They they were impossible to deal with
+>> impossible
+>> impossible to deal with. This is super important because as David has said many times on this program, hey, we want to be the standard,
+>> right?
+>> And then all of that energy goes back into our standard now
+>> into our ecosystem in a development on top of us into the recursive system we just described.
+>> Exactly. And if you look at Huawei, right,
+>> and what they did with 5G, their networking up against Cisco and and you know, our national champions, they they ran the table in a lot of countries.
+>> They clobbered us in Africa. They clobbered us in the developing world. They they absolutely ran the table.
+>> Right. And now those places have spyware.
+>> That's exactly right.
+>> And it's a real issue.
+>> It's a real issue.
+>> It's a real issue.
+>> So I I think those were all areas where this this administration did absolutely the right thing.
+>> Energy.
+>> Uh energy. Another area. Um, I I think one of the things that kills a company like us is trying to grow extremely quickly is having to deal with different regulations in each of 14 localities we're trying to put data centers.
+>> Right.
+>> Right. That that is brutal. Right. What what you don't want when you're trying to grow really quickly is to have 17 lawyers, each of whom is trying to figure out the the local, right? And so his effort to try and say, look, let's get some reasonable laws across the board. that's obviously smart and if we could get some money to to to improve the grid across the nation that also be really helpful. All of those are extremely positive. The work he's done with the Department of Energy,
+>> Chris, right?
+>> Right. Under uh I think it's called uh is it the Genesis program? I think it's sort of the equivalent of a Manhattan project for AI. Of course, we need this. Of course, we need to be thinking among our researchers, not how we can get a little bit faster, 10 or 20, but what can we use AI to to increase the rate of research by 5x, by 10x, and how can we get the the things that impede government out of the way?
+>> Yeah.
+>> Right. So, those are good. China's a really sticky problem. Um, and I I'm not sure I agree with the the current push to to allow the selling of of H100s there, but it's reasonable to disagree with me there. I I think it it is not it is not clear-cut like some of the other ones at all. It's a hard problem, and I I think there going to be lots of different views there.
+>> Yeah. And I don't know if you've been watching the news, but Canada just made a strong alliance with China, announced, I think yesterday or today when we're taping this. And this is where, you know, maybe the Trump administration can improve is, you know, we we do need to maintain this alliance with our neighbors so that they don't they feel like they can trust us. This is what I've heard, you know, spending time in Japan where the Japanese feel like maybe we are not the most reliable partner. Canada feels we're not the most reliable partner because of the tariff issues, military issues and maybe just the constant changing of uh you know consistency is really important in policym and and they have to know
+>> and I I think for a country like Canada that has a huge amount of raw material exports right they have wheat they have lumber they have a huge amount of stuff that that either we imported they got to take elsewhere we we have to be aware of of sort of the real politic of the situation they have to sell their raw material, right, which is a huge part of their export. They have to sell it somewhere and China is a big buyer, right? And and so it's we have to go in understanding that there are nations which are proud and if you're constantly attacking them and saying things to the populace there, well then it gives the leaders the ability to say, well, hey, China is courting us and they're going to invest and so why don't we build some ports with them?
+>> Yeah, ports. You should do a whole show if you haven't already on the rise of of Chinese ownership of major ports and shipping. It is crazy when you look I mean basically they own the world's large shipping routes.
+>> The belt and road strategy
+>> and it's really
+>> and then if you get out of sort of I don't know I'm not here in in in Switzerland very often but if you go into many parts of the third world you begin to see uh by was it BYD cars?
+>> Yeah. They're gonna be shipping them to Canada now,
+>> all over the rest of the world. We We don't see it, but it's unbelievable.
+>> I was just in Mexico City with the wife for a couple of days.
+>> Isn't Mexico City fun?
+>> I It's my first time there. I had a delightful time. The food is spectacular. I love it. Really fun. Really fun, trendy, great place.
+>> Yeah. Good vibes. And every guard of BYD.
+>> Yeah.
+>> And we got to think about that. And they're talk about national champions. There's no way that the government isn't subsidizing those by 30, 40, 50%. And I think what their goal is to put the Germans, you know, the English car manufacturers, they've been at it for a while, but the Germans are still making pretty great cars. And if these BYDs, which they're starting to get footholds in Europe, the same thing will happen. Like who's going to buy a 40, 50, $60,000 Beamer, Volvo, Audi when you can buy a 20, 30, $40,000 BYD? Yeah, they're they're nice cars.
+>> They're price dumping though, and that's what tariffs are meant to protect against.
+>> They're they're subsidizing at the top of the at the finished product,
+>> right?
+>> And that benefits the whole supply chain, right? That's what they're trying to do. They think about it as the battery maker, the transmission maker, all are benefiting while they subsidize at the very top.
+>> All right, let's end on employment. Let's put the crystal ball out there. Microsoft, Uber, Coinbase, Meta, Google. Four years ago, five years ago, more employees than they have now or they're flat.
+>> Yep.
+>> Young people unemployment starting to hit 10, 20% among some college age demographics.
+>> Yep.
+>> You know, David Sax and I have this debate all the time. Is it AI? Is it entitled kids who don't have a work ethic? Is it the overfunding and the digestion or indigestion of tech companies that hired two years out? It's pretty clear to me watching startups who are the most resourceful, they're doing so much with AI. They are AI first. They're building agents. They're doing everything with AI.
+>> There's no world in which we're not going to have AI displacement.
+>> Job displacement.
+>> That's not why it's displaced now, but 100% it's coming.
+>> Okay. So, when you look at it, you're in the camp of it's coming, but it's not an issue today. Define when it's coming. what why it's not an issue today is when I look at the uh the people who have been let go um in middle management in particular
+>> okay be candid where you're on all in you
+>> no I mean this is middle management what I think has happened is this is the delayed impact of good SAS tools
+>> ah that what's happened is your ability to extend your reach as a leader and as manager to stay a breast of what's happening. Your scope is much much bigger. And so the role of middle management, which was frequently to move information.
+>> Yeah.
+>> To manage small teams and move information,
+>> keep people on track.
+>> That's right. That job h has shrunk in value. I don't think it's yet AI.
+>> I think halfway there.
+>> That's right. I think AI is coming,
+>> but I don't think that's what this is. And what happened was there was this ballooning of these jobs and you know Mark Zuckerberg and and and Satcha they look one day say competition is coming it is much more intense. What are these waves of people doing?
+>> They're slowing us down let's be honest.
+>> That's right. And so they they're flattening their organizations as well. So it's not just they're moving people out but they're changing the the shape of the organization which is why I don't think it's AI yet.
+>> Yeah. I think what we're going to see down the road is whole categories that that are vastly more efficient and therefore need less people.
+>> It's uh pretty clear and it's almost rest in peace Scott Adams, creator of Dilbert, but
+>> huge fan.
+>> Yeah, he just passed away this week. I
+>> I saw that. Huge fan.
+>> What a giant.
+>> What a giant of of ridiculing uh corporate America. That exact layer is gone.
+>> Corporate America. It's actually great that Scott got to see it.
+>> Yes.
+>> Happen. Yeah.
+>> Towards the tail end. And uh we didn't get to mention it on a previous episode, but rest in peace, Scott Adams. I think it's a good place for us to uh end there, Andrew. I know you got a lot to do here. Enjoy your time at Davos.
+>> Thank you.
+>> Yeah. If you see any of the Germans, ask them why they turned off their nukes.
+>> All right.
+>> Yeah, that's right there to joke to them. How's Greta Thurber? How is your secretary of energy doing, Greta Thurberg? Like, what are you doing? They turned off three of their six nuclear reactors. I know. So they they decided instead to import natural gas from Russia.
+>> Where did they get it from?
+>> Right. From Russia.
+>> Oh, from Russia.
+>> Yeah. Bad. Depended on Russia. Really not smart.
+>> Yeah. Not smart.
+>> And you know what? All because of Davos. I blame the WF and Davos. They literally got so caught up in virtue signaling about the environment. They never just looked from first principles at how safe nuclear is compared to burning fossil fuels.
+>> Nuclear is is is safe and we can make it safer. We got to put the time and effort in. I was just in Japan last week.
+>> They're putting in new nuclear reactors and they just got over a Fukushima and they realized, "Oh, we made some mistakes putting it below sea level.
+>> We're not going to make those mistakes again. Nuclear is obviously the way to go."
+>> Let's get better at it.
+>> Hey, let's get better at it. That was awesome, dude.
+>> Thanks for all the time and for a great discussion. You rocked it. All right, everybody. Welcome back. We're grifting. I mean, interviewing the top CEOs here at Davos, the World Economic Forum. Uh this is our first time here and we're having a great time. Tons of CEOs. We've had hundreds of interview requests. We're going to try to do about a half dozen of them. A friend of the pod, Jake Lucerarian, is here. Uh you've been on the pod before, both this week in Startups and Allin. Uh you of course the CEO and co-founder of Gecko Robotics. You've been at it for almost a decade now. Yeah.
+>> You build robots, as people who have seen the pod before know, inspect. These are purpose-built robots that will inspect ships, bridges, whatever it happens to be. And you started this long before Chad GPT and this recent AI revolution. I'm curious, these robots which are very purpose-built, you know, I think very straightforward.
+>> Have you started to put AI into them yet? Because I I was just curious thinking about your previous presentations. It was pretty straightforward, right? Like we know the bridge, inspect the bridge, but
+>> now can it do things and start thinking on its own and maybe be more adaptable because of AI?
+>> Yeah, good question. Well, I changed my title now. It's now chief uh grifting officer.
+>> Oh, chief drifting officer.
+>> Thank you. Especially when I'm in Davos. This is my title.
+>> You've been here a couple of times.
+>> Yeah, exactly.
+>> Did you catch the tail end of the DEI? And
+>> I came I came right at the like the heart of it. Yeah. And so it was it was you had to learn a different language actually.
+>> Really? Yes. Did they check your fluency in ESGdei buzzwords?
+>> They did. They did. Well,
+>> no, but everything was super precious and now I guess since Trump is here,
+>> it's kind of brass tax like doing business negotiating and like less of this performative stuff.
+>> It's a lot actually performance tonight. Um, but there's a lot there's a lot more focus on okay, let's get down to the to the brass tax. We hear a lot of CEOs talking about AI and but actually a lot of the conversations I'm having in the Congress already is just about okay, like where's the ROI from all the AI? business.
+>> It's actually business. It's actually trying to get to the to the first principles to the roots of okay, how do you actually get artificial intelligence to to deliver on the promise and funny enough a lot of it comes down to this this really interesting uh gap that's exists in AI which is like all the information and data set that you need to actually turn all this into actual uh return on investment and productivity gains especially for these like large infrastructure large asset owners uh like the energy or mining or manufacturing companies of the world. So that's a big focus and that's what
+>> it really seems to be turning into a business conference. I was astounded by the amount of inbound I had that was just pure business capitalism building products and services to make life better. Also the world has changed a lot since you started the firm.
+>> Um we've got a new sort of military 2.0 know thing happening and I think a lot of your customer base moved from just maintenance of bridges and tunnels and infrastructures to military. Tell us about that.
+>> Yeah, that's exactly. Yeah, that's right. We we do about 30% of our business is defense. So, we we work or department of war, I guess I should say. So a lot of it's focused on how do you actually use technology to you know fight against the speeds of development of of countries like China for example in terms of manufacturing speeds and a big part of that is actually understanding the quality and the and the welds um the putting together the actual welds put pieces together. This is actually a huge bottleneck for the US. We have you know these manufacturing and forges that are 100 years old doing things 100 year old um you know today like they did you know back then. So, the technology that we're using to deploy to help manufacture um certain, you know, components of uh uh a submarine or or be able to help expedite how fast a destroyer is in turn around to get out and patrolling borders and deterring conflict. Um these are sort of the things that our robots are using to help to speed up decision-m process and make sure you're accurate. Um and so in some cases that Admiral Houston has talked about 90% improvements to speed up manufacturing using the technology that Gecko builds and you know, you're seeing companies like Ander now um you know, working with us. Palmer lucky.
+>> Palmer from lucky. Yep. Of course. And
+>> that's his helicopter up there. He might drop a bomb any minute.
+>> Yeah. I think he's doing a speech pretty soon. Um and so um so it's just amazing to see the adoption. But on the energy side, right? Like that's been the biggest the biggest growth areas for our company. It's just been these large energy companies and power companies. They're trying to figure out, okay, all of these um all these hyperscalers are trying to figure out how to get infrastructure. They're focusing on capex a lot, right? Well, what if we started to play a game where, you know, we have access to these problems to these really um, you know, these GDP driver companies. What if we actually took an AI native or in our case what we've seen a lot of companies be is like how to be robot native first
+>> um to support the AI initiatives um by injecting and taking a very aggressive approach and how to implement and and put robotics to use to help build up the the data infrastructure to then layer on AI models. And so that's at the heart of what Gecko does. That's why I started this company 13 years ago with this premise of data matters as it relates to being able to uh to have all the games.
+>> For people who don't know, the robots have sensors in them, different arrays that can inspect metal, whatever the fabrication is, and go right to the seams of a submarine and make sure this is all been done perfectly
+>> and measure it perfectly.
+>> That's right. We build the robots and the sensors that go around and look at diagnosing the health of the built world. So that means just like understanding and getting the largest inventory and database of information about the health of build structures, bridge, dams, submarine, whatever it is. Um now in along that journey, you're able to figure out that if you centralize all that information and data and then layer on top of it operational data which exists, you know, for the most part is a decent like infrastructure of sensor data at these companies. Well, wow, you get to make some pretty interesting decisions because you can figure out how to extend the useful life of an asset. And if I push an asset harder, can I produce more? like wow my focus is how do I help to create cleaner as well as um more barrels per day and at lower costs. I use the word cleaner.
+>> So if you have a refinery or you have a nuclear power plant, you inspect it.
+>> Robots should be dedicated to figuring out how to solve for the business problem. The b what is the fundamental business problem that the customer is trying to to solve for? If it's making a barrel or making a kilowatt or getting a ship out of dry dock faster, that is our initiative and our goal as a company to build robotic solutions towards that. Now, I haven't built we haven't gotten into building the humanoids of playing the humanoid game. And that's actually when I was on your podcast, actually the summit, I talked about we're going to be the biggest um purchasers of the Optimus robot is because the real question is how do you actually employ robots? How do you get robots to return ROI? Because, you know, folding laundry and cleaning dishes is not a high ROI use case. It's going to be the $20 an hour.
+>> You're not going to pay 40,000, you know, for or 20,000 whatever it is. But, you know, US has to be the best in the world at figuring out how to use robots to make um unfair advantages, you know, with these companies, whether it's oil and gas, whether it's
+>> power need somebody between Tesla or Figure or Boston Dynamics, those robots are going to be sold. there's going to be need to be an application layer and operational excellence in the field will be that that's exactly what we are with a nervous system to pull all this information from robots together and then you can build and use um AI models on top of that to use the information data to then also begin to take actions back into the real world. So you actually see it find not just right now you find problems or monitor situations and confirm things are being built properly that there's no potential problems with this nuclear power plant or this ship but down the road do you see yourself actually taking actions to build andor repair? Yeah that's exactly the road map for us but first you have to figure out like what what is the state of the built world? What is the state of the health? Um what sorts of actions should I take when it comes to repair? What sorts of automated welding solutions, for example, are the right ones and which ones could use information about the how well that weld was done is a feedback you to create a foundation model for welding, being the best in the world at welding. And so the archite
+>> we're going to Yeah, we're going to be the the company that builds robots um to both identify and then solve for the most important and highest ROI problems for the customers, whether they're manufacturing new assets or they're or they're trying to operate and maintain existing ones. Funny enough, like I've been talking a lot about like how do I reduce hazardous work hours for humans? How do I extend the use life of assets for infrastructure? How do I, you know, increase the capacity and production uh and uh and prevent, you know, catch failures from assets. Funny enough, these are all very like easy to underwrite problems and it's something that you don't hear roboticists or AI founders talk a lot about, but like that's my bread and butter. That's the world I live in and I wear the steel toe boots to be able to understand the problems. You're going to need humans in the loop for some time to come and there are there's going to be plenty of work for welders, but there might also be incremental jobs created because
+>> yeah,
+>> and you'll have one welder maybe supervising 10 of these robots. Is that what you think is going to happen?
+>> That's what's going to happen. You want to be able to get the experience and the subject under expertise to make sure the robot is actually understanding like what what are the sorts of ramifications if I do this action versus that action. be able to, you know, you you want also be able to what we don't, you know, need to understand too is there going to be a lot of tele operations, you know, with mobile robots in particular. And so you're going to have humans in the loop just they might not be in the field as much. They might be more, you know, in a in an AC, you know, uh, building, you know, being able to operate and and build build information and data to train the foundation model. If you think how risky some of these jobs are, uh it might be nice to not have a human risking their life to maintain, you know, this part of the bridge,
+>> you know, as brave and amazing it is they're doing that work. And we obviously appreciate appreciate that over the centuries.
+>> Yeah.
+>> It might be nice to actually take the human out of the deep sea welding and out of the bridge climbing business.
+>> That's exactly right. Well, I mean, the story of Gecko has been a story of building robots to help to reduce the barrier to entry of these like jobs that sometimes take 10,000 hours to be great at and actually making it something, you know, you can attain within a few months of being able to, you know, use the technology in these fields. And so, you know, whether it's manufacturing different parts and inspecting the quality of those parts or it's actually gathering information, data set, understanding what kind of decisions to make. My goodness, like you have a shortage of welders, you have a shortage of inspectors, you have a shortage of all these trades and you have to be able to augment to take a Home Depot employee in a couple months, make them, you know, able to create a, you know, make 100,000, $150,000, you know, running your robot, doing it safely. And so, you know, that's an exciting, bright future. I think the the key unlock for us, you know, in the robotics community is just like you got to get your robotics into the field. Uh, you got to um you got to fail fast and and also rapidly prototype really quickly. And then manufacturing them is is the big is the big issue. And so you as we focus on these sorts of problems because you know in this journey in over the next 5 years you know to be that company that's the best in the world of taking robots and making ROI from them you know we uh that's that's what we're focused on in terms of setting ourselves up to be the world dominant there.
+>> And you uh wrote an editorial on the way in here and dropped it. What was your take in the editorial?
+>> It was basically on the concept that we're talking about here which is like you know I'm a I'm a I'm a I live in Pittsburgh. You know at some point Pittsburgh had like more millionaires in 1930 than New York. It made 70% of the world's steel. Um, and it's, you know, the economy changed a bunch and and that doesn't happen anymore in in Pittsburgh and and so but but like the insights and the the companies there like they're still the backbone of our of our economy and and I was just inspired by, you know, in that time frame, the industrial revolution, how steel, you know, was invented and then manufactured and then distributed to help create all the infrastructure that we rely on and, you know, that that that fuels the energy or fuels the manufacturing sectors. you know, it was the it was the infrastructure that you needed to be able to have all these big gains um that came from the industrial revolution. Same thing is is what I was talking about in the editorial about uh is what we're doing with robotics collecting information and data sets um to help support um and create uh the avenue uh create the infrastructure for AI models to actually be able to you know return the kinds of returns that we're all betting on. So, you know, you it's just important people to understand like that the the robotics is the is the you know, it's almost the it's almost the the foundation to be able to get the massive returns in the sectors that were that are mostly all here. Great. Yeah. Being able to eliminate some Dilbert level middle managers who aren't adding value
+>> with, you know, some automation. Okay, fine. Uh but we really need to get out there in the real world to get that serious ROI, whether it's a robo taxi or self. And and I think that the risk you have like with like I think this the forum is like it's like you're saying it's changing right there's like a there's a ecosystem in a bubble when you live in a certain place talking a certain way in Silicon Valley we we only exist in the world of of the internet. We we don't build the kind of technologies that started in Silicon Valley. And so this world of energy of metal manufacturing of of mining all these like sectors defense like they're they're just not and when I was starting the company they were like taboo to talk about. So you just don't think about the kind of you know applications and things you
+>> in some ways we ran out of things to solve for. I mean like what's the next when I would be pitched 10 years ago on SAS software it was like okay great and then it was okay this is the 50th SAS software company in this vertical okay this is the 15th in this vertical we're kind of running out of
+>> what's crazy to me
+>> those verticals to go after.
+>> You're exactly right and this is why like you think of like an incredible invention like a humanoid robot and the first demo that me and you saw right was a folding laundry. Oh my goodness. like the the like that that was the the thing that you know I do when I go home. So that's what a robot should do. There's so many other important like really important applications to use this technology for and I live in Pittsburgh, right? So I get to see a completely different world with a completely different little bubble. Um, and then you know going obviously and talking to to CEOs of energy companies all day like it changes your world and so like it really is an advantage and I encourage a bunch of the startups that you're talking to you know to to focus on like where the eyes are not where the conversations are not go out of the ecosystem and find the really important problem to solve. If you think about it, we had Boston Dynamics doing backflips with these robots, you know, a decade ago, but they they didn't have an LLM behind them or a vision model or a world model yet.
+>> Yeah. And now when they have it, you'll be able to, I think, tell it, "Hey, I want to lay some bricks
+>> and it'll just go out to the web and find all the brick laying YouTube videos and the history of brick laying and every manual on brick laying and every skew of every device ever used for brick laying and it's going to know
+>> how to do it
+>> without ever having to be trained or is that the the you know, I'm just giving a very silly example, but
+>> when would be able to just tell Optimus, "We need you to lay some bricks." And it goes, "I know kung fu." Boom. It just does it.
+>> Yeah, that's right. I think that the
+>> How soon?
+>> How soon? Uh, it's I don't think that's going to be as far out. I think it's like I I I take maybe take like more like the three-year kind of time frame for those kind of things. I think you can kind of see this these like um you know, these big bets like SoftBank um and Nvidia I think just put a billion dollars into um Skilled AI, which is creating the brain for robots. Um actually a $14 billion valuation. um the founder of which is in Pittsburgh by the way, Deepo. Um but I think the I mean the big the big problem I think with like that um extrapolation is in the world of the world that I live in every day whether you know the energy the the the the defense etc etc. Um we don't have those videos. There is not a corpus of information in data set and so I'm focused on that. I'm focused on
+>> how do you get that data? You put GoPro cameras and sensors on people's arms like I saw
+>> totally training. Is that how the training will be done or where you're like modeling and actually watching a human do it and then having the robot analyze it or
+>> Yeah, it's about uh we we think about like you know there's not many customers that are going to pay for that cuz the ROI is just like not not clear, not there like no no big like energy or you know manufacturing company's going to be like yeah let's do that and I'll pay you like 10 million bucks a year to do that. And so like we're collecting it by solving for you know important problems on critical infrastructure and assets of which like you know we're we're walking around these like Manhattan size refineries all the time. And so there's information data sets that were like building
+>> and the refinery inspection is done by a human today. Yeah.
+>> They take a bunch of pictures. They they use a bunch of sensors and now the robot
+>> 100t up in the air on a on a rope collecting data by hand. It's, you know, so if you use a robot that has a bunch more sensors to fuse together, it begins to create a world that doesn't exist on the internet, which gives Gecko a very big advantage.
+>> That's a that's a lot of world building you're doing.
+>> That's exactly right.
+>> Continued success and we'll see you next time on the AllIn interview program. Bye-bye.
+>> Good job.
+>> Nice.
+>> Awesome.
+>> That was fun.
+>> Oh man, cold out here, huh? I'm going all in.
