@@ -1,0 +1,2926 @@
+had
+ the
+ crazy
+ idea
+ in
+ 2010
+ to
+ use
+ neural
+
+
+networks
+ for
+ natural
+ language
+ processing
+
+
+which
+ was
+ a
+ very
+ controversial
+ idea
+ at
+
+
+the
+ time.
+ A
+ lot
+ of
+ people
+ in
+ the
+ field
+
+
+said,
+ "Oh,
+ neural
+ networks,
+ they
+ never
+
+
+work.
+ They
+ won't
+ ever
+ work."
+ Most
+ of
+ my
+
+
+papers
+ got
+ rejected
+ cuz
+ people
+ hated
+
+
+neural
+ nets
+ for
+ NLP.
+ MIT
+ and
+ especially
+
+
+Berkeley
+ here
+ in
+ the
+ Bay
+ Area,
+ they
+
+
+hated
+ neural
+ networks
+ for
+ natural
+
+
+language
+ processing
+ too.
+ We
+ had
+ invented
+
+
+prompt
+ engineering
+ and
+ so
+ we
+ thought
+
+
+people
+ should
+ get
+ access
+ to
+ this.
+ We
+
+
+felt
+ like
+ well
+ someone's
+ got
+ to
+ do
+ it.
+
+
+In
+ 2020
+ when
+ we
+ started.com
+ a
+ lot
+ of
+
+
+people
+ said
+ search
+ is
+ dead.
+ nothing
+ you
+
+
+can
+ do.
+ But
+ I
+ don't
+ really
+ generally
+
+
+care
+ about
+ what's
+ popular.
+ I
+ just
+ care
+
+
+about
+ what's
+ meaningful.
+ When
+ you
+ once
+
+
+you
+ really
+ love
+ an
+ idea
+ and
+ you
+ feel
+
+
+like
+ that
+ idea
+ makes
+ sense
+ from
+ first
+
+
+principles,
+ you
+ have
+ to
+ have
+ a
+ little
+
+
+bit
+ of
+ that
+ belief
+ inside
+ of
+ you
+ that
+
+
+you
+ can
+ make
+ it
+ prevail
+ through
+ a
+ lot
+ of
+
+
+rejection
+ and
+ still
+ keep
+ on
+ going.
+ Hi
+
+
+everyone,
+ I'm
+ Richard
+ Ser.
+ I'm
+ the
+
+
+founder
+ and
+ CEO
+ of.com
+ and
+ the
+ founder
+
+
+and
+ partner
+ at
+ AI
+ Accentur.
+ U.com
+ is
+ AI
+
+
+search
+ infrastructure.
+ In
+ order
+ to
+ make
+
+
+an
+ LM
+ not
+ hallucinate,
+ you
+ actually
+ need
+
+
+to
+ have
+ a
+ good
+ search
+ infrastructure
+ to
+
+
+inform
+ that
+ LM.
+ People
+ searched
+ on
+
+
+Google
+ AI
+ and
+ LMS
+ and
+ agents
+ search
+ on
+
+
+you.com.
+ Companies
+ like
+ OpenAI,
+ Amazon,
+
+
+Alibaba,
+ Telegraph,
+ Windsurf,
+ Harvey
+ use
+
+
+our
+ API
+ infrastructure
+ to
+ make
+ their
+ LMS
+
+
+upto-date,
+ accurate,
+ and
+ have
+ citations.
+
+
+So
+ you
+ can
+ actually
+ verify
+ that
+ the
+
+
+facts
+ are
+ correct.
+ It's
+ amazing
+ to
+
+
+become
+ a
+ unicorn.
+ And
+ in
+ many
+ ways,
+ it
+
+
+also
+ just
+ feels
+ like
+ okay,
+ it's
+ what's
+
+
+next?
+ What's
+ the
+ next
+ step?
+
+
+I
+ originally
+ from
+ Germany.
+ I
+ thought
+ a
+
+
+lot
+ about
+ sort
+ of
+ the
+ meaning
+ of
+ life
+
+
+when
+ I
+ was
+ younger.
+ In
+ high
+ school
+
+
+already,
+ I
+ love
+ natural
+ languages.
+ You
+
+
+know,
+ I
+ studied
+ English.
+ I'm
+ originally
+
+
+from
+ Germany
+ and
+ French
+ and
+ Chinese
+ and
+
+
+but
+ I
+ also
+ love
+ math.
+ And
+ so
+ math
+ and
+
+
+languages
+ don't
+ intersect
+ often,
+ right?
+
+
+It's
+ very
+ different
+ fields
+ of
+ study,
+ but
+
+
+they
+ do
+ intersect
+ in
+ a
+ computer
+ where
+
+
+you
+ try
+ to
+ use
+ math
+ to
+ understand
+
+
+language.
+ And
+ so
+ I
+ ended
+ up
+ deciding
+
+
+study
+ linguistic
+ computer
+ science
+ in
+
+
+2003.
+ It
+ was
+ definitely
+ not
+ famous
+ or
+ or
+
+
+popular
+ in
+ Germany.
+ Linguistic
+ computer
+
+
+science
+ as
+ it
+ was
+ called
+ then
+ was
+ very
+
+
+much
+ a
+ niche
+ orchid
+ type
+ of
+ subject
+ that
+
+
+very
+ few
+ people
+ were
+ studying.
+ Still
+
+
+remember
+ my
+ my
+ dad
+ thinkingh
+ what what
+
+
+will
+ become
+ of
+ my
+ son
+ cuz
+ this
+
+
+linguistic
+ computer
+ science
+ thing
+
+
+doesn't
+ sound
+ like
+ anything
+ useful
+ for
+
+
+ever
+ like
+ uh
+ for
+ a
+ long
+ time
+ and
+ but
+ I
+
+
+don't
+ really
+ generally
+ care
+ about
+ what's
+
+
+popular.
+ I
+ just
+ care
+ about
+ what's
+
+
+meaningful.
+ And
+ then
+ it
+ felt
+ to
+ me
+ like
+
+
+if
+ we
+ could
+ really
+ get
+ that
+ to
+ work
+ uh
+
+
+on
+ the
+ research
+ side,
+ it
+ would
+ have
+ an
+
+
+amazing
+ impact.
+ Ultimately,
+ language
+ is
+
+
+the
+ most
+ interesting
+ manifestation
+ of
+
+
+human
+ intelligence.
+ Several
+
+
+civilizations
+ were
+ able
+ to
+ create
+
+
+written
+ language
+ to
+ not
+ all
+ of
+ them,
+
+
+right?
+ And
+ the
+ ones
+ that
+ didn't
+ were
+
+
+falling
+ behind
+ and
+ we're
+ saying
+ similar
+
+
+things.
+ Civilizations
+ that
+ don't
+ use
+ AI
+
+
+now
+ are
+ falling
+ behind.
+ And
+ so
+
+
+ultimately
+ I
+ think
+ it's
+ very
+ meaningful
+
+
+to
+ help
+ us
+ understand
+ language
+ because
+
+
+it
+ helps
+ us
+ understand
+ who
+ we
+ are
+ as
+
+
+humans.
+ And
+ then
+ it
+ uh
+ also
+ uh
+ actually
+
+
+helps
+ in
+ on
+ the
+ journey
+ to
+ understanding
+
+
+intelligence.
+ It
+ helps
+ to
+ create
+ it
+
+
+because
+ anything
+ we
+ can
+ create
+ we
+ can
+
+
+engineer
+ we
+ understand
+ a
+ lot
+ better
+
+
+afterward.
+
+
+>> Your
+ brain
+ and
+ mine
+ are
+ jam-packed
+ full
+
+
+of
+ neurons
+ that
+ are
+ tightly
+ connected
+ to
+
+
+and
+ they
+ talk
+ to
+ each
+ other.
+ in
+ a
+
+
+computer.
+ We
+ can
+ therefore
+ build
+ what's
+
+
+called
+ an
+ artificial
+ neuronet
+ network
+ or
+
+
+the
+ the
+ other
+ technical
+ term
+ is
+ a
+ sponse
+
+
+learning
+ algorithm.
+ But
+ we
+ can
+ build
+ a
+
+
+neuronet
+ network
+ that
+ simulates
+ all
+ of
+
+
+these
+ neurons
+ being
+ connected
+ to
+ and
+
+
+talking
+ to
+ each
+ other.
+ And
+ then
+ I
+ was
+
+
+very
+ fortunate
+ uh
+ at
+ Stanford
+ to
+ hear
+
+
+Andrew
+ talk
+ about
+ deep
+ learning
+ and
+
+
+neural
+ nets
+ for
+ computer
+ vision.
+ It
+ made
+
+
+sense
+ to
+ me
+ from
+ first
+ principles
+ that
+
+
+neural
+ networks
+ would
+ be
+ right
+ because
+ a
+
+
+lot
+ of
+ the
+ research
+ actually
+ was
+ about
+
+
+feature
+ engineering
+ that
+ were
+ people
+
+
+were
+ doing
+ at
+ the
+ time
+ like
+ in
+ sentiment
+
+
+analysis
+ you
+ might
+ say
+ oh
+ these
+ are
+
+
+positive
+ words
+ and
+ this
+ is
+ how
+ negation
+
+
+works
+ and
+ here's
+ like
+ all
+ these
+ like
+
+
+linguists
+ would
+ come
+ up
+ with
+ features
+
+
+and
+ that
+ clearly
+ wouldn't
+ scale
+ to
+ more
+
+
+complex
+ things
+ like
+ translation
+ and
+ I
+
+
+wanted
+ to
+ unify
+ also
+ uh
+ the
+ field
+ and
+
+
+that
+ eventually
+ led
+ us
+ to
+ prompt
+
+
+engineering
+ and
+ inventing
+ that
+ but
+ then
+
+
+after
+ the
+ PhD
+ I
+ was
+ like
+ now
+ we
+ have
+ the
+
+
+main
+ ingredients.
+ We
+ know
+ how
+ to
+ make
+ it
+
+
+work.
+ We
+ need
+ large
+ neural
+ networks.
+ We
+
+
+need
+ a
+ lot
+ of
+ data.
+ And
+ I
+ showed
+ that
+ in
+
+
+all
+ my
+ research
+ papers.
+ And
+ now
+ we
+ need
+
+
+to
+ actually
+ scale
+ it
+ up.
+ We
+ need
+ to
+ like
+
+
+take
+ those
+ ideas
+ and
+ apply
+ them
+ into
+
+
+real
+ applications
+ for
+ real
+ people.
+ And
+ I
+
+
+think
+ a
+ lot
+ of
+ the
+ papers
+ that
+ came
+ out
+
+
+in
+ the
+ last
+ couple
+ of
+ years,
+ they
+ made
+
+
+everything
+ a
+ little
+ bit
+ better.
+ But
+
+
+those
+ main
+ ideas
+ of
+ endtoend
+ trainable
+
+
+neural
+ networks
+ on
+ large
+ data
+ sets,
+ that
+
+
+is
+ the
+ main
+ idea.
+ That's
+ those
+ those
+
+
+ingredients
+ are
+ the
+ main
+ ideas
+ that
+ push
+
+
+the
+ field
+ forward.
+ And
+ I
+ felt
+ like
+ it
+
+
+made
+ more
+ sense
+ now
+ to
+ majorly
+ scale
+
+
+that.
+ And
+ then
+ in
+ academia,
+ you
+ just
+
+
+don't
+ have
+ the
+ resources
+ to
+ really
+
+
+scale.
+ And
+ then
+ while
+ I
+ was
+ excited
+
+
+about
+ scaling
+ it,
+ I
+ should
+ have
+ scaled
+
+
+it
+ even
+ more.
+ You
+ know,
+ I
+ thought,
+ oh,
+ I
+
+
+raised
+ like
+ 1020
+ million,
+ but
+ I
+ should
+
+
+have
+ raised
+ $200
+ million
+ or
+ a
+ billion
+
+
+dollars
+ to
+ really
+ scale
+ it
+ more.
+ So
+ it
+
+
+was
+ clear
+ to
+ me
+ that
+ to
+ really
+ scale
+ it,
+
+
+you
+ had
+ to
+ do
+ it
+ in
+ industry.
+ And
+ that
+
+
+the
+ technology
+ was
+ ready
+ now
+ to
+ move
+ out
+
+
+of
+ academic
+ research
+ into
+ the
+ real
+
+
+world.
+ And
+ then
+ when
+ you
+ maximize
+ impact
+
+
+and
+ you
+ realize
+ well
+ the
+ main
+ ideas
+ have
+
+
+we've
+ been
+ researched
+ now
+ it's
+ time
+ to
+
+
+really
+ apply
+ them
+ in
+ the
+ real
+ world
+ and
+
+
+so
+ startup
+ uh
+ felt
+ like
+ it
+ made
+ sense.
+
+
+So
+ I
+ graduated
+ in
+ 2014
+ then
+ started
+
+
+Metammind.
+ Metammind
+ uh
+ was
+ basically
+ an
+
+
+AI
+ platform
+ that
+ made
+ it
+ very
+ easy
+ to
+
+
+train
+ neural
+ networks.
+ we
+ had
+ uh
+ started
+
+
+selling
+ it
+ to
+ but
+ for
+ selling
+ you
+ had
+ to
+
+
+be
+ very
+ very
+ focused
+ on
+ one
+ small
+ niche
+
+
+but
+ we
+ had
+ built
+ this
+ very
+ powerful
+
+
+platform
+ and
+ so
+ felt
+ like
+ in
+ the
+ hands
+
+
+of
+ a
+ no
+ pun
+ intended
+ sales
+ force
+ that
+ is
+
+
+very
+ large
+ we
+ could
+ actually
+ have
+ much
+
+
+much
+ more
+ impact
+ and
+ the
+ impact
+ within
+
+
+Salesforce
+ was
+ much
+ much
+ larger
+ for
+ the
+
+
+way
+ we
+ had
+ built
+ that
+ company
+ and
+ then
+ I
+
+
+thought
+ for
+ a
+ long
+ time
+ like
+ I'll
+ just
+
+
+be
+ very
+ happy
+ cuz
+ uh
+ Salesforce
+ and
+ do
+
+
+amazing
+ research
+ and
+ improve
+ a
+ lot
+ of
+
+
+the
+ products
+ we
+ did
+ not
+ just
+ prompt
+
+
+engineering
+ but
+ we
+ also
+ built
+ the
+ are
+
+
+just
+ language
+ model
+ for
+ proteins
+ for
+
+
+instance
+ and
+ biology.
+ And
+ then
+ we
+ had
+
+
+invented
+ prompt
+ engineering.
+ And
+ so
+ we
+
+
+trained
+ this
+ one
+ neural
+ network
+ that
+ can
+
+
+give
+ you
+ all
+ different
+ kinds
+ of
+ answers.
+
+
+And
+ so
+ we
+ thought
+ clearly
+ people
+ should
+
+
+get
+ access
+ to
+ this.
+ and
+ we
+ published
+ a
+
+
+paper
+ and
+ you
+ know
+ the
+ paper
+ got
+ cited
+
+
+by
+ other
+ people
+ at
+ OpenAI
+ and
+ Alec
+
+
+Ratford
+ and
+ Ilia
+ and
+ they
+ said
+ oh
+ this
+
+
+is
+ an
+ interesting
+ idea
+ and
+ they
+ extended
+
+
+it
+ and
+ and
+ so
+ on
+ but
+ we
+ felt
+ like
+ well
+
+
+they're
+ also
+ a
+ research
+ lab
+ so
+ we
+ needed
+
+
+to
+ bring
+ this
+ to
+ real
+ people
+ and
+ Google
+
+
+was
+ just
+ not
+ doing
+ anything
+ cuz
+ they're
+
+
+a
+ monopoly
+ they're
+ making
+ money
+ and
+ more
+
+
+and
+ more
+ money
+ just
+ selling
+
+
+advertisement
+ and
+ so
+ they
+ didn't
+ see
+ a
+
+
+need
+ reason
+ and
+ weren't
+ making
+ any
+
+
+interesting
+ sort
+ of
+ modifications
+ to
+
+
+fundamentally
+ how
+ we
+ search
+ and
+ so
+ we
+
+
+felt
+ like
+ well
+ someone's
+ has
+ got
+ to
+ do
+
+
+it.
+ And
+ so
+ we
+ we
+ started
+ you.com
+ and
+ we
+
+
+felt
+ like
+ it
+ had
+ to
+ be
+ a
+ new
+ company
+ to
+
+
+have
+ the
+ impact
+ to
+ really
+ become
+ a
+
+
+better
+ way
+ of
+ finding
+ information
+
+
+online.
+ And
+ eventually
+ we
+ became
+ the
+
+
+first
+ to
+ put
+ an
+ LM
+ into
+ a
+ search
+ engine.
+
+
+Imagine
+ you
+ know
+ Google
+ Gemini
+ like
+
+
+people
+ also
+ ask
+ and
+ you
+ get
+ like
+ answers
+
+
+from
+ AI.
+ We
+ did
+ those
+ kinds
+ of
+ things
+
+
+but
+ in
+ 2021.
+ So
+ it
+ is
+ different
+ because
+
+
+it
+ was
+ no
+ no
+ one
+ that
+ didn't
+ exist
+ you
+
+
+know
+ a
+ research
+ background
+ where
+ you
+ the
+
+
+whole
+ idea
+ of
+ being
+ a
+ PhD
+ is
+ to
+ do
+
+
+things
+ that
+ don't
+ exist
+ right
+ to
+ create
+
+
+new
+ ideas
+ and
+ and
+ new
+ models
+ uh
+ and
+ and
+
+
+then
+ you
+ can
+ often
+ think
+ about
+ what
+
+
+kinds
+ of
+ new
+ ideas
+ and
+ models
+ should
+ you
+
+
+build
+ the
+ kinds
+ of
+ things
+ that
+ are
+
+
+useful
+ for
+ people
+ and
+ when
+ you
+ ask
+ like
+
+
+oh
+ how
+ do
+ I
+ write
+ a
+ Fibonacci
+ function
+
+
+or
+ how
+ do
+ I
+ write
+ an
+ HTML
+ page
+ that
+ does
+
+
+something
+ it's
+ just
+ obvious
+ that
+ it's
+
+
+better
+ to
+ just
+ get
+ an
+ answer
+ from
+ an
+ LM
+
+
+than
+ to
+ guess
+ get
+ a
+ list
+ of
+ blue
+ links
+
+
+where
+ you
+ then
+ have
+ to
+ click
+ on
+ 10
+ open
+
+
+tabs
+ and
+ open
+ them
+ up
+ and
+ then
+ kind
+ of
+
+
+uh
+ find
+ the
+ answer
+ somewhere
+ else.
+ Uh
+
+
+and
+ so
+ that
+ just
+ seems
+ like
+ from
+ first
+
+
+principles
+ it's
+ better
+ to
+ get
+ an
+ answer
+
+
+than
+ lists
+ of
+ links
+ that
+ may
+ have
+ the
+
+
+answer
+ or
+ not.
+ So
+ that's
+ how
+ we
+ invented
+
+
+that
+ one.
+
+
+I
+ think
+ the
+ biggest
+ thing
+ for
+ us
+ was
+ the
+
+
+pivot
+ into
+ enterprise.
+ That
+ was
+ a
+ really
+
+
+good
+ focus.
+ A
+ lot
+ of
+ folks
+ now
+ realize
+
+
+they
+ need
+ AI,
+ but
+ only
+ the
+ experts
+
+
+realize
+ that
+ in
+ order
+ to
+ make
+ AI
+
+
+accurate,
+ in
+ order
+ to
+ make
+ an
+ LM
+ not
+
+
+hallucinate,
+ you
+ actually
+ need
+ to
+ have
+ a
+
+
+good
+ search
+ infrastructure
+ to
+ inform
+
+
+that
+ LM.
+ So,
+ we
+ built
+ that
+
+
+infrastructure
+ layer
+ cuz
+ we've
+ been
+ at
+
+
+it
+ since
+ 2022.
+ What
+ we
+ found
+ is
+ more
+ and
+
+
+more
+ companies
+ actually
+ want
+ to
+ use
+ the
+
+
+underlying
+ infrastructure
+ for
+ their
+ own
+
+
+solutions
+ inside
+ their
+ own
+ products.
+ I
+
+
+guess
+ you
+ know
+ there's
+ sort
+ of
+ different
+
+
+pivots
+ in
+ the
+ world
+ right
+ you
+ can
+ say
+ oh
+
+
+we're
+ make
+ cameras
+ and
+ now
+ we
+ sell
+ soft
+
+
+drinks
+ right
+ that's
+ a
+ big
+ pivot
+ but
+ we
+
+
+gave
+ people
+ answers
+ and
+ now
+ we
+ give
+
+
+people
+ answers
+ but
+ how
+ we're
+ selling
+
+
+those
+ answers
+ is
+ different
+ and
+ it's
+ good
+
+
+to
+ follow
+ the
+ revenue
+ here
+ are
+ a
+ bunch
+
+
+of
+ people
+ who
+ want
+ to
+ use
+ the
+ product
+
+
+for
+ free
+ and
+ then
+ here
+ a
+ bunch
+ of
+ people
+
+
+who
+ want
+ to
+ use
+ and
+ get
+ really
+ good
+
+
+answers
+ over
+ their
+ own
+ custom
+ data
+ sets
+
+
+and
+ they're
+ willing
+ to
+ pay
+ you
+ follow
+
+
+the
+ people
+ that
+ pay
+ follow
+ real
+ revenue,
+
+
+not
+ like,
+ okay,
+ hype.
+ Some
+ people
+ say,
+
+
+oh,
+ I
+ want
+ to
+ use
+ this
+ product
+ for
+ free,
+
+
+and
+ you're
+ like,
+ okay,
+ that's
+ great.
+ But
+
+
+if
+ you
+ build
+ something
+ that
+ uh
+ companies
+
+
+are
+ willing
+ to
+ pay
+ for,
+ you
+ know,
+ you've
+
+
+built
+ something
+ of
+ value.
+
+
+Some
+ people
+ think
+ we
+ should
+ like
+ slow
+
+
+down.
+ I
+ think
+ we
+ should
+ accelerate
+ more.
+
+
+I
+ think
+ we
+ should
+ accelerate
+ everything
+
+
+a
+ lot
+ more.
+ It's
+ kind
+ of
+ interesting.
+
+
+It's
+ hard
+ to
+ navigate
+ AI
+ because
+ on
+ the
+
+
+one
+ hand
+ there's
+ real
+ impact,
+ right?
+ Our
+
+
+customers
+ have
+ built
+ over
+ 100,000
+ agents
+
+
+that
+ are
+ automating
+ real
+ tasks
+ for
+ their
+
+
+work,
+ right?
+ And
+ they're
+ telling
+ us
+ and
+
+
+they're
+ paying
+ us
+ for
+ it
+ because
+ it's
+
+
+valuable
+ and
+ it's
+ it
+ works.
+ At
+ the
+ same
+
+
+time,
+ there's
+ a
+ lot
+ of
+ hype
+ and
+ around
+
+
+AI
+ like
+ how
+ quickly
+ and
+ how
+ far
+ are
+ we
+
+
+on
+ super
+ intelligence?
+ Uh
+ are
+ we
+ on
+ the
+
+
+right
+ track
+ for
+ that?
+ How
+ much
+ could
+ uh
+
+
+a
+ browser
+ automate
+ complete
+ tasks
+
+
+without
+ knowing
+ enough
+ about
+ me
+ and
+
+
+things
+ like
+ that?
+ And
+ sometimes
+ the
+
+
+timelines
+ are
+ a
+ little
+ bit
+ off.
+ You
+
+
+know,
+ maybe
+ it
+ will
+ take
+ a
+ little
+ bit
+
+
+longer,
+ but
+ the
+ field
+ moves
+ so
+ quickly,
+
+
+you
+ have
+ to
+ mostly
+ think
+ of
+ like
+ 2
+ to
+ 4
+
+
+week
+ cycles
+ to
+ try
+ to
+ move
+ quickly.
+
+
+Okay.
+ And
+ so
+ it's
+ important
+ to
+ think
+
+
+about
+ what
+ are
+ the
+ right
+ applications
+
+
+where
+ you
+ can
+ create
+ ideally
+ virtuous
+
+
+data
+ cycles
+ where
+ you
+ do
+ something
+
+
+manually.
+ You
+ collect
+ data
+ and
+ then
+ you
+
+
+make
+ that
+ decision
+ process
+ a
+ little
+ bit
+
+
+better
+ and
+ then
+ at
+ some
+ point
+ you've
+
+
+made
+ it
+ good
+ enough
+ that
+ you
+ can
+
+
+automate
+ it.
+ And
+ so
+ I
+ for
+ instance
+
+
+didn't
+ want
+ to
+ invest
+ in
+ a
+ bunch
+ of
+
+
+self-driving
+ car
+ companies
+ that
+ said
+ we
+
+
+don't
+ even
+ need
+ a
+ steering
+ wheel.
+ We
+
+
+just
+ need
+ to
+ like
+ have
+ a
+ full
+
+
+self-driving
+ car.
+ And
+ I
+ was
+ like,
+ "Oh
+
+
+man,
+ you
+ can't
+ sell
+ that
+ car
+ until
+
+
+you're
+ perfect."
+ And
+ so
+ that's
+ not
+
+
+generally
+ good.
+ AI
+ is
+ not
+ right
+ away
+
+
+perfect.
+ Humans
+ aren't
+ perfect,
+ right?
+
+
+Humans
+ still
+ make
+ driving
+ mistakes
+ and
+
+
+so
+ on.
+ AI
+ will
+ make
+ some
+ driving
+
+
+mistakes,
+ too.
+ And
+ so
+ it's
+ good
+ to
+ have
+
+
+a
+ steering
+ wheel.
+ And
+ so
+ the
+ companies
+
+
+that
+ were
+ able
+ to
+ eventually
+ get
+ to
+ full
+
+
+self-driving
+ were
+ either
+ the
+ really
+
+
+clever
+ ones
+ like
+ Tesla.
+ You
+ buy
+ the
+ car,
+
+
+you
+ pay
+ for
+ the
+ product,
+ you
+ use
+ the
+
+
+product,
+ you're
+ now
+ creating
+ training
+
+
+data
+ by
+ using
+ the
+ product.
+ And
+ then
+ the
+
+
+eye
+ can
+ use
+ that
+ training
+ data
+ and
+
+
+eventually
+ automate
+ uh
+ the
+ process.
+
+
+When
+ you
+ see
+ small
+ but
+ continuous
+
+
+improvements,
+ that's
+ when
+ you
+ you
+ can,
+
+
+you
+ know,
+ be
+ very
+ motivated
+ too.
+ So
+
+
+that's
+ one
+ of
+ my
+ mottos
+ is
+ better,
+
+
+better,
+ never
+ done,
+ right?
+ You
+ can
+
+
+always
+ improve
+ uh
+ yourself,
+ your
+
+
+company,
+ your
+ processes.
+ Overall,
+ I
+
+
+would
+ summarize
+ it
+ as
+ excitement.
+ I
+ love
+
+
+AI.
+ I
+ love
+ AI
+ in
+ all
+ of
+ its
+ facets
+ from
+
+
+foundational
+ research
+ and
+ thinking
+ about
+
+
+the
+ upper
+ bounds
+ of
+ super
+ intelligence
+
+
+uh
+ all
+ the
+ way
+ down
+ to
+ like
+ how
+ do
+ we
+
+
+make
+ it
+ really
+ work
+ now
+ and
+ get
+ it
+ into
+
+
+the
+ hands
+ of
+ more
+ companies
+ and
+ people
+
+
+to
+ like
+ to
+ make
+ their
+ lives
+ better.
