@@ -1,0 +1,1692 @@
+I study the science of aging,
+and my book is called "True Age."
+My interest in the science of aging
+probably started when I was quite young
+because my father was
+fairly old when I was born.
+He was in his mid 50s,
+and so I became really aware
+of the aging process from a young age.
+So at a time when maybe most
+kids weren't contemplating
+their parents' disease risk and mortality,
+it was something I was always
+inherently concerned about.
+And then when I actually went to college,
+I learned there was an
+entire scientific field
+focused on trying to
+understand the aging process
+and potentially even intervene in it.
+And this really drove me to
+work on the science of aging.
+So my current research
+really focuses on trying
+to actually quantify or measure aging.
+So can we take all of the
+cellular molecular changes
+that people have undergone
+and actually give them a sense
+of how they're doing in
+terms of the aging process?
+Are the aging slower than we would expect,
+or are they aging faster
+than we would expect?
+We all age, but we don't
+all age at the same rate.
+So my lab is really interested in
+can we actually put a number to that?
+Can we measure how fast
+or slow a given person
+might be aging?
+And we think this is really critical
+because it probably has
+implications for their risk
+of disease in the future,
+their remaining life expectancy
+and other things that we all care about
+in terms of our health.
+I think a lot of people
+don't realize how much power
+we actually have over our aging process.
+So a lot of people think,
+"Oh, my life expectancy
+or my risk of getting something
+like cancer or heart disease
+is due to genetics or
+it's just gonna happen."
+But we actually have a lot of ability
+to kind of modulate our potential risks,
+or at least the timing perhaps
+of when these diseases might occur.
+So by actually having people
+understand the aging process,
+the biology that goes into
+it and why that's important
+for disease, we think that
+this will actually help people
+take meaningful steps to
+slow the rate of aging
+and increase what we
+call their health span
+or their kind of time of life
+expectancy free from disease.
+(gentle pensive music)
+(air whooshes)
+(buttons clicking)
+- [Announcer] "Chapter
+1: How we measure age:
+Biological versus Chronological."
+(air whooshes)
+- Most people think of age or aging
+in terms of chronological time.
+So we all know how many
+years we've been alive,
+and we usually measure our
+aging in terms of that time,
+so months, days, years since we were born.
+And we put a lot of emphasis
+and importance on this measure,
+but actually this isn't
+the number that counts.
+So the reason we've become
+so fixated on this idea
+of chronological age is
+because it's actually tied
+to what we consider this
+biological aging process.
+So over time, living systems like humans
+or any other organism,
+actually kind of degrade
+and become less functional over time.
+And we think of this as kind of
+the biological aging process.
+So how are our cells functioning worse
+than perhaps they were before,
+and how have our bodies
+kind of changed over time?
+And the important thing is
+that, unlike chronological time,
+this is something that's
+potentially malleable.
+So we know this from looking
+at different species.
+So you can compare a 10-year-old
+dog to a 10-year-old human
+and clearly the rate at which
+their bodies have declined
+over that time is quite different.
+And we even know among humans,
+you can look at two people
+who are, say, 50 years
+old chronologically,
+and clearly they may not
+look the same in terms
+of their overall health
+status and overall aging rate.
+So really it becomes
+important to understand
+the biological aging
+process, how far we've each
+kind of diverged over time
+and what this might mean
+for our future health.
+So there's actually a debate
+in the field whether aging
+is universal and if every
+organism actually ages.
+Most scientists actually think that aging
+is a universal thing among living systems,
+and living systems will
+inherently change over time
+and decline.
+But some of them actually
+do this at such a slow rate,
+what we call negligible senescence,
+that we actually can't observe
+aging in those systems.
+So usually to kind of tell
+how fast different organisms
+are aging, we look at their,
+what we call survival curves.
+So do you see an increased
+risk of mortality
+in a population as a function of time?
+And we think of that as
+kind of the overall rate
+at which that type of
+species or type of animal
+or plant is actually aging.
+So usually when we think of
+changes associated with old age,
+we think of functional changes,
+so things we can actually see in ourselves
+and in the people around us.
+So we think of changes even in things like
+how fast you can run or walk
+or your ability to go upstairs
+or just how much energy you have.
+And then we also think of
+these in terms of the wrinkles
+on our face, graying, or loss of hair,
+and also, to some degree,
+the diseases that we actually
+see manifest with aging.
+But in reality, these aren't where aging
+is actually starting.
+These are what we would call the emergence
+or the manifestations of aging.
+We really think aging is
+starting at a much lower level,
+so at the molecular and cellular level.
+So if I were to ask
+someone how old they were,
+their immediate response is going to be
+however many candles they blew
+out in their last birthday.
+It's the number on their driver's
+license or their passport.
+And really this number
+doesn't hold that much meaning
+except that it happens to be correlated
+with this concept of biological aging,
+which is actually what
+we really care about.
+And what scientists mean by biological age
+is really the degree to which
+your biology has changed
+over a given amount of time.
+And we think these changes
+are gonna be maladaptive,
+they're gonna lead to more dysfunction,
+more decline, and ultimately more disease.
+A really important thing
+in the science of aging
+is being able to actually quantify
+or estimate the aging process.
+So this is really where
+we get into this idea
+of can we measure biological age.
+There's three major advantages
+that scientists have found
+for trying to quantify
+or trying to measure
+the aging process.
+So the first one is just
+understanding the science of aging,
+understanding the biology
+of why systems age,
+what leads to this and how to intervene.
+The second is it provides an endpoint
+for any clinical trials or any science
+that is actually trying to
+intervene in this process
+to say whether they were
+actually successful at doing so.
+And then probably the third,
+which most people might
+care the most about,
+is it actually gives
+people an understanding
+of their overall health and is important
+for what we call risk stratification.
+So understanding who might be more at risk
+of developing these different
+age-related diseases,
+and from there actually either
+working with a physician
+or reassessing your lifestyle
+and behavioral factors
+to figure out if you can
+actually slow that process
+and monitor it in real time.
+And there isn't one right way to do this.
+And you can imagine you
+can use different types
+of data to do this.
+So some people might actually just use
+your functional abilities
+or the number of diseases
+that you've been diagnosed
+with as kind of an indices
+of how much you've changed over time.
+Another concept is this idea
+that we call phenotypic age,
+which really boils down to
+kind of how you're changing
+on a physiological level.
+These are things that you
+would go to your physician
+for your annual appointment
+and probably are already
+getting measured in a blood draw.
+So they're capturing
+things like functioning
+of different organs
+including our liver, kidney.
+They capture metabolic
+health, they capture lipids
+and to some degree they're
+also capturing things
+like our inflammation and immune profile.
+So when we put these all together,
+you can actually get an overall number
+or show on a holistic phenotypic level
+how you look compared to
+other people your age.
+They give us an idea of how
+your different organ systems
+are operating and kind of working together
+to give you your overall health.
+And then there are even
+more kind of specific ways
+you can do this on a molecular
+level or a cellular level
+where you're really diving
+into very specific types
+of variables that we think
+are where the aging process
+might actually be starting.
+And we think this measure
+of aging is really important
+because it captures the
+physiological changes
+that we actually think
+precede the dysfunction
+that we see arising in disease.
+So we actually think that it's predictive
+of future risk of disease,
+and it's also close enough
+or proximal enough to the disease
+that it's actually gonna
+be able to tell you
+how you're doing.
+So on average, we would
+expect most people would gain
+one year of phenotypic age
+for every one year of chronological age.
+So if you were to measure
+yourself every year
+on your birthday, we'd
+expect it to increase
+at one year every year.
+However, ideally what you
+would actually want to see
+is that your phenotypic age is increasing
+at a slower rate than
+your chronological age.
+And we would think of
+this as a deceleration
+or a slowing of the aging process.
+There's not really a
+right age or wrong age
+to start measuring your phenotypic age.
+So we also say it's never too late.
+So a lot of people think,
+"Well, I'm already too old,
+or I've already developed a disease,
+maybe it's not worth it to me."
+But we actually find
+that there's still a lot
+of malleability in terms of someone's
+phenotypic aging process
+throughout the entire lifespan.
+So we think that people of any age
+should actually be monitoring this,
+and you're probably already
+getting these measures
+when you go visit your
+doctor on an annual basis.
+So it's really easy to kind of
+put these into the algorithm
+and get one more variable
+beyond what your doctor's gonna look at.
+So typically when your doctor
+looks at your lab tests,
+they're gonna tell you if
+any of these biomarkers
+are in the kind of at
+risk or abnormal range.
+But that just gives you,
+we think of that as almost
+like there's high risk
+and low risk, but there's
+actually a whole spectrum
+of how your physiology is behaving.
+And there's a lot of
+information in knowing
+even if you haven't passed
+that high-risk threshold,
+are you close or are you closer to it
+than we would expect for your age,
+or how quickly are you approaching it?
+So this can give you
+additional information
+beyond these traditional risk
+measures that people look at.
+Because of the way phenotypic age
+or these other biological age measures
+were actually derived, the average person
+will have the same
+biological or phenotypic age
+as his or her chronological age.
+If you looked at a population,
+you'd expect to see
+a normal distribution
+where you find most people
+are predicted to be the same biological
+or phenotypic age as
+they are chronologically.
+But we know there's also
+spread on either side.
+And when we look at the
+average, for instance,
+United States population,
+we see that kind of
+that standard deviation
+or how much people kind of
+vary is around five years.
+Granted, you can get extreme outliers,
+so people who look 10 or
+maybe even 20 years older
+or younger than expected
+for their chronological age,
+but most people will fall in that
+kind of plus or minus five years
+of their chronological age.
+If you have already visited your doctor
+and you've got an annual blood test,
+you probably can get your
+phenotypic age test for free.
+So there are online calculators that list
+the nine biomarkers that you
+actually need to calculate
+your phenotypic age.
+These are freely available on the web.
+So all you would need to do is go and find
+your most recent lab
+tests, input the values
+and the algorithm will actually produce
+a phenotypic age measure for you.
+So assuming you are going and getting
+regular annual physicals with lab tests,
+this is something you can already do.
+And if not, you can visit your physician
+or something like a
+laboratory that offers a lot
+of these blood-based tests
+and get these for relatively little money.
+And over time you can actually
+try and modify your behaviors
+and see year to year if you're seeing that
+actually reflected in your biological age
+as you track it over time.
+Aging is the biggest risk
+factor for most of the diseases
+that people worry about, for
+things like heart disease
+and cancer and diabetes.
+And scientists actually
+think that rather than trying
+to treat each of those
+diseases individually,
+if we were to actually slow the rate
+at which people were
+aging and slow the decline
+in our different kind of organ
+and physiological systems,
+we could either prevent or
+perhaps lessen the impact
+of many of these diseases.
+So it's not just giving
+people a longer life,
+but it's keeping them
+healthy and functional
+for as long as possible.
+(gentle pensive music)
+(air whooshes)
+- [Announcer] "Chapter 2: How
+we measure age: Epigenetic."
+- People in the field
+have actually come up
+with what we might call
+hallmarks of aging.
+So one of these hallmarks
+that my lab in particular
+is very interested in is
+this concept of epigenetics.
+And epigenetics might not be a term
+that everyone's familiar with.
+We all know genetics,
+so our kind of sequence of DNA
+that gives rise to our different genes.
+But the epigenetics is really
+what I like to think of
+as the operating system of this cell.
+It's what gives each cell its different
+kind of defining
+characteristics in phenotype.
+So even though the cells in your skin
+and the cells in your
+brain have essentially
+the exact same DNA, what
+makes them different
+is the epigenome.
+So it gives them their overall
+function and structure.
+And the epigenome is actually something
+that has been studied in science
+for quite a few decades now,
+but the actual program or
+system itself is so complex
+that we're only just barely starting
+to understand the meaning of a lot
+of these changes that we see.
+So the epigenome is usually written
+in kind of chemical modifications.
+So there's different forms of these.
+And the one that's actually
+studied perhaps the most
+in aging, or at least in terms
+of trying to quantify aging,
+is this concept of DNA methylation.
+So basically what DNA methylation is
+is it's just a chemical tag that's added
+to specific parts of your genome.
+So you have the A, C, G and T,
+and DNA methylation is actually added
+when you have a C next to a G.
+And the importance of
+this is when it's added,
+it actually closes off
+that part of the genome.
+So the genome kind of folds in on itself
+and that part is no longer accessible.
+So this is how cells know
+which parts of the genome
+to access and not access,
+and this will be different for
+all the different cell types.
+The other thing though is that we know
+this epigenetic program or
+DNA methylation patterns
+are very remodeled with aging.
+So even though a skin cell
+should have a specific pattern,
+as people age, the pattern
+actually gets messed up.
+And we actually think
+that this is giving rise
+to dysfunction in the skin cell
+or their losing their essential identity,
+their ability to perform
+their specific task.
+Every cell in our body has
+a very specific function,
+and this function is really
+dictated by the epigenome.
+The problem is that with aging,
+the epigenome becomes remodeled
+either due to stress or random errors.
+And what this actually produces
+is that each cell is actually
+going to lose its identity
+and not function in the way
+it was initially intended.
+And over time, as more and more
+cells become dysfunctional,
+you can imagine how this
+would produce dysfunction
+at the organ level and eventually
+at the whole system level.
+One form of epigenetics is
+actually called DNA methylation,
+which is just a chemical modification
+to different places throughout the genome.
+So you have A C, G and T as
+the different nucleotides
+in our DNA, and when you
+have a C next to a G,
+they can have this chemical tag
+that can basically turn
+off regions of the genome.
+So scientists actually
+found that the pattern
+of these chemical tags is
+changed quite dramatically
+with aging, and using things
+like machine learning and AI,
+we've actually been able to
+predict how old someone appears
+based on these patterns
+of these chemical tags
+or DNA methylation.
+And this has been come to refer
+to as the epigenetic clock,
+which is basically just
+a way to try and quantify
+biological age based on
+either gains or losses
+in methylation at specific
+regions throughout the genome.
+And really we think that
+the changes at this level,
+this is what we would
+consider the molecular level,
+are what are giving rise
+to the changes we see
+at the phenotypic or physiological level.
+So over time, cells actually
+become less functional.
+They actually are less likely to represent
+what they were originally intended to do.
+And we see this in many diseases.
+So one instance might be cancer.
+So cells that actually have
+more rapid epigenetic changes
+may be prone to be more cancerous.
+And actually my lab has shown
+that when you measure things
+like an epigenetic clock,
+we actually see that
+it's highly accelerated
+in tumors compared to the normal tissue.
+We also see that the
+different organs in our body
+that are more prone to developing cancer
+seem to be aging epigenetically
+at a more rapid rate
+than cells that are maybe
+less prone to cancer.
+Many people might be wondering,
+"How do I actually get my
+epigenetic age measured
+or find out what the
+epigenetic clock says for me?"
+And right now there are some
+direct-to-consumer products
+that actually can provide this.
+This is a lot more expensive still
+than going and getting
+your regular lab tests
+because it relies on much
+more advanced technology
+to actually be able to
+measure all these changes.
+So typically if you were to use
+a direct-to-consumer product
+to measure your epigenetic
+age, you would do this
+through either a blood or saliva sample.
+And the question is
+whether that's actually
+a really good proxy for
+how your different systems
+or organs are aging overall.
+'Cause again, your epigenetic
+age can be measured
+within different cell types and organs.
+That being said, the epigenetic
+clock measured in blood
+has been shown to be a good predictor
+of things like remaining life
+expectancy and disease risk.
+And over time these algorithms
+are gonna get better
+and better at predicting things
+and capturing aging overall
+using epigenetic measures.
+A number of people have
+become interested in the field
+of epigenetic clocks and
+started to actually monitor
+their epigenetic age over time.
+And just like measures like pheno age
+or other biological age indicators,
+this can give people a way to kind
+of track their overall aging process
+and figure out how they can
+change their health behaviors
+to try and optimize that.
+For people who wanna track epigenetic age
+on what we call an n equals
+one, so an individual level,
+we still don't know exactly what changes
+in epigenetic age represent.
+So if you were to track it,
+change something about your lifestyle,
+or you know add a new regiment
+and then see it a change
+in your epigenetic age, it's
+not clear what drove that
+or if that actually represents
+a change in your aging rate;
+verse kind of the phenotypic
+or physiological ones
+where we know a little bit more
+about what these markers represent.
+That being said, there's a lot of interest
+from the scientific community
+in actually figuring out
+what drives these epigenetic changes
+and how we can manipulate and intervene,
+because we actually think
+the point of intervention
+is gonna be better at this
+level since we think aging
+starts at a molecular level,
+so to understand what drives
+changes in epigenetic age
+and what that really
+represents functionally.
+The one exciting thing actually
+about epigenetic clocks
+is they actually seem relevant
+to a wide array of diseases.
+So they are implicated
+in things like cancer,
+so cells that seem to be more accelerated
+in terms of their epigenetic age
+seem to be more prone to cancer.
+But we also see it in other diseases
+like Alzheimer's disease or diabetes
+or even things like some of
+the lung diseases that you see.
+So really the amazing
+thing is that this process
+or this phenomenon is not disease specific
+and actually might be a unifying driver
+of diseases kind of across the board.
+The thing that's most exciting to me
+about studying the epigenome
+and the epigenetic clock
+is that this is actually
+a really powerful tool
+to understand some of the cellular changes
+that we think are potentially
+contributing to a wide array
+of diverse diseases
+across different tissues.
+So we see the same signature
+and same phenomenon
+regardless of the cell
+types we're looking at.
+And then the other really exciting thing
+is that this process, again,
+seems to be something we can intervene in.
+We know that it goes both ways
+and that it actually is
+something potentially amenable
+to being reversed.
+My one worry with people
+constantly monitoring
+and tracking their
+biological age is that people
+are going to inevitably want
+to use this for biohacking.
+And I think we can do this
+up to a certain extent,
+but we need to remember that none
+of these measures are perfect.
+We haven't perfectly
+measured biological age,
+and also the measure you use
+might give you different answers.
+So I think people shouldn't over-optimize
+to a specific biological age measure.
+And if you know that
+the things you're doing
+are good for health, so
+again, these common things
+like diet, exercise, sleep and stress
+and you're seeing that reflect
+in your biological age,
+I think you can be confident
+that that's probably a real result.
+But the one concern is that people will go
+and try a bunch of
+therapeutics or supplements
+just targeting this one number,
+and really that's not the goal here.
+In the end, it's really important
+for people just to realize
+how much power they actually have
+in terms of impacting the way
+in which they're gonna age
+and impacting the risk of disease.
+Our risks of disease are
+not written in our genes.
+Yes, we will probably all age,
+and we're not going to
+essentially stop that,
+but the rate at which that happens
+and the length of time that
+you can maintain health
+and optimal functioning really comes down
+to a lot of what you do
+in your everyday life.
+(gentle pensive music)
+(air whooshes)
+- [Announcer] "Chapter
+3: Is aging a disease?"
+- There's a lot of debate in
+the scientific field of aging
+whether aging is actually disease
+that should be treated
+like we treat diseases.
+My personal take on it is that aging
+is not actually a disease in and of itself
+but it's the process that
+actually contributes the most
+to many of the diseases we care about.
+So that being said, I actually
+think we should intervene
+and try and treat or at
+least slow the rate of aging,
+but we shouldn't think of it as a disease
+'cause there isn't a clear point
+where you say you have
+aged a specific amount
+that you now have a disease.
+And we are all aging
+from the time we're born
+to the time we die.
+And ultimately what's important
+is how do we slow this process in an idea
+that will prevent many of the diseases
+that people are actually trying to treat.
+A lot of people think the
+aging field is focused
+on this concept of
+immortality or curing death
+or curing aging.
+That is a little bit fringe
+to I think a lot of the
+science that's going on.
+And really what the field is focusing on
+is how can we prevent
+the diseases of aging
+and keep people healthy
+for as long as possible.
+And if that ends up
+increasing life expectancy,
+that's almost a bonus.
+But the goal is not immortality.
+Our bodies are set up to
+function in a very specific way.
+This is something we've evolved,
+but over time that function does decline.
+And this is what we actually see
+in terms of manifestations of disease,
+diseases really, once
+your body has reached
+a dysfunctional state in
+terms of one type of process.
+And the reason that our bodies
+actually get to that point
+is because of all the changes
+we think that are accumulating
+as a function of this aging process.
+Granted, there can be other
+things like an infection
+or genetic kind of predisposition
+that might give people a disease,
+but most of the diseases like cancer,
+cardiovascular disease,
+Alzheimer's disease
+are these progressive loss of function
+in our various systems that
+we think is directly driven
+by the aging process.
+So if we can actually
+figure out how to slow
+our aging rate internally, we think,
+and actually science has shown,
+that this will probably manifest in terms
+of our external appearance as well.
+Living systems are really remarkable.
+Through evolution, we've evolved to have
+this beautiful kind of coordination
+and specificity that kind
+of makes us who we are.
+So cells have specific
+roles, our organs are set up
+to function a specific way
+and this really gives us life.
+However, all of these things
+that are kind of determining
+the function of these organs and cells
+actually degrades with time.
+So we think of this as kind
+of the molecular changes
+that enable cells to
+function a certain way
+are rewritten with aging.
+And now cells actually
+lose their specificity,
+they become more dysfunctional.
+As you accumulate more dysfunctional cells
+in your tissues and organs,
+those organs are now
+not working the way they're
+originally intended to.
+And over time, as your
+organs start to dysfunction,
+you actually start seeing
+this at the whole body level.
+So we start seeing overall declines
+in our kind of bigger functional aspects.
+So just our ability to run for a bus,
+or our ability to hear our
+friend say something to us,
+these bigger functional
+attributes are actually degraded
+with time due to all these small changes
+that are accumulating at the
+molecular and cellular level.
+Living systems are also remarkable
+in that we're actually open systems,
+so we can take energy
+in from our environment
+and actually use that
+to sustain ourselves.
+So in general, non-living systems
+will kind of degrade in
+terms of this entropic change
+at a fairly constant rate.
+But actually our systems have adapted
+to actually have a buffer, resilience.
+We can use energy to
+maintain our kind of function
+and structure for much longer,
+but over time this will
+eventually get kind of overpowered
+and we will still see
+this kind of dysregulation
+and functional decline as we
+also see a loss of resilience.
+Aging is really
+personified by dysfunction,
+and we see a lot of this in the diseases
+that tend to arise with aging.
+So one great example is
+a disease like diabetes
+where we actually see dysfunction
+in terms of our metabolic health,
+where we get this accumulation of glucose
+throughout our circulation.
+But there are other diseases of aging
+that are also associated with dysfunction.
+So things like cancer are actually
+our own dysfunctional
+cells that are not behaving
+the way they were initially intended.
+Many diseases of aging
+can actually be attributed
+to dysfunction, decline
+in specific organ systems.
+So something like
+diabetes can be thought of
+as a decline in our metabolic system.
+Things like Alzheimer's disease
+are declines in dysfunction
+in our central nervous system.
+And another disease of
+aging called sarcopenia,
+which is actually the muscle
+wasting that we see with aging,
+can be thought of as declines
+in actually multiple systems
+including our metabolic system
+and also our musculoskeletal systems.
+Until the science actually
+up with drugs or treatments
+to actually try and target aging,
+lifestyle right now is
+actually our best ticket
+in terms of slowing our aging process.
+And this is really because, again,
+living systems are adaptive.
+We adapt to our environment,
+we adapt to the things we experience.
+So you can actually boost
+things like resilience
+through different lifestyle behaviors.
+So for instance, physical
+activity or exercise
+can actually increase our
+resilience and buffer us
+against further stressors down the road.
+We also know that
+different dietary regimens
+can actually increase
+our resilience as well
+and we think slow the
+aging process overall.
+And these aren't new things.
+These are things that
+we've been told about
+from, let's say, our
+mothers or grandmothers,
+you know, eat well, get good
+sleep, exercise, don't smoke.
+So these shouldn't be
+a surprise to people,
+but I think people don't realize
+how much these actually impact
+how fast they're gonna age
+and also their propensity for developing
+different age-related diseases.
+(gentle pensive music)
+(air whooshes)
+- [Announcer] "Chapter 4:
+"Can we reverse aging?"
+- We actually think, as a science,
+whether we can actually
+figure out ways to slow
+or perhaps even reverse
+these biological changes
+that actually matter
+for the aging process.
+We don't know to what extent
+we can actually reverse aging
+in a whole body, although we
+do know that you can reverse
+the age of a cell.
+So this happens in development
+when you have two cells
+from a female and male that come together
+and produce an entirely
+new age-zero organism,
+even though they came from parents
+that perhaps were in their
+20s or 30s or even 40s.
+And we've actually found that in science
+we can do this in a dish.
+So we can activate specific factors
+that can take, let's say, a
+skin cell from a 75-year-old
+and convert it back into something
+that's almost indistinguishable
+from a cell from an embryo.
+So we know that, at least
+at the cellular level,
+this is possible.
+The question is can you actually do that
+in an adult organism?
+For those of us that
+are actually old enough
+to get to go to our high school reunion,
+let's say your 20 or
+30-year-old high school reunion,
+we know that if you were to go there,
+not everyone looks like
+they're at the same
+chronological age, even
+though they probably are.
+Some people look exactly like they did
+when you graduated high
+school, so they haven't changed
+since they were 18, whereas
+there might be other people
+who you don't even recognize.
+And you look at them and you think,
+"I can't possibly be that old,
+we haven't aged that much."
+So we know inherently
+that people don't all age
+at the same rate, and some of us are going
+to be faster agers and some of
+us are gonna be slower agers.
+And ultimately the question is
+how do you become a slow ager?
+Like many of the things we've talked about
+in terms of aging, the epigenome,
+again, is highly dynamic.
+These are things that can go,
+we think, in both directions.
+So you can increase epigenetic
+age, but we've also shown
+that you can actually
+reverse this in cells.
+So Shinya Yamanaka actually
+won the Nobel Prize
+for discovering four factors that,
+when you overexpress these in cells,
+it can convert an old cell
+or basically any cell type
+back into what looks like
+an embryonic stem cell.
+And later as scientists were
+actually applying things
+like the epigenetic clock to this data,
+we found that not only are
+you changing the cell type,
+but you're also erasing
+or essentially reversing
+all those epigenetic changes
+that we've actually used
+to try and quantify biological age.
+So then the question becomes
+how do you do this in a body?
+Can you actually what we call reprogram
+or program cells from
+an old epigenetic state
+back into a younger epigenetic state?
+And then the question becomes
+what does this actually mean
+for our physiology and our health?
+So some people might actually say
+that we have solved the aging
+problem with cells in a dish.
+We can age cells, and
+we can reverse their age
+and essentially reset them to an age zero.
+And then people are now trying
+to actually do this in an organism.
+So right now to start out,
+people are doing this in mice
+where again, in different mouse models,
+you can over express these four factors
+commonly referred to as Yamanaka factors.
+And the scientists have
+actually observed that the mice
+seem to have improvements in
+different functional outcomes
+and there perhaps might be an
+increase in life expectancy,
+although this needs to be
+followed up a little bit more.
+The most amazing thing about this science
+is that we always thought
+aging really happened
+in one direction, that these
+were just stochastic damage
+that you couldn't go back and fix
+because there was just so
+widespread and so much of it,
+and that the only thing you
+could really do was just slow
+the accumulation of this damage.
+But really what this reprogramming
+of the epigenome tells us
+is that this is a lot
+more kind of modifiable
+and elastic than we originally knew.
+So you can actually take
+a cell that has aged
+and is of a given type and
+completely change its state
+using just a few factors.
+And so this really
+opens up this whole idea
+of things like cell engineering.
+So how do we take cells
+and move them to states
+that we actually think more
+functional and healthier?
+And how do we figure
+out what types of states
+actually give rise to health and function
+in our different organ systems?
+And then once we know those states,
+can we move different cells into them?
+A lot of the changes that
+cells undergo with aging,
+including changes to the epigenome,
+actually give rise to
+some diseases like cancer.
+So the risk of cancer
+actually increases exponentially with age.
+And we think some of this
+might be due to the types
+of changes that are measured
+when we look at the epigenome.
+So one hypothesis is if
+you can actually remodel
+or reprogram the epigenome
+to a younger state,
+that you actually might
+prevent some of these cells
+from developing into cancers.
+Now that won't deal with
+some of the mutations
+that might proceed cancer,
+but actually a lot of mutations accumulate
+early in the lifespan.
+And the question is, what
+is happening with aging
+that is still later on pushing these cells
+to become cancerous?
+The epigenetic clock has
+been really remarkable
+in that it can actually track
+aging across a diverse array
+of cell types and organ systems.
+So you can use the same measure
+to track aging in your skin
+as you would use in your
+liver or in your blood.
+And more importantly,
+what we find is actually
+the difference between
+the age you get predicted
+based on the epigenetic clock
+and your chronological age
+holds biological meaning.
+And the reason we think it
+holds biological meaning
+is because it actually seems
+to be somewhat predictive
+or indicative of
+different kind of outcomes
+or diseases in whichever
+organ it was measured in.
+So when I measure
+epigenetic age in the blood,
+what we find is that that
+measure is actually predictive
+of things like remaining life expectancy
+or heart disease risk or diabetes.
+We've actually looked at epigenetic age
+measured in the brain, these
+are people after they've died.
+But what we find is that
+that seems to be correlated
+with the pathology associated
+with things like Alzheimer's disease.
+So we think even though we haven't proven
+that this is causally
+driving these diseases,
+it does seem to be a signature
+for the aging processes
+that seem to give rise
+to the diseases of aging.
+As we continue to develop and improve
+these epigenetic clock measures,
+they'll actually be highly
+useful for tracking things
+like aging and actually
+understanding things
+like disease risk.
+So the great thing is that
+epigenetic clock measures
+aren't just giving you a
+whole-body aging measure,
+but we can actually measure
+it in different subsystems
+and understand how people
+might be differently aging
+across different systems in their body.
+So some people might be more
+prone to metabolic aging,
+other people might be more prone
+to kind of inflammatory aging.
+And that profile, when you
+take it all into consideration,
+might give you a better idea of, one,
+the interventions or the lifestyle factors
+that you should actually
+implement in your life,
+or two, the specific diseases
+that you might be more
+or less at risk for.
+The reason why scientists are so excited
+about the idea of intervening
+in the aging process,
+whether it be slowing the aging process
+or reversing the aging process,
+is because we actually
+think that in doing so
+we can stop all of the different changes
+that are giving rise to the
+diseases that we care about.
+So rather than going after
+one disease at a time
+and having, you know, one type of science
+aimed at trying to cure cancer
+and another aimed at diabetes,
+if we actually could
+reverse or slow aging,
+we could basically eliminate diseases
+or at least postpone
+diseases across the board.
+Right now people are
+using the epigenetic clock
+as more of a diagnostic as
+opposed to a means to intervene.
+So people are using it as
+potentially one indicator
+of how they're aging overall.
+It's not a perfect indicator,
+and it's only capturing one
+facet of the aging process,
+but it can give people some indication
+of their health status and
+potentially their overall risk
+of developing different diseases of aging.
+(gentle pensive music)
+(air whooshes)
+- [Announcer] "Chapter 5: "How
+nutrition enables longevity."
+(air whooshes)
+- Nutrition science is actually something
+that people in the
+longevity and aging field
+have been very interested in.
+And actually for hundreds of years,
+people have been studying how our diets
+and the amount of food
+and types of food we eat
+seem to impact our aging.
+But the science is also really difficult
+because, at least in humans,
+it's hard to actually assign
+people specific diets and
+actually have them maintain those
+for a long enough time to study them
+in kind of this randomized
+clinical trial way.
+So usually what scientists
+end up kind of leaning on
+is what we call epidemiological
+or observational data.
+So they look at populations
+and they compare the diets
+that different people
+eat, and then they look at
+kind of the features of those people.
+Using things like biological
+aging or disease risk
+or life expectancy, do certain
+diets tend to correlate
+with certain outcomes?
+The problem with this is it's
+really hard to say anything
+about whether the diet is
+actually causing those things,
+and also people who tend
+to have healthier diets
+also have other health behaviors
+that go along with them.
+So figuring out exactly what
+components of diet matter
+is really difficult.
+The main dietary component
+that's actually been studied
+in the aging and longevity field
+is actually this idea
+of caloric restriction.
+So more than a hundred years
+ago, researchers actually saw
+that when they restrict
+the amount of calories
+that animals eat, they
+tended to live longer.
+And so this really sparked an entire field
+of studying this concept
+of caloric restriction.
+Caloric restriction isn't starvation,
+it's usually just about a 20% reduction
+in the overall calorie intake.
+And in a lot of different animal models,
+so anything from a worm, fly, mouse,
+people have seen that when
+animals are caloric restricted,
+they tend to live longer.
+One caveat though is that this actually
+may be different depending on genetics.
+So there was a study in mice
+that actually showed mice
+with different genetic backgrounds.
+Some of them benefited
+from chloric restriction,
+some of them had no effect,
+and then actually some of them did worse.
+So we actually think that the
+amount of chloric restriction
+our bodies can tolerate might
+be genetically determined
+and that actually this should be
+a more personalized regimen.
+When trying to figure out if something
+like caloric restriction
+is actually beneficial
+to the aging process in
+terms of slowing aging,
+one caveat is that humans today
+are actually not kind of at baseline.
+We're actually more prone to overeating.
+So some researchers have figured out
+that it might not be
+the caloric restriction
+that's actually the beneficial thing
+but the kind of tendency
+away from overeating.
+Even if you can't restrict your calories
+in terms of what's actually been studied
+in caloric restriction,
+just moving away from over
+consumption or overeating
+and being more in line with
+your actual caloric needs,
+based on your energy out,
+is probably gonna have a
+beneficial effect for most people.
+The discovery of caloric
+restriction was on accident.
+So the scientists
+weren't actually going in
+to try and study how diet was
+affecting aging and longevity.
+But they just happened
+to find that when their,
+in this case it was rats, were
+eating a lower-calorie diet,
+they tended to live longer.
+And after that was first
+discovered a few hundred years ago,
+people continued to study this,
+and it really became a big
+deal in kind of the 1970s
+and 1980s and moving even into today
+where people have tried to
+figure out what is the mechanism
+by which reducing your calories
+into this kind of minimal deficit
+produces a kind of extension
+in terms of life expectancy
+and healthy disease-free life expectancy.
+Diet is probably the behavior
+that's been studied the most
+in terms of trying to affect things
+like aging and longevity.
+So in animals it's shown to
+have a quite marked effect
+on life expectancy.
+But it doesn't mean that
+your diet has to be extreme.
+So when we say it's
+gonna have a big effect,
+this might just mean
+avoiding certain diets
+like overconsumption or
+eating a lot of things
+that we actually already
+know are bad for us
+and just maintaining a
+moderate diet that is in line
+with our energy needs on a daily basis.
+There are really three components of diet
+that seem to be impacting aging.
+So the first is how much we
+eat, the second is what we eat,
+and the third is perhaps when we eat.
+So in terms of how much we eat,
+a lot of science went into this
+idea of caloric restriction,
+but really, again, it's maintaining
+even a slight deficit to no deficit.
+So most of us aren't going to be able
+to maintain a 20% calorie
+deficit for our whole life.
+But as long as we can meet
+needs that are in line
+with our energy expenditure
+and we're not over-consuming,
+we think that's gonna have a benefit
+for overall aging in health.
+The other thing that's been studied
+is this concept of what we eat.
+So a lot of research has
+gone into whether things
+like a plant-based diet
+are actually beneficial
+to aging longevity, and there
+seems to be some evidence
+that a moderately low
+animal protein diets,
+so eating less animal products,
+more fruits and veggies,
+more whole foods is
+gonna be better overall.
+Also minimizing things like refined sugars
+and the things that we actually
+know are bad for our health.
+The third comes down to when we eat,
+and this is really a new field
+in kind of aging and longevity science.
+So again, most people aren't gonna be able
+to calorically restrict,
+but what scientists found is
+actually fasting can mimic
+some of the benefits that we've seen
+with caloric restriction.
+So if people can fast for, you know,
+a number of hours throughout the day,
+so perhaps minimize their
+eating to a small window,
+we think that this can
+actually recapitulate
+a lot of the benefits that we're seeing
+in the caloric restriction studies.
+So there's still some debate
+about when that window should occur.
+So some of the scientists
+actually pointing
+to front loading your calories,
+so eating earlier in the day
+and trying to fast throughout the day.
+But we're also not sure, for
+a lot of people it's easier
+to do the opposite and have just a dinner
+and calorically restrict early.
+So we're not sure actually
+if that would have
+the same benefit as doing it earlier.
+The idea of why things like
+caloric restriction or fasting
+might actually improve our aging process
+and increase our health
+is because we think
+this kind of evokes this idea
+of hormesis in our bodies.
+So what hormesis refers
+to is a mild stressor
+that actually makes our
+bodies more resilient
+and robust distress over time.
+So having these short-term mild stressors,
+whether it be fasting
+or whether it be a small caloric deficit,
+actually makes our bodies more robust
+and we think more resilient against
+a lot of the changes we see
+that increase with aging.
+So what we eat may also change
+depending on who we are.
+So we also know that our
+genetics might determine
+what we should be eating and how much,
+but also our age might change
+what we should be eating and how much.
+So people who are older
+and more prone to things
+like muscle loss or
+weakness might actually need
+more protein than people who are younger,
+where science has actually
+shown that a low-protein diet
+might be beneficial.
+So it's important to keep in mind
+that these things aren't set in stone
+and really need to be considered
+on a personalized basis.
+It's not that easy to figure out
+what the optimal or ideal
+diet is for each of us.
+We don't know exactly
+how things like genetics
+are going to predispose
+people to different diets,
+but one way to do this
+is to actually keep track
+of a lot of these health indices,
+things like our biological age measures
+to actually see how our
+diet is affecting us.
+So if you were to
+completely change your diet
+or introduce something
+like intermittent fasting,
+do you see that reflected
+in your measures?
+The other things are just
+functionally how you're feeling.
+So as people get older and, again,
+might be more prone to
+things like weakness
+or muscle wasting, they
+might actually want
+to increase things like
+protein in their diet
+to make sure they're maintaining
+some of these functions
+that they might see declining with time.
+As we move forward in the science
+and actually develop more of
+these biomarkers of aging,
+I think this will really
+start to accelerate
+our understanding of how diet
+impacts the aging process.
+But for now, what we
+can say is that probably
+the best advice is to not eat too much
+and try and maintain kind of
+a whole foods organic diet
+with not too much animal protein in it.
+People have been really
+consumed with the idea
+of immortality and aging
+for a very long time.
+But the question is, is a
+longer life truly a better life?
+And in some cases, perhaps
+yes, but not always.
+So really what matters to most
+people is quality of life.
+So we all want to maintain
+our health and our functions
+and be able to enjoy the things
+that actually make life worth living.
+So really what aging science is about
+is not just prolonging life at all cost,
+but actually prolonging healthy life.
+So can we delay the onset of disease?
+Can we delay the onset
+of functional decline
+and keep people healthy and functioning
+for as long as possible?
+So we think if we actually intervene
+in the aging process
+itself, that we can delay
+all of the things that actually
+people are scared about
+when they think of aging.
+And that's really the goal.
+We want to increase quality of life
+and maintain that over time.
+And if that produces a longer
+life, that's an extra bonus.
+But that's not the ultimate goal.
+We know that there is
+sometimes a disconnect
+between this concept, what we
+call lifespan and health span.
+So lifespan, again, is just
+the time you've been alive
+between birth and death.
+And what scientists think health span is
+is the time you are alive
+in a more healthy functioning state.
+And that's really what
+we're trying to optimize.
+But sometimes we see a disconnect
+or discordance between these two features.
+So one example is actually this idea
+of the health survival paradox that we see
+between men and women.
+So on average, women across the world
+tend to live longer by
+a few years than men.
+But women are also more prone
+to some of the diseases we see with aging.
+So things like arthritis,
+Alzheimer's disease.
+And really on average, women
+tend to spend more time
+in some of this age-related
+disability than men do.
+And some might argue is that a better life
+because they've lived longer?
+Or would you actually
+want maybe a shorter life
+but more free from
+these diseases of aging?
+In thinking about how we
+actually want to intervene
+in aging and what we want to
+be the outcome of our science,
+this really comes down to this concept
+that we call compression of morbidity.
+So the idea is, can we
+push the onset of disease
+and disability as far away
+so that right before you die,
+you're really compressing
+the timing of disease
+into this really short window,
+as opposed to kind of
+having it earlier in life
+and surviving 20, 30 or 40 years
+with these diseases of aging?
+And we think this is possible
+'cause you can actually look
+at centenarian populations
+and see that they actually
+tend to compress the timing of disease
+into the short window right before death.
+So they're spending the
+majority of their life
+in a much more healthy state.
+And really what we want
+to do is figure out
+how can we have this possible for everyone
+so that we can remain healthy, functioning
+and happy with good quality of
+life for as long as possible.
+Another really important
+thing to keep in mind,
+in terms of longevity science,
+is that we actually don't wanna increase
+what we call health disparities.
+So right now, even though the average
+kind of life expectancy in the population
+is just under about 80 years,
+we wanna make sure that
+we can get everyone
+to a longer and healthier life
+and not just have
+interventions or therapeutics
+that help richer or more
+affluent people get there.
+And really how do we
+make sure that everyone
+can have as healthy and
+long a life as possible.
+(gentle pensive music)
+- [Announcer] Wanna support the channel?
+Join the Big Think Members
+Community where you get access
+to videos early ad free.
