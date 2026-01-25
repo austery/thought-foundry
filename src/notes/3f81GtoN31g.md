@@ -1,12 +1,11 @@
 ---
 area: "tech-engineering"
 author: Lei
-category: technology
+category: software-development
 channel: null
 companies_orgs: []
 date: 2025-08-08
 draft: true
-file_name: talk_with_vscode_dev_lv_peng_ai_coding_future.md
 guest: ''
 insight: null
 layout: post.njk
@@ -14,13 +13,13 @@ products_models: []
 project: []
 series: Vibe Coding
 source: https://www.youtube.com/watch?v=3f81GtoN31g&t
-speaker: ''
-summary: 本期节目邀请了微软 VS Code 团队的 Engineering Manager 吕鹏，深入探讨了 AI 编程工具（如 Copilot）的演进、Vibe
-  Coding 的真正含义、未来程序员角色的转变，以及他从 IC 到 Manager 的个人经历和对工作与生活的思考。
+speaker: '代码之外 Beyond Code'
+summary: 本期节目邀请了微软 VS Code 团队的 Engineering Manager 吕鹏，深入探讨了 AI 编程工具（如 Copilot）的演进、Vibe Coding 的真正含义、未来程序员角色的转变，以及他从 IC 到 Manager 的个人经历和对工作与生活的思考。
 tags:
-- ai-coding
-- code
-- vibe-coding
+  - ai-coding
+  - vs-code
+  - vibe-coding
+  - software-engineering
 title: 和 VSCode 核心开发吕鹏聊 AI 编程、Vibe Coding 与程序员的未来
 ---
 ## 广告时间：Relingo
