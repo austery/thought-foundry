@@ -3,7 +3,7 @@ area: "finance-wealth"
 category: finance
 companies_orgs:
 - 中央银行
-date: '2025-11-07'
+date: '2025-06-25'
 draft: true
 guest: ''
 insight: ''
