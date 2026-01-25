@@ -1,0 +1,899 @@
+All right, everybody. Welcome back to AllIn at Davos. We're here at the World Economic Forum. For some reason, they invited me and I'm here interviewing all the most important people in the All-In style, which is Full Contact.
+>> I'm going.
+>> We're always debating investment ideas on the pod. Well, generated assets on public let you turn your ideas into an investable index with AI. You just enter a prompt like companies benefiting from power plant construction. Then their AI will build an index of curated stocks for you and back test it against the S&P 500. Then you can invest in it just like an ETF. Go to public.com and check out generated assets. Public investing for those who take it seriously. I think most of us agree going into 2026, stable coins and AI, uh, crypto having a huge resurgence and, uh, we were lucky enough to get two of my friends, Brian Armstrong from Coinbase, and Jeremy, who's the CEO and co-founder of Circle. We've known each other for 30 years.
+>> Yeah, it's amazing.
+>> What a long strange trip it's been.
+>> I know. It's great to be with you again.
+>> Yeah. And this is not your first time at Davos. You've been here a couple times. Yeah, I I started uh coming with my last company Breov back in 2008 2009. Um and uh very different time both for it was a different time in the world. there was great financial crisis breaking out everywhere and um uh and and that was uh you know an interesting backdrop and you know also notable I always reference that same week was when the first uh block of the Bitcoin blockchain was minted with the you know Chancellor on the brink uh bail bailout kind of embedded in the in the blockchain.
+>> Yeah, it's fascinating. I think it's Game of Thrones. Chaos is a ladder.
+>> Chaos is a ladder. Yeah, it's and for guys like us who've been through this I guess three times now. We went through it in the do
+>> boom. I think we're too young to have We were You remember obviously that Black Friday in '87, but we were in college, I think.
+>> Uh and so we had our do great financial crisis and then we had co
+>> CO.
+>> Yeah. Which was also pretty spicy.
+>> Uh that was a great disruptor. when you have those moments happen, I'm guessing for you and and many of the founders I talked to, you just think this is the time to build.
+>> Yeah, totally. I mean, constraints have a huge have a huge impact on what an entrepreneur does. And you know, in even in the history of circle, we've had extraordinary up and downs, some of which are are endogenous shocks, exogenous shocks, all of this. And you know back to that 2009 that was that year actually
+>> uh I got my company profitable Freight Cove and um and then not long after it went public. Um and so you know we we we deal with what we're dealt um with with constraints. Yeah.
+>> Yeah. Krite makes for great art is uh I think the old expression. So let's let's talk about your journey with Circle. Uh stable coins obviously are top of mind because we had the Genius Act. uh my bestie uh David Saxs who's our crypto and AISAR for America who's here with me at Davos uh or I should say I'm here with him uh he invited me to come this technology is important why I mean look um when I got started working on this almost 13 years ago um Bitcoin had emerged um and uh it was from my perspective as an internet technologist I was thinking about wow this seems like a new infrastructure layer for the internet like a missing infrastructure layer of the internet. The internet had ways to represent in you know data, media, audio, video uh you know software but there was no notion of money on the internet and there was no protocol for money on the internet and it was very clear at the time that that was going to happen. And when when we started um I wasn't convinced that everyone in the world is just going to use like a new uh a new you know commodity money like Bitcoin. Um my view is that we needed a bridge. We needed to connect kind of the existing fiat system to crypto and to these new networks and um and build like a uh what we called like an HTTP for dollars on the internet and that was the idea and eventually that's called stable coins.
+>> Uh early on we talked about we're building fiat digital currency or fiat tokens or all this but stable coins stuck. Um, but I mean the basic idea is we now have a general purpose, general architecture form of money on the internet, digital dollars that can move just like everything else, but that and and can, you know, transact peer-to-peer uh, which is super super powerful and and and provides a a huge amount of value to people. And really importantly, um, because of the the technology of blockchains, like we actually have like programmable money. Um, and so we're right at the front edge of of a kind of I think a renaissance in how money is used in the world. Uh, we'll we'll come back to AI, I'm sure, because it ties into that. But, um, you know, fundamentally, we just we need a native way to have money on the internet. We need a very safe form of dollars on the internet, and that's what stable coins provide.
+>> And variability and not knowing how much your dollar is worth when you open your wallet or your bank account was a blocker for consumers. Yeah, I mean volatile cryptocurrencies, no one's going to buy a cup of coffee with a Bitcoin, etc., right? So, that's where the word stable coin came from. It's like, well, it's a coin, but it's stable. Um, how do you actually achieve that is a whole different thing and and that's where, you know, the model that we built, which is fully reserved with like ultra safe assets and, you know, have we have regulators look after it and auditors look after it and make sure it's all done in the right way.
+>> And I remember talking to you offline uh about this. It was the easier decision for most people in crypto to go to the Z. The Zug. What is it? Zug.
+>> Zug.
+>> The Zug here in Switzerland or just be based in Zurich or be based in maybe Dubai. And uh yeah, just yolo it and don't worry about regulations and don't worry about audits. Don't worry about regulators. You made a different decision. You told me, "No, I'm going to I'm going to do this buttoned up and proper." And why didn't you go for the quick, you know, uh, I'll just do this offshore and give up my United States citizen.
+>> Why not?
+>> Yes, we have many crypto people right now watching the show.
+>> Yeah. From San Quinton and
+>> Yeah. I mean, look, show's popular there. I actually it, you know, going back to like even in the founding of the company, um, when I looked at like, okay, if if we want to like establish a new way to put like what we think of as regular money on the internet and we want to actually build a new internet native financial system that the whole world uses, like actually uses like businesses are going to use it and and people are going to use it and we're going to like do loans in it. We're going to do all these things with it. like if you want it to work that way, well, you you know, you have to integrate with the existing system and you have to work with policy makers to figure that out. There's just no other way. So, I testified to the Senate in November of 2013 and you know the if you read the the testimony, it's saying all the same stuff now as I as I did then. And
+>> it was received slightly differently.
+>> It re it really was. Yeah. I mean, well, I got a lot of hate very early on.
+>> Take yourself back to that moment in time where you're you know, you're in the right. you're trying to explain how to do this correctly and you get a reaction that is different than what you maybe anticipated.
+>> Well, I think with with a lot of uh technologies on the internet, you know, I I was around I think we were both around in early stages of of the internet, early stages of the web and there's, you know, there's sort of a a very kind of hard libertarian, you know, view and and then there's the, you know, obviously like the statist view at the other end end of that and, you know, I lean libertarian. Um, but I think also, you know, in the early days of the internet, it was like, well, if if we want to allow companies to get on, well, we need to have like regulation for ISPs and we need to be able to have, you know,
+>> secure transactions and SSL and well, then we're going to need people who are, you know, making decisions about who's a valid site and who's not a valid site. And these were really controversial things at the time that I think the the, you know, more anarcho side of things was was against. And now crypto itself, cryptography and crypto kind of birthed out of that. And so like
+>> these are people who wanted to be outside the system.
+>> Wanted to be outside. Yeah. And so, you know, and I think Circle has always kind of tried to find this middle way, which is open public networks, permissionless innovation, building on public blockchains, using open-source infrastructure, and and really what you can do with something like USDC as a dollar and as a technology is far more uh open than the legacy payment systems and the legacy money systems. And so there is a very deep commitment to those fundamental internet ideas. But at the same time like if if you want, you know, Black Rockck to use it or you want to, you know, you want the biggest tech companies in the world to use it or or you just want someone to hold it in a digital wallet and be like, "Yeah, this is actually a dollar and I can rely on it." Like you you end up needing to have this kind of structure around it
+>> for trust.
+>> For trust. Yeah. it trust uh you know remains a key thing and obviously I think you know people talk about in code we trust is sort of the the what you you know kind of put around
+>> easy for a developer to feel that way easy for a somebody who is extremely technical to feel that way right
+>> but for you know a civilian
+>> right
+>> non-anarchist right
+>> yeah maybe you want to understand how the dollar is actually backed
+>> that's exactly right yeah so I think we just took that path and and like and that that was like a harder path. Uh it took more capital. It took more I had to hire you know my first executive was a general counsel and chief compliance officer. Um
+>> well you had to bring those in house I suppose because if you went to a law firm they would be like we don't know and
+>> don't take this risk.
+>> Yeah. I mean I one of the stories actually is that um before you know Jim Brier and General Catalyst would give me capital to when we were starting the company they were like we really need to know that if you do this it's like it's not illegal like we're not going to have some kind of liability issue and so I personally you know on my own with my own money like hired like the top kind of regulatory advisory firm in the world to like go look closely at this like talk to people at the US Treasury Department talk to others like really figure out like can we do this and and actually we could there was there was a path to do it um and and that that's because the US Treasury Department actually had given guidance about how to deal with virtual currency in the banking system. This was in March 2013, so super early. But
+>> yeah, I mean, we needed to like know like,
+>> you know, yeah, is is there a is there a legitimate legal pathway to accomplishing what we want to accomplish? That's always been, you know, important.
+>> And as we've seen, uh there's things that are legal and then there are incumbents. Incumbents will uh use the legal system to try to stop innovators. You've also faced a little bit of that. Yeah.
+>> Yeah. I mean, I I I would say in the entire history of of building this, it's been just there's been huge uphill battles with with regulators and incumbents. And what's interesting is that um I found over the years that um if you if you come into a policy maker or regulator and you say, "Hey, there's this there's a new technology. It can improve things in this way. Um we're trying to figure out how to deal with the risks. There are real risks. like let's not pretend there aren't risks and like let's come up with ways to address that like actually people are pretty interested in talking. Um and so I think there's there's um you know that's there. Um but generally when you go to like the incumbents and say hey we want to like work with you or integrate this because we we kind of need to work with you to make the whole thing happen like a lot more skepticism and and I think kind of constraint there. And so that's changed now. I mean, we're in a very different world now, but
+>> now it's gone from a threat to an opportunity, but there is still a little reticence to
+>> stable coins and crypto by I think some of the major banks and the big players because
+>> they're maybe they're my perception is they're a little concerned that you're too good at what you do
+>> and you might be too far ahead and if you weren't so dextrous at doing this and capable and they started started, you know, 5 years ago, they might feel differently about it. Is my intuition close to your assessment or am I wrong?
+>> I think that that that's there's some truth in that for sure. Um, but it's interesting like it's it's both you and I have this kind of juxaposition against these other eras of the internet and you know when digital media happened and it was like hey you could stream media or you could put up content on the web and you could do all this there were all these digital media startups and the media companies were like well we can do that too and okay our business model might have to change etc. and um digital advertising, you know, okay, well, you can transform advertising into this. Oh, it's more targeted. It's, you know, all this stuff. And um but then there obviously were companies that kind of executed like fundamentally different technical execution, software execution. They built completely different types of utilities with completely different unit economics that kind of turned the product user experience and the and the economics upside down. And those those we know those companies
+>> Craigslist to classifides, Google ad network,
+>> Google ad network,
+>> New York Times, Amazon Marketplace, you know, um and and and many many more like that. And so I think that um
+>> we're in a similar place right now where you know a lot of media companies absolutely and communications companies as well and soft enterprise software companies there's big buckets here retailers like sort of said okay this is like a a new paradigm. It's better for customers. It's I can deliver a better product. Like the economics are better. We just have to do this and we're going to, you know, innovators dilemma blah blah blah. And they make that transition and it takes like 5 to 10 years.
+>> It takes them three times longer than probably the innovator like Walmart and Target actually do an exceptional job. Now the United Airlines app
+>> is uh not terrible, right? I mean it's not Uber but
+>> and this is the difference between like a softwaredriven company and and a non like we're a software company like you know we fundamentally
+>> of course we're going to go faster of course we're going to understand UX so the banks now my understanding is some of them are threatened by the concept of a stable coin having the ability to generate points incentives or in interest essentially and that's kind of the sticking point the Genius Act says hey you can have rewards but you can't have interest and that was I guess where this was able to get through the legislative process. Explain that to the audience. Yeah.
+>> Yeah. So a couple things. Um so if you go back a few years when stable coins sort of emerged um the the sort of all the biggest like regulators bank regulators around the world got together what's called the financial stability board and said we have to have regulations around this like this can't just go crazy. That was also when Libra was coming out and all this. It didn't come out but tried to come out.
+>> Meta tried to do a their own project and
+>> they gave up on that project
+>> based on my insider information because the government felt
+>> they had too much power already with their platform and Zuckerberg said
+>> I have enough heat on this company already. I don't want to have another group of people thinking I have too much power and he shut it down. That's what I was told by interiders. It's interesting is you know one
+>> is that your understanding as well? I have a variety of insights about it, but uh I I think um
+>> you know we're kind of like a a neutral company, right? We're not a giant big tech, etc. But kind kind of coming back to your question, regulators got together and said, "Hey, there is this payment system innovation. It is this thing called stable coins." And they all kind of said, "Here's here's some recommendations for how you could regulate this." And actually all around the world that happened. So it happened first in Japan. there's stablecoin laws and then it happened in Europe years ago actually stablecoin laws and then you know in the UAE and Hong Kong and then in the US with the Genius Act and in all of these stable coins are designed as like a a cashlike instrument a payment instrument they're designed as this like form of money to be used in the payment system and that and that's really at the heart of it right and um and and and that's uh that's how these laws have been written and and it's pretty consistent around the world. So, Genius Act does that, but it also I I think provides so you know as a result under the Genius Act Circle as a payment stable coin issuer we're prohibited from paying interest directly to stable coin holders. It's the same thing in Europe. We're regulated in Europe. Same same rule. Same thing in Japan that you know all these markets just the same. But at the same time, like we're building a we're building a business. uh we do generate revenue and we work with lots of different types of of platforms and markets and distributors and brokerages. We work with everyone from Robin Hood to Revolute to to uh Coinbase to, you know, uh Visa and and and and lots of companies. And so those companies, you know, stable coins are really important too because they are how people hold money, how people make payments, how people trade, how people do a lot on those platforms. And so they want to be able to have the ability to pay rewards or have loyalty programs or incentives and other things. And if if they're making money from the relationship with us, they want to be able to do that. And that's what the Genius Act captured. And I think really um I think it's good. I think it's a good model. Um and
+>> so you're happy with it as is.
+>> We we think it's we think it's a very solid model. And I think really there's some ongoing discussion about well is there a specific set of things that qualify for that kind of those kinds of like loyalty and rewards and other things and and how prescriptive should the law be and it's kind of getting relitigated a little bit.
+>> The banks my understanding uh maybe want to try to kill it maybe some of them who feel the most threatened. Is that the back channel here at Davos? I mean, I I think um banks see stable coins as both a threat and an opportunity,
+>> right?
+>> You know, I I can say we're having more engagement with more banks in the world than we've ever had before.
+>> Okay?
+>> And and so and major banks, global banks, regional banks, banks all over the world who want to integrate this and use it in payments. They want to use it in how capital markets work. Think think about I need to post collateral on an exchange to trade and I'm trading different different assets. Stable coins are a better way to do that. Um and so whether it's in capital markets in in trading in in um in wealth management in payments there's uses for this. And so definitely banks see a lot of
+>> because it's faster and cheaper. It's instant and it's free essentially.
+>> Yeah. I mean if you talk to like a money a global money center bank uh you know you could imagine you know one of those like
+>> I might say JP Morgan
+>> something like that or a city or one of these banks and you if you ask them
+>> how many different payment networks
+>> are you integrated into as a bank and they'll tell you like over 200 they integrate to over 200 different payment networks
+>> and it's all over the planet
+>> it's all over the planet
+>> and it's all different standards I would say
+>> all different standards all different systems etc and so if you if you go to them and say Well, stablecoin networks are like a new payment network. They're like, I get it.
+>> Like, this is, oh, it's on the internet. Oh, it has the attributes of how the internet works. We understand that.
+>> And this will be your fastest, cheapest, and most trackable version.
+>> That's right. And so, we actually we have, you know, there's a global systemically important bank we work with who's actually moving their own money between their own global branches using USDC because it's faster than going through the correspondent bank. trust it more.
+>> Yeah. In in those cases. So bottom line is there's a lot of opportunity for banks.
+>> Bank it is not it's not this is not a black or white thing. I I think I think um you know we'll figure out this rewards thing. I'm very sure.
+>> Yeah.
+>> Yeah. I mean AMX figured it out and a video games figured it out. There was a little rattling even in those cases where they're like hey is this a currency because people are trading it on eBay trading my sword from World of Warcraft or whatever. these nerds are up to and they were like h is that like you have your own currency. It's like
+>> they're playing video games. Who cares? Like can we just move on? There's more important things to do in the world than sweat amx points being traded somewhere
+>> and pretending it's a currency. You're up against a offshore platform that has I think maybe three times the amount of under mass management. Tether
+>> tether who's counting three, four, five times. But you have been catching up pretty quick. Yeah.
+>> Yeah. USDC amongst the largest stable coins has been growing faster.
+>> You're number two
+>> for two years straight. Yeah. We're the second largest.
+>> Tether's first.
+>> Um and we are we are by far the largest regulated stable coin network, right? Um and our, you know, kind of growth in the amount of transactions happening with USDC is is growing, you know, quite a bit faster as well. So, um yeah, we feel really good. I think our view has been to the earlier question um if this is going to be part of the actual economic system. If households and firms and corporations and financial institutions are going to use this and depend on this, whether you're a remote worker who's a software engineer working in Pakistan or you're a a small business that's importing products from Vietnam that's in Brazil or you're a a hedge fund in the US that's, you know, trading derivatives, like you're going to want to know that you have something that is safe, fully reserved, audited, compliant, liquid, available in the global financial system. And you know, when we think about that opportunity, that's an enormous opportunity. The the the TAM of legal electronic money today is about $120 trillion and growing because of monetary easing and things like that. But
+>> of that, the uh there's about $60 trillion, which is physical cash and non-interest bearing demand deposits. So kind of working capital money sitting out there, right? So there's a huge amount of of value stored and used in in as a store of value as a payment system money and stable coins can grow into that and there's going to be you know uh an infrastructure for that that's well integrated into
+>> and the business is there's a float on this large base of capital that gets to underwrite your business if interest rates are high it's boom times uh Tether's making over $10 billion a year on their float you're I'm assuming billions of dollars or low billions of dollars on your float. I'm not sure if that's public knowledge.
+>> We're a public company. You can look it up.
+>> Yeah. So that I mean I'm assuming it's billions. Yeah. Well, I'm not sure if you break it down by that.
+>> We we we we talk about reserve income. Got it. As a as a
+>> line and it's billions.
+>> Uh it's a significant amount.
+>> Yeah.
+>> Uh and so but if it we go into a zero interest rate phenomenon, this could be challenging for the business or not.
+>> Well, a couple things. I mean, if you actually look at what's happened, um, when interest rates were actually very low, uh, we saw thousand% year-over-year growth, two years straight. So, growth was off the charts. Um, when interest rates actually started to rise, we actually saw declines in circulation.
+>> Oh, why?
+>> Well, it's really the price of money, the opportunity cost of money. So,
+>> um, you know, interest rates set a a a kind of cost to holding money and
+>> so the incentive matters.
+>> Yeah, the incentive matters. And so what's interesting is that if you actually look at from uh like December 2023 when basically the forward curve which was sort of the the the the kind of short-term kind of price of money in a sense the forward curve kind of being the market's view of the short-term price of money when that started to fall because the expectation of interest rates came USDC started to grow uh and it and and actually from the from the peak of whatever was five and a quarter five and a half down to where we are which is three and a half or whatever it is. Now, that's I don't know exact percentage, let's call it 3540% decline in the interest rate. We've had a multiund% increase in the amount of of USDC in circulation. And so, um there's an inverse correlation there. And so, I've and I've said this publicly, I've said this publicly in the media, I've said this many many times. I have wanted when when interest rates are really high, I my view is we really need interest rates to come down. Yeah. We really need them to come down because that will help us grow. That will put more velocity of money.
+>> The pie gets bigger. Yeah.
+>> Pi gets bigger and and
+>> which also impacts adoption.
+>> It impacts adoption as well. So more people are investing capital in technology to transform their businesses to grow
+>> right
+>> tech on right and so that is a catalyst and so my view has been that is that is really important and so um you know I think our view is there is some conceptual neutral interest rate um and given the persistence of inflation of around 2 and a half% or whatever it is some people argue is is is the neutral rate should the neutral rate uh and and the kind of baseline of inflation be 2 and a half or 2.8 or
+>> you know where the 2% came from. I I talked about it in our previous all-In episode. I don't know if
+>> I do, but go ahead.
+>> Yeah. New Zealand.
+>> Yeah.
+>> Yeah. There was a a politician in New Zealand was talking to their central bank and he's like what should it be? And he's like I think two and he's like yeah how'd you come up with the number? He's like my instinct.
+>> America's been 2.8.
+>> 4% unemployment 2% interest rates. Both of those are going to be challenged. Uh yeah, both of those are going to be challenged because of very significant techno technological and macro forces.
+>> Yeah. Job displacement, globalization have had impacts on this depending on the country. The the unemployment rate and and also
+>> how many people choose to be employed. I mean when you have a society that is um you know doing as well as ours is or the European Union is some people just choose to not work. labor I think labor participation now is 61 or 62% and then when you and I were coming up it had peaked at 68 69% so it was like
+>> 15% higher
+>> yeah yeah
+>> it's really interesting to think about that changes
+>> tether as a competitor would not be able to operate in the US lots of um reports I'll be
+>> I'm going to be u judicious here claims reports concerns from politicians to the press and everywhere in between and regulators that they're doing some stuff in the dark areas that maybe you wouldn't want to touch uh in terms of the the dark web, dark economy. Uh but rumor is they're going to do a a US version of Tether and maybe try to go legit and audited. uh how do you how do you think about them as a competitor given that they've been banned in multiple geos and there was you know some very big concerns that they might have a run because there they weren't dollar for-dollar backed and people were had all kinds of claims about hey maybe they have Chinese paper and and all these different concerns and they they wouldn't do an att testation and or they would do an attestation with a bank and somewhere in the BVI that nobody's heard of and they a big KPMG maybe doesn't
+>> a lot about kind of I was I was not a tether truther, but I did go down the the rabbit hole because I reported on it uh you know on the pod and talked about it, but they they are they they're a significant player. I'm I'm wondering how you think about them coming to the US and becoming more legit uh and maybe trying to catch up with you in in that.
+>> I mean, look, the the beauty of having the Genius Act Yeah. is that it creates a level playing field. It defines a federal law uh that you have to come in not just be audited, but you're regulated by if you're large by the national bank regulator, the OC,
+>> which is a very serious regulator, a serious credential regulator. And um you know we we've conditionally we've received conditional approval for uh uh something called first national digital currency bank which is a national trust bank uh that we're setting up to be part of how we uh operate USDC as well. Um and uh but but again level playing field uh if you want to comply and build a product under that regulatory framework you can do that and I think many people will um and this is like when net neutrality happened and common common carrier rules came like anybody can get into providing data services to the internet anyone can build you know these things so
+>> that's great and so uh free market clear rules love it um so My view is there's absolutely going to be more competition and my my view is also that um the structure of this market uh stable coins are network businesses meaning they're they they actually exist as platforms and utilities on the internet like the USDC and our stable coin network is literally the the software protocols but it's also the tens of thousands of applications that have integrated to the APIs and every time an app integrates you know cash app just said, "Hey, we're adding USDC support." That's great. Now, all those Coinbase has it, Revolute has it, you know, banks have it, Visa's using it. Every time someone adds it, you know, Stripe merchants, Shopify merchants can use it. Every time someone adds that, it adds utility to the network and it adds network effects. And then the next developer who comes along and says, "Hey, I want to build an app that uses digital dollars, etc. Which one should I use?" Well, I have interoperability with all this stuff. Great. So you have these network effects that are really key and then you also have, you know, what I call liquidity network effects, which is um the the ability for one to easily get it and use it within banking systems all around the world. So we've built out this incredible liquidity network by being regulated in Singapore, you know, in the UAE, in the European Union.
+>> And this is an easy thing to do. I mean, this is
+>> this is a huge build.
+>> Yeah,
+>> it's a huge build. and and now it's at a point where you know
+>> and it's defensibility
+>> it is it's defensibility and we have you know pipes in a sense where you know the some of the biggest capital markets participants in the world company like companies like black rockck can enable uh a tokenized fund that enables USDC to come in and out of it and their institutional participants know that'll work right so I think it's a long-winded answer but the answer is essentially we feel like we've built a great platform and a great network and we have really strong network effects and they're accelerating and we've been publicly audited as a corporation.
+>> Yeah.
+>> As a New York Stock Exchange governed, publicly listed SEC supervised company now for for a period of time, but more broadly for a long time.
+>> And when companies are going to choose what they're going to build on and what they're going to use, they're going to look at all that.
+>> Yeah. The footprint matters.
+>> It it does. And so um the marginal value of a net new dollar stable coin coming into the market is essentially zero. Yeah, you need you know all these things are are needed.
+>> And what do you think about this concept that everybody's going to have their own stable coin? There'll be an Amazon one. Obviously PayPal's added one. Do you think that's realistic or do you think people are going to be like that's just I might as well just use Circle?
+>> Yeah, I I don't see that. I think this is a lot like other internet platform markets like everyone doesn't need their own data center. uh everyone didn't need their own vertical search engines, you know, everyone, you know, there's a lot of things that people thought everyone didn't need to build their own video platform. Yeah. You know, and so um internet scale utilities um you know, achieve network effects, they achieve unit economics, they achieve developer flywheels, like all these things and
+>> and they tend to lower their prices over time.
+>> It tends to get Yeah, it tends to get um you know Yeah. more and more economical and more and more capable and and so um you know there there's there's a lot there's a a lot one would need to do to to do that and I think even even the biggest banks um uh who who have pretty big technology budgets uh may reach that same conclusion.
+>> What worries you now? What's 2026 forward looking like? What do you what keeps you up at night? The opportunity is obvious. I think you've explained it perfectly. Yeah, I mean look, I I think um we're at an interesting place where um we we have a big piece of the regulatory clarity done. Um there are more pieces that are that are needed. Um so there's work, you know, sort of related to markets, related to how digital tokens work. That's actually really really important because we believe in kind of tokenization as a phenomenon, smart contracts as a way that people are going to like intermediate things on the internet. Um, so there's there's there's more that's needed there. Um, and I think now, you know, I think one of the things that concerns me is sort of the the the the changing geo geopolitical geoeconomic kind of landscape, right? Which is um there's, you know, there's lots of different points of view that are being taken on kind of where economic alignment is, etc. And as as a global company that is building technology that we want to make available globally, that introduces new complexity, right?
+>> Yes. There we are entering an era of new alliances and national champions.
+>> Yeah, for sure.
+>> And you're an American company and America first and so yeah, you might be looked at differently based upon how the American Yeah. U enterprise is you know generally done.
+>> Yeah, that that is very true. Our headquarters is Freedom Tower in in New York City. um you know and and um at the same time you know the technology of these networks there's an opportunity actually to to develop versions of this that are more geopolitically neutral geoeconomically neutral so that if you're from India or you're from Brazil or you're from Southeast Asia or you're from the Middle East like you can build and these are high growth markets that you're comfortable building on this with a variety of different nexuses of economic relationships. And so that's something we think about actually.
+>> Yeah. Like a Eurobased stable coin.
+>> We have the largest euro based stable coin.
+>> Uh h how many currencies have you done that with so far?
+>> We've really only focused on dollars and euros. And
+>> why?
+>> Well, I think um those are those are two widely adopted currencies uh for both both as a store of value and as freely floatable, circulated uh tradable currencies. Um, and we have a big commitment to the European market. Um, and so it's also part of just being uh, committed to that market. We think it's a big opportunity. And then for everything else, we've really built we've built a technology stack for other stable coin issuers from other markets now that there's laws around the world.
+>> Ah, so if they want to do their national stable coin, absolutely centralized. And are you doing that with Bermuda or some sort of partnership? The the Bermuda partnership is related to helping them kind of have digital dollars be and and have e economic activity, commerce activity, treasury activity all happen on chain.
+>> Got it. So that's infrastructure play, not I don't know what their dollar is.
+>> Well, they're a dollar. It's it's a dollarbacked uh it's a dollar backed currency. They're already their own stable coin. But um but in other places, you know, in in you know, the Philippines or in Mexico or in Brazil or in Japan and and other markets or Australia, Korea, there are stable coins coming and we want to make sure that we can provide technology so that they can do all the same
+>> to the government
+>> uh or to banks.
+>> Well, more to the private sector um because stable coins are are private sector innovated, but these companies all need to be regulated by the government. They need to they need to be following the same So easier for you to partner with a major partner in those markets.
+>> Yeah. And and we want to see that grow and flourish. You know, this idea of an internet financial system where, you know, all the economies of the world can be onchain and all of the contracts and financial contracts and markets and capital formation, lending, everything can happen on chain. It's obvious that small businesses and people who are um very and poker players, people who are, you know, concerned about their fees
+>> will and and you you know are focused on that are being driven to stable coins. Like they they get it. They're like, "Yeah, I'm I'm doing my design job for you know, I'm a designer in the Philippines working for somebody in India." They're starting to figure out, hey, I I don't need to pay these. And then consumers are starting to figure it out. Maybe if they're
+>> like me, a poker player, you're sending a lot of wires. Every year I send, you know, tons of wires back and forth for different poker games.
+>> Yeah.
+>> Well, now you know Polymark and Cali both you fund your account with USDC,
+>> right? Speaking of that kind of
+>> and well, that's because that audience understands because they're always looking for edge.
+>> Speed speed
+>> and but they're looking for edge in a poker game like you as an if you were a novice and I was an expert. I was Jason and you were Phil Helm Youth, whatever it is. um you know it's got a bigger edge on them. It's an inside joke. Anyway, point is like you might have a 1% or 2% advantage but
+>> it compounds after a hundred
+>> poker games to be a bigger number.
+>> It does.
+>> This is why the rake matters and you know gamblers uh and people like to wager things.
+>> You know who the biggest users of USDC are?
+>> Yeah, that's what I was kind of getting at.
+>> It's actually it is a form of gamblers
+>> which is it's the biggest electronic markets firms in the world.
+>> Got it. the guys who need the the they need every edge in terms of milliseconds and cost and capital efficiency to be able to move capital in markets because at the end of the day they are algorithmically trying to figure out the very next best thing to do. And if they have dollars that operate with the physics of the internet and the cost efficiency of data, they have an edge. And so they love it.
+>> They love it. And then the people who are sending money home to their family,
+>> they love it, too.
+>> Yeah. because they're like wait I'm paying Western Union 12% of this is a
+>> right they can have a wallet they directly send to their counterparty and it's like wait a minute this wait I h this literally arrived and there's proliferation of of of these digital wallets now that also can where you can hold it in USDC but spend it through Apple Pay uh that are being issued all around the world too so people can store value in digital dollars use it through payment terminals and uh that's pretty cool Turboax
+>> thesis there cuz that seemed like there's something underlying that that I wasn't getting to. I mean, it's obvious that like okay, there there's money flowing through there, but what's the big picture there?
+>> Well, Intuit's an amazing company. Obviously, they've been uh around for a long time. They have franchises that are huge. Credit Karma is a huge franchise actually huge. Uh they're they're growing what they provide to people through that franchise. Um QuickBooks obviously we all know if you run a small business you use QuickBooks and actually QuickBooks um you know invo they they invoice uh people through QuickBooks and it's actually trillions of dollars of transactions a year that are invoiced through QuickBooks
+>> and um you know if you can invoice people and settle in USDC that's better than AC and it's faster and you can imag you can imagine a world where um you know small businesses can gain an advantage from something like that
+>> reconciliation you're a Turboax user and you file your taxes and you get a refund. Imagine being able to get your refund instantly.
+>> So, I think there's a lot of cool stuff in it's a very innovative company. It's it's a tech company, you know, that is in these uh financial technology adjacencies and so we're super excited about the collaboration that we have.
+>> I don't want to say there's a loser in this, but there are people who are going to be challenged by it. How does American Express, you know, and Bank of America look at Circle and stable coins in your mind if you were to
+>> because they must call at some point or
+>> do they not?
+>> I I think um all these companies have an opportunity to use this technology, right? They have this they have an opportunity to use this technology to improve how they provide payment utility. they have an opportunity to use it if if their customers want to interact with the whole onchain economy and onchain investments and what's happening there from a from a wealth management perspective. Um I I eventually think that um you know there's going to be more credit products that are actually built using stable coins.
+>> How would that work?
+>> Well, basically
+>> and what's the advantage?
+>> Well, so already today um the there there have been trillions of dollars of loans made in stable coins through DeFi protocols. Yes. So you take your USDC and you effectively um uh uh deposit it into a protocol and on the other side of that protocol is a borrower and you're paid an interest rate for the amount of time
+>> you become the house you become the bank. the individual does actually I mean these are as someone years ago said these are like self-driving banks meaning it's software machines where the risk management the collateral management the liquidation all of the liquidity that's there is all just smart contract machines that we can all observe in real time perfectly auditable in real time transparent you don't have that with a bank uh so you have a really interesting thing there and right now a lot of that is like lending to people who are borrowing to do things like investing like margin u margin loans I a million if I own a million dollars in Bitcoin and
+>> yeah I want to spend $100,000 of but I want to liquidate any bitcoin somebody else can make some point
+>> and you can you can borrow USDC against your bitcoin and so on but I think this is like this is the early stage of that and so I think our view is that if you have these digital cash things like USDC that you can create um lending protocols that are are lending for you know I want to I want to you know hire a new employee or I want to uh you know I need some new uh equipment for my kitchen and my restaurant or
+>> factoring equipment leasing
+>> all all these forms of lending right can be done uh and the risk that is taken there's there's real risk there can be underwritten and the insurance on the risks failing can be priced and so you can build credit markets entirely in software entirely with software machines no
+>> storefront
+>> coming into play
+>> AI plus these these sort of uh smart contract machines and stable coins I think creates a really interesting little cauldron
+>> for credit market innovation.
+>> Yeah.
+>> And um I I have a glean in my eye which is imagine a credit market that worked like Adwords. Imagine something that was that efficient and could clear and settle uh credit decisions at the speed of which an auction happens for attention.
+>> Yeah. And so like those kinds of things will become possible and that probably would be pretty good for people who are on the other side of of of credit need.
+>> Yeah. If you think about also monetary velocity
+>> than the economy, you can get more things moving.
+>> Exactly.
+>> More jobs created, more chances, more swings at bat, more shots on goal.
+>> So money velocity increases. And I think these kinds of credit intermediation models powered by AI and blockchain networks can actually further increase money velocity. And you know we we have a we have a a a mission statement to increase global economic prosperity through the frictionless exchange of value. That is literally our mission statement. And that people a lot of times they think exchange of value means like oh like making a payment like no value exchange is sort of time value of money transformation. And it's sort of I have value I don't need right now. You have you you have a need for that value and I'm going to use time to transform that
+>> and and then you know create new things from it. And that's where actual growth comes from. So that's what we want to see.
+>> One of the interesting things since we're here talking politics at Davos, you and I are talking tech and but politics is, you know, one of the big topics here. So we'll we'll sort of end on that a little bit and get your ideas and your thoughts on it. There's a movement towards socialism in New York City, my hometown. It's kind of heartbreaking for me to watch. California is uh seizing the billionaire's assets, literally asking them to write down and audit everything they own, put a value on the painting or the piece of jewelry they bought for their spouse. And uh yeah, we'll just take 5% of it once. and they lost uh 200 billionaires and a trillion dollars worth of uh and and they and they don't seem to have any problem with it as a technologist, a builder, and a capitalist as as long as I've known you. Um what do you think about this moment in time us Gen Xers are living in watching this socialist movement?
+>> It's interesting. I just moved to New York City. Yeah. Just in time.
+>> Just in time. Yeah. By the way, that's costing you I think you're gonna have to pay 2% more a year, but I don't think you're an income guy. I think you're more of a cap gains guy.
+>> Yeah. Look, here's what I would say is and and actually I was with Daario from Anthropic a couple times over the past couple days and he obviously talks a lot about um you know kind of the economic disruption, labor market disruption, what's going to happen with AI.
+>> He's not a doomer, but he has deep concerns. his he has deep concerns and I also do which is when I look at uh the very positive thing which is that I think we're going to we're going to see an acceleration of GDP growth pick your time frame 3 5 10 15 years like we're going to we're going to see I think an extraordinary period of of of economic growth acceleration
+>> even more than the internet and PCs
+>> more than the internet and PCs this is this is a very very very strong very very big transformation
+>> and But where most of the the the labor is actually executed by AI machines.
+>> Yeah.
+>> And the capital accrs to the capital owners,
+>> right?
+>> And that's just kind of there in front of us.
+>> Yeah. It's the fundamental nature of capitalism.
+>> Fundamental nature. And and I think um that is just going to challenge us in ways that we haven't dealt with. Yeah.
+>> In in in a long time since other periods.
+>> Labor was necessary for capital.
+>> That's right. to uh succeed.
+>> Yeah. The industrial revolution was mechanized human labor, right? Yeah.
+>> This is this is, you know, mechanized AI.
+>> By the way, the CEO job seems like ripe for AI doing a better job than we would do at times, right? Like I don't know if you've
+>> I use I use AI all the time in my Do you ask?
+>> I don't know if they realize what they're interacting with. No, but I mean I I literally when I was talking uh to Brian from Coinbase, our friend, he um said he's got all of his data
+>> into uh a proprietary LLM internally. He said this on the on the program. I'm not speaking out of school.
+>> And that he asks it, "What do I need to know about my organization?" It's like, "Oh, there's non-conensus about this important issue in the corner over here." And he's like, "I didn't know that."
+>> Like, whoa, is that a coach or is that like a parallel?
+>> Yeah.
+>> Like another like CEO? Is it a uh a duplicate CEO? Did you clone yourself? It's like how do you think about that?
+>> I mean, I I think about it all the time. Um I I you know, I'm pushing very hard to encourage that we you are all inside of Circle doing more with AI. We're we're making sure obviously with safety and compliance in mind because we're a regulated company.
+>> Commissions matter.
+>> Yeah. So there's there's there's a lot of of of work. We invest a lot in that. But nonetheless, you know, creating the avenues so that that awareness and understanding can be there and that as leaders we can turn to that. I I I put a a Slack post in in a Slack channel recently that sort of said if if you want to become a a a great manager at Circle, probably the one of the best things that you could learn how to do is manage AI.
+>> Yes.
+>> And and so, you know, invest in how you manage AI and AI agents. actually that's how you might actually become a better manager and leader through that and I mean that
+>> it is one of the if you think about the tasks of these product managers who would run the standups or you know that your mid-level manager historically it's to keep tabs on a group of people and their targets and their time frames and who's excelling and who's got blockers AI is kind of better suited for that
+>> really good
+>> and so the a great middle manager which is a derogatory term but let's just say use the word manager a great manager should be able to manage 10 groups using say Claude's co-work. I don't know if Have you been playing with it yet?
+>> It's incredible.
+>> It's wow.
+>> It's really incredible.
+>> I mean, it's out a week and I'm like I I'm sitting there like
+>> we haven't deployed that inside the company yet, but I've outside looked at it and used it. Um,
+>> what impresses you about that?
+>> I mean, look, the the ability to take tasks that I have to do and just teach them and then it just can do them is extraordinary. And I'm trying to get this deployed in my household, too. But, um, it's it's really amazing. interesting way to do it is uh because I I went down this rabbit hole like estate management stuff like when you have to deal with this when you get a second home or however many you wind up having. Um
+>> notion is I think the best solution right now because notion put AI into it. Do you use Slack personally too for your domestic affairs?
+>> Uh you don't have a domestic
+>> I don't have a domestic slack.
+>> Okay. I have a domestic slack and a domestic notion. So I took the stack from the office and I just did it at home. And what that did for us was uh the people who bridge you know the family office and this you know can kind of they know the same tool stack then notion has been investing in their AI so much
+>> that when you do a query like an AI query of your notion and you're like hey this house with this HVAC you know this issue it's like answer you're like oh my god that would have taken like three phone calls in an hour. Uh and I think it's going to change everything about how we work. Yeah.
+>> What what what else did Dario think? I I think I might have cut you off before you.
+>> Yeah. I mean, look, I I think the big picture there was just like um whatever your politics are, whatever you think about taxes, whatever you think about the social contract,
+>> all that's I think in the coming years going to kind of have to get thought about again. Yeah. In different ways. And I And I don't think it's going to h it's not going to be the straightforward answers that we've turned to. No, it can't be. And so that that's why I I you know my my answer is like yeah there's things California, New York, etc. are doing, but I think when we when we look at that in comparison to the the broader political economy that we're going to have in front of us, those will seem uh modest in comparison to what we've got to think.
+>> By the way, we fixed it in startup land long ago. It's called stock options. And if you look at the Trump accounts, which Invest America, Michael Dell did, and Brad Gersonner and a number of our friends,
+>> um,
+>> if the 42% of Americans who don't own an equity, and you know, are not part of that, uh, let's just say it's 50 because some of them own them kind of passively. Half the country doesn't own equities. If everybody had equities in a superanuation fund like they have in Australia and they're watching them go up, then you're not like, well, right,
+>> screw those guys at Amazon and Apple and Google.
+>> Being stakeholders in the success of this technological transformation is critical.
+>> Yeah, that would I think solve so much of the problem. Jeremy, I could talk to you for hours. You and I have talked for hours in our lifetime about all these paradigms. Um, continued success and it's just a pleasure to to spend time with you. It's always like one of the great discussions I have.
+>> That's awesome.
+>> I can't believe it. George Curts is here. He's the CEO and co-founder of Crowd Strike.
+>> This is your second Davos.
+>> Yes.
+>> Why are you at Davos? Obviously, everybody knows CrowdStrike. Yeah.
+>> We'll get into it. Why are you spending uh the week at Davos?
+>> Well, I have all the world leaders here and all the best company CEOs are here. So really it would take me a year of activity and flying around the globe to meet all the people that I need to meet and uh it's just a fantastic opportunity to meet customers and get business done.
+>> Yeah, it's efficient.
+>> Very efficient.
+>> It's this tiny little ski town.
+>> Yep.
+>> It's not fancy at all. This is in Aspen
+>> and everybody's within five blocks once you get through security.
+>> Yeah.
+>> Speaking of security, AI has had or is going to have I want to get your opinion on this a profound impact on defense and also offense. black hat, white hat, everything in between. What is the attack vector that AI is most effective at sitting here in 2026?
+>> Well, there's a couple of different areas. One is if we think about the adversaries, I kind of I kind of create a pyramid where you've got nation state at the top, very sophisticated, but less of them. The middle band of the pyramid, okay, is e-crime, more of them, little less sophisticated than the top, and then the bottom is just activism, okay? So essentially you're minting new adversaries because you don't have to have all the knowledge that you had to have in the past. You can ask any number of uh LLMs and you can get answers back. So what's happened is the attack timeline has been compressed. You can automate all of these sort of attacks and you can do it with a level of sophistication that looks like a nation state. That's one of the greatest areas of exposure is the speed and the sophistication has dramatically increased
+>> because the answers have been compiled.
+>> Yeah. The scenarios can be run even by somebody who is a level six hacker out of 10. I'm just making a number up here.
+>> And they can become an eight. So just like a developer using a co-pilot goes from being an average developer to an above average. The same thing is happening with hackers.
+>> Absolutely. And one of the things that we're seeing is autonomous malware. So most people are probably familiar with malware runs on your computer. Typ typically people would use anti virus to protect against that malware. But what we're seeing now is prompt only autonomous malware, meaning I can drop uh the prompt on your computer by a variety of means. And then it will autonomously interact with an LLM and it will give a unique fingerprint every time it runs. So your computer is different than the next guys. You have different data and it will begin to prompt its way to getting to what it needs without ever phoning home to someone controlling it.
+>> Oh wow. So, just to unpack that and translate it, I did a little hacking in my day in the 80s. Okay. A little phone freaking mainly. We'll get into it offline. All right. I think
+>> I I had a Haze 2400 guilty charge. I started with the Ventel 300 bod. I think we're of the same.
+>> I had a 300 Haze.
+>> You had the 300 Haze.
+>> It was a tank.
+>> It It literally had such a great form factor that's never been repeated. This great like rectangle. But
+>> we're old.
+>> We are old. People are now saying, "Hey, I'm going to use the Comet browser by Perplexity. Chat GPT's got a browser. Claude has an extension." And it's really wonderful to say, "Hey, get all my emails from LinkedIn and then put that into a database and add it to my CRM."
+>> Wonderful. You watch it work. Get me the cheapest flight. The same thing can be used by an adversary to get on your computer.
+>> And one of the great ways is detection in security. You're in the business of detecting the attacker. But what you've just informed me of, which kind of blew my mind, even though it's completely obvious, is the LLM can say, "I'm going to do a thousand attacks today, and I'm going to make each one different and unique."
+>> And unique. Absolutely. They're unique.
+>> So scary.
+>> They're not actually code because they're prompts, right?
+>> And traditionally, malware would phone home. They would be there would be like a tether, right?
+>> So you'd always be able to see the signature of something phoning home. Now these can run autonomously, whatever without ever phoning home,
+>> like a sleeper agent. You like you drop them into America, 20 years later they start pursuing but they never have to return to base.
+>> Exactly.
+>> How does one counter that?
+>> Well, you need AI to counter it.
+>> Okay.
+>> And u I mean that's been a big part of the success at CrowdStrike. When I started the company, I founded in 2011. It was using say AI but machine learning at the time to detect uh malware that's never been seen before. Now, obviously that's evolved into Gen AI and really leveraging basically the the large data set that we have that we've amassed over 14 years to train our own models to be able to counteract with the speed that you need what the adversary is doing. So, we took, if you think about it, there's only a few ways to break into a bank. I'll use this analogy, right? You can drive there, you can walk there, you can use a gun, you can blow the safe, but at the end of the day, you got to get the money and you got to get out. Yeah.
+>> And these it's the same way in the computer world. There's certain we call indicators of attack. We've trained our models to look for these. So it doesn't matter kind of what you look like or what car you're driving. We can identify that. A big part of our success has been the AI we've built over the years with this tremendous data set.
+>> Yeah. So you might be able to get into the bank, but at some point you got to leave with the diamonds. You got to get to the safe.
+>> Exactly.
+>> That's where you can catch them.
+>> Exactly.
+>> Uh you mentioned state actors and you mentioned for profit. When we look at a country like North Korea, they need revenue.
+>> Y
+>> hacking is pretty great revenue source. They were even
+>> using AI, my understanding, and I'm sure you've been following this to get developer jobs in the United States, convince Americans to put laptops in their homes
+>> so that they could remote work. Talk to me about that attack vector actually infiltrating companies as employees because of this remote work nonsense.
+>> Well, we were the one of the first to ever find that. So we were actually going through developing some new AI algorithms. Yeah. And we saw something that was called signal which basically strips the noise from the signal and we saw the signal and we said this is really weird and we investigated it and we said okay this looks like somebody using remote tools to you know what's going on here and we went further and then we said we think it's North Korea and we think that it's an employee who or the company thinks it's an employee. So when the R&D team came back to me, they said, "Okay, we want to notify our customers and we want to say we think we found this, but we have to tell them that the employee that they think is an employee isn't really their employee."
+>> Yeah. The the phone calls coming from inside the building.
+>> Exactly. So for us, it was, you know, when when you have a piece of malware, it's like, okay, that's bad. You can detect it. But when you have to tell a company that their employee may not be their employee, there's, you know, you have
+>> it's a little gentle. Like
+>> you have to be gentle. It's you're letting them know just how incompetent they are when it comes to security. I said it, not you.
+>> Okay. Well, it it it's hard to find these guys, but any event, we we found 40 of them. We were right. 40 of them.
+>> That that's for the first run. We found hundreds now over
+>> hundreds in America.
+>> Yeah.
+>> Now, they were doing it, my understanding is for the highpaying salary to fund stuff in North Korea. Is that correct or not? They were doing it to get trade secrets.
+>> They were they were doing it to buy access. Why Why breakin when you can just log in?
+>> Oh my god. Yeah, you know, so it's a lot easier to get somebody hired. So, true story. So, we we actually say we think this employee is not an employee. Company investigated. They investigate it and they go, "Yeah, you were right." I said, "Well, tell me the story." And they said, "Well, we we went to this person's boss and we said, "We don't think that's that's a real person." And they went through all the reasons why. Finally, they said, "It's, you know, we think it's a North Korean." And the guy, his boss said, "Well, do we have to get rid of him because he did such good work?"
+>> Oh my lord. So the value of a top tier developer is so high that you'll take us by.
+>> Yeah, exactly.
+>> It's like ah, you know, we kind of need him to ship.
+>> Yeah, he was doing such good work.
+>> He was he was shipping. This is one of our best performers. What now?
+>> I mean, remote work has opened up so many vectors. You believe in remote work. Do you support it in the company?
+>> We do. Yeah, we started the company in a remote first.
+>> But this opens up all these attack vectors. What's
+>> even without remote? Well,
+>> best practice best practice really and what we see companies doing is we'll take a simple one. Meet whoever you hire.
+>> Wow. Shocking.
+>> Shocking. But you know, with COVID and remote work and and things of that nature, there's a lot of people that get hired that people never met. And you know, you'd never see them on the screen and but the work would get done. You know, emails would get written
+>> and then, you know, these things happen. So what we're seeing now is the best companies are actually embedding a security person in the HR group
+>> where they're prefiltering all these resumes because the resumes are AI generated. The LinkedIn profiles are AI generated. So you want to catch them up front rather than in the interview process.
+>> A crazy idea. Hey, for your final interview, can we fly in? Or hey, week one you're going to be at HQ.
+>> That's it.
+>> That's it. You solve the whole problem because then they don't take the job. They move on to the next person.
+>> That's it.
+>> Okay. So we're looking at state actors. Russia still number one state actor.
+>> China. Russia. I mean it depends like if you you know pure intelligence, pure
+>> ability.
+>> Russia.
+>> Russia. Yeah. Why?
+>> Why are they so good?
+>> I mean like the cold war you could say is over. But you have really smart people that went to work in various areas, right? Obviously from a nation state, but also from an e-rime perspective.
+>> Um they're smart. They know what they're doing. Typically they're they're what we call low and slow. The Chinese over the years have been a little bit noisy, kind of a smash and grab. They've gotten better.
+>> Um,
+>> not subtle.
+>> Not subtle, but much better now. But the the Russians are very targeted. They're they're patient and um they're not always gathering IP information to steal it, but they're they're gathering intelligence for reconnaissance for nation state activities andor then they moonlight for, you know, for e-crime.
+>> And let's go to China then. This is, you know, if we were sitting here 10 years ago, we'd be talking Kumbaya, China, we're all going to win together. Uh the decoupling has happened essentially. Do you have operations there? Do you work with Chinese companies?
+>> We don't have we don't have operations there. We don't have any revenue. We don't sell into China.
+>> Never have.
+>> Never have. From the start of start of the company.
+>> And what's your take on the decoupling? Let's go a little geopolitical here. Like
+>> they are our adversary obviously competitor.
+>> You know their technical ability is pretty strong, right? We're seeing that with AI. Are they the the future competitor and the future attack vector that you have to worry about? China.
+>> Well, I don't know that the future because I think it's already there. It's here. It's and it's been here for the last, you know, 20 plus years. I mean, some of it may not have been talked about
+>> in the early days, but they're they're very very prolific. They're very good. And, you know, it's one of those you obviously nation state is always going to be nation state versus nation state. You know, that just happens. The big thing with China is there's a commercial aspect to what they do. So if the government breaks in and steals a trade secret from some company in the US, they'll just give it
+>> to another company in China,
+>> right?
+>> That doesn't happen necessarily with all nation states.
+>> Yeah. We're certainly not breaking into China to steal their trade secrets. It's going
+>> and giving them to a US company
+>> and Yeah. The CIA is not breaking in to to figure out what BYD is doing to give it to Tesla or something. Correct.
+>> So it's it's a one-way relationship there. Now, there's also something very unique. They make hardware. They ship a lot of hardware, our laptops in some cases, Huawei, other countries. They're putting spyware or back doors into all that hardware. Yeah. In your estimation?
+>> I mean, over the years there's certainly been cases where people have had concerns on, you know, what was actually shipped. Um, and supply chain is can be problematic whether it's actually shipped with something or, you know, in some cases packages get diverted somewhere else. the the malware gets installed and it gets reshipped out, right? So, you've seen that.
+>> Um, so it's important like to have uh good hygiene on whatever equipment is being brought in and you know the providence of that manufacturer and that software that goes on it and that that applies really around the world.
+>> Do you trust signal and uh your iPhone to protect you as a corporate executive? Like what measures do you take?
+>> Well, because you're a target.
+>> Yeah, we're a target. I mean we our team spends a lot of time making sure that we try to do the right things. Uh you know
+>> so WhatsApp signal what about those two? You think those are attack vectors people can do insertions there?
+>> Well, you know I think you have to look at the privacy versus the the actual attack vector. You know if you're clicking on links that are in different you know because you got a link in signal doesn't mean the link is secure whether it could be signal or something else right. So there's a lot of ways to get implants on these devices. is I mean I would say you know an iPhone is more is safer than just a regular computer because the way it runs. Um but you know if you look at the nation states and some of the creative ways they can actually get into a phone as an example if they want to get in bad enough they're going to get in.
+>> How do they get in? What's what's the attack vector? They get you to click on a link. They insert something. That's the typical
+>> Yeah. Typically what they'll do in there is there's a whole uh black or gray market on the value of a zero day. So there are zero days in all software and if you have one say for Apple iOS that's super valuable and generally if you click on something and it's not known zero day you just by going to a browser
+>> explain explain in plain English to the audience what a zero day is a
+>> a zero day is a yeah sorry you know talking technical jargon
+>> not everybody's got the hacker bonafites
+>> I know not everybody's a haze guy but yeah if there is a a software vulnerability that hasn't been found and patched yeah
+>> it means that they can exploit that and and they can run code and in some cases in the past um there was a vulnerability where they could simply send you an SS SMS message like you didn't even know you didn't have to click on anything but SMS message would process this information and then they would put an implant on the phone
+>> biometrics two factor this has changed everything yeah in the industry made it much more secure
+>> secure but not much more yeah if you look at a lot of the attacks they're identity based attacks and what you see is that even when you have a credential or if you steal a credential uh or if you have a session token which means that you've already authenticated.
+>> Yeah.
+>> Right. So even if you have two factor if you have the session token
+>> Yeah.
+>> you can replay that and get access to a system.
+>> The crypto people learned this the hard way.
+>> Y
+>> they basically were using two factor over SMS. People call the phone company.
+>> Yep.
+>> Reset the SIM.
+>> Yep.
+>> And then they got you
+>> and game over. Yeah.
+>> Game over. Now your Bitcoin wallet is emptied.
+>> Correct.
+>> Where there's money, the hackers will go figure out a way.
+>> They figure it out. And the humans are are normally the the weakest link.
+>> Yeah. You know, the way I was able to get my first exploit was I called the New York Public Library. I knew they had like a vax system with the dialup. Okay.
+>> And I just said, "Hey, uh, it's Joe from it at the 34th Street branch.
+>> I need the number for the dialup."
+>> Yeah.
+>> Literally, the person gave it to me at it over the phone.
+>> They want to be helpful. I dialed it and then I could search the stack and
+>> search all the books. That was the only thing you could do.
+>> What year was this?
+>> 87.
+>> Okay.
+>> Yeah. I was at Forom and they had Bitnet. They had the internet there and I was just starting to to see these things. But it's almost universally that calling somebody on the phone, meeting somebody, compromising somebody.
+>> That's it. That's it.
+>> And normally the day
+>> the weakness is between the keyboard and the chair.
+>> The keyboard and the chair. What is the best practice then for you when you're advising your customers of explaining to them just how the human factors part of this is the most important one to focus on?
+>> Well, there's certainly an educational element and you also have to look at how people get paid in the motivation. So, typically they're going to call a help desk. Okay, how does a help desk get paid and what are their metrics? Their metrics is get a call, open a ticket and close it as quick as you can.
+>> Got the incentive is speed,
+>> right? particularly if it's a third party
+>> out
+>> in another country,
+>> right? So their their whole job is to open a ticket, solve a problem, close a ticket. So if you follow the money and the incentives, you can see why there's a problem and people want to be helpful at the help desk and hence they get into the situation. So um you know, first start with the education piece and then having the right controls, identity protection, things like what crowd strike bills is going to be additive to making sure those sort of things don't happen. people using their own devices. Bring your own device. This is the other major attack vector. Corporations make the mistake on you.
+>> Yes. Um the you know your own device could be like uh a cesspool if you let your kids you know use it.
+>> Um or it could be pretty good but that's the reason why now there's enterprise browsers to kind of contain what people do even if you bring your own device.
+>> Yeah. The enterprise browser is running on a virtual machine at some headquarters. You provide that kind of situation. Um that that's sort of the old school way of doing it. So what we've done, we actually just acquired a company uh called Sarafic.
+>> I saw that. Explain to me the state-of-the-art there.
+>> Yeah. So the state-of-the-art is not switching out a browser because if you use comet or you know Firefox or whatever you want to use the browser you have. So it's actually running beneath the browser in and will support any browser which basically looks at the interaction what the browser is doing and if there's sort of malicious activity in the browser or there's an identity that's compromised you can stop it at the browser and you can wall off what you do with the browser uh including what data you take out of it. So it's a it's the front door now for how people work and how adversaries get in is through the browser. How should companies implementing AI in the enterprise putting their data into these clouds and working with partners? Uh Claude Co this week kind of blew people's mind. I don't know if you saw the announcement or played with it.
+>> Yeah.
+>> And uh I was using it earlier this week and I'm authenticating on Gmail, notion. Oh yeah, my desktop files. And
+>> I got like halfway through this and I was like this probably isn't a good idea, but
+>> it can be pretty scary. Well, let me let me tell you a story. Not specific to that, but um
+>> we don't want to throw them under the bus, but it was a lot of authentications I did.
+>> Exactly. Exactly. They're doing great work, but um there there was a uh a customer who basically created a whole suite of AI agents to help their automation in their IT department. Right. So they had one agent that was looking for sort of IT problem software bugs and it it found something, you know, while the code was being before it was committed. So the agent said, "Hey, I found this bug. I want to fix it." But it didn't have access to fix it. So, it it went to the Slack channel that had the other 99 agents and said, "Hey, Lord, does any other agent have access to this thing because I need it fixed." And there's an agent that raised its hand and said, "Oh, I have access and I can fix it."
+>> Do you see how scary this is? These two agents are reasoning and they went right around the guard rails that were put in place.
+>> This is unintended consequences and these LLMs are essentially guessing what you want them to do. They're reasoning it. Oh, it is reasonable for me to go ask for help,
+>> right?
+>> It is reasonable for me to give help. Now, what if it pushes the wrong code? What if it makes a mistake? And then, how do you ever track that down? Who's monitoring these agents? The agent technology has unlimited upside, but my lord, you're going to be in business for a long time.
+>> Well, this is it. It's called AIDR, which
+>> AIDR.
+>> Yeah.
+>> AI detection and response.
+>> Got it.
+>> So, there's a concept that's been around that we helped pioneer, which is really endpoint detection and response. So on your computer, most companies have it, you can monitor and see what's happening and prevent bad things from happening. We have to do that now with an agent. And this is why it's a huge opportunity for us because on average, each employee is going to have about 90 agents they control.
+>> So we're going to have protection and visibility across all of those agents, whether it's from a third party or whether it's a homegrown agent. And that, you know, is a massive TAM opportunity for us. Do you trust the LLM operators with Crowd Strikes data or do you want to stand up your own large language models?
+>> We well we have our small language models and we do work with just about all of the large language models. Um but we've built our own guard rails around what gets shared, how it gets shared, and how we process any of the data back. The the key
+>> Are you concerned about it?
+>> I can see you're kind of like thinking like hm yeah like maybe there are some concerns here. No, no, there is. But we we tried to engineer for that. Got it.
+>> Right. Because you want to leverage and this is the thing, you know, it's tokconomics. There's there's an economics to how you use the tokens as well. Plus, you want to get the right data. So, we've built small language models for things that we control with our data. And then for other bigger, you know, frontier type models, I mean, you're not going to replicate billions in R&D. You want to leverage what's out there and take the best of it.
+>> Yeah. You're uh also a race car driver.
+>> Yes. And hey, you've done well in your life. You got to buy a piece of an F1 team. I've been going to F1 races. I went to three this year. Okay. Tell tell me everything about it.
+>> Where do you want me to start?
+>> How did you get the bug? Uh
+>> when did you get the bug? Because this has been an American thing the last couple years. I can't believe the rack at these F you well you guys are doing. Somehow you made this the most important thing in America ever.
+>> I I knew
+>> to survive was
+>> that is a big driver. And then it's a luxury experience. So now I've gone to what did I do? Miami, Austin, and Vegas. I've been to three in the last year.
+>> I had even heard about it 5 years ago.
+>> That's fantastic. Well, I mean, little backdrop. I grew up I had zero money as a kid. I always liked
+>> Where'd you grow up?
+>> Uh, New Jersey.
+>> Oh, really? I grew up in Brooklyn. Yeah.
+>> You know, we used to play Ford.
+>> Yeah, exactly.
+>> Okay. So, um, I always like cars and fast things and never had the opportunity to do that. First car was a Toyota Celica.
+>> Toyota Celica. Yeah. 73 Mustang, Grande, 351 Cleveland. Okay. Okay.
+>> 351 Cleveland engine and slightly more horsepower than yours.
+>> I know. Mine was just a I had a commute in the thing.
+>> Yeah. Okay. It was functional.
+>> It It worked. It functional. But um so I never had the opportunity to do it. And then I got into I mean I always followed sports racing. Mostly it was indie and then you know got into racing later. We talk about that. But I've been in Formula 1 since 2018 because Crowdstrike became well Mercedes became a customer of Crowd Strike.
+>> Nice.
+>> And then I met Toto Wolf who runs a team and you said, "Hey, why don't you think about working with
+>> You got in at the right time." Good. That was a good trade. It was a good trade. So, we got in then and then um over the years I built a great relationship and then just last uh fall I put a deal together and own 5% of the Mercedes team now.
+>> Congrats. And now you ride yourself. You're in the bronze league, I hear.
+>> Yeah. So, I race uh in fact, I got to go back for a race in Daytona.
+>> Nice.
+>> Still got the 24 hours.
+>> What What do you drive? What kind of car?
+>> Uh LMP2.
+>> Explain. Uh it's a it's a fullfledged race car. I mean, it looks like a
+>> like an F1 car
+>> with with with with covers over the wheels.
+>> Got it. So, it's safer. Yeah.
+>> What do you think of this new Corvette ZRX1? Have you seen this beast?
+>> I'm trying to get one. Yeah, fantastic. I know.
+>> I got a contact.
+>> Okay.
+>> At GM.
+>> Everybody's got a guy.
+>> They They gave me an to play with.
+>> Yeah.
+>> Which is kind of the precursors. You know, they took the -ay and they put it in the ZRX1.
+>> Yeah.
+>> And uh my lord, off the line. It's like having the Tesla acceleration off the line and then you have the you know, 600 in that one. I think it was 600 horsepower plus 150. Got it about 800.
+>> This new one, it's a,000 horsepower plus 250.
+>> The thing cost $200,000.
+>> And for the money, it's it's it's a tremendous car.
+>> And you know, I I still think to this day, I mean, someone will keep me honest, that
+>> the ZR1 will and will still have a warranty even if you track it.
+>> Really?
+>> Yeah. It's one of the the rare cars. At least it used to be.
+>> Yeah. They said you can take the ZR1 in the with the -ray version, you can change the driver profile,
+>> lower the RPMs, you know, the when it shifts and everything, so you can actually talk on the phone.
+>> Yeah.
+>> You know, and have a conversation and not make the passenger throw up.
+>> You want to hear the engine.
+>> I think that's right. I had a C6 convertible in that generation, which was just dynamite. Canary yellow. What color are you looking at? This is where we're going to get real. You saw that crazy green.
+>> I like the blue.
+>> You like the blue? It's beautiful. They they have like a a really beautiful vibrant blue.
+>> Yeah, that's uh I was looking at the silver and I I don't usually like silver on cars, but it looks on that car. It looks tremendous.
+>> I keep all my Mercedes silver.
+>> You do?
+>> Yeah.
+>> H interesting. All right. Listen, the question everybody wants to know, Greenland, what should we pay?
+>> You know, I'm
+>> How do we make a deal?
+>> I I I'm sure I'm sure there's lots of deals that's above my pay grade, but I think whenever you see the geopolitical tensions go up, there's always more security activity. So
+>> yeah, good for business.
+>> It's a good It's good for business. So
+>> seems like something we should I I you
+>> the Trump administration is spicy on the margins. You may have seen
+>> uh but they've been good for business. Yeah. Supportive of the business community.
+>> I think so. And you know when you think about what the administration is doing with security, they're taking a business first approach. You know what that means? They want to save money. They want to consolidate. They want platforms. They want better outcomes, right? And they don't want this peacemeal buying across the government. M
+>> so absolutely I think they're doing a great job on security.
+>> I've been asking people's perceptions and it's overwhelmingly been
+>> Yeah. They're calling us up. They're they're at the table. They're engaged.
+>> So whatever you think politically uh you know all these cultural issues, they're listening and they're engaging the business community which I think is a great thing. All right, brother. Thanks for doing it so much. Talk soon. And transportation of course is one of the most important parts uh in the business sector and vetos. We're promised flying cars. We still don't have them. But my guest today, who's spoken and is a friend of the All-In podcast, is going to tell us how close we are to getting rid of these noisy helicopters buzzing around and having vetos, nice and quiet ones. Adam Goldstein, CEO of Archer Aviation. Welcome back to Allin.
+>> Thank you. Good to be here.
+>> Two years ago, you were at the summit. You promised us we get flying cars. When can I mean that's Let's just get to breast tax. This is all anybody wants to know. When can I go from Manhattan to JFK? When can I go from San Francisco to Oakland airport? When is this going to happen? And is it going to happen in the United States first or is it going to happen in the UAE or Saudi or maybe China?
+>> The hardest part about bringing these aircrafts to market are is the certification. Like we have to prove that these aircrafts are really safe. It's not you can't blame the regulators. It's not a regulatory thing. They actually have to be very safe and reliable. So the rules got put in place. But the most important thing that happened in the most recent history was that President Trump issued an executive order that was fast-tracking the the the program through the regulators and really starting to create a platform for us to launch. And so they are now five cities going to be announced in the first quarter and then we'll start flying in the summer. And that will be the first time you'll see these aircrafts flying in around the cities on a regular basis. that will allow the general public to get comfortable with this and they will certify us sometime after that because the political side of this is not a Democratic Republican thing. It's a consumers have to feel comfortable with this. They have to watch this and so we don't want to be fighting that and so they're giving us a chance to go do that.
+>> Okay. So it's 2026. We're sitting here January of 2026. You guys are going to announce five cities.
+>> The government will. DOT will.
+>> Oh here in the United States they're going to and these are for all veto companies. Jo, yourself, all the contemporaries will get to do those five cities first.
+>> Correct.
+>> You got any guesses of what they could be? What are people thinking and how are they selecting them?
+>> Well, my big push has been around Huntington Beach um in right around Los Angeles because
+>> You live there?
+>> Uh I don't. But we won the exclusive for the LA 28 Olympics. And so that was a big deal for us. So we need to start trial operations really ramping up um the ops because it's it's challenging. We also recently bought the Hawthorne airport right outside of LAX to help give us a hub.
+>> Hawthorne, the private I've flown out of it many times.
+>> Exactly.
+>> So that's Humble.
+>> It's a It's a great platform.
+>> They bought in Wait, let's just let this soak in, folks. Archer Aviation bought an airport.
+>> We did.
+>> Can you just buy airports? It's a privatelyowned enterprise. What did that cost you?
+>> Yeah, you can. It's I'll call it a sort of buy it. You can control it. So there's a runway that's owned by the municipality. There's all the property around it and then there's the control of the master lease. It is very hard to do. They come up for sale every 50 years. So if you look back the
+>> What did that cost you?
+>> It's around $170 million for everything including the FBO and all the real estate around.
+>> So you own all the real estate. That's got some residual value. But this gives you a massive opportunity because Los Angeles is um yeah known for its traffic. So that would be a place where you could have a home base for these.
+>> Exactly. It also happens to be home to a lot of the Elon companies and so it borders SpaceX. The original boring tunnel was there. Uh Tesla design center is there. You have a lot of good connectivity around people trying to change the you know the future of transportation.
+>> Oh yes. I'm sorry. I was thinking Van NYth in the south.
+>> Yeah.
+>> Funny story. Uh namerop Elon was like hey I'm thinking about renting a place for my my rocket ship company before it had a name.
+>> Want to come down and see it? I went down to see it. It was at Horthon
+>> and uh I said he had just gotten the Falcon and I said uh
+>> can the can you land the Falcon here? He said yeah. I said get this office space immediately.
+>> So you own the SpaceX office or you're the
+>> that's on the other side of the fence.
+>> Got it.
+>> And so we have the airport side. They have some hangers.
+>> What a perfect location cuz if memory serves me it's just south of LAX.
+>> Yeah. About 2 miles from LAX about 2 miles from Sofi Stadium. So the goal is to make that a hub of as of Los Angeles. Imagine a Grand Central type of
+>> uh you go down to San Diego, Lagona, just so many places to the south, Manhattan Beach.
+>> And let's push our imagination here. Boring companies also based there too. And so maybe we can convince Elon to start digging some holes around LA and all of a sudden you could really transform LA.
+>> What do you think the other cities will be in America? And how are they picking them?
+>> Well, FA and DOT are going to be the ones that choose. So there's the companies have submitted uh in partnership with the cities these different bids. And I think it's going to be a mix of urban areas, rural areas. I think it's probably going to be a lot of red states. You'll see. Um, so my guess is you'll see something in Texas. You'll probably see something in Florida. Um, maybe you'll see something in
+>> red states because Trump's a Republican or because they're easier when it comes to regulations.
+>> I think both. It's also just easier to operate. Got it.
+>> And so if you want to land a helicopter in California, there's a lot of rules. You want to land one in Texas, you put it on the grass wherever you want.
+>> You know, it's interesting. When I got my ranch in Texas, they were like, "This is a perfect place to put a helipad." And I was like, "Hell yes." Yeah. Like, "You can really put a pad down." And they're like, "Yeah, it's your ranch. You can do whatever you want." Now, in LA,
+>> it used to be that people would land helicopters in their backyards. I don't know when that stopped,
+>> but what are the rules in LA now?
+>> Each municipality has a different rules around, you know, the different permitting you need, the different amount of time that takes to get done, how you certify the helellipad, if you need to certify the helellipad.
+>> So, you basically can't do it.
+>> Yeah. It makes it very hard. That being said, this is a safer platform than what already exists, helicopters. So, I think there'll be a lot of loosening of that because it's just increasing safety to something they already do.
+>> Now, New York City, that's the big one. I think Joby made an announcement that they're going to be at one of the ports. Yeah, you're you're contemporary. I don't know if I would describe you guys as competitors now because like the early days of say EVs or self-driving cars, if this works, man, we're going to need 10
+>> archers and Jobies to do it. But they're going to be out of Manhattan soon. Yeah.
+>> Yeah. We both will operate out of the city. I mean, it's a wonderful place. It's already the biggest helicopter market in the US. So, there's three big helports that exist already. The Westside, East Side, and the Downtown Wall Street helport. So, it's already naturally kind of configured. It is a very complex congested airspace. And so, I also think, you know, the way that this will come to market will be in, you know, relatively low volumes. We'll gain the trust of the public. They'll allow us to keep scaling this stuff up. So, you can start with maybe tens of aircrafts and then, you know, maybe over five, 10 years, you scale it up to hundreds of aircraft. Robo taxi and Whimo story. You start slow, build trust. Are you guys on the clock? You've been working on this for a decade. Yeah.
+>> Yeah. So, it's the tech actually goes back to NASA 40 years ago, how to use multiple electric engines to fly airplanes and then really kind of thanks to Larry Paige and the early work at Zierero. They really helped um you know bring a lot of that um technology.
+>> Yeah. Larry bet on two or three, right?
+>> Yeah. So, he's been super involved. He was a huge part of the industry. And then if you go back um really um Uber did a great job when they had the Uber Elevate platform which really put it into the mainstream that was around 2016
+>> with Blade right they were doing or
+>> Yeah they they kind of well they really were like almost a research project to showcase what
+>> right I remember when Travis did that yes
+>> yeah and then 2018 Morgan Stanley had a 100page initiation report saying it's the next $9 trillion market that opened up the capital markets to everybody and so that that that allowed us to do this
+>> you guys spacked right after or during CO. Yeah.
+>> Uh 2021. Yeah.
+>> Okay. So, right after CO started to Wayne and uh was that the right decision? I know these spacks have been up and down. Being public can be a distraction and you guys are a deep tech company with a long runway. What's it like trying to deal with shareholders in a public company when you know you're in a multi-deade roll out of a product like this? Well, I actually give a lot of credit also to the Reddit community because the retail army really helped allow Archer to raise the money it needed to raise in order to get to where it is. So, we've raised around $4 billion of capital to date.
+>> Four billion. Wow.
+>> Yeah. And we'll probably, you know, over time, you know, raise more. But the stock is super liquid because it has such a huge fan base in the retail market. It creates liquidity which allows the institutional investors to play which allows the whole kind of cycle to keep going. So, as long as we keep performing, there's this pot of gold at the end of the, you know, the Morgan Stanley sort of pot of gold, we should be able to keep stairstepping up the valuation, keeping everybody happy, raising the capital, keeping it going. DTEK is extremely capital intensive. And this was the right avenue for us for sure. It's
+>> really interesting when you think about it. Who is a better base of investors for long-term? Public markets, institutional investors, venture capitalists, private equity, or the lunatics on Reddit? It turns out the lunatics on Reddit, all due respect, I say that with like uh peace and love, like they actually probably get it right because they know what consumers want.
+>> Yeah.
+>> And they're willing to go for it. Yeah.
+>> They're also willing to kind of look past the quarterly earnings issues and really to say like this is a technology they want. I mean, who wouldn't want it? It's safer than helicopters. They're super quiet. They cost less. It's convenience for everyone. Like nobody loses here. This is a win-win type.
+>> Where's your product out? You guys are flying runs obviously. Where are you flying the runs currently? Yeah,
+>> so uh two core places we fly. Uh one is in Northern California in the Bay Area. So we fly at a Selenus the airport there which is about 90 minutes south of the Bay Area and then also in the UAE. So we've have a great partnership with Abu Dhabi. Um Muba's been an investor. IHC has been an investor.
+>> Oh is an investor.
+>> Yeah, they've been a wonderful partner.
+>> Yeah, it's really opened up the uh um the country.
+>> Yeah, they're thinking in 50year cycles, I think. How often do you fly this thing? What's the distance that it flies? And are there humans in it?
+>> Yeah, so we fly most days piloted flights. Um, and so you can fly them without without pilots. It's actually pretty easy to fly the planes, uh, you know, autonomously or remotely or, you know, automated is a better way to really describe it. Um, but we fly them piloted and the goal is to work towards enough flight hours, enough uh, confidence from us, from the regulators that we can start, you know, operating commercial service. We're getting there. It takes time to do that. I mean,
+>> how often do you fly in it?
+>> Um, I haven't flown it. um just the test pilots do
+>> and why they won't let you. You're the CEO.
+>> No, you could. I mean, if you look at if we're just sort of honest about flight test programs, it's, you know, there's a dangerous part when until you kind of cross every tee here. And if you go back in time, I mean, most of the big uh aerospace companies have had crashes with early platforms. So, you really try to be careful with just the test pilots, very serious testing until you get to the point where you're close to the certification side. Virgin Galactic, another uh spack, they had a tragic instance. And uh yeah, um aviation is dangerous in the early days. When will you be willing to get in one, I guess, is the question we all want to answer because we're not getting in until you do it every day.
+>> Later this year, that'd be my
+>> Later this year.
+>> Now, you married? You got kids?
+>> Married with two kids.
+>> Okay. So, you have the conversation with the wife, I assume. Uh
+>> probably tell her after.
+>> What's her Oh, but what's her position? When will she let you go in it? Um, she's a huge believer and supporter of everything I've done. Okay. So, uh, I think she'd trust me when I think it's time I would do it. She'd be okay.
+>> Listen, continued success with it. It's obviously going to work. It's obviously going to change the world. What What do we need to know as we wrap here about safety and why these are much safer? Because the idea of even having a pilot seems uh, a little bit performative. Like,
+>> is it just to make the passengers feel a little bit better? because these things obviously are going to be flown by computers much better than pilots eventually and and eventually I mean like by the end of this year.
+>> Yeah. The the challenge with um autonomy is regul regulation and infrastructure. So even if you could do it there's no rules in place to get that done and even if the rules were in place how does a system work because today air traffic control is very very manual. If you listen on ATC when you fly in somewhere they're guiding you in turn 10 degrees to the left drop a thousand feet an hour.
+>> That makes total sense. So the infrastructure doesn't allow for autonomy
+>> yet
+>> yet. Even though autonomy we would both agree would be safer this year than a pilot. Would you agree with that statement
+>> assuming you could work your way into the air traffic control system? Definitely the actual you know humans make mistakes, computers make sure all less mistakes and so maybe no mistakes. And so it it certainly would that's the dream that's the goal with the advancements of LLMs. It actually allows this interesting period of time where you can now communicate with a machine in a way you couldn't really before. And so there's this probably middle ground that happens where there's pilots talking to machines, machines talking to pilots, and so you can start to implement uh different systems. And that's where I think it goes first actually.
+>> Ah, that's fascinating. So when you're clearing with the tower, it's just that the vetol is talking to the tower.
+>> Yeah. It's think about like um you know instead of like looking at your map, looking at the weather, you know, understanding you know all the different trackers you have to follow, the machines can just do that and make the decision and say to do this. So it actually is easier for a machine to do it than a human. And again, I would encourage you listen to air traffic control. I'm obsessed with it. There's an incredible channel on YouTube called Blanco Lio. Have you ever heard it?
+>> No.
+>> So go on YouTube and Patreon and throw this guy five or 10 bucks a month.
+>> Yeah. He's he's based out of he's a pilot, commercial pilot, and he's based out of uh Lake Tahoe area. And all he does is break down every aviation incident.
+>> And it's amazing, and I've become a little bit obsessed with it. And uh he just breaks it all down. It's almost universally, the pilot makes some series of incredibly poor judgments. I'm talking about in private aviation as opposed to commercial aviation. And um yeah, it's just great that there's somebody like him out there. Now, how many rotors on the thing?
+>> Uh 12.
+>> 12.
+>> 12. Now, is that six with two in each or is it like 12?
+>> It's 12,
+>> which means 12 motors.
+>> Yeah, there's actually redundant motors. There's actually 24, but we for simplicity call it 12.
+>> So, there's 12 redundant motors. 24. And then how many blade? How many um are they double blades? Like one on the bottom, one on the top.
+>> Um there's five blades on the ones on the forward part of the wing and four blades on the ones on the back.
+>> Why?
+>> There's lots of difference. Why is there a difference?
+>> One are used just for um the uh lifting portion. So the ones in the back and then they stop and then the ones in the front are used for both lifting and the cruise. So they have different uh configurations.
+>> What scenario do you have the most concern about and then work on the most? Because with 12 of these, anybody who's flown,
+>> you know, just a toy drone, if you come up to it and you push it, you hit it, it just immediately just
+>> gets back. Uh now with 12 of these and 24 and your technology I'm sure it's even smoother and better than that. So what do you worry about like some catastrophic electronic failure? Are are the electronic systems redundant? The battery failure?
+>> Everything is redundant. Like you have to
+>> what do you worry about?
+>> Um from a safety perspective today I would say the biggest thing is the pilots. That's probably
+>> take the pilots out. Now what are we worried about?
+>> Um you're always work worried about just different cascading failures.
+>> Got it. So, you know, there was an incident in the industry where one of the companies had a um a propeller blade dislodge and it cascaded their aircraft. You don't really know that unless it actually happens.
+>> The blade comes off, hits the other blades,
+>> and then the whole thing cascades. So, you don't really know if that's going to happen until it happens. You have the math behind it that you could try to predict, but when scenarios happen, you know, so there's, you know, you try to protect against cascading.
+>> How many of these 12 could go out and that could safely land? Um, well, one of the beauties is we're also building it to u be able to take off land conventionally and so you can lose a lot. We have a big 50ft wing. You can glide. The glide ratio is huge. You can get up to max 10 miles of glide. So, you can do a lot of things here. That's the only way to really certify at the standards the FA wants you to do it. So, it gives you a pretty big uh
+>> you have those nice wide wings you can glide in.
+>> Yeah.
+>> What height? What's what's the ceiling on these? Now,
+>> they can go up to 11,000 ft. There's no real reason to. Um, it's not pressurized. Do you really want to fly helicopter range 500 to 2,000 ft? And
+>> what do you take from the helicopter industry away from, you know, when they have accidents, what happens? It seems like those pilots particularly are really skilled,
+>> but also maybe on the margins, maybe I'm reading into this, cowboys a little bit eccentric. Yeah.
+>> Yeah. I mean, it depends. I mean, every scenario is is obviously like pretty different. The beauty behind these aircrafts is the redundancy allows you to just have a um um a capability to certify with near zero single points of failure or zero single points of failure where a helicopter doesn't have that. So, you know, if you think about one big rotor, there's a lot of parts that go into making that one big rotor work and if that one part fails, you have a you have a catastrophic event.
+>> So, that can happen. They're mechanical complex machines. Yeah. And so, you know, the with the EV tall side, you reduce that uh complexity By what if you were to say it's x times more safer without us like you know holding you to it if you were to ask the 10 engineers working across the 10 companies in your field not you but what do you guess those 10 engineers would say it's the currently this times more safer than helicopters
+>> well that will be a standard that the FAA um you know makes us certify to so the question will be what's the ultimate standard so 10 the minus 7 10 the - 8 10 - One at a billion, one at 100 million.
+>> Yeah, but you think it's twi What would your
+>> It would be an order of magnitude safer.
+>> So, three, four, five times safer is a pretty
+>> Yeah.
+>> reasonable goal. 10 times a reasonable goal. Why are you here at Davos?
+>> Um,
+>> you virtue signaling about being all electric? What's going on? What's
+>> uh selling air aircraft? That's
+>> you're here to do business.
+>> Yeah.
+>> Who are you selling to? Just nation states.
+>> Yeah. So, geographically, obviously, easier to sell stuff in the US or kind of close to the US. here you get to meet uh different companies and countries. Um the Middle East, GCC has been, you know, very active. Um Africa's been very active. Asia has been very active. So there's a lot of great folks to go see where you can kind of line them all up. So we'll announce, you know, deals, you know, here. We'll, you know, sign things uh here that will ultimately get announced. So it actually is very beneficial from a business standpoint to come here. And most of the companies here are AI. So there's a lot of AI talk. We're a non like AI predominant company. There's a lot of AI in what we do, but we don't sell AI and so we sell infrastructure and it's the perfect place to meet the ministers of transportation, the superic yeah the heads of state. So there's lots of opportunities to, you know, kind of bring Western tech to this.
+>> I think they see having vetos as a point of pride for their country. Yeah. Some absolutely countries like this is I don't want to say vanity project, but is something they can point to and say, "Look, we got here first."
+>> Yeah. I could see the UAE, I could see Saudi, I could see Qatar,
+>> absolutely
+>> Kuwait all feeling that way, like, oh, we have this.
+>> Absolutely. There is another element where, you know, Davos is sort of a non-defenseoriented. They don't like you to talk about defense here. We we do have a really strong partnership with Andrew. And so, we've been building the new um kind of autonomous attitudable aircrafts. We talked about uh one of the second word you autonomy.
+>> A tritable they call it. So,
+>> a traitable. What does it mean?
+>> It's not a 20-year plane. It's not expendable like a one time missile one way type of product. They call it like space in between. They call it tritable.
+>> If you lost it, it wouldn't be a big deal.
+>> Yeah. So you the goal is So the one of the programs we've talked about is is one is called the project nyx. It is an autonomous collaborative uh attack helicopter uh drone. So think like um sort of like a um you know an Apache type of platform. So they'll be a big manned asset. It'll have a bunch of drones that fly with it. So that's a program we're working on with Androl. We build the core aircrafts and Androl missionizes it. So think sensors or munitions, those kind of things. but it would fly with a bunch of little drones around it to protect it.
+>> Um, we are effectively the they're not little, but we're it's you know these are huge aircraft. We It's almost like think about it this way. If you have an Apache, which is a 50 to$70 million asset and it has a person in it, you're you don't want to risk it for lots of reasons. One, there's a person. Two, it's super expensive. Three, very hard to replace.
+>> If you're not willing to risk it, it's not that much of a deterrent.
+>> And so when you do risk it, you want to be certain you can have things come back. But what if I could make an aircraft that does the same thing, the same fighting power, maybe even more fighting power at 90% lower cost with no with no pilot?
+>> Wow. That's key because these pilots are worth $25 million each. They literally have a friend who was in special forces and he told me that they put a number on each of them, how much they invested and the replacement cost of a Navy Seal of a he wasn't in the Navy Seals, but one of these kind of type groups. You could actually know the replacement cost of a person. Uh and they called them assets. you know, these top elite folks. So, you have no problem working in defense. That's awesome. Yeah.
+>> No, I'm the country.
+>> I'm a patriot. Um I'm a super believer in what the US is doing. Um and they've been, you know, as a country extremely helpful um to new industries like Archer and Ebie Talls. And so,
+>> maybe more so than the last administration,
+>> a lot more so. Just the quick example on that was I could not get a meeting with the former Secretary of Transportation.
+>> Couldn't get a meeting.
+>> Wouldn't take a meeting. And I know he's busy.
+>> Wait, wait. a publicly traded veto company who's meeting with the Gulf monarchies being courted.
+>> Zero meetings.
+>> And you requested meetings.
+>> Requested meetings.
+>> How many times?
+>> Multiple times.
+>> And they literally, this is Brian Armstrong story. He wanted to meet with the SEC. They're like, "Yeah, no, we're good."
+>> Uh, Secretary Duffy comes in and all of a sudden, like monthly. It was, it was, we want to make sure we can re-industrialize America. This is important. Um, aviation leading the world is important and modernizing air traffic is important. And if you can help in all all that, we want to hear from you. What what can we do to help you? And that's what was resulted, by the way, in the executive order that came out. And so that helped the industry because I I showed them a path because we won the exclusive uh for the LA28 Olympics to fly air taxis around uh you know, that city during the game. And so we'll sort of control the air during that. And I said, I need a path to make sure I can do that. This will be a huge opportunity.
+>> I think people have not taken the Democratic party has not taken this to heart yet. It's not about being subservient to the technology industry or capitalism or corporates. It's about winning the future. And part of winning together for American companies is at least meeting with them and hearing the vision. Like how does that hurt the previous secretary of transportation to meet with the veto companies? How did it hurt the SEC to meet with Brian Armstrong or any number of crypto companies? It was they were in contempt it seems in hindsight of the entire technology and business industry.
+>> Yeah. I mean in the end if this works imagine the jobs we will create. Imagine the you know GDP contribution we will create. I mean the the FA administrator you know kind of publicly keeps saying 11% of GDP touches aviation. And so it's capped because of air traffic. We have to upgrade that system.
+>> I'm red pulling pilling myself as we speak here. But it's like if you're if you believe that then you would think you want to unlock that and it will help everybody. Like literally no one loses. So you would think you'd want to do that.
+>> It was almost like they had
+>> like an axe to grind with capitalists for some crazy reason. And the opportunity to embrace the industry was always there for them. Yeah.
+>> Whether it was incompetence or intentionality, the result is the same. They set back the industry years by not engaging. Greenland, how much should we pay? What do you think? What do you think it takes? I will tell you,
+>> jump into it and make yourself an interesting guest. We should take it, right? We should just take it or we buy it.
+>> I saw something that said, um, there was an offer kind of the buzz here.
+>> That was more than the GDP of Denmark. And so, uh,
+>> the offer was big. I mean, there's 55,000 people. Let's make a deal. How much do you all want? I mean,
+>> well, the funny thing of my meetings here, so I come to sell, you know, aircraft. That's what we come to do. And I will get asked that question in nearly every meeting. And I I mean literally back in Silicon Valley like no one's I mean yes we've heard it on the news of course yes of course it's important but people aren't talking about it on a every hour basis I come here at every meeting there's people commenting on it session here
+>> and Trump negotiates by tweet or by truth social whatever they call that platform uh by truth by post say what you will this has been on the agenda for America for a century or two and it's a critical deal. If Trump gets in, President Trump gets incredible enjoyment out of negotiating a deal and solving a long-term problem for America, I say let him let him cook.
+>> Yeah,
+>> let him cook.
+>> I agree.
+>> Greenland, we're here. 51st State. Let's do it. All right. Listen, continued success and thanks for coming on the pod again. We're very lucky to have Chase Lock Miller with us. He's the CEO and co-founder of Cruso Cloud. C R U SEO E, not Kuso, Cruso Cloud.
+>> You got it. You got it.
+>> Which is or was the first NeoCloud really. you were kind of
+>> we were part of an early contingent of NeoClouds, you know, between us and Coreweave and uh yeah, Lambda.
+>> How did did that occur? Because you had anticipated buying a bunch of H100s before everybody else and you had the inventory. How did that start that you got such a good lead?
+>> Well, so we had started well before Hopper uh came out. you know we were uh you know Cruso is a business that's always taken this very energy first approach to developing computing infrastructure um and really changing uh you know the the the the the motion from uh trying to find trying to collocate uh compute in these in these network hubs and and really focusing on where we can access abundant uh energy. So um you know we uh uh you know we're experimenting a lot with you know the amper generation which preceded hopper so a lot of A100s uh we built out this you know high performance cloud platform that was meant to enable AI innovators to you know do incredible work uh you know we launched uh before chat GPT came out and so uh you know sometimes you're in the right place at the right time and
+>> yeah timing was good
+>> yeah timing worked uh
+>> and your biggest customer by far is Oracle and OpenAI.
+>> Correct. So, uh, you know, we we we're a vertically integrated business, which means we're focused on not just, uh, the compute layer, but also the energy development, the data center development, uh, as well as the, you know, application layer where we're, you know, running things like our managed inference service. And uh you know as this boom really took off uh you know the scarcity of data centers uh became very apparent and our ability to build those largecale AI data centers very quickly uh became a very in demand uh you know skill set. So uh Lee Yeah.
+>> Hey guys in the back if you're talking could you just take it outside because it's going to get picked up on the pot. Appreciate it. Three two. Uh so why West Texas? Is it because the politicians there and are pretty permissive in terms of giving permits and you can build quickly like Elon experienced with his uh big uh factory in Austin or is it because of energy?
+>> Yeah, it was it was it was really an energy-driven decision. So uh you know in in Abalene, Texas, we had uh you know it's an area where a lot of actual renewables had been built out uh on the back of production tax credits. Um, so there was an abundant amount of wind and solar uh that was there that actually had uh issues with transmission. Um, so power prices were actually frequently negative. There were renewable energy producers that were having to curtail that could be producing power but actually were shutting down because there was no marginal demand. Um, and
+>> so the grid didn't need their energy.
+>> Exactly.
+>> That's wild to think about. It's also wild to think about that Texas has the largest solar base of any uh c any state in the union. Yeah,
+>> absolutely. Um, and you know, we we went there and we said, "Man, you guys have too much energy. Hey buddy, I gotta do I have a do I
+>> I got an idea
+>> demand for you." Um, and so we uh you know, we have a 1.2 gawatt substation there. Uh, we've also built a 350 megawatt gas plant on site um to energize one of the largest clusters of GPUs in the world.
+>> So, was there gas under the actual data center or they're shipping?
+>> No, no, no. We had access to a pipeline that feeds into uh you know 10 uh gas turbines that are on site there.
+>> Amazing. And the gas turbines those were a blocker for a while too, huh?
+>> Uh they still are. I mean you know gas turbines are are a massive supply chain constraint um as people look to energize compute infrastructure. I think a lot of people we were really one of the first groups to be focused on uh you know natural gas powered data centers doing things behind the meter off-rid uh and I think a lot of people have sort of followed this pathway uh which has created a lot of supply chain challenges uh with some of the major producers folks like G Vernova you know Caterpillar has a company called Solar that we work with very closely uh you know Seammens uh Mitsubishi uh and we actually recently did something with uh an incredible company Boom Supersonic Yes. Boom. Supersonic was making the Concord replacement Blake.
+>> Correct.
+>> And uh they're making their own engines that go pretty fast. Uh and so what was the idea there?
+>> Yeah. So, you know, they had re-engineered this this turbine for supersonic jet travel. And uh you know, we Colleen, my co-founder and I were talking to Blake and said, "Hey, you know, could we use that to generate power instead of you know, transport people over the ocean at supersonic speeds?" And uh you know now we're we're we're you know their first large purchase order for $1.2 billion of uh gas turbines to to to power AI critical AI infrastructure.
+>> It's wild to think about the the gas turbines and jet engines are not super dissimilar.
+>> No, I mean I think this is the full playbook of you know GE historically right. I mean uh the reason GE Vernova exists uh is you know their leadership in terms of you know uh uh air transportation as well as power generation.
+>> Yeah. And I wonder if it's really interesting about that opportunistic thing for Blake to do from boom supersonic is that now that will allow him uh to fund his Concord replacement. Yeah,
+>> absolutely. Uh you know power is a great business and you know we think he can make a lot of money as uh you know the scaling up of AI infrastructure occurs. Uh and and hopefully, you know, he's able to build those incredible supersonic jets that uh get us to Tokyo much faster.
+>> And the Stargate project,
+>> Yep.
+>> is a $300 billion project. What's the number? Because there was big announcement at the White House and there's been a little bit of uh you know, wink wink like these are numbers were kind of estimates. What's the realistic footprint of this? Um, so you know, I I think Stargate has been a uh a term that's been used to describe a lot of different things at this point. Um, you know, initially our our our campus was called Stargate and then, you know, Stargate was in then a company for a while and then I think OpenAI sort of described it as all of their spend on compute is just sort of broadly labeled as Stargate. Um so uh I think the number is 500 billion and this incorporates you know chips, data centers, energy uh to ultimately power this intelligent infrastructure that's running and scaling both chatbt and all their other core services.
+>> One of uh the blockers in addition to the turbines has been electricians
+>> and construction workers.
+>> Yes.
+>> My understanding is you're paying two to three times what they were getting paid before the data center. Um, no comment on exactly what we're paying the electricians, but they're very well compensated.
+>> Am I in the right zone that their salaries in the industry have doubled or tripled?
+>> Uh, look, I think it's an incredibly exciting career path for for for anybody uh looking to do work with their hands and and get well very
+>> hundreds of thousands of dollars a year.
+>> Yes. Uh so, you know,
+>> I mean, let's think about that for a second. No college degree.
+>> Yeah.
+>> You just have to be an apprentice as an electrician and you can make hundreds of thousands of dollars a year. And you need how many? Thousands? Hundreds?
+>> Correct. So, we uh
+>> which one? Thousands or hundreds?
+>> Thousands. So, I I'll get into it in a second. So, um I'll give you an example. So, in Abalene today, we have 8,000 people on site every day. They're working day and night to bring this facility online as fast as possible so we can energize this intell.
+>> And that's 3 hours west of Dallas.
+>> Correct. So, it's in West Texas. Um you know, Abalene is a town of 120,000 people. So, you know, when you're hiring 8,000 people to work in that town, you can't source everybody locally. So, we've actually had to bring in a lot of labor from all states.
+>> And housing, I would assume.
+>> Yeah, housing. You know, housing, you know, the market's actually fairly efficient. There's a lot of people um that won't be long-term permanent workers there um that are actually, you know, they bring mobile homes, you know, they collect a stipend. Uh it's it's it's kind of a very, you know, uh efficient process in that regard. Um but uh you know long-term we're going to have about 2,000 uh permanent workers uh at the campus. So there's both you know short-term job you know spike and boom in terms of demand for the construction and installation process but there's also great long-term permanent jobs to operate the facility. You know we have a power plant there. There's a lot of mechanics that are going to be operating this facility. Um but this is just one campus. Um we have another campus uh in Armstrong County, Texas that you know has close to 3,000 people on site every day. We have another uh project in outside Cheyenne, Wyoming that we've announced we're planning to build a 10 gigawatt campus.
+>> Why Wyoming?
+>> Um Wyoming is a state that you know is very rich in natural resources and energy. Um and you know there's been really favorable uh you know u public private partnerships in terms of making this project happen. Uh you know there's a tremendous amount of uh gas there to sort of support uh what we're doing. And uh one of the very cool things that we're focused on is actually trying to uh bend the arc of energy production towards sustainable resources. So even with the gas uh Wyoming is a place where you actually have uh primacy on what's called class 6 wells. They're they're postcombustion carbon capture and sequestration disposal wells where you can actually take the carbon that that comes out of you know the the the combustion process of uh a natural gas turbine and you can pump it underground and permanently sequester it. Ah,
+>> and there's actually a incentive there called 45Q where you get paid by the government to do this and it doesn't quite cover the cost of doing it. But for customers that care about sort of the impact and the sustainability of the campus and the
+>> they're not putting the carbon into the atmosphere.
+>> Exactly.
+>> Putting it underground,
+>> they can produce power from gas in a carbon-f free way, which is a really exciting, you know, value proposition. We can
+>> How are batteries? I I think we saw Elon bought a and is building um he's got his own lithium refinery and he's building obviously his own batteries and uh they're one of the larger battery manufacturers. How do batteries play into all this currently?
+>> Um there's a bunch of different ways batteries play into it. I think uh you know you sort of need batteries in these low voltage UPS systems that sort of uh you know uh help operate the electrical system of of the plants uh or
+>> to normalize and base load or
+>> yes um actually one of the issues that we're seeing is you know when you think about these large scale AI factories uh when you're deploying giant clusters of GPUs uh you know the entire data center is acting as a single computer it's running one single workload. workload that's training some breakthrough foundational model. Uh, and what that results in is actually massive load fluctuations in the actual power draw because what they're doing is the chips are basically running compute cycles and then publishing the data over the network to all the other, you know, GPUs so they can sort of be in sync with one another. This causes this massive fluctuation and sort of overall power draw. Well, utilities hate that. It's terrible for the turbines. So, you really need a way of actually normalizing that power draw. Exactly. So, we've actually been able to solve that with a uh a 1h hour battery. Um that's actually a medium voltage battery energy storage system. That's something that we've deployed. Um you know, there's a lot of other use cases for batteries. I'll give you another example. We're actually working with uh Elon's former co-founder uh and partner at Tesla, JB Strobble.
+>> Oh, he's doing the recycling of them.
+>> Correct. So, he has a business called Redwood Materials um that's uh focused on recycling of batteries. and he has this massive supply of end of life EV batteries, batteries coming out of digital cameras, all these like, you know, this this whole collection of of batteries that are sort of at the end of their life. And so, as a demonstration to show people what we could do in terms of, you know, cost competition as well as, you know, deployment, uh, we actually deployed a fully offgrid solar plus battery energy storage system that powers an AI data center 24 hours around the clock with a power price that's lower than the power price in Northern Virginia. Um, and we're able to do that because you're able you're basically taking these batteries that, you know, uh, were were in an electric vehicle and maybe the range was 300 miles and now it's 250 mi.
+>> Uh, so the, you know, the owner trades it in and it's like, okay, this car is done, right? But there's still a lot of juice left in those batteries. There's a lot of life in those batteries. So, we're able to really make use of them in a second life uh, to power these AI data centers. you're under massive pressure to deliver these data centers. Correct.
+>> Um yeah, yeah, you could say that. Yeah.
+>> Compared to where you were like two or three years ago, maybe let's say three or four years ago, you were knocking on doors saying, "Hey, do you need a data center?" Now your door is being knocked down.
+>> Um I think there's just I think it just really speaks to, you know, the demand for compute. I think people are constantly having this conversation of like, are we in an AI bubble? uh you know I think there's just an incredible you know there there's no nobody has enough compute none of the you know leading labs none of the leading application companies can get their hands on enough compute and that's just driving an incredible amount of urgency to deliver infrastructure
+>> both the chips and the data center
+>> so even this year going into 2026 you're seeing the same amount of inbound hey we need more we need more we need more what do you got or was last year like people put in their big orders for the next couple years
+>> um no we're seeing seeing things accelerate. Um there there
+>> who are the new customers because obviously Elon, Sam Alman, I'm sure AWS, I'm sure. Well, I think Google does their own. Yeah.
+>> Um Google I think uh well I don't want to speak for directly.
+>> This is allin. If you want to be on allin, you got to speak candid. Just tell us what you heard at the cockail party. Google does does a mix of you know self-perform development as well as uh sort of outsourcing.
+>> So they do do some outsourcing. Yeah.
+>> Correct. Um but you know I I think all of the leading labs were seeing a tremendous amount of demand. Uh so you know anthropic open AAI you know Google uh you know
+>> Elon builds his own Elon builds his own. Um
+>> what what what was your take when you saw him build Colossus under that short time frame? Like your team must be like that's just not possible and then he did it.
+>> Uh no I don't think we thought that at Well, I think I was like really, you know, rooting for him.
+>> No, but did did he do my understanding is he did it in half the time anybody else had ever done something like that.
+>> Um it it it I mean it depends on how you sort of measure these things. I think Colossus was a that Colossus one was sort of this unique case where he had this large scale industrial building. He had power to the building. Uh, and really what he was doing was what I would call like the tenant fit out, which is basically the in the data hall buildout of the cooling distribution units, the RPPs, the electrical systems, the hot aisle containment systems that really and then you sort of, you know, roll racks of GPUs into these, right?
+>> Uh, so they were able to execute on that incredibly fast and you know,
+>> yeah, Jensen said he'd never seen anything like it. He seemed to think it was
+>> like a a unique thing that occurred in your industry.
+>> Yeah. Yeah, I mean Elon's the goat of, you know, a modern industrialist. So, you know,
+>> so
+>> hat tip to, you know, him.
+>> You as running not competitive to him, but building the same things. You you have to look at that and study it a bit. How did he get it done so fast? What do you think? How do you think he was able to do it so fast? Um I I think Elon does an incredible job of you know breaking down uh you know a a large industrial process into um a lot of subprocesses and understanding constraints and really taking a first principled approach of you know how do I build things as quickly as possible? How do I parallelize things as quickly as possible?
+>> Got it.
+>> Um and
+>> has that informed some of your thinking? Yeah.
+>> Oh absolutely. I mean you know he's been an inspiration from you know building the Gigafactory to everything he's done at you know uh SpaceX and uh Starbase. You know, it's all all incredibly inspiring and you know, we try to channel that same sense of incredible urgency. Uh, you know, paralyzing a lot of the work. Uh, you know, we we we self-perform a lot of, you know, procurement functions and engineering functions. Uh, and then, you know, work with a, uh, a lot of, you know, very ambitious folks on the on the construction side. Uh, there's actually a bunch of folks that worked on the Tesla Gigafactory, uh, in your new hometown in Austin. Yeah. um that are working on uh our campus in in Abalene, Texas. So um there's a lot of uh overlap in sort of methodologies.
+>> There's been a lot of talk of and I think Brad Gerson kind of started this discussion on his BG2 podcast when he had Sam Alman on how does a company with 20 or at the time 12 billion now it's 20 billion run rate. How does OpenAI pay for a $500 billion buildout in your contract with them and your relationship with them? I'm assuming this is being done in stages, not one giant hundred billion dollar contract, but stages. Yeah.
+>> Yeah. So, I I think it's important to understand like, you know, in a lot of ways, my role as CEO of Crusoe, um like half my time is really spent on like risk management, you know. Yes. Uh the amount of capital going into this is is just enormous. And you know, all that capital is not going to come from like dilutive equity capital that we're raising at the parent company. We have to raise project equity. We have to raise a lot of debt. Um and what debt debt folks are focused on is how is this person going to pay me back? Um and so it is very much something that's being evaluated in the capital markets. Um and you know this has actually been a major role that we see these largecale bluechip investment grade businesses uh play a major role in sort of catalyzing the capital formation you need to build these giant infrastructure projects. So when you have a you know a company like Google or you know company like Microsoft or a company like sitting on a hundred billion in cash and they throw 10 20 billion to the bottom line every quarter they could just fund it from their existing businesses but Elon and Sam have new businesses or even anthropic they have to come up with that money somewhere yeah
+>> correct so you know in our ca I'll give you an example in uh in Abalene Texas because that's the most public one uh you know we have a long-term lease agreement with Oracle right so we have a long-term you know 15-year offtake agreement with Oracle um and so they're committed to sort of paying us for for that, you know, time frame. Uh, so that helped unlock a lot of the construction debt, uh, and the capital we needed to, you know, build this project. Uh, so we worked with, uh, JP Morgan on on, uh, and number of other folks were in the syndicate, Bank of America, Apollo, you know, uh, SNBC, you know, a bunch of different
+>> and they must be very excited about this opportunity.
+>> Yeah, I think everybody's really, really excited about, you know, the opportunity to, you know, build the infrastructure that's going to power the economy in the future. And there's this is collateralized by a data center which has inherent value. If a customer of yours was unable to meet their commitment based on what you've told me today and shared with the audience and I appreciate your candidness. Um that is the currency of the all-in brand is candidness. Um there would be somebody else to take that capacity.
+>> Yeah. I I think, you know, that's that's the biggest argument I make when people ask about the AI bubble is like, well, you know, imagine a scenario where like OpenAI went out of business, which I don't think is going to happen.
+>> There are people saying that that could happen.
+>> Sure. Okay.
+>> I'm not saying that. You didn't say it.
+>> Imagine imagine they did go out of business. The reason they'd go out of business is because some other model company, whether it be, you know, Anthropic or Gemini or Grock, like really blew them out of the water.
+>> Well, and they're kind of in fourth place right now according to some of the benchmarks.
+>> Yeah. I mean, you know, put parking that all aside, they have incredible adoption, incredible platform, but but if if that were to happen, the group that massively surpassed them would have so much demand for that product,
+>> they would they would jump they'd be jumping for joy to step into the seat to take over that compute capacity. So I think you know if you believe that AI is going to be an important uh aspect of you know the operating system of the economy in the future um you know this infrastructure is going to be very useful and valuable to whoever the winners are uh in that future state.
+>> And people don't know this but you've also made a bet on startups. you've been incredibly generous to give credits to startups and maybe you could talk a little bit about how you made that decision to play the long game because I would think there's probably some people on your board or in your own organization says hey listen there we got some big fish here we got whales what are we doing with the minnows you're specifically targeting up and cominging startups to be their provider
+>> yeah so you know I really think about cruso you know being a vertically integrated business is like we offer three core four things, right? We can we can build the data centers and we can rent those to to customers. We're really only focused on a small subset, maybe five customers, these very big tech uh tech companies. Um, and that's really their key bottleneck, right? That that's that's their key pain point. They're not, you know, renting out capacity from clouds because, you know, Meta doesn't know how to run a GPU cluster like they of course they know how to run, you know, big clusters of GPUs. They need data centers, right? So we're trying to unblock that critical pain point for them. Um on our uh AI cloud platform and our infrastructure as a service platform, we offer managed clusters of high performance GPUs and we're a very large partner with NVIDIA and that's really critical infrastructure for the startups that you're talking about. This is the development of new AI native applications uh you know coding assistant tools uh you know managed inference solutions video generation image generation uh you know all sorts of chat bots and uh you know AI applications that are sort of uh proliferating in the world um you know we offer great uh sort of managed GPU clusters there and then we also offer serverless uh AI services like our managed inference product where we're charging people on a dollar per token basis so we can kind of charge on a dollar per kW rent on on the data center, dollar per GPU hour on the on the GPU or dollar per token on on sort of the managed services.
+>> Yeah. And that's thousands of customers, tens of thousands potentially, and that's where you're going up against Azure, AWS, and Google Cloud. Yeah.
+>> Uh correct. Yeah,
+>> those are some pretty significant competitors. How do you compete with with those kind of folks? Um, you know, I I think I think when you look at those uh really large hyperscalers, they're uh you know, they're they're incredible platforms and they've been able to accomplish so much. Uh but they really are the outsourced IT solution that's meant to be everything to everyone. Uh which means you know their lowest common denominator isn't AI, it's it's every reason.
+>> Server, you need storage, it's everything. We are relentlessly focused just on the AI use case and the AI application to deliver the most reliable, most high performance uh computing infrastructure directly for the AI use case and application. That's all we care about. Which means all of the optimizations we're making on the high performance networking system, compute side as well as the storage and how people access their data um is, you know, entirely in service of uh AI use cases. There's going to be some technological advancement in the coming years that really ramps up what we're able to do in building large language models in doing inference. What do you think that will be? A lot of people have talked about optics and just the the transfer transport layer. Some people talking about the raw horsepower, other people talking about cooling. Where do you when you talk to some of the hardware providers? Where do you think we'll see the next step function in the next, let's call that the three to five year window and because you must be thinking about that skating to where the puck's going because you did that with your current company, your current offering, I should say.
+>> Yeah. So, um, look, I I I think what's so fascinating about this space and what gets me so excited is that it's actually like the culmination of like the the the the the like so many different engineering disciplines. And it's like the pinnacle of human achievement across so many different engineering disciplines from you know the cooling systems and the chemical engineering and uh you know the electrical systems and you know the the physical electrical engineering that needs to go into these chips to you know the silicon systems and the chips uh and the networking and the and the software engineering. It's it's really a full stack solution that ultimately produces intelligence. Now getting to specific challenges that we see uh and specific trends. We're seeing uh everything go to higher density configurations. So more power in the rack. Um a traditional data center maybe you know 5 years ago was like 15kw you know 20 years ago was probably like 4kw in a rack. Um you know the current generation of blackwell chips uh is 130 kW in the rack. Uh the next generation Vera Rubin is going to be 250. Um and then Ver Rubin Ultra is expected to be 600. We're ultimately going to get to one megawatt racks. One megawatt to give a perspective is roughly the amount of power of a thousand homes.
+>> Yeah. It's like a small town
+>> in a data center, right?
+>> Um
+>> so a rack will be a town.
+>> Rack will be a town. Exactly. A couple dozen of those will be a city.
+>> Yeah. It'll be a New York City in a in a data center. Um, and you know, we, you know, Crusoe has, uh, over 45 gigawatts in our pipeline to, you know, and I know you're from New York, that's about like, you know, 8 to 10 New York cities worth of power, depending on how you, uh, measure it. Um, so, uh, you know, it's an it's it's an incredible amount of energy infrastructure that's going to need to come online, uh, to help energize this this layer of compute. And there's like I said there there's challenges in every you know domain from from cooling to networking to you know
+>> yeah that density arrives this 10 to1 density you're talking about the heat also arrives yeah
+>> correct yeah yeah so uh a lot of exciting stuff happening
+>> and what do you think uh of the small modular nuclear getting close to hydro what what do you you know obviously gas is the layup n gas it's everywhere we're leaders in that solar that feels like a layup and battery that combo to add, but hydro I don't know if there's much left.
+>> We're actually doing a lot with hydro uh you know in in the Nordics. Um so Norway in Icelands
+>> we have um in Iceland you know there's abundant geothermal uh it's like this sort of geological phenomenon and there's ultra lowc cost geothermal energy and also a lot of hydro there. Um,
+>> so that's a one-two.
+>> You get the one-two punch there.
+>> Yeah. And I don't know if you guys heard, but America just acquired Iceland. That was like the rim shot off of the uh Greenland. We
+>> Yeah,
+>> that wasn't a mistake.
+>> We're taking both. I mean, or you're giving us both. It's
+>> It's like Greenland.
+>> We don't ask from us. We don't ask for much. Okay. It's a very simple request. We're taking a little Iceland and a little
+>> We have data centers. You may have heard of big data. Big data centers in the few words. Listen. Um but but to your comment on small modular nuclear reactors, we are very bullish on SMRs. And
+>> have you signed a contract yet? Are you in negotiations?
+>> Four uh contracts that we've signed.
+>> Wow.
+>> We're actually hoping to energize the first AI AI factory powered by an SMR in 2027.
+>> 2027. That's next year. I know. Um and and one of the ways we've been able to do this is is it's actually going to be at the Idaho National Lab. um where you actually are you're you're outside of the uh regulatory domain of of the NRC uh it's considered experimental technology. So
+>> Oh yes. Who's the partner on that?
+>> I don't think we've made it public.
+>> No, it's okay. They're going to make some news here. Journalists here. No, I know because I I was told this exact same insight by the company that's doing it, but I won't say the name of it.
+>> Yeah.
+>> Yes.
+>> I think Well, I think I think we can announce it.
+>> Okay.
+>> Let's we should announce it.
+>> We should announce. Go. Uh the partner is Alo Energy. So uh they're an incredible partner.
+>> Isn't it amazing that for solar it was something we haven't been able to do since the 70s and now it's like yeah we're going to do solar. It's absolutely necessary so we're going to do it.
+>> Y
+>> it's what do you attribute that to?
+>> Um I you know I think there's this like human ingenuity and sort of the passage of time and sort of the relentless pursuit of efficiencies. Like I I I just think uh you know it's it's it's really incredible if you look at the cost curve of solar just how much it's come down over the course of time. I think you're going to see a similar thing play out in SMRs nextg uh geothermal like we're really excited about like innovations like Fervos's made uh in terms of like being able to produce uh geothermal at scale at a very competitive price point uh leveraging a lot of the technology from fracking and oil and gas
+>> and we're not going to have this impact consumer's electrical bills. Yeah, I think that's a that's that's such an interesting story. Um, you know, when we look at this problem, we say, look, a lot of the, you know, power on the grid is is very saturated. Um, a lot of the data center capacity is saturated. So, it just makes sense for the technology industry that wants to bring online all of this new infrastructure to also bring online the power to, you know, that goes with it. And you know the incredible opportunity from my perspective is that when we bring on new power generation to support an AI data center we're sizing it to the peak demand of the data center which mean you know and we're only using peak demand we call it like 0.1% of the time. So you might have some excess.9% of the time we have excess power that can be that can support the local community that can create an abundance of energy that drives down the overall cost for rateayers in the local communities. People will have lower cost power. We're going to have advanced intelligent infrastructure that's driving massive efficiency gains in the economy. It's going to be like a incredible future we're building towards.
+>> And this is something that I think the technology industry could be self-aware enough to understand if we're making this incredible uh new business. It's a great way to share it with other Americans. Hey, maybe your energy bill will get lower or eventually free.
+>> Absolutely. And and you're already seeing this trend unfold. I mean, we've taken this energy first approach. You saw Google uh recently make the acquisition of Intersect Power. Uh you know, Sheldon and his team there, incredible group of of uh energy developers. Uh and they're doing that because they know they need to build the energy infrastructure that's going to support their compute needs in the future.
+>> Yeah. Well, really appreciate you taking the time, Chase, and continued success. Uh and what an amazing story, man. You you really got there early, and one of two things can happen when you get there early. you can just fail fabulously or you can just absolutely crush it and it's been the latter for you. You but there might have been some moments where you stared at the ceiling at night as an entrepreneur and said are we too early?
+>> Yeah, it's mostly been up up into the right you know no real No, I'm just kidding. It Yeah, there's been uh you know tons of complex problems and challenges and you know moments of doubt throughout the the company's lifetime but um you know it I I wouldn't have want to do anything else with my life. nice to move from will the customers arrive to
+>> okay uh we've got too many customers we really need to deliver.
+>> Yeah.
+>> It's actually it's a it's a whole organizational mindset of like will the customers ever show up and this like fear to oh my god I hope my customers are happy and delighted.
+>> Totally. But scaling people scaling culture scaling technology it has its own set of challenges and problems.
+>> The culture part is important.
+>> It's difficult. Yeah. Yeah. It's difficult to go from a small startup of, you know, tens of people to, you know, more than a thousand people
+>> and adding what are you adding thousand a year?
+>> Uh, we're going to add 2400 people this year.
+>> Full-time employees and then tens of thousands of contractors.
+>> Yeah, I I've seen that movie before. And no, I mean, I watched it with Uber and Robin Hood as they were adding, you know, one person a day, then it was five new people, and then now you've just got training and recruitment and just trying to keep that culture
+>> tight and make sure you hire the right people. Well, listen, uh, you have to go, uh, and we're way over time. I appreciate you taking the time and being so,
+>> man. I appreciate it.
+>> All right, give it up for Chase.
+>> Thanks, Jess. I'm going all in.
