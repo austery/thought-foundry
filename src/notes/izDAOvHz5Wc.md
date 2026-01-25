@@ -1,5 +1,5 @@
 ---
-date: '2025-09-26'
+date: '2026-01-21'
 layout: post.njk
 speaker: Mark Carney
 source: https://www.youtube.com/watch?v=izDAOvHz5Wc
