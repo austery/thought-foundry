@@ -1,0 +1,12729 @@
+There
+ are
+ people
+ out
+ there
+ definitely
+
+
+like
+ me
+ that
+ really
+ want
+ to
+ know
+ the
+
+
+advanced
+ techniques
+ that
+ can
+ leverage
+
+
+the
+ most
+ powerful
+ parts
+ of
+ these
+ AI
+
+
+powered
+ coding
+ tools.
+ Where
+ do
+ you
+ want
+
+
+us
+ to
+ get
+ started
+ that
+ you
+ think
+ many
+
+
+people
+ don't
+ think
+ [music]
+ about
+ in
+
+
+terms
+ of
+ how
+ they
+ can
+ use
+ these
+ tools?
+
+
+>> Context
+ and
+ diagrams
+ is
+ a
+ great
+ place
+ to
+
+
+start.
+ They're
+ definitely
+ the
+ best
+ way
+
+
+to
+ get
+ AI
+ to
+ do
+ what
+ you
+ want.
+ So,
+ they
+
+
+have
+ what
+ are
+ called
+ mermaid
+ diagrams.
+
+
+This
+ is
+ a
+ way
+ of
+ visualizing
+ database
+
+
+operations
+ and
+ it's
+ a
+ way
+ of
+ essentially
+
+
+compressing
+ your
+ application
+ down
+ into
+
+
+very
+ small
+ lines
+ of
+ text
+ that
+ show
+ how
+
+
+your
+ application
+ works.
+ Now
+ for
+ a
+ human
+
+
+to
+ read
+ this,
+ this
+ is
+ a
+ big
+ challenge.
+
+
+But
+ an
+ AI
+ can
+ consume
+ this
+ easily.
+ I
+
+
+could
+ even
+ just
+ say,
+ "Please
+ explain
+ the
+
+
+authentication
+ flow."
+ And
+ because
+ it
+
+
+already
+ has
+ it
+ in
+ the
+ context,
+ it's
+ not
+
+
+going to
+ have
+ to
+ do
+ a
+ bunch
+ of
+ file
+
+
+reads
+ [music]
+ and
+ codebase
+ exploration
+
+
+to
+ figure
+ this
+ out.
+ It's
+ going
+ to
+ come
+
+
+up
+ with
+ results
+ much
+ quicker.
+
+
+>> If
+ I
+ gave
+ you
+ infinite
+ junior
+ to
+
+
+mid-career
+ talent
+ who
+ [music]
+ is
+ always
+
+
+available,
+ who
+ would
+ do
+ the
+ work
+ you
+
+
+would
+ do
+ if
+ you
+ had
+ unlimited
+ amount
+ of
+
+
+time
+ and
+ no
+ meetings?
+ What
+ would
+ you
+ do
+
+
+when
+ a
+ ticket
+ came
+ in?
+ Like
+ what
+ would
+
+
+you
+ do?
+
+
+[music]
+
+
+Welcome
+ back
+ to
+ How
+ I
+ AI.
+ I'm
+ Claire
+
+
+Vio,
+ product
+ leader
+ and
+ AI
+ obsessive
+
+
+here
+ on
+ a
+ mission
+ to
+ help
+ you
+ build
+
+
+better
+ with
+ these
+ new
+ tools.
+ Today
+ we
+
+
+have
+ John
+ Linquist
+ at
+ egghead.io
+
+
+who
+ is
+ a
+ super
+ user
+ of
+ AI
+ powered
+
+
+engineering
+ tools
+ like
+ cursor
+ [music]
+
+
+and
+ claude
+ code.
+ Now,
+ I
+ love
+ all
+ you
+
+
+nontechnical
+ folks
+ out
+ there,
+ but
+ this
+
+
+is
+ an
+ episode
+ for
+ the
+ senior
+ software
+
+
+engineers
+ who
+ really
+ want
+ to
+ understand
+
+
+how
+ they
+ can
+ use
+ the
+ power
+ features
+ of
+
+
+some
+ of
+ these
+ AI
+ engineering
+ tools
+ to
+
+
+really
+ both
+ optimize
+ the
+ quality
+ of
+ code
+
+
+that
+ they're
+ generating,
+ but
+ also
+ become
+
+
+more
+ efficient
+ as
+ they
+ use
+ their
+ IDE,
+
+
+terminal,
+ and
+ AI
+ assistance
+ to
+ write,
+
+
+check,
+ and
+ deploy
+ code.
+ This
+ is
+ a
+ great
+
+
+episode
+ for
+ any
+ of
+ our
+ advanced
+ users
+
+
+out
+ there.
+ VPs
+ of
+ engineering,
+ CTO,
+ pay
+
+
+attention.
+ Send
+ this
+ to
+ your
+ staff,
+
+
+engineers.
+ Let's
+ get
+ to
+ it.
+ This
+ episode
+
+
+is
+ brought
+ to
+ you
+ by
+ work
+ OS.
+ [music]
+ AI
+
+
+has
+ already
+ changed
+ how
+ we
+ work.
+ Tools
+
+
+are
+ helping
+ teams
+ write
+ better
+ code,
+
+
+analyze
+ customer
+ data,
+ and
+ even
+ handle
+
+
+support
+ tickets
+ automatically.
+ [music]
+
+
+But
+ there's
+ a
+ catch.
+ These
+ tools
+ only
+
+
+work
+ well
+ when
+ they
+ have
+ deep
+ access
+ to
+
+
+company
+ systems.
+ [music]
+ Your
+ co-pilot
+
+
+needs
+ to
+ see
+ your
+ entire
+ codebase.
+ Your
+
+
+chatbot
+ needs
+ to
+ search
+ across
+ [music]
+
+
+internal
+ docs.
+ And
+ for
+ enterprise
+
+
+buyers,
+ that
+ raises
+ serious
+ security
+
+
+concerns.
+ That's
+ why
+ these
+ apps
+ face
+
+
+intense
+ IT
+ scrutiny
+ from
+ day
+ one.
+ To
+
+
+pass,
+ they
+ need
+ secure
+ authentication,
+
+
+access
+ [music]
+ controls,
+ audit
+ logs,
+ the
+
+
+whole
+ suite
+ of
+ enterprise
+ features.
+
+
+Building
+ all
+ that
+ from
+ scratch,
+ [music]
+
+
+it's
+ a
+ massive
+ lift.
+ That's
+ where
+ Work
+
+
+OS
+ comes
+ in.
+ Work
+ OS
+ gives
+ you
+ [music]
+
+
+drop-in
+ APIs
+ for
+ enterprise
+ features
+ so
+
+
+your
+ app
+ can
+ become
+ enterprise
+ ready
+ and
+
+
+scale
+ [music]
+ up
+ market
+ faster.
+ Think
+ of
+
+
+it
+ like
+ Stripe
+ for
+ enterprise
+ features.
+
+
+OpenAI,
+ Perplexity,
+ [music]
+ and
+ Cursor
+
+
+are
+ already
+ using
+ work
+ OS
+ to
+ move
+ faster
+
+
+and
+ meet
+ enterprise
+ demands.
+ Join
+ them
+
+
+and
+ hundreds
+ of
+ other
+ industry
+ leaders
+
+
+at
+ works.com.
+
+
+Start
+ building
+ today.
+
+
+John,
+ welcome
+ to
+ How
+ I
+ AI.
+ I
+ have
+ to
+ put
+
+
+some
+ context
+ here
+ which
+ is
+ we
+ have
+ done
+
+
+quite
+ a
+ bit
+ of
+ coding
+ with
+ cursor
+ vibe
+
+
+coding
+ episodes
+ but
+ a
+ lot
+ of
+ what
+ our
+
+
+audience
+ has
+ asked
+ for
+ is
+ early
+ maturity
+
+
+less
+ technical
+ introductions
+ to
+ these
+
+
+tools.
+ But
+ there
+ are
+ people
+ out
+ there
+
+
+definitely
+ like
+ me
+ um
+ and
+ definitely
+
+
+like
+ folks
+ that
+ follow
+ you
+ that
+ really
+
+
+do
+ know
+ how
+ to
+ write
+ great
+ software
+ and
+
+
+want
+ to
+ you
+ know
+ as
+ people
+ say
+ of
+ course
+
+
+I'm
+ a
+ 9x
+ engineer
+ but
+ how
+ do
+ I
+ become
+ a
+
+
+10x
+ engineer
+ with
+ some
+ of these
+ tools
+
+
+want
+ to
+ know
+ really
+ the
+ advanced
+
+
+techniques
+ that
+ can
+ leverage
+ the
+ most
+
+
+powerful
+ parts
+ of
+ these
+ AI
+ powered
+
+
+coding
+ tools
+ and
+ get
+ you
+ really
+ high
+
+
+quality
+ software.
+ So
+ I'm
+ really
+ excited
+
+
+about
+ what
+ you're
+ going
+ to
+ show
+ us
+
+
+today.
+ And
+ so
+ where
+ do
+ you
+ want
+ us
+ to
+
+
+get
+ started
+ that
+ you
+ think
+ many
+ people
+
+
+don't
+ think
+ about
+ in
+ terms
+ of
+ how
+ they
+
+
+can
+ use
+ these
+ tools?
+
+
+>> Yeah,
+ I
+ think
+ uh
+ context
+ and
+ diagrams
+ is
+
+
+a
+ great
+ place
+ to
+ start
+ for
+ us.
+ Um
+
+
+they're
+ definitely
+ the
+
+
+best
+ way
+ to
+ get
+ AI
+ to
+ do
+ what
+ you
+ want.
+
+
+So
+ um and
+ we'll
+ be
+ using
+ cloud
+ code
+
+
+throughout.
+
+
+>> Oh,
+ great.
+ Okay.
+ And
+ so
+ yeah,
+ we've
+
+
+we've
+ gotten
+ a
+ lot
+ of
+ kind
+ of
+ markdown
+
+
+files
+ in
+ How
+ AI,
+ but
+ not
+ a
+ lot
+ of
+
+
+diagrams.
+ So
+ why
+ don't
+ you
+ walk
+ us
+
+
+through
+
+
+>> how
+ you
+ use
+ those
+ those
+ assets
+ to
+ help
+
+
+you
+ code
+ better.
+
+
+>> Yeah.
+ So
+ these
+ diagrams
+ are
+ all
+
+
+generated
+ from
+ I
+ can
+ share
+ a
+ prompt
+ with
+
+
+however
+ you
+ want
+ to
+ share
+ with
+ the
+
+
+audience
+ um
+ that
+ can
+ walk
+ through
+ your
+
+
+codebase
+ and
+ generate
+ diagrams
+ based
+ on
+
+
+uh
+ user
+ actions
+ or
+ user
+ interactions
+ the
+
+
+events
+ the
+ channels
+ whatever
+ happens
+ in
+
+
+your
+ code
+ to
+ help
+ the
+ AI
+ understand
+ the
+
+
+flow
+ and
+ how
+ the
+ pieces
+ are
+ connected.
+
+
+Um
+ I
+ think
+ Windinsurf
+ recently
+ came
+ out
+
+
+with
+ something
+ called
+ code
+ maps,
+ a
+
+
+similar
+ concept.
+ Um
+
+
+essentially
+ preloading
+ valuable
+ context
+
+
+so
+ that
+ you
+ have
+ to
+ remember
+ that
+ every
+
+
+time
+ an
+ AI
+ starts
+ it
+ has
+ no
+ memory,
+ no
+
+
+idea
+ of
+ what's
+ going
+ on
+ in
+ your
+
+
+application
+ and
+ people
+ try
+ and
+ set
+ up
+
+
+lots
+ of
+ rules
+ and
+ all
+ the
+ stuff
+ around
+
+
+it.
+ Um,
+ but
+ they
+ usually
+ don't
+ include
+ a
+
+
+lot
+ of
+ how
+ does
+ my
+ application
+ work
+ and
+
+
+how
+ do
+ the
+ pieces
+ fit
+ and
+ so
+ you
+ get
+ a
+
+
+lot
+ of
+ really
+ bad
+ edits
+ because
+ it
+
+
+doesn't
+ understand
+ if
+ it
+ if
+ it
+ modifies
+
+
+A,
+ how
+ does
+ that
+ impact
+ B?
+ Um,
+ so
+ we
+
+
+want
+ to
+ preload
+ a
+ lot
+ of
+ that.
+ We
+ can
+ do
+
+
+that
+ using
+ diagrams.
+ Uh,
+ so
+ for
+ example,
+
+
+one
+ of
+ these
+ diagrams
+ um
+ will
+ have
+ I
+ I
+
+
+call
+ they're
+ markdown
+ files
+ with
+
+
+diagrams
+ in
+ them.
+ So
+ they
+ have
+ what
+ are
+
+
+called
+ mermaid
+ diagrams
+ and
+ mermaid
+ is
+ a
+
+
+standard
+ format
+ for
+ rendering
+ diagrams
+
+
+inside
+ of
+ markdown.
+ So
+ this
+ is
+ a
+ a
+ way
+
+
+of
+ visualizing
+ uh
+ database
+ operations.
+
+
+And
+ if
+ you
+ to
+ zoom
+ zoom
+ in
+ and
+ look
+ at
+
+
+uh
+ how
+ if
+ a
+ record
+ exists
+ then
+ do
+ this
+
+
+and
+ that.
+ Yes.
+ No.
+ And
+ it's
+ a
+ a
+ way
+ of
+
+
+essentially
+ compressing
+ your
+ application
+
+
+down
+ into
+ very
+ small
+ lines
+ of
+ text
+ that
+
+
+show
+ how
+ your
+ application
+ works.
+ Now
+ for
+
+
+a
+ human
+ to
+ read
+ this,
+ this
+ is
+ a
+ big
+
+
+challenge.
+ Uh
+ we
+ need
+ to
+ open
+ up
+ this
+
+
+big
+ visual
+ and
+ it
+ turns
+ into
+ like
+ looks
+
+
+like
+ an
+ image.
+ But
+ an
+ AI
+ can
+ consume
+
+
+this
+ easily
+ and
+ it's
+ like
+ a
+ very
+
+
+compressed
+ very
+ um
+ robust
+ way
+ of
+
+
+explaining
+ application.
+ So
+ we
+ can
+ feed
+
+
+these
+ into
+ our
+ application
+ at
+ at
+ the
+
+
+startup
+ time.
+ Um,
+ and
+ for
+ the
+ more
+
+
+advanced
+ pro
+ or
+ the
+ larger
+ projects
+ you
+
+
+get
+ on,
+ the
+ more
+ diagrams
+ you'll
+ have,
+
+
+and
+ you
+ can
+ kind
+ of
+ pick
+ and
+ choose
+
+
+which
+ ones
+ to
+ load.
+ Um,
+ I'm
+ going
+ to
+
+
+load
+ them
+ all
+ in.
+ And
+ I'm
+ just
+ going
+ to
+
+
+open
+ um
+ terminal
+ up
+ the
+ editor
+ area.
+
+
+So,
+ the
+ way
+ I'm
+ going
+ to
+ do
+ this,
+ if
+ we
+
+
+look
+ at
+ Claude
+ and
+ we
+ look
+ at
+ look
+ at
+
+
+its
+ options,
+ um,
+ you'll
+ see
+ a
+ bunch
+ of
+
+
+options.
+ The
+ one
+ we're
+ going
+ to
+ focus
+ on
+
+
+is
+ called
+ append
+ system
+ prompt.
+ So
+ in
+
+
+there
+ before
+ we
+ load
+ in
+ uh
+ any
+ sort
+ of
+
+
+user
+ prompt
+ or
+ anything
+ we're
+ actually
+
+
+going
+ to
+ say
+ claude
+ append
+ system
+ prompt
+
+
+system
+ prompt
+ and
+ then
+ you
+ can
+ drop
+ in
+
+
+some
+ text
+ and
+ we're
+ going
+ to
+ drop
+ in
+ a
+
+
+command
+ and
+ this
+ command
+ can
+ read
+ in
+
+
+from
+ our
+ memory
+ from
+ AI/diagrams
+
+
+and
+ then
+ this
+ is
+ going
+ to
+ read
+ through
+
+
+this
+ is
+ a
+ called
+ a
+ glob
+ pattern
+ read
+
+
+through
+ all
+ of
+ the
+ markdown
+ files
+
+
+essentially
+ force
+ them
+ into
+ claude
+ once
+
+
+I
+ do
+ this.
+ So
+ this
+ is
+ reading
+ all
+ the
+
+
+files
+ all
+ the
+ markdown
+ files
+ and
+ this
+ is
+
+
+cat
+ will
+ kind
+ of
+ concatenate
+ them
+ all
+
+
+together
+ into
+ a
+ single
+ uh
+ text
+ read.
+
+
+>> Yeah.
+ One
+ thing
+ I
+ want
+ to
+ call
+ out
+ for
+
+
+folks
+ that
+ are
+ watching
+ this
+ that
+ or
+ or
+
+
+are
+ listening
+ and
+ maybe
+ not
+ watching
+ is
+
+
+two
+ things.
+ It
+ seems
+ like,
+ you
+ know,
+ in
+
+
+your
+ in
+ your
+ standard
+ repos,
+ you're
+
+
+creating
+ a
+ a
+ memory
+ um
+ directory
+ where
+
+
+you're
+ going
+ to
+ structure
+ some
+ of
+ the
+
+
+context
+ and
+ files
+ you
+ might
+ want
+ any
+ of
+
+
+these
+ AI
+ tools
+ to
+ use.
+ And
+ I
+ think
+
+
+everybody's
+ like,
+ "Oh
+ yeah,
+ I've
+ created
+
+
+my
+ agents
+ markdown
+ file
+ or
+ my
+ clawed
+
+
+one."
+ And
+ I
+ think
+ you
+ can
+ actually
+
+
+structure
+ your
+ um
+ context
+ for
+ these
+
+
+tools
+ a
+ lot
+ more
+ purposefully.
+ And
+ so
+ I
+
+
+think
+ this
+ is
+ a
+ really
+ good
+ example
+ of
+
+
+this.
+ The
+ other
+ thing
+ that
+ I
+ I
+ think
+ a
+
+
+lot
+ of
+ people
+ are
+ quite
+ lazy
+ about
+ is
+
+
+they
+ haven't
+ explored
+ the
+ surface
+ area
+
+
+of
+ all
+ the
+ system
+ commands
+ available
+ in
+
+
+cloud
+ code.
+ And
+ so
+ by
+ using
+ that
+ help
+
+
+command,
+ you
+ can
+ actually
+ see
+ things
+
+
+that
+ not
+ just
+ chatting
+ with
+ clot
+ code
+
+
+you
+ can
+ do,
+ but
+ you
+ can
+ actually
+ inject
+
+
+into
+ how
+ claude
+ operates.
+ And
+ appending
+
+
+system
+ prompt
+ is
+ one
+ of
+ those
+ ones
+ that
+
+
+I
+ think
+ people
+ probably
+ underuse.
+
+
+>> Yeah,
+ absolutely.
+ Um,
+ it's
+ one
+ I
+ use
+
+
+constantly.
+ Um,
+ great
+ points
+ there.
+ Um,
+
+
+so
+ when
+ when
+ I
+ let
+ this
+ run,
+ you'll
+
+
+notice
+ that
+ there's
+ um
+ it's
+ now
+
+
+prompting
+ the
+ user
+ to
+ do
+ something.
+ And
+
+
+we
+ don't
+ have
+ to
+ try
+ and
+ reference
+ all
+
+
+of
+ the
+ files,
+ which
+ you
+ normally
+ do
+ with
+
+
+AT.
+ We
+ don't
+ have
+ to
+ try
+ and
+ tell
+ it,
+
+
+you
+ know,
+ what
+ we're
+ going
+ to
+ work
+ on.
+ I
+
+
+could
+ even
+ just
+ say,
+ like,
+ I
+ use
+
+
+dictation
+ all
+ the
+ time.
+ Uh,
+ please
+
+
+explain
+ the
+ authentication
+ flow.
+
+
+And
+ because
+ it
+ already
+ has
+ it
+ in
+ the
+
+
+context,
+ it's
+ not
+ going
+ to
+ have
+ to
+ do
+ a
+
+
+bunch
+ of
+ file
+ reads
+ and
+ codebase
+
+
+exploration
+ to
+ figure
+ this
+ out.
+ It's
+
+
+going
+ to
+ come
+ up
+ with
+ results
+ much
+
+
+quicker.
+ This
+ this
+ does
+ come
+ at
+ the
+ cost
+
+
+of
+ a
+ lot
+ more
+ context,
+ a
+ lot
+ more
+ um
+
+
+tokens
+ being
+ used
+ up
+ front,
+ but
+ the
+ work
+
+
+that
+ you
+ do,
+ the
+ time
+ that
+ you
+ spend
+ on
+
+
+these
+ tasks
+ is
+ more
+ valuable
+ than
+ that
+
+
+to
+ me.
+ So,
+ you'll
+ notice
+ that
+ there
+ were
+
+
+no
+ file
+ reads
+ in
+ this.
+ There
+ were
+ no
+ um
+
+
+it
+ did
+ not
+ search
+ the
+ codebase.
+ It
+
+
+didn't
+ do
+ any
+ of
+ that
+ stuff.
+ It
+ just
+
+
+simply
+ had
+ all
+ that
+ in
+ context.
+ And
+ now
+
+
+I
+ could
+ take
+ this
+ and
+ look
+ through
+ it,
+
+
+start
+ creating
+ plans,
+ swap
+ over
+ to
+ plan
+
+
+mode
+ to
+ how
+ we
+ want
+ to
+ uh
+ update
+ and
+ um
+
+
+change
+ authentication.
+ So
+
+
+this
+ saves
+ again
+ the
+ the
+ the
+ trade-off
+
+
+here
+ is
+ the
+ cost
+ of
+ many
+ tokens
+ up
+ front
+
+
+but
+ the
+ value
+ is
+ you
+ get
+ a
+ lot
+ faster
+
+
+and
+ a
+ lot
+ more
+ valuable
+ output
+ as
+ the
+
+
+tasks
+ complete
+ much
+ faster
+ the
+ tasks
+ are
+
+
+much
+ more
+ reliable
+ because
+ it
+
+
+understands
+ what's
+ going
+ on
+ in
+ the
+
+
+codebase.
+
+
+>> Two
+ things
+ I
+ think
+ people
+ should
+ think
+
+
+about
+ with
+ this
+ flow.
+ one
+ is
+ I've
+ said
+
+
+this
+ in
+ a
+ couple
+ episodes
+ and
+ and
+ we'll
+
+
+call
+ it
+ out
+ again
+ in
+ yours
+ is
+ I
+ think
+
+
+that
+ with
+ LLM
+ starting
+ to
+ become
+ more
+ of
+
+
+a
+ part
+ of
+ how
+ we
+ do
+ work
+ and
+ feed
+
+
+context
+ and
+ understand
+ things
+ like
+
+
+documentation
+ or
+ business
+ context.
+ This
+
+
+is
+ the
+ era
+ of
+ the
+ the
+ file
+ type
+ and
+ I
+
+
+think
+ so
+ many
+ people
+ think
+ about
+
+
+markdown
+ and
+ JSON
+ files
+ as
+ effective
+
+
+ways
+ to
+ inject
+ context
+ into
+ LLMs.
+ I
+ see
+
+
+a
+ lot
+ of
+ course
+ markdown
+ files.
+ I
+ think
+
+
+more
+ people
+ now
+ write
+ markdown
+ than
+ they
+
+
+h
+ than
+ they
+ have
+ in
+ many
+ many
+ years.
+ And
+
+
+then
+ a
+ lot
+ of
+ we've
+ had
+ some
+ episodes
+ on
+
+
+using
+ JSON
+ for
+ example
+ to
+ put
+ realistic
+
+
+or
+ semi-realistic
+ data
+ into
+ prototypes.
+
+
+But
+ we
+ are
+ having
+ more
+ and
+ more
+ episodes
+
+
+where
+ people
+ are
+ discovering
+
+
+specific
+ file
+ types
+ that
+ have
+ a
+ specific
+
+
+context
+ structure
+ that
+ are
+ really
+ useful
+
+
+for
+ a
+ use
+ case.
+ In
+ this
+ one,
+ you
+ have
+
+
+mermaid
+ diagrams,
+ which
+ again
+ are
+ hard
+
+
+to
+ parse
+ as
+ a
+ human.
+ And
+ even
+ if
+ they
+
+
+turn
+ into
+ graphics,
+ are
+ still
+ hard
+ to
+
+
+parse
+ as
+ a
+ human.
+ Like
+ I
+ looked
+ at
+ that
+
+
+big
+ diagram
+ of
+ my
+ eyes
+ crossed
+ and
+ I
+
+
+said,
+ I
+ don't
+ I
+ don't
+ want
+ to
+ read
+ this.
+
+
+But
+ to
+ a
+ machine,
+ it's
+ very
+ effective.
+
+
+We've
+ also
+ in
+ some
+ episodes
+ talked
+ about
+
+
+um
+ image
+ and
+ multimedia
+ file
+ formats
+
+
+that
+ not
+ only
+ contain
+ image
+ data,
+ but
+
+
+contain
+ metadata
+ that
+ you
+ can
+ use.
+ And
+
+
+so
+ I
+ think
+ this
+ is
+ an
+ interesting
+ moment
+
+
+where
+ we
+ can
+ all
+ use
+ different
+ file
+
+
+types
+ in
+ a
+ more
+ extensive
+ way
+ than
+ our
+
+
+kind
+ of
+ human
+ brains
+ could
+ because
+ the
+
+
+machines
+ are
+ so
+ good
+ at
+ using
+ the
+
+
+different
+ component
+ structures
+ or
+ syntax
+
+
+of
+ of
+ those
+ files.
+ So
+ I
+ think
+ that's
+
+
+pretty
+ interesting
+ and
+ I
+ think
+ mermaid
+
+
+diagrams
+ are
+ one
+ of
+ those
+ examples
+ um
+ of
+
+
+something
+ that
+ can
+ be
+ used
+ really
+ well.
+
+
+>> Yeah,
+ absolutely.
+ There's
+ a
+ lot
+ of
+
+
+research
+ being
+ done
+ into
+ how
+ they
+ can
+
+
+compress
+ all
+ of
+ this
+ information
+ down
+
+
+into
+ like
+ a
+ single
+ image.
+ So,
+ if
+ I
+ could
+
+
+take
+ all
+ of
+ the
+ diagram
+ files
+ and
+
+
+somehow
+ come
+ up
+ with
+ an
+ image
+ format
+
+
+that
+ would
+ store
+ everything
+ in
+ there,
+
+
+could
+ would
+ the
+ trade-off
+ on
+ tokens
+ be
+
+
+there
+ and
+ would
+ the
+ trade-off
+ on
+
+
+understanding
+ be
+ there
+ as
+ well?
+ Um
+ it's
+
+
+uh
+ we
+ we'll
+ see
+ if
+ there's
+ more
+ file
+
+
+types
+ that
+ emerge
+ and
+ I'm
+ huge
+ um
+ on
+
+
+video
+ and
+ using
+ videos
+
+
+uh
+ Gemini
+ being
+ the
+ best
+ model
+ for
+
+
+uploading
+ video
+ and
+ understanding
+ um
+ and
+
+
+recently
+ built
+ a
+ tool
+ that
+ can
+ take
+ one
+
+
+of
+ my
+ six-hour
+ workshops
+ and
+ uh
+ process
+
+
+the
+ entire
+ thing
+ and
+ take
+ out
+ notes
+ and
+
+
+examples
+ and
+ thoughts
+ and
+ frequently
+
+
+asked
+ questions.
+ And
+ so
+ each
+ time
+ I
+
+
+teach
+ a
+ workshop,
+ I
+ can
+ iterate
+ on
+ it
+
+
+and
+ um
+ I
+ don't
+ have
+ to
+ go
+ like
+ search
+
+
+through
+ the
+ video
+ some
+ other
+ way.
+ It's
+
+
+>> you
+ and
+ I
+ will
+ have
+ to
+ trade
+ notes
+
+
+because
+ I
+ did
+ a
+ very
+ similar
+ thing
+ with
+
+
+our
+ episodes
+ which
+ is
+ it
+ takes
+ a
+ video
+
+
+of
+ our
+ episode.
+ It
+ pulls
+ out
+ all
+ the
+
+
+learnings,
+ all
+ the
+ code
+ snippets,
+
+
+screenshots
+ where
+ the
+ guest
+ and
+ I
+ look
+
+
+cute
+ and
+ put
+ it
+ into
+ into
+ a
+ blog
+ post.
+
+
+So
+ So
+ I
+ agree
+ on
+ that.
+ You
+ know,
+ the
+
+
+second
+ question
+ I
+ had
+ for
+ you
+ though
+ is
+
+
+going
+ back
+ to
+ these
+ diagram
+ files
+ in
+
+
+this
+ memory
+ directory.
+ Where
+ in
+ your
+
+
+development
+ process
+ do
+ you
+ find
+ that
+ you
+
+
+generate
+ those
+ files?
+ So
+ for
+ me,
+ I
+
+
+actually
+ have
+ a
+ GitHub
+ action
+ that
+
+
+generates
+ files
+ almost
+ exactly
+ like
+ you
+
+
+have
+ with
+ documentation
+ and
+ diagrams
+ for
+
+
+new
+ features
+ um
+ of
+ a
+ of
+ a
+ specific
+
+
+scope.
+ And
+ so
+ I
+ do
+ it
+ when
+ a
+ pull
+
+
+request
+ is
+ closed
+ and
+ then
+ I
+ go
+ back
+ and
+
+
+um
+ update
+ update
+ our
+ diagrams.
+ I'm
+ I'm
+
+
+curious
+ where
+ this
+ falls
+ in
+ your
+ where
+
+
+documentation
+ like
+ this
+ falls
+ into
+ your
+
+
+workflow.
+
+
+>> Yeah,
+ usually
+ I
+ think
+ pull
+ request
+ is
+ a
+
+
+a
+ good
+ paradigm
+ there.
+ Uh
+ as
+ soon
+ as
+ you
+
+
+have
+ something
+ working
+ where
+ you
+ want
+ it
+
+
+to
+ be
+ working
+ and
+ then
+ you
+ can
+ say
+ okay
+
+
+now
+ this
+ is
+ working
+ as
+ expected.
+ Please
+
+
+diagram
+ it.
+ I
+ think
+ for
+ a
+ lot
+ of
+ the
+
+
+projects,
+ we
+ already
+ have
+ pre-existing
+
+
+um
+ code
+ bases
+ that
+ don't
+ have
+ diagrams.
+
+
+And
+ so
+ that's
+ that's
+ been
+ the
+ major
+ use
+
+
+case
+ is
+ taking
+ existing
+ stuff
+ and
+ um
+
+
+diagramming
+ all
+ of
+ that
+ so
+ that
+ our
+ AI
+
+
+development
+ is
+ accelerated,
+ I
+ guess,
+ is
+
+
+the
+ buzzword.
+ Um
+ but
+ yeah,
+ if
+ you're
+
+
+starting
+ from
+ scratch,
+ you
+ definitely
+
+
+just
+ want
+ to
+ spike
+ spike
+ things
+ out,
+ get
+
+
+it
+ working.
+ Um
+ don't
+ worry
+ about
+
+
+diagrams
+ up
+ front.
+ um
+ just
+ use
+ a
+ plan
+
+
+mode,
+ build
+ something
+ and
+ once
+ it's
+
+
+working,
+ then
+ diagram
+ it
+ out.
+ And
+ then
+
+
+even
+ with
+ the
+ diagrams,
+ um
+ they're
+ great
+
+
+to
+ help
+ walk
+ you
+ through
+ like
+ what
+ did
+ I
+
+
+just
+ build?
+ Like
+ I
+ didn't
+ look
+ any
+ of
+
+
+this
+ code.
+ Uh
+ show
+ me
+ diagrams
+ of
+ what
+
+
+the
+ code
+ is
+ doing.
+ And
+ then
+ if
+ the
+
+
+diagrams
+ look
+ kind
+ of
+ wonky,
+ you
+ can
+
+
+just
+ say
+ there
+ there's
+ there's
+ tools
+ in
+
+
+there
+ that
+ people
+ are
+ working
+ on
+ where
+
+
+you
+ can
+ like
+ drag
+ around
+ pieces
+ of
+ the
+
+
+diagram
+ to
+ say,
+ well,
+ I
+ don't
+ want
+ this
+
+
+to
+ navigate
+ there.
+ I
+ don't
+ want
+ this
+
+
+user
+ do
+ that.
+ We
+ could
+ I
+ don't
+ there's
+
+
+going
+ to
+ be
+ so
+ many
+ tools
+ in
+ the
+ next
+
+
+few
+ years
+ that
+ emerge
+ from
+ all
+ this.
+
+
+>> Yeah.
+ And
+ then
+ I
+ will
+ give
+ folks
+ just
+ a
+
+
+couple
+ other
+ use
+ cases
+ of
+ generating
+
+
+mermaid
+ diagrams
+ from
+ code
+ that
+ are
+ not
+
+
+just
+ about
+ improving
+ the
+ efficiency
+ of
+
+
+using
+ something
+ like
+ cloud
+ code.
+ Um
+ I
+
+
+use
+ a
+ lot
+ of
+ diagram
+ generating
+ out
+ of
+
+
+our
+ repo
+ to
+ answer
+ very
+ complex
+ security
+
+
+and
+ data
+ flow
+ requirements
+ from
+ our
+
+
+customers.
+ This
+ is
+ a
+ it's
+ a
+ workflow
+
+
+that
+ is
+ actually
+ like
+ pretty
+ expensive
+
+
+if
+ you
+ ask
+ an
+ engineer
+ to
+ do
+ it
+ which
+ is
+
+
+I
+ have
+ specific
+ customer
+ A
+ they
+ need
+ a
+
+
+very
+ specific
+ data
+ flow
+ diagram
+ of
+ this
+
+
+part
+ of
+ our
+ application
+ so
+ they
+ can
+
+
+understand
+ the
+ third
+ party
+ parts
+ of
+ it
+
+
+again
+ also
+ if
+ you're
+ going
+ through
+ sock
+
+
+2
+ compliance
+ or
+ any
+ compliance
+ like
+
+
+these
+ are
+ these
+ are
+ assets
+ that
+
+
+historically
+ have
+ just
+ been
+ so
+ tedious
+
+
+to
+ create
+ efficiently
+ and
+ effectively
+
+
+and
+ now
+ you
+ can
+ kind
+ of
+ generate
+ them
+ on
+
+
+demand.
+ My
+ last
+ question
+ for
+ you
+ on
+ this
+
+
+diagram
+ flow
+ is
+ do
+ you
+ find
+ that
+ you
+
+
+have
+ the
+ AI
+ write
+ or
+ you
+ would
+ write
+
+
+documentation
+ any
+ differently
+ than
+ you
+
+
+would
+ for
+ a
+ human
+ audience
+ or
+ do
+ you
+
+
+feel
+ like
+ there's
+ enough
+ overlap
+ that
+
+
+the
+ content
+ format
+ etc
+ can
+ be
+ pretty
+
+
+consistent
+ between
+ the
+ two?
+
+
+>> I
+ would
+ say
+ could
+ be
+ pretty
+ consistent.
+
+
+I
+ I
+ think
+ they
+ serve
+ as
+ a
+ nice
+ bridge
+
+
+between
+ kind
+ of
+ human
+ and
+ AI.
+ Um
+
+
+definitely
+ think
+ I
+ I
+ know
+ people
+
+
+generate
+ documents
+ like
+ you'll
+ write
+
+
+code
+ and
+ then
+ generate
+ documentation
+
+
+around
+ it
+ using
+ AI
+ for
+ both
+ steps
+ which
+
+
+is
+ just
+ wild
+ but
+ um
+ yeah
+ I
+ think
+ the
+
+
+markdown
+ is
+ kind
+ of
+ the
+ language
+ of
+ the
+
+
+future
+ for
+ a
+ lot
+ of
+ this
+ um
+ text
+ and
+
+
+then
+ there
+ you
+ can
+ do
+ images
+ and
+
+
+everything
+ inside
+ of
+ markdown
+ files
+ as
+
+
+well.
+ So
+ they
+ can
+ kind
+ of
+ and
+ the
+ front
+
+
+matter
+ metadata.
+ Um
+ you'll
+ you
+ see
+
+
+claude
+ using
+ that
+ extensively
+ for
+ their
+
+
+skills
+ and
+ commands.
+
+
+>> Yep.
+
+
+>> And
+ everything.
+ So
+ um
+ and
+ anthropic
+ is
+
+
+pretty
+ good
+ at
+ pioneering
+ all
+ this
+
+
+stuff.
+ So
+
+
+>> if
+ they're
+ using
+ markdown
+ then
+
+
+>> everybody
+ else
+ can.
+
+
+>> Yeah.
+
+
+>> Yeah.
+ Uh
+ again
+ for
+ people
+ who
+ want
+ to
+
+
+like
+ pull
+ the
+ thread
+ a
+ little
+ further
+ uh
+
+
+what
+ what
+ I
+ do
+ is
+ yeah
+ we
+ generate
+ a
+ lot
+
+
+of
+ AI
+ code
+ then
+ on
+ poll
+ request
+ we
+
+
+generate
+ AI
+ documentation
+ internally
+ for
+
+
+engineers
+ and
+ for
+ AI
+ obviously
+ to
+ use
+
+
+this
+ context
+ and
+ then
+ we
+ take
+ that
+ code
+
+
+and
+ we
+ generate
+ markdown
+ customerf
+
+
+facing
+ support
+ documents
+ again
+ that
+
+
+really
+ benefit
+ from
+ these
+ workflows
+
+
+because
+ then
+ you
+ say
+ click
+ button
+ A
+ move
+
+
+to
+ section
+ B
+ save
+ this
+ and
+ so
+ you
+ can
+
+
+really
+ pull
+ the
+ thread
+ on
+ docu
+
+
+documentation
+ from
+ one
+ asset
+ and
+ I
+ think
+
+
+you're
+ showing
+ a
+ place
+ where
+ it's
+ really
+
+
+useful
+ from
+ the
+ engineering
+ perspective
+
+
+but
+ it
+ can
+ start
+ to
+ become
+ customerf
+
+
+facing
+ and
+ all
+ sorts
+ of
+ interesting
+
+
+things.
+
+
+>> Yeah.
+ And
+ you
+ could
+ summarize
+ the
+
+
+documents
+ for
+ customers.
+ Um
+ you
+ could
+
+
+have
+ it
+ build
+ little
+ interactive
+ demos.
+
+
+I
+ mean
+ there's
+ the
+ sky's
+ is
+ the
+ limit.
+
+
+Like
+ how
+ however
+ much
+ you
+ want
+ to
+
+
+support
+ customers
+ there
+ is
+ if
+ this
+ is
+
+
+enough
+ then
+ then
+ great.
+ If
+ it's
+ not
+ then
+
+
+it's
+ an
+ AI
+ prompt
+ away
+ from
+
+
+>> something
+ pretty.
+ I
+ guess
+
+
+>> this
+ episode
+ is
+ brought
+ to
+ you
+ by
+
+
+[music]
+ Times,
+ the
+ intelligent
+ workflow
+
+
+platform
+ powering
+ the
+ world's
+ most
+
+
+important
+ work.
+ Business
+ moves
+ faster
+
+
+than
+ the
+ systems
+ meant
+ to
+ support
+ it.
+
+
+Teams
+ are
+ stuck
+ with
+ repetitive
+ [music]
+
+
+tasks,
+ scattered
+ tools,
+ and
+ hard
+ to
+
+
+reach
+ data.
+ AI
+ has
+ huge
+ promise,
+ but
+
+
+struggles
+ when
+ everything
+ underneath
+ is
+
+
+fragmented.
+ Times
+ [music]
+ fixes
+ that.
+ It
+
+
+unifies
+ your
+ tools,
+ data,
+ and
+ processes
+
+
+in
+ one
+ secure,
+ flexible
+ platform.
+
+
+Blending
+ [music]
+ Agette
+ AI,
+ automation,
+
+
+and
+ human-led
+ intervention.
+ Teams
+ get
+
+
+their
+ time
+ back,
+ workflows
+ run
+ smarter,
+
+
+and
+ AI
+ [music]
+ actually
+ delivers
+ real
+
+
+value.
+ Customers
+ now
+ automate
+ over
+ 1.5
+
+
+billion
+ actions
+ every
+ week.
+ Times
+ is
+
+
+trusted
+ by
+ companies
+ like
+ Canva,
+
+
+Coinbase,
+ [music]
+ Datab
+ Bricks,
+ GitLab,
+
+
+Mars,
+ and
+ Reddit.
+ Try
+ Time Tines
+ at
+
+
+times.com/h
+
+
+[music]
+ how
+ I
+ AI.
+
+
+Great.
+ So,
+ you
+ showed
+ us
+ how
+ to
+ just
+
+
+pull
+ all
+ of
+ these
+ documents
+ into
+ a
+
+
+system
+ prompt.
+ You
+ get
+ much
+ more
+ um
+
+
+performant
+ use
+ of
+ something
+ like
+ Claude
+
+
+Code.
+ And
+ this
+ seems
+ like
+ a
+ command
+ that
+
+
+you're
+ using
+ over
+ and
+ over
+ again.
+ And
+
+
+that's
+ something
+ you
+ and
+ I
+ talked
+ about
+
+
+before
+ we
+ started
+ recording,
+ which
+ is
+
+
+how
+ to
+ alias
+ and
+ make
+ more
+ efficient
+
+
+your
+ use
+ of
+ of
+ different
+ commands.
+ So,
+
+
+should
+ we
+ should
+ we
+ pop
+ over
+ to
+ that
+ or
+
+
+anything
+ else
+ you
+ want
+ to
+ show
+ on
+
+
+diagrams?
+
+
+>> That's
+ that's
+ great.
+ Let's
+ do
+ that.
+ Um,
+
+
+so
+ there
+ are
+ a
+ lot
+ of
+ uh
+ with
+ with
+ on
+
+
+Mac
+ it's
+ DSH
+ is
+ the
+ default
+ shell.
+ Um,
+
+
+on
+ Windows
+ I
+ do
+ PowerShell.
+ So,
+ this
+
+
+look
+ very
+ different.
+ Um,
+ but
+ depending
+
+
+on
+ what
+ tools
+ you
+ use
+ the
+ most,
+ you
+ can
+
+
+easily
+ set
+ up
+ aliases
+ for
+ things
+ like
+
+
+setting
+ the
+ default
+ model
+ for
+ for
+ claude
+
+
+or
+ setting
+ like
+ if
+ you
+ want
+ to
+ do
+
+
+something
+ completely
+ dangerously
+ so
+ that
+
+
+once
+ you
+ open
+ a
+ new
+ terminal,
+ if
+ you
+
+
+just
+ type
+ X
+ now,
+ anything
+ I
+ type
+ has
+
+
+bypass
+ permissions
+ enabled.
+ Or
+ if
+ I
+ type
+
+
+H,
+ this
+ will
+ be
+ Haiku.
+ It'll
+ be
+ much
+
+
+faster,
+ but
+ not
+ quite
+ as
+ smart.
+ Um
+ or
+ if
+
+
+I
+ type
+ in
+ the
+ scenario
+ CDI
+ um
+ this
+ will
+
+
+do
+ that
+ diagram
+ loading
+ um
+ where
+ once
+
+
+you
+ have
+ these
+ systems
+ in
+ place
+ these
+
+
+commands
+ in
+ place
+ then
+ you
+ can
+ just
+ uh
+
+
+kind
+ of
+ capture
+ them
+ in
+ the
+ smallest
+
+
+like
+ because
+ I
+ only
+ because
+ I
+ use
+ these
+
+
+a
+ lot
+ I
+ I
+ I
+ keep
+ them
+ in
+ very
+ short
+
+
+shortcuts.
+
+
+Yeah,
+ and
+ I
+ can
+ imagine
+ you
+ could
+ you
+
+
+could
+ do
+ something
+ like
+ this
+ for
+ project
+
+
+specific
+ context
+ to
+ so
+ you
+ could
+ do
+ like
+
+
+CC
+ dash
+ whatever
+ project
+ you're
+ working
+
+
+on.
+ You
+ could
+ pull
+ in
+ the
+ diagrams
+ for
+
+
+just
+ that
+ initiative.
+ So
+ if
+ you're
+ going
+
+
+back
+ over
+ and
+ over
+ again
+ into
+ specific
+
+
+things
+ that
+ need
+ specific
+ context,
+ this
+
+
+would
+ be
+ just
+ a
+ cheap
+ shortcut
+ to
+ to
+ get
+
+
+you
+ into
+ the
+ mode
+ of
+ for
+ example
+ cloud
+
+
+code
+ that
+ you
+ want.
+
+
+>> Yeah,
+ absolutely.
+
+
+>> And
+ you
+ showed
+ a
+ lot
+ of
+ cloud
+ examples
+
+
+here.
+ Are
+ there
+ any
+ other
+ ones
+ that
+ you
+
+
+think
+ are
+ really
+ really
+ useful
+ for
+ folks
+
+
+or
+ creative
+ uses
+ of
+ this
+ you
+ think
+ we
+
+
+should
+ think
+ about?
+
+
+>> So
+ I
+ tend
+ to
+ build
+ any
+ idea
+ I
+ come
+ up
+
+
+with.
+ Um
+ so
+ for
+ example
+ this
+ is
+ one
+ I'm
+
+
+working
+ on
+ called
+ sketch
+
+
+and
+ this
+ feeds
+ into
+ the
+ Gemini
+ uh
+ Gemini
+
+
+CLI.
+ So
+ like
+ what
+ type
+ of
+ website
+ do
+
+
+want
+ to
+ do
+ I
+ want
+ to
+ build?
+ Let's
+ do
+ a
+
+
+store
+ for
+ selling
+ uh
+ Christmas
+
+
+decorations.
+
+
+And
+ then
+ let's
+ make
+ the
+ homepage
+ of
+
+
+that.
+ Let's
+ make
+ it
+ creative
+ and
+
+
+artistic
+ for
+ a
+ desktop
+ website.
+ We'll
+ do
+
+
+the
+ GitHub
+ light
+ theme
+ for
+ it.
+ No
+
+
+reference
+ image.
+ Let's
+ do
+ five
+ images
+
+
+and
+ go
+ ahead
+ and
+ generate
+ it.
+ And
+ this
+
+
+is
+ the
+ sort
+ of
+ thing
+ where
+ um
+ kind
+ of
+
+
+beyond
+
+
+beyond
+ the
+ simple
+ alias
+ if
+ you
+ uh
+ if
+
+
+you've
+ never
+ dived
+ into
+ creating
+ what's
+
+
+called
+ a
+ CLI
+ you
+ can
+ tell
+ an
+ AI
+ like
+
+
+listen
+ I
+ want
+ to
+ use
+ like
+ this
+ is
+ a
+
+
+wrapper
+ around
+ um
+ Gemini
+
+
+where
+ it
+ will
+ execute
+ Gemini
+ with
+
+
+specific
+ prompts.
+ So
+ you
+ have
+ to
+
+
+remember
+ that
+ you
+ have
+ these
+ tools
+ on
+
+
+your
+ desktop
+ which
+ can
+ do
+ incredible
+
+
+things
+ but
+ you
+ can
+ also
+ script
+ them
+ and
+
+
+this
+ is
+ a
+ scripted
+ way
+ of
+ generated
+
+
+generating
+ images
+ based
+ on
+ all
+ of
+ these
+
+
+um
+ all
+ these
+ topics
+ with
+ or
+ these
+
+
+concepts
+ with
+ pre-loaded
+ prompts
+ and
+ I
+
+
+can
+ say
+ if
+ I
+ want
+ to
+ add
+ another
+ feature
+
+
+like
+ you
+ can
+ just
+ go
+ in
+ there
+ and
+ say
+
+
+please
+ tweak
+ the
+ prompts
+ or
+ please
+ add
+
+
+this
+ feature
+ please
+ do
+ this
+ and
+ then
+
+
+instead
+ of
+ um
+
+
+constantly
+ thinking
+ of
+ oh
+ what
+ was
+ that
+
+
+prompt
+ again
+ or
+ was
+ that
+ idea
+ I
+ had.
+ You
+
+
+can
+ have
+ these
+ little
+ CLIs
+ and
+ these
+
+
+little
+ projects
+ that
+ are
+ be
+ just
+ for
+
+
+you.
+ Um
+ because
+ you
+ just
+ like
+ build
+ the
+
+
+tools
+ that
+ you
+ need
+ now.
+ And
+ um
+ this
+ is
+
+
+just
+ spitting
+ out
+ these
+ um
+ my
+ my
+ mom
+
+
+lives
+ with
+ me
+ and
+ she's
+ setting
+ up
+
+
+Christmas
+ decorations
+ upstairs.
+ This
+ is
+
+
+why
+ I'm
+ thinking
+ about
+ this.
+
+
+>> So
+ this
+
+
+>> Yeah,
+ this
+ is
+ Gemini
+ generating
+ based
+ on
+
+
+the
+ prompt
+ we
+ fed
+ in
+ based
+ on
+ the
+ color
+
+
+scheme.
+ This
+ is
+ GitHub
+ light
+ Christmas
+
+
+store
+ color
+ theme.
+ Um,
+ and
+ I
+ told
+ it
+ to
+
+
+generate
+ five
+ variations
+ of
+ it.
+ And
+ then
+
+
+we
+ could
+ take
+ one
+ of
+ these
+ images
+ and
+
+
+drop
+ it
+ into
+ one
+ of
+ the
+ um,
+ drop
+ it
+ into
+
+
+one
+ of
+ the
+ AIS
+ and
+ say,
+ "Let's
+ start
+
+
+building
+ out
+ this
+ website.
+ Let's
+ break
+
+
+this
+ into
+ sections
+ and
+ go
+ from
+ there."
+
+
+And
+ this
+ is
+ kind
+ of
+ like
+ my
+ uh,
+ ideation
+
+
+inspiration
+ sort
+ of
+ thing
+ that
+ that
+ I
+
+
+use.
+
+
+One
+ reason
+ I
+ want
+ to
+ make
+ sure
+ people
+
+
+are
+ paying
+ attention
+ to
+ this
+ use
+ case
+
+
+which
+ is
+ essentially
+ you've
+ exposed
+ a
+
+
+command
+ line
+ interface
+ to
+ do
+ a
+ couple
+
+
+you
+ know
+ script
+ a
+ couple
+ workflows
+
+
+around
+ calling
+ um
+ nanobanana
+ and
+ some
+ of
+
+
+the
+ Gemini
+ models
+ to
+ um
+
+
+>> to
+ to
+ do
+ some
+ things
+ and
+ there
+ are
+ two
+
+
+benefits
+ I
+ think
+ to
+ this
+ that
+ are
+ really
+
+
+important.
+ One
+ is
+
+
+building
+ command
+ line
+ tools
+ has
+ been
+ so
+
+
+opaque
+ and
+ just
+ kind
+ of
+ not
+ fun
+ for
+ so
+
+
+many
+ people
+ for
+ so
+ long.
+ Um
+ I've
+ built
+
+
+lots
+ of
+ them
+ and
+ how
+ easy
+ it
+ is
+ to
+ build
+
+
+a
+ really
+ nice
+ command
+ line
+ tool
+ is
+ such
+
+
+a
+ treat
+ for
+ anybody
+ who's
+ ever
+ had
+ to
+
+
+build
+ them
+ and
+ make
+ them
+ look
+ good.
+
+
+Everybody
+ has
+ these
+ cool
+ ASKY
+ only
+ logos
+
+
+if
+ in
+ their
+ in
+ their
+ command
+ line
+ tools
+
+
+which
+ have
+ been
+ very
+ tedious
+ to
+ make
+
+
+before.
+ So
+ I
+ think
+ one
+ thing
+ is
+ these
+
+
+tools
+ are
+ just
+ a
+ lot
+ easier
+ to
+ build.
+
+
+Two,
+ from
+ a
+ product
+ builder
+ perspective,
+
+
+the
+ reason
+ why
+ I
+ like
+ this
+ move
+ to
+ these
+
+
+command
+ line
+ tools
+ is
+ the
+ constrained
+ UI
+
+
+space
+ of
+ the
+ terminal
+ actually
+ make
+ sure
+
+
+you
+ don't
+ get
+ distracted
+ in
+ building
+ UI
+
+
+around
+ something
+ as
+ simple
+ as
+ this.
+
+
+Right?
+ You
+ just
+ had
+ like
+ five
+ questions
+
+
+you
+ had
+ to
+ answer,
+ a
+ couple
+ multi
+
+
+select.
+ You
+ could
+ tab
+ through
+ those
+ with
+
+
+your
+ keyboard.
+ If
+ you
+ were
+ creating
+ like
+
+
+a
+ little
+ wizzywig
+ walkth
+ through
+ web
+
+
+editor
+ thing
+ here,
+ I
+ mean,
+ one,
+ I
+ would
+
+
+have
+ gotten
+ really
+ distracted
+ about
+ how
+
+
+it
+ looks.
+ Yeah.
+
+
+>> Two,
+ you'd
+ have
+ to
+ type
+ into,
+ you
+ know,
+
+
+you'd
+ have
+ to
+ run
+ localhost
+ and
+ type
+
+
+into
+ um
+ your
+ your
+ your
+ web
+ browser.
+ And
+
+
+so,
+ I
+ actually
+ like
+ the
+ constrained
+ UI
+
+
+space
+ for
+ speed
+ of
+ of
+ prototyping
+ on
+
+
+some
+ of
+ these
+ ideas
+ because
+ you
+ just
+
+
+don't
+ get
+ distracted
+ by
+ anything
+ but
+ the
+
+
+essential
+ kind
+ of
+ toolkit.
+ Um,
+ and
+ then
+
+
+you
+ can
+ get
+ a
+ really
+ cool
+ thing
+ out
+ the
+
+
+other
+ end.
+
+
+>> My
+ only
+ problem
+ is
+ I've
+ built
+ more
+ tools
+
+
+than
+ I
+ can
+ remember
+ and
+ sometimes
+
+
+>> after
+ like
+ where
+ was
+ that
+ thing?
+ Um,
+
+
+>> yeah.
+ I
+ uh
+ I
+ also
+ like
+ what
+ you
+ how
+ you
+
+
+started
+ this
+ this
+ little
+ segment
+ which
+
+
+is
+ you
+ said
+ you
+ just
+ build
+ every
+ idea
+
+
+you
+ have.
+ I
+ think
+ that
+ is
+ totally
+ the
+
+
+move.
+ While
+ you
+ have
+ an
+ idea,
+ kick
+ off
+
+
+something,
+ get
+ it
+ built,
+ build
+ yourself
+
+
+a
+ little
+ throwaway
+ repo.
+ Um,
+ you
+ know,
+
+
+eventually
+ the
+ AI
+ can
+ crawl
+ it
+ and
+
+
+remind
+ you
+ everything
+ that
+ you
+ built
+
+
+before,
+ but
+ this
+ is
+ pretty
+ cool.
+
+
+>> And
+ that's
+ that's
+ why
+ I
+ love
+ dictation
+
+
+because
+ all
+ you
+ have
+ to
+ do
+ is
+ start
+ up
+ a
+
+
+new
+ terminal
+ in
+ a
+ new
+ folder
+ and
+ just
+
+
+kind
+ of
+ brain
+ dump
+ in
+ there
+ and
+ then
+
+
+it'll
+ try
+ something
+ and
+ once
+ you
+ have
+
+
+something
+ even
+ if
+ it's
+ wrong,
+ you
+ can
+
+
+iterate
+ on
+ it.
+ Yeah.
+
+
+>> If
+ you
+ have
+ nothing,
+ you
+ can't
+ iterate
+
+
+on
+ nothing.
+ And
+ I
+ think
+ that's
+ the
+ magic
+
+
+of
+ uh
+ even
+ for
+ people
+ who
+ who
+ hate
+ AI
+
+
+tools.
+ Like
+ a
+ sheet
+ of
+ paper
+ full
+ of
+
+
+things
+ that
+ are
+ wrong
+ is
+ much
+ better
+
+
+than
+ a
+ blank
+ than
+ than
+ nothing
+ because
+
+
+even
+ if
+ it's
+ wrong,
+ you
+ you
+ recognize
+
+
+it's
+ wrong
+ and
+ it
+ helps
+ you
+ think
+ of
+
+
+what's
+ right
+ and
+ what
+ you
+ want
+ to
+ build.
+
+
+>> Yeah,
+ I
+ say
+ this
+ a
+ lot.
+ It's
+ easier
+ to
+
+
+edit
+ than
+ author.
+ So,
+ let's
+ get
+ the
+
+
+authoring
+ out
+ of
+ the
+ way
+ and
+ then
+ even
+
+
+if
+ you
+ completely
+ revise
+ the
+ whole
+
+
+thing,
+ it's
+ a
+ much
+ easier
+ starting
+
+
+sprouting
+ point
+ to
+ work
+ with
+ something.
+
+
+>> Y
+
+
+>> Okay.
+ So,
+ I
+ think
+ we're
+ going
+ to
+ close
+
+
+out
+ and
+ spend
+ uh
+ a
+ little
+ bit
+ of
+ time
+ on
+
+
+your
+ workflow
+ for
+ when
+ you're
+ doing
+ more
+
+
+complex
+ coding
+ projects
+ or
+ features,
+ how
+
+
+you
+ keep
+ those
+ really
+ high
+ quality
+ using
+
+
+some
+ advanced
+ techniques
+ in
+ um
+ I
+ think
+
+
+in
+ cloud
+ code
+ and
+ cursor.
+ So
+ when
+
+
+working
+ on
+ any
+ excuse
+ me
+ when
+ working
+ on
+
+
+any
+ project
+ um
+ often
+ when
+ the
+ AI
+ is
+
+
+generating
+ code
+ it'll
+ often
+ build
+ out
+
+
+mistakes
+ and
+ so
+ even
+ it
+ will
+ say
+ it's
+
+
+done
+ you're
+ like
+ wait
+ a
+ second
+ there
+
+
+were
+ a
+ ton
+ of
+ mistakes
+ there
+ why
+ did
+ you
+
+
+stop
+ just
+ fix
+ it
+ until
+ the
+ mistakes
+ are
+
+
+done
+ so
+ for
+ example
+ um
+ let's
+ say
+ it
+
+
+wrote
+ out
+ this
+ code
+ and
+ there
+ was
+ this
+
+
+error
+ in
+ here
+ and
+ this
+ error
+ is
+
+
+something
+ you'd
+ usually
+ catch
+ with
+ tools
+
+
+such
+ as
+ TypeScript
+ uh
+ or
+ maybe
+ it's
+
+
+formatting
+ or
+ linting
+ or
+ any
+ sort
+ of
+
+
+complexity
+ tools
+ um
+ that
+
+
+they're
+ code
+ quality
+ tools
+ that
+ you
+ run
+
+
+before
+ before
+ you
+ think
+ the
+ work
+ is
+
+
+done.
+ So
+ you
+ would
+ run
+ something
+ like
+
+
+bun
+ type
+ check
+ and
+ you
+ would
+ see
+ that
+ it
+
+
+has
+ this
+ error
+ but
+ your
+ uh
+ claude
+ code
+
+
+and
+ the
+ other
+ agents
+ don't
+ know
+ that
+
+
+this
+ error
+ exists.
+ What
+ Claude
+ has
+ and
+
+
+what
+ cursor
+ cursor
+ and
+ a
+ few
+ others
+ have
+
+
+is
+ the
+ concept
+ of
+ hooks.
+
+
+And
+ what
+ this
+ can
+ do
+ is
+ so
+ inside
+ of
+
+
+claw,
+ let's
+ go
+ here.
+
+
+You
+ can
+ set
+ up
+ what
+ are
+ called
+ hooks.
+
+
+And
+ um
+ [snorts]
+ I'm
+ going
+ to
+ set
+ what's
+
+
+called
+ a
+ stop
+ hook
+
+
+and
+ hit
+ add
+ new
+ hook.
+ And
+ just
+ it
+ shows
+
+
+you
+ a
+ bunch
+ of
+ examples.
+ I'm
+ accepting
+
+
+responsibility
+ for
+ all
+ this.
+ Bunch
+ of
+
+
+warnings
+ because
+ it
+ can
+ run
+ scripts
+ that
+
+
+aren't
+ checked
+ by
+ the
+ AI.
+
+
+And
+ I'm
+ going
+ to
+ say
+ the
+ command
+ for
+ now
+
+
+is
+ just
+ be
+ echo,
+ which
+ does
+ nothing.
+ And
+
+
+I'm
+ going
+ to
+ add
+ it
+ to
+ my
+ project
+ local
+
+
+settings.
+ And
+ now
+ we
+ have
+ this
+ echo
+
+
+hook.
+ And
+ this
+ is
+ defined
+
+
+in
+ this
+ settings
+ local
+ uh.json
+ file.
+ And
+
+
+this
+ is
+ for
+ uh
+ this
+ is
+ a
+ local
+ file
+ for
+
+
+me.
+ If
+ you
+ want
+ it
+ to
+ be
+ with
+ your
+ team,
+
+
+it'
+ be
+ settings.json
+ settings.lojson
+ is
+
+
+distribute.
+ What
+ we're
+ going
+ to
+ do
+ is
+
+
+instead
+ of
+ running
+ this
+ command,
+
+
+we're
+ going
+ to
+ run
+ a
+ custom
+ uh
+ claw
+
+
+claude
+ hook
+ which
+ I've
+ defined
+ inside
+ of
+
+
+claude
+ hooks.
+ Uh
+ and
+ I
+ called
+ it
+ index
+
+
+index.ts.
+ You
+ could
+ call
+ it
+ stop
+ or
+
+
+whatever.
+ So
+ from
+ this
+ script
+ which
+ is
+
+
+in
+ this
+ directory
+ um
+ I
+ need
+ to
+ run
+ this
+
+
+uh
+ install
+ for
+ this
+ package
+ because
+ I
+
+
+don't
+ have
+ it
+ installed
+ right
+ now.
+ So
+
+
+I'm
+ going
+ to
+ bun
+ install
+ and
+ propic
+ and
+
+
+this
+ is
+ their
+ um
+ their
+ clawed
+ agent
+ SDK.
+
+
+Now
+ in
+ the
+ SDK
+ they
+ have
+ um
+ what
+ are
+
+
+called
+ hook
+ inputs
+ and
+ other
+ types
+ you
+
+
+can
+ use
+ so
+ that
+ when
+ you're
+ dealing
+ with
+
+
+hooks
+ you
+ have
+ a
+ lot
+ more
+ information.
+
+
+So
+ like
+ on
+ this
+ input
+ you
+ have
+ all
+ of
+
+
+this
+ information
+ around
+ what
+ the
+ input
+
+
+name
+ is
+ and
+ then
+ what
+ the
+ session
+ ID
+ is
+
+
+and
+ the
+ current
+ working
+ directory
+
+
+permission
+ mode
+ and
+ all
+ that
+ and
+ you
+ can
+
+
+use
+ that
+ to
+ customize
+ your
+ hook.
+ But
+
+
+we're
+ gonna
+ but
+ what
+ we
+ are
+ going
+ to
+
+
+focus
+ on
+ is
+ we're
+ going
+ to
+ see
+ step
+ one
+
+
+were
+ their
+ files
+ changed
+ uh
+ when
+ we
+
+
+stopped.
+ And
+ a
+ stop
+ is
+ once
+ uh
+ Claude
+
+
+has
+ kind
+ of
+ finished
+ its
+ conversation
+
+
+and
+ it's
+ now
+ waiting
+ for
+ you
+ to
+ do
+
+
+something.
+ So
+ we're
+ going
+ to
+ check
+ are
+
+
+there
+ files
+ changed?
+ And
+ we're
+ going
+ to
+
+
+if
+ there's
+ files
+ changed
+ we're
+ going
+ to
+
+
+say
+ okay
+ then
+ let's
+ go
+ ahead
+ and
+ run
+
+
+that
+ bun
+ type
+ check.
+ And
+ if
+ there
+ is
+ a
+
+
+type
+ check
+ then
+ we
+ can
+ say
+ back
+ to
+
+
+claude
+ we
+ can
+ say
+ hey
+ there
+ were
+
+
+typescript
+ errors
+ this
+ is
+ the
+ report
+ and
+
+
+then
+ send
+ them
+ back
+ the
+ output
+ that
+ we
+
+
+showed
+ in
+ the
+ terminal
+ before
+ and
+ it'll
+
+
+continue.
+ Otherwise,
+ if
+ there
+ were
+ files
+
+
+changed,
+ then
+ we
+ can
+ tell
+ Claude
+ to
+
+
+please,
+ there's
+ a
+ prompt
+ way
+ down
+ here.
+
+
+It
+ says,
+ "Please
+ commit
+ essentially.
+ Uh,
+
+
+get
+ the
+ files,
+ don't
+ commit
+ anything,
+
+
+anything
+ sensitive,
+ and
+ go
+ ahead
+ and
+
+
+commit
+ it."
+ So,
+ we
+ set
+ up
+ this
+ workflow
+
+
+of
+ once
+ a
+ conversation
+ is
+ finished,
+
+
+check
+ to
+ see
+ if
+ any
+ files
+ have
+ changed.
+
+
+If
+ they
+ have,
+ you
+ check
+ to
+ see
+ if
+
+
+there's
+ any
+ TypeScript
+ errors,
+ which
+
+
+could
+ be
+ a
+ type
+ check
+ or
+ build
+ errors
+ or
+
+
+any
+ sort
+ of
+ other
+ um
+ code
+ quality
+ uh
+
+
+guards
+ you
+ have
+ in
+ place.
+ And
+ if
+ there
+
+
+are
+ none,
+ then
+ go
+ ahead
+ and
+ commit.
+ And
+
+
+this
+ saves
+ you
+ a
+ lot
+ of
+ the
+ overhead
+ in
+
+
+your
+ mind
+ of
+ uh
+ here's
+ all
+ this
+ extra
+
+
+stuff
+ I
+ have
+ to
+ do
+ once
+ something's
+
+
+done.
+
+
+>> Yeah.
+ And
+ what
+ I
+ want
+ to
+ call
+ out
+ for
+
+
+folks
+ that
+ are
+ maybe
+ listening
+ and
+ not
+
+
+seeing
+ this
+ code
+ here
+ is
+ it's
+ really
+
+
+what's
+ nice
+ about
+ this
+ is
+ it's
+ a
+
+
+combination
+ of
+ commands
+ that
+ you
+ would
+
+
+run
+ in
+ the
+ terminal
+ to
+ to
+ just
+ generate
+
+
+errors
+ and
+ see
+ them
+ yourselves,
+ but
+ then
+
+
+you
+ can
+ feed
+ those
+ back
+ into
+ clawed
+ code
+
+
+in
+ a
+ more
+ natural
+ language
+ way
+ and
+ give
+
+
+natural
+ language
+ instructions
+ on
+ what
+ to
+
+
+fix
+ or
+ again
+ default
+ to
+ some
+ command
+ um
+
+
+that's
+ different
+ which
+ is
+ this
+ GitHub
+
+
+commit
+ command.
+ And
+ so
+ I
+ like
+ this
+
+
+combination
+ of
+ kind
+ of
+ like
+ structured
+
+
+commands
+ in
+ in
+ the
+ terminal
+ combined
+
+
+with
+ natural
+ language
+ calls
+ back
+ into
+ CL
+
+
+claude
+ to
+ then
+ kind
+ of
+ put
+ the
+ bow
+ on
+
+
+the
+ end
+ of
+ any
+ work
+ that
+ this
+ AI
+ system
+
+
+does.
+ Is
+ that
+ kind
+ of
+ how
+ you
+ think
+
+
+about
+ it?
+
+
+>> Yeah,
+ exactly.
+ um
+ that
+ the
+ gotchas
+ you
+
+
+have
+ to
+ think
+ about
+ here
+ are
+ when
+ you're
+
+
+uh
+ when
+ you're
+ communicating
+ from
+ a
+ hook
+
+
+back
+ to
+ Claude,
+ you're
+ essentially
+ using
+
+
+console
+ log,
+ which
+ is
+ one
+ of
+ the
+ first
+
+
+things
+ any
+ JavaScript
+ developer
+ learns
+
+
+and
+ you're
+ sending
+ back
+ a
+ JSON
+ object.
+
+
+So,
+ it's
+ going
+ to
+ find
+ that
+ first
+
+
+console
+ log
+ and
+ whatever
+ gets
+ back,
+
+
+uh
+ that's
+ what
+ it's
+ going
+ to
+ see
+ as
+ its
+
+
+uh
+ as
+ its
+ input,
+ its
+ standard
+ input.
+
+
+So
+ you
+ have
+ to
+ be
+ careful
+ if
+ you're
+
+
+running
+ commands
+ like
+ this.
+ You
+ you
+ tell
+
+
+this
+ one,
+ please
+ be
+ quiet
+ because
+ if
+
+
+it's
+ not
+ quiet,
+ then
+ it
+ would
+ log
+ back
+
+
+to
+ the
+ console
+ and
+ maybe
+ interfere
+ with
+
+
+something.
+ Or
+ if
+ you
+ want
+ other
+ logs
+ or
+
+
+you're
+ debugging
+ the
+ script,
+ just
+ use
+
+
+console
+ error
+ or
+ any
+ other
+ way
+ of
+
+
+showing
+ logs.
+ Um
+ otherwise,
+ console
+ log
+
+
+turn
+ it
+ turns
+ into
+ this
+ feeding
+
+
+instructions
+ back
+ to
+ the
+ agent.
+ So,
+ it's
+
+
+one
+ of
+ those
+ gotchas
+ that
+ everyone
+ falls
+
+
+into
+ when
+ when
+ building
+ this
+ out.
+ Uh,
+
+
+and
+ just
+ to
+ just
+ to
+ demo
+ it
+ real
+ quick,
+
+
+um,
+ I'll
+ just
+ turn
+ on
+ Claude
+
+
+and
+ I'll
+ say
+ um
+ well,
+ actually
+ for
+ this
+
+
+to
+ work
+ correctly,
+
+
+let's
+ make
+ sure
+ we
+ have
+ everything
+
+
+staged
+ and
+ set
+ up
+ so
+ that
+ when
+ it
+ does
+
+
+the
+ get
+ check,
+
+
+um,
+ let's
+ just
+ generate
+ a
+ message.
+
+
+So
+ yeah,
+ let's
+ uh
+ please
+ create
+ a
+ fu.ts
+
+
+file
+ on
+ the
+ root
+ of
+ the
+ project.
+
+
+And
+ we'll
+ go
+ ahead
+ and
+ accept
+ this.
+
+
+And
+ you'll
+ see
+ that
+ it
+ says
+ stop
+ hook
+
+
+returned
+ a
+ blocking
+ error.
+ And
+ that
+
+
+error
+ returns,
+ please
+ fix
+ the
+ TypeScript
+
+
+errors.
+ And
+ here's
+ our
+ prompt
+ right
+ here
+
+
+with
+ this
+ block.
+ And
+ it
+ says
+ I
+ I'll
+ fix
+
+
+a
+ TypeScript
+ error.
+ So
+ this
+ is
+ when
+ it
+
+
+would
+ have
+ stopped.
+ It
+ would
+ have
+
+
+stopped
+ right
+ here.
+ But
+ we
+ hit
+ the
+ stop
+
+
+hook.
+ Now
+ it
+ sees
+ these
+ errors.
+ So
+ it's
+
+
+going
+ to
+ go
+ ahead
+ and
+ read
+ that
+ and
+
+
+says,
+ "Oh,
+ I
+ found
+ the
+ mismatch
+ quote.
+ I
+
+
+fixed
+ it."
+ And
+ now
+ behind
+ the
+ scenes
+
+
+there's
+ a
+ cloud
+ running
+ which
+ should
+ it
+
+
+commit
+ that
+ fix.
+ You
+ make
+ this
+ a
+ bit
+
+
+smaller.
+ Show
+ our
+ graph
+ here.
+ And
+ you'll
+
+
+see
+ um
+ this
+ is
+ the
+ fix
+ that
+ it
+ made
+ was
+
+
+correct
+ the
+ quote
+ syntax.
+ This
+ is
+ what
+
+
+the
+ little
+ ha
+ coup
+ did
+ in
+ the
+
+
+background.
+ So
+ the
+ stop
+ hook
+ ran
+ twice.
+
+
+It
+ ran
+ once
+ where
+ it
+ found
+ the
+ error
+ and
+
+
+had
+ files
+ changed.
+ And
+ then
+ the
+ second
+
+
+time
+ there
+ were
+ no
+ more
+ errors
+ and
+ so
+ it
+
+
+ran
+ the
+ commit.
+ And
+ so
+ that
+ saved
+ us
+ all
+
+
+of
+ that
+ work
+ of
+ both
+ passes.
+ And
+ now
+ we
+
+
+have
+ a
+ completed
+ task
+
+
+that
+ has
+ been
+ error
+ checked,
+ fixed,
+ and
+
+
+then
+ commit
+ um
+ and
+ conditionally
+
+
+enscripted
+ in
+ a
+ way
+ where
+ this
+ will
+ be
+
+
+different
+ for
+ every
+ single
+ project
+ based
+
+
+on
+ your
+ requirements,
+ based
+ on
+ your
+
+
+codebase.
+ Um,
+ so
+ this
+ is
+ definitely
+
+
+something
+ that
+ you
+ have
+ to
+ like
+ think
+
+
+through
+ and
+ set
+ up
+ yourself.
+ It
+
+
+definitely
+ saves
+ so
+ much
+ time
+ where
+ you
+
+
+don't
+ have
+ to
+ go
+ back
+ in
+ and
+ say,
+ "Well,
+
+
+please
+ fix
+ this
+ or
+ please
+ run
+ this
+
+
+command
+ or
+ please
+ do
+ this."
+ When
+ you
+
+
+know
+ part
+ of
+ your
+ workflow
+ is
+ always
+ the
+
+
+like
+ if
+ these
+ things
+ should
+ always
+ run,
+
+
+you
+ might
+ as
+ well
+ run
+ them
+
+
+automatically.
+
+
+>> And
+ something
+ I
+ have
+ to
+ say
+ is
+ I
+ get
+ so
+
+
+much
+ push
+ back
+ from
+ software
+ engineers
+
+
+saying
+ these
+ tools
+ don't
+ really
+ make
+ me
+
+
+faster.
+ The
+ quality
+ isn't
+ as
+ good.
+ And
+ I
+
+
+think
+ if
+ you
+ make
+ the
+ investment
+ as
+
+
+you've
+ shown
+ us
+ in,
+ okay,
+ well,
+ what
+
+
+things
+ would
+ it
+ do
+ to
+ make
+ the
+ quality
+
+
+better
+ or
+ what
+ things
+ would
+ it
+ do
+ that
+
+
+you
+ can
+ automate
+ that
+ would
+ make
+ you
+ a
+
+
+little
+ bit
+ faster?
+ And
+ you
+ put
+ that
+
+
+effort
+ in
+ to
+ understanding
+ all
+ the
+
+
+things
+ that
+ these
+ um
+ tools
+ can
+ do
+ for
+
+
+you
+ either
+ programmatically
+
+
+or
+ through
+ prompting.
+ I
+ think
+ you
+ can
+
+
+actually
+ see
+ a
+ lot
+ of
+ those
+
+
+efficiencies.
+ And
+ then
+ I
+ want
+ to
+ call
+
+
+out
+ something
+ that
+ that
+ you
+ said
+ which
+
+
+is
+ you
+ have
+ this
+ local
+ settings
+ but
+ you
+
+
+can
+ create
+ settings
+ that
+ are
+ shared
+
+
+across
+ your
+ team
+ for
+ anybody
+ that's
+
+
+working
+ in
+ the
+ repo
+ and
+ that's
+ for
+ our
+
+
+engineering
+ leaders
+ out
+ there
+ or
+ larger
+
+
+engineering
+ teams
+ to
+ really
+ think
+ about
+
+
+if
+ you
+ haven't
+ created
+ these
+ hooks
+ for
+
+
+key
+ repos
+ or
+ key
+ projects
+ where
+
+
+everybody
+ is
+ benefiting
+ from
+ this
+ when
+
+
+they're
+ using
+ something
+ like
+ clawed
+ code
+
+
+then
+ you're
+ missing
+ out
+ on
+ some
+ of
+ the
+
+
+scaled
+ leverage
+ I
+ think
+ of
+ of
+ these
+
+
+tools.
+ And
+ so
+ I'd
+ love
+ to
+ put
+ somebody
+
+
+in
+ charge
+ in
+ an
+ engineering
+ organization
+
+
+of
+ figuring
+ how
+ stuff
+ like
+ this
+ can
+ work
+
+
+inside
+ your
+ codebase
+ and
+ then
+ scaling
+ it
+
+
+out
+ either
+ through
+ training
+ or
+ through
+
+
+configuration
+
+
+into
+ all
+ the
+ other
+ engineers
+ so
+ that
+
+
+everybody's
+ getting
+ this
+ baseline
+
+
+quality
+ and
+ this
+ baseline
+ efficiency.
+
+
+>> Yeah.
+
+
+>> Amazing.
+ Well,
+ okay.
+ Other
+ than
+ you
+ know
+
+
+type
+ T
+ type
+ script
+ errors,
+ just
+ pratt
+
+
+off
+ a
+ couple
+ other
+ use
+ cases.
+ You
+
+
+deleted
+ a
+ bunch
+ of
+ stuff
+ from
+ this
+ hook.
+
+
+So,
+ what
+ are
+ the
+ things
+ you
+ think
+ that
+
+
+people
+ should
+ bake
+ into
+ a
+ stop
+ hook
+ like
+
+
+this
+ for
+ cloud
+ code?
+
+
+>> Uh,
+ definitely
+ formatting.
+ Um,
+ I
+ there's
+
+
+there's
+ kind
+ of
+ the
+ the
+ mindset
+ we've
+
+
+always
+ had
+ before
+ of
+ like
+ pre-commit
+
+
+hooks
+ or
+ pre-
+ push
+ hooks,
+ things
+ that
+
+
+operate
+ on
+ the
+ CI
+ and
+ these
+ are
+ a
+ lot
+ of
+
+
+things
+ that
+ can
+ be
+ um
+ fixed
+ before
+ those
+
+
+are
+ even
+ run.
+ So
+ whether
+ it's
+ there's
+ a
+
+
+lot
+ of
+ tools
+ around
+ um
+ with
+ linting
+ it
+
+
+it
+ could
+ constrain
+ the
+ length
+ of
+ files
+
+
+um
+ there's
+ things
+ like
+ uh
+ circular
+
+
+dependencies
+ where
+ I
+ could
+ check
+ the
+
+
+imports
+ to
+ make
+ sure
+ that
+ files
+ don't
+
+
+reference
+ each
+ other
+ um
+ there's
+ code
+
+
+complexity
+ there's
+ tools
+ that
+ say
+ does
+
+
+this
+ code
+ look
+ like
+ any
+ other
+ code
+ in
+
+
+the
+ codebase
+ where
+ um
+ this
+ could
+ be
+
+
+extracted
+ into
+ a
+ function
+ or
+ something
+
+
+because
+ there's
+ like
+ duplicate
+ code
+
+
+throughout
+ the
+ codebase
+ There's
+ all
+
+
+sorts
+ of
+ analytics
+ and
+ tools
+ you
+ could
+
+
+run.
+ Um
+
+
+some
+ of
+ them
+ probably
+ not
+ as
+ often
+ as
+
+
+others
+ because
+ it's
+ more
+ expensive
+ and
+
+
+you
+ just
+ have
+ to
+ make
+ those
+ um
+ decisions
+
+
+based
+ on
+ you
+ know
+ the
+ size
+ of
+ your
+ team,
+
+
+the
+ size
+ of
+ your
+ application.
+ But
+
+
+there's
+ just
+ just
+ put
+ into
+ an
+ AI
+ prompt
+
+
+of
+ chat
+ GBT
+ or
+ any
+ of
+ them
+ to
+ say
+ what
+
+
+are
+ all
+ make
+ a
+ long
+ list
+ of
+ uh
+ developer
+
+
+tools
+ people
+ run
+ on
+ pre-
+ push
+ or
+ uh
+ on
+
+
+pre-commit
+ and
+ you'll
+ see
+ the
+ a
+ huge
+
+
+list
+ of
+ them
+ that
+ you
+ could
+ uh
+ pick
+ and
+
+
+choose
+ from.
+ Well,
+ and
+ I'm
+ going
+ to
+ take
+
+
+a
+ tiny
+ detour
+ for
+ um
+ our
+ very
+ patient
+
+
+non-technical
+ audience
+ members
+ that
+ have
+
+
+maybe
+ listened
+ to
+ this,
+ which
+ is
+ these
+
+
+um
+ posttool
+ call
+ hooks
+ or
+ post
+ stop
+
+
+hooks
+ in
+ Claude
+ can
+ also
+ be
+ used
+ when
+
+
+you're
+ working
+ on
+ non-code.
+ So,
+ we
+ have
+
+
+so
+ many
+ people
+ using
+ claude
+ code
+ to
+
+
+write
+ documents
+ to
+ do
+ all
+ sorts
+ of
+
+
+things.
+ And
+ so
+ you
+ could
+ just
+ think
+
+
+about
+ what
+ do
+ I
+ want
+ automated
+ after
+
+
+this
+ tool
+ is
+ called
+ or
+ what
+ do
+ I
+ want
+
+
+automated
+ after
+ Claude
+ finishes
+ writing
+
+
+my
+ my
+ document.
+ And
+ you
+ could
+ think
+
+
+about
+ ways
+ to
+ use
+ something
+ like
+ this
+
+
+not
+ even
+ for
+ code
+ quality
+ review
+ just
+
+
+for
+ a
+ post
+ kind
+ of
+ task
+ completion
+
+
+check.
+ So
+ I
+ think
+ just
+ the
+ general
+
+
+framework's
+ really
+ useful.
+ It's
+
+
+obviously
+ highly
+ applicable
+ to
+ software
+
+
+development
+ but
+ I
+ think
+ people
+ can
+ think
+
+
+of
+ other
+ creative
+ use
+ cases
+ for
+ this
+ as
+
+
+well.
+
+
+Yeah,
+ absolutely.
+ The
+ the
+ diagramming
+
+
+stuff,
+ create
+ an
+ image
+ of
+ what
+ we
+ just
+
+
+did
+ and
+ send
+ it
+ to
+ my
+ mom
+ to
+ show
+ her
+
+
+I'm
+ working
+ hard.
+ Like
+ anything
+ you
+
+
+want,
+ right?
+ It's
+ it's
+ the
+ sky's
+ is
+ the
+
+
+limit.
+ So,
+
+
+>> okay.
+ So,
+ just
+ to
+ wrap
+ up,
+ these
+ have
+
+
+been
+ super
+ useful
+ use
+ cases.
+ I
+ want
+ to
+
+
+call
+ them
+ out.
+ One
+ is
+ using
+ um
+
+
+documentation
+ and
+ diagramming,
+
+
+specifically
+ mermaid
+ diagrams
+ to
+ preload
+
+
+as
+ a
+ system
+ prompt
+ in
+ your
+ claude
+ code
+
+
+instance
+ so
+ that
+ you
+ don't
+ have
+ to
+ waste
+
+
+the
+ time
+ of
+ doing
+ context
+ discovery
+ and
+
+
+you
+ can
+ really
+ make
+ sure
+ that
+ that
+
+
+context
+ is
+ preloaded.
+ It's
+ a
+ little
+ more
+
+
+expensive
+ on
+ the
+ token
+ side
+ but
+ a
+ lot
+
+
+faster
+ and
+ these
+ diagrams
+ are
+ much
+ more
+
+
+um
+ easily
+ read
+ by
+ machines
+ than
+ by
+
+
+humans.
+ So,
+ it's
+ a
+ good
+ format
+ to
+ get
+
+
+things
+ in.
+ We
+ looked
+ at
+ aliasing
+ some
+ of
+
+
+your
+ favorite
+ Claude
+ code
+ instances
+ and
+
+
+settings
+ so
+ that
+ you
+ can
+ pop
+ into
+ your
+
+
+live
+ dangerously
+ mode.
+ You
+ can
+ pop
+ into
+
+
+your
+ you
+ have
+ all
+ my
+ diagrams
+ mode.
+ Um,
+
+
+you
+ can
+ just
+ pop
+ into
+ those
+ with
+ one,
+
+
+you
+ know,
+ one
+ one
+ or
+ two
+ letters,
+ which
+
+
+I
+ like.
+ Uh,
+ we
+ got
+ a
+ little
+ side
+ preview
+
+
+that
+ we
+ didn't
+ call
+ out,
+ but
+ just
+ how
+
+
+casually
+ you
+ use
+ voice
+ and
+ transcription
+
+
+to
+ enter
+ in
+ and
+ out
+ of
+ these
+ tools.
+ What
+
+
+I
+ like
+ about
+ the
+ way
+ you
+ use
+ AI
+ is
+ you
+
+
+were
+ just
+ like
+ highly
+ efficient.
+ You're
+
+
+like,
+ the
+ minimum
+ number
+ of
+ things
+ I
+ can
+
+
+type
+ the
+ better
+ and
+ you're
+ pretty
+ fluent
+
+
+in
+ switching
+ between
+ voice
+ and
+ typing.
+
+
+So,
+ we
+ saw
+ we
+ saw
+ a
+ little
+ of
+ that.
+ uh
+
+
+you
+ encouraged
+ us
+ to
+ create
+ in
+
+
+particular
+ little
+ command
+ line
+ tools
+ to
+
+
+build
+ one-off
+ ideas
+ or
+ tools.
+ Yours
+ was
+
+
+a
+ website
+ design
+ generator
+ using
+ Nano
+
+
+Banana.
+ And
+ then
+ you
+ showed
+ us
+ how
+ to
+
+
+use
+ um
+ claude
+ hooks
+ and
+ in
+ particular
+ a
+
+
+stop
+ hook
+ to
+ do
+ some
+ quality
+ and
+ other
+
+
+checks
+ on
+ code
+ written
+ by
+ these
+ AI
+ tools
+
+
+and
+ automate
+ some
+ of
+ the
+ processes
+ um
+
+
+that
+ you
+ might
+ do
+ as
+ a
+ software
+ engineer
+
+
+that
+ you
+ want
+ our
+ little
+ AI
+ software
+
+
+engineers
+ to
+ do
+ instead.
+
+
+>> Just
+ that
+ in
+ I'm
+ looking
+ 40
+ minutes.
+ We
+
+
+did
+ it
+ pretty
+ fast.
+
+
+>> Nice.
+
+
+>> This
+ is
+ great.
+ Okay.
+ Well,
+ I'm
+ going
+ to
+
+
+ask
+ you
+ a
+ couple
+ lightning
+ round
+
+
+questions
+ and
+ then
+ we
+ will
+ get
+ you
+ back
+
+
+to
+ your
+ very
+ efficient
+ AI
+ coding.
+ My
+
+
+first
+ question
+ again,
+ you're
+ like
+ me.
+ We
+
+
+love
+ cursor,
+ we
+ love
+ Claude,
+ we
+ love
+ VS
+
+
+Code.
+ We
+ have
+ all
+ of
+ them
+ open.
+ You
+
+
+know,
+ I
+ think
+ everybody's
+ I
+ think
+
+
+there's
+ interface
+ wars
+ happening
+ right
+
+
+now.
+ Are
+ are
+ people
+ going
+ to
+ love
+ these
+
+
+terminal
+ UIs
+ and
+ command
+ line
+ tools
+ like
+
+
+Claude
+ Code?
+ Do
+ people
+ want
+ the
+ the
+ IDE?
+
+
+I
+ I
+ noticed
+ that
+ you're
+ on
+ cursor
+ 20,
+ so
+
+
+you
+ have
+ the
+ agents
+ view,
+ which
+ is
+ very
+
+
+simple
+ and
+ abstracts
+ away
+ some
+ of
+ the
+
+
+code,
+ and
+ you're
+ in
+ the
+ editor
+ view.
+ I'm
+
+
+going
+ to
+ give
+ you
+ two
+ two
+ wars.
+ I
+ wanted
+
+
+your
+ quick
+ opinion
+ right
+ now.
+ We
+ won't
+
+
+hold
+ you
+ to
+ it,
+ of
+ what
+ you
+ think
+ wins
+
+
+for,
+ I
+ would
+ say
+ real
+ software
+
+
+engineers,
+ you
+ know,
+ writing
+ real
+ code
+
+
+out
+ there.
+ um
+ the
+ the
+ friends
+ that
+ I
+
+
+talk
+ to,
+
+
+you
+ know,
+ terminal
+ UI,
+ IDE
+ or
+ both.
+ And
+
+
+then
+ do
+ you
+ do
+ do
+ you
+ have
+ any
+
+
+hypothesis
+ on
+ I
+ think
+ particular
+ in
+ the
+
+
+the
+ VS
+ fork
+ world,
+ VS
+ Code
+ fork
+ world,
+
+
+are
+ there
+ any
+ modes
+ or
+ you
+ know
+ what
+ do
+
+
+you
+ think
+ how
+ do
+ you
+ think
+ people
+ can
+
+
+compete
+ in
+ the
+ IDE
+ world?
+
+
+>> Yeah,
+ so
+ I
+ think
+ you
+ need
+ both.
+ I
+ think
+
+
+you
+ need
+ an
+ IDE
+ and
+ there
+ are
+ so
+ many
+
+
+use
+ cases
+ for
+ the
+ CLIs.
+ Uh
+ the
+ reason
+
+
+being
+ that
+ the
+ CLIs
+ have
+ a
+ lot
+ of
+
+
+configuration
+ and
+ a
+ lot
+ of
+ settings
+
+
+where
+ um
+ as
+ you
+ saw
+ with
+ the
+ aliases,
+ I
+
+
+could
+ launch
+ a
+ version
+ of
+ cloud
+ that
+
+
+loaded
+ up
+ a
+ specific
+ set
+ of
+ MCPS
+ or
+ a
+
+
+specific
+ set
+ of
+ prompts
+ and
+ preload
+ a
+
+
+bunch
+ of
+ things
+ and
+ do
+ that
+ in
+ a
+ single
+
+
+terminal
+ command
+ and
+ be
+ very
+ um
+ quick
+
+
+and
+ fast
+ with
+ that
+ and
+ then
+ set
+ it
+ off
+
+
+in
+ the
+ background
+ and
+ just
+ have
+ it
+
+
+running.
+ Um,
+ currently
+ inside
+ of
+ uh
+
+
+inside
+ of
+ a
+ cursor
+ or
+ inside
+ of
+ any
+ of
+
+
+these
+ um
+ idees,
+ there's
+ usually
+ a
+ lot
+ of
+
+
+okay,
+ open
+ the
+ UI,
+ navigate
+ to
+ this,
+ and
+
+
+then
+ navigate
+ that,
+ then
+ switch
+ over
+ to
+
+
+this,
+ then
+ switch
+ over
+ to
+ that.
+ Um,
+ and
+
+
+they
+ try
+ and
+ streamline
+ as
+ much
+ as
+
+
+possible
+ with
+ slash
+ commands
+ and
+
+
+whatnot.
+ Um,
+ but
+ it's
+ just
+ not
+ quite
+ the
+
+
+same.
+ But
+ if
+ you
+ have
+ an
+ IDE
+ and
+ you're
+
+
+reading
+ through
+ the
+ files
+ and
+ you're
+
+
+selecting
+ lines
+ and
+ you
+ want
+ to
+ modify
+
+
+certain
+ bits
+ like
+ focused
+ work,
+ um
+
+
+there's
+ so
+ many
+ use
+ cases
+ for
+ IDE
+ where
+
+
+um
+ there
+ there's
+ a
+ recent
+ cloud
+ tool
+
+
+where
+ it
+ has
+ a
+ IDE
+ integration
+ where
+ it
+
+
+can
+ check
+ the
+ diagnostics
+ from
+ the
+ IDE
+
+
+and
+ you'll
+ see that
+ with
+ VS
+ Code
+ as
+ well
+
+
+like
+ the
+ extensions
+ you
+ put
+ into
+ an
+ IDE
+
+
+can
+ be
+ fed
+ back
+ into
+ the
+ agent.
+ So
+
+
+there's
+ a
+ whole
+ robust
+ extensions
+
+
+ecosystem
+ from
+ idees
+ because
+ people
+
+
+build
+ on
+ top
+ of
+ these
+ things
+ their
+ own
+
+
+workflows.
+ And
+ I
+ don't
+ think
+ we've
+ quite
+
+
+reached
+ like
+ we
+ build
+ our
+ own
+ CLIs
+ from
+
+
+AI.
+ I
+ don't
+ see
+ a
+ lot
+ of
+ people
+ building
+
+
+their
+ own
+ cursor
+ extensions
+ or
+ VS
+ Code
+
+
+extensions
+ which
+ are
+ very
+ possible
+ and
+
+
+you
+ could
+ feed
+ those
+ errors
+ and
+ warnings
+
+
+and
+
+
+company
+ rules
+ and
+ everything
+ um
+ in
+ very
+
+
+complex
+ ways
+ back
+ into
+ the
+ agents.
+ Um
+ so
+
+
+that
+ that
+ will
+ happen
+ as
+ well.
+ And
+ I
+
+
+think
+ for
+
+
+one
+ IDE
+ to
+ stand
+ out
+ above
+ the
+ other
+
+
+they
+ have
+ to
+ separate
+ themselves
+ like
+
+
+cursor
+ is
+ doing
+ with
+ their
+ agent
+ mode.
+
+
+Um
+ they
+ have
+ to
+ make
+ something
+ unique
+
+
+and
+ user
+ friendly
+ that
+ once
+ like
+ people
+
+
+are
+ not
+ going
+ to
+ give
+ you
+ a
+ bunch
+ of
+
+
+time
+ to
+ convince
+ them.
+ uh
+ you're
+ going
+
+
+to
+ have
+ to
+ open
+ the
+ agent
+ and
+ you're
+
+
+going
+ to
+ have
+ to
+ like
+ see
+ that
+ click
+ on
+
+
+browser
+ mode
+ and
+ it's
+ going
+ to
+ have
+ to
+
+
+launch
+ your
+ dev
+ server
+ and
+ you're
+ going
+
+
+to
+ have
+ to
+ click
+ on
+ the
+ element
+ and
+ say
+
+
+I
+ want
+ this
+ to
+ look
+ uh
+ uh
+ with
+ more
+ pink
+
+
+or
+ purple
+ or
+ whatever
+ and
+ then
+ um
+ and
+
+
+then
+ they
+ want
+ that
+ to
+ just
+ work.
+ um
+
+
+you'll
+ see
+ any
+ sort
+ of
+ friction
+ or
+
+
+frustration
+ from
+ any
+ AI
+ tool
+ anybody
+
+
+puts
+ out
+ there
+ um
+ is
+ is
+ just
+ instant
+ uh
+
+
+dismissal
+ from
+ so
+ many
+ people
+ like
+
+
+there's
+ just
+ the
+ bar
+ for
+ quality
+ is
+ so
+
+
+high
+ in
+ the
+ AI
+ landscape
+ because
+
+
+everyone
+ can
+ build
+ anything
+ that
+ you
+
+
+have
+ to
+ focus
+ on
+ the
+ UX
+ you
+ have
+ to
+ make
+
+
+that
+ experience
+ better
+ than
+ everyone
+
+
+else
+ and
+ that's
+ where
+ you
+ you
+ can
+ see
+
+
+the
+ cursor
+ making
+ the
+ bold
+ moves
+ of
+
+
+like,
+ okay,
+ let's
+ go
+ full
+ on
+ agents.
+
+
+Like,
+ you
+ have
+ to
+ make
+ those
+ leaps.
+
+
+>> Yeah,
+ I
+ I
+ agree.
+ And,
+ you
+ know,
+ just
+
+
+talking
+ about
+ this
+ skepticism
+ and
+ high
+
+
+bar,
+ what
+ I
+ love
+ about
+ this
+ episode
+ that
+
+
+we
+ recorded
+ today
+ is
+ it's
+ really
+ most
+
+
+relevant
+ for
+ software
+ engineers
+ with
+
+
+more
+ experience,
+ who
+ are
+ shipping
+
+
+highquality
+ code,
+ and
+ who
+ want
+ to
+ write
+
+
+production
+ level
+ code
+ more
+ efficiently
+
+
+using
+ some
+ of
+ these
+ tools.
+ It's
+ this
+ is
+
+
+not,
+ you
+ know,
+ I
+ hope
+ you
+ all
+ hung
+ out
+
+
+and
+ listened
+ to
+ it,
+ but
+ it's
+ not
+ for
+ our
+
+
+vibe
+ coders
+ and
+ our
+ non-technical
+ folks.
+
+
+Um,
+ and
+ so
+ what
+ would
+ you
+ tell
+ kind
+ of
+
+
+senior
+ principal
+ software
+ engineers,
+
+
+engineering
+ leaders?
+ I
+ get
+ asked
+ this
+ a
+
+
+lot
+ about
+ how
+ do
+ I
+ sell
+ the
+ value
+
+
+proposition
+ of
+ these
+ tools
+ into
+ very
+
+
+skeptical
+ organizations
+ and
+ what
+ are
+ as
+
+
+a
+ more
+ advanced
+ software
+ engineer
+ the
+
+
+things
+ that
+ have
+ just
+ changed
+ your
+ life
+
+
+in
+ the
+ last
+ year
+ say
+ you
+ should
+ never
+ go
+
+
+back
+ to
+ doing
+ it
+ this
+ way
+ kind
+ of
+ how
+ do
+
+
+you
+ how
+ do
+ you
+ make
+ that
+ pitch
+ that
+
+
+>> the
+ the
+ first
+ thing
+ that
+ jumps
+ to
+ mind
+
+
+is
+ anytime
+ an
+ issue
+ is
+ opened
+ like
+ you
+
+
+can
+ set
+ up
+ streamlined
+ workflows
+ that
+
+
+someone
+ opens
+ an
+ issue
+ and
+ you
+ can
+ have
+
+
+claude
+ automatically
+ tackle
+ it.
+ You
+ can
+
+
+set
+ up
+ triggers
+ for
+ linear,
+ GitHub,
+
+
+whatever
+ that
+ once
+ something
+ happens,
+
+
+you
+ can
+ get
+ that
+ first
+ pass
+ to
+ see,
+
+
+okay,
+ can
+ we
+ at least
+ find
+ this
+ without
+
+
+doing
+ any
+ work?
+ Can
+ we
+ at
+ least
+
+
+get
+ that
+ initial
+ uh
+ review
+ in
+ there
+ of
+
+
+what's
+ going
+ on
+ so
+ that
+
+
+once
+ we
+ jump
+ into
+ the
+ task
+ I
+ mean
+ for
+ my
+
+
+entire
+ career
+ someone
+ throws
+ an
+ issue
+ at
+
+
+you
+ spend
+ the
+ first
+ you
+ know
+ probably
+
+
+day
+ or
+ two
+ orienting
+ yourself
+ to
+ like
+
+
+okay
+ I
+ didn't
+ write
+ this
+ code
+ this
+ is
+
+
+legacy
+ from
+ let's
+ you
+ get
+ blame
+ let's
+ do
+
+
+all
+ this
+ stuff
+ like
+ all
+ of
+ that
+ busy
+
+
+drudgery
+ that
+ you're
+ going
+ through
+ to
+
+
+even
+ get
+ started
+ on
+ the
+ issue.
+ Um,
+ it
+
+
+can
+ wipe
+ out
+ so
+ much
+ of
+ that.
+ It
+ can
+
+
+find
+ who
+ touched
+ the
+ files,
+ who
+ did
+
+
+this,
+ like
+ if
+ if
+ you
+ have
+ the
+ diagram
+
+
+set
+ up,
+ what
+ are
+ the
+ risks,
+ the
+ impacts,
+
+
+are
+ there
+ potential
+ security
+ things?
+ Are
+
+
+there
+ like
+ it
+ it's
+ so
+ great
+ at
+ surfacing
+
+
+um
+ the
+ you
+ don't
+ know
+ what
+ you
+ don't
+
+
+know
+ sort
+ of
+ scenarios
+ where
+ you
+ hire
+ so
+
+
+many
+ contractors,
+ you
+ hire
+ so
+ many
+
+
+people
+ who
+ uh
+ are
+ new
+ to
+ these
+ things
+
+
+and
+ then
+ you
+ throw
+ them
+ into
+ these
+ tasks
+
+
+and
+ they
+ just
+ don't
+ know
+ like
+ they
+
+
+haven't
+ spent
+ time
+ with
+ the
+ codebase
+ and
+
+
+then
+ um
+ you
+ ask
+ them
+ to
+ fix
+ these
+ things
+
+
+they
+ just
+ have
+ zero
+ idea
+ what
+ sort
+ of
+
+
+impact
+ their
+ changes
+ going
+ to
+ have.
+ The
+
+
+AIS
+ can
+ surface
+ a
+ lot
+ of
+ that
+ and
+ they
+
+
+can
+ just
+ be
+ like,
+ "Okay,
+ we
+ need
+ to
+ be
+
+
+super
+ careful.
+ This
+ is,
+ you
+ know,
+ in
+
+
+production
+ and
+ um
+ this
+ is
+ cost
+ going
+ to
+
+
+cost
+ us
+ money
+ if
+ this
+ goes
+ wrong.
+ Just
+
+
+tell
+ me
+ everything
+ I
+ need
+ to
+ look
+ at."
+
+
+Like
+ find
+ every
+ single
+ debug
+ path.
+ Find
+
+
+every
+ single
+ um
+ uh
+ every
+ why
+ has
+ this
+
+
+file
+ changed
+ over
+ the
+ course
+ of
+ history.
+
+
+Like
+ write
+ a
+ summary
+ of
+ everybody
+ who's
+
+
+touched
+ this
+ file
+ so
+ I
+ can
+ know
+ why
+ this
+
+
+function
+ is
+ the
+ way
+ it
+ is.
+ like
+ there's
+
+
+just
+ so
+ much
+ work
+ that
+ is
+ just
+ not
+
+
+writing
+ code.
+ Um,
+ and
+ all
+ the
+
+
+exploration
+ work
+ is
+ just
+ so
+ much
+ easier
+
+
+to
+ just
+ say
+ like
+ everything
+ I
+ just
+ said
+
+
+over
+ the
+ past,
+ you
+ know,
+ 30
+ seconds
+ is
+ a
+
+
+prompt,
+ which
+ I
+ could
+ have
+ just
+
+
+dictated,
+ right?
+ Um,
+ and
+ you
+ just
+ have
+
+
+to
+ walk
+ up
+ to
+ your
+ computer
+ and
+ say,
+ "I
+
+
+have
+ this
+ issue.
+ Like,
+ guide
+ me
+ through
+
+
+all
+ this
+ stuff."
+ And
+ um
+ it's
+ just
+
+
+it
+ blows
+ my
+ mind
+ that
+ people
+ be
+ hesitant
+
+
+for
+ those
+ sorts
+ of
+ tools.
+ I
+ I
+ understand
+
+
+if
+ they're
+ like,
+ "Okay,
+ maybe
+ some
+ of
+
+
+the
+ code
+ isn't
+ perfect.
+ We
+ still
+ have
+ to
+
+
+do
+ code
+ reviews.
+ We
+ still
+ have
+ to
+ like
+
+
+check
+ for
+ quality.
+ We
+ still
+ have
+ to
+ run
+
+
+our
+ tools
+ to
+ validate
+ things."
+ But
+ if
+
+
+you're
+ not
+ using
+ it
+ to
+ do
+ to
+ like
+
+
+inspect
+ and
+ investigate
+ and
+ write
+
+
+orientation
+ and
+ all
+ that
+ stuff,
+ then
+
+
+like
+ you're
+ really
+ missing
+ out.
+
+
+like
+ in
+ in
+ the
+ enterprise
+ space.
+
+
+>> Yeah.
+ And
+ on
+ the
+ other
+ end,
+ if
+ you're
+
+
+not
+ using
+ it
+ to
+ document,
+ so
+ the
+ next
+
+
+time
+ somebody
+ has
+ to
+ do
+ that
+
+
+investigation,
+ you
+ have
+ a
+ little
+ bit
+ of
+
+
+an
+ easier
+ time,
+ um
+ you're
+ al
+ also
+
+
+missing
+ out.
+ So
+ I
+ do
+ think
+ on
+ that
+ that
+
+
+front
+ and
+ the
+ back
+ end.
+ And
+ what
+ I
+ often
+
+
+tell
+ people
+ is
+ a
+ good
+ way
+ to
+ think
+ about
+
+
+how
+ to
+ design
+ your
+ AI
+ workflows
+ is
+ do
+
+
+not
+ think
+ in
+ a
+ task
+ level
+ orientation
+
+
+like
+ I'm
+ going
+ to
+ write
+ code.
+ I
+ say,
+
+
+think
+ about
+ if
+ I
+ gave
+ you
+ infinite
+
+
+junior
+ to
+ mid-career
+ talent
+ who
+ is
+
+
+always
+ available,
+ who
+ would
+ do
+ the
+ work
+
+
+you
+ would
+ do
+ if
+ you
+ had
+ unlimited
+ amount
+
+
+of
+ time
+ and
+ no
+ meetings.
+ What
+ would
+ you
+
+
+do
+ when
+ a
+ ticket
+ came
+ in?
+ Like,
+ what
+
+
+would
+ you
+ do?
+ And
+ you'd
+ say,
+ well,
+ I'd
+
+
+go
+ trace
+ who
+ wrote
+ the
+ code.
+ I
+ would
+ go
+
+
+figure
+ out
+ the
+ history.
+ I
+ would
+ make
+
+
+myself
+ a
+ really
+ good
+ tech
+ spec.
+ I
+ would
+
+
+call
+ out
+ the
+ risks.
+ I
+ would
+ publish
+ this
+
+
+in
+ a
+ way
+ that
+ my
+ team
+ could
+ review
+ it.
+ I
+
+
+would
+ have
+ a
+ senior
+ engineer
+ look
+ at
+ it
+
+
+and
+ give
+ me
+ some
+ really
+ hard
+ feedback.
+
+
+All
+ of
+ that
+ could
+ just
+ become
+ a
+ prompt
+
+
+and
+ then
+ you
+ know
+ but
+ so
+ many
+ people
+ are
+
+
+just
+ constrained
+ by
+ their
+ time
+ and
+ and
+
+
+cognitive
+ capacity
+ and
+ so
+ they
+ just
+ go
+
+
+well
+ I'm
+ going
+ to
+ read
+ the
+ issue
+ and
+ I
+
+
+bounce
+ around
+ in
+ the
+ code
+ a
+ little bit
+
+
+and
+ I
+ guess
+ I'm
+ going
+ to
+ start
+ coding.
+
+
+And
+ so,
+ um,
+ you
+ can
+ kind
+ of
+ get
+ to
+ this
+
+
+model
+ of
+
+
+optimal,
+ not
+ perfect,
+ but
+ like
+ optimal
+
+
+workflow
+ and
+ then
+ figure
+ out
+ how
+ you
+ can
+
+
+prompt
+ or
+ build
+ workflows
+ or
+ hooks
+ that
+
+
+would
+ replicate
+ that
+ at
+ least
+ in
+ an
+ 80%
+
+
+way.
+ Um,
+ which
+ is
+ a
+ lot
+ better
+ than
+ not
+
+
+doing
+ it.
+
+
+>> And
+ something
+ as
+ simple
+ as
+ the
+ commit
+
+
+messages
+ are
+ so
+ much
+ better
+ than
+ they
+
+
+used
+ to
+ be
+ because
+ developers
+ didn't
+
+
+have
+ to
+ write
+ them.
+ I
+
+
+>> so
+ much
+ better
+
+
+>> for
+ for
+ people
+ who
+ are
+ new
+ to
+
+
+programming.
+ Um,
+ commit
+ messages
+ used
+ to
+
+
+be
+ like
+ second
+ attempt
+ or
+ like
+ please
+
+
+work
+ swear
+ words
+ like
+
+
+>> my
+ my
+ favorite
+ one
+ is
+ just
+ like
+ 17
+ FS
+
+
+like
+ or
+ like
+ trying
+ this,
+ trying
+ that,
+
+
+trying
+ this
+ other
+ thing.
+
+
+>> Yeah.
+ Not
+ these
+ work
+ plz.
+
+
+>> Yes.
+
+
+Yeah.
+ You
+ know,
+ if
+ anybody
+ wants
+ to
+ vibe
+
+
+code
+ a
+ product,
+ I
+ always
+ thought
+ that
+
+
+startups
+ would
+ want
+ a
+ printed
+ book
+ of
+
+
+all
+ their
+ first
+ years
+ commit
+ messages
+
+
+>> with
+ like
+ calling
+ out
+ the
+ really
+ funny
+
+
+ones.
+ Oh,
+ if
+ somebody
+ wants
+ to
+ vibe
+ code
+
+
+a
+ little
+ uh
+ GitHub
+ API
+ powered
+ print
+ uh
+
+
+business,
+ I'm
+ sure
+ you
+ could
+ get
+ a
+
+
+couple
+ startups
+ to
+ print
+ those
+ out.
+
+
+Okay,
+ last
+ question.
+ Yeah,
+
+
+>> this
+ is
+ probably
+ challenging
+ for
+ you
+
+
+because
+ you
+ do
+ a
+ lot
+ of
+ dictation.
+ So,
+
+
+you're
+ probably
+ actually
+ pretty
+ polite
+
+
+to
+ AI
+ given
+ you
+ would
+ have
+ to
+ say
+
+
+frustrating
+ things
+ to
+ it
+ if
+ you
+ wanted
+
+
+to
+ be
+ mean.
+ But
+ when
+ our
+ our
+ little
+
+
+friend
+ Claude
+ is
+ going
+ off
+ the
+ rails
+ or
+
+
+you're
+ really
+ not
+ getting
+ what
+ you
+ want,
+
+
+what
+ is
+ your
+ prompting
+ reset
+
+
+start
+ over
+ technique?
+ Have
+ you
+ found
+ any
+
+
+any
+ tricks
+ that
+ work
+ particularly
+ well?
+
+
+Yeah,
+ it's
+ it's
+ really
+ the
+ um
+ take
+ the
+
+
+conversation,
+ export
+ it.
+ A
+ lot
+ of
+ them
+
+
+have
+ the
+ export
+ commands.
+
+
+um
+ drop
+ the
+ conversation
+ with
+ some
+ of
+
+
+the
+ code
+ files
+ into
+ the
+ um
+ into
+ chat
+ GPT
+
+
+pro
+ 5
+ or
+ whatever
+ it's
+ called
+ or
+ Gemini
+
+
+uh
+ deep
+ think
+ I
+ believe
+ is
+ the
+ and
+ have
+
+
+it
+ have
+ them
+ do
+ a
+ second
+ set
+ of
+ eyes
+ on
+
+
+it
+ and
+ then
+ kind
+ of
+ start
+ over
+ rather
+
+
+than
+ like
+ if
+ if
+ things
+ go
+ off
+ the
+ rails
+
+
+and
+
+
+you
+ can't
+ fix
+ it
+ in
+ about
+ maybe
+ one
+
+
+prompt
+ of
+ like
+ where
+ you
+ see
+ what's
+
+
+going
+ wrong
+ and
+ just
+ revert
+ to
+ the
+
+
+previous
+ commit
+ and
+ kind
+ of
+ start
+ over
+
+
+because
+ there
+ there
+ there's
+ always
+ this
+
+
+underlying
+ the
+ AI
+ is
+ trying
+ to
+ go
+
+
+somewhere
+ and
+ you
+ want
+ it
+ to
+ go
+ over
+
+
+here
+ and
+ you
+ keep
+ on
+ telling
+ it
+ to
+ to
+
+
+join
+ on
+ your
+ path
+ but
+ it
+ still
+ wants
+ to
+
+
+like
+ get
+ somewhere
+ else
+ that
+ you
+ don't
+
+
+quite
+ understand.
+ And
+ so
+ starting
+ over
+
+
+from
+ uh
+ ground
+ zero
+ and
+ like
+ revising
+
+
+your
+ original
+ prompt
+ is
+ better
+ than
+ like
+
+
+trying
+ to
+ steer
+ it
+ to
+ where
+ you
+ are
+ when
+
+
+you've
+ like
+ drifted
+ so
+ far
+ away.
+ Um
+ and
+
+
+that
+ has
+ to
+ do
+ it's
+ so
+ different
+ with
+
+
+every
+ model.
+ It's
+ so
+ different
+ with
+
+
+every
+ prompt
+ and
+ all
+ the
+ context
+ and
+
+
+project
+ that
+ it's
+ like
+ it
+ can't
+ give
+ you
+
+
+like
+ the
+ here's
+ instructions
+ that
+ work
+
+
+every
+ time.
+ But
+ like
+ starting
+ over
+ works
+
+
+every
+ time.
+ tossing
+ a
+ second
+ set
+ of
+ eyes
+
+
+on
+ the
+ entire
+ conversation
+ where
+ that
+ AI
+
+
+isn't
+
+
+uh
+ isn't
+ invested
+ in
+ that
+ conversation.
+
+
+It's
+ instead
+ critiquing
+ the
+
+
+conversation.
+ Um
+ th
+ those
+ are
+ my
+ my
+ two
+
+
+>> I
+ think
+ that
+ second
+ um
+ that
+ second
+
+
+workflow
+ is
+ so
+ funny
+ because
+ I
+ I
+ think
+
+
+as
+ somebody
+ who's
+ been
+ a
+ manager
+ and
+ a
+
+
+leader
+ so
+ many
+ times
+ sometimes
+ I
+ feel
+
+
+like
+ I'm
+ the
+ reasoning
+ model
+ being
+
+
+brought
+ in
+ to
+ mediate
+ the
+ the
+
+
+misunderstanding
+ between
+ two
+ smart
+ but
+
+
+misalign
+ misaligned
+ resources
+ and
+ so
+
+
+it's
+ really
+ funny
+ to
+ hear
+ the
+ idea
+ okay
+
+
+like
+ I
+ am
+ having
+ a
+ debate
+ with
+ my
+ AI
+
+
+let's
+ bring
+ in
+ like
+ the
+ third
+ party.
+
+
+Let's
+ mediate
+ this
+ conversation,
+ have
+ an
+
+
+objective
+ set
+ of
+ eyes
+ to
+ see
+ where
+ we
+
+
+maybe
+ are
+ misunderstanding
+ each
+ other
+ or
+
+
+going
+ wrong
+ and
+ then
+ reset
+ and
+ start
+
+
+start
+ over.
+ So
+ again,
+ I
+ think
+ you
+ know
+
+
+this
+ is
+ the
+ moment
+ for
+ folks
+ with
+ a
+ lot
+
+
+of
+ organizational
+ and
+ social
+ skill
+
+
+thinking
+ um
+ to
+ apply
+ this
+ to
+ how
+ you
+
+
+might
+ design
+ some
+ of
+ these
+ flows
+ um
+ for
+
+
+for
+ AI
+ even
+ though
+ there
+ are
+ um
+ beep
+
+
+boop
+ machines
+ that
+ we're
+ really
+ using.
+
+
+>> Yeah.
+ And
+ and
+ I
+ would
+ say
+ kind
+ of
+ last
+
+
+thought
+ on
+ that
+ is
+ the
+ recent
+ planning
+
+
+modes
+ that
+ have
+ been
+ released
+ with
+ cloud
+
+
+code
+ and
+ cursor
+ and
+ all
+ of
+ them
+ have
+
+
+eliminated
+ a
+ vast
+ majority
+ of
+ that
+ of
+
+
+that
+ drift.
+
+
+>> Um
+ so
+ they've
+ been
+ fantastic
+ releases
+
+
+which
+ I
+ strongly
+ recommend
+ for
+ anything
+
+
+>> beyond
+ like
+ a
+ small
+ file
+ change.
+
+
+Planning
+ is
+ awesome.
+
+
+>> Yeah,
+ I
+ love
+ I
+ love
+ those
+ features
+ too.
+
+
+Okay,
+ well
+ John,
+ this
+ has
+ been
+ great.
+
+
+Where
+ can
+ we
+ find
+ you
+ and
+ how
+ can
+ we
+ be
+
+
+helpful?
+
+
+>> Yeah,
+ I'm
+ on
+ eggghhead.io.
+
+
+um
+ that
+ is
+ I
+ have
+ tons
+ of
+ courses
+ on
+ AI
+
+
+tooling.
+ I
+ teach
+ workshops
+ through
+
+
+egghead.io.
+ I
+ send
+ a
+ newsletter
+ out
+
+
+every
+ week
+ called
+ AI
+ dev
+ essentials.
+ Um
+
+
+you
+ can
+ find
+ me
+ on
+ X
+ and
+ other
+ platforms
+
+
+as
+ well
+ under
+ my
+ name.
+ And
+ that's
+ it.
+ I
+
+
+love
+ to
+ talk
+ with
+ anyone
+ about
+ all
+ this
+
+
+stuff.
+ Um
+ my
+ workshops
+ are
+ fun
+ and
+ we
+
+
+talk
+ go
+ way
+ deeper
+ into
+ this
+ super
+
+
+advanced
+ stuff.
+ So
+ yeah.
+
+
+>> Great.
+ and
+ then
+ maybe
+ some
+ of
+ us
+ can
+
+
+shop
+ your
+ possibly
+ to
+ be
+ created
+
+
+Christmas
+ and
+ holiday
+ decoration
+ site.
+
+
+So
+ you
+ let
+ us
+ know
+
+
+>> back
+ on
+ then
+
+
+>> you
+ let
+ us
+ know
+ if
+ that
+ goes
+ live.
+ We'll
+
+
+drop
+ into
+ the
+ show
+ notes.
+ Thank
+ you
+ so
+
+
+much
+ for
+ joining
+ us
+ and
+ sharing
+ your
+
+
+workflows.
+
+
+>> Thanks
+ Claire.
+
+
+>> Thanks
+ so
+ much
+ for
+ [music]
+ watching.
+ If
+
+
+you
+ enjoyed
+ this
+ show,
+ please
+ like
+ and
+
+
+subscribe
+ here
+ on
+ YouTube
+ or
+ even
+ better
+
+
+leave
+ us
+ a
+ comment
+ with
+ your
+ thoughts.
+
+
+You
+ can
+ also
+ find
+ this
+ podcast
+ [music]
+
+
+on
+ Apple
+ Podcasts,
+ Spotify,
+ or
+ your
+
+
+favorite
+ podcast
+ app.
+ Please
+ consider
+
+
+leaving
+ us
+ a
+ rating
+ and
+ review,
+ which
+
+
+will
+ help
+ others
+ find
+ the
+ [music]
+ show.
+
+
+You
+ can
+ see
+ all
+ our
+ episodes
+ and
+ learn
+
+
+more
+ about
+ the
+ show
+ at
+ howiipod.com.
+
+
+See
+ you
+ next
+ time.
