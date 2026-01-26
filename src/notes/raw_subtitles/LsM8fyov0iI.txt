@@ -1,0 +1,248 @@
+When I was a kid, my uncle
+would tell me these great stories
+about his aerospace engineering career.
+He used to tell me all about the machinery
+and the designs that he built
+throughout his life,
+and always said he picked
+the perfect career for himself
+because of all the cool stuff
+he was able to build.
+Once, he told me about working
+in the nose cone of an Apollo rocket,
+fixing some sensitive piece of equipment
+just a few days before its launch.
+I was enamored by this.
+Listening to his stories
+had me daydreaming
+about all the innovative
+technology that I could build,
+and it's what inspired me
+to become an engineer, too.
+Since going down this path,
+I've learned there's more to engineering
+than just the amazing stuff we build.
+There's also a vital
+responsibility in the work,
+sometimes with the ability
+to save human life.
+Put simply, when engineers
+mess up, people die.
+And this is what my PhD
+advisor warned me about
+when I started working
+with him four years ago.
+When I decided to follow the path
+of chemical engineering,
+I could have never imagined
+I'd be doing my PhD
+in a field of study called rheology.
+But rheology was interesting to me enough,
+so I spent a few years
+in my life understanding it.
+Rheology is the study of flow
+and deformation of materials.
+It's mainly a method
+to measure the viscosity
+or thickness of a material
+so that it works
+for its intended function.
+Rheology is best used for materials
+that are neither liquid nor solid,
+but some combination of both.
+And the concepts of rheology
+are easiest to understand
+when we compare across different products,
+because it is essential to almost
+every consumer product on the market,
+whether that's a lotion
+that evenly coats your hands,
+or a motor oil that lubricates
+at all operating temperatures,
+or cement that won't harden
+before making it to the job site.
+And there's so many other examples,
+across many industries.
+So why don't I take you over
+to the rheology lab
+where I can demonstrate this for you?
+OK, first off, everybody
+has their favorite peanut butter.
+Unless you're allergic.
+Maybe you prefer the one
+that will stick to the bread like that.
+Or you prefer the one that can't
+support itself and just slides right off.
+Well, it's not doing it so much,
+but whatever, you know how it goes.
+(Laughter)
+Maybe it's a little cold in here, alright?
+(Laughter)
+But how about shampoo?
+So the purpose of shampoo
+is to squeeze from the bottle ...
+and sit on your hand
+so that you can sufficiently
+measure out a drop that cleans your hair.
+But how about when that shampoo
+gets a little low?
+And now you fill it up with water
+so that you can save
+that last little drop.
+And now ...
+it no longer stays
+in the palm of your hand,
+completely ruining
+one of its core functions.
+OK, now for my favorite
+example, the last one,
+that's ketchup.
+Because there's such a huge
+difference in the texture
+between those popular brands.
+And for this one, we'll do
+a little bit of an experiment.
+We have one ketchup in each beaker,
+and when I flip them,
+we're going to watch closely
+to see which one drains faster.
+Move that out of the way ...
+OK, we can see there's clearly one ketchup
+that's much thicker than the other.
+And that happens to be
+the one that's my preference.
+Alright.
+I need to wipe my hands off.
+(Laughs)
+OK.
+So all of these materials
+are a part of a class of materials
+called non-Newtonian fluids.
+And rheology is used to measure
+the different flow properties
+of each of these materials
+so that they can be made reproducibly
+and with the most desired texture
+for their application.
+Maybe by now you see the value
+of rheology for product manufacturing.
+But why should your blood
+flow like ketchup?
+Well, one application of rheology
+that I'm most interested in
+is in medical diagnostics.
+You see, our blood,
+it doesn't flow like water,
+how you might imagine.
+Rather, it flows a bit close to ketchup.
+And that's because
+blood is a non-Newtonian fluid,
+just like all the materials
+in my demonstration.
+Specifically, it's a shear-thinning fluid.
+And it does this because it's necessary
+for healthy blood flow.
+If your blood's viscosity is too high,
+there's a higher chance
+of developing something like a clot,
+or potentially an aneurysm.
+So measuring this information
+would allow physicians another method
+to detect for cardiovascular disease.
+Yet it's not being used,
+because rheology is this niche
+technical engineering field,
+largely unknown to the public.
+But I bet everyone here can think
+of at least one person in their lives
+who has or had a heart condition.
+Some studies show that up to 46 percent
+of people over the age of 40
+have some form
+of coronary atherosclerosis,
+which is a chronic condition
+where plaque builds up in your arteries
+and narrows them, reducing the flow.
+One quarter of deaths in the United States
+are caused by heart disease.
+And one major challenge within
+these diseases is to detect them early,
+so that medication and treatment
+have enough time to take effect.
+Blood pressure is a metric
+commonly used by physicians
+to inform their decisions for medications
+and treatment of cardiovascular disease,
+and blood-pressure monitoring
+has been going on for over 300 years.
+Now, imagine the past 300 years,
+if physicians didn't know
+about blood-pressure monitoring,
+there would be countless
+unnecessary suffering.
+This is the stage
+that blood rheology is at.
+Though blood's viscosity
+has been studied for over 100 years,
+and blood rheologists
+have shown significant evidence
+correlating it to cardiovascular disease,
+it's still not widely used
+as a diagnostic tool.
+Spreading awareness
+about rheology is necessary
+so that it becomes known
+as commonly as blood-pressure monitoring.
+Blood rheology is one of those areas
+where physicians can work
+together with the engineers
+so that we can proactively
+create solutions
+that put this knowledge into practice.
+Some of my work as a PhD student
+is to help simplify
+the rheological measurement.
+While I'm studying the rheology of blood
+and its use for cardiovascular
+disease diagnosis,
+I'm also building a small
+microfluidic chip.
+My goal in this work is to measure
+the same rheological information
+in a small, cheap, portable device
+that we're currently able to do
+in a bulky, stationary,
+half-a-million-dollar machine.
+This could simplify
+the rheological measurement,
+making it more accessible
+for many doctors.
+And some physicians
+have begun to use blood rheology
+to augment their patient care,
+and they've seen positive results so far.
+But just like the blood-pressure monitor,
+we'll all be better off when the public
+has a greater awareness of this technology
+so that we can help
+improve cardiovascular disease.
+And so that's why I'm asking you
+to just have a conversation
+with someone in your life
+about this science.
+And if you're in the medical community,
+I want you to take a closer look
+at blood rheology.
+Dive into this science
+and see how you might be able
+to use it in your field.
+There's so much valuable information
+in blood rheology
+that tells us about our health.
+And if we can just get over its obscurity,
+we might be able to help solve
+some of our most pressing
+modern medical issues.
+If we just spread a little awareness,
+we could save lives.
+(Cheers and applause)
