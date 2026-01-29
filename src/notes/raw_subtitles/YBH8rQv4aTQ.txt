@@ -1,0 +1,357 @@
+Twenty years ago,
+I founded a social enterprise.
+I wanted to change the world.
+And we were funding millions
+of meals to the underprivileged.
+We were providing tens of thousands
+of vaccines across parts of Africa.
+And we were funding schools
+in the slums of India.
+Now I thought that I was doing
+quite a good job
+and having a lot
+of impact in all of these areas,
+until one day I was working
+with ministers in the UK,
+and they said that 20 percent of students
+leave secondary schools in the UK
+and they're not able to read
+and write well enough.
+Now I thought with brick and mortar
+schools and qualified teachers,
+if they're not able to do that in the UK,
+then I'm not having the impact
+that I wanted to have in those schools,
+in the slums in India.
+So what's going on?
+What's the problem?
+We need to fix it.
+So I went to schools.
+I went to schools
+and I asked lots of questions.
+And I found two critical problems
+on the front line of education.
+The first is that they continue
+to have the one-size-fits-all
+delivery of education
+to a classroom of around 30 to 35 people.
+The second, I think
+you will agree with me,
+should be headline news every single day.
+74 percent of teachers
+want to quit their jobs
+in the next three years.
+Why?
+It's because of workload.
+They spend so much time
+micro-marking, micro-assessing,
+trying to figure out
+where every child is at.
+They are teachers by day,
+and they are data analysts by night.
+And not one of them signed up
+to do that night job.
+So walking around schools,
+I had a smartphone in my hand,
+and we had machine-learning applications
+telling us how we should shop,
+how we should save and sleep.
+And I thought, why don't we have
+this technology in the classroom,
+telling us how we should learn?
+We’ve got to build that technology.
+But we can’t use any old
+machine learning recommendation engine.
+We need to combine artificial intelligence
+with neuroscientific theory
+and the learning sciences
+to learn how every single brain
+in this room learns.
+Because if we can fix learning,
+we can improve outcomes.
+We can personalize education
+for every single one of us
+and provide intelligent insights
+to teachers to reduce the workload.
+So 12 years ago, I built a team.
+They built the technology.
+It exists, students use it
+in over 140 countries.
+We've collected over 40 billion
+data points on how children learn.
+And I'm going to show you
+a couple of the things
+that I've learned
+about learning on the way.
+But before I do that,
+I thought it would be
+really important to share with you
+some student feedback
+that I have on our platform.
+It’s really important
+because it tells us
+what children’s expectations are
+when they use an AI education partner.
+So I get feedback like this.
+"I'm trying to say thank you."
+"It's lovely." "It's brilliant."
+"I think Century will help me achieve
+things that I thought were impossible."
+It's a golden child, right?
+My life's purpose has been fulfilled.
+And then these sweet, lovely, innocent
+children send me messages like this.
+“I don’t like this website,
+it makes me able to do my homework.”
+(Laughter)
+Wait.
+And then I'm being bribed.
+"I will give you 100,000
+pounds, I'm not joking.
+You just need to give me no work.
+Give me a button to do the work for me."
+Now these children and that sentiment
+very much ties in with a recent survey
+where children were asked,
+how do you use AI LLMs,
+chatbots, with your homework?
+A staggering fifth of children admitted
+they get AI to do
+all of their work for them.
+So they're not using AI
+to help them learn.
+They're using AI
+to actively avoid learning.
+Now I know some of you are frowning
+right now thinking, how dare they?
+I don't think they're
+that different from us.
+Think about how we felt
+when we first used ChatGPT.
+This is my very scientific chart.
+I think that you all felt euphoric.
+You thought, "Wow,
+I'm going to look like a genius.
+I never need to do any work ever again.
+This is amazing."
+Yeah?
+And then it hallucinated and confabulated.
+And you were, like, "Big tech, seriously,
+you had one job to do, Sam Altman,
+with all that money,
+and it's making stuff up," right?
+And then for the lawyer who shared it
+in a courtroom and got fined,
+sheer humiliation and embarrassment
+for those people.
+And I think we've ended up with this
+sort of sinking realization of acceptance,
+right, that the shortcuts
+don't really replace the work.
+They're very helpful.
+But we still need to learn,
+we need to produce, and we need to think.
+Now when we read those long answers
+that an LLM chatbot gives us,
+it feels very fluent
+when you read it, doesn't it?
+The problem is, is that fluency
+we often mistake for learning,
+and that is why people we know,
+not us, of course,
+but they end up with this sort
+of illusion of competence,
+like they know everything, right?
+What we actually know about learning
+is that learning requires
+what researchers call
+a “productive struggle.”
+It's this sort of mental effort,
+right, that builds understanding.
+Now my top learning techniques,
+I’ve got four of them that all
+involve a productive struggle,
+and they improve outcomes.
+We've seen them work.
+Three of them are about memory.
+This is really important.
+Memory and understanding
+are two sides of the same coin.
+If you think about it,
+we draw on what we remember
+in order to shape what we think.
+If we can't recall it, we can't use it.
+So the first important one is retrieval.
+This is simply the act
+of recalling from our brains.
+The students in a study
+were given a passage like this one.
+And it's the students
+who only read it once,
+but then tried to recall
+it from their memory,
+who could remember it far better
+than students who just read it
+over and over and over again.
+The second is spacing,
+and this is essentially students
+who then space their learning over time.
+So rather than cramming
+things all in one go,
+students that can do that active process
+of retrieval over time,
+because then you're essentially
+going through that productive struggle
+over and over again.
+The third, we don't like this one,
+but it's just generation, right?
+So students in a study
+were given word pairs
+like rapid-fast and cold and hot.
+But then another set of students
+were just given the first word.
+And then a cue like the F,
+they had to come up with "fast."
+Students who have to generate
+the answers themselves,
+even if they get them wrong initially,
+create a stronger memory trace.
+They remember more in the end.
+And then the fourth is reflection.
+When we reflect on our work
+and we are given structured
+feedback in three very specific ways:
+How am I learning right now?
+What is my learning goal,
+and then what are the gaps
+to get to that goal, what do I need to do?
+Those students improve their outcomes.
+Now you'll find that these four
+techniques have something in common.
+They are harder.
+They all involve a productive struggle.
+We know sustained mental effort
+strengthens the parts of the brain,
+and it's positively correlated
+with growth in the brain.
+There was an amazing study
+in my home city of London
+with black taxi drivers.
+Now if you’re a cabbie in London,
+you have to pass a test
+called The Knowledge.
+You have to memorize 26,000 streets
+in the city of London.
+You're not allowed to use navigation apps.
+Wow, exactly, right?
+Isn't that crazy?
+Yeah, no Uber drivers for them, right?
+And so neuroscientists
+scanned their brains
+and they found that parts
+of the hippocampus in the brain,
+this is the part of the brain
+that's responsible
+for spatial memory and navigation,
+were larger in parts
+with experienced cabbies.
+Because you have to build
+all of those mental models,
+you have to generate new routes
+every time you have a new passenger.
+And so they say that that growth,
+because of the positive correlation
+with what they have to do,
+is really meaningful and telling,
+and it is no different for learning.
+Durable learning does not
+come from shortcuts.
+It comes from certain types of effort.
+And this is why
+AI is amazing for education.
+Because AI can spot patterns
+in how we all learn.
+It can spot patterns in how
+concepts across subjects connect.
+It can predict if you don't know something
+and provide you with that material
+at the right time,
+it can provide us with timely,
+targeted interventions
+and give teachers those insights.
+It can predict when you're just
+about to forget something
+and give you that material
+at just the right time,
+it can force you to generate an answer
+rather than just reveal the answer.
+And it can provide amazing,
+structured feedback
+against expertly designed
+rubrics from teachers.
+So AI well-designed
+can be phenomenal in education.
+And we've seen it work.
+Now a lot of people come to me,
+students and adults,
+and they say, but why bother?
+Because we've got GPS, right?
+We have AI, we can Google the answer
+to absolutely anything
+so we don't need to do this anymore.
+That's not true.
+If you think about AI,
+AI is our history predicting our future.
+It is brilliant at spotting
+patterns in data.
+It has been amazing as a partner
+in remarkable breakthroughs
+like drug discovery and protein folding,
+new materials and crystals.
+But the thing is, none of that happens
+with AI in isolation.
+We humans, we frame the questions.
+We set the goals, we chose the data sets.
+We decide which discoveries matter.
+Our knowledge is not just trivia.
+It is the raw material
+of thinking and discovery.
+AI is not there to replace our expertise.
+It's there to allow
+our expertise to expand.
+And if you think about powered flight,
+penicillin, electricity, AI itself,
+humans learned.
+They went through
+that productive struggle, right?
+They built domain expertise,
+and from that they took
+a leap in their imagination
+and they created innovations.
+So for students who want to cheat
+and want to use AI to do their homework,
+for us lifelong learners, right,
+who are reading and reading
+and reading and reinforcing
+that illusion of competence,
+just remember, you do not get the growth
+unless you go through the struggle.
+So whether AI is good or bad
+for education is totally up to you.
+Are we designing it well
+and are you using it to complement
+or to replace human cognition?
+So the next time you're learning
+and you want to invest in yourself,
+educate yourself,
+you want to grow and maybe
+take that leap in imagination,
+just remember, mental effort
+is not a flaw in the process.
+It is a critical feature
+that allows learning to stick,
+allows us to build expertise
+and fuel human ingenuity.
+Thank you so much for listening to me,
+and good luck with your AI journey.
+(Applause and cheers)
