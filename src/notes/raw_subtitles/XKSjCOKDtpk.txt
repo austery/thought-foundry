@@ -1,0 +1,1218 @@
+- Imagine you are in empty space
+and you fire off a stream of electrons.
+Well then according to most
+physics textbooks, the only way
+to change how those electrons behave is
+by applying an electric or magnetic
+or gravitational force to them.
+But most physics textbooks are wrong.
+In the 1950s, two physicists came up
+with a clever experiment.
+You could have electrons
+travel through a region
+with no electric or
+magnetic fields whatsoever,
+and yet by flipping a switch,
+you could change their behavior.
+- The magnetic field could be just zero,
+and yet the presence of some
+quantity could actually lead
+to observable effects. 
+That wasn't supposed to happen, right?
+- This experiment split the
+physics community in two.
+It made them question whether
+fields are fundamental
+or whether something that was supposed
+to be just an abstract
+mathematical tool was actually more
+core to reality.
+This tool was first introduced
+in an attempt to solve one
+of the hardest unsolved
+problems in physics.
+The three body problem. 
+That is, if you have three bodies
+and you know their initial positions
+and velocities, how
+will they move under the
+influence of each other's gravity?
+- It's a juicy, juicy problem,
+which has occupied literally
+generations, hundreds
+and hundreds of years
+of incredibly ambitious,
+talented mathematicians,
+physicists, and astronomers,
+and, and and beyond.
+- The fact that this
+problem is so difficult
+to solve should at least
+be a little surprising
+because if you have just two bodies,
+then the solution is easy to find.
+In fact, the general case was
+already solved over 300 years
+ago by Newton himself.
+But when Newton added a third body, well,
+that's when everything fell apart.
+In the two body case, the
+forces behaved predictably,
+always pointing toward's the
+system's shared center of mass.
+But with three bodies,
+this is no longer the case.
+When you try to calculate the forces,
+they end up being extremely dynamic.
+In addition to worrying about
+the magnitude of the forces,
+you also have to worry
+about their direction.
+So you end up with this
+chaotic mess of vectors
+for the next hundred years,
+everyone who tried to
+solve this problem failed.
+But what if there was some
+other way to approach it, a way
+to simplify the math
+and not have to worry about
+these three dimensional vectors?
+Well, that's where Joseph
+Louis Lagrange comes in.
+In the 1770s, he was also trying
+to solve the three body problem,
+and he came up with a new approach.
+It works something like this.
+Say you've got a single mass like a star
+Lagrange imagined assigning a value
+to each point in space around the star.
+The value is determined by the star's mass
+and the distance from the star.
+You can think of each value as a height,
+and if we then turn this into
+an altitude map, you can see
+how the star creates this sort of well.
+What Lagrange had developed
+was the gravitational
+potential V, and what's
+important to note is
+that V is a scalar.
+It has a magnitude but no direction.
+So the genius in Lagrange's idea is this.
+At any given point, we can
+draw an arrow pointing directly
+downhill where the size
+of the arrow corresponds
+to the steepness of the hill
+at that point, we can repeat
+this process at every point.
+And if we then shift our
+perspective to two dimensions,
+look, what we've got is the
+gravitational field of the star.
+Mathematically, we say
+that the gravitational field G is equal
+to the negative gradient of V.
+- So Lagrange had found a
+way to switch the problem back
+and forth between one of
+vectors and one of scalars.
+And while adding up vectors is hard,
+adding scalars is a piece of cake.
+To find the combined potential
+landscape of any number
+of bodies, you just add up
+their individual potentials
+and then you can always
+use that to get back
+to forces if you want.
+For a simple two body system
+like the earth orbiting the
+sun, that combined potential
+looks something like this.
+If you look closely, you see
+that there are five points
+where the gradient is zero.
+And so Lagrange realized the
+forces there are also zero,
+which means that at each of these points,
+you could place a tiny third body
+and it would maintain a
+perfectly stable orbit.
+That is if it isn't disturbed.
+These points are now known
+as the Lagrange points.
+And while they didn't help
+solve the three body problem,
+Lagrange was developing
+more sophisticated tools.
+In fact, he developed an entirely new
+way of doing mechanics.
+But for that to work, he
+didn't just need the potential,
+he needed the potential energy
+and the kinetic energy too.
+I think when people hear potential,
+they think potential energy.
+And while they're very similar,
+there is a subtle difference.
+If you have the potential
+that's basically the field
+corresponding to a single body,
+then it will have some
+potential field around it,
+which is described as
+V equals minus GM over
+r, where this is the mass of the sun.
+But to get the potential energy we need
+to add in a second body.
+So let's say that's the
+earth. The potential energy,
+let's call it U,
+is basically just the potential times the
+mass of the second body.
+So they're very similar, but
+they're slightly different.
+And the kinetic energy
+of the earth is simple.
+That's of course one half MV squared.
+So now we have everything we
+need to try this new method.
+In fact, we made a whole
+video on this over a year ago,
+but for now, all we need to know is
+that we can write down the
+kinetic minus potential energy
+to find what's known as the Lagrangian.
+Then you sub that into the
+so-called Euler-Lagrange equation,
+and out comes your solution.
+For example, predicting the
+motion of a double pendulum
+by using this standard forces
+approach is infamously hard.
+- Because as one pendulum is swinging,
+it provides the attachment point
+for the pendulum hanging below it.
+And so that pendulum is
+in this moving reference
+frame as it's swinging.
+- But if you plug the kinetic
+and potential energy into
+the Euler-Lagrange equation,
+then you can quickly get to a
+solution at least numerically.
+That's actually how we
+made this simulation.
+- I remember thinking,
+man force is like hard
+to get the right answer.
+You can do it if you're good,
+and people who are good
+at mechanics can do it.
+But with the Lagrangian approach,
+you could just write down the
+energy, which is a scalar,
+not a vector, plug it into
+the Euler-Lagrange equation,
+and you get the right equation of motion
+and you don't have to be a good physicist.
+- But for all its usefulness,
+the potential wasn't enough
+to help Lagrange solve
+the three body problem.
+In 1887, mathematician
+Heinrich Bruns finally proved
+that the three body problem is unsolvable.
+There are simply too many unknowns
+and no way to simplify the
+problem to reduce them.
+So the best we've got
+are computer simulations,
+which compute the potentials
+from moment to moment,
+and use that to predict how
+the system will evolve in time.
+- And so that's where we come to realize
+that the three body
+problem is beautiful for
+what it's taught us.
+Even though we now recognize
+that we can't actually solve
+for this exact problem as as
+many folks had hoped to do.
+And in doing that, they
+merely gave us the machinery
+of modern mathematical physics.
+So I'm pretty happy they tried.
+- The potential helped simplify
+a wide array of problems.
+For many physicists
+it even replaced forces
+as their primary tool.
+It became so useful that people started
+to wonder if other forces
+in nature might have a
+corresponding potential,
+starting with the electric force.
+- If you look at the formula
+for the electric force,
+you notice that it's remarkably
+similar to that for gravity,
+just with masses and charges
+swapped.
+In the 1810s, Simeon Denis Poisson, 
+one of Lagrange's students, also noticed the similarity
+and he realized
+that you can define an
+electric potential phi in a
+very similar way.
+But there is one important difference,
+and that is while two
+masses can only attract,
+two charges can attract or repel.
+So now with the potential
+you don't only get pits,
+you also get hills.
+But one force was much trickier
+to find the potential for,
+and that was the magnetic force.
+And that's because magnetism
+is a fundamentally different
+beast from the gravitational
+and electric force.
+Take a bar magnet,
+we can draw the magnetic
+field it produces.
+It looks something like this.
+Now at first glance,
+this looks very similar
+to the electric scenario
+where we have a positive
+and negative charge,
+but this picture doesn't
+look at what's going
+on inside the magnet.
+So if we reveal what's inside
+then you see that these
+lines actually continue,
+but now they point from south to north.
+So magnetic field lines
+are actually loops.
+They don't have an origin or endpoint,
+and that fundamentally changes things.
+So physicists need a new way
+to describe the magnetic potential.
+- The breakthrough came in the
+1840s from an undergraduate
+student named William Thompson.
+- His day job as an
+undergraduate was to learn
+as much fancy calculus as possible.
+And then when he learned
+that he invented more.
+- Thompson found that the
+mathematics of his day was unable
+to describe the relationship
+between a magnetic field
+and its associated potential.
+So he came up with an
+entirely new function, the curl.
+To see how this works,
+imagine the arrows of
+this vector field are
+like currents in a liquid.
+If we were to place a
+paddle wheel right here,
+it would start to rotate
+rapidly counterclockwise.
+As Thompson defined it, this
+spot has high positive curl, at
+this spot, it would rotate clockwise,
+but not as rapidly, so it
+has lower negative curl.
+And here the current pushes
+on it equally in both
+directions, so it wouldn't rotate at all.
+This spot has zero curl.
+Thompson realized
+that the magnetic vector
+field B could be defined
+as the curl of some other vector field,
+the magnetic vector potential A.
+Now, even though they're both
+vector fields, it turns out
+that A is often much easier to work
+with than the magnetic field itself,
+much like the other potentials V and phi,
+- Thompson was showing there was a kind
+of underlying mathematical
+structure one could use
+that would streamline the calculations,
+but even Thompson thought
+this was a kind of device,
+a helpful device,
+and not a substitute for
+like the real physics.
+- Decades later, Thompson was
+elevated to the House of Lords
+for his contributions to science
+where he received a
+new title, Lord Kelvin,
+with Kelvin's latest edition.
+There were now three fundamental
+equations relating the
+potentials to their respective fields.
+- Thanks to each of these,
+you could now solve problems much easier.
+And so ever since professional
+physicists often use
+potentials instead of forces
+or fields to solve the
+problems they're working on.
+Potentials even show up in some
+of our best physical
+theories of the universe.
+But that raises an important question.
+If potentials pop up everywhere,
+then do they actually represent
+anything physical, that is,
+can they have a direct
+influence on reality?
+Well, to most physicists, the
+answer was a resounding no.
+Take the gravitational potential
+of a single star, for example.
+Well, we could just add 10 to
+each value of the potential,
+and this would shift
+the overall landscape.
+But the change in landscape from one point
+to the next remains the exact same.
+So the field is the same
+as the one we had before,
+and the force and object would
+experience at any point would
+remain unchanged.
+In fact, we can add any constant
+10, a hundred, a million,
+and the field doesn't change.
+And so the forces
+an object would experience going
+around it also don't change.
+There are an infinite number
+of ways we could write the
+gravitational potential
+for any gravitational field
+and get the system to
+evolve in the same way.
+And the same is true for
+electricity and magnetism.
+The value of the field and
+thus the force is fixed,
+but the value of the
+potential is arbitrary.
+So from this, most physicists concluded
+that potentials can possibly
+have any physical significance.
+It must just be a trick
+that makes the math easier,
+but most physicists might be wrong.
+- In 1942, 23-year-old David
+Bohm was hard at work on his
+thesis in particle physics
+when one day he received
+an unexpected visit.
+- Robert Oppenheimer, who was
+David Bohm's PhD advisor, wanted
+to bring him squarely onto the new
+Manhattan project efforts.
+- This was a life-changing opportunity.
+Bohm would be working side by side with some
+of the top minds in physics,
+but there was a problem.
+The project's military director
+General Leslie Groves had
+to approve Oppenheimer's recruits.
+And when he ran a background check on B,
+he didn't like what he saw.
+- He briefly joined the American branch
+of the Communist Party
+when he was in California
+by his own recollections,
+he quit pretty quickly
+'cause he got bored.
+He said, these people just sit around
+talking all day and don't do anything.
+Even so Groves deemed Bohm a security risk
+and banned him from working
+on the Manhattan Project.
+But things got even worse just
+- As he was about to finish
+his dissertation in Berkeley,
+the topic was then classified.
+He did not have clearance,
+so he couldn't even work on
+or even write up his own dissertation.
+So Oppenheimer had to certify
+that Bohm had done good work.
+And in 1943 in wartime,
+that was sufficient for Bohm
+to actually get a PhD.
+- After the war, Bohm became
+an assistant professor at
+Princeton University, but
+fears surrounding his communist
+sympathies followed him wherever he went.
+In 1949, he was brought
+before the house on American Activities
+Committee for questioning.
+While Bohm was under investigation,
+Princeton let his
+professorship lapse, and even
+after he was acquitted, the university
+refused to reinstate him.
+It seemed that Bohm was
+destined for obscurity.
+And so Oppenheimer gave
+him a firm recommendation,
+leave the country and
+start fresh somewhere else.
+Oppenheimer was no stranger
+to political persecution,
+and he didn't want Bohm
+to suffer the same fate.
+So Bohm took the advice, his
+journeys brought him to Brazil
+and then Israel.
+And though he was free from
+the political pressures he had
+felt in America, he still
+found himself an outcast.
+Many of Bohm's academic peers were put off
+by his more unorthodox ideas,
+including his radical
+interpretation of quantum mechanics
+and his new theory of human consciousness.
+But there was one student
+who was enthralled
+by Bohm's approach, and
+that was Yakir Aharonov.
+- When Bohm relocated once more.
+This time, moving to the
+University of Bristol in England,
+Aharonov chose to come with him,
+and it was there in Bristol
+in the 1950s that Aharonov
+and Bohm stumbled upon something huge.
+- According to quantum mechanics,
+at the smallest particles
+behave like waves,
+and this behavior is governed
+by the Schrodinger equation.
+The solution to this
+equation is called the wave
+function psi.
+If you take its modulus squared,
+you get the probability density
+of finding a particle at a
+given point, at a given time.
+The left side of this equation tells you
+how the wave function
+changes over time and space,
+and the right side tells you
+that this change depends on hitch,
+what is known as the Hamiltonian.
+It's basically just the
+total energy of the system.
+In the case where we have both an electric
+and magnetic potential, the solution
+to the Schrodinger equation
+looks something like this,
+where this is just a constant.
+And this term describes the complex phase.
+It looks complicated,
+but it's actually quite
+easy to get a feel for it.
+So let's plot it in two
+dimensions for an electron.
+Moving to the right,
+the different colors here
+represent the different phases,
+and you can see how the phase
+evolves over time and space.
+Thank you to Richard Behiel
+for inspiring this approach.
+Now, if you look closely
+at the original phase term,
+you see A and phi, the magnetic
+and electric potentials.
+So watch what happens if we
+add a magnetic vector potential
+that points in the same direction
+as the electron is traveling.
+You can see that the wave stretches out.
+So now the phase changes more slowly over
+space than it did before.
+And if the potential points the other way,
+then now the wave gets more compressed
+and its phase changes faster over space.
+And a similar thing would
+happen if you change the
+electric potential phi.
+Now, this by itself, I
+think wasn't shocking
+to most physicists, just
+as you would always use the
+potentials to make the math easier.
+That's also why you use it
+in the Schrodinger equation.
+But really what's responsible
+for these, you know,
+even phase changes were still the fields.
+But you spoke to Aharonov.
+- Yeah
+- And that wasn't his take.
+- No. If you look at the
+Schrodinger equation,
+you can't just replace the potential phi
+with the electric field E. 
+- Why not?
+Because you're losing information. 
+- Okay?
+Because remember, you can
+define any number of potentials
+for a specific electric field
+because you can pick an arbitrary height,
+but that information is lost when you go
+and swap it out for the electric
+field. There's another way to think about it.
+- Okay, okay, it's getting real.
+- So if you have an expression
+like five x squared plus
+five, you'd think you could
+just write this as the integral
+of 10 X, right?
+Because the integral is
+five x squared plus C.
+- C, right? 
+- C is a constant.
+So it includes five, but it
+also includes any other number.
+But importantly, C is not five,
+or at least not in every case.
+So you lose this specificity
+when you grow from a
+potential to an electric field.
+And Aharonov wasn't comfortable with that.
+So he thought, what if every
+quantum system was actually
+influenced by the potential
+and not by the field, right?
+So it's the potential
+that shows up in the Schrodinger equation.
+So it is what influences wave functions.
+He had to find a way to prove that
+what we're observing is
+always because of a potential
+and not because of the field.
+How do you do that complicated?
+See, Aharonov had to design an experiment
+that would send a
+particle through a region
+where there's no electric
+or magnetic field,
+but there is a potential in such a setup.
+If the phase of the particles
+wave function started changing
+slower or faster, that had
+to be the direct result
+of the potential itself
+because there are no fields,
+- But that's where you run into a problem
+because there's no way to
+directly measure the phase
+of a particle's wave function.
+So how do you devise an experiment
+that can yield a measurable result?
+Well, Aharonov enlisted
+the help of his mentor Bohm,
+and together they came up
+with the following theoretical experiment.
+It starts with a beam of
+electrons, which is split into two.
+In the middle of these two
+beams is a tightly coiled wire
+known as a solenoid.
+Now, solenoids have an
+interesting property.
+When you run a current through one,
+it produces a strong magnetic
+field inside the coil
+and a very weak field outside the coil.
+The longer the solenoid,
+the weaker the field in
+the surrounding space.
+For simplicity, Aharonov and Bohm imagined a setup
+with an ideal, infinitely long solenoid.
+One where the magnetic field
+outside the coil is exactly zero.
+After traveling on opposite
+sides of the solenoid,
+the electron beams are redirected
+back towards each other
+by the researchers, and here
+at this point, they intersect.
+Now since electrons behave as waves,
+though waves from the
+intersecting beams overlap
+and produce an interference
+pattern, bright fringes
+with gaps in between them.
+The exact pattern depends on the phase
+of each of these waves.
+When the solenoid is off,
+there is no magnetic field in the region,
+the electrons are traveling through
+and there is no magnetic potential.
+The phase of the electrons
+changes in the same way across
+both beams, regardless of
+whether they pass above
+or below the solenoid.
+And so you get an interference
+pattern that looks like this,
+but when the solenoid is turned on, well,
+there is still no magnetic field
+because it's confined
+entirely within the coil,
+but there is a magnetic potential.
+That may sound strange,
+but remember, the
+magnetic field is the curl
+of the magnetic potential.
+The curl of the potential
+can be zero in some region,
+even when the potential itself is not.
+And that's exactly what's happening here.
+Now take a closer look at the
+vector potential, in the space
+the upper beam passes
+through, the potential
+points in the opposite
+direction as the beam.
+So here the phase changes faster,
+but below the solenoid
+it points in the same
+direction as the beam.
+So the phase changes slower.
+If the phase truly depends
+on the potential alone
+and not the field, then the phases
+of the two beams should
+evolve differently.
+So as a result, the interference
+pattern should shift when
+the solenoid is on versus
+when it's off.
+The magnetic field could be just zero,
+and yet the presence,
+some vector potential
+could actually lead to observable effects
+that wasn't supposed to happen, right?
+- What I love about this
+story is that it reminds me
+that individual people can
+challenge entire paradigms.
+For nearly 200 years, many
+of the smartest minds
+in history all believed
+that potentials were nothing
+more than mathematical tools.
+But then two outsider
+physicists came along
+and defied that interpretation,
+confident in their approach
+they took on the entire
+scientific establishment.
+That same belief in the
+power of the individual is
+what motivated me to
+partner with planet wild.
+Many of us can feel helpless
+when we look at the huge
+problems facing the earth
+today, deforestation,
+plastic pollution, and the
+extinction of entire species.
+The easy solution is just to wait around
+and hope someone else will
+do something about it.
+Planet wild gets boots on the ground
+to actually protect our planet,
+and they make it easy for
+anyone to join the cause,
+which is one of the
+reasons I became a member.
+Another reason is that every month we
+as a community fund new projects
+to clean up oceans, rewild,
+forests, protect endangered
+species and raise awareness.
+You can think of planet wild
+as crowdfunding for nature.
+My favorite part, I get to see the impact
+of my contributions through
+outstanding monthly videos,
+which are published right here on YouTube.
+Take this for instance.
+This is a planet wild mission in Mumbai.
+It's a scalable technology that
+stops plastic at the source,
+preventing 10 tons from
+reaching the ocean every month.
+Planet wild invested over a hundred thousand
+dollars in this, and that money
+didn't come from governments
+or corporations,
+it came from ordinary
+people like you and me.
+You can sign up for whatever
+amount feels right for you
+and cancel any time.
+The first 150 people
+to sign up using my code
+Veritasium one will get their first
+month paid for by me.
+Just scan this QR code or click
+the link in the description.
+If you're interested in the
+science behind their projects,
+then go check out their YouTube channel.
+I'm leaving the link
+to the plastic cleanup
+mission in the description
+and now back to the mystery
+of the potential.
+Aharonov and Bohm published their findings in 1959,
+and the reception was mixed.
+- Even Niels Bohr, one
+of the founding fathers
+of quantum mechanics, found
+it impossible to accept
+that a particle could be influenced
+by a potential in the
+absence of any force.
+But some physicists
+supported Aharonov and Bohm
+Richard Feynman wrote "the fact
+that the vector potential
+appears in the wave equation
+of quantum mechanics was
+obvious from the day it was written.
+It seems strange in
+retrospect that no one thought
+of discussing this
+experiment until 1959 when Bohm
+and Aharonov first suggested it
+and made the whole question crystal clear."
+Feynman included himself that statement.
+He later wondered why he had
+never noticed the effect.
+Physicist Victor Weisskopf
+had a similar response.
+"The first reaction to this
+work is that it's wrong.
+The second is that it's obvious."
+Ultimately, there was only
+one way to settle the debate.
+Someone had to actually do the experiment.
+The first to try was a colleague
+of Aharonov and Bohms at the University of Bristol,
+Robert Chambers.
+Chambers' experiment
+largely followed the setup.
+Aharonov and Bohm proposed with
+one notable exception,
+an ideal solenoid would
+have to be infinitely long,
+which is physically impossible.
+So instead, chambers used a
+tiny needle-like piece of iron,
+about a millionth of a meter
+thick, and 500 times as long.
+When this iron whisker was magnetized,
+it produced a magnetic field
+that was strong within the metal itself,
+but negligible outside of it, as well
+as a magnetic potential in the
+surrounding region of space.
+To get a baseline interference pattern,
+Chambers fired two beams of electrons
+around an empty region of space.
+Then he added the magnetic whisker.
+When he fired the beams, again,
+the interference pattern shifted.
+It seemed that Aharonov and Bohm were right,
+but critics were unconvinced
+- Maybe a stray field was
+responsible for the effect,
+not the potential,
+- And that's showing throwing
+no shade on their colleague
+who did these cool experiments.
+It's like it's hard,
+right? It's really hard.
+- And so it went for several decades,
+experimentalists repeatedly
+tested the Aharonov-Bohm effect,
+but each trial had flaws
+that left the result open to debate.
+- Until in 1986, a team of
+Japanese researchers led
+by Akira Tonomura came up with a
+new way to do the experiment.
+See, they used a tiny donut shaped magnet
+to make their magnetic
+field with a perfect Taurus.
+All the magnetic field is
+contained within the loop.
+Outside it, it's absolutely zero.
+And as an added layer of protection,
+the team also coded the
+entire magnet in a layer
+of superconducting niobium,
+which would block out any leaking fields.
+Now, previous experiments relied
+on turning a magnetic field
+on or off, but Tonomura's team
+took on a different approach.
+In their case, the
+magnet is always on, but
+because of its unique shape, the potential
+outside the torus is different
+from the one in the center.
+It points towards us on the outside
+and away from us on the inside.
+And the team realized they
+could take advantage of this.
+They started by firing
+off an electron beam,
+which was actually wide
+enough to be treated
+as two separate beams.
+Part of it traveled
+along through empty space
+and functioned as the control,
+whereas the other part washed
+over the entire torus.
+And what's important here is
+that the beam is wide enough so
+that part of it passes around the torus
+and part of it passes through.
+Then at the end, a biprism deflects the electron
+beams toward each other.
+They intersect, and this is
+where they create an interference pattern.
+Now, think about
+what this interference
+pattern should look like.
+Well, for starters, there should
+be a shadow of the torus,
+so we can fill that in.
+But the rest, well, it
+depends on whether the Aharonov-
+Bohm effect is real or not.
+If it's not real, we'd expect
+to see an interference pattern
+that looks something like
+this, where the pattern
+outside the torus and
+in the center match up.
+But if it is real, then
+the electrons that traveled
+through the center would've
+experienced a different
+potential, which would've
+shifted their pattern
+by half a phase.
+So that should look something like this.
+Now here are the results
+from Tonomura's experiment.
+You see these are the interference fringes
+inside and outside the magnet.
+And then if you follow what is a peak
+outside the torus lines up with,
+- Right?
+- A trough inside the middle, and then
+it's a peak outside again.
+And that's exactly what they predicted.
+This is exactly what they
+predicted. - So it's real. - It's real
+- And yet soon a new debate
+emerged. The effect is real.
+Sure, but how should we interpret it?
+What is it really telling
+us about the nature
+of the universe? 
+Today
+Physicists largely fall
+into one of two camps.
+The first camp claims
+that potentials aren't just
+mathematical conveniences.
+They can influence physical reality.
+This is the perspective
+initially favored by Aharonov
+and Bohm, as they wrote in
+the abstract of their paper.
+Contrary to the conclusions
+of classical mechanics,
+there exist effects
+of potentials on charged
+particles even in the region
+where all fields vanish.
+Some take this position a step further,
+since the potentials show up
+in the Schrodinger equation
+and the fields do not.
+Well, they argue that the
+potentials are more fundamental
+to physics than fields are.
+Richard Feynman supported this idea.
+He wrote A is as real as B  - realer,
+whatever that means.
+- I mean, I kind of like
+that interpretation,
+but something about the
+potential bothers me.
+And that's the fact
+that you can set the potential
+at any arbitrary height.
+It can be plus infinity.
+It can be minus infinity,
+anything in between.
+So wouldn't that change?
+You know how the potential actually
+influences the way function?
+- This bothered me too, so much so
+that I actually ended up
+asking a professor about this,
+but it turns out it can't.
+- It's not
+just the potential that's
+that's entering the observable,
+it's the line integral.
+So it's only A that enters.
+It's not the magnetic field B vanishes.
+It's only A, but it's not A alone.
+- It gets a little technical here,
+but you know, if I pull up, you know,
+- As one does - As one does a flip chart,
+now we can actually run this.
+So if you look at how
+the potential shows up,
+then what's measurable is
+not the phase directly,
+but it's the phase shift.
+Call it delta theta.
+Then the phase shift is line
+integral of A over the path
+or dotted with the path.
+So you get this.
+Now you can imagine, okay,
+let's add a constant to this.
+And if our setup is roughly,
+you know, we start here,
+one electron beam goes like this,
+and the other one goes like this,
+and these are symmetric, then
+the potential here will point,
+let's say in this direction.
+But here it will point in that direction.
+Let's say instead of A, we
+do A plus C, some constant.
+Then when we're taking the
+path this way, we'll be adding
+that C and we'll be dotting it with dx.
+But because that path is the
+exact same when we go this
+way, we just subtract it.
+So it cancels out.
+So the potential, yeah, it does show up,
+but in such a way that
+all the arbitrariness
+of the potential, it
+cancels out perfectly.
+- Okay?
+- It's a geometrical quantity solving a
+that has taken care of for which all
+that residual ambiguity has
+has literally canceled out
+- The potentials,
+being physical might sound strange,
+but the second interpretation
+is even stranger
+physicists in camp two maintain
+that potentials really are
+just mathematical objects
+and the fields are
+responsible for the effect.
+But in Tonomura's experiment,
+the magnetic field was
+completely confined within the
+solenoid, for this
+interpretation to be true,
+its supporters are forced to assert
+that fields can act non-locally.
+That is a field can influence
+things outside the region
+of space where the field itself exists.
+Many physicists find this
+idea difficult to swallow.
+- I think the idea of
+saying that these fields act
+non-locally undoes the reason why we have
+field theory, right?
+The great try of a field theory,
+which has served us so well
+for more than 100 years, is
+this notion, stubborn notion
+that local causes yield
+only local effects.
+- And yet Aharonov's own
+perspective has shifted from
+camp one to camp two.
+- While non-locality remains
+a controversial idea,
+a sizable portion of
+physicists do side with Aharonov,
+and the debate continues to this day,
+- I maybe have a third interpretation.
+- Good.
+- And I would love to get your thoughts,
+and if it's bad, please tell me honestly.
+- Okay 
+- So we did this other video about particles
+essentially exploring all
+possible paths all at once.
+And so right now we're saying
+either the potentials are real
+or fields are acting non-locally.
+But what if there's a third option
+where the fields are still local
+and it is the fields that
+are affecting the change,
+but rather it's the particles
+that are exploring all
+possible paths all at once.
+You could potentially even
+have some quantum tunneling
+effects going inside an
+area where there are fields,
+you know, as the electron or
+the wave function at least
+explores all possible
+paths, gets influenced
+by those slight bits
+where the wave function
+is inside the field.
+- I actually don't think
+that's ridiculous, Casper.
+That's how, that's for a
+strong ringing endorsement.
+I think there's a lot to that.
+- Okay,
+- If we could think about these things
+as it is indeed the quantum
+phase that's being affected,
+- Yeah
+- We can describe that phase in terms
+of quantum mechanical path integrals.
+I think that's a perfectly
+reasonable way to to frame it.
+So yeah, I'd buy that. - That's awesome.
+- I'm pretty sure this
+isn't the complete answer,
+but one thing which would be
+cool is if someone else takes
+this idea, you know, or
+maybe it gets inspired by it
+and they're like, actually
+that doesn't work,
+but here is how it does
+work and now we're closer.
+- That's right. That would
+be the best possible outcome.
+Well, the best possible outcome
+is, is you're just right.
+But the second best possible
+outcome is that, is that
+that nudges the community
+more broadly to ask those
+to ask new questions of
+familiar material. That's right.
+- One new question the
+community asked was,
+is there also a gravitational version?
+In 2022, researchers at
+Stanford tested this.
+A simplified version
+of their experiment works
+something like this.
+They shut up ultra cold rubidium
+atoms into a tube shaped
+vacuum chamber at the top of
+which was a tungsten mass.
+Now, atoms like electrons are also
+governed by a wave function.
+So they split each rubidium
+atoms wave function into two
+distinct packets, and they launched them
+to different heights.
+One was sent really high
+and got close to the mass
+whereas the other didn't.
+And then when the two
+collided at the bottom,
+this created an interference pattern.
+And when they let this interfere
+and accounted for all other effects,
+they could clearly see the
+phase shift as predicted
+by Aharonov and Bohm
+So it seems like the
+gravitational Aharonov 
+and Bohm effect is real. 
+If the results hold up the scrutiny,
+this is a huge finding
+because it suggests
+that the electromagnetic
+and gravitational potentials
+can influence reality at the
+most fundamental scale,
+even when all the fields are exactly zero.
+So does that mean that most
+physics textbooks are wrong
+or need updating?
+- Don't throw out all the
+textbooks. They're beautiful.
+We learn a lot, but that
+doesn't mean we're done
+and we should be open to surprise.
+And just because things haven't
+changed in let's say 200
+years roughly between say Lagrange
+and Aharonov-Bohm, they
+still could change, right?
+And they can sometimes change
+in in beautiful and surprising
+and very powerful ways.
+- I read somewhere that
+the reason you decided
+to do the AB effect was
+that you didn't really think
+potentials were something
+that was just a mathematical tool like
+most scientists believe.
