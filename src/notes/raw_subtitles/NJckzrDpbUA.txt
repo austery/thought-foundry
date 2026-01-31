@@ -1,0 +1,1492 @@
+I'm David Alan Grier. I am currently a writer and 
+author on issues of technology and industry and  
+things of that sort. In the past, I have been 
+a computer programmer, a professor, a software  
+engineer, president of the IEEE Computer Society. 
+I am the author of the book "When Computers Were  
+Human" and also the book "Crowdsourcing 
+for Dummies," among others. [typing]  
+Chapter 1 - Computers and the Industrial 
+Revolution Why is computing part of the  
+Industrial Revolution? The Industrial Revolution 
+is about systematizing production. And it's about  
+producing goods of uniform quality, if not uniform 
+design, at the lowest possible cost for the  
+largest possible market. If you want a date that's 
+easy to remember and just nails things down, you  
+go with 1776. And that's useful for my purpose as 
+a writer, because that's also the year that Adam  
+Smith's "The Wealth of Nations" is published. And 
+the start of that book is about the description  
+of industrial processes, how we came to them, 
+and how we used them to start building uniform  
+products that would have large markets. That would 
+increase the wealth of nations. And those first  
+chapters deal with the division of labor, the 
+specializations of tasks, and the systematization  
+of work. That book was highly influential, not 
+only in the industrial group, particularly in  
+London, in the cotton producing and in the 
+pottery producing fields in northern London,  
+but also amongst the scientific crowd. Because 
+they also had things that were large problems  
+that needed systematic approaches. Astronomy was 
+the first. We had used astronomy for navigation,  
+but there was a question of what was out there 
+and how did things behave that was being addressed  
+by people purchasing telescopes, or financing 
+telescopes, and then setting up a staff to collect  
+observations. And they would night after night go 
+to the observatory and map the heavens. And in the  
+process of mapping the heavens, it doesn't take 
+long to realize the data problem they generated.  
+Suppose it takes a minute or two a night to get 
+one star located. Okay, that means you can get a  
+couple hundred, maybe even a low thousands, of 
+stars a night. But the figures that you record  
+depend upon the hour of the day which direction 
+the Earth is facing, or your telescope is facing.  
+And the time of year, where the Earth is in its 
+orbit, you'll get different measurements of the  
+stars at different times of year. That means you 
+create a massive pile of data that needs to be  
+reduced to absolute coordinates, to a location 
+somewhere fixed in space. That requires a lot  
+of work and a lot of arithmetic. And it required 
+these observatories which could do the recording  
+with a staff of two or three astronomers to have 
+a large group of people to help them reduce these  
+data points to something that was absolute so 
+they could start fitting them into their map to  
+the heavens. That was a repetitive job. There was 
+a lot of it. And the issue that they all faced was  
+how can you do it for the least amount of money. 
+Part of what we think of as high tech in computing  
+and programming is also the task of systemization, 
+of regularization, of taking a complex thing that  
+could be done many different ways and putting it 
+in a form that can be marched through in a fixed  
+series of steps. At base, no one really needs to 
+know the return date of Halley's comet. There are  
+certain few scientists for whom it helps explain 
+the universe. But it's mostly just a reminder that  
+this object has been seen every 75 or so years 
+throughout history and has been recorded as such.  
+But at the end of the 18th century, a group of 
+French astronomers, knowing that it was coming,  
+asked could we figure it out? It was a test of 
+the science that had been developing before them,  
+of the theories of people like Copernicus and 
+Galileo. And the question was could they get a  
+date? Could they get the date that was closest to 
+the sun? And could they do it mathematically? And  
+that's actually a tough problem at some level even 
+now, although we have all the programs to do it,  
+because it involves the location of several big 
+oblogics and needing to move them through space  
+while you're tracking the comet around the solar 
+system. And what they did was divide the labor.  
+And that becomes a key theme in computing, a 
+theme that was worked out by human beings and  
+relatively modest mechanical devices before we 
+started putting electronics to it and rushing  
+off into programs and artificial intelligence 
+and all the rest. We worked out the problems of  
+computing because it was divided labor. And for 
+that first return of Halley's Comet, they had two  
+people working on the location first of the Earth 
+and second of Jupiter, because Jupiter is a major  
+influence on the motion in the solar system. 
+And then another astronomer tracked the comet,  
+which is pretty small and has little impact 
+in terms of moving other things around in its  
+orbit. And they figured out how to do that and do 
+that repeatedly, repeatedly and in a way that they  
+could double-check their work. And that's sort of 
+another one of the themes, that it's not just the  
+brilliant insight, it's not just the algorithms. 
+It's figuring out how to find mistakes, how to  
+find mis-additions, miscalculations, and even 
+misapprehensions, misunderstandings of what's  
+going on. That process, which took about a month, 
+really set the stage for the things that were  
+to come. In particular, it set the stage for the 
+nautical almanacs. As I said, you and I have lived  
+all of our lives without knowing the next return 
+date for Halley's Comet. And our lives will go  
+on. And when it comes, it'll be a big party, and 
+I hope it's better seen than the last time when it  
+came in the '80s. But it's just a party, it's just 
+watching an odometer flip. The bigger problems,  
+the things that involve production in terms 
+of our living our lives, of feeding ourselves,  
+clothing ourselves, providing shelter, we need 
+to produce goods and services. And the key thing  
+that was involved there was trade and ocean-going 
+vessels. And knowing where they are. Once you're  
+out of sight of land, how do you know where you 
+are? The ancient astronomers, pre-17th century,  
+had a lot of various methods that were somewhat 
+ad hoc that sort of involved, "This is spring,  
+we know this star is over our destination, we go 
+out, we point the ship at the star, and we pray  
+that we get there." They didn't know where they 
+were on the Earth's globe. And that required an  
+understanding of how to compute longitude and 
+latitude. And latitude is fairly easy to get,  
+at least in the Northern Hemisphere. Longitude is 
+a lot harder, and it requires knowing where stars  
+are relative to a fixed point on Earth. And 
+that knowledge, you have to codify in a book,  
+and you have to do it multiple years in advance, 
+because you give these books to captains and turn  
+them loose across the oceans, far away from 
+wherever that fixed point might be, which  
+in the early days of exploration were one of 
+three points, London, Amsterdam, or Paris. To  
+produce those books accurately, you needed a 
+system, you needed a system that allowed you  
+both to do the calculations, and then undo them in 
+a way that was different, because one of the very  
+early pioneers of calculation, Charles Babbage, 
+discovered what he called Babbage's Rule, which  
+is two calculations done the same way by different 
+people will tend to make the same errors. There  
+seems to be, in the process of hand calculation, 
+mistakes that trip up everybody. Not all the time,  
+but there's a tendency that if one person makes 
+the mistake, the next person will make it. So you  
+need to approach the problem in a different way, 
+and in particular, in a different way that exposes  
+errors. And that was thrashed out in the late 
+18th century in the nautical almanac in London,  
+and in a comparable publication in Paris. They 
+figured out not only how to divide, because there  
+were multiple objects they wanted to get the 
+locations of, so they divided that amongst a  
+variety of people, and then ways of undoing those 
+calculations in a form that exposed the errors.  
+And that was a key innovation on their part. And 
+that led to these publications, and that leads  
+to the age of exploration and the start of global 
+trade, global oceanic trade, trade that requires  
+boats to go out of sight, and that of course leads 
+very directly to industrialization in the modern  
+world. Same was true with surveying. In the United 
+States, there was, by the early 19th century,  
+there's the problem of figuring out where the 
+United States actually is, whether it's bounds,  
+whether it's limits. And that involves surveying 
+first the coasts, and then moving in. And that  
+again required, they used nautical almanacs, 
+again, to figure out the locations of places.  
+But a great deal of calculation, because you're 
+basically laying down across the earth a bunch  
+of triangles. And you can figure out where two of 
+the corners of the triangle are, and from those  
+two corners, you can get to the third, and then 
+from that third, that gives you a new triangle,  
+and you can keep marching off across the land. 
+That, particularly when they got to California,  
+proved to be a hard thing to do, that it was 
+very difficult to get all the calculations you  
+needed to get that vast space well surveyed. And 
+in particular, that was needed because you had a  
+bunch of people who thought they owned land there 
+somewhere. And by thinking that they owned land,  
+they had to know where it was. They couldn't say 
+from this rock to that mountain, to that tree.  
+They had to have more exact points. And the 
+treaties that shaped the West and shaped the  
+United States basically required the new states 
+to figure out land ownership and the location of  
+land. And so they all faced the same problem of 
+how do you take large amounts of data and process  
+it, and that required them to think industrially, 
+to think how the two pieces went together. And  
+so there evolves other systems to try to do 
+that quickly, to get first approximations,  
+to be able to get numbers close enough so that 
+the errors on borders are relatively minor and  
+can be worked out in local negotiations. But it's 
+that process of systematizing, correcting errors,  
+finding approximations, and making them work 
+as civil systems that was what really drove  
+me to start looking at human calculation and 
+what was the foundation that it laid for the  
+modern computer age. Those lessons were first 
+approached in largely the 18th century and by  
+people doing work by hand and doing it largely but 
+not exclusively for astronomy or surveying. One  
+of the aspects of building systematic processes 
+around numbers, around calculation was that very,  
+very quickly people started asking, "What can you 
+do with machines?" The idea of an adding machine,  
+a machine that could add two numbers, goes back 
+to discard. It has a long, long history. And the  
+idea that you can represent numbers by the turning 
+of a wheel and then if the wheel turns all around,  
+it turns the next wheel, that was well worked 
+out early. However, it really wasn't part of a  
+process. So something that you could rely on. 
+And when you talk about industrializations,  
+you're basically building processes that can 
+be done by people who at base don't know what  
+they're doing or more accurately. They are 
+doing something that they gain a skill at,  
+that they understand their steps and they learn 
+how to do them efficiently, but they don't  
+understand necessarily the science and the ideas 
+behind them. At the start of the 19th century,  
+there's a great explosion in the interest of what 
+machines, levers, gears can do. And there is a  
+study of linkages, for example, of mechanical 
+arms that connect together. And what they could  
+do that, I don't think it's quite lost. I'm sure 
+there are mechanical engineers who will give me  
+a lecture on this. But it's something that has 
+certainly vanished from our daily contemplation  
+and contemplation even of non-specialized 
+students. And one of the people who got fascinated  
+with this was an Englishman named Charles Babbage. 
+He's a start of the 19th century. His father was  
+a banker. Because his father was a banker, his 
+father was also involved in the Caribbean trade.  
+And that meant he was familiar with boats going 
+off to the Caribbean to collect largely sugar and  
+bring it back to the United Kingdom. And it's at 
+a point where systematized shipping is starting to  
+really take hold. It really doesn't kick in until 
+the start of the industrial age, where boats run  
+on a schedule. And you know the schedule and you 
+know more or less the date they're coming. Babbage  
+attends Cambridge. He learns astronomy, gets 
+fascinated with it, fascinated with mathematics.  
+And then starts pondering, how can you mechanize 
+mathematics? What can you do with it? He had  
+written a couple of things while he was in 
+college that in many ways was filling up spaces  
+and filling up shapes with smaller versions 
+of itself to see how you could approximate  
+them. And what systems would work and what 
+wouldn't. And sometime during that early period,  
+he got involved with an article almanac. He ends 
+up being on an advisory board for it. And this  
+is when he discovers his rule that two people 
+doing the same calculation the same way tend to  
+make the same mistakes. The second job that's 
+starting to come up and he gets involved and  
+interested is the understanding of insurance, of 
+probability behind it. In particular, insurance  
+is at some level a savings account, nothing more 
+than that. And it's savings that you get to cash  
+in the savings account when you die or if it's a 
+health insurance, which is later in the century,  
+when you get sick. That means the people running 
+the bank need to know how much money they are  
+likely to pay out. And the understanding of 
+that, the mathematics of that, the mathematics of  
+probability, is just really starting at, again, 
+it's an industrial revolution start, but it's  
+really starting to take hold in industrial life at 
+the start of the 19th century. And it involves the  
+creation of another kind of table called mortality 
+tables, which tell you how long someone is likely  
+to live given that they've lived this long. And 
+they are highly dependent on data and on what  
+people. You don't do them for a huge population 
+because there are differences in the way people  
+live, in their diets, in the work that they do, in 
+the kinds of families that they have. So you tend  
+to do it for smaller groups and that means you 
+have to do a lot of these tables and you have to  
+process a lot of data. Babbage pondered it and he 
+began to realize that for both astronomy and for  
+these insurance tables, there was a common kind of 
+calculation that could be very useful, but was by  
+the standards of the time, very time consuming. 
+And it's basically fitting a curve to data. You  
+have these points and you want a curve to go 
+nice and smoothly through them so that you can  
+make estimates between the points and you can go 
+project out beyond the end of your curve to figure  
+out where it might be going. And it dawned on him, 
+on Babbage, that that calculation was in effect  
+could be reduced to a lot of additions, a very 
+large number of additions and subtractions. And  
+that meant that he could chain together a bunch 
+of these adding machines and produce a machine  
+that could indeed do that by just grinding away 
+at a crank or as he thought of it, be produced by  
+steam. He was working in the very early age of 
+railroads and steam engineering and he saw his  
+machine as very much in the heritage of locomotive 
+design. And so he produced a machine with very  
+large gears and numbers and the dials on it were 
+made out of well machined brass. And the process  
+was probably beyond the engineering ability of his 
+time. His lead engineer pushed British engineering  
+substantially and advanced at both working for 
+Babbage and later. And it was also probably the  
+wrong concept to build from. Machines are very 
+often done as metaphors. We build a machine to  
+do something like this. And Babbage was building a 
+machine to do calculations like a railroad engine.  
+And railroad engines were not completely safe and 
+secure then. And they were still learning a great  
+deal about how to build them. Babbage never 
+got his working. He built a number of models.  
+He built several that demonstrated the proof of 
+concept. He could fit not the curve he wanted,  
+but a much simpler curve to data and in a machine 
+that got through the calculations we know at least  
+once. And then he built a lot of rough parts 
+for the machine he wanted to build. And because  
+of that Babbage and his ideas left a legacy 
+about what they were trying to do more than  
+what they actually did. What he was trying to do 
+was systematize calculations so he could handle  
+large scale in both cases calculations, fitting 
+curves to data and things of that sort. He had  
+contemporaries that were intellectually in terms 
+of direct connection, far more important, George  
+Bool. George Bool wrote a book called On the Laws 
+of Thought. We now know those laws of thought as  
+Boolean algebra, which is the fundamental tool 
+underlying all of the analyses that design  
+electronic circuits and computers. That connection 
+has been well known and understood forever.  
+Babbage vanished for a bit and also the exact 
+intellectual connection is not as clear unless  
+you look at the systemization, the building of 
+an industrial process, the work to lessen the  
+cost of computing and to move it into a bigger 
+environment. In that sense he had a tremendous  
+impact and remains an important figure to this 
+day. Almost 30, 40 years after Babbage did it, a  
+Swedish father and son built one of these machines 
+using Babbage's idea and built it and it was fully  
+functional using clock technology. And clocks are 
+much smaller, they're much easier to work with  
+at that scale, they require less energy and there 
+were lots of standardized parts they could borrow  
+from. In particular, escapement clocks, which were 
+the dominant technology until not that long ago,  
+have an important role in science writ large 
+and in computing specifically. Clocks were one  
+of the first sophisticated technologies that 
+had wide distribution in the 18th century.  
+The escapement clock, clocks with a pendulum with 
+a little gear and a little thing that goes click,  
+clock, click, clock, tick, tick, tick, tick, 
+tick. Technology that were novel, they were often  
+packaged in ways that made them in effect a luxury 
+item, something that the rich would have. But  
+very quickly they became common and they allowed 
+industrialization, for example, by setting times  
+when a factory would be open. You don't need a 
+clock if you're running a farm necessarily. There  
+might be a few things where knowing an hour or 
+knowing a minute is useful. But for the most part,  
+you're following natural rhythms of the day and 
+those natural rhythms have a very wide margin of  
+error. You can miss them by 15 minutes, 20 minutes 
+and you will be just fine. If you're setting up a  
+factory, if you're bringing people together 
+to work together, to collaborate together,  
+and if in particular you're dividing a task up 
+into a linear process, which was one of the very  
+first things that happened. Adam Smith writes 
+about making pins and needles. And in particular  
+it's a process of cutting the wire, sharpening 
+the wire, putting a head on it for a pin,  
+putting it in the paper that you're going to sell 
+it with and moving it on. It's a linear thing.  
+You have to do one step before the other. And if 
+you're dividing it up across different people,  
+it means you have to have people for all the 
+steps. And that means they all have to be there  
+at the same time. And you really needed clocks to 
+be able to do that. Scientifically, it made a lot  
+of measurements more interesting, in particularly 
+the measurements of location. You needed that to  
+determine longitude. You needed that to determine 
+location on the earth. Because of that, it became  
+an important technology for disseminating ideas, 
+for bringing them to people who became fixated  
+with clocks with how they worked, of how they 
+could improve them, of what they could do with  
+them, of clockwork mechanisms that became part 
+of other technologies. In computing, the clock,  
+the tick-tock of the escapement ratchet, became 
+part of computing because it became a drumbeat  
+that stepped through the basic mechanisms 
+of calculating devices. As you would go, you  
+just wouldn't let your machine run wild. You would 
+have a device that was going tick-tock, tick-tock,  
+tick-tock, that was controlling the other 
+elements, the other parts. And that allowed them  
+to think about machines that could do calculations 
+in a systematic orderly way. It gave them a method  
+to control them. But more importantly, it gave 
+them a technology to build off, to think about, to  
+say, "Okay, we know this works for doing time. How 
+does it work for collecting data? How does it work  
+for timing additions? What can we do with it?" And 
+so these clocks, clockworks and clock mechanisms  
+are deeply imbued in industrialization, deeply 
+part of calculation, and part of the tools that  
+people used to think about how to build the next 
+generation of devices and how to use them. Chapter  
+two, the power of standardization. Standards are a 
+key part of the industrial world. Building things  
+to standard models, standard parts, goes almost 
+all the way back to 1776. The one that we usually  
+point to is the Remington factory in Connecticut 
+and the tools that they used to build standard  
+firearms. But the real standardization process, 
+the one that has created the modern age, is much  
+newer than that and has a much broader scope 
+that involves the mathematics of calculation,  
+that involves data much more profoundly, and 
+in turn influenced how we calculate and how we  
+work with data. The fundamental goal of all 
+of this is reducing cost, reducing effort,  
+and also transferring ideas to the least 
+well-trained individuals. If you're going  
+to make large-scale data processing work, you need 
+to have people involved who are not as educated as  
+yourself, who can deal with a part of it, who can 
+follow instructions. If you look at the original  
+calculations done for nautical almanacs in the 
+late 18th century, the 1780s and 1790s, they are  
+done by individuals who would lay them out on 
+a piece of a paper, each used their own method,  
+each had little tricks for identifying things, 
+for remembering the exact calculations they were  
+doing. There would be a collection of additions 
+and subtractions, a few multiplications, and if  
+you could at all avoid it, no long divisions. 
+There is a collection of them that belonged to  
+one of the human computers, as they were called, 
+that worked for the British nautical almanac who  
+lived in the United States, and he would do his 
+work here and send them across via a boat to  
+London, where they would be incorporated in 
+the nautical almanac. He had his own way,  
+and he also had a rather cramped hand. He could 
+not write on a straight line. And if you go over  
+his materials, you have to be very careful to make 
+sure you're on the right line of the calculation,  
+and you haven't jumped to the wrong one. He could 
+make that work, and he was quite successful at  
+it. Not everyone could decode that writing. By the 
+start of the 20th century, you see people doing it  
+on graph paper with little squares so that all the 
+rows line up. You start seeing people identifying  
+the operations line by line by line, particularly 
+in the mid-19th century in England when they were  
+doing title recordings. We did those here as well, 
+but they were ahead of us in systematizing them.  
+We did that a little bit later in the 1870s for 
+weather. Weather requires lots of data, because  
+if you look at the weather channel, if you look 
+at your phone and watch the clouds move across,  
+there are clouds that will hit one part of our 
+metropolitan area that will miss other parts,  
+and they won't be that different, that far apart. 
+So there's a lot of data you have to have to be  
+able to get accurate weather forecasts beyond 
+just the broad statement that it might get this  
+hot for this metropolitan area on this day. When 
+we set up a network to start doing that, again,  
+we had people collecting data. There was more data 
+to collect. It was a little more subtle about how  
+you get rainfall and precipitation and humidity 
+and required a certain amount of arithmetic,  
+and it required that you be able to work 
+with people who had not gone to college,  
+because you weren't going to get enough of them if 
+you restricted yourself to just college graduates.  
+And that forced the weather people and scientists 
+as a whole to ask about standardization. How do  
+we follow the industrial patterns and move things 
+into ways that are always done the same way, that  
+always use the same methods, that always produce 
+the same results, and that anyone can interpret?  
+In terms of the modern sense of standardization, 
+I really pin it on World War I more than anything,  
+and if you wanted one individual who was more 
+responsible for it than any other, who was a  
+major leader, it's Herbert Hoover. Hoover 
+was an engineer. He was a mining engineer,  
+which means the big thing he's building is tunnels 
+and walls and things to hold up tunnels and  
+concentration plants, which are basically pools 
+and other big things. But he also grasped that  
+engineering methods could be applied to other 
+products if there was a standardization. And he  
+worked in an era when things that we take for 
+granted, like bolts, you know, you have a nut,  
+you have a bolt, you put them together and you 
+can screw them, and they work because they're  
+the same. We're in standardize. You buy them 
+from one manufacturer, they're not going to fit  
+from another one. And he argued that there were a 
+large number of things that if they were produced  
+to standard forms, would increase the scale of 
+our industrial processes, would allow us to make  
+more products for more people at lower costs, and 
+expand our ability to do things. And that led to  
+a variety of institutions, the National Institute 
+of Standards, then called the National Bureau of  
+Standards, being one of them. And private standard 
+organizations, my former organization, the IEEE,  
+the Institute for Electrical Electronic 
+Engineers, has a big standards group that  
+deals with electrical standards. There is 
+the American National Standards Institute,  
+which deals with a lot of other standards, 
+including a lot of standards involving computers.  
+If you have everyone going off and doing their 
+own thing, that can be very good, because it  
+means you're exploring and figuring out what 
+works and what doesn't work. But at some point,  
+you've got to start focusing on production, at 
+least for certain problems. And in those cases,  
+you need standards. And as the computing age 
+built, they more and more started looking at  
+standard ways of doing calculation, standard ways 
+of expressing algorithms, standard languages for  
+expressing programs. And all of these became a 
+key part of computing that would have been a lot  
+more expensive and a lot slower if it hadn't 
+had the standards there. In our modern age,  
+one of the things that companies do, that 
+individuals do, is ask, "How can I use these  
+to solve my problem? How can I build and extend 
+and expand them?" So at this point, it's so  
+deeply connected with computing that there's 
+very little you can do without understanding  
+them. Yet at the start of the 19th century, they 
+were at best vaguely understood and vaguely used.  
+We live in a standardized world and we live in 
+an industrialized world, and we industrialize  
+lots of things. And one of these things that 
+we do, we produce at large scale and low cost,  
+is education. Prior to the early part of the 
+20th century, really in the late 19th century,  
+there were some efforts, but education was 
+entirely a local affair in the United States.  
+It was something that a lot of people weighed 
+in and provided books and sample curriculum.  
+There were publishers primarily in New York 
+that did textbooks that were commonly used,  
+readers, for example, that helped kids grow up. 
+But if you think about it, that outside places  
+where there was large and easy transportation of 
+children, in an age before there were school buses  
+and paved roads often, classroom was one room 
+teaching. It was a group of kids together with  
+one teacher who was there for a short time and 
+did the best they could and moved on. 20th century  
+starts to move that forward. It does go back into 
+the 19th. But Carnegie's work really comes in the  
+20th and it's largely dealing with higher ed, 
+with colleges. And I suppose technically he's  
+Carnegie. This is the founder of what becomes U.S. 
+Steel. In colleges, we have a standard amount of  
+education that'll get you a bachelor's degree. 120 
+for a bachelor of arts, 146 hours of instruction,  
+that'll get you a bachelor of science. You take 
+a certain number of classes. The classes have to  
+have a certain distribution. They have to meet 
+for so long. These standards were developed  
+out of work done by the Carnegie Institution. He 
+funded studies of a wide variety of subjects that  
+asked what's the best way to teach them. The most 
+famous is the 1910 study of medical education.  
+That's the Flexner Report. The Flexner Report went 
+and looked at how medicine was being taught to  
+doctors. What kind of things were being taught? 
+What were the different practices? What were  
+the best practices? And how can we produce 
+the greatest number of doctors with uniform  
+education at the least cost? And in the middle of 
+that report is a line that refers to how we must  
+devote our education in medicine to people who 
+can devote their entire careers to medicine. And  
+a lot of deans flagged about it at universities 
+and said, "Oh good, we don't have to worry about  
+women anymore because women take time off. Women 
+have families, women have other duties." And prior  
+to that, there were roles for women in medicine. 
+They dealt with what you might expect, babies,  
+pregnant women, and dying old people. But they 
+were part of the medical community and the Flexner  
+Report shoved them out the door. And if you go to 
+the early age of the suffragette movement in the  
+United States, the women who picketed the White 
+House, the women who wore the yellow sash, the  
+women who lobbied state governments for the vote, 
+they were overwhelmingly the daughters of doctors  
+because they had time, they had money, and they 
+had a grudge because they weren't going to get a  
+position in the medical community, perhaps other 
+than being a nurse. And what happened after the  
+Flexner Report, this is wandering away from 
+standards for a moment and back to computing.  
+The sciences looked at women who had been 
+studying medicine, who had been part of medicine,  
+and largely said, "Your nice people, please go 
+away." Chemistry said, "We can't have women study  
+chemistry. It will hurt their ability to have 
+children and probably hurt the men's ability to  
+have children too." Biology was not the field that 
+we know it today, nor was physics. Mathematics,  
+being somewhat desperate for enrollments then as 
+now, said, "Women will take them. They can always  
+be high school teachers." And in an instant, 
+the teaching of high school mathematics becomes  
+feminized, that women see an opportunity 
+and they grab it. And they also grabbed  
+jobs and calculation and other things because 
+medical education was being standardized. This  
+applied to other forms of education as well. 
+But it produced a standard form of a university  
+that we in the United States understand and know 
+how it works. But the roots of those standards,  
+there are a number of other organizations that 
+have contributed to it, were in a series of  
+reports that the Carnegie Institution put together 
+in the early part of the 20th century. In fact,  
+there was a time that the college course credit 
+was called the Carnegie credit. That has largely  
+passed from memory. But there were institutions 
+that said, "We will become richer. We will be more  
+productive. We can give more to more people if we 
+do it in standard ways." And of that, Carnegie was  
+important, Hoover was important, but so were a lot 
+of other organizations. And computing benefited in  
+it because without it, it scribbles on a page. 
+With a standardized sense, you can start getting  
+people to do it, who are not trained in it, who 
+have not the education that the directors of the  
+project have, and that greatly increased the power 
+and the use of computational methods. Chapter 3,  
+Computing the Human Experience Right now, where 
+we're sitting in Washington is the old patent  
+office. And back in the 1850s, that was the place 
+the first telegraph was connected in the United  
+States. It was from here up to Baltimore. And 
+the first message that went across it was the  
+famous "What hath God wrought?" And it was just 
+people who were madly in love with technology,  
+going, "My God, we can talk to Baltimore, and 
+it's like it's right there, not whatever it is,  
+25 or 30 miles up the road." We don't remember 
+the second question. The second message was,  
+"What time is it there?" Because at that point, 
+every city had a local time that was measured by  
+when the sun was directly overhead at noon. And 
+Baltimore is about seven and a half minutes ahead  
+of Washington. And one of the things that it told 
+the scientists who were in the room, and it was  
+a political group, but there were also a number of 
+senior U.S. scientists at the time, was that you  
+could collect a lot of data about where things 
+were by measuring time differences. And they  
+immediately set up a process, and this again 
+points, I think, to the industrial connection.  
+A process for determining differences in time 
+between cities that could be done by people who  
+basically were just following instructions and 
+really didn't know what they were doing beyond  
+counting clicks on a clock. They could sit there 
+and they could ping messages back and forth. They  
+did not use the word ping, I should say, at 
+that point. But send clicks back and forth,  
+count clock motions, and at the end of the day, 
+they would write that down. And that piece of data  
+would tell you the difference in time. That was 
+used very quickly to collect lots of data about  
+time differences all over the East Coast and 
+very quickly over the United States. And again,  
+it had to be systematized and organized to figure 
+out how it worked and what were the differences,  
+and how could that be used for commercial 
+reasons. And the big one that started to come was,  
+of course, railroad trains. Because most places 
+in the United States in the 19th century,  
+you had one track between here and Baltimore, or 
+one track from Baltimore to Philly, and you had  
+trains running both directions. And if they came 
+together, that was bad. They had places to pull  
+out, but how do you know someone's past you? How 
+do you know if you're reading the time schedule  
+right? And getting a unified time, which was in 
+place by the late 19th century, helped eliminate  
+a large number of train wrecks and delayed trains 
+and other things that disrupted production,  
+that disrupted the transportation of goods and 
+services. So all of these things are deeply,  
+deeply imbued in computing, and computing is so 
+tied with the issues of production, of getting  
+things done quickly, easily, systematically, and 
+of capturing human experience. In the early days,  
+the human experience was largely capturing natural 
+experience. What's the time difference? Where's  
+the locale? When does the sunrise here? When does 
+it set there? But by the end of the 19th century,  
+they're starting to look and capture human data, 
+human activity, the kind of things that people did  
+and worked and behaved so that they could use that 
+for making policy decisions, for making marketing  
+decisions, for deciding how much to produce. 
+That became the interesting thing. And again,  
+as just you went from doing one comet to doing 
+nautical almanacs to doing mapping the sky and  
+to mapping the earth, this was another big jump in 
+the amount of data collected. The census was done  
+every ten years, it's in the Constitution, and for 
+the first hundred years or so, it was largely an  
+office that appeared every ten years. They hired 
+a bunch of people and told them to run around and  
+count, and then they got all the stuff back in 
+Washington, tabulated it up into how many people  
+were in each city and each state, and published 
+it, and it was straightforward and fairly easy. By  
+the 1840s, they're starting to ask questions, how 
+many people live in your household, how many men,  
+how many women, how many children. They began 
+looking at issues of public health, of disease,  
+of general healthiness. Landowners, what kind 
+of work people did, their ethnic background,  
+certainly a slavery built, the problem over 
+slavery, built in the 1850s, that became an  
+issue. And that meant we were collecting more and 
+more data, and the censuses took longer and longer  
+to do, and by the 1870 census, that takes most 
+of a decade to complete. The 1880 census is never  
+really finished. It still isn't really finished to 
+this day, there are publications, but there's data  
+out there that we haven't officially worked with. 
+And as 1890 began to approach, the head of the  
+census said, "We've got to do something. We've got 
+to systematize it. We have to industrialize it.  
+We have to reduce the cost." And so he put out a 
+request for someone who could build machines that  
+could count people. And the process that came out 
+that won the contract formed a company that was  
+known then as the Hollerith Tabulating Company, 
+becomes something we all know a little better,  
+IBM. And they proposed one that would send people 
+out to the field, not with a pad of paper and  
+something to write things down, but with a 
+punched card and a little machine that she  
+would punch holes in it with. Those cards could 
+be taken back and they could be put on a machine,  
+and the machine would count up how many women, how 
+many men, how many people over 45, how many people  
+living in this city. And it sped the process so 
+greatly that by 1893, the preliminary census was  
+completed, and it was being widely advertised 
+and widely used. 1893, there was a big world's  
+fair in Chicago, and the results and the machinery 
+that produced those results were on display and of  
+central exhibit at that fair. People were talking 
+about the results in particular. At that fair,  
+there was a historian who got up and said, 
+"By reading the recent census reports,  
+I can conclude that we no longer have a frontier. 
+America is a settled country." And that produced  
+a change in perception of ourselves, and that we 
+only reached it because we were able to handle  
+that scale of data. They were, as is so commonly 
+the case, in love with their machines. They were  
+very proud of them. They were very proud of what 
+they could do, of the results that they could  
+obtain, and the speed with which they were able 
+to tabulate the population of the United States,  
+to the point where they started falling in love 
+with the punched cards. There is an assistant  
+director of the census who wrote this stunning 
+document about how he could hold up a card and  
+he could see the person in the card. Now, I have 
+no doubt that people got used to them enough and  
+said, "Yep, that's the manhole, that's the 
+womanhole, that's the kidhole. I can quickly  
+scan and guess what kind of person this is." 
+But it went beyond that. It was an enthusiasm,  
+as I said, that's common with new technology, that 
+he would hold it up and he felt that when he was  
+putting it through the tabulator, he was working 
+out the future of that person. And the bell which  
+indicated that the card had been processed was the 
+bell calling that soul to judgment of heaven or  
+hell. It's sweet and it's endearing, and it also 
+shows how as we start approaching our life through  
+data, through the large processing of data, we 
+start seeing ourselves in new ways and we start  
+seeing something that we couldn't see before. We 
+couldn't see before, we get a hope, an intuition,  
+and that that intuition provokes an imagination 
+and a love that we didn't have before. Now, that  
+often comes crashing down, but nonetheless, there 
+was a time of falling in love with large-scale  
+processing that came from seeing ourselves 
+in new ways that were driven by data. Chapter  
+4 - How Computers Change Us How long have we been 
+going? I'm a professor, I can talk for hours.  
+In the 1940s, there was again a lot of computation 
+that was needed for the war, in particular  
+bombing, hitting things, and specifically shooting 
+down aircraft. Shooting down aircraft is basically  
+like duck hunting. The hunter must search his 
+lead and aim ahead of the duck, if he is to hit  
+it. You want to get up there, you want something 
+to explode near the aircraft, and if it explodes  
+near the aircraft, you get a hit. And unlike duck 
+hunting, you don't set your dog after it, but the  
+effect is quite similar. But because of the great 
+altitude and speed of a bomber, the anti-aircraft  
+gunner cannot rely on dead reckoning. His 
+leading must be a careful mathematical  
+calculation. That's a hard mathematical 
+problem, because you've got a moving aircraft,  
+you've got a gun that is probably moving on a 
+ship, or if it's on fixed land, it's swinging,  
+it's moving back and forth. You're computing 
+part of an arc, which makes it harder. They  
+had methods from the First World War where they 
+could estimate what the whole curve looked like,  
+but they were hitting something on the ground or a 
+ship that was fixed. And that was easier. Shooting  
+things down out of the air is tough, and getting 
+where you want your shell to explode is tough.  
+What was then the Army Air Corps invested a lot 
+of money in figuring out how to do that, and in  
+particular at the University of Pennsylvania. They 
+employed a couple of machines that had been built  
+there to simplify it and just produce reams and 
+reams and reams of data that were taken to another  
+site and reduced into instructions that you could 
+give to pilots, to gunners, and other soldiers.  
+The group in Philadelphia, in working with their 
+machine, which was what we now call an analog  
+machine, it used amplifiers and tubes to draw 
+an arc that could have been drawn on a screen.  
+It was usually drawn on a piece of paper. One of 
+their numbers realized that you could do it more  
+generally by doing the actual calculations. You 
+could draw the curve by stepping along the line,  
+and from that you could do more than just do the 
+curve for a shell. There are other problems that  
+you could solve with it. They pitched this to the 
+Army and set up a process to build this machine,  
+and this is a key moment in American computing 
+history. This machine, which would get the  
+name E-NIAC, Electronic Numerical Integrator 
+and Calculator, was a very direct precursor  
+of the modern computer, and it operated in a 
+substantially different way, but nonetheless  
+a very large number, the first generation 
+of computer engineers, got their training  
+on that machine. And by first generation, I mean 
+really the next eight to ten years. In doing that,  
+one of the leaders was a mathematician from the 
+University of Michigan, Herman Goldstein, and he,  
+one of the train stations around Philly, noticed 
+a scientist that he knew from Princeton named John  
+Von Neumann. Von Neumann was at the Institute for 
+Advanced Study, which is an institution of higher  
+ed that has no students, takes no tuition, gets 
+famous people to come and just think. Einstein was  
+one of the people there. He went up and introduced 
+himself, said he was working on calculations,  
+and Von Neumann said he was very interested. Could 
+he come and look? Von Neumann was a mathematician  
+very skilled, could very quickly grasp ideas. He 
+had been interested in calculation for a long,  
+long time, and had studied some of the computing 
+groups, particularly the one in London, those  
+doing the Nautical Almanac. And with the leader 
+of that group, the two of them had sat down and  
+worked out things that were really the precursor 
+of what a program would look like. What did it  
+mean to program a device? What did you systematize 
+calculation to a set of instructions that would  
+always be performed the same way? Von Neumann goes 
+to visit the ENIAC, which is at the University of  
+Pennsylvania, and gets very excited about it and 
+starts thinking about how to expand it and develop  
+it. And wrote a report that has since remained 
+the controversial beginning of the computing age,  
+because it defined what a modern computer was, and 
+it left off the names of all the people who had  
+been working on the ENIAC. Von Neumann abstracted 
+what had been done there. And it dawned on him  
+that the machine that they were really trying 
+to build, not the one that they were building,  
+but the one that had the most flexibility and the 
+most ability to do things, had three elements. It  
+had a place where you could store numbers, 
+a scratch pad, if you will, memory that we  
+now know it. It would have a processing unit. 
+Didn't describe what that processing unit did.  
+At the time, it was generally assumed that it did 
+addition, but it could do other things. It could  
+do the other arithmetic operations, or it could do 
+other operations still. And that there was a third  
+element in it, and that was a program decoder. 
+That is to say, something that would read signals  
+from the memory, figure out what those signals 
+meant, and send them either back to the memory  
+or send them to the processing device to do some 
+activity. These three elements in multiple forms  
+are part of every single computer we have today. 
+Some do arithmetic, but not all of them. Some of  
+them do just various forms of symbol processing. 
+Some do a variety of other things, but having an  
+instruction decoder, a memory, and a processor 
+is part of everything. The key piece of research  
+that laid the foundation for the Internet was the 
+work on ARPANET. There's a lot of work out there  
+that's done, but the first systematic network that 
+was built using the principles of sharing lines,  
+of splitting them up, was indeed the ARPANET. 
+And the people who worked on that then turned  
+around and eventually worked on the Internet. And 
+the ideas that they work are clearly the Internet  
+builds on the ideas that they put together for the 
+ARPANET. It connected a group of computer research  
+sites that were at primarily major universities. 
+It was funded by the Department of Defense. One  
+of the things that that department wanted to do 
+was to build computer science into a recognizable  
+discipline. At the time, it was not. There were 
+very few places you could study it. If a few you  
+could, you were considered to be studying a form 
+of electrical engineering. My early study of it,  
+which was from that period a little bit later, 
+I studied mathematics because I couldn't study  
+it. I had a father who was in computing, which 
+gave me access to lots of stuff to learn it,  
+but I still couldn't study it. Their goal 
+was to build a community. And in that goal,  
+a whole lot of other things came out that were 
+unspoken or sometimes very actively spoken about  
+what communication should do. The first was that 
+there was always going to be a human-to-human  
+element. Email was not the first application. It 
+was probably the third. And people figured out all  
+sorts of ways to do it on the fly before they got 
+a good system that worked. And in fact, that was a  
+very important early standard, that they built a 
+system that putting a file with a message in it,  
+it would get to the right place without you 
+having to intervene. That took a couple years,  
+but it got there and it was working. The second 
+part that they grasped and articulated was that  
+it was not only person-to-person, but that 
+there would be repositories, that there  
+would be collections of information that anyone 
+could go and get. They would be called libraries,  
+they would be called servers, they weren't quite 
+sure. They would be organized in various ways,  
+but they would involve searching and looking 
+for things. And that concept of searching is  
+crucial and we have entirely forgotten that it is. 
+It's one thing to have access to everything and  
+everybody. It's another thing to find the person 
+you want and get that little bit of information  
+that you're hoping to use. Searching was an 
+early computer problem. If you look at the early  
+algorithms from the late 40s, you see lots of 
+written on efficient ways to do multiplication and  
+clever ways of doing long division. And every now 
+and then a little thing will bubble up and say,  
+"Oh, if you wanted to search through a bunch of 
+records, this is how you would do it." There are  
+papers, I think you can find one from '49, but you 
+really don't start seeing that kind of question  
+until the early 50s. And it very soon becomes 
+a major issue of how you do it and how you do  
+it well. If you're searching for names, you know 
+that that name is a part of a record. That's easy.  
+If you're trying to search on qualities, that's 
+harder. A group of Stanford graduate students in  
+the early 60s had this great idea, which we all 
+have borne the burden of. Wouldn't it be great to  
+put people's qualities into a database and have it 
+search through them and match the couples that are  
+most alike? It was an early form of computerized 
+dating. They had a party, they ran the program,  
+they distributed the outcome to everyone who was 
+there, including couples who had been dating. I  
+believe there were some there who were even 
+married. Needless to say, the walk home that  
+night was not as much fun as they hoped it had 
+been. They were excited by the process. The thing  
+energized them incredibly. But there are people 
+that said, "What do you mean I don't match with  
+this person? I match with that one. What do you 
+mean that I'm closest to these qualities rather  
+than those qualities?" I mentioned about the 
+Hermann Hallruth machines, where people got very,  
+very excited about the cards and saying they could 
+see human beings in them, see histories in them,  
+see their future in them. That comes up in the 
+literature again and again, each time a new  
+technology comes that allows us to see ourselves, 
+our activities, our data in new ways. The PC was  
+that very much in the 70s. People saw this as a 
+personal device, something that I would use in a  
+way that we have forgotten was novel. The idea 
+that you had a computer that was solely yours,  
+that you could use it and have complete control 
+of it, was quite new in the 70s. People had been  
+able to work one-on-one with computers before. 
+That's not anything special. But it's special  
+that it was yours, that you could make it. And 
+you see it in customizing computers and putting  
+stickers on them. We still go on with wallpaper 
+and other things that make it ours, that make  
+it the reflection of us, that show our ideas are 
+important, that our work and that our activities  
+are positive, and that they can be reflected back 
+to us by our machine. But in working with systems,  
+the fundamental rule is we adjust ourselves. We 
+adjust our thoughts. We adjust the way we work.  
+And that process involves us adapting our thought 
+and our habits and the way we look at the world  
+to the way those systems are designed. We talk 
+about how we go shopping, about how we interact  
+with various things. These are our actions 
+to systems that are built on algorithms and  
+other processes that have helped discipline 
+us. And you see that in everything you do,  
+the way we use our phones. We didn't carry phones 
+with us 25 years ago. We went from phone to phone,  
+from office to home. And in the process, we 
+learned to pay attention to it, to use it in  
+different ways, to get certain information and put 
+information into it in different ways. You know,  
+we now look at it for advice on how we get home. 
+If we're commuting by car or by bicycle, where's  
+the busy traffic? What do we do? What do we avoid? 
+That was an algorithm that was once considered one  
+of the great advances of artificial intelligence. 
+There's an important strain of AI that is building  
+large databases and searching through them. And 
+the search that does it most effectively for  
+that kind of work is called A* search, and that's 
+what we use on our phones to find the fastest way  
+home. Where's the traffic? What can we avoid? And 
+in doing that, we look at it and we know how we  
+give credence to that, whether we go on the roads 
+marked red, because that's the straight way and  
+we don't want to be bothered. Or whether we avoid 
+it because we just loathe sitting in traffic and  
+we want to keep the car moving. We adjust how we 
+think and we adjust how we develop that strategy  
+as we begin to see how effective it is. Does it 
+just make sense to go through the big traffic?  
+Are there better things to do? That's a simple 
+example, but in everything we do, everything we  
+deal with a computer, we're fundamentally asking 
+three questions. Are we getting what we want out  
+of it? And if we're getting what we want, we're 
+likely to repeat it. If we're not, we're likely  
+to modify what we do and try something different. 
+Is it taking too much effort? And if it's taking  
+too much effort, we're looking for a way to do it 
+more cheaply, more quickly, more easily. And the  
+last one is, is it irritating me? That's part of 
+the cost, perhaps. But it seems to be a slightly  
+different thing of how does it make me feel about 
+what I'm doing? Will I change my tactics because  
+the way it's presenting information or the advice 
+that it's giving or the response that it's making,  
+something that I'd rather not face and 
+I will go on and do something else.  
+Those are the key parts of our working with 
+the machine. And our goals are always, do we  
+get something that makes it better for us? Do we 
+improve our position, where we are amongst our  
+friends and family? Do we see that expand and able 
+to engage more people, would engage with them more  
+fully, or do things that we couldn't do before? 
+That's the second part, our function, what we do.  
+And again, we tend to do computers to either get 
+something more done or do what we ordinarily do,  
+but cheaper, with less effort on our part. And 
+the big one that has really been the combination  
+of AI and all the social networking has been 
+status, which is how do people view us? How  
+do they think about us? How do they listen to us? 
+And some people may think about computers and say,  
+"Does this computer honor my status? Does it give 
+me more status?" But in fact, it's how we appear  
+to our neighbors. How do we appear to our family? 
+And so much of our response to computers at base  
+is connected to how we respond to our family, to 
+our neighbors, to our friends, to our community,  
+to our office, to the people who drive next to 
+us. And we change our response to it, in effect,  
+so that we are doing things better, doing them 
+cheaper, and our goals tend to be in that social  
+grouping. Does it increase our status? Does 
+it improve our function? What we do? Does it  
+give us a new position in this world? I'm not 
+particularly frightened or concerned about it,  
+other than I know that it is part of adjusting 
+our thought to the machine. And at some level,  
+it is our adjustment that is saying, "Well, I 
+will accept this," what the machine is saying,  
+what the machine is doing, because I can view it 
+as a reflection of myself, as a reflection of a  
+being. Chapter 5 When Machines Replace Humans The 
+connection between human computers and the machine  
+computers is complex, because it's involving 
+the division of labor. The modern computer  
+divides three actions out, gives them each a 
+device. Storing numbers. Well, storing numbers  
+is something people are not particularly good at. 
+We forget them very easily. There was a time that  
+my hand would automatically type out my parents' 
+phone number or my sisters. I have no idea what  
+any of my friends' phone numbers are anymore, 
+because we don't do them, and we forget them,  
+and that's that. The second part is remembering 
+instructions. We are better at that, but again,  
+it involves a memory which we're not good at. But 
+the interpretation, we tend to spin things that  
+make life easy for us, or simpler for us, or more 
+harmonious for us. The last piece is doing the  
+task. And in working with the human computers 
+as the process moved forward, increasingly,  
+that's the piece that humans were reduced to, 
+doing the task. There's a photograph that's in my  
+first book that is, I'm convinced that it's going 
+to be what I am known for in the rest of my days,  
+that shows a room in New York with 450 people in 
+it lined up in thin, little desks back and forth,  
+all having a piece of paper in front of them, all 
+of them having a pen, all of them doing addition,  
+after addition, after addition. This room in New 
+York City was the main office of a group known  
+as the Math Tables Project. It was the largest 
+collection of human computers, to my knowledge,  
+that has ever been assembled on the face of 
+the earth, and for its time, the most powerful  
+computing organization in the world. It was a 
+work progress administration project. In 1937,  
+the depression, which at that point had been going 
+on for not quite a decade, tightened up again. It  
+was often called the Roosevelt Recession. And the 
+federal government was looking for ways to put  
+urban workers back to work, particularly New York 
+City, which had an unemployment rate higher than  
+most everywhere else in the country. And 
+particularly, they were looking for jobs  
+that were like construction jobs, but inside. 
+The Institute for Advanced Study proposed that  
+they build a computing lab, and that computing lab 
+would be a group of people doing calculations for  
+projects that could benefit by having highly 
+accurate mathematical calculations done for  
+them. They would take jobs from scientists, 
+they would take jobs from government offices,  
+they would do some work on their own doing, and 
+this would be of value. But it's a work progress  
+administration task. It means to say that they 
+are recruiting from the unemployed, and by 1937,  
+they were the long-term unemployed. Largely, 
+they were store clerks, some of them office  
+clerks. They had some knowledge of addition, 
+but they were not particularly well-skilled,  
+and the WPA was the last hope. These were people 
+who could not feed their family any other way.  
+And so, in taking these jobs, they did so 
+reluctantly, they knew it was repetitive,  
+but they knew it would feed their families. 
+They were from the Bronx, they were from Harlem,  
+they were from the poor parts of town. But at 
+the same time, all of them had some at least  
+high school education. For the bulk of them, they 
+felt the sting two ways. The WPA gave them work,  
+but also required them to look for work. And 
+so, they're, "Hi, we're here, we're glad to  
+have you there. You have to be going, you have 
+to be looking for something else." And second,  
+that problem of babbage, that people doing the 
+same task the same way will always get the same  
+results, will always make the same errors, too. 
+Hung heavily on them, and they wanted to be known  
+because of the reputation of the WPA as being a 
+group that produced error-free calculations. So,  
+they put together a process that ultimately, 
+in terms of equivalent labor, meant that each  
+number was calculated six or seven times, never 
+the same way, never identically. And most of  
+the effort was involved in creating a group of 
+numbers, then taking them apart and trying to  
+figure out how they worked. They stretched to find 
+any place that their work was used and accepted,  
+particularly as the war came. Whenever they 
+figured out a connection between their work  
+and a military operation, they would promote 
+it heavily. Coming up to D-Day, roughly eight  
+months before, in September of '43, they were 
+given a series of calculations to do that were  
+equivalent to putting down a map, throwing coins 
+on the map, pennies, and counting where the coins  
+lay. They did the experiment sometimes, and then 
+they developed a mathematical calculation from it.  
+One of the people looked at the map that they had 
+put on the floor to throw it and recognized it as  
+part of Normandy, France, and speculated that 
+they were preparing something for the invasion of  
+Europe, which indeed they were. They were trying 
+to figure out how to clear the beaches of mines  
+by dropping bombs. The idea was to drop enough 
+bombs so they'd explode the mines without blowing  
+too much of the sand away. They worked through 
+the problem. It's tough computationally. It was  
+well beyond some of the mathematical analysis 
+at the time. They were immensely proud of it,  
+even though in terms of looking at how the D-Day 
+planners used that information, they ultimately  
+concluded that rather than try to bomb the mines 
+off the beach, they would try to avoid the beaches  
+with mines. And how much they used it directly 
+for planning is not clear, but they loved it, and  
+they loved that connection. They did things for 
+radar and radar calculations for the work against  
+U-boats in the North Sea. The big one which they 
+did not grasp, and it's part of their files,  
+was calculations that involving the collapse of a 
+sphere, of having an explosion crush a sphere into  
+a smaller sphere. The request is in their files. 
+It has a big statement. You cannot share this. We  
+will not explain what it is. We will not explain 
+what it's for. We will not tell you what the units  
+are or what's going on. Crushing a sphere, that's 
+what you do to get an atomic plutonium bomb to go  
+off. And it was part of the work to check the 
+calculations at Los Alamos for the Manhattan  
+Project. When they found it out again, this was 
+something of great pride to them. And yet at the  
+same time, doing it made them feel like a part 
+of a machine. They had trouble with labor unions,  
+with strikes, with the typical things you have, 
+with large labor activity, and the feeling that  
+they were barely above a machine. When the place 
+was demobilized, some of them were brought in and  
+asked to take computing organizations for other 
+groups. The bulk of them chose to be high school  
+mathematics teachers, because they had learned 
+enough mathematics that they could handle that and  
+there they were dealing with kids and people. And 
+that was a much more satisfying activity. It was  
+work for the poor, and that really is the ultimate 
+form of that human computing. Prior to that,  
+it had always been surplus labor. People who had 
+the skills and had some trouble finding work,  
+but they were part of the process. When you 
+get to that last group in New York City,  
+they're laborers, and it's very clear they're 
+laborers. The substitution of machinery for labor  
+is a huge part of the story of computation. And 
+there are two principal motivations for it. One,  
+reducing activities that we thought required human 
+intelligence to mechanization, to something that  
+can be repeated again and again and again very 
+quickly. That's only part of it. The second part  
+is systemization. That you can put it in part of 
+a larger system that is processing information  
+that's doing things, that's making decisions 
+and working on a bigger set of problems. In  
+all of these, you're in effect trying to replace 
+expensive labor with cheaper labor. Replace labor  
+that is less predictable, whether by labor unions 
+or just wanting to add their own ideas, or not  
+understanding what's going on with something that 
+will do the same thing again and again and again.  
+That transition is always hard because there is a 
+cohort that feels quite angry and quite misused at  
+what's going on. My favorite example is in the 
+1950s, as the American economy is growing to,  
+in many ways, provide the same level of production 
+for consumer goods as we did for military goods in  
+World War II. One of the new devices that's coming 
+into manufacturing are automated machine tools,  
+controlled machine tools. And the ones that we 
+see in the '50s are things that are mimicking,  
+that are following the motions of skilled 
+machinists. After a part has been produced using  
+a combination of manual and electric control, the 
+tape is played back for automatically producing  
+successive parts. The tape programs the machine's 
+operations. The use of record playback control in  
+this operation is expected to double production. 
+You would take one of these automated tools and  
+you'd have someone machine a part or create 
+something. And the machine tool would record  
+that and then duplicate it, replicate the process 
+of doing it, so it would be behaving like the  
+skilled machinist. And skilled machinist jobs were 
+a higher level of factory work than, for example,  
+assembly-like work in the auto industry. In 
+assembly line work, you are part of the machine.  
+Henry Ford made that very, very clear in his 
+writings. The machine is the line and you are  
+part of the machine and you don't, because you're 
+a part, interfere with the operation of the whole.  
+Machinists were different. And during the '50s, 
+as they start seeing these tools come up, they  
+protest. And it leads to one of the key fights 
+that we are having today about who owns data.  
+The argument that the large manufacturers had is 
+we build the factories. We created the factories.  
+You would not have your skills if you didn't work 
+in our factories. You have no place to learn them,  
+no place to use them. Therefore, your skills are 
+something that we can copy and we can transfer to  
+an automated machine tool. The workers obviously 
+saw it from a very different point of view. We  
+learned these skills. These are ours. We have 
+added our own identity to those skills and you  
+can't have them. You know, in the American labor 
+movement, if the early '50s represents a high  
+watermark of its control over activities, this 
+is part of the first chink in the armor. This  
+is part of the first attack on it. Who owns 
+the skills of factory workers? That fight,  
+in many ways, was resolved by the second or third, 
+or maybe even fourth generation of machine tools,  
+because by the '70s, they're not mimicking skilled 
+machinists. They are putting together motions and  
+activities and machining steps from computer-aided 
+design files that are produced by computer. So,  
+for the most part, mimicking skilled machinists 
+is no longer an issue in the labor movement,  
+not the way it certainly was then. But that 
+process, that same controversy, continues  
+with the collection of data for artificial 
+intelligence. Artificial intelligence algorithms,  
+as we view them right now, rely on data. They rely 
+on trying to capture something of human behavior,  
+human thoughts, human activities, and put those 
+activities, forms and thoughts, in some form that  
+it can store and recover, and furthermore, reason 
+from or process from. It's not sticking with what  
+it captured immediately. It's asking, how can we 
+extrapolate out? How can we apply it to scenes we  
+have not seen? How can we use it for situations 
+that are novel? And the question becomes,  
+who owns the activities that are being captured by 
+data? If it were a factory, you'd have that same  
+fight that we had before. Some large capitalized 
+firm built the factory. You work in the factory,  
+you could not do it without that, and so you're 
+stuck. But it's no longer a factory. It's no  
+longer a place we go to. It's the social media. 
+It's where we buy stuff. It's the systems we do  
+our work with. And often the things being captured 
+are not necessarily the primal activity going on.  
+It's some other action that we are doing with the 
+system. And so that fight now probes much deeper  
+into our lives. It's asking, who owns our basic 
+activities? Who owns our right? Who owns the way  
+that we use computers, how that we shop, that we 
+communicate with our friends? Who can take that  
+and use it in a way that replicates it? It's not 
+clear that this fight has been resolved yet. We  
+have seen some early efforts at legislation in 
+California, was trying to address it and pulled  
+back from it. But that still remains. What do we 
+have that we own of ourselves, own of our actions,  
+own of our thoughts? And that aspect of factory 
+work and factory labor, that contention over  
+who owns the skills of the factory worker was the 
+starting point for that discussion and remains the  
+starting point, even though our concept of factory 
+and data gathering has grown much, much bigger.  
+When we talk about artificial intelligence, 
+we're lumping a bunch of different technologies  
+into one. And we are looking from a very modern 
+perspective at a process that's been going on for  
+close to 75 years. The programs of artificial 
+intelligence have been bubbling around for years,  
+and you have seen them come and go, but it 
+has taken a certain amount of time to get the  
+computing power to make them work at scale, to be 
+able to build them with enough sophistication that  
+they work across the board with many different 
+people. That that problem of providing a system  
+that you don't need to be an expert at it to 
+be able to use it has been part of it a long  
+time and part of the expansion that we see of 
+artificial intelligence is just that. We're  
+building systems that allow more and more people 
+to work with them. The technologist in me sits,  
+there's kind of a U-shaped narrative. Something 
+comes and it's very exciting and you're writing  
+at the high end of the U, and then there's a dip, 
+and then there's a recovery, and the recovery is  
+usually less than the starting point, but there 
+is still a recovery. New ideas are always exciting  
+and I always enjoyed engaging them, but in the 
+course of my career I've seen time and again new  
+ideas that work in a brief demo in a controlled 
+environment, and when you try to build them out  
+to engage a large community of users, you get 
+problems and you get problems that are seriously  
+wrong. The early translation programs from one 
+language to another. We're at times very clever  
+and very laughable. I don't play this game anymore 
+of translating something into another language and  
+translating it back into English. The canonical 
+one, which I was able to demonstrate during my  
+graduate career, was taking the phrases, "Do you 
+accept credit cards?" translating it into Polish,  
+which I do not speak, and then translating that 
+back to English and having the response be,  
+"Do you play poker for money?" And, you know, 
+it got some of those words right, and it was  
+quite fun and humorous, but it illustrated the 
+issue of making a system that's not the basis  
+of reliable communication. By contrast, I now 
+use in my work translate programs all the time  
+because I'm dealing with people in China, with 
+people in France, and for my group in Ireland,  
+I even translate things into Irish just to be 
+snarky about it. And I know that that's a regular  
+system. I know to keep my sentences short. I 
+know to keep direct verbs. I know do not put  
+large amounts of dependent clauses and modifying 
+words because the modifying words will end up  
+modifying different things. But I know that, and 
+it's a system I work with. It's not particularly  
+exciting. It's not as exciting as those first ones 
+were, but it's a tool I use and that I work with.  
+My feeling is with artificial intelligence 
+now, we have seen some of the first bloom of  
+this generation. And this generation really 
+goes back to the '90s. The machine learning,  
+the large-scale neural networks, the use of these 
+things in generative systems where you are getting  
+a sense of the whole landscape of human behavior. 
+All those are very interesting and very exciting  
+in what they can do. They fail enough that they 
+are not reliable tools for me. And I don't make  
+much use of them because I don't want to trust 
+what I am doing to potential mistakes that aren't  
+my fault. If I'm going to pay for a mistake, it's 
+going to be mine. And thank you very much. Okay.  
+And so now you take all this and you edit the 
+sucker. You're the editor. Want to support the  
+channel? Join the Big Think members community 
+where you get access to videos early, ad-free.
