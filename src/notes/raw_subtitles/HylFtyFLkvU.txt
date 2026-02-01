@@ -1,0 +1,398 @@
+[Speaker 0]:  hello，
+[Speaker 0]:  everyone。
+[Speaker 0]:  this is best partner，
+[Speaker 0]:  and i am defy。
+[Speaker 0]:  in the last video，
+[Speaker 0]:  we die set to the neural network for recognizing hundred and digits from the inplalayer of seven hundred，
+[Speaker 0]:  eighty four neurons corresponding to twenty eight by twenty eight pixel hundred and digimages to two hidden layers，
+[Speaker 0]:  each with sixteen neurons，
+[Speaker 0]:  and finally to the outplalayer，
+[Speaker 0]:  with ten neurons corresponding to the confidence level of digits zero to nine。
+[Speaker 0]:  we understood how the activation values of neurons are transmitted and calculated that this seemingly simple network has thirteen or two adjustable weight and biases。
+[Speaker 0]:  however，
+[Speaker 0]:  we left out a crucial question，
+[Speaker 0]:  how do we adjust these thirteen o，
+[Speaker 0]:  two nobs to make the network，
+[Speaker 0]:  which initially knows nothing about digits，
+[Speaker 0]:  accurately identify hundred and digits。
+[Speaker 0]:  today，
+[Speaker 0]:  we will unveill the magic of neural network learning gradient descent。
+[Speaker 0]:  this is not only the core of neural network learning，
+[Speaker 0]:  but also the underlying logic supporting most machine learning algorithms。
+[Speaker 0]:  before we begin，
+[Speaker 0]:  let's go back to a fundamental comparison between human learning and traditional programming。
+[Speaker 0]:  when you teach a child to recognize numbers，
+[Speaker 0]:  you don't need to tell them that the upper part of the number three is occurr with a radius of x picxs。
+[Speaker 0]:  and the lower part is an c with a certain angle of inclination。
+[Speaker 0]:  you only need to show the many pictures of the number three and tell them that this is three。
+[Speaker 0]:  they will gradually grasp the core features and be able to recognize even distorted trees，
+[Speaker 0]:  traditional programming。
+[Speaker 0]:  as we gradust in the last video requires you to explicitly write down every rule for exexcognizing three encode，
+[Speaker 0]:  but the ways of writing numbers are ever changing，
+[Speaker 0]:  and you can never write down all the rules。
+[Speaker 0]:  neural network learning precisely mimics this human learning method。
+[Speaker 0]:  it doesn't requires us to write specific algorithms for recognizing digits，
+[Speaker 0]:  but rather just these thirteen or two weights and biases by looking at a large amount of label training data，
+[Speaker 0]:  thereby learning to recognize digits label data。
+[Speaker 0]:  here means that each hundred and digit image comes with a standard answer。
+[Speaker 0]:  for example，
+[Speaker 0]:  this image corresponds to the number three，
+[Speaker 0]:  and that one to the number five。
+[Speaker 0]:  these datasets together are called training data。
+[Speaker 0]:  the networks learning process is the process of continuously adjusting parameters to make its recognition paramets on the training data closer and closer to the standard answer。
+[Speaker 0]:  speaking of training data，
+[Speaker 0]:  we must mention a milestone dataset。
+[Speaker 0]:  the eness database。
+[Speaker 0]:  this is a free hundred and digit dataset compiled by researchers containing tens of thousands of twenty by twenty eight pixel，
+[Speaker 0]:  images of hundred and digits。
+[Speaker 0]:  each images is labeled with the correct digit。
+[Speaker 0]:  it is precisely because of this high quality and large scale training data that we can allow the neural network to fully learn the characteristics of different digits。
+[Speaker 0]:  furthermore，
+[Speaker 0]:  to verify that the network has trutralearned and not just memize the training data，
+[Speaker 0]:  we divide the data into two parts，
+[Speaker 0]:  a large portion for training and a small portion is test data。
+[Speaker 0]:  this lardata is data that the network has never seen before by evaluating the networks accuracy and recognizing the test data，
+[Speaker 0]:  we can diverfy that generalization ability ility。
+[Speaker 0]:  that is its ability to handle new data。
+[Speaker 0]:  this is similar to how a teacher uses questions you haven't seen before to test whether you have truly master the knowledge points rather than simply memorizing the homework problems。
+[Speaker 0]:  but the question arises，
+[Speaker 0]:  how do we know if the networks current parameter settings are good or bad？
+[Speaker 0]:  how do we quantify whether it's learning well or poorly？
+[Speaker 0]:  we can't just rely on visually inspecting the output results，
+[Speaker 0]:  one by one。
+[Speaker 0]:  this requires a judge，
+[Speaker 0]:  which is what we call a cost function，
+[Speaker 0]:  also known as the loss function。
+[Speaker 0]:  the core function of this function is to convert the networks error level into a specific number，
+[Speaker 0]:  the smaller the number，
+[Speaker 0]:  the better than networks performance，
+[Speaker 0]:  the larger than number，
+[Speaker 0]:  the worse，
+[Speaker 0]:  the performance。
+[Speaker 0]:  let's look at how the cost is calculated for a single image。
+[Speaker 0]:  suppose we input an image of the digit three into the network，
+[Speaker 0]:  ideally among the ten neurons in the output layer，
+[Speaker 0]:  the activation value of the corresponding neuron should be closed one point oand。
+[Speaker 0]:  the the nine nine be be sed to zero point old。
+[Speaker 0]:  this is the desired output。
+[Speaker 0]:  however，
+[Speaker 0]:  in reality，
+[Speaker 0]:  the networks initial parameters are randominitialized，
+[Speaker 0]:  and the activation values of the alpa layer might be zero point two，
+[Speaker 0]:  three，
+[Speaker 0]:  zero point one，
+[Speaker 0]:  eight，
+[Speaker 0]:  zero point one nine，
+[Speaker 0]:  zero point eight eight，
+[Speaker 0]:  zero point seven，
+[Speaker 0]:  two，
+[Speaker 0]:  zero point zero one，
+[Speaker 0]:  zero point six four，
+[Speaker 0]:  zero point eight six，
+[Speaker 0]:  zero point nine，
+[Speaker 0]:  nine，
+[Speaker 0]:  zero point six three are complete mess。
+[Speaker 0]:  this is our actual output。
+[Speaker 0]:  the calculation logic of the cost function is straight forward for each output neuron，
+[Speaker 0]:  calculate the difference between the actual activation value and the ideal activation value，
+[Speaker 0]:  then square it，
+[Speaker 0]:  and finally add up these ten square values。
+[Speaker 0]:  for example，
+[Speaker 0]:  for the third neuron，
+[Speaker 0]:  the ideal value is one point old，
+[Speaker 0]:  and the actual value is zero point a day。
+[Speaker 0]:  the difference is minus zero point one two，
+[Speaker 0]:  and the square of this difference is zero point zero one，
+[Speaker 0]:  four，
+[Speaker 0]:  four。
+[Speaker 0]:  then we add up all ten square differences to get the total cost for this image，
+[Speaker 0]:  even though square differences on the one hand，
+[Speaker 0]:  squaring the diffedifferences makes all positive，
+[Speaker 0]:  and negative difference is positive，
+[Speaker 0]:  preventing them cancelling each other out。
+[Speaker 0]:  for example，
+[Speaker 0]:  if one neuron's difference is plus point five for another，
+[Speaker 0]:  thers is minus zero point five，
+[Speaker 0]:  adding them directly would result in zero。
+[Speaker 0]:  and the network would mistakenly think there is no error。
+[Speaker 0]:  even though their actual deviation on the other hand，
+[Speaker 0]:  the square function is continuous and differentiable。
+[Speaker 0]:  this is crucial for subsequent gradient decent calculations。
+[Speaker 0]:  if the function is not differentieble，
+[Speaker 0]:  we cannot find the direction in which the cost decreases fastest。
+[Speaker 0]:  however，
+[Speaker 0]:  looking at the cost of a single images，
+[Speaker 0]:  not enough，
+[Speaker 0]:  the network needs to perform well on all training data。
+[Speaker 0]:  therefore，
+[Speaker 0]:  we calculate the average cost across all training samples。
+[Speaker 0]:  this average cost is the target cost trutruly want minminmize ze other other ds ds ininput。
+[Speaker 0]:  the cost cost function is the twtworks thirteen o，
+[Speaker 0]:  two weights and biases in the put is this average cost。
+[Speaker 0]:  the learning process of the network is essentially finding a set of weights and biases that minimize this average cost。
+[Speaker 0]:  at this point，
+[Speaker 0]:  you might think，
+[Speaker 0]:  why don't we just solve the system of equations to find the point where the derivtive of the cost function is zero，
+[Speaker 0]:  which would be the minimum theoreticically。
+[Speaker 0]:  this is true，
+[Speaker 0]:  but in reality，
+[Speaker 0]:  it's completely in practical。
+[Speaker 0]:  our cost function is an extremely complex function with expresor two input variables。
+[Speaker 0]:  it's expression is based on the foreigpropropvproprocess，
+[Speaker 0]:  the entire neural networks，
+[Speaker 0]:  and also depends on the data from tens of thousands of training in solving such a high dimensional system of equations would require an astronomical amount of computation，
+[Speaker 0]:  making it impossible to implement。
+[Speaker 0]:  it's like being in a mountain with extremely complex terain。
+[Speaker 0]:  if you try memeure the the titide de every point point to find the west point youyou'll never succeed there there sisimply too popoints。
+[Speaker 0]:  so what do we do？
+[Speaker 0]:  we need a more flexible and efficient method that can chedually approach minimum without checking every single point。
+[Speaker 0]:  this is the core idea of gradient descent，
+[Speaker 0]:  withlike，
+[Speaker 0]:  a person trapped in a mountain。
+[Speaker 0]:  they don't know where the lowest point is，
+[Speaker 0]:  but they know that walking in the direction of the steepest downhill slow will reduce their altitude。
+[Speaker 0]:  the fastest。
+[Speaker 0]:  he walk step by step reevaluating。
+[Speaker 0]:  his current position at each step dedeterine the steepest st downward slope by continuously moving in this direction。
+[Speaker 0]:  he will eventually reach a relatively low value。
+[Speaker 0]:  this is a local minimum。
+[Speaker 0]:  let's start with a simplest case to understand this process。
+[Speaker 0]:  suppose our costs function only has one input variable，
+[Speaker 0]:  such as a single way。
+[Speaker 0]:  w。
+[Speaker 0]:  all other parameters are fixed。
+[Speaker 1]: 不不不不的。
+[Speaker 0]:  the graph of this function is a curve。
+[Speaker 0]:  we randomly choose an initial value w zero，
+[Speaker 0]:  and the corresponding cost is CW zero。
+[Speaker 0]:  now we want to find a direction that allows w to be adjusted slightly to reduce the cost the most。
+[Speaker 0]:  how do we determine this direction？
+[Speaker 0]:  the answer is to look at the slope at this point，
+[Speaker 0]:  which is the derivtive。
+[Speaker 0]:  if a slope is negative，
+[Speaker 0]:  it means that the cost decreases when w increases，
+[Speaker 0]:  therefore，
+[Speaker 0]:  we should adjust is to the right。
+[Speaker 0]:  if the lolois positive，
+[Speaker 0]:  it means ans the cost decreases when w decreases。
+[Speaker 0]:  how do we adjust w to you to the left？
+[Speaker 0]:  the step size is also very important。
+[Speaker 0]:  if stestesize ze is large，
+[Speaker 0]:  it may overshoot the minimum point and end up on the opposite site slope，
+[Speaker 0]:  causing the cost to increase if the stesisize is too small。
+[Speaker 0]:  the conversion speed will be very slow，
+[Speaker 0]:  requiring many steps to approach the minimum value。
+[Speaker 0]:  therefore，
+[Speaker 0]:  the step size should be proportiontional to the absolute value of the slow，
+[Speaker 0]:  the feper，
+[Speaker 0]:  the slope，
+[Speaker 0]:  larger absolute value。
+[Speaker 0]:  the further the current position is from the minimum point，
+[Speaker 0]:  so a larger step can be taken the flatter the slope，
+[Speaker 0]:  smaller er solute value ue。
+[Speaker 0]:  the closer it is to the minimum point。
+[Speaker 0]:  so a smaller step should be taken to avoid over shooting。
+[Speaker 0]:  however，
+[Speaker 0]:  our network has thirteen o two parameters。
+[Speaker 0]:  this means the input to the cost function is thirteen o，
+[Speaker 0]:  two，
+[Speaker 0]:  two dimensional，
+[Speaker 0]:  a high dimensional space that we cannot imagine，
+[Speaker 0]:  and the direction cannot be described using the slow alone。
+[Speaker 0]:  this is where we need a more powerful mathematical tool。
+[Speaker 0]:  the gradient in a multivariable function。
+[Speaker 0]:  the gradient is a victor，
+[Speaker 0]:  and each component is the partial derivtive of the function with respect to the corresponding input variable，
+[Speaker 0]:  for example，
+[Speaker 0]:  for a functioncy XY with two input variables x and y the gradient leseis partial differential al，
+[Speaker 0]:  a partial differential x，
+[Speaker 0]:  partial differential sea，
+[Speaker 0]:  partial differential y。
+[Speaker 0]:  this gradient invector has two key characteristics。
+[Speaker 0]:  first，
+[Speaker 0]:  its direction is the direction in which the function value increases most rapidly，
+[Speaker 0]:  that is the direction of the steepest slope。
+[Speaker 0]:  secondly，
+[Speaker 0]:  the length of the gredient invector represents the magnitude of the slope in the steepest direction since the gradient points to the steepest stuupward slope。
+[Speaker 0]:  conversely，
+[Speaker 0]:  the negative gradient or negative neablesa points in the direction of the steepest downward slope，
+[Speaker 0]:  which is the actly。
+[Speaker 0]:  what we want in high dimensional space。
+[Speaker 0]:  we cannot visually see the slope，
+[Speaker 0]:  but the gredient invector provides us with clear directional guidance，
+[Speaker 0]:  regardless of whether the cost functions input is two dimensional，
+[Speaker 0]:  ten dimensional or thirteen or two，
+[Speaker 0]:  two dimenonal。
+[Speaker 0]:  the negative greadiinvector always tells us how to adjust each parameter to achieve the greatest decrease in the cost ffunction for the current combination of parameters。
+[Speaker 0]:  for example，
+[Speaker 0]:  suppose our cost function has two input variables w one and w two corresponding to two weights。
+[Speaker 0]:  the gredient nablesy is zero point eight and minus zero point three。
+[Speaker 0]:  this means that for w one，
+[Speaker 0]:  the partial derivtive of the function with respect to it is zero point eight。
+[Speaker 0]:  therefore，
+[Speaker 0]:  increasing w one will increase the cost and decreasing w one will decrease the cost for w two。
+[Speaker 0]:  the derivative is minus zero point three，
+[Speaker 0]:  so increasing w two will decrease the cost and decreasing w two will increase the cost。
+[Speaker 0]:  the negative gradient is minus zero point eight and zero point three。
+[Speaker 0]:  it tells us that we should decrease w one by zero point three units and increase w two by zero point point three units。
+[Speaker 0]:  this the acement will cost cost cost decrease the the untes and acactugradient descent algorithm。
+[Speaker 0]:  we use a parameter called the learning rate ada to control the step size。
+[Speaker 0]:  the parameter update formula is new parameter equals old parameter eata asterrisk gradient component。
+[Speaker 0]:  this learning rate is a positive number。
+[Speaker 0]:  it size directly affects the training effect if it is too large，
+[Speaker 0]:  the step size will be too large，
+[Speaker 0]:  which may cause hsolation able and fourth near the minimum point and never converge。
+[Speaker 0]:  if it is small，
+[Speaker 0]:  the minstesize will be too small，
+[Speaker 0]:  and the the training process will be very slow，
+[Speaker 0]:  requiring thousands of tens of thousands of iterations，
+[Speaker 0]:  small apapproach，
+[Speaker 0]:  the minimum value。
+[Speaker 0]:  therefore，
+[Speaker 0]:  the choice of learning rate is important，
+[Speaker 0]:  hyper parparamter and neural network training and needs to be adjust according to the specific task。
+[Speaker 0]:  now we extend this logic CAA thirino two dimensional parameter space。
+[Speaker 0]:  we can organize all the weights and biases into a huge column vector data。
+[Speaker 0]:  this vector has thirteen o two elements，
+[Speaker 0]:  each corresponding to a parameter。
+[Speaker 0]:  the gradient nablesacy of the cost function sea。
+[Speaker 0]:  theata is a vector with the same dimensionis theata。
+[Speaker 0]:  each element of the gredient vector sea is the partial derivative of the cost function with respect to the corresponding parameter in data。
+[Speaker 0]:  the negative gradient inctctor abba WC is also a vector of size thirteen o。
+[Speaker 0]:  two。
+[Speaker 0]:  each element tells whether the corresponding parameter should be increased or decreased in the relative magniude of the adjustment。
+[Speaker 0]:  the key here is the relative magnitude。
+[Speaker 0]:  the absolute value of the different components in the gradient invector reflects the degree of influence of the corresponding parameter on the cost function，
+[Speaker 0]:  for example，
+[Speaker 0]:  if the absolute value of the gradient component corresponding to weight，
+[Speaker 0]:  wa zero point five，
+[Speaker 0]:  and the absolute value of the component corresponding to weight WB zero point point zero one。
+[Speaker 0]:  it means that adjustiwa contcontributes more to reducing the cost than adjusting WB galaxy YYYYYYY 的 ccy。
+[Speaker 0]:  therefore，
+[Speaker 0]:  during parameter updates，
+[Speaker 0]:  the adjustment magnitude of wall will be larger。
+[Speaker 0]:  this is equivalent into the network automatically，
+[Speaker 0]:  knowing which parameters are more important and should be adjusted more significantly to a specispecic。
+[Speaker 0]:  c example supose。
+[Speaker 0]:  the network is learning to recogninize didigthree。
+[Speaker 0]:  a weight connects an input layer pixel neuron corresponding to the upper part of the curve of the number three of the neuron in the hidden layer。
+[Speaker 0]:  if the absolute value of this wee's gradient component is large，
+[Speaker 0]:  it means that the current setting of this weight has a significant impact on recognizing number three perperps。
+[Speaker 0]:  its curcurrent way ate is too small，
+[Speaker 0]:  preventing the hidden layer neuron from effectively capturing the features of the upper car。
+[Speaker 0]:  therefore，
+[Speaker 0]:  the gradient indictes that the network should significantly adjust this way。
+[Speaker 0]:  it another weight connecting to a relevant pixel has a very small gradient component，
+[Speaker 0]:  indicating that it has little impact on recognizing the number three，
+[Speaker 0]:  and the network will only make a tiny adjustment to it。
+[Speaker 0]:  this characteristic of adaptive adjustment makes gradient descent，
+[Speaker 0]:  very efficient。
+[Speaker 0]:  now we can put together the entire learning process of a neural network。
+[Speaker 0]:  the first step is to randomly initialize all weights and biases。
+[Speaker 0]:  why randomize？
+[Speaker 0]:  because if all weites are initialized to the same value，
+[Speaker 0]:  then during forward propagation，
+[Speaker 0]:  all neurons in the same layer will produce the same activation value，
+[Speaker 0]:  and subsequent adjustments will be completely synchononzed。
+[Speaker 0]:  the network will not be able to learn different features。
+[Speaker 0]:  this is the problem of symmetric weights ranandmization breaks the symmetry，
+[Speaker 0]:  allowing each neuron to learn unique features。
+[Speaker 0]:  the second step is to input a batch of training data into the network and calculate the output activation value for each sample。
+[Speaker 0]:  through forward propagation。
+[Speaker 0]:  the third step is to calculate the average cost of all training samples as a performance score for the current parameter settings。
+[Speaker 0]:  the forth step is to calculate the gradient nableer WC of the cost function with respect to all parameters。
+[Speaker 0]:  step five update all thirteen intwo weights and biases according to the formula new parameter equals old parameter ETA multiplied by the WC component。
+[Speaker 0]:  step six repeat steps two through five unl l。
+[Speaker 0]:  average cost decreases to a satisfactory level or no longer decreases significantly。
+[Speaker 0]:  new cyclical process is the training process of the neural network。
+[Speaker 0]:  it may seem like there are only a few steps，
+[Speaker 0]:  but p，
+[Speaker 0]:  six cruciand compleplestep is the fourth step how to efficiently calculate the gradient for thirteen o two parameters。
+[Speaker 0]:  if we calculate the partial derivative for each parameter individually，
+[Speaker 0]:  we would need to erate through all parameters and all training samples，
+[Speaker 0]:  resulting in an unbearable computational load。
+[Speaker 0]:  this is where an efficient gradient calculation method。
+[Speaker 0]:  backpropagation comes in the core idea。
+[Speaker 0]:  backpropagation is the chain rule。
+[Speaker 0]:  it utilize the layred structure of the neural network。
+[Speaker 0]:  it derive the gradient from the output layer backward from the input layer。
+[Speaker 0]:  er calculating the partial derivtives of all parameters at once。
+[Speaker 0]:  this reduces the plexity of gradient calculation from o and carare，
+[Speaker 0]:  a too so。
+[Speaker 0]:  and this is why backpropagation is called the engine of neural network learning。
+[Speaker 0]:  without it training large scale，
+[Speaker 0]:  neural networks would be impossible in subsequent videos。
+[Speaker 0]:  we will delve into each step of backpropagation from mathematically principles to intuitive understanding，
+[Speaker 0]:  helping you understand how it efficiently calculaates gradients before continuing。
+[Speaker 0]:  it's necessary to clarify a common misconception gradient descent，
+[Speaker 0]:  finds a local minimum，
+[Speaker 0]:  not a global minimum。
+[Speaker 0]:  in the parameter space。
+[Speaker 0]:  the cost functions landscape can be very complex with many valleys，
+[Speaker 0]:  which are a local minimum。
+[Speaker 0]:  different initial parameter positions may lead to different values。
+[Speaker 0]:  but this isn't necessarily a bad thing，
+[Speaker 0]:  because in practical applications，
+[Speaker 0]:  most local minimum have sufficiently small costs，
+[Speaker 0]:  allowing the network to perform well。
+[Speaker 0]:  moreover，
+[Speaker 0]:  as the network scale increases，
+[Speaker 0]:  for example，
+[Speaker 0]:  more more hidden layers and more neurons，
+[Speaker 0]:  the flat areas of the cost function increases and the influence of local minimum dereases，
+[Speaker 0]:  allowing gradient descent to find a solution close to the global optimum。
+[Speaker 0]:  another crucial point is that the quality and quantity of training data or paramount，
+[Speaker 0]:  if there is too little training data，
+[Speaker 0]:  the network cannot learn in a features leading to underfitting accurate identification of tratraining data，
+[Speaker 0]:  poor or forforance ance tests da a，
+[Speaker 0]:  the traininddata contains orrect labels，
+[Speaker 0]:  or the data distribution is uneven。
+[Speaker 0]:  for example，
+[Speaker 0]:  if there are a very few samples of a certain number，
+[Speaker 0]:  the network will learn increct patterns，
+[Speaker 0]:  leading to a decrease and generalization ability。
+[Speaker 0]:  the eness datasset is considered a classic because it has a sufficient number of samples，
+[Speaker 0]:  accurate labels and an even data distribution，
+[Speaker 0]:  providing high quality learning materials for the network。
+[Speaker 0]:  now let's look back at the essence of neural network learning。
+[Speaker 0]:  it doesn't understand the meaning of numbers like humans do，
+[Speaker 0]:  but rather just just thirteen o，
+[Speaker 0]:  two ights and biases through gradient ent descent to minimize the cost function。
+[Speaker 0]:  essentially，
+[Speaker 0]:  it's a complex optimization problem。
+[Speaker 0]:  we say say the network has learn to recognize ze numbers。
+[Speaker 0]:  we actually worying that the network has found a set of parameters that can map the input pixel patterns to the corresponding output confidence。
+[Speaker 0]:  this mapping relationship has learned from the data not manually program by us。
+[Speaker 0]:  there's also a very interesting phenomenon on here when we design the network，
+[Speaker 0]:  we only assume that the hidden layer will learn features such as edge patterns。
+[Speaker 0]:  however，
+[Speaker 0]:  we didn't explicitly programme it to do so。
+[Speaker 0]:  it is the gradient descent and the optimization objective of the cost function that naturally guides the networks to learn these features that are useful for distinguishing numbers。
+[Speaker 0]:  this is one of the most amazing aspects of neural networks。
+[Speaker 0]:  they can automatically discover underlying patterns in the data without requiring humans to predefine features，
+[Speaker 0]:  of course，
+[Speaker 0]:  gradient descent，
+[Speaker 0]:  it not perfect。
+[Speaker 0]:  in addition to the local minimua problem，
+[Speaker 0]:  it，
+[Speaker 0]:  it may encounter vanishing，
+[Speaker 0]:  gradients or exploding gradients in deep networks。
+[Speaker 0]:  the gradient may become smaller and smaller during back propagation，
+[Speaker 0]:  causing the parameters in the hidden layers to hardly update，
+[Speaker 0]:  which is vanishing gradients，
+[Speaker 0]:  or it may become larger and larger，
+[Speaker 0]:  causing the parameter values to sppire out of control，
+[Speaker 0]:  which is exploding gradients。
+[Speaker 0]:  however，
+[Speaker 0]:  many solutions to these problems have been developed in modern deep learning，
+[Speaker 0]:  for example，
+[Speaker 0]:  using the real ffunction instead of the signmoid function using batch normalization and residual actions。
+[Speaker 0]:  but these are all later。
+[Speaker 0]:  developments are focus at this stage to understand the core logic of gradient descent to summarize the essence of neural network learning is to minimize the cost function through the gradient descent algorithm，
+[Speaker 0]:  the cost function quantifies，
+[Speaker 0]:  the network's coconitiononerr and the gradient vector provides direction and magnitu guidance for parameter adjustment。
+[Speaker 0]:  the learning rate used to control the adjustment，
+[Speaker 0]:  step size and backpropagation efficiently calculates the gradient。
+[Speaker 0]:  this entire process constitutes the complete learning path of a neural network from an empty shell to an intelligent model。
+[Speaker 0]:  thank you for watching this video。
+[Speaker 0]:  we'll see you next time。
