@@ -5,7 +5,6 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=DeG4x3aQCzE
 speaker: 一口新飯社群
-tags:
 title: "微小实验的力量：如何用“低成本试错”摆脱完美主义与内耗"
 summary: "本次读书会围绕“微小实验”（Tiny Experiments）的主题展开，探讨了如何通过设定低门槛、短周期的行动来克服拖延与完美主义。参与者分享了各自在AI应用、乐器学习、能量管理及自媒体运营方面的实践经验。讨论还涉及了“轻重缓急”的优先级排序、截止日期的驱动力以及倾听身体声音的重要性。此外，主持人预告了下个月的共读书目《你都没有在听》，强调了在现代社会中重拾倾听能力的重要性。"
 area: "life-family" # Must select ONE from the provided list
