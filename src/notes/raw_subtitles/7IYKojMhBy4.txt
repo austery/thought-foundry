@@ -1,0 +1,534 @@
+What happened on September 23, 1999?
+This is the day
+that the Mars Climate Orbiter
+went on a mission to Mars
+and actually failed considerably.
+This was this device
+that NASA sent over to Mars.
+It was designed
+to measure the weather on Mars,
+and also to serve
+as this communication device
+for the Mars Polar Lander,
+which was supposed to arrive
+a couple of months later.
+It just completely failed.
+It hit the atmosphere,
+burst into a million pieces,
+leaving the folks who worked at NASA
+befuddled, upset, pretty pissed off.
+These are not them.
+You have to use your imagination
+a little bit in this talk.
+Now these things happen.
+Sending things into space
+is tricky business,
+and quite frankly, as a psychologist,
+who am I to judge
+a bunch of very smart engineers
+who work for NASA
+for failing and having a bad day at work?
+But what makes this story
+extra special and super fascinating
+from my perspective
+is that the entire failure
+comes down to one thing:
+failed communication
+between these team members,
+and more specifically,
+the people working on this project
+were not talking to each other
+about the right stuff at the right time.
+It really is that simple.
+So I'm going to break this down for you.
+So it all started when they
+had to calculate the flight path.
+So any time you send something into space,
+you have to tell it where to go.
+And to do so you have to
+calculate the flight path.
+Now the folks working at NASA
+for the Jet Propulsion Laboratory,
+they calculated the flight path
+using the metric system,
+and so they had the newton
+as their unit of force.
+Those working at Lockheed Martin,
+they were using the pound
+as their unit of force.
+When you're using
+these two different systems,
+the whole thing was off
+by a factor of about 4.4.
+Now at no point did the folks at NASA say,
+"Hey guys, you're using
+the newton as a unit of force, right?"
+"No, guys. We were using the pound."
+That conversation never actually happened.
+And so we have our first
+big communication mishap.
+Two sets of teams failed
+to communicate about basic information
+that seemed pretty obvious to everybody.
+And just to put things into perspective,
+imagine instead of sending
+something into space,
+these folks were making a cake.
+And if I thought
+I was using a pound of butter
+and you thought we were using
+a kilogram of butter --
+that's about 2.2 pounds of butter --
+your cake would end up
+tasting pretty gross,
+like this one looks here.
+Now before we get too judgey about this --
+it sounds pretty silly --
+we do this all the time.
+We walk into meetings.
+You know, if we get lucky,
+there's that annoying,
+overly conscientious person
+who says things like,
+before we get started,
+everyone, let's level set
+and talk about, you know,
+whether there's ink in the printer
+at the newspaper we work
+or whatever obvious thing
+they want to get on the same page with.
+And we usually
+roll our eyes at this person
+and we tell them to stop talking
+because we want the meeting to end soon,
+and we want to get on
+to the important stuff.
+And we say things like,
+"We've done this a million times,
+do we really need
+to cover that kind of thing?"
+And the answer is yes,
+we should have that 22nd conversation
+so that our probe does not explode
+when it hits the atmosphere.
+But we often do not do this.
+Now the good news is this is NASA.
+There is no single point of failure.
+And so just because
+you miscalculate your flight path
+doesn't mean the whole mission
+is going to actually end
+in just a complete failure.
+And so people started noticing
+things were wrong.
+And the good news is you can actually
+recalculate a flight path.
+So people started bringing this up
+in various meetings,
+and they even had a conference about it.
+But then there was
+a big mistake that happened.
+Communication mishap number two.
+The people holding
+that critical information
+were ignored for a very dumb reason
+that I'm pretty sure everyone
+in this room can recognize.
+They did not fill out the right form.
+Now all of us know that if you send
+an important message over Slack
+and everybody was on email,
+or over email and everybody was on Slack,
+we just miss that critical information.
+But we don't think that a failure
+to fill out the right form
+is going to be the difference
+between our mission to Mars
+failing and succeeding.
+We think that critical information
+will eventually make its way
+to the important people at the top.
+But often this is not the case.
+We get very married to our processes,
+and these can actually
+be our Achilles heel
+in really important
+group decision-making contexts.
+Things didn't end here.
+There were actually some
+last-ditch efforts to save this mission
+that didn't go so well.
+Someone got on the phone
+with another person.
+They sounded urgent about fixing it,
+but that person didn't
+actually recognize urgency.
+I think the quote
+was something around like,
+"They didn't sound anxious enough",
+and so they weren't taken seriously.
+So this miscommunication
+also worked around nonverbal behaviors,
+tone of voice and so on and so forth.
+So there's lots of ways
+in which this mission went awry.
+But I've been studying miscommunication
+for over 20 years now,
+and I have to say that
+what actually happened at NASA
+is much more the norm than the exception.
+That even when people are making
+really critical decisions,
+they often fall flat on their faces,
+and often for these very simple reasons.
+And this is the case
+even when we give people
+every piece of information they need
+to make the right choice.
+So now I want to talk
+about a very classic experiment
+done in social science.
+So imagine that you're sitting
+in a room with these people
+and your job is simple.
+It's to hire the best job candidate
+among a list of four.
+And we give you
+all the information you need.
+Everyone is handed a piece of paper
+with a bunch of information
+about all of those job candidates.
+Information like,
+"Applicant A is disorganized,"
+"Applicant B has
+strong leadership skills,"
+"Applicant C has won
+many cake baking awards."
+A lot of this information
+is what we're going to call
+overlapping information
+or shared information.
+Everybody has it. But here's the trick.
+One special member of this team
+has what's called unique information,
+special information about applicant C
+that only they have.
+And here's how this task goes.
+If this person does not share
+that unique information,
+applicant C will come across
+as the worst job candidate.
+If they do share this unique information,
+applicant C is going to come across
+as the best applicant.
+So just to be clear,
+the only thing that needs to happen
+for this team to make the right choice
+is that this special person shares
+the information about applicant C,
+the team hears it,
+incorporates into their decision making,
+and they indeed pick the right person.
+Now much like the real world,
+people don't know exactly
+which pieces of information
+everyone else has.
+They just know some is overlapping
+and some is not.
+This is called the hidden profile task.
+It is a very tried and true task,
+and researchers from the University
+of Southern California
+did a huge analysis over 40 years of this
+and found that most of the time,
+teams make the wrong choice.
+By and large, small teams, big teams,
+you know, huge teams, tiny teams,
+teams online, teams in person,
+teams in which the person
+who is holding that unique information
+is an expert.
+Doesn't matter.
+And I have actually found
+in my own research of about 370 teams,
+20 percent unanimously pick applicant C.
+So the question is, what's going on here?
+Well the obvious explanation,
+and one that we often see
+is that teams focus
+on that shared information the most.
+They kind of throw around
+the stuff that they all know.
+They focus very little on that
+critical information about applicant C
+that only one person knows.
+And so what we learned
+is these critical pieces of information
+are incredibly fragile.
+They're like little pieces
+of information in the wind
+that can kind of blow away.
+And because of this,
+we lose this information,
+but we can't actually tell
+that our interactions with one another
+aren't going as well as we think they are.
+And critically,
+because in these interactions
+everyone is motivated
+to make the right decision,
+no one person is trying to bulldoze
+or push their person through,
+these team interactions
+actually feel good,
+and so we can be communicating
+terribly and not know it,
+because the red flags
+that we usually look for,
+those interruptions
+and so on and so forth,
+simply aren't there,
+making this type of poor communication
+just really clever
+and underneath the surface
+of what's going on
+in these team interactions.
+Now in this study, people are all speaking
+the same language, quite literally,
+but also social scientists are very good
+about holding things constant
+that could potentially
+explain this effect.
+Use of jargon, use of, you know,
+different types of cultural languages
+and so on and so forth.
+But in the real world,
+that is not how we talk.
+We show up to these interactions
+using all kinds of different languages.
+And I don't mean that literally.
+I mean the local languages
+that we often develop in our communities,
+in our friend groups, in our workplaces.
+Acronyms, synonyms, turns of phrases
+that we use all the time
+and we don't even realize it.
+And we often call these things
+hidden languages.
+And they are everywhere.
+You probably have already used
+50 of them today
+without even realizing it.
+They're all over our resumes,
+often in the forms
+of random letters strung together
+that very few people recognize.
+And these are great.
+They actually make our lives
+more efficient
+and they build a sense of community,
+they build a sense of identity.
+But if you don't know them --
+and most of us know
+what it feels like to sit in a meeting
+where people are using them
+and we don't know them --
+you feel really stupid and left out,
+and it's awkward to actually
+ask people what they mean.
+Things like, "Let's get this done ASAP."
+"I hold a BA, MBA and I'm the CEO."
+This person is very proud
+and they're showing it
+with all of these letters.
+"Yeet," which I've learned is a thing.
+It is both a verb and a noun.
+"I yeeted the ball, I am yeet."
+I think that's true.
+I probably got that one wrong.
+"That idea is cringe."
+"NASA."
+And sometimes these things
+actually disappear
+just as quickly as they show up.
+I'm not allowed to say "cringe" anymore,
+according to my 12-year-old.
+Now if anyone's ever gone
+to another country,
+you realize some
+of these things don't track.
+I have a lot of German colleagues
+who've told me that there's a phrase
+that says something like,
+"It's all train station to me."
+That is a terrible
+English translation of a German phrase
+that means something like,
+“It’s all Greek.”
+which also doesn't make a ton of sense.
+So we use these phrases all of the time,
+and they can infiltrate
+the ways in which we speak.
+But one thing you probably don't realize
+is just how quickly they actually develop.
+And so some researchers from Caltech
+showed this through
+this very clever experiment.
+They handed people photos of offices
+that looked nearly identical
+to each other,
+and in pairs, they had them describe
+these photos to one another,
+and they looked at how quickly
+they actually came up
+with their own hidden languages.
+So at first they started off
+pretty slowly.
+"This one has a computer, three ferns,
+a cup of coffee, so on and so forth."
+"This one has a computer,
+headphones, a cup of coffee, a phone."
+But over time, and by overtime
+I mean a matter of minutes,
+they got very efficient.
+Team A would call this "wall fern."
+Team B called this one "tidy vibe."
+Why? Nobody knows.
+We just know that they do it.
+Team A calls this one “lots of stuff”,
+and team B calls this one
+"wannabe writer."
+Now imagine that we now have someone
+from another team come join yours.
+Team A is working well together
+and someone from team B joins that team.
+What happens? Do they learn
+their hidden languages?
+Do they start over?
+They actually get really irritated
+with each other pretty quickly
+for not understanding one another.
+Team A says, "It's wall fern.
+You know, the wall fern."
+And team B says something like,
+"Stop saying 'wall fern'.
+Half of them have wall ferns.
+Tell me if there's a tidy vibe."
+So we do not actually realize
+that these hidden languages
+are dominating our conversations,
+and they ended up
+taking so long to do this,
+most of them actually
+didn't finish the task at all.
+Now there’s this huge theme
+here, in this talk,
+that we don't know what others don't know.
+We don't know if they're on the same page
+with ostensibly obvious
+pieces of information,
+like whether we're using
+the newton or the pound
+as our unit of force.
+We don't know what the hidden languages
+are that they're using,
+and we don't know if they are
+sharing critical information
+in the ways that we think they are.
+So the question is: “What are we supposed
+to do with all of this mess
+if we want to make
+smarter team decisions?”
+So I think the first thing
+that we should do
+is be that annoying person in the room
+who says things like, "Let's level set."
+Which, by the way,
+is also a hidden language.
+State the obvious.
+It is a good idea to start those meetings,
+to start those conversations,
+even if it makes people roll their eyes.
+That 22nd conversation
+about the obvious thing
+that should be going on in that meeting
+should happen, and it's OK
+to be the one to do it.
+It's OK to be the one
+to make that the norm in the meeting.
+Realize that not all critical information
+appears as such or is obvious to everyone.
+So in the research I talked about,
+they quite literally handed people
+all the information they needed
+to make the right hiring decision.
+But that is not the real world.
+We walk into rooms.
+We might not know
+if our information is critical,
+we might think it is,
+but there's a norm against sharing it.
+So imagine, for instance,
+that you are making some
+really important decision at work
+and your boss is in the room,
+and that boss is arguing
+to give her direct report Tom a raise.
+But you just saw Tom come out
+of her hotel room three times
+that weekend retreat
+you guys got back from.
+Should you share that information?
+It feels critical to you,
+but it could also just be seen
+as a nasty little nugget of gossip
+if it's shared to the wrong person.
+So we often don't know,
+there are norms that we could be violating
+by sharing critical information.
+We might be sitting on something important
+and we have no idea
+because we are new in the workplace.
+Don't assume people are always sharing it.
+People are actually more likely
+to withhold something
+if they're afraid
+that they're violating a norm,
+or if they're afraid it's not going
+to go down as well as they think it might.
+It's OK to restate information.
+In fact, you should, a few times.
+We learned that people often assume
+that critical information is shared,
+and that's a false assumption.
+Make sure that information sticks.
+Say it in the way you wanted it to say,
+in the way you want it to be heard.
+Restate it, and do it a couple of times,
+and do it at the end of that interaction,
+so that you can make sure
+that your message
+actually goes out as intended.
+It doesn't get restated,
+even by a well-meaning
+member of your team.
+And make it comfortable for people to ask.
+"What did you mean by that?"
+I think most of us know what it feels like
+to be sitting on the other end
+of a conversation,
+which a lot of jargon is thrown around,
+a lot of acronyms,
+and we feel silly asking.
+But make it a norm to just say,
+"What did you mean by that?
+What were those letters?
+What did that phrase mean?"
+We will be much less likely
+to be annoyed with one another
+when those kinds
+of conversations are happening.
+No matter what you do,
+don't say "wall fern."
+Thank you.
+(Applause)
