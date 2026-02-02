@@ -1,0 +1,9837 @@
+MCPS,
+ I
+ will
+ say
+ it's
+ a
+ concept
+ that's
+
+
+really
+ hard
+ to
+ understand
+ for
+ folks.
+
+
+>> Yeah,
+ definitely
+ don't
+ think
+ about
+ the
+
+
+word.
+ It
+ really
+ just
+ is
+ like
+ app
+
+
+integrations
+ for
+ your
+ AI
+ tools.
+ You
+ can
+
+
+create
+ these
+ collections
+ of
+ tools
+ from
+
+
+all
+ the
+ apps
+ you
+ use
+ and
+ give
+ them
+
+
+access
+ to
+ Claude
+ to
+ Chatbt
+ to
+ Cursor,
+
+
+all
+ the
+ places
+ that
+ have
+ inputs
+ for
+ MCP
+
+
+servers
+ today.
+
+
+>> I
+ use
+ agents
+ all
+ the
+ time,
+ but
+ it
+ is
+
+
+hard
+ to
+ break
+ that
+ muscle
+ memory
+ of
+ this
+
+
+is
+ a
+ deterministic
+ workflow
+ versus
+ an
+
+
+instructive
+ agent.
+ even
+ if
+ it
+ has
+ access
+
+
+to
+ the
+ same
+ tools
+ and
+ can
+ do
+ the
+ same
+
+
+things.
+
+
+>> And
+ when
+ it
+ comes
+ down
+ to
+ it,
+ the
+ two
+
+
+things
+ we
+ see
+ people
+ wanting
+ to
+ do
+ is
+
+
+one,
+ giving
+ their
+ favorite
+ AI
+ tool
+ the
+
+
+access
+ to
+ knowledge
+ that
+ lives
+ in
+ their
+
+
+apps
+ as
+ well
+ as
+ giving
+ them
+ the
+ ability
+
+
+to
+ actually
+ do
+ things
+ in
+ those
+ apps.
+
+
+Those
+ are
+ the
+ two
+ things
+ that
+ if
+ that
+
+
+sounds
+ like
+ something
+ that
+ you
+ need
+ in
+
+
+an
+ AI
+ app
+ you
+ use,
+ look
+ for
+ MCP
+ or
+
+
+connectors
+ as
+ it's
+ often
+ being
+ called
+
+
+now
+ as
+ well
+ for
+ that.
+
+
+>> [music]
+
+
+>> Welcome
+ back
+ to
+ How
+ I
+ AI.
+ I'm
+ Claire
+ Vo,
+
+
+product
+ leader
+ and
+ AI
+ obsessive
+ here
+ on
+
+
+a
+ mission
+ to
+ help
+ you
+ build
+ better
+ with
+
+
+these
+ new
+ tools.
+ Today
+ I'm
+ talking
+ to
+
+
+Reed
+ Robinson,
+ product
+ manager
+ on
+ AI
+ at
+
+
+Zapier.
+ And
+ what
+ I
+ love
+ about
+ my
+
+
+conversation
+ with
+ Reed
+ is
+ he's
+ going
+ to
+
+
+show
+ us
+ how
+ to
+ put
+ MCPs
+ to
+ work
+ inside
+
+
+Claude
+ to
+ take
+ over
+ tasks
+ that
+ you
+
+
+really
+ hate.
+ We
+ also
+ talk
+ about
+ whether
+
+
+AI
+ can
+ be
+ the
+ perfect
+ always
+ on
+ team
+
+
+that
+ works
+ while
+ you
+ sleep
+ and
+ some
+ use
+
+
+cases
+ to
+ make
+ your
+ kids
+ and
+ your
+ partner
+
+
+a
+ little
+ happier.
+ Let's
+ get
+ to
+ it.
+ This
+
+
+episode
+ is
+ brought
+ to
+ you
+ by
+ work
+ OS.
+
+
+[music]
+ AI
+ has
+ already
+ changed
+ how
+ we
+
+
+work.
+ Tools
+ are
+ helping
+ teams
+ write
+
+
+better
+ code,
+ analyze
+ customer
+ data,
+ and
+
+
+even
+ handle
+ support
+ tickets
+ [music]
+
+
+automatically.
+ But
+ there's
+ a
+ catch.
+
+
+These
+ tools
+ only
+ work
+ well
+ when
+ they
+
+
+have
+ deep
+ access
+ to
+ company
+ systems.
+
+
+Your
+ co-pilot
+ needs
+ to
+ see
+ your
+ entire
+
+
+codebase.
+ Your
+ chatbot
+ needs
+ to
+ search
+
+
+across
+ internal
+ docs.
+ And
+ for
+ enterprise
+
+
+buyers,
+ that
+ [music]
+ raises
+ serious
+
+
+security
+ concerns.
+ That's
+ why
+ these
+ apps
+
+
+face
+ intense
+ IT
+ scrutiny
+ from
+ day
+ one.
+
+
+To
+ pass,
+ they
+ need
+ secure
+
+
+authentication,
+ access
+ controls,
+ audit
+
+
+logs,
+ the
+ whole
+ suite
+ of
+ enterprise
+
+
+[music]
+ features.
+ Building
+ all
+ that
+ from
+
+
+scratch,
+ it's
+ a
+ massive
+ lift.
+ That's
+
+
+where
+ Work
+ OS
+ comes
+ in.
+ Work
+ OS
+ gives
+
+
+you
+ [music]
+ drop-in
+ APIs
+ for
+ enterprise
+
+
+features
+ so
+ your
+ app
+ can
+ become
+
+
+enterprise
+ ready
+ and
+ scale
+ [music]
+ up
+
+
+market
+ faster.
+ Think
+ of
+ it
+ like
+ Stripe
+
+
+for
+ enterprise
+ features.
+ OpenAI,
+
+
+Perplexity,
+ [music]
+ and
+ Cursor
+ are
+
+
+already
+ using
+ work
+ OS
+ to
+ move
+ faster
+ and
+
+
+meet
+ enterprise
+ demands.
+ Join
+ them
+ and
+
+
+hundreds
+ of
+ other
+ industry
+ leaders
+ at
+
+
+workos.com.
+
+
+Start
+ building
+ today.
+ Hey
+ Reed,
+ thanks
+
+
+for
+ joining
+ how
+ I
+ AI.
+ Thanks
+ for
+ having
+
+
+me
+ here,
+ Claire.
+ Excited
+ to
+ chat
+ today.
+
+
+>> What
+ I
+ love
+ about
+ how
+ you've
+ described
+
+
+your
+ role
+ at
+ Zapier,
+ which
+ I
+ use
+ all
+ the
+
+
+time,
+ I
+ say
+ is
+ like
+ loadbearing
+
+
+infrastructure
+ over
+ at
+ Chat
+ PRD,
+ is
+
+
+you've
+ you've
+ worked
+ your
+ way
+ into
+ a
+
+
+role
+ where
+ you
+ get
+ to
+ kind
+ of
+ like
+ pick
+
+
+what
+ you're
+ working
+ on
+ next
+ in
+ in
+ AI.
+
+
+And
+ so
+ I'd
+ love
+ to
+ hear
+ about
+ what
+
+
+you're
+ focused
+ on
+ and
+ how
+ that's
+
+
+actually
+ impacted
+ how
+ you
+ think
+ some
+
+
+about
+ some
+ of
+ your
+ personal
+ workflows.
+
+
+>> Absolutely.
+ So
+ yeah,
+ the
+ way
+ I
+ often
+
+
+describe
+ my
+ role
+ is
+ often
+ like
+ sisophist
+
+
+of
+ AI
+ at
+ Zapier
+ just
+ pushing
+ the
+ rock
+ up
+
+
+the
+ hill
+ wherever
+ that
+ rock
+ may
+ be
+ and
+
+
+whatever
+ the
+ hill
+ might
+ be.
+ Right
+ now
+
+
+the
+ thing
+ I'm
+ most
+ excited
+ about
+ and
+
+
+where
+ I'm
+ choosing
+ to
+ spend
+ a
+ lot
+ of my
+
+
+time
+ working
+ on
+ AI
+ is
+ on
+ our
+ approach
+ to
+
+
+MCPs.
+ Uh
+ so
+ we've
+ got
+ you
+ know
+ a
+ server
+
+
+approach
+ but
+ as
+ well
+ as
+ what
+ we're
+ doing
+
+
+on
+ the
+ client
+ side.
+ you
+ know,
+ MCPs,
+ I
+
+
+will
+ say,
+ uh,
+ still,
+ I
+ think,
+ un
+ both
+
+
+kind
+ of
+ very
+ hyped
+ and
+ underutilized
+ by
+
+
+people.
+ Um,
+ because
+ I
+ think
+ it's
+ a
+ it's
+
+
+a
+ concept
+ that's
+ really
+ hard
+ to
+
+
+understand
+ for
+ folks.
+ So,
+ I'd
+ encourage
+
+
+our
+ listeners
+ and
+ our
+ watchers
+ who
+ are
+ a
+
+
+little
+ nervous
+ about
+ waiting
+ into
+ the
+
+
+world
+ of
+ MCPs
+ to
+ just
+ really
+ think
+
+
+about,
+ you
+ know,
+ if
+ I
+ could
+ give
+ my
+
+
+favorite
+ AI
+ chat
+ client
+ or
+ IDE
+ or
+
+
+whatever
+ access
+ to
+ a
+ bunch
+ of
+ tools
+ to
+
+
+do
+ things
+ for
+ me,
+ um,
+ what
+ would
+ I
+ want
+
+
+them
+ to
+ do
+ and
+ then
+ go
+ hunt
+ for
+ an
+ MCP
+
+
+that
+ that
+ does
+ that
+ thing.
+ And
+ I
+ think
+
+
+you
+ have
+ have
+ built
+ a
+ product
+ that
+ has
+
+
+tried
+ to
+ abstract
+ away
+ some
+ of
+ that
+
+
+complexity
+ for
+ Zapier
+ users
+ at
+ least.
+
+
+Could
+ you
+ walk
+ us
+ through
+ kind
+ of
+ a
+
+
+little
+ bit
+ of
+ your
+ approach
+ there?
+
+
+>> Yeah,
+ absolutely.
+ And
+ I
+ I
+ think
+ you
+ said
+
+
+it
+ really
+ well.
+ The
+ two
+ kind
+ of
+ use
+
+
+cases
+ I
+ give
+ people
+ to
+ just
+ like
+ I
+ don't
+
+
+know
+ think
+ about
+ MCPS
+ is
+ Yeah,
+
+
+definitely
+ don't
+ think
+ about
+ the
+ word.
+
+
+It
+ really
+ just
+ is
+ like
+ app
+ integrations
+
+
+for
+ your
+ AI
+ tools.
+ And
+ when
+ it
+ comes
+
+
+down
+ to
+ it,
+ the
+ two
+ things
+ we
+ see
+ people
+
+
+wanting
+ to
+ do
+ is
+ one
+ giving
+ their
+
+
+favorite
+ AI
+ tool
+ access
+ to
+ knowledge
+
+
+that
+ lives
+ in
+ their
+ apps
+ as
+ well
+ as
+
+
+giving
+ them
+ the
+ ability
+ to
+ actually
+ do
+
+
+things
+ in
+ those
+ apps.
+ So,
+ it's
+ really
+
+
+those
+ are
+ the
+ two
+ things
+ that
+ if
+ like
+
+
+that
+ sounds
+ like
+ something
+ that
+ you
+ need
+
+
+in
+ an
+ AI
+ app
+ you
+ use,
+ look
+ for
+ MCP
+ or
+
+
+connectors
+ as
+ it's
+ often
+ being
+ called
+
+
+now
+ as
+ well
+ uh
+ for
+ that.
+ And
+ yeah,
+ the
+
+
+approach
+ that
+ Zapier
+ took
+ for
+ anybody
+
+
+not
+ familiar
+ with
+ Zapier.
+ Uh
+ we're
+ like
+
+
+uh
+ one
+ of
+ the
+ world's
+ largest
+ AI
+
+
+orchestration
+ automation
+ platforms.
+ And
+
+
+what
+ that
+ really
+ means
+ on
+ the
+ MCP
+ side
+
+
+is
+ we've
+ got
+ 8,000
+ apps
+ on
+ Zapier
+ that
+
+
+are
+ like
+ every
+ SAS
+ app
+ you
+ can
+ imagine.
+
+
+There's
+ 30,000
+ searches
+ and
+ actions
+
+
+amongst
+ that.
+ And
+ that's
+ all
+ exposed
+ via
+
+
+Zapier
+ MCP.
+ So
+ you
+ can
+ create
+ these
+ like
+
+
+collections
+ of
+ tools
+ from
+ all
+ the
+ apps
+
+
+you
+ use
+ and
+ give
+ them
+ access
+ to
+ claude
+
+
+to
+ chatbt
+ to
+ cursor
+ to
+ all
+ the
+ places
+
+
+that
+ have
+ kind
+ of
+ inputs
+ for
+ MCP
+ servers
+
+
+today.
+
+
+>> Do
+ you
+ mind
+ pulling
+ that
+ up
+ and
+ just
+
+
+showing
+ us
+ a
+ little
+ bit
+ of
+ what
+ that
+
+
+that
+ looks
+ like?
+ And
+ while
+ you're
+
+
+pulling
+ up
+ your
+ screen,
+ I
+ do
+ bless
+ you
+
+
+MCP
+ framework
+ provider.
+ Um,
+ but
+ we
+ gota
+
+
+work
+ we
+ got
+ to
+ work
+ on
+ the
+ branding
+
+
+here.
+ So
+ I
+ think
+ your
+ description
+ is
+
+
+exactly
+ right
+ like
+ app
+ connectors
+ for
+
+
+for
+ your
+ AI
+ is
+ such
+ a
+ simpler
+ way
+ for
+
+
+the
+ everyday
+ consumer
+ to
+ understand
+
+
+this.
+ Um,
+ and
+ so
+ okay
+ so
+ you're
+ showing
+
+
+us
+ Zapier
+ here
+ for
+ folks
+ that
+ are
+ just
+
+
+listening
+ and
+ just
+ can
+ you
+ walk
+ through
+
+
+in
+ oh
+ you
+ have
+ 8,000
+ tools
+ that
+ or
+ 8,000
+
+
+apps
+ you
+ can
+ add
+ tools
+ from.
+ So
+ this
+ is
+
+
+your
+ MCP
+ server
+ that
+ you've
+ added
+ a
+
+
+custom
+ set
+ of
+ tools
+ that
+ you're
+ going
+ to
+
+
+use
+ pretty
+ consistently
+ either
+ for
+ a
+ use
+
+
+case
+ or
+ just
+ as
+ a
+ as
+ an
+ individual,
+
+
+right?
+
+
+>> Yeah,
+ exactly.
+ And
+ so
+ the
+ way
+ that
+ it
+
+
+works
+ is
+ I
+ kind
+ of
+ set
+ up
+ the
+ ones
+ that
+
+
+I'm
+ using
+ specifically
+ for
+ Claude.
+ Uh
+
+
+and
+ so
+ what's
+ nice
+ on
+ Zapier
+ side
+ unlike
+
+
+many
+ other
+ MCP
+ servers
+ is
+ we
+ actually
+
+
+are
+ more
+ like
+ a
+ platform
+ for
+ creating
+
+
+servers.
+ So
+ you
+ can
+ create
+ multiple
+ and
+
+
+what
+ that
+ means
+ is
+ you
+ can
+ create
+
+
+specific
+ sets
+ of
+ tools
+ to
+ use
+ with
+
+
+claude
+ or
+ with
+ a
+ particular
+ agent
+ or
+
+
+with
+ chatbt
+ or
+ with
+ cursor
+ uh
+ really
+
+
+anything
+ out
+ there
+ that
+ supports
+ it.
+ Um,
+
+
+which
+ is
+ nice
+ cuz
+ for
+ me
+ those
+ tools
+ are
+
+
+different
+ from
+ one
+ place
+ to
+ the
+ other.
+
+
+And
+ yeah,
+ you
+ can
+ see
+ or
+ for
+ those
+ who
+
+
+can't
+ see,
+ uh,
+ you
+ can
+ add
+ tools
+ from
+
+
+things
+ like
+ Slack,
+ Evernotes,
+ Glean,
+
+
+Koda,
+ Google
+ Calendar,
+ and
+ you
+ can
+
+
+actually
+ start
+ to
+ customize
+ those
+ tools
+
+
+as
+ well.
+ Um
+ so
+ whether
+ you
+ want
+ to
+ like
+
+
+restrict
+ them
+ to
+ using
+ certain
+ uh
+
+
+databases
+ like
+ I've
+ done
+ with
+ Kod
+ I
+ for
+
+
+my
+ use
+ within
+ claude
+ I
+ really
+ I'm
+ using
+
+
+it
+ for
+ particular
+ documents
+ and
+
+
+particular
+ sheets
+ for
+ instance
+ um
+ and
+
+
+other
+ sides
+ like
+ with
+ Evernote
+ I
+ want
+ to
+
+
+restrict
+ it
+ to
+ writing
+ to
+ certain
+
+
+notebooks.
+ Uh
+ so
+ it
+ really
+ allows
+ you
+ to
+
+
+like
+ customize
+ the
+ way
+ you
+ want
+ your
+
+
+tool
+ to
+ work
+ in
+ different
+ places.
+ uh
+
+
+which
+ is
+ quite
+ nice
+ because
+ then
+ it's
+
+
+like
+ a
+ single
+ URL
+ to
+ give
+ over
+ to
+ Claude
+
+
+and
+ connect
+ to.
+ And
+ now
+ if
+ I
+ switch
+ over
+
+
+to
+ Claude
+ here,
+ uh
+ you
+ can
+ see
+ that
+
+
+Claude
+ now
+ has
+ like
+ a
+ single
+ Zapier
+
+
+connector,
+ but
+ in
+ that
+ Zapier
+ connector
+
+
+is
+ like
+ all
+ of
+ the
+ different
+ tools
+ that
+
+
+I
+ want
+ Claude
+ to
+ be
+ able
+ to
+ access.
+
+
+>> Yeah.
+ Yeah.
+ And
+ one
+ of
+ the
+ things
+ that
+
+
+I'll
+ call
+ out
+ for
+ the
+ sort
+ of
+ more
+
+
+advanced
+ MCP
+ users
+ and
+ a
+ challenge
+ that
+
+
+I've
+ always
+ had
+ is
+ when
+ you're
+ adding
+
+
+these
+ individual
+ MCP,
+ like
+ there's
+ a
+
+
+Google
+ calendar
+ MCP
+ and
+ I'm
+ sure
+ there's
+
+
+a
+ KOD
+ MCP
+ is
+ when
+ you're
+ adding
+ these
+
+
+individual
+ ones,
+ you
+ kind
+ of
+ have
+ to
+ do
+
+
+that
+ configuration
+ at
+ the
+ provider
+
+
+level.
+ Um,
+ and
+ what
+ I
+ like
+ about
+ this
+
+
+approach
+ is
+ like
+ this
+ custom
+ collection
+
+
+of
+ tools
+ is
+ actually
+ a
+ really
+ nice
+ way
+
+
+to
+ think
+ about
+ the
+ MCP
+ tools
+ that
+ you
+
+
+need.
+ Um,
+ either
+ just
+ in
+ general
+ or
+ for
+
+
+a
+ specific
+ use
+ case.
+ And
+ then
+ for
+ um,
+
+
+MCP
+ clients
+ out
+ there,
+ I
+ just
+ I
+ think
+
+
+we're
+ going
+ to
+ need
+ at
+ some
+ point
+ more
+
+
+and
+ I
+ know
+ you're
+ working
+ on
+ this,
+ but
+
+
+like
+ you
+ just
+ need
+ more
+ granular
+ control
+
+
+over
+ tools
+ pri
+ I
+ mean
+ like
+ priority.
+ I
+
+
+think
+ of
+ tool
+ calling
+ is
+ really
+
+
+important.
+ I
+ have
+ um
+ two
+ MCPs
+ that
+ I
+ use
+
+
+really
+ frequently
+ in
+ cursor
+ and
+ they're
+
+
+always
+ like
+ competing
+ for
+ which
+ one
+ I'm
+
+
+trying
+ to
+ call
+ because
+ I
+ say
+ it's
+ like
+
+
+it's
+ like
+ search
+ projects.
+ Everything
+
+
+has
+ projects
+ in
+ it.
+ Always
+ calls
+ the
+
+
+wrong
+ wrong
+ MCP.
+ And
+ so
+ I
+ do
+ think
+ like
+
+
+the
+ the
+ meta
+ abstractions
+ around
+ MCPS
+
+
+are
+ going
+ to
+ start
+ being
+ more
+ important
+
+
+as
+ they
+ become
+ more
+ adopted.
+ So
+ that's
+
+
+Claire's
+ uh
+ manifesto
+ on
+ MCP
+ MCP
+ design.
+
+
+All
+ right.
+ So,
+ you
+ have
+ this
+ custom
+ MCP.
+
+
+I
+ mean,
+ what
+ are
+ specific
+ things
+ this
+
+
+unlocks
+ for
+ you?
+ So,
+ what
+ use
+ cases
+ are
+
+
+are
+ you
+ using
+ here
+ to
+ actually
+ get
+ more
+
+
+work
+ done?
+
+
+>> Yeah.
+ So,
+ for
+ me,
+ there's
+ like
+ things
+
+
+that
+ I
+ don't
+ love
+ doing
+ um
+ is
+ really
+
+
+where
+ it
+ helps
+ me.
+ Uh
+ so,
+ one
+ like
+ and
+
+
+for
+ one
+ of the
+ things
+ you
+ just
+ touched
+
+
+on,
+ which
+ is
+ like
+ the
+ model's
+ ability
+
+
+today
+ to
+ pick
+ which
+ tool
+ is
+ a
+ bit
+ murky.
+
+
+Um
+ I
+ think
+ Claude
+ is
+ a
+ phenomenal
+ place.
+
+
+They've
+ done
+ a
+ great
+ job
+ with
+ tool
+
+
+calling.
+ One
+ of
+ the
+ tricks
+ for
+ anybody
+
+
+listening
+ uh
+ check
+ out
+ cloud
+ projects.
+
+
+Uh
+ in
+ particular,
+ one
+ of
+ the
+ things
+ that
+
+
+you
+ can
+ do
+ in
+ cloud
+ projects
+ is
+ provide
+
+
+very
+ like
+ detailed
+ instructions
+ for
+ use
+
+
+cases.
+ And
+ so
+ for
+ instance,
+ I'll
+ show
+
+
+I'll
+ share
+ my
+ screen
+ here,
+ but
+ I
+ have
+
+
+one
+ that's
+ all
+ about
+ the
+ way
+ I
+ like
+
+
+logging
+ and
+ looking
+ up
+ data
+ from
+ CRM
+
+
+from
+ our
+ CRM
+ for
+ things.
+ And
+ I've
+
+
+actually
+ told
+ it
+ like
+ how
+ it
+ should
+ use
+
+
+tools,
+ in
+ which
+ order
+ it
+ should
+ use
+
+
+tools,
+ what
+ data
+ should
+ go
+ where
+ when
+
+
+it's
+ creating
+ records
+ in
+ those
+ with
+
+
+those
+ tools.
+ And
+ it
+ when
+ so
+ then
+ in
+
+
+Claude
+ when
+ I'm
+ trying
+ to
+ do
+ things,
+ I
+
+
+can
+ actually
+ be
+ like,
+ oh,
+ I'm
+ doing
+ a
+
+
+CRM
+ thing.
+ I'm
+ actually
+ going
+ to
+ go
+
+
+ahead
+ and
+ select
+ my
+ CRM
+ project
+ and
+ then
+
+
+shoot
+ over
+ a
+ message.
+ And
+ now
+ Claude's
+
+
+ability
+ to
+ like
+ execute
+ across
+ many
+
+
+different
+ tools
+ sequentially
+ uh
+ is
+ so
+
+
+much
+ better.
+ Uh,
+ so
+ I'd
+ highly
+ recommend
+
+
+if
+ anybody's
+ like
+ running
+ into
+ those
+
+
+things,
+ try
+ out
+ projects.
+ Um,
+ highly
+
+
+recommend
+ it.
+
+
+>> Yeah,
+ I've
+ heard
+ a
+ lot
+ of
+ people
+ talk
+
+
+about
+ using
+ cloud
+ projects
+ for
+
+
+knowledge,
+ like
+ loading
+ it
+ up
+ with
+
+
+knowledge,
+ but
+ I
+ haven't
+ heard
+ anybody
+
+
+talk
+ about
+ what
+ you
+ specifically
+ gave
+ as
+
+
+an
+ example,
+ which
+ is
+ use
+ cloud
+ projects
+
+
+to
+ give
+ specific
+ instructions
+ relative
+
+
+to
+ MCP
+ tool
+ usage
+ and
+ a
+ workflow.
+ And
+ so
+
+
+folks,
+ listen
+ up.
+ You
+ can
+ do
+ that
+ in
+
+
+cloud
+ projects
+ um
+ and
+ probably
+ other
+
+
+clients
+ to
+ just
+ make
+ your
+ your
+ use
+ of
+
+
+your
+ tools
+ more
+ efficient.
+ Okay,
+ so
+ you
+
+
+have
+ this
+ cloud
+ project.
+ It
+ looks
+ like
+
+
+one
+ of
+ the
+ things
+ you
+ hate
+ doing
+ is
+
+
+updating
+ your
+ CRM.
+ Um
+ like
+ like
+ a
+ true
+
+
+account.
+
+
+[laughter]
+
+
+Um
+ I
+ I
+ I
+ do
+ actually
+ tell
+ people
+ um
+ MCPs
+
+
+are
+ highly
+ underappreciated
+ by
+ customerf
+
+
+facing
+ teams.
+ Like
+ what
+ what
+ do
+
+
+customerf
+ facing
+ teams
+ hate
+ doing?
+
+
+updating
+ Salesforce,
+ we
+ hate
+ it.
+ We
+ hate
+
+
+it.
+ And
+ so
+ like,
+ you
+ know,
+ keeping
+ good
+
+
+customer
+ records,
+ whether
+ it's
+ for
+ a
+
+
+sales
+ use
+ case,
+ a
+ research
+ use
+ case,
+
+
+whatever,
+ is
+ like
+ really
+ tedious
+ and
+
+
+they're
+ actually
+ amazing
+ MCPs
+ out
+ there
+
+
+to
+ do
+ this.
+ So,
+ uh,
+ I
+ love
+ to
+ see
+ how
+
+
+how
+ this
+ works
+ in
+ your
+ flow.
+
+
+>> Yeah,
+ absolutely.
+ So,
+ we
+ know
+ first
+ one
+
+
+of
+ the
+ first
+ things
+ I
+ do
+ is
+ I
+ have
+ my
+
+
+daily
+ planning
+ one
+ and
+ that
+ actually
+
+
+like
+ goes
+ through
+ my
+ full
+ calendar
+ and
+
+
+one
+ of
+ the
+ nice
+ things
+ is
+ I've
+ given
+ it
+
+
+access
+ to
+ like
+ internal
+ uh
+ lookup
+ tools.
+
+
+So,
+ for
+ instance,
+ when
+ I
+ run
+ this,
+ it
+
+
+can
+ actually
+ look
+ up
+ the
+ person
+ I'm
+
+
+meetings
+ with,
+ uh,
+ Zapier
+ usage,
+ their
+
+
+company's
+ Zapier
+ usage,
+ our
+ past
+ sales
+
+
+interaction
+ with
+ them,
+ and
+ it's
+ able
+ to
+
+
+like
+ follow
+ the
+ process
+ of
+ doing
+ all
+
+
+that
+ lookup,
+ and
+ then
+ when
+ it
+ comes
+ back
+
+
+with
+ ultimately
+ my
+ daily
+ update,
+ it
+ has
+
+
+all
+ of
+ that
+ research
+ included.
+ So,
+
+
+again,
+ really
+ one
+ that
+ I've
+ helped
+ a
+ lot
+
+
+of
+ our
+ sales
+ team
+ uh,
+ get
+ set
+ up
+ with,
+
+
+and
+ we've
+ actually
+ been
+ like
+ demoing
+ it
+
+
+uh,
+ when
+ we
+ go
+ to
+ like
+ events.
+ Uh,
+
+
+that's
+ been
+ pretty
+ fun.
+ But
+ yeah,
+ on
+ the
+
+
+CRM
+ side,
+ so
+ let's
+ say
+ that
+ I
+ have
+ the
+
+
+biggest
+ one
+ for
+ me
+ is
+ actually
+ my
+ like
+
+
+postmeating
+ notes
+ management.
+ Uh
+ I
+ I'm
+ a
+
+
+big
+ fan
+ of
+ Granola.
+ They're
+ a
+ great
+
+
+tool.
+ Uh
+ but
+ I
+ struggle
+ with
+ the
+ fact
+
+
+that
+ sometimes
+ I
+ don't
+ want
+ to
+ log
+ those
+
+
+notes
+ or
+ I
+ don't
+ do
+ it
+ all
+ the
+ time.
+ Um
+
+
+or
+ it
+ can
+ just
+ be
+ really
+ tedious
+ to
+ go
+
+
+about
+ doing
+ that.
+ And
+ so
+ one
+ of
+ the
+
+
+things
+ that
+ I
+ found
+ really
+ helpful
+ here
+
+
+is
+ I
+ can
+ I
+ have
+ like
+ a
+ cloud
+ project
+
+
+that
+ has
+ a
+ bunch
+ of
+ instructions
+ on
+ just
+
+
+how
+ to
+ log
+ this
+ data,
+ where
+ should
+ it
+
+
+log,
+ and
+ then
+ I
+ can
+ go
+ in
+ and
+ actually
+
+
+select
+ that
+ project.
+ Um,
+ and
+ then
+ what
+
+
+it
+ can
+ do
+ is
+ it
+ should
+ be
+ a
+ it'll
+ have
+
+
+access
+ to
+ all
+ the
+ tools
+ and
+ it'll
+ start
+
+
+like
+ running
+ it
+ through
+ uh
+ for
+ this.
+ And
+
+
+now
+ this
+ one's
+ going
+ to
+ be
+ interesting
+
+
+because
+ I'm
+ I
+ have
+ the
+ project
+
+
+configured
+ to
+ like
+ our
+ production
+
+
+database
+ and
+ it's
+ going
+ to
+ try
+ it
+ with
+ a
+
+
+different
+ one.
+ So
+ let's
+ see
+ if
+ this
+
+
+works
+ for
+ that.
+ But
+ it
+ should
+ be
+
+
+checking
+ against
+ this
+ kod
+ document
+ uh
+
+
+for
+ things
+ and
+ seeing
+ like
+ what
+ are
+ the
+
+
+interviews
+ I
+ have
+ scheduled
+ and
+ what
+ are
+
+
+the
+ things
+ that
+ are
+ coming
+ up.
+ And
+ if
+ I
+
+
+go
+ back
+ to
+ my
+ little
+ buddy
+ claude
+ here,
+
+
+it's
+ going
+ to
+ tell
+ me
+ that
+ sure
+ enough
+
+
+nothing
+ was
+ found.
+ Uh
+ then
+ it
+ can
+ choose
+
+
+to,
+ you
+ know,
+ start
+ doing
+ additional
+
+
+things
+ where
+ I've
+ taught
+ it
+ to
+ like
+ use
+
+
+our
+ internal
+ lookup
+ to
+ find
+ this
+
+
+person's
+ thing.
+ Uh
+ I'm
+ going
+ to
+ skip
+
+
+this
+ for
+ now.
+ Don't
+ want
+ to
+ pull
+ in
+
+
+actual
+ stuff
+ here.
+ And
+ then
+ some
+ other
+
+
+things
+ is
+ glean.
+ Like
+ now
+ I've
+ given
+ it
+
+
+an
+ action
+ uh
+ as
+ well
+ to
+ search
+ like
+ our
+
+
+internal
+ Glean
+ uh
+ tool
+ which
+ is
+ awesome
+
+
+because
+ then
+ I
+ could
+ see
+ like
+ oh
+ well
+ we
+
+
+talked
+ about
+ this
+ customer
+ in
+ Slack
+ or
+
+
+we
+ had
+ notes
+ from
+ the
+ CSM
+ on
+ what
+ this
+
+
+meeting's
+ supposed
+ to
+ be
+ about.
+ So
+ it
+
+
+helps
+ do
+ a
+ lot
+ of
+ that.
+ And
+ then
+
+
+eventually
+ what
+ it
+ gets
+ into
+ doing
+ is
+
+
+start
+ to
+ say
+ like,
+ okay,
+ this
+ didn't
+
+
+exist.
+ Here's
+ what
+ I
+ looked
+ up
+ based
+ on
+
+
+the
+ notes
+ from
+ the
+ meeting.
+ Like,
+ let
+ me
+
+
+go
+ create
+ that
+ and
+ run
+ with
+ it.
+
+
+>> And
+ that
+ updates
+ your
+ KOD
+ with
+ what?
+
+
+>> Ah,
+ so
+ yeah,
+ that
+ updates
+ the
+ COD
+ with
+
+
+like
+ and
+ this
+ is
+ I'm
+ doing
+ a
+ demo
+ in
+
+
+here
+ for
+ y'all.
+ Um,
+ essentially
+ like
+ the
+
+
+KOD
+ that
+ I
+ do
+ have
+ is
+ a
+ lot
+ of
+ the
+ times
+
+
+I
+ work
+ on
+ some
+ of
+ our
+ like
+ new
+ products
+
+
+or
+ new
+ features.
+ I'm
+ doing
+ like
+ customer
+
+
+research
+ in
+ these
+ like
+ smaller
+ dedicated
+
+
+sprints.
+ And
+ so
+ we
+ typically
+ will
+ have
+
+
+something
+ in
+ KOD.
+ I
+ might
+ also
+ need
+ to
+
+
+update
+ our
+ actual
+ CRM
+ which
+ will
+ use
+
+
+HubSpot
+ as
+ well.
+ So
+ I'd
+ have
+ that
+ as
+
+
+like
+ an
+ additional
+ tool
+ to
+ log
+ it
+ as
+ an
+
+
+activity
+ on
+ the
+ meeting.
+ But
+ for
+ the
+
+
+most
+ part,
+ I'm
+ making
+ sure
+ that
+ I
+ have
+ a
+
+
+record
+ of
+ this
+ meeting.
+ Uh
+ who
+ I
+ met
+
+
+with,
+ what
+ if
+ there
+ were
+ next
+ steps,
+
+
+what
+ were
+ the
+ next
+ steps.
+ Uh
+ it'll
+
+
+include
+ some
+ details
+ on
+ like
+ what
+ is
+ if
+
+
+there's
+ a
+ bigger
+ opportunity,
+ like
+ what
+
+
+are
+ the
+ opportunity
+ details.
+ um
+ you
+ can
+
+
+really
+ get
+ it
+ to
+ include
+ a
+ lot
+ of
+
+
+things.
+ And
+ I
+ think
+ that's
+ where
+ if
+ I
+ go
+
+
+back
+ to
+ the
+ prompt
+ for
+ a
+ second,
+ uh
+
+
+things
+ like
+ this
+ here
+ where
+ you'll
+ see
+ I
+
+
+t
+ I
+ kind
+ of
+ like
+ I
+ don't know
+ our
+ users
+
+
+always
+ say
+ they
+ train
+ the
+ model.
+ So
+ if
+
+
+that
+ makes
+ sense
+ to
+ you,
+ you
+ can
+ train
+
+
+the
+ model
+ uh
+ on
+ how
+ to
+ populate
+ your
+ CRM
+
+
+fields
+ because
+ everybody's
+ CRM
+ fields
+
+
+are
+ unique,
+ right?
+ Like
+ nobody
+ uses
+ uh
+
+
+standard
+ cookie
+ cutter
+ CRM
+ for
+ the
+ most
+
+
+part.
+ Um
+ folks
+ love
+ their
+ custom
+ fields.
+
+
+Um,
+ but
+ models
+ don't
+ know
+ what
+ those
+
+
+custom
+ fields
+ are
+ and
+ what
+ those
+ choices
+
+
+are.
+ So,
+ great
+ way
+ again
+ just
+ to
+ get
+ it
+
+
+to
+ be
+ familiar
+ with
+ you
+ and
+ working
+
+
+specifically
+ for
+ you.
+
+
+>> What
+ I
+ think
+ is
+ really
+ interesting
+ here
+
+
+again
+ as
+ like
+ a
+ power
+ Zapier
+ user
+ is
+ I
+
+
+have
+ a
+ similar
+ flow
+ which
+ is
+ I
+ take
+
+
+granola
+ transcripts.
+ I
+ use
+ the
+ granola
+
+
+um
+ app
+ in
+ Zapier
+ but
+ I
+ have
+ mapped
+ this
+
+
+out
+ in
+ the
+ standard
+ workflow
+ builder.
+ So
+
+
+I
+ have
+ done
+ the
+ I
+ think
+ now
+ that
+ I'm
+
+
+seeing
+ this
+ the
+ inefficient
+ task
+ of
+
+
+saying
+ okay
+ like
+ if
+ this
+ look
+ up
+ this
+
+
+record
+ if
+ the
+ record
+ doesn't
+ exist
+ do
+
+
+that
+ if
+ the
+ record
+ does
+ exist
+ do
+ this
+
+
+and
+ so
+ I
+ have
+ this
+ like
+ very
+ similar
+ CRM
+
+
+record
+ updating
+ flow
+ in
+ Zapier
+ um
+ but
+
+
+it's
+ very
+ step-by-step
+ kind
+ of
+ like
+
+
+deterministic
+ workflow
+ and
+ what
+ I
+ like
+
+
+about
+ this
+ and
+ I
+ should
+ be
+ doing
+ better
+
+
+because
+ I'm
+ supposed
+ to
+ be
+ like
+ fairy
+
+
+godmother
+ of
+ AI
+ I
+ you
+ can
+ actually
+ just
+
+
+in
+ natural
+ language
+ describe
+ that
+ flow
+
+
+and
+ I
+ know
+ this
+ I
+ use
+ agents
+ all
+ the
+
+
+time
+ but
+ it
+ is
+ hard
+ to
+ break
+ that
+ muscle
+
+
+memory
+ of
+ like
+ this
+ is
+ a
+ you
+ know
+ a
+
+
+deterministic
+ workflow
+ versus
+ an
+
+
+instructive
+ agent
+ even
+ if
+ it
+ has
+ access
+
+
+to
+ the
+ same
+ tools
+ and
+ can
+ do
+ the
+ same
+
+
+things.
+ And
+ so
+ have
+ you
+ found
+ that
+
+
+one
+ one
+ path
+ or
+ the
+ other
+ is
+ more
+ or
+
+
+less
+ brittle?
+ Meaning
+ like
+
+
+is
+ is
+ this
+ actually
+ more
+ resilient
+ this
+
+
+sort
+ of
+ like
+ MCP
+ agentic
+ instructions
+
+
+piece
+ more
+ resilient
+ to
+ the
+ complexities
+
+
+of
+ your
+ data
+ or
+ do
+ you
+ find
+ that
+ it
+
+
+fails
+ more
+ or
+ less
+ than
+ like
+ kind
+ of
+
+
+these
+ nice
+ uh
+ netted
+ out
+ workflows?
+
+
+>> Yeah,
+ it's
+ a
+ very
+ good
+ question.
+ I
+ think
+
+
+the
+ on
+ the
+ kind
+ of
+ reliability
+ or
+ where
+
+
+they
+ fail,
+ they're
+ they've
+ got
+ their
+
+
+like
+ pros
+ and
+ cons.
+ The
+ pros
+ of
+ doing
+
+
+things
+ like
+ asynchronously
+ is
+ certainly
+
+
+things
+ can
+ take
+ longer.
+ Uh
+ like
+ one
+ of
+
+
+the
+ biggest
+ challenges
+ right
+ now
+ with
+
+
+MCP
+ stuff
+ is
+ they
+ just
+ they
+ can't
+ take
+
+
+that
+ long.
+ Um
+ and
+ so
+ if
+ you
+ have
+ like
+ a
+
+
+lookup
+ process
+ that
+ might
+ take
+ like
+
+
+seven
+ minutes,
+ like
+ that's
+ not
+ going
+ to
+
+
+work
+ here.
+ uh
+ where
+ that
+ does
+ you
+ can
+
+
+start
+ to
+ do
+ a
+ lot
+ more
+ of
+ that
+ in
+ like
+
+
+deterministic
+ workflow
+ land
+ so
+ to
+ speak.
+
+
+Um
+ the
+ other
+ big
+ thing
+ though
+ to
+ be
+
+
+honest
+ like
+ the
+ distinction
+ that
+ I
+ that
+
+
+what
+ it
+ really
+ boils
+ down
+ to
+ cuz
+ Zapier
+
+
+also
+ has
+ an
+ agents
+ product
+ where
+ you
+
+
+could
+ do
+ this
+ as
+ an
+ agent
+ thing
+ but
+
+
+really
+ what
+ this
+ boils
+ down
+ to
+ is
+ just
+
+
+giving
+ the
+ tools
+ giving
+ the
+ knowledge
+
+
+and
+ the
+ ability
+ to
+ take
+ actions
+ to
+ the
+
+
+all
+ the
+ AI
+ apps
+ where
+ you
+ use
+ them.
+ It's
+
+
+kind
+ of
+ like
+ the
+ old
+ product
+ thing
+ about
+
+
+like
+ you
+ know
+ meeting
+ your
+ user
+ where
+
+
+they
+ are
+ right
+ uh
+ right
+ place
+ right
+ time
+
+
+and
+ I
+ have
+ found
+ that
+ that
+ is
+ probably
+
+
+the
+ biggest
+ thing
+ because
+ there
+ are
+ so
+
+
+many
+ times
+ where
+ I
+ am
+ you
+ know
+ like
+ if
+
+
+for
+ anybody
+ with
+ keen
+ eyes
+ you
+ would
+
+
+have
+ saw
+ one
+ of
+ the
+ projects
+ I
+ have
+ here
+
+
+is
+ actually
+ even
+ like
+ idea
+ jammer
+ I
+ have
+
+
+a
+ whole
+ project
+ dedic
+ hooked
+ up
+ to
+
+
+different
+ tables
+ and
+ stuff
+ like
+ that
+ for
+
+
+myself
+ when
+ I'm
+ just
+ like
+ jamming
+ on
+ a
+
+
+topic
+ and
+ it
+ then
+ will
+ like
+ research
+
+
+like
+ have
+ we
+ explored
+ similar
+ ideas
+ or
+
+
+where
+ might
+ this
+ be
+ relevant
+ and
+ it
+ has
+
+
+more
+ train
+ more
+ like
+ uh
+ prompting
+ there
+
+
+to
+ like
+ challenge
+ me
+ and
+ certain
+
+
+methodologies
+ to
+ challenge
+ me
+ on
+ that.
+
+
+So,
+ it
+ really
+ boils
+ down
+ to
+ just
+ like
+
+
+meeting
+ people.
+ And
+ I'll
+ be
+ clear
+ like
+
+
+one
+ of
+ the
+ things
+ we're
+ seeing
+ though
+
+
+from
+ like
+ enterprises
+ that
+ are
+ that
+ are
+
+
+adopting
+ this
+ is
+ the
+ fact
+ that
+ they're
+
+
+trying
+ to
+ make
+ sure
+ that
+ these
+ tools
+
+
+work
+ for
+ all
+ of
+ their
+ employees
+ like
+
+
+automatically
+ so
+ that
+ if
+ they've
+ rolled
+
+
+out
+ claw
+ for
+ the
+ entire
+ organization
+
+
+when
+ they
+ log
+ in
+ and
+ they
+ connect
+ to
+
+
+appear
+ it
+ like
+ has
+ the
+ tools
+ that
+ they
+
+
+should
+ need
+ for
+ their
+ role
+ that
+ it's
+
+
+created
+ by
+ some
+ like
+ ops
+ admin
+ or
+
+
+someone.
+ Yeah.
+
+
+>> Um,
+ and
+ that's
+ been
+ really
+ powerful.
+
+
+>> As
+ an
+ AI
+ founder,
+ you're
+ used
+ [music]
+ to
+
+
+sprinting
+ towards
+ product
+ market
+ fit,
+
+
+your
+ next
+ round,
+ or
+ that
+ first
+
+
+enterprise
+ contract.
+ But
+ speed
+ [music]
+
+
+isn't
+ enough
+ for
+ AI
+ startups.
+ Buyers
+
+
+expect
+ security,
+ compliance,
+ and
+
+
+transparency
+ from
+ day
+ one.
+ That's
+ why
+
+
+serious
+ AI
+ startups
+ use
+ [music]
+ Vanta.
+
+
+With
+ deep
+ integrations
+ and
+ automated
+
+
+workflows
+ built
+ for
+ fastm
+ moving
+ AI
+
+
+teams,
+ Vanta
+ gets
+ you
+ audit
+ [music]
+
+
+ready
+ fast
+ and
+ keeps
+ you
+ secure
+ with
+
+
+continuous
+ monitoring
+ as
+ your
+ models,
+
+
+[music]
+ infra,
+ and
+ customers
+ evolve.
+ AI
+
+
+innovators
+ like
+ Langchain,
+ Writer,
+ and
+
+
+Cursor
+ [music]
+ scaled
+ faster
+ and
+ closed
+
+
+bigger
+ deals
+ by
+ getting
+ security
+ right
+
+
+early
+ with
+ Vanta.
+ [music]
+ Listeners
+ can
+
+
+claim
+ a
+ special
+ offer
+ of
+ $1,000
+ off
+
+
+Vanta
+ at
+ vanta.comhowi.
+
+
+There
+ are
+ pros
+ and
+ cons
+ to
+ each.
+ You
+
+
+know,
+ you
+ mentioned
+ three
+ different
+
+
+methodologies.
+ There's
+ MCPs
+ put
+ in
+ like
+
+
+the
+ client
+ where
+ you're
+ actually
+
+
+working.
+ There's
+ agents
+ which
+ do
+ some
+ of
+
+
+this
+ and
+ like
+ sort
+ of
+ a
+ native
+ client.
+
+
+Then
+ there's
+ these
+ deterministic
+
+
+workflows
+ and
+ you
+ do
+ have
+ a
+ workflow
+
+
+that
+ does
+ use
+ AI
+ within
+ a
+ more
+
+
+deterministic
+
+
+flow.
+ So
+ do
+ you
+ want
+ to
+ walk
+ us
+ through
+
+
+through
+ that
+ one
+ and
+ just
+ talk
+ about
+ why
+
+
+you
+ selected
+ this
+ kind
+ of
+ model
+ of
+
+
+implementation
+ for
+ this
+ particular
+ use
+
+
+case?
+
+
+>> Yeah,
+ absolutely.
+ So
+ one
+ of
+ the
+ things
+
+
+for
+ me
+ again
+ I
+ like
+ prep
+ for
+ a
+ lot
+ of
+
+
+customer
+ interviews
+ and
+ we
+ have
+ a
+ lot
+ of
+
+
+data
+ and
+ sometimes
+ one
+ of
+ the
+ most
+
+
+embarrassing
+ things
+ for
+ me
+ or
+ it
+ feels
+
+
+embarrassing
+ is
+ when
+ I
+ get
+ on
+ a
+ call
+
+
+with
+ a
+ customer
+ and
+ they're
+ like
+ just
+ a
+
+
+user
+ interview
+ that
+ may
+ have
+ booked
+ it
+
+
+via
+ LinkedIn.
+ They
+ may
+ have
+ booked
+ it
+
+
+via
+ a
+ referral
+ from
+ someone
+ at
+ a
+
+
+partner,
+ right?
+ Like
+ they
+ come
+ in
+ from
+
+
+all
+ over
+ the
+ place.
+ Like
+ my
+ Calendarly
+
+
+link
+ seems
+ to
+ like
+ spread
+ um
+ decently
+
+
+wide.
+ And
+ sometimes
+ I'll
+ get
+ on
+ a
+ call
+
+
+previously
+ and
+ I'd
+ be
+ like,
+ I
+ don't
+ know
+
+
+who
+ you
+ are.
+ I
+ don't
+ know
+ if
+ your
+
+
+company
+ uses
+ Zappier.
+ I
+ don't
+ know
+ if
+
+
+they,
+ you
+ know,
+ and
+ sometimes
+ they're
+
+
+like,
+ oh
+ yeah,
+ we're
+ both
+ a
+ customer
+ and
+
+
+a
+ uh
+ partner,
+ right?
+ And
+ I'm
+ like,
+
+
+whoops.
+ I
+ didn't
+ know
+ that.
+ Um
+ and
+ so
+
+
+what
+ I
+ and
+ what
+ I
+ worked
+ with
+ and
+ our
+
+
+salesfacing
+ team
+ had
+ similar
+ issues.
+ And
+
+
+so
+ one
+ of
+ the
+ first
+ things
+ that
+ we
+ did
+
+
+was
+ we
+ used
+ data
+ bricks
+ which
+ houses
+
+
+like
+ a
+ lot
+ of
+ our
+ data
+ and
+ makes
+ that
+
+
+usable.
+ And
+ so
+ they
+ built
+ like
+ this
+
+
+whole
+ series
+ of
+ things
+ that
+ allows
+ like
+
+
+just
+ simple
+ lookup
+ for
+ you
+ know
+ given
+ an
+
+
+email
+ address
+ come
+ back
+ with
+ like
+ a
+
+
+whole
+ write
+ up
+ of
+ it.
+ And
+ so
+ essentially
+
+
+this
+ is
+ a
+ fancy
+ looking
+ workflow.
+ Uh
+ but
+
+
+the
+ gist
+ of
+ it
+ is
+ that
+ forever
+ the
+
+
+meetings
+ that
+ I'm
+ having
+ it
+ goes
+ out
+
+
+fetches
+ that
+ like
+ research
+ lookup
+ which
+
+
+takes
+ time
+ and
+ then
+ it
+ deciphers
+ that
+
+
+into
+ a
+ like
+ it
+ uses
+ actually
+ a
+ Gemini
+
+
+step
+ since
+ it
+ handles
+ my
+ like
+ the
+ the
+
+
+document
+ type
+ that
+ I
+ was
+ working
+ with
+
+
+and
+ creates
+ the
+ or
+ appends
+ it
+
+
+technically
+ to
+ the
+ KOD
+ page
+ for
+ that
+
+
+customer
+ interview.
+ And
+ so
+ this
+ is
+
+
+really
+ helpful
+ for
+ me
+ again
+ because
+ it's
+
+
+just
+ like
+ now
+ when
+ I'm
+ going
+ into
+ my
+
+
+meetings,
+ I
+ get
+ things
+ like
+ this
+ where
+
+
+this
+ is
+ also
+ where
+ I'll
+ like
+ take
+ some
+
+
+of
+ my
+ notes.
+ Um,
+ and
+ so
+ I
+ can
+ actually
+
+
+see
+ like,
+ oh,
+ how
+ they
+ did
+ use
+ it
+ and
+
+
+get
+ some
+ really
+ like
+ crisp
+ things
+ uh
+ to
+
+
+walk
+ into
+ the
+ meeting
+ knowing.
+ And
+ I
+
+
+think
+ for
+ anybody
+ especially
+ in
+ bigger
+
+
+companies
+ like
+ one
+ of
+ the
+ biggest
+
+
+challenges
+ we
+ consistently
+ see
+ is
+ they
+
+
+just
+ like
+ they're
+ using
+ when
+ they
+ start
+
+
+to
+ use
+ AI
+ they're
+ using
+ like
+ the
+ base
+
+
+models
+ with
+ like
+ no
+ additional
+ context
+
+
+aheaded
+ and
+ so
+ the
+ unlocks
+ for
+ them
+
+
+often
+ become
+ how
+ do
+ you
+ get
+ your
+ whole
+
+
+sales
+ team
+ to
+ not
+ only
+ like
+ use
+ AI
+ to
+
+
+log
+ things
+ but
+ also
+ like
+ fetch
+
+
+information
+ from
+ their
+ CRM
+ and
+ from
+
+
+their
+ data
+ systems
+ uh
+ when
+ and
+ where
+
+
+they
+ need
+ it.
+ Um,
+ and
+ that
+ becomes
+
+
+really
+ cool
+ because,
+ you
+ know,
+
+
+technically
+ I
+ could
+ then
+ throw
+ like
+ data
+
+
+bricks
+ lookups
+ into
+ an
+ MCP
+ tool
+ and
+ put
+
+
+that
+ to
+ claude.
+ Um,
+ gets
+ really
+ funky.
+
+
+Uh,
+ those
+ typically
+ take
+ too
+ long
+
+
+though.
+
+
+>> Yeah.
+ Well,
+ if
+ you
+ are
+ uh
+ the
+ AI
+
+
+sophist,
+
+
+one
+ of
+ the
+ things
+ I
+ might
+ recommend
+ and
+
+
+I
+ think
+ you
+ probably
+ would
+ as
+ well
+ is
+
+
+you
+ like
+ buddy
+ buddy
+ buddy
+ up
+ to
+ the
+
+
+data
+ engineering
+ team.
+ That's
+ for
+ sure.
+
+
+Um,
+ because
+ that's
+ a
+ really
+ useful
+
+
+source
+ of
+ interesting
+ rich
+ information.
+
+
+And
+ then
+ one
+ other
+ thing
+ I
+ want
+ to
+ call
+
+
+out
+ that
+ may
+ have
+ zipped
+ by
+ people,
+
+
+especially
+ those
+ that
+ are
+ listening,
+ is
+
+
+if
+ you
+ go
+ into
+ your
+ user
+ context
+ zap
+
+
+that
+ you
+ just
+ showed
+ us,
+ you
+ chose
+
+
+Google
+ Gemini.
+ And
+ I
+ just
+ want
+ to
+
+
+reiterate
+ why.
+ Um,
+ because
+ I've
+ heard
+
+
+this
+ a
+ lot
+ from
+ different
+ different
+
+
+guests,
+ which
+ is
+ the
+ Google
+ models
+ in
+
+
+particular
+ are
+ just
+ like
+ great
+ at
+ files.
+
+
+They
+ love
+ a
+ file.
+ They're
+ it's
+ it's
+
+
+great
+ at
+ files.
+ So
+ Gemini
+ um
+ really
+ good
+
+
+at
+ large
+ files,
+ files,
+ context,
+ video
+
+
+files,
+ audio
+ files.
+ And
+ so
+ anytime
+ you
+
+
+have
+ sort
+ of
+ like
+ a
+ filebased
+
+
+um
+ challenge
+ ahead
+ of
+ you
+ or
+ or
+ use
+
+
+case,
+ I
+ see
+ a
+ lot
+ of
+ um
+ AI
+ power
+ users
+
+
+reaching
+ for
+ the
+ Gemini
+ models,
+ is
+ that
+
+
+what
+ drove
+ this
+ particular
+ use
+ case?
+
+
+>> Yep,
+ you
+ nailed
+ it.
+
+
+>> Um
+ yeah,
+ the
+ output
+ from
+ our
+ data
+ team
+
+
+is
+ actually
+ to
+ date
+ a
+ PDF.
+
+
+>> Um
+ and
+ so
+ it
+ works
+ very
+ well.
+ um
+ with
+
+
+that
+ actually
+ it's
+ HTML
+ that
+ was
+ the
+
+
+what
+ so
+ I
+ convert
+ the
+ HTML
+ to
+ a
+ file
+
+
+because
+ then
+ it
+ works
+ really
+ really
+ well
+
+
+um
+ and
+ a
+ lot
+ less
+ tokens
+ which
+ is
+ nice
+
+
+>> yeah
+ I
+ mean
+ it's
+ interesting
+ the
+
+
+ascendancy
+ of
+ the
+ markdown
+ file
+ for
+ you
+
+
+know
+ the
+ open
+ AAI
+ and
+ anthropic
+ models
+
+
+or
+ chat
+ GPT
+ and
+ claude
+ and
+ I
+ do
+ think
+
+
+Gemini
+ has
+ taken
+ this
+ like
+ side
+ angle
+
+
+where
+ it's
+ like
+ you
+ know
+ you
+ but
+ if
+ you
+
+
+have
+ a
+ PDF
+ or
+ if
+ you
+ have
+ some
+ other
+
+
+file
+ format
+ where
+ where
+ where
+ your
+ model
+
+
+so
+ I
+ I
+ think
+ it's
+ really
+ interesting
+ for
+
+
+folks
+ who
+ want
+ to
+ go
+ to
+ the
+ next
+ level
+
+
+of
+ implementation.
+ Again,
+ to
+ not
+ only
+
+
+feed
+ rich
+ context
+ into
+ their
+ AI
+ use
+
+
+cases,
+ but
+ also
+ really
+ understand
+ a
+
+
+couple
+ of
+ the
+ highle
+ nuances
+ of
+ the
+
+
+major
+ commercial
+ models,
+ so
+ you're
+
+
+picking
+ the
+ right
+ one
+ because
+ I
+ I
+ would
+
+
+guess
+ you'd
+ get
+ a
+ worse
+ output
+ with
+ a
+
+
+with
+ a
+ different
+ model
+ just
+ because
+ of
+
+
+the
+ the
+ data
+ input.
+ Okay,
+ that
+ is
+ super
+
+
+super
+ useful.
+ And
+ then
+ um
+ so
+ you've
+
+
+talked
+ a
+ lot
+ about
+ customer
+
+
+interactions,
+ right?
+ CRM
+ updates,
+
+
+meetings,
+ but
+ you
+ also
+ get
+ a
+ lot
+ of
+
+
+asynchronous
+ customer
+ feedback.
+ Um,
+
+
+including
+ from
+ me
+ and
+ shout
+ out,
+ uh,
+
+
+whoever
+ is
+ on
+ the
+ receiving
+ end
+ of
+ my
+
+
+support
+ and
+ product
+ feedback
+ tickets.
+
+
+Thank
+ you.
+ I
+ appreciate
+ you.
+ You're
+
+
+always
+ really,
+ really
+ responsive.
+ How
+ do
+
+
+you
+ drive
+ that
+ responsiveness
+
+
+using
+ AI
+ or
+ systematically
+ across
+ a
+
+
+pretty
+ large
+ customer
+ footprint?
+
+
+>> Yeah,
+ it's
+ fun.
+ Um
+ there's
+ a
+ lot
+ of
+
+
+things
+ I
+ I'll
+ walk
+ through
+ one
+ of the
+
+
+things
+ I
+ have
+ found
+ impactful
+ especially
+
+
+with
+ like
+ our
+ newer
+ products
+ that
+ we're
+
+
+pushing
+ out.
+ Um
+ one
+ thing
+ I'll
+ say
+ I
+ I
+
+
+can't
+ show
+ this
+ but
+ again
+ does
+ work
+ with
+
+
+data
+ and
+ getting
+ better
+ relationships
+
+
+with
+ data
+ engineering.
+ Um
+ I
+ think
+ when
+
+
+we've
+ started
+ to
+ like
+ unlock
+ more
+ and
+
+
+more
+ capabilities
+ with
+ with
+ data
+ on
+ that
+
+
+front
+ as
+ well.
+ Uh
+ like
+ with
+ MCP
+ just
+
+
+this
+ week
+ our
+ team
+ got
+ to
+ the
+ point
+
+
+where
+ we're
+ now
+ properly
+ like
+ analyzing
+
+
+a
+ lot
+ of
+ feedback
+ and
+ actually
+ creating
+
+
+uh
+ pages
+ in
+ KOD
+ for
+ review
+ uh
+ for
+ things
+
+
+for
+ our
+ team
+ as
+ we
+ walk
+ in
+ based
+ on
+ like
+
+
+new
+ trends
+ that
+ are
+ emerging
+ amongst
+ the
+
+
+data
+ uh
+ automatically
+ uh
+ which
+ is
+ quite
+
+
+fun.
+ But
+ one
+ of
+ the
+ things
+ that
+ we've
+
+
+also
+ done
+ here
+ that
+ really
+ helps
+ is
+ just
+
+
+like
+ making
+ it
+ more
+ searchable
+ for
+
+
+folks.
+ Uh
+ this
+ is
+ really
+ helpful
+ for
+
+
+like
+ not
+ even
+ the
+ core
+ build
+ team
+ that's
+
+
+working
+ on
+ the
+ product,
+ but
+ when
+ I'm
+
+
+working
+ with
+ uh
+ for
+ instance
+ like
+ sales
+
+
+or
+ I'm
+ working
+ with
+ PMM
+ uh
+ that
+ are
+
+
+supporting
+ us
+ with
+ launches,
+ they'll
+
+
+often
+ have
+ questions
+ of
+ like,
+ hey,
+ what
+
+
+feedback
+ have
+ we
+ been
+ receiving
+ lately?
+
+
+Or
+ like
+ are
+ people
+ doing
+ this
+ sort
+ of
+
+
+use
+ case?
+ Right?
+ and
+ they're
+ just
+ they
+
+
+have
+ very
+ specific
+ questions
+ or
+ they're
+
+
+trying
+ to
+ understand
+ something.
+ Um
+ or
+
+
+it's
+ the
+ designer
+ who
+ as
+ we're
+ diving
+
+
+into
+ a
+ topic,
+ we
+ want
+ to
+ like
+ really
+
+
+quickly
+ surface
+ uh
+ times
+ where
+ users
+
+
+have
+ had
+ uh
+ issues
+ with
+ the
+ like
+ error
+
+
+log
+ system
+ and
+ they
+ want
+ to
+ like
+ find
+
+
+like
+ hey
+ can
+ we
+ find
+ that?
+ And
+ so
+
+
+created
+ like
+ a
+ little
+ chatbot
+ here
+ uh
+
+
+that
+ essentially
+ just
+ like
+ it's
+ really
+
+
+simple
+ but
+ it
+ it
+ is
+ fed
+ with
+ a
+ bunch
+ of
+
+
+like
+ databases
+ essentially
+ and
+ then
+ just
+
+
+like
+ makes
+ that
+ really
+ easily
+ searchable
+
+
+right
+ um
+ it's
+ a
+ standard
+ chatbot
+ rag
+
+
+type
+ thing
+ I
+ won't
+ go
+ into
+ it
+ um
+ in
+ much
+
+
+detail
+ but
+ it's
+ like
+ internally
+ locked
+
+
+down
+ for
+ us
+ um
+ and
+ all
+ those
+ things
+
+
+which
+ is
+ really
+ helpful
+ um
+ and
+ and
+ we
+
+
+also
+ use
+ this
+ sort
+ of
+ system
+ externally
+
+
+as
+ well
+ so
+ like
+ you'll
+ And
+ one
+ of
+ the
+
+
+things
+ that
+ we
+ do
+ here
+ is
+ I
+ have
+ our
+ MCP
+
+
+helper
+ chatbot
+ transcripts.
+ And
+ so
+ I
+
+
+have
+ this
+ kind
+ of
+ like
+ enduserfacing
+
+
+chatbot.
+ And
+ you'll
+ see
+ it
+ it
+ has
+ these
+
+
+like
+ knowledge
+ sources
+ which
+ are
+
+
+basically
+ just
+ like
+ our
+ help
+ docs
+ as
+
+
+well
+ as
+ one
+ uh
+ table
+ which
+ is
+ like
+ a
+
+
+Google
+ sheet
+ type
+ thing.
+ It's
+ our
+
+
+sappier
+ world
+ of
+ that.
+ And
+ I
+ I
+ love
+ this
+
+
+little
+ system
+ and
+ I'll
+ just
+ talk
+ for
+ a
+
+
+second.
+ Uh
+ and
+ it's
+ really
+ just
+ you
+ know
+
+
+for
+ anybody
+ that's
+ working
+ with
+ data
+ and
+
+
+knowledge
+ management
+ things.
+ it's
+
+
+difficult
+ to
+ keep
+ it
+ up
+ to
+ date
+ and
+ I
+
+
+found
+ myself
+ previously
+ constantly
+ like
+
+
+trying
+ to
+ go
+ back
+ to
+ our
+ knowledge
+
+
+sources
+ that
+ these
+ these
+ bots
+ had
+ and
+
+
+just
+ like
+ trying
+ to
+ manually
+ keep
+ it
+ up
+
+
+to
+ date
+ on
+ like
+ a
+ monthly
+ or
+ quarterly
+
+
+basis.
+ Uh
+ but
+ one
+ system
+ I
+ ended
+ up
+
+
+finding
+ that
+ worked
+ really
+ well
+ for
+ me
+
+
+is
+ I
+ built
+ um
+ like
+ one
+ there's
+ a
+ zap
+
+
+somewhere
+ that
+ essentially
+ every
+ time
+
+
+there
+ is
+ a
+ closed
+ uh
+ support
+ ticket
+ or
+
+
+if
+ there's
+ a
+ a
+ finished
+ chatbot
+
+
+transcript
+ it
+ analyzes
+ the
+ conversation
+
+
+and
+ tries
+ to
+ say
+ like
+ what
+ is
+ the
+ core
+
+
+FAQ
+ from
+ this
+ like
+ what
+ was
+ the
+ core
+
+
+issue
+ what
+ was
+ the
+ solution
+ if
+ any
+ and
+
+
+is
+ that
+ already
+ in
+ the
+ knowledge
+ base
+
+
+that
+ we
+ had
+ if
+ not
+ please
+ propose
+ an
+
+
+entry
+ and
+ so
+ what
+ I
+ then
+ do
+ is
+ I
+ have
+ my
+
+
+like
+ human
+ step
+ here
+ where
+ I
+ can
+
+
+actually
+ review
+ the
+ FAQs
+ that
+ it
+ wants
+
+
+to
+ submit
+ and
+ all
+ I
+ have
+ to
+ do
+ to
+ I
+ can
+
+
+edit
+ it
+ as
+ well
+ like
+ what
+ the
+ answer
+ is
+
+
+and
+ if
+ I
+ approve
+ it
+ it
+ goes
+ over
+ to
+ a
+
+
+different
+ database
+ which
+ is
+ the
+ one
+ that
+
+
+the
+ bot
+ is
+ actually
+ using.
+ Um
+ so
+ a
+
+
+really
+ nice
+ way
+ that
+ I
+ have
+ found
+
+
+consistently
+ now
+ on
+ a
+ number
+ of
+ projects
+
+
+just
+ to
+ like
+ rapidly
+ iterate
+ and
+ keep
+
+
+those
+ things
+ up
+ to
+ date
+ so
+ that
+ users
+
+
+are
+ just
+ getting
+ like
+ their
+ answers
+
+
+faster.
+ Uh
+ which
+ is
+ really
+ nice.
+ Yeah.
+
+
+Well,
+ what
+ what
+ I
+ like
+ about
+ this
+ is
+ I
+
+
+often
+ tell
+ people
+ who
+ are
+ trying
+ to
+
+
+figure
+ out
+ use
+ cases
+ of
+ AI
+ or
+ implement
+
+
+AI
+ solutions
+ is
+ they
+ really
+ get
+ stuck
+ on
+
+
+like
+ the
+ I'm
+ doing
+ X.
+ How
+ do
+ I
+ use
+ AI
+ to
+
+
+continue
+ to
+ do
+ X
+ or
+ do
+ X
+ faster,
+
+
+whatever?
+ And
+ that's
+ fine.
+ I
+ think
+
+
+that's
+ a
+ like
+ I
+ I
+ I'm
+ already
+ taking
+
+
+meetings.
+ How
+ do
+ I
+ make
+ taking
+ those
+
+
+meetings
+ a
+ little
+ easier?
+ But
+ the
+
+
+challenge
+ I
+ often
+ give
+ people
+ is
+ let's
+
+
+say
+ you
+ had
+ the
+ perfect
+ team
+ with
+
+
+infinite
+ time.
+ What
+ are
+ the
+ things
+ your
+
+
+perfect
+ team
+ with
+ infinite
+ time
+ would
+ do
+
+
+in
+ anyone's
+ and
+ your
+ perfect
+ support
+
+
+team
+ with
+ infinite
+ time
+ would
+ look
+ at
+
+
+every
+ support
+ question
+ and
+ would
+ go
+ see
+
+
+do
+ we
+ have
+ the
+ right
+ help
+ desk
+ content
+
+
+here
+ and
+ if
+ we
+ don't
+ let's
+ write
+ great
+
+
+content
+ and
+ then
+ let's
+ publish
+ it
+ and
+
+
+then
+ let's
+ put
+ that
+ in
+ the
+ chat
+ like
+ in
+
+
+an
+ ideal
+ but
+ none
+ of
+ us
+ live
+ in
+ ideal
+
+
+worlds
+ we're
+ super
+ busy
+ and
+ so
+ I
+ think
+
+
+this
+ is
+ like
+ a
+ really
+ good
+ example
+ of
+
+
+that
+ where
+ it
+ allows
+ you
+ to
+ operate
+ at
+ a
+
+
+next
+ level
+ of
+ quality,
+ not
+ just
+ like
+
+
+velocity,
+ but
+ a
+ next
+ level
+ of
+ quality.
+
+
+And
+ then
+ again,
+ like
+ the
+ more
+
+
+highquality
+ data
+ you
+ create,
+ the
+ more
+
+
+you
+ can
+ power
+ interesting
+ AI
+ solutions
+
+
+to
+ your
+ customers
+ like
+ chat
+ bots.
+ And
+
+
+so,
+ um,
+ you
+ know,
+ again,
+ anybody
+ out
+
+
+there
+ looking
+ like
+ if
+ I
+ had
+ a
+
+
+full-fledged
+ team
+ of
+ SDRs
+ that
+ were
+
+
+perfect
+ and
+ had
+ infinite
+ time,
+ what
+
+
+would
+ I
+ do?
+ Or
+ like,
+ you
+ know,
+ 10,000
+
+
+support
+ people
+ with
+ infinite
+ time,
+ what
+
+
+would
+ I
+ do?
+ like
+ start
+ to
+ think
+ about
+
+
+those
+ use
+ cases
+ and
+ don't
+ forget
+ to
+ to
+
+
+pluck
+ those
+ off
+ because
+ I
+ think
+ they
+ can
+
+
+unlock
+ some
+ interesting
+ ideas
+ inside
+
+
+your
+ team
+ and
+ then
+ let
+ your
+ team
+ act
+ as
+
+
+higher
+ leverage
+ folks.
+ I
+
+
+>> like
+ the
+ way
+ you
+ put
+ that.
+ The
+ the
+ other
+
+
+I
+ don't
+ know if
+ it
+ helps
+ ever
+ to
+
+
+anybody,
+ but
+ the
+ other
+ way
+ I
+ often
+ tell
+
+
+folks
+ that
+ are
+ struggling
+ with
+ that
+ is
+
+
+like
+ if
+ you
+ could
+ run
+ chatbt
+ in
+ your
+
+
+sleep,
+ what
+ would
+ you
+ do
+ is
+ you
+ know
+ I
+
+
+found
+ a
+ really
+ good
+ way
+ to
+ help
+ people
+
+
+start
+ brainstorming
+ ideas.
+ I
+ will
+ say
+ as
+
+
+like
+ a
+ maybe
+ aside
+ on
+ that
+ on
+ the
+
+
+product
+ design
+ world,
+ uh
+ we
+ found
+ we
+ did
+
+
+one
+ experiment
+ really
+ early
+ on
+ um
+ that
+
+
+was
+ kind
+ of
+ like
+ Mad
+ Libs
+ to
+ help
+
+
+discover
+ use
+ cases
+ and
+ stuff
+ and
+ it
+ was
+
+
+a
+ very
+ interesting
+ experiment
+ in
+ that
+ it
+
+
+seemed
+ to
+ actually
+ help
+ people
+ discover
+
+
+what
+ they
+ wanted
+ to
+ do
+ but
+ it
+ also
+
+
+challenged
+ them
+ to
+ think
+ through
+ like
+
+
+what
+ their
+ pain
+ points
+ were
+ and
+ it
+ was
+
+
+really
+ fascinating
+ uh
+ just
+ to
+ to
+
+
+experience.
+ So,
+ uh,
+ for
+ anybody
+ looking
+
+
+at
+ that
+ in
+ their
+ products,
+ try
+ a
+ Mad
+
+
+Libs
+ style,
+ uh,
+ AI
+ enabled
+ system
+ to
+
+
+like
+ ask
+ questions
+ and
+ ask
+ follow-up
+
+
+questions
+ with
+ free
+ form
+ text.
+
+
+>> Just
+ to
+ kind
+ of
+ take
+ a
+ step
+ back
+ and
+
+
+walk
+ through
+ what
+ you
+ what
+ you
+ showed
+ us
+
+
+today,
+ we
+ have
+ MCPs.
+ Um,
+ Zapier
+ MCPS
+ in
+
+
+particular
+ can
+ give
+ you
+ a
+ really
+ custom
+
+
+set
+ of
+ tools
+ to
+ call.
+ You
+ like
+ Claude,
+
+
+you
+ like
+ using
+ Claude
+ projects
+ to
+ give
+
+
+instructions
+ on
+ tool
+ calling
+ sequence
+
+
+and
+ instructions
+ so
+ you
+ get
+ really
+ high
+
+
+quality
+ outputs
+ of
+ that.
+ And
+ then
+ you're
+
+
+really
+ focused
+ on
+ um
+ I
+ heard
+ you
+ say
+
+
+very
+ early
+ on
+ in
+ the
+ episode
+ avoiding
+
+
+things
+ you
+ hate
+ which
+ is
+ like
+ all
+ of
+ us
+
+
+updating
+ the
+ CRM.
+ Um
+ you
+ know
+ attending
+
+
+what
+ we
+ all
+ attend
+ which
+ are
+ just
+ in
+
+
+time
+ meetings,
+ right?
+ you
+ just
+ get
+ out
+
+
+of
+ the
+ next
+ meeting
+ and
+ you
+ you
+ show
+ up
+
+
+in
+ the
+ next
+ one
+ without
+ context.
+ So,
+
+
+making
+ sure
+ you're
+ prepped
+ for
+ that.
+ And
+
+
+then
+ kind
+ of
+ this
+ virtuous
+ cycle
+ of
+
+
+customer
+ feedback,
+ support
+ feedback,
+
+
+FAQs,
+
+
+um
+ you
+ know,
+ internal
+ input,
+ and
+ then
+
+
+customerf
+ facing
+ uh
+ help
+ content
+ as
+ kind
+
+
+of
+ a
+ a
+ happy
+ happy
+ circle
+ here.
+ And
+ so,
+
+
+I
+ think
+ this
+ is
+ great
+ for
+ anybody
+ who's
+
+
+spending
+ a
+ lot
+ of
+ time
+ with
+ customers,
+
+
+whether
+ you're
+ in
+ sales
+ or
+ support
+ or
+
+
+product.
+ um
+ to
+ be
+ better
+ prepared
+ um
+ and
+
+
+and
+ get
+ stuff
+ done
+ with
+ less
+ tabs
+ open
+
+
+in
+ your
+ browser,
+ which
+ is
+ what
+ we
+ all
+
+
+want.
+
+
+Well,
+ uh
+ Reed,
+ I'm
+ going
+ to
+ we're
+ going
+
+
+to
+ do
+ a
+ couple
+ lightning
+ round
+ questions
+
+
+and
+ then
+ we'll
+ get
+ you
+ out
+ of
+ here
+ back
+
+
+to
+ um
+ pushing
+ the
+ boulder
+ up
+ the
+ hill.
+
+
+My
+ first
+ question
+ for
+ you
+ is
+ we've
+ seen
+
+
+a
+ lot
+ of
+ business
+ use
+ cases.
+ What
+ are
+
+
+like
+ your
+ favorite
+ personal
+ use
+ cases?
+
+
+like
+ what
+ are
+ ones
+ that
+ have
+ really
+
+
+surprised
+ you
+ either
+ by
+ making
+ you
+ know
+
+
+really
+ how
+ sparking
+ joy
+ or
+ just
+ really
+
+
+solving
+ a
+ problem
+ personally?
+
+
+>> Yeah,
+ I'll
+ touch
+ on
+ two
+ real
+ fast.
+
+
+Number
+ [clears throat]
+ one,
+ in
+ terms
+ of
+
+
+solving
+ a
+ problem,
+ family
+ calendar
+
+
+planning.
+ Uh
+ for
+ anybody
+ that
+ has
+ kids
+
+
+and
+ families,
+ like
+ family
+ calendar,
+ it's
+
+
+a
+ real
+ thing.
+ Um
+ and
+ for
+ me,
+ the
+
+
+struggle
+ is
+ uh
+ my
+ my
+ wife
+ and
+ I
+ both
+
+
+like
+ a
+ physical
+ calendar
+ in
+ the
+ house
+
+
+and
+ we're
+ reluctant
+ to
+ get
+ like
+ a
+ full
+
+
+digital
+ frame
+ thing.
+ Um,
+ so
+ we
+ have
+ a
+
+
+physical
+ one
+ that
+ we
+ write
+ things
+ on,
+
+
+but
+ I
+ like
+ live
+ by
+ Google
+ calendar.
+ And
+
+
+if
+ it's
+ really
+ not
+ my
+ Google
+ calendar,
+
+
+it
+ like
+ doesn't
+ exist.
+ Um,
+ and
+
+
+particularly
+ if
+ it's
+ a
+ family
+ event
+
+
+that's
+ in
+ the
+ middle
+ of
+ the
+ like
+ a
+
+
+normal
+ day,
+ then
+ someone
+ can
+ book
+ a
+
+
+meeting
+ over
+ and
+ that's
+ really
+ not
+ good.
+
+
+And
+ so
+ I
+ actually
+ have
+ a
+ claw
+ project
+
+
+called
+ family
+ calendar.
+ It
+ has
+ really
+
+
+detailed
+ instructions
+ on
+ it's
+ not
+ too
+
+
+detailed
+ but
+ it
+ basically
+ tells
+ it
+ like
+
+
+which
+ calendar
+ to
+ look
+ at
+ uh
+ how
+ to
+ add
+
+
+things
+ if
+ it's
+ an
+ event
+ that's
+ at
+ my
+
+
+son's
+ school
+ or
+ somewhere
+ to
+ leave
+ time
+
+
+in
+ my
+ calendar
+ to
+ drive
+ there
+ and
+ drive
+
+
+back
+ if
+ it's
+ you
+ know
+ during
+ the
+
+
+business
+ hours.
+ Uh
+ so
+ that
+ that
+ is
+
+
+blocked.
+ And
+ now
+ what
+ I
+ do
+ is
+ like
+
+
+occasionally
+ I
+ just
+ take
+ a
+ picture
+ of
+
+
+the
+ physical
+ calendar
+ and
+ then
+ it
+ uses
+
+
+the
+ various
+ like
+ find
+ and
+ update
+ and
+
+
+create
+ actions
+ for
+ Google
+ calendar
+
+
+through
+ Zapium
+ MTP
+ and
+ just
+ like
+ does
+
+
+all
+ of
+ it.
+ Um
+ and
+ I
+ love
+ that.
+ Um
+ that's
+
+
+probably
+ like
+ one
+ of
+ the
+ greatest
+
+
+things.
+ Uh
+ other
+ than
+ that
+ these
+ days
+ uh
+
+
+they
+ had
+ a
+ big
+ V5
+ update
+ recently.
+ I
+
+
+have
+ been
+ loving
+ it
+ with
+ my
+ son
+ and
+ his
+
+
+other
+ like
+ friends
+ in
+ our
+ neighborhood.
+
+
+Uh
+ we've
+ made
+ a
+ lot
+ of
+ songs
+ together.
+ I
+
+
+literally
+ just
+ like
+ talked
+ to
+ Claude
+ and
+
+
+I
+ was
+ like,
+ "Hey
+ Claude,
+ you're
+ gonna
+
+
+write
+ a
+ kid
+ song
+ for
+ my
+ son
+ Leo.
+ He's
+
+
+four.
+ Here's
+ what
+ we
+ did
+ today."
+ And
+ I
+
+
+just
+ like
+ told
+ it
+ what
+ we
+ did.
+ And
+ my
+
+
+son
+ insisted
+ that
+ it
+ have
+ poop
+ and
+ fart
+
+
+jokes
+ in
+ it
+ as
+ well.
+ And
+ so
+ I
+ was
+ like,
+
+
+"Well,
+ you
+ need
+ to
+ have
+ some
+ poop
+ and
+
+
+fart
+ jokes."
+ Um,
+ and
+ my
+ son
+ has
+ listened
+
+
+to
+ this
+ at
+ least
+ on
+ Suno
+ alone
+ 14
+ times.
+
+
+Uh
+ we
+ gave
+ it
+ to
+ one
+ of
+ his
+ babysitters
+
+
+and
+ she
+ they
+ listen
+ to
+ together
+ like
+
+
+non-stop
+ for
+ an
+ hour.
+ Um
+ and
+ we've
+ done
+
+
+this
+ with
+ like
+ his
+ friends
+ and
+ they've
+
+
+made
+ songs
+ for
+ each
+ other
+ and
+ it's
+
+
+really
+ fun
+ and
+ it's
+ the
+ other
+ thing
+ too
+
+
+is
+ like
+ some
+ of
+ the
+ older
+ kids
+ nearby
+
+
+like
+ uh
+ one
+ of
+ the
+ girls
+ like
+ 10
+ almost
+
+
+10
+ and
+ she's
+ been
+ learning
+ about
+ like
+
+
+prompting
+ through
+ this
+ because
+ she
+ was
+
+
+like
+ oh
+ it
+ said
+ this
+ but
+ like
+ that's
+ not
+
+
+right.
+ I
+ and
+ I
+ was
+ like
+ well
+ you
+ got
+ to
+
+
+be
+ specific
+ in
+ this
+ and
+ you
+ got
+ to
+ like
+
+
+instruct
+ it.
+ And
+ so
+ I
+ have
+ I
+ gave
+ them
+
+
+like
+ a
+ a
+ whiteboard
+ with
+ a
+ dry
+ erase
+
+
+marker
+ and
+ they're
+ just
+ like
+ writing
+ out
+
+
+their
+ little
+ prompts.
+ Um
+ and
+ then
+ I
+
+
+input
+ them
+ for
+ them.
+ Um
+ and
+ so
+ that's
+
+
+been
+ a
+ lot
+ of
+ fun
+ and
+ I
+ think
+ I
+ don't
+
+
+know
+ hopefully
+ a
+ little
+ bit
+ educational.
+
+
+>> I
+ have
+ to
+ I
+ have
+ to
+ just
+ uh
+ bring
+ us
+
+
+back
+ to
+ our
+ starter
+ topic
+ which
+ is
+ does
+
+
+Sunno
+ have
+ an
+ MCP?
+
+
+>> That's
+ good.
+
+
+>> Team
+ I
+ I
+ am
+ also
+ a
+ uh
+ extreme
+ Puno
+ power
+
+
+user.
+ Love
+ it.
+ And
+ imagine
+ imagine
+ you
+
+
+could
+ take
+ your
+ customer
+ prep
+ meeting
+
+
+and
+ just
+ give
+ yourself
+ like
+ a
+ friendly
+
+
+jingle
+ to
+ remember
+ what
+ they're
+ talking.
+
+
+>> You
+ laugh.
+ But
+ I've
+ actually
+ I
+ did
+ that
+
+
+with
+ I
+ took
+ our
+ I
+ took
+ our
+ MCP
+ sales
+
+
+training
+ session.
+ I
+ actually
+ took
+ the
+
+
+transcript
+ from
+ Zoom
+ along
+ with
+ the
+ deck
+
+
+and
+ I
+ gave
+ it
+ to
+ Claude
+ and
+ I
+ said
+ come
+
+
+up
+ with
+ a
+ pop
+ song
+ I
+ think
+ for
+ this
+
+
+>> and
+ I've
+ actually
+ shared
+ it
+ and
+ a
+ couple
+
+
+of
+ our
+ like
+ sales
+ team
+ and
+ product
+ team
+
+
+have
+ actually
+ listened
+ to
+ it
+ and
+ really
+
+
+liked
+ it.
+ Um
+ I
+ mean
+ yeah
+ we
+ we
+ teach
+
+
+kids
+ with
+ music
+ and
+ humans
+ have
+ been
+ I
+
+
+don't
+ know
+ music
+ people
+ much
+ longer
+ than
+
+
+we've
+ been
+ reading
+ people.
+ Um
+ so
+ it's
+
+
+it's
+ fun
+ uh
+ to
+ explore
+ that.
+ I
+ might
+ I
+
+
+might
+ have
+ you
+ beat
+ which
+ is
+ I
+ took
+ a
+
+
+incident
+ postmortem
+
+
+for
+ like
+ an
+ engineering
+ incident
+ and
+
+
+then
+ made
+ it
+ was
+ like
+ a
+ punk
+ song
+ about
+
+
+how
+ we
+ needed
+ to
+ solve
+ the
+ root
+ cause
+
+
+issues.
+ Um
+ and
+ it
+ was
+ called
+ Renew
+
+
+theerts.
+ It
+ was
+ it's
+ a
+ very
+ it's
+ a
+ b
+
+
+it's
+ a
+ b
+ certified
+ banger.
+ So
+ um
+ we'll
+
+
+have
+ to
+ put
+ a
+ playlist
+ together
+ and
+ put
+
+
+it
+ in
+ the
+ show
+ notes.
+ Okay.
+ And
+ then
+
+
+there's
+ one
+ last
+ use
+ case
+ which
+ I
+ love.
+
+
+I
+ want
+ to
+ make
+ sure
+ we
+ spend
+ a
+ couple
+
+
+minutes
+ on
+ it
+ with
+ notebook
+ LM.
+
+
+>> Yeah,
+ this
+ one
+ I
+ I
+ think
+ Notebook
+ LM
+ I
+
+
+use
+ personally
+ for
+ learning.
+ Uh,
+ I
+ put
+
+
+like
+ a
+ lot
+ of
+ things
+ in
+ it
+ to
+ learn,
+ but
+
+
+I
+ got
+ one
+ that
+ I
+ got
+ a
+ lot
+ of
+ value
+
+
+from,
+ uh,
+ and
+ a
+ lot
+ of
+ brownie
+ I
+ bonus
+
+
+husband
+ points
+ from
+ with
+ my
+ wife.
+ Uh,
+
+
+which
+ was
+ she
+ was
+ recently
+ like
+ job
+
+
+searching.
+ And
+ what
+ I
+ did
+ for
+ her
+ on
+ all
+
+
+of
+ them
+ was
+ like
+ when
+ she
+ got
+ the
+
+
+interview,
+ I
+ would
+ take
+ their
+ like
+
+
+careers
+ page.
+ I
+ would
+ take
+ the
+ job
+
+
+thing.
+ I
+ would
+ find
+ like
+ more
+
+
+information.
+ And
+ I
+ had
+ like
+ a
+ prompt
+ I
+
+
+used
+ for
+ the
+ audio
+ overview
+ that
+ was
+
+
+like,
+ "You
+ are
+ preparing
+ Anna
+ for
+ this
+
+
+interview.
+ Like
+ make
+ sure
+ it's
+ specific
+
+
+to
+ Anna."
+ and
+ she
+ listened
+ to
+ all
+ of
+
+
+these
+ before
+ and
+ she
+ like
+ constantly
+ got
+
+
+feedback
+ throughout
+ the
+ process
+ that
+ she
+
+
+was
+ like
+ the
+ most
+ informed
+ applicant.
+
+
+She
+ clearly
+ understood
+ the
+ space
+ cuz
+ I,
+
+
+you
+ know,
+ would
+ always
+ tell
+ like
+ talk
+
+
+about
+ the
+ competitors,
+ what
+ they're
+
+
+doing
+ in
+ the
+ marketing
+ world
+ and
+ what
+
+
+are
+ trends
+ going
+ on
+ there.
+ Um,
+ and
+ she
+
+
+loved
+ that
+ it
+ was
+ also
+ like
+ so
+ Anna,
+
+
+we're
+ going
+ to
+ prepare
+ you
+ today.
+ It
+ was
+
+
+really
+ cute.
+ Um,
+ but
+ it
+ worked
+
+
+exceptionally
+ well
+ for
+ her.
+ um
+ she
+ ended
+
+
+up
+ getting
+ like
+ the
+ ideal
+ job
+ that
+ she
+
+
+really
+ wanted.
+ Um
+ and
+ yeah,
+ it
+ was
+
+
+pretty
+ awesome.
+ So,
+ highly
+ recommend
+
+
+that.
+ It's
+ also
+ great
+ bonus
+ points
+ for
+
+
+anybody
+ out
+ there
+ with
+ friends,
+ family,
+
+
+interviewing,
+ um
+ the
+ ways
+ that
+ you
+ can
+
+
+really
+ help
+ them.
+
+
+>> Okay,
+ I'm
+ going
+ to
+ have
+ to
+ make
+ hats,
+
+
+which
+ is
+ like
+ my
+ love
+ language
+ is
+
+
+personalized
+ AI
+ podcasts.
+ It's
+ very
+
+
+good.
+ It's
+ very
+ good.
+ Husbands
+ out
+
+
+there,
+ uh,
+ wives
+ out
+ there,
+ partners
+ out
+
+
+there,
+ demonstrate
+ your
+ love
+ by
+ doing
+
+
+knowledge
+ work
+ via
+ AI
+ for
+ the
+ things
+
+
+that
+ your
+ your
+ partner
+ needs.
+ Okay,
+ this
+
+
+is
+ this
+ is
+ amazing.
+ This
+ is
+ really
+ fun.
+
+
+Um,
+ so
+ many
+ tabs
+ opened
+ in
+ the
+ sidebar.
+
+
+I'm
+ sure
+ so
+ many
+ other
+ things
+ you
+ could
+
+
+show,
+ Reed.
+ Thanks
+ for
+ joining.
+ Where
+
+
+can
+ we
+ find
+ you
+ and
+ how
+ can
+ we
+ be
+
+
+helpful?
+
+
+>> Yeah,
+ where
+ you
+ can
+ find
+ me,
+ LinkedIn.
+
+
+I'm
+ most
+ active
+ on
+ LinkedIn.
+ Um,
+ I
+ do
+
+
+love
+ the
+ LinkedIn.
+ Uh,
+ so
+ you
+ can
+ find
+
+
+me
+ Reed
+ Reid
+ Robinson
+ um
+ on
+ LinkedIn.
+
+
+You'll
+ probably
+ find
+ me
+ pretty
+ quick.
+
+
+Um,
+ if
+ you
+ can
+ help,
+ honestly,
+ I'm
+ a
+
+
+sucker
+ for
+ product
+ feedback.
+ Like,
+ try
+
+
+some
+ of
+ the
+ things
+ I've
+ talked
+ about
+
+
+today.
+ Tell
+ me
+ what
+ worked.
+ Tell
+ me
+ what
+
+
+didn't
+ work.
+ Tell
+ me
+ what
+ you
+ wish
+
+
+existed.
+ Um,
+ I
+ also
+ love
+ hearing
+ from
+
+
+the
+ folks
+ who
+ are
+ thinking
+ about
+ the
+
+
+future
+ of
+ all
+ of
+ this.
+ Um,
+ who've
+ tried
+
+
+like
+ wacky
+ things
+ and
+ they're
+ like,
+
+
+"Hey,
+ if
+ only
+ I
+ could
+ do
+ this."
+ Um,
+ I'd
+
+
+love
+ that.
+ like
+ bigger
+ picture
+ thinking
+
+
+stuff
+ as
+ well.
+ So
+ if
+ you've
+ got
+ some
+
+
+like
+ wacky
+ ideas
+ in
+ the
+ world
+ of
+ tools
+
+
+and
+ agents
+ and
+ automation
+ stuff,
+ let
+ me
+
+
+know.
+ If
+ not,
+ yeah,
+ try
+ Zap
+ your
+ MCP.
+
+
+Give
+ us
+ some
+ feedback.
+ Would
+ love
+ any
+
+
+and
+ all.
+
+
+>> Amazing.
+ Well,
+ thank
+ you
+ so
+ much,
+ Reed.
+
+
+I
+ really
+ appreciate
+ it.
+
+
+>> Really
+ appreciate
+ you
+ having
+ me
+ on
+
+
+Claire.
+
+
+>> Thanks
+ so
+ much
+ for
+ watching.
+ If
+ you
+
+
+enjoyed
+ this
+ show,
+ please
+ like
+ and
+
+
+subscribe
+ here
+ on
+ YouTube
+ or
+ even
+
+
+better,
+ leave
+ us
+ a
+ comment
+ with
+ your
+
+
+thoughts.
+ You
+ can
+ also
+ find
+ this
+ podcast
+
+
+on
+ Apple
+ Podcasts,
+ Spotify,
+ or
+ your
+
+
+favorite
+ podcast
+ app.
+ Please
+ consider
+
+
+leaving
+ us
+ a
+ rating
+ and
+ review,
+ which
+
+
+will
+ help
+ others
+ find
+ the
+ show.
+ You
+ can
+
+
+see
+ all
+ our
+ episodes
+ and
+ learn
+ more
+
+
+about
+ the
+ show
+ at
+ howiaipod.com.
+
+
+See
+ you
+ next
+ time.
