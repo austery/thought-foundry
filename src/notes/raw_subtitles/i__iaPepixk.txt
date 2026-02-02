@@ -1,0 +1,1641 @@
+So all this data set of numbers are
+weighted towards the end of the decade,
+whereas the new solar is right here, right
+now, crushing power prices.
+So you actually want to be
+a little short power
+for the next few years
+and then flip to being long.
+And if you can figure out
+when that flip is,
+you can make a lot of money
+in either the forward power curves
+or the natural gas curves.
+But as far as your original question,
+as I said, data centers,
+2 or 3 years to build new power
+plants, 4 or 5.
+But then you don't need as many new power
+plants as everyone's saying.
+So constellation CEO said on a call
+the other day,
+he said he use the Texas market.
+He said 87 gigawatt peak market.
+You could add ten gigawatts to Texas
+tomorrow, which would be the equivalent
+of sending every single Nvidia chip
+for an entire year to Texas
+and running them 24 over seven.
+That's ten gigawatts. He was
+you could run it right now.
+Existing grid, existing plants for all
+but 40 50 hours a year.
+We stress tested it.
+There are some coal plants
+that could ramp up capacity factor.
+There's plenty of gas plants I can
+so I don't know if it's 40 hours,
+100 hours, 140 hours,
+but it makes more sense
+to pay someone else not to run their
+chemical company, the refinery company,
+for 40 50 hours a year, rather than have
+the utilities go out and spend $10 billion
+connecting far away wind farms.
+That's the argument.
+We're sort of come in the middle of it,
+but there is plenty of existing capacity
+on the grid that could ramp up to meet it.
+Hello, and welcome to another episode
+of the Odd Lots podcast.
+I'm Tracey Alloway
+and I'm Joe Weisenthal. Joe.
+Imagine you are a utilities analyst.
+Yeah.
+And for years you are laboring
+in the utility analysis mines.
+And you know,
+we like talking about utilities.
+We talk about energy.
+We find pretty much anything interesting.
+That's right.
+Equal opportunity. Interest people.
+We are.
+But yes,
+you got to say utilities for a while.
+Some people would say
+it was a little more quiet.
+No. That's right.
+I mean, for most of our careers,
+I think if you were a utilities
+analyst, a really big part of your job.
+And maybe I'm wrong, but I just didn't.
+The popular discourse was like talking
+about yield relative to treasuries, right?
+They were seen as sort of bond
+like instruments, etc.
+maybe a little bit of growth,
+but roughly viable,
+safe haven ish dividend plays like us.
+Totally.
+And since I know where we're going
+with this conversation, one of the themes
+of the last few years has been
+what I would say is the old industries
+that were either stable or cyclical,
+becoming secular in the way they grow.
+I think that's right.
+So what is happening now is if you were,
+I don't want to say a lowly
+utilities analyst,
+but you know maybe a sort of forgotten
+utilities analyst outside of your sector.
+Suddenly you are very in demand right.
+Because all you hear about nowadays
+is the
+I build out an energy constraints on that.
+And so obviously a lot of people want to
+look at it from a utilities perspective.
+Totally.
+I always think like, what a great look
+that some people have in their careers.
+You know, you could be an analyst
+and learn the modeling skills
+and all kinds of stuff,
+and then you get allocated
+and someone gets allocated,
+I don't know, farm equipment
+and another person gets allocated to
+they wind up in utilities in 2022.
+And it's like, man,
+they're on TV all the time.
+My old boss at Business Insider,
+Henry Blodget, it's like he was there
+is an internet analyst and like the late
+90s, what amazing timing and luck.
+And so it's like journalism in the air.
+It's the same. It's the exact same thing.
+I started out covering airlines.
+Yeah, of all things,
+but those were interesting.
+Anyway, I'm glad to say we do
+in fact have the perfect guest.
+So we're going to be speaking
+to a utilities analyst, someone
+who happens to have a very contrarian take
+on the data center buildout
+and how much energy is actually required.
+We've been hearing a lot
+from people who are very, very bullish
+on the data center buildout.
+So this will be a useful
+I love their point I love it.
+Okay, so without further ado,
+Andy DeVries, head of Investor
+and great credit and head of utilities
+and power over at CreditSights.
+Thank you so much for coming
+on. Odd Lots.
+Thank you. The pleasure's mine.
+So is a great
+to be a utilities analyst right now.
+Even better.
+Your your Bloomberg News reporter,
+Josh Saul wrote an article
+about the how much it's changed for bigger
+utilities analysts
+now with the data centers are here.
+But the push back we did have the largest
+bankruptcy of all time.
+And Enron
+oh yeah, the largest LBO of all time.
+And TXU, which then went bankrupt and
+the largest private equity return ever.
+And Calpine, 25 billion,
+which exceeds Apollo's lion ELP
+trade and Blackstone's Hilton trade.
+So we have had a lot of fun along the way.
+Have you been a utilities analyst
+throughout that entire timeline?
+How long have you been doing it?
+I started with the first gas bankruptcy
+and then I went to the second.
+And here we are
+with data centers for 25 years. Wow.
+So you really have seen it all.
+It is
+fair to say so. You're absolutely right.
+There have been some disasters
+and home runs and utilities.
+You know, they do get central in the news
+obviously with the fires,
+that we saw, for example, in California
+several years ago and the court trials
+about allocation of risk in those,
+situations.
+You mentioned Enron, etc., but it is also
+fair to say that much of the discourse
+in day to day has been like
+these are sort of bond like instruments.
+Absolutely.
+Before we get into that, just like,
+sort of like
+talk to us about what a
+what a normal day is like.
+And when you're thinking about utility
+before, you know, centers.
+Yeah.
+Pre data centers five years ago
+whatever pre data centers
+you're looking at a lot of rate cases
+okay.
+Studying a lot of local news.
+You're looking at legislation.
+You're reading
+you know dry regulatory documents.
+And then you're tracking
+natural gas prices and start
+setting the price of power.
+Yeah. Right.
+On the federal level, you obviously have
+the renewables displacing coal.
+And that's, you know, obviously
+having a big impact now.
+So it's a little
+I actually think it's a lot of fun.
+My impression was always
+the policy aspect of it
+seemed kind of the most important thing
+to keep track of.
+Is that right? Absolutely.
+And that's down to the state level,
+but also the federal as well.
+Yeah, we've done a few energy. Yeah.
+So it's still trying to wrap my head
+around the sort of patchwork
+of, rules that seem to govern our energy,
+infrastructure.
+But anyway, there's something,
+by the way, a little bit like
+I'm trying I'm going to try and not say
+an offensive word.
+Do a Joe, do it.
+You should think a little Aspie
+about the way, like, you talk to people
+in this space and you're like, well,
+how is this get priced?
+And they're like, well,
+are you talking about market or central?
+It's like, okay, I don't know.
+You know, it's like,
+are you talking about a rate board
+or are you talking about market prices?
+It's so hard anyway, especially in a 40
+minute podcast, to try to generalize that.
+But I love the people.
+Don't get me wrong,
+those are my favorite people anyway.
+Andy, what is the mood like at the moment
+among,
+utilities people, analysts, investors?
+Wasn't there a conference recently?
+Everyone's, gung ho on this.
+So the biggest conference of the year
+is EEI in November.
+And, it was packed.
+It was standing room
+only for some of these presentations. Wow.
+Your competitors at CNBC
+were broadcasting from the floor
+for the first time.
+That probably a sign of a top.
+So, yeah, people are very happy in it
+just to quantify it.
+Utilities have generally grown around 4
+or 5, 6% a year,
+and then that's moved to 5 to 7% a year.
+And now certain names which we'll talk
+about later are up to 8% a year.
+And that's driven by data center growth.
+Talk to us a little bit more about that.
+So what is the I mean, I'm like looking
+at a chart of the Xiu ETF.
+I don't think it's like insane.
+But talk to us a little bit about like
+maybe quantify the exuberance for us.
+So it's like, okay, we
+we are no longer just in the business
+of measuring bond proxies
+and looking at policies, etc..
+There was a secular growth driver.
+Talk to us about like the bull case,
+and then also how we would
+see the bull case, sort of like how it's
+manifesting into tradable instruments.
+Sure.
+And you pulled up the graph of the slew.
+Obviously, it's still a very interest rate
+sensitive sector.
+Yeah. That's like dividends.
+You can find higher yields and other fixed
+income instruments. Yeah. Right.
+So you know maybe didn't
+do so well last year.
+But the industry argues that as this EPS
+growth rate goes up to the
+high single digits,
+mid to high single digits,
+that it shouldn't
+be as interest rate sensitive.
+So that's the big debate going on
+with investors right now in this talk.
+I mean the Xue has done very well.
+So you have gotten both the capital.
+It has gone done well.
+If you zoom out, it looks pretty good.
+It's done well.
+That's my impression
+of a bitcoin investor, by the way.
+Zoom out.
+Just zoom.
+All right. You've got
+and you've gotten that coupon right.
+So like you get so
+like you might in normal times
+just be happy with
+the coupon. You're getting coupon.
+Plus I mean it worked out.
+The fed went zero
+interest rates for so long.
+So utilities are the place to be.
+That's just math.
+And then as soon as the fed starts
+jacking up rates,
+ChatGPT comes on the scene
+and all of a sudden there's data centers.
+So now all of a sudden
+you're taking the leg up on growth
+when you don't need to be so interest rate
+sensitive. Interesting.
+So one of the reasons we wanted to talk to
+you is because you have that contrarian
+take on the data center built out,
+and we wrote it up
+in the Odd Lots newsletter,
+which everyone should subscribe to.
+It got a lot of attention.
+Your analysis, interestingly,
+is just based on some pretty simple math.
+So why don't you, just to start out with,
+why don't you walk us through
+the calculations that you're actually
+making to try to analyze how much capacity
+the utilities are taking on
+to actually power data centers?
+Sure.
+So, as you said,
+it's pretty simple math here.
+So utility.
+So data centers
+now are consuming around 45GW of power.
+And you can switch between capacity
+and throughput I'm
+going to stick with capacity okay.
+So 45GW of power.
+And then there's
+lots and lots of third party estimates
+for where they're going to be in 2030.
+And they are centered around this,
+you know, 90 95GW.
+So you need to add 50 for 2035.
+There's a lot fewer estimates.
+You come around 160.
+Now these estimates,
+they you know, they're all over the place
+they come from cell side banks.
+They come from consultants.
+They come from everyone. Benioff has one.
+They're I think one of the best out there.
+So thank you.
+We use them a lot.
+So so that's on the demand side.
+I'm where you're going
+to come out on these.
+And then you look at the supply
+and everyone talks about the demand right.
+Oh yeah.
+But then you look at the supply
+and all these tech bros
+are too cool to actually look
+at the supply and do utility analysis.
+Right. Who wants to be a utility.
+And I'll see.
+We're making fun of us before.
+But if you look at this
+you're fitting you.
+But when we realize
+are pretty well misplaced
+but we're not making fun anyway,
+this is great.
+So you look at the supply
+and these utilities are tracking
+all these data centers,
+connecting to the grid
+because they've got to do a lot of work,
+spend a lot of money
+in transmission, distribution, new
+substations, transformers.
+It's a lot of work
+but a boost their earnings growth.
+So they're happy to talk about this.
+And so you look at where they're at
+and where they're they see things coming.
+And they've got around 140GW of near-term
+supply.
+Now kudos to the utilities.
+They break out with firm committed
+signed contracted versus pipeline
+behind it because there's a lot of double,
+triple quadruple counting.
+So if you're going to build a data center
+in the southeast, you're going to tell
+Duke,
+you're going to sell southern, you're
+going to sell Dominion,
+you're going to build one.
+So that's the pipeline potential.
+But looking just at the firm committed
+whatever
+they want to call it, around 140GW.
+Now that's you got to adjust that.
+So when you connect two data sets peewee.
+Yes. When you connect a data center to
+the grid, you've got lights,
+you've got cooling.
+Those third party estimates I gave
+you are just for raw compute.
+Why did you split those out though?
+Because I mean, all data centers are going
+to need to be cooled down, right?
+What's the point of splitting it out?
+I'm not splitting up.
+I'm just adjusting it downward because
+a third party estimates are just compute.
+So you're connecting to the grid.
+You're going to ask the lights,
+the cooling and everything.
+Yeah.
+So I want to go apples to apples versus
+the third party.
+So what do we stand for.
+Power usage effectiveness.
+Great power usage efficiency.
+Keep go.
+So they're at 140.
+So that power is down
+to 110 on apples to apples.
+So just to go back you only need 50
+on the demand side between now and 2030.
+And the utilities
+are working at connecting 110.
+So the utilities are working on already
+connecting
+almost as much as you need by 2035.
+So again,
+just to make sure are on the same page.
+Third party estimates
+45GW for data centers now going to 95.
+That's 50 utilities are working on 110.
+They don't give timing for that.
+Some of it's going to be past 2030.
+What I'm trying to say is there is a lot
+of supply of data centers coming.
+And it's very unclear
+if there's going to be demand for this.
+So that's that's the issue there.
+And then it might be worth pausing
+that and just saying
+how we're tracking these things. Yeah.
+So what we do for the demand side
+is we use the original
+AI agent, you know, that is a Gmail alert.
+Oh it's the best.
+So we anything
+that's not on our trade pops,
+not on Bloomberg News,
+we got picked up by a Gmail alert.
+And so then we get all that
+in a spreadsheet.
+So that's on the demand side.
+And then on the supply side we use Diego.
+And that's not a large language model.
+That's my junior sitting several blocks
+west of us right now.
+So he tracks all this and utility calls.
+Just yesterday NextEra moved
+another two gigawatts from the potential
+into the committed.
+And these utilities
+are chomping at the bit
+to sign more and more of these deals.
+And I think
+it's just going to be oversupply.
+We're going to overbuild these things.
+Just to be clear, the firm commitments,
+those are signed agreements
+to actually build this capacity.
+Yes. Okay.
+And so I was talking with the CFO of Oncor
+and they made these comments
+on their call as well.
+They're owned by Sempra.
+And I said, you know,
+no one really believes these data and
+estimates Texas is a walled off market,
+as you guys know, 87 gigawatt peak market
+that is the one thing I know about
+Texas is its own walled off market.
+There you go. So 87 gigawatt peak market.
+And the demand estimates are
+they're going to add 30GW by 2030.
+And I said to the CFO of Oncor
+said there's just no way.
+He said it might not be 30, but it's
+going to be closer to 30 than it is zero.
+And I said, I just the four power curves
+don't reflect that at all.
+And he said, then they're mispriced.
+So just for the entire market,
+just for the benefit of your users,
+you cannot trade forward power in Texas
+on Interactive Brokers I know that.
+Oh, that's a bad audience. It's too bad.
+Everyone's like,
+look it up then. No, but this is great.
+And this gives us a bunch of, technical
+questions to get into some already.
+Let's just keep talking about Texas.
+Explain to us
+kind of what the forward power curves are
+and how you can back out the implicit,
+assumptions that traders
+or are making based on those forward
+power curves about how much demand
+there's going to be sure.
+So, I mean, obviously you're going to go
+from 87 to you're good at
+15 or 30, whatever it is
+you'd expect that curve to go higher.
+But what's the curve measuring tool okay.
+You say there's a forward power.
+So the forward power curve
+is around the clock peak or off peak.
+There's three separate curves.
+And the difference between peak and off
+peak is actually you know yeah narrowed
+because data centers run 24 seven.
+So it depends on your north Texas
+or south Texas.
+And those are in the high 50s.
+But what would we be
+seeing in the curves for like 20.
+Like are there
+or is there trading happening at the 2030
+10 or 30 might not be so liquid,
+but 27 and 28 certainly are there.
+But there's an other energy market.
+So if you look at nat gas, for instance,
+although gas traders are really weird
+about the futures curve in gas,
+which I don't really understand.
+But if you look at that,
+you point out that over the longer term
+it's downward sloping,
+which suggests that there isn't
+going to be as much demand,
+or maybe there's going
+to be more supply out in the future.
+I love it.
+We're morphing into natural gas
+because that is the main driver
+of power prices, especially in Texas.
+And the forward curve for gas
+is much more liquid than it is
+for power,
+and the forward curve for gas is inverted.
+It goes from 370 to 360
+by the end of the decade.
+So as my energy analyst Charles
+Johnson points out,
+the bigger driver
+there isn't data center demand.
+We're at six BCF a day.
+There a lot of people are,
+but 1012, we can get into that.
+But LNG exports were exporting
+18 BCF a day.
+Now we're going to add another 12.
+Like you'd think that curve
+would be at least upward sloping by $0.25.
+$0.30, by the way, you can trade that
+in your Interactive Brokers account.
+So that goes
+into is there going to be a glut of LNG?
+It starts getting outside of my expertise.
+But that's
+but we heard from a lot of clients
+last week when we went on the road
+all over New York City.
+This is very interesting.
+I actually want to ask another question
+about the pure power curve.
+But since we are on LNG and
+then we can get back to the power curve,
+just setting aside data centers, etc.
+intuitively, you would think that what is
+a growth business in the United States?
+LNG exports, and in fact,
+one of the sort of policy debates
+around the whole question
+of building out LNG terminals
+is it's going to make gas more expensive
+for American consumers
+because now we're going to be competing
+with European buyers.
+Whereas when we didn't have LNG export
+terminals, we were just swimming in it
+because it had nowhere to go,
+nowhere to go.
+So it's very interesting to hear
+that even with everyone acknowledging
+a booming domestic demand
+and b the expected
+expansion of international demand,
+their downward sloping gas curve, yes,
+maybe, I don't know, maybe the reflecting
+world peace in Europe and Russia.
+LNG is unacceptable
+to the rest of the world.
+That could be a driver.
+Then they would have to rebuild
+that pipeline.
+Yeah, but but back to our
+original conversation on demand.
+The reason I was talking to the Oncor CFO
+and asking him about this is he said
+he's holding
+$2.5 billion of cash collateral postings
+from some of that demand.
+And he's like, you're not some,
+you know, Joe Schmo startup.
+I'm going to build a data center
+to connect to your grid
+if you're posting $2.5 billion.
+And he says,
+and this is what he said in their earnings
+call as well, you know,
+that's real demand that is coming.
+It's it's material, I'm sure just now
+to go back to the power curve,
+which I get is much less liquid out there.
+But there are trades that happen.
+These are price
+like how do you infer volume from price.
+Because these are prices.
+We don't get the volume.
+But it's a it's a yearly curve.
+And then right for the year starts
+it splits in the 12 month curves
+and then it goes into weekly.
+But what I'm saying is how do you infer
+what expected volume in 2028
+is going from a price curve?
+Sure. It's it's flat.
+It goes up a dollar from here to 2030.
+Whereas if you're going to add
+20% to your good demand
+than you'd expect it to go up, okay.
+Several dollars.
+All right
+I see side I'd want to see $0.40, $0.50
+I see what you're saying okay with that.
+And then just to go back to the fork in
+your upper 50s in Texas, low 60s for peak.
+And the data center
+companies are paying 95.
+So Vistra to sit a deal off $95
+a megawatt hour okay.
+For round the clock.
+So Vistra contracted at its Comanche Peak
+plant in Texas $95 a megawatt hour.
+So Big Tech is paying a very pretty penny.
+You can argue some of that for the CO2
+free aspect of it,
+and some of it's
+just to lock in the supply.
+So just to go back to the math
+and your overall argument, I mean, you're
+basically saying that utilities
+are already committed to building out,
+I guess, twice as much capacity
+as is forecast to be needed by 2030.
+Yes, the wild card to me
+seems to be the demand forecasts.
+Right.
+And we're already seeing those change
+pretty wildly.
+I know you mentioned Bloomberg NEF,
+but you know, they
+they've raised their forecast,
+because of the data center buildout.
+So they've raised their forecast
+of how much energy is actually needed.
+How much confidence do you have
+in those demand numbers,
+and how could they change over time.
+Moderate confidence.
+But like, look, we're right now
+like OpenAI built all the ChatGPT
+using two gigawatts,
+all the big tech hyperscalers,
+they haven't given their 2025 volumes yet.
+But if you take their 2024 volumes
+and then double it, and this is output.
+So I'm going to transfer it
+back to capacity.
+And you assume a 60% capacity factor.
+All the hyperscalers combine around 15GW.
+And that's got to be over
+half the data center demand.
+So to talk about 95GW
+I mean it's a staggering number.
+And then you get more advances
+and you know Nvidia chip efficiency.
+Yeah obviously Jevons Paradox kicks in.
+You've had numerous
+guests talk about that.
+It's just a lot of power a lot of power.
+Can you just remind us one
+gigawatt is enough to power what I like
+these comparison million homes.
+But it depends if you're in Florida
+or the northeast.
+But generally speaking,
+that's where you're at.
+Not only do I find electricity market
+so in market structure
+and electricity,
+very difficult to wrap my head around.
+Even after all of these conversations,
+I have built no heuristics or intuition
+for what
+these are gigawatt kilowatt, megawatt
+like you say these things and I know
+gigawatts bigger than a kilowatt,
+but like what is actually me here?
+And then the fact that even there
+we're talking about the difference
+between a gigawatt and a gigawatt hour.
+And like, I've yet to develop the sort
+of intuitions that I have haven't seen.
+Back to the future.
+Yeah. 1.1GW. Oh, there you go.
+We got a print out,
+you know, a little teeny tiny that
+like the way we used to do for credit
+ratings in the financial crisis.
+We need that up there.
+And actually credit
+ratings are going to be interesting
+from a utilities perspective as well.
+Can I just ask, you know, obviously
+one of the sensitivities in general,
+with all things data center and utilities
+is this view.
+And I think it's kind of overstated.
+They're like, oh, or other, is the average
+ratepayer going to end up
+paying for a lot of, data centers
+or we'll raise our electricity bill.
+And I understand, like, these are complex
+questions and the math isn't so clear.
+And also, from what I understand,
+the emergence of a data center
+can actually lower
+the consumer's electricity bill,
+because there's just that simple math,
+which is if there's more buyers
+splitting the cost of the buildout, then
+actually your, price tag can go down.
+But in the scenario you're laying out
+in which there's a bunch of upfront
+capital investments and everyone's
+very excited to build it out,
+and that credit wires and you have to buy
+transformers and gear and all this stuff.
+If the demand is does not materialize
+as expected.
+That does sound like conditions in
+which we could see consumer rates go up.
+Absolutely.
+So that's what
+we're spending all our time on.
+And it's state by state.
+And even within the same state,
+you've got numerous jurisdictions.
+So is it legislatively mandated
+or is it done by a rate case
+or in the case of northern Indiana,
+have the companies themselves data center
+companies themselves gotten ahead of it
+and said, we're going to put in a solution
+where ratepayers are absolutely protected
+and get money back.
+So you look at NiSource
+with the Midwestern utility, they own
+Northern Indiana public Service Nipsco,
+and they've got a deal
+where they've got an inside rate base,
+they've got a separate Genco,
+so they sell.
+And that Genco is doing a deal
+with Amazon, and they're going to
+kick back
+$1 billion over 15 years to ratepayers.
+So rather than have a debate
+oh is who's funding what.
+It's like done.
+And you get $67 million a year.
+And that's the blueprint.
+That's the gold standard. Yeah.
+I keep in mind six months
+before that, Genco was launched,
+nice or sold 20% of Nipsco two Blackstone.
+So you could argue Blackstone said,
+hey, let's go ahead and do this.
+And then the utility right north
+of Indiana or northeast Indiana is Ohio.
+And the CEO of First Energy
+is an ex Blackstone guy.
+So maybe they look at doing a Genco
+or something like that.
+That's pure speculation I have no idea.
+PAC gas, Pacific Gas Electric.
+They've done a deal
+where they've got rates in place
+that protect President ratepayers.
+Amarin has but a lot of utilities don't.
+They don't have these protection.
+The point is, someone
+if it turns out that there's an overbuild
+and there is not as much demand for it,
+someone's paying for it.
+And it either is going to be the customers
+or perhaps utility shareholders.
+I mean, you just the political risk
+of having mom and pop bail out.
+Yeah.
+You know, Mark Zuckerberg, Jeff Bezos,
+it's just you can't have that happen.
+But again, six months ago this was coming
+up on the tail end of conference calls.
+And now these utility CEOs
+are having in their prepared remarks.
+So I'm pretty confident
+they're going to figure it out.
+You mentioned Blackstone just then.
+I do want to talk about
+who is currently making a lot of money
+from the data center buildout,
+but just to stress test
+the thesis a little bit more
+because it is a contrarian take.
+And so I think we should ask
+a bunch of questions about it. But
+does it take into
+account time lags for projects.
+So I think, you know,
+capacity build out in the energy
+sector is notoriously bureaucratic.
+That is one thing that Joe and I do
+actually know about the sector.
+Is it possible that a lot of these
+committed projects actually
+take much longer to get working
+on the ground than currently forecast?
+I think the delays will be on building
+the new generation, not the data centers.
+So data center takes 2 or 3 years,
+even if that slips to 4 or 5 years.
+The power plants take 6 or 7 years.
+And as you know, you can't get a GE
+Ivanova gas turbine for years
+and years, which is obviously a bullish
+backdrop here.
+Yeah.
+Talk to us more about that element of it
+all because building out
+if you overshoot on production
+then that's a problem in itself.
+If you overshoot on production at a time
+when it's gotten really expensive
+because there's massive inflation
+and the, the production,
+construction sector,
+that's an even greater problem.
+Talk to us just about like, per
+any given unit of productive capacity
+on the utility side,
+how much more expensive is it gotten
+and what are you forecasting for that?
+Sure.
+So it's a build
+a combined cycle gas plant
+ten years ago is 1000 1200 a kW to build.
+Then it got to 2000.
+Then utility analyst like myself was like,
+whoa, that's insane.
+Now we're up to 3000.
+Then it's like,
+who? Who's actually spending this?
+But that $3,000 a year for a new gas
+plant compares to the data center itself.
+The cost $40,000.
+So for big Tech to spend another three
+to lock in their gas price
+or their fuel source,
+it's like it's nothing.
+Oh, yes.
+De minimis, which goes back to
+the output for power is 5560
+and big tax paying 95
+in the grand scheme of things.
+So the cost of data center is nothing.
+So that's why the utility and I'll, I'll
+just jaw dropping on how shocking it is.
+Big Tech's willing to pay these amounts.
+What about if you don't measure,
+production of new plants in dollars,
+but new plants in time and again,
+if you're talking about.
+Okay, well, if we can't get this turbine
+and that is several years ago,
+we could have got delivered next month,
+how much longer are these projects taking?
+So if you can figure this out,
+I think you're alluding this.
+If you figure this out,
+you can make a lot of money. Okay.
+Because obviously Inflation Reduction
+Act had enormous I'm going to vibe code
+a thing to figure it out.
+Keep going and inflation reduction act
+enormous tax credits for renewables.
+Yeah.
+And then the one big beautiful bill
+obviously clip those
+if you're not aligned by a certain date.
+So all this data set of numbers are
+weighted towards the end of the decade.
+Whereas the new solar is right here
+right now crushing power prices.
+So you actually want to be
+a little short power
+for the next few years
+and then flip to being long.
+And if you can figure out
+when that flip is,
+you can make a lot of money,
+neither the forward power curves
+or the natural gas curves.
+But as far as your original question,
+as I said, data centers
+2 or 3 years to build new power
+plants, 4 or 5.
+But then you don't need as many new power
+plants as everyone's saying.
+So constellation CEO said on a call
+the other day.
+He said he use the Texas market.
+He said 87 gigawatt peak market.
+You could add ten gigawatts to Texas
+tomorrow, which would be the equivalent
+of sending every single Nvidia chip
+for an entire year to Texas
+and running them 24 over seven.
+That's ten gigawatts.
+He was.
+You could run it right
+now, existing grid, existing
+plants for all but 40 50 hours a year.
+We stress tested it.
+There are some coal plants
+that could ramp up capacity factor.
+There's plenty of
+gas plants I can so I don't know
+if it's 40 hours, 100 hours, 140 hours,
+but it makes more sense
+to pay someone else not to run their
+chemical company, the refinery company,
+for 40 50 hours a year, rather than have
+the utilities go out and spend
+$10 billion connecting faraway wind farms.
+That's the argument.
+We're sort of come in the middle of it,
+but there is plenty of existing capacity
+on the grid that could ramp up to meet it
+and then of others gas to point it out.
+And Abbott's, you know, the peak
+demand of the grid is 850GW.
+The overall size of the grid is are 1200,
+terawatts, and then it gigawatts,
+and then you're adding 50GW
+a year or solar, and then you're going
+to start adding 20GW of gas.
+I mean, we're going to handle it.
+I'm not really worried about any interests
+or anything.
+Oh, yeah.
+Talk to us about regional transmission
+because this is something
+that we hear a lot.
+It's not necessarily
+the power generation that's an issue here.
+It's the transmission which the US
+you know, seems to struggle with, to put
+it mildly.
+So there's regional markets myself.
+Midwest's the Midcontinent ISO these guys
+are tired the most amount of coal.
+So I think they're going
+to be in the worst shape.
+And then Texas and then it depends.
+If anyone builds
+anything in New England, New
+England's got the faraway, more expensive
+power prices $70.
+The rest of the countries,
+you know, I am well aware.
+Yes, I have to
+because I live in Connecticut.
+So if anyone builds a data center in New
+England, they're going to be the tightest.
+But after that, it's really myself.
+No one's building data centers in Vermont
+where they occasionally have to switch
+over to oil and wood.
+Right?
+I mean, they iso New England app,
+which we all have on our phone, right?
+They were getting 40% of their power from,
+oil.
+Yeah, yeah,
+the cold snapped the other day, but now
+it's tough to talk about New England power
+without talking politics.
+And we're not going to go down that.
+So, so transmission is very important
+because you've got to connect
+all these far away renewables to the grid.
+You said something that I think
+is actually kind of important.
+Or is this, narrative meme, you know,
+people talk about the I race U.S.
+versus China and that one of the things
+I've seen people say China is going to win
+because they could just build out power
+more easily than we can.
+It sounds like,
+I know you're not an AI analyst,
+but it sounds like from your perspective,
+we don't know, like what it means
+or who's going to win U.S versus China.
+But then from your perspective,
+power is not going to be the decider here.
+Not in China. It's not.
+But it does it.
+You said like you know, that we could ship
+every current with existing capacity.
+We could put every Nvidia chip in Texas
+today and we could run them for 50 hours
+for with the exception of a few
+really hot hours in the summer, I,
+I like the imagery of all the Nvidia chips
+going on a field trip
+to Texas, to Texas.
+But it sounds like to your view, that
+really isn't going to be from the U.S.
+perspective,
+that won't be the binding constraint.
+It's it's going to be a little tight,
+but I'm not one of these doomsayers.
+Oh, it's the absolute gating factor.
+It's all going to stop.
+I was in Shenzhen, China, last year,
+and a robot got on the one floor
+and the elevator went up
+and they got off another one.
+And I was like, what is going on here?
+There's another reason
+we wanted to talk to you, aside
+from your capacity analysis,
+which is one of the interesting things
+that's been happening in the credit
+market is obviously private
+credit has been a big story
+for the past few years,
+but now private credit is getting in
+on the data center buildout as well.
+There's sort of, I guess,
+getting on your turf
+a little bit in the public bond market.
+But what sort of activity
+have you seen there?
+Sure.
+So we think that's where the risk is going
+to is going to happen.
+And frankly, Bloomberg News broke
+the story on Pimco, made
+$2 billion on day one, loaning
+to the metadata center in Louisiana.
+So they price $25 billion of that debt
+at 220 over treasuries.
+And it immediately started trading at 140
+and handed Pimco 2 billion.
+Great for Pimco,
+but then everyone else nice to be Pimco.
+Isn't that nice to be Pimco,
+especially the weather in Newport Beach,
+but everyone else in private credit is
+like, oh, these guys just make $2 billion.
+We need to start lending to data centers.
+And we all know how this ends.
+Covenants
+start falling, rates start falling.
+And again, if you're big tech, who cares
+if you overspend like you think AI's
+the be all end all.
+You're going to overspend
+when you get down to the second tier.
+The key is the vantages of the world.
+And then you get down to sort of the ones
+below that and you get like,
+you know, the core weaves
+and the biases of the world.
+And, you know, there's a lot of shorts
+going out on Equinox.
+And obviously you're getting Jim Chanos
+and it's all about the chips.
+I'm not going to get into the chip debate,
+but it's interesting.
+You look at a core.
+We've
+and they got a $50 billion market cap.
+That's a real company.
+You're going to be around for a long time.
+But the bond market
+saying we want a 10% yield to lend you
+2030 paper,
+you might not be a real company.
+And if you look at our supply demand
+outlooks, we're kind of
+in the camp of the bond market.
+But timing, which you mentioned earlier,
+Joe, is so key because this data centers,
+you're
+going to ramp for a couple of years,
+and the oversupply is really a 2030 event.
+So good luck timing that one.
+You said something you talked about
+that Pimco met a deal
+and this question has come up.
+And I still don't think it's
+got a totally satisfactory answer to it.
+Matt, is a,
+you know, very highly
+rated company from here,
+as you see it, as a credit analyst.
+What is it about the private credit?
+You know, they'll talk about,
+oh, it's flexible, etc.,
+but you 220 spread over
+treasuries is not nothing at all.
+And is that
+is their 220 spread really like worth it
+for like a little bit more flexibility
+etc..
+Like what are they paying for exactly
+where in the private credit market
+that they couldn't get cheaper?
+I would think in the public bond market,
+I don't know, but I could speculate.
+There's a couple.
+If the question is
+why did you put this off balance sheet?
+Yeah. All right.
+So you've got the state
+of the art data center
+with the best Nvidia chips out there.
+And you're a tech company and AI is the be
+all end all for everything.
+Did you kick it off your balance sheet
+because you didn't want to damage
+your balance sheet.
+But the agencies are imputing it.
+But maybe quant funds running
+their screens, they don't impute that.
+So maybe that helps.
+Or maybe you didn't want the depreciation
+running through your income statement.
+Maybe that helps.
+Or maybe you want to walk from this thing
+in five years.
+I don't know, but
+one of those is definitely the reasons.
+Because why else would you pay
+that much bigger spread 150 bips
+over their borrowing costs.
+But so the key thing is here,
+when you talk about that Pimco,
+a deal technically this is not meta debt.
+It is not.
+It's okay.
+This is not right. Okay.
+So they create a vehicle.
+They're not going to okay.
+That's a
+I think that's an important element
+that they're not just arbitrarily paying
+a lot more for like a sort of though,
+that they're off balance.
+And if you read the credit docs,
+they've guaranteed this debt.
+Yeah.
+Even if the data center shuts down.
+But our understanding of the docs
+is if they sell it,
+then the guarantee goes away.
+And so that would create a little risk.
+But back to my utility roots please.
+What happens
+if data center shuts down for ratepayers.
+And they actually have an explicit
+guarantee from meta to protect ratepayers.
+So they have that
+a lot of other utilities don't.
+So a lot of states
+Louisiana, Mississippi, Tennessee, Texas,
+they need to do a better job
+protecting the ratepayers.
+And by the way,
+that's just one line in the doc
+that could fall apart way
+and other new data centers.
+And that's what we spend our time
+looking at.
+You mentioned the credit ratings
+just then.
+So the rating agencies,
+they they look at the off balance sheet
+vehicles, even though it's
+not officially part of the companies,
+they impute the lease payments.
+Okay. And include that as debt.
+I see for meta specifically.
+They won't do that until the lease starts
+when it comes online.
+But everyone's doing it.
+And then I was just thinking,
+I don't mean to labor this analogy too
+much, but, you know, you started out
+by talking about all the exciting moments
+in the history of being a utilities
+analyst, and one of those was Enron,
+which I assume means, you know, you have
+some experience with circular deals.
+But what do you think about all the
+sort of
+incestuous
+financing deals that seem to be happening
+between all the various players
+in the data center, industry?
+You mean we'll buy your equity
+so you can buy our chips?
+Yeah, yeah.
+Again, I'm on the side of bondholders
+in that one.
+Just look at the market caps,
+look at the bond yields and the,
+I explain what you mean by that for
+so like, for people who don't even know
+Bloomberg Core, we've got people like me
+who have a Bloomberg but are too lazy.
+So these names are going out and.
+Yeah.
+And either OpenAI or Nvidia is going out
+and buying equity
+in these neo cloud companies.
+So then they can go out and either supply
+the compute to open AI and buy the chips
+from Nvidia. So it's all very circular.
+And I think the example people used
+20 years ago was Nortel was doing this.
+All the vendor financing.
+So there's a little lot of skepticism
+on that okay.
+So we can't do a utilities episode.
+I know we've been focused on data centers,
+but we can't do a utilities episode
+without mentioning nuclear power.
+What's it going to take to actually
+get, you know, some capacity from nuclear?
+Sure.
+So obviously the Vogel plant
+was the last big nuclear plant
+in the line of supposed to cost 14 billion
+and ended up costing 32 billion.
+It came on line ten years late.
+And no utility wants to take that risk.
+Now everyone's talking about
+these small modular reactors.
+And I think that's what you're going
+to start seeing is more talk of these.
+The only way we think of small modular
+reactors goes final investment decision
+Fiddy
+is if Big Tech agrees to do two things.
+They agree to buy some smashers
+and they invest equity
+in those smaller manufacturers
+to give them the CapEx to build,
+which sounds like something they would do,
+to be honest.
+For sure.
+And I think that's the only way
+you get one of these off the ground.
+And I think if those stocks
+rally on that deal, they're all shorts
+because they're already reflecting
+several of those deals happening.
+So the big ones are our Nuscale and Oklo.
+And Sam Altman of OpenAI,
+I used to be the chairman of Oklo.
+And then he stepped down
+so they could do a deal.
+So something along
+those lines would happen.
+That being said,
+Donald Trump has talked about doing work
+with Westinghouse and taking equity
+ownership to build another Ap1000.
+And obviously President Trump
+is all about taking equity.
+But none of the utilities in my coverage
+are going to build something
+without some sort of backstop.
+We we did an episode recently
+with an infrastructure investor and I
+you know, I'm a journalist.
+I look at the past,
+I don't talk about the future.
+But I was put on the spot
+and I said, I think in the next 20 years,
+gun to my head,
+we will never have another Vogel
+or we're not going to have another project
+like that in America.
+And it sounds like you agree, I agree.
+I do think you see some smears.
+Okay.
+I mean, frankly, our country's been making
+nuclear submarines for 67 years.
+That's an SMR right there.
+So I think that's the way it happens is
+big tech goes in and does that for sure.
+In 20 years, we'll have you back on
+to see whether or not both of you
+this is my only right.
+I don't know nothing about the future.
+This is my only one call is I just don't
+think we're going to ever get that right.
+That's
+we're not going to get a bunch of those.
+That's why I'm with you on that.
+And in 20 years,
+hopefully, I can dial in from the beach.
+All right.
+See you in 20 years.
+That know probably before because this was
+a fantastic this is great conversation.
+Thank you so much
+for coming on our thoughts.
+Thanks for having me Joe.
+That was a really fun conversation.
+That's super fun.
+I love that my the opinion reframing
+that I'm sort of coalescing around
+is that I can be simultaneously
+under hyped and overvalued, right?
+And actually throughout history,
+that's kind of what we've seen
+with transformative technology, right?
+Like think about the internet bubble.
+The internet changed the world,
+but it was a bubble.
+Think about railroads.
+Railroads in the 1800s changed the world,
+but also a bubble.
+So I think that's kind of it's
+kind of what I think the key issue,
+which Andy and you both touched on
+is the timing, right?
+The timing.
+And yeah, I mean,
+I think it's a it's very interesting
+because of course,
+his argument doesn't even,
+you know, doesn't
+even rest on any valuations right now.
+It's like there is all of this expectation
+for build out there.
+Is it.
+You know, as he put it,
+there is a number for the amount of,
+the volume of data center demand.
+There is an amount that's being built up
+and it's like the second number
+looks bigger, and that's going to be a
+that's going to be a problem.
+And the time to your point, like
+I thought, you know, really interesting
+observation you had is a little bit
+not tangential to his core idea,
+but this idea that some of our energy
+policies are encouraging
+a lot of production right now,
+particularly the expiring solar credits.
+Yeah.
+At the same time,
+a lot of this demand is going to come
+online in the back end, etc..
+I do think that,
+you know, it seems like a really
+it definitely seems like a fun space.
+It's very far from
+when we were just talking about, like,
+utilities as, as rate proxy.
+Right.
+Something for old people to get, income.
+Well, the other thing
+I was thinking about on the demand side is
+I think there's a tendency among AI bulls
+via coders such as yourself.
+That's right.
+To think that demand is just going to go
+one way.
+Right?
+So there's going to be more demand for
+AI because I don't know,
+every piece of software is going to be
+replicated through cloud code or whatever.
+And so power demand
+is going to go up as well.
+But what we've seen so far
+is that these things are getting more
+and more efficient.
+They're definitely getting more
+and more efficient
+and like faster than anyone expected.
+Yeah.
+You know, this is a little bit,
+tangential to the point, but I do think
+like one of the recurring phenomena
+is that we're seeing across this,
+industry is that every I mean,
+and this is,
+I guess it's a bull case,
+which is that, you know,
+even the optimists keep getting,
+turned out to be too pessimistic.
+The pace of, say, like, efficiency gains
+for the cost of processing
+a token dropping faster
+than people expected this morning.
+Recording to this January 28th ASML,
+the big chip,
+equipment company way
+better than expected.
+The evals, the benchmarks for the models
+where it's like
+the optimists say like
+maybe it could code at this level by 2027.
+Turns out it hits there by like,
+you know, early 2026, etc..
+So like if you want to
+just make I'm not making any case here,
+but if you just want to like
+make a bull case,
+it's like even the optimists,
+keep getting surprised to the upside.
+On the other hand, it's fascinating
+to hear him
+say look at what the markets are saying.
+They're not pricing
+in any of these expectations.
+And I was particularly surprised
+because I didn't realize this,
+that even like, you know,
+for all of the talk of LNG export
+terminals, etc.,
+that gas is expected to be cheaper
+a few years,
+you know, than it is right now.
+Very interesting dissonance
+between that and the popular narrative.
+Maybe, gas traders just aren't
+vibe coders yet.
+That's when they would understand
+exactly how much more of this.
+But we're going to just from
+an energy perspective, though,
+there is a push and pull factor
+here. Right?
+So on the one hand everyone could use AI
+and demand goes up, but on the other hand,
+maybe it gets super, super efficient
+and then demand goes down.
+I think that's that's the difficulty
+or it's just
+there is a number
+that's out there with like sort of like
+some reasonable inferences
+about where it's going to go.
+And it's very high.
+And it was actually very striking
+listening to him talk about some of those
+super, the Hyperscaler numbers,
+because it's like, where does it end up?
+Right?
+Like as he pointed out, okay,
+you like, came out two gigawatts, etc.
+like a ton of GPT is out there.
+Right.
+And that's one of the most computationally
+intensive things.
+Like maybe there are reasons to think
+this is all going to go great.
+There's going to be a ton of money
+made in AI, but you can't really just like
+get to the number.
+I don't know, I think he yeah, it was a
+this was a very useful
+perspective,
+just sort of on some of the simple math.
+And the math sounds like it's subtraction.
+Like this sounds like.
+Right. Son is learning.
+Well, the other thing I thought was
+really interesting
+was the response to your question about
+why would you finance these things off
+balance sheet if you're, you know,
+this massive cash rich technology giant?
+And the suggestion there was, well,
+maybe at some point
+in the future,
+like five years down the line,
+you need to get rid of this liability
+or you don't want to deal with it.
+This is why we did that episode
+with the guy
+who has, you know, the company
+doing the legal docs, right? Etc.
+this is why, it's pretty crucial
+to understand some of these things,
+because some of the questions
+sound like the,
+Facebook's
+or Meadow's option to walk away.
+Right?
+There's some call option
+implicitly to walk away, etc..
+And they, they how they, what they could
+what scenarios and what they would
+allow it to be do is obviously going
+to be pretty crucial for any investors
+in this off balance sheet paper.
+I did not know
+until you asked this whole idea
+that, the ratings agency is, well,
+they don't look at it as debt.
+They do back out a lease cost
+and therefore
+it can inform their overall,
+credit sustainability.
+Well, the other thing, you know,
+we touched on this,
+but there's more and more demand
+from investors for data center debt.
+Right. Like
+the space is getting more for some reason.
+The space is getting more competitive.
+And so naturally, what you see
+in any other credit cycle throughout
+history is as demand grows
+and people are competing
+for deals, the documentation
+and the protections tend to different.
+Weird, you know,
+I find the existence of hype cycles
+for debt to be a little bit weird
+because I get like,
+oh, I really want to get into AI equity,
+right?
+Because that could 100 x next year, right?
+And it's like, oh, I'm really excited
+about getting into data center debt
+because it might pay me 50 bips more
+I find to be very strange or 100 bips
+more.
+It's like if I have a fixed look, I'm
+a simple, simple guy,
+but if I have a fixed income allocation,
+all I care about is minimizing downside.
+And I don't really care
+like what sector it is.
+I'm not participating in the upside.
+You're not going to get greedy.
+You're not going to get rich.
+You're going to get super rich on like,
+I just don't lose my like, for
+fixed income. I just don't lose my money.
+Fair enough.
+Shall we leave it
+there? Let's leave it there.
+This has been another episode
+of the Odd Lots podcast.
+I'm Tracy Alloway. You can follow me @tracyalloway
+And I’m Joe Weisenthal
+You can follow me @thestalwart
+Follow our producers Carmen Rodriguez
+@carmenarmen,
+Dashiel Bennett @dashbot
+and Cale Brooks @calebrooks
+And if you want more Odd Lots content,
+you should definitely check out
+our daily newsletter.
+where we write about things
+like Andy's forecasts
+for, energy capacity.
+You can find that
+at bloomberg.com/oddlots
+and you can talk about all of these topics
+and more with fellow listeners
+in our discord, discord, dugout.
+Lots.
+And if you enjoyed this conversation
+then please leave a comment
+or like the video
+or better yet, subscribe!
+Thanks for watching.
+Just to be.
