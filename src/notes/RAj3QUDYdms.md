@@ -15,13 +15,13 @@ summary: «本视频讲述了加拿大前奥运单板滑雪运动员莱恩·韦�
 insight: ''
 draft: true
 series: ''
-category: «ai-ml»
-area: «tech-engineering»
+category: geopolitics
+area: tech-engineering
 project: []
 people: []
 companies_orgs:
-  - «FBI»
-  - «Sinaloa Cartel»
+  - FBI
+  - Sinaloa Cartel
 products_models: []
 media_books: []
 status: evergreen
