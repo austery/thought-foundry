@@ -1,0 +1,276 @@
+ Today, I want to touch briefly on a recent AI
+ paper, and then I'm going to use it as a springboard
+ to go on a rant about the intersection of
+ technology and current events.
+ Fair warning, I'm going to be spending some
+ time putting the current American societal
+ situation in some historical and technological
+ context.
+ And if you're looking for a video that won't
+ challenge your existing beliefs, you should
+ move on.
+ I don't care which side of the political divide
+ your online information bubble is sitting in,
+ that bubble is almost certainly floating in a
+ sea of bovine excrement, and this video is
+ going to offend you.
+ Now, if that sounds like I'm setting up an ad
+ read for some app that talks about improving
+ your "news diet", I'm not, because apps like that
+ won't really help.
+ If you really want to understand what's going
+ on now, you need to - horror of horrors - read a book.
+ Pretty sure I'm going to lose some subscribers
+ over this one. But what the F----
+ This is the Internet of Bugs. My name is Carl.
+ I've been the software professional since the
+ 1980s, and I'm trying to make the Internet a
+ less buggy and all around safer place.
+ This is from a recent paper from Chatbot Skeptic,
+ Gary Marcus, who I often agree with, called,
+ quote, "AI bot swarms threaten to undermine
+ democracy."
+ And while this paper does have citations to
+ some really interesting research that I'm going
+ to be pouring over for some time, and while
+ this paper also is correct that AI is a very
+ powerful tool to manipulate people, my
+ overwhelming reaction upon seeing this paper
+ was, "Where the F#@$%$# have you all been?"
+ "Threaten to undermine democracy?" Are you
+ kidding me? Have you been living under a rock?
+ America's democracy has been undermined for a
+ long, long time.
+ Honest people can argue about precisely when it
+ started, but I don't think it's possible or
+ necessary to pick an exact point in time.
+ Something like a third of Americans think that
+ the 2020 presidential election was illegitimate.
+ 72% think January 6 was an attack on democracy.
+ Only 6% of Americans believe that the Justice
+ Department is following the law with respect to
+ the releasing of the files related to a now-deceased
+ convicted human trafficker, and if you add up
+ the Americans believing the Supreme Court was
+ wrong when it legalized abortions, and the
+ Americans believing the Supreme Court was wrong
+ when it made them illegal again, you get a fair
+ approximation of everybody.
+ I'd argue that between all of those and a bunch
+ of other controversial issues that the vast
+ majority of Americans believe that democracy
+ has failed in at least some cases.
+ And I'm absolutely one of those people. For
+ example, I believe that law enforcement
+ officers should never be allowed to hide their
+ identities.
+ I believe that filming the police is and should
+ always be legal, and that any law enforcement
+ officer who shoots and kills a person that is
+ not directly threatening immediate harm to
+ themselves or other persons is guilty of a
+ crime and should be prosecuted.
+ I think that what the Republicans are currently
+ doing with ICE is absolutely illegal and should
+ be stopped, and that what the Democrats are
+ doing is encouraging it because they think it's
+ their best chance to win the next election.
+ And that said, if you think this is
+ unprecedented, the way most of anti-MAGA
+ Internet bubbles keep saying, you haven't been
+ paying attention.
+ But I'll come back to that. First, though, I
+ want to talk about a more foundational lie that
+ Americans, like me, were taught in school from
+ a young age, the lie that the American
+ Constitution makes sense, that the checks and
+ balances in it are effective, and that the
+ people who wrote it did a good job.
+ Depending on how you phrase the question,
+ something like 70 to 95% of Americans have a
+ favorable view of the Constitution.
+ I'd argue the Constitution is fundamentally
+ flawed, and the people creating it knew that and
+ just pretend it otherwise.
+ And I'm not talking about the contradiction
+ between "all men being equal" and the disenfranchisement
+ of African Americans, although that was
+ horrific and it will be a stain on America
+ forever.
+ If you read the writings of the Founding
+ Fathers discussing the Constitution, you'll
+ find a lot of concerns about what they call
+ "factions", what we've come to know is political
+ parties.
+ Federalist 9, written by Hamilton and Federalist
+ 10, written by Madison and Federalist 51,
+ written probably by one or the other, and they
+ all made assertions about how the checks and
+ balances of the Constitution would protect the
+ Union from factions.
+ This, of course, didn't happen.
+ The famed checks and balances of the American
+ experiment have been Trumped, pun intended, by
+ officials being more loyal to their parties
+ than to the Constitution or the people -
+ virtually since the inception of the Republic.
+ The purpose of the Federalist Papers in the
+ first place was to promote the arguments of the
+ Federalist faction and counteract the arguments
+ of the Anti-Federalist faction.
+ And it's not like this was a new concept. The
+ tendency of people to form factions was
+ described by Plato in ancient Greece.
+ And factions were something the founders were
+ all familiar with. There were active parties in
+ the English parliament before, during, and
+ after the American Revolution.
+ And within a decade of the ratification of the
+ Constitution, Hamilton and Madison had each
+ joined opposing factions that were warring for
+ control of the fledgling Republic.
+ It was obvious to all of them at the time that
+ factions were becoming a problem, and they
+ found themselves having to create the 12th
+ Amendment to the Constitution
+ to address the problems inherent in having a
+ president of one party, and a vice president of
+ an opposing party. Here was ample opportunity
+ to try to further address the obvious failure
+ of the Constitution to, as was asserted in the
+ Federalist Papers, use checks and balances "as a
+ safeguard against domestic factions."
+ And yet the drafters did nothing of the sort.
+ And I've watched this failure getting worse and
+ worse my entire life.
+ I really became aware of people putting party
+ over country with the big government shutdown
+ in the mid 1990s.
+ It has escalated pretty consistently ever since,
+ with the exception of immediately after
+ September 11th, 2001, when a brief period of
+ unity resulted in wars in both Afghanistan and
+ Iraq, extinguishing hundreds of thousands of
+ human lives, including at least 10,000
+ Americans, more than three times the casualties
+ from 9/11.
+ But despite the last couple of minutes, this
+ channel isn't about politics.
+ I'm here to talk about technology, and although
+ the internet did exist in the run up to the mid
+ 90s, it hadn't yet become widespread enough to
+ impact society.
+ The primary tech fueling the rise in partisanship
+ was actually call-in talk radio, believe it or
+ not, enabled by improvements in the software
+ switching of long-distance telephone calls,
+ along with the breakup of AT&T in 1984 and the
+ removal of the FCC Fairness Doctrine in 1987.
+ Most of you probably can't imagine that would
+ be a big deal, but I assure you it was.
+ And in many ways, it was a primitive precursor
+ to more recent social media information bubbles,
+ just instead of doom-scrolling for hours,
+ reading people trying to make you furious and
+ partisan, people doom-listened for hours to
+ people trying to make them furious and partisan.
+ And, as the information bubbles have gotten more
+ sophisticated technologically, the partisanship
+ has only gotten worse.
+ I said earlier, the trying to control your news
+ diet doesn't help, and that's because the
+ current landscape has made up of various
+ outlets and influencers, each cherry-picking
+ the current events that best support their
+ audience's existing biases,
+ and presenting them in their most inflammatory
+ way they know how.
+ Consuming propaganda from both the left and the
+ right is slightly better than only consuming
+ either one in isolation, but it's still just
+ propaganda and you're still missing out on any
+ useful context.
+ For example, the government currently has mass
+ agents grabbing people off the streets.
+ This is horrific and should definitely be
+ stopped, and the people doing it should be held
+ accountable.
+ But, despite what I've seen people claim over
+ and over in left-wing bubbles, this isn't
+ unprecedented.
+ Here is a picture of a bunch of masked thugs in
+ their official government capacities, snatching
+ a man off the street in broad daylight, but
+ this isn't recent.
+ It was back in 2014 during the Obama
+ administration in Ferguson, Missouri.
+ It's not okay now, and it shouldn't have been
+ okay back then either.
+ The government, at the time I'm writing this,
+ has also just arrested an African-American
+ journalist for the crime of being a journalist.
+ This time it's Don Lemon, formerly of CNN, in
+ 2014 it was Wes Lowery of the Washington Post.
+ Again, this is horrific and we should all
+ object, and the same was true in 2014.
+ I could go through a laundry list of other precursors,
+ like the similarities between the removal of
+ the President of Venezuela and the removal of
+ the leaders of Granada, Panama, and Haiti under
+ Presidents Ronald Reagan, George H.W. Bush, and
+ Bill Clinton, respectively, but hopefully you
+ get the point by now.
+ The scale is bigger now, and the government is
+ more authoritarian now, but the scale gets
+ bigger every time, and the government gets more
+ authoritarian every time.
+ This is just a progression, not something this
+ administration just started.
+ That's not to excuse it, it's inexcusable, but
+ the narrative that this is just a thing that
+ the current administration does is just not
+ true, which means that the idea that if the
+ other team gets elected, democracy will be
+ saved is just a lie.
+ I'm not saying that both sides are equal, that's
+ clearly not true, but given that our choices
+ are limited to cruelty and cowardice from the
+ right, and complicity and incompetence from the
+ left, and gaslighting and propaganda from
+ everywhere, what part of the democracy still
+ exists to be threatened to be undermined by AI,
+ exactly?
+ I think we have largely gotten to the point
+ where, no matter who is in charge, Congress
+ refuses to legislate and, aside from whatever
+ crap gets tacked on the appropriation bills,
+ pretty much any impact the government has on
+ people's lives is either via Presidential
+ fiat or Supreme Court capriciousness,
+ and the whole ecosystem exists to get each of
+ us to pick a team and spend all of our time
+ arguing over every little detail of every
+ little news report so that we don't have time
+ or energy to demand any actual change.
+ I have a slim hope, believe it or not, that the
+ revulsion and disgust people are starting to
+ feel for AI slop might actually allow us away
+ out of this mess.
+ As the media environment becomes more and more
+ saturated with meaningless performative slop
+ being pushed on us against our wills, a
+ backlash is forming, and some people are
+ starting to seek out truth and authenticity.
+ And, if enough people do that, we may just have
+ enough critical mass to make some real lasting
+ changes for once.
+ And so, if you've managed to watch this far, I
+ beg you, hate on AI slop as much and as often
+ and as loudly as you can.
+ If we try hard enough and get lucky enough that
+ enough people start rejecting the slop, AI
+ might just improve all of our lives after all,
+ just not in the way that its makers intended,
+ desired, or hoped to profit from.
+ Thanks so much for listening to me rant. Until
+ next time. Let's be careful out there.
