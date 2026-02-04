@@ -1,0 +1,1237 @@
+[Speaker 0]: 用 AI 其实就是最主要我觉得学习方面帮助的还挺大的。
+[Speaker 0]: 就是呃包括像做实验的一些实验数据的分析。
+[Speaker 0]: 在实验现场的话，
+[Speaker 0]: 就是我会用到 AI 帮我看看我这个实验数据，
+[Speaker 0]: 它具体的就是它的一个表现如何。
+[Speaker 0]: 然后的话我可以呃更快速的判断，
+[Speaker 0]: 就是我之后需不需要重做这个实验。
+[Speaker 0]: 这样的话在实验室就是能够比较高效，
+[Speaker 0]: 然后包括像其他的呃 AI，
+[Speaker 0]: 其实是一个二次只是小时的一个全能性的老师。
+[Speaker 0]: 我觉得现在就是真的有 AI 的帮助，
+[Speaker 0]: 就是学习也会方便很多。
+[Speaker 0]:  hello，
+[Speaker 1]: 大家欢迎收听用爱发电 pockets。
+[Speaker 1]: 那这个节目呢会用最轻松的方式带你来看看我们一般人是怎么样使用 AI。
+[Speaker 1]: 那 AI 又怎么样帮助我们以及不同领域的人是怎么样把 AI 融入自己的日常生活。
+[Speaker 1]: 还有工作。
+[Speaker 1]: 我是主持人张独行，
+[Speaker 1]: 我们今天的来宾呢是我非常期待的创作者，
+[Speaker 1]: 小西瓜拍手，
+[Speaker 1]: 我我们会怎么样形容小西瓜呢？
+[Speaker 1]: 首先我们有给他三个标签，
+[Speaker 1]: 第一个他是一个大学生，
+[Speaker 1]: 而且他问他念的是物理系哦，
+[Speaker 1]: 然后第二个呢他是一个 n 八 n 的高手，
+[Speaker 1]: 他是我们用爱发电，
+[Speaker 1]: 用爱发电社群里面的 n 八 n 讲师。
+[Speaker 1]: 再来呢我会说他是一个独立的开发者，
+[Speaker 1]: 他独立他不会写 coo。
+[Speaker 1]: 但是他自己独立开发的三个 IOS apps，
+[Speaker 1]: 我们可以我们来听听看。
+[Speaker 1]: 小西瓜的故是好小西瓜。
+[Speaker 1]: 你最近呢，
+[Speaker 1]: 我我我我知道说你们大学生的那个考试最近刚结束嘛，
+[Speaker 1]: 那你最近都在干嘛？
+[Speaker 0]: 最近就在整顿我自己的一个形象，
+[Speaker 0]: 然后还有就是学英语和呃练练习运动为主。
+[Speaker 0]: 因为的话其实之前的话就和读心老师就有一个破冰的一个环节。
+[Speaker 0]: 其实就讲到了呃，
+[Speaker 0]: 我的一个就个人形象，
+[Speaker 0]: 就是有哪些方面可以去改进。
+[Speaker 0]: 然后所以说在这列录制这期播客之前，
+[Speaker 0]: 我就由我的形象大改了就对。
+[Speaker 0]: 然后有有我还就是眼镜，
+[Speaker 0]: 我还没有就是去改，
+[Speaker 0]: 就好多新老师讲到了，
+[Speaker 0]: 就是用 AI，
+[Speaker 0]: 然后的话帮我换眼镜，
+[Speaker 0]: 还有换发型，
+[Speaker 0]: 就是我找到我之前的那些照片，
+[Speaker 0]: 然后就一个一个发型去试。
+[Speaker 0]: 然后还有说试了一些其他的，
+[Speaker 0]: 包括像衣服。
+[Speaker 0]: 对，
+[Speaker 0]: 然后的话我就发现其实我个人还是喜欢这种呃浅灰色的一个搭配，
+[Speaker 0]: 然后加上就是这个比较清爽的一个发型，
+[Speaker 0]: 就是那种有点碎碎发的那种感觉，
+[Speaker 0]: 就是我个人呢也比较舒适，
+[Speaker 0]: 然后看起来也比较贴近哦。
+[Speaker 1]: 我们上次就是我们在录制这集开之前，
+[Speaker 1]: 就是我跟小西瓜先聊天，
+[Speaker 1]: 然后有聊到说呃我之前是怎么样就是改善改善自己的感。
+[Speaker 1]: 因为我我我觉得是这样子，
+[Speaker 1]: 每个人呃看你个人就是有的人像我自己我会想说啊，
+[Speaker 1]: 我我我会怎么样再好看一点。
+[Speaker 1]: 但是可能用最小最小的 effort，
+[Speaker 1]: 最小的努力，
+[Speaker 1]: 但是我就可以让我自己稍微好看一点，
+[Speaker 1]: 所以我就我就试的一些 AI。
+[Speaker 1]: 呃，
+[Speaker 1]: 你还有用 AI 做什么呢？
+[Speaker 0]: 就用 AI，
+[Speaker 0]: 其实就是最主要我觉得学习方面帮助的还挺大的。
+[Speaker 0]: 就是呃包括像做实验的一些实验数据的分析。
+[Speaker 0]: 其实我会用到就是在实验现场的话，
+[Speaker 0]: 就是我会用到 AI 帮我看看我这个实验数据，
+[Speaker 0]: 它具体的就是它的一个表现如何。
+[Speaker 0]: 然后的话我可以呃更快速的判断就是我之后需不需要重做这个实验。
+[Speaker 0]: 这样的话在实验室就是能够比较高效，
+[Speaker 0]: 然后包括像其他的呃 AI，
+[Speaker 0]: 其实是一个二十四小时的一个全能型的老师。
+[Speaker 0]: 我觉得现在就是真的有 AI 的帮助，
+[Speaker 0]: 就是学习也会方便很多。
+[Speaker 0]: 不管是用 trag BD 还是 germany，
+[Speaker 0]: 其实都是很厉害的模型啊。
+[Speaker 0]: 然后就是和他就是你一道题的话，
+[Speaker 0]: 你如果说是和一个呃就和大学老师的话，
+[Speaker 0]: 他们是没有那么多时间去教你的。
+[Speaker 0]: 然后如果说你就是你有一个二十四小时的一个大神级别的，
+[Speaker 0]: 就各个科目你都可以和他谈。
+[Speaker 0]: 然后的话你甚至可以让他给你直观理解，
+[Speaker 0]: 或者说呃让他给你就是就是这这类题型它背后的一个逻辑是什么？
+[Speaker 0]: 他的一个源头在哪里？
+[Speaker 0]: 他就是他真的是就是我觉得就是全能型的选手吧，
+[Speaker 0]: 你有很很多问题你都可以问他。
+[Speaker 0]: 只要你能够问出好的问题，
+[Speaker 0]: 他能够就是他是能够给你提供好的答案的。
+[Speaker 0]: 但是其实问好的问题可能就是比较需要琢磨的一个点，
+[Speaker 0]: 就是你要和他有一个磨合的一个阶段，
+[Speaker 0]: 然后你才能够呃知道你在学习的过程中可以怎么样问出好的问题。
+[Speaker 1]: 我好奇就是你们你们是物理系吗？
+[Speaker 1]: 那你们的功课很重吗？
+[Speaker 1]: 你们功课有多重？
+[Speaker 0]: 其实我们的功课就是就是也蛮就是你如果说你个人想要追求更高阶，
+[Speaker 0]: 更高阶的话，
+[Speaker 0]: 你是可以到备三中的。
+[Speaker 0]: 因为的话那些包括像呃课本啊，
+[Speaker 0]: 还有说就是英文课本，
+[Speaker 0]: 或者说中就是你我们其实我们用的教材就是只是那几本。
+[Speaker 0]: 然后的话它还有很多的呃扩展的教材。
+[Speaker 0]: 你如果说想要学习的话，
+[Speaker 0]: 你是有大量大量的物理世界，
+[Speaker 0]: 就是就包括你上到博士，
+[Speaker 0]: 就是其实只是一个科研的入门。
+[Speaker 0]: 所以说就是功课的话，
+[Speaker 0]: 你是自自就就是是感觉更多的是自己调整。
+[Speaker 0]: 就是我们老师说的，
+[Speaker 0]: 就是呃就是我记得我们大一的时候，
+[Speaker 0]: 我们那个副院长，
+[Speaker 0]: 我们学院的一个副院长给我们一句话，
+[Speaker 0]: 我很深刻印印象深刻。
+[Speaker 0]: 就是说哦当你们就是这个大学没有任何一个老师，
+[Speaker 0]: 然后你们也能够从在毕业的时候，
+[Speaker 0]: 你们就是才是真的强对就是是鼓励你要自己去，
+[Speaker 0]: 你要学什么。
+[Speaker 0]: 其实更多的是你的一个主观能动性在的。
+[Speaker 0]: 因为其实到我们这种大学，
+[Speaker 0]: 就就是在国内还算是比较好的大学，
+[Speaker 0]: 就是更多的是大家你要你要怎么学，
+[Speaker 0]: 你要有自己的计划，
+[Speaker 0]: 要有自己的 plan，
+[Speaker 0]: 要有自己的一个 pass。
+[Speaker 1]: 我好奇耶就是说那你感觉大家现在在大学里面，
+[Speaker 1]: 大家怎么样？
+[Speaker 1]: 大家的学习方式有没有？
+[Speaker 1]: 有没有跟你以前在高中有什么样的改变？
+[Speaker 1]: 因为你们这个，
+[Speaker 1]: 因为你们现在你刚好上大学的时候，
+[Speaker 1]:  AI 就开始发展，
+[Speaker 1]: 那肯定跟你高中的时候很不一样。
+[Speaker 1]: 那最大的不同是什么？
+[Speaker 0]: 最大的不同就是其实我们高中就是就是还是就是呃技术式的。
+[Speaker 0]: 然后的话就是因为是高考嘛，
+[Speaker 0]: 这个其实也是比较有意思的一个点，
+[Speaker 0]: 就是我们就是比较封闭的那一种管理。
+[Speaker 0]: 然后的话就是不不要说 AI，
+[Speaker 0]: 就互联，
+[Speaker 0]: 你又接触触不的那一种。
+[Speaker 0]: 然后然后呃对，
+[Speaker 0]: 然后其实就所以说跨度还是蛮大的。
+[Speaker 0]: 从一个就是你连互联网可能都没有接触到的一境境界，
+[Speaker 0]: 然后到达一个呃就是你现在有互联网，
+[Speaker 0]: 然后甚至还有 AIAI 的话，
+[Speaker 0]: 我觉得大学生的话更多是其实很多人就是用它来做作业嘛，
+[Speaker 0]: 然后的话当然也有用它来学习的啦。
+[Speaker 0]: 嗯，
+[Speaker 0]: 不过更多的我觉得就是可能会让大家变得更加的呃就是一代 AI，
+[Speaker 0]: 就是这个是一个蛮蛮严重的问题。
+[Speaker 0]: 我就觉得你就是你要区分好哪些哪些工作，
+[Speaker 0]: 哪些东西要 delegate AI，
+[Speaker 0]: 然后哪些要呃交给自己做。
+[Speaker 0]: 你要明白就是自己学这个东西的目的是什么？
+[Speaker 0]: 我觉得就是学东西，
+[Speaker 0]: 你的一个目的其实就是在你的脑袋里画就画现嘛。
+[Speaker 0]: 就是你要有有一个痛苦的过程，
+[Speaker 0]: 就是你如果说什么事都交给 AI，
+[Speaker 0]: 就是你可能没有那个学习的过程。
+[Speaker 0]: 但但是如果你不不不不知道要如何去借助 AI 的话，
+[Speaker 0]: 可能别人就是有一个二十四小时陪伴的一个学习老师。
+[Speaker 0]: 然后你你就没有那那个待遇。
+[Speaker 0]: 对，
+[Speaker 0]: 所以说就是还是一个区别蛮大的。
+[Speaker 0]: 就是有人会嗯会用 AI 呃去学习，
+[Speaker 0]: 然后有的人会就是就是就是用 AAI 然后去帮他做作业，
+[Speaker 0]: 然后就完完全就没有自己的想法。
+[Speaker 0]: 就是这是我观察到的。
+[Speaker 1]: 我我跟小西瓜在聊天的时候，
+[Speaker 1]: 我听到一个很感人的故事。
+[Speaker 1]: 虽然这个故事不是从我嘴巴讲出来的，
+[Speaker 1]: 这个故事是说小西瓜他呃他其实是一个很喜欢学习的人，
+[Speaker 1]: 然后他嗯就是他自己在自学怎么样 by coding by coding。
+[Speaker 1]: 就是我们讲的就是我们尽量不要写 code，
+[Speaker 1]: 然后我们去开发一个 app 嘛。
+[Speaker 1]: 然后我听说其实你开发了三个 IOS app，
+[Speaker 1]: 然后其中一个 app 还是为了你妈妈做开发。
+[Speaker 1]: 你可以跟我们介绍一下你开发这些 app 哦，
+[Speaker 0]: 可以可以，
+[Speaker 0]: 就是我开发了三个 app。
+[Speaker 0]: 其实我最主要其实当时是有一个目标，
+[Speaker 0]: 就是想做一个八段镜的 app。
+[Speaker 0]: 然后的话其实这个过程是蛮艰辛的。
+[Speaker 0]: 呃呃，
+[Speaker 0]: 因为其实苹果的那一整套流程是比较复杂的。
+[Speaker 0]: 然后的话我是怎么就是从零开始学的，
+[Speaker 0]: 就是还是蛮具体的。
+[Speaker 0]: 就是我一开始是从先去小红书上搜，
+[Speaker 0]: 就是嗯我们如何去完整的发布一些 app 嘛，
+[Speaker 0]: 后我就会看见别人发布一些笔记。
+[Speaker 0]: 然后的话我就说哇好这么复杂的话，
+[Speaker 0]: 其实我一开始是没有办法，
+[Speaker 0]: 就是就直接就把我想要的那个 app 做出来。
+[Speaker 0]: 或者说我做那个的话，
+[Speaker 0]: 其实我应该有先有一个呃尝试的一个过程，
+[Speaker 0]: 先一些就是说就是随便做的一个 app，
+[Speaker 0]: 然后的话就有了我在小红书上看见有一个比较有意思的，
+[Speaker 0]: 就是一个小猫补光灯的一个 app，
+[Speaker 0]: 然后就模仿他也做了一个补光灯的 app，
+[Speaker 0]: 然后就也尝试着上架。
+[Speaker 0]: 然后的话我就发现就是苹果那一整套流程，
+[Speaker 0]: 包括我就学这个过程就有学到很多。
+[Speaker 0]: 这里面他需要去有一个备案，
+[Speaker 0]: 然后还有像是一些网站的一个 sport，
+[Speaker 0]: 就是你要有自己的一个网站，
+[Speaker 0]: 有自己那个域名，
+[Speaker 0]: 就这些各种各样的。
+[Speaker 0]: 还有甚至到后面就是我需要在呃中国大陆上架的话，
+[Speaker 0]: 其实还需要有就是呃我自己的一个服务器，
+[Speaker 0]: 我自己一个 server 呃，
+[Speaker 0]: 各种各样复杂的事情。
+[Speaker 0]: 然后的话就尝试着一开始是嗯用，
+[Speaker 0]: 就是一开始就先是一开始一开始就先是有呃就先发了一两个 app。
+[Speaker 0]: 就是我前面的那两个 app，
+[Speaker 0]: 一个是那个补水的，
+[Speaker 0]: 就是我我前面发的两个 app，
+[Speaker 0]: 一个是补水的，
+[Speaker 0]: 一个是呃小猫补光灯的那个 copy 的一个 app。
+[Speaker 0]: 然后这两个其实就是我的一个尝试了。
+[Speaker 0]: 然后尝试完之后就就就就上架，
+[Speaker 0]: 然后就发现哎就真的可以，
+[Speaker 0]: 哎，
+[Speaker 0]: 然后就真的就你在世界任何地方都可以拿到这两个 app，
+[Speaker 0]: 然后就可以使用。
+[Speaker 0]: 然后后来的话，
+[Speaker 0]: 我就我就开始就是主力跟我的一个八段锦啊，
+[Speaker 0]: 八段锦的话那个就是还有呃一两周的一个时间嘛，
+[Speaker 0]: 就几几乎每天都在做。
+[Speaker 0]: 就是我当时还就比较很有意思，
+[Speaker 0]: 我用我的那个 crowd coat，
+[Speaker 0]: 然后的话我每天就几乎就泡在里面，
+[Speaker 0]: 然后等那个五小时的一个 limit，
+[Speaker 0]: 就是我不在五点多，
+[Speaker 0]: 我就会怕等我一下。
+[Speaker 1]: 就是我们有一些人可能知道八段锦是什么，
+[Speaker 1]: 你可以告诉大家八段锦是什么。
+[Speaker 1]: 然后为什么你你选这一个这个主题吗？
+[Speaker 0]: 可以可以，
+[Speaker 0]: 就是八段锦为什么会选择这个主题的话，
+[Speaker 0]: 我就感觉刚才讲的有点偏了。
+[Speaker 0]: 然后八段锦为什么会选择主题呢？
+[Speaker 0]: 其实一开始我觉得就是 AI 的话，
+[Speaker 0]: 你要用它，
+[Speaker 0]: 就是你要用它解决问题，
+[Speaker 0]: 或者说做出一些你自己觉得很就是对世界贡献的各各各样的一个事情。
+[Speaker 0]: 首首先有有己己活活中有问题。
+[Speaker 0]: 然后我一开始为什么会想要做八段锦的这个 app 呢？
+[Speaker 0]: 其实是因为我有在练武术，
+[Speaker 0]: 然后的话其实我是学校就是参加武术协会。
+[Speaker 0]: 然后的话就其实我从大一就开始有，
+[Speaker 0]: 然后的话是呃学到武术。
+[Speaker 0]: 然后的话我觉得这个东西很好，
+[Speaker 0]: 然后包括像我妈，
+[Speaker 0]: 她有时候就是可能会呃失眠，
+[Speaker 0]: 或者说她的运动比较少。
+[Speaker 0]: 然后的话就就把八八段你介绍给我妈，
+[Speaker 0]: 然后的话他就会有每天就就然后之后就迫使他就是每天都都练嘛，
+[Speaker 0]: 然后就是这但是他记录的一个过程其实不太好，
+[Speaker 0]: 就是就是中国大陆是会用微信，
+[Speaker 0]: 就是就是就是他可能每天就会给我发他的打卡，
+[Speaker 0]: 就是我们我今天做，
+[Speaker 0]: 但是的话他就没有一个很好的一个记录的一个工具。
+[Speaker 0]: 然后的话我发现其实也就是就是如果说我能够自我一个东西，
+[Speaker 0]: 就是出来的话，
+[Speaker 0]: 就就是像就我觉得就是一个 commitment 吧，
+[Speaker 0]: 或者说一个就是我读过一本书比较有意思叫 impress。
+[Speaker 0]: 就是提到了，
+[Speaker 0]: 如果说你把这个东西送给他，
+[Speaker 0]: 然后的话呃他会就是更想要就是去呃练这个八段锦的。
+[Speaker 0]: 就是呃就所以说我就做了这个 app 其实主要还是为了激励我们就去练八段锦。
+[Speaker 0]: 然后的话就是八旦级它就是一个健身器功类的功法。
+[Speaker 0]: 然后的话就是你练了之后，
+[Speaker 0]: 你会感觉你的一个怎么说，
+[Speaker 0]: 我觉得类似于冥想，
+[Speaker 0]: 但是其实它更有更有一些像拉。
+[Speaker 0]: 好，
+[Speaker 1]: 那我想再请问小西瓜一个问题哦，
+[Speaker 1]: 就是说呃你有在你同学都知道说你有在 by coding ding，
+[Speaker 1]: 就是说你有有架架三个 d 你同学有知道吗？
+[Speaker 0]: 哎，
+[Speaker 0]: 我会我会发朋友圈，
+[Speaker 0]: 然后是会有会有人就是会来问的。
+[Speaker 0]: 有我有同学现在是在把 coding 的，
+[Speaker 0]: 然后他在 githup 上就发了自己的，
+[Speaker 0]: 就是他发了自己一个仓库的，
+[Speaker 0]: 是嗯就可以记录说他每一次把 coding 之后，
+[Speaker 0]: 他就点一个按钮，
+[Speaker 0]: 就可以把自己就是今天做的一个代码的一个 difference，
+[Speaker 0]: 就是他的一个变化给就是然后他可以用这个变化就直接发给呃 condect。
+[Speaker 0]: 然后整理说他今天做了什么。
+[Speaker 0]: 就是所以说他他是开发了一个插件，
+[Speaker 0]: 就是 VS code 的一个插件。
+[Speaker 0]: 然后的话他在 githup 上也有自己的一个仓库，
+[Speaker 0]: 就是说现在其实 bip coding，
+[Speaker 0]: 然后他是在学呃计算机的啊，
+[Speaker 0]: 然后就是就现在在它以跟大家讲不意意你，
+[Speaker 1]: 你不不可以跟大家讲说他刚刚这个同学他主要是为了解决什么样的问题。
+[Speaker 0]: 他他主要其实就是就是 coby coding。
+[Speaker 0]: 我觉得更多的是就是你尝试去使用 AI 这个工具，
+[Speaker 0]: 然后你你去做一些尝释。
+[Speaker 0]: 例如说我刚才说的这个同学，
+[Speaker 0]: 他是呃就想要解决一个问题，
+[Speaker 0]: 就是他在呃做一些 coding 的一个项目的时候，
+[Speaker 0]: 然后他想要他最近在用 AI，
+[Speaker 0]: 就是在编程，
+[Speaker 0]: 在尝试用 AI 编程。
+[Speaker 0]: 然后他发现就是用 AI 写的一些 code 的话，
+[Speaker 0]: 他每天的一个要记录他的，
+[Speaker 0]: 就是他做的事情其实是比较麻烦的一件事情。
+[Speaker 0]: 就是你如果或者说你要让 AI 去总结，
+[Speaker 0]: 这个是一个需求，
+[Speaker 0]: 就是现在把 coding，
+[Speaker 0]: 其实你一天可以写很多代码嘛，
+[Speaker 0]: 但是你可能隔一天你就不知道你前一天做了什么么。
+[Speaker 0]: 情情者在下一步步，
+[Speaker 0]: 你不知道呃，
+[Speaker 0]: 要在前一步的基础上加什么东西，
+[Speaker 0]: 或之前做了什么东西，
+[Speaker 0]: 之前的这个项目的一个框架是什么样的。
+[Speaker 0]: 所以说他做做了么一个 VS code 的一插插件，
+[Speaker 0]: 然后的话就是就是给他点赞了，
+[Speaker 0]: 是 star 就在 get up 上嘛，
+[Speaker 0]: 就是给他 star，
+[Speaker 0]: 然后就是就是也是很有意思啊，
+[Speaker 0]: 其实是你做一些我就觉得其实是解决自己的问题，
+[Speaker 0]: 同时也是就是你自己有一个问题，
+[Speaker 0]: 其实世界上可能其他人也有这个问题。
+[Speaker 0]: 然后的话你如果说就是你你能 run towards the higheest problem，
+[Speaker 0]: 你能够解决就是你 volunteer 去做一些呃开源的东西。
+[Speaker 0]: 然后的话他刚好就是能够解决很多人的一个问题是是能够给你带来很多的一个机会的。
+[Speaker 1]: 这样听起来就是说其实你同学有在尝试，
+[Speaker 1]: 那你感觉大家呃大学生就是你那边的大，
+[Speaker 1]: 你们那边的大学生，
+[Speaker 1]: 大家用呃，
+[Speaker 1]: 嗯大家对这个这个 AI 的风气是怎么样？
+[Speaker 1]: 大家很常用吗？
+[Speaker 1]: 还是说其实用的人很少，
+[Speaker 0]: 不会不会。
+[Speaker 0]: 我觉得更多的就是大家会用的是像聊天框，
+[Speaker 0]: 就是你在网页端或者说在手机 app 端，
+[Speaker 0]: 然后和他聊天。
+[Speaker 0]: 然后如果说要用到开发，
+[Speaker 0]: 其实一整套是很很很麻烦的，
+[Speaker 0]: 包括像你小红书，
+[Speaker 0]: 你一搜，
+[Speaker 0]: 你就可以搜到一整套的笔记。
+[Speaker 0]: 就是我之前也提到嘛，
+[Speaker 0]: 就是那一整套的流程，
+[Speaker 0]: 你就很麻烦的，
+[Speaker 0]: 一整天泡在里面都解决不了的。
+[Speaker 0]: 你会嗯遇见很多很多困难的。
+[Speaker 0]: 包括如如果说我没有没有变成背景嘛，
+[Speaker 0]: 我就就是上架那个 app 就我不是说一一一下子，
+[Speaker 0]: 我就找到哦如何去部署这个服务器，
+[Speaker 0]: 这个部服务器如何去连接域名。
+[Speaker 0]: 这这些东你都要尝试的时候才知道。
+[Speaker 0]: 当你选服务器的时候，
+[Speaker 0]: 你要选哪个配置这些其实很多很多的摩擦的。
+[Speaker 0]: 就是它不像刷短视频啊，
+[Speaker 0]: 或者说你直接在网页端和 AI 聊天。
+[Speaker 0]: 它那个摩擦非常的大，
+[Speaker 0]: 就是说其实谈事的人还是比较少的。
+[Speaker 0]: 然后的话我我会给同学专专门 man CLI，
+[Speaker 0]: 但是你会发现其实用的也不是会很多。
+[Speaker 0]: 就是就是他们就就主动去用这个工具，
+[Speaker 0]: 你主要首先要有一个 problem，
+[Speaker 0]: 然后的话就可能大家没有那个 problem，
+[Speaker 0]: 就是我支持我为什么会想要就是选选 AI，
+[Speaker 0]: 就是我感觉学的还还挺多，
+[Speaker 0]: 就是因为我有那个 problem 让我解决的在解决这个 problem 的一个过程中才真正去学到东西。
+[Speaker 0]: 然后如果说只是想着我要学 AI，
+[Speaker 0]: 其实没有一个 problem，
+[Speaker 0]: 你是没有那个内在的一个驱动力去学这些东西的。
+[Speaker 0]: 因为它真的很杂。
+[Speaker 1]: 对我自己观察我们一些同事，
+[Speaker 1]: 或是说我们身边的亲友真的有比较认真学的。
+[Speaker 1]: 就是说我们在摸现在比较现代性的工具。
+[Speaker 1]: 譬如说像现在现在在这个时间点，
+[Speaker 1]:  google google 三已经出来，
+[Speaker 1]: 呃，
+[Speaker 1]:  germany 三已经出来了嘛，
+[Speaker 1]: 那就有人开，
+[Speaker 1]: 就真的有人开始再去尝试用 banana banana pro，
+[Speaker 1]: 然后 german three。
+[Speaker 1]: 但是这些人其实还是蛮少数的。
+[Speaker 1]: 我觉得大家大部分人其实还是像你一样，
+[Speaker 1]: 像你讲的一样，
+[Speaker 1]: 就是说他们会先去尝试那种使用的，
+[Speaker 1]: 使用的要怎么讲学习，
+[Speaker 1]: 成本比较少的的一些产品吧。
+[Speaker 1]: 譬如说我们的对话式的 AI，
+[Speaker 1]: 我我跟你你讲一句，
+[Speaker 1]: 我回答一句的那一种，
+[Speaker 1]: 但我感觉就是说真的要认真学，
+[Speaker 1]: 还是要一点懂机。
+[Speaker 1]: 就是譬如说我有一个我一个朋友，
+[Speaker 1]: 他自己他自己自学去用 python，
+[Speaker 1]: 就是没有在没有 AI 的时代，
+[Speaker 1]: 在没有 AIS，
+[Speaker 1]: 在他自己自学，
+[Speaker 1]: 用 python 去写那种呃那个交易，
+[Speaker 1]: 就是自动化的那种股票投资交易的那个一个的的那个 app。
+[Speaker 1]: 那他也不是写 app 就是写城市吧，
+[Speaker 1]: 就是没有界面的那一种那个叫自学。
+[Speaker 1]: 他真的是有动机。
+[Speaker 1]: 我觉得所以我觉得其实无论无论是什么工具，
+[Speaker 1]: 真的有动机很重要。
+[Speaker 1]: 所以那我好奇，
+[Speaker 1]: 我就是说到底让你会想要开发的那个动机是什么？
+[Speaker 0]: 就是其实主要我觉得就是就是我妈还有这么一个记录的问题。
+[Speaker 0]: 我觉得其实生活中的问题其实有很多。
+[Speaker 0]: 我然后的话你要选择就是选择，
+[Speaker 0]: 你要解决哪一个。
+[Speaker 0]: 然后我就觉得其实怪我妈的这个记录的这个问题，
+[Speaker 0]: 其实是蛮就是蛮就是蛮有用的一个东西。
+[Speaker 0]: 就其实记录就是我呃就是又要提到，
+[Speaker 0]: 就是记录其实是一个很好的习惯。
+[Speaker 0]: 你如果说你能够看见自己呃之前做了什么，
+[Speaker 0]: 或者说就是说你能够记录你的一些睡眠情况，
+[Speaker 0]: 你可能就会增加了一个一个睡眠时间。
+[Speaker 0]: 你可能会知道哦，
+[Speaker 0]: 我今天睡的少了，
+[Speaker 0]: 我隔天我得睡多一点，
+[Speaker 0]: 然后的话才能够精神更加充足。
+[Speaker 0]: 所以说记录也是同样的道理。
+[Speaker 0]: 如果说记录了哦，
+[Speaker 0]: 今天八段锦一个，
+[Speaker 0]: 我是中午做的，
+[Speaker 0]: 还是早上做的，
+[Speaker 0]: 还是呃晚上做的，
+[Speaker 0]: 或者说我做了一次还是两次，
+[Speaker 0]: 然后的话做的时间如何专不专心？
+[Speaker 0]: 如果说不能够把这些东西给记录下来，
+[Speaker 0]: 你就能知道的个去调整那个训练计划。
+[Speaker 0]: 所以说我就给我妈做做了这一个个就是 app 吧。
+[Speaker 0]: 然后的话就做的一个过程中就发现，
+[Speaker 0]: 其实我是就把它做的比较可爱，
+[Speaker 0]: 然后的话我自己看起来也很很小，
+[Speaker 0]: 喜欢的，
+[Speaker 0]: 而不是说而不是说我就是随随便用 AI，
+[Speaker 0]: 就是捏来，
+[Speaker 0]: 就是让他就一整颗 one shot 做出来。
+[Speaker 0]: 然后的话我觉得看起来观感还不是很好，
+[Speaker 0]: 我不想每天都看见那个 app。
+[Speaker 0]: 所以说我就还就就是其实我觉得就是做出来的那个过程，
+[Speaker 0]: 其实就是慢慢的和 AI 调整。
+[Speaker 0]: 就是我我会就是很容易就是做出一个 prototer，
+[Speaker 0]: 就你很容易做出一个圆形，
+[Speaker 0]: 但是你有很多需要调整的，
+[Speaker 0]: 包括这个界面的一个布局。
+[Speaker 0]: 然后等一下这按按钮什么按比较舒图，
+[Speaker 0]: 还有就是里面的一些图片嘛，
+[Speaker 0]: 就是我做的是一个像素风的。
+[Speaker 0]: 就是我就是其实更多的时间，
+[Speaker 0]: 我觉得是在和呃 sara，
+[Speaker 0]: 就是我用 sara 做那些图片，
+[Speaker 0]: 我觉得挺好的。
+[Speaker 0]: 然后再和他搏斗，
+[Speaker 0]: 就是如何 point 让他做出我想要的一种风格，
+[Speaker 0]: 比较稳定的那个就是像素化。
+[Speaker 0]: 然后的话就是一个小和尚，
+[Speaker 0]: 就是然后就对，
+[Speaker 0]: 然后就是就是这就是我的一个原因吧。
+[Speaker 0]: 就是我觉得就是用记录去就是促使改变，
+[Speaker 0]: 就是生活中的一些积极的改变。
+[Speaker 1]: 我觉得你讲到一个重点，
+[Speaker 1]: 就是说现在有一些 app 它的问题不是在于它好不好用，
+[Speaker 1]: 而是它在于就是你真的是不会想要打开它，
+[Speaker 1]: 因为它真的长得很丑。
+[Speaker 1]: 所以呃现在这个时代，
+[Speaker 1]: 毕竟 app 这个市场也越来越竞争，
+[Speaker 1]: 真的做好看也是蛮重要的。
+[Speaker 1]: 大家现在对好看的东西的要求越来越高了。
+[Speaker 1]: 然后我刚刚听到就是很有趣的一个事情是说，
+[Speaker 1]: 你用了 sara，
+[Speaker 1]: 然后 sara 似故是那个 open AI，
+[Speaker 1]: 他们出了一个可以生成呃影像，
+[Speaker 1]: 就是影片呃，
+[Speaker 1]: 还有图片的的语言模型呃的模型啊，
+[Speaker 1]: 不一定是语言。
+[Speaker 1]: 但他反正就是呃他我我自己有在用。
+[Speaker 1]: 然后我们有时候做教学音片的时候，
+[Speaker 1]: 我有一些概念，
+[Speaker 1]: 我觉得那个概念可能初学者理解会有一点困难，
+[Speaker 1]: 他可能需要一些比喻。
+[Speaker 1]: 他比如说我之前有我之前做一个比喻是说呃，
+[Speaker 1]: 做网页就有点像在你在做网页上这把热乐高拼在一起这样子。
+[Speaker 1]: 因为网页其实有很多的很多的组件，
+[Speaker 1]: 你要把它拼在。
+[Speaker 1]: 所以我就做了一个，
+[Speaker 1]: 就是我觉得用了把这个概念都弄成一个五五秒钟的一片。
+[Speaker 1]: 然后我那个时候才发现说，
+[Speaker 1]: 其实其实用 sara 它的潜力就是这样子。
+[Speaker 1]: 然后包含你刚刚你你刚刚就是说你用了，
+[Speaker 1]: 你用了 sara 去做了呃那种 five bit，
+[Speaker 1]: 就是那种呃 a bit，
+[Speaker 1]: 就是那种以前以前那种像就是上一代的那种要怎么样，
+[Speaker 1]: 就八零九零年的那种像素的那种画嘛，
+[Speaker 1]: 就是说像像在那个游戏里面那一种对我我觉得他是一个我觉得对于你不完全不会设计的人我就不会画画人我觉得现在你要做一个 app 在这个部分的门槛真的降低很多。
+[Speaker 1]: 好，
+[Speaker 1]: 那我我其实刚刚有听你稍微提到一些关键字，
+[Speaker 1]: 就是说你怎么你你去用的 clock cold，
+[Speaker 1]:  clock cold 是现在我们那那个我们我们给他一个名称，
+[Speaker 1]: 我们我们现在 clock code open AI 和 google。
+[Speaker 1]: 这个是我们现在呃 LOM 大勋就是现在大型语言模型这个这种 AI，
+[Speaker 1]: 它的三巨头或者是预三家可不可以跟我们讲一下，
+[Speaker 1]: 为什么你之前会会开始使用 cloud to code。
+[Speaker 1]: 然后你你你整个从无到有的开发过程是什么？
+[Speaker 0]: 这其实就是呃从无到有的一个过程。
+[Speaker 0]: 我觉得最开始你先是要有就是想要就是为什么是 crowd code。
+[Speaker 0]: 就其实一开始是在用 i 盘点这个空间里面。
+[Speaker 0]: 然后的话我也是跟着大家就是学，
+[Speaker 0]: 就是看见有的在 german CLI 嘛，
+[Speaker 0]: 然后我就先尝试专门来 c 幺二。
+[Speaker 0]: 然后这个过程其实蛮蛮蛮痛苦的，
+[Speaker 0]: 就是你需要解决一些网络的问题。
+[Speaker 0]: 然后的话就还有其实我觉得最重要的一个问题，
+[Speaker 0]: 你首先要有一个 mac 的笔记本，
+[Speaker 0]: 然后这些其实都是困难重重。
+[Speaker 0]: 就是对，
+[Speaker 0]: 就就是我要就是心里的门槛，
+[Speaker 0]: 这是一个投资。
+[Speaker 0]: 然后的话就是就是让自己就是先心里舒服，
+[Speaker 0]: 然后又狠下心来把把这个 mac 买下来，
+[Speaker 0]: 然后再把这个就是就按着就是教程。
+[Speaker 0]: 然后的话就他们有一个官方的仓库嘛，
+[Speaker 0]: 然后你就把那个就就其实就是一道指令。
+[Speaker 0]: 我就发现其实你不懂的话可以问 AI。
+[Speaker 0]: 就是你如果说你装了一个问题，
+[Speaker 0]: 你就这条主指令输进去的，
+[Speaker 0]: 哎，
+[Speaker 0]: 又蹦出了几行英语，
+[Speaker 0]: 你不知道什么意思，
+[Speaker 0]: 就直接粘贴给 AI，
+[Speaker 0]: 然后告诉他那我应该输一条什么样的指令，
+[Speaker 0]: 他就直接告诉你应该输一条什么样的指令。
+[Speaker 0]: 然后就这么一个啊慢慢磨合，
+[Speaker 0]: 就是克服了现实，
+[Speaker 0]: 还有不是一个物理世界，
+[Speaker 0]: 还有说就是这个呃就是编程的一个问题。
+[Speaker 0]: 然后的话就就把这个装起来。
+[Speaker 0]: 然后这买 CRI 我试用之后，
+[Speaker 0]: 我发现他用来写东西其实是就是比较一般的，
+[Speaker 0]: 就是他的一个速度响应会比较慢。
+[Speaker 0]: 然后的话就看见就是啊因为发电影空间，
+[Speaker 0]: 就是当时一开始是在一口新办那边，
+[Speaker 0]: 就是看见有在有大家有在呃用这个扣，
+[Speaker 0]: 然后就也说就是这个是一个世界上最先进的一个模型。
+[Speaker 0]: 然后就是说好的好的，
+[Speaker 0]: 当时是就是用用来写 code 其实是最好的。
+[Speaker 0]: 然后我就呃就狠下心来，
+[Speaker 0]: 就是买了他的那个 pro 那个 plan，
+[Speaker 0]: 其实有个还有 max 啊，
+[Speaker 0]: 就是但是我选择是 pro，
+[Speaker 0]: 然后这个买下的过程其实还是比较困难的。
+[Speaker 0]: 因为我是在中国大陆，
+[Speaker 0]: 然后的又是要经历困难，
+[Speaker 0]: 然后就买下了这个 pro pro 计划。
+[Speaker 0]: 然后买下了之后，
+[Speaker 0]: 其实我就开始阐释，
+[Speaker 0]: 就是按照之前加盟来西亚，
+[Speaker 0]: 按照那个方法嘛。
+[Speaker 0]: 我不会，
+[Speaker 0]: 我就我就问 AI 呗，
+[Speaker 0]: 就我觉得其实现在有很多事情不会，
+[Speaker 0]: 你就问 AI 呗，
+[Speaker 0]: 就是首先问 AI，
+[Speaker 0]: 然后的话你再去问人，
+[Speaker 0]: 或者说问呃问其他什么，
+[Speaker 0]: 你才能够问出一些比较好的问题。
+[Speaker 0]: 对，
+[Speaker 0]: 然后回答我们那个主题就是就是我有个问题，
+[Speaker 1]: 我有一个问题就是说嗯我知道 german ICLI 它它其实也是个 coming line 工具。
+[Speaker 1]: 然后你是你是装在 VS code 里面，
+[Speaker 1]: 就是你是装在这个环境里面，
+[Speaker 1]: 你是问他问题吗？
+[Speaker 1]: 你是用来你平常是用来做什么？
+[Speaker 1]: 嗯，
+[Speaker 0]: 我一开是一开始是用它来，
+[Speaker 0]: 就是例如说写一些简单的网页。
+[Speaker 0]: 然后的话我就发现就其实我一开始还不知道就是什么 HTAL 是什么东西。
+[Speaker 0]: 然后或者说一些就是一些简单的就是简单的工具，
+[Speaker 0]: 例如说下载视频的一个工具嘛，
+[Speaker 0]: 就是 get up 上。
+[Speaker 0]: 就是我一开始我都甚至连 githup 是什么东西我都不知道。
+[Speaker 0]: 然后的话就是你可以问他，
+[Speaker 0]: 让他开可以给你介绍。
+[Speaker 0]: 然后他甚至会自己上 github，
+[Speaker 0]: 就把你就是找到你想要的那工具，
+[Speaker 0]: 那个仓库要帮你下载下来。
+[Speaker 0]: 所以说我当时就用它去下载了一些视频，
+[Speaker 0]: 包括像优 tube 或者是说像哔哩哔哩。
+[Speaker 0]: 就这些视频。
+[Speaker 0]: 我就发现哇这个东西就是你会发现其他的工具 giit up 上，
+[Speaker 0]: 只要是上有的的都都可帮帮。
+[Speaker 0]: 你下载下来，
+[Speaker 0]: 然后帮你用，
+[Speaker 0]: 他找都是自己帮你找，
+[Speaker 0]: 下载，
+[Speaker 0]: 是帮你自己下载。
+[Speaker 0]: 然后就是我发现就是现在这些工具我都可以用。
+[Speaker 0]: 然后觉得就是当时一开始我就觉得很神奇了，
+[Speaker 1]: 你是用呃你就是叫 githugeru LI 来帮你把就那 SCUI 就是一本本的。
+[Speaker 1]: 你就把就是像一个本地的机器人嘛，
+[Speaker 1]: 你就叫这个本地的机器人，
+[Speaker 1]: 在你电脑里面住在你电脑里面。
+[Speaker 1]: 机器人人家把 giyhub giyhub 就是一个云端仓库嘛，
+[Speaker 1]: 就把 giay how 上面的人家写的所有的那个相关的原始码都下载下来嘛。
+[Speaker 0]: 嗯，
+[Speaker 0]: 对，
+[Speaker 0]: 好，
+[Speaker 1]: 其实一开始我是我是不知道，
+[Speaker 1]: 只是说你让他就是去做一些事的时候，
+[Speaker 1]: 他就会自己想要去下载一些工具，
+[Speaker 1]: 然后的话你就再问他。
+[Speaker 1]: 哎，
+[Speaker 1]: 那你这个工具是从哪来的，
+[Speaker 1]: 他就会告诉你。
+[Speaker 1]: 哎，
+[Speaker 1]: 他是从 github 上，
+[Speaker 1]: 或者说你在他对话下载的一个过程中，
+[Speaker 1]: 你可以看见他有就他是从 github 上下载下来的。
+[Speaker 1]: 哇，
+[Speaker 0]: 我这个这一招我真的要学起来，
+[Speaker 0]: 大家可以试试看。
+[Speaker 2]: 然后对，
+[Speaker 0]: 所以你现在还有在用 german 来 COI，
+[Speaker 1]: 嗯，
+[Speaker 1]: 我我我会用就是就是说做一些呃比较长的就是总结类的东东西吧。
+[Speaker 1]: 我觉得用它来写文章可能会比较好。
+[Speaker 1]: 但是用它如果说用来呃干活或者说写 code 的话，
+[Speaker 1]: 我其实现在是用 codex 对 codex 会更多。
+[Speaker 0]: 我我帮大家问一个问题，
+[Speaker 0]: 就是说呃譬如说一开始去接触 AI 的人，
+[Speaker 0]: 他一定会没有非常的疑问。
+[Speaker 0]: 就是说那我居然已经有 german CLI 的，
+[Speaker 0]: 我已经有这个本地机器人干活了。
+[Speaker 0]: 那为什么我还要去用 cloud code，
+[Speaker 0]: 或者者是像 code dex 这样子的的？
+[Speaker 0]: 另外也是类似的工具。
+[Speaker 0]: 为什么？
+[Speaker 1]: 对，
+[Speaker 1]: 其实我用 german 只是因为它是免费的，
+[Speaker 1]: 然后用 cloud code 和对，
+[Speaker 1]: 就是谷歌的那个额度很很慷慨嘛。
+[Speaker 1]: 然后用 cloud code 和 codex 的时候，
+[Speaker 1]: 我就明显感见到他们的一个能力，
+[Speaker 1]: 就是是不一样的。
+[Speaker 1]: 就你会发现的 ccloucode，
+[Speaker 1]: 他写代码他就非常快，
+[Speaker 1]: 他能够把权杖的一下子都写出来。
+[Speaker 1]: 那 german CLI 他一下子，
+[Speaker 1]: 他就会这个 hit 那个 limit 嘛。
+[Speaker 1]: 呃，
+[Speaker 1]: 用 codex 也是同样的道理，
+[Speaker 1]: 包括用来社用来发电社群里面有一个课程是讲 fode app 的，
+[Speaker 1]: 也也是用 codex。
+[Speaker 1]: 因为他的话他能够记的东西会就他知道他能够调用的一个工具，
+[Speaker 1]: 它使用工具的能力会比较强。
+[Speaker 1]: 你比如说像你让他去调用 AP，
+[Speaker 1]:  i 去就是去把一个段音频转录成文本。
+[Speaker 1]: 然后的话在呃工具就是它在不同的一个工具切换的一个过程中，
+[Speaker 1]: 你会发现 code s 还有 cloud code，
+[Speaker 1]: 他们的一个能力会明显更强。
+[Speaker 0]: 我觉得你讲到一个就是我们在选这些就是本地机器人或者是专有名词，
+[Speaker 0]: 就是呃 AI agent AI 代理人。
+[Speaker 0]: 呃，
+[Speaker 0]: 我们选他们，
+[Speaker 0]: 我们要为什么选他们干活一个很重要重点。
+[Speaker 0]: 我们刚刚有讲到说就是说做那个大型语言模型，
+[Speaker 0]: 做那种 LN，
+[Speaker 0]: 他有预预家嘛预预家就是 open AI google 跟 cloud d 他们三预三家出了那种本地的 AI agent 的产品。
+[Speaker 0]: 一就是首先就是呃 google，
+[Speaker 0]: 他除了 ICOI open，
+[Speaker 0]:  AI 出了 code dex，
+[Speaker 0]: 然 clcloud 出了 cloud cold，
+[Speaker 0]: 用法不太一样，
+[Speaker 0]: 但就是说基本上殊途同归。
+[Speaker 0]: 但我我自己我自己在用的时候，
+[Speaker 0]: 我也感觉有时候你好像会需要两三个一起做搭配。
+[Speaker 0]: 就是我呃我我不是说不如无论是写扣还是做设计，
+[Speaker 0]: 呃，
+[Speaker 0]: 或就是你我我觉得现在用 AI 好像是这样，
+[Speaker 0]: 真的很很难。
+[Speaker 0]: 有一个就是说他一个语言模型，
+[Speaker 0]: 他一个 AI，
+[Speaker 0]: 他包办所有事情，
+[Speaker 0]: 你好像三号你就是掉这样子。
+[Speaker 0]: 然后我刚我刚刚觉得大家可以可以推荐大家，
+[Speaker 0]: 你刚有推荐大家一个卷号，
+[Speaker 0]: 就是 google。
+[Speaker 0]: 你说 google 很凯吗？
+[Speaker 0]: 就是 google 真的是有很多免费的额度可以用，
+[Speaker 0]: 然后他直到现在它都会有一些试用的额度。
+[Speaker 0]: 有时候有时候就算你你可以用比较旧的模型试用的额度基本上是用不完的。
+[Speaker 0]: 除非你真的是非常重度使用者，
+[Speaker 0]: 那可能真的要升级一下，
+[Speaker 0]: 不然的话，
+[Speaker 0]:  google 我平常在用，
+[Speaker 0]: 我真的是还每个月都用，
+[Speaker 0]: 我还是用不到它那个最高额度。
+[Speaker 0]: 这个是我觉得这是之间公司大公司非常强的一个地方。
+[Speaker 0]: 但就是我跟你的经验是一样。
+[Speaker 0]: 就是譬如说我之前用另外一个家的产品叫 curser，
+[Speaker 0]: 那用 curser 的话，
+[Speaker 0]: 他也很常会用到他的噩套。
+[Speaker 0]: 就是我我好奇，
+[Speaker 0]: 因为我们我们我们既然已经聊到 AIA 卷的，
+[Speaker 0]: 我想问你说你用 AIA 卷除了邂逅之外，
+[Speaker 0]: 你还有来帮你做哪些事情啊？
+[Speaker 1]: 我觉得帮我做了一个事情，
+[Speaker 1]: 更多呃就是在包括社群管理，
+[Speaker 1]: 其实有时候也会用到，
+[Speaker 1]: 就是我同时也就是在用来发电和一口心饭是一个管理员嘛。
+[Speaker 1]: 然后的话包括像有一些就是有一些帖子文章，
+[Speaker 1]: 然后的话要写总结，
+[Speaker 1]: 其实就是用 AI 卷它最好的一个呃优点吧。
+[Speaker 1]: 我觉得就是他能够把那个 pipeline，
+[Speaker 1]: 就是你的一整条工作线，
+[Speaker 1]: 工作流把它记下来。
+[Speaker 1]: 然后的话之后你可以调用就是复用这条，
+[Speaker 1]: 就是让他就是说您让他写一篇呃在咖啡哎，
+[Speaker 1]: 就是就是一个活动，
+[Speaker 1]: 就是活动资讯。
+[Speaker 1]: 大家关于这个帖子呃，
+[Speaker 1]: 关于这个活动的一个就是发的帖子的一个总结。
+[Speaker 1]: 呃，
+[Speaker 1]: 或者说其他的一些包括像发活动，
+[Speaker 1]: 其实也可以交给 AI agent 做。
+[Speaker 1]: 你只要把呃你的活动资讯给他他就可以帮你发了。
+[Speaker 1]: 就是一就是有很多工作，
+[Speaker 1]: 只要是 AAI 接口口，
+[Speaker 1]: 就是 AAII 接口，
+[Speaker 1]: 其就是是类似于一个窗口吧，
+[Speaker 1]: 就是一个点菜的一个窗口。
+[Speaker 1]: 你只要这个服务，
+[Speaker 1]: 他有一个呃他做了这么一个接口，
+[Speaker 1]: 你就可以就是就是用 AI agent 它可以调用。
+[Speaker 1]: 然后的话就嗯他就是你可以让 AI agent 帮你做一些事情，
+[Speaker 1]: 你就不用去手手动去浏览器上点来点去。
+[Speaker 1]: 然后的话你一句话你就可以让他帮你做，
+[Speaker 1]: 然后的话你就跑走就走，
+[Speaker 1]: 去泡杯茶或者说去散步，
+[Speaker 1]: 然后回来的话，
+[Speaker 1]: 他可能就帮你做好了。
+[Speaker 0]: 你刚讲了一个很好的场景，
+[Speaker 0]: 就是说我们我们如果是经营社群的人，
+[Speaker 0]: 他有时候要发布活动，
+[Speaker 0]: 或者是说他要发一些故定的固定的帖子。
+[Speaker 0]: 譬如说他每个月要发一个电子报什么的，
+[Speaker 0]: 那他就可以把这一些流程呃 ABCD 串起来。
+[Speaker 0]: 然后每个月譬如说我可以 schedule，
+[Speaker 0]: 我可以固定每个月让他跑一次，
+[Speaker 0]: 他就把电子报 ABCD 就走一个流程就发出去了。
+[Speaker 0]: 这样子呃，
+[Speaker 0]: 这样子是你这样子的流程，
+[Speaker 0]: 你都你是用 n 八 n 做吗？
+[Speaker 0]: 那 n 八 n 到底是什么样？
+[Speaker 0]: 东一一个东一个产品。
+[Speaker 1]: 对，
+[Speaker 1]: 那我就开始讲就是 ML 就是 m 八 n 其实就是我刚才也提到嘛，
+[Speaker 1]:  pipe ine 就是一种工作流。
+[Speaker 1]: 然后其实 m 我觉得它本质上其实就是一种架架设在云端上的一个工作流。
+[Speaker 1]: 当然它是一个开源的一个转建吧。
+[Speaker 1]: 你可以把它当成，
+[Speaker 1]: 其实它就是一堆代码，
+[Speaker 1]: 然后是象征一一条工作流。
+[Speaker 1]: 然后的话你把它放在云端的话，
+[Speaker 1]: 就就可以 schedule。
+[Speaker 1]: 呃，
+[Speaker 1]: 你每月就是你，
+[Speaker 1]: 然后你就不用打开你的电脑在云端，
+[Speaker 1]: 它也能够运行。
+[Speaker 1]: 所以说呃就刚才提到嘛，
+[Speaker 1]: 就是一些每月的一个活动。
+[Speaker 1]: 呃，
+[Speaker 1]: 在用外发电社群其实就有一个活动叫做 AI 电波，
+[Speaker 1]: 其实就是每月的一个固定的一个活动。
+[Speaker 1]: 那么发布这个活动的话，
+[Speaker 1]: 其实我知道这这活动是固定的嘛。
+[Speaker 1]: 那么我只需要提前把那个活动的一个模板就写清楚。
+[Speaker 1]: 然后我在 MII 其实就是一个一个的节点。
+[Speaker 1]: 然后例如说我呃 schedule，
+[Speaker 1]: 它是一个节点，
+[Speaker 1]: 是一个 trigger，
+[Speaker 1]: 就是呃在什么情况下，
+[Speaker 1]: 这条 MIN 的工作流会被调用。
+[Speaker 1]: 然后的话就是中间的一些流程步骤，
+[Speaker 1]: 就是你要如何去发布这个活动。
+[Speaker 1]: 例如说它首先在 google drive 拿到呃这个月的一个海报。
+[Speaker 1]: 呃，
+[Speaker 1]: 然后的话它在就是根据 api 的一个接口，
+[Speaker 1]: 他会发一个呃发一个请求吧，
+[Speaker 1]: 他就会到那个社群网站的一个接口那里。
+[Speaker 1]: 然后的话就发布这个活动，
+[Speaker 1]: 呃，
+[Speaker 1]: 其实里面还有一些设置是比较复杂，
+[Speaker 1]: 需要慢慢去微调。
+[Speaker 1]: 但是大概的一个思路就是这样子，
+[Speaker 0]: 就你刚刚讲的这个这个这个 flow 这个自动化的流，
+[Speaker 0]: 他帮你解决了什么问题啊，
+[Speaker 1]: 他帮我解决的问题，
+[Speaker 1]: 就是每一个月我都需要去做重复性的工作嘛。
+[Speaker 1]: 其实呃管理社群或者是说就是做一些就是这发布活动，
+[Speaker 1]: 其实它不是 value 最高的一些东西。
+[Speaker 1]: 你如果说呃你每一个月都要就是重新的把你的脑子，
+[Speaker 1]: 就其实我会做很多其他的事情啊。
+[Speaker 1]: 如果说重新要把他脑子，
+[Speaker 1]: 就是从另外一个领域，
+[Speaker 1]: 你重新又拿回这个领域。
+[Speaker 1]: 其实他会有认知损耗的，
+[Speaker 1]: 就是你在不同的工作切换中会有认知损耗的。
+[Speaker 1]: 呃，
+[Speaker 1]: 所以说我们用 m 八 n 去自动化这些工作的话，
+[Speaker 1]: 我就能够有更多的时间去做其他的事情。
+[Speaker 1]: 比以说我其实主要就是能够节约我的一个时间，
+[Speaker 1]: 然后它能够自动化的话，
+[Speaker 1]: 它也比较稳定嘛，
+[Speaker 1]: 就它的时间就是固定的。
+[Speaker 1]: 呃，
+[Speaker 1]: 大家就知道这个时间会有这个活动，
+[Speaker 1]: 而不是说我人工可能说哎，
+[Speaker 1]: 那这个活动怎么还没有发出来？
+[Speaker 0]: 我我跟大家讲，
+[Speaker 0]: 小西瓜的一个打工，
+[Speaker 0]: 小西瓜，
+[Speaker 0]: 它也是这是我们用爱发电社群里面的其中一个 support engineer 之一。
+[Speaker 0]: 那小西瓜它最主要做的事情其实就是他刚刚讲的其中一个，
+[Speaker 0]: 就是说他要呃每个月他安排的这样子的一个活动。
+[Speaker 0]: 那这个这个 AI 电波的活动呢，
+[Speaker 0]: 他就是我们每个月在社群里面，
+[Speaker 0]: 我们都可以有一个随机搭配的。
+[Speaker 0]: 我在我之前我记得在有 AI，
+[Speaker 0]: 就是用 AI 在做这件事情之前，
+[Speaker 0]: 那原来的社群经理他要自己手动去搭配，
+[Speaker 0]: 就是去去帮忙找 a 跟 b 凑在一起。
+[Speaker 0]:  b 跟 c 凑在一起真的是非常的 face。
+[Speaker 0]: 因为尤其是如果你的社群已经到一两千人的话，
+[Speaker 0]: 你真的不太可能这样子做。
+[Speaker 0]: 你可能要你可能要配对完，
+[Speaker 0]: 可能要花个三天才能配对完。
+[Speaker 0]: 所以呃所以我觉得他他最厉害的地方是说，
+[Speaker 0]: 呃，
+[Speaker 0]: 首先是你要随机配对嘛，
+[Speaker 0]: 你两千多个人我首先这些人要凑在一起，
+[Speaker 0]: 然后你就要设定一些入我。
+[Speaker 0]: 譬如说这些人可能之前有配对过，
+[Speaker 0]: 你接下来就不要再配对了。
+[Speaker 0]: 就是他有一些呃很细致的，
+[Speaker 0]: 而且在里头，
+[Speaker 0]: 可是这个东西如果你自己要在本地在做开发，
+[Speaker 0]: 在写写写城市，
+[Speaker 0]: 你真的要做很久。
+[Speaker 0]: 然后我的我我我我现我看到小西瓜这个案例，
+[Speaker 0]: 我觉得他给我一个启发。
+[Speaker 0]: 就是说呃当你的当你有很当你有这种类似这种很麻烦的工作，
+[Speaker 0]: 然后它又是固定的，
+[Speaker 0]: 你就可以去思考说你怎么样把它自动化。
+[Speaker 0]: 我觉得是用 NN 八 n 就是一个很好的方法。
+[Speaker 0]: 因为用 n 八 n 的话，
+[Speaker 0]: 你他基本上很多东西都帮你设定好了，
+[Speaker 0]: 你就是按一按点一点事情就做完了。
+[Speaker 0]: 但是我们这样讲还是有点太简化了。
+[Speaker 0]: 可是可是呃确实如果你跟本地你再去写一个重新写一个产品，
+[Speaker 0]: 比起来这还是简单非常非常多，
+[Speaker 0]: 就是甚至是比零再更简单一些。
+[Speaker 0]: 那我我还我自己还看到说你在发那个帖子，
+[Speaker 0]: 你发过来，
+[Speaker 0]: 你每个你每次还会提供大家说你可以聊什么破冰的问题。
+[Speaker 0]: 我觉得这是一个，
+[Speaker 0]: 我觉得这也是很可爱的设计。
+[Speaker 0]: 就是说呃我很喜欢你，
+[Speaker 0]: 你你在那个在这个流程里面，
+[Speaker 0]: 你不是单纯就是只是把说我就是 OK 配对完就了事，
+[Speaker 0]: 你还要给他一点人性的部分。
+[Speaker 0]: 所以你个问题，
+[Speaker 0]: 你是随机的吗？
+[Speaker 0]: 还是说嗯你你这个问题的的来源是什么？
+[Speaker 0]: 你是怎么样？
+[Speaker 0]: 就是每个月都给大家一个随机的破冰问题，
+[Speaker 1]: 生成这个讨论题的一个模式。
+[Speaker 1]: 呃，
+[Speaker 1]: 用外发电这边的话，
+[Speaker 1]: 我有一个 AI agent，
+[Speaker 1]: 他是会上网。
+[Speaker 1]: 就是我在 m 的设计里面有一个 AI agent，
+[Speaker 1]: 他会上网搜寻最近的相关的 AI 的资讯。
+[Speaker 1]: 然后的话交给另外一个去把这个就是我会 prompt，
+[Speaker 1]: 我会我会提前就写好那个 AI agent 那个 system point，
+[Speaker 1]: 就是告诉他他应该怎么写好这个问题。
+[Speaker 1]: 然后的话就是交给另外一个去写。
+[Speaker 1]: 这样的话他就是他们的一个功能，
+[Speaker 1]: 分开来的话，
+[Speaker 1]: 他写出来的效效果会好很多。
+[Speaker 1]: 对，
+[Speaker 1]: 然后这个其实是 AI 点播的一个方写出来的方法。
+[Speaker 1]: 然后另外一个社群的话，
+[Speaker 1]: 我是用呃就是我会抓取社群里面大家的一个帖子。
+[Speaker 1]: 就是因为是读书讨论嘛，
+[Speaker 1]: 它会有更多的呃就是其实大家讨论之间的一个东西会更更有意思。
+[Speaker 1]: 就是交把它捐给 AI 之后，
+[Speaker 1]: 会生成一些很有意思的东西。
+[Speaker 1]: 然后的话就是把大家帖子抓下来，
+[Speaker 1]: 然后给 AI 生成讨论题。
+[Speaker 1]: 所以说其实就是我还在尝试嘛，
+[Speaker 1]: 就我觉得自己也觉得挺好玩的。
+[Speaker 1]: 就是两种不同的模式，
+[Speaker 1]: 它会产生什么样的不同的那个效果。
+[Speaker 0]: 哇，
+[Speaker 0]: 就是这个真的是可以给经营经营社群的人，
+[Speaker 0]: 或是社群经理一个参考。
+[Speaker 0]: 因为现在呃我们呃其实现在有个现象了。
+[Speaker 0]: 我我想跟大家讲现在所谓的 social media 这件事情。
+[Speaker 0]: 这个软这个产品，
+[Speaker 0]: 我们大部分我们看到 social media，
+[Speaker 0]: 就是譬如说 facebook 比较老牌的，
+[Speaker 0]: 他已经变老牌了，
+[Speaker 0]: 然后还有 instagram，
+[Speaker 0]: 然后呃剩然后就是有一些欧洲这边的人会用，
+[Speaker 0]: 呃，
+[Speaker 0]: 或美国这边人会用美国那边人会用 snapshop。
+[Speaker 0]: 那现在的你可以看到它有个趋势，
+[Speaker 0]: 是这样子，
+[Speaker 0]:  social 跟呀，
+[Speaker 0]: 这两个东西在分开，
+[Speaker 0]: 所以像 instagram 你可以上去。
+[Speaker 0]: 你现在看不太到你朋友发问，
+[Speaker 0]: 你看不到，
+[Speaker 0]: 你看不太到你朋友发的东西。
+[Speaker 0]: 其实你大部分都是看到这个平台在推播给你的推送给你的内容。
+[Speaker 0]: 它已经变成一个 media，
+[Speaker 0]: 它的 social 的属性越来越少。
+[Speaker 0]: 然后搜那 social 的属性怎么办呢？
+[Speaker 0]: 它会转移到一个一些地方，
+[Speaker 0]: 譬如说像 snapshot，
+[Speaker 0]: 它就是真的就是用来做互动的。
+[Speaker 0]: 它的原生内容就是没有那么多，
+[Speaker 0]: 他大部分都是使用者在做互动。
+[Speaker 0]: 然后还有还有就是说像我们这个用爱发电社群，
+[Speaker 0]: 我们就是特别去建给说想要学习学习 AI 对 AI 有兴趣的所有的人。
+[Speaker 0]: 所以呃我我我认为接下来的趋势应该就是会会像小西瓜这样子的，
+[Speaker 0]: 工作的人会越来越多。
+[Speaker 0]: 我们就是会需要越来越多人去帮忙去维护一个呃一个一个兴趣社团，
+[Speaker 0]: 然后是一个一个呃主题性的社群这样。
+[Speaker 0]: 那我我好奇就是说那如果我是一个就是从一个我是一个普通人的角度好了，
+[Speaker 0]: 就是我也不你刚刚讲的所有的那一些东西我都不懂。
+[Speaker 0]: 假设我刚你刚讲的就是就是你刚讲的，
+[Speaker 0]: 你在你刚刚讲什么 german CUI 什么 code x 你刚刚讲那一大堆，
+[Speaker 0]: 我什么都不懂，
+[Speaker 0]: 我就是一个小白。
+[Speaker 0]: 那请问对于我这个小白来说，
+[Speaker 0]: 呃，
+[Speaker 0]:  n 巴 n 他值得学的点在哪？
+[Speaker 0]: 我为什么要学这个，
+[Speaker 0]: 还是说他对我能有什么样的帮助？
+[Speaker 1]: 我觉得其实最最重要的是要找到自己的那个工作流所在。
+[Speaker 1]: 然后的话就是工具其实他只是能够提升你的效率。
+[Speaker 1]: 我觉得就是你首先你要知道自己就是在做什么东西，
+[Speaker 1]: 你要清楚的知道自己的工作流。
+[Speaker 1]: 然后 m 八 n 最大的效果，
+[Speaker 1]: 我觉得它是部署在云端，
+[Speaker 1]: 然后能够自动跑。
+[Speaker 1]: 你不用打开你的笔记本，
+[Speaker 1]: 它也能够自动跑。
+[Speaker 1]: 所以说你用小白的话，
+[Speaker 1]: 你用去用这个 m 八 n 其实最大好处我觉得是就是你学习的一个成本，
+[Speaker 1]: 就是其实也不是很大。
+[Speaker 1]: 其实现在因为有 AI，
+[Speaker 1]: 就是我其实我的一个学习过程，
+[Speaker 1]: 我也是会 AI 辅助很多的，
+[Speaker 1]: 包括像 m 八 n 里面有一些节点，
+[Speaker 1]: 或者说现在你可以让 m 帮你生成一条圆形的工作流。
+[Speaker 1]: 但是更重要的是如何你去调整。
+[Speaker 1]: 你作为一个小白，
+[Speaker 1]: 你可能你如果说对你的工作流足够清晰的话，
+[Speaker 1]: 其实里面就是一个一个节点。
+[Speaker 1]: 就是你用的一个一个服务。
+[Speaker 1]: 你手动去用的时候你清楚了。
+[Speaker 1]: 那么去设置的时候，
+[Speaker 1]: 你只需要告诉呃 tragigipity，
+[Speaker 1]: 你要这个服务，
+[Speaker 1]: 你在里面需要怎么设置，
+[Speaker 1]: 或者说你这个配对逻辑，
+[Speaker 1]: 你需要在什么地方怎么配对，
+[Speaker 1]: 呃，
+[Speaker 1]: 需要避免历史重复。
+[Speaker 1]: 你让 tragibity，
+[Speaker 1]: 然后你问他就是如何去解决这个问题，
+[Speaker 1]: 他会告诉你如何去用这个服务。
+[Speaker 1]: 所以说现在其实小白学习哎那个呃就是成本吧，
+[Speaker 1]: 我觉得其实是不是很大的，
+[Speaker 1]: 重要的是知道自己的一个工作流是怎么样的，
+[Speaker 1]: 需要解决的问题是怎么样的。
+[Speaker 1]: 有这个问题，
+[Speaker 1]: 其实你能够驱动者就把 MI 学下来，
+[Speaker 1]: 它是很有价值的。
+[Speaker 1]: 就是能够真的是节约你很多的时间。
+[Speaker 1]: 就是你能够在你的大脑的一个真治负荷降低了之后，
+[Speaker 1]: 你是可以去做一些就是不是那么多重复性的工作啊，
+[Speaker 1]: 包括像就是各种各样创造性的工作，
+[Speaker 1]: 你会腾出更多的时间。
+[Speaker 0]: 所以其实你所以其实 p 图说我们做一个假设，
+[Speaker 0]: 做一个社群经理好了。
+[Speaker 0]: 因为因为因为现在很多人都会做跟社群有关的工作嘛，
+[Speaker 0]: 他可能有很多杂事要做他什么 ABCD 四个平台要发布。
+[Speaker 0]: 然后然后他又要去收集大家的意见，
+[Speaker 0]: 然后他可能又要真的要做新的内容。
+[Speaker 0]: 所以你的意思是说，
+[Speaker 0]: 其实我们选版也是尝试说去把一些可能重复性的杂事把它减少。
+[Speaker 0]: 譬如说我我我觉得最我觉得社群啦作为一个做社群啊，
+[Speaker 0]: 或者无论是我们个人是做自媒体，
+[Speaker 0]: 还是说我们去上班，
+[Speaker 0]: 其实最大的痛点真的是那个派发的的问题。
+[Speaker 0]:  diatatch 的问题。
+[Speaker 0]: 派发最麻烦的就是说呃我听一个我们有一个行行销的朋友，
+[Speaker 0]: 讲说最麻烦的就是说你今天有一个 content，
+[Speaker 0]: 你今天就是譬如说有一个 youtube 的内容，
+[Speaker 0]: 你接下来要派发到其他品牌。
+[Speaker 0]: 你可能你们公司有经营呃，
+[Speaker 0]:  t talk，
+[Speaker 0]: 有经营 instagram，
+[Speaker 0]: 然后 whatever 什么平台，
+[Speaker 0]: 你可能就经营了四五个平台。
+[Speaker 0]: 你接下来这个内容你都要转换过去。
+[Speaker 0]: 然后这些平台都有自己的痛，
+[Speaker 0]: 譬如说某些平台的受众比较年轻。
+[Speaker 0]: 某些平台你的受众比较年长，
+[Speaker 0]: 那个痛就会不一样，
+[Speaker 0]: 然后格式也会不一样。
+[Speaker 0]: 那这个东西我这个事情我听起来就是觉得可以，
+[Speaker 0]: 就是如果单纯用文字的部分应该是蛮容易解决的。
+[Speaker 0]: 就是说你就是直接套用不同的 template，
+[Speaker 0]: 同一个内容，
+[Speaker 0]: 套用不同的 template，
+[Speaker 0]: 然后你就加 NN，
+[Speaker 0]: 你你们可以这样设定，
+[Speaker 0]: 就你就可以去自动派发了。
+[Speaker 0]: 我感觉是这样子的，
+[Speaker 0]: 虽然可能有点太理想了，
+[Speaker 1]: 有不同的一个目标受众嘛。
+[Speaker 1]: 你其实就是把这个视频，
+[Speaker 1]: 你把它转成文字之后，
+[Speaker 1]: 你其实就是交给不同的 AI agent。
+[Speaker 1]: 就是你在里面你可以设置不同的 AI agent，
+[Speaker 1]: 他有不同的一个功能。
+[Speaker 1]: 你就是说他他就是一个写 tiktok 的那个目标受众是哪什么样的人，
+[Speaker 1]: 你把他的一个身份给定义好。
+[Speaker 1]: 其实最主要你在呃设置 AI agent 的时候，
+[Speaker 1]: 就是他的一个身份是什么样的。
+[Speaker 1]: 他是写 tiktok 他需要完成什么样的任务。
+[Speaker 1]: 你如果或果说把他需要的一个目标写清楚的话，
+[Speaker 1]: 他就只能能够把这个任务做好。
+[Speaker 1]: 所以说你不同的一个目标的一个内容，
+[Speaker 1]: 你把他的一个要点写好，
+[Speaker 1]: 他是能够一整套都帮你写出来的。
+[Speaker 1]: 所以说他确实会节省很多的人工。
+[Speaker 1]: 我觉得确实呀，
+[Speaker 0]: 现在越越来越多人用 AI。
+[Speaker 0]: 那你会不会你会不会去担心说 OK，
+[Speaker 0]: 你接下来毕业了。
+[Speaker 0]: 那好的好的，
+[Speaker 0]: 你接下来要怎么样准备？
+[Speaker 0]: 因为我有听说一个我我有听到一些大学生在讲说 OK，
+[Speaker 0]: 我我现在学的东西看起来都好像有 AI 可以用了。
+[Speaker 0]: 那我到底学学这些到底要干嘛？
+[Speaker 0]: 就是你会不会有这种呃对自己的存在，
+[Speaker 0]: 就是对自己这个这个这个专业的存在感到感到迟疑。
+[Speaker 0]: 你会不会有这个担心？
+[Speaker 1]: 其实我觉得就是比起物理啊，
+[Speaker 1]: 其他的专业可能更更需要担心。
+[Speaker 1]: 因为我觉得学物理其实本来就对这个就业期待不是很大，
+[Speaker 1]: 就是其实主要就是对可能是这样子啊。
+[Speaker 1]: 然后的话就学物理的话，
+[Speaker 1]: 我觉得就是你学一个科目，
+[Speaker 1]: 或者说你在大学学个东西，
+[Speaker 1]: 我觉得更重要的就是我呃一开始说了嘛，
+[Speaker 1]: 在你的脑子里划线，
+[Speaker 1]: 就现在其实 AI 它是我觉得它是一个超强大的一个外部的大脑。
+[Speaker 1]: 但你如何用好这个大脑？
+[Speaker 1]: 其实你的自己的一个生物性的大脑，
+[Speaker 1]: 你首先要把它构建好。
+[Speaker 1]: 也就是说你要有呃健康的饮食定性运动，
+[Speaker 1]: 然后你还要有一些学习输入，
+[Speaker 1]: 你才知道如何去更好的用这个 AI 这个歪部难脑。
+[Speaker 1]: 所以说回说回到如就是后来的就业，
+[Speaker 1]: 会不会很担心，
+[Speaker 1]: 会不会觉得就是很迷茫？
+[Speaker 1]: 我倒觉得其实就是也会肯定是会有这样的一个担心，
+[Speaker 1]: 就是担心自己以后什么工作都让 AI 取代了。
+[Speaker 1]: 但是的话我觉得就是就是你其实可能最后这还是就是人与人之间的一个竞争吧。
+[Speaker 1]: 我就觉得这个东西呃，
+[Speaker 1]: 然后还有就是 AI，
+[Speaker 1]: 它其实就它可能删去很多职业，
+[Speaker 1]: 但是它也会带来一些新新的职业。
+[Speaker 1]: 例如说你去呃如何去 prompt AI，
+[Speaker 1]: 它可能也会催生出一个职业。
+[Speaker 1]: 例如说呃你用这个 AI 如何去就教别人用 AI，
+[Speaker 1]: 其实也是一个新的职业，
+[Speaker 1]: 就各种各样的一个职业，
+[Speaker 1]: 它也会产生出来，
+[Speaker 1]: 就是新的机会总是会存在的。
+[Speaker 1]: 就是包括像互联网呃，
+[Speaker 1]: 嗯就是我们现在年轻人其实最重要的就是你，
+[Speaker 1]: 首先要你要学会用 AI，
+[Speaker 1]: 就是可能才就是最后你会有更有竞争力嘛。
+[Speaker 1]: 就其实就像之前那那会就是互联网刚出来，
+[Speaker 1]: 计算机刚出来的那一会儿啊，
+[Speaker 1]: 你们要学就是大家要学习如何去，
+[Speaker 1]: 好像用 computer 让自己更有竞争力。
+[Speaker 1]: 其实是一样的道理。
+[Speaker 1]:  AI 它就是一个新的工具。
+[Speaker 1]: 但是更主要的我觉得是在用的这个人。
+[Speaker 1]: 所以说其实我觉得专业呃问题不是很大，
+[Speaker 1]: 就是不管你是什专业的，
+[Speaker 1]: 你只要怀着一个开放的心态，
+[Speaker 1]: 你去积极的学啊，
+[Speaker 1]: 呃积极的用你，
+[Speaker 1]: 你就不会被落下的对好。
+[Speaker 0]: 那我想要帮观众问一个问题，
+[Speaker 0]: 就是说我如果是我现在我现在什么都不会。
+[Speaker 0]: 然后我想要我听的我听的你的这个自动化的流程，
+[Speaker 0]: 我非常感兴趣我想要自己尝试一下怎么样做自己的第一个自动化流程。
+[Speaker 0]: 那可不可以给我一些建议？
+[Speaker 1]: 我可以看我用户开发那个社群里面的那个课程，
+[Speaker 1]: 就是就是安的一个入门的一个呃初步的一个课程嘛。
+[Speaker 1]: 就是你在里面你就会学到就是一些简单的工作流以及如何去复刻。
+[Speaker 1]: 我会一步一步教你，
+[Speaker 1]: 就从小白的一个视角，
+[Speaker 1]: 就是教你就是说什么是 api。
+[Speaker 1]: 然后的话我们为什么 API 或者说里面会有一些呃就是节点的一些设置的一个细节。
+[Speaker 1]: 包括像就说 pin 这个 data，
+[Speaker 1]: 就是把这个数据保存下来，
+[Speaker 1]: 还有说保存这个工作流的细节在里面，
+[Speaker 1]: 我都会一一为你讲解清楚。
+[Speaker 1]: 然后的话如果说当然你也可以就是借助 AI 去学习，
+[Speaker 1]: 也是一个很好的方法。
+[Speaker 1]: 就是现在我觉得更主要的是一个心态，
+[Speaker 1]: 你要积极的拥抱 AI，
+[Speaker 1]: 然后的话就是问出好的问题是最关键。
+[Speaker 0]: 对我觉得我我们们那个我们小西瓜，
+[Speaker 0]: 我们小西瓜老师，
+[Speaker 0]: 我们小西瓜老师他做的这个这个课程啊非常的完整整其其。
+[Speaker 0]: 就是是从呃他就是就万你你真的完全不懂是完全没有关系的。
+[Speaker 0]: 因为因为他就是带你从从一个最基本的东西开始做，
+[Speaker 0]: 然后做到你其实是你其实看到那个 n 八 n 上面的 flow 涨书软其实会非常的有成就感。
+[Speaker 0]: 因为很多事情啊，
+[Speaker 0]: 我们我们其实工作上很多事情，
+[Speaker 0]: 最烦人那些事情就是说那些真的是也没有用到，
+[Speaker 0]: 也没有用到你很大很多大脑能量。
+[Speaker 0]: 但是它就是会让你要一直重复的，
+[Speaker 0]: 花很多时间在那里。
+[Speaker 0]: 那如果说你可以尝试用 AI 工具去把它解决，
+[Speaker 0]: 我觉得真的是会真的非常的有帮助。
+[Speaker 0]: 因为至少你就你你可能把问题放你把时间花花在就是最重要的问题，
+[Speaker 0]: 说不定升职加薪就忘了。
+[Speaker 0]: 好，
+[Speaker 0]: 那我我想要你可不可以？
+[Speaker 0]: 因为我们现在也是大学生嘛，
+[Speaker 0]: 你可如果说现在的大学生，
+[Speaker 0]: 就是他如果完全对 AI 完全没有任何的了解，
+[Speaker 0]: 你可不可以给他们一些建议？
+[Speaker 1]: 我觉得就是最重要的就是开始去用。
+[Speaker 1]: 就是就是你就是我之前我一开始我也想学 AI，
+[Speaker 1]: 然后的话我会去上我上网，
+[Speaker 1]: 就是搜一些 AI 的课程。
+[Speaker 1]: 然后我发现我搜出来的是机器学习的一个课程，
+[Speaker 1]: 然后你就你就然后你就去学，
+[Speaker 1]: 然后你就会发其其学完你你没没有去做的一些实际就就是你在跟上这个时代，
+[Speaker 1]: 你在用 germany 或者说在用 crod code，
+[Speaker 1]: 或者说再用 code x 的那样的。
+[Speaker 1]: 所以说我觉得最重要的，
+[Speaker 1]: 你要真的就开始用，
+[Speaker 1]: 就大家最前沿的大家在用什么东西，
+[Speaker 1]: 大家也在用 germany CLI。
+[Speaker 1]: 呃，
+[Speaker 1]: 大家在用 google 的那个 stage 在做设计，
+[Speaker 1]: 你就去开始用。
+[Speaker 1]: 你只要开始用了之后，
+[Speaker 1]: 你就会发现哎，
+[Speaker 1]: 原来用 AI 它现在他有这么多工具，
+[Speaker 1]: 你会发现他有更多更多的类型。
+[Speaker 1]: 就他们的那个竞争也是蛮激烈的。
+[Speaker 1]: 就是他会很多的竞品啊，
+[Speaker 1]: 呃就是你会发现有很多呃就很专门方向的赛道的一些工具，
+[Speaker 1]: 你都可以去尝试试一下。
+[Speaker 1]: 你会发现就是呃就是你你会知道自己现在在这 AI 时代，
+[Speaker 1]: 它的一个定位是什么样。
+[Speaker 1]: 就我觉得最重要的还是就是你开始去用它。
+[Speaker 1]: 好，
+[Speaker 0]: 我觉得这句话真的是可以点心。
+[Speaker 0]: 很多人就是你尽量大家大家如果在学 AI 的话，
+[Speaker 0]: 现在先不要再去学先不如果你你没有很喜欢数学的话，
+[Speaker 0]: 你也不要先去学那些数学学了。
+[Speaker 0]: 你先尽量去学一学，
+[Speaker 0]: 说现在我怎么样这个 AI 怎么样帮助到我。
+[Speaker 0]: 因为它真的就只是一个工具，
+[Speaker 0]: 它不是说像是呃物理学，
+[Speaker 0]: 因为你是学物理的嘛，
+[Speaker 0]: 它不是说物理学，
+[Speaker 0]: 你要在课堂上你要蹲蹲好几个学期，
+[Speaker 0]: 真的你真的才可以真的做一点什么东西。
+[Speaker 0]: 他不是这样子的，
+[Speaker 0]: 他不是 rocky science，
+[Speaker 0]: 但他比较大家现在比较真的专注的是说它能够为我带来什么样的价值。
+[Speaker 0]: 我认为这是就是现在学 AI 比较正确的心态了。
+[Speaker 0]: 你也不是说学一学马上要变成什么样的大师，
+[Speaker 0]: 我我觉得从这个出发会最好的。
+[Speaker 0]: 那所以我们我们为了我们我我们这个用爱发电社群呢，
+[Speaker 0]: 是为了所有就是你想要从零开始出发去学 AI 的任何人。
+[Speaker 0]: 所以当所以我们呃你你在我们这个社群里面呢，
+[Speaker 0]: 有各式各样的不同领域的课程。
+[Speaker 0]: 无论你是要做设计打造自己的产品，
+[Speaker 0]: 或是说像小西瓜这样打造自己的工作流，
+[Speaker 0]: 自动化的工作流。
+[Speaker 0]: 或者是说呢你想要打造自你想要用 AI 帮你加速你自己做自媒体的速度，
+[Speaker 0]: 做影片啦、
+[Speaker 0]: 做文字啦，
+[Speaker 0]: 你都可以来加入一下我们这个社群，
+[Speaker 0]: 我们社群的讲师都可以让你问。
+[Speaker 0]: 所以我们在下方的资讯栏连接都有我们这个社群的的连接。
+[Speaker 0]: 那欢迎大家加入。
+[Speaker 0]: 好，
+[Speaker 0]: 今天，
+[Speaker 0]: 谢谢小西瓜，
+[Speaker 1]: 我感谢图形老师的时间。
+[Speaker 0]: 好，
+[Speaker 0]: 谢谢大家，
+[Speaker 0]: 拜拜，
+[Speaker 1]: 谢谢大家。
