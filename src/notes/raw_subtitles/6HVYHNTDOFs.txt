@@ -1,0 +1,1064 @@
+- In the summer of 1841,
+Florida Doctor John Gorrie
+faced a dire situation.
+Yellow fever, also known
+as the black vomit,
+was sweeping through his town,
+wiping out entire families.
+Patients came to Gorrie's small infirmary,
+jaundiced and burning with
+fevers up to 40 degrees Celsius.
+To cool his patients down,
+Gorrie couldn't turn to refrigeration
+because that hadn't been invented yet.
+So, he came up with a radical treatment.
+He suspended pans of ice in his infirmary,
+allowing the cool, dense air
+to flow down over his patients,
+providing much-needed relief.
+(patient exhaling)
+But, this treatment was
+almost impossible to sustain
+because it required hundreds
+of kilograms of ice per day,
+and Gorrie had only one way to get it.
+(ice scraping)
+(train engine whirring)
+(ice block thudding)
+He relied on ice blocks
+that were transported
+thousands of kilometers
+through a now-forgotten ice empire,
+a vast network of ships and ice houses
+all built and controlled by one man.
+(suspenseful music)
+Known to the world as the Ice King.
+(upbeat music)
+Over the previous 35 years,
+he had forged a monopoly
+that spanned the globe,
+and anyone who wanted
+ice was at his mercy.
+(upbeat music)
+Gorrie only got a
+few deliveries each year,
+and now, by the peak of summer,
+the cost of just a few
+days' ice for the infirmary
+would've been more expensive
+than the average yearly wage.
+So, locals began to refer
+to the ice as white gold.
+As Gorrie's supply ran out,
+he was forced to watch his
+patients suffer and die.
+It was in that moment that he
+decided he would find a way
+to free the world from
+the grip of the Ice King.
+By the turn of the 19th century,
+most of America's ice came
+from the northern states,
+where thousands of square
+kilometers of lakes
+would freeze over for much of the year.
+The hard part was
+getting all that ice out.
+- To get ice out of a lake or river,
+first of all, you had to
+trust that it was deep enough
+to support your weight,
+and there's no way to really tell.
+Then, you had to walk out several feet
+onto this plane of ice,
+take a saw, that's as long as I am tall,
+and then carve the very
+ice that you're standing on
+and just hope to heaven
+that it doesn't sink.
+(bright music)
+Then, you had to kind
+of float it to shore,
+and a horse would help
+to kind of pull the ice
+into the back of a wagon.
+It was frequently common
+for the harvesters and their horses
+to fall through into the ice,
+sometimes to their death.
+- This dangerous and painstaking process
+meant that ice remained a rare commodity,
+available mostly to wealthy landowners.
+One of the few who had access to it
+was 22-year-old Boston
+merchant Frederic Tudor.
+In the winter of 1805,
+Tudor was thinking back
+to a tragic incident
+that had happened four years earlier.
+He and his brother came
+down with a bad fever
+while visiting the Caribbean.
+Back home, they would've
+just asked their servants
+to get some ice.
+But on the islands, ice was unheard of.
+With no way to cool down,
+the brothers cut their trip
+short and returned to America.
+And while Frederic recovered,
+his brother did not.
+(pensive music)
+Today, we know
+that ice wouldn't have
+saved his brother's life
+because he likely
+suffered from a rare case
+of bone tuberculosis.
+But at the time,
+Tudor believed that it was
+the lack of ice on the islands
+that was responsible
+for his brother's death.
+It was this painful memory
+that gave him an idea.
+What if he could be the one
+to bring ice to the Caribbean?
+And, in the process, make his fortune.
+So, Tudor got to work.
+He hired dozens of men to gather ice
+and approached investors
+to help finance a ship.
+But to the investors, this
+plan seemed ridiculous.
+Tudor wrote, "People only laugh
+when I tell them I'm going to
+carry ice to the West Indies,"
+which is understandable
+because the journey
+would take three weeks,
+sailing through warm seas under
+the blazing Caribbean sun.
+I mean, can you really transport ice
+in those conditions for that long?
+Wouldn't it all just melt?
+It turns, out people had figured out ways
+to make ice last a long time,
+even thousands of years ago.
+As far back as 500 BC,
+in the scorching summers
+of the Persian Empire,
+ancient kings, like Xerxes,
+enjoyed refreshing frozen desserts,
+even when the outside temperature
+climbed as high as 35 degrees Celsius.
+Now, ice in the desert might seem strange,
+but during the winter months,
+temperatures can drop dramatically.
+So, the Persians filled
+shallow pools with water,
+which would freeze overnight,
+and in the morning,
+they would break up the ice
+sheets and collect the pieces.
+To make that ice last until the summer,
+they used three key techniques.
+- Let's try simple a experiment.
+I have eight ice cubes spread
+evenly in one dish here
+and I have another eight ice cubes
+now stacked together in one mega cube
+in this dish over here.
+Now, if you leave these two
+plates to melt for a few hours,
+the stacked ice cubes fare a lot better,
+and that's because the main way ice melts
+is through heat conduction on its surface.
+So, even though the volume was the same,
+the surface area exposed here
+is double what we had here.
+The key idea here is that
+you wanna pack your ice
+as tightly as possible.
+- [Derek] In fact, the best shape
+to minimize the surface area is a sphere.
+So, if you think about it,
+a snowman is pretty much
+mathematically optimal to survive
+as long as possible.
+But, you don't need perfect geometry
+to make ice last a long time.
+In the winter of 2010,
+the city of Helsinki dumped all the snow
+plowed from their streets
+onto this huge pile,
+around 30 meters high and 100 meters wide.
+Almost a year later,
+that very same pile was still around,
+despite being exposed
+to one of the country's
+hottest summers in decades.
+(jaunty music)
+The main reason it lasted so long
+is because the ratio of
+surface area to volume
+actually decreases for larger
+and larger amounts of ice.
+For example, if you double
+the radius of this snowman,
+then the volume of ice
+increases by a factor
+of two cubed or eight,
+but the surface area
+only increases by a factor
+of two squared or four.
+This is known as the square cube law,
+which was the second technique
+used by the Persians.
+And finally, they needed a way
+to shield the ice from the harsh desert.
+(jaunty music)
+- Okay, I have another example.
+Two ice cubes, two dishes.
+The only difference, really,
+is gonna be that I have this fan,
+which is gonna be blowing
+air onto this ice cube.
+Now, it's not heating any of the air,
+it's just blowing away any air
+the ice would've chilled for itself.
+And it's introducing more
+warmer, ambient-temperature air,
+which heats the ice cube better.
+(pensive music)
+After about an hour of the fan blowing,
+this ice cube is completely gone,
+whereas this one is only about 40% melted.
+So, obviously, you wanna
+minimize the amount of airflow
+that you're getting around your ice.
+One way you can do that
+is by putting the ice in
+a deeper dish, like a pit,
+because colder air sinks to the bottom,
+so it collects around the ice
+and lets it stay there for longer.
+And a way you can one-up
+that is to seal the ice,
+which is exactly what the Persians did.
+- [Derek] This is a yakhchal,
+an ancient Persian ice house.
+It's a massive dome structure
+with walls up to two
+meters thick at the base.
+Here, the Persians collected
+up to 220 tonnes of ice
+and packed it tightly together in a pit.
+This allowed the cold,
+dense air to collect
+while warm air was funneled
+up and out of the dome.
+After the winter,
+the entire structure was sealed up,
+insulating the ice until summer.
+(compelling music)
+For the next 2,300 years, these
+techniques barely changed.
+And now, Tudor was
+ready to bet his fortune
+on these ancient principles.
+So, he mortgaged land on his
+family estate to buy a ship,
+and he began modifying it
+for the long journey to the West Indies.
+- He did that by building
+out a cargo hole in a ship
+that was built similarly
+to the ice houses.
+The ice was elevated off the ground,
+so it wasn't sitting in melt water
+because melt water speeds
+up the melting of ice.
+And the blocks of ice were
+also packed really tightly.
+- Tudor went all in,
+sinking a full $10,000
+of mostly borrowed money
+into the venture,
+which is the equivalent of
+over a quarter million dollars today.
+He sent his youngest brother
+and his cousin ahead to
+the island of Martinique
+to build an ice house
+ready to receive the cargo.
+On the morning of February 13th, 1806,
+Tudor departed Boston Harbor,
+carrying with him over
+80 metric tonnes of ice,
+the first shipment of its kind.
+The Boston Gazette ran an
+article that read, "No joke.
+A vessel has cleared at the Custom House
+with a cargo of ice.
+We hope this will not prove
+a slippery speculation."
+After nearly three weeks at
+sea, Tudor's ship arrived,
+and to his relief,
+around half of the ice
+had survived the trip.
+But there was a problem.
+His brother and cousin had
+failed to build an ice house.
+(suspenseful music)
+So, with no place to store the ice,
+Tudor had to sell it
+straight off the dock,
+under the hot sun.
+He sold as quickly as possible,
+but after two days, he
+had only made about $50.
+The locals were confused by
+the strange frozen water,
+and many were shocked
+when their new product
+disappeared before their eyes.
+One customer tried to
+save his precious ice
+by submerging it in a bath of water,
+only to find it vanishing even faster.
+In the end,
+all Tudor could do was watch
+his remaining ice melt away.
+Yet somehow, he was undeterred,
+and over the next four years,
+he continued to borrow money,
+using every cent to
+ship ice to new markets,
+like Cuba, Jamaica, Barbados, and Antigua.
+But, business remained difficult.
+Tudor wrote, "I found myself without money
+and without friends,
+and with only a cargo of ice
+in a torrid zone to depend on
+for the supply of both."
+By 1809, Tudor owed $40,000 to investors,
+which is over 1 million bucks today.
+He was hounded by creditors,
+he was forced to hide from
+sheriffs on his own ships,
+and he was even sent to
+debtor's prison twice.
+(jail bars clanging)
+He later described it as,
+"The winter of my discontent,"
+but during that time, he had a revelation.
+The reason demand wasn't picking up
+was because the people of the West Indies
+didn't know what to do with ice.
+So, all he had to do, he reasoned,
+was make them understand
+by offering them some refreshing drinks.
+(beverage sloshing)
+- He convinces the bartenders there
+to let him show them how
+to make icy cocktails,
+and he gives the ice initially
+to the bartenders for free.
+So, the bartenders can
+sell both the icy drink
+and the room temperature
+drink at the same price,
+just to see what their customers prefer.
+And lo and behold, they
+prefer the icy drink.
+- [Derek] In Tudor's own words,
+"A man who has drank his drinks cold
+at the same expense for one week
+can never be presented
+with them warm again."
+- Tudor even showed them
+how to make ice cream,
+which became an instant
+hit, especially in Cuba.
+150 years later, during
+the Cuban Revolution,
+its leader, Fidel Castro,
+was obsessed with ice cream.
+He was actually known
+to eat up to 18 scoops after lunchtime,
+which is a bit crazy.
+His sweet tooth was so famous
+that the CIA actually
+tried to assassinate him
+with a poisoned milkshake.
+Now, back in Tudor's day, his
+work was finally paying off.
+The cafe owners in the West Indies
+started asking him for more and more ice,
+and he realized that he
+could increase his profits,
+just by refining his methods.
+So, he started using sawdust
+to insulate his ice on the ships
+because sawdust was a phenomenal insulator
+that you could basically get for free
+from all the sawmills around Boston.
+They were just trying to get rid of it.
+And he also replaced the
+manual saws at the lakes
+with horse-drawn plows,
+which made it all the
+easier to get the ice out.
+Because of that,
+the price of extracting a tonne of ice
+dropped from around 30 cents
+all the way down to 10 cents.
+- By the 1820s, Tudor was
+finally turning a profit,
+and the ice trade began to pick up.
+So much so that copycat
+businesses began to crop up.
+But Tudor wasn't about to let anyone else
+have a share of the market he created.
+So, to maintain his monopoly,
+he often undercut his competition
+until they either gave up
+or went out of business.
+Tudor's ambition didn't end
+there, and he wrote that,
+There was "an experiment I
+have been desirous of making
+for 20 years."
+In 1833, he took on his
+biggest challenge yet,
+a four-month journey
+to ship ice halfway across
+the world to Calcutta, India.
+(suspenseful music)
+(rain splashing)
+(thunder rumbling)
+(waves crashing)
+(wind whooshing)
+(waves crashing)
+And despite the trip
+being five times longer
+than his first one to the Caribbean,
+more than half of the ice survived.
+(compelling music)
+In India, the ice was a big hit.
+Over the next 20 years,
+Tudor made around $220,000
+in Calcutta alone,
+making it one of his
+most profitable ventures.
+Over that same period, he
+rapidly expanded his empire,
+opening roots to Brazil,
+Singapore, Hong Kong,
+and even Australia.
+His yearly sales
+went from less than
+10,000 tonnes in the 1830s
+to a record high of 132,000 tonnes in 1856.
+Seeing the wealth and
+power of his monopoly,
+the world gave Tudor a new name:
+the Ice King.
+(suspenseful music)
+(ice cracking)
+In under 50 years,
+the ice trade had become one
+of the largest industries
+in the US,
+and it's second largest export by weight.
+What was once a luxury
+product became a commodity.
+By the 1860s, devices known as ice boxes
+started popping up in ordinary kitchens.
+Essentially, they were
+insulated wooden cabinets
+with a compartment for ice at the top,
+which would then cool
+down the food underneath,
+keeping it fresh.
+Families across the country
+soon bought ice daily or weekly,
+with the average New Yorker
+buying over 600 kilograms a year.
+This surge in demand resulted
+in a curious new profession.
+The iceman.
+The iceman would go door to door,
+delivering huge blocks of
+ice up to 45 kilograms.
+And while home delivery was
+nothing new in the 19th century,
+the iceman was unique,
+in that he needed to go inside your house
+to make his delivery.
+- [Homeowner] Yoo-hoo!
+Iceman!
+- All kinds of rumors and jokes
+and cultural thoughts
+started to to crop up.
+And if you look at
+some of the most popular
+songs at the time,
+"She Fell In Love with the Iceman,"
+or "The Iceman Took My Wife."
+If you look at old Valentine's Day cards
+that were circulating at this time,
+they all had puns about the iceman.
+The iceman made my wife too hot;
+he was supposed to deliver ice.
+Like, it was so silly.
+(jaunty music)
+- Consumption of ice
+in big cities like New York skyrocketed.
+And by the end of the 19th century,
+ice had grown into a
+billion-dollar business.
+And while part of the demand
+was due to home ice boxes,
+the real driving force was
+several new industries.
+- The ice industry also
+launched the fish industry,
+the meat packing industry,
+the brewery industry.
+It became like this multi-level industry.
+(train horn honking)
+When we get to the point
+where there are railroads,
+then comes the invention
+of the refrigeration car,
+railroad cars that were
+insulated with ice blocks
+to carry things that are perishable.
+- So, if you think about it,
+fresh fruits and vegetables
+that have been region-locked
+now can become national staples.
+So, you have apricots and
+cherries from California,
+you have strawberries from
+Florida, they can all go inland.
+Actually, you want to guess
+the name of a vegetable
+that was really popularized
+with these chilled cars?
+- Chilled vegetable.
+I'm gonna guess lettuce?
+- Which one?
+- Iceberg.
+It's gotta be iceberg, right?
+- [Gregor] Exactly.
+- It's like crunchy water.
+It's like ice, iceberg lettuce.
+- [Gregor] It is crunchy water,
+but it was actually called iceberg
+because of the ice that kept it fresh.
+(jaunty music)
+- This change marked the
+beginning of a new system
+called the cold chain.
+And for the meat packing
+industry, it was a huge upgrade.
+Previously, the only way
+to transport fresh meat
+was by sending rail cars
+filled with live cattle
+straight from farms to cities.
+Then, the animals had to
+be brought into the city
+and held in local stockyards
+before they were prepared
+by local slaughterhouses and butchers.
+The result was that city centers
+were filled with dirty, noisy cows.
+And on top of that,
+since almost half of
+the animal was inedible,
+shipping was extremely
+inefficient, pushing up the cost.
+(jaunty music)
+But, with chilled rail
+cars, all this changed,
+and the country's supply chain
+reorganized into three parts.
+First, ranches across the Great Plains
+funneled their cattle to
+cities in the Midwest.
+Taking on the role
+of industrial food
+preparation and distribution,
+these cities built up vast
+stockyards, slaughterhouses,
+and rail hubs to send the meat onward.
+Chicago emerged as the
+nation's meat packing capital,
+ballooning in size from
+just 30,000 people in 1850
+to 1.7 million in 1900.
+And at the end of the chain
+were the large, insatiable cities.
+With the new system in place,
+almost twice as much edible meat
+could be transported in each rail car,
+eventually dropping the
+cost in urban areas by 39%.
+As a result, demand soared.
+In New York City alone,
+beef shipments rose from
+just 2,400 tonnes in 1882
+to around 63,000 tons in 1886.
+That's a 25-fold increase
+in just four years.
+But more importantly,
+with a national distribution
+network to rely on,
+these cities no longer needed
+to prepare meat locally.
+They could finally get rid
+of all the infrastructure
+and herds of cows in the city center,
+freeing up the land
+for things like housing,
+offices, and factories.
+This fundamentally changed their structure
+and gave rise to the modern city of today.
+(suspenseful music)
+But, while the cold chain
+was redefining America,
+a new invention
+was about to overthrow
+the natural ice industry,
+which brings us back to Dr.
+John Gorrie in the 1840s.
+A few scientists had devised
+and even built prototype cooling machines,
+but they weren't commercially viable.
+And Gorrie wasn't faring any better.
+He had spent three years
+struggling to make artificial ice
+with no success.
+But one night,
+while experimenting with an
+air pump to drain a bucket,
+he noticed that if you let
+the air expand quickly,
+it formed a thin layer of ice
+on the surface of the water.
+He had just stumbled upon
+the breakthrough he needed,
+and he set about creating a
+prototype based on this idea.
+Take a sealed cylinder filled with air
+and a piston that can move inside it.
+We'll assume there's no friction
+or heat lost to the environment.
+When the piston pushes
+down, the air is compressed,
+increasing its pressure and temperature.
+The reason the temperature increases
+is because as the piston pushes down,
+it moves toward the air molecules.
+So, when a molecule bounces
+off this moving surface,
+it gains a little bit of speed.
+And since the temperature
+is proportional to the
+molecules speed squared,
+well, the air must heat up.
+But, notice that this process
+is completely reversible.
+If the piston is released,
+the high pressure air
+pushes the piston back
+until the pressure equalizes.
+So now, when one of the
+molecules bounces off the piston,
+it loses a little bit of speed.
+Gorrie knew that if he simply let
+all of this hot, high-pressure air expand,
+it would return back to roughly
+its original temperature,
+which wouldn't be very helpful.
+But what if he first cooled
+the air and then let it expand?
+Well, then, its temperature
+would drop far lower
+than the ambient air.
+He started with a similar setup,
+a cylinder and a piston that
+were powered by a hand crank,
+which he then attached
+to a large air tank.
+As Gorrie turned the crank,
+the piston moved down,
+compressing the air and
+raising its temperature.
+To prevent the air from being
+sucked out of the large tank,
+Gorrie added a one-way valve
+at the bottom of the cylinder.
+He also added a similar valve
+at the top of the piston,
+so that the cylinder could
+refill with fresh air.
+So, now, with each turn of the crank,
+more and more air was added to the tank,
+which allowed to increase the pressure
+to around 10 atmospheres.
+But then, he added one extra step.
+In between the piston and the tank,
+he placed a big bucket of water
+and he forced the air
+through a submerged pipe.
+This cooled the air down
+to around the same
+temperature as the water.
+The result was that his tank
+was still filled with high-pressure air,
+but instead of being hot, it was cool.
+So, now, when Gorrie
+released some of his cool air
+into another cylinder with a piston,
+the air rapidly expanded.
+This cooled the air down
+below its starting point
+and dropped it to freezing temperatures.
+Gorrie then placed this entire cylinder
+inside a large tank of water,
+finally making ice.
+But to avoid the entire
+tank freezing solid
+and clogging up his machine,
+he used one final trick.
+Instead of fresh water,
+he filled the final tank with salt water,
+which freezes below zero degrees Celsius.
+Since the salt water remained liquid,
+he then submerged metal
+molds of fresh water
+until they froze into solid blocks,
+essentially creating the
+world's first ice cube tray.
+For the first time ever, ice
+could be created anywhere,
+even in the heat of the Florida summer.
+(pensive music)
+- And when he says to the world
+like, "I've invented ice,"
+the reaction was, "The hell you have.
+(Amy laughing)
+No man should be creating ice.
+Only God can create ice."
+And what John Gorrie also didn't realize
+is that in the first public venues
+in which he announces his ice machine,
+Frederic Tudor has his
+associates in the audience.
+And Frederic Tudor is a man
+who does not take lightly
+to threats to his empire.
+And what bigger threat
+to the naturalized
+harvesting empire is there
+than human-made ice?
+- [Derek] There was no way the Ice King
+was giving up his empire without a fight.
+- What he ends up doing is
+he ends up paying editors
+up and down the eastern
+seaboard at newspapers
+to publish scandalous news
+articles about John Gorrie.
+So, everywhere from
+Tallahassee up to New York,
+you see newspapers publishing headlines,
+like, "There's this crank
+that thinks he can make ice
+as good as God Almighty."
+And ultimately, John Gorrie,
+he does patent his machine,
+but he never makes a dime on it.
+- Gorrie spent the next few
+years in financial ruin.
+A decade later, he died
+alone and penniless,
+most likely succumbing to malaria.
+There are reports he suffered
+an extremely high fever
+in his final days,
+the very symptom he had tried to alleviate
+for so many years.
+But, Gorrie's invention hadn't
+been completely ignored.
+Soon, others began work on
+artificial cooling machines,
+including James Harrison,
+a Scottish-born engineer
+Working in Australia.
+Harrison noticed that Gorrie's
+machine had one big drawback.
+It relied on just two
+components to move heat:
+a compressor and an expansion engine.
+So, instead of using
+air to cool his machine,
+he tried a different approach.
+- I have a can of freeze spray here,
+which is a liquid that when
+I press down on this button,
+comes out and immediately evaporates
+into a very, very low-temperature gas.
+So, what I'm gonna do
+is I'm gonna blast it
+at this cup of water.
+And the process is actually so effective
+that in essentially under a minute,
+I'm able to get some ice to form in there.
+Okay.
+So, after a layer of
+water, what you get is...
+(ice clattering)
+A bunch of ice.
+(ice clattering)
+Now, the reason this works
+is because something special happens
+when a substance changes phase.
+So, in order to go from a liquid to a gas,
+it needs to absorb a lot of energy.
+And pretty much all this energy
+goes into overcoming
+the force of attraction
+between molecules,
+so that they can disperse
+and go into the gas phase.
+Harrison realized he could
+take advantage of this effect
+by forcing a fluid to continuously
+evaporate and condense
+as it's going through a loop.
+A modern version looks
+something like this.
+- [Derek] Start by adding a
+liquid under high pressure
+to a loop.
+Passing this liquid
+through an expansion valve
+quickly drops the
+pressure and temperature,
+causing some of the liquid to
+immediately turn into a gas.
+The mixture then passes
+into an evaporator coil,
+where the remaining
+liquid continues to boil.
+But, this phase change
+requires a lot of energy.
+So, the liquid absorbs
+heat from the environment,
+and this is what creates
+the cooling effect.
+(ice cracking)
+The cold gas is then cycled
+through a compressor,
+raising its temperature,
+and then it's pushed
+through a condenser coil.
+Here, the hot gas cools and
+turns back into a liquid,
+releasing the absorbed heat
+back into the environment
+before returning to the expansion valve.
+(pensive music)
+By repeating this cycle
+over and over again,
+Harrison was reportedly
+able to manufacture
+as much as 3,000 kilograms of ice per day.
+And his machine was a
+huge commercial success.
+- Meanwhile, public
+resistance to Godless ice
+and artificial cooling began to fade,
+overshadowed by a growing health crisis
+linked to natural ice.
+One of the reasons artificial
+ice was so much better
+is because we make it on our own terms.
+With natural ice,
+we had to wait until the right
+season, in the right place,
+and then whatever happened
+in the water that froze,
+like something died or
+was rotting in there,
+you had to work with it.
+- By the time we get to
+the mid-19th century,
+the peak of the Industrial Revolution,
+factories and farms
+just letting loose their
+chemicals and detritus
+into the nearby lakes and rivers.
+- You put an ice block into your cocktail,
+you could get cholera.
+There are, like, stories of hospitals
+treating wounds with ice,
+and then the ice makes you get a disease,
+and your wound isn't even the problem.
+- They're getting cholera,
+they're getting food
+poisoning or ice poisoning.
+I mean, they're getting very, very sick.
+- It's so funny,
+when we were first
+talking about this story,
+I was thinking about this
+frozen New England ice,
+and I was just imagining
+like the purest lake water,
+this crystal-clear ice,
+and, like, just this
+incredible product, right?
+But now that you mentioned it,
+like, yeah, it probably
+is a lot less hygienic.
+And yeah, there's probably germs in there.
+(pensive music)
+- And so the human-made
+ice companies were like,
+"Sure, our ice isn't made by God.
+But, natural ice will kill you.
+So, which one do you want?"
+- [Derek] After the first
+affordable home refrigerator
+landed in the mass market in 1927,
+it became one of the fastest
+adopted new technologies
+of the entire 20th century,
+going from less than 1% of
+homes having one in the 1920s
+to 85% by 1944.
+This made its take off even
+faster than the motorcar
+replacing the horse-drawn cart.
+- There's this argument of,
+"Would the world really be so different
+without refrigeration?"
+Like, sure, food,
+strawberries, iceberg lettuce,
+but then you think about vaccines,
+blood donations, insulin,
+that the same cold chain
+transports those things.
+And then, beyond medicine,
+the same principles that Harrison
+and Gorrie used for their fridges
+are what allow us to cool things down
+to almost absolute zero.
+Over the past century,
+so many of the discoveries that we made
+rely on this principle of refrigeration:
+MRIs, the Large Hadron Collider at CERN,
+the James Webb Telescope.
+All of that is also refrigeration.
+And my favorite is the PCR story,
+where Thermus aquaticus was
+in a fridge for 16 years
+before Kary Mullis discovered it.
+There wouldn't have been that connection
+to make PCR viable in
+that way without a fridge.
+- I think it's easier
+to focus on the movement
+of macroscopic objects
+and macroscopic things happening,
+but this is really
+about controlling motion
+on the smallest scale,
+controlling thermal motion,
+which is a pretty remarkable breakthrough.
+I mean, we could heat
+things up for a long time,
+so you wanna increase the
+thermal energy of molecules.
+You could do that from
+the time we had fire.
+But actually, taking those molecules
+and figuring out how to
+remove their thermal energy
+and really slow them down,
+that's the refrigeration story.
+And that's really recent.
+But as you point out, like,
+it has profound effects.
+Gorrie was able to make ice
+because he wasn't afraid
+to step outside his own
+profession, medicine,
+and venture into a new
+field, thermodynamics.
+And while you probably don't
+need to reinvent the fridge,
+learning a new skill is always handy.
+Here at Veritasium, we
+create simulations and models
+to test our ideas and illustrate them.
+And along the way, our team
+has learned to code in Python
+to make sure our animations
+are as accurate as possible.
+So, if you, like us,
+want to understand coding
+and strengthen your programming skills,
+a great place to start is
+today's video sponsor, Brilliant.
+Brilliant have recently added
+new Python and coding courses,
+starting from the basics
+and working all the way
+up to complex topics,
+like how AI works.
+Each of these is designed
+to break down concepts
+into smaller pieces,
+train your intuition,
+and encourage you to
+explore your own ideas.
+Brilliant helps you build
+skills in math, science,
+and computer science
+through step-by-step interactive learning.
+This method is proven
+to be far more effective
+than just watching
+lectures or videos alone.
+What I love most is that instead
+of dumping formulas on you,
+Brilliant guides you to
+those, "Aha!" moments
+where everything finally clicks.
+I have changed my phone a fair few times
+over the past five years,
+but every time I do,
+I make sure to download the Brilliant app
+because it's such a great
+way to keep my brain engaged.
+So, if you want free access
+to Brilliant's courses
+for a full 30 days,
+go to brilliant.org/veritasium.
+You can scan this QR code
+or click the link in the description.
+Brilliant also gives our viewers 20% off
+an annual premium subscription
+for unlimited access.
+So, I wanna thank Brilliant
+for sponsoring this video,
+and I wanna thank you for watching.
