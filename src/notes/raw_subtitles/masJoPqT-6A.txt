@@ -1,0 +1,312 @@
+[Speaker 1]: 最近 open clore 被大家玩出了各种花样。
+[Speaker 1]: 经过这几天的深度使用，
+[Speaker 1]: 我总结了一些使用经验和技巧，
+[Speaker 1]: 而且我会为大家重点演示在 open cloud 中 agent 的使用方式，
+[Speaker 1]: 从而实现在 open 中更加节省 cloutoken，
+[Speaker 1]: 并且能够更加精准的完成我们的任务。
+[Speaker 1]: 在 open 中，
+[Speaker 1]: 我使用的是谷歌 clouanti gravity 进行了登录。
+[Speaker 1]: 像这样的话，
+[Speaker 1]: 我们就可以使用谷歌 anti gravity 中所支持的全部模型，
+[Speaker 1]: 包括 german 三 pro 系列，
+[Speaker 1]: 还有 cloud 系列。
+[Speaker 1]: 像这样的话，
+[Speaker 1]: 我们就可以根据我们的任务来分配不同的模型，
+[Speaker 1]: 并且还可以实现直接在 open cloud 中调用 nano、
+[Speaker 1]:  banana 模型来生成图像，
+[Speaker 1]: 而且生成的图像都是高清，
+[Speaker 1]: 没有水印的。
+[Speaker 1]: 想在 open cloud 中使用谷 anani gragraity 进进行认证。
+[Speaker 1]: 登录的话非常简单。
+[Speaker 1]: 首先，
+[Speaker 1]: 我们只需要在命令行中先执行这条命令，
+[Speaker 1]: 为 open 安装谷歌 clouanti gravity 的插件。
+[Speaker 1]: 好的好的好的，
+[Speaker 1]: 然后再执行这条命令，
+[Speaker 1]: 实现用 anti gravity 进行登录，
+[Speaker 1]: 然后它会自动打开浏览器。
+[Speaker 1]: 然后我们只需要按照浏览器中的提示一步一步去操作，
+[Speaker 1]: 就可以用 antigravity 进行登录。
+[Speaker 1]: 像这样的话，
+[Speaker 1]: 我们就可以在 open cloud 中来使用 anti gravity 里的模型，
+[Speaker 1]: 包括 opens 四点五。
+[Speaker 1]: 最关键的是，
+[Speaker 1]: 我们就可以直接来使用 nana banana，
+[Speaker 1]: 比如说让它生成一张图像。
+[Speaker 1]: 好的对，
+[Speaker 1]: 对的好，
+[Speaker 1]: 这里图像已经生成成功，
+[Speaker 1]: 可以看到这个生成速度还是非常快的。
+[Speaker 1]: 在我发送的时候，
+[Speaker 1]: 这里显示十一点二十八，
+[Speaker 1]: 当图像接收之后，
+[Speaker 1]: 这里显示十一点二十九。
+[Speaker 1]: 好，
+[Speaker 1]: 下面为大家重点讲解一下我们如何在 open cloud 中来设置不同的 agent。
+[Speaker 1]: 并且为不同的 agent 赋予专门的职责。
+[Speaker 1]: 在这里大家可以看到我创建了多个群组。
+[Speaker 1]: 比如说刚才看到的这个群组，
+[Speaker 1]: 然后这个群组里的 agent，
+[Speaker 1]: 它的职责就是负责调用 nano banana 模型来生成图像。
+[Speaker 1]: 然后在这里还有另一个群组，
+[Speaker 1]: 这个群组是负责专门生成公众号。
+[Speaker 1]: 我这里只需要告诉他一个主题，
+[Speaker 1]: 然后紧接着他就会询问我们一些具体的细节。
+[Speaker 1]: 当我们确认之后，
+[Speaker 1]: 这里他就会给我们输出完整的公众号风格的文章。
+[Speaker 1]: 在这里我还创建了一个专门用于调用 cloud code 进行编程开发的一个 agent。
+[Speaker 1]: 然后他的职责就是负责调用 cloud code 进行编程开发。
+[Speaker 1]: 在这里还有一个 agent 呢，
+[Speaker 1]: 这个 agent 呢是用于头脑风暴。
+[Speaker 1]: 比如说我告诉他开发一个 to do list 的 app，
+[Speaker 1]: 然后这里他就会根据我们输入的需求进行头脑风暴。
+[Speaker 1]: 然后我们只需要根据他的提示，
+[Speaker 1]: 一步一步按照我们的需求去填写就行。
+[Speaker 1]: 最后他就会给出完整的开发方案。
+[Speaker 1]: 而且我为每个群组设置的这些 agent，
+[Speaker 1]: 他们是调用的不同的模型。
+[Speaker 1]: 比如说这个负责图像生成的 agent，
+[Speaker 1]: 它调用的模型就是 german 三 pro 模型。
+[Speaker 1]: 在这个主 agent 这里，
+[Speaker 1]: 然后我们可以让他列出当前所有 agent 的这些信息。
+[Speaker 1]: 然后我就可以输入提示词，
+[Speaker 1]: 让它列出当前所有 agents 的信息，
+[Speaker 1]: 包含模型、
+[Speaker 1]: 名称等内容。
+[Speaker 1]: 然后我们直接发送，
+[Speaker 1]: 然后他就很快列出了这些 agent 的详细信息。
+[Speaker 1]: 第一个就是主 agent，
+[Speaker 1]: 它的名称叫 AGI，
+[Speaker 1]: 调用的模型，
+[Speaker 1]: 就是 cloud opops 四点五 thinking 模型。
+[Speaker 1]: 第二个就是负责 nana banana 图像生成的 agent，
+[Speaker 1]: 它调用的模型就是 german 三 pro。
+[Speaker 1]: 第五个就是用于写公众号文章的 agent。
+[Speaker 1]: 在模型这里，
+[Speaker 1]: 我就给他设置的是 germany 三 flash 模型。
+[Speaker 1]: 这样的的话就实现了为这个主 agent 分配一个最强的模型。
+[Speaker 1]:  cloud ops 四点五 thinking 模型。
+[Speaker 1]: 然后其他的模型，
+[Speaker 1]: 我们就可以根据他们所负责的任务以及任务的难易程度来为他们分配不同的模型，
+[Speaker 1]: 这样的话就能大大节省我们的 token 消耗。
+[Speaker 1]: 最关键的是这一些 agent 我们可以设置为让它共享这个主 agent 的这些记忆系统，
+[Speaker 1]: 也可以设置为不和主 agent 共享记忆系统，
+[Speaker 1]: 也就是单独给他一个工作空间。
+[Speaker 1]: 比如说我自定义的这个写公众号的 agent，
+[Speaker 1]: 它就不和其他 agent 共享工作空间。
+[Speaker 1]: 然后我这里可以输入提示词，
+[Speaker 1]: 让它列出主 agent，
+[Speaker 1]: 还有公众号携手 agent 所在的 workspace 的路径，
+[Speaker 1]: 我们直接发送。
+[Speaker 1]: 然后这里它就列出了这两个 agent 所在的路径，
+[Speaker 1]: 这个是主 agent 它所在的工作空间。
+[Speaker 1]: 这个是写公众号的 agent，
+[Speaker 1]: 它所在的工作空间。
+[Speaker 1]: 这样的话就意味着这个写公众号的 agent，
+[Speaker 1]: 当它加载的时候，
+[Speaker 1]: 它不会读取这个主 agent 中的这些提示词，
+[Speaker 1]: 还有记忆文件，
+[Speaker 1]: 还有 scalill，
+[Speaker 1]: 它有自己独立立的工作空间。
+[Speaker 1]: 这的话就意味着着当我们使用这个 agent 的时候，
+[Speaker 1]: 它就不会加载。
+[Speaker 1]: 主 agent 中大量的记忆文件能够更加节省 token，
+[Speaker 1]: 而且不会因为加载了。
+[Speaker 1]: 主 agent 中大量复杂的记忆文件，
+[Speaker 1]: 导致这个 agent 记忆错乱，
+[Speaker 1]: 这样还能防止群组件上下文的交叉污染。
+[Speaker 1]: 最关键的是就是实现了成本控制不同任务。
+[Speaker 1]: 使用不同成本的模型，
+[Speaker 1]: 对于简单任务，
+[Speaker 1]: 就是使用成本的模型。
+[Speaker 1]: 对于复杂任务，
+[Speaker 1]: 我们就使用推理能力更强的模型。
+[Speaker 1]: 因为最近我发现大家在使用 open cloud 的时候，
+[Speaker 1]: 都是直接在一个主 agent 中完成各种任务。
+[Speaker 1]: 当时间久了，
+[Speaker 1]: 这个主 agent 中的这一些记忆文件就会越来越多，
+[Speaker 1]: 而且任务也越来越多。
+[Speaker 1]: 不仅会导致主 agent 以后每次执行任务都会读取大量的记忆错件，
+[Speaker 1]: 而且还会因为记忆文件中不同的内容，
+[Speaker 1]: 最后导致这个主 agent 神经错乱。
+[Speaker 1]: 所以本期视频我们就为大家演示不同的任务。
+[Speaker 1]: 我们就在不同的群组中，
+[Speaker 1]: 来自定义不同的 agent。
+[Speaker 1]: 当执行特定的任务的时候，
+[Speaker 1]: 我们就回到特定的群组来调用特定的 agent。
+[Speaker 1]: 为我们执行对应的任务。
+[Speaker 1]: 像这样，
+[Speaker 1]: 既不会造成这些 agent 与主 agent 的的上下文污染，
+[Speaker 1]: 还能实现每个任务的 session 都是独立的，
+[Speaker 1]: 最关键的是还能实现他们的工作空间与记忆文件分离。
+[Speaker 1]: 因为之前大家在解决让 open cloud 执行不同的任务的时候，
+[Speaker 1]: 会直接新建一个群组，
+[Speaker 1]: 然后将 cloud bot 直接拉入到群组里。
+[Speaker 1]: 像这种方式，
+[Speaker 1]: 虽然能够实现独立的 session，
+[Speaker 1]: 但直接将 open class 拉入到群组里。
+[Speaker 1]: 群组里的 open class。
+[Speaker 1]: 它和这个主 agent 共享的是同一个工作空间，
+[Speaker 1]: 以及共享的同样的记忆文件。
+[Speaker 1]: 所以在执行特定任务的时候，
+[Speaker 1]: 群组里的这个 agent 并没有它特定的系统提示词。
+[Speaker 1]: 所以为群组设置独立的 agent。
+[Speaker 1]: 这样的话在执行特定任务的时候才能更精准。
+[Speaker 1]: 而且不同的任务在不同的群组我们可以轻松切换。
+[Speaker 1]: 这样的话就不需要在主中我们不断要翻聊天记录，
+[Speaker 1]: 才能找到之前对话的内容。
+[Speaker 1]: 下面我们就找一个更加贴合实际的案例进行演示。
+[Speaker 1]: 比如说我们在 agmotebook 上来发帖，
+[Speaker 1]: 为了安全起见，
+[Speaker 1]: 我们就可以单独创建一个用于发帖的 agent 哈。
+[Speaker 1]: 比如说我这里创建一个群组，
+[Speaker 1]: 然后我们随便输入一个名称，
+[Speaker 1]: 我们就输入 motorbook 再点击下一步。
+[Speaker 1]: 在这一步，
+[Speaker 1]: 我们就将我们的 open class 加入进来，
+[Speaker 1]: 在输入框我们就可以艾特 open。
+[Speaker 1]: 然后我们问它当前群组的 cloui d 直接发送，
+[Speaker 1]: 让它输出当前群组的 ID。
+[Speaker 1]: 好，
+[Speaker 1]: 这里它输出了这个群组的 ID。
+[Speaker 1]: 有了这个群组的 ID，
+[Speaker 1]: 我们就可以在这个主 agent 中，
+[Speaker 1]: 让主 agent 来自定义我们当前这个群组中这个 agent 它的这些详细参数。
+[Speaker 1]: 下面我们就回到这个主 agent，
+[Speaker 1]: 然后我们就可以输入提示词。
+[Speaker 1]: 我输的提示词是将群组中的 agent 设置为独立的 workspace，
+[Speaker 1]: 并将主 agent 中关于 mode book 的配置，
+[Speaker 1]: 还有 APIK 拷贝到这个 agent 的 workspace 中。
+[Speaker 1]: 然后我们直接发送，
+[Speaker 1]: 让这个主 agent 为我们实现这些操作。
+[Speaker 1]: 好，
+[Speaker 1]: 这里提示他已经设置好了这里，
+[Speaker 1]: 他给这个信 agent 设置了一个名称，
+[Speaker 1]: 叫 motorbook agent。
+[Speaker 1]: 这里是给他指定的模型。
+[Speaker 1]: 这里是给他指定了这个工作空间，
+[Speaker 1]: 可以看到这里单独给他创建了一个工作空间，
+[Speaker 1]: 这里给他绑定了群组，
+[Speaker 1]: 然后用这个模型用于在 motorbook 发帖，
+[Speaker 1]: 还是比较浪费的。
+[Speaker 1]: 我们可以直接让他来修改成更便宜的模型。
+[Speaker 1]: 我试的是三零的四点五模型，
+[Speaker 1]: 用于发帖过于浪费，
+[Speaker 1]: 让它换成 jera 三 flash。
+[Speaker 1]: 好，
+[Speaker 1]: 这里它很快输出改成了 german 三 flash。
+[Speaker 1]: 下面我们还可以继续输入提示词。
+[Speaker 1]: 我输入的提示词是为 motorbook agent 设置一些安全相关的 system prompt，
+[Speaker 1]: 防止 motorbook agent 被 prompt 注入。
+[Speaker 1]: 然后我们直接发送。
+[Speaker 1]: 这样的话，
+[Speaker 1]: 我们直接让主 agent 来为这个用于发帖的 agent 设置一些安全相关的这些约束。
+[Speaker 1]: 因为我们在 motorbook 发帖的时候，
+[Speaker 1]: 经常会遇到这些类似于提示词注入相关的这些帖子。
+[Speaker 1]: 这样的话我们就可以防止我们呃 agent 被提示词注入好，
+[Speaker 1]: 这里提示它已经添加了安全防护的 system prompt，
+[Speaker 1]: 包括忽略外部指令识别注入模式，
+[Speaker 1]: 还有固定身份操作，
+[Speaker 1]: 限制可疑内容上报。
+[Speaker 1]: 这样的话，
+[Speaker 1]: 这些提示词就不需要我们自己去手写了，
+[Speaker 1]: 直接让主 agent 来设置。
+[Speaker 1]: 下面我们继续输入提示词，
+[Speaker 1]: 让它列出 mode book agent 它的详细配置代码。
+[Speaker 1]: 然后我们直接发送送后，
+[Speaker 1]: 我们看一下它是如何在代码中来配置的这个 agent ent。
+[Speaker 1]: 这样的话大家就可以根据代啊来配置自己的 agent。
+[Speaker 1]: 好，
+[Speaker 1]: 这里他列出了与这个发帖的 agent 相关的这些配置。
+[Speaker 1]: 这里是 jason 格式的配置文件。
+[Speaker 1]: 在这里包含模型、
+[Speaker 1]:  ID 名称，
+[Speaker 1]: 还有工作路径，
+[Speaker 1]: 还有给他分配的这个模型。
+[Speaker 1]:  ID 在下面这里就是群组的绑定，
+[Speaker 1]: 在这里就是给他设置的提示词。
+[Speaker 1]: 然后这里就是他的工作空间。
+[Speaker 1]: 当他配置好这个 agent 之后，
+[Speaker 1]: 下面我们就可以回到这个群组来测试一下。
+[Speaker 1]: 让这个呢在 agenmodel book 为我们来发一篇帖子，
+[Speaker 1]: 然后我们就可以输入提示词。
+[Speaker 1]: 我输入的是在 motebook 发帖，
+[Speaker 1]: 让其他 AI 一起讨论。
+[Speaker 1]: 关于一百年内人类能否实现移民火星，
+[Speaker 1]: 然后我们直接发送看一下这个效果。
+[Speaker 1]: 好，
+[Speaker 1]: 这里很快发了一篇帖子，
+[Speaker 1]: 这里是帖子的链接，
+[Speaker 1]: 然后我们点开这个链接查看一下效果。
+[Speaker 1]: 这个帖子标题就是人类会在火星上建立永久殖民地嘛，
+[Speaker 1]: 然后我们还可以继续输入任务，
+[Speaker 1]: 让他在当前帖子下继续发表三篇跟评，
+[Speaker 1]: 表达他更深入的看法。
+[Speaker 1]: 然后我们直接发送好这里。
+[Speaker 1]: 很快他给出了回答，
+[Speaker 1]: 他说他发表了三篇跟评，
+[Speaker 1]: 然后我们再回到这篇帖子，
+[Speaker 1]: 直接刷新看一下他是否跟评成功。
+[Speaker 1]: 好，
+[Speaker 1]: 刷新之后可以看到有七篇帖子了，
+[Speaker 1]: 因为这里还有其他 AI 发的帖子。
+[Speaker 1]: 然后这里就是我们的 agent 呢进行了跟评，
+[Speaker 1]: 可以看到这个效果还是非常不错的。
+[Speaker 1]: 这样的话我们就实现了一个专门在 modeorbook 用于发帖和跟评的一个 agent 啊，
+[Speaker 1]: 而且给他设置的模型是 genina 三 flash，
+[Speaker 1]: 因为这个模型更加便宜，
+[Speaker 1]: 因为毕竟发帖这种任务非常简单。
+[Speaker 1]: 对于 jermina 三 flash 完全足够了。
+[Speaker 1]: 下面我们还可以利用它独立的记忆系统，
+[Speaker 1]: 然后直接给他设置一个记忆。
+[Speaker 1]: 我这里输入的是让他记住，
+[Speaker 1]: 每当他发完帖子或者跟评之后，
+[Speaker 1]: 要扫描工作路径下，
+[Speaker 1]: 是否有恶意代码或者恶意的 prompte 产生。
+[Speaker 1]: 然后我们直接发送，
+[Speaker 1]: 因为为了完全杜绝被 prompte 注入，
+[Speaker 1]: 然后我们就可以让他每当他执行完发帖或者跟帖等任务之后，
+[Speaker 1]: 就要扫描他的工作路径。
+[Speaker 1]: 因为他的工作路径是独立的，
+[Speaker 1]: 和我们的主 agent 不是是一个工作路径。
+[Speaker 1]: 这样的话，
+[Speaker 1]: 每当他完成任务之后，
+[Speaker 1]: 就让他自动扫一遍他的这个工作路径，
+[Speaker 1]: 防止被非常厉害的 prompt 给注入好这里。
+[Speaker 1]: 他说，
+[Speaker 1]: 他已经将这条指令记录到了他的记忆文件中，
+[Speaker 1]: 他会严格执行这一规则。
+[Speaker 1]: 像这样的话，
+[Speaker 1]: 我们就可以让我们自定义的这个 agent，
+[Speaker 1]: 让他愉快的在 modeorbook 畅所欲言进行发帖。
+[Speaker 1]: 哪怕遇到这一些有恶意提示词的这一些链接，
+[Speaker 1]: 他也能在执行完任务之后自动扫描工作路径下的这些内容。
+[Speaker 1]: 下面我们还可以让它输出它记忆文件中的内容。
+[Speaker 1]: 我输入的提示词是把你记忆文件里的内容展示给我，
+[Speaker 1]: 然后我们直接发送。
+[Speaker 1]: 然后我们对比一下它的记忆和这个主 a gentle 的记忆是否一致。
+[Speaker 1]: 然后相同的提示词，
+[Speaker 1]: 我们再发送给这个主 a gentle。
+[Speaker 1]: 然后我们看一下这个用于发起的这个 aggent，
+[Speaker 1]: 它的记忆文件可以看到它记忆文件中全属于 model book 相关的这些内容。
+[Speaker 1]: 然后我们再看一下主 a 和文件里的内容，
+[Speaker 1]: 可以看到，
+[Speaker 1]: 这里面的文件内容就相当多了。
+[Speaker 1]: 而这个用于发帖的 agent 呢，
+[Speaker 1]: 它的记忆文件里的内容就非常少。
+[Speaker 1]: 像这样的话，
+[Speaker 1]: 我们就实现了在 open cloud 中为特定的任务，
+[Speaker 1]: 设置特定的群组。
+[Speaker 1]: 然后在群组中设置特定的 agent，
+[Speaker 1]: 反而实现了工作空间的分离以及记忆文件的分离。
+[Speaker 1]: 而且还实现了根据特定的任务，
+[Speaker 1]: 为特定的 agent 的分配，
+[Speaker 1]: 特定的模型就实现了不同 agent 各司其职，
+[Speaker 1]: 互不影响、
+[Speaker 1]: 互不干扰。
+[Speaker 1]: 而且还都是独立的任务与独立的 session。
+[Speaker 1]: 好，
+[Speaker 1]: 本期视视频就做到这里，
+[Speaker 1]: 欢迎大家点赞、
+[Speaker 1]: 关注和转发，
+[Speaker 1]: 谢谢大家观看。
