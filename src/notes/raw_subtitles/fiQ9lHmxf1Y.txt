@@ -1,0 +1,3286 @@
+[Speaker 1]:  hello，
+[Speaker 0]: 大家好人来了，
+[Speaker 1]: 人来了，
+[Speaker 1]: 嗯，
+[Speaker 1]: 能听到我声音吗？
+[Speaker 1]: 呃，
+[Speaker 1]: 进来的呃，
+[Speaker 1]: 进来的朋友告诉我，
+[Speaker 1]: 能听到我声音吗？
+[Speaker 0]: 不知道，
+[Speaker 1]: 那领那好，
+[Speaker 1]: 谢谢我美东大家都在哪儿呀？
+[Speaker 1]: 美东这边，
+[Speaker 1]: 我今天我饭还没吃过呢，
+[Speaker 1]: 因为我现在挨饭吃了吗？
+[Speaker 1]: 可以。
+[Speaker 1]: 好，
+[Speaker 1]: 谢谢。
+[Speaker 0]: 嗯，
+[Speaker 1]: 你也没吃啊，
+[Speaker 1]: 是股市下跌了，
+[Speaker 1]: 心情不好没吃还是来不及呢？
+[Speaker 1]: 我因为我没吃，
+[Speaker 1]: 我也没吃。
+[Speaker 1]: 然后呃其实收盘前啊，
+[Speaker 1]: 股市在呃下市场在下跌，
+[Speaker 1]: 然后包括盘后亚马逊的财报那段时间，
+[Speaker 1]: 其实我正好在看呃 sami nasis 他们那篇。
+[Speaker 1]: 最近那篇文章其实讲的和微软是相关的。
+[Speaker 1]: 嗯，
+[Speaker 1]: 他们涨到了呃第二个 chach BT 的一个 moment，
+[Speaker 1]: 看的其实挺有感触的。
+[Speaker 1]: 所以我嗯很多东西我在思考很多东西，
+[Speaker 1]: 包括下午我在和一位朋友也在聊未来的 AI 的一个落地的一个方式，
+[Speaker 1]: 或者怎么具象化的这个方式。
+[Speaker 1]: 嗯，
+[Speaker 1]: 呃就整个思绪其实一直在思考，
+[Speaker 1]: 然后一直在思考这个过程，
+[Speaker 1]: 然后又停不下来，
+[Speaker 1]: 然后又去听亚马逊的财报。
+[Speaker 1]: 所以我想算了饭就先放一边吧。
+[Speaker 1]: 我觉得大家也等不及，
+[Speaker 1]: 那就先我们把今天这期直播的内容先做完。
+[Speaker 1]: 因为我在下午的时候，
+[Speaker 1]: 收盘的时候呢，
+[Speaker 1]: 我做了一个调查，
+[Speaker 1]: 问一下大家今天想听直播，
+[Speaker 1]: 还是说嗯还是说想听我录播，
+[Speaker 1]: 那更多的人选择了做直播。
+[Speaker 1]: 那就今天就还是以直播的方式来和大家呃聊一下。
+[Speaker 1]: 今天这个市场弄完之后，
+[Speaker 1]: 然后可以安安心心的吃一些晚饭，
+[Speaker 1]:  b 圈好像被捅到了大动脉，
+[Speaker 1]: 利润回吐快，
+[Speaker 1]: 吐完了，
+[Speaker 1]: 急需心理按摩。
+[Speaker 1]: 好，
+[Speaker 1]: 没关系没问题。
+[Speaker 1]: 好吧，
+[Speaker 1]: 今天呃心理按摩一定是管饱。
+[Speaker 1]: 我觉得嗯先来一个最大剂量的呃李哥粉丝前来报道，
+[Speaker 1]: 李哥啊不是李哥本人，
+[Speaker 1]: 对吧？
+[Speaker 1]: 我就在想，
+[Speaker 1]: 因为李哥的粉丝这段时间应该是比较的应该是比较的舒服的嘛。
+[Speaker 1]: 起码这一波嗯，
+[Speaker 1]: 我觉得从交易者这个角度来说，
+[Speaker 1]: 他已经做的很好很好。
+[Speaker 1]: 嗯，
+[Speaker 1]: 像我说前面我说的是嘛，
+[Speaker 1]: 我说先来一个比较比较大的一个心理按摩，
+[Speaker 1]: 怎么我记得在二零二五年，
+[Speaker 1]: 上一年的四月份也就一年不到之前吧。
+[Speaker 1]: 我记得其实现在市场的跌幅就还好，
+[Speaker 1]: 只是在软件板块在大科技身上会跌的比较多一些。
+[Speaker 1]: 呃，
+[Speaker 1]: 包括前段时间的一些热门股，
+[Speaker 1]: 然后跌的比较多一些啊，
+[Speaker 1]: 但其实从整体市场的一个跌幅来说，
+[Speaker 1]: 和呃上年的四月份是没办法去对比，
+[Speaker 1]: 呃，
+[Speaker 1]: 而且非常的激速。
+[Speaker 1]: 那么你这样来个指数跌个百分之四百分之五，
+[Speaker 1]: 那才是真正的恐慌啊，
+[Speaker 1]: 或者血流成河。
+[Speaker 1]: 那只是更加的这一次下跌比较的集中啊，
+[Speaker 1]: 一些是和大科技相关的。
+[Speaker 1]: 然后一些很很多大家体感比较严重，
+[Speaker 1]: 都是一些呃不能算网红股吧。
+[Speaker 1]: 只能说热门股市场里面的一些热幕。
+[Speaker 1]: 那当呃一部分的流动性被抽走之后，
+[Speaker 1]: 然后市场一旦下跌之后，
+[Speaker 1]: 你会发现很多的这些热门股下来的幅度会非常的大。
+[Speaker 1]: 呃，
+[Speaker 1]: 举个例子，
+[Speaker 1]: 比如说今天下跌了百分之十几，
+[Speaker 1]: 然后盘后又下跌的那个 iron，
+[Speaker 1]: 那么那个 IREN 呃，
+[Speaker 1]: 从最高点到现在回调百分之五十以上了。
+[Speaker 1]: 所以呃这这些标的身上，
+[Speaker 1]: 你比如说仓位比较重的话，
+[Speaker 1]: 那呃确实会比较的难受。
+[Speaker 1]: 而这一类标的，
+[Speaker 1]: 包括像前段时间走的比较好的 lemonade rocket lab，
+[Speaker 1]: 那这段时间回调的幅度都比较的大，
+[Speaker 1]: 几乎是你都看不到呃市场的一个平衡点在哪。
+[Speaker 1]: 所以在嗯其其实其实还是回到嘛，
+[Speaker 1]: 就盈辉同源嘛。
+[Speaker 1]: 那在嗯建那个市场下和上一年去四月份去做对比的话，
+[Speaker 1]: 其实差挺多的。
+[Speaker 1]: 但是你如果回过头去看那上一年，
+[Speaker 1]: 四月二日那一天吧，
+[Speaker 1]: 四月七日、
+[Speaker 1]: 四月八日那一天呃，
+[Speaker 1]: 我记得那天周日吧，
+[Speaker 1]: 我就在做直播的时候，
+[Speaker 1]: 我有聊过说这一波这种下跌的方式，
+[Speaker 1]: 我们应该去珍惜。
+[Speaker 1]: 你可能半年之后，
+[Speaker 1]: 你可能都会忘了这段时间的一个下跌。
+[Speaker 1]: 结果。
+[Speaker 1]: 三个月不到之后，
+[Speaker 1]: 大家就忘了四月份的一个下跌了，
+[Speaker 1]: 所以市场就是这样的。
+[Speaker 1]: 因为毕竟呃下跌是牵涉到自己的账户，
+[Speaker 1]: 我们可以接受上涨，
+[Speaker 1]: 很多人没办法接受下跌。
+[Speaker 1]: 那而且下跌毕竟是你看着自己账户的一个浮亏或者下跌啊，
+[Speaker 1]: 没办法接受，
+[Speaker 1]: 所以心态会非常的难受。
+[Speaker 1]: 那本身市场下跌是市场里面的一部分，
+[Speaker 1]: 所以我们必须要接受你能够接受。
+[Speaker 1]: 在过去三年，
+[Speaker 1]: 那么好的一个市场难道不能接受？
+[Speaker 1]: 就这两天市场这种下跌嘛，
+[Speaker 1]: 对吧？
+[Speaker 1]: 但是长期来说，
+[Speaker 1]: 在市场里边呃，
+[Speaker 1]: 因为我们不是投资一年，
+[Speaker 1]: 投资两年，
+[Speaker 1]: 投资一个月半个月，
+[Speaker 1]: 不是这样的那不，
+[Speaker 1]: 你不是我们不是要在短时间之内把自己的呃资产或者投资去最大化，
+[Speaker 1]: 而是一个长期持久的在市场里边。
+[Speaker 1]: 我其实聊过很多次，
+[Speaker 1]: 就是一个呃可复制的一个成功策略。
+[Speaker 1]: 对于我们每个人来说，
+[Speaker 1]: 可复制的一个成成功策略，
+[Speaker 1]: 这是最重要的。
+[Speaker 1]: 因为在市场里面活的久，
+[Speaker 1]: 比你短时间之内翻一倍翻两倍，
+[Speaker 1]: 要要要要要要要重要的多。
+[Speaker 1]: 那我记得在上一次直播的时候，
+[Speaker 1]: 有一位观众问的问题，
+[Speaker 1]: 他说哎你是你从这短时间之内，
+[Speaker 1]: 一年之内你可以翻五倍，
+[Speaker 1]: 好厉害啊。
+[Speaker 1]: 那比起那些五年之内翻了两倍的人，
+[Speaker 1]: 要厉害很多。
+[Speaker 1]: 我说你恰恰说反了，
+[Speaker 1]: 你要五年之内你能够稳定的翻两倍，
+[Speaker 1]: 远远比你在几个月之内翻一倍翻两倍，
+[Speaker 1]: 要来的难的多得多。
+[Speaker 1]: 所以呃啊这是前面一些也聊的一些有的没的。
+[Speaker 1]: 然后正好现在也八点了后，
+[Speaker 1]: 我就直接开始还是老样子，
+[Speaker 1]: 为大家准备了一些内容啊。
+[Speaker 1]: 我在上期昨天做直播的时候，
+[Speaker 1]: 正好聊到我说 AI 的一些落地。
+[Speaker 1]: 我在十一月份去美西做线下的时候，
+[Speaker 1]: 其实有准备了很多关于 AI 的一些落地。
+[Speaker 1]: 我说我忘了有没有在视频里面和大家分享过呢？
+[Speaker 1]: 今天正好拿出来，
+[Speaker 1]: 然后我今天又挑了，
+[Speaker 1]: 我在做二六年做展望的时候，
+[Speaker 1]: 那一页聊出来和大家去回顾。
+[Speaker 1]: 也其实也就是一个多月之前，
+[Speaker 1]: 大家可能都忘了，
+[Speaker 1]: 所以正好去呃回顾一下上年十一一月份我做的哎关于 AI 的一些落地。
+[Speaker 1]: 然后今年一月份嗯关于二六年的这个展望 OK 行，
+[Speaker 1]: 呃，
+[Speaker 1]: 先来哎怎么留在这一页，
+[Speaker 1]: 先来看一下市场，
+[Speaker 1]: 然后呃还是先回顾一下整个周四吧市场的一个走势。
+[Speaker 1]: 呃，
+[Speaker 1]: 好消息是今天下跌，
+[Speaker 1]: 然后呃呃坏消息今天下跌嘛。
+[Speaker 1]: 好消息是这一周最多只能再下跌一天，
+[Speaker 1]: 那么明天就下跌一天，
+[Speaker 1]: 我们这一周就关闭了。
+[Speaker 1]: 呃，
+[Speaker 1]: 所谓今天的一个市场，
+[Speaker 1]: 美元指数出现了上涨，
+[Speaker 1]: 美债收率出现了下跌，
+[Speaker 1]: 下跌的幅度比较大。
+[Speaker 1]: 那是不是和今天的呃早上的一些宏观数据有关的，
+[Speaker 1]: 我稍后有宏观数据和大家分享一下。
+[Speaker 1]: 呃，
+[Speaker 1]: 你可以说它非常的有关，
+[Speaker 1]: 你也可以理解为今天的市场下跌，
+[Speaker 1]: 是因为宏观数据可能不是那么的好，
+[Speaker 1]: 所以导致下跌。
+[Speaker 1]: 呃，
+[Speaker 1]: 可以这么去理解吧。
+[Speaker 1]: 但是我我我我个人认为呃，
+[Speaker 1]: 更多的还是最近这段时间市场交易的逻辑性，
+[Speaker 1]: 对于软件板块的一个下跌。
+[Speaker 1]: 那么包括比特币的下跌啊，
+[Speaker 1]: 包括比特币的下跌。
+[Speaker 1]: 然后包括啊前段时间特别是一月份走的非常好的这些标的，
+[Speaker 1]: 基本上一月份做的非常好的标的。
+[Speaker 1]: 最近这段时间都会回调。
+[Speaker 1]: 你无论再强的 MU 也下跌，
+[Speaker 1]: 三 DS 也下跌，
+[Speaker 1]: 那么 rocket leb 里全部下跌，
+[Speaker 1]: 所以没有没有呃，
+[Speaker 1]: 不存在呃，
+[Speaker 1]: 特别是就基本基本上一月份涨的比较多的，
+[Speaker 1]: 然后这两天就会跌的比较多一点。
+[Speaker 1]: 整个市场里边把短期之内嘛把呃情绪面推到了一个极致之后，
+[Speaker 1]: 那就会比较容易出现反转。
+[Speaker 1]: 呃，
+[Speaker 1]: 三大指数这边今天下跌的幅度，
+[Speaker 1]: 今天和昨天有一点不一样的。
+[Speaker 1]: 是昨天如果还是一个轮动的话，
+[Speaker 1]: 今天有轮动，
+[Speaker 1]: 但是今天的轮动和昨天明比起来的话，
+[Speaker 1]: 明显是不足的。
+[Speaker 1]: 今天下跌是比较全面的，
+[Speaker 1]: 这种下跌呃，
+[Speaker 1]: 标普纳指和大物指都下跌。
+[Speaker 1]: 道指今天也下跌了一点二，
+[Speaker 1]: 然后呃当然道指的一点，
+[Speaker 1]: 二和今天啊，
+[Speaker 1]: 微软的下跌也存在也也也存在一定的一个关系。
+[Speaker 1]: 所以标普下跌，
+[Speaker 1]: 纳指下跌，
+[Speaker 1]: 道置下跌，
+[Speaker 1]: 黄金今天也继续下跌呃，
+[Speaker 1]: 黄金的下跌。
+[Speaker 1]: 然后昨天我稍微聊过一些，
+[Speaker 1]: 对吧？
+[Speaker 1]: 我个人没有黄金的做对和做空，
+[Speaker 1]: 但是我个人可能开始更加偏向于黄金，
+[Speaker 1]: 会继续的回调。
+[Speaker 1]: 有，
+[Speaker 1]: 前段时间你要再去破新高，
+[Speaker 1]: 呃，
+[Speaker 1]: 需要这个动能要跨过在啊前段时间那么大的一个动能包，
+[Speaker 1]: 包括短时间之内基本上处于这种大空的这种走势比较难。
+[Speaker 1]: 就如果空头没有那么多空头在那边的话，
+[Speaker 1]: 你要再继续往上大空去破新高会比较的难一些。
+[Speaker 1]: 啊，
+[Speaker 1]: 原油今天出现了回调啊，
+[Speaker 1]: 这一点还相对会好一些。
+[Speaker 1]: 我在昨天视频里面有聊到一月份，
+[Speaker 1]: 到现在原油其实涨得非常的不错啊。
+[Speaker 1]: 你可能到三四个月之后呢，
+[Speaker 1]: 可能要稍微注意一下它对于通胀的一些影响啊，
+[Speaker 1]: 通胀传递上的一些影响。
+[Speaker 1]: 但是总体来说，
+[Speaker 1]: 我并不认为今年对于美股来说，
+[Speaker 1]: 通胀会是一个很大的一些影响啊，
+[Speaker 1]: 当然也可以理解为是能源板块 YTD 毕竟走的比较的好，
+[Speaker 1]: 所以出现一定程度的回调也合理。
+[Speaker 1]:  VX 今天出现的比较大幅度的上涨百分之十七，
+[Speaker 1]: 然后来到了二十二，
+[Speaker 1]: 罗素两千也下跌。
+[Speaker 1]: 然后我就不聊了，
+[Speaker 1]: 罗素两千里面那些成分果汁机下跌，
+[Speaker 1]: 然后导致罗素也下跌。
+[Speaker 1]: 那把 YTD 我记得 YTD 最多罗素相当于百分之十吧，
+[Speaker 1]: 对吧？
+[Speaker 1]: 那现在 YTD 还是上涨的，
+[Speaker 1]: 上涨了百分之四，
+[Speaker 1]: 还是所百分上所有指数里面走的最好的。
+[Speaker 1]: 但是已经擦掉了百分之六，
+[Speaker 1]: 就在几天之内嘛，
+[Speaker 1]: 擦掉了百分之六。
+[Speaker 1]: 比特币今天下跌的非常多啊，
+[Speaker 1]: 我不知道现在多少，
+[Speaker 1]: 我我录视频之前的话最低到六万，
+[Speaker 1]: 然后现在有些反弹。
+[Speaker 1]: 嗯，
+[Speaker 1]: 板块这边就是你防守属性比较强，
+[Speaker 1]: 今天芯片还是比较强一些。
+[Speaker 1]: 然后但是一般防守属性比较强的必须品，
+[Speaker 1]: 消费今天比较强，
+[Speaker 1]: 公共事业对吧？
+[Speaker 1]: 今天比较强，
+[Speaker 1]:  rese 相对会强一些，
+[Speaker 1]: 医疗板块今天也下跌。
+[Speaker 1]: 因为今天啊业内内雪下，
+[Speaker 1]: 但医疗板块因为在发财报季度嘛，
+[Speaker 1]: 所以受到财报季度的一些影响，
+[Speaker 1]: 波动会相对会大一些。
+[Speaker 1]: 保险板块今天出现了反弹，
+[Speaker 1]: 相对价值板块今天也没有表现出和昨天一样的轮动。
+[Speaker 1]: 那么价值板块今天也是下跌零点八，
+[Speaker 1]: 成长板块下跌会多一点，
+[Speaker 1]: 那主要是和大科技和科技股相关。
+[Speaker 1]:  YTD 到现在为止，
+[Speaker 1]: 价值股的板块罗素 ETA 罗素一千的 ETF 呃，
+[Speaker 1]: 和罗素成长的这个 ETF 去做对比的话，
+[Speaker 1]: 呃，
+[Speaker 1]: 涨幅和跌幅的这个差距比起昨天的话更加延续昨天我记得百分之十。
+[Speaker 1]: 那么今天两者之间的这个差距，
+[Speaker 1]: 因为今天成长跌的会会更多一点嘛，
+[Speaker 1]: 两者之间的差距拉大拉大到了百分之十一。
+[Speaker 1]: 这种短期之内这种走势，
+[Speaker 1]: 这一个月 YTD 一个月多一点，
+[Speaker 1]: 然后拉开了非常多一个涨幅。
+[Speaker 1]: 呃，
+[Speaker 1]: 短期之内是一定会出现这种回调的，
+[Speaker 1]: 就是一定会出现开之后，
+[Speaker 1]: 然后出现一定程度的一个回调，
+[Speaker 1]: 对吧？
+[Speaker 1]: 是不会是不是会继续拉开，
+[Speaker 1]: 就取决于这个故事性会不会延续。
+[Speaker 1]: 我个人可能更加偏向于啊短期之内会有一个就现在 gap 比较大嘛，
+[Speaker 1]: 短短之内内会有个概会收缩一些啊，
+[Speaker 1]: 但是可能还会有一个呃 gap 一个扩张。
+[Speaker 1]: 就是我昨天视频里面和大家分享嘛，
+[Speaker 1]: 这两个指数之间的这个比例出现一个背离，
+[Speaker 1]: 可能会是呃这一波调整的一个结束。
+[Speaker 1]: 嗯，
+[Speaker 1]: 呃宏观数据我稍微过一下。
+[Speaker 1]: 因为如果大家对于宏观数据呃有一些担心的话，
+[Speaker 1]: 呃，
+[Speaker 1]: 一定要去就你从结果去出发去套这些数据的话，
+[Speaker 1]: 呃，
+[Speaker 1]:  jobless clein 啊，
+[Speaker 1]: 失业率的这个失业人数的这个申请啊，
+[Speaker 1]: 周申请嘛。
+[Speaker 1]: 然后这一组数据是比市场预期要高，
+[Speaker 1]: 市场预期期是二十一点二，
+[Speaker 1]: 最后的数据是二十三点一万，
+[Speaker 1]: 是不是劳动力市场非常的差，
+[Speaker 1]: 即使对吧？
+[Speaker 1]: 我嗯我大家就看我视频啊，
+[Speaker 1]: 或者看我直播比较久的，
+[Speaker 1]: 应该知道。
+[Speaker 1]: 就即使呃我举个例子子比比我，
+[Speaker 1]: 我认为劳动力市场今年会走的比较的差，
+[Speaker 1]: 就会比市场预期要差。
+[Speaker 1]: 但是我也并不认为今天的这组数据是在我的预期之内，
+[Speaker 1]: 或者这组数据就是呃就是体现了我自己的一个判断是正确还是怎么样。
+[Speaker 1]: 我并不认为因为 initial job 看这组数据本身，
+[Speaker 1]: 它的波动非它的波动很小，
+[Speaker 1]: 而且它一周和一周之间的这个波动很大。
+[Speaker 1]: 而且这组数据本身呃，
+[Speaker 1]: 因为它数据背后调查的这一个 coverage 比以前会少很多。
+[Speaker 1]: 所以这组数据早就已经失去了一个呃呃用来去衡量劳动力市场的一组数据本身。
+[Speaker 1]: 我说过很多次了，
+[Speaker 1]: 只是每一次我我想强调一下，
+[Speaker 1]: 你会看你会发现啊，
+[Speaker 1]: 这一这一周的数据非常的差，
+[Speaker 1]: 可能下一周的数据又变得比较的好。
+[Speaker 1]: 那当然每周四公布嘛，
+[Speaker 1]: 所以 jobless time 啊的确比市场预期的二十一点二万要高了不少，
+[Speaker 1]: 要高了将近二十万。
+[Speaker 1]: 但是我并不认为这组数据就代到了劳动力市场非常的差。
+[Speaker 1]: 相反，
+[Speaker 1]: 下面那组数据呃，
+[Speaker 1]:  opening jocing next 这一组数据体现我们现在看的是十二六月份嘛，
+[Speaker 1]: 这一组数据比上一期少了很多。
+[Speaker 1]: 当然可能呃某种程度我不知道是不是因为和政府关门，
+[Speaker 1]: 但是他更多的是衡量一些企业，
+[Speaker 1]: 让政府的一些工作也在里边竟 jonenext 就业上的空缺职位，
+[Speaker 1]: 市场预期七百二十五万。
+[Speaker 1]: 最后的这组数据六百四十二万，
+[Speaker 1]: 且十一月份的数据也下休，
+[Speaker 1]: 就代表整个劳动力市场里面的空缺职位是比我们所看到的这个数据要低。
+[Speaker 1]: 这一组数据是一个比较好的衡量指标。
+[Speaker 1]: 在二二年的时候，
+[Speaker 1]: 美联储把基本上把这一组数据啊，
+[Speaker 1]: 结合其他这些劳动力上的指标当做是衡量劳动力市场里边好还是坏火热，
+[Speaker 1]: 还是冷却的一个非常非常重要的一个指标之一。
+[Speaker 1]: 那所以 joicy dex 这组指这这组指标是可以去衡量的那包括呃和 josing nex opening 这组数据比较匹配的。
+[Speaker 1]:  opening rate 啊上一个月是四点三，
+[Speaker 1]: 这个月啪一下子下跌到了四点三点九。
+[Speaker 1]: 我个人就我为什么认为劳动力上会更差？
+[Speaker 1]: 是因为呃会比其会比市场的预期要差，
+[Speaker 1]: 甚至比美联储预测的这个失业率差。
+[Speaker 1]: 是要因为你主要我们现在这段时间看到的失业率的一个上涨，
+[Speaker 1]: 是因很大一部分是因包括上行的。
+[Speaker 1]: 下半年很大一部分是因为呃川普上位之后，
+[Speaker 1]: 很多的我们的 deportation，
+[Speaker 1]: 对把很多的一些呃人从整个劳动力市场给给给给给给给很大一部分人给从劳动力市场给抽走，
+[Speaker 1]: 然然后给给把那一部分人给抽走。
+[Speaker 1]: 之后呃有一种人为性的导致呃，
+[Speaker 1]: 使得劳动力市场这块失业率开始出现一部分的一些上涨，
+[Speaker 1]: 包括一些公众的一个缺失。
+[Speaker 1]: 啊，
+[Speaker 1]: 这就等于是把呃二二年和二三年的这个政策给拉反了。
+[Speaker 1]: 那么二二年二三年就把整个劳动力市场非常的火热，
+[Speaker 1]: 然后弄了很多的一些非法移民进来。
+[Speaker 1]: 那啊现在是反过来，
+[Speaker 1]: 就政这个政策是反过来，
+[Speaker 1]: 所以使得一部分的呃劳动力市场出现一定程度里在变糟糕。
+[Speaker 1]: 但是接下去我认为今年可能会比较的明显是体现在真正体现在。
+[Speaker 1]: 你记不记得呃，
+[Speaker 1]: 我们少年的一个一个总结，
+[Speaker 1]: 就是 low hiring 呃，
+[Speaker 1]:  low firiring 对吧？
+[Speaker 1]: 就是招人非常的慢，
+[Speaker 1]: 然后裁员也非常的慢。
+[Speaker 1]: 今年我认为的我个人看法对劳动上的看法是仍然是 low hiring。
+[Speaker 1]: 但是呃可能是 fast hiring。
+[Speaker 1]: 嗯，
+[Speaker 0]: 对，
+[Speaker 1]: 因为随着 AI，
+[Speaker 1]: 我我因为随随着 a 的这个落落地，
+[Speaker 1]: 从从现大科技身上已经体现到一部分分了。
+[Speaker 1]: 大科技现在比如说亚马逊不断的在裁员。
+[Speaker 1]: 如果说我的看法，
+[Speaker 1]: 就如果说大科技的这一个裁员啊，
+[Speaker 1]: 就很多在大科技身上我们都看裁裁员的话，
+[Speaker 1]: 那 AI 在于很多公司上效率的这个体现，
+[Speaker 1]: 对于传统的行业来说，
+[Speaker 1]: 可能这个影响会更大。
+[Speaker 1]: 嗯，
+[Speaker 1]: 呃原本如果上一年我个人的看法可能更加偏向于，
+[Speaker 1]: 因为 AI 确实会呃有很多。
+[Speaker 1]: 就我们经常在聊的呢，
+[Speaker 1]: 包括呃如果你去问呃川普团队里面的一些人，
+[Speaker 1]: 大家都大家统一的一个看法。
+[Speaker 1]: 就是 AI 会有很多的一些初创公司起来之后，
+[Speaker 1]: 会造成很多一些新的一些呃呃企业和就业呢。
+[Speaker 1]: 无论是呃老黄也好，
+[Speaker 1]: 老马也好，
+[Speaker 1]: 基本上都持有类似这个观点。
+[Speaker 1]: 但呃二二五二四年，
+[Speaker 1]: 我可能二五年我可能也偏向于这样的观点。
+[Speaker 1]: 但是今年我可能更加偏向，
+[Speaker 1]: 于是我还是认同这个观点。
+[Speaker 1]: 但是呃 AI 的这些初创公司对于呃新的这些工种的一个需求和 AI，
+[Speaker 1]: 对于传统企业，
+[Speaker 1]: 包括现在科技公司效率上的这个抬升所造成这个裁员中间可能会有一个时间差。
+[Speaker 1]: 这一个时间差可能我们先看到裁员，
+[Speaker 1]: 然后再看到招人，
+[Speaker 1]: 然后再看到如以后春笋般的这些 AI 的初创公司起来之后，
+[Speaker 1]: 对于人才的这个渴望，
+[Speaker 1]: 包括人才的这个裁型，
+[Speaker 1]: 呃，
+[Speaker 1]: 也需要一定的也需要一定的一个时间。
+[Speaker 1]: 我今天在看三面 m 这篇文章的时候，
+[Speaker 1]: 他有聊到哪家公司呀？
+[Speaker 1]:  cisco 我忘了哪家公司，
+[Speaker 1]: 他聊到哪一家公司，
+[Speaker 1]: 他说是一家科技公司。
+[Speaker 1]: 呃，
+[Speaker 1]: 不是大科技，
+[Speaker 1]: 是一家比较大的一些一家科技公司。
+[Speaker 1]: 然后他们呃让三万员工去进行呃呃呃去进行 f ropic cloud 这个培训。
+[Speaker 1]: 就是对于自己员工的这个培训啊，
+[Speaker 1]: 接下去然后用呃他们已经看，
+[Speaker 1]: 就公司本身管理层已经看到了呃 AI 这一块能够给传统业务这一块的一个能够给现有的员工嘛所带来的这个赋能。
+[Speaker 1]: 所以嗯我觉得接下去两年真正 ai 的落地，
+[Speaker 1]: 包括应用的这个落地啊，
+[Speaker 1]: 无论是对于就业也好，
+[Speaker 1]: 对于行业也好，
+[Speaker 1]: 我觉得影响会更大。
+[Speaker 1]: 啊，
+[Speaker 1]: 我们可能在过去，
+[Speaker 1]: 从如果从二三年的一月份 GPT 面试是一个元年的话，
+[Speaker 1]: 到现在三年的时间，
+[Speaker 1]: 我认为接下去可能会加速。
+[Speaker 1]: 真正的 AI 的落地，
+[Speaker 1]: 对于整个行业的影响，
+[Speaker 1]: 包括对于传统企业的一些影响会加速。
+[Speaker 1]: 好吧，
+[Speaker 1]: 我可能扯远了，
+[Speaker 1]: 但是呃呃可能比较长的一个方式去去解释一下。
+[Speaker 1]: 为什么我认为今年的劳动时效可能比线上预期要更加的糟糕？
+[Speaker 1]: 呃，
+[Speaker 1]: 就当然了呃，
+[Speaker 1]: 可能呃，
+[Speaker 1]: 利率的这个下跌啊和 josing dex 可能是相关的呢，
+[Speaker 1]: 我认为可能不大和呃呃呃 job less plan 那组是因为那组数据其实参考的意义并不大。
+[Speaker 1]: 我在昨天和一位朋友在交流的时候，
+[Speaker 1]: 他有说到。
+[Speaker 1]: 因为我知道他比较大的一个仓位是在 rocklab 上。
+[Speaker 1]: 但是我昨天我和他交流的时候，
+[Speaker 1]: 我说呃这些标的本身他的，
+[Speaker 1]: 因为它本身它波动会非常的大当这些标的。
+[Speaker 1]: 昨天我发了一条推论，
+[Speaker 1]: 我说呃昨天市场的这个走势让我的感觉是二零二五年的三月份和四月份和二零二一年的十一月份。
+[Speaker 1]: 当市场对于这些高估值的标的或者没有营收的这些标的没有盈利，
+[Speaker 1]: 没有没有不是没有营收就没有盈利的。
+[Speaker 1]: 这些标的在杀估值的时候，
+[Speaker 1]: 你是找不到底的。
+[Speaker 1]: 因为你不知道市场的一个平衡点在哪。
+[Speaker 1]: 而且我们在投这这公司的的时候，
+[Speaker 1]: 除非就我们对于这些公司长期真的非常的看好。
+[Speaker 1]: 但是即使在非常看好的情况下，
+[Speaker 1]: 如果仓位真的非常的大。
+[Speaker 1]: 比如说因为一天这一类个股的一些标的的一些波动，
+[Speaker 1]: 然后导致你整体的仓位可以跌个百分之十、
+[Speaker 1]: 百分之二十，
+[Speaker 1]: 我认为这是不可以接受的。
+[Speaker 1]: 那么在我的视角里面，
+[Speaker 1]: 我认为这是不可以接受的。
+[Speaker 1]: 所以我那天我昨天呃呃呃在我们直播之后嘛，
+[Speaker 1]: 就和他他聊的时候，
+[Speaker 1]: 我说对于这些仓位身上的话，
+[Speaker 1]: 你应该去做一些止盈。
+[Speaker 1]: 因为它是赚钱的嘛，
+[Speaker 1]: 应该去做一些止盈。
+[Speaker 1]: 就特别在这些标的，
+[Speaker 1]: 一旦跌出一些比较关键的一些技术点位的时候，
+[Speaker 1]: 你去做一些移动止盈，
+[Speaker 1]: 我认为是非常有必要的通过仓位去控制这个风险。
+[Speaker 1]: 我强调过很多次的问题，
+[Speaker 1]: 很多标的你可以长期看好，
+[Speaker 1]: 但是一定要通过仓位去控制这个风险，
+[Speaker 1]: 不能让这个仓位本身跌个百分之四十，
+[Speaker 1]: 跌个百分之五十，
+[Speaker 1]: 对你整体的仓位造成非常大的一些影响。
+[Speaker 1]: 所以这些仓的身上你可以保留你的仓位。
+[Speaker 1]: 在里边，
+[Speaker 1]: 但是如果本身仓位非常大的话，
+[Speaker 1]: 要去控制一下。
+[Speaker 1]: 那他和我说，
+[Speaker 1]: 他说的确他在前段时间其实 rock 来在上上涨的时候，
+[Speaker 1]: 然后可能接触到八十九十多的时候，
+[Speaker 1]: 他就已经在慢慢减仓了。
+[Speaker 1]: 虽然减仓完之后，
+[Speaker 1]: 但是还有不少的一些仓位，
+[Speaker 1]: 所以呃也受到影响。
+[Speaker 1]: 那没有关系，
+[Speaker 1]: 起码减仓。
+[Speaker 1]: 我认为就是一个非常已经是一个非常好的一个行为。
+[Speaker 1]: 那他也说到，
+[Speaker 1]: 他说在昨天的话，
+[Speaker 1]: 那智也已经跌出了啊这一个上升的一个区，
+[Speaker 1]: 这上升的这个通道，
+[Speaker 1]: 包括呃我这边画了两条线嘛，
+[Speaker 1]: 上啊就比较窄的一个收缩的一个区间。
+[Speaker 1]: 里面跌触了之后，
+[Speaker 1]: 他也做出了一些仓位上的一些调整，
+[Speaker 1]: 我认为是正确的。
+[Speaker 1]: 嗯，
+[Speaker 1]: 我认为很好，
+[Speaker 1]: 但是我这边其实想聊的是什么？
+[Speaker 1]: 呃，
+[Speaker 1]: 像市场下跌的时候，
+[Speaker 1]: 大家可能通常会去看很多的一些社交媒体啊、
+[Speaker 1]: 自媒体啊，
+[Speaker 1]: 可能我我的一些看法对于大家来说也只是一个呃观察点或者参考点嘛。
+[Speaker 1]: 没有关系，
+[Speaker 1]: 我认为都可以。
+[Speaker 1]: 我也建议大家去多看看，
+[Speaker 1]: 包括技术啊，
+[Speaker 1]: 聊技术的聊宏观的聊基本面，
+[Speaker 1]: 我都建议大家去看看。
+[Speaker 1]: 但是我认为你看多了之后，
+[Speaker 1]: 我会发现一个问题，
+[Speaker 1]: 就是呃对于我来说意味着什么？
+[Speaker 1]: 那怎么去回答这个问题对于我们来说意味着什么？
+[Speaker 1]: 就是我认为最终的是我们每一个人在做操作的时候，
+[Speaker 1]: 一定要知道我们在所有操作或在所有的一个判断逻辑里，
+[Speaker 1]: 到底什么是核心的逻辑。
+[Speaker 1]: 我其实我觉得像正好像今天这种市场的一个回调啊，
+[Speaker 1]: 包括我的比特币啊，
+[Speaker 1]: 像借这种市场的回调，
+[Speaker 1]: 我认为是很好的一个时间点去思考，
+[Speaker 1]: 把这个问题给思考清楚。
+[Speaker 1]: 我的意思呃，
+[Speaker 1]: 我什么意思？
+[Speaker 1]: 就是以前我和大家分享过，
+[Speaker 1]: 在我自己所有的判断逻辑里边，
+[Speaker 1]: 呃，
+[Speaker 1]: 虽然平时我在没有财报记录的时候，
+[Speaker 1]: 我聊宏观会聊的比较多一点。
+[Speaker 1]: 但是在我所有的判断逻辑里边，
+[Speaker 1]: 最主要的判断逻辑永远是基本面，
+[Speaker 1]: 永远是从下到上的。
+[Speaker 1]: 我不会。
+[Speaker 1]: 因为我从技术面认为这个标的，
+[Speaker 1]: 或者我从宏观认为接下去宏观要变得更差。
+[Speaker 1]: 但是我从基本面看到了机会，
+[Speaker 1]: 而我不去做操作，
+[Speaker 1]: 而我不去进行买入。
+[Speaker 1]: 这就是当如果两个不同逻辑层面，
+[Speaker 1]: 对于我们刚来说，
+[Speaker 1]: 你什么东西更加的重要，
+[Speaker 1]: 我们自己去衡量什么。
+[Speaker 1]: 所以我说对于我个人来说，
+[Speaker 1]: 基本面永远是摆在第一位，
+[Speaker 1]: 永远是更加重要的一个指标的话。
+[Speaker 1]: 那如果当技术面基本面和宏观出现这一个不同的一些信号，
+[Speaker 1]: 比如说我对于宏观可能有些担心。
+[Speaker 1]: 但是我对于基本面，
+[Speaker 1]: 我认为现在是一个买入点的话，
+[Speaker 1]: 那我会依照一个更加重要的逻辑，
+[Speaker 1]: 呃，
+[Speaker 1]: 没有一个呃一定正确的一个逻辑或者判断的一个标准。
+[Speaker 1]: 这是随随着，
+[Speaker 1]: 这是取决于我们自己呃呃，
+[Speaker 1]: 认知也好，
+[Speaker 1]: 经验也好，
+[Speaker 1]: 或者我们自己的判断也好，
+[Speaker 1]: 要自己要把这个逻辑性给理清楚。
+[Speaker 1]: 那么到底是基本面重要？
+[Speaker 1]: 宏观比较重要，
+[Speaker 1]: 还是技术面比较的重要？
+[Speaker 1]: 当然很多时候如果我们可以找到一一些共振的话，
+[Speaker 1]: 那 perfect 那那那那非常的好。
+[Speaker 1]: 所以其实我们这一点是希望我们每个人可以思考清楚这一个问题。
+[Speaker 1]: 那其实也和啊，
+[Speaker 1]: 我拿这张图出来讲是一样的。
+[Speaker 1]: 这个道理就是你在基本面上你可以看好这个标高。
+[Speaker 1]: 但是你通过技术术，
+[Speaker 1]: 如果跌过一定点位的话，
+[Speaker 1]: 你通过仓位去控制这个风险是没有问题的这是一个非常好的拿基本面和基啊技术面和基本面的一个结合。
+[Speaker 1]: 那么你基本面仍然看好这家公司的一个标的。
+[Speaker 1]: 但是你技术面的话去做出一定程度的一个止盈，
+[Speaker 1]: 通过仓位去控制。
+[Speaker 1]: 对于整体投资组合的这个风险是一个比较好的一个结合你的呃另外一些角度，
+[Speaker 1]: 比如说市场的一些参与度，
+[Speaker 1]: 这也是一个比较好的一些角度。
+[Speaker 1]: 那这条线啊这个是纳指二十均线的参与度。
+[Speaker 1]: 昨天和大家分享过，
+[Speaker 1]: 昨天收盘在三十三三十五吧，
+[Speaker 1]: 好像记得。
+[Speaker 1]: 然后今天的收盘是在三十，
+[Speaker 1]: 三十，
+[Speaker 1]: 就基本上跌到了上年年底的这个水平。
+[Speaker 1]: 就是呃然后和上年的十一月份还是有一点差距，
+[Speaker 1]: 上年十一月份在二十一二十二左右吧。
+[Speaker 1]: 所以这也是一个我们可以去参考的短期之内的这个指标。
+[Speaker 1]: 我们如果短期之内这个指标和宏观的这个指标，
+[Speaker 1]: 然后和你基本的这个指标全部来。
+[Speaker 1]: 那那对于你来说，
+[Speaker 1]: 你不同的逻辑层面出现了一个共振。
+[Speaker 1]: 那对你来说你是应该是无脑买入的对吧？
+[Speaker 1]: 呃，
+[Speaker 1]: 这就是另外一个角度。
+[Speaker 1]: 这张图是呃微软微软它的一个估值。
+[Speaker 1]: 呃，
+[Speaker 1]: 经过这段时间的一个下跌，
+[Speaker 1]: 微软如果我们看向前看的这个 PE 的话，
+[Speaker 1]: 现在已经来到了二十一点七五倍什么概念？
+[Speaker 1]: 呃，
+[Speaker 1]: 首先已经跌破了上年四月份的这个估值了。
+[Speaker 1]: 其次呃基本上要来到了二零二二年底吧。
+[Speaker 1]: 当时二零二二年底的时候，
+[Speaker 1]: 微软其实二零二二年微软是相对强势。
+[Speaker 1]: 你可以去看所有大科技里面，
+[Speaker 1]: 二零二二年微软是最强势的一家公司。
+[Speaker 1]: 二零二二年微软当时的一个估值是在二十一倍左右，
+[Speaker 1]: 然后现在是在二十一点七五倍。
+[Speaker 1]: 那么再往前去推的话，
+[Speaker 1]: 就要到二零二零年。
+[Speaker 1]: 二零二零年当时的一个微软的一个估值，
+[Speaker 1]: 也就是跌到了比现在还高一点，
+[Speaker 1]: 可能是二十二倍左右。
+[Speaker 1]: 这是向前看的货皮。
+[Speaker 1]: 再往前去看，
+[Speaker 1]: 就是二零一八年二零一八年底什么时候，
+[Speaker 1]: 就是那一段时间啊，
+[Speaker 1]: 圣诞节那那段时间十二月份圣诞节的那个下跌啊，
+[Speaker 1]: 川普当时大家不知道，
+[Speaker 1]: 当大家如果当时在市场里面，
+[Speaker 1]: 我像还记得当时就是呃呃美联储一定要去纠结加最后去加息二十五个基点，
+[Speaker 1]: 然后市场十二月份的那一波杀跌。
+[Speaker 1]: 然后呃八当时也是川普的第一任嘛，
+[Speaker 1]: 川普逼着八五二去降息。
+[Speaker 1]: 然后一九年的时候，
+[Speaker 1]: 八五二选择降息，
+[Speaker 1]: 然后典型的一个八五二的一个片尾，
+[Speaker 1]: 当时就是当时的一些背景。
+[Speaker 1]: 但当时一八年底的时候，
+[Speaker 1]: 市场是跌的比较厉害，
+[Speaker 1]: 特别是圣诞节那个那一周跌的非常厉害，
+[Speaker 1]: 很夸张。
+[Speaker 1]: 但之后二一年花了半年的时间，
+[Speaker 1]: 就基本上把呃一八年年底的那一波跌幅又全部涨回去了。
+[Speaker 1]: 啊，
+[Speaker 1]: 所以从估值这个角度去看，
+[Speaker 1]: 微软现在已经在一个非常低的一个位置啊，
+[Speaker 1]: 那未来有没有风险？
+[Speaker 1]: 你可以认为呃，
+[Speaker 1]: 今天比如说像今天我看了那个三面 MS 这篇文章说到现在是第二个 GPP，
+[Speaker 1]: 这个个 en 什么意思？
+[Speaker 1]: 他说，
+[Speaker 1]:  eneropic 一个 cloud，
+[Speaker 1]: 因因为 cloud 破破了整论是整编编程的个护护河吧。
+[Speaker 1]: 就基本上我们把大原类模型想象成无论是 open AI 也好，
+[Speaker 1]:  cloud 也好，
+[Speaker 1]: 你把它想象成是一个呃 token token。
+[Speaker 1]: 对于很多公司来说，
+[Speaker 1]: 对于最终的这个落地来说它不重要。
+[Speaker 1]: 呃，
+[Speaker 1]: 重要的是你到底以什么样的一个形式去落地，
+[Speaker 1]: 什么意思？
+[Speaker 1]: 就是他你把现在 enthropic 他们推出来的这一个呃呃 oppo 四点五嘛，
+[Speaker 1]:  cloud open 四点五。
+[Speaker 1]: 你把它想象成是一个 agent，
+[Speaker 1]: 它就是一个帮助你去完成编程的一个 agent。
+[Speaker 1]: 那以后所有的 AI 的一个应用落地。
+[Speaker 1]: 因为你想这个 AI 这个呃帮你编程的这个 agent，
+[Speaker 1]: 它破坏了什么市场？
+[Speaker 1]: 它破坏了就是整个软件工程师全球软件工程师这个市场。
+[Speaker 1]: 那么现在几乎已经有很多呃行业内的一些大拿出来说，
+[Speaker 1]: 他们现在的编程有多么依赖于 by。
+[Speaker 1]: 那那只是现在 coby coding 帮你做了大多数的一些事情。
+[Speaker 1]: 然后你我们原本呃花很多的时间在做 coding 啊，
+[Speaker 1]: 现在是做 check，
+[Speaker 1]: 那么你这个 coding 当写的对不对？
+[Speaker 1]: 等等。
+[Speaker 1]: 其实我我对于大原位模型，
+[Speaker 1]: 这些依然也是一样的。
+[Speaker 1]: 就是我现在做了很多事情，
+[Speaker 1]: 是我问他们往往帮他们去帮我做 research，
+[Speaker 1]: 我很多时候在做的是问对问题，
+[Speaker 1]: 同时我去纠错他给我的答案很多时候是错的，
+[Speaker 1]: 我要知道我要有这个判断能力，
+[Speaker 1]: 知道哪里是错的。
+[Speaker 1]: 因为你对于一个做呃做软件工程师做 coding 这一块比较依赖于 coding 的话，
+[Speaker 1]: 是类类的的。
+[Speaker 1]: 以以今天三面面 SS 一篇文章，
+[Speaker 1]: 就是说这为什么是第二个 GPT 呢？
+[Speaker 1]: 就是真正的一个落地，
+[Speaker 1]: 且这个落地破坏的市场非常的大。
+[Speaker 1]: 且你把 mocoding 给这个呃护城河给打破了之后，
+[Speaker 1]: 未来会有很多的 a 证落地。
+[Speaker 1]: 未来很又有很多的智能体落地。
+[Speaker 1]: 而每一个行业未来可能就是以一个智能体的这种形式所存在的。
+[Speaker 1]: 呃，
+[Speaker 1]: 且这个智能体所出现的这一个速度将会加速。
+[Speaker 1]: 因为你把 coding 的这个护城河，
+[Speaker 1]: 原本你可能写一个呃落地或者写一个软件，
+[Speaker 1]: 你可能需要一个工程师团队，
+[Speaker 1]: 然后一个月的时间，
+[Speaker 1]: 两个月的时间，
+[Speaker 1]: 现在你只需要一个人一一周只能一周就能搞定了。
+[Speaker 1]: 这个效率上的这个抬升，
+[Speaker 1]: 包括未来这个落地将会加速。
+[Speaker 1]: 这这是他们认为呃，
+[Speaker 1]: 第二个前期 PT moment。
+[Speaker 1]: 那当时那当然他们也聊到了，
+[Speaker 1]: 对于微软的这个影响，
+[Speaker 1]: 他们聊到了微软现在在一个比较难的一个阶段，
+[Speaker 1]: 就是两块业务。
+[Speaker 1]: 那么两块主体业务，
+[Speaker 1]: 第一块 office 三六呃，
+[Speaker 1]:  office 三六五就自己现在现有的这个软件业务啊，
+[Speaker 1]:  b to b 的这个软件业务。
+[Speaker 1]: 另外一块就是他们的 cloud 云。
+[Speaker 1]: 你云这一块你加大投资啊，
+[Speaker 1]: 你加大投资，
+[Speaker 1]: 你做基建，
+[Speaker 1]: 然后别人来用嘛，
+[Speaker 1]:  open AI 啊，
+[Speaker 1]: 包括他们对于那个 drop 也也了了，
+[Speaker 1]: 对吧？
+[Speaker 1]: 啊，
+[Speaker 1]: 大大那那呃大大 foundation model 大原类模型，
+[Speaker 1]: 他们来用，
+[Speaker 1]: 他们用的越快，
+[Speaker 1]: 他们用的越多。
+[Speaker 1]: 某种程度他们未来的这个应用的落地，
+[Speaker 1]: 对你的现有业务也有可能造成破坏。
+[Speaker 1]: 如果说有点类似于呃前告业间谷歌市场对于谷歌这个逻辑现在也是一样的。
+[Speaker 1]: 就谷歌你要不要做 AI，
+[Speaker 1]: 你要做 AI，
+[Speaker 1]: 你就破坏了你自己原来的这个呃广告业务。
+[Speaker 1]: 你要未来的话，
+[Speaker 1]: 你你的广告业务未来还是被别人破坏，
+[Speaker 1]: 就是你到底应该怎么做。
+[Speaker 1]: 你不做，
+[Speaker 1]: 就别人来做来破坏，
+[Speaker 1]: 你我觉得有点类似。
+[Speaker 1]: 于是当时谷歌这个呃呃起码呃市场的一个故事线就非常的就非常非常的接近嘛。
+[Speaker 1]: 你做不好你当做也不好。
+[Speaker 1]: 呃，
+[Speaker 1]: 有没有风险？
+[Speaker 1]: 当然有风险，
+[Speaker 1]: 有没有分歧？
+[Speaker 1]: 当然有分歧，
+[Speaker 1]: 如果没有分歧的话，
+[Speaker 1]: 微软不可能是现在的估值，
+[Speaker 1]: 对吧？
+[Speaker 1]: 所以啊谷歌现在有没有分歧，
+[Speaker 1]: 现在分歧很小了。
+[Speaker 1]: 如果谷歌有分歧的话，
+[Speaker 1]: 谷歌也不会是现上的估值。
+[Speaker 1]: 所以这就是呃这种时候，
+[Speaker 1]: 呃，
+[Speaker 1]: 这就是像现在这种时候，
+[Speaker 1]: 就是个人的一个判断，
+[Speaker 1]: 就纯粹是个人的判断。
+[Speaker 1]: 你认为这是一个机会，
+[Speaker 1]: 还是你认为啊我们很多时候也也会说呃，
+[Speaker 1]: 确定一家公司它的估值低是有它估值低的一个道理呃，
+[Speaker 1]: 没有错。
+[Speaker 1]: 那么但是很多时候就是因为市场有担心这个风险，
+[Speaker 1]: 所以才会上估值嘛。
+[Speaker 1]: 那未来到底是一个机遇，
+[Speaker 1]: 还是这个风险会越快会越来越大，
+[Speaker 1]: 这就纯粹取决于个人的这个判断。
+[Speaker 1]: 呃，
+[Speaker 1]: 很多时候 idea day day，
+[Speaker 1]: 他最终其实你会发现取决于公司管理层呃，
+[Speaker 1]: 很好的一个例子，
+[Speaker 1]: 就是呃塔在二二年的这个例子。
+[Speaker 1]: 呃，
+[Speaker 1]: 当时很多人也是呃，
+[Speaker 1]: 我记得很清楚嘛，
+[Speaker 1]: 当时塔的大家都认为麦塔不行了，
+[Speaker 1]: 很多人都觉得塔的产品不好，
+[Speaker 1]: 塔背后有怎么去利用个人的这个数据就价格低。
+[Speaker 1]:  PE 低的时候，
+[Speaker 1]: 各式各样的消息会让你觉得它的低是有道理的那但是之后管理层明显小张做出了这个呃呃决策上，
+[Speaker 1]: 公司管理决策上的这个改变之后，
+[Speaker 1]: 你可以看到麦腾也会来。
+[Speaker 1]: 谷歌也是一样增加了 AI 的这个投入增加了。
+[Speaker 1]: 对于 AI 这一块的配备之后，
+[Speaker 1]: 你看到谷歌也会来，
+[Speaker 1]: 那微软会不会来？
+[Speaker 1]: 其实某种程度不是你当下的 status pole。
+[Speaker 1]: 那么当下的这种现状，
+[Speaker 1]: 他能够未来能能不能造成能不能被被造到破坏，
+[Speaker 1]: 而是取决于管理层当下他们怎么去做决定这家公司未来这个方向。
+[Speaker 1]: 所以很多时候其实你会发现，
+[Speaker 1]: 在当下这种阶段，
+[Speaker 1]: 如果自己没有非常很好的这个判断的话，
+[Speaker 1]: 那你愿不愿意把这一票投给他的管理层，
+[Speaker 1]: 就这么简单。
+[Speaker 1]: 那其实是管理层的决策，
+[Speaker 1]: 决定这家公司的一个方向。
+[Speaker 1]:  ok 讲了那么多，
+[Speaker 1]: 然后我们看一下亚马逊的财报，
+[Speaker 1]: 呃，
+[Speaker 1]: 亚马逊的财报盘后一定是下跌的。
+[Speaker 1]: 这个不用说，
+[Speaker 1]: 那呃我听完亚马逊的财报之后，
+[Speaker 1]: 和我听完谷歌的财报之后，
+[Speaker 1]: 我的感受是完全一样的。
+[Speaker 1]: 呃，
+[Speaker 1]: 首先从资本开支这一块，
+[Speaker 1]: 和谷歌一样，
+[Speaker 1]: 谷歌是和上一年做对比是翻倍啊。
+[Speaker 1]: 亚马逊因为它体量亚马的体量本身就已经很大的资本开支原本是所有大科里面最大的。
+[Speaker 1]: 然后其实如果按照市场这一个预期的话，
+[Speaker 1]: 亚亚麻在二六年的资本开支已经被谷歌超过了。
+[Speaker 1]: 但是现在在我不知道是不是，
+[Speaker 1]: 因为就是昨天谷歌说我们要投一千八百亿的所对亚马逊啊，
+[Speaker 1]: 安迪说不行，
+[Speaker 1]: 我们要投两千，
+[Speaker 1]: 一定要超过他。
+[Speaker 1]: 我我开玩笑，
+[Speaker 1]: 我相信他们背后一定是和谷和谷歌一样，
+[Speaker 1]: 就看到了这个需求之后，
+[Speaker 1]: 在财报会里边也聊，
+[Speaker 1]: 就看到这个需求之后，
+[Speaker 1]: 必须要加上这个资本开支。
+[Speaker 1]: 且他们认为未来这个 AI 的市场会非常非常的大。
+[Speaker 1]: 所以亚麻的资本开始在二六年两千亿，
+[Speaker 1]: 呃，
+[Speaker 1]: 市场预期是一千四百亿吧。
+[Speaker 1]: 我记得呃为什么要投两千亿啊，
+[Speaker 1]: 我这边是财报会里面的一些重点。
+[Speaker 1]: 首先呃 andy 他本身上上一个季度财报，
+[Speaker 1]: 他也是这个观点，
+[Speaker 1]: 就是从云这个角度去看我从客户这个角度，
+[Speaker 1]: 就我原本的计算在你 a ws 这一块。
+[Speaker 1]: 因为当时市场认为呃，
+[Speaker 1]: 两个季度之前，
+[Speaker 1]: 亚麻的 AW 增速只有百分之十七嘛。
+[Speaker 1]: 当时大家认为 AW 增速没有了不行了，
+[Speaker 1]: 那么其实你回过头去看，
+[Speaker 1]: 只是因为他们确实是因为他们 GPU 买少了，
+[Speaker 1]:  GPU 买少了，
+[Speaker 1]: 所以像呃 open AI 很多的一些订单，
+[Speaker 1]: 你就拿不到嘛。
+[Speaker 1]: 因为 open i 主要是在堆算力这一块。
+[Speaker 1]: 在在在一开始你在 training 这一快的话，
+[Speaker 1]: 一开始的市场几乎全部是集中在 training。
+[Speaker 1]: 你 GPU 买少了，
+[Speaker 1]: 你 training 这一块的市场占少了，
+[Speaker 1]: 你自然的增速，
+[Speaker 1]: 就被呃微软给拿走。
+[Speaker 1]: 那接下下去去到了 ffeence 这一块，
+[Speaker 1]: 你会发现很多的应用层面开始升至上来。
+[Speaker 1]: 那亚麻的一个呃方向一直是你原本的数据在我这边，
+[Speaker 1]: 计算也在我这边。
+[Speaker 1]: 你未来 AI 的应用，
+[Speaker 1]: 这一 AI 的应用落地这一块一定会在我这边的。
+[Speaker 1]: 所以现在 n 迪还是呃同样坚持这样的一个看法。
+[Speaker 1]: 包括他以前也是一直这么去说呃呃 barrock 大家如果你如果不关注微软的话，
+[Speaker 1]: 你可能不知道 barrock。
+[Speaker 1]: 那 barrock 它基本上是呃我认为在呃亚马逊未来是非常非常大的一块。
+[Speaker 1]: 因为这取决于你怎么去看待未来这个呃未来未来 AI 的时候发展。
+[Speaker 1]: 我今天思考了之后，
+[Speaker 1]: 包括和一个朋友交流完之后，
+[Speaker 1]: 可能呃我的思考也在往前进嘛。
+[Speaker 1]: 我觉得上上一次可能我在聊的时候，
+[Speaker 1]: 认为未来更多。
+[Speaker 1]: 当然可能一阶一阶的未来的未来的一呃未来 AI 的一发发展下去的一阶应该是 AI agent。
+[Speaker 1]:  AI 的智能体可能体现在个人呃，
+[Speaker 1]:  on 比如说个人手机上上的这个 dema i 智能体去 call app AI 智能体和 app 之间进行沟通。
+[Speaker 1]: 然后通过 AI 智能体到 app，
+[Speaker 1]: 然后帮你去完成这个任务，
+[Speaker 1]: 而不是我们呃自己有这个需求，
+[Speaker 1]: 打开 app 然后去完成这件事情。
+[Speaker 1]: 而是通过所有的需求，
+[Speaker 1]: 通过这个智能体去完成智能体，
+[Speaker 1]: 去和 app 之间出现这个联动。
+[Speaker 1]: 然后未来的这种方式可能是智能体和智能体之间的这个沟通啊，
+[Speaker 1]: 因为对吧现在比如说我的需求非常的简单，
+[Speaker 1]: 我可能下一个非常简单的一个非常像一个非常直接的一个 order。
+[Speaker 1]: 说你要帮我去亚麻亚亚，
+[Speaker 1]: 马上亚麻上，
+[Speaker 1]: 你帮我去买一个东西，
+[Speaker 1]: 或者你去打开 uber，
+[Speaker 1]: 你帮我去找一个，
+[Speaker 1]: 你帮我去订一个摊，
+[Speaker 1]: 对吧？
+[Speaker 1]: 但未来非常有可能是你你只需要告诉你这个 agent，
+[Speaker 1]: 但是 agent 的话他他到底怎么去做选择呢？
+[Speaker 1]: 他要去到一个我们叫做 agenkemarket place，
+[Speaker 1]: 呃，
+[Speaker 1]: 也就是一个想象成一个市场里边它有所有的 agent 在里边，
+[Speaker 1]: 每一个 agent 它是负责不同的功能。
+[Speaker 1]: 而我自己的这个个人的一个 agent 去到这个 agent markeplace 上面去帮我去找到最符合我需求的另外的一个 agent。
+[Speaker 1]: 然后另外的一个 agent，
+[Speaker 1]: 他去通过他背后的这个演算，
+[Speaker 1]: 他帮我去完成这件事情。
+[Speaker 1]: 这可能现在想想就能抽象。
+[Speaker 1]: 但我我仔细把这个背后的逻辑思考完之后，
+[Speaker 1]: 其实不抽象。
+[Speaker 1]: 就好比你会觉得就好比现在知道了那个呃那个呃 cloud 那个 office，
+[Speaker 1]: 他就是负责呃呃编程的那很简单了，
+[Speaker 1]: 以后我要写一个程序，
+[Speaker 1]: 我就告诉我自己这个 agent 我要写一个程序，
+[Speaker 1]: 然后他就再去那个 agent marketplace 帮我找到了。
+[Speaker 1]: 对，
+[Speaker 1]: 然后让他帮我去写一个程序出来，
+[Speaker 1]: 然后他就给完全给我最后的一个 product。
+[Speaker 1]: 所以最后可能是第一步可能是 intermedia 这一步可能是 agent call app，
+[Speaker 1]: 然后 app 完成这件事情。
+[Speaker 1]: 呃，
+[Speaker 1]: 接下去可能就是 agent call agent，
+[Speaker 1]: 然后 agent point 完成这件事情。
+[Speaker 1]: 那 barrock 做什么呢？
+[Speaker 1]:  barrock 他就是未来在他的他的一个设想就是未来在呃他这一个领域里边会有非常多的一些 agent。
+[Speaker 1]: 而每一个 agent，
+[Speaker 1]: 你可以，
+[Speaker 1]: 但是我们叫做 modemodel。
+[Speaker 1]:  agagnostic 就是无论你最后是哪一个模型，
+[Speaker 1]: 因为你会发现现你现在你会发现不同的模型在不同的领域，
+[Speaker 1]: 它是有优势在它是有自己的优势在那边的那所以非常有可能就底层模型啊，
+[Speaker 1]: 它是有自己的优势在走边。
+[Speaker 1]: 所以以呃亚亚，
+[Speaker 1]: 包括亚马逊，
+[Speaker 1]: 它包括其实微软也是往这个方向，
+[Speaker 1]: 微软已经慢慢的往这个方向去走了。
+[Speaker 1]: 所以以亚马要做的就是呃最终你可能不同的模型在不同的领域上面有优势。
+[Speaker 1]: 呃，
+[Speaker 1]: 但是你呈现的一个方式，
+[Speaker 1]: 就是我说你呈现的一个方式，
+[Speaker 1]: 一定是以 agent 的这个方，
+[Speaker 1]: 一定是以一个产品。
+[Speaker 1]: 我把 AG 想象这个产品嘛，
+[Speaker 1]: 一定是以一个产品的方式所呈现的那这个 agent 停在哪？
+[Speaker 1]: 这个 agent 就就停在 brock 上面。
+[Speaker 1]: 所以你原本的一些客户，
+[Speaker 1]: 就我自己的这个客户本身就是他说了嘛，
+[Speaker 1]: 我现在自己 AW 身上，
+[Speaker 1]: 下面本身现在就已经有很多的一些客户。
+[Speaker 1]: 那未来你客户你有任何的一些需求，
+[Speaker 1]: 你就是去他们的，
+[Speaker 1]: 我们叫我叫做 agent 啊，
+[Speaker 1]:  marmarkeplace 就在这个 marketplace。
+[Speaker 1]: 你只要把需求告诉他，
+[Speaker 1]: 那在这个 markekeplace 里边，
+[Speaker 1]: 你就可以可以找到能够去帮你完成你想要做的这件事情的一个另外的一个 agent。
+[Speaker 1]: 他想要做的就是这个啊，
+[Speaker 1]: 我认为因为我在思考嘛，
+[Speaker 1]: 如果真的是因为现在你想 app store，
+[Speaker 1]: 你里面有很多的 app 对吧？
+[Speaker 1]: 你有这个需求，
+[Speaker 1]: 你去这个 app store 里边去去去下载这个 app，
+[Speaker 1]: 但是 app 和 app 之间是不沟通的对吧？
+[Speaker 1]: 那未来的话可能会有一个像一类似于 x store，
+[Speaker 1]: 一个 agent 呃，
+[Speaker 1]:  a agent，
+[Speaker 1]: 这叫 agent markeplace。
+[Speaker 1]: 那在这个 marketplace 里边有很多的一些 agent，
+[Speaker 1]: 这每一个 agent 都是来自于不同的一些基层的 ffunitional model 都是不一样的。
+[Speaker 1]: 可能以这样的一个方式所存在，
+[Speaker 1]: 就这这个是比较远，
+[Speaker 1]: 这是但是一步一步我认为可能是最终那包括 agent 和 agent 之间，
+[Speaker 1]: 你怎么去沟通，
+[Speaker 1]: 怎么去支付这些东西。
+[Speaker 1]: 都是我就认为未来有很多的一些应用场景在背后啊，
+[Speaker 1]: 所以得看从 AI 的应用落地，
+[Speaker 1]: 你就得看每一个每一个大原的模型，
+[Speaker 1]: 他们能够触及到哪些市场，
+[Speaker 1]: 在哪些市场上面有一些落地。
+[Speaker 1]: 这个可能扯远了，
+[Speaker 1]: 但是我主要想把那个 AWS byrock 这一块的一个背后的一个设想。
+[Speaker 1]: 我想讲清楚，
+[Speaker 1]: 因为就是其实我认为这是个基本面是非常非常相关。
+[Speaker 1]: 那安 y 有聊到，
+[Speaker 1]: 所以光在 backrock 这一块就已经是一个啊 multimultimultibillion dolar 已经是啊几十十一个业务了。
+[Speaker 1]: 而且它的一个增速 quote over quote 百分之六十，
+[Speaker 1]:  cultiover quote 百分之六十。
+[Speaker 1]: 所以他这个增速本身是非常的快。
+[Speaker 1]: 你会发现这背后已经开始慢慢的有道势。
+[Speaker 1]: 呃，
+[Speaker 1]: 包括呃在呃之后的财报会里面也有聊到。
+[Speaker 1]: 那这个 agent 本身怎么比较好的去服务你这个客户呢？
+[Speaker 1]: 呃，
+[Speaker 1]: 大多数的情况下都是底层模型呃，
+[Speaker 1]: 底层的大原理模型。
+[Speaker 1]: 你出来的一个产品出来一个 agent。
+[Speaker 1]: 然后你客户的数据上去之后，
+[Speaker 1]: 他都是在 post training 这一块。
+[Speaker 1]: 那有没有可能你在 train 这个模型之前，
+[Speaker 1]: 你把自己的数据在 pretraining 这一块就进去。
+[Speaker 1]: 进去完之后，
+[Speaker 1]: 你所训练出来的这个模型，
+[Speaker 1]: 对于你公司本身啊，
+[Speaker 1]: 无论你未来做他拿他做预测，
+[Speaker 1]: 或者拿他做任何的事情，
+[Speaker 1]: 会更有自己的预测性，
+[Speaker 1]: 可不会有更更有这一个呃呃会会更会有更有效率，
+[Speaker 1]: 或或者对于你公司来说它会更贴切，
+[Speaker 1]: 对吧？
+[Speaker 1]: 就是这个 agent 就完全是模型，
+[Speaker 1]: 包括这个最后的一个基于这个模型所出来的这个 agent 会更和你公司的业务本身会更加的贴切，
+[Speaker 1]: 会更了解你嘛，
+[Speaker 1]: 更了解你的需求，
+[Speaker 1]: 更了解你的数据，
+[Speaker 1]: 这也是他们在思考的一个方向。
+[Speaker 1]: 所以这前面我聊的是一些基本嘛，
+[Speaker 1]: 就是在在在公司的一些业务里面，
+[Speaker 1]: 这这都是往比较未来的你呃，
+[Speaker 1]: 未来这个方向去看，
+[Speaker 1]: 这可能是需要一些想象力。
+[Speaker 1]: 然后但但是在想象力这个基础上，
+[Speaker 1]: 你得看到，
+[Speaker 1]: 对吧？
+[Speaker 1]: 有没有验证你，
+[Speaker 1]: 或者你这是你做的，
+[Speaker 1]: 然后你做的你在上面有没有营收，
+[Speaker 1]: 有没有盈利，
+[Speaker 1]: 这些是慢慢一步一步去验证。
+[Speaker 1]: 数据方面。
+[Speaker 1]: 呃，
+[Speaker 1]: 亚马逊的财报其实看数据很简单，
+[Speaker 1]: 他们一共三业业务，
+[Speaker 1]: 呃，
+[Speaker 1]: 呃三个三个角三三个方的业业务，
+[Speaker 1]: 一个是北美美后北北美电商。
+[Speaker 1]: 然然后全全球的电商，
+[Speaker 1]: 然后就是北美的电商业务这一块其实还是非常的好。
+[Speaker 1]: 他的一个 market，
+[Speaker 1]: 我这边圈出来百分之九是过去所有季度里面最高的。
+[Speaker 1]: 嗯，
+[Speaker 1]: 我觉得在上两个季度之前吧，
+[Speaker 1]: 安 y 有聊过，
+[Speaker 1]: 他们认为在二六年的话，
+[Speaker 1]: 在电商这一块的 marmarting 还会有继续扩充的这个空间。
+[Speaker 1]: 我记得在在疫情后疫情时代，
+[Speaker 1]: 你会发现亚马逊的电商它是负的，
+[Speaker 1]: 他是不赚钱的。
+[Speaker 1]: 然后之后因为在那段时间，
+[Speaker 1]: 他们其实在呃他们花了很多的 capet 下去。
+[Speaker 1]: 那那时候的一个 capet 是在呃嗯呃 for filmer center 这一块，
+[Speaker 1]: 然后当时花了很多的投资下去，
+[Speaker 1]: 然后现在的投资其实都变成现在的盈利了。
+[Speaker 1]: 当时你会发现你投资下去你不赚钱啊，
+[Speaker 1]: 但是你会发现就其实亚麻它的资本开支这一块是有一个非常好的一个 track record 在那边的这也是为什么在财报会里面，
+[Speaker 1]: 你会发现那个有有一位分析员的问题。
+[Speaker 1]: 我觉得我我听的呃我觉得非常的典型。
+[Speaker 1]: 就是他说你在资本开支这一块，
+[Speaker 1]: 有没有一些 garreal，
+[Speaker 1]: 有没有一些 governance 呃呃，
+[Speaker 1]: 就是有没有一些保护措施或者一些呃治理方面的，
+[Speaker 1]: 就防止你去过度花费类似于是这样的一个概念。
+[Speaker 1]: 那这个问题的本身就是他觉得你花的过多了，
+[Speaker 1]: 就是他觉得你太夸张了，
+[Speaker 1]: 你能花两千亿的资本开支成本，
+[Speaker 1]: 他觉得你是赚不回来的，
+[Speaker 1]: 这就是市场现在的一个。
+[Speaker 1]: 那无杀估值值，
+[Speaker 1]: 或者者因为杀杀价格的嘛杀跌唯一的一个理由嘛，
+[Speaker 1]: 或者最主要的一个理由。
+[Speaker 1]: 那无非这时候你是认不认同市场，
+[Speaker 1]: 或者你和市场站在一起，
+[Speaker 1]: 这就是不同的一些看法。
+[Speaker 1]: 这也是我觉得分析这个问题，
+[Speaker 1]: 我觉得问的挺有理表性。
+[Speaker 1]: 然后在呃北呃在国际业务这一块是百分之一的这一个呃呃国际业务这一块是百分之一的这个 margin 啊，
+[Speaker 1]: 国际业务这一块的 margin 和上一个季度去做对比的话，
+[Speaker 1]: 没有那么的好。
+[Speaker 1]: 呃，
+[Speaker 1]: 国际业务可能最好的一个季度在一年多之前吧，
+[Speaker 1]: 三点六。
+[Speaker 1]: 但呃我没有太去细听他们在国际业务这一块的 margin 还有没有扩张的空间？
+[Speaker 1]: 我我记得我印象中扫荡好像还是有继续进步的。
+[Speaker 1]: 这个空间呢呃这块我觉得但现在也不是市场关注的一个重点。
+[Speaker 1]: 但是我想说，
+[Speaker 1]: 他们起码主体业务这一块，
+[Speaker 1]: 它其实在 margin 还是在持续改善的。
+[Speaker 1]: 然后营收 top line 基本上每年百分之十，
+[Speaker 1]:  margin 在持续扩张。
+[Speaker 1]: 这其实已经呃我就在有一个季度我说过，
+[Speaker 1]: 你如果仔细去看亚麻在电商这一块的一个 operating income，
+[Speaker 1]: 其实有一个季度已经和 AWS operate，
+[Speaker 1]:  income 非常接近了。
+[Speaker 1]: 那 AWS 这一块的一个增速市预期期百百分之二一，
+[Speaker 1]: 然后最后后数数是百分之二十四。
+[Speaker 1]: 其实比较好。
+[Speaker 1]: 呃，
+[Speaker 1]: 你会发现现市场谷歌那天发布财报，
+[Speaker 1]: 报之市市场觉得挺好的。
+[Speaker 1]: 因为啊那个麦塔市场觉得挺好的，
+[Speaker 1]: 因为你有营收进来。
+[Speaker 1]: 然后是的，
+[Speaker 1]: 谷歌你还可以说，
+[Speaker 1]: 因为谷歌的 AWC，
+[Speaker 1]: 谷歌的那个呃 cloud 云增速也很高嘛。
+[Speaker 1]: 然后毛姐也很好，
+[Speaker 1]: 市场觉得市场杀跌嘛也合理。
+[Speaker 1]: 因为谷歌前段时间涨得厉害，
+[Speaker 1]: 但是亚麻你会发现 AAAWAW 这块的增速也回来了也比市场预降好。
+[Speaker 1]: 但是确实盘后还是下跌。
+[Speaker 1]: 所以呃我的一切都是你从反正从结果去出发，
+[Speaker 1]: 要去解释的话都可以。
+[Speaker 0]: 怎么说，
+[Speaker 0]: 就你永远在一家公司身上，
+[Speaker 0]: 你能够找到它下跌的一个理由，
+[Speaker 0]: 或者它上涨的一个理由都可以。
+[Speaker 0]: 呃，
+[Speaker 0]:  margin 这一块，
+[Speaker 0]:  martin 其实我认为会更好。
+[Speaker 0]: 但是我我的一个期待是可能下两个季度可能会更好。
+[Speaker 0]: 但是管理层有说到他说会有很多的一些 volatility，
+[Speaker 0]: 呃，
+[Speaker 0]: 就 margin 这块可能会有一些 volatility，
+[Speaker 0]: 但我的一个期待应该会更好。
+[Speaker 0]: 因为特别是今年在呃明显今年对于算量的需求还是很高。
+[Speaker 0]: 而且在两周之前吧，
+[Speaker 0]: 两三周之前，
+[Speaker 0]: 我记得呃亚麻是把他们 h 一百这一块的一个呃和 h 一百相关的这一块的数据中心，
+[Speaker 0]: 它是抬价的。
+[Speaker 0]: 所以明显显后的需求求非常大。
+[Speaker 0]: 所以我的现在其实今年的毛节会继续扩张，
+[Speaker 0]: 然后营收这一块的 AW 这一块的增速会继续扩张。
+[Speaker 0]: 我呃从 AW 这一个季度的一个表现来说是 OK。
+[Speaker 0]: 呃，
+[Speaker 0]: 这就是关于 aw 这一块的一个因为呃分析原因，
+[Speaker 0]: 我问到吗？
+[Speaker 0]: 呃，
+[Speaker 0]: 第一句话呃呃第一段这一块，
+[Speaker 0]: 我觉得管理层的回答还是挺好的。
+[Speaker 0]: 一块其实也是增增了一部部分，
+[Speaker 0]: 于于今年 aw AW 这一块 margin 这一块的一个确定性。
+[Speaker 0]: 就管理层。
+[Speaker 0]: 我说到他说呃，
+[Speaker 0]: 你可以看到我们以前的这个投资这个问题，
+[Speaker 0]: 问的是我前面就聊到就是呃市场担心你他那么多的资本开支下去，
+[Speaker 0]: 你能不能赚回来管理层。
+[Speaker 0]: 我说到他说你可以看到我们以前的这个资本开支都反映到了我们的 PML，
+[Speaker 0]: 就是我们的财报运营报表里边反映在开发反映在我们的资本开支上面，
+[Speaker 0]: 同时也反映到我们 operating margin 呃 aws 这一块的一个运营利润率。
+[Speaker 0]: 呃，
+[Speaker 0]: 这个季度百分之三十五和上年同期呃去做对比的话，
+[Speaker 0]: 出现了呃零点五啊五出现了四十个基点的这个上升。
+[Speaker 0]: 其实我们的 margin 还是在改善的，
+[Speaker 0]: 当然会有一些呃 flutuation，
+[Speaker 0]: 就是每一个季度、
+[Speaker 0]: 季度和季度之间会有一个会有一些波动。
+[Speaker 0]: 呃，
+[Speaker 0]: 因为前期资本开支和 AI 这一块的一个投入。
+[Speaker 0]: 他说但是他就把最后一句比较重，
+[Speaker 0]: 他，
+[Speaker 0]:  but we also work very hard。
+[Speaker 0]: 我们我们但是同时我们呃非常努力的去试图去减少这一些资本开支所带来的这个波动，
+[Speaker 0]: 通过效率上的这个抬升和 cost。
+[Speaker 0]: 我不知道他们说的 conconreproduction ction 指指，
+[Speaker 0]: 我不知道是不是是因为人这一一的一些 cost reproduction。
+[Speaker 0]:  maybe 可能吧就是你可以看到管理层啊，
+[Speaker 0]: 营收是反映在背后的需求，
+[Speaker 0]: 营收根本不用担心，
+[Speaker 0]: 因为背后的需求非常大，
+[Speaker 0]: 就是现在仍然是需求大于供给营收不用担心，
+[Speaker 0]: 那唯一的就是盈利能不能扩张，
+[Speaker 0]: 那盈利能不能扩张？
+[Speaker 0]: 你可以看到管理层还是花了比较多的一些重点在盈利上面，
+[Speaker 0]: 可能安 y 所说的。
+[Speaker 0]: 他说因为最近段时间裁员，
+[Speaker 0]: 他说哎我们现在要把公司内部的一个文化回到唉回到初创公司，
+[Speaker 0]: 可能可能这一部分的一个裁员，
+[Speaker 0]: 还是和要想想要让呃呃 AW 这一块的 margin，
+[Speaker 0]: 或者保住这个 margin，
+[Speaker 0]: 或者使这个 marger 变得更好呃，
+[Speaker 0]: 一定程度的一个相关性在里面。
+[Speaker 0]: 不然在 cost question 到底在哪，
+[Speaker 0]: 他其实并没有展开去聊。
+[Speaker 0]: 就起码对于投资者来说，
+[Speaker 0]: 你要知道管理层也是看到了 margin 这一块以后，
+[Speaker 0]: 必须要抬整的这个需求。
+[Speaker 0]: 在背后呃，
+[Speaker 0]: 关于 AI 的这块需求，
+[Speaker 0]: 我不用再说。
+[Speaker 0]: 你如果有时间的话，
+[Speaker 0]: 其实很多时候如果我们觉得 AI 有泡沫的话，
+[Speaker 0]: 我建议大家去听一下谷歌的财报。
+[Speaker 0]: 听一下亚马逊的财报，
+[Speaker 0]: 包括听一下微软这个财报。
+[Speaker 0]: 你会发现呃，
+[Speaker 0]: 听完财报之后，
+[Speaker 0]: 你从这些管理层的一个视角，
+[Speaker 0]: 你应该可以看到他们能够看到的东西。
+[Speaker 0]: 或者有些有些东西也许是我们看不到，
+[Speaker 0]: 或者我们忽略没没有是有呃最后那一段安 y 说到他说呃，
+[Speaker 0]: 这对于亚马逊来说，
+[Speaker 0]: 现在是一个 very unusual opportity，
+[Speaker 0]: 是一个非常不寻常的一个机会。
+[Speaker 0]: 我个人对于呃未来 AI 的一个呈现方式，
+[Speaker 0]: 或者对于未来客户上效率的这个抬升，
+[Speaker 0]: 呃，
+[Speaker 0]: 感到非常非常有激情。
+[Speaker 0]: 我能够听到我能够感受得出。
+[Speaker 0]: 其实我还是那句话，
+[Speaker 0]: 就我们从文字上来说，
+[Speaker 0]: 可能非非常冷冰冰的，
+[Speaker 0]: 包括我帮大家做总结，
+[Speaker 0]: 也是有些机械性的。
+[Speaker 0]: 甚至于从我个人角度是比较非常主观的嘛，
+[Speaker 0]: 挑出来一些东西和大家去讲。
+[Speaker 0]: 但是我建议大家可以自己去听。
+[Speaker 0]: 你可以听到一个管理层，
+[Speaker 0]: 他是用什么样的一个态度，
+[Speaker 0]: 怎么去描述他们看到这个 AI 市场，
+[Speaker 0]: 我觉得挺重要。
+[Speaker 0]: 因为他们才是真的站站在第一线线的，
+[Speaker 0]: 够够到到 a 的背背的这个需求。
+[Speaker 0]: 包括他们们对于未来 AI 的这个应用的一个落地，
+[Speaker 0]: 到底是以什么样的一个呈现方式去落地。
+[Speaker 0]: 那么昨天呃我在呃谷歌财报里面，
+[Speaker 0]: 我听到我今天和一个朋友在聊嘛。
+[Speaker 0]: 我说我听到谷歌有聊到呃 agently commerce，
+[Speaker 0]: 今年应该会推出，
+[Speaker 0]: 然后让消费者去试用，
+[Speaker 0]: 就是怎么让 AIA 证帮你去购物嘛。
+[Speaker 0]: 那这背后其实有很多一系列的一些呃 implication，
+[Speaker 0]: 对吧？
+[Speaker 0]: 你既然聊到购物的话，
+[Speaker 0]: 你一定会有支付。
+[Speaker 0]: 这一块支付的话呃，
+[Speaker 0]: 前段时间呃，
+[Speaker 0]: 上一年他们就已经和很多的一些支付公司 visa 啊啊啊啊啊去聊一些支付的协议。
+[Speaker 0]: 那么那这个支付的协议里面，
+[Speaker 0]: 包括和稳定力的一些结合等等。
+[Speaker 0]: 呃，
+[Speaker 0]: 我我觉得我们就像我一开始说的，
+[Speaker 0]: 我觉得接下去几年我们会看到越来越多 ba i 的这个应用的落地。
+[Speaker 0]: 以前呃讲到这个，
+[Speaker 0]: 我不如就会讲到，
+[Speaker 0]: 不如就回到我在十一月份呃，
+[Speaker 0]: 在美系做线下的时候，
+[Speaker 0]: 所聊的一些 AI 的落地。
+[Speaker 0]: 我说对于很多人来说，
+[Speaker 0]: 一直聊 AI 没落底线，
+[Speaker 0]:  AI 是有落地的。
+[Speaker 0]: 因为为什么很多人感受不是那么的明显？
+[Speaker 0]: 是因为 AI 的落地。
+[Speaker 0]: 我这边列出来的是所有呃，
+[Speaker 0]: 其实当时我用的是 JM 帮我去做的。
+[Speaker 0]: 这个总结是所有在老黄财报会里面聊到的这些 AI 的落地。
+[Speaker 0]: 那么当时我把什么啊 curpropic 啊、
+[Speaker 0]:  levable 啊、
+[Speaker 0]:  rapid，
+[Speaker 0]: 然后包括 open i open i 可能被我的头像给挡住了。
+[Speaker 0]: 包括我们我全我总结了一下，
+[Speaker 0]: 总结在哪？
+[Speaker 0]: 就是总结他们的营收体量到底有多少。
+[Speaker 0]: 现在这些数据全部更新了，
+[Speaker 0]: 已经比我当时十一月份所做的总结三个月的时间。
+[Speaker 0]: 对么？
+[Speaker 0]: 十一月、
+[Speaker 0]: 十二月、
+[Speaker 0]: 一月份、
+[Speaker 0]: 三个月的时间已经比我当时做总结要高很多了。
+[Speaker 0]: 那当时在第二个，
+[Speaker 0]: 他们 cloud，
+[Speaker 0]: 当时二零二五年是八个别点的一个呃呃一个 AR 二。
+[Speaker 0]: 现在我不知道二零二五年他们多少，
+[Speaker 0]: 我没更新的这个数据可能起码是十个别点到十二，
+[Speaker 0]: 个别点甚至于更高。
+[Speaker 0]: 嗯，
+[Speaker 0]: 当时预期是一千九百万至一千六百万至一千九百万的一个 user 啊，
+[Speaker 0]: 是在啊是在二五年的年初的时候，
+[Speaker 0]: 现在这个体量性非常的高，
+[Speaker 0]: 包括 open AI 呃，
+[Speaker 0]:  open AI 是是达到了他们原来这个要求，
+[Speaker 0]: 原来是原来的这个那个二十个变脸 AR 二五年年底啊是做到了他们呃，
+[Speaker 0]: 那原本起码三猫，
+[Speaker 0]: 那么他给了一个，
+[Speaker 0]: 他给了一个指引。
+[Speaker 0]: 那 open ID evaluation，
+[Speaker 0]: 包括他们有多少的一个呃日活数和七亿的一个日活数啊，
+[Speaker 0]: 七亿的一个周活数，
+[Speaker 0]: 这些东西都是落地。
+[Speaker 0]: 而现在就三就在三个月之后，
+[Speaker 0]: 你会发现 and tropic 有更多的一些落地，
+[Speaker 0]: 甚至于市场都在聊。
+[Speaker 0]:  i propic 到底对于这些呃呃软件公司有多大的一些破坏？
+[Speaker 0]: 那么但其实这个事情已经不是呃，
+[Speaker 0]: 你想我三个月之前在看到到，
+[Speaker 0]: 哎，
+[Speaker 0]: 我说哎为什么大家的感受不是那么明显？
+[Speaker 0]: 显？
+[Speaker 0]: 因为 prospection b to b 的，
+[Speaker 0]: 然后现在你才会发现现场聊聊的比较多了，
+[Speaker 0]: 呃，
+[Speaker 0]: 聊到了了 coding 比较多，
+[Speaker 0]: 大家可能都已经知道了，
+[Speaker 0]: 可以帮助我们去写代码。
+[Speaker 0]: 然后包括呃未来可以在包括 enrocoo work 新推推新推出的这个 o work 和 excel 的这个结合等等。
+[Speaker 0]: 你会发现哦确实有很多的应用落地。
+[Speaker 0]: 那其实这些应用的落地在上一年已已经看到，
+[Speaker 0]: 这就应该已经要看到这些其都都是 a 类应用的落地。
+[Speaker 0]: 那我相信在二六年和二七年，
+[Speaker 0]: 包括二八年这些落地的话，
+[Speaker 0]: 那呃会更加的明显。
+[Speaker 0]: 我记得在也是昨天的谷歌财报里面，
+[Speaker 0]: 我这是不是三道，
+[Speaker 0]: 他有聊到他说呃，
+[Speaker 0]: 你信不信今年的 AI 的呃，
+[Speaker 0]: 这些初创公司所有的营收可以到达一千亿。
+[Speaker 0]: 呃，
+[Speaker 0]: 和少年的我记得在如果你信的话，
+[Speaker 0]: 那你不应该认为 AI 有朋我记得他好像是这么聊的吧，
+[Speaker 0]: 他说我信呃，
+[Speaker 0]: 那个数字本身我记得在最早是在半年前吧，
+[Speaker 0]: 我听到老黄所说的老黄，
+[Speaker 0]: 他说预期他说预计二五年是十个别点，
+[Speaker 0]: 然后二六年是 hundred 别点，
+[Speaker 0]: 他说一年翻十倍，
+[Speaker 0]: 然后二四年的时候是一个别点，
+[Speaker 0]: 二四年一个别点，
+[Speaker 0]: 二五年十个别点。
+[Speaker 0]: 他说我认为二六年会达到一百个别点，
+[Speaker 0]: 就是一千亿美金营收啊，
+[Speaker 0]: 所有 AI 初创公司全部加在一起。
+[Speaker 0]: 呃呃，
+[Speaker 0]: 所以说我我我们其实是在一个呃非常非常大的一个转折点里面。
+[Speaker 0]: 如果你在二四年，
+[Speaker 0]: 你要问我 AI 这块，
+[Speaker 0]: 你怎么看的话，
+[Speaker 0]: 我有我绝对想不到。
+[Speaker 0]: 我们现在是在当下这样的一个阶段。
+[Speaker 0]: 所以确实当我们处在 AI 这样的一个转折点的一个情况之下，
+[Speaker 0]: 对于很多公司确实会有一些 implication 在背后。
+[Speaker 0]: 所以你也没办法呃，
+[Speaker 0]: 说市场现在对于软件公司这个担心就一定是过滤的。
+[Speaker 0]: 因为肯定短期之内，
+[Speaker 0]: 市场的情绪面一定是过度悲观和过度乐观。
+[Speaker 0]: 这个是毫无疑问的这无论是对于贵股还是对于板块来说这么呃，
+[Speaker 0]: 但是起码我认为这个担心的一个方向是合理的那而且也符合了今天啊三面 analsis 他们的一篇文章聊到了整个呃呃为什么呃呃 propic family cloud 是恰 GBT moment 二点零。
+[Speaker 0]: 呃，
+[Speaker 0]: 最后我想聊的是我已经聊的比较多，
+[Speaker 0]: 马上结束了。
+[Speaker 0]: 最后我想聊的就是我在年初的时候做的一个展望，
+[Speaker 0]: 起码就大方向上我稍微帮大家回顾一下，
+[Speaker 0]: 我说要要稍微耐心一些，
+[Speaker 0]: 上半年可能存在一定的风险。
+[Speaker 0]: 我都可能我都不认为现在我们看到就是非常大的一些风险，
+[Speaker 0]: 只是个股身上波动会比较大一些。
+[Speaker 0]: 甚至有些个股即使这两天出现下跌，
+[Speaker 0]: 它也没有把什么 MU 下跌。
+[Speaker 0]: 三 DS 它也没有把年初到现在的呃涨幅给擦掉嘛，
+[Speaker 0]: 对吧？
+[Speaker 0]: 还是还是出现上涨。
+[Speaker 0]: 包括一些即使在呃呃呃缺定方面的一些一些一些一些一些标的，
+[Speaker 0]: 他也没有把年初的这个涨幅给擦掉。
+[Speaker 0]: 所以只是有些标的吧，
+[Speaker 0]: 只是把年初的这些涨幅给擦掉了一部分啊，
+[Speaker 0]: 或者也没有把对也只是擦掉了一部分，
+[Speaker 0]: 也并不是说出现下跌。
+[Speaker 0]: 嗯，
+[Speaker 0]: 但是我觉得这个是不变的，
+[Speaker 0]: 就是呃也就是一个多月的时间，
+[Speaker 0]: 所以我觉得还是耐心一些，
+[Speaker 0]: 然后去找一些个股上，
+[Speaker 0]: 我认为有些个股已经沉淀些机会了。
+[Speaker 0]: 比如说像微软的话，
+[Speaker 0]: 我认为就是有机会的。
+[Speaker 0]: 呃，
+[Speaker 0]: 而且记得呃记住我这句话，
+[Speaker 0]: 就是保住过去三年这个回报。
+[Speaker 0]: 今天我这么说，
+[Speaker 0]: 我在你一两个月之后，
+[Speaker 0]: 你再来问我的话，
+[Speaker 0]: 我还是这样的一个看法。
+[Speaker 0]: 所以我觉得你会发现市场情绪面就是波动那么快。
+[Speaker 0]: 呃，
+[Speaker 0]: 上个呃一月底一月三十日就就一周一周之前做视频的时候，
+[Speaker 0]: 大家认为我错过了些什么啊？
+[Speaker 0]: 我说你们是还都没错过你们就错过了标普吧，
+[Speaker 0]: 上升了零一点四而已。
+[Speaker 0]: 然后现在就会担心我整个市场是不是要去下跌，
+[Speaker 0]: 要去要去进入熊市啊，
+[Speaker 0]: 标普标普要下跌多少啊，
+[Speaker 0]: 那就要下跌多少。
+[Speaker 0]: 就会发现这情绪面你不需要啊情绪面的这些情绪面的呃影响，
+[Speaker 0]: 它很多时候都是因为价格所影响。
+[Speaker 0]: 但很多时候我们的情绪面正常，
+[Speaker 0]: 我们在做投资时候，
+[Speaker 0]: 我们一个情绪面应该是和市场的一个情绪面是反过来的当它上涨的时候，
+[Speaker 0]: 我们要担心，
+[Speaker 0]: 我们要思考的是要不要进行减仓。
+[Speaker 0]: 是不是市场情绪面过高了当它在下跌的时候要去找一些机会，
+[Speaker 0]: 要冷静下来。
+[Speaker 0]: 就觉得现在是不是一个经常这个机会，
+[Speaker 0]: 我辑最后我想做了一个总结，
+[Speaker 0]: 就是我呃前在在直播之前我发了一条推，
+[Speaker 0]: 我说当你想要清仓的时候，
+[Speaker 0]: 应该要思考一下呃，
+[Speaker 0]: 是不是要进行买入，
+[Speaker 0]: 好吧，
+[Speaker 0]: 聊的比较多。
+[Speaker 0]: 因为很多东西我其实展开的比较的呃比较的具体啊。
+[Speaker 0]: 那无论是亚马的财报也好，
+[Speaker 0]: 还是谷歌昨天的一个财报，
+[Speaker 0]: 我又进行了一部分的一些展开。
+[Speaker 0]: 因为我觉得这些基本面的一些展开，
+[Speaker 0]: 我其实今天下午我没有太担心说股市的一个下跌怎么样。
+[Speaker 0]: 我更多是在思考 AI 的这个落地，
+[Speaker 0]: 包括 AI 这个方向就是投资。
+[Speaker 0]: 因为投资公司本身你要想清楚背后这个逻辑嘛啊当然另外一部分也是时间线上，
+[Speaker 0]: 我们是你时间线上，
+[Speaker 0]: 我们说无论是投资还是交易时间，
+[Speaker 0]: 线上错的话，
+[Speaker 0]: 其实你就是错的啊，
+[Speaker 0]: 这当然很多时候很多标的也有些时间成本在背后哦，
+[Speaker 0]: 先聊一下这个币圈。
+[Speaker 0]: 因为我这今天没聊的嘛，
+[Speaker 0]: 币圈感觉又世界末日了。
+[Speaker 0]: 我在呃我今天在和一个朋友在聊的时候，
+[Speaker 0]: 我说我一直在等一个币圈类似于百分之二十这种下跌。
+[Speaker 0]: 然后我一直在等这种机会然后买，
+[Speaker 0]: 然后他说再这样下去也差不多了。
+[Speaker 0]: 然后我就在下午和他聊的时候，
+[Speaker 0]: 呃，
+[Speaker 0]: 然后我去看六万三六万三千多。
+[Speaker 0]: 我说我说我说我说这边有一个脏话，
+[Speaker 0]: 省去了一个脏话。
+[Speaker 0]: 我说我靠，
+[Speaker 0]: 我说呃六万三了，
+[Speaker 0]: 然后呃说完之后，
+[Speaker 0]: 然后我就去加了一点，
+[Speaker 0]: 加了一点比特币。
+[Speaker 0]: 呃，
+[Speaker 0]: 是在我 b 圈仓位里面，
+[Speaker 0]: 然后加了一些比特币，
+[Speaker 0]: 差不多年比我看的时候百分之跌百分之十四百分之十五吧。
+[Speaker 0]: 呃，
+[Speaker 0]: 反正我经历过作为经历过一轮的这个老韭菜之后，
+[Speaker 0]: 首先心态上平衡了很多，
+[Speaker 0]: 平稳了很多。
+[Speaker 0]: 其次呃对于这些下跌，
+[Speaker 0]: 你说你说难受吧，
+[Speaker 0]: 肯定难受，
+[Speaker 0]: 对吧？
+[Speaker 0]: 市场，
+[Speaker 0]: 你看着自己的账户下跌，
+[Speaker 0]: 你肯定难受。
+[Speaker 0]: 但是呃我觉得还是你要有这个准备嘛，
+[Speaker 0]: 就所以你要接受下跌。
+[Speaker 0]: 如果一旦接受了下跌，
+[Speaker 0]: 特别你接受了这个下跌的幅度之后，
+[Speaker 0]: 你其实是能够接受的。
+[Speaker 0]: 就是你说难受肯定难受，
+[Speaker 0]: 但是你难受的同时你可以接受。
+[Speaker 0]: 那你难受的同时不能接受的话，
+[Speaker 0]: 那就说明仓位有问题，
+[Speaker 0]: 仓位出问题。
+[Speaker 0]: 那在难受的情况下，
+[Speaker 0]: 你可以接受。
+[Speaker 0]: 那接下去就思考什么时候去呃什么时候去进场，
+[Speaker 0]: 什么时候去加仓那个问题。
+[Speaker 0]: 所以我我今天聊完之后，
+[Speaker 0]: 我看到那个比较大的幅度的波动，
+[Speaker 0]: 我就在啊六万三加了一些比特币的仓位进去，
+[Speaker 0]: 呃，
+[Speaker 0]: 全部在呃在轮流奔贵金属大科技。
+[Speaker 0]: 比特币最吓人的是指数，
+[Speaker 0]: 看起来没什么跌。
+[Speaker 0]: 是啊，
+[Speaker 0]: 那有没有可能就是一个滚动滚动牛市呢？
+[Speaker 0]: 对吧？
+[Speaker 0]: 你如果要期待呃，
+[Speaker 0]: 我是这么看的，
+[Speaker 0]: 很多时候你说真的要出现呃事件性的，
+[Speaker 0]: 然后导致指数下跌。
+[Speaker 0]: 然后把现在比如说我们就拿微软举例子嘛，
+[Speaker 0]: 把已经下跌了，
+[Speaker 0]: 比较大幅度的微软再继续往下跌，
+[Speaker 0]: 再继续往下杀。
+[Speaker 0]: 有没有可能呃，
+[Speaker 0]: 有有绝对有可能的吗？
+[Speaker 0]: 你说指数下跌啊，
+[Speaker 0]: 绝对有可能下跌。
+[Speaker 0]: 但是这对于我个人来说，
+[Speaker 0]: 你从基本面从基本面这个角角度去投资的话，
+[Speaker 0]: 你只会觉得这家公司更便宜。
+[Speaker 0]: 就是你没办法知道，
+[Speaker 0]: 我只能说现在的估值和历史上去做对比，
+[Speaker 0]: 在什么样一个空间，
+[Speaker 0]: 在在什么样的一个位置，
+[Speaker 0]: 就你什么时候是舒适的钱，
+[Speaker 0]: 你认为可能有一定的一个 caution 在那边。
+[Speaker 0]: 但是真的有些事情事件你没办法预测嘛。
+[Speaker 0]: 如果你觉得啊接下去有一步会有指数，
+[Speaker 0]: 会有一波非常大的一波下跌，
+[Speaker 0]: 或者担心指数会有一波非常大的一个下跌的话也可以，
+[Speaker 0]: 那也可以。
+[Speaker 0]: 或者就这就其实回到了最根本的一个问题，
+[Speaker 0]: 就是我前面说的什么样的判断逻辑，
+[Speaker 0]: 在自己的一个所有的判断逻辑里面是最主要的。
+[Speaker 0]: 嗯，
+[Speaker 0]: 好开心啊，
+[Speaker 0]: 我等了很久和套，
+[Speaker 0]: 哥君比特币终于有机会了，
+[Speaker 0]: 我拿着一大笔现金。
+[Speaker 0]: 呃，
+[Speaker 0]: 其实我是觉得市场里边啊，
+[Speaker 0]: 无论是投资还是交易也好，
+[Speaker 0]: 耐心其实是最难能可贵的。
+[Speaker 0]: 耐心其实是最最难最难。
+[Speaker 0]: 这个耐心体现在哪？
+[Speaker 0]: 这个耐心是体现在当你呃往一个方向去看的时候，
+[Speaker 0]: 短期之内它的一个方向走势本身和你原来的预判出现一定的一个错误时候，
+[Speaker 0]: 你要坚定自己原来这个方向，
+[Speaker 0]: 你要坚定原来自己风控的这个方向，
+[Speaker 0]: 或者做多或者做空这个方，
+[Speaker 0]: 这其实挺难的，
+[Speaker 0]: 没那么简单的。
+[Speaker 0]: 因为不成熟的呃呃投资者或者交易员，
+[Speaker 0]: 他会被市场情绪给带着走会怀疑自己的。
+[Speaker 0]: 当然当然了，
+[Speaker 0]: 不是说自己永远是对的，
+[Speaker 0]: 你你也所所有方法都会错。
+[Speaker 0]: 但是这个过程本身其实没有，
+[Speaker 0]: 那么其实没有那么简单的，
+[Speaker 0]: 其实真没有那么简单。
+[Speaker 0]: 所以如果有这个，
+[Speaker 0]: 所以很多时候我觉得离开一下市场不见得是一件坏事。
+[Speaker 0]: 因为你离开你不关心你，
+[Speaker 0]: 也不知道发生了啥，
+[Speaker 0]: 对吧？
+[Speaker 0]: 你只需要说我原来持持拿着这个仓位，
+[Speaker 0]: 然后我认为比特币只要跌到了七万，
+[Speaker 0]: 跌到六万，
+[Speaker 0]: 跌到了五万。
+[Speaker 0]: 我就买。
+[Speaker 0]: 然后你突然间你会发现，
+[Speaker 0]: 唉，
+[Speaker 0]: 有一天他真的来到了啊，
+[Speaker 0]: 中间怎么过程怎么样的过程。
+[Speaker 0]: 是先从十万去到了十二万，
+[Speaker 0]: 再去到了五万，
+[Speaker 0]: 还是直接从十万跌到了五万？
+[Speaker 0]: 对你来说嗯没有影响，
+[Speaker 0]: 对吧？
+[Speaker 0]: 其实没有影响，
+[Speaker 0]: 所以其实挺难的这没那么简单的。
+[Speaker 0]: 他就差就冲他这句说我等了好久，
+[Speaker 0]: 我我就觉得这已经很厉害。
+[Speaker 0]: 因为并不是市场里面的耐心，
+[Speaker 0]: 并不是所有人都有，
+[Speaker 0]: 而且我认为耐心本身是非常非常难的一个特质。
+[Speaker 1]: 在市场里面强油呃，
+[Speaker 0]: 希望苹果在这个大背景下，
+[Speaker 0]: 然后大资金挪仓位能到苹果上，
+[Speaker 0]: 然后再创新高。
+[Speaker 0]: 目前已经是第二大市值的公司了。
+[Speaker 0]: 苹果王者归来。
+[Speaker 0]: 我正在思考，
+[Speaker 0]: 我我今天只做了两个操作，
+[Speaker 0]: 一个是加仓了比特币，
+[Speaker 0]: 然后一个是加仓了。
+[Speaker 0]: 嗯，
+[Speaker 0]: 微软嗯，
+[Speaker 0]: 我还没我还会做一些仓位的一些调动。
+[Speaker 0]: 比如说就前段时间关注的一些标的，
+[Speaker 0]: 呃，
+[Speaker 0]: 我前面已经聊到了什么很多下跌的一些标的。
+[Speaker 0]: 像 robin hod，
+[Speaker 0]: 我一直在关注这个标的意思。
+[Speaker 0]: 呃，
+[Speaker 0]: 上年的四月份川普杀跌的时候，
+[Speaker 0]: 我其实在上年的一月份，
+[Speaker 0]: 我就开始关注这个标的。
+[Speaker 0]: 然后四月份我没有利用这个机会去买入 robin d 后来我说这是其实是我在在在二五年做总结的时候，
+[Speaker 0]: 我就最最如果说要应该买，
+[Speaker 0]: 却没有买的。
+[Speaker 0]: 就是在上年的四月份没有买 robbkk。
+[Speaker 0]: 那当现在这些标的再次下来之后，
+[Speaker 0]: 其实我会在思考怎么去通过自己仓位的这个管理调整，
+[Speaker 0]: 呃，
+[Speaker 0]: 去找一些机会。
+[Speaker 0]: 所以我其实现在更多的是在关注一些，
+[Speaker 0]: 去仔细再去研究一下这些公司的一个基本面，
+[Speaker 0]: 想清楚，
+[Speaker 0]: 包括他现在的估值是不是在合理的位置。
+[Speaker 0]: 然后再去做这个调仓行为。
+[Speaker 0]: 我其实今天下午主要在做这件事情，
+[Speaker 0]: 包括我前面聊到了谷歌，
+[Speaker 0]: 今年将会推出 agentic commerce。
+[Speaker 0]: 那这个背后意味着什么？
+[Speaker 0]: 这个背后对于哪些公司会是一些利好呃，
+[Speaker 0]: 谷歌不会是第一个推出的。
+[Speaker 0]: 因为其实上年那个呃那个 GPT 就已经出来了嘛。
+[Speaker 0]:  agentic commerce 这江这包括今天那个亚麻的财报，
+[Speaker 0]: 也聊到他们 roofers ers ffers 的一个应用。
+[Speaker 0]: 我记得他们呃亚麻今天给的财报是，
+[Speaker 0]: 如果你用 roofers 的话，
+[Speaker 0]: 你更加偏向于最后会买的这个幅度增加了百分之六十还百分之九十吧，
+[Speaker 0]: 数据我忘了。
+[Speaker 0]: 但是很明显的这个提升，
+[Speaker 0]: 如果用 agenca commerce 的话，
+[Speaker 0]: 呃，
+[Speaker 0]: 那意味着什么？
+[Speaker 0]: 全部推出来之后意味着什么？
+[Speaker 0]: 对于很多公司来说意味着什么？
+[Speaker 0]: 呃，
+[Speaker 0]: 很多东西需要去思考的。
+[Speaker 0]: 所以呃当很多标的下跌的时候，
+[Speaker 0]: 呃，
+[Speaker 0]: 当然首先第一步是在对自己整体投资组合先做好这个风控嘛，
+[Speaker 0]: 就活的久，
+[Speaker 0]: 比你短时间之内活得好，
+[Speaker 0]: 要重要的多得多。
+[Speaker 0]: 我们在这个基础上，
+[Speaker 0]: 然后呃思考一下，
+[Speaker 0]: 在现在下跌的时候，
+[Speaker 0]: 呃，
+[Speaker 0]: 当然撇术技术面先技术面放一边的嘛。
+[Speaker 0]: 从基本面这个角度，
+[Speaker 0]: 哪些标的要关注的，
+[Speaker 0]: 哪些标的跌的真的非常的厉害。
+[Speaker 0]: 你找到基本面你仍然是非常的看好。
+[Speaker 0]: 那么认为现在只是市场对于这些标的的一个杀跌。
+[Speaker 0]: 然后从找到技术面上再找到一个共振的话，
+[Speaker 0]: 会是一个其实会很舒服的。
+[Speaker 0]: 也这越跌的时候啊，
+[Speaker 0]: 机会机会是跌出来的，
+[Speaker 0]: 机会不是涨出来的。
+[Speaker 0]: 至于苹果，
+[Speaker 0]: 我为什么聊到这个，
+[Speaker 0]: 是因为我在思考，
+[Speaker 0]: 如果我要换仓的话，
+[Speaker 0]: 我会不会从苹果换一些仓位出来。
+[Speaker 0]: 因为确实苹果这两天很强，
+[Speaker 0]: 呃，
+[Speaker 0]: 年初的时候很弱，
+[Speaker 0]: 我们年初所有的标的都在涨。
+[Speaker 0]: 大家都问苹果为什么这么弱？
+[Speaker 0]: 我其实我说没有啥好跟进的对吧？
+[Speaker 0]: 我怎么我上年怎么看待苹果，
+[Speaker 0]: 今年还是怎么看待苹果，
+[Speaker 0]: 无非中间就是价格上的一个变动。
+[Speaker 0]: 那这段时间苹果有很强大科技里边感觉你和 AI 最不相关的标题本身。
+[Speaker 0]: 所以你会发现这交易的逻辑就出来了，
+[Speaker 0]: 你和 AI 没有那么的相关，
+[Speaker 0]: 你走的会好一些。
+[Speaker 0]: 但其实苹果我认为和 AI 是很相关的。
+[Speaker 0]: 其实前面我聊到的那个呃 personalize 那个 agent 呃，
+[Speaker 0]: 属于你个人这个 agent 应该最后的呈现方式，
+[Speaker 0]: 应该就是 on device agent。
+[Speaker 0]: 对对对对对对对，
+[Speaker 0]: 那这个 on device agent 意味着什么？
+[Speaker 0]: 就是可能最后就是以在终端手机的终端这一块所呈现的那这个终端如果呈现的话，
+[Speaker 0]: 可能对于终端的这芯芯片要求就会比较高了，
+[Speaker 0]: 对吧？
+[Speaker 0]: 那这个芯片谁去造的？
+[Speaker 0]: 就很多背后有很多的我觉得需要去思考，
+[Speaker 0]: 需要去想明白一些问题呢。
+[Speaker 0]: 苹果就就至少交一个逻辑线去避险嘛。
+[Speaker 0]: 那这些避险的一些资金，
+[Speaker 0]: 如果当我需要的话，
+[Speaker 0]: 我可能会从一些避险的资金挪一些出来。
+[Speaker 0]: 不是我说我长期不看好，
+[Speaker 0]: 而是挪一些避险的资金出来，
+[Speaker 0]: 我去加一些。
+[Speaker 0]: 我可能认为最近这段时间被错杀的一些表弟，
+[Speaker 0]: 或者我长期仍然看的些些。
+[Speaker 0]: 现在啥软件估值到后面会轮到半导体行业估值吗？
+[Speaker 0]: 呃，
+[Speaker 0]: 我只能说一定会，
+[Speaker 0]: 我只能说一定会，
+[Speaker 0]: 但是半导体你得看哪些半导体，
+[Speaker 0]: 对吧？
+[Speaker 0]: 你看呃我说过，
+[Speaker 0]: 因昨天我在聊 AMD 财报的时候，
+[Speaker 0]: 哎，
+[Speaker 0]: 且昨天还是前天嘛，
+[Speaker 0]: 我忘了我聊 m 昨天不天前天忘了。
+[Speaker 0]:  anyway，
+[Speaker 0]: 我聊 AMD 财报的时候，
+[Speaker 0]: 我说过 AMD 的估值和英伟达的估值。
+[Speaker 0]: 其实你去看他的一个 pegrature 的话，
+[Speaker 0]: 他是不贵的这两家公司 pgrature 一家在一点一，
+[Speaker 0]: 一家在一点二。
+[Speaker 0]: 他们如果能够实现未来，
+[Speaker 0]: 不用说未未来三年嘛，
+[Speaker 0]: 他们只要实现二零二六年的这一个呃营收和盈利，
+[Speaker 0]: 且在二零二六年整个今年过完之后，
+[Speaker 0]: 因为市场会往后去推嘛，
+[Speaker 0]: 他们仍然诉你未未来三年，
+[Speaker 0]: 我的需求仍然非常的强劲，
+[Speaker 0]: 升至我的需求比现在更高的话，
+[Speaker 0]: 市场自然会把这些公司的估值给买上去，
+[Speaker 0]: 相对比较高的。
+[Speaker 0]: 比如说这段时间我看那个阿斯曼的估值挺高的，
+[Speaker 0]: 要五十多倍了，
+[Speaker 0]: 对吧？
+[Speaker 0]: 也是一个周期。
+[Speaker 0]: 以以前我拿过阿斯曼，
+[Speaker 0]: 我持有过阿斯麦，
+[Speaker 0]: 阿斯麦身上，
+[Speaker 0]: 我也赚到过钱。
+[Speaker 0]: 呃，
+[Speaker 0]: 八卦在前段时间在阿斯曼相对于走的比较低，
+[Speaker 0]: 二十多倍的时候，
+[Speaker 0]: 我也点点到过阿斯曼。
+[Speaker 0]: 我说阿斯曼的估值期挺低的那他的护城河还是在那边。
+[Speaker 0]: 那过去这段时间从二十多倍涨到五十倍要翻了一倍。
+[Speaker 0]: 那不就是市场在预计它未来的这个盈盈领。
+[Speaker 0]: 我们要清楚一点，
+[Speaker 0]: 就是价格在涨的时候，
+[Speaker 0]: 我们不要去说服自己说，
+[Speaker 0]: 哎，
+[Speaker 0]: 这家公司一个基本面在变得越来越好，
+[Speaker 0]: 而是市场其实提前去定价了。
+[Speaker 0]: 未未来 PP 这个增速，
+[Speaker 0]: 我我一定要向向前去看的，
+[Speaker 0]: 一定是向前去看的。
+[Speaker 0]: 我们在做投资一定是向未来去看的。
+[Speaker 0]: 所以呃如果现在很多标的，
+[Speaker 0]: 我我不能这具体就具体标的具体分析吧，
+[Speaker 0]: 对吧？
+[Speaker 0]: 那如果估值现在比较高的一些公司，
+[Speaker 0]: 一定未来会轮到他的就是市场，
+[Speaker 0]: 一定会非常的呃看好。
+[Speaker 0]: 然后到后面 formal，
+[Speaker 0]: 然后到到最后 formal 的话，
+[Speaker 0]: 你理论上来说，
+[Speaker 0]: 就你 formal 完之后，
+[Speaker 0]: 到一家非常高的之后，
+[Speaker 0]: 自然就下跌了。
+[Speaker 0]: 自然没有更多的买家进来之后自然就下跌，
+[Speaker 0]: 这个很正常很正常。
+[Speaker 1]: 七零，
+[Speaker 1]: 你不说是否应该加大仓位，
+[Speaker 0]: 我是这么看的，
+[Speaker 0]: 就是呃回到还是回到呃，
+[Speaker 0]: 怎么说呢？
+[Speaker 0]: 就回到自己所有的一个判断逻辑里边，
+[Speaker 0]: 什么东西对你来说是更加重要的。
+[Speaker 0]: 我在昨天视频里面，
+[Speaker 0]: 我有聊到过，
+[Speaker 0]: 我说像以昨天那个人的例子，
+[Speaker 0]: 百分之八十的现金和百分之二十的价值股仓位，
+[Speaker 0]: 你觉得他应不应该加贝塔，
+[Speaker 0]: 应不应该加这些科技股进去？
+[Speaker 0]: 我觉得完，
+[Speaker 0]: 我认为完全应该好的好的，
+[Speaker 0]: 那这个前提不是说让他去 all in，
+[Speaker 0]: 让他把所有的仓位全部进去。
+[Speaker 0]: 而从现在这个位置满往下加，
+[Speaker 0]: 至于是分三次加分四次加分五次分六次。
+[Speaker 0]: 我不知道，
+[Speaker 0]: 那取决于个人的一些具体的具体操作的一些方法。
+[Speaker 0]: 那是现在这个位置是应不应该去加，
+[Speaker 0]: 我认为是可以去加的。
+[Speaker 1]: 嗯，
+[Speaker 0]: 为什么资本开支呃这么不被看好？
+[Speaker 0]: 因为呃我其实在昨天视频里面有聊到过，
+[Speaker 0]: 就是现在 AI 的这其实你回过头看看，
+[Speaker 0]: 三年前就现在资本开支也好，
+[Speaker 0]: 包括包括未来的营收也好，
+[Speaker 0]: 就已经是未知领域了。
+[Speaker 0]: 就是市场是没有办法去消化的，
+[Speaker 0]: 市场一定是秀米小米的 proo，
+[Speaker 0]: 你必须要验证给我验证啊，
+[Speaker 0]: 超出未知领域了两千亿的资本开支啊。
+[Speaker 0]: 昨天谷歌我说我们要停下来，
+[Speaker 0]: 你去思考一下一千八百亿是什么概念？
+[Speaker 0]: 二零二五年九百亿，
+[Speaker 0]: 接下去一千八百亿。
+[Speaker 0]: 但是昨天呢我有一张非常好的图给大家分享的是是因为资本开支是你现在投入，
+[Speaker 0]: 然后未来每一年去进行减记嘛。
+[Speaker 0]: 呃，
+[Speaker 0]: 从过去这段时间我们其实可以看到，
+[Speaker 0]: 无论是我昨天拿的是亚麻和呃谷歌嘛，
+[Speaker 0]: 对吧？
+[Speaker 0]: 你有一个指标可以去衡量，
+[Speaker 0]: 是 amatitization and depretiation as a percentage of revenue。
+[Speaker 0]: 他们未来所赚的赚的多少的一个营收里面有多少的占比是来自于资本开支。
+[Speaker 0]: 这个减记啊，
+[Speaker 0]: 这其实一个非常好的一个指标。
+[Speaker 0]: 就是你现在投投七块钱下去，
+[Speaker 0]: 或者投一百块钱下去，
+[Speaker 0]: 可以赚到未来这个一百块钱。
+[Speaker 0]: 类似于是这样的一个概念，
+[Speaker 0]: 这是一个比较好的一个衡量指标。
+[Speaker 0]: 市场的担心。
+[Speaker 0]: 呃，
+[Speaker 0]: 我是说市场的担心或者方向，
+[Speaker 0]: 我对于 AI 软件的一些杀跌方向我认为是合理的。
+[Speaker 0]: 就是因为他们看不到嘛，
+[Speaker 0]: 确实看不到。
+[Speaker 0]: 呃，
+[Speaker 0]: 就，
+[Speaker 0]: 所以市场要证明自己嘛，
+[Speaker 0]: 其实无论是这些软件公司也好，
+[Speaker 0]: 还是呃包括软件公司啊，
+[Speaker 0]: 包括微包包括亚马逊，
+[Speaker 0]: 包括呃芯片公司、
+[Speaker 0]: 英伟达和呃，
+[Speaker 0]: 呃，
+[Speaker 0]: 英伟达和那个 AMD 都是一样的。
+[Speaker 0]: 你 AMD 的财报，
+[Speaker 0]: 如果苏妈说的是正确，
+[Speaker 0]: 如果苏妈苏妈说的这些东西最后全部实现的话，
+[Speaker 0]: 是很夸张的。
+[Speaker 0]: 三年啊，
+[Speaker 0]: 每一年的数据中心，
+[Speaker 0]: 百分之六十的年化收入增长百分之六十呢。
+[Speaker 1]: 不敢想象这是什么意思。
+[Speaker 0]: 但问题是，
+[Speaker 0]: 现在不少基本面很好的公司，
+[Speaker 0]: 过去一两个月都在跌，
+[Speaker 0]: 然后现在是逻辑大于基本面，
+[Speaker 0]: 呃，
+[Speaker 0]: 这个市场肯定有有涨有跌嘛，
+[Speaker 0]: 对吧？
+[Speaker 0]: 可是就就那怎么去理解，
+[Speaker 0]: 举个举个反面的例子嘛，
+[Speaker 0]: 那怎么去理解苹果在一月份的时候下跌，
+[Speaker 0]: 然后二月份这两天反弹或者走的相对比较强势性的，
+[Speaker 0]: 怎么去理解呢？
+[Speaker 0]: 对吧？
+[Speaker 0]: 其实很多时候我们说说我们说的简单说的直白一点，
+[Speaker 0]: 市场就是涨多了就跌跌多了就涨。
+[Speaker 0]: 然后短期之内会有一些故事，
+[Speaker 0]: 这这故故事可能会会有一定程度的些延续，
+[Speaker 0]: 对吧？
+[Speaker 0]: 所以呃但我们在做价值投资的时候，
+[Speaker 0]: 没办法去控制这些东西，
+[Speaker 0]: 只能去利用这些东西，
+[Speaker 0]: 就只能站在更高的一个维度去利用这些东西。
+[Speaker 0]: 不一定，
+[Speaker 0]: 我们判都判断正确，
+[Speaker 0]: 我们肯定会判断错一定的。
+[Speaker 0]: 甚至于在有些公司身上可能花了比较多的一些时间成本，
+[Speaker 0]: 对吧？
+[Speaker 0]: 我如果说自己啊我说自己比如说在电影身上花了很多的一些时间，
+[Speaker 0]: 成本在于这个是没办法。
+[Speaker 0]: 但是呃我觉得如果你坚持了这条逻辑，
+[Speaker 0]: 或者你认为这条逻辑是正确的那这条路就应该走下去的。
+[Speaker 0]: 所以我就说我们要自己要找到一条属于自自己的这条被验证过可复制的一个成功的这条路。
+[Speaker 0]: 因为你知道这条路你走下去是是正确的，
+[Speaker 0]: 你会有回报。
+[Speaker 0]: 标普财从高点跌了百分之三，
+[Speaker 0]: 有多少人就血流成河了？
+[Speaker 0]: 可能你仓位比较大的，
+[Speaker 0]: 其实也我觉得也不见得血流成河，
+[Speaker 0]: 就是很多标的就看吧。
+[Speaker 0]: 就你像有些标的是从上年开始跌的，
+[Speaker 0]: 像像 balantia 上年开始跌的，
+[Speaker 0]:  rorobin 上年开始始跌。
+[Speaker 0]: 有有些标的是从上年就十月份开始跌的啊，
+[Speaker 0]: 比特币，
+[Speaker 0]: 那么从上年十月份开始跌的。
+[Speaker 0]: 呃，
+[Speaker 0]: 有些标的其实今年是呃一月份走的很好，
+[Speaker 0]: 就类似于像 sunddesk MU 啊，
+[Speaker 0]: 包括黄金是今年一月份走的非常的好。
+[Speaker 0]: 前三个月、
+[Speaker 0]: 前三个前三周，
+[Speaker 0]: 然后从最后一周开始下跌。
+[Speaker 0]: 其实也不见得血肉成河。
+[Speaker 0]: 就是你要从 YPD 去看的话，
+[Speaker 0]: 也不见得血肉成河，
+[Speaker 0]: 对吧？
+[Speaker 1]:  ok 呃，
+[Speaker 0]: 昨天想跟博主赌亚麻财报，
+[Speaker 0]: 又加了，
+[Speaker 0]: 又加上了一点，
+[Speaker 0]: 结果才雷了，
+[Speaker 0]: 我没有要去赌亚麻财报。
+[Speaker 0]: 我说如果说我包括我在 x 上，
+[Speaker 0]: 我也说了，
+[Speaker 0]: 我没有要去赌，
+[Speaker 0]: 我没有要我最后决定没去赌。
+[Speaker 0]: 亚麻财报包括我今天的一个操作。
+[Speaker 0]: 呃，
+[Speaker 0]: 但是如果你去赌财报的话，
+[Speaker 0]: 我是这么看的。
+[Speaker 0]: 就是你要你要知道，
+[Speaker 0]: 其实赌财报这只是一个它只是一个事件，
+[Speaker 0]: 就是它只是呃一方面而已。
+[Speaker 0]: 就无论是你去赌财报也好，
+[Speaker 0]: 还是你通过技术面去加仓，
+[Speaker 0]: 或者减仓一些标的也好，
+[Speaker 0]: 进去的时候要知道什么标准出来，
+[Speaker 0]: 不是说你进去了，
+[Speaker 0]: 被套了，
+[Speaker 0]: 你就常持，
+[Speaker 0]: 这是非常非常不健康的一个。
+[Speaker 0]: 你既然选择赌财报，
+[Speaker 0]: 你赌输了就应该出来。
+[Speaker 0]: 你赌赢了，
+[Speaker 0]: 你也应该出来，
+[Speaker 0]: 而不是赌赢了之后，
+[Speaker 0]: 你会发现财报非常的好。
+[Speaker 0]: 我在哪呢？
+[Speaker 0]:  no，
+[Speaker 0]: 是你进去进去之前，
+[Speaker 0]: 你得你就你就我们就得知道我们出来这个标准是什么，
+[Speaker 0]: 而不是你最散我们在做投资或者在做交易的最最最最最最不好的。
+[Speaker 0]: 就是我被套了，
+[Speaker 0]: 我就尝试，
+[Speaker 0]: 我就抱着抱着他，
+[Speaker 0]: 相信他总会回来。
+[Speaker 0]: 那万一不回来呢，
+[Speaker 0]: 那万一他花了两年才回来，
+[Speaker 0]: 花了三年才回来呢，
+[Speaker 0]: 那你被套的可就难受了，
+[Speaker 0]: 对吧？
+[Speaker 0]: 所以呃既然是选择进去赌财报，
+[Speaker 0]: 你赌输了就出来选择进去赌财报，
+[Speaker 0]: 你赌赢了也出来。
+[Speaker 0]: 技术面上买入的时候，
+[Speaker 0]: 你该该什么时候止损，
+[Speaker 0]: 止损就出来，
+[Speaker 0]: 不然的话，
+[Speaker 0]: 因为万一我们的判断是错的，
+[Speaker 0]: 怎么办？
+[Speaker 0]: 你有没有想过就是有没有想过这个问题？
+[Speaker 0]: 呃，
+[Speaker 0]: 不是所有如而且如果你压轴压的非常大的话，
+[Speaker 0]: 如果你万一判断是错的话，
+[Speaker 0]: 那结束了就对吧？
+[Speaker 0]: 我们在做在在做投资或者在做交易的时候，
+[Speaker 0]: 你如果你仓位非常的大，
+[Speaker 0]: 优势加杠杆进去，
+[Speaker 0]: 你一次解锁你就没了，
+[Speaker 0]: 我们是输不起的。
+[Speaker 0]: 所以呃我我我我一直觉得风控本身呃比策略呃标的方法要重要的多得多，
+[Speaker 0]: 是所有里面最重要的。
+[Speaker 0]: 因为从长期的一个角度去看，
+[Speaker 0]: 没有风控的话，
+[Speaker 0]: 你再是怎么样的一个策略。
+[Speaker 0]: 你短期之内再赚了多少钱都没有用，
+[Speaker 0]: 最终还是呃会以某种方式会回去的。
+[Speaker 0]: 呃，
+[Speaker 0]: 现在是空仓，
+[Speaker 0]: 然后想买一些一七零的 MVDA，
+[Speaker 0]: 这个价格划算吗？
+[Speaker 0]: 我觉得是 ok 的。
+[Speaker 0]: 如果空仓的话，
+[Speaker 0]: 我觉得你现在去买一些 MVDA 的话是可以的。
+[Speaker 0]: 微软还有一个游戏业务，
+[Speaker 0]: 上半年 steam 也要进来。
+[Speaker 0]: 谁谁现在关注游戏业务，
+[Speaker 0]: 没人看这些东西，
+[Speaker 0]: 只看你资本开支，
+[Speaker 0]: 只看你云确实是看这样，
+[Speaker 0]: 因为包括呃呃英伟达也是一样，
+[Speaker 0]: 那个 AMD 也是一样，
+[Speaker 0]: 还有人看他什么 embedding，
+[Speaker 0]: 还有人看他其他的一些业务吗？
+[Speaker 0]: 没人看了，
+[Speaker 0]: 就就看你 data 三这这一块，
+[Speaker 0]: 因为他占体量太大太大了，
+[Speaker 0]: 对吧？
+[Speaker 1]: 好，
+[Speaker 0]: 呃，
+[Speaker 0]: 其实也没有跌很多啊，
+[Speaker 0]: 百分之五都不到，
+[Speaker 0]: 为什么要那么紧张？
+[Speaker 0]: 是这样，
+[Speaker 0]: 我也没觉得可能比较就像我前面说的，
+[Speaker 0]: 可能跌的比较多的是一些呃软件个股，
+[Speaker 0]: 然后呃大科技的嘛。
+[Speaker 0]: 像今天亚麻出现了比较大跌幅，
+[Speaker 0]: 然后像 AMD 出现了比较大的这个跌幅，
+[Speaker 0]: 那主要其实也是 AMD 是擦掉了前段时间的一个涨幅嘛。
+[Speaker 0]: 那亚麻会跌的比较多，
+[Speaker 0]: 亚麻就跌百分之十的话，
+[Speaker 0]: 盘国跌百分之十会跌的比较多，
+[Speaker 0]: 也要回到好几个月之前的这个价格了。
+[Speaker 0]: 然后还有一些就相对中小盘股了也不算也不算小盘股了，
+[Speaker 0]: 怎么赚？
+[Speaker 0]: 我前面说的论 part 啊，
+[Speaker 0]: 论 part 啊，
+[Speaker 0]:  pt t 也是散户比较多的一些仓仓库里里，
+[Speaker 0]: 因为都赚的比较较嘛，
+[Speaker 0]: 就特别是从上年四月份到现在，
+[Speaker 0]: 对吧？
+[Speaker 0]: 所以就很多人说明明市场没法跌，
+[Speaker 0]: 但是我的体感却不一样，
+[Speaker 0]: 为啥呢？
+[Speaker 0]: 其实是因为要不就你就追高了这些标的身上最高了，
+[Speaker 0]: 要不就是呃在在很多标的身上仓位会比较大一些。
+[Speaker 1]: 好，
+[Speaker 0]: 呃，
+[Speaker 0]:  influence 可能越来越不需要 GPU 了，
+[Speaker 0]: 呃，
+[Speaker 0]: 这是有可能的。
+[Speaker 0]: 因为这这次在亚麻，
+[Speaker 0]: 在亚麻财报里里也聊到了了，
+[Speaker 0]: 他们后面的他们 backrock，
+[Speaker 0]: 现在底层全部是 training，
+[Speaker 0]: 呃，
+[Speaker 0]: 全部用的他们的自研芯片。
+[Speaker 0]: 呃，
+[Speaker 0]: 因为他们的客户需要的就是啊便宜，
+[Speaker 0]: 有有有更便宜的这个这个选择在在里边。
+[Speaker 0]: 呃，
+[Speaker 0]: 现在的逻辑可能是他们投那么多钱啊，
+[Speaker 0]: 买芯片怕是呃怕不是要烂在手里，
+[Speaker 0]: 真要烂在手里的话，
+[Speaker 0]: 芯片就卖不动了。
+[Speaker 0]: 呃，
+[Speaker 0]: 不是我如果要看他有听他们财报的话，
+[Speaker 0]: 其实不是，
+[Speaker 0]: 就是他们之所以今今天这之所以这次谷歌和亚麻都是大幅度增加资本开始，
+[Speaker 0]: 某种程度会回过头去看微软还是最保守的那个，
+[Speaker 0]: 对吗？
+[Speaker 0]: 呃，
+[Speaker 0]: 他们都看到了需求，
+[Speaker 0]: 他必须是有需求，
+[Speaker 0]: 他才会去砸那么大的资本开支下去。
+[Speaker 0]: 而且现在砸都是砸，
+[Speaker 0]: 现在砸资资本支支都是要起码反映到反映在两到三年一到两年之后了。
+[Speaker 0]: 虽然现在砸下去，
+[Speaker 0]: 你数据中心起来之后，
+[Speaker 0]: 你就可以马上有营收。
+[Speaker 0]: 但这个背后的需需求两部分，
+[Speaker 0]: 一部分是他们对于未来的这个看好，
+[Speaker 0]:  AI 的这个看好。
+[Speaker 0]: 当然这一部分是预期，
+[Speaker 0]: 他有可能是错的对么？
+[Speaker 0]: 第二部分是现有的这个需求，
+[Speaker 0]: 非常的高要去满足现有的这个需求。
+[Speaker 0]: 呃，
+[Speaker 0]: 亚麻背后或者这个订单同比增速百分之四十。
+[Speaker 0]: 那他们订单他们，
+[Speaker 0]: 你想他云这一块的增速才一千四百二十一嘛，
+[Speaker 0]: 呃体量嘛，
+[Speaker 0]: 云这一块的增速才百分之二十四。
+[Speaker 0]: 但是订单的一个增速百分之四十就背后也确实有非常大的一个订单。
+[Speaker 1]: 我要市场觉得 AI 的需求没有那么的大大科技投入，
+[Speaker 0]: 那么多要亏钱，
+[Speaker 0]: 这个是矛盾的逻辑线嘛，
+[Speaker 0]: 这绝对是矛盾逻辑。
+[Speaker 0]: 就是你不可能一边认为 enthropic 能够破坏所有的软件公司，
+[Speaker 0]: 这所有的那么多软件公司都在被杀跌。
+[Speaker 0]: 同时你又认为 AI 没有那么没有落地，
+[Speaker 0]: 然后需求没有的代码，
+[Speaker 0]: 没有那么的大 enthropic 真的能够破坏那么多软件公司的话，
+[Speaker 0]: 那他背后对于算力的这个需求，
+[Speaker 0]: 包括背后 inference 这个需求绝对是巨大的，
+[Speaker 0]: 绝对是巨大的。
+[Speaker 0]: 所以你不可能同时在看空软件的时候，
+[Speaker 0]: 看空看好 AI 能够去破坏这些软件公司，
+[Speaker 0]: 然后又觉得背后没有 AI 的需求，
+[Speaker 0]: 对吧？
+[Speaker 0]: 呃，
+[Speaker 0]:  UNH 跟 AI 没有关系，
+[Speaker 0]: 为什么它也跌？
+[Speaker 0]: 我看到了今天 UNH 跌，
+[Speaker 0]: 然后我看到它盘后也在跌，
+[Speaker 0]: 我没看它性能是什么。
+[Speaker 0]: 我呃如果它跌到，
+[Speaker 0]: 我记得上次我说二五零嘛的，
+[Speaker 0]: 我记得那个估值我回过头再去看一下。
+[Speaker 0]: 如果跌到那个位置的话，
+[Speaker 0]: 呃，
+[Speaker 0]:  UNH 我还是愿意再加一些仓位进去的。
+[Speaker 0]: 呃，
+[Speaker 0]: 有没有可能 AI 不是泡沫，
+[Speaker 0]: 但 AI 的赢家最终会比现在的巨头数量少，
+[Speaker 0]: 导致整个 cap 收缩。
+[Speaker 0]: 嗯，
+[Speaker 0]: 我觉得 admmination 吧，
+[Speaker 0]: 你你你没办法，
+[Speaker 0]: 呃，
+[Speaker 0]: 没办法，
+[Speaker 0]: 现在去判断哪个大模型可以走出来。
+[Speaker 0]: 但是呃我觉得算力的这个，
+[Speaker 0]: 特别是对于起码对于数据中心这一块的需求吧，
+[Speaker 0]: 这个几乎是呃数据中心，
+[Speaker 0]: 就是以后的店嘛，
+[Speaker 0]: 对吧？
+[Speaker 0]: 就类似于就数据中心以后的店，
+[Speaker 0]: 就是 commodity 嘛，
+[Speaker 0]: 它就是你必须要帮助你 AI 落地，
+[Speaker 0]: 就你 AI 一定未来有落地或者能够破坏的领域非常大的话，
+[Speaker 0]: 那你必须要有数据中心。
+[Speaker 0]: 就其实我觉得在数据中心这一块，
+[Speaker 0]: 呃，
+[Speaker 0]: 这是一个必然的一个趋势。
+[Speaker 0]: 我觉得这个这个很难其实很难改掉。
+[Speaker 0]: 那那无非就是三家就三家公司了。
+[Speaker 0]: 那么谷歌啊、
+[Speaker 0]: 谷歌、
+[Speaker 0]: 微软和亚马逊，
+[Speaker 0]: 当然啊呃 oracle 那么很大一部分的订单是在 open i 身上，
+[Speaker 0]: 他们的赌注会比较大一些。
+[Speaker 0]: 而其他的三家公司，
+[Speaker 0]: 当然谷歌就自己嘛，
+[Speaker 0]: 谷歌完全是自己自己管自己的。
+[Speaker 0]: 另外微软现在已经往慢慢的往亚麻的这个方向去走了。
+[Speaker 0]: 我觉得呃起码云是非常确定，
+[Speaker 0]: 我觉得云的确定性其实很高。
+[Speaker 0]: 呃，
+[Speaker 0]:  MBD 二月的财报还安全吗？
+[Speaker 0]: 取决于你进入财报，
+[Speaker 0]: 这些市场的情绪面是怎么样的。
+[Speaker 0]: 如果市场情绪面有一些反转的话呢，
+[Speaker 0]: 也许 NV dia 的们就可以把市场情绪面给带回来。
+[Speaker 0]: 嗯，
+[Speaker 1]: 没啥安全不安全一说呃，
+[Speaker 0]: 大盘走势和上年的走势很像啊，
+[Speaker 0]: 感觉快要变成四月的走势，
+[Speaker 0]: 就是变成四月的走势。
+[Speaker 0]: 你怎么说呢？
+[Speaker 0]: 呃，
+[Speaker 0]: 你做做好这个准备吧，
+[Speaker 0]: 就我觉得今年上半年对于很多东西还是要消化一些的，
+[Speaker 0]: 因为确实有很多标的身上它太满了嘛。
+[Speaker 0]: 啊，
+[Speaker 0]: 但是像微软这种独立的微软和软件板块，
+[Speaker 0]: 它是一个比较独立的行情。
+[Speaker 0]: 那有独立的行情，
+[Speaker 0]: 独立分析，
+[Speaker 0]: 我不大啊，
+[Speaker 0]: 愿意把唉这个现在板块已经跌成十了。
+[Speaker 0]: 然后接下去大盘回调的话，
+[Speaker 0]: 这些板块还会下跌。
+[Speaker 0]: 我一般不大会这么看，
+[Speaker 0]: 因为呃还是我觉得还是注重注重注重个别的一些标的。
+[Speaker 0]: 就就好比类似于你说大科技要跌的话，
+[Speaker 0]: 那为什么大科技跌苹果不跌呢？
+[Speaker 0]: 它肯定还是有背后的逻辑。
+[Speaker 0]: 现在那边的那为什么就前段时间大科技涨，
+[Speaker 0]: 然后苹果它跌呢？
+[Speaker 0]: 对吧？
+[Speaker 0]: 一样的一个道理，
+[Speaker 0]: 就是不见得大家都想下跌，
+[Speaker 0]: 它就得下跌。
+[Speaker 1]: 嗯，
+[Speaker 0]: 呃最近有另外一个想法，
+[Speaker 0]: 这轮 AI 基建搞完可能最终收益的不是 AI 能做什么，
+[Speaker 0]: 而是电力系统啊，
+[Speaker 0]: 倒是更新了一大波电力系统，
+[Speaker 0]: 以后的更新肯定会越来越多嘛，
+[Speaker 0]: 对吧？
+[Speaker 0]: 以后以后的维护啊，
+[Speaker 0]: 这些东西肯定会要越来越多。
+[Speaker 0]: 所以对于这些维护的公司，
+[Speaker 0]: 其实长期来说，
+[Speaker 0]: 这就是一个呃相对相对确定性会比较高的。
+[Speaker 0]: 所以这些标的本身如果呃价格下去啊，
+[Speaker 0]: 也是可以也是可以布局。
+[Speaker 0]: 那是的是这，
+[Speaker 0]: 但其实 TV 本身它呃既做电力的这个提用，
+[Speaker 0]: 然后也做电力这个维护嘛，
+[Speaker 0]: 就也有 service 这一块靠。
+[Speaker 0]: 呃，
+[Speaker 0]: 想问一下，
+[Speaker 0]: 为什么市场现在预估今年只会降息两次，
+[Speaker 0]: 但呃握实不是希望一边大幅降息，
+[Speaker 0]: 一边，
+[Speaker 0]: 然后一边缩表。
+[Speaker 0]: 呃，
+[Speaker 0]: 我上次说过这个问题就缩表，
+[Speaker 0]: 他不是想缩就缩的，
+[Speaker 0]: 现在是不现在是绝对没有这个空间去缩表的那这是第一点，
+[Speaker 0]: 除非他们背后改一些政策，
+[Speaker 0]: 让让银行去松先。
+[Speaker 0]: 对，
+[Speaker 0]: 先得先要对银行在 capital 这一块去松绑，
+[Speaker 0]: 松绑完之后，
+[Speaker 0]: 他们才能够才有可能继续缩表，
+[Speaker 0]: 这是第一点。
+[Speaker 0]: 所以他说要缩表，
+[Speaker 0]: 他绝对没有这个能力去缩表现，
+[Speaker 0]: 在没有这个能力就没有这个空间给他去缩表。
+[Speaker 0]: 会不会降息？
+[Speaker 0]: 这就可能会比较的主观一些，
+[Speaker 0]: 但他偏向于降息，
+[Speaker 0]: 或者他能够说服其他人一起帮他去降降息就可以。
+[Speaker 0]: 市场为什么举预期降息两次？
+[Speaker 0]: 我我 consensus 可能市场觉得波动也没有，
+[Speaker 0]: 可能你也可以理解为即使卧室上来之后，
+[Speaker 0]: 市场也没有太把它当回事吧，
+[Speaker 0]: 对吧？
+[Speaker 0]: 而且我势要到五月份才上台，
+[Speaker 0]: 那么可能市场没太关，
+[Speaker 0]: 没太当回事。
+[Speaker 0]: 但是今天我看两年期下跌了十个基点，
+[Speaker 0]: 市场可能下跌，
+[Speaker 0]: 反正降息的概率应该上升。
+[Speaker 0]: 但我觉得最近呃影响没那么的大，
+[Speaker 0]: 嗯，
+[Speaker 0]: 先把宏观这一块对市场的影响没那么的大。
+[Speaker 0]: 呃，
+[Speaker 0]: 债务这一块，
+[Speaker 0]: 亚麻一千现金一千两百亿，
+[Speaker 0]: 债务六百，
+[Speaker 0]: 债务六百要投资两千亿，
+[Speaker 0]: 未来得融资吗？
+[Speaker 0]: 呃，
+[Speaker 0]: 有可能要融资。
+[Speaker 0]: 但是大科技你会发现大科技本身就有债务。
+[Speaker 0]: 你知道大科技的债务是用来干嘛？
+[Speaker 0]: 大科技的债务是用来呃呃，
+[Speaker 0]: 并不是没有债务的公司，
+[Speaker 0]: 就一定是家好公司。
+[Speaker 0]: 不是的，
+[Speaker 0]: 就是你你会发现从大公司这个角度，
+[Speaker 0]: 他们很多时候去融资，
+[Speaker 0]: 融融资用来干嘛？
+[Speaker 0]: 用来做回购和拍股息，
+[Speaker 0]: 他们会或来他们会来这么做。
+[Speaker 0]: 因为只要你这家大科企，
+[Speaker 0]: 你本身是自由现金流是正的，
+[Speaker 0]: 你根本就不需要融资嘛，
+[Speaker 0]: 对吧？
+[Speaker 0]: 未来是有可能会需要融资的，
+[Speaker 0]: 但我其实没有太过于担心，
+[Speaker 0]: 我其实没有太过担心。
+[Speaker 0]: 因为其实这些大科技呃，
+[Speaker 0]: 你想微软其实某种程度，
+[Speaker 0]: 我觉得微软呃如果他们能够做到的话，
+[Speaker 0]: 他们能够做到他们现在给的盈利指引的话，
+[Speaker 0]: 他其实是最稳的。
+[Speaker 0]: 就是他其实最不用担心 ROY 的问题。
+[Speaker 0]: 微软，
+[Speaker 0]: 那么在这种情况下，
+[Speaker 0]: 在那么大的资本开支情况下，
+[Speaker 0]: 在以前那么那么大一资本开支情况下，
+[Speaker 0]: 然后今年 EPS 还可以做到百分之十六、
+[Speaker 0]: 百分之十五、
+[Speaker 0]: 百分之十六呃，
+[Speaker 0]: 百分之十五到十八吧低嘛，
+[Speaker 0]: 这不就是最好的一个 RY 嘛，
+[Speaker 0]: 对吧？
+[Speaker 0]: 所以我其实没那么的担心啊。
+[Speaker 0]: 我看到前面有人问了怎么看 circle，
+[Speaker 0]: 我我其实我说今天下午我在研究那个谷歌的那个呃呃，
+[Speaker 0]: 这就 commerce 这一块，
+[Speaker 0]: 他 AP two 的这个协议。
+[Speaker 0]: 然后这个协议里面我说包括了很多家大公司，
+[Speaker 0]: 然后呃我聊到了有有 ebate，
+[Speaker 0]: 然后有 visa 有有 paper，
+[Speaker 0]: 包括在支付这一块的一个落地。
+[Speaker 0]: 我得我得非常因为我我感觉这可能是今年那个 catalyst 呃，
+[Speaker 0]: 就整个 agency commerce 这一块的落地啊，
+[Speaker 0]: 对于未来的支付这一块可能会有看到，
+[Speaker 0]: 就可能是完全改变了未来啊支付的一些方式。
+[Speaker 0]: 这 acacconmies 其实比较生根的啊 coconmies 它呃主要他们依赖的一个呃稳定币，
+[Speaker 0]: 就是 USDC 嘛。
+[Speaker 0]: 所以我其实在看我得把这方面，
+[Speaker 0]: 就今年嘛这些 cvas 完全想清楚，
+[Speaker 0]: 然后呃去找一个比较合适的一些仓位的去考虑是不是要加仓。
+[Speaker 0]:  MSTR 成了垃圾股。
+[Speaker 0]: 二二年的时候，
+[Speaker 0]:  MSTR 也是个垃圾股。
+[Speaker 0]: 我记得因为我是经历了一轮比呃币圈的一个熊市嘛。
+[Speaker 0]: 我记得在呃二二年的时候，
+[Speaker 0]:  coin base 最低的时候，
+[Speaker 0]: 我我忘了最低到多少了。
+[Speaker 0]: 我记得当时和一个朋友在聊的时候，
+[Speaker 0]: 我说五十以下的 coin base，
+[Speaker 0]: 我我一定买后，
+[Speaker 0]: 但后来没判到五十，
+[Speaker 0]: 我就在上二二二年的。
+[Speaker 0]: 哎，
+[Speaker 0]: 忘了十一月份十一月份吧。
+[Speaker 0]: 但是对你想一下，
+[Speaker 0]: 能够如果能够在五十或者六十能够买入买到，
+[Speaker 0]: 现在你不放掉的话，
+[Speaker 0]: 你也对也必须得对这个行业非常的看好嘛，
+[Speaker 0]: 对吧？
+[Speaker 0]: 我不是说我们一定要经历一个二二年，
+[Speaker 0]: 或者一定要经历二二年之后的一个二三二四年。
+[Speaker 0]: 但以呃很多东西就是一个周期嘛，
+[Speaker 0]: 我在二一年那个周期是在 MSTR 身上亏过钱的。
+[Speaker 0]: 所以 MSTR 身上我其实非常的谨慎。
+[Speaker 0]: 那么包括对于 MST 去看法他的一些溢价本身，
+[Speaker 0]: 包括我觉得是一样的一个逻辑性。
+[Speaker 0]: 对，
+[Speaker 0]: 因为他这些标的是上他他不是垃圾股，
+[Speaker 0]: 就有多多人说哎，
+[Speaker 0]: 特要螺旋螺旋啊，
+[Speaker 0]: 螺旋爆雷，
+[Speaker 0]: 他不会的，
+[Speaker 0]: 他不会他他没他不会螺旋爆雷，
+[Speaker 0]: 就他可以融资。
+[Speaker 0]: 比如说他融不了资，
+[Speaker 0]: 他怎么融不了二二年 MSTR 都能够融资呢，
+[Speaker 0]: 今年不能融资吗？
+[Speaker 0]: 就今年这种市场，
+[Speaker 0]: 你觉得他融不到资么？
+[Speaker 0]: 他绝对可以融资的，
+[Speaker 0]: 所以而且又利用了过去二二五年的这个市场。
+[Speaker 0]: 他把很多原来在二二年融的的些资资，
+[Speaker 0]: 全部往往去推推，
+[Speaker 0]: 就到期，
+[Speaker 0]: 这时时全全部往后推推。
+[Speaker 0]: 呃，
+[Speaker 0]: 好吧，
+[Speaker 0]: 所以我觉得这这些些这些公司呃算不上上垃圾圾股，
+[Speaker 0]: 但是它就是一个交易市场情绪面的一个标的，
+[Speaker 0]: 请市场溢价的一个标的。
+[Speaker 0]: 所以就是买在首先你要碰这些标题，
+[Speaker 0]: 你一定得看好加密市场，
+[Speaker 0]: 对吧？
+[Speaker 0]: 比特币你要你你要交易 MS 加一定得看好。
+[Speaker 0]: 比特币要交易编码，
+[Speaker 0]: 一定看好以太坊在这个基础上，
+[Speaker 0]: 然后我的思路一直是在比特币和 MS 加之间去切换，
+[Speaker 0]: 什么时候去切换？
+[Speaker 0]: 然后以太坊和我还没碰过，
+[Speaker 0]: 我从来没碰过 IB 那个编码的以太坊和编码之间去做切换。
+[Speaker 0]: 如果你看好以太坊的话，
+[Speaker 1]: 是留点钱给 space x 和 anthropic IPO。
+[Speaker 0]: 嗯，
+[Speaker 0]: 我觉得你要不就现在投，
+[Speaker 0]: 你要不就是等他 IPO 的话，
+[Speaker 0]: 可能是对于市场非常大的一个邂吼。
+[Speaker 0]: 因为本身一级市场这些非常大体的这些公司到二级市场来上，
+[Speaker 0]: 来到二级市场来的话，
+[Speaker 0]: 它是一个吸血的一个效应，
+[Speaker 0]: 它对于整体市场其实不见得是一件好事。
+[Speaker 0]: 因为体量太大了，
+[Speaker 0]: 比特币号称数字黄金，
+[Speaker 1]: 但目前看是数字塑料呃嗯开开发利好半导体。
+[Speaker 0]: 但英伟达呃 AMD 的么那个 ABGO 嗯，
+[Speaker 0]: 最近近期都走的不好，
+[Speaker 0]: 是这样。
+[Speaker 0]: 呃，
+[Speaker 0]: 我觉得陈毅发炒的技术怎么样，
+[Speaker 0]: 我是他背后的一个操盘手么？
+[Speaker 0]: 你想太多了呃，
+[Speaker 0]: 他比我吵的好，
+[Speaker 0]: 我觉得陈一凡发姐比我厉害哦。
+[Speaker 0]:  eamazon 和微软都投资了 enthroropic，
+[Speaker 0]: 但还是呃下跌的很，
+[Speaker 0]: 对吗？
+[Speaker 0]: 你想 anththropic 它的估值，
+[Speaker 0]: 这两家公司都占了呃 emamadon 占很大体量的。
+[Speaker 0]: 然后微软其实没那么大，
+[Speaker 0]:  m mazon 体量很大的。
+[Speaker 0]: 然后剩下是，
+[Speaker 0]: 然后下面是谷歌嘛，
+[Speaker 0]: 我上次有发过 emadon，
+[Speaker 0]: 占了百分之十到百分之十五的这个股份。
+[Speaker 0]: 某种程度 anthropic 它的应用落地越好。
+[Speaker 0]: 对于亚马逊来说，
+[Speaker 0]: 它不单是利好它的 a 的增速，
+[Speaker 0]: 它在呃那个那个呃 equity 这一块他也会很好。
+[Speaker 0]: 因为 and topic 你如果上市的话，
+[Speaker 0]: 那亚马逊直接你想你想 anthropic 从原来的三三三百个 billion 未来到一个缺点的话，
+[Speaker 0]: 你三百个变点到一个缺点，
+[Speaker 0]: 涨了七百个，
+[Speaker 0]: 然后七百个 billion。
+[Speaker 0]: 那对于亚马来说就是一百个 billion 一个一个一个百分之十五嘛。
+[Speaker 0]: 那七百然后百分之十五就是一百一百零五个 illion，
+[Speaker 0]: 那一百零五个变点一百零五个 billion 一个一个一个赚钱嘛。
+[Speaker 1]: 就你原来的这笔投资是对就是现在市场就单纯的在惩罚这些高投入的公司嘛。
+[Speaker 0]: 就是你可以说他们花钱花太多了。
+[Speaker 0]: 但是我觉得还是那句话，
+[Speaker 0]: 就我们在投公司的时候，
+[Speaker 0]: 我们很多时候，
+[Speaker 0]: 因为未来一定是有不确定性的，
+[Speaker 0]: 我们难以保证我们自己的判断永远是正确的对吧？
+[Speaker 0]: 这毫无疑问的，
+[Speaker 0]: 包括管理层也难以保证，
+[Speaker 0]: 他们的判断一定是正确的。
+[Speaker 0]: 呃，
+[Speaker 0]: 所以在这种基础上，
+[Speaker 0]: 很多时候我们在看管理层的时候怎么去看。
+[Speaker 0]: 那只能你看他 track record，
+[Speaker 0]: 你看他以前说过的话，
+[Speaker 0]: 你是不是相信他小佳。
+[Speaker 0]: 我觉得因为现在塔股价在高位，
+[Speaker 0]: 所以很多人就哎麦塔怎么怎么样。
+[Speaker 0]: 但是塔股价在低位的时候，
+[Speaker 0]: 你我们都你们都不知道，
+[Speaker 0]: 我作为那做视频给大家做视频的，
+[Speaker 0]: 我非常的清楚，
+[Speaker 0]: 当下是当时市场对于塔的兴趣面有多低低到你低到你难以想象，
+[Speaker 0]: 那么买它各种不好。
+[Speaker 0]: 但是小扎他在二四，
+[Speaker 0]: 后来你在二三年，
+[Speaker 0]: 在二四年，
+[Speaker 0]: 在二五年我们就看到了整个塔营收的这个回来。
+[Speaker 0]: 你知道当时市场就不理解嘛。
+[Speaker 0]: 但是小扎就告诉你，
+[Speaker 0]: 为啥我的营收的增速可以比谷歌还要高？
+[Speaker 0]: 当然它的体量广告业务这块的体量没有谷歌要高。
+[Speaker 0]: 但是为啥我能够起回来？
+[Speaker 0]: 就是因为我以前在 mata i 这块的投入就那么简单。
+[Speaker 0]: 所以我告诉你，
+[Speaker 0]: 我以前的这个投入，
+[Speaker 0]: 我现在是有回报。
+[Speaker 0]: 这就是小扎最后用结果告诉市场，
+[Speaker 0]: 我以前的这个投入。
+[Speaker 0]: 呃，
+[Speaker 0]: 为什么你们能够看到我二三二四二五零收的增速可以那么高？
+[Speaker 0]:  EPI 增速可以那么高，
+[Speaker 0]: 我可以回来，
+[Speaker 0]: 我可以逆境反罪。
+[Speaker 0]: 就是因为我以前的这个投入亚麻也是一样的。
+[Speaker 0]: 那谷歌也是一样的，
+[Speaker 0]: 就是他们这些公司都是有 track record，
+[Speaker 0]: 都是有以前有非常好的这个呃标准告诉你我以前这个投入我是可以收回来。
+[Speaker 0]: 那现在市场怀疑，
+[Speaker 0]: 你也可以说他们怀疑的是合理的，
+[Speaker 0]: 但是是不是一定对那所以这就是当市场出现分析的时候，
+[Speaker 0]: 作为投资者我自己可以做选择的那我可以选择站在市场这边，
+[Speaker 0]: 认为这些大科技投入是过高了。
+[Speaker 0]: 那我们也可以选择大站在这些大科技身上，
+[Speaker 0]: 认为他们的投资是为了未来可以获得更多的这个市场。
+[Speaker 1]: 且未来这个 AI 的这个市场是为什么会这么大我操啊？
+[Speaker 0]: 所以 AMD 百分之六十的增长可信度有多高。
+[Speaker 0]: 我不是说就呃我再给大家举个例子，
+[Speaker 0]: 就呃 AMD 呃不是说苏妈每一次都对苏妈，
+[Speaker 0]: 我觉得苏妈在二一年的一季二二年的一季度他有当时他判断的是错误的。
+[Speaker 0]: 当时他判断整个市场呃呃，
+[Speaker 0]:  PC 业务吧，
+[Speaker 0]: 我记得当时放缓的一个速度远比他预测的要差。
+[Speaker 0]: 那么当时他做了一个判断，
+[Speaker 0]: 后来他间接的他承认了他当时这个判断是错的。
+[Speaker 0]: 如果不是说管理层的判断就一定是正确的。
+[Speaker 0]: 但是你你即使在头单，
+[Speaker 0]: 那个时候，
+[Speaker 0]: 你现在 AMD，
+[Speaker 0]: 你也你也有回访是一样的。
+[Speaker 0]: 所以还是看短期之内，
+[Speaker 0]: 没有一个管理层，
+[Speaker 0]: 或者没有一个人可以对于未来有非常准确的这个判断。
+[Speaker 0]: 但是我觉得起码在我们说二六年吧，
+[Speaker 0]: 我认为很多需求都是比较确定的，
+[Speaker 0]: 因为他的订单都已经进来了嘛，
+[Speaker 0]: 对吧？
+[Speaker 0]: 呃，
+[Speaker 0]: 微呃那个 AMD 比较大的客户是那个那个那个麦塔，
+[Speaker 0]: 所以他很多订单都已经进来，
+[Speaker 0]: 所以包括呃包括那个英伟达也是一样的。
+[Speaker 0]: 二六年的订单基本都已经确定了。
+[Speaker 0]: 某种程度二六年的营收和盈利，
+[Speaker 0]: 它基本都是确定的风险在哪？
+[Speaker 0]: 就是在二七年二八年没那么的确定。
+[Speaker 0]: 那么所以我就像我说的半年之后，
+[Speaker 0]: 我们再回过头来看，
+[Speaker 0]: 只要因为不单是，
+[Speaker 0]: 首先财报本身不会有，
+[Speaker 0]: 我不能说百分之一百吧。
+[Speaker 0]: 因为大概率的情况下，
+[Speaker 0]: 百分之八九十不会有非常大的一些出入。
+[Speaker 0]: 因为我说的订单是非常确认的，
+[Speaker 0]: 但是随着这两个季度的财报发完之后，
+[Speaker 0]: 他得给指引嘛，
+[Speaker 0]: 他得看未来的这个需求嘛。
+[Speaker 0]: 所以市场所以当半年之后，
+[Speaker 0]: 我们再回过头来看的话，
+[Speaker 0]: 当我们对于二七年有了一定的一个 visibility 了之后，
+[Speaker 0]: 当管理层对于二七年有了 visibility 之后啊，
+[Speaker 0]: 包括中间会有很多些新闻出来了。
+[Speaker 0]: 比如说你两个公司又合作了等等。
+[Speaker 0]: 有了 visibility 之后，
+[Speaker 0]: 市场自然就会知道哦，
+[Speaker 0]: 原来我这段时间对于这些公司的一个悲观是不合理的那对于大科技这一块的资本投入资本开支也是一样的一个道理，
+[Speaker 1]: 它是需要验证的一个过程啊，
+[Speaker 0]: 这个是比特币的牢记了。
+[Speaker 0]: 那么一转眼呃，
+[Speaker 0]: 我经历了第四次比特币熊市了。
+[Speaker 0]: 一一年在电脑上挖了半年，
+[Speaker 0]: 亲眼看到从三十跌到了一二年初的两块世事沧桑。
+[Speaker 0]: 往事如烟，
+[Speaker 0]: 历史不会简单重复，
+[Speaker 0]: 但场上押韵嗯，
+[Speaker 0]: 老解。
+[Speaker 0]: 呃，
+[Speaker 0]:  k 呃现在这个时候如何判断适合的买点？
+[Speaker 0]: 呃，
+[Speaker 0]: 首先我我我个人我给大家做一个参考，
+[Speaker 0]: 就是我我说过我个人的判断标准是基本面，
+[Speaker 0]: 然后市场的情绪面。
+[Speaker 0]: 然后最后技术面技术面如果有共振的话，
+[Speaker 0]: 那基本面宏观情绪面，
+[Speaker 0]: 然后呃呃技术面四个角度，
+[Speaker 0]: 那么如果有如果有共振，
+[Speaker 0]: 那就 perfect。
+[Speaker 0]: 所谓的共振就是基本面也可以买，
+[Speaker 0]: 宏观也可以买，
+[Speaker 0]: 呃，
+[Speaker 0]: 情绪面也可以买，
+[Speaker 0]: 技术面也可以买。
+[Speaker 0]: 所以我们要排序的话，
+[Speaker 0]: 知道哪个东西在哪个这段更加的重要，
+[Speaker 0]: 而不是简简的。
+[Speaker 0]: 而且我说呃标的本身它不是今天的那个标的，
+[Speaker 0]: 不是它接下去会涨还是跌不一样的。
+[Speaker 0]: 就每个标的背后所代表的风险是不一样的。
+[Speaker 0]: 那正因为它承担着不同的风险，
+[Speaker 0]: 所以在整体投资组合里面的一个占占比是不一样的。
+[Speaker 0]: 那我之所以从在从上年四月份就开始把自己所有的仓位呃仓位的这个占比分享出来。
+[Speaker 0]: 是因为标的本身我很多，
+[Speaker 0]: 因为很多人会误解，
+[Speaker 0]: 就是我对这个标的非常的看好。
+[Speaker 0]: 我聊了很多次，
+[Speaker 0]: 但是他放了很多的仓位。
+[Speaker 0]: 我说你放了那么多仓位，
+[Speaker 0]: 那是不是因为是不是应该有些有时候这些标的出现下跌的时候，
+[Speaker 0]: 我应该来向大家要一碗鸡汤，
+[Speaker 0]: 对吧？
+[Speaker 0]: 因为你比我的 conversion 更高。
+[Speaker 0]: 那你说你在这个这个标题本身占你参位的这个占比你比我高很多很多。
+[Speaker 0]: 那这就是为什么我把占比也分享出来，
+[Speaker 0]: 是我希希望通过这个占比起码我自己的这个呃风险偏好吧，
+[Speaker 0]: 就可以从呃标的和他每一个标的这个占比可以和大家分享这个是。
+[Speaker 0]: 但是我的风风险偏好和大家基本上每一个人都是不一样。
+[Speaker 0]: 那所以我在降贝塔的时候，
+[Speaker 0]: 我说你无论你降到零一一点零，
+[Speaker 0]: 降到零点八零点六都可以，
+[Speaker 0]: 你自己觉得舒适就可以了。
+[Speaker 0]: 那么我舒适的程度，
+[Speaker 0]: 你自己觉得你你在仓仓，
+[Speaker 0]: 明天睡睡不睡得着，
+[Speaker 0]: 这是自己的一个舒适程度。
+[Speaker 0]: 所以什么时候判断是一个买点？
+[Speaker 0]: 呃，
+[Speaker 0]: 我就从很多个角度可以去解释基本面技呃，
+[Speaker 0]: 技术面也许很多人认为不是一个买点，
+[Speaker 0]: 因为跌破了那就别买。
+[Speaker 0]: 如果技术面对你来说是非常重要的话。
+[Speaker 0]: 情绪面我认为比如说市场，
+[Speaker 0]: 比如说那个现在呃参与度这个角度其实已经接近于一个买点，
+[Speaker 0]: 或者说现在就是一个买点，
+[Speaker 0]: 或现在可以已经可以慢慢的买下去。
+[Speaker 0]: 因为参与度现在轻轻的收盘，
+[Speaker 0]: 钠指是三十，
+[Speaker 0]: 纳指的参与度是三十啊。
+[Speaker 0]: 我说纳指啊，
+[Speaker 0]: 标普的参与度还是在高位的，
+[Speaker 0]: 标普还是在六十六十左右吧，
+[Speaker 0]: 因为标普没法跌嘛，
+[Speaker 0]: 钠指已经在一个比较悲观点的位置，
+[Speaker 0]: 所以你说钠所以也是分开嘛，
+[Speaker 0]: 不同指数也是分开。
+[Speaker 0]: 然后宏观的话，
+[Speaker 0]: 我并不认为现在宏观有太多的一些风险或者太值得关注，
+[Speaker 0]: 或者说宏观对于市场的影响有那么的大。
+[Speaker 0]: 然后就几个角度吧，
+[Speaker 0]: 技术面可能对于很多人来说跌破了就不是一个买点呃，
+[Speaker 0]: 参与度啊。
+[Speaker 0]: 在 QQ 这边，
+[Speaker 0]: 我认为已经到了一个买点了，
+[Speaker 0]: 在标普这边不是一个买点啊，
+[Speaker 0]: 基本面各取决于不同的一些个股。
+[Speaker 0]: 那个不同的一个个股的话啊，
+[Speaker 0]: 比如说我举个例子，
+[Speaker 0]: 我认为微软微软基本面我认为是一个买点。
+[Speaker 0]: 微软技术面进如超卖，
+[Speaker 0]: 我认为也是一个买点。
+[Speaker 0]: 那从这个角度呃，
+[Speaker 0]: 我觉得微软就是一个买点，
+[Speaker 0]: 但是就具体标题具体分析，
+[Speaker 1]: 好吧，
+[Speaker 0]: 呃，
+[Speaker 0]: 今年科技股还会引领大盘吗？
+[Speaker 0]: 那只还是会跑赢标普嘛，
+[Speaker 0]: 上一年其实大科技是没有跑赢标普的。
+[Speaker 0]: 我记得上一年其实大科技是走的一般的。
+[Speaker 0]: 就你从年初到年底的话啊，
+[Speaker 0]: 我我因为呃呃为什我自己手里，
+[Speaker 0]: 当时上一年那个呃特斯拉走的好，
+[Speaker 0]: 苹果走的好，
+[Speaker 0]: 是因为在年终加仓的苹果是在年终买入的。
+[Speaker 0]: 然后苹果在两百年中买入，
+[Speaker 0]: 然后特斯拉是在三月份下跌的时候加仓的。
+[Speaker 0]: 所以最终的话这些大科技会走的比较好一点。
+[Speaker 0]: 亚麻的话我吃我吃了比较长时间，
+[Speaker 0]: 所以下半年的亚麻其实走的不好。
+[Speaker 0]: 上年整体大科技，
+[Speaker 0]: 我 ITT 其实走的很一般的，
+[Speaker 1]: 没有没有没有到很好啊，
+[Speaker 0]: 对，
+[Speaker 0]: 这个说的挺好的，
+[Speaker 0]: 就不能够接受继续下跌，
+[Speaker 0]: 不能接受浮亏的，
+[Speaker 0]: 到现在都别买。
+[Speaker 0]: 说实话，
+[Speaker 0]: 你你你无论你干啥，
+[Speaker 0]: 在市场里面哪有不浮亏的这不可能没有不浮亏的对吧？
+[Speaker 0]: 为什么资本大幅开支？
+[Speaker 0]: 资本啊为什么资本大幅支出，
+[Speaker 0]: 但英为当然也没涨。
+[Speaker 0]: 呃，
+[Speaker 0]: 也许市场看到了些什么，
+[Speaker 0]: 也许吧，
+[Speaker 0]: 就但是呃也也许市场是对的，
+[Speaker 0]: 那么但是嗯哎这很难说就怎么说呢？
+[Speaker 0]: 我们回过头去看二零二二年年底，
+[Speaker 0]: 我记得呃标普五百是在二零二二年的十月份见底的。
+[Speaker 0]: 然后那只是在二零二二年的十二月份见底。
+[Speaker 0]: 因为二零二二年的十二月份出现了一波非常大的一个大科技的下跌。
+[Speaker 0]: 那当时市场加一个逻辑线是 tax loss 呃呃，
+[Speaker 0]: 抵税的用来抵税的一个杀杀跌啊。
+[Speaker 0]: 二二年年底啊，
+[Speaker 0]: 然后整个在过去十几年那个场合里面就不同的阶段，
+[Speaker 0]: 大家都认为大科技呃可能不行了，
+[Speaker 0]: 或者大科技的周期可能结束了。
+[Speaker 0]: 但往往你最后证明短期之内吧，
+[Speaker 0]: 市场可能是对的。
+[Speaker 0]: 但是中长期你会发现市场其实也是错的。
+[Speaker 0]: 所以嗯怎么说呢？
+[Speaker 0]: 我只能说呃市场你说，
+[Speaker 0]: 但在当下的话，
+[Speaker 0]: 市场永远是对的，
+[Speaker 0]: 市场杀估值永远起码永远是他有有他的一些道理吧。
+[Speaker 0]: 但是我们很多时候，
+[Speaker 0]: 你如果无办没如果没有办法提前去预判这个市场的话，
+[Speaker 0]: 那做的只能是退后一步去看。
+[Speaker 0]: 那么利用市场所给的短期间内这些波动，
+[Speaker 0]: 然后试图去找到一些机会。
+[Speaker 0]: 确实我如果你问我我我的观点很明确啊，
+[Speaker 0]: 我觉得我觉得英伟达和 AMB 的估值都是低估的这两家公司，
+[Speaker 0]: 我觉得都是便宜的。
+[Speaker 0]: 就是他们的呃他们的拍 graate 都是低的，
+[Speaker 0]: 但是这需要验证的，
+[Speaker 0]: 你放断当下我我认为都是低的。
+[Speaker 0]: 我的如果我的判断错误的一个前提就是二七年二八年的需求其实没有那么的高。
+[Speaker 0]: 什么时候我们知道在今年的下半年，
+[Speaker 0]: 我们大概就能知道。
+[Speaker 1]: 哼为了降贝塔，
+[Speaker 0]: 买了零点四七，
+[Speaker 0]: 贝塔的 UNH 波动怎么还那么大？
+[Speaker 0]: 这是这就是个股的一些，
+[Speaker 0]: 这就是个股的一些波动嘛。
+[Speaker 0]: 我记得在呃年初我和一位朋友在线下做交流的时候，
+[Speaker 0]: 我说四个 ETF 就是相对呃呃波动会比较小一些。
+[Speaker 0]:  ETF，
+[Speaker 0]: 你就规避一些个股机会，
+[Speaker 0]: 你要投个股的话，
+[Speaker 0]: 一定会有个股。
+[Speaker 1]: 这些风险在背后太忘了 costco 为什么这么稳，
+[Speaker 0]: 能不能顶着大盘继续牛。
+[Speaker 0]:  costco 横盘了多久了？
+[Speaker 0]: 你去看一下过去一年整个市场走的非常好的时候，
+[Speaker 0]:  costco 在干嘛？
+[Speaker 0]: 看一下 costco 在干嘛。
+[Speaker 0]:  costco 横盘横了一年了，
+[Speaker 0]: 上一年二零二五年 costco 走的是不好的，
+[Speaker 0]: 所以分风水轮流转嘛。
+[Speaker 0]: 这就是当市场情绪面在非常好的时候，
+[Speaker 0]: 其实我们或者自己手里标的走的非常好的时候，
+[Speaker 0]: 应该适当的去把自己的贝塔去降一些下来。
+[Speaker 0]: 你回头你会发现呃，
+[Speaker 0]: 其实都会是一些比较正确的决定。
+[Speaker 0]: 因为市场都是在一个轮动的，
+[Speaker 0]: 其实轮动背后的一个逻辑，
+[Speaker 0]: 就是这个标的这个板块身上资金太多了，
+[Speaker 0]: 没有额外的买家了。
+[Speaker 0]: 那自然找到一定的时机，
+[Speaker 0]: 一定得契机。
+[Speaker 0]: 一个 trigger 这些资金就从这些标的里面流出来了，
+[Speaker 0]: 那取决于这些标的身上有没有接受盘。
+[Speaker 0]: 那这些标的这个下跌幅度可能不一样，
+[Speaker 0]: 可口可乐和亚马逊的 p 差不多，
+[Speaker 0]: 微软的 p 才二十一倍，
+[Speaker 0]: 微软的 p 都比可口可乐都要便宜了吧，
+[Speaker 0]: 对吧？
+[Speaker 1]: 挂了呃，
+[Speaker 0]: 可口可乐这几天很疯，
+[Speaker 0]: 这几天必需品消费走的好嘛，
+[Speaker 0]: 对吧？
+[Speaker 0]: 就唉怎么说呢？
+[Speaker 0]: 就是在市场在一些标的下跌的时候，
+[Speaker 0]: 我们会发现哦另外一些标的走的非常的好，
+[Speaker 0]: 这都是一样。
+[Speaker 0]: 但是在当这些标的在横盘的时候没人关注。
+[Speaker 0]: 所以啊就我前面还是那句话，
+[Speaker 0]: 就在自己如果持仓走的非常好的情况下，
+[Speaker 0]: 你去做一些减仓的行为，
+[Speaker 0]: 换仓的行为啊都是都是都是可以的。
+[Speaker 0]: 但是你没有看到的是在过去一年，
+[Speaker 0]: 对吧？
+[Speaker 0]: 这些必需品消费走的有多差，
+[Speaker 0]: 当能不能接受，
+[Speaker 0]: 对吧？
+[Speaker 0]: 当市场在上涨的时候，
+[Speaker 0]: 当很多其他标的在上涨的时候，
+[Speaker 0]: 这些标的在下跌你能不能接受呢？
+[Speaker 0]: 对吧？
+[Speaker 0]: 我不能只看到它的好呀，
+[Speaker 0]: 不能只看到他最近几天的好，
+[Speaker 0]: 对吧？
+[Speaker 0]: 是这样，
+[Speaker 0]: 我觉得就这这是我们老观众了嘛，
+[Speaker 0]: 他的评论我觉得就非常的，
+[Speaker 0]: 我觉得就就就非常的合理嘛。
+[Speaker 0]: 那如果满仓大科技就比较的难受，
+[Speaker 0]: 那么当然这两年的账户涨得也比较的猛，
+[Speaker 0]: 所以高位不减仓的就像过山车就就这样。
+[Speaker 0]: 呃，
+[Speaker 0]: 英特尔，
+[Speaker 0]: 我看到有人让我讲英特尔，
+[Speaker 0]: 我我没有讲过英特尔的一一我基基上上。
+[Speaker 0]: 在我我我这平台你会发现涨得好的公司，
+[Speaker 0]: 我其实一般不大讲，
+[Speaker 0]: 就就比较有些跌的些些公司可跌跌去是基本本的的不好或者怎么样，
+[Speaker 0]: 呃，
+[Speaker 0]: 可能我我解释的比较多一些。
+[Speaker 0]: 英特尔最近确实相考会相对比较强势一些。
+[Speaker 0]: 所以我有在我可能还没有考虑到英特尔，
+[Speaker 0]: 但是我有考虑到，
+[Speaker 0]: 因为它相对的一些强势，
+[Speaker 0]: 如果要换仓的话，
+[Speaker 0]: 英特尔可不可以是一个潜在的一个标的，
+[Speaker 0]: 这是我在思考啊。
+[Speaker 0]: 但是我还完全没有思考到说我要去剪一套去换这些标的，
+[Speaker 0]: 还没有思考完。
+[Speaker 0]: 我听我说了，
+[Speaker 0]: 我前面唯一做的一个操，
+[Speaker 0]: 反正我对于我自己来说，
+[Speaker 0]: 唯唯做做就是是用我必选这边的仓位啊，
+[Speaker 0]: 买了一些些特特币。
+[Speaker 0]: 然后股市这边的话，
+[Speaker 1]: 我们今天加仓了一加仓了那个微软呃，
+[Speaker 0]: 很多的一些 SM manager 也在减持减持美股。
+[Speaker 0]: 然后估计很多人我有看到昨天有人在向我在在我下面的留言，
+[Speaker 0]: 说这个东西。
+[Speaker 0]: 这就和四月份的时候是一样的一个逻辑。
+[Speaker 0]: 四月份的时候，
+[Speaker 0]: 当时大家告诉我，
+[Speaker 0]: 你因为你减如果减仓美股的话，
+[Speaker 0]: 你为什么为什么下次不上涨呢？
+[Speaker 0]: 我觉得这只是背后一个契机吧，
+[Speaker 0]: 你可以解释为是背后的一些契机吧啊背后的一些因素吧。
+[Speaker 0]: 但这绝对不是主要的因素。
+[Speaker 0]: 如果是主要的因素的话，
+[Speaker 0]: 那美股全盘也在下跌。
+[Speaker 0]: 我有看到有人在这么说，
+[Speaker 0]: 可能我不知道大家从其他的一些呃信息渠道吧，
+[Speaker 0]: 有获得有告诉你说哎，
+[Speaker 0]: 这个因为这个 SM manage 在减，
+[Speaker 0]: 然后所以美股在下跌，
+[Speaker 0]: 对不对？
+[Speaker 0]: 核心的一个原理。
+[Speaker 0]: 呃，
+[Speaker 0]: 四月份的时候我聊过这，
+[Speaker 0]: 我说为什么？
+[Speaker 0]: 因为当时四月份很多人问我，
+[Speaker 0]: 他说美股长久的这个逻辑是不是结束了？
+[Speaker 0]: 我说美股长久的逻辑线，
+[Speaker 0]: 它其实背后这个逻辑线是美元。
+[Speaker 0]: 美国美元是一个进攻手段，
+[Speaker 0]: 呃，
+[Speaker 0]: 美国的军事力量。
+[Speaker 0]: 但从但我们在做美股的时候，
+[Speaker 0]: 它的一个核心逻辑是增长一 p 的这个增速，
+[Speaker 0]: 这才是核心逻辑。
+[Speaker 0]: 为什么全球市场愿意给美股相对比较高的这个估值？
+[Speaker 0]: 是因为全球增速比较高的公司全部在美股？
+[Speaker 0]: 其实全部在美国，
+[Speaker 0]: 中国是另外中国。
+[Speaker 0]: 我我我上次以前说过这个问题，
+[Speaker 0]: 中国因为它有政治风险。
+[Speaker 0]: 在背后有不确定性。
+[Speaker 0]: 在背后，
+[Speaker 0]: 有行业不确定性。
+[Speaker 0]: 在背后，
+[Speaker 0]: 所以国际投资者就不愿愿给给那高高估值。
+[Speaker 0]: 美股股不一样，
+[Speaker 0]: 不是说因为大家愿意给，
+[Speaker 0]: 因为美国这边强大，
+[Speaker 0]: 所以愿意给美国那么高的估值。
+[Speaker 0]: 不是，
+[Speaker 0]: 而是赚钱的工资增速高的公司，
+[Speaker 0]: 在美国，
+[Speaker 0]: 但其他市场你能找到那么大体量的情况下，
+[Speaker 0]: 它的 EPS 增速还可以每年保持在呃百分之二十百分之百分之十五到百分之二十吗？
+[Speaker 0]: 很少了，
+[Speaker 0]: 你找不到了，
+[Speaker 0]: 英伟达还能保持在百分之六十嘛，
+[Speaker 0]: 那么大体量的公司你其他地方找不到。
+[Speaker 0]: 那所以这就是为什么市场愿意给高估值的一个原因。
+[Speaker 0]: 呃，
+[Speaker 0]:  TSM 大概是看到了最近各大 SCSP 的资本支出，
+[Speaker 0]: 所以选择跟住。
+[Speaker 0]: 然后昨天一度还上涨。
+[Speaker 0]: 呃，
+[Speaker 0]: 台积电应该是早就已经知道他们资本开始要支出了。
+[Speaker 0]: 因为因为他们要定呃，
+[Speaker 0]: 包括呃呃背后的这些用，
+[Speaker 0]: 只能台积电是他要走在这些大科技之前的，
+[Speaker 0]: 就他这大科技的一些开发。
+[Speaker 0]: 这些花呗应该早就让台积电知道。
+[Speaker 0]: 因为台积电要他要提前一步去，
+[Speaker 0]: 呃，
+[Speaker 0]: 他要去因为他也要去增加自自己的这个资本开支嘛。
+[Speaker 0]: 所以台积电其实因为台科技，
+[Speaker 0]: 我就我相信大科技这些这些开支啊等等，
+[Speaker 0]: 早就先向台积电去做，
+[Speaker 0]: 去透露这个消息。
+[Speaker 0]: 所以台积电然后才会去呃问那个那个那个阿斯曼去买吧，
+[Speaker 0]: 要去购买。
+[Speaker 0]: 所以整个周期台，
+[Speaker 0]: 而且台积电对于下游的这个这个把控，
+[Speaker 0]: 其实一般都是会比较的准，
+[Speaker 0]: 然后会比较及时，
+[Speaker 0]: 会非常的够跟的非常的紧密。
+[Speaker 0]: 所以我并不认为是啊科技宣布，
+[Speaker 0]: 然后台积电台说哦，
+[Speaker 0]: 原来你要投那么多，
+[Speaker 0]: 而是台积电我就台积电早就知道了。
+[Speaker 0]: 呃，
+[Speaker 0]: 最近用了两个月的 cloud，
+[Speaker 0]:  oppo 四点五真好用，
+[Speaker 0]: 感觉这个公司走出来了，
+[Speaker 0]: 所以我看好亚马逊。
+[Speaker 0]: 呃，
+[Speaker 0]: 这就是比较个人的主观的一些看法吗？
+[Speaker 0]: 我自己也用了，
+[Speaker 0]: 用了之后我觉得好牛逼啊，
+[Speaker 0]: 我也觉得确实打破了很多。
+[Speaker 0]: 呃，
+[Speaker 0]: 我现在几乎很多什么时候在做 research，
+[Speaker 0]: 在做很多东西的，
+[Speaker 0]: 是离不根本离不开 AI。
+[Speaker 0]: 很多问题我谷歌都不用了，
+[Speaker 0]: 我基本上全是特别大。
+[Speaker 0]: 在 research 这一块问问题啊，
+[Speaker 0]: 验证啊，
+[Speaker 0]: 全部是用这些呃大原理模型去解决。
+[Speaker 0]: 然后 open s se，
+[Speaker 0]: 然后我用他去帮我做一个 APP，
+[Speaker 0]: 做一些编程很厉害，
+[Speaker 0]: 我觉得真的很厉害，
+[Speaker 0]: 他会错。
+[Speaker 0]: 然后我我我我跟他说，
+[Speaker 0]: 我说我要这个功能，
+[Speaker 0]: 你怎么这个功能没帮我做出来说，
+[Speaker 0]: 他说哦，
+[Speaker 0]: 我忘了帮你加进去了。
+[Speaker 0]: 哎，
+[Speaker 0]: 当他帮你加进去了，
+[Speaker 0]: 挺有意思。
+[Speaker 0]: 我我就我我呃等一下，
+[Speaker 0]: 我自己也算是一个 AI，
+[Speaker 0]: 对于我平时的一些工作啊，
+[Speaker 0]: 或者做调研上有非常大的一些帮助。
+[Speaker 0]: 所以我我也是看到这些 AI 的一些落地，
+[Speaker 0]: 就自己感受到了 AI 的落地，
+[Speaker 0]: 这是比较主观的感受受。
+[Speaker 0]: 所以所以更多的时候，
+[Speaker 0]: 我还是希望通过这些大科技的财报去比较客观的去感受一下他们的主观感受。
+[Speaker 0]: 呃，
+[Speaker 0]: 请问特斯拉你我全卖了吗？
+[Speaker 0]: 之后在地点还会再回头看看，
+[Speaker 0]: 我没有全卖。
+[Speaker 0]: 特斯拉，
+[Speaker 0]: 我没有全部卖。
+[Speaker 0]: 特斯拉只是把特斯拉仓位降了一些。
+[Speaker 1]: 好吧，
+[Speaker 0]: 怎么看待瑞，
+[Speaker 0]: 我前面聊过了，
+[Speaker 0]: 你们这些标的就至少情绪面不好嘛，
+[Speaker 0]: 所以基本上盘后就下跌的幅度会大一些。
+[Speaker 0]: 是啊，
+[Speaker 0]: 为什么可口可乐这么涨，
+[Speaker 0]: 然后这不成了成长股了吗？
+[Speaker 0]: 其实就是市场，
+[Speaker 0]: 你看我们大多数的人，
+[Speaker 0]: 呃，
+[Speaker 0]: 我今天已经不止看到起码十条留言都是和可口可乐是有关的，
+[Speaker 0]: 对吧？
+[Speaker 0]: 就是因为最近这段市涨得非常好，
+[Speaker 0]: 大家都在聊都是一样的一个道理。
+[Speaker 0]: 我相信可口可乐一定会回到我，
+[Speaker 0]: 我没看过它的 p 在多少可口可乐和合理的 p 就是在二十倍，
+[Speaker 0]: 就是算偏低的，
+[Speaker 0]: 它合理的 p 可能就二十四倍二十五倍。
+[Speaker 0]: 可口可乐包括百事可乐，
+[Speaker 0]: 它的 volume 增速都是很低的，
+[Speaker 0]: 其实没那么高的。
+[Speaker 0]: 只是现在市场在避险，
+[Speaker 0]: 就完全是在避险板块轮动嘛，
+[Speaker 0]: 市场都是这样就追嘛，
+[Speaker 0]: 这个钱出来之后，
+[Speaker 0]: 我去哪？
+[Speaker 0]: 唉，
+[Speaker 0]: 去最近这段时间走的比较好的，
+[Speaker 0]: 包括可能一些量化做 momentum 的对吧？
+[Speaker 0]: 最近可能他然后又把这些标的给买上去，
+[Speaker 0]: 市场都是这样，
+[Speaker 0]: 你要去买的时候，
+[Speaker 0]: 不是现在我不知道现在多少倍啊，
+[Speaker 0]: 如果现在什么到了二十八倍、
+[Speaker 0]: 二十九倍的话，
+[Speaker 0]: 别就别去碰了，
+[Speaker 0]: 完全没有任何的意义，
+[Speaker 0]: 你进去也避不了险是吧？
+[Speaker 0]: 你要去买这些标的的时候，
+[Speaker 0]: 你应该在二十倍的时候，
+[Speaker 0]: 市场经因率比较低的时候，
+[Speaker 0]: 呃，
+[Speaker 0]:  value 就这些价值股比较低的时候，
+[Speaker 0]: 你去布局这些标的桥底都是这样的。
+[Speaker 0]: 但是真的当他二十的时候你也不会买。
+[Speaker 0]: 因为你会发现哎，
+[Speaker 0]: 明明科技股主那么好，
+[Speaker 0]: 我要去买可口可乐干嘛，
+[Speaker 0]: 对吧？
+[Speaker 0]: 行吧，
+[Speaker 0]: 我我问题回答的差不多。
+[Speaker 0]: 呃，
+[Speaker 0]: 我哦我看一些我可能漏了一些问题啊。
+[Speaker 0]: 呃这个观众的问题。
+[Speaker 0]: 他说呃 apple 终于上来就是超级留言，
+[Speaker 0]: 嗯，
+[Speaker 0]:  apple 终于上来涨得有点快啊，
+[Speaker 0]: 怎么看苹果的后市长期还看好，
+[Speaker 0]: 我长期仍然是看好。
+[Speaker 0]: 但是我前面说了，
+[Speaker 0]: 因为苹果这件事走的比较，
+[Speaker 0]: 强我有可能会换一部分的仓位，
+[Speaker 0]: 从苹果出来，
+[Speaker 0]: 但是不见得一定会换。
+[Speaker 0]: 我还没考虑好这个问题，
+[Speaker 0]: 我后世仍然看好，
+[Speaker 0]: 包括在 AI 这一块的落地，
+[Speaker 1]: 我仍然看好苹果哦，
+[Speaker 0]: 然后还有很多位观众加入我们的会员。
+[Speaker 0]: 嗯，
+[Speaker 0]: 感谢欢迎。
+[Speaker 1]: 嗯呃夸框的财报。
+[Speaker 0]: 我还没看呢，
+[Speaker 0]: 我我我没时间看，
+[Speaker 0]: 包括昨天乌本的财报，
+[Speaker 0]: 我也没看很多财报，
+[Speaker 0]: 我没时间看。
+[Speaker 0]:  oracle 现在最大的风险是 open AI 的支付能力吗？
+[Speaker 0]: 是呃还有他们的，
+[Speaker 0]: 但他们融资其实已经呃融资的那个融资其实现在已经不是那么大的一些问题了。
+[Speaker 0]: 是 open a 的支付能力是，
+[Speaker 0]: 然后就是呃 execution 对吧？
+[Speaker 0]: 就是建设能力，
+[Speaker 0]: 就是你数据中心的一个上线的上线时间的一个问题。
+[Speaker 0]: 呃，
+[Speaker 0]: 是不是我如是不是说如果我判断未来 open i 支付不会有问题的话，
+[Speaker 0]:  oracle 现在就是低谷的是 oracle，
+[Speaker 0]: 就是一个。
+[Speaker 0]: 我认为 oracle 就是二级市场里面的 open i 因为它是未来很大一部分的一个业务，
+[Speaker 0]: 全部是依赖于 open。
+[Speaker 0]:  i 只要 oren i 能够兑付能够兑现的话，
+[Speaker 0]: 呃，
+[Speaker 0]: 那 oracle 就没有问题。
+[Speaker 0]: 就现在 oracle 就是低谷，
+[Speaker 0]: 它就是一个你我。
+[Speaker 0]: 我某种程度我认为你不过你比如说你欧一级市场里面，
+[Speaker 0]: 你现在没办法投 open，
+[Speaker 0]:  i 的话你想去投 open，
+[Speaker 0]:  i 的话你就投，
+[Speaker 0]: 我就觉得你就投 oraco acle，
+[Speaker 0]: 因为 open i 不倒话，
+[Speaker 0]:  orle 就没问题。
+[Speaker 0]: 呃，
+[Speaker 0]: 可口可乐现在 four t 二十四，
+[Speaker 0]: 那二十四就还好，
+[Speaker 0]: 二十四还好，
+[Speaker 0]: 可能高的时候三十倍二十八二十九吧。
+[Speaker 0]: 我记得好像还好。
+[Speaker 0]: 呃，
+[Speaker 0]: 我我留着 circle，
+[Speaker 0]: 我还留着呢。
+[Speaker 0]: 然后呃前面我看到有人问我，
+[Speaker 0]: 他说 circle 呃已经溃麻了，
+[Speaker 0]: 然后是不是也是应该怎么弄？
+[Speaker 0]: 呃，
+[Speaker 0]: 我 cqo 也浮亏了很多。
+[Speaker 0]: 但是我说用仓位去控制这个风险，
+[Speaker 0]: 我聊过很多次。
+[Speaker 0]: 这也是为什么我把所有仓位的一个占比分享出来的一个原因。
+[Speaker 0]: 而且我在上年年底为什么要去？
+[Speaker 0]: 当然我很大一部分减仓是因为我可以呃上年年底的时候减仓是因为浮亏的时候减仓对嘛呃控制这个税务的一个问题。
+[Speaker 0]: 然后我说今年我可能会希望把今年能够在更低的一个点去买回来。
+[Speaker 0]: 那现在我还没有思考，
+[Speaker 0]: 非常的完整到这个。
+[Speaker 0]: 因为现在有很多标的都已经吸引人了。
+[Speaker 0]: 在我们这起码从价格的跌幅来说，
+[Speaker 0]: 都已经是进入了一个击球区了嘛，
+[Speaker 0]: 就进入了一个吸引人这个区域了。
+[Speaker 0]: 至于会不会去买，
+[Speaker 0]: 然后买多少那个仓位，
+[Speaker 0]: 就是需要去就是然后在你投资组合里占什么样一个比重，
+[Speaker 0]: 在在呃包括和其他的公司本身有没有些冲突，
+[Speaker 0]: 那么可能会需要我思考。
+[Speaker 0]: 这不是在您您您呃年底的时候和大家分享。
+[Speaker 0]: 我说我比较喜欢那家基金，
+[Speaker 0]: 他们在选什么？
+[Speaker 0]: 他们做 growth 嘛，
+[Speaker 0]: 然后他们在呃配一些和 AI 不相关的一些 growth，
+[Speaker 0]: 那还记不记得？
+[Speaker 0]: 那如果在年初的时候，
+[Speaker 0]: 你也顺着这个思路去思考的话，
+[Speaker 0]: 那起码可能不会那么的难受。
+[Speaker 0]: 对吧？
+[Speaker 0]: 起码或者说有一些标的是可以不会让你整体的投资组合会跌的比较厉害，
+[Speaker 0]: 见底的信号怎么判断？
+[Speaker 0]: 从技术指标上的话，
+[Speaker 0]: 比如说一些背离啊，
+[Speaker 0]: 那么底呃 RSI 的一些底背离啊，
+[Speaker 0]: 然后从 k 线去看的话，
+[Speaker 0]: 比如说日 k 线拉出一根比较长的下影线，
+[Speaker 0]: 放量的下影线。
+[Speaker 0]: 呃，
+[Speaker 0]: 然后从这技术指标，
+[Speaker 0]: 当然很多人技术指标说达到一些比较关键点的一些均线啊等等都可以。
+[Speaker 0]: 然后参与度的话，
+[Speaker 0]: 比如说去到了二十以下，
+[Speaker 0]: 都是一些短期之内见底的一些信号。
+[Speaker 0]: 基本面上的话，
+[Speaker 0]: 你没有啥现底的信号，
+[Speaker 0]: 基本无非就是从估值这个角度去判断。
+[Speaker 0]: 呃，
+[Speaker 0]: 目前是空仓有啥好的基本面相对大科技比较有爆发的公司嘛。
+[Speaker 0]: 相基本面好的是面基本面相对大，
+[Speaker 0]: 科技比较有爆发的公司，
+[Speaker 0]: 相对大科技，
+[Speaker 0]: 大科技还是还是不是大科技的。
+[Speaker 1]: 我没看懂这个问题。
+[Speaker 0]: 呃，
+[Speaker 0]: 能说一下 rocka rocky 这家公司我没有太过细致研究，
+[Speaker 0]: 但是有很多人安利这家公司。
+[Speaker 0]: 呃，
+[Speaker 0]: 我有看到从新消息上嘛，
+[Speaker 0]: 我有看到过一些和这家公司相关的一些新闻。
+[Speaker 0]: 呃，
+[Speaker 0]: 感觉是好像排在 space x 非常好的一家太空的公司概念非常的好，
+[Speaker 0]: 然后也有执行力。
+[Speaker 0]: 呃，
+[Speaker 0]: 但是这一类公司我是觉得你很难去找到一个比较，
+[Speaker 0]: 就你只能看未来，
+[Speaker 0]: 你很难去掌握一个当下的一个估值或者价格。
+[Speaker 0]: 什么是合理的？
+[Speaker 0]: 因为没有那没没有一个非常合理的，
+[Speaker 0]: 你很就很主观，
+[Speaker 0]: 就这个主观的一个估值合理区间会非常的大。
+[Speaker 0]: 那市场情绪面好的时候，
+[Speaker 0]: 它就可以非常好的涨它。
+[Speaker 0]: 当它的下跌的时候，
+[Speaker 0]: 下跌的幅度就会比较大。
+[Speaker 0]: 所以我这类个股我其实不大建议去你要往未来去看的，
+[Speaker 0]: 你要知道它的波动就会非常的大，
+[Speaker 0]: 所以用仓只能用仓位去控制这个风险。
+[Speaker 0]: 呃，
+[Speaker 0]: 其次如果占的非常多的话，
+[Speaker 0]: 就止盈。
+[Speaker 0]: 另外你说呃应该怎么去应，
+[Speaker 0]: 现在应该去加仓还是减仓？
+[Speaker 0]: 我没有这个答案，
+[Speaker 0]: 这这这这是从个人角度去出发的。
+[Speaker 0]: 呃，
+[Speaker 0]: 很多时候大在大家也许呃不没办法理解，
+[Speaker 0]: 但是我我知道可能关关注我平常比较久的观众可能能够理解是很多标的在一个价格，
+[Speaker 0]: 对于有些人来说应该是减仓。
+[Speaker 0]: 对有些人来说应该是加仓，
+[Speaker 0]: 听起来很矛盾。
+[Speaker 0]: 因为无非你你说你又减仓又加仓，
+[Speaker 0]: 那你那你那明天如果涨的话，
+[Speaker 0]: 你今天就应该加仓啊。
+[Speaker 0]: 明天如果跌的话，
+[Speaker 0]: 你今天就应该减仓啊，
+[Speaker 0]: 那不是这样的啊，
+[Speaker 0]: 什么叫又可以减仓又可以加仓的？
+[Speaker 0]: 就是很简单嘛，
+[Speaker 0]: 就是如果对于举个很简单的例子，
+[Speaker 0]: 这本今天我如果我是满仓的，
+[Speaker 0]: 我是满仓科技股的，
+[Speaker 0]: 然后在现在这个位置我还需要去加仓科技股，
+[Speaker 0]: 我觉得没必要。
+[Speaker 0]: 对啊，
+[Speaker 0]: 我觉得没必要。
+[Speaker 0]: 今天如果像前面那个人我满手是现金的，
+[Speaker 0]: 在这个位置，
+[Speaker 0]: 我应不应该去加仓科技股？
+[Speaker 0]: 我觉得可以这就是一个非常好的就取完全决于你仓位现在在什么样的一个位置。
+[Speaker 1]: 所以对于这个标的本身去会完全是不同的操作啊。
+[Speaker 0]:  apple leven，
+[Speaker 0]: 我一直说 appapplevon 这家公司，
+[Speaker 0]: 我要去做一下基本面。
+[Speaker 0]: 我我去看一下，
+[Speaker 0]: 我其实我非常喜欢那家公司，
+[Speaker 0]: 是有 appp 来 ven 的。
+[Speaker 0]: 然后他们二十四年在 apple leven 上赚了很多的呃，
+[Speaker 0]: 赚赚了很多的钱。
+[Speaker 0]: 然后他们确实也亏啊，
+[Speaker 0]: 也也不是亏，
+[Speaker 0]: 也做过减仓，
+[Speaker 0]: 一直在做减仓。
+[Speaker 0]: 呃，
+[Speaker 0]: 我我不知道他们他们其实挺看好这家公司，
+[Speaker 0]: 但这家公司有一些负面的一些消息嘛。
+[Speaker 0]: 其实很多时候负面的消息不一定是不一定是真的，
+[Speaker 0]: 或者说这些负面的消息呢呃有可能是真的，
+[Speaker 0]: 对于公司的一些基本面有一些影响。
+[Speaker 0]: 但是他之所以有些消息出来之后能够砸下去，
+[Speaker 0]: 还是因为情绪也高高，
+[Speaker 0]: 还是因为估值太高，
+[Speaker 0]: 其实就一个原理就是太过拥挤。
+[Speaker 0]: 所以才会造成比较大的一些下跌。
+[Speaker 0]: 还是昨天那个逻辑嘛，
+[Speaker 0]: 就三三百倍的 PE，
+[Speaker 0]: 你不需要任何的理由，
+[Speaker 0]: 你 p 一可以从三百倍到两百倍的三百倍，
+[Speaker 0]: 对吧？
+[Speaker 0]: 你当然你三百倍的 PE 可以持续一年可以持，
+[Speaker 0]: 甚至你三百倍可以涨到四百倍。
+[Speaker 0]: 谁能够没没人能够知道嘛？
+[Speaker 0]: 所以我们在投投资的时候，
+[Speaker 0]: 这些标的不是说不能投可以投。
+[Speaker 0]: 但是你我不觉得仓位应该可以非常的大。
+[Speaker 0]: 因为你仓位非常的大。
+[Speaker 0]: 你从两百倍到百百，
+[Speaker 0]: 你两百倍到一百倍，
+[Speaker 0]: 你就腰斩了，
+[Speaker 0]: 对吧？
+[Speaker 0]: 仓位非常大。
+[Speaker 0]: 所以嗯阿弗拉问我去看一下 attack 嘛，
+[Speaker 0]: 他们我知道我那家公司，
+[Speaker 0]: 他们非常看好。
+[Speaker 1]: 嗯，
+[Speaker 1]: 好，
+[Speaker 0]: 我前面聊过英特尔了，
+[Speaker 0]: 我我不一定会卖，
+[Speaker 0]: 我也许会卖货，
+[Speaker 0]: 但我不一定会卖。
+[Speaker 0]: 我不认为它基本面有任何。
+[Speaker 0]: 哎，
+[Speaker 0]: 特特尔我会很纠结。
+[Speaker 0]: 因为我觉得英特尔呃，
+[Speaker 0]: 昨天有人问我吗？
+[Speaker 0]: 你我觉得微软便宜哦，
+[Speaker 0]: 不微软，
+[Speaker 0]: 你觉得呃英特尔你觉得英伟达便宜，
+[Speaker 0]:  AMD 便宜，
+[Speaker 0]: 为什么不买英特尔？
+[Speaker 0]: 为什么不买英伟达和 AMD？
+[Speaker 0]: 是因为我认为英特尔未来的空间更大，
+[Speaker 0]: 想象空间更大。
+[Speaker 0]: 呃，
+[Speaker 0]: 而且万一他还有什么事情的话，
+[Speaker 0]: 他又是一个非常好的一个对冲。
+[Speaker 0]: 所以呃这个摊位本身在我的投资组合里面，
+[Speaker 0]: 其实是有很多个呃扮演了很多个角色在那边的。
+[Speaker 0]: 嗯，
+[Speaker 0]: 但是因为最近这段时间相对会强势一些嘛，
+[Speaker 0]: 所以 technically 啊就从 technical 这个角度去看的话，
+[Speaker 0]: 可能会做一些调整。
+[Speaker 0]: 不一定，
+[Speaker 0]: 反正我做好调。
+[Speaker 0]: 如果有我最后做这个决定，
+[Speaker 0]: 有这个这个调整的话，
+[Speaker 1]: 我提前会跟大家说呃，
+[Speaker 0]:  to be sars 有什么看法？
+[Speaker 0]: 没有啥更新啊，
+[Speaker 0]: 没有一天没啥没啥更新。
+[Speaker 1]: 被告不是没有没有没的没有呃，
+[Speaker 0]: 八百分之八十的 nab s 仓位，
+[Speaker 0]: 呃，
+[Speaker 0]: 九十三的成本现在压力很大，
+[Speaker 0]: 呃，
+[Speaker 0]: 再继续下行的空间应该有什么？
+[Speaker 0]: 我不知道。
+[Speaker 0]:  i don't know，
+[Speaker 0]: 短期之内，
+[Speaker 0]: 我根本不知道他有没有下行空间。
+[Speaker 0]: 今天艾润下跌的话，
+[Speaker 0]: 应该也会把那个的 BS 也给带下来，
+[Speaker 1]: 全是 new cloud paper 说过 paper，
+[Speaker 0]: 我昨天说过了，
+[Speaker 0]:  paypal 发财报那天说过了两个小时了，
+[Speaker 0]: 今天就到这边吧。
+[Speaker 0]: 好吧，
+[Speaker 0]: 我觉得聊的差不多了，
+[Speaker 0]: 基本上呃微软我前面已经聊过了，
+[Speaker 0]: 你往前去翻吧，
+[Speaker 0]: 有些问题我就不再重。
+[Speaker 0]: 有些问题我就不再重复了。
+[Speaker 0]: 呃，
+[Speaker 0]: 基本上今天其实我主要花的时间是聊一下，
+[Speaker 0]: 我建议议大家可去看一下前面的聊一下。
+[Speaker 0]: 呃，
+[Speaker 0]: 对于 AI 未来的这个具象化 AI 的这个落地。
+[Speaker 0]: 因为我要把这些东西思考清楚，
+[Speaker 0]: 是嗯你在选择加仓一些标的的时候，
+[Speaker 0]: 呃，
+[Speaker 0]: 我觉得我们是在转折点。
+[Speaker 0]: 就像我今天那个标题 AI 是在转折点，
+[Speaker 0]: 就是这个转折点是会对很多公司很多行业造成影响的。
+[Speaker 0]: 其实包括我，
+[Speaker 0]: 我说我在选择建仓 uniage 的时候，
+[Speaker 0]: 我也有考虑过 unih 未来 AI 对于 unih 这个影响在效率上的这个抬升。
+[Speaker 0]: 嗯，
+[Speaker 0]: 啊其实这些东西我觉得我们记者在投资一些价值股公司的时候，
+[Speaker 0]: 也是应该思也是应该思考和考虑进去的。
+[Speaker 0]: 所以呃那对于在科技行业，
+[Speaker 0]: 这些公司就更应该思考和考虑进去了。
+[Speaker 0]: 那么或者和科技相关的一些公司就更应该更应该考虑进去。
+[Speaker 0]: 所以我觉得要把这些东西想清楚。
+[Speaker 0]: 呃，
+[Speaker 0]: 好的好的好的好的，
+[Speaker 0]: 然后再选择加仓的时候去挑一些标的吧，
+[Speaker 0]: 然后看一些哪些。
+[Speaker 0]: 因为现在很多标的价格下来了嘛，
+[Speaker 0]: 就进入我说进入一个激球的一个区间了。
+[Speaker 0]: 所以我我前面花了很多时间聊一下 AI 的这个落地和具象化，
+[Speaker 0]: 然后花了很多时间去聊一下这一次 AMB 的一个 a 一个亚马逊的这个财报。
+[Speaker 0]: 然后我也聊了一些和谷歌的这些财报，
+[Speaker 0]: 我建议大家回过头前面去看一下吧。
+[Speaker 0]: 呃，
+[Speaker 0]: 聊了四十五分钟要将近五十分钟了，
+[Speaker 0]: 大家可以听一下我前面那段内容好吗？
+[Speaker 0]: 嗯，
+[Speaker 0]: 呀，
+[Speaker 0]: 甲骨文已经说过了，
+[Speaker 0]: 我想甲骨文昨天就已经说过了。
+[Speaker 0]: 好吧，
+[Speaker 0]: 那今天就到这边有两个小时了，
+[Speaker 0]: 希望明天不用再做直播了吧。
+[Speaker 0]: 这个大家应该都对吧？
+[Speaker 0]: 呃，
+[Speaker 0]: 我觉得应该如果有做好这个风控的话，
+[Speaker 0]: 应该对整体的影响应该没那么大。
+[Speaker 0]: 无非就是短期之内有没有机会，
+[Speaker 0]: 然后还需不需要做一些防守。
+[Speaker 0]: 如果已经做好防守的话，
+[Speaker 0]: 我觉得没必要。
+[Speaker 0]: 我觉得现在因为我我把我之前那条推我也拿掉了。
+[Speaker 0]: 我说现在已经做好防守的话，
+[Speaker 0]: 应该是往啊。
+[Speaker 0]: 但但是每个人的防守定义不一样，
+[Speaker 0]: 已经做好防守。
+[Speaker 0]: 现在应该是慢慢的把这个贝塔给加进去的时候，
+[Speaker 0]: 去找一些标的的时候，
+[Speaker 1]: 这个你是这是这这你你你你的你的一个。
+[Speaker 0]: 好吧，
+[Speaker 0]: 那今天就到这边了，
+[Speaker 0]: 感谢大家参与，
+[Speaker 0]: 我得去吃饭了，
+[Speaker 0]: 拜拜，
+[Speaker 0]: 明天见啊，
+[Speaker 0]: 不是明天不见啊，
+[Speaker 0]: 明天希望不要和大家见面，
+[Speaker 0]: 明天要再见的话，
+[Speaker 0]: 那明天市场得明天如果跌百分之二以上，
+[Speaker 0]: 我就来，
+[Speaker 0]: 明天不跌百分之一二以上，
+[Speaker 0]: 明天不来了。
+[Speaker 0]: 好吧，
+[Speaker 0]: 那周日见，
+[Speaker 0]: 拜拜，
+[Speaker 0]: 拜拜。
