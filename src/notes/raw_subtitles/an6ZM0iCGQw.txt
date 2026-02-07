@@ -1,0 +1,400 @@
+This time next week,
+I will be at the Cape Canaveral
+Space Force Base,
+nervously awaiting the launch
+of our first spacecraft.
+Much about that setting
+will be different from this one,
+but there are a few things
+that will remain the same.
+For example, like now, in a week's time,
+I will also be hoping
+not to crash and burn.
+(Laughter)
+And like now, in a week's time,
+I will again be wearing
+my same lucky underpants.
+That's not a joke.
+(Laughter)
+So what about the spacecraft next week
+makes it so special that it warrants
+a rare second weekly appearance
+of said undergarment?
+(Laughs)
+It's because it will be the first time
+that anybody has tried
+to launch an AI data center to space.
+More specifically,
+we will be the first to launch
+the Nvidia H100 chip to space,
+which is about 100 times
+more powerful GPU, or AI compute,
+than has ever been in space before.
+In fact, this spacecraft is the first step
+in a much larger vision
+to build almost all data centers in space.
+And today I will make
+the case for this idea.
+The idea that the abundant energy
+and cold temperatures in space
+will soon mean that it makes
+much more sense
+to build data centers in space
+than it does to build them on Earth.
+But first, why do we need
+more data centers?
+Well, there's both a carrot and a stick.
+As many of the speakers have mentioned,
+the carrot is the promise of AI.
+So that's things like new treatments
+for cancer, self-driving cars,
+a superintelligent companion
+in everybody's pocket.
+In order to realize the promise of AI,
+we will need many more new data centers
+and many more new energy
+projects to power them.
+So that's the carrot.
+But there is also a stick,
+which people don't like
+to talk about as frequently.
+And that is the very real risk
+in being left behind
+by competitor nations.
+This comes with very, very real
+national security implications for the US.
+So we know we need more data centers,
+but why not just carry on building them
+on Earth as we have been?
+Well, some forecasts suggest
+that over the next just three years alone,
+we will need an additional
+50 to 100 gigawatts
+or 50 to 100 new nuclear power stations,
+in just the US alone
+to meet the coming demand for AI.
+Permitting and other constraints
+mean that this is not possible.
+And this is basically leading
+to a dramatic rise in energy prices.
+And we also are sucking up
+rivers and reservoirs
+to keep these data centers cool.
+A few weeks ago, I was invited
+down to Tucson, Arizona,
+to meet with community leaders there.
+Tucson recently became
+the first city in the US
+to unanimously vote to reject
+a new data center proposal,
+to a gigawatt scale-data center
+proposal, in their community,
+primarily due to concerns
+about energy and water usage.
+I spoke with many members
+of the community.
+They had been shocked to find out
+that this new data center proposal
+would have put a strain
+on energy and water in the community
+that would have been a detriment
+for generations to come.
+And it's not just Tucson,
+this is happening in towns and cities
+across the US and across the world.
+Now, if you've ever seen a data center,
+you will know that they are massive.
+So it can be pretty difficult to imagine
+what this kind of data center
+could look like in space.
+And so I would like to show you
+a short 15-second clip
+of what a huge five-gigawatt
+data center in space might look like.
+So here you see
+a Starship-sized spacecraft,
+and I'll talk about this later,
+with a 100-ton module of chips
+connecting to a five-gigawatt cluster
+with a four-kilometer solar panel
+with a one-kilometer radiator.
+And don't worry, this won't
+block out the sun or anything.
+(Laughter)
+So I do know this looks
+a little bit wacky, by the way.
+When we first released this video
+a year and a half ago,
+as part of our Y-Combinator launch,
+we got roundly pilloried from all corners.
+I thought I would share with you
+a few of the more polite X comments
+that we got a year and a half ago.
+"This gotta be the dumbest shit ..."
+(Laughter)
+"This gotta be the dumbest shit
+I ever seen or heard."
+Fair enough, fair enough.
+Each has their own opinion.
+"I thought you nerds were supposed
+to be good at science."
+(Laughter)
+And just to be clear,
+I literally first got this message
+when I was inside a particle
+accelerator testing chips.
+"Good luck trying to run
+an h100 in space."
+To be honest, this is
+actually very generous.
+I really appreciate the good wishes.
+(Laughter)
+And my personal favorite,
+"This will never get off the ground,
+in a very literal sense."
+(Laughter)
+It's true that revolutionary ideas
+often sound stupid at first,
+but sadly it also happens to be true
+that most terrible ideas
+also often sound stupid at first.
+So how can you be certain
+of which camp you're in
+and be sure that you're not
+in the second camp?
+Well, it's important to reason
+from first principles,
+but I mean, to be very honest,
+in order to know which camp you're in,
+most oftentimes it is going
+to involve taking some risk.
+If you don't take some risk,
+you're likely not doing
+anything consequential.
+So for us, to know definitively
+if we can run an h100 in space,
+the best way to do that is to build
+a spacecraft and launch it to space.
+And that's exactly what we're doing
+with our first spacecraft
+launching next week.
+So given how controversial
+and audacious this idea seems to be,
+I thought I would share
+a little bit of context
+about how this idea came about,
+and then share some of the pros
+and some of the cons.
+A few years ago,
+I quite randomly on a weekend,
+decided to take a trip
+down to Starbase, Texas,
+where SpaceX is building
+their new Starship rocket.
+This wasn't a work trip or anything,
+I'm just a huge space nerd
+and this is my idea of a fun weekend.
+The first stop on the trip is
+to what they call the Rocket Garden,
+and it was the first time I had seen
+the massive new Starship
+launch vehicle that SpaceX is building.
+This was impressive, but to be honest,
+what really impressed me —
+besides the Texas barbecue,
+which is amazing —
+what really impressed me
+was that across the road
+from where I'm standing,
+behind the camera in this image,
+they are building,
+or they were building then,
+by far the largest factory
+I have ever seen.
+They're building these
+two Starship gigafactories
+that are essentially pretty similar
+to Tesla production lines,
+in that they're designed such
+that within two years
+they will be rolling one Starship per day
+off that production line.
+This is interesting because
+while the launch cost with reusability
+might come down by 50 to 100 times,
+the launch capacity, i.e. how many tons
+per year you can get to space,
+might go up by 1,000 times or more.
+And how is that possible?
+It's because Starship is the first-ever
+fully reusable rocket.
+So, for example, with the current
+launch vehicle, Falcon 9,
+if you build a new one
+every day for a year,
+at the end of the year, you still
+only have one Falcon 9 upper stage
+because it's dispensable.
+Whereas with Starship,
+if you build a new one
+every day for a year,
+at the end of the year
+you have 365 starships
+because they're reusable.
+And it's not just SpaceX.
+There's new rockets coming
+from Blue Origin, Stoke Space,
+Relativity Space and Rocket Lab.
+Even if you have a pretty healthy
+dose of skepticism
+on their forecasts,
+the coming capacity is just mind-blowing
+and will be the real game changer.
+So this coming capacity reminded me,
+or got me thinking
+about the concepts from sci-fi
+that I remember reading about
+as a kid or as a teenager
+under the torch light at night.
+In the 1940s,
+Isaac Asimov first wrote
+about the idea of space-based solar,
+which is where you have
+a huge solar panel in space,
+and then you somehow beam that power down.
+The problem with space-based
+solar, though,
+has always been that you lose
+most of the energy
+in transmission from space to Earth.
+But with low-cost launch,
+we now have the ability to move things
+like data centers to space
+close to the energy source,
+to consume the energy there
+and just beam down the results
+so we don't lose the energy
+in transmission.
+I ran the numbers with my cofounders,
+Ezra Feilden and Adi Oltean,
+and we came to the conclusion
+that if the launch cost gets
+to around 500 dollars a kilo,
+which is well within
+Starship launch prices,
+then the data centers in space
+will be economically viable.
+So that's how the idea came about.
+But where does this 500 dollars
+a kilo number come from?
+And how is it that energy
+for data centers in space
+will be cheaper than on Earth?
+Well, let's run a comparison
+with a data center on Earth,
+with a solar project on Earth
+to power a data center,
+because solar on Earth is the cheapest
+form of energy we have right now.
+So you have three big costs
+with a solar project on Earth.
+Number one is the cost of permitted land.
+This is actually the biggest cost
+or can be the biggest cost,
+particularly in North America,
+where it's linked to the energy price.
+Number two, you have
+the cost of battery storage
+because you need to charge
+the batteries during the day
+so that you have power at night.
+And number three, you have the cost
+of the solar cells themselves.
+So how does that compare
+with a solar project in space?
+Well, number one, on the plus side,
+we don't need permitted land.
+We don't need battery storage
+because we're 24/7 in the sun,
+and we need six times less solar cells.
+Since one square meter
+of solar panel in space
+produces six times the energy
+of one square meter
+of solar panel on Earth.
+But there's a few
+additional costs in space.
+So I mentioned we're going to need
+six times less solar.
+But there's one big cost,
+which is we need the launch cost.
+The launches to get the chips,
+solar panels and radiators to space.
+But now you can see very clearly
+that there is clearly a breakeven point
+where the launch cost is below
+the cost of permitted land,
+batteries and six times the solar.
+And we see that launch cost to be around
+500 dollars a kilo, as I mentioned,
+which is well within range
+of the Starship launch price.
+I'll finish with this.
+Earlier, I mentioned the competition
+between nations for AI,
+and over the last few years,
+we've seen rising tensions
+with the first hot war
+in Europe in generations.
+At its root, the biggest driver
+of large-scale war
+is competition for resources.
+And over the coming century,
+the biggest competition between nations
+will be for energy and water
+for data centers.
+Some of you might know that in 1945,
+the United Nations Charter
+was first signed in this very room,
+on this very stage
+where I'm standing right now.
+Look at the curtains in this image
+and the chandeliers,
+they are the same curtains
+that you will see.
+It happened in this room.
+We might take it for granted right now,
+but the United Nations
+has helped keep us safe
+since the second World War until now.
+And as the grandchild
+of two British World War II veterans,
+the words of the charter,
+the promise of their generation to ours,
+still move me every time I think of them:
+"We, the people of the United Nations,
+determined to save succeeding
+generations from the scourge of war,
+which twice in our lifetime
+has brought untold sorrow to mankind."
+The most effective way
+that we can save our own children
+and grandchildren from the scourge of war
+will be to stop competing
+over the fundamentally
+finite resources of Earth,
+and to start utilizing the near
+limitless energy of our solar system
+and eventually of our galaxy.
+In a week's time, I'll be watching
+the first AI data center launch to space.
+In ten years' time, most new data centers
+will be being built in space
+for the energy.
+And who knows, maybe in 50 years' time,
+if I keep wearing my lucky underpants --
+(Laughter)
+We may have started work on a Dyson sphere
+to help harness the full power of our sun.
+Thank you.
+(Applause)
