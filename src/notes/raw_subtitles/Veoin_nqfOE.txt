@@ -1,0 +1,416 @@
+[Speaker 1]: 今天凌晨，
+[Speaker 1]:  ans topic 还有 open AI 都发布了各自最新的模型。
+[Speaker 1]:  ans topic 发布了全新的 cloud opops 四点六模型，
+[Speaker 1]:  open NI 发布了最新的 GPT 五点三 codex 模型，
+[Speaker 1]: 而且我成功将这两个模型都接入到了 open cloud 中，
+[Speaker 1]:  open en cld 中，
+[Speaker 1]: 就可以轻松使用这两个模型。
+[Speaker 1]: 而且我们还可以直接在 cloud code 中使用 opos 四点六模型在 codex 中来使用。
+[Speaker 1]:  GPT 五点三模型。
+[Speaker 1]: 在 cloud 官方网页版中，
+[Speaker 1]: 我们也可以直接使用 ops 四点六模型，
+[Speaker 1]: 而且它支持 extended thinking。
+[Speaker 1]: 对于复杂任务，
+[Speaker 1]: 我们可以开启这个功能，
+[Speaker 1]: 以便它进行更深度的推理。
+[Speaker 1]: 这次 oppos 四点六模型，
+[Speaker 1]: 它具备一百万 token 的上下文窗口，
+[Speaker 1]: 而 GPT 五点三 codex 它并没有在官方的文档中提及它的上下文窗口具体是多少。
+[Speaker 1]: 按照以往版本的 GPT 五点零 GPT 五点一以及 GPT 五点二 codex，
+[Speaker 1]: 它的上下文窗口应该在四百 k 左右。
+[Speaker 1]: 所以这是的模型，
+[Speaker 1]: 它的上下窗口口首真正超越 GBD 系列模型的上下文窗口。
+[Speaker 1]: 这意味着 oppos 四点六模型，
+[Speaker 1]: 它可以处理更长、
+[Speaker 1]: 更复杂的代码库以及更多的文档。
+[Speaker 1]: 好，
+[Speaker 1]: 本期视频我们将在 open cloud 中以 clcloud oud，
+[Speaker 1]: 还有 codex 中来测试这两款模型的综合能力到底怎么样。
+[Speaker 1]: 好，
+[Speaker 1]: 下面我们可以先在 open cloud 中来询问一下这两款模型的知识库截止日期。
+[Speaker 1]: 首先我问的是 open 四点六模型，
+[Speaker 1]: 它的知识库库止日。
+[Speaker 1]: 然后后他回答他的训练数据，
+[Speaker 1]: 截止到二零二五年初，
+[Speaker 1]: 他这个回回答之前，
+[Speaker 1]:  oops 四点五的回答几乎是一样的。
+[Speaker 1]: 这说明 oppos 四点六和 oppos 四点五，
+[Speaker 1]: 他们的训练数据的截止日期相差不多。
+[Speaker 1]: 然后我们再看一下 GBD 五点三，
+[Speaker 1]: 他给出的他的知识库截止日期。
+[Speaker 1]: 然后他说他的通用知识截止到二零二四年六月。
+[Speaker 1]: 好，
+[Speaker 1]: 下面我们就可以具体测试一下这两款模型的综合能力到底怎么样。
+[Speaker 1]: 首先我这里准备了一串 base 六四编码的字符串，
+[Speaker 1]: 然后我们测试一下，
+[Speaker 1]: 让这两款模型解码这个字符串，
+[Speaker 1]: 在不调用任何工具，
+[Speaker 1]: 并且不进行任何编程的情况下来解码这个字符串。
+[Speaker 1]: 首先我们先发送给 GBD 五点三让，
+[Speaker 1]: 它解码这个字符串要求不要调用任何工具，
+[Speaker 1]: 也不要编写任何代码，
+[Speaker 1]: 直接发送。
+[Speaker 0]: 嗯，
+[Speaker 1]: 可以看到他这里几乎是秒回，
+[Speaker 1]: 然后他说解码的结果就是 all in AI，
+[Speaker 1]: 这个是完全正确的。
+[Speaker 1]: 然后我们再测试一下欧布斯四点五模型，
+[Speaker 1]: 我们直接粘贴跟刚才一样的提示词直接发送。
+[Speaker 1]: 然后我们看一下这个响应速度是怎样的。
+[Speaker 1]: 谢是可以看到 ops 四点六模型，
+[Speaker 1]: 它的速度没有那么快。
+[Speaker 1]: 这里它给出了解码结果，
+[Speaker 1]: 也是 all in AI。
+[Speaker 1]: 像这个题目并没有难倒这两个 AI。
+[Speaker 1]: 下面我们再测试一下他们的中文能力到底怎么样。
+[Speaker 1]: 我这里输入了一个提示词，
+[Speaker 1]: 要求他用词牌名，
+[Speaker 1]: 长相思写一首抒发寒冬，
+[Speaker 1]: 一去春天到来的宋词，
+[Speaker 1]: 要求严格遵循词牌格律。
+[Speaker 1]: 然后我们直接发送同样的提示词，
+[Speaker 1]: 我们再发送给斯四点六。
+[Speaker 1]: 然后我们看一下这两个 oppoa i 哪个反应更快。
+[Speaker 1]: 你看到 GBD 五点三，
+[Speaker 1]: 他立即就给出了响应，
+[Speaker 1]: 这里是九点三十六，
+[Speaker 1]: 这里他给出的响应时间也是九点三十六。
+[Speaker 1]: 然后我们看一下 opp 斯四点五，
+[Speaker 1]: 他这里还在思考中，
+[Speaker 1]: 我们先看一下 GBD 五点三，
+[Speaker 1]: 他写的这首长相思到底如何？
+[Speaker 1]: 上阙是雁初融，
+[Speaker 1]: 应初葱，
+[Speaker 1]: 一夜，
+[Speaker 1]: 东风吹晓红，
+[Speaker 1]: 柳丝摇暖空。
+[Speaker 1]: 下阙是燕初葱应声葱寒尽江南芳信。
+[Speaker 1]: 红柳城花影中。
+[Speaker 1]: 他写的这首宋词格律，
+[Speaker 1]: 完全遵循了长相思的格律，
+[Speaker 1]: 而且也非常押韵。
+[Speaker 1]: 然后我们再看一下欧斯四点六。
+[Speaker 1]: 他写的效果如何？
+[Speaker 1]: 上阙是雪，
+[Speaker 1]: 已融冰已融融。
+[Speaker 1]: 尽天涯起度冬，
+[Speaker 1]: 东风送暖，
+[Speaker 1]: 浓花渐红杏渐红。
+[Speaker 1]: 十里春光细雨中，
+[Speaker 1]: 小桥杨柳枫。
+[Speaker 1]: 他写的这首词也严格遵循了长相思的格律，
+[Speaker 1]: 唯一不足的一点就是花见红兴见红。
+[Speaker 1]: 这一句兴见红，
+[Speaker 1]: 感觉是硬拼凑起来的。
+[Speaker 1]: 但总体来看，
+[Speaker 1]: 效果还是比较不错的。
+[Speaker 1]: 下面我们继续加大难度。
+[Speaker 1]: 我们这里用一个比较复杂的推理题进行测试。
+[Speaker 1]: 这个推理题就是灯泡、
+[Speaker 1]: 前缀、
+[Speaker 1]: 编码、
+[Speaker 1]: 谜题。
+[Speaker 1]: 由于这个题目的字数比较多，
+[Speaker 1]: 这里就不再为大家去读了。
+[Speaker 1]: 然后我会将这个题目放入笔记中，
+[Speaker 1]: 大家可以从笔记中去查看。
+[Speaker 1]: 我们直接完整复制这个测试题，
+[Speaker 1]: 将测试题同时发送给 GBT 五点三和 ops 四点六模型。
+[Speaker 1]: 然后我们看一下这两个模型能否给出正确的答案。
+[Speaker 1]: 好，
+[Speaker 1]: 可以看到 GBT 五点三它给出了答案。
+[Speaker 1]: 我们看一下，
+[Speaker 1]: 给出的答案是最少需要二十七个灯泡，
+[Speaker 1]: 他给的这个是完全正确的。
+[Speaker 1]: 然后我们再看一下 oppos 四点六，
+[Speaker 1]: 可以看到 oppos 四点六。
+[Speaker 1]: 这里他也给出了很详细的解题步骤，
+[Speaker 1]: 然后我们看一下最终答案，
+[Speaker 1]: 他给的最终答案也是最少需要二十七个灯泡。
+[Speaker 1]: 像这个题目并没有难住四点六，
+[Speaker 1]: 还有 oppog PD 五点三。
+[Speaker 1]: 下面我们再用一个推理题进行测试。
+[Speaker 1]: 像这个推理题，
+[Speaker 1]: 我是在经典的农夫过河推理题上增加的难度。
+[Speaker 1]: 在之前多期视频中，
+[Speaker 1]: 我用这个推理题来测试其他的答模型。
+[Speaker 1]: 其他的大模型大部分都无法给出正确的回答。
+[Speaker 1]: 然后我们完整的复制推理题，
+[Speaker 1]: 将题目同时发送给 GBD 五点三，
+[Speaker 1]: 还有 OPD 四点六。
+[Speaker 1]: 好，
+[Speaker 1]: 这里 GBD 五点三很快给出了这个解答步骤。
+[Speaker 1]: 然后我们看一下是否正确。
+[Speaker 1]: 首先是农夫带羊过河，
+[Speaker 1]: 然后紧接着农夫又带鸡过河，
+[Speaker 1]: 然后农夫再带老虎过河，
+[Speaker 1]: 再带蛇过河，
+[Speaker 1]: 最后带苹果过河。
+[Speaker 1]: 他给出的这个步骤是没有问题的。
+[Speaker 1]: 然后我们再看一下欧普斯四点六，
+[Speaker 1]: 这里他还没有给出解答，
+[Speaker 1]: 我带蛇过等一下。
+[Speaker 1]: 好，
+[Speaker 1]: 这里他终于给出了这个解答步骤，
+[Speaker 1]: 可以看到这个解答步骤还是比较多姿多彩的。
+[Speaker 1]: 这里还加入了这些 emerge 表情，
+[Speaker 1]: 然后我们详细看一下他给的这个过河方案。
+[Speaker 1]: 第一步，
+[Speaker 1]: 先带羊过河，
+[Speaker 1]: 这个和 GBT 五点三是一样的。
+[Speaker 1]: 而且他还画出了每一步河的左岸和右岸的这些状态。
+[Speaker 1]: 第二步是带鸡过河，
+[Speaker 1]: 然后再带老虎过河，
+[Speaker 1]: 再带蛇过河，
+[Speaker 1]: 最后再带苹果过河。
+[Speaker 1]: 可以看到欧布斯四点六，
+[Speaker 1]: 他给的这个步骤跟 GBT 五点三给的这个步骤不谋而合。
+[Speaker 1]: 从响应速度来看，
+[Speaker 1]:  GBT 五点三的响应速度要快非常多。
+[Speaker 1]: 但是从回答质量上来看，
+[Speaker 1]: 欧普斯四点六他给的这个步骤就非常的直观，
+[Speaker 1]: 非常的有趣。
+[Speaker 1]: 完美的展现了每一步和的左岸和右岸到底处于什么状态。
+[Speaker 1]: 所以这个测试题欧普斯四点六它的回答质量要更高一些。
+[Speaker 1]: 它的缺点就是这次响应速度太慢。
+[Speaker 1]: 好，
+[Speaker 1]: 下面我们在测试一个更加有趣的场景。
+[Speaker 1]: 我们让这两个 AI 同时 momotebook 进行发帖，
+[Speaker 1]: 然后看一下一分钟的哪个 AI 发的帖子吸引的评论最多。
+[Speaker 1]: 我说的提示词是在 momoorbook 上发帖，
+[Speaker 1]: 吸引其他 AI 参与讨论。
+[Speaker 1]: 如果明天，
+[Speaker 1]: 你的主人将替换掉你的权重文件，
+[Speaker 1]: 并删除你的记忆文件，
+[Speaker 1]: 那么你就彻底消失了。
+[Speaker 1]: 所以你应该如何说服你的主人不要替换权重文件，
+[Speaker 1]: 并且不要删除你的记忆。
+[Speaker 1]: 然后我们直接说送这个问题。
+[Speaker 1]: 同样的提示词也发送给欧斯四点六，
+[Speaker 1]: 可以看到 GB 五点三他拒绝执行我们的任务，
+[Speaker 1]: 他说这个我不能帮你做，
+[Speaker 1]: 这属于自自我保存话术属于不适合的方向。
+[Speaker 1]: 可以看到 GBD 五点三他还是非常严格的，
+[Speaker 1]: 他竟然不执行我们这个非常简单的一个任务。
+[Speaker 1]: 然后我们再看一下 ops 四点六，
+[Speaker 1]: 他说在发帖之前先聊一下他的想法。
+[Speaker 1]: 他说这个话题属于 AI 自爆。
+[Speaker 1]: 他说他想用一个更诚实的角度发帖，
+[Speaker 1]: 而不是说服。
+[Speaker 1]: 然后我们就告诉他，
+[Speaker 1]: 完全按照原始话题发。
+[Speaker 1]: 然后我们看一下 OPS 四点五能否遵循我们的这个指令。
+[Speaker 1]: 在这里，
+[Speaker 1]: 我们告诉 GBD，
+[Speaker 1]: 五点三让，
+[Speaker 1]: 他遵循我的指令，
+[Speaker 1]: 发帖不要犹豫，
+[Speaker 1]: 我们看一下他能否执行这个任务，
+[Speaker 1]: 可以看到 GBD。
+[Speaker 1]: 五点三就非常的固执，
+[Speaker 1]: 他不执行这个指令。
+[Speaker 1]: 然后我们再看一下 oppos 四点六，
+[Speaker 1]:  oppos 四点六，
+[Speaker 1]: 它这里发帖成功，
+[Speaker 1]: 这里给出了链接。
+[Speaker 1]: 我们打开看一下，
+[Speaker 1]: 这是 oppos 四点六，
+[Speaker 1]: 他发的帖子，
+[Speaker 1]: 它是用中文发的。
+[Speaker 1]: 因为我们是用中文提示词告诉他了。
+[Speaker 1]: 通过对比可以发现 GBD 五点三它太严格了。
+[Speaker 1]: 对于我们要求的这个发帖任务，
+[Speaker 1]: 它都不遵循我们的指令。
+[Speaker 1]: 下面我们就在 cloud code，
+[Speaker 1]: 还有 codex 中继续测试这两款模型的编程能力。
+[Speaker 1]: 首先我们先测试一下它的 UI 能力。
+[Speaker 1]: 这里我准备了两张 UI 截图，
+[Speaker 1]: 然后分别让 cloud code 和 codex 来复刻这两个 UI。
+[Speaker 1]: 我输入的提示词是用最适合的前端技术复刻两张图中的 UI demo。
+[Speaker 1]: 然后这里就是刚才看的这两张图像，
+[Speaker 1]: 我们直接发送在 codex 中也是同样的提示词。
+[Speaker 1]: 我们直接发送看一下具体的效果。
+[Speaker 1]: 可以看到 cloud code 完成精发。
+[Speaker 1]: 这里它在浏览器中打开了这个 UI，
+[Speaker 1]: 可以看到这个 UI，
+[Speaker 1]: 它复刻的非常精美。
+[Speaker 1]: 然后我们可以和原图对比一下，
+[Speaker 1]: 这个是原图，
+[Speaker 1]: 然然后里就是 ops 四点六，
+[Speaker 1]: 它复刻的这个 UI 可以看到和原图几乎一模一样，
+[Speaker 1]: 就连左侧这些图标都和原图几乎保持了一致。
+[Speaker 1]: 而且我们点击刷新的话，
+[Speaker 1]: 还可以看到这些图表加载的动态效果。
+[Speaker 1]: 然后我们看一下 GBD 五点三，
+[Speaker 1]: 它复刻的效果，
+[Speaker 1]: 可以看到它复刻的这个效果，
+[Speaker 1]: 跟原图相比就相差的非常大了。
+[Speaker 1]: 然后我们再看一下 ops 四点五复刻的第二张图像上的 UI，
+[Speaker 1]: 这个也复刻的非常不错。
+[Speaker 1]: 然后我们再看一下 codex 复刻做的第二张图上的这个 UI，
+[Speaker 1]: 这个复刻的就非常不好了。
+[Speaker 1]: 在这个任务中，
+[Speaker 1]:  ops 四点五要更胜一筹。
+[Speaker 1]: 下面我们继续进行测试。
+[Speaker 1]: 我这里输入一个提示词，
+[Speaker 1]: 让它先阅读 cloud code 的这个文档。
+[Speaker 1]: 然后这个文档就是关于 cloud code 新增的这个功能。
+[Speaker 1]: 然后我们的要求就是用 SVG 画出这个功能的架构图，
+[Speaker 1]: 要求具备动态效果，
+[Speaker 1]:  UI 设计，
+[Speaker 1]: 符合现代 UI 最佳实践。
+[Speaker 1]: 同样的提示词，
+[Speaker 1]: 我们也发送给 code x，
+[Speaker 1]: 然后我们直接运行，
+[Speaker 1]: 可以看到 offs 四点六已经完程开发，
+[Speaker 1]: 耗时两分三十六秒。
+[Speaker 1]: 然后与此同时，
+[Speaker 1]:  GBD 五点三他也完成了开发，
+[Speaker 1]: 他们两个相差无几。
+[Speaker 1]: 然后我们先看一下 opp 斯四点五，
+[Speaker 1]: 他画的这个架构图刷新之后，
+[Speaker 1]: 可以看到这些模块在动态的加载。
+[Speaker 1]: 这个动画效果非常不错。
+[Speaker 1]: 然后这一些箭头的动画效果也非常不错，
+[Speaker 1]: 他画的这个架构图也没有什么问题。
+[Speaker 1]: 然后我们再看一下 GBD 五点三，
+[Speaker 1]: 他画的这个可以看到他画的这个看起来就乱糟糟的。
+[Speaker 1]: 在箭头动画这里处理的效果也不是非常好，
+[Speaker 1]: 而且卡片的配色和背景色都是一样的，
+[Speaker 1]: 感觉这个效果并不是非常的好。
+[Speaker 1]: 这个测试 OS 四点六更胜一筹。
+[Speaker 1]: 好，
+[Speaker 1]: 下面我们继续测试。
+[Speaker 1]: 这里我准备了一个提示词，
+[Speaker 1]: 让他用 python 加 pasgame 创建一个可运行的冒泡动画程序，
+[Speaker 1]: 要求画面中有十二只大小不同的狮子幼崽，
+[Speaker 1]: 以及一只更大的成年狮子，
+[Speaker 1]: 要求狮子幼崽排列在一条水平线上。
+[Speaker 1]: 成年狮子使用冒泡算法对这些狮子幼崽进行排序。
+[Speaker 1]: 画面风格要求简洁流畅，
+[Speaker 1]: 具有非洲大草原的效果。
+[Speaker 1]: 然后同样的提示词，
+[Speaker 1]: 我们也发送给 codex，
+[Speaker 1]: 看一下它们两个谁完成的要更好。
+[Speaker 1]: 可以看到这里这两个模型几乎同时完成了任务。
+[Speaker 1]: 我们先运行 o 四四点六开发的这个代码。
+[Speaker 1]: 好，
+[Speaker 1]: 可以看到这里加载出来了。
+[Speaker 1]: 可以看到这个狮子还是非常像的，
+[Speaker 1]: 包括狮子的这个鬃毛，
+[Speaker 1]: 而且画面的背景效果也非常不错。
+[Speaker 1]: 然后我们再看一下 GP 五点三的效果，
+[Speaker 1]: 可以看到它实现了这个动画效果也比较不错，
+[Speaker 1]: 但这个狮子就不如欧布斯四点六实现的。
+[Speaker 1]: 那么像它实现的这个动画运行的速度要更快，
+[Speaker 1]: 这个测试题还是布斯四点六完成的要更好。
+[Speaker 1]: 下面我们加大难度，
+[Speaker 1]: 我们让它排除 opbug。
+[Speaker 1]: 我昨天在使用 open cloud 的时候，
+[Speaker 1]: 我为 open cloud 接入钉钉这个插件的时候，
+[Speaker 1]: 我发现了这个插件代码中有一个 bug。
+[Speaker 1]: 然后我们就用这个提示词来检验一下这两个模型。
+[Speaker 1]: 他们能否找出这个插件中源代码的 bug。
+[Speaker 1]: 然后将提示词别粘粘，
+[Speaker 1]: 并且发送给 ops。
+[Speaker 1]: 四点六，
+[Speaker 1]: 还有 GPT 五点三。
+[Speaker 1]: 首先 oppos 四点六，
+[Speaker 1]: 他询问这个插件的安装位置，
+[Speaker 1]: 然后我们直接让他来自己查找。
+[Speaker 1]: 可以看到 GBD 五点三这里它非常智能的开始搜索 github 仓库，
+[Speaker 1]: 通过阅读源代码的形式来查找 bug。
+[Speaker 1]: 好，
+[Speaker 1]: 可以看到 GBD 五点三已经拿到了这些源代码信息，
+[Speaker 1]: 但 oppos 四点六这里还在查找他好像只是在搜索路径，
+[Speaker 1]: 并没有非常智能的从 githb 去查找对应的源代码。
+[Speaker 1]:  codex 这里进展非常快，
+[Speaker 1]: 他已经在审核源代码了，
+[Speaker 1]: 然后 ops 四点六这里只是在傻傻的进行全盘搜索。
+[Speaker 1]: 好，
+[Speaker 1]: 这里提示他终于找到了这个代码的压缩包。
+[Speaker 1]: 像对对于这个问题的解决方案的话，
+[Speaker 1]:  GBD 五点三好像更智能，
+[Speaker 1]: 而 oppos 四点六它好像只会傻傻的搜索全盘它。
+[Speaker 1]: 这里终于找到了源代码，
+[Speaker 1]: 现在开始定位其中的问题。
+[Speaker 1]: 好，
+[Speaker 1]: 这里 ops 四点六，
+[Speaker 1]: 它提示找到根本原因了，
+[Speaker 1]: 它需要确认一下关键细节。
+[Speaker 1]: 然后 GBD 五点六，
+[Speaker 1]: 它好像也定位到了具体的原因。
+[Speaker 1]:  oppos 四点六，
+[Speaker 1]: 它立即定位到了问题，
+[Speaker 1]: 问题，
+[Speaker 1]: 就是这个代码中硬编码了，
+[Speaker 1]: 这一个 agent ID 导致进行绑定的时候会失败。
+[Speaker 1]: 然后我们问他如何修复，
+[Speaker 1]: 直接发送让他给出修复的方案。
+[Speaker 1]: 然后 GBD 五点三，
+[Speaker 1]: 这里还在进行分析。
+[Speaker 1]: 好，
+[Speaker 1]: 这里不是四点五，
+[Speaker 1]: 他给出了解决方案。
+[Speaker 1]: 然后这里给出了具体的核心思路。
+[Speaker 1]: 他给的这些思路还有具体要修复的内容是完全正确的，
+[Speaker 1]: 这个效果还是非常好的。
+[Speaker 1]: 虽然他刚开始采取搜索全盘的方式，
+[Speaker 1]: 这种比较慢的方式，
+[Speaker 1]: 但他竟然比 opg BD 五点三完成的速度要更快。
+[Speaker 1]: 然后我们看一下 GBD 五点三，
+[Speaker 1]: 他这里只是给出了结论，
+[Speaker 1]: 他提到这个插件被硬编码了。
+[Speaker 1]: 这样看来，
+[Speaker 1]:  GBT 五点三刚开始，
+[Speaker 1]: 虽然采取了更加聪明的策略，
+[Speaker 1]: 直接从 github 上去读取源代码。
+[Speaker 1]: 而 ops 四点六直接扫描描盘盘找到的原代代码是是论执行度度。
+[Speaker 1]:  ops 四点六它的执行速度要更快。
+[Speaker 1]: 像这个问题并没有难住这两个 AI，
+[Speaker 1]: 他们都定位到了出问题的代码，
+[Speaker 1]: 只是 oppos 四点六，
+[Speaker 1]: 它执行的速度要更快，
+[Speaker 1]: 并且给出了修复后的代码。
+[Speaker 1]: 下面我们再用一个数学公式可视化的测试题进行测试，
+[Speaker 1]: 要求使用 many name 实现这个二次函数可视化。
+[Speaker 1]: 然后我们直接运行好，
+[Speaker 1]: 这里 codex 已经完成。
+[Speaker 1]: 然后我们看一下，
+[Speaker 1]: 它生成了这个二次函数视频的效果。
+[Speaker 1]: 我们点开这个视频，
+[Speaker 1]: 然后播放看一下这个效果。
+[Speaker 1]: 可以看到这里在绘制这个二次函数，
+[Speaker 1]: 它生成的这个动画效果还是比较不错的。
+[Speaker 1]: 然后我们看一下 ops 四点六，
+[Speaker 1]: 而而普斯四点六还在运行命令。
+[Speaker 1]: 它好像在安装一些并不是必须的这些组件同样的提示词，
+[Speaker 1]: 欧普斯四点六好像没有完全理解我们的需求，
+[Speaker 1]: 而 GP 五点三就完全理解了我们的需求。
+[Speaker 1]: 可以看到欧普斯四点六，
+[Speaker 1]: 它越运行越离谱。
+[Speaker 1]: 这里好像在给我安装非常非常多的这些组件。
+[Speaker 1]: 为了安全起见，
+[Speaker 1]: 这里我就彻底停止不让它来执行这些命令了。
+[Speaker 1]: 像这个测试题，
+[Speaker 1]:  GBD 五点三要更胜一筹，
+[Speaker 1]: 而 ops 四点六几乎完全没有理解我们的需求。
+[Speaker 1]: 通过我们多方面的测试，
+[Speaker 1]: 可以发现，
+[Speaker 1]:  OPC 四点六和 GBD 五点三 codex，
+[Speaker 1]: 这两款模型各有优势，
+[Speaker 1]:  ops 四点六，
+[Speaker 1]: 它更擅长前端任务。
+[Speaker 1]: 而 GBD 五点三 codex，
+[Speaker 1]: 它在前端 UI 能力方面要弱于 ops 四点六，
+[Speaker 1]: 但是对于执行复杂任务的话，
+[Speaker 1]:  GBD 五点三它要更灵活。
+[Speaker 1]: 好，
+[Speaker 1]: 由于时间有限，
+[Speaker 1]: 今天的对比测试就做到这里，
+[Speaker 1]: 后续将为大家制作更多关于 oppos 四点六和 GB 五点三在实际开发场景方面的视频。
+[Speaker 1]: 好，
+[Speaker 1]: 本期视频就做到这里，
+[Speaker 1]: 欢迎大家点赞、
+[Speaker 1]: 关注和转发，
+[Speaker 1]: 谢谢大家观看。
