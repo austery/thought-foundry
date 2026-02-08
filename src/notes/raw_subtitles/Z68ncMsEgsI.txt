@@ -1,0 +1,210 @@
+ On Simon Willison's excellent blog yesterday,
+ he pointed out this tweet talking about "near
+ manic episodes triggered by watching software
+ shift from scarce to abundant" and "cognitive
+ overload from living in an inflection point."
+ That tweet seems to be resonating with a lot of
+ the software people at the moment.
+ As for me, I'm feeling a very strong sense of
+ deja vu right now.
+ It's eerie.
+ I felt like I've lived through this before, and
+ maybe I can help give you some perspective.
+ The last time things felt like this to me was
+ 26 years ago, now-ish.
+ I was working at my first startup, NetSpend.com,
+ but that's a story for another day.
+ We were almost a month past the Y2K changeover,
+ which had turned out to be a non-event because
+ a lot of people had done a lot of work to
+ prepare for it, but that's yet another story
+ for another, another day.
+ In early January of that year, an essay
+ entitled "bubble.com" had been written by an
+ analyst
+ and leaked almost immediately, and was doing
+ the rounds inside the startup community.
+ It detailed the case for why the current tech
+ company valuations were incredibly overvalued,
+ and a correction was inevitable.
+ Things were starting to feel tenuous, and I was
+ getting quite worried.
+ A couple of months later, not that I knew it
+ yet, in March, the NASDAQ would hit its
+ peak, and then it would start falling.
+ It would lose three-quarters of its value in
+ the following year and a half, and it
+ wouldn't see those highs again for 15 years.
+ And between the warning and the crash was the
+ big football game of 2000.
+ I'll be referring to it as the "superb owl" to
+ avoid copyright trolls.
+ I couldn't even tell you who was playing, but I
+ still remember the ads.
+ There were so many dot-com commercials during
+ that game, they had their own Wikipedia page.
+ I remember how jarring it felt to see companies
+ that were so overvalued and losing money like
+ crazy spent so much money advertising.
+ It seemed like deliberately poking the bear, or
+ at least tempting fate, especially since
+ one of the ads was the E-Trade monkey dancing
+ in a garage for 20 seconds, followed by a
+ screen with the words, "Well, we just wasted $2
+ million what are you doing with your money?"
+ Any of this sounding familiar?
+ The very next "superb owl" in 2001, there was
+ an E-Trade ad called "Ghost Town", showing
+ the same monkey riding a horse through a
+ deserted town, filled with thinly disguised
+ logos of
+ failed dot-coms, including a discarded pets.com-
+ like sock puppet.
+ The juxtaposition between the reality and the
+ marketing hype of AI feels just as discordant
+ and uncomfortable for me as I remember from
+ that January 2000.
+ We know that LLMs have plateaued, and that even
+ some industry insider experts are admitting
+ it's time to go back into a research phase,
+ that the valuations and revenue forecasts
+ are implausible, but despite that, a social
+ network made exclusively for AI agents to
+ talk to each other is going viral.
+ I paused work on a video about that to make this
+ one. And, although as I'm writing this
+ I don't know exactly how many AI commercials
+ are going to be in the game this weekend,
+ I do already know there will be a lot more than
+ it seems like there ought to be.
+ Tens of billions of dollars is being spent to
+ advertise these companies that are losing
+ billions of dollars a year, with valuations
+ already over-inflated to the point where
+ financial collapse seems inevitable.
+ Just like with the dot-coms in 2000, this seems
+ like a last desperate attempt by the
+ AI companies to stave off disaster.
+ Continuing a proud tradition of soon-to-be
+ unemployed marketing departments from FTX
+ during the
+ so-called Crypto Bowl in 2022, and stretching all
+ the way back to Atari's vain attempt
+ to pivot from video games to home computers in
+ 1984, right after the Christmas video game
+ crash of 1983.
+ It's often humorous in retrospect, but it's not
+ fun in the moment.
+ It was a scary feeling in January 2000, and it's
+ a scary feeling now.
+ But we got through that, and we can get through
+ this, and the two situations are even more
+ similar than you probably realize.
+ Compounded with the tech crash after the dot-com
+ bubble, there was also a big wave of offshoring
+ of software and IT positions that also
+ depressed the tech job market.
+ It was a double whammy.
+ Developer jobs were being closed because the
+ cash bank for them was drying up, and many
+ of the developer jobs that were still being
+ funded were being moved overseas.
+ It turned out, though, that for various reasons,
+ including the then-immaturity of many of the
+ foreign firms, poor communication, and high
+ levels of turnover amongst the big overseas
+ providers, the code that US companies were
+ getting from offshore vendors was not up to
+ the quality that was needed.
+ It was bad for internet software quality in
+ general, but it was good for developers because
+ it forced companies to hire developers in the
+ US to clean up all the substandard code
+ that offshore and could create.
+ Some of us made a lot of money on some of those
+ cleanup projects.
+ And that is a lot like the impact that AI is
+ having on code right now.
+ Lots of bugs, lots of bad code, lots of
+ security vulnerabilities are getting pushed out
+ very
+ fast.
+ Absent an imminent, miraculous breakthrough in
+ AI tech, there's going to be a ton of
+ demand for developers to clean that code up.
+ In many ways, AI coding agents can be thought
+ of as just another iteration of offloading
+ development tasks to cheaper resources of lower
+ experience and quality.
+ And there's another similarity.
+ Back in the late 1990s, we didn't have Stack
+ Overflow.
+ We didn't have GitHub, we didn't have package
+ managers like `npm` or `pip`, we didn't have
+ a huge variety of open-source modules we could
+ pull into our projects.
+ Hell, we barely had Google.
+ It was still smaller than Yahoo at the time.
+ Those advances made software development go
+ faster, and those of us who predated them
+ had to learn how to keep up with newer
+ developers who started off using the new tools.
+ There was a lot of fear that the new resources
+ would make developers so much more productive
+ that the number of developer jobs would drop
+ forever.
+ In fact, the opposite occurred.
+ Those advances meant it became economically
+ feasible to use software to address a bunch
+ of problems that had been out of our reach
+ before.
+ There's every reason to believe that large
+ language models will have the same effect.
+ People have been saying for years that
+ developer jobs are going to go away, never to
+ return.
+ But these days, I'm putting together side
+ projects on a regular basis with Claude Code
+ that I never would have bothered to even
+ attempt before, because the amount of time it
+ would
+ have taken to do it the old way wouldn't have
+ been worth it.
+ There's a whole new world of projects ahead of
+ us that would never have been possible
+ before.
+ Unfortunately, we can't move forward as long as
+ we're stuck in this holding pattern.
+ The valuations are just not sustainable and
+ there just isn't that much money to go around.
+ I'll put some link to Ed Zitron's financial
+ analysis below as well as a link to the bubble.com
+ paper from 2000 and the follow-up that that
+ same author wrote last year. Those papers
+ are also worth reading.
+ The coming crash is scary, but the sooner it
+ happens, the sooner we can get through all
+ of this.
+ And maybe, like in 2000, the big expensive AI
+ commercials this weekend will be the harbinger
+ of the end of the hype.
+ The bubble has to collapse and the tech world
+ has to face reality and come to their senses.
+ Hopefully, it will happen sooner rather than
+ later because the more inflated it gets, the
+ worse it's going to be when it pops.
+ But if you're feeling unsettled, unsafe, or
+ insecure by all this, understand it's not
+ just you and know that we've been here before
+ and that we came out better and stronger on
+ the other side.
+ There's every reason to believe that more
+ opportunities and more interesting projects
+ are waiting for us once the current irrational
+ exuberance dissipates.
+ Hang in there.
+ We can do this.
+ Try and enjoy the ads, some of them are
+ hilarious.
+ and thanks so much for watching.
+ Let's be careful out there.
