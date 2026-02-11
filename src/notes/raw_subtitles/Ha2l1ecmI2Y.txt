@@ -1,0 +1,6654 @@
+In
+ order
+ to
+ truly
+ change
+ things,
+ in
+
+
+order
+ to
+ build
+ something
+ great,
+ you
+ must
+
+
+have
+ conviction.
+ A
+ college
+ dropout
+ poker
+
+
+player.
+ I
+ didn't
+ go
+ to
+ Harvard
+ or
+ MIT.
+ I
+
+
+didn't
+ go
+ to,
+ you
+ know,
+ amazing
+ school.
+
+
+I
+ didn't
+ have
+ any
+ connections.
+
+
+>> We
+ were
+ nobodyies.
+ And
+ so
+ I
+ always
+
+
+wanted
+ to
+ prove
+ that
+ we
+ could
+ do
+
+
+impossible
+ things.
+ You
+ can't
+ do
+ this.
+
+
+Nobody
+ can.
+ When
+ I
+ hear
+ that,
+ uh,
+ that's
+
+
+all
+ I
+ want
+ to
+ work
+ on.
+
+
+>> Reset
+ everything.
+ Think
+ completely
+ from
+
+
+first
+ principles.
+ How
+ can
+ I
+ break
+ it?
+
+
+How
+ can
+ I
+ break
+ it?
+ And
+ that
+ the
+ why
+
+
+matters
+ more
+ than
+ anything.
+ Why
+ are
+ we
+
+
+here?
+ Why
+ why
+ do
+ we
+ get
+ up
+ in
+ the
+
+
+morning
+
+
+>> in
+ the
+ shower
+ when
+ you're
+ going
+ to
+ bed
+
+
+at
+ night,
+ when
+ you
+ wake
+ up
+ in
+ the
+ middle
+
+
+of
+ the
+ night,
+ you
+ have
+ an
+ idea
+ is
+ just
+
+
+like
+ it's
+ just
+ a
+ pure
+ obsession.
+
+
+>> Can
+ we
+ have
+ high
+ performance
+ and
+ maximum
+
+
+decentralization?
+ It's
+ the
+ holy
+ grail.
+
+
+The
+ impossible
+ thing,
+ an
+ impossible
+
+
+problem.
+ My
+ favorite.
+
+
+>> What
+ started
+ as
+ an
+ idea
+ now
+ is
+ a
+
+
+reality.
+ We
+ were
+ the
+ first
+ company
+ ever
+
+
+in
+ history
+ to
+ have
+ both
+ Andre
+ Horwitz
+
+
+and
+ Sequoia
+ both
+ co-lead
+ around.
+
+
+>> Vitalic
+ said
+ that
+ trial
+ was
+ broken.
+ He
+
+
+means
+ theoretically
+ it's
+ broken,
+ but
+ we
+
+
+actually
+ broke
+ it.
+ There
+ were
+ no
+ more
+
+
+bottlenecks.
+
+
+>> I'm
+ Brian
+ Pelgro,
+ co-founder
+ and
+ CEO
+ of
+
+
+Layer
+ Zero
+ Labs.
+
+
+>> I'm
+ Raz,
+ co-founder
+ and
+ CTO
+ of
+ Layer
+
+
+Zero.
+ Zero
+ is
+ the
+ last
+ blockchain
+
+
+that'll
+ ever
+ be
+ built.
+
+
+I
+ woke
+ up
+ one
+ morning,
+ April
+ 15th,
+ and
+ I
+
+
+sat
+ down
+ at
+ my
+ computer
+ and
+ there's
+ a
+
+
+big
+ seal
+ of
+ the
+ Department
+ of
+ Justice,
+
+
+the
+ DOJ,
+ on
+ the
+ website.
+ And
+ what
+ had
+
+
+happened
+ was
+ overnight
+ they
+ had
+ banned
+
+
+all
+ online
+ poker
+ within
+ the
+ United
+
+
+States.
+
+
+All
+ of
+ the
+ websites
+ are
+ down.
+ You
+ can
+ no
+
+
+longer
+ play
+ online
+ poker
+ in
+ the
+ United
+
+
+States.
+ All
+ of
+ the
+ payment
+ processors
+
+
+are
+ down.
+ So,
+ you
+ can
+ no
+ longer
+ move
+
+
+money
+ between
+ or
+ do
+ anything.
+ And
+ it
+ was
+
+
+just
+ like
+ overnight
+ like
+ that
+ the
+
+
+industry
+ was
+ just
+ gone.
+ And
+ I
+ think
+
+
+those
+ were
+ the
+ first
+ times
+ where
+ you
+
+
+said
+ okay
+ you
+ saw
+ the
+ reach
+ of
+ of
+ sort
+
+
+of
+ policy
+ and
+ government
+ sort
+ of
+
+
+impacting
+ you
+ in
+ your
+ real
+ life.
+ When
+
+
+you're
+ a
+ kid
+ you
+ don't
+ think
+ about
+ it
+
+
+too
+ much.
+ When
+ you're
+ a
+ young
+ adult
+ you
+
+
+don't
+ think
+ about
+ it
+ but
+ there's
+ the
+
+
+first
+ time
+ of
+ I
+ need
+ to
+ literally
+ move
+
+
+where
+ I
+ live
+ to
+ my
+ entire
+ life
+ and
+ it's
+
+
+sort
+ of
+ career
+ just
+ got
+ taken
+ away
+ from
+
+
+me.
+ Uh,
+ and
+ so
+ I
+ think
+ that
+ really
+
+
+grounded
+ me
+ early
+ on
+ in
+ kind
+ of
+ like
+ the
+
+
+libertarian
+ ethos
+ of
+ crypto
+ and
+ having
+
+
+something
+ that
+ uh
+ was
+ bigger
+ than
+ a
+
+
+single
+ jurisdiction,
+ was
+ bigger
+ than
+ a
+
+
+current
+ like
+ given
+ regulatory
+ regime
+ uh
+
+
+had
+ the
+ ability
+ to
+ become
+ something
+
+
+more.
+
+
+For
+ the
+ first
+ 24
+ hours,
+ I
+ just
+ spent
+
+
+feeling
+ sorry
+ for
+ myself,
+ which
+ I
+ think
+
+
+is
+ like
+ a
+ kind
+ of
+ natural
+ reaction.
+
+
+You're
+ just
+ like,
+ "Oh
+ man,
+ my
+ my
+ career
+
+
+is
+ over.
+ All
+ my
+ money
+ is
+ gone."
+ Like,
+
+
+you
+ know,
+ you
+ don't
+ really
+ know
+ what
+ to
+
+
+do.
+ But
+ then
+ immediately
+ after
+ that,
+
+
+like
+ the
+ next
+ day,
+ I
+ woke
+ up
+ and
+ I
+ was
+
+
+just
+ very
+ I
+ saw
+ that
+ the
+ world
+ was
+
+
+changing
+ very
+ quickly.
+ And
+ so,
+ one
+ thing
+
+
+that
+ I
+ noticed
+ was
+ that
+ all
+ of
+ the
+ main
+
+
+poker
+ sites
+ were
+ now
+ gone,
+ but
+ there's
+ a
+
+
+bunch
+ of
+ smaller
+ kind
+ of
+ shady
+ poker
+
+
+sites
+ that
+ still
+ existed
+ and
+ that
+
+
+everybody
+ was
+ going
+ to
+ go
+ and
+ sign
+ up
+ on
+
+
+those
+ because
+ they
+ needed
+ to
+ continue
+ to
+
+
+make
+ a
+ living.
+ And
+ I
+ knew
+ all
+ of
+ the
+
+
+highest
+ stakes
+ poker
+ players
+ in
+ the
+
+
+world.
+ So,
+ I
+ created
+ an
+ affiliate
+ and
+ I
+
+
+signed
+ up
+ all
+ of
+ my
+ friends
+ to
+ all
+ of
+
+
+these
+ sites.
+ I
+ found
+ them
+ the
+ best
+ deals
+
+
+and
+ I
+ negotiated
+ these
+ things
+ and
+ it
+
+
+went
+ from
+ me
+ making,
+ you
+ know,
+ no
+ money
+
+
+to
+ me
+ making
+ like
+ 20
+ $30,000
+ a
+ month
+
+
+within
+ a
+ couple
+ of
+ weeks,
+ right?
+ And
+ so,
+
+
+very
+ quickly
+ I
+ saw
+ that
+ a
+ changing
+
+
+reshuffle
+ of
+ a
+ landscape
+ created
+ an
+
+
+opportunity
+ and
+ then
+ that
+ really
+ drew
+ me
+
+
+to
+ entrepreneurship
+ in
+ general.
+ I
+ think
+
+
+that
+ was
+ the
+ first
+ real
+ catalyst.
+
+
+I
+ grew
+ up
+ in
+ a
+ town
+ of
+ 900
+ people,
+
+
+right?
+ Like
+ very
+ very
+ small
+ village,
+ not
+
+
+a
+ lot
+ of
+ opportunity,
+ not
+ a
+ lot
+ of
+
+
+anything.
+ And
+ so
+ I
+ really
+ valued
+ for
+
+
+most
+ of
+ my
+ life
+ a
+ meritocratic
+
+
+environment.
+ I
+ didn't
+ go
+ to
+ Harvard
+ or
+
+
+MIT.
+ I
+ didn't
+ go
+ to,
+ you
+ know,
+ amazing
+
+
+school.
+ I
+ didn't
+ have
+ any
+ connections.
+ I
+
+
+was
+ a
+ poker
+ player
+ who
+ dropped
+ out
+ of
+
+
+college,
+ right?
+ And
+ so
+ what
+ I
+ really
+
+
+valued
+ was
+ the
+ ability
+ to
+ to
+ just
+ do
+
+
+something
+ where
+ I
+ could
+ earn
+ my
+ own
+ way
+
+
+or
+ like
+ prove
+ my
+ own
+ value
+ over
+ time.
+ So
+
+
+poker
+ was
+ a
+ perfect
+ example
+ of
+ this.
+
+
+Poker
+ is
+ purely
+ meritocratic.
+ It
+ doesn't
+
+
+matter
+ anything
+ about
+ you.
+ It's
+ just
+
+
+you're
+ smarter
+ or
+ better
+ at
+ the
+ game
+ or
+
+
+you're
+ not.
+ Like
+ that's
+ it.
+ It
+ was
+ very
+
+
+very
+ linear.
+ Those
+ are
+ just
+ the
+ systems
+
+
+and
+ environments
+ that
+ I
+ valued.
+ And
+ so
+
+
+that
+ was
+ one
+ of the
+ things
+ I
+ was
+ very
+
+
+drawn
+ to
+ in
+ crypto.
+ I
+ didn't
+ need
+ to
+
+
+know
+ the
+ banking
+ executives.
+ I
+ didn't
+
+
+need
+ to
+ have
+ an
+ uncle
+ who
+ worked
+ at
+
+
+Goldman
+ Sachs.
+ All
+ I
+ needed
+ to
+ do
+ was
+ be
+
+
+able
+ to
+ build
+ something
+ that
+ was
+ more
+
+
+useful
+ to
+ the
+ world
+ that
+ actually
+ had
+ a
+
+
+higher
+ degree
+ of
+ utility.
+ It
+ was
+ just
+
+
+build
+ the
+ best
+ possible
+ system
+ that
+ you
+
+
+can
+ build
+ and
+ permissionless
+ open
+ access
+
+
+to
+ anybody.
+ Just
+ build
+ the
+ best
+ thing.
+
+
+>> You
+ know,
+ I've
+ been
+ building
+ with
+ Brian
+
+
+since
+ we're
+ in
+ school
+ together.
+ And
+
+
+nobody
+ would
+ give
+ us
+ money
+ cuz
+ we
+ were
+
+
+nobodyies
+ and
+ we
+ didn't
+ come
+ from
+ a
+
+
+great
+ pedigree
+ and
+ we
+ didn't
+ have
+ a
+
+
+great
+ school.
+ And
+ so
+ I
+ always
+ wanted
+ to
+
+
+prove
+ that
+ we
+ could
+ do
+ impossible
+
+
+things,
+ great
+ things.
+ And
+ so
+ I'm
+ always
+
+
+chasing
+ is
+ when
+ someone
+ says
+ something's
+
+
+not
+ possible,
+ right?
+ This
+ is
+ not
+
+
+technically
+ possible.
+ this
+ uh
+ you
+ you
+
+
+can't
+ do
+ this,
+ nobody
+ can.
+ When
+ I
+ hear
+
+
+that,
+ uh
+ that's
+ all
+ I
+ want
+ to
+ work
+ on.
+
+
+And
+ Brian
+ was
+ like
+ uh
+ our
+ hero,
+ like
+ my
+
+
+hero,
+ our
+ like
+ the
+ older
+ grade's
+ heroes.
+
+
+He's
+ a
+ genius
+ to
+ everybody.
+ And
+ so
+ I
+
+
+always
+ looked
+ at the
+ Brian
+ and
+ I
+ wanted
+
+
+to
+ be
+ like
+ him.
+ I
+ didn't
+ know
+ we
+ were
+
+
+going
+ to
+ do
+ that
+ uh
+ to
+ be
+ be
+ working
+
+
+together
+ basically
+ our
+ whole
+ lives,
+ the
+
+
+rest
+ of
+ our
+ lives.
+ So
+ two
+ things
+
+
+happened
+ through
+ the
+ crypto
+ side.
+ All
+ of
+
+
+poker,
+ all
+ the
+ shady
+ sites
+ that
+
+
+remained,
+ the
+ only
+ way
+ to
+ deposit
+
+
+because
+ PayPal,
+ Money
+ Bookers,
+
+
+Netteller,
+ Skril,
+ they
+ were
+ all
+ shut
+
+
+down,
+ but
+ Bitcoin
+ was
+ the
+ way
+ that
+ you
+
+
+would
+ deposit
+ to
+ these
+ sites.
+ So,
+
+
+everybody
+ in
+ poker
+ who
+ was
+ in
+ the
+ United
+
+
+States
+ in
+ 2011
+ era
+ found
+ Bitcoin.
+
+
+Everybody
+ used
+ it
+ as
+ a
+ way
+ to
+ deposit
+
+
+between.
+ So,
+ it
+ was
+ the
+ first
+ real
+
+
+product
+ market
+ fit.
+ And
+ then
+ on
+ the
+
+
+entrepreneurship
+ side,
+ I'd
+ got
+ really
+
+
+interested
+ by
+ this
+ affiliate
+ idea.
+ And
+
+
+that
+ created
+ a
+ a
+ doorway
+ for
+ a
+ new
+
+
+industry
+ which
+ was
+ called
+ daily
+ fantasy
+
+
+sport.
+ Sort
+ of
+ a
+ faster
+ version
+ of
+ that.
+
+
+I
+ went
+ to
+ them
+ and
+ said,
+ "Can
+ I
+ just
+
+
+work
+ for
+ free?
+ Like
+ just
+ let
+ me
+ do
+ some
+
+
+affiliate
+ stuff.
+ I
+ want
+ to
+ learn
+ uh
+ let
+
+
+me
+ just,
+ you
+ know,
+ see
+ how
+ it
+ is."
+ And
+
+
+they
+ said,
+ "Sure,
+ great."
+ And
+ then
+ the
+
+
+sort
+ of
+ board
+ of
+ the
+ company
+ said,
+ "Hey,
+
+
+we
+ actually
+ want
+ you
+ to
+ become
+ CEO
+ a
+
+
+couple
+ months
+ and
+ run
+ the
+ company."
+ But
+
+
+I
+ actually
+ took
+ my
+ two
+ co-founders
+ here
+
+
+that
+ I
+ started
+ layer
+ zero
+ with
+ and
+ I
+
+
+brought
+ them
+ in
+ and
+ we
+ grew
+ to
+ being
+
+
+third
+ overall
+ in
+ revenue.
+ So
+ we
+ were
+
+
+just
+ turning
+ profitable.
+ We
+ were
+ just
+
+
+doing
+ this
+ and
+ then
+ we
+ got
+ an
+
+
+acquisition
+ offer
+ and
+ we
+ sold
+ it.
+ It
+ was
+
+
+a
+ hard
+ time
+ like
+ in
+ our
+ lives
+ like
+ that
+
+
+was
+ a
+ hard
+ the
+ first
+ time
+ we
+ felt
+ like
+
+
+real
+ hardship.
+ Year
+ and
+ a
+ half
+ maybe
+ 2
+
+
+years
+ of
+ zero
+ income
+ and
+ me
+ working
+
+
+80our
+ weeks.
+ Uh,
+ every
+ day
+ I
+ was
+ on
+
+
+because
+ it
+ was
+ just
+ us
+ maintaining
+ a
+
+
+site
+ that
+ had,
+ you
+ know,
+ tens
+ of
+
+
+thousands
+ of
+ users
+ with
+ real
+ money
+
+
+playing
+ on
+ our
+ site
+ and
+ us
+ taking
+ every
+
+
+dollar
+ we
+ made.
+ We
+ were
+ making
+ money
+ and
+
+
+reinvesting
+ into
+ the
+ business,
+
+
+reinvesting
+ in
+ the
+ servers,
+ reinvesting.
+
+
+My
+ biggest
+ learning,
+ the
+ biggest
+
+
+takeaway
+ was
+ like
+ I
+ worked
+ very
+ hard
+
+
+with
+ Brian
+ on
+ it.
+ Brian
+ doesn't
+ really
+
+
+give
+ up
+ and
+ I
+ don't
+ and
+ my
+ my
+ whole
+ life
+
+
+my
+ father
+ pushed
+ me
+ like
+ never
+ give
+ up
+
+
+on
+ things.
+ And
+ it
+ was
+ the
+ first
+ time
+
+
+where
+ I
+ I
+ I
+ felt
+ like
+ uh,
+ you
+ know,
+
+
+wasn't
+ going
+ anywhere.
+ We
+ were
+ out
+ of
+
+
+money.
+ I
+ was
+ paying
+ money
+ out
+ of
+ pocket
+
+
+at
+ this
+ point
+ from
+ my
+ wife's
+ salary
+ to
+
+
+like
+ keep
+ things
+ alive
+ with
+ Brian.
+ So
+
+
+was
+ Brian
+ and
+ we
+ had
+ an
+ offer
+ and
+ it
+
+
+wasn't
+ a
+ great
+ offer
+ and
+ Brian
+ said
+ we
+
+
+shouldn't
+ I
+ don't
+ think
+ we
+ should
+ take
+
+
+it.
+ And
+ I
+ said
+ I
+ have
+ to
+ take
+ it.
+ We
+
+
+have
+ to
+ take
+ it.
+ I
+ just
+ need
+ to
+ tap
+ out
+
+
+at
+ this
+ point.
+ Like
+ I
+ I
+ can't
+ do
+ it.
+
+
+That
+ was
+ the
+ first
+ time
+ I
+ ever
+ tapped
+
+
+out.
+ Ryan
+ actually
+ came
+ back
+ to
+ me
+ later
+
+
+and
+ said
+ like,
+ I
+ really
+ really
+ believe
+
+
+that
+ we
+ can
+ build
+ something
+ incredible
+
+
+and
+ I
+ promise
+ you
+ the
+ next
+ time
+ that
+ we
+
+
+do
+ something,
+ I
+ will
+ run
+ my
+ life
+ into
+
+
+the
+ ground.
+ You
+ know,
+ I'll
+ I'll
+ I'll
+ go
+
+
+all
+ the
+ way
+ to
+ maximum
+ suffering
+ and
+
+
+everything
+ uh
+ and
+ we
+ won't
+ kind
+ of
+ give
+
+
+up
+ early.
+ And
+ we
+ said,
+ okay,
+ like
+ we'll
+
+
+do
+ that.
+ And
+ then
+ Ethereum
+ sort
+ of
+ was
+
+
+launching
+ at
+ the
+ same
+ time.
+ Ethereum
+ was
+
+
+this
+ great
+ layer
+ that
+ you
+ could
+ trust
+
+
+and
+ you
+ could
+ build
+ value
+ upon,
+ but
+ it
+
+
+was
+ slow
+ and
+ you
+ could
+ never
+ build
+
+
+complex
+ applications.
+ It
+ was
+ really
+ the
+
+
+spark
+ of
+ well
+ now
+ you
+ can
+ build
+
+
+something
+ really
+ interesting.
+ We
+ saw
+
+
+that
+ need
+ very
+ early
+ on
+ of
+ of
+ course
+ you
+
+
+have
+ to
+ be
+ able
+ to
+ move
+ back
+ and
+ forth.
+
+
+You
+ write
+ the
+ code
+ and
+ you'd
+ host
+ it
+ on
+
+
+a
+ server.
+ Maybe
+ the
+ server
+ was
+ in
+ my
+
+
+house
+ or
+ maybe
+ it
+ was
+ in
+ a
+ data
+ center
+
+
+but
+ it
+ was
+ just
+ like
+ one
+ computer
+ and
+ if
+
+
+the
+ computer
+ went
+ down
+ like
+ the
+ website
+
+
+your
+ application
+ was
+ offline
+ you
+ know
+ so
+
+
+you
+ had
+ to
+ make
+ sure
+ that
+ computer
+ was
+
+
+online
+ and
+ everything
+ but
+ now
+ when
+ you
+
+
+build
+ an
+ application
+ you
+ have
+ a
+ million
+
+
+microservices
+ you
+ have
+ databases
+ things
+
+
+that
+ are
+ optimized
+ for
+ throughput
+ for
+
+
+speed
+ for
+ every
+ different
+ component
+ and
+
+
+we
+ saw
+ blockchains
+ will
+ really
+ start
+ to
+
+
+leverage
+ that
+ you'll
+ have
+ layers
+ that
+
+
+are
+ really
+ optimized
+ for
+ storage
+ layers
+
+
+that
+ are
+ really
+ optimized
+ for
+ throughput
+
+
+and
+ for
+ high
+ amount
+ bunch
+ of
+
+
+transactions
+ layer
+ that
+ are
+ extremely
+
+
+security
+ focused
+ and
+ there
+ was
+ a
+ way
+ to
+
+
+connect
+ those
+ all
+ together
+ to
+ create
+
+
+something
+ that
+ was
+ sort
+ of
+ more
+ valuable
+
+
+than
+ the
+ sum
+ of
+ the
+ parts.
+ So
+ I
+ I
+ called
+
+
+Ryan
+ and
+ I
+ said
+ like
+ I
+ know
+ you
+ said
+ the
+
+
+next
+ time
+ we
+ did
+ something
+ we
+ would
+ like
+
+
+really
+ do
+ it.
+ I
+ I
+ was
+ like,
+ I
+ think
+ now
+
+
+is
+ the
+ time.
+ And
+ I
+ called
+ him
+ two
+ days
+
+
+after
+ Christmas.
+ And
+ within
+ 10
+ days,
+ he
+
+
+had
+ sold
+ his
+ house,
+ packed
+ up
+ his
+ life,
+
+
+taken
+ his
+ four-month
+ old
+ daughter,
+ and
+
+
+flown
+ across
+ the
+ world
+ to
+ come
+ in
+
+
+Vancouver
+ and
+ be
+ in
+ Vancouver
+ with
+ me.
+
+
+>> I
+ want
+ to
+ I
+ want
+ to
+ get
+ the
+ band
+ back
+
+
+together
+ and
+ just
+ start
+ building
+ again.
+
+
+I
+ don't
+ think
+ we
+ can
+ do
+ this
+ remote.
+ And
+
+
+I
+ said,
+ I'll
+ be
+ there
+ in
+ 2
+ weeks.
+ And
+ I
+
+
+never
+ moved
+ back.
+ My
+ daughter
+ didn't
+
+
+sleep
+ well
+ and
+ she
+ would
+ be
+ up
+ all
+ the
+
+
+time.
+ Uh
+ it
+ was
+ actually
+ like
+ the
+ worst
+
+
+time
+ to
+ to
+ go
+ and
+ take
+ a
+ shot
+ and
+ do
+
+
+these
+ things.
+ That's
+ where
+ I
+ learned
+
+
+GPU.
+ Every
+ morning
+ at
+ I
+ would
+ strap
+ my
+
+
+daughter
+ in
+ uh
+ to
+ these
+ straps
+ and
+ I'd
+
+
+walk
+ around
+ Brian's
+ downstairs
+ living
+
+
+room.
+ I
+ would
+ read
+ the
+ docs
+ and
+
+
+everything
+ about
+ that
+ Nvidia
+ had
+ on
+ how
+
+
+to
+ GPU
+ program,
+ read
+ textbooks
+ without
+
+
+doing
+ the
+ work
+ cuz
+ I
+ couldn't
+ I
+ didn't
+
+
+have
+ a
+ computer.
+ So
+ I
+ was
+ just
+ do
+ it
+ in
+
+
+my
+ head
+ from
+ 2:00
+ in
+ the
+ morning
+ to
+ 7:00
+
+
+in
+ the
+ morning
+ every
+ single
+ day
+ for
+ 6
+
+
+months.
+ And
+ then
+ I
+ sat
+ down
+ and
+ just
+
+
+started
+ coding
+ GPU.
+ It
+ was
+ the
+ worst
+
+
+time
+ to
+ go,
+ which
+ is
+ the
+ best
+ time
+ for
+
+
+me.
+ Finances,
+ stress,
+ um,
+ time,
+ and,
+ uh,
+
+
+that's
+ that's
+ when
+ like
+ I
+ have
+ to
+ hit
+ my
+
+
+shot.
+
+
+>> The
+ first
+ thing
+ that
+ happened
+ that
+ had
+
+
+been
+ really
+ interesting
+ since
+ smart
+
+
+contracts
+ was
+ you
+ started
+ to
+ hear
+
+
+Binance
+ Smart
+ Chain,
+ more
+ volume
+ than
+
+
+Ethereum,
+ more
+ users
+ than
+ Ethereum.
+ It
+
+
+was
+ very
+ strange.
+ Uh,
+ there
+ was
+ a
+ bunch
+
+
+of
+ other
+ things
+ that
+ had
+ launched,
+ but
+
+
+nobody
+ really
+ used
+ them.
+ What
+ could
+ you
+
+
+build
+ with
+ that?
+ Can
+ you
+ build
+ something
+
+
+that
+ leverages
+ the
+ speed
+ here
+ and
+ then
+
+
+brings
+ it
+ back
+ to
+ the
+ security
+ over
+
+
+here.
+ We
+ started
+ to
+ build
+ this.
+ We
+ built
+
+
+some
+ toy
+ examples
+ and
+ then
+ only
+ then
+ did
+
+
+we
+ realize
+ that
+ everything
+ we
+ were
+
+
+building
+ you
+ couldn't
+ send
+ a
+ message
+
+
+between
+ the
+ two
+ networks.
+ You
+ couldn't
+
+
+go
+ between
+ Binance
+ Smart
+ Chain
+ and
+
+
+Ethereum.
+ And
+ so
+ we
+ started
+ to
+ build
+
+
+kind
+ of
+ a
+ better
+ form
+ of
+ a
+ bridge.
+ And
+
+
+then
+ we
+ very
+ quickly
+ realized,
+ hey,
+ this
+
+
+is
+ this
+ is
+ really
+ the
+ problem
+ is
+
+
+connecting
+ these
+ things.
+ And
+ that
+ became
+
+
+that
+ became
+ layer
+ zero.
+ That
+ was
+ us
+
+
+solving
+ our
+ own
+ problem.
+ It
+ was
+ us
+
+
+building
+ examples.
+ But
+ all
+ of
+ this
+ stuff
+
+
+that
+ we
+ had
+ done
+ prior
+ brought
+ us
+ to
+
+
+that.
+ You
+ know,
+ what
+ started
+ as
+ an
+ idea
+
+
+now
+ is
+ a
+ reality.
+ And
+ now
+ we're
+ sort
+ of
+
+
+on
+ the
+ precipice
+ of
+ like
+ really
+
+
+meaningfully
+ changing
+ a
+ large
+ part
+ of
+
+
+the
+ financial
+ system.
+ November
+ we
+ did
+ $
+
+
+38
+ billion.
+ $38
+ billion
+ is
+ 5.5
+ times
+
+
+what
+ Western
+ Union
+ does
+ in
+ a
+ month.
+ And
+
+
+that
+ is
+ just
+ like
+ crazy
+ to
+ think
+ about
+
+
+because
+ you
+ can
+ really
+ change
+ how
+ some
+
+
+of
+ this
+ works.
+
+
+>> That's
+ what
+ drives
+ me
+ is
+ solving
+ hard
+
+
+problems.
+ And
+ I
+ want
+ to
+ solve
+ a
+ hard
+
+
+problem
+ that
+ helps
+ people.
+ And
+ it's
+ not
+
+
+about
+ how
+ much
+ money
+ you
+ make,
+ but
+ like
+
+
+how
+ much
+ better
+ you
+ can
+ make
+ their
+ lives
+
+
+overall,
+ enriching
+ others
+ lives.
+
+
+>> It's
+ very
+ easy
+ to
+ forget
+ growing
+ up
+ in
+ a
+
+
+country
+ that
+ was
+ stable
+ and
+ wealthy.
+
+
+There's
+ a
+ lot
+ of
+ places
+ that
+ don't
+ have
+
+
+any
+ access
+ to
+ any
+ sort
+ of
+ financial
+
+
+infrastructure.
+ And
+ even
+ the
+ banks
+ and
+
+
+the
+ financial
+ institutions
+ aren't
+
+
+trustworthy,
+ right?
+ They'll
+ scam
+ you.
+
+
+They'll
+ charge
+ egregious
+ rates.
+ They'll
+
+
+go
+ under.
+ There's
+ fraud.
+ Early
+ on,
+ what
+
+
+resonated
+ about
+ Bitcoin
+ was
+ that
+ nobody
+
+
+could
+ come
+ and
+ just
+ seize
+ your
+ money.
+
+
+Nobody
+ could
+ come
+ and
+ do
+ these
+ things.
+
+
+You
+ had
+ ownership
+ and
+ control.
+ I
+ think
+
+
+Tether
+ is
+ the
+ best
+ possible
+ example
+ of
+
+
+this
+ where
+ most
+ companies
+ really
+ try
+ to
+
+
+focus
+ on
+ a
+ certain
+ geography.
+ So,
+ you're
+
+
+going
+ to
+ be
+ Stripe
+ and
+ you're
+ going
+ to
+
+
+be
+ in
+ the
+ United
+ States
+ and
+ you're
+ going
+
+
+to
+ service
+ institutions
+ and
+ developers
+
+
+there
+ and
+ then
+ you're
+ going to
+ expand
+
+
+and
+ you're
+ going
+ to
+ expand.
+ and
+ Tether
+
+
+went
+ and
+ they
+ said,
+ "We're
+ going
+ to
+
+
+offer
+ access
+ to
+ the
+ US
+ dollar
+ to
+ all
+ the
+
+
+places
+ that
+ don't
+ have
+ easy
+ access."
+ So,
+
+
+Egypt
+ and
+ Nigeria
+ and
+ Argentina
+ and
+
+
+places
+ where
+ their
+ currency
+ is
+ inflating
+
+
+at
+ hundreds
+ of
+ percent
+ a
+ year.
+ The
+
+
+institutions
+ aren't
+ trusted
+ and
+ the
+
+
+central
+ banks
+ aren't
+ trusted
+ and
+ they
+
+
+really
+ made
+ arguably
+ one
+ of the
+ best
+
+
+businesses
+ in
+ the
+ entire
+ world
+ out
+ of
+
+
+that,
+ right?
+ Hundreds
+ of
+ billions
+ of
+
+
+dollars
+ of
+ assets,
+ 15th
+ largest
+ holder
+
+
+of
+ sovereign
+ debt
+ in
+ the
+ world.
+ And
+ all
+
+
+of
+ that
+ was
+ just
+ by
+ giving
+ the
+ average
+
+
+person
+ just
+ access
+ to
+ the
+ dollar.
+ And
+ I
+
+
+think
+ that
+ is
+ uh
+ as
+ powerful
+ a
+ change
+ as
+
+
+the
+ world
+ is
+ going
+ to
+ see
+ in
+ a
+ really
+
+
+long
+ time.
+
+
+A
+ long
+ time
+ ago,
+ the
+ internet
+ wasn't
+ the
+
+
+internet.
+ It
+ was
+ just
+ groups
+ of
+
+
+computers.
+ And
+ you
+ would
+ have
+ a
+ group
+ at
+
+
+Stanford
+ and
+ a
+ group
+ at
+ DARPA.
+ And
+ they
+
+
+each
+ ran
+ in
+ their
+ own
+ cluster,
+ but
+ I
+
+
+couldn't
+ talk
+ to
+ each
+ other.
+ And
+ so
+ if
+ I
+
+
+had
+ some
+ data
+ or
+ something,
+ I
+ would
+ have
+
+
+to
+ take
+ my
+ disk
+ of
+ data,
+ fly
+ to
+
+
+Stanford,
+ plug
+ it
+ in,
+ run
+ it
+ on
+ their
+
+
+program,
+ and
+ then
+ I
+ would
+ fly
+ back
+ with
+
+
+the
+ results.
+ And
+ then
+ we
+ invented
+ the
+
+
+internet.
+ And
+ the
+ internet
+ gave
+ us
+
+
+connectivity
+ between
+ all
+ of
+ these
+
+
+things,
+ global
+ connectivity.
+ If
+ you
+ go
+
+
+back
+ to
+ the
+ beginning
+ of
+ blockchains,
+
+
+what
+ existed,
+ it
+ was
+ exactly
+ like
+ that.
+
+
+You
+ have
+ Ethereum,
+ you
+ have
+ Salana,
+ you
+
+
+have
+ different
+ environments.
+ None
+ of
+
+
+them
+ could
+ talk
+ to
+ each
+ other.
+ There
+ was
+
+
+no
+ way
+ to
+ take
+ your
+ money
+ from
+ here
+ to
+
+
+there.
+ There's
+ no
+ way
+ to
+ communicate
+
+
+between
+ an
+ application.
+ So
+ all
+ that
+
+
+layers
+ did
+ was
+ exactly
+ like
+ the
+
+
+internet.
+ It
+ just
+ connected
+ these
+
+
+environment.
+ Strange
+ and
+ foreign
+
+
+concepts
+ early
+ on.
+ This
+ was,
+ you
+ know,
+
+
+felt
+ like
+ fantasy
+ land
+ craziness.
+ But
+
+
+now
+ 15
+ years
+ later,
+ every
+ major
+
+
+institution
+ in
+ the
+ world
+ is
+ figuring
+ out
+
+
+how
+ do
+ we
+ actually
+ leverage
+ this?
+ And
+
+
+there's
+ more
+ and
+ more
+ conviction.
+ And
+
+
+Larry
+ Frink
+ just
+ stood
+ up
+ at
+ the
+ World
+
+
+Economic
+ Forum
+ in
+ Davos
+ and
+ said
+
+
+institutions
+ are
+ not
+ trusted
+ anymore
+ by
+
+
+the
+ average
+ person.
+ And
+ so
+ like
+ what
+
+
+does
+ a
+ world
+ look
+ like
+ where
+ there
+ is
+
+
+not
+ trust
+ in
+ the
+ existing
+ institutions?
+
+
+What
+ it
+ looks
+ like
+ is
+ a
+ world
+ where
+ you
+
+
+don't
+ have
+ to
+ trust
+ and
+ again
+ is
+ open
+ to
+
+
+anybody.
+ And
+ so
+ that's
+ incredibly
+
+
+important
+ for
+ us
+ and
+ again
+ I
+ think
+ the
+
+
+only
+ true
+ thing
+ of
+ value
+ within
+ the
+
+
+space.
+
+
+>> There's
+ it's
+ essentially
+ a
+ series
+ of
+
+
+trade-offs
+ and
+ a
+ trauma.
+ You
+ can
+ choose
+
+
+two
+ of
+ the
+ trade-offs
+ but
+ you
+ lose
+ one
+
+
+of
+ them.
+ You
+ live
+ somewhere
+ in
+ this
+
+
+triangle.
+ Every
+ blockchain
+ has
+ to
+ do
+ the
+
+
+same
+ thing.
+ They're
+ all
+ in
+ a
+ network
+ and
+
+
+they're
+ all
+ communicating
+ with
+ each
+
+
+other.
+ And
+ what
+ is
+ a
+ block?
+ It's
+ a
+
+
+series
+ of
+ transactions
+ like
+ so
+ I'm
+ going
+
+
+to
+ transfer
+ money
+ to
+ from
+ from
+ myself
+ to
+
+
+my
+ friend
+ Bill
+ and
+ Bill's
+ friend
+
+
+transferring
+ money
+ to
+ somebody
+ else
+ or
+
+
+performing
+ this
+ transaction.
+ And
+ they're
+
+
+a
+ series
+ of
+ transactions.
+ Every
+ single
+
+
+validator
+ or
+ participant
+ in
+ the
+ network
+
+
+has
+ downloaded
+ executed.
+ So
+ they
+ ran
+ it
+
+
+and
+ agreed
+ on
+ the
+ outcome
+ and
+ then
+ come
+
+
+to
+ consensus
+ with
+ each
+ other.
+ And
+ all
+
+
+they
+ need
+ to
+ say
+ we
+ all
+ agree
+ on
+ this.
+
+
+This
+ is
+ the
+ new
+ block.
+ We
+ all
+ agreed
+ to
+
+
+this
+ thing.
+ Now,
+ since
+ everybody's
+
+
+taking
+ turns
+ doing
+ this,
+ they
+ all
+ need
+
+
+to
+ have
+ the
+ same
+ hardware.
+ You
+ know,
+ the
+
+
+bigger
+ the
+ block,
+ the
+ more
+ pipe
+ they
+
+
+need,
+ more
+ network
+ communication.
+ And
+
+
+so,
+ the
+ trilmma
+ really
+ boils
+ down
+ to
+
+
+higher
+ TPS,
+ the
+ faster
+ I
+ want
+ my
+
+
+blockchain
+ to
+ be,
+ the
+ bigger
+ the
+ device.
+
+
+And
+ the
+ bigger
+ the
+ device
+ means
+ the
+ less
+
+
+people
+ who
+ could
+ run
+ it
+ cuz
+ it's
+ more
+
+
+expensive.
+ It's
+ less
+ accessible.
+ So,
+ if
+
+
+you
+ want
+ somebody
+ in
+ a
+ third
+ world
+
+
+country
+ participating
+ and
+ helping
+
+
+decentralize
+ the
+ network,
+ um
+ they
+ can't
+
+
+if
+ it's
+ a,
+ you
+ know,
+ $40,000
+ a
+ month
+
+
+server
+ that
+ you
+ have
+ to
+ pay
+ through
+ AWS,
+
+
+uh
+ that's
+ why
+ Ethereum
+ has
+ chosen,
+ hey,
+
+
+we
+ want
+ maximum
+ decentralization.
+ And
+
+
+so,
+ they're
+ giving
+ up
+ on
+ performance.
+
+
+Salana
+ wants
+ higher
+ performance.
+ So,
+
+
+they're
+ giving
+ up
+ on
+ maximum
+
+
+decentralization.
+ And
+ this
+ the
+ the
+
+
+requirements
+ to
+ participate
+ is
+ you
+ need
+
+
+to
+ stake
+ a
+ lot.
+ You
+ need
+ to
+ have
+ a
+ big
+
+
+beefy
+ machine.
+ It
+ eliminates
+ that
+ that
+
+
+uh
+ ability
+ to
+ have
+ that
+ maximum
+
+
+decentralization.
+ and
+ and
+ the
+ more
+
+
+performant
+ you
+ go,
+ the
+ less
+
+
+decentralized
+ it
+ becomes.
+ But
+ nobody
+
+
+could
+ get
+ the
+ best
+ of
+ both
+ worlds.
+ How
+
+
+do
+ you
+ have
+ something
+ that's
+ really
+ fast
+
+
+and
+ high
+ performant
+ and
+ you
+ could
+ build
+
+
+like
+ the
+ actual
+ internet
+ and
+ like
+
+
+applications
+ on
+ internet
+ on
+ and
+ like
+ all
+
+
+financial
+ rails
+ like
+ uh
+ New
+ York
+ Stock
+
+
+Exchange,
+ 2
+ million
+ TPS,
+ you're
+ never
+
+
+going
+ to
+ get
+ that
+ even
+ on
+ a
+ Salana.
+ How
+
+
+do
+ you
+ achieve
+ that
+ and
+ still
+ be
+
+
+decentralized?
+ Uh
+ it's
+ the
+ holy
+ grail,
+
+
+the
+ impossible
+ thing,
+ an
+ impossible
+
+
+problem.
+ My
+ favorite.
+
+
+>> What
+ we
+ needed
+ was
+ a
+ spark.
+ Our
+ Wild
+
+
+West
+ is
+ full
+ of
+ stories
+ of
+ freedom,
+ of
+
+
+ghosts,
+ of
+ riches,
+ of
+ possibility.
+
+
+Consider
+ for
+ a
+ moment
+ that
+ maybe
+ at
+ last
+
+
+those
+ stories
+ might
+ be
+ true.
+ What
+ if
+ the
+
+
+inevitable
+ was
+ finally
+ here?
+ The
+
+
+building
+ done,
+ the
+ rails
+ laid.
+ What
+
+
+would
+ you
+ do
+ if
+ you
+ saw
+ it
+ with
+ your
+ own
+
+
+eyes?
+ Ethereum
+ couldn't
+ scale
+ fast
+
+
+enough.
+ And
+ they
+ said,
+ "These
+ layer
+
+
+twos,
+ they
+ inherit
+ our
+ security.
+ go
+
+
+build
+ there.
+ That's
+ how
+ we
+ scale.
+ When
+
+
+they
+ said
+ that,
+ I
+ call
+ that
+ a
+ noble
+ lie.
+
+
+A
+ noble
+ lie
+ saying
+ that
+ you
+ know,
+ you
+
+
+know,
+ we
+ care
+ about
+ these
+ principles.
+ We
+
+
+can't
+ scale
+ yet,
+ so
+ we
+ need
+ to
+ lie
+ to
+
+
+you,
+ so
+ you
+ stay.
+ And
+ then
+ we'll
+
+
+hopefully
+ find
+ a
+ way
+ to
+ scale
+ in
+ the
+
+
+future.
+ That
+ lie
+ struck
+ a
+ nerve
+ with
+ me
+
+
+and
+ made
+ me
+ feel
+ like
+ no
+ one
+ is
+ left
+ to
+
+
+do
+ this
+ thing.
+ It'll
+ all
+ for
+ nothing.
+
+
+This
+ experiment
+ will
+ die.
+ We'll
+ just
+
+
+have
+ a
+ more
+ redundant
+ financial
+ system,
+
+
+but
+ not
+ a
+ freer
+ one.
+ But
+ it
+ felt
+ like
+
+
+the
+ last
+ samurai
+ putting
+ their
+ sword
+
+
+down
+ and
+ saying,
+ "This
+ cause
+ is
+ over."
+ I
+
+
+felt
+ like
+ I
+ had
+ to
+ pick
+ it
+ up.
+ I
+ felt
+
+
+like
+ I
+ had
+ to
+ do
+ it
+ because
+ I
+ thought
+ no
+
+
+one
+ else
+ would.
+
+
+>> I
+ don't
+ care
+ to
+ build
+ a
+ technology
+ that
+
+
+makes
+ a
+ bunch
+ of
+ money
+ early
+ on
+ but
+ then
+
+
+never
+ gets
+ used.
+ Like
+ we
+ want
+ to
+ build
+ a
+
+
+technology
+ that
+ is
+ used
+ everywhere
+ that
+
+
+is
+ a
+ bit
+ ubiquitous
+ that
+ is
+ adopted
+
+
+universally.
+ So
+ it's
+ really
+ a
+ question
+
+
+of
+ can
+ we
+ win.
+ My
+ favorite
+ example
+ of
+
+
+this
+ is
+ like
+ Demis
+ from
+ Deep
+ Mind
+ is
+
+
+like
+ my
+ all-time
+ just
+ personal
+ hero
+ of
+
+
+like
+ even
+ from
+ like
+ he's
+ never
+ changed
+
+
+his
+ story
+ in
+ like
+ 20
+ years
+ and
+ the
+
+
+industry
+ like
+ blew
+ up
+ in
+ 2014
+ and
+ then
+
+
+it
+ died
+ and
+ then
+ it
+ came
+ back
+ and
+ he's
+
+
+like
+ the
+ whole
+ time
+ been
+ like
+ pretty
+
+
+intellectually
+ honest
+ of
+ like
+ here
+ is
+
+
+what
+ is
+ useful,
+ here
+ is
+ what
+ is
+ not.
+
+
+Like
+ we're
+ really
+ focused
+ on
+ like
+
+
+protein
+ folding
+ and
+ like
+ solving
+ real
+
+
+problems
+ and
+ he's
+ just
+ never
+ wavered
+ and
+
+
+he
+ stayed
+ at
+ the
+ very
+ top
+ of
+ the
+ field
+
+
+throughout
+ the
+ entire
+ time.
+ And
+ I
+ just
+
+
+think
+ that
+ kind
+ of
+ person
+ is
+ just
+ like
+
+
+inspirational.
+ Like
+ 10
+ out
+ of
+ 10,
+ you
+
+
+want
+ to
+ bet
+ on
+ them
+ every
+ single
+ time.
+
+
+>> There's
+ been
+ so
+ many
+ times
+ even
+
+
+internally
+ where
+ it's
+ so
+ easy
+ to
+ say,
+
+
+"Let's
+ let's
+ compromise
+ our
+ principles
+
+
+so
+ we
+ win."
+ This
+ corner
+ a
+ little
+ bit,
+
+
+just
+ this
+ one
+ time.
+ We
+ get
+ tested
+ all
+
+
+the
+ time
+ on
+ how
+ we
+ build
+ or
+ decisions
+ we
+
+
+make.
+ Canada
+ certainly
+ showed
+ that
+ to
+ us
+
+
+here
+ in
+ this
+ country
+ that
+ I
+ live
+ in.
+
+
+When
+ if
+ you
+ donated
+ to
+ the
+ trucker
+
+
+cause,
+ you
+ should
+ be
+ outraged
+ at
+ the
+
+
+fact
+ that
+ donating
+ to
+ a
+ cause
+ that
+ they
+
+
+didn't
+ like,
+ they
+ seized
+ your
+ bank
+
+
+accounts
+ and
+ turned
+ off
+ money
+ you
+ worked
+
+
+for,
+ you
+ earned.
+ I
+ don't
+ need
+ more
+
+
+money.
+ I
+ don't
+ I
+ want
+ impact.
+ I
+ want
+ to
+
+
+I
+ want
+ a
+ certain
+ outcome
+ for
+ the
+ world.
+
+
+Forget
+ anything
+ in
+ the
+ short
+ term.
+ What
+
+
+does
+ the
+ world
+ look
+ like
+ 5
+ years
+ from
+
+
+now,
+ 10
+ years
+ from
+ now?
+ How
+ is
+ the
+ world
+
+
+changing?
+ and
+ how
+ do
+ we
+ build
+ the
+
+
+systems
+ such
+ that
+ they
+ are
+ still
+ useful
+
+
+then
+ it's
+ great
+ that
+ I
+ can
+ you
+ know
+ send
+
+
+money
+ from
+ unis
+ swap
+ here
+ to
+ something
+
+
+you
+ know
+ across
+ the
+ two
+ blockchains
+ now
+
+
+what
+ does
+ it
+ look
+ like
+ when
+ the
+ entire
+
+
+when
+ every
+ bank
+ in
+ the
+ world
+ has
+ a
+
+
+ledger
+ when
+ all
+ of
+ the
+ world's
+ assets
+
+
+move
+ on
+ chain
+ when
+ stable
+ coins
+ are
+ like
+
+
+the
+ dominant
+ way
+ that
+ these
+ things
+
+
+happen
+ when
+ global
+ markets
+ emerge
+ right
+
+
+uh
+ what
+ does
+ that
+ actually
+ look
+ like
+ how
+
+
+does
+ everyone
+ else
+ do
+ it
+ great
+ we
+ can
+
+
+make
+ it
+ a
+ little
+ bit
+ better
+ it's
+ reset
+
+
+everything
+ think
+ completely
+ from
+ first
+
+
+principles.
+ How
+ can
+ I
+ break
+ it?
+ How
+ can
+
+
+I
+ break
+ it?
+
+
+>> That
+ architecture
+ unlocks
+ a
+ new
+
+
+internet.
+ It
+ would
+ add
+ more
+ freedom
+
+
+everywhere.
+ And
+ so
+ web
+ 3
+ for
+ the
+ first
+
+
+time
+ to
+ me
+ is
+ real.
+
+
+It
+ is
+ so
+ hard
+ to
+ build
+ a
+ company.
+ There
+
+
+was
+ like
+ six
+ different
+ times
+ we
+ could
+
+
+have
+ just
+ like
+ walked
+ away.
+ We
+ could
+
+
+have
+ killed
+ the
+ company.
+ there
+ were
+ so
+
+
+many
+ times
+ that
+ you
+ know
+ we
+ we
+ almost
+
+
+didn't
+ make
+ it.
+ You
+ only
+ really
+ do
+ that
+
+
+and
+ you
+ only
+ really
+ keep
+ doing
+ it
+ if
+ you
+
+
+really
+ really
+ believe
+ in
+ the
+ thing
+ that
+
+
+you're
+ doing
+ without
+ conviction.
+ You
+
+
+will
+ just
+ in
+ any
+ industry
+ you
+ will
+ just
+
+
+never
+ get
+ there.
+ And
+ so
+ I
+ think
+ you're
+
+
+way
+ better
+ off
+ finding
+ something
+ you
+
+
+really
+ deeply
+ believe
+ in
+ and
+ going
+ for
+
+
+that
+ even
+ if
+ other
+ industries
+ are
+ more
+
+
+exciting
+ at
+ the
+ time
+ or
+ whatever.
+ I
+
+
+think
+ that's
+ the
+ only
+ way
+ you
+ get
+ like
+
+
+true
+ success
+ in
+ anything.
+ People
+ are
+
+
+really
+ drawn
+ to
+ passion.
+ And
+ so
+ one
+ of
+
+
+the
+ things
+ I
+ love
+ about
+ conviction,
+
+
+having
+ conviction,
+ is
+ naturally
+ you're
+
+
+you're
+ more
+ passionate
+ about
+ the
+ thing
+
+
+that
+ you're
+ doing
+ because
+ you
+ know
+
+
+you're
+ not
+ questioning,
+ you
+ don't
+ need
+
+
+approval
+ from
+ anybody
+ else.
+ You
+ know
+
+
+that
+ you
+ believe
+ that
+ a
+ thing
+ is
+ right,
+
+
+should
+ exist
+ in
+ the
+ world,
+ like
+ is
+ the
+
+
+right
+ way
+ to
+ solve
+ the
+ problem.
+ And
+ I
+
+
+think
+ people
+ are
+ drawn
+ to
+ that.
+ I
+ think
+
+
+it's
+ good
+ to
+ have
+ something
+ that's
+
+
+interesting
+ and
+ you're
+ I
+ think
+ Toby
+ from
+
+
+Shopify
+ talks
+ about
+ them
+ hiring
+ for
+
+
+spikes.
+ You
+ don't
+ really
+ want
+ a
+
+
+perfectly
+ well-rounded
+ generalist.
+ What
+
+
+you
+ really
+ want
+ is
+ somebody
+ with
+ with
+
+
+crazy
+ spikes.
+ We
+ were
+ the
+ first
+ company
+
+
+ever
+ in
+ history
+ to
+ have
+ both
+ Andre
+
+
+Horwitz
+ and
+ Sequoia
+ both
+ co-lead
+ out
+ and
+
+
+like
+ that
+ is
+ very
+ rare
+ and
+ we're
+ about
+
+
+as
+ atypical
+ as
+ you
+ could
+ possibly
+ get
+
+
+from
+ like
+ A6Z
+ and
+ Sequoia
+ backed
+
+
+founders
+ right
+ they're
+ normally
+ Stanford
+
+
+grads
+ who
+ did
+ a
+ PhD
+ who
+ worked
+ in
+ a
+ lab
+
+
+who
+ worked
+ at
+ this
+ big
+ company
+ and
+ we're
+
+
+like
+ went
+ to
+ the
+ University
+ of
+ H
+ New
+
+
+Hampshire
+ like
+ dropped
+ out
+ of
+ school
+ uh
+
+
+but
+ it
+ really
+ was
+ that
+ like
+ spikiness
+ I
+
+
+think
+ we
+ were
+ completely
+ convinced
+ of
+
+
+the
+ thing
+ that
+ we
+ were
+ doing
+ we
+ didn't
+
+
+we
+ didn't
+ hair
+ like
+ we
+ didn't
+ need
+ them
+
+
+to
+ write
+ a
+ check.
+ They
+ wanted
+ to
+ be
+
+
+involved
+ cuz
+ they
+ saw
+ that
+ we
+ were
+ like
+
+
+driven
+ in
+ a
+ direction
+ and
+ so
+ we
+ were
+ we
+
+
+were
+ definitely
+ going
+ to
+ build
+ the
+
+
+thing.
+
+
+I
+ think
+ what
+ I
+ would
+ say
+ to
+ people
+ is
+
+
+like
+ the
+ whole
+ point
+ of
+ the
+ space
+ like
+
+
+the
+ whole
+ premise
+ of
+ everything
+ crypto
+
+
+is
+ that
+ you
+ shouldn't
+ have
+ to
+ right
+
+
+trust
+ but
+ verify
+ right?
+ You
+ shouldn't
+
+
+have
+ to
+ trust
+ me
+ in
+ what
+ I
+ say.
+ You
+
+
+shouldn't
+ have
+ to
+ trust
+ us.
+ You're
+ going
+
+
+to
+ be
+ able
+ to
+ trust
+ the
+ code.
+ You're
+
+
+going
+ to
+ be
+ able
+ to
+ observe
+ it
+ for
+
+
+itself.
+ On
+ February
+ 10th,
+ we're
+ going
+ to
+
+
+stand
+ on
+ stage.
+ We're
+ going
+ to
+ prove
+
+
+Ethereum's
+ history
+ real
+ time
+ verifying
+
+
+at
+ a
+ million
+ transactions
+ per
+ second
+ at
+
+
+110
+ bits
+ of
+ security,
+ right?
+ Nobody
+ has
+
+
+ever
+ done
+ even
+ remotely
+ close
+ to
+ that.
+
+
+And
+ then
+ every
+ step
+ of
+ the
+ way
+ from
+ now
+
+
+until
+ September,
+ we
+ will
+ show
+ and
+ like
+
+
+you
+ will
+ be
+ able
+ to
+ touch
+ and
+ feel
+ it.
+ I
+
+
+want
+ people
+ to
+ go
+ and
+ do
+ that
+ cuz
+ that's
+
+
+how
+ you
+ get
+ somebody
+ to
+ have
+ conviction.
+
+
+Me
+ telling
+ you
+ something,
+ you're
+ not
+
+
+going
+ to
+ have
+ conviction.
+
+
+>> Is
+ it
+ technically
+ possible?
+ Uh
+ or
+ so
+ you
+
+
+might
+ also
+ get
+ people
+ saying,
+ "Well,
+ I
+
+
+had
+ some
+ of
+ these
+ ideas.
+ They're
+ not
+
+
+that
+ smart."
+ Well,
+ I
+ think
+ so.
+ What?
+ You
+
+
+haven't
+ done
+ anything
+ yet,
+ right?
+ Talk
+
+
+is
+ cheap.
+ So,
+ we're
+ going
+ to
+ go
+ out
+
+
+there
+ and
+ do
+ it.
+
+
+>> Building
+ a
+ company
+ is
+ unbelievably
+ hard.
+
+
+It's
+ a
+ thankless,
+ miserable
+ job
+ most
+ of
+
+
+the
+ time.
+ I
+ could
+ have
+ never
+ ever
+ done
+
+
+it
+ without
+ Raz.
+ Like,
+ no,
+ with
+ no
+
+
+question.
+ There
+ is
+ zero
+ doubt
+ in
+ my
+
+
+mind.
+ Specifically,
+ I
+ mean,
+ specifically
+
+
+him.
+ There
+ is
+ just
+ no
+ way
+ I
+ ever
+ could
+
+
+have
+ done
+ it
+ alone.
+ I
+ would
+ never.
+
+
+People
+ talk
+ about
+ how
+ hard
+ co-founders
+
+
+are
+ and
+ they
+ talk
+ about
+ how
+ they
+ could
+
+
+never
+ have
+ a
+ co-founder.
+ I
+ could
+ have
+
+
+never
+ ever
+ ever
+ done
+ it
+ alone.
+ No
+
+
+question.
+
+
+>> Likewise,
+ it's
+ destiny
+ is
+ what
+ it
+ feels
+
+
+like.
+ Like
+ almost
+ like
+ everything
+ that's
+
+
+happened,
+ it
+ feels
+ like
+ it
+ was
+ meant
+ to
+
+
+happen.
+ Like
+ it
+ was
+ pre-ordained.
+ I
+ know
+
+
+it
+ sounds
+ crazy
+ and
+ like
+ probably
+
+
+cringy,
+ but
+ it
+ does.
+ Like
+ the
+ right
+
+
+people
+ show
+ up
+ at
+ the
+ right
+ time
+ for
+ us.
+
+
+And
+ it's
+ probably
+ just
+ a
+ matter
+ of
+ us
+
+
+putting
+ ourselves
+ in
+ those
+ positions
+
+
+where
+ that
+ happens.
+ Uh,
+ I
+ think
+ about
+
+
+the
+ first
+ time
+ I
+ met
+ you
+ fairly
+
+
+regularly.
+ Like
+ it
+ is
+ a
+ part
+ like
+ it
+ is
+
+
+like
+ a
+ that
+ was
+ meant
+ Brian
+ was
+ meant
+ to
+
+
+pop
+ over
+ the
+ fence
+ and
+ say,
+ "Hey,
+ I'm
+
+
+Brian."
+ Right.
+ And
+ like
+ I
+ couldn't
+ could
+
+
+not
+ do
+ this
+ with
+ anybody
+ else.
+
+
+>> Never
+ heard
+ some
+ of
+ this
+ stuff
+ before.
+
+
+It's
+ like
+ emot
+ emotional.
+ You
+ know,
+ it's
+
+
+uh
+
+
+>> this
+ is
+ the
+ best
+ time
+ of
+ your
+ life.
+ You
+
+
+are
+ healthy.
+ You
+ get
+ to
+ work
+ with
+ your
+
+
+best
+ friends
+ and
+ you
+ get
+ to
+ work
+ on
+
+
+something
+ cool.
+ whether
+ or
+ not
+ we
+ had
+
+
+succeeded
+ with
+ layer
+ zero,
+ like
+ before
+
+
+layer
+ zero,
+ we
+ were
+ not
+ succeeding
+
+
+financially,
+ but
+ I
+ was
+ happy.
+ I
+ didn't
+
+
+quite
+ get
+ that
+ until
+ like
+ um
+ a
+ couple
+
+
+years
+ ago
+ when
+ my
+ wife
+ kept
+ asking
+ me
+
+
+like,
+ "When
+ does
+ this
+ end?
+ What
+ is
+ your
+
+
+goal?"
+ And
+ I
+ and
+ I
+ and
+ and
+ I
+ was
+ I
+ kept
+
+
+ask
+ what
+ is
+ my
+ goal?
+ It's
+ the
+ doing
+ the
+
+
+thing.
+ So
+ people
+ like,
+ "Are
+ are
+ you
+
+
+stressed
+ about
+ February
+ launch?"
+ I'm
+
+
+like, "No,
+ it's
+ just
+ part
+ of
+ I'm
+ just
+
+
+enjoying
+ it.
+ This
+ is
+ part
+ of
+ the
+ moment.
+
+
+Every
+ day
+ is
+ the
+ moment.
+ Enjoy
+ it."
+
+
+There's
+ only
+ one
+ thing
+ I
+ can
+ have
+ people
+
+
+remember.
+ In
+ order
+ to
+ truly
+
+
+change
+ things
+ in
+ order
+ to
+ build
+
+
+something
+ great,
+ you
+ must
+ have
+
+
+conviction.
+ Like
+ it
+ is
+ that
+ the
+ undying
+
+
+conviction
+ and
+ passion.
+ Now
+ as
+ I
+ drive
+
+
+into
+ work,
+ I
+ listen
+ to
+ a
+ lot
+ of
+
+
+biographies.
+ I'm
+ listening
+ to
+ Elon's
+
+
+biography
+ and
+ one
+ thing
+ that
+ resonated
+ a
+
+
+lot
+ with
+ that
+ is
+ uh
+ he
+ says
+ like
+ it's
+
+
+very
+ easy
+ to
+ think
+ that
+ technology
+ just
+
+
+progresses
+ automatically,
+ right?
+
+
+Egyptians
+ had
+ the
+ pyramids
+ and
+ then
+
+
+technology
+ was
+ lost.
+ the
+ Romans
+ and
+ the
+
+
+aqueducts
+ and
+ all
+ this
+ stuff
+ lost
+ in
+ the
+
+
+dark
+ ages
+ like
+ technology
+ is
+ not
+
+
+guaranteed
+ to
+ move
+ forward.
+ The
+ world
+ is
+
+
+not
+ even
+ though
+ it's
+ been
+ moving
+ forward
+
+
+in
+ a
+ wonderful
+ state
+ over
+ the
+ last
+
+
+hundred
+ years
+ not
+ guaranteed
+ to
+ move
+
+
+forward
+ or
+ even
+ move
+ in
+ a
+ positive
+
+
+direction
+ like
+ technology
+ advances
+ and
+
+
+the
+ world
+ changes
+ because
+ a
+ group
+ of
+
+
+people
+ are
+ like
+ really
+ really
+ passionate
+
+
+and
+ work
+ really
+ really
+ hard
+ to
+ make
+ that
+
+
+thing
+ happen.
+ That
+ conviction,
+ that
+
+
+passion,
+ that
+ hard
+ work
+ should
+ not
+ be
+
+
+taken
+ for
+ granted.
+ it's
+ not
+ expected
+ and
+
+
+like
+ it's
+ cool
+ and
+ it
+ deserves
+ the
+
+
+utmost
+ respect
+ for
+ anybody
+ who's
+ like
+
+
+trying
+ to
+ do
+ those
+ things
+ but
+ it
+ is
+ a
+
+
+prerequisite
+ to
+ do
+ and
+ I
+ think
+ people
+
+
+should
+ realize
+ that
+ that
+ is
+ what
+ it
+
+
+takes
+ and
+ and
+ decide
+ that
+ they
+ want
+ to
+
+
+do
+ that
+ thing
+ and
+ caring
+ about
+ something
+
+
+is
+ like
+ again
+ it
+ is
+ uh
+ it's
+ the
+ best.
+
+
+though.
+ Yeah.
