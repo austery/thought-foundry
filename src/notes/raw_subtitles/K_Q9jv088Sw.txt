@@ -1,0 +1,1684 @@
+Do you have an opinion on whether Cardi
+B performed at the Super Bowl?
+I mean, it's funny, but it's also kind
+of relevant because I saw someone has
+actually filed a complaint to the
+commission about Kalshi's decision
+specifically.
+Well, of course, we're spending a lot of
+resources investigating whether Cardi B
+performed was
+really our focus here is is on the
+market.
+So the unique thing that the great thing
+about the way that we regulate the
+markets is that the exchanges themselves
+similar to on the security side are
+self-regulatory organizations.
+So each exchange has its own rulebook
+that's been approved by the agency.
+It has its own requirements for
+contracts that are certified on the
+exchange.
+So of course, the Cardi B contracts went
+through a self-certification process and
+then they're they're settled in
+accordance with exchange rules.
+They go through a clearinghouse as well.
+So the exchanges each have these
+rulebooks and certain requirements
+around how the contracts are resolved
+and settled.
+And of course, now we're seeing some
+differences amongst courses, rulebook
+and poly markets rulebook.
+But that's the great thing about our
+markets and having the ability to build
+a business, to develop an exchange with
+some flexible guardrails on top that the
+agency oversees.
+But we don't prescribe exactly what has
+to be in the rulebook.
+We have a principles based system of
+regulation.
+Hello and welcome to another episode of
+the Odd Lots podcast.
+I'm Joe Weisenthal and I'm Tracy
+Alloway.
+Tracy, did you watch the Superbowl?
+You know, I was going to ask that and I
+knew it actually, I was going to start
+exactly the same way I did watch the
+Super Bowl.
+And so I feel empowered to ask you a
+very controversial.
+Oh yeah, not which halftime show you
+watched, but
+did Cardi B perform at the Super Bowl?
+Oh.
+Right, because this was a big thing.
+I forgot that there was.
+You know what?
+I'm aware of various sort of questions
+about prediction markets and things that
+people place bets on.
+Well, how did that resolve?
+What was what was the basic issue here
+again?
+So I think it's still being resolved in
+various ways.
+But, you know, Cardi B, she was on set
+during Bad Bunny's, you know,
+extravaganza and she was kind of like
+dancing and singing along, like mouthing
+words, at least along with other people
+like Pedro Pascal and Jessica Alba.
+Yeah, Lady Gaga.
+Lady Gaga.
+It was like singing together.
+Right, right, right.
+The only reason this matters at all is
+because of prediction markets.
+So there was a bet.
+Will Cardi B perform?
+And now the question is, does standing
+on stage and kind of bobbing your head
+and mouthing words count as a
+performance?
+Poly market says it does, Carol.
+She says it doesn't.
+Oh, interesting.
+Yeah.
+There you go.
+She and probably market split over
+whether Cardi B performed.
+That's great.
+That's a great tension.
+I like that.
+It is.
+It was striking to me, setting aside
+that I actually somehow seem to have
+missed the specific thing, like how much
+prediction markets are now are just part
+of the consumption experience.
+You know, even you look at all these
+different things that people are talking
+about, there was is Lady Gaga going to
+show up somehow like someone made a bet
+on it before it went public.
+But also, just like with each score, you
+know, you check the line is like, how
+much did this move the expectations of
+whether the Seahawks are leading like
+prediction markets are truly becoming
+part of like pop culture and how we
+interact with pop culture.
+There were some weird bets around like
+color of Gatorade that was going to get
+dumped on the coach.
+Yeah,
+length of like the national anthem being
+sung.
+Yeah.
+Yeah.
+Did you see that?
+Like, I was tempted by some of those,
+but I stayed away.
+I'm still I haven't used Pie market or
+Kalshi probably lies.
+You know, the interesting thing too is
+like how much the mood has swung right
+because a few years ago, like, I don't
+know, 20, 22, 2023, I think we did an
+episode like and that time, like there
+was almost nothing and the sort of like
+regulatory 180, the degree to the
+liberalization of these markets has been
+pretty remarkable.
+Even, you know, going back to a year and
+a half ago, there was just polymarket
+and it was just the offshore version
+that you had to fund with Stablecoins.
+Yeah.
+And now it's like exploded at the time,
+you know, Kalshi was very limited.
+They didn't have U.S.
+access, etc., or very curtailed U.S.
+access.
+Anyway, they're here and everyone's
+trying to wrap their heads around where
+this is all going and stuff.
+Yeah, it feels like they're much more
+sanctioned, I guess, than they used.
+Yeah.
+Yeah.
+But that said, there are still some
+issues that people are trying to work
+out.
+You have ambiguous outcomes like did
+Cardi B actually perform?
+You have concerns around insider
+trading, although not insider trading
+per se, because we're not talking about
+securities contracts, but maybe people
+with insider info who inadvertently
+disclose something material.
+I was thinking about this actually, so
+you can also bet on which companies are
+going to run Super Bowl ads.
+Oh yeah.
+And a lot of people must know if a
+company is going to run an ad like that.
+You have like the agency actors, like
+everyone, and you could argue maybe that
+that's material, non-public information,
+right?
+You run a Super Bowl ad, you get a bunch
+of attention, maybe your share price
+goes up if you're publicly listed.
+Yeah, I don't know.
+There are so many things anyway, rather
+than just keep talking about them
+because we can talk for an hour.
+We really do have the perfect guest.
+We're going to be speaking with Mike
+Selig.
+He is the new chairman of the CFTC, the
+main regulator for prediction markets.
+He's just sworn in in December.
+We're going to talk all about this,
+maybe some crypto as well.
+So, Mike, thank you so much for coming
+on Odd Lots, coming into the studio.
+Glad to be here.
+What do you tell us a little bit about
+just broadly coming into this new role?
+Like what are your goals here with the
+CFTC or really at a pivotal moment?
+You mentioned prediction markets, crypto
+AI, all manner of new technologies and
+products that are impacting our markets.
+And the CFTC was really this kind of a
+little known regulator before the
+financial crisis regulated in the
+futures markets.
+It's it has expanded jurisdiction over
+the swaps markets, the over counter
+derivatives markets.
+And now we see so much innovation in
+that space with things like prediction
+markets and crypto, with legislation on
+the verge of hopefully being on the
+president's desk.
+And so the agency is really at this
+unique moment where it has the
+opportunity to shape the future of these
+new and emerging markets.
+And it's really exciting time to be in
+the seat.
+Do you have an opinion on whether Cardi
+B performed at the Super Bowl?
+I mean, it's funny, but it's also kind
+of relevant because I saw someone has
+actually filed a complaint to the
+commission about Kalshi's decision
+specifically.
+Well, of course, we're spending a lot of
+resources investigating whether Cardi B
+performed.
+Really our focus here is on the market.
+So the unique thing that the great thing
+about the way that we regulate the
+markets is that the exchanges themselves
+similar to on the security side, are
+self-regulatory organizations.
+So each exchange has its own rulebook
+that's been approved by the agency.
+It has its own requirements for
+contracts that are certified on the
+exchange.
+So of course the Cardi B contracts went
+through a self-certification process and
+then they're they're settled in
+accordance with exchange rules.
+They go through a clearinghouse as well.
+So the exchanges each have these
+rulebooks and certain requirements
+around how the contracts are resolved
+and settled.
+And of course, now we're seeing some
+differences amongst courses, rulebook
+and poly markets for rulebook.
+But that's the great thing about our
+markets and having the ability to build
+a business, to develop an exchange with
+some flexible guardrails on top that the
+agency oversees.
+But we don't prescribe exactly what has
+to be in the rulebook.
+We have a principles based system of
+regulation.
+What is the basis for something like Is
+Cardi B going to perform at the Super
+Bowl halftime show?
+What is the basis for this being
+categorized as a true financial
+instrument regulated by the CFTC?
+Because it certainly just feels like
+problematic to me.
+Who has economic exposure?
+They need to hedge to Cardi B
+performing.
+There's a really interesting historical
+story around the definition of commodity
+and the markets that we regulate today.
+Starting back in the thirties, when the
+Commodity Exchange Act was first
+ratified, it was originally focused on
+grain and over time we've had things
+like workbench come a long way.
+Exactly.
+It's come a very long way.
+Of course, with the financial crisis, we
+got all manner of of new products within
+our authority.
+But but the definition of commodities,
+extraordinarily broad.
+It includes virtually everything except
+a few things have been carved out,
+onions and motion picture box office
+receipts.
+And that's a really important point to
+note that they were expressly carved
+out.
+So most things in our commerce today,
+even securities are technically
+considered commodities under our act,
+and we have authority to regulate them.
+In the case of securities, we coordinate
+with the SEC and have some joint
+authority.
+But for all other types of products,
+services, REITs, indices, people are
+going to hedge that risk.
+They're going to be in the market to
+speculate on those products.
+And so we don't merit regulate.
+We don't tell people what they should be
+entering into contracts on.
+We create rules and regulations around
+those markets to make sure that they
+have integrity, that they're resilient,
+that they're vibrant and they have
+guardrails and investor protections.
+And so that's why going back to the
+exchange rulebooks and other controls,
+self-certification being an important
+process or making sure those markets are
+safe and secure.
+But we're not telling people whether to
+trade pork bellies or Cardi B contracts
+or anything else.
+So let's go to the insider trading
+question, because this is sort of top of
+mind for a lot of people.
+Technically, it's not insider trading,
+but, you know, it does look like some
+people have inside knowledge sometimes
+when they put on big bets on something
+that just happens to happen the next
+day.
+The CFTC hasn't, as far as I know, given
+a lot of guidance on this issue, how are
+you actually thinking about it?
+Well, from a legal standpoint, I think
+there's a bit of a misunderstanding
+about the insider trading doctrine at
+the CFTC.
+So the authority at the agency is very
+similar to the authority at the SEC
+under our anti-fraud anti M.P.
+lation rule.
+We do have authority to police insider
+trading in the commodities markets.
+Now the way that insider trading is
+carried out is oftentimes different from
+a situation where you have information
+asymmetries relevant to a company.
+But there are situations where you have
+informational asymmetries related to the
+markets placing a trade ahead of a
+customer, for example, or even in this
+situation now with prediction markets.
+And that's something we are thinking
+about and certainly on the beat and
+exploring.
+So we surveil the markets, we collect
+data, we have information about, for
+example, you know, our players
+participating in these markets are
+people associated with the sports
+leagues, etc.
+And so we are a cop on the beat in that
+regard.
+So the doctrines not entirely different,
+but there are some nuances that we are
+aware of and making sure that we're
+policing for.
+Would Polly Market or Kalshi, in your
+view, be allowed to live stream a video
+of a giant roulette wheel and create
+futures trade?
+Let people trade futures on when it
+lands on right or black.
+Some of these types of gaming where it's
+really a game of chance and not a game
+of skill.
+There's definitely a difference.
+And I think when we look at what's a
+commodity, it's possible that you could
+construct some sort of contract, an
+esoteric derivative, but really the
+underlying and a game of skill is very
+different.
+There's a clear economic risk
+associated, for example, at the Super
+Bowl.
+It's a good example.
+There's a ton of economic activity
+associated with that.
+There's hotel revenue that comes from
+it.
+There's vendors, there's activity within
+the city, tourism, all of that.
+And so there's a real reason to hedge
+that risk with a game of chance.
+It's harder to say it's possible you can
+attract something by it, but it's less
+likely that that's a real underlying.
+Well, what is like the difference?
+Because, you know, let's say it's what
+is bad.
+Bunny's first song going to be at the
+Super Bowl.
+Like, what is the difference between
+that?
+Which doesn't really seem any more
+economic than, you know, a roulette
+wheel and whatever it is?
+Well, to be clear, there's no
+requirement in the act that there has to
+necessarily be some merit based result
+from it, from a contract.
+I do think with a lot of these
+information markets, these prediction
+markets where they're forecasting a
+potential outcome in the future, they
+produce a lot of useful information.
+We are seeing newsrooms incorporate
+prediction markets.
+We're seeing sports live broadcasts,
+incorporate prediction markets.
+We're seeing the information use in
+particular.
+A great example is the election in 2024
+where the president had a very large
+victory and that was not necessarily
+forecast in many of the polls.
+But of course, the prediction markets
+got that right.
+So so it's something that I think is
+valuable to society.
+The question of having regulation
+around, that's a separate question.
+I think that's an important one.
+We are certainly taking on that task and
+making sure that we don't let these
+markets languish or I we don't push them
+offshore, but we develop the right rules
+and regulations to develop investor
+protections and make sure that the
+markets are flourishing here in the
+United States.
+Since we're discussing prediction
+markets through the prism through the
+medium of the Super Bowl.
+And you mentioned players as well
+looking at player behavior.
+If a player were to place a bet on, I
+don't know, a specific play during the
+game and then they did it themselves
+like something that they actually have
+agency over.
+Would that be something that you would
+investigate or look into?
+You know, I think it's all facts and
+circumstances.
+So we'd evaluate potentially to the
+extent that there's insiders that are
+involved in the markets, we get that
+data.
+We're actually talking to a lot of the
+sports leagues.
+We're talking to participants in the
+markets to make sure that we are on top
+of things, have, you know, information
+about who is able to be participate in
+these markets, who's not.
+We do have at the exchange level, the
+exchanges are really the first line of
+defense, and they are surveilling the
+markets.
+They're doing KYC on their customers.
+And so that's certainly something we're
+on top of and we'd consider and evaluate
+on a case by case basis.
+Why isn't trading sports derivatives
+gambling or betting, or is it better?
+Well, there really is an interesting
+history here.
+So if you go back to the Thirties
+National, you know, grain betting was a
+thing right then that was considered a
+national pastime.
+And so for as long as we've had
+derivatives markets, we've had these
+so-called bucket drops which were, you
+know, these these off exchange markets
+where people were just placing bets
+against the house on the future price of
+a commodity.
+On the other hand, you had organized
+exchanges.
+So the Chicago Board of Trade, later CME
+and others had organized markets with
+market integrity.
+They had derivative instruments,
+contracts where you actually were in a
+contract with another person.
+And then now in our markets, we have a
+clearinghouse innovating and standing in
+the middle of those contracts.
+But you have a buyer for every seller
+with the with the kind of bookie model
+that's not the case or betting against
+the house.
+And there's a lot of different rules
+when you're betting in the house, you
+don't have the liquidity of being able
+to offset your position or sell a lot of
+your position.
+You're kind of stuck taking whatever the
+bookies giving you, and some of the odds
+are very different.
+So you're actually based on the odds of
+the bookie as opposed to here where the
+contracts go up and down in value based
+on actual market activity.
+And so over time, the Supreme Court
+actually blocked some of this bucket
+shop activity by saying you can't take
+the price quotations from the organized
+exchanges and use them in a bucket shop.
+But a lot of these bucket drops over the
+years have now moved into gaming and
+other things.
+We're seeing really the same phenomenon
+where we have casinos and other
+operations that are operating lawfully
+under state requirements and
+regulations, but they don't have the
+same sorts of controls.
+You know, we regulate a nearly 500
+trillion notional market with the swaps
+market.
+We have very stringent requirements and
+controls around our exchanges, and these
+contracts reflect that.
+They go through a very stringent process
+of self-certification.
+They can't be readily susceptible to
+methylation.
+We surveil those markets, we police
+things like insider trading.
+And so it's a much more robust scheme on
+top of these markets, much higher
+stringent requirements.
+And so I do think.
+We're seeing a lot of parallels between
+the thirties and forties and today.
+But rest assured that we're on top of
+these markets and these have the same
+sorts of investor protections that you
+would expect in the securities markets
+and in our futures markets.
+Hmm.
+Out of curiosity, how much of your time
+is split now between the new stuff,
+prediction markets, crypto versus the I
+guess the old boring older exchanges?
+Yeah, all very well.
+Our day to day is really the traditional
+markets.
+And when we talk about these new
+markets, many of the incumbents are
+getting into the space as well.
+We're seeing more and more of these
+products offered on our traditional DC
+ATMs.
+But all of these are the same
+registration category, right?
+There are some nuances in how they're
+set up.
+There's some new action relief that's
+been given to some of these platforms
+historically.
+But this is not it's not, you know, our
+day to day bulk of work.
+That said, given that it's new and given
+that there's so much that is changing,
+we have a lot of more a lot more
+rulemaking and policy work to do in this
+space.
+So so I do think it's a big piece
+because of that.
+But in terms of the actual size of these
+markets compared to are, as I said, that
+$500 trillion notional swaps market, $40
+trillion notional futures markets, it's
+a smaller piece, but but it's growing.
+And I think blockchain is going to
+really change in particular how some of
+these existing exchanges operate, how
+they settle transactions and so forth.
+And so it's a really exciting time to be
+in the seat.
+So I get that there are some market
+structure differences between a futures
+exchange on sports versus the
+traditional horse sense, the odds and so
+forth.
+But from the perspective of the user or
+the person who's putting money on the
+line, like I think most people would say
+like economically they're very similar
+and they're getting more similar because
+we know that say like the Kalshi and Poly
+market they're trying to get into,
+figure out how to do parlays and stuff.
+So like it's getting closer and closer
+and you know, people have a lot of
+concerns about sports gambling and the
+effect that that has on young people and
+so forth legalizing, you know, national
+legalization of these.
+It de facto lowers the age in a lot of
+states because in a lot of states, the
+legal age to gamble is 21, And the legal
+age to treat a futures like 18, I
+believe is this is this is do you think
+that's good that we've de facto lowered
+the age to bet on sports or again we're
+not married regulators.
+We don't pass judgment on kind of the
+age requirements in our securities
+markets and our derivatives markets.
+We have certain standards that have been
+upheld in these markets.
+People are betting on, you know, any any
+number of assets.
+Right, if you want.
+But that's overwhelmingly sports.
+I mean, I think that said, you have the
+ability to make investments and trade
+options and all manner of security is
+all manner of commodities.
+And so the rules are not different based
+on doing sports or this or that.
+You know, I think this term betting has
+been used and thrown about in in our
+securities markets and our derivatives
+markets as well.
+So I don't think it necessarily means
+anything in particular.
+But the notion is that you're able to
+make decisions at 18 in our markets and
+we uphold that state by state.
+Some of the standards are set even
+higher.
+And that is not something that, you
+know, I have a particular opinion on.
+I think that's just the way when you say
+what do you mean in state by, say, some
+of the standards or some some of the
+states have flexibility in what they set
+up for drinking or for, you know,
+gambling.
+And they're like, this is financial
+market activity.
+These are not wagers.
+You're not betting against the house.
+We have significant overlay from a
+regulatory standpoint over these
+markets.
+And so we're not gatekeeping particular
+categories of market selections or
+sports and having different standards.
+That's not how we've typically done
+things.
+And so we don't intend to do that in
+this particular market.
+So you're not a merit based regulator,
+but you are a technical regulator.
+And as we've been discussing, there's a
+lot going on, lots of rulemaking to do,
+lots of potential enforcement actions.
+There's a Barron's story out today
+talking about how the CFTC apparently
+has no enforcement officers left in its
+Chicago office.
+And you used to have 20, but everyone
+resigned, it seems.
+How are you balancing all these new
+markets, which are growing really,
+really fast and pose some very thorny
+questions that we've been discussing
+with more limited resources?
+Well, look, a lot of the folks that left
+that was before my tenure and certainly,
+you know, I'm not blaming you.
+It's not you know, they didn't leave
+right after I joined it.
+But but no, I think I think it's a
+serious question.
+Right.
+We've got to make sure that we have
+adequate staff to police the markets.
+And we do have a ton of staff throughout
+the country.
+And, you know, to the point of our
+Chicago office, of course, it's
+important that we have folks within that
+office.
+But we don't have a Texas office.
+We don't have a Florida office.
+We don't have offices in every state.
+We have a handful of offices.
+We've got a critical mass in D.C.
+and a number of folks in New York as
+well.
+And those are.
+Two largest offices.
+We continue to fill those out and we
+would love to have more people in
+Chicago.
+And, you know, the door is always open
+for folks that want to come in and work
+for us.
+And we continue to build out the ranks
+there.
+But we have adequate resources.
+We have a ton of folks within each of
+our offices, and we're actually
+leveraging a lot of the new technologies
+like A.I.
+to make sure that we're surveilling the
+markets and that we're reviewing things
+like insider trading and bringing cases
+where it makes sense.
+We're also processing applications very
+quickly.
+We just processed, I think, in a record
+time of 200 days, one of the more recent
+exchange applications.
+So we're really well-staffed, but we're
+continuing to build that out and make
+sure that we have good people in the
+building who are competent and able to
+make sure that we protect our markets.
+So you have the funding to you have the
+funding to add headcount.
+And are you pursuing like building out
+the headcount?
+Do you need more funding?
+Absolutely.
+So.
+So we are actually staffing up.
+Okay.
+So 100%, we're building that out.
+We have adequate resources to do so.
+But I want to be clear that we have a
+very well staffed building and we are
+very much on top of things with and, you
+know, these questions around not
+enforcing and surveilling.
+You know, I think there's a little bit
+of fake news there.
+We probably should put it up to a
+prediction market.
+But but I do think that we're on top of
+things.
+So one thing I know about the Trump
+administration, they are big fan
+seemingly of cutting costs, cutting
+spending, streamlining the federal
+government in some ways and, you know,
+sometimes cutting agencies altogether.
+This has been a really long running
+question in market structure world.
+But why don't we just combine the CFTC?
+Oh, yeah, that's easy.
+It's everybody's favorite question.
+Yeah, look, the CFTC and FCC are very
+different regulators.
+So the SEC is a capital markets
+regulator.
+They are focused on somebody wants to go
+raise capital for a great idea.
+Other people want to place that capital
+somewhere.
+There needs to be some regulation over
+that.
+After the Great Depression, there was a
+lot of chaos in the markets and the
+agency really was a great answer to that
+issue.
+And as as put a great regime in place to
+regulate all of that.
+The CFTC grew up actually at a different
+time.
+The original act was in the thirties,
+but later on the CFTC was established in
+the seventies.
+But the purpose of the CFTC is to
+regulate risk mitigation, risk
+management, very different areas.
+So there are firms that whether farmers,
+ranchers, energy producers, now we have
+data centers in the air space, but but
+all manner of businesses have a bunch of
+risk related to the inputs for their
+business and ongoing operations, and
+they need to hedge that risk.
+And there are other participants that
+want to supply liquidity into those
+markets, make markets or speculate, and
+the CFTC regulates that.
+So very different purpose for the
+regulator.
+There's not the same sort of disclosure
+regime that we have at the FCC.
+And so it makes sense to have two
+separate regulators.
+But what doesn't make sense and what
+Chairman Adkins and I have been very
+clear on is the lack of coordination
+between the agencies.
+So it's coordination, not consolidation.
+We need to harmonize the two regimes to
+make sure that there's not inconsistent
+and incompatible rules and that there's
+not gaps.
+So Chairman Atkins has referred to this
+no man's land between the two agencies
+where you've got the bodies of all these
+dead products and services that
+otherwise could have been, if the
+agencies could just figure out how to
+coordinate security features is a great
+example.
+We have shared jurisdiction there, but
+we've really failed to work well
+together to get that off the ground.
+And so I think it's really a new day at
+both agencies where we're intending to
+work closely together on that.
+Yeah, this is exactly what I wanted to
+ask.
+So I've heard people talk about
+increased cooperation and coordination
+between the S.E.C.
+and the CFTC, basically ever since the
+financial crisis.
+And it hasn't really happened or it
+hasn't happened to the degree that some
+people would like to see.
+What's your diagnosis of the actual
+problem there?
+And I would love to get into the weeds
+here and, you know, like, what does
+coordination look like between the two
+agencies?
+Yeah, I'm in a good position in that I
+used to work for Chairman Adkins, But,
+you know, so I think we have a great
+relationship just getting off for the
+start.
+But a memorandum of understanding is
+something that we've committed to
+execute and we're looking to execute
+very soon.
+And that really set all the ground rules
+for coordination between the staffs.
+And so not having that in place I think
+is really hampered the two agencies
+because sharing information is really
+important.
+You need a framework for sharing that
+information.
+There's a lot of nonpublic material that
+that is generated in each building.
+And so having rules for the sharing of
+that information is important.
+Having regular meetings between the
+staffs and coordination and sharing of
+market data related to registrants is
+really important.
+So if we've got dual registrars and
+we're collecting our own sets of
+information and we're ensuring that
+they're each complying with these two
+kind of separate fortresses of rules and
+regulations, how do we know what, what,
+who's doing what and what needs to be
+changed?
+And.
+So having the information is really
+important.
+That's the first step.
+And then the staffs need to come
+together and figure out how to create
+substitute compliance.
+So certain rules are incompatible on
+both sides.
+We need to knock those out or at least
+have a kind of default choice.
+One agency versus the other.
+If you're a broker dealer and you're
+doing a very minimal amount of commodity
+derivatives activity, perhaps you should
+have a primary regulator at the FCC with
+some CFTC overlay to make sure that
+there's no gaps.
+So that's an important piece.
+I think a lot of the general like crypto
+related issues are really calling for
+joint rulemaking, joint work between the
+agencies because we're seeing NVIDIA
+tokens on chain, not necessarily within
+the U.S., but I think now with the DTC,
+we're going to start seeing a lot more
+of the tokenization of public equities.
+And then we're also seeing Bitcoin
+ether, things that are with the within
+our territory trading on screen and
+those worlds are going to collide and
+then they are in fact colliding today.
+And so having common ground between the
+agencies, figuring out what the ground
+rules are and making sure that we have
+similar standards for decentralized
+finance and for digital wallets.
+And all of that is really important
+because if we set incompatible
+standards, then it's going to be a real
+disservice to the market and that's
+going to harm all Americans.
+Kalshi had an ad recently.
+It said, P.O.V.
+is a girl and it's a pure V.
+I was about I was about to be unable to
+pay my rent, but I got two years of rent
+through Kalshi's predictions.
+It's amazing.
+This is seems more aggressive even than,
+you know, the traditional sports
+betting.
+And there's all kinds of sports betting
+ads.
+And then they have a thing where if
+you're a problem gambler, call this
+number.
+Should there be any limiting factor on
+how aggressively sports these prediction
+markets should be advertised or that?
+That's one point that I think is is
+worth double clicking on in the sense
+that there are standards for a futures
+Commission emergence for brokers within
+our markets.
+And some of those standards are a relic
+essentially of the way that the act and
+the regulation is developed where you
+have a intermediation between the
+customer and the clearinghouse and the
+exchange.
+Typically in our markets.
+Now these no action ladders that started
+around 2000 that were given to some of
+the prediction markets back then as well
+as now.
+Other markets cut out the the FCA and
+cut out the broker.
+And so you had direct to the
+clearinghouse, direct to the exchange.
+And that model doesn't have all the same
+rules and regulations.
+And so something that we're thinking
+about is how do we make sure that we
+have consistent standards across both.
+Now I think this question of what sort
+of marketing and advertising either
+should be able to engage in is one that
+that we're certainly going to think
+about.
+So just to be clear, there are current
+rules on, say, a futures broker and how
+they can market.
+But when these new no action letters
+were established that allowed the sort
+of the futures entity itself to offer
+directly, they didn't have the rules.
+What are the rules?
+And would an ad like these like like if
+if if a futures broker like, I don't
+know, forget MF Global or something that
+like, oh, I couldn't pay my rent.
+But then now I'm, you know, now my now
+I'll never have to work again because I
+traded wheat futures.
+That seems a little weird and I've never
+seen an ad like that, right.
+I mean it really is this result of the
+way that these no action letters were
+handed down, as I said many, many years
+ago.
+And this kind of regime that we have,
+that really my view on a lot of this
+stuff is that we need clear rules of the
+road.
+We need to do things through notice and
+comment rulemaking and actually think
+holistically about our markets and not
+focus on these little patchwork, no
+action letters, which unfortunately has
+been the rule over many years.
+And so that's definitely something we're
+thinking about.
+We want to set clear standards.
+We want stakeholders at the table to
+figure out what these regimes should
+look like.
+And I'm not one necessarily to say what
+the marketing should look like.
+We want to hear from participants as to
+what what sort of marketing they think
+is appropriate for these markets.
+But what we're certainly thinking about
+that and there are different standards.
+It really is just a result of that kind
+of ad hoc way that regulators in the
+past have gone about establishing
+exceptions for certain things in the
+markets.
+Well, on this note, do you maybe need
+new classifications?
+Because it seems like all these
+different worlds are kind of melding
+together where you might have a crypto
+trading platform that's now offering
+derivatives and other things, and then
+you have like an old school exchange
+that is offering essentially bets on
+your number, go up, number go down.
+At the moment, I think your registration
+categories are pretty like standardized
+and you have three of them, is that
+right?
+Like futures exchange, swap, execution,
+stuff like that.
+Now, we've got too many.
+We've got many.
+Okay.
+On anymore.
+All right.
+More than that.
+So could you create even more to sort of
+encompass the industry changes that
+we're seeing?
+Well, we certainly need to think
+holistically about what requirements we
+have on different participants.
+So these non-answer mediated exchanges
+and we're also seeing a lot of vertical
+integration with a single business
+owning a clearinghouse.
+And and the broker and the exchange are
+seeing different models where where
+there's that non intermediated as I
+said, we don't have enough CRM at all
+and then you have everything in between.
+And so we need to think about that.
+We need to make sure there's consistent
+standards.
+We don't want a regulatory arbitrage
+where because you don't have the broker,
+you're able to do more.
+Now the way that these have been set up
+under no action letters today, they do
+not allow for any margin.
+So they're they're not they're fully
+collateralized.
+And so if you go directly to the
+clearinghouse as a customer, you're
+putting up for collateral.
+And so that's something as well, or
+we're seeing more institutional interest
+in these markets.
+They would prefer to be able to put up
+margin and go through a broker or have a
+model where you don't have the broker at
+all, but you're able to use margin.
+So we're thinking about all these
+things.
+It's a really interesting time, as I
+said, to be thinking about market
+structure for things that really just
+probably should have been done many
+years ago.
+And for whatever reason, people relied
+on these no action letters.
+And really, I guess it was more of a an
+ankle biter at the time and didn't get a
+full regime.
+But we're thinking about all of that.
+Donald Trump Jr is an adviser to Kalshi.
+He's on the board of poly market and it
+looks like truth social, which is
+largely owned by president Trump, is
+also going to launch something called
+truth Predict.
+How should the public feel comfortable
+that these are well regulated markets
+given the very obvious sort of like
+stake that the that that the White House
+has found or that the president and his
+family has in this industry.
+These are designated contract markets
+like any other.
+We have regulated these markets for for
+many, many years, for decades.
+They have some of the most stringent
+regulatory requirements.
+As I mentioned, these are nearly $500
+trillion notional markets that we
+regulate.
+We take it very seriously.
+We put these fraud and manipulation in
+these markets.
+So I think everybody can rest assured
+that we are on top of of protecting the
+markets.
+And we think it's great that there's a
+broad swath of interest in the markets.
+But like so, for example, when you're
+figuring out like what is the
+appropriate level of advertising going
+back to those Kalshi ads and you're
+thinking like, okay, like how do you
+know?
+And you're talking about
+talking to market participants, like who
+is that?
+And like, how should people feel
+comfortable that you're going to find
+that right line again when the
+administration has a very clear economic
+stake in this industry and having the
+industry grow, we adhere to the law.
+I mean, the Commodity Exchange Act is
+our authorizing statute.
+We act in accordance with the Commodity
+Exchange Act and meet very strict ethics
+and, you know, government requirements,
+and as does, I think, everyone in this
+administration.
+So we take all of that very seriously.
+So speaking of Trump, we should talk a
+little bit more about crypto because
+it's been having a pretty bad month so
+far.
+And I think one of the big hopes of the
+industry, the Clarity Act, seems to be
+stalled in Congress.
+What happens if that doesn't go through?
+Because you've sort of I feel like
+you've committed yourself to being, you
+know, a crypto digital asset friendly
+administration or regulator in many
+ways.
+Well, thanks to the President's
+leadership, I really do think we're at a
+critical moment where we've got genius
+now as law regulation, my enforcements
+done.
+We've got the Clarity Act that's really
+on the precipice.
+I think there's a few issues that are
+being ironed out actually, as we speak.
+I know there's a meeting today and we're
+hopeful that that's going to get done.
+I think that's going to set a really
+futureproof framework for crypto here in
+the U.S.
+We can't allow European countries and
+others to lead in this area without U.S.
+involvement and leadership.
+And so we're committed to getting that
+done.
+And I think we've got a really great
+bill that's that's almost at the finish
+line if it doesn't get done.
+Look, I think there's a lot of authority
+that the agencies have, but it's
+important with Loper braids and some of
+the case law that takes a little bit of
+the agency's discretion over nuances in
+the statute and puts that back to the
+Congress and the courts, I think it's
+really important to have more baked into
+the statute than not.
+And so we're hopeful that we'll get a
+statute in place.
+You know, one of the areas that crypto
+seems to have been at the forefront of
+is perpetual futures.
+And, you know, it's very popular.
+You see, like you can get 101 leverage
+trading if futures on some platforms.
+Do you see
+the more use of perpetual perps in sort
+of traditional finance, Could we have
+perpetual oil futures at some point?
+Like could you envision that?
+Well, right now we're thinking about it
+in crypto, I think, there.
+I would like, you know, trade it on on
+chain, like all futures, like you're
+going for like, okay, crypto provides
+the infrastructure, but could you like,
+why not trade?
+You know, again,
+an oil perp on Unchained.
+Look, if there's demand for these
+products, it's definitely something that
+we're all consider and look at right
+now.
+The overwhelming demand has been in the
+crypto space.
+We've seen some demand in precious
+metals, gold, silver.
+We have to consider their susceptibility
+of each contract to manipulation.
+So there might be unique considerations
+around a contract that doesn't have a
+physical delivery date with, for
+example, pork bellies or other things,
+and that can create issues within the
+supply and liquidity for the futures
+contracts.
+So it's something we're thinking about.
+We're definitely excited about all this
+innovation.
+It's been too long.
+This stuff is only developed offshore
+and we really want to bring it back with
+clear rules of the road.
+So it's really important that the U.S.
+leads and that we set the standard that
+other countries are going to follow
+rather than just allow this stuff to
+flourish offshore with potentially less
+regulation.
+As you all know, when you offer into
+various countries, there's different
+rules around offering directly in or
+solicitation or solicitation, all of
+that.
+So we're certainly aware of that.
+We're thinking about it.
+We want to set really clear and kind of
+best in class standards for U.S.
+markets.
+And just going back to prediction
+markets, I know you keep emphasizing
+that you're not a merit based regulator,
+right?
+So you're not making decisions on what
+people should be betting on or what they
+can bet on.
+But is there like is there a line at
+some point that you wouldn't want to see
+private companies actually cross?
+Like if someone creates a contract for
+like someone's going to die, right, a
+violent death or something, that that
+would seem problematic or a contract.
+And this came up when we talked to Dan
+Wilson do Chicago, the contract for
+whether people would throw sex toys onto
+the court during a WNBA game, which of
+course the existence of the contract
+might elicit people to do it changed
+their behavior.
+Also kind of dangerous, like, you know,
+what is where do you where is the line?
+The ladder seems highly at risk of, you
+know, being susceptible to tribulation,
+which we do have authority to reject.
+I think with other categories,
+assassination and the like, there is
+authority within our statutes to
+prohibit.
+So we would exercise that authority.
+You know, there are certain areas where
+we certainly would not want contracts
+being offered, but with others, look,
+we're not, as I said, a regulator.
+We're not going to go and say you can't
+have a contract in sports, You can't
+have a contract in politics.
+But the details matter and we are
+evaluating that.
+Just going back to, you know, the sort
+of basic question.
+A lot of states, attorneys generals are
+are attorneys general.
+Did I say that I plural attorneys for a
+lot of states, attorneys general?
+You know, there's a lot of court fights
+about this.
+And they look at this and like many
+people would and they say, look, this is
+this is betting, this is this is
+gambling.
+This certainly looks like sports
+gambling.
+Kalshi itself ran ads that said sports
+betting is now legal in your state.
+And I think they've pulled those back,
+etc..
+But from the perspective of the public,
+it certainly looks like by calling, by
+putting sports betting into this
+framework that a lot of like that it's
+undermined the ability of states to set
+the rules about who can bet on what.
+Well, there's a great law Journal
+article by Professor Hayes and he's a
+securities law professor.
+This must have been written in the early
+2000, but it was before the financial
+crisis comparing derivatives, futures
+contracts, securities, insurance
+products, gambling.
+These are all products that you can take
+similar economic positions in, but they
+have different legal treatment.
+And it's because the products are
+structured in different ways.
+So an insurance contract could be
+structured very similarly to a credit
+default swap, but you haven't insurable
+interest.
+So so the details do matter and we are
+looking at that.
+So it's not the case that we're going
+into the casinos and saying you're
+offering legal off exchange swaps.
+But if the products are structured as
+swaps, then we have authority there.
+And so many of these platforms that are
+offering products that may have some
+similar economic attributes, but the
+details do matter.
+Right.
+As I as I mentioned, you can you have to
+go through a clearinghouse.
+Yeah.
+The products can be offset.
+You can get in and out of your position.
+There are different.
+They matter.
+I totally get that.
+But do they matter from the perspective
+of like a 19 year old who's addicted to
+betting on sports?
+Well, I think that's a question for
+society as a whole and even for
+Congress, right?
+I mean, to the extent we don't want a 19
+year old trading in video stock options
+either, you know, that's that's
+something that you can talk to Congress
+about.
+But the reality is that today we allow
+18 plus in our financial markets and
+there's a responsibility associated with
+that.
+They have to go through a broker in many
+cases.
+There is this nuance of the non
+intermediated model, but there is
+screening as well to be able to access
+those markets.
+And so we do have standards, we do have
+rules.
+Everything's done in accordance with an
+exchange rulebook and we enforce that
+and we are policing those markets.
+But I think this this more paternalistic
+question of what age should be the age
+to be able to participate in the markets
+and these people can be drafted, go off
+to war.
+And so a question of whether they can
+trade options on the outcome of the
+Super Bowl, you know, I think that's not
+really for the regulator to decide.
+You know, you said you were ramping up
+staffing to help regulate all these new
+markets, new and fast growing markets.
+What's the hiring process or the hiring
+experience actually like at the moment?
+Because, you know, thinking back to last
+year or 2025, all the headlines when it
+came to government employment were, you
+know, layoffs, mass firings,
+streamlining.
+What's what's that like for you now?
+Is it easy to get people in the door?
+Well, look, there are there are to the
+extent there are areas where we need
+additional staff.
+We are evaluating based on competence
+and the highest quality.
+We do not want to to just bring on
+bodies, to bring on bodies.
+We're making sure that we're bringing on
+the right people for the roles.
+And in many cases we are very well
+staffed.
+I think there are some needs that we're
+looking to fill out.
+But but again, it's it's very much akin
+to hiring at a private company or
+looking to bring on the best and the
+brightest who really want to help
+revitalize the agency fill out needs for
+the agency.
+And we are, as I mentioned earlier,
+relying a lot on technology as well,
+because there's just so much that many
+years ago it really had to be done
+manually.
+That can be done very quickly through
+new technologies.
+Well, this has been a perennial
+question, which is how government
+agencies actually compete with the
+private sector to get good people.
+How are you doing that at the moment,
+given that?
+I mean, I imagine you have some form of
+budget constraint and I would imagine
+that it's probably your budget is not as
+big as like, I don't know, CMS or
+something like that.
+How how do you actually compete?
+Well, look, I think part of that's the
+mission.
+We are really interested in making sure
+that these markets flourish here in the
+United States.
+It's an exciting time.
+Many people are interested in being able
+to contribute to that effort where
+really, as I said earlier, setting new
+market structure for this asset class as
+well as for for blockchain based Marquez
+and a lot of the things that needed to
+be fixed in the wake of Dodd-Frank that
+frankly were never fixed.
+So I think it's in part mission and part
+people that are willing to serve and
+come in and maybe they don't get the
+salary that they get in the private
+sector, but that's not necessarily a bad
+thing.
+They get a lot of value out of being it
+working for the government.
+Do you think going back to the question
+of like marketing and again, gambling
+marketing, there's always like some line
+or whatever about people who get
+addicted.
+Would you like Congress to come in and
+create rules?
+Should Congress come up with a rule
+about prediction market advertising?
+We have got a lot of authority to
+regulate our participants.
+I think there's sometimes a real need
+for Congress to the extent, as you all
+mentioned, if you really want to set
+some sort of more paternalistic role
+around, you have to be 18 or 21 to
+participate in the markets, that sort of
+thing.
+Sure, you can talk to Congress about
+with respect to the more nuanced pieces
+of how we regulate the markets, that's
+stuff that we handle.
+It's not typically baked into statute.
+We go through our notice and comment
+process and get input from the public on
+those sorts of things.
+So I don't necessarily think you need to
+kick everything the Congress within the
+details.
+But but but it certainly could be
+something that people in a lot of
+countries, you know, we're sorry, a lot
+of states regard like, okay, under 21
+like we don't want that Right.
+And it sounds like you regard that as
+paternalism in action, which, you know,
+I understand a lot of people share that
+view.
+But, you know, it also seems like the
+CFTC, you know, people have different
+views and it sounds like the CFTC is
+sort of undermining a value that a state
+might have about gambling.
+I don't view it that way.
+I do think our derivatives markets are a
+separate area within government and
+within the law as opposed to the state
+gambling and the.
+The rules and requirements that govern a
+state casino are very different.
+They can do a lot different things than
+what a regulated futures exchange can
+do.
+And so I do think there's some give and
+take, some for sure limitation on the
+age piece.
+But look, you can serve alcohol in a
+casino and allow people to bet on
+sports.
+You can't do that necessarily at a
+digital exchange.
+Maybe somebody has got a beer on the
+side.
+But I do think there's a lot of
+different restrictions and a different
+environment in which people are trading.
+So it's not quite apples to apples.
+Mike Selig, thank you so much for
+coming on Odd Lots.
+a perfect guest at the perfect
+time.
+Thanks for having me.
+I enjoyed that conversation too.
+However, there are a number of
+difficulties with regulating prediction
+markets and I'm kind of trying to like
+zoom in on what I think might be the
+primary one.
+So, number one, the CFTC exists to
+regulate risk management, right?
+Which is what Mike said.
+It is very doubtful to me that someone
+needs to manage their exposure to Cardi
+B performing on stage at the Super Bowl.
+So it's not even entirely clear to me
+that, like, this is an industry that the
+CFTC should be regulating now.
+That said.
+So that's that's a big tangent.
+Yeah, right.
+And then just beyond that, you could
+certainly argue that by legitimizing
+prediction markets and helping them to
+grow, you are in fact introducing a new
+risk into the system because everyone's
+going to start gambling away.
+I don't know, they're college funds or
+whatever.
+You know, I think Mike made an
+interesting observation and sort of near
+the end of the conversation that like
+and until it was like different market
+structures warrant different types of
+regulatory treatment.
+Right.
+So and I think that makes sense.
+I think what's interesting, though,
+about this conversation, particularly as
+it relates to sports betting, is that
+part of the reason that we hear that
+states have sort of in many cases,
+either no sports betting or very
+stringent rules about who can engage in
+sports betting has nothing to do with
+financial risk and everything to do with
+the sort of like moral choice about who
+gets to sports bet.
+And so, you know, on one hand it's like,
+okay, there's like traditional sports
+books.
+They have a house that sets the odds.
+It's definitely true that prediction
+market companies have like a different
+market structure, but from a sort of
+like, why do society want to constrain
+the role of sports betting?
+It's not because of like any sort of
+like financial instability risk.
+It's because we don't want certain
+people like 18 year old people who might
+still be in high school having access to
+sports betting.
+And when the CFTC says, like, you know,
+this is this is a new type of financial
+instrument that should be regulated like
+a financial instrument, it sort of
+undercuts that sort of choice that the
+state has made.
+Yeah, exactly.
+Do you think sports betting is like the
+new monoculture?
+I mean, it's just really incredible.
+I mean, it is really incredible how
+pervasive it is.
+An incredible but also it's just
+incredible, you know, truly how
+pervasive betting on everything is.
+And, you know, I should say, like I I'm
+an enthusiastic consumer of the
+prediction markets data.
+You know, like I said in the very
+beginning, like I now on all kinds of
+things, including fed decisions, you
+know, like I think it's very useful to
+say like you look at like certain
+measures of like I don't know, you know,
+the Fed funds swaps or whatever.
+It's like you just look at worth.
+No, I like I like I love work, too, but
+like a simple we have it on the
+Bloomberg now poly market.
+Will there be three rate cuts this year?
+That is also a useful instrument to
+have.
+But there are a lot of things the
+prediction markets have and again that a
+are that.
+But I you know I like a lot of them I
+like looking at election odds.
+I like looking at whether the odds of
+like some company what they're going to
+like.
+I think there's a lot of useful signal
+from them.
+It's also true that the platforms are
+largely sports betting at this point.
+Right.
+Right.
+How much signal do you actually need
+about I don't know, the Super Bowl?
+I'm sure some people are really into it.
+But from a yeah, trading from a sort of
+from a financial regulation standpoint,
+it's a different question.
+Yeah.
+Anyway, all right.
+Shall we leave it there?
+And it's also true, by the way, that the
+Trump family is very invested, quite
+literally into this space.
+And I think that quite reasonably
+should, you know, raise some questions
+about like how policy is being made
+about the growth of this industry.
+Incentives.
+Yeah, for sure.
+Okay.
+Shall we now leave it there.
+Let's leave it there.
+Okay.
+This has been another episode of the Off
+Thoughts podcast.
+I'm Tracy Alloway.
+You can follow me @TracyAlloway and
+I'm Joe Weisenthal.
+You can follow me @thestalwart.
+Follow our guest, Michael Selig.
+He's @MichaelSelig.
+Follow our producers, Carmen Rodriguez,
+@CarmenArmen
+Dashiell Bennett, @dashbot and
+Cale Brooks @CaleBrooks.
+And if you enjoy Odd Lots and you
+want more Odd Lots content, then go
+to Bloomberg.com/oddlots
+You can find our daily newsletter and
+some of our other writings, and you can
+chat with fellow listeners.
+24-7 about this topic discord.gg/oddlots
+
+And if you enjoyed this conversation,
+then please leave a comment or like the
+video or better yet, subscribe.
+Thanks for watching.
