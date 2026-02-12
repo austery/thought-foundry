@@ -1,0 +1,12447 @@
+I
+ think
+ the
+ expectation
+ is
+ that
+ demand
+
+
+and
+ amount
+ of
+ tokens
+ generated
+ for
+ the
+
+
+enterprise
+ will
+ completely
+ jump
+ once
+ you
+
+
+are
+ not
+ bound
+ anymore
+ by
+ humans
+ asking
+
+
+questions
+ or
+ reading
+ them.
+ As
+ soon
+ as
+
+
+you
+ have
+ enough
+ trust
+ to
+ have
+ agents
+
+
+running
+ in
+ the
+ background,
+ you're
+ not
+
+
+really
+ limited
+ by
+ the
+ number
+ of
+ tokens.
+
+
+The
+ term
+ we
+ use
+ is
+ control.
+ The
+ software
+
+
+stack
+ once
+ deployed
+ is
+ in
+ the
+ hands
+ of
+
+
+our
+ customers.
+ They
+ own
+ the
+ model
+
+
+changes
+ that
+ we
+ make.
+ And
+ I
+ think
+ it's
+
+
+really
+ important
+ as
+ a
+ customer
+ to
+
+
+consider
+ that
+ your
+ expertise
+ and
+ what
+
+
+makes
+ your
+ company
+ valuable
+ stays
+ yours.
+
+
+>> Hi,
+ I'm
+ Matt
+ Turk.
+ Welcome
+ back
+ to
+ the
+
+
+Mad
+ Podcast.
+ Today
+ we
+ have
+ a
+ special
+
+
+episode
+ with
+ Timote
+ Lacro,
+ the
+ CTO
+ and
+
+
+co-founder
+ of
+ Mistrol,
+ the
+ company
+ that
+
+
+proved
+ that
+ you
+ could
+ build
+ frontier
+
+
+models
+ with
+ a
+ fraction
+ of
+ the
+ compute
+ of
+
+
+the
+ US
+ giants.
+ But
+ recently,
+ Mistrol
+ has
+
+
+quietly
+ evolved
+ into
+ a
+ much
+ more
+
+
+ambitious
+ full
+ stack
+ industrial
+ power,
+
+
+building
+ not
+ just
+ the
+ models,
+ but
+ the
+
+
+platform,
+ the
+ deployment
+ stack,
+ and
+
+
+their
+ own
+ massive
+ supercomputing
+
+
+clusters.
+ We
+ covered
+ a
+ lot
+ of
+ ground
+ in
+
+
+this
+ one,
+ the
+ engineering
+ behind
+ Mistral
+
+
+3,
+ what
+ sovereign
+ AI
+ actually
+ means
+ in
+
+
+practice,
+ and
+ Tim's
+ contrarian
+ view
+ on
+
+
+why
+ trust
+ matters
+ more
+ than
+ autonomy
+ for
+
+
+agents.
+ If
+ you're
+ tired
+ of
+ the
+ AI
+ hype,
+
+
+Tim
+ is
+ refreshingly
+ nononsense.
+ Please
+
+
+enjoy
+ this
+ great
+ conversation
+ with
+
+
+Timote
+ LRA.
+
+
+>> Hey
+ Timote,
+ welcome.
+
+
+>> Hey.
+
+
+>> So,
+ as
+ I
+ was
+ prepping
+ for
+ this,
+ I
+ was
+
+
+struck
+ by
+ how
+ much
+ has
+ been
+ going
+ on
+ at
+
+
+Mistrol
+ over
+ the
+ last
+ few
+ months.
+ I
+
+
+think
+ most
+ people
+ probably
+ know
+ Mistrol
+
+
+as
+ a
+ provider
+ of
+ open-source
+ models.
+ It
+
+
+seems
+ that
+ you
+ guys
+ evolved
+ from
+ an
+ AI
+
+
+lab
+ to
+ more
+ of
+ a
+ full
+ stack
+ solution
+
+
+focused
+ on
+ enterprise
+ and
+ sovereign
+
+
+customers.
+ So
+ just
+ to
+ set
+ it
+ up,
+ in
+ the
+
+
+last
+ year
+ you
+ guys
+ raised
+ a€
+ 1.7
+ billion
+
+
+euros
+ series
+ C
+ led
+ by
+ ASML
+ at
+ an
+ 11.7
+
+
+billion
+ post
+ money
+ valuation.
+ you
+ launch
+
+
+a
+ bunch
+ of
+ models
+ which
+ we're
+ going
+ to
+
+
+talk
+ about
+ is
+ the
+ big
+ vision
+ behind
+ all
+
+
+of
+ this
+ that
+ enterprises
+ and
+ sovereign
+
+
+states
+ are
+ going
+ to
+ need
+ their
+ own
+ AI
+
+
+infrastructure
+ and
+ MR
+ is
+ going
+ to
+ be
+ the
+
+
+provider.
+
+
+>> Uh
+ so
+ the
+ big
+ vision
+ has
+ been
+ evolving
+
+
+and
+ as
+ you
+ stated
+ we
+ started
+ uh
+ as
+ a
+
+
+company
+ that
+ built
+ models
+ uh
+ because
+
+
+with
+ Arthur
+ and
+ Guom
+ this
+ was
+ what
+ we
+
+
+knew
+ how
+ to
+ do
+ at
+ the
+ start.
+ The
+ premise
+
+
+on
+ which
+ we
+ built
+ Misual
+ AI
+ was
+
+
+immediately
+ solving
+ for
+ enterprise
+ needs
+
+
+uh
+ and
+ we
+ started
+ with
+ open
+ weights
+
+
+model.
+ After
+ this
+ uh
+ and
+ working
+ with
+
+
+enterprise
+ we
+ realized
+ uh
+ the
+ need
+ for
+
+
+basically
+ the
+ rest
+ of
+ the
+ stack.
+ So
+ we
+
+
+built
+ uh
+ the
+ serving
+ platform
+ because
+
+
+infrastructure
+ was
+ needed.
+ Um
+ and
+ then
+
+
+all
+ of
+ the
+ tooling
+ around
+ it
+ uh
+ was
+ also
+
+
+something
+ that
+ we
+ saw
+ was
+ missing.
+ more
+
+
+than
+ the
+ tooling,
+ it
+ also
+ requires
+ a
+ lot
+
+
+of
+ work
+ and
+ expertise
+ still
+ to
+ get
+ deep
+
+
+into
+ uh
+ an
+ enterprise
+ workflows
+ and
+
+
+really
+ help
+ that
+ transformation.
+ And
+ so
+
+
+we
+ built
+ that
+ uh
+ FDE
+ function
+ and
+ more
+
+
+recently
+ uh
+ with
+ MSR
+ compute
+ uh
+ we're
+
+
+going
+ a
+ bit
+ lower
+ uh
+ in
+ the
+ stack
+ as
+
+
+well.
+ So
+ we've
+ done
+ all
+ of
+ this
+ uh
+
+
+because
+ it
+ was
+ required
+ for
+ enterprise
+
+
+success
+ uh
+ while
+ still
+ continuing
+ uh
+ on
+
+
+our
+ models
+ journey.
+ All
+ of
+ this
+ stack
+ uh
+
+
+being
+ modular
+ is
+ really
+ important
+ to
+ us
+
+
+as
+ it
+ gives
+ full
+ control
+ to
+ u
+ enterprise
+
+
+and
+ our
+ clients
+ as
+ to
+ which
+ part
+ of
+ the
+
+
+stack
+ they
+ decide
+ to
+ uh
+ own
+ and
+ control
+
+
+which
+ is
+ maybe
+ more
+ involved
+ or
+ that
+
+
+they
+ decide
+ to
+ have
+ serverless
+ or
+
+
+basically
+ this
+ modularity
+ that
+ we
+ like.
+
+
+>> All
+ right.
+ So
+ let's
+ take
+ some
+ of
+ those
+
+
+modular
+ components
+ uh
+ in
+ in
+ order.
+ Let's
+
+
+start
+ with
+ mistral
+ compute.
+ So
+ that
+ was
+
+
+a
+ big
+ announcement
+ uh
+ I
+ guess
+ in
+ June
+ of
+
+
+2025
+ putting
+ a
+ big
+ partnership
+ with
+
+
+Nvidia
+ to
+ um
+ help
+ with
+ this
+ effort.
+ Uh
+
+
+what's
+ the
+ current
+ status?
+ Is
+ that
+ live
+
+
+yet?
+ Are
+ you
+ building
+ it?
+ You
+ know,
+ how
+
+
+does
+ one
+ go
+ about
+ building
+ data
+ centers
+
+
+or
+ or
+ leveraging
+ data
+ centers
+ in
+ Europe?
+
+
+>> Maybe
+ first
+ to
+ go
+ into
+ the
+ reasons
+ uh
+
+
+why
+ we
+ decided
+ to
+ start
+ building
+ our
+ own
+
+
+data
+ centers.
+ uh
+ we
+ tried
+ uh
+ a
+ lot
+ of
+
+
+different
+ partners
+ over
+ the
+ years
+ and
+ we
+
+
+realized
+ that
+ our
+ use
+ uh
+ of
+ the
+ AI
+
+
+compute
+ for
+ large
+ scale
+ training
+ was
+ not
+
+
+necessarily
+ well
+ understood
+ by
+ a
+ lot
+ of
+
+
+providers
+ and
+ our
+ uh
+ need
+ for
+ stability
+
+
+especially
+ like
+ when
+ you
+ run
+ inference
+
+
+on
+ a
+ few
+ GPUs
+ or
+ when
+ you
+ run
+ small
+
+
+scale
+ trainings
+ on
+ a
+ hundreds
+ of
+ GPUs
+
+
+margin
+ for
+ error
+ is
+ a
+ lot
+ larger
+ than
+
+
+when
+ you
+ run
+ trainings
+ on
+ uh
+ thousands
+
+
+of
+ GPUs
+ at
+ the
+ same
+ time.
+ And
+ so
+ to
+
+
+address
+ this
+ need
+ for
+ stability,
+ we
+ saw
+
+
+a
+ way
+ for
+ us
+ to
+ basically
+ build
+ our
+ own
+
+
+data
+ centers
+ and
+ maintain
+ it
+ with
+ our
+
+
+understanding
+ of
+ what
+ quality
+ looks
+
+
+like.
+ And
+ so
+ that
+ was
+ why
+ we
+ uh
+ launched
+
+
+MRL
+ compute.
+ And
+ when
+ we
+ decided
+ to
+ do
+
+
+it,
+ we
+ also
+ realized
+ well
+ maybe
+ others
+
+
+will
+ benefit
+ from
+ it.
+ We
+ launched
+ into
+
+
+uh
+ a
+ bigger
+ uh
+ basically
+ development
+
+
+than
+ what
+ was
+ previously
+ intended.
+ And
+
+
+so
+ this
+ was
+ announced
+ in
+ June
+ as
+ you
+
+
+said
+ since
+ then
+ the
+ building
+ of
+ the
+
+
+facility
+ has
+ progressed
+ quite
+ well.
+ It's
+
+
+in
+ the
+ south
+ of
+ Paris
+ and
+ we
+ are
+ right
+
+
+now
+ running
+ through
+ the
+ stabilization
+ uh
+
+
+stabilization
+ of
+ the
+ first
+ trench.
+ Uh
+ so
+
+
+it's
+ uh
+ quite
+ a
+ large
+ data
+ center
+ so
+
+
+delivery
+ doesn't
+ happen
+ in
+ one
+ day.
+ And
+
+
+the
+ first
+ part
+ of
+ this
+ data
+ center
+ is
+
+
+something
+ that
+ we
+ are
+ working
+ on
+ as
+ we
+
+
+speak.
+ We
+ have
+ a
+ few
+ jobs
+ running
+ and
+
+
+we're
+ fine-tuning
+ uh
+ basically
+ all
+ of
+
+
+the
+ last
+ uh
+ things
+ uh
+ to
+ run
+ at
+ speed
+
+
+and
+ with
+ the
+ right
+ stability.
+
+
+>> Okay,
+ great.
+ And
+ uh
+ did
+ I
+ understand
+
+
+correctly,
+ it's
+ going
+ to
+ be
+ for
+ your
+
+
+customers
+ and
+ your
+ own
+ needs
+ uh
+ around
+
+
+training,
+ but
+ also
+ you'll
+ be
+ providing
+
+
+it
+ as
+ a
+ service
+ to
+ others
+ uh
+ in
+ in
+
+
+Europe
+ and
+ beyond.
+
+
+>> Yeah,
+ exactly.
+ So
+ we
+ will
+ use
+ part
+ of
+
+
+that
+ capacity
+ for
+ ourselves
+ as
+ one
+ of
+
+
+our
+ training
+ clusters
+ but
+ we
+ will
+ also
+
+
+provide
+ a
+ managed
+ Kubernetes
+ and
+ managed
+
+
+serum
+ stack
+ on
+ top.
+
+
+>> Okay.
+ Any
+ uh
+ lessons
+ learned
+ so
+ far?
+ I
+
+
+mean
+ as
+ you
+ said
+ you
+ guys
+ come
+ from
+ a
+
+
+very
+ deep
+ background
+ in
+ in
+ AI
+ and
+ AI
+
+
+research.
+ It's
+ a
+ whole
+ different
+ thing
+
+
+to
+ build
+ a
+ whole
+ like
+ data
+ center
+
+
+facility.
+ How
+ have
+ you
+ gone
+ about
+ it
+ and
+
+
+uh
+ what
+ are
+ some
+ things
+ that
+ that
+
+
+surprised
+ you
+ and
+ any
+ lessons
+ so
+ far?
+ As
+
+
+most
+ uh
+ new
+ experiences
+ as
+ a
+ founder,
+ I
+
+
+relied
+ on
+ the
+ knowledge
+ of
+ others.
+ Uh
+
+
+and
+ so
+ I
+ was
+ uh
+ lucky
+ to
+ have
+ a
+ very
+ a
+
+
+few
+ seasoned
+ uh
+ HPC
+ experts
+ uh
+ and
+ and
+ a
+
+
+lot
+ of
+ uh
+ cloud
+ software
+ experts
+ as
+ well
+
+
+to
+ build
+ that
+ solution.
+ For
+ me
+
+
+personally,
+ and
+ it's
+ one
+ of
+ the
+ things
+ I
+
+
+love
+ about
+ uh
+ my
+ position
+ at
+ Mistral
+ is
+
+
+that
+ I
+ get
+ to
+ uh
+ discover
+ so
+ many
+ new
+
+
+things
+ uh
+ and
+ so
+ many
+ new
+ problems
+ I
+
+
+hadn't
+ thought
+ possible.
+ having
+ to
+ learn
+
+
+to
+ like
+ all
+ of
+ the
+ different
+ parts
+ of
+
+
+building
+ a
+ data
+ center,
+ all
+ of
+ the
+
+
+different
+ trades
+ that
+ you
+ have
+ to
+
+
+coordinate,
+ uh
+ all
+ of
+ the
+ potential
+ um
+
+
+synchronization
+ uh
+ between
+ all
+ of
+ the
+
+
+different
+ trades.
+ I
+ mean,
+ it's
+ a
+ huge
+
+
+building.
+ It
+ involves
+ hundreds
+ of
+ people
+
+
+working
+ on
+ it.
+ You
+ have
+ this
+ then
+ when
+
+
+you
+ uh
+ stand
+ up
+ the
+ thing,
+ uh
+ you
+ have
+
+
+to
+ question
+ what
+ works.
+ You
+ have
+ to
+
+
+filter
+ through
+ the
+ blades
+ that
+ are
+
+
+faulty.
+ It's
+ just
+ an
+ entire
+ new
+ area
+ of
+
+
+work
+ where
+ I
+ get
+ to
+ see
+ um
+ experts
+ in
+
+
+their
+ field
+ go
+ through
+ things
+ and
+ try
+ to
+
+
+explain
+ to
+ me
+ what
+ their
+ daily
+ work
+ is.
+
+
+It's
+ always
+ fascinating
+ to
+ see
+ um
+ an
+
+
+expert
+ in
+ his
+ field
+ like
+ do
+ something
+
+
+that
+ you
+ don't
+ know
+ how
+ to
+ do.
+ I
+ think
+
+
+the
+ logistics
+ of
+ it
+ uh
+ and
+ the
+ timelines
+
+
+are
+ also
+ quite
+ different
+ from
+ what
+ I'm
+
+
+usually
+ um
+ dealing
+ with
+ in
+ software
+ and
+
+
+research.
+ for
+ new
+ capacity
+ to
+ uh
+ be
+
+
+built,
+ you
+ have
+ to
+ plan
+ around
+ uh
+ having
+
+
+energy
+ available,
+ you
+ have
+ to
+ plan
+ for
+
+
+the
+ uh
+ space
+ to
+ be
+ available
+ and
+ on
+
+
+time.
+ And
+ so
+ it's
+ a
+ lot
+ more
+ long-term
+
+
+planning
+ than
+ a
+ few
+ software
+ features.
+
+
+>> How
+ do
+ you
+ guys
+ go
+ about
+ power
+ since
+ you
+
+
+mentioned
+ energy?
+
+
+>> In
+ what
+ we've
+ been
+ doing
+ in
+ Europe
+ so
+
+
+far
+ hasn't
+ been
+ a
+ huge
+ blocker,
+ although
+
+
+uh
+ there
+ is
+ constraint.
+ Uh
+ I
+ think
+ the
+
+
+grid
+ in
+ various
+ parts
+ of
+ Europe
+ is
+ not
+
+
+uh
+ necessarily
+ easily
+ extensible.
+ I
+ know
+
+
+it's
+ uh
+ an
+ issue
+ in
+ in
+ France.
+ A
+ lot
+ of
+
+
+the
+ sites
+ are
+ uh
+ contended.
+ Um
+ so
+ we
+
+
+we'll
+ see
+ how
+ it
+ all
+ develops.
+ We
+ are
+
+
+lucky
+ in
+ Europe
+ to
+ have
+ uh
+ very
+ uh
+ clean
+
+
+and
+ affordable
+ energy
+ uh
+ either
+ with
+ uh
+
+
+green
+ energy
+ in
+ the
+ Nordics
+ and
+ nuclear
+
+
+in
+ France.
+ So
+ it's
+ it's
+ been
+ relatively
+
+
+okay
+ for
+ us
+ today.
+ as
+ you
+ describe
+ this
+
+
+uh
+ what
+ comes
+ to
+ mind
+ is
+ the
+ gigantic
+
+
+amounts
+ of
+ money
+ that
+ are
+ being
+ invested
+
+
+in
+ the
+ US
+ around
+ uh
+ data
+ centers.
+ How
+ do
+
+
+you
+ guys
+ uh
+ go
+ about
+ that
+ from
+ a
+
+
+financing
+ standpoint
+ and
+ and
+ perhaps
+
+
+even
+ more
+ taking
+ a
+ step
+ back
+ if
+ you
+
+
+think
+ about
+ the
+ race
+ between
+ the
+ big
+ AI
+
+
+labs
+ globally
+ whether
+ that's
+ you
+ know
+
+
+the
+ opensis
+ and
+ anthropic
+ of
+ the
+ world
+
+
+and
+ and
+ XAI
+ uh
+ it
+ seems
+ that
+ all
+ of
+ them
+
+
+are
+ affiliated
+ with
+ a
+ gigantic
+ pocket
+ of
+
+
+money
+ somewhere
+ obviously
+ there's
+ Gemini
+
+
+and
+ Google
+ to
+ add
+ to
+ the
+ list
+ and
+ and
+
+
+Meta
+ I'm
+ just
+ curious
+ like
+ how
+ where
+ do
+
+
+you
+ guys
+ stand
+ on
+ on
+ that
+ you
+ have
+ a
+
+
+bunch
+ of
+ partnerships
+ with
+ um
+ SAP
+ and
+
+
+Nvidia
+ but
+ there
+ is
+ you
+ don't
+ have
+ one
+
+
+of
+ those
+ gigantic
+ companies
+ on
+ your
+ cap
+
+
+table.
+ So
+ how
+ do
+ you
+ how
+ do
+ you
+ think
+
+
+about
+ uh
+ competing
+ in
+ that
+ general
+
+
+context?
+ So
+ with
+ those
+ uh
+ companies,
+ so
+
+
+the
+ hypers
+ scalers,
+ it's
+ um
+ there
+ are
+
+
+two
+ parts
+ to
+ the
+ game
+ and
+ we've
+ played
+
+
+the
+ partnership
+ uh
+ part
+ quite
+ well
+ with
+
+
+them
+ and
+ we're
+ integrated
+ within
+
+
+Google's
+ Verex
+ uh
+ Amazon
+ Bedrock
+ and
+ uh
+
+
+Asia
+ Studio
+ and
+ that
+ is
+ uh
+ the
+ choice
+
+
+that
+ we've
+ made
+ in
+ term
+ of
+ having
+ access
+
+
+to
+ uh
+ gigantic
+ pockets
+ of
+ monies.
+ We've
+
+
+been
+ focused
+ on
+ efficiency
+ from
+ the
+
+
+start.
+ Uh
+ and
+ I
+ think
+ we've
+ done
+ quite
+
+
+well
+ at
+ building
+ uh
+ models
+ that
+ are
+ uh
+
+
+competitive
+ with
+ the
+ uh
+ investments
+ that
+
+
+we've
+ uh
+ put
+ in.
+ For
+ us,
+ it's
+ important
+
+
+to
+ build
+ uh
+ the
+ company
+ as
+ efficiently
+
+
+as
+ we
+ can.
+ uh
+ and
+ I
+ deeply
+ believe
+ that
+
+
+with
+ the
+ capabilities
+ that
+ we
+ have
+ today
+
+
+in
+ the
+ models
+ there
+ is
+ so
+ much
+ to
+ be
+
+
+unlocked
+ uh
+ in
+ enterprise
+ that
+ um
+ I
+ I
+
+
+don't
+ think
+ my
+ main
+ focus
+ uh
+ today
+ would
+
+
+be
+ into
+ going
+ into
+ the
+ gigawatts
+ of
+
+
+power
+ we
+ still
+ need
+ to
+ build
+ uh
+ so
+ much
+
+
+with
+ our
+ clients
+ and
+ unlock
+ so
+ much
+
+
+values
+ with
+ theap
+ capacities
+ that
+ we
+
+
+have
+
+
+>> all
+ right
+ so
+ let's
+ go
+ into
+ uh
+ the
+
+
+enterprise
+ reality
+ of
+ all
+ of
+ this
+ um
+ so
+
+
+if
+ I'm
+ an
+ enterprise
+ or
+ if
+ I'm
+ a
+
+
+sovereign
+ and
+ I
+ want
+ to
+ deploy
+ a
+ MR
+
+
+open-source
+ model
+ what
+ is
+ it
+ that
+ I
+ do
+
+
+these
+ days
+ with
+ everything
+ that
+ you
+ that
+
+
+you've
+ built
+ the
+ way
+ we
+ work
+ with
+ um
+
+
+enterprise
+ I
+ mean
+ as
+ you
+ mentioned
+ like
+
+
+we
+ have
+ a
+ few
+ of
+ our
+ models
+ that
+ are
+
+
+open
+ source
+ and
+ Apache
+ and
+ all
+ of
+ our
+
+
+clients
+ are
+ welcome
+ to
+ use
+ them
+ uh
+ as
+
+
+they
+ need
+ what
+ we
+ have
+ seen
+ in
+ terms
+ of
+
+
+success
+ is
+ that
+ given
+ the
+ current
+ stack
+
+
+It
+ still
+ requires
+ um
+ a
+ lot
+ of
+ expertise
+
+
+uh
+ to
+ manage
+ to
+ come
+ to
+ um
+ actual
+ value
+
+
+and
+ um
+ and
+ things
+ that
+ go
+ to
+ production.
+
+
+Basically
+ the
+ way
+ we
+ interact
+ is
+ that
+ we
+
+
+usually
+ stand
+ up
+ our
+ um
+ Misual
+ AI
+ studio
+
+
+which
+ is
+ our
+ platform
+ and
+ we
+ can
+ deploy
+
+
+uh
+ all
+ of
+ our
+ stack
+ on
+ the
+ client's
+
+
+choice
+ uh
+ of
+ deployment
+ methods.
+ So
+ it
+
+
+can
+ be
+ on
+ prem
+ uh
+ it
+ can
+ be
+ on
+ their
+ VPC
+
+
+it
+ can
+ be
+ on
+ uh
+ in
+ several
+ places.
+ The
+
+
+reason
+ we
+ do
+ this
+ is
+ that
+ it
+ lets
+ uh
+
+
+clients
+ build
+ where
+ their
+ data
+ is
+ uh
+ and
+
+
+without
+ having
+ to
+ shuffle
+ things
+ around
+
+
+which
+ as
+ I've
+ learned
+ as
+ a
+ CTO
+ is
+
+
+something
+ that
+ you
+ don't
+ want
+ to
+ do
+ ever
+
+
+because
+ it
+ asks
+ it
+ raises
+ a
+ lot
+ of
+
+
+questions
+ uh
+ and
+ it's
+ uh
+ quite
+ a
+
+
+stressful
+ thing
+ to
+ do.
+ So
+ once
+ this
+ is
+
+
+deployed
+ uh
+ we
+ then
+ uh
+ work
+ with
+ the
+
+
+business
+ units
+ to
+ understand
+ where
+ their
+
+
+pain
+ points
+ are.
+ Sometimes
+ it's
+
+
+knowledge
+ management
+ and
+ I
+ think
+ it's
+
+
+the
+ most
+ well-known
+ uh
+ use
+ case
+ from
+ the
+
+
+output
+ from
+ the
+ outside
+ of
+ the
+
+
+enterprise
+ world
+ but
+ it's
+ also
+ around
+ um
+
+
+automating
+ core
+ workflows
+ for
+ the
+
+
+enterprise.
+ Um
+ it's
+ you
+ know
+ some
+
+
+tooling
+ that
+ you
+ wouldn't
+ expect
+ where
+
+
+one
+ thing
+ that
+ we've
+ done
+ is
+ around
+ code
+
+
+modernization
+ uh
+ where
+ you
+ you
+ turn
+ a
+
+
+bunch
+ of
+ Excel
+ sheets
+ into
+ an
+ actual
+
+
+like
+ Python
+ app.
+ Uh
+ and
+ if
+ you
+ have
+ many
+
+
+many
+ of
+ those
+ sheets
+ then
+ potentially
+
+
+you
+ want
+ to
+ use
+ AI
+ for
+ this.
+ So
+ once
+ the
+
+
+infrastructure
+ is
+ built
+ then
+ we
+
+
+basically
+ look
+ for
+ what's
+ the
+ most
+
+
+valuable
+ to
+ the
+ customer
+ and
+ we
+ start
+
+
+acrewing
+ value
+ uh
+ inside
+ a
+ stack
+ of
+ AI
+
+
+assets
+ that
+ then
+ accelerates
+ all
+ of
+ the
+
+
+other
+ developments
+ with
+ that
+ customer
+
+
+>> and
+ is
+ part
+ of
+ the
+ idea
+ is
+ that
+ you
+ do
+
+
+actual
+ model
+ work
+ at
+ the
+ customer
+ and
+
+
+for
+ the
+ customers
+ in
+ particular
+
+
+fine-tuning.
+
+
+>> Yes,
+ we
+ we
+ customize
+ in
+ various
+ ways.
+ Uh
+
+
+so
+ we
+ have
+ done
+ continued
+ pre-training
+
+
+and
+ this
+ is
+ most
+ useful
+ when
+ you
+ want
+ to
+
+
+uh
+ change
+ the
+ capabilities
+ of
+ a
+ model
+ uh
+
+
+more
+ deeply.
+ So
+ we've
+ done
+ this
+ to
+
+
+sometimes
+ change
+ uh
+ the
+ mix
+ of
+ languages
+
+
+in
+ a
+ model
+ to
+ get
+ something
+ that's
+ a
+ lot
+
+
+better
+ at
+ thou
+ east
+ Asian
+ uh
+ languages
+
+
+for
+ example
+ or
+ you
+ could
+ have
+ require
+
+
+this
+ if
+ your
+ internal
+ data
+ uh
+ which
+
+
+doesn't
+ happen
+ on
+ the
+ public
+ web
+ is
+
+
+something
+ that's
+ so
+ new
+ uh
+ that
+ you
+ need
+
+
+a
+ large
+ amount
+ of
+ to
+ of
+ tokens
+ uh
+ to
+ get
+
+
+a
+ model
+ that
+ understands
+ it
+ and
+ becomes
+
+
+fluent
+ with
+ it.
+ So
+ we
+ do
+ uh
+ these
+ kinds
+
+
+of
+ continued
+ pre-training
+ fine-tuning.
+
+
+We
+ also
+ um
+ like
+ and
+ this
+ is
+ more
+ for
+ an
+
+
+efficiency
+ reason.
+ When
+ you
+ get
+ to
+
+
+smaller
+ models,
+ you
+ have
+ to
+ make
+
+
+trade-offs.
+ Uh
+ the
+ models
+ won't
+ be
+ as
+
+
+good
+ in
+ their
+ knowledge
+ of
+ the
+ world.
+
+
+And
+ so
+ when
+ you
+ lose
+ uh
+ a
+ lot
+ of
+ things,
+
+
+you
+ have
+ to
+ focus
+ on
+ what
+ you
+ really
+
+
+care
+ about.
+ And
+ so
+ this
+ is
+ typically
+
+
+important
+ if
+ you
+ want
+ really
+ uh
+ fast,
+
+
+really
+ cheap
+ uh
+ models
+ that
+ will
+ be
+
+
+really
+ good
+ at
+ a
+ specific
+ task.
+ It's
+
+
+also
+ useful
+ if
+ you
+ want
+ models
+ that
+ run
+
+
+on
+ the
+ edge
+ uh
+ that
+ get
+ very
+ very
+ tiny.
+
+
+Uh
+ and
+ so
+ for
+ all
+ of
+ these
+ fine-tuning
+
+
+is
+ a
+ tool
+ of
+ choice.
+ Another
+ uh
+ reason
+
+
+to
+ do
+ fine-tuning.
+ It
+ can
+ be
+ to
+ adapt
+ to
+
+
+uh
+ data
+ that's
+ not
+ necessarily
+ massive
+
+
+but
+ that's
+ also
+ not
+ available
+ on
+ the
+
+
+web.
+ So
+ typically
+ in
+ coding
+ uh
+ what
+
+
+happens
+ is
+ that
+ you
+ will
+ have
+ massive
+
+
+code
+ bases
+ sometimes
+ acrewed
+ over
+
+
+decades
+ uh
+ that
+ the
+ model
+ will
+ need
+ to
+
+
+be
+ able
+ to
+ uh
+ work
+ with
+ in
+ terms
+ of
+ uh
+
+
+having
+ like
+ vibe
+ uh
+ deployed
+ on
+ it
+
+
+typically
+ and
+ so
+ being
+ able
+ to
+ come
+ in
+
+
+not
+ move
+ the
+ code
+ base
+ and
+ uh
+ learn
+ an
+
+
+actual
+ coding
+ agent
+ for
+ that
+ codebase
+ is
+
+
+really
+ powerful
+ as
+ well.
+
+
+>> And
+ who
+ does
+ the
+ all
+ of
+ this
+ you
+ have
+
+
+evolved
+ towards
+ an
+ FDA
+ model.
+ So
+ we
+ have
+
+
+indeed
+ a
+ large
+ uh
+ FD
+ section.
+ It's
+ it's
+
+
+a
+ mix
+ of
+ software
+ and
+ uh
+ FDEEs
+ and
+ we
+
+
+split
+ our
+ FDES
+ into
+ what
+ we
+ called
+ um
+ AI
+
+
+engineers
+ and
+ applied
+ scientists.
+ Um
+ and
+
+
+so
+ uh
+ applied
+ scientists
+ will
+ tend
+ to
+
+
+use
+ the
+ tools
+ that
+ we've
+ just
+ uh
+ uh
+
+
+talked
+ about.
+ So
+ fine-tuning,
+ continued
+
+
+pre-training
+ and
+ the
+ likes
+ where
+ AI
+
+
+engineers
+ will
+ focus
+ more
+ on
+ adaptation
+
+
+to
+ the
+ enterprise
+ environment
+ and
+
+
+figuring
+ out
+ what
+ workflows
+ to
+ automate
+
+
+and
+ all
+ of
+ this.
+ They
+ work
+ with
+ the
+
+
+customers
+ to
+ make
+ sure
+ uh
+ that
+ the
+ use
+
+
+cases
+ are
+ indeed
+ providing
+ values
+ and
+
+
+going
+ to
+ production.
+ But
+ it's
+ also
+ a
+
+
+fantastic
+ way
+ for
+ us
+ to
+ understand
+ what
+
+
+matters
+ in
+ an
+ enterprise
+ context
+ and
+ be
+
+
+faster
+ at
+ building
+ the
+ right
+ platform.
+
+
+And
+ uh
+ again
+ those
+ customers
+ are
+ the
+
+
+kind
+ of
+ customer
+ for
+ whom
+ customization
+
+
+and
+ privacy
+ is
+ essential.
+ Uh
+ how
+ do
+ you
+
+
+how
+ do
+ you
+ position
+ again
+ open
+ of
+ the
+
+
+world
+ that
+ are
+ going
+ very
+ hard
+ at
+ the
+
+
+enterprise?
+ Is
+ that
+ data
+ sovereignty?
+ Is
+
+
+that
+ customization?
+
+
+>> The
+ term
+ we
+ use
+ is
+ control.
+ The
+ value
+
+
+that
+ we
+ see
+ is
+ both
+ in
+ our
+ expertise
+ and
+
+
+the
+ software
+ stack
+ that
+ we
+ provide.
+ The
+
+
+software
+ stack
+ once
+ deployed
+ uh
+ is
+ in
+
+
+the
+ hands
+ of
+ our
+ customers
+ and
+ they
+ can
+
+
+change
+ it,
+ they
+ can
+ add
+ to
+ it.
+ They
+ own
+
+
+model
+ changes
+ that
+ we
+ make
+ and
+ I
+ think
+
+
+it's
+ really
+ important
+ as
+ a
+ customer
+ to
+
+
+consider
+ that
+ your
+ expertise
+ and
+ what
+
+
+makes
+ your
+ company
+ valuable
+ stays
+ yours.
+
+
+And
+ so
+ in
+ working
+ with
+ us
+ and
+ building
+
+
+uh
+ because
+ it
+ takes
+ effort
+ uh
+ to
+ build
+
+
+an
+ AI
+ advantage
+ uh
+ today
+ and
+ so
+ having
+
+
+this
+ effort
+ built
+ into
+ uh
+ something
+ that
+
+
+you
+ own
+ is
+ I
+ think
+ a
+ choice
+ that
+ makes
+
+
+sense.
+
+
+>> Let's
+ talk
+ about
+ uh
+ agents
+ uh
+ obviously
+
+
+part
+ of
+ the
+ overall
+ effort
+ at
+ Mistrol.
+
+
+How
+ does
+ that
+ work?
+ Uh
+ how
+ do
+ you
+ uh
+
+
+build
+ an
+ agent
+ and
+ uh
+ what
+ key
+ use
+ cases
+
+
+have
+ you
+ seen
+ so
+ far?
+ Personally,
+ I
+
+
+think
+ I've
+ moved
+ uh
+ from
+ agents
+ to
+ uh
+
+
+workflows,
+ which
+ is
+ I
+ guess
+ an
+
+
+abstraction
+ uh
+ on
+ top.
+ Um
+ so
+ agents
+ are
+
+
+I
+ think
+ the
+ building
+ blocks
+ uh
+ where
+ you
+
+
+have
+ a
+ given
+ expected
+ input,
+ a
+ set
+ of
+
+
+tools
+ and
+ you
+ are
+ trying
+ to
+ reach
+ a
+ uh
+
+
+set
+ of
+ uh
+ you
+ have
+ a
+ goal
+ that
+ you
+ want
+
+
+to
+ reach.
+ The
+ set
+ of
+ inputs
+ uh
+ that
+
+
+we've
+ enabled
+ are
+ um
+ images,
+ text
+ uh
+ and
+
+
+audio.
+ When
+ you
+ build
+ an
+ agent,
+ to
+ me
+
+
+it's
+ really
+ important
+ that
+ you
+ build
+ it
+
+
+on
+ a
+ focused
+ uh
+ task
+ with
+ a
+ data
+ set
+
+
+that
+ you
+ understand
+ and
+ that
+ you
+ can
+
+
+iterate
+ on
+ and
+ that
+ you
+ can
+ improve.
+
+
+What
+ we
+ see
+ in
+ enterprise
+ is
+ rarely
+
+
+things
+ that
+ are
+ solved
+ with
+ agents
+
+
+because
+ that's
+ not
+ necessarily
+ where
+ you
+
+
+would
+ expect
+ uh
+ an
+ FDE
+ to
+ be
+ most
+
+
+useful.
+ Those
+ ideally
+ would
+ be
+ built
+ uh
+
+
+on
+ our
+ platform
+ by
+ the
+ customers
+
+
+directly.
+ Where
+ there
+ is
+ more
+ values
+
+
+value
+ is
+ in
+ uh
+ more
+ complex
+ workflows
+
+
+where
+ you
+ will
+ have
+ several
+ uh
+ agents
+
+
+interact
+ through
+ a
+ workflow
+ to
+ automate
+
+
+something
+ slightly
+ more
+ complex.
+ And
+ so
+
+
+that's
+ what
+ we've
+ been
+ focusing
+ on.
+ What
+
+
+would
+ be
+ an
+ example?
+
+
+>> An
+ example
+ is
+ something
+ that
+ we've
+ built
+
+
+uh
+ with
+ the
+ shipping
+ company
+ CMACGM
+
+
+where
+ we've
+ automated
+ the
+ uh
+ container
+
+
+release
+ process.
+ Uh
+ and
+ so
+ it's
+ um
+ a
+ use
+
+
+case
+ where
+ I
+ I
+ don't
+ know
+ how
+ familiar
+
+
+you
+ are
+ with
+ shipping.
+ I
+ wasn't
+ at
+
+
+first.
+ Uh
+ but
+ a
+ container
+ reaches
+ a
+ port
+
+
+and
+ you
+ have
+ to
+ uh
+ harbor
+ uh
+ probably
+ in
+
+
+English.
+ some
+ decision
+ has
+ to
+ be
+ made
+
+
+that
+ this
+ uh
+ container
+ is
+ ready
+ for
+
+
+release
+ to
+ the
+ uh
+ next
+ person
+ on
+ on
+ the
+
+
+line
+ to
+ handle
+ this
+ container
+ and
+ so
+
+
+there
+ are
+ lots
+ of
+ uh
+ checks
+ uh
+ that
+ need
+
+
+to
+ be
+ um
+ run
+ and
+ data
+ to
+ be
+ accessed
+ in
+
+
+the
+ back
+ end
+ uh
+ before
+ that
+ decision
+ is
+
+
+made.
+ So
+ as
+ you
+ can
+ imagine,
+ some
+ of
+
+
+those
+ containers
+ are
+ extremely
+ valuable
+
+
+and
+ you
+ can't
+ really
+ afford
+ a
+ mistake.
+
+
+And
+ so
+ what
+ we've
+ done
+ in
+ this
+ case
+ is
+
+
+an
+ application
+ that's
+ integrated
+ into
+ um
+
+
+how
+ these
+ uh
+ harbor
+ worker
+ work
+ and
+ it
+
+
+automates
+ a
+ lot
+ of
+ the
+ manual
+ work
+ that
+
+
+they
+ did
+ to
+ check
+ the
+ data
+ and
+ they
+ make
+
+
+the
+ final
+ decision
+ uh
+ given
+ all
+ of
+ the
+
+
+evidence.
+
+
+>> Okay,
+ this
+ is
+ super
+ interesting.
+
+
+Obviously
+ the
+ the
+ key
+ question
+ about
+
+
+agents
+ these
+ days
+ especially
+ when
+ they
+
+
+are
+ combined
+ into
+ workflows
+ is
+ the
+
+
+question
+ of
+ uh
+ autonomy.
+ How
+ do
+ you
+ guys
+
+
+think
+ about
+ it?
+ How
+ autonomous
+ are
+ those
+
+
+agents
+ uh
+ in
+ in
+ your
+ deployments?
+
+
+>> I
+ don't
+ know
+ if
+ it's
+ the
+ way
+ I
+ think
+
+
+about
+ it.
+ To
+ me
+ the
+
+
+better
+ question
+ usually
+ is
+ how
+ much
+ you
+
+
+trust
+ uh
+ the
+ agents
+ and
+ there
+ are
+ a
+ few
+
+
+dimensions
+ uh
+ around
+ this.
+ What
+ worries
+
+
+me
+ when
+ building
+ those
+ kind
+ of
+ workflows
+
+
+is
+ that
+ typically
+ if
+ you
+ want
+ the
+ value
+
+
+to
+ acrue
+ and
+ if
+ you
+ want
+ to
+ build
+ faster
+
+
+and
+ faster
+ the
+ more
+ workflows
+ that
+ you
+
+
+build,
+ what
+ you
+ will
+ want
+ to
+ do
+ is
+ uh
+
+
+reuse
+ assets
+ and
+ make
+ them
+ reusable
+ by
+
+
+others.
+ Uh
+ as
+ soon
+ as
+ you
+ do
+ this
+ with
+
+
+agents,
+ you
+ then
+ start
+ to
+ ask
+ the
+
+
+question,
+ well
+ this
+ agent
+ has
+ access
+ to
+
+
+some
+ data
+ that
+ is
+ privileged
+ uh
+ but
+
+
+maybe
+ this
+ other
+ agent
+ uh
+ is
+ publishing
+
+
+it
+ to
+ something
+ that's
+ public.
+ You
+ might
+
+
+have
+ governance
+ concerns
+ where
+ uh
+ some
+
+
+agent
+ is
+ acting
+ on
+ something
+ very
+
+
+critical
+ and
+ you
+ don't
+ know
+ necessarily
+
+
+that
+ the
+ data
+ that
+ it
+ got
+ uh
+ has
+ been
+
+
+approved
+ or
+ something
+ like
+ this.
+ It's
+
+
+really
+ a
+ new
+ way
+ to
+ develop
+ where
+ uh
+ the
+
+
+parts
+ of
+ your
+ workflows
+ have
+ to
+ be
+
+
+trusted.
+ Each
+ of
+ them
+ to
+ be
+ trusted
+
+
+requires
+ uh
+ quite
+ a
+ lot
+ of
+ tooling
+ uh
+
+
+and
+ quite
+ a
+ lot
+ of
+ observability
+ uh
+ to
+
+
+get
+ confidence
+ and
+ to
+ basically
+ enable
+
+
+this
+ at
+ scale
+ in
+ an
+ enterprise.
+ So
+ the
+
+
+question
+ that
+ you're
+ asking
+ about
+
+
+autonomy
+ to
+ me
+ this
+ is
+ something
+ that
+ I
+
+
+see
+ happening
+ when
+ I
+ vibe
+ code.
+ Sure
+
+
+like
+ longer
+ running
+ tasks
+ and
+ making
+ and
+
+
+improving
+ on
+ this
+ is
+ going
+ to
+ be
+
+
+critical
+ and
+ we're
+ uh
+ working
+ on
+ it
+
+
+daily.
+ But
+ today,
+ the
+ problems
+ that
+
+
+we're
+ solving
+ on
+ the
+ software
+ side
+ of
+
+
+things
+ are
+ really
+ about
+ how
+ you
+ trust
+
+
+what
+ you've
+ built
+ and
+ how
+ you
+ improve
+
+
+it.
+ Uh,
+ and
+ how
+ you
+ allow
+ an
+ entire
+
+
+company
+ to
+ build
+ on
+ it
+ with
+ confidence.
+
+
+>> Maybe
+ describe
+ some
+ of
+ the
+ things
+ that
+
+
+you
+ guys
+ have
+ built
+ in
+ studio
+ around
+
+
+governance
+ as
+ you
+ mentioned
+ and
+
+
+trackability
+ and
+ uh
+ registry
+ all
+ the
+
+
+things.
+ What
+ what
+ are
+ the
+ key
+ components
+
+
+of
+ an
+ a
+ modern
+ agent
+ suite?
+ So
+ workflows
+
+
+as
+ I
+ mentioned
+ is
+ something
+ that
+ uh
+
+
+we've
+ worked
+ a
+ lot
+ on
+ uh
+ with
+ our
+
+
+customers
+ and
+ it's
+ not
+ GA
+ yet.
+ Uh
+ so
+
+
+look
+ out
+ for
+ this
+ uh
+ sometimes
+ in
+ the
+
+
+future
+ but
+ it's
+ also
+ one
+ of
+ the
+ benefits
+
+
+uh
+ of
+ working
+ with
+ enterprise
+ we
+ can
+ um
+
+
+have
+ a
+ lot
+ of
+ design
+ partners
+ and
+ once
+
+
+we're
+ confident
+ uh
+ with
+ the
+ solution
+ uh
+
+
+we
+ we
+ make
+ it
+ G.
+ So
+ a
+ workflow
+ solution
+
+
+is
+ critical.
+ Workflows
+ are
+ built
+ on
+
+
+various
+ uh
+ model
+ capabilities.
+ So
+ u
+
+
+vision,
+ audio
+ and
+ text
+ and
+ reasoning.
+ It
+
+
+is
+ important
+ to
+ uh
+ have
+ a
+ registry
+ of
+ uh
+
+
+connectors
+ and
+ MCPS.
+ Uh
+ and
+ so
+ for
+ this
+
+
+we
+ have
+ uh
+ our
+ connections.
+ The
+
+
+observability
+ is
+ an
+ area
+ where
+ we're
+
+
+still
+ working
+ on.
+ Um
+ it's
+ important
+ for
+
+
+me
+ to
+ be
+ able
+ to
+ iterate
+ and
+ really
+
+
+define
+ uh
+ precisely
+ what
+ an
+ agent
+ does
+
+
+and
+ control
+ each
+ of
+ its
+ goal
+ uh
+ and
+ see
+
+
+how
+ it's
+ progressing
+ um
+ being
+ able
+ to
+
+
+maintain
+ evaluations
+ and
+ uh
+ build
+ build
+
+
+on
+ them.
+ What
+ is
+ um
+ difficult
+ in
+ this
+
+
+entire
+ sea
+ of
+ complexity
+ is
+ that
+ you
+
+
+also
+ have
+ to
+ maintain
+ proper
+ versioning
+
+
+and
+ tagging
+ and
+ think
+ about
+ how
+ you're
+
+
+going
+ to
+ deploy
+ and
+ improve
+ uh
+ upon
+ what
+
+
+you've
+ built.
+ So
+ let's
+ say
+ you've
+ built
+
+
+a
+ kickass
+ workflow
+ based
+ on
+ a
+ lot
+ of
+
+
+agents
+ and
+ models
+ that
+ Mrol
+ has
+ released
+
+
+in
+ the
+ past.
+ Then
+ a
+ few
+ months
+ pass
+ and
+
+
+there
+ are
+ new
+ sets
+ of
+ models
+ that
+ are
+
+
+out.
+ Maybe
+ you
+ can
+ simplify
+ that
+
+
+workflow.
+ Maybe
+ the
+ next
+ uh
+ mist
+ 4
+ is
+
+
+good
+ enough
+ that
+ you
+ can
+ factor
+ out
+ a
+
+
+few
+ agents.
+ Basically,
+ what
+ you
+ need
+ to
+
+
+be
+ able
+ to
+ do
+ is
+ create
+ a
+ new
+ agent,
+ run
+
+
+it
+ on
+ the
+ same
+ set
+ of
+ inputs
+ and
+ outputs
+
+
+and
+ control
+ that
+ you
+ haven't
+ broken
+
+
+anything
+ and
+ then
+ deploy
+ it
+ in
+ the
+ wild.
+
+
+All
+ of
+ this
+ software
+ uh
+ suite
+ basically
+
+
+which
+ has
+ been
+ built
+ for
+ software
+
+
+development
+ over
+ years
+ I
+ feel
+ it
+ isn't
+
+
+there
+ yet
+ uh
+ in
+ the
+ AI
+ world
+ and
+ that's
+
+
+what
+ we're
+ building
+
+
+>> as
+ I'm
+ sure
+ you've
+ seen
+ there
+ was
+ uh
+ for
+
+
+the
+ last
+ few
+ weeks
+ in
+ startup
+ and
+
+
+venture
+ circles
+ there's
+ been
+ this
+ whole
+
+
+idea
+ of
+ the
+ context
+ graph
+ as
+ an
+
+
+infrastructure
+ that
+ made
+ the
+ rounds.
+ Is
+
+
+that
+ something
+ that
+ you
+ think
+ about
+ or
+ a
+
+
+layer
+ that
+ would
+ basically
+ uh
+ enable
+ one
+
+
+to
+ know
+ how
+ the
+ agents
+ made
+ a
+ decision
+
+
+and
+ how
+ those
+ decision
+ relate
+ to
+ one
+
+
+another?
+
+
+>> I've
+ seen
+ this
+ indeed
+ and
+ I
+ think
+ there
+
+
+are
+ two
+ uh
+ levels
+ to
+ that
+ discussion.
+
+
+the
+ part
+ that
+ you
+ mentioned
+ at
+ the
+ end
+
+
+where
+ uh
+ it's
+ interesting
+ to
+ know
+ how
+ an
+
+
+agent
+ came
+ to
+ so
+ in
+ that
+ discussion
+ when
+
+
+when
+ we
+ talk
+ about
+ understanding
+ how
+ an
+
+
+agent
+ came
+ to
+ a
+ decision
+ or
+ an
+ action
+
+
+the
+ game
+ is
+ really
+ to
+ understand
+ how
+ a
+
+
+human
+ uh
+ agent
+ really
+ made
+ this
+
+
+decision.
+ It's
+ understanding
+ how
+ an
+
+
+enterprise
+ does
+ what
+ it
+ does
+ and
+ it's
+
+
+certainly
+ interesting.
+ uh
+ what
+ keeps
+ me
+
+
+up
+ at
+ night
+ and
+ what
+ I
+ really
+ want
+ to
+
+
+solve
+ first
+ is
+ just
+ the
+ basic
+ idea
+ of
+
+
+gathering
+ a
+ workable
+ enterprise
+ context.
+
+
+Right
+ now
+ uh
+ with
+ uh
+ any
+ model
+ uh
+ and
+
+
+with
+ a
+ lot
+ of
+ effort
+ you
+ will
+ be
+ able
+ to
+
+
+get
+ some
+ connections
+ to
+ tools
+ and
+ you
+
+
+will
+ ask
+ a
+ questions
+ and
+ your
+ agent
+ will
+
+
+do
+ a
+ bunch
+ of
+ things.
+ it
+ will
+ realize
+
+
+that
+ oh
+ by
+ doing
+ five
+ API
+ calls
+ and
+
+
+three
+ joins
+ I
+ can
+ probably
+ get
+ uh
+ what
+
+
+Timothy
+ asked
+ immediately
+ what
+ should
+
+
+happen
+ is
+ that
+ um
+ all
+ of
+ that
+ uh
+
+
+discovery
+ and
+ all
+ of
+ that
+ intelligence
+
+
+should
+ be
+ stored
+ somewhere
+ to
+ be
+ reused.
+
+
+It's
+ not
+ really
+ how
+ things
+ happen.
+ It's
+
+
+just
+ basic
+ knowledge
+ uh
+ about
+ what
+ the
+
+
+infrastructure
+ of
+ the
+ company
+ is.
+ So
+
+
+knowing
+ where
+ the
+ tables
+ are,
+ what
+ they
+
+
+contain,
+ how
+ they're
+ joined.
+ So
+ all
+ of
+
+
+this
+ um
+ is
+ compute
+ that
+ should
+ be
+
+
+amortized
+ basically
+ and
+ to
+ me
+ it's
+
+
+really
+ the
+ entire
+ game
+ with
+ the
+ context
+
+
+engine
+ as
+ we
+ call
+ it
+ internally
+ is
+ to
+ um
+
+
+be
+ in
+ a
+ setup
+ where
+ over
+ time
+ knowledge
+
+
+of
+ the
+ company
+ and
+ the
+ context
+ that's
+
+
+available
+ to
+ the
+ agent
+ uh
+ acrru
+ and
+ is
+
+
+maintained.
+ The
+ second
+ order
+ thing
+ of
+ oh
+
+
+how
+ was
+ that
+ decision
+ reached?
+ Sure.
+ Uh
+
+
+it's
+ going
+ to
+ be
+ super
+ interesting
+ and
+
+
+it's
+ important,
+ but
+ right
+ now
+ I
+ feel
+
+
+we're
+ not
+ even
+ in
+ a
+ place
+ where
+ it's
+
+
+easy
+ for
+ an
+ enterprise
+ to
+ have
+ any
+
+
+worker
+ uh
+ in
+ it
+ be
+ able
+ to
+ build
+ an
+
+
+agent
+ that
+ has
+ access
+ to
+ the
+ right
+
+
+context.
+ For
+ this
+ to
+ happen,
+ you
+ have
+
+
+huge
+ uh
+ data
+ privacy
+ concern.
+ If
+ you
+
+
+want
+ this
+ to
+ be
+ efficient,
+ you
+ need
+ to
+
+
+give
+ access
+ to
+ uh
+ the
+ agent
+ system
+ to
+
+
+the
+ entire
+ uh
+ data
+ of
+ your
+ enterprise.
+
+
+And
+ there
+ is
+ going
+ to
+ be
+ arbbacks
+
+
+everywhere
+ and
+ you
+ need
+ to
+ make
+ this
+
+
+safe.
+
+
+>> Speaking
+ of
+ which,
+ what
+ what's
+ current
+
+
+reality
+ of
+ enterprise
+ deployments
+ of
+ of
+
+
+generative
+ AI
+ from
+ your
+ perspective?
+
+
+just
+ listening
+ to
+ like
+ some
+ of
+ the
+
+
+concern
+ like
+ since
+ like
+ we
+ very
+ early
+
+
+>> to
+ me
+ we
+ are
+ still
+ in
+ the
+ building
+ phase
+
+
+and
+ I
+ think
+ it's
+ kind
+ of
+ the
+ frustrating
+
+
+thing
+ for
+ enterprise
+ is
+ that
+ when
+ you
+
+
+come
+ to
+ um
+ a
+ chat
+ assistant
+ you
+ feel
+
+
+that
+ it's
+ it's
+ magic
+ and
+ it's
+ all
+ going
+
+
+to
+ work
+ but
+ as
+ most
+ things
+ that
+ have
+
+
+value
+ in
+ life
+ there
+ is
+ still
+ work
+ to
+ be
+
+
+done
+ uh
+ to
+ get
+ to
+ them
+ and
+ so
+ most
+ of
+
+
+the
+ enterprise
+ value
+ of
+ AI
+ will
+ happen
+
+
+once
+ you've
+ gone
+ through
+ that
+ first
+
+
+building
+ phase
+ of
+ just
+ setting
+ up
+ all
+ of
+
+
+the
+ machinery.
+ You've
+ got
+ to
+ set
+ up
+ all
+
+
+of
+ the
+ connections.
+ You've
+ got
+ to
+ make
+
+
+all
+ of
+ that
+ data
+ available.
+ And
+ the
+
+
+reality
+ is
+ even
+ despite
+ a
+ lot
+ of
+ work
+
+
+recently
+ to
+ make
+ u
+ data
+ more
+ available
+
+
+in
+ enterprise,
+ it's
+ still
+ not
+ easily
+
+
+available
+ in
+ the
+ format
+ and
+ at
+ the
+ scale
+
+
+that
+ we
+ need
+ uh
+ for
+ the
+ true
+ ROI
+ of
+ AI
+
+
+to
+ to
+ happen.
+ And
+ so
+ when
+ we
+ come
+ in
+ uh
+
+
+there
+ is
+ still
+ that
+ phase
+ of
+ work
+ that
+
+
+is
+ uh
+ just
+ work
+ uh
+ to
+ connect
+ everything
+
+
+and
+ then
+ be
+ able
+ to
+ build
+ on
+ it.
+
+
+>> So
+ do
+ you
+ think
+ we
+ are
+ years
+ away
+ from
+
+
+generi
+ actually
+ being
+ deployed
+ in
+ the
+
+
+enterprise?
+ not
+ years
+ uh
+ I
+ think
+ years
+
+
+singular
+ uh
+ it's
+ uh
+ also
+ to
+ be
+ fair
+ to
+
+
+us
+ we've
+ started
+ working
+ I
+ mean
+ the
+
+
+company
+ started
+ two
+ years
+ ago
+ and
+ so
+
+
+most
+ of
+ our
+ uh
+
+
+>> it's
+ a
+ good
+ reminder
+ right
+ it's
+ a
+ good
+
+
+reminder
+ that
+ like
+ you
+ guys
+ have
+ have
+
+
+done
+ all
+ of
+ this
+ and
+ the
+ company
+ was
+
+
+started
+ in
+ yeah
+ June
+ 23
+ right
+ if
+ I
+
+
+recall
+
+
+>> yeah
+ and
+ so
+ for
+ most
+ of
+ our
+ clients
+ uh
+
+
+we
+ we
+ started
+ working
+ with
+ them
+ recently
+
+
+the
+ tooling
+ uh
+ for
+ everyone
+ is
+ still
+ in
+
+
+its
+ infancy
+ And
+ so
+ I
+ hope
+ that
+ the
+
+
+tooling
+ will
+ stabil
+ stabilize
+ uh
+ and
+ I
+
+
+hope
+ that
+ we
+ will
+ have
+ true
+ value.
+ True
+
+
+value
+ to
+ me
+ is
+ really
+ okay
+ we've
+ gone
+
+
+through
+ that
+ first
+ phase
+ of
+ building
+
+
+connections
+ and
+ now
+ employees
+ of
+ that
+
+
+enterprise
+ are
+ able
+ to
+ use
+ everything
+
+
+that
+ we've
+ built.
+ Right
+ now
+ I
+ think
+
+
+we're
+ in
+ a
+ phase
+ where
+ we
+ build
+ siloed
+
+
+things
+ uh
+ because
+ we're
+ scared
+ of
+ uh
+
+
+data
+ going
+ through
+ walls
+ and
+ everything.
+
+
+And
+ so
+ to
+ me,
+ the
+ real
+ success
+ is
+ when
+
+
+you're
+ confident
+ enough
+ to
+ give
+ all
+ of
+
+
+that
+ control
+ back
+ to
+ the
+ company's
+
+
+employees
+ at
+ large
+ and
+ they
+ start
+ really
+
+
+building
+ on
+ it.
+
+
+>> You're
+ talking
+ about
+ MRO
+ in
+ particular
+
+
+about
+ the
+ industry
+ in
+ general,
+ right?
+ Is
+
+
+that
+ do
+ I
+ understand
+ this
+ correctly?
+ Uh
+
+
+because
+ obviously
+ that's
+ that's
+ the
+ big
+
+
+question,
+ right?
+ we
+ we
+ all
+ collectively
+
+
+building
+ this
+ whole
+ thing
+ and
+ data
+
+
+centers
+ and
+ models
+ and
+ pouring
+ uh
+
+
+billions
+ and
+ I
+ think
+ it's
+ pretty
+ clear
+
+
+that
+ from
+ a
+ personal
+ use
+ case
+ or
+ uh
+ from
+
+
+maybe
+ some
+ discrete
+ like
+ coding
+ use
+
+
+cases
+ like
+ the
+ the
+ demand
+ is
+ very
+ clear
+
+
+uh
+ but
+ the
+ big
+ question
+ is
+ whether
+
+
+demand
+ is
+ going
+ to
+ materialize
+ at
+ the
+
+
+same
+ level
+ as
+ the
+ extraordinary
+ level
+ of
+
+
+supply
+ we're
+ building
+
+
+>> yeah
+ around
+ this
+ I
+ think
+ the
+ expectation
+
+
+is
+ that
+ demand
+ and
+ basically
+ amount
+ of
+
+
+tokens
+ generated
+ uh
+ for
+ the
+ enterprise
+
+
+will
+ uh
+ completely
+ jump
+ once
+ you
+ are
+ not
+
+
+bound
+ anymore
+ by
+ humans
+ asking
+ questions
+
+
+or
+ reading
+ them.
+ As
+ soon
+ as
+ you
+ have
+
+
+enough
+ trust
+ uh
+ to
+ have
+ agents
+ running
+
+
+in
+ the
+ background,
+ as
+ soon
+ as
+ you've
+ set
+
+
+them
+ to
+ run
+ a
+ bunch
+ of
+ ETLs,
+ as
+ you've
+
+
+got
+ them
+ running
+ lots
+ of
+ workloads,
+ uh
+
+
+and
+ you've
+ got
+ them
+ consolidating
+ data
+
+
+and
+ knowledge
+ across
+ your
+ entire
+
+
+company,
+ then
+ you're
+ not
+ really
+ um
+
+
+limited
+ by
+ the
+ number
+ of
+ tokens
+ that
+
+
+humans
+ can
+ create
+ or
+ read.
+ And
+ so
+ we
+ I
+
+
+think
+ everyone
+ in
+ the
+ industry
+ expect
+
+
+the
+ demand
+ to
+ jump
+ at
+ that
+ point.
+ And
+
+
+the
+ reality
+ is
+ for
+ this
+ to
+ happen,
+ you
+
+
+just
+ need
+ a
+ lot
+ of
+ boring
+ software
+ and
+
+
+control
+ and
+ things
+ like
+ this.
+
+
+>> It's
+ amazing
+ how
+ much
+ uh
+ all
+ of
+ this
+ is
+
+
+engineering,
+ right?
+ Versus
+ just
+ sheer
+
+
+performance
+ of
+ uh
+ of
+ models.
+
+
+>> Yeah,
+ it's
+ a
+ lot
+ of
+ plumbing
+ and
+ the
+
+
+goal
+ is
+ to
+ make
+ all
+ of
+ this
+ plumbing
+
+
+easy
+ and
+ easier
+ and
+ to
+ make
+ it
+ faster.
+
+
+>> All
+ right.
+ And
+ you
+ said
+ we're
+ about
+ a
+
+
+year
+ away.
+ I
+
+
+>> I'm
+ not
+ the
+ most
+ optimistic
+ person.
+ It
+
+
+might
+ be
+ faster.
+ Uh
+ who
+ knows?
+ And
+ we
+ we
+
+
+talked
+ about
+ use
+ cases
+ a
+ bit
+ already,
+
+
+but
+ let's
+ just
+ put
+ that
+ one
+ to
+ to
+ bed
+
+
+because
+ it's
+ such
+ an
+ important
+ question.
+
+
+What
+ do
+ you
+ think
+ are
+ the
+ kind
+ of
+ the
+
+
+banger
+ uh
+ use
+ cases
+ in
+ the
+ enterprise?
+
+
+Let's
+ assume
+ like
+ all
+ agents
+ work
+ uh
+ in
+
+
+in
+ a
+ in
+ a
+ workflow
+ kind
+ of
+ way
+ that
+ you
+
+
+describe
+ uh
+ based
+ on
+ either
+ your
+ uh
+
+
+industry
+ watch
+ or
+ or
+ more
+ specifically
+
+
+talking
+ to
+ your
+ customers.
+ What
+ is
+ it
+
+
+that
+ is
+ going
+ to
+ generate
+ a
+ amazing
+ ROI
+
+
+beyond
+ coding
+ which
+ is
+ pretty
+
+
+established
+ at
+ this
+ at
+ this
+ stage?
+
+
+>> Yeah,
+ there
+ are
+ several
+ dimensions
+ to
+
+
+this.
+ Coding
+ is
+ an
+ obvious
+ one
+ and
+ um
+ to
+
+
+me
+ to
+ get
+ the
+ full
+ um
+ ROI
+ of
+ coding
+ you
+
+
+need
+ customization.
+ Uh
+ because
+ a
+ lot
+ of
+
+
+ROI
+ is
+ unlocked
+ uh
+ on
+ like
+ sprawling
+
+
+code
+ bases
+ that
+ are
+ completely
+
+
+impossible
+ to
+ know
+ for
+ uh
+ for
+ something
+
+
+that's
+ been
+ trained
+ on
+ the
+ web.
+ uh
+ if
+
+
+you've
+ got
+ uh
+ an
+ enterprise
+ that's
+ been
+
+
+building
+ its
+ own
+ like
+ domain
+ specific
+
+
+languages
+ for
+ years,
+ you'll
+ need
+ some
+
+
+customization
+ for
+ an
+ agent
+ to
+ come
+ in
+
+
+and
+ be
+ competent
+ uh
+ in
+ that
+ respect.
+ Um
+
+
+so
+ coding
+ is
+ definitely
+ a
+ big
+ one.
+ Um
+ if
+
+
+everything
+ uh
+ comes
+ true
+ as
+ I
+ hope
+ I
+
+
+think
+ there
+ is
+ still
+ a
+ huge
+ jump
+ in
+ how
+
+
+we
+ accelerate
+ knowledge
+ worker
+ um
+ and
+ I
+
+
+believe
+ the
+ magical
+ experience
+ of
+ uh
+ you
+
+
+go
+ to
+ your
+ chat
+ assistant
+ it's
+ connected
+
+
+to
+ your
+ system
+ and
+ you
+ can
+ ask
+ it
+
+
+anything
+ uh
+ about
+ the
+ enterprise
+ just
+
+
+hasn't
+ realized
+ yet
+ and
+ it's
+ really
+
+
+obvious
+ uh
+ when
+ you
+ see
+ the
+ kind
+ of
+
+
+queries
+ that
+ people
+ are
+ making
+ expecting
+
+
+them
+ to
+ just
+ work.
+ And
+ to
+ me
+ who's
+
+
+building
+ the
+ system,
+ it
+ it
+ feels
+ like
+
+
+magic.
+ Like
+ if
+ you
+ need
+ to
+ somehow
+ send
+
+
+an
+ email
+ to
+ three
+ people
+ and
+ coordinate
+
+
+a
+ meeting
+ and
+ also
+ like
+ gather
+ data
+ from
+
+
+some
+ BI
+ system,
+ it's
+ just
+ something
+ that
+
+
+requires
+ um
+ a
+ lot
+ more
+ plumbing
+ and
+
+
+capabilities
+ that
+ we
+ have
+ today.
+ Um
+ so
+
+
+that's
+ going
+ to
+ be
+ a
+ huge
+ lift.
+ And
+ I
+
+
+think
+ the
+ last
+ one
+ which
+ is
+ maybe
+ closer
+
+
+to
+ my
+ heart
+ is
+ really
+ when
+ we
+ start
+ to
+
+
+customize
+ models
+ to
+ uh
+ a
+ kind
+ of
+ data
+
+
+that
+ is
+ particular
+ to
+ an
+ industry.
+ So
+
+
+typically
+ if
+ we
+ uh
+ work
+ in
+ oil
+ and
+ gas
+
+
+they
+ will
+ have
+ systemic
+ data
+ that
+ we
+ can
+
+
+help
+ uh
+ understand
+ and
+ make
+ sense
+ of.
+ If
+
+
+we
+ work
+ with
+ um
+ computer
+ assisted
+
+
+designs,
+ uh
+ they
+ might
+ have
+ uh
+ full
+
+
+databases
+ of
+ specific
+ data
+ formats
+ that
+
+
+are
+ not
+ widely
+ understood
+ by
+ the
+ most
+
+
+general
+ models
+ yet.
+ And
+ if
+ we
+ manage
+ to
+
+
+build
+ a
+ system
+ where
+ in
+ a
+ light
+ touch
+
+
+way
+ from
+ us
+ or
+ in
+ in
+ my
+ dream
+ world,
+ we
+
+
+don't
+ really
+ have
+ to
+ intervene.
+ It's
+ all
+
+
+uh
+ self-s
+ served
+ for
+ the
+ customers.
+ they
+
+
+can
+ consolidate
+ that
+ data
+ and
+ then
+ build
+
+
+themselves
+ a
+ model
+ that
+ really
+
+
+understands
+ what
+ their
+ actual
+ uh
+ private
+
+
+IP
+ is
+ made
+ of
+ and
+ make
+ sense
+ of
+ this.
+ Uh
+
+
+then
+ I'll
+ be
+ super
+ happy
+ and
+ I
+ think
+
+
+there
+ is
+ huge
+ value
+ to
+ unlock
+ there.
+
+
+>> Great.
+ Where
+ does
+ the
+ edge
+ uh
+ fit
+ in
+ all
+
+
+of
+ this?
+
+
+>> There
+ are
+ a
+ few
+ reasons
+ to
+ go
+ edge.
+ Uh
+
+
+first
+ there
+ are
+ some
+ regions
+ where
+ it's
+
+
+more
+ convenient
+ to
+ um
+ be
+ able
+ to
+ work
+
+
+without
+ internet
+ and
+ there
+ are
+ also
+ a
+
+
+lot
+ of
+ capabilities
+ that
+ don't
+
+
+necessarily
+ require
+ uh
+ a
+ huge
+ model.
+ So
+
+
+if
+ you
+ just
+ need
+ something
+ that
+ goes
+ uh
+
+
+voice
+ to
+ action
+ on
+ any
+ device
+ uh
+ today
+
+
+with
+ uh
+ typically
+ the
+ voxal
+ models
+ that
+
+
+we
+ develop
+ this
+ is
+ doable.
+ Again,
+ an
+
+
+area
+ where
+
+
+the
+ more
+ uh
+ focused
+ your
+ use
+ case
+ is,
+
+
+the
+ smaller
+ you
+ can
+ make
+ the
+ model
+
+
+through
+ fine-tuning
+ or
+ um
+ through
+ just
+
+
+distillation
+ in
+ a
+ in
+ an
+ even
+ smaller
+
+
+architecture.
+ I
+ think
+ voice
+ to
+ uh
+ action
+
+
+is
+ going
+ to
+ be
+ a
+ big
+ use
+ case.
+ I
+ think
+
+
+it
+ will
+ simplify
+ a
+ lot
+ uh
+ the
+ current
+
+
+stacks
+ uh
+ for
+ these
+ types
+ of
+ things.
+
+
+There
+ is
+ also
+ some
+ privacy
+ things
+ uh
+
+
+where
+ you
+ could
+ imagine
+ uh
+ all
+ of
+ the
+
+
+context
+ consolidation
+ stays
+ on
+ your
+
+
+personal
+ device
+ and
+ for
+ most
+ things
+ uh
+
+
+you
+ can
+ deal
+ with
+ a
+ small
+ model
+ uh
+ that
+
+
+answers
+ a
+ lot
+ of
+ your
+ questions
+ and
+ then
+
+
+you
+ potentially
+ can
+ gate
+ uh
+ what
+ goes
+
+
+out
+ to
+ uh
+ another
+ like
+ cloud-based
+
+
+models.
+ I
+ myself
+ take
+ the
+ train
+ a
+ lot.
+
+
+Uh
+ I
+ like
+ having
+ coding
+ assistance.
+ uh
+
+
+having
+ uh
+ DevTool
+ run
+ on
+ my
+ laptop
+ while
+
+
+I
+ code
+ on
+ the
+ train
+ is
+ uh
+ comfortable
+
+
+despite
+ the
+ bad
+ Wi-Fi
+
+
+>> and
+ uh
+ presumably
+ there
+ are
+ some
+ uh
+
+
+defense
+ uh
+ use
+ cases
+ as
+ well.
+ So
+ you
+ you
+
+
+guys
+ do
+ quite
+ a
+ bit
+ of
+ defense
+ work
+ as
+ I
+
+
+understand
+ it
+ with
+ France
+ with
+ with
+
+
+Germany.
+ I
+ think
+ you
+ you
+ mentioned
+ some
+
+
+partnership
+ with
+ Helsing
+ is
+ AI
+ on
+ drones
+
+
+and
+ that
+ kind
+ of
+ stuff.
+ Is
+ that
+ a
+
+
+reality?
+
+
+>> A
+ reality
+ it's
+ uh
+ it's
+ something
+ that
+ we
+
+
+work
+ on.
+ Yes,
+ we
+ have
+ a
+ robotics
+
+
+division
+ that
+ works
+ with
+ these
+ uh
+
+
+partners.
+ Having
+ a
+ very
+ um
+ well-
+
+
+definfined
+ use
+ cases
+ uh
+ makes
+ us
+ able
+ to
+
+
+really
+ take
+ the
+ model
+ down
+ to
+ u
+ lighter
+
+
+uh
+ types
+ of
+ sizes.
+ Um
+ and
+ it's
+ of
+ course
+
+
+uh
+ use
+ cases
+ where
+ control
+ is
+ super
+
+
+critical
+ uh
+ and
+ you
+ need
+ to
+ be
+ um
+ yeah
+
+
+able
+ to
+ really
+ validate
+ the
+ solution.
+
+
+>> All right,
+ let's
+ switch
+ to
+ the
+ model
+
+
+part
+ of
+ the
+ discussion.
+ In
+ December,
+ you
+
+
+guys
+ uh
+ released
+ Mistrol
+ 3,
+ which
+ was
+ a
+
+
+big
+ release
+ still
+ with
+ thee
+
+
+architecture,
+ which
+ is
+ at
+ the
+ core
+ of
+
+
+what
+ you
+ guys
+ have
+ been
+ um
+ doing.
+ You
+
+
+mentioned
+ efficiency
+ uh
+ earlier
+ in
+ the
+
+
+conversation.
+ maybe
+ walk
+ us
+ through
+ the
+
+
+general
+ thinking
+ and
+ and
+ approach
+ like
+
+
+in
+ a
+ highly
+ competitive
+ world
+ uh
+ of
+ uh
+
+
+AI
+ models
+ both
+ in
+ terms
+ of
+ closed
+ source
+
+
+but
+ also
+ very
+ much
+ open
+ source
+ and
+ all
+
+
+the
+ Chinese
+ labs.
+ What
+ is
+ it
+ that
+ you
+
+
+guys
+ are
+ trying
+ to
+ do
+ and
+ how
+ do
+ you
+
+
+position?
+ Yeah.
+ So
+ we've
+ released
+
+
+Mistral
+ Large
+ 3
+ which
+ is
+ uh
+ an
+ MOE.
+ MOEs
+
+
+are
+ uh
+ really
+ nice
+ systems
+ to
+ train
+ uh
+
+
+because
+ of
+ the
+ lower
+ uh
+ amount
+ of
+ flops
+
+
+which
+ uh
+ makes
+ us
+ able
+ to
+ push
+
+
+performances
+ um
+ a
+ lot
+ more
+ uh
+ during
+
+
+training.
+ They
+ are
+ not
+ necessarily
+ the
+
+
+best
+ formats
+ for
+ uh
+ on-prem
+ deployment
+
+
+because
+ as
+ of
+ today
+ uh
+ if
+ you
+ want
+ to
+
+
+get
+ uh
+ the
+ best
+ efficiency
+ out
+ of
+ uh
+ a
+
+
+mixture
+ of
+ experts
+ model
+ you
+ require
+ a
+
+
+lot
+ of
+ volume
+ uh
+ because
+ you're
+ looking
+
+
+at
+ deployments
+ across
+ dozens
+ of
+ GPUs
+
+
+usually
+ um
+ and
+ to
+ justify
+ that
+ amount
+ of
+
+
+GPUs
+ uh
+ you
+ need
+ to
+ have
+ the
+ right
+
+
+throughput.
+ We
+ are
+ training
+ uh
+ large
+
+
+moes
+ to
+ get
+ the
+ best
+ performance
+ um
+ with
+
+
+the
+ most
+ efficiency
+ during
+ training.
+ We
+
+
+are
+ also
+ continuing
+ to
+ train
+ u
+ dense
+
+
+models
+ at
+ other
+ scales
+ because
+ depending
+
+
+on
+ the
+ environments
+ uh
+ in
+ which
+ our
+
+
+clients
+ want
+ to
+ deploy
+ this
+ might
+ be
+ the
+
+
+more
+ uh
+ costefficient
+ solution.
+ I
+ think
+
+
+both
+ architectures
+ are
+ still
+ valuable.
+
+
+um
+ on
+ edge
+ as
+ well.
+ Uh
+ sometimes
+ you
+
+
+just
+ don't
+ have
+ the
+ RAM
+ capacity
+ uh
+ to
+
+
+deploy
+ something
+ like
+ a
+ sparse
+ mixture
+
+
+of
+ experts
+ and
+ so
+ going
+ dense
+ is
+ helpful
+
+
+there
+ as
+ well.
+ But
+ yeah,
+ definitely
+ for
+
+
+training
+ uh
+ mixture
+ of
+ experts
+ and
+ their
+
+
+lower
+ flops
+ are
+ very
+ interesting.
+
+
+>> What
+ is
+ the
+ ultimate
+ goal
+ of
+ the
+ model
+
+
+effort?
+ I
+ mean
+ clearly
+ you
+ guys
+ are
+ a
+
+
+frontier
+ AI
+ lab
+ but
+ um
+ are
+ you
+ trying
+ to
+
+
+create
+ the
+ the
+ best
+ models
+ and
+ and
+ solve
+
+
+AGI
+ or
+ are
+ you
+ trying
+ to
+ be
+ the
+ best
+
+
+open-source
+ model
+ compared
+ to
+ the
+
+
+Chinese
+ labs
+ or
+ you
+ know
+ whatever
+ open
+
+
+source
+ eventually
+ comes
+ out
+ of
+ the
+ uh
+ US
+
+
+what
+ is
+ it
+ that
+ you're
+ trying
+ to
+ do
+
+
+>> we're
+ trying
+ to
+ get
+ the
+ best
+ uh
+ models
+
+
+that
+ we
+ can
+ and
+ the
+ model
+ that's
+ most
+
+
+useful
+ for
+ uh
+ the
+ use
+ cases
+ that
+ we
+
+
+cover
+ uh
+ in
+ enterprise.
+ And
+ so
+ typically
+
+
+with
+ the
+ rise
+ of
+ uh
+ agentic
+ uh
+ behavior,
+
+
+one
+ thing
+ that's
+ very
+ important
+ is
+ how
+
+
+you
+ deal
+ with
+ uh
+ various
+ contexts,
+ how
+
+
+you
+ deal
+ with
+ various
+ um
+ documents
+ uh
+
+
+being
+ added
+ to
+ the
+ input.
+ And
+ so
+ having
+
+
+the
+ capabilities
+ to
+ do
+ architecture
+
+
+iterations
+ really
+ trying
+ new
+ things
+ in
+
+
+terms
+ of
+ model
+ training
+ is
+ critical.
+ Um
+
+
+so
+ we're
+ pushing
+ the
+ boundaries
+ of
+ what
+
+
+the
+ current
+ models
+ can
+ do
+ with
+ uh
+ the
+
+
+compute
+ capacity
+ that
+ we
+ have
+ but
+ we're
+
+
+also
+ trying
+ to
+ focus
+ on
+ the
+ things
+ that
+
+
+are
+ is
+ most
+ annoying
+ uh
+ in
+ our
+
+
+deployments
+ today.
+ And
+ so
+ one
+ of
+ the
+
+
+consideration
+ that
+ has
+ been
+ solved
+ with
+
+
+a
+ few
+ harness
+ uh
+ tricks
+ is
+ the
+ context
+
+
+of
+ uh
+ those
+ agentic
+ systems.
+ So
+ it's
+
+
+visible
+ typically
+ in
+ vibe
+ coding
+ but
+
+
+it's
+ um
+ definitely
+ uh
+ applicable
+ to
+ a
+
+
+lot
+ of
+ other
+ use
+ cases
+ where
+ through
+ all
+
+
+of
+ the
+ tool
+ calls
+ you'll
+ have
+ to
+
+
+uh
+ consolidate
+ uh
+ and
+ summarize
+ the
+
+
+context
+ to
+ be
+ able
+ to
+ fit
+ everything
+ and
+
+
+uh
+ have
+ the
+ model
+ focus
+ on
+ the
+ right
+
+
+parts.
+ To
+ me
+ this
+ is
+ just
+ an
+ artifact
+ of
+
+
+the
+ current
+ architectures.
+
+
+uh
+ we're
+ trying
+ to
+ fit
+ uh
+ things
+ in
+ a
+
+
+linear
+ context
+ windows
+ where
+ essentially
+
+
+the
+ questions
+ that
+ we're
+ asking
+ aren't
+
+
+really
+ necessarily
+ all
+ linear.
+ Um
+ and
+ so
+
+
+we
+ rely
+ today
+ on
+ the
+ file
+ system
+ for
+
+
+this
+ and
+ that
+ I
+ think
+ that
+ was
+ the
+ big
+
+
+change
+ in
+ u
+ and
+ realization
+ through
+ vibe
+
+
+coding
+ is
+ that
+ agents
+ are
+ good
+ enough
+ at
+
+
+uh
+ manipulating
+ file
+ systems
+ that
+ they
+
+
+can
+ use
+ this
+ as
+ a
+ replacement
+ for
+ uh
+
+
+their
+ context
+ window.
+ Basically
+ uh
+ they
+
+
+can
+ select
+ parts
+ of
+ what
+ they
+ want
+ to
+
+
+read.
+ they
+ can
+ select
+ parts
+ of
+ the
+ tool
+
+
+results
+ uh
+ and
+ this
+ minimizes
+ uh
+ the
+
+
+context
+ length
+ requirements.
+ This
+ is
+ the
+
+
+state
+ today.
+ I
+ think
+ we
+ can
+ do
+ much
+
+
+better
+ and
+ I
+ think
+ there
+ is
+ a
+ lot
+ of
+ uh
+
+
+improvements
+ to
+ be
+ done
+ on
+ those
+ types
+
+
+of
+ uh
+ questions.
+
+
+>> Do
+ your
+ agents
+ run
+ on
+ sandboxes?
+
+
+>> It
+ depends
+ on
+ the
+ types
+ of
+ agents.
+ Uh
+
+
+but
+ the
+ answer
+ would
+ be
+ yes.
+ If
+ it's
+ uh
+
+
+if
+ it's
+ coding
+ agents,
+ usually
+ uh
+ we
+
+
+have
+ uh
+ sandboxes
+ that
+ will
+ let
+ the
+
+
+agent
+ iterate
+ uh
+ and
+ run.
+ I
+ think
+ the
+
+
+depth
+ of
+ the
+ uh
+ isolation
+ will
+ depend
+ on
+
+
+the
+ use
+ case.
+ Uh
+ typically
+ if
+ the
+ file
+
+
+system
+ is
+ just
+ representing
+ textual
+
+
+context
+ and
+ you're
+ not
+ expecting
+ the
+
+
+agent
+ to
+ do
+ much
+ action
+ on
+ it,
+ then
+ you
+
+
+don't
+ really
+ need
+ a
+ full
+ sandbox.
+ Uh
+ you
+
+
+just
+ need
+ some
+ representation
+ of
+ that
+
+
+context
+ as
+ a
+ file
+ system
+ and
+ it
+ can
+ be
+
+
+any
+ sort
+ of
+ abstraction.
+ But
+ if
+ you
+ are
+
+
+I
+ don't
+ know
+ typically
+
+
+running
+ asynchronous
+ code
+ development
+
+
+then
+ yes
+ you
+ need
+ a
+ sandbox.
+
+
+>> Great.
+ What
+ is
+ the
+ current
+ constraint
+
+
+that
+ um
+ you
+ guys
+ are
+ facing
+ to
+ make
+ uh
+
+
+MR
+ 4
+ when
+ it
+ eventually
+ comes
+ out
+ do
+
+
+much
+ better
+ than
+ ML
+ 3.
+ Is
+ that
+ a
+
+
+question
+ of
+ MR
+ compute
+ or
+ is
+ that
+ a
+
+
+question
+ of
+ of
+ data
+ and
+ uh
+ in
+ particular
+
+
+are
+ you
+ guys
+ doing
+ anything
+ around
+
+
+synthetic
+ data
+ that
+ you
+ can
+ talk
+ about?
+
+
+Definitely
+ compute
+ and
+ uh
+ the
+ current
+
+
+deployment
+ that
+ we
+ have
+ will
+ help
+ uh
+ as
+
+
+it's
+ going
+ to
+ be
+ giving
+ us
+ a
+ lot
+ more
+
+
+grace
+ blackwell
+ capacity
+ than
+ we
+ had
+ in
+
+
+the
+ past.
+ And
+ so
+ that's
+ uh
+ something
+
+
+that
+ we're
+ very
+ excited
+ about.
+ And
+ when
+
+
+you
+ add
+ uh
+ compute,
+ you
+ also
+ have
+ to
+ add
+
+
+data.
+ And
+ so
+ we've
+ been
+ hard
+ at
+ work
+ uh
+
+
+making
+ sure
+ that
+ our
+ uh
+ data
+ mixtures
+
+
+are
+ uh
+ as
+ high
+ quality
+ as
+ ever
+ and
+
+
+growing
+ in
+ size.
+ But
+ as
+ you
+ mentioned,
+
+
+one
+ of
+ the
+ ways
+ to
+ do
+ this
+ is
+ through
+
+
+synthetic
+ synthetic
+ data.
+ In
+ terms
+ of
+ um
+
+
+where
+ we
+ use
+ synthetic
+ data
+ the
+ most.
+ I
+
+
+think
+ a
+ lot
+ of
+ the
+ interesting
+ work
+
+
+that's
+ happening
+ is
+ for
+ the
+
+
+post-training
+ part
+ where
+ we
+ can
+ um
+ build
+
+
+environments
+ uh
+ that
+ look
+ similar
+ to
+ uh
+
+
+an
+ enterprise
+ and
+ then
+ uh
+ try
+ to
+ uh
+
+
+synthetically
+ create
+ queries
+ that
+ are
+
+
+hard
+ and
+ that
+ will
+ require
+ multiple
+
+
+hops.
+ And
+ so
+ all
+ of
+ this
+ work
+ um
+ is
+ in
+
+
+addition
+ to
+ the
+ coding
+ work,
+ the
+
+
+reasoning
+ work
+ is
+ really
+ what
+ makes
+ the
+
+
+final
+ model
+ able
+ to
+ perform
+ uh
+ in
+ the
+
+
+various
+ uh
+ environments
+ that
+ we
+ work
+ in.
+
+
+So
+ before
+ it
+ was
+ about
+ uh
+ acrewing
+ world
+
+
+knowledge
+ and
+ the
+ uh
+ web
+ helps
+ a
+ lot
+
+
+with
+ this.
+ Now
+ it's
+ more
+ and
+ more
+ about
+
+
+acquiring
+ knowhow.
+ Uh
+ and
+ for
+ this
+ uh
+
+
+it's
+ really
+ about
+ um
+ trying
+ to
+ find
+ what
+
+
+our
+ uh
+ customers
+ are
+ trying
+ to
+ do,
+
+
+trying
+ to
+ replicate
+ it
+ inside
+ of
+ our
+
+
+training
+ environment
+ and
+ uh
+ let
+ the
+ the
+
+
+model
+ run
+ basically.
+
+
+>> You
+ mentioned
+ post-training
+ and
+ that's
+
+
+one
+ of
+ the
+ key
+ topics
+ of
+ the
+ last
+ 12
+
+
+months
+ in
+ particular
+ this
+ evolution
+ of
+
+
+um
+ LMS
+ uh
+ into
+ systems
+ with
+ both
+
+
+pre-training
+ and
+ post-
+ training
+ and
+ a
+
+
+lot
+ of
+ reinforcement
+ learning.
+ Where
+ do
+
+
+you
+ guys
+ uh
+ fall
+ in
+ that
+ spectrum?
+ Are
+
+
+you
+ uh
+ pushing
+ a
+ lot
+ of
+ uh
+ reinforcement
+
+
+learning?
+ Do
+ you
+ believe
+ that
+
+
+pre-training
+ has
+ still
+ room
+ to
+ grow?
+ How
+
+
+do
+ you
+ think
+ about
+ it?
+
+
+>> Yeah,
+ everything
+ still
+ has
+ room
+ to
+ grow.
+
+
+What
+ I'm
+ interested
+ in
+ as
+ the
+ CTO
+ is
+
+
+really
+ how
+ you
+ make
+ uh
+ all
+ of
+ the
+ steps
+
+
+of
+ the
+ pipeline
+ uh
+ work
+ well
+ together
+
+
+and
+ how
+ everyone
+ can
+ uh
+ develop
+ most
+
+
+efficiently.
+ Um,
+ typically
+ what
+ happens
+
+
+in
+ uh
+ post
+ training
+ is
+ that
+ you
+ will
+
+
+have
+ a
+ team
+ that's
+ working
+ on
+ uh
+
+
+improving
+ code.
+ You
+ will
+ have
+ another
+
+
+team
+ that's
+ improving
+ um
+ different
+ uh
+
+
+enterprise
+ uh
+ behaviors.
+ You
+ will
+ have
+
+
+another
+ team
+ that's
+ uh
+ improving
+ on
+ uh
+
+
+instruction
+ following.
+ Uh
+ and
+ so
+ all
+ of
+
+
+this
+ uh
+ at
+ some
+ point
+ has
+ to
+ come
+
+
+together
+ because
+ customers
+ aren't
+ happy
+
+
+if
+ you
+ require
+ them
+ to
+ deploy
+ five
+
+
+different
+ uh
+ models
+ to
+ get
+ their
+ job
+
+
+done.
+ There
+ is
+ really
+ an
+ internal
+ engine
+
+
+and
+ capability
+ around
+ making
+ all
+ of
+
+
+these
+ work
+ stream
+ come
+ together
+ uh
+ in
+
+
+the
+ way
+ that
+ you
+ expect
+ that
+ is
+ super
+
+
+interesting
+ to
+ build
+ and
+ so
+ but
+ yeah
+ uh
+
+
+internally
+ we're
+ building
+ and
+ improving
+
+
+all
+ of
+ the
+ parts
+ of
+ the
+ stack.
+ I
+ think
+
+
+the
+ post
+ training
+ is
+ very
+ rich
+ because
+
+
+it
+ also
+ touches
+ all
+ of
+ the
+ new
+ use
+ cases
+
+
+of
+ LLMs
+ and
+ I
+ think
+ it's
+ been
+ very
+
+
+exciting
+ to
+ see
+ just
+ all
+ of
+ the
+ the
+ new
+
+
+use
+ case
+ that
+ pop
+ up
+ every
+ day.
+ Anytime
+
+
+someone
+ on
+ Twitter
+ finds
+ a
+ new
+ exciting
+
+
+things
+ that
+ they've
+ done,
+ then
+ suddenly,
+
+
+you
+ know,
+ you've
+ got
+ to
+ make
+ it
+ this
+
+
+proof
+ of
+ concept
+ into
+ potentially
+ a
+ base
+
+
+capability
+ on
+ which
+ your
+ model
+ will
+
+
+perform
+ well.
+ And
+ that's
+ uh
+ potentially
+
+
+an
+ entire
+ stream
+ of
+ work
+ and
+ you've
+ got
+
+
+to
+ do
+ this
+ efficiently
+ and
+ prioritize.
+
+
+Well,
+
+
+>> where
+ doesing
+ fall
+ in
+ all
+ of
+ this?
+ Uh
+
+
+you
+ guys
+ launched
+ a
+ reasoning
+ model
+
+
+called
+ Magistro
+ a
+ few
+ months
+ ago.
+ Is
+
+
+that
+ is
+ that
+ a
+ big
+ priority?
+ So
+
+
+reasoning
+ is
+ a
+ a
+ big
+ priority
+ and
+ the
+
+
+interesting
+ thing
+ about
+ reasoning
+ was
+
+
+really
+ how
+ you
+ can
+ train
+ models
+ with
+
+
+reinforcement
+ learning.
+ And
+ so
+ it
+ was
+
+
+first
+ shown
+ through
+ reasoning
+ uh
+ because
+
+
+the
+ system
+ would
+ learn
+ to
+ create
+ better
+
+
+reasoning
+ traces
+ to
+ uh
+ get
+ to
+ better
+
+
+results.
+ But
+ the
+ system
+ is
+ the
+ same
+
+
+whether
+ you
+ create
+ reasoning
+ traces
+ or
+
+
+whether
+ you
+ iterate
+ on
+ the
+ tools
+ that
+
+
+you
+ call
+ or
+ mixing
+ both.
+ And
+ so
+ I
+ think
+
+
+more
+ and
+ more
+ the
+ way
+ to
+ train
+ uh
+ all
+ of
+
+
+this
+ uh
+ is
+ going
+ to
+ come
+ together
+ and
+
+
+sometimes
+ you'll
+ have
+ reasoning
+ traces,
+
+
+sometimes
+ they'll
+ be
+ long,
+ sometimes
+
+
+they'll
+ be
+ short,
+ sometimes
+ there
+ won't
+
+
+be
+ any
+ because
+ it's
+ not
+ necessary
+ and
+
+
+there's
+ no
+ real
+ difference
+ between
+
+
+creating
+ a
+ new
+ thinking
+ trace
+ or
+ calling
+
+
+the
+ right
+ tool.
+ It's
+ it's
+ all
+ the
+ same
+
+
+to
+ me
+ because
+ what
+ you're
+ optimizing
+ at
+
+
+the
+ end
+ is
+ what
+ is
+ the
+ best
+ uh
+ output
+
+
+for
+ the
+ model
+ to
+ create
+ before
+ it
+ gets
+ a
+
+
+results
+ to
+ uh
+ to
+ me.
+
+
+>> Great.
+ Let's
+ talk
+ about
+ uh
+ Devstrol
+
+
+2
+ and
+ the
+ Vibe
+ CLI.
+ So,
+ walk
+ us
+ through
+
+
+those
+ products
+ and
+ what
+ they
+ do
+ and
+ uh
+
+
+why
+ people
+ should
+ use
+ them.
+
+
+>> Sure.
+ Um
+ so
+ DevTool
+ is
+ our
+ uh
+ agent
+ tech
+
+
+coding
+ model
+ and
+ so
+ it's
+ something
+ that
+
+
+you
+ typically
+ vibe
+ code
+ with
+ and
+ you
+ are
+
+
+more
+ than
+ welcome
+ to
+ vibe
+ code
+ with
+ it
+
+
+through
+ our
+ CLI
+ aptly
+ named
+ vibe.
+ Value
+
+
+of
+ vibe
+ coding
+ and
+ why
+ we
+ focus
+ on
+ it.
+
+
+Coding
+ is
+ a
+ huge
+ use
+ case
+ in
+ enterprise
+
+
+um
+ and
+ especially
+ a
+ lot
+ of
+ our
+ clients
+
+
+have
+ uh
+ yeah
+ large
+ code
+ databases
+ where
+
+
+it's
+ helpful
+ for
+ us
+ uh
+ to
+ take
+ our
+
+
+system
+ and
+ customize
+ it
+ to
+ their
+
+
+codebase
+ to
+ let
+ um
+ our
+ agent
+ run.
+ Now
+
+
+the
+ devrol
+ and
+ agentic
+ coding
+ is
+ not
+
+
+only
+ about
+ uh
+ vibe
+ coding
+ the
+ same
+
+
+system
+ when
+ you
+ run
+ it
+ uh
+ asynchronously
+
+
+can
+ be
+ used
+ to
+ review
+ PRs.
+ uh
+ it
+ can
+ be
+
+
+used
+ to
+ check
+ code
+ for
+ specific
+
+
+conditions.
+ It
+ can
+ be
+ used
+ to
+ modernize
+
+
+code.
+ So
+ it's
+ applications
+ even
+ in
+
+
+coding
+ are
+ uh
+ quite
+ wide
+ as
+ I
+ alluded
+ to
+
+
+as
+ well.
+ Um
+ having
+ a
+ system
+ that
+ uh
+ is
+
+
+good
+ at
+ handling
+ a
+ file
+ system
+ is
+ more
+
+
+generally
+ very
+ interesting.
+ Uh
+ even
+ if
+
+
+you're
+ not
+ using
+ it
+ to
+ code,
+ you
+ can
+ use
+
+
+it
+ to
+ reason
+ uh
+ about
+ enterprise
+
+
+knowledge.
+ you
+ can
+ use
+ it
+ to
+ connect
+ to
+
+
+enterprise
+ systems
+ and
+ it's
+ to
+ me
+ it's
+
+
+the
+ basis
+ of
+ really
+ the
+ enterprise
+
+
+intelligence
+ that
+ we're
+ starting
+ to
+
+
+build
+ and
+ so
+ the
+ big
+ news
+ is
+ yeah
+ the
+
+
+that
+ those
+ systems
+ are
+ uh
+ going
+ GA
+ uh
+
+
+we've
+ got
+ uh
+ an
+ offer
+ where
+ chat
+ users
+
+
+so
+ Luca
+ our
+ assistant
+ um
+ will
+ also
+ uh
+
+
+get
+ the
+ ability
+ to
+ use
+ vibe
+ and
+ the
+
+
+associated
+ models
+ and
+ we're
+ trying
+ to
+ uh
+
+
+basically
+ make
+ that
+ usage
+ as
+ wide
+ as
+
+
+possible.
+ Another
+ thing
+ that
+ you
+ uh
+
+
+released
+ reasonably
+ recently
+ I
+ believe
+
+
+is
+ uh
+ OCR3.
+ What
+ does
+ that
+ do?
+ That
+
+
+enables
+ you
+ to
+ just
+ like
+ uh
+ scan
+ any
+ uh
+
+
+any
+ form
+ any
+ document.
+
+
+>> Yeah,
+ OCR
+ is
+ a
+ huge
+ use
+ case
+ in
+
+
+enterprise.
+ Uh
+ a
+ lot
+ of
+ our
+ customers
+
+
+have
+ I
+ mean
+ the
+ typical
+ example
+ is
+ KYC
+
+
+where
+ someone
+ will
+ submit
+ a
+ form
+ and
+ you
+
+
+need
+ to
+ input
+ that
+ information
+ in
+ a
+
+
+structured
+ way
+ in
+ your
+ systems
+ or
+ you
+
+
+need
+ to
+ reason
+ about
+ it.
+ And
+ so
+ OCR
+
+
+interestingly
+ is
+ uh
+ it's
+ not
+ the
+ types
+
+
+of
+ systems
+ that
+ I
+ would
+ have
+ expected
+ uh
+
+
+LLM
+ to
+ really
+ uh
+ make
+ large
+ strides
+ on.
+
+
+The
+ visual
+ reasoning
+ and
+ the
+ visual
+
+
+understanding
+ has
+ gotten
+ so
+ good
+ that
+
+
+it's
+ it's
+ just
+ an
+ easier
+ way
+ to
+ process
+
+
+things.
+ Uh
+ in
+ my
+ mind
+ you
+ have
+ any
+ sort
+
+
+of
+ input
+ um
+ and
+ you
+ can
+ get
+ the
+ the
+ data
+
+
+that
+ you
+ care
+ about.
+ As
+ I
+ mentioned,
+
+
+when
+ you
+ build
+ agents,
+ you
+ have
+ uh
+ a
+
+
+different
+ type
+ of
+ inputs
+ for
+ the
+ task
+
+
+that
+ you're
+ trying
+ to
+ solve.
+ Documents
+
+
+and
+ visual
+ informations
+ are
+ just
+ a
+ very
+
+
+very
+ frequent
+ kind
+ of
+ kind
+ of
+ input.
+ Uh
+
+
+sometimes
+ it's
+ a
+ lot
+ cheaper
+ uh
+ to
+ use
+ a
+
+
+small
+ OCR
+ model
+ to
+ just
+ get
+ the
+ text
+
+
+that
+ you
+ care
+ about
+ and
+ then
+ potentially
+
+
+post-process
+ it
+ or
+ deal
+ with
+ it
+ with
+
+
+another
+ system
+ than
+ to
+ run
+ it
+ through
+ a
+
+
+large
+ uh
+ multimodal
+ model
+ that
+ will
+ u
+
+
+basically
+ do
+ the
+ same
+ thing
+ but
+ at
+ a
+
+
+higher
+ cost.
+ Yeah,
+ you
+ mentioned
+
+
+multimodel.
+ To
+ to
+ which
+ extent
+ is
+
+
+mistrol
+ multimodel
+ or
+ to
+ which
+ extent
+ is
+
+
+that
+ um
+ voice
+ is
+ is
+ video
+ something
+ that
+
+
+you
+ guys
+ either
+ do
+ or
+ think
+ about
+ or
+ is
+
+
+that
+ just
+ not
+ a
+ big
+ enterprise
+ use
+ case?
+
+
+So
+ to
+ answer
+ on
+ the
+ first
+ part
+ of
+ the
+
+
+question
+ on
+ whether
+ uh
+ we
+ build
+
+
+multimodal
+ models.
+ Yes.
+ uh
+ it's
+ always
+ a
+
+
+balance
+ between
+ exploring
+ in
+ a
+
+
+direction,
+ getting
+ good
+ capabilities
+ and
+
+
+getting
+ the
+ first
+ model
+ out
+ there
+ and
+
+
+then
+ integrating
+ it
+ uh
+ into
+ the
+ trunk
+
+
+like
+ the
+ main
+ model
+ that
+ we
+ use
+ for
+
+
+everything
+ else.
+ And
+ so
+ those
+ will
+
+
+always
+ happen
+ at
+ separate
+ times
+ but
+ for
+
+
+uh
+ audio
+ um
+ we
+ have
+ uh
+ voxil
+ as
+ I
+
+
+mentioned
+ and
+ all
+ of
+ our
+ um
+ main
+ models
+
+
+uh
+ understand
+ images
+ and
+ can
+ reason
+
+
+about
+ them.
+ for
+ videos.
+ It's
+ a
+ subject
+
+
+that
+ we
+ tackle
+ through
+ the
+ lens
+ of
+
+
+robotics
+ uh
+ first
+ and
+ so
+ we're
+ doing
+ our
+
+
+first
+ explorations
+ on
+ that
+ topic.
+
+
+>> Okay.
+ Well,
+ again
+ the
+ the
+ velocity
+ uh
+
+
+has
+ been
+ super
+ interesting
+ to
+ uh
+ to
+ to
+
+
+watch.
+ I
+ um
+ again
+ appreciate
+ you
+ your
+
+
+reminding
+ us
+ that
+ you
+ guys
+ have
+ been
+
+
+doing
+ this
+ for
+ only
+ uh
+ a
+ couple
+ of
+
+
+years.
+ So
+ um
+ just
+ uh
+ very
+ impressive
+ all
+
+
+together.
+ maybe
+ take
+ taking
+ a
+ step
+ back
+
+
+and
+ thinking
+ all
+ of
+ this
+ in
+ terms
+ of
+ uh
+
+
+engineering
+ and
+ lessons
+ for
+ for
+ for
+
+
+builders.
+ So
+ as
+ we
+ alluded
+ to
+ a
+ couple
+
+
+of
+ times
+ through
+ the
+ conversation
+ like
+
+
+you
+ you
+ you
+ guys
+ are
+ doing
+ a
+ lot
+ with
+ uh
+
+
+comparatively
+ it's
+ always
+ it's
+ very
+
+
+relative
+ in
+ the
+ world
+ of
+ AI
+ less
+ uh
+
+
+resources.
+ How
+ have
+ you
+ uh
+ been
+ able
+ to
+
+
+do
+ this
+ from
+ an
+ efficiency
+ standpoint?
+
+
+We
+
+
+focused
+ on
+ the
+ parts
+ that
+ we
+ knew
+ would
+
+
+provide
+ the
+ most
+ uh
+ impact
+ uh
+ and
+ we
+
+
+focused
+ on
+ basically
+ what
+ we
+ could
+
+
+afford
+ at
+ different
+ times.
+ So
+ when
+ we
+
+
+started
+ and
+ we
+ had
+ uh
+ enough
+ resources
+
+
+to
+ train
+ uh
+ a
+ few
+ models
+ and
+ uh
+ then
+ we
+
+
+focused
+ on
+ getting
+ the
+ data
+ perfect
+
+
+because
+ we
+ knew
+ um
+ this
+ was
+ potentially
+
+
+not
+ the
+ most
+ exciting
+ part
+ of
+ the
+ work
+
+
+but
+ it
+ was
+ absolutely
+ critical
+ and
+ any
+
+
+improvement
+ uh
+ on
+ the
+ data
+ quality
+ would
+
+
+10x
+ the
+ uh
+ improvements
+ that
+ we
+ would
+
+
+get
+ by
+ really
+ um
+ improving
+ on
+ the
+ model
+
+
+architecture
+ or
+ things
+ like
+ this.
+ And
+ so
+
+
+I
+ think
+ it's
+ focusing
+ the
+ right
+ effort
+
+
+uh
+ depending
+ on
+ the
+ scale
+ and
+ the
+ um
+
+
+yeah
+ depending
+ on
+ the
+ scale
+ of
+ the
+
+
+company
+
+
+>> and
+ from
+ a
+ team
+ uh
+ building
+ perspective
+
+
+how
+ have
+ you
+ gone
+ about
+ it
+ the
+ the
+ three
+
+
+of
+ you
+ the
+ three
+ co-founders
+ have
+ a
+ deep
+
+
+background
+ in
+ in
+ AI
+ um
+ are
+ you
+ these
+ day
+
+
+focused
+ mostly
+ on
+ building
+ like
+ an
+ FDA
+
+
+team
+ or
+ are
+ you
+ still
+ uh
+ building
+ this
+
+
+large
+ kind
+ of
+ like
+ research
+ lab
+ effort
+
+
+and
+ how
+ do
+ you
+ uh
+ think
+ about
+ the
+ right
+
+
+ratio?
+
+
+>> We
+ are
+ growing
+ uh
+ all
+ of
+ our
+ teams
+ both
+
+
+uh
+ research
+ uh
+ FDES
+ uh
+ product
+
+
+engineering
+ uh
+ infrastructure
+ for
+
+
+compute
+ and
+ all
+ of
+ the
+ teams
+ have
+ their
+
+
+own
+ uh
+ challenges
+ in
+ how
+ you
+ build
+ and
+
+
+what
+ order
+ you
+ uh
+ recruit
+ people
+ in.
+
+
+It's
+ been
+ important
+ to
+ me
+ um
+ at
+ the
+
+
+start
+ to
+ I
+ mean
+ to
+ me
+ and
+ uh
+ and
+ GM
+ and
+
+
+Arthur
+ we
+ both
+ like
+ the
+ three
+ of
+ us
+ were
+
+
+uh
+ good
+ AI
+ practitioners
+ so
+ we
+ knew
+ how
+
+
+to
+ train
+ models
+ and
+ we
+ knew
+ how
+ to
+ code
+
+
+and
+ so
+ we
+ started
+ with
+ people
+ like
+ us
+ to
+
+
+get
+ to
+ the
+ models
+ trained
+ the
+ fastest
+ um
+
+
+but
+ that
+ doesn't
+ work
+ as
+ you
+ scale
+ uh
+
+
+you
+ it
+ is
+ critical
+ to
+ build
+ the
+ right
+ uh
+
+
+infrastructure
+ uh
+ for
+ research
+
+
+And
+ so
+ this
+ takes
+ different
+ skill
+ sets.
+
+
+Uh
+ and
+ it's
+ something
+ that
+ we've
+ been
+ uh
+
+
+building
+ over
+ the
+ years
+ as
+ well.
+ Uh
+ and
+
+
+it's
+ fascinating
+ as
+ someone
+ who
+ used
+ to
+
+
+do
+ uh
+ research
+ in
+ a
+ at
+ a
+ smaller
+ scale
+
+
+to
+ see
+ the
+ kind
+ of
+ systems
+ that
+ are
+
+
+involved
+ and
+ the
+ the
+ gains
+ uh
+ that
+ you
+
+
+can
+ have
+ at
+ scale.
+ Uh
+ in
+ terms
+ of
+
+
+engineering,
+ it's
+ kind
+ of
+ the
+ same
+ story
+
+
+really.
+ uh
+ where
+ you
+ start
+ with
+ um
+ a
+
+
+team
+ that's
+ broad
+ in
+ its
+ knowledge
+ and
+
+
+self-sufficient
+ and
+ can
+ iterate
+ fast
+ and
+
+
+then
+ more
+ and
+ more
+ you
+ bring
+ in
+ experts
+
+
+or
+ people
+ that
+ are
+ that
+ have
+ seen
+ larger
+
+
+scale
+ and
+ will
+ tell
+ you
+ like
+ well
+ this
+
+
+won't
+ work
+ in
+ six
+ months
+ and
+ so
+ we
+
+
+should
+ fix
+ that
+ now.
+ So,
+ it's
+ been
+ super
+
+
+interesting
+ growing
+ the
+ company
+ and
+
+
+seeing
+ all
+ of
+ the
+
+
+uh
+ successive
+ things
+ that
+ break
+ at
+ each
+
+
+scale
+ and
+ overcoming
+ them
+ through
+ either
+
+
+changing
+ the
+ system,
+ changing
+ the
+
+
+organization
+ or
+ building
+ new
+ things.
+
+
+>> How
+ have
+ you
+ navigated
+ the
+ whole
+ Europe
+
+
+to
+ US
+ and
+ rest
+ of
+ the
+ world
+ dimension
+ of
+
+
+this?
+ I
+ you're
+ the
+ very
+ much
+ the
+ the
+
+
+pride
+ of
+ France,
+ the
+ pride
+ of
+ uh
+ Europe
+
+
+as
+ well
+ equally.
+ This
+ is
+ a
+ global
+ race.
+
+
+How
+ have
+ you
+ uh
+ made
+ it
+ work?
+
+
+>> So,
+ we
+ work
+ um
+ on
+ all
+ three
+ continents.
+
+
+We
+ have
+ offices
+ uh
+ in
+ PaloAlto.
+ We
+ have
+
+
+offices
+ in
+ Singapore
+ as
+ well.
+ Most
+ of
+
+
+our
+ employees
+ work
+ uh
+ from
+ Paris.
+ It's
+ a
+
+
+good
+ representation
+ of
+ uh
+ what
+ we're
+
+
+trying
+ to
+ build,
+ which
+ is
+ a
+ solution
+
+
+that's
+ uh
+ independent
+ and
+ that
+ people
+
+
+control.
+ and
+ in
+ and
+ this
+ target
+ uh
+ it
+
+
+doesn't
+ really
+ matter
+ uh
+ where
+ we're
+
+
+from
+ or
+ who
+ we're
+ building
+ for.
+ Uh
+ we
+
+
+provide
+ the
+ tools
+ uh
+ and
+ the
+ customer
+
+
+the
+ end
+ customer
+ then
+ owns
+ uh
+ everything
+
+
+that's
+ built
+ on
+ it.
+ And
+ so
+ I
+ I
+ think
+ it
+
+
+it
+ hasn't
+ really
+ been
+ something
+ that
+
+
+I've
+ spent
+ much
+ thought
+ on.
+
+
+>> So
+ uh
+ what
+ what
+ should
+ we
+ um
+ expect
+ from
+
+
+uh
+ Mistl
+ over
+ the
+ next
+ uh
+ couple
+ of
+
+
+years?
+ Over
+ the
+ next
+ couple
+ of
+ years,
+ I
+
+
+would
+ say
+ uh
+ diminishing
+ doubts
+ on
+ the
+
+
+ROI
+ of
+ AI
+ uh
+ ideally
+ so
+ faster
+ uh
+ time
+
+
+to
+ success
+ uh
+ larger
+ and
+ larger
+ uh
+ use
+
+
+cases
+ being
+ built
+ and
+ really
+
+
+democratization
+
+
+uh
+ of
+ building
+ tools
+ with
+ AI
+ in
+
+
+enterprise.
+ I
+ think
+ this
+ is
+ really
+ what
+
+
+I
+ target
+ for
+ our
+ customers.
+ uh
+ it
+ should
+
+
+be
+ easy
+ uh
+ and
+ most
+ people
+ should
+ be
+
+
+able
+ to
+ accelerate
+ themselves
+ through
+
+
+the
+ use
+ of
+ AI.
+ I
+ think
+ we've
+ seen
+ this
+
+
+happen
+ quite
+ uh
+ impressively
+ for
+ coding
+
+
+and
+ it
+ should
+ be
+ something
+ that
+ happens
+
+
+uh
+ a
+ lot
+ more
+ widely.
+
+
+>> I
+ was
+ uh
+ struck
+ throughout
+ this
+ uh
+
+
+conversation
+ by
+ how
+ pragmatic
+ uh
+ you
+ you
+
+
+are
+ and
+ and
+ focused
+ on
+ precise
+ goals
+
+
+around
+ enterprise
+ success.
+ What
+ do
+ you
+
+
+make
+ uh
+ of
+ the
+ whole,
+ you
+ know,
+ rush
+ to
+
+
+AGI
+ conversation
+ and
+ people
+ being
+ AGI
+
+
+pill
+ in
+ San
+ Francisco
+ and
+ other
+ places?
+
+
+Is
+ that
+ is
+ that
+ something
+ that
+ you
+ see
+
+
+happening
+ or
+ does
+ that
+ to
+ some
+ extent
+
+
+not
+ matter
+ from
+ your
+ perspective?
+
+
+>> I
+ mean
+ it
+ it
+ matters
+ because
+ the
+ the
+
+
+better
+ your
+ systems
+ are,
+ the
+ more
+ uh
+
+
+impressive
+ things
+ you'll
+ be
+ able
+ to
+ do
+
+
+and
+ it
+ it'll
+ become
+ easier
+ and
+ easier.
+
+
+requirements
+ I
+ see
+ for
+ control
+ and
+
+
+governance
+ in
+ enterprise
+
+
+make
+ me
+ think
+ that
+ even
+ if
+ I
+ had
+ uh
+ some
+
+
+AGIS
+ model
+ on
+ my
+ uh
+ servers
+ right
+ now
+ if
+
+
+I
+ were
+ to
+ go
+ uh
+ into
+ a
+ large
+ bank
+ and
+
+
+say
+ here
+ is
+ a
+ thing
+ please
+ let
+ it
+
+
+control
+ everything
+ for
+ you
+ they
+ wouldn't
+
+
+be
+ happy
+ to
+ let
+ it
+ do
+ it
+ and
+ so
+ I
+ think
+
+
+building
+ the
+ infrastructure
+
+
+uh
+ properly
+ is
+ uh
+ quite
+ key
+ to
+ following
+
+
+the
+ progress
+ of
+ these
+ models
+ and
+ really
+
+
+being
+ able
+ to
+ quickly
+ unleash
+ all
+ of
+
+
+their
+ capabilities.
+ So
+ to
+ me
+ it's
+ it's
+
+
+two
+ directions
+ that
+ are
+ necessary.
+ You
+
+
+need
+ to
+ improve
+ the
+ capabilities
+ of
+ the
+
+
+model
+ and
+ it's
+ super
+ exciting
+ to
+ do
+ so
+
+
+but
+ the
+ journey
+ of
+ uh
+ making
+ it
+ trivial
+
+
+and
+ uh
+ easy
+ for
+ everyone
+ to
+ unleash
+
+
+those
+ models
+ on
+ your
+ enterprise
+
+
+workflows
+ uh
+ without
+ really
+ wondering
+
+
+what's
+ going
+ to
+ happen
+ is
+ is
+ equally
+
+
+important.
+ And
+ honestly
+ super
+ uh
+ super
+
+
+fun
+ as
+ well
+ to
+ develop.
+ There
+ are
+ lots
+
+
+of
+ super
+ interesting
+ questions.
+
+
+>> Wonderful.
+ Well,
+ Timote,
+ thank
+ you
+ so
+
+
+much
+ for
+ uh
+ doing
+ this
+ uh
+ deep
+ dive
+ on
+
+
+Mistrol
+ with
+ us.
+ It's
+ been
+ fascinating.
+
+
+Congratulations
+ on
+ everything
+ that
+
+
+you've
+ built
+ again
+ in
+ this
+ very
+ short
+
+
+period
+ of
+ time.
+ Uh
+ and
+ excited
+ for
+
+
+what's
+ uh
+ coming
+ next.
+ So,
+ thank
+ you
+ for
+
+
+spending
+ time
+ with
+ us.
+
+
+>> Thanks.
+ It
+ was
+ a
+ pleasure.
+
+
+>> Hi,
+ it's
+ Matt
+ Kirk
+ again.
+ Thanks
+ for
+
+
+listening
+ to
+ this
+ episode
+ of
+ the
+ Mad
+
+
+Podcast.
+ If
+ you
+ enjoyed
+ it,
+ we'd
+ be
+ very
+
+
+grateful
+ if
+ you
+ would
+ consider
+
+
+subscribing
+ if
+ you
+ haven't
+ already,
+ or
+
+
+leaving
+ a
+ positive
+ review
+ or
+ comment
+ on
+
+
+whichever
+ platform
+ you're
+ watching
+ this
+
+
+or
+ listening
+ to
+ this
+ episode
+ from.
+ This
+
+
+really
+ helps
+ us
+ build
+ a
+ podcast
+ and
+ get
+
+
+great
+ guests.
+ Thanks,
+ and
+ see
+ you
+ at
+ the
+
+
+next
+ episode.
