@@ -17,8 +17,6 @@ category: "politics-society"
 insight: ''
 draft: true
 series: ''
-category: psychology
-area: society-thinking
 project: []
 people: []
 companies_orgs: []
