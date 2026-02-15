@@ -1,0 +1,515 @@
+We spend great effort
+into trying to capture moments.
+Freeze-frame memories,
+drawings, paintings, sculptures,
+photography and home movies
+are all our attempts
+to remember something after it's gone.
+But did you know that your brain and eyes
+are already hardwired to do this?
+I'm not talking about memory.
+I'm talking about the fact
+that your eye continues to see an object
+for a split second
+after that object disappears.
+I've been thinking about that fact
+for over 35 years.
+(Video) Hi, I’m Brian McLean, and I’m
+doing my science fair project on
+the principle of persistence of vision.
+Many of you are probably
+wondering what is persistence of vision?
+Well, it's really pretty neat.
+Your eye is an amazing organ,
+but it has one little quirk.
+It continues to see an object
+for a 10th of a second
+after the object disappears.
+Here's an example.
+This principle is what makes movies,
+cartoons and even TV possible.
+Can't believe the sweater still fits.
+(Laughter)
+Brian McLean: Yep, that was me,
+12 years old and going deep
+into the science of animation.
+I didn't want to do
+my science fair project
+on the principle of persistence of vision.
+I was forced to.
+I wanted to do my science fair
+project on claymation,
+but my dad, he wouldn't let me.
+He said, "Brian, this is a science fair.
+If you want to do claymation,
+you have to focus on the science
+that makes animation possible."
+So I opened up my collection
+of encyclopedias and I got to work.
+It was here that I learned
+about this strange optical phenomenon
+called the principle
+of persistence of vision.
+Of course, our brains
+play a huge role in this.
+It's not just the quirk in the retina
+that allow us to see film and animation.
+Our brains are hardwired
+to be imaginative,
+to take in reality,
+in this case a series of still images,
+and create something new and innovative
+out of what it was given.
+But when I was in sixth grade,
+I wasn't thinking of any of that.
+I just loved stop-motion animation.
+King Kong, Rudolph the Red-Nose reindeer,
+scenes from "Star Wars,"
+"Nightmare Before Christmas"
+and Wallace and Gromit.
+I spent my childhood wondering
+what types of tools these filmmakers use
+to create movie magic.
+Artists, technicians,
+cinematographers and animators
+were creating groundbreaking visuals
+using primitive tools
+compared to today's standards.
+Audiences leaving the theaters
+wondering how the heck
+those geniuses pulled it off.
+That was me.
+So I went to school to study art.
+When I graduated college in 1999,
+I barely knew how to write an email.
+Computers were not something
+I was comfortable with, so I resisted.
+Like many artists,
+I bounced from job to job.
+My career path was not a straight line.
+Eventually, I ended up at a design school
+running their model shop.
+It was here the trajectory
+of my life changed.
+I was introduced to a 3D printer.
+This amazing tool
+was like science fiction.
+It bridged the digital world
+and the physical worlds together.
+And for me, it made the digital
+world far less intimidating
+and more approachable.
+So I'd read the instruction
+manual at night
+and teach the students
+how to use it during the day.
+I realized then that creativity
+isn't just about making things,
+it's also about reinventing
+how we make them.
+So a 3D printer isn't as unusual
+as it was 20 years ago.
+But the potential impacts are enormous.
+Humans love to work with our hands.
+For thousands of years, everything
+we made was handcrafted and unique.
+More recently, we've drifted
+towards making lots and lots of things.
+Now, as we mass produce these objects,
+each object needed
+to be the same by design.
+Innovation has built
+assembly lines and tools
+that can pump out
+thousands of widgets a day,
+precise but all the same.
+With a 3D printer,
+it takes a three-dimensional object
+and slices it into hundreds,
+if not thousands,
+of two-dimensional images.
+Kind of like a CAT scan.
+And then those images
+are built up layer by layer.
+A polyjet printer sprays down liquid resin
+and a bright UV light goes
+and cures that resin.
+It’s a lot like your inkjet
+printer at your house.
+Imagine printing the letter A
+on a piece of paper
+and jetting down the A
+in the exact same spot.
+And between each pass of the printer head,
+imagine dropping the paper slightly.
+Eventually you're going
+to end up with an extruded A.
+Now, just like your inkjet
+printer at your house,
+it doesn't take any longer
+to print a paragraph of Shakespeare
+or a rudimentary sentence.
+The detail of what you're printing
+doesn't necessarily add more time.
+We’re so used to the equation:
+the more detail,
+the more complexity to something,
+the longer it takes to make.
+But with a 3D printer,
+you can utilize the speed
+of a mass-produced object,
+but each object can be unique,
+have their own bespoke
+design and personality.
+And they were about
+to have a fundamental impact
+on the way that stop-motion
+movies are made.
+(Music)
+(Yawns)
+Starting in 2006,
+working with a small team
+at a fledgling animation studio
+outside of Portland, Oregon,
+called LAIKA,
+we pioneered the use of using 3D printers
+for stop-motion animation
+to produce replacement animation.
+Our novel idea
+was to take this 100-year-old technique
+of replacement animation,
+and fuse it with 21st-century
+3D printing technology.
+We'd harness the power and subtlety
+of the computer animation,
+but instead of rendering out a model
+like Pixar or Dreamworks would,
+we would send face geometry
+to a 3D printer
+and then have it become a physical object
+that would snap onto a stop-motion puppet.
+"Coraline" was the first film
+to have 3D-printed faces.
+Over the course of the next
+18 years and six films,
+LAIKA’s continued to pioneer
+what stop-motion is capable of,
+as well as really redefining
+what's capable
+in the 3D printing industry.
+(Video)
+(Water bubbling)
+Character: Awesome.
+BM: At first, we started printing
+faces out of a single material
+and we had to hand-paint things.
+But then for our next few films,
+we started using color printing.
+Now, color printing was different
+than the resin printing we'd used before.
+Here, colored glue is sprayed down
+onto white powder.
+Now, the science behind
+this printer is the absorption rate
+between the liquid and the dry powder.
+Together, they came together to create
+the geometry as well as the mixed color.
+Now the problem is we live
+in Portland, Oregon.
+I don't know if you guys noticed,
+but it tends to rain a little bit here.
+So what that means if we printed
+a face in the summer
+and that exact same face in the winter,
+they would come out
+different sizes and different colors
+because of the humidity differences.
+But it was the only
+color printer on the market.
+So for years we made do.
+Now we'd also design and engineer
+the entire head in the computer.
+Computer modelers wore many hats.
+They were first the sculptor
+that was sculpting
+the outside of the face,
+and then they would switch gears
+and become the engineer
+to engineer all the inner components.
+We refer to these as very fancy
+Mr. Potato Heads.
+(Laughter)
+Now, starting in 2016,
+something really exciting
+happened in the 3D printing world.
+I don't know if any of you guys heard,
+but man, us 3D printing nerds were stoked.
+Are you ready for this?
+Voxel printing.
+You've all heard -- thanks.
+(Laughter)
+You've all heard of pixels, right?
+The little 2D dots
+that make up 2D imagery.
+Well, a voxel is basically
+a three-dimensional pixel.
+A voxel is tiny.
+There's something like
+338 million voxels in a cubic inch.
+So unlike the inkjet printing
+we'd used before
+that were based on decades
+of 2D inkjet technology,
+where colors can overlap to mix color,
+voxels cannot mix.
+Each voxel has to occupy its own 3D space.
+The printer jets down distinct voxels
+of cyan, yellow, magenta,
+black, white, and clear resin
+layer by layer in different patterns.
+Now, because we're printing
+a three-dimensional object,
+the shape of that object,
+and the way that light hits the surface
+and is either reflected off
+or absorbed in,
+affects the colors our eyes see.
+So what that means is the pattern
+of voxels of magenta and yellow
+to print an orange sphere
+are different than that of an orange cube.
+If you were to take one of our faces
+and look at it under
+an electron microscope,
+you would not see smooth mixed color,
+but instead millions and millions
+of distinct voxels.
+It's a lot like a pointillist painting.
+If you stand back far enough,
+it appears as though the colors are mixed.
+But when you get close to the canvas,
+you can see the individual colors.
+This was groundbreaking
+in the 3D-printing world.
+Not only could you create
+sophisticated color parts,
+but you could start to control
+the interior as well.
+Remember, there are voxels
+throughout the entire volume,
+not just on the surface.
+By leveraging visual effects
+software packages typically used
+in big-budget movies to render
+explosions, tornadoes,
+or raging oceans,
+LAIKA has been taking
+super-dense point cloud data
+and transferring them
+into 3D printed voxels
+and being able to precisely control
+voxels in a 3D space.
+We're at the tip of the innovation
+sphere in this area.
+We can take hard materials
+and soft materials
+and combine them on a voxel level,
+producing a brand new material
+with unique properties in the process.
+Anyone wondering what this is over here,
+this ominous object under the black cloth?
+Well, remember how a 3D object
+is built up out of layers?
+Well, it turns out you
+can take the CAT scan data,
+and you can 3D print a perfect replica
+of a patient's body part.
+By taking voxels, you can create materials
+that are like bone, tissue,
+muscle veins, and skin.
+A surgeon can take real patient data
+and 3D print a perfect replica
+of a patient's head
+with the exact placement of their tumor,
+and then do a practice operation
+removing that tumor.
+(Applause)
+LAIKA’s very own Rob Ducey,
+who was part of that
+original team in 2006,
+has helped write a research paper,
+along with Nick Jacobson
+and other researchers
+in the medical field on this very subject.
+It's amazing to see
+LAIKA Animation Studios,
+alongside other prestigious
+medical researchers,
+as the one pioneering the use
+of voxel printing in the medical field.
+But we're like any other user
+in the 3D-printing world.
+Yes, we've won a scientific
+and technical Oscar
+for pioneering the use of 3D printing
+in stop-motion animation,
+but most other users
+are creating prototypes.
+We’re using a 3D printer
+as a creative expression.
+In a way, bringing still objects to life.
+Each face we print is unique.
+Each one is a work of art
+that's hand-finished by artists.
+For our latest film, "Missing Link,"
+we printed over 106,000 unique faces.
+We have a face library
+run by face librarians
+who catalog and archive
+each individual expression.
+We've also won a Guinness
+Book of World Records
+for the most number of 3D-printed faces
+in a stop-motion animated film.
+(Laughter)
+I don't think anyone else
+is competing in that category,
+but it's still pretty cool.
+(Laughter)
+So the geniuses at LAIKA have been
+trying to figure out a way,
+in real time,
+that I could demonstrate how we use
+3D printers for replacement animation.
+You see, stop-motion animation
+is an extremely slow process.
+The average animator,
+working 40 hours a week,
+can produce three to four
+seconds of footage.
+I would be up on this stage for weeks
+trying to animate something for you guys,
+and if any of you stuck around that long,
+you'd be disappointed
+because I'm not an animator
+and it wouldn't look very good.
+(Laughter)
+So at first we thought
+about building one of these.
+This is called a zoetrope.
+It was invented
+before film cameras existed
+as a way to see still images come to life.
+We thought about dragging
+one of these out here
+and having me spin it like crazy,
+but the problem with this design
+is all the beautiful artwork is hidden
+behind those large cylindrical walls.
+So instead,
+we designed, engineered and built
+something specific for this TEDx stage.
+(Applause)
+So this is Norman.
+He's one of our typical
+stop-motion puppets.
+Norman is about ten inches tall.
+He's got a metal armature.
+Animators will move the puppet,
+and they will also remove his face.
+This is one of those 3D-printed faces.
+There are magnets on the back,
+and the magnets snap
+the face into position.
+So when an animator goes out to set,
+they go out with their little
+character, the little puppet,
+but they also go out with a box of faces.
+We're delivering 24 faces
+for every second of footage.
+This represents three seconds
+of Norman animation.
+Think about this contraption,
+this camera as your eyeball
+and this flywheel mechanism
+as your eyelid.
+As I move slowly,
+it's like you're blinking slowly.
+As I move backwards --
+I can move forward and backwards.
+Now, you can also kind of probably
+hear some sounds, right?
+Those are broken up sounds of words.
+As I move faster, it's like
+you're blinking faster, right?
+Now, let me get this set up.
+Once I hit the magical speed
+of 24 frames a second,
+your mind's imagination
+will fill in the gaps,
+and you'll be left with
+the beautiful and creative world
+coming to life before your eyes.
+Alright, so this is 16 feet long,
+and I've got to get over there
+in about two seconds.
+I've had to get in shape for this part.
+They didn't tell me that
+when they built this thing.
+Are you guys ready?
+Audience: Yes!
+(Cheers)
+Norman: Hi. Nice to see you guys.
+(Applause and cheers)
+BM: Alright, one more time.
+That was pretty cool.
+Faster, slower?
+Audience: Faster!
+BM: Oh, I was afraid
+you were going to say that.
+Alright, can we dim the lights?
+Here we go.
+Norman: Hi. Nice to see you guys.
+(Cheers and applause)
+BM: That kid you saw before in the video
+loves stop-motion animation.
+That led me down a path
+of first discovery,
+then resisting something
+I feared: technology.
+The artistic drive of the individuals
+that I have an honor of working alongside
+have built an environment
+where we get to bring
+imagination into reality
+and forge the path forward
+of not only inventing new things,
+but using creativity to reinvent
+how we make them.
+(Video) Mr Pickles: Mmm.
+Mr Trout: Just keeping
+the streets clean.
+Mr Pickles: Free from evil.
+Mr Trout: Yeah.
+Mr Pickles: You ever think
+about the universe, Mr Trout?
+What if our world is just
+like a tiny speck.
+Mr Trout: A tiny little speck.
+Mr Pickles: And there are giants
+looking down on us?
+Mr Trout: And every time we move --
+Mr Pickles: It's actually them moving us.
+Mr Trout: Seems a bit tedious.
+Mr Pickles: Like that,
+just there, me blinking.
+That would have taken them a day.
+Mr Trout: Me moving my arm, 500 men.
+Mr Pickles: I mean,
+none of them are going home.
+They're having to do this bit.
+And now this bit.
+And this bit.
+I mean, this should stop.
+BM: Thank you very much.
+(Applause)
