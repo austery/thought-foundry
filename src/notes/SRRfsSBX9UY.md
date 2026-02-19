@@ -1,5 +1,4 @@
 ---
-area: finance-wealth
 author: Lei
 date: 2025-07-10
 layout: post.njk
