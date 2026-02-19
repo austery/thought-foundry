@@ -1,0 +1,20313 @@
+for
+ the
+ first
+ time.
+ It
+ actually
+ can
+ be
+
+
+enjoyable
+ and
+ even
+ more
+ convenient
+ to
+
+
+talk
+ to
+ an
+ AI
+ on
+ the
+ phone
+ than
+ talking
+
+
+to
+ a
+ human.
+ I
+ don't
+ want
+ to
+ be
+ mean
+ to
+
+
+my
+ people,
+ the
+ speech
+ scientists,
+ but
+
+
+historically,
+ for
+ some
+ reason,
+ voice
+ did
+
+
+not
+ attract
+ the
+ visionaries
+ in
+ machine
+
+
+learning.
+ All
+ the
+ new
+ hardware
+ companies
+
+
+have
+ voice
+ at
+ the
+ heart
+ of
+ the
+ product.
+
+
+All
+ of
+ these
+ devices,
+ they
+ got
+ rid
+ of
+
+
+keyboards.
+ They
+ don't
+ really
+ have
+ a
+ a
+
+
+screen
+ or
+ an
+ interface,
+ and
+ voice
+ is
+
+
+going
+ to
+ be
+ the
+ main
+ one.
+
+
+>> Hi,
+ I'm
+ Matt
+ from
+ First
+ Mark.
+ Welcome
+ to
+
+
+the
+ Matt
+ podcast.
+ Voice
+ AI
+ is
+ having
+ a
+
+
+big
+ moment.
+ For
+ years,
+ the
+ field
+ was
+
+
+stuck
+ in
+ the
+ uncanny
+ valley,
+ lagging
+
+
+well
+ behind
+ other
+ AI
+ modalities,
+
+
+robotic,
+ slow,
+ and
+ frustrating.
+ But
+ in
+
+
+the
+ last
+ 18
+ months,
+ everything
+ has
+
+
+started
+ to
+ change.
+ My
+ guest
+ today
+ is
+
+
+Neil
+ Zegidore,
+ CEO
+ of
+ Gradium
+ AI
+ and
+
+
+formerly
+ of
+ Deep
+ Mind
+ and
+ Meta.
+ Neil
+ is
+
+
+one
+ of
+ the
+ very
+ top
+ AI
+ researchers
+ in
+
+
+the
+ field
+ and
+ a
+ key
+ architect
+ of
+ the
+
+
+rapid
+ evolution
+ of
+ voice
+ AI
+ towards
+
+
+real-time
+ native
+ audio
+ intelligence.
+
+
+This
+ conversation
+ is
+ a
+ deep
+ dive
+ into
+
+
+everything
+ you
+ need
+ to
+ know
+ about
+
+
+VoiceAI,
+ where
+ we
+ explore
+ many
+ key
+
+
+concepts
+ in
+ a
+ very
+ accessible
+ way
+ and
+
+
+discuss
+ plenty
+ of
+ fun
+ stuff,
+ including
+
+
+why
+ Voice
+ AI
+ has
+ so
+ few
+ experts,
+ the
+
+
+massive
+ challenge
+ of
+ building
+ native
+
+
+audio
+ models,
+ and
+ the
+ rise
+ of
+ autonomous
+
+
+voice
+ agents.
+ Please
+ enjoy
+ this
+ terrific
+
+
+and
+ very
+ educational
+ conversation
+ with
+
+
+Neil
+ Ziggor.
+
+
+>> Hey
+ Neil,
+ welcome.
+
+
+>> Hey,
+ thanks
+ for
+ having
+ me.
+ So
+ a
+ lot
+ of
+
+
+people
+ in
+ the
+ industry
+ are
+ saying
+ that
+
+
+voice
+ AI
+ is
+ having
+ its
+ big
+ moment.
+
+
+There's
+ certainly
+ a
+ lot
+ of
+ activity.
+
+
+There's
+ a
+ lot
+ of
+ funding
+ rounds
+ from
+
+
+your
+ perspective.
+ So
+ you've
+ been
+ in
+ this
+
+
+field
+ for
+ many
+ years
+ now
+ at
+ Deep
+ Mind
+
+
+Meta
+ now
+ Gradium.
+ Is
+ voice
+ indeed
+ having
+
+
+its
+ big
+ moment
+ or
+ are
+ we
+ still
+ early?
+
+
+>> I
+ think
+ it's
+ uh
+ both
+ having
+ a
+ big
+ moment
+
+
+and
+ we
+ are
+ still
+ early.
+ It's
+ having
+ a
+
+
+big
+ moment
+ because
+ there
+ is
+ progress
+ all
+
+
+around
+ uh
+ AI
+ models
+ and
+ in
+ voice
+ for
+
+
+example
+ the
+ progress
+ in
+ latency
+
+
+naturalness
+ accuracy
+ have
+ been
+ really
+
+
+really
+ huge
+ in
+ the
+ past
+ years
+ in
+
+
+particular
+ in
+ the
+ two
+ uh
+ last
+ years
+ and
+
+
+at
+ the
+ same
+ time
+ text
+ models
+ have
+
+
+evolved
+ into
+ what
+ we
+ now
+ call
+ agents
+
+
+which
+ are
+ not
+ only
+ text
+ models
+ but
+ you
+
+
+know
+ they
+ can
+ they
+ can
+ actually
+ make
+
+
+actions
+ and
+ manipulate
+ data
+ access
+
+
+information
+ and
+ so
+ on
+ and
+ so
+ forth.
+
+
+And
+ now
+ when
+ you
+ when
+ you
+ bring
+ both
+
+
+together,
+ you
+ can
+ have
+ voice
+ interfaces
+
+
+that
+ at
+ the
+ same
+ time
+ are
+ going
+ to
+ solve
+
+
+complex
+ problems.
+ And
+ so
+ I
+ think
+ there
+
+
+is
+ a
+ moment
+ now
+ because
+ for
+ the
+ first
+
+
+time
+ it's
+ actually
+ can
+ be
+ enjoyable
+ to
+
+
+and
+ even
+ more
+ convenient
+ to
+ talk
+ to
+ an
+
+
+AI
+ on
+ the
+ phone
+ than
+ talking
+ to
+ a
+ human
+
+
+because
+ you
+ can
+ call
+ any
+ time
+ of
+ the
+ day
+
+
+or
+ night
+ and
+ the
+ interaction
+ is
+ uh
+ is
+
+
+working
+ pretty
+ well
+ and
+ it
+ sounds
+ really
+
+
+nice
+ and
+ the
+ latency
+ is
+ low
+ and
+ so
+ on
+
+
+and
+ so
+ forth.
+ So
+ it's
+ definitely
+ having
+
+
+a
+ moment
+ because
+ I
+ think
+ in
+ a
+ way
+ it's
+
+
+now
+ it
+ can
+ be
+ used
+ in
+ much
+ more
+ use
+
+
+cases
+ than
+ it
+ used
+ to.
+ But
+ it's
+ still
+
+
+early
+ because
+ it's
+ still
+ quite
+
+
+experimental.
+ So
+ anybody
+ who
+ who
+ is
+
+
+using
+ even
+ the
+ most
+ advanced
+ voice
+
+
+agents
+ and
+ compare
+ that
+ to
+ the
+ her
+ movie
+
+
+from
+ 12
+ years
+ ago
+ uh
+ you
+ know
+ it's
+
+
+obvious
+ the
+ gap
+ that
+ is
+ still
+ remaining
+
+
+and
+ there
+ are
+ so
+ many
+ topics
+ that
+ are
+
+
+completely
+ unressed
+ at
+ the
+ moment.
+ In
+
+
+particular
+ you
+ know
+ every
+ time
+ you
+ you
+
+
+watch
+ the
+ voice
+ agent
+ demo
+ uh
+ just
+
+
+realize
+ that
+ it's
+ someone
+ talking
+ to
+ a
+
+
+phone
+ in
+ a
+ quiet
+ room.
+ So
+ the
+ day
+ where
+
+
+you
+ will
+ have
+ someone
+ shouting
+ to
+ a
+
+
+robot
+ in
+ the
+ middle
+ of
+ a
+ factory
+ and
+
+
+having
+ the
+ robot
+ understanding
+ what's
+
+
+happening
+ and
+ who's
+ talking
+ to
+ them
+ that
+
+
+will
+ be
+ you
+ know
+ like
+ we'll
+ be
+ there
+ and
+
+
+we
+ are
+ not
+ there
+ at
+ all.
+
+
+>> Mhm.
+ So
+ we'll
+ get
+ into
+ some
+ of
+ the
+
+
+technical
+ details
+ in
+ a
+ minute
+ but
+ um
+ at
+
+
+a
+ high
+ level
+ why
+ uh
+ has
+ voice
+ AI
+ being
+ I
+
+
+guess
+ the
+ most
+ underdeveloped
+ modality.
+
+
+There's
+ been
+ obviously
+ extraordinary
+
+
+progress
+ on
+ text
+ AI
+ and
+ then
+ image
+ AI
+
+
+and
+ then
+ video
+ AI,
+ but
+ it
+ seems
+ that
+
+
+voice
+ has
+ been
+ a
+ little
+ bit
+ the
+ the
+ the
+
+
+poor
+ parents
+ in
+ terms
+ of
+ uh
+ progress.
+
+
+Why
+ is
+ that?
+ I
+ don't
+ want
+ to
+ be
+ mean
+ to
+
+
+uh
+ uh
+ my
+ people
+ the
+ speech
+ scientists
+
+
+but
+ historically
+ for
+ some
+ reason
+ uh
+
+
+voice
+ did
+ not
+ attract
+ the
+ like
+ the
+
+
+visionaries
+ in
+ in
+ machine
+ learning
+ right
+
+
+so
+ even
+ if
+ you
+ looked
+ at
+ the
+ dynamics
+ in
+
+
+conferences
+ uh
+ if
+ you
+ proposed
+ a
+ new
+
+
+method
+ like
+ fundamental
+ algorithm
+ and
+
+
+you
+ wanted
+ it
+ to
+ be
+ accepted
+ in
+ a
+
+
+prestigious
+ venue
+ you
+ had
+ to
+ have
+ an
+
+
+application
+ either
+ in
+ computer
+ vision
+
+
+like
+ image
+ classification
+ or
+ NLP
+ if
+ you
+
+
+did
+ it
+ in
+ speech
+ you
+ will
+ get
+ rejected
+
+
+because
+ it
+ was
+ like
+ uh
+ two
+ speech
+ and
+ at
+
+
+the
+ same
+ time
+ the
+ the
+ the
+ prestige
+ of
+
+
+speech
+ conferences
+ uh
+ used
+ to
+ be
+ much
+
+
+lower
+ than
+ that
+ of
+ computer
+ vision
+ or
+ or
+
+
+NLP.
+ So
+ honestly
+ I
+ I
+ don't
+ really
+ know
+
+
+why
+ because
+ when
+ you
+ look
+ at
+ the
+ details
+
+
+the
+ first
+ big
+ success
+ of
+ deep
+ learning
+
+
+everybody
+ knows
+ the
+ Alex
+ net
+ model
+ in
+
+
+2012
+ where
+ for
+ the
+ first
+ time
+ you
+ know
+
+
+you
+ had
+ a
+ deep
+ learning
+ model
+ uh
+
+
+outperforming
+ every
+ single
+ alternative
+
+
+on
+ image
+ classification
+ but
+ actually
+ the
+
+
+really
+ first
+ big
+ success
+ in
+ deep
+
+
+learning
+ was
+ speech
+ recognition
+ with
+
+
+work
+ from
+ Joffrey
+ Hinton
+ himself.
+
+
+>> Uh
+
+
+>> and
+ when
+ was
+ that?
+
+
+>> It
+ was
+ in
+ I
+ think
+ 2007
+ or
+ 2008.
+ So
+ way
+
+
+way
+ before
+ uh
+
+
+>> yes
+ and
+ so
+ I
+ think
+ it's
+ uh
+ you
+ know
+ it
+
+
+was
+ just
+ not
+ as
+ prestigious
+ and
+ uh
+ so
+ it
+
+
+wouldn't
+ attract
+ uh
+ a
+ lot
+ of
+ people
+ that
+
+
+could
+ have
+ made
+ significant
+
+
+contributions
+ I
+ would
+ say
+ and
+ uh
+ then
+
+
+what
+ happened
+ and
+ was
+ very
+ nice
+ is
+ there
+
+
+was
+ kind
+ of
+ a
+ convergence
+ of
+ algorithms
+
+
+around
+ transformers
+ and
+ LLM
+ so
+ that
+ now
+
+
+pretty
+ much
+ regardless
+ of
+ the
+ task
+ or
+
+
+modality
+ you
+ are
+ looking
+ at
+ you're
+
+
+always
+ looking
+ at
+ the
+ same
+ technology
+
+
+and
+ there
+ started
+ to
+ be
+ much
+ more
+
+
+progress
+ also
+ thanks
+ to
+ now
+ the
+
+
+similarity
+ between
+ as
+ different
+
+
+modalities
+ because
+ in
+ particular
+ what
+ I
+
+
+contributed
+ to
+ with
+ as
+ my
+ team
+ was
+ to
+
+
+take
+ a
+ lot
+ of
+ inspiration
+ from
+ successes
+
+
+in
+ vision
+ and
+ uh
+ and
+ NLP
+ and
+ apply
+ them
+
+
+directly
+ to
+ speech
+ but
+ it's
+ still
+
+
+interesting
+ because
+ in
+ a
+ way
+ um
+ there
+
+
+are
+ way
+ fewer
+ people
+ who
+ can
+ train
+ a
+
+
+competitive
+ speech
+ model
+ than
+ in
+ text
+ or
+
+
+in
+ vision
+ so
+ I
+ mean
+ it's
+ a
+ good
+ position
+
+
+to
+ to
+ be
+ in
+ because
+ it's
+ you
+ know
+ very
+
+
+few
+ people
+ have
+ really
+ gone
+ into
+ like
+
+
+the
+ depth
+ of
+ of
+ this
+ topic
+
+
+>> and
+ uh
+ and
+ it's
+ one
+ that
+ is
+ very
+
+
+challenging
+ because
+ it's
+ bringing
+
+
+ideally
+ if
+ you
+ want
+ to
+ solve
+ the
+
+
+problems
+ you
+ need
+ to
+ understand
+ machine
+
+
+learning
+ signal
+ processing
+ that
+ is
+ much
+
+
+more
+ you
+ know
+ completely
+ different
+
+
+literature
+ around
+ telecommunication
+
+
+audio
+ compression
+ and
+ so
+ on
+ along
+ with
+
+
+uh
+ psychology
+ and
+ not
+ like
+ cognitive
+
+
+psychology
+ but
+ psychoacoustics
+ how
+ does
+
+
+the
+ and
+ hearing
+ works,
+ how
+ does
+ speech
+
+
+production
+ works
+ in
+ humans,
+ you
+ know,
+ so
+
+
+all
+ of
+ these
+ when
+ you
+ bring
+ them
+
+
+together,
+ you
+ can
+ make
+ competitive
+
+
+models,
+ but
+ it's
+ it
+ requires
+ kind
+ of
+ a
+
+
+very
+ wide
+ scope
+ of
+ uh
+ of
+ expertise
+ in
+
+
+very
+ different
+ domains.
+
+
+>> Fascinating.
+ To
+ put
+ it
+ in
+ numbers,
+ how
+
+
+many
+ would
+ you
+ say
+ people
+ there
+ are
+ in
+
+
+the
+ world
+ with
+ that
+ expertise?
+ Are
+ we
+
+
+talking
+ about
+ 100,
+ 500,
+ 10?
+
+
+>> Between
+ 10
+ and
+ 100,
+ no,
+ I
+ would
+ say
+ 50.
+
+
+I
+ don't
+ know.
+ It's
+ hard
+ to
+ say
+ but
+ uh
+
+
+yeah
+ I
+ think
+ it's
+ very
+ few
+ and
+ really
+
+
+meaningful
+ contributions
+ that
+ have
+
+
+pushed
+ the
+ field
+ forward
+ have
+ been
+ made
+
+
+by
+ very
+ small
+ groups
+ of
+ people
+ and
+ I
+ I
+
+
+think
+ that's
+ also
+ what's
+ nice.
+ So
+ AI
+ I
+
+
+think
+ in
+ general
+ is is
+ is
+ one
+ field
+
+
+where
+ individuals
+ can
+ have
+ a
+
+
+disproportionate
+ impact
+ because
+ you
+ know
+
+
+the
+ amount
+ of
+ things
+ you
+ can
+ you
+ can
+ do
+
+
+by
+ yourself.
+ You
+ have
+ access
+ to
+ to
+
+
+compute
+ and
+ uh
+ and
+ data
+ sets
+ is
+ huge
+ and
+
+
+in
+ voice
+ in
+ particular
+ since
+ the
+
+
+required
+ compute
+ is
+ much
+ lower
+ and
+ is
+
+
+that
+ the
+ same
+ for
+ data
+ really
+ a
+ few
+
+
+individuals
+ can
+ make
+ stuff
+ that
+ is
+
+
+completely
+ uh
+ you
+ know
+ just
+ changing
+ u
+
+
+applications
+ at
+ very
+ large
+ scales.
+
+
+>> Great.
+ So
+ you
+ mentioned
+ uh
+ her
+ a
+ minute
+
+
+ago
+ which
+ is
+ the
+ individual
+ reference
+
+
+for
+ any
+ conversation
+ about
+ uh
+ voice.
+
+
+What
+ is
+ the
+ ultimate
+ success
+ in
+ voice
+
+
+that
+ the
+ field
+ is
+ working
+ towards?
+ Is
+
+
+that
+ super
+ low
+ latency
+ expressiveness?
+
+
+Uh
+ what
+ what
+ is
+ what
+ is
+ great?
+ So
+
+
+latency
+ latency
+ is
+ already
+ something
+
+
+that
+ only
+ makes
+ sense
+ if
+ you
+ are
+ in
+ a
+
+
+turnbased
+ conversation
+ because
+ latency
+
+
+then
+ the
+ definition
+ of
+ latency
+ is
+ how
+
+
+much
+ time
+ there
+ is
+ between
+ two
+ turns.
+
+
+One
+ of
+ the
+ thing
+ we
+ contributed
+ uh
+ doing
+
+
+is
+ uh
+ getting
+ rid
+ of
+ speaker
+ turns
+
+
+completely
+ uh
+ with
+ what
+ we
+ call
+ full
+
+
+duplex
+ conversation.
+ So
+ the
+ idea
+ that
+
+
+it's
+ always
+ listening
+ always
+ speaking
+
+
+and
+ when
+ it's
+ not
+ speaking
+ it's
+ just
+
+
+that
+ it's
+ producing
+ silence
+ but
+ you
+ know
+
+
+it's
+ always
+ on
+ and
+ in
+ that
+ context
+ there
+
+
+is
+ no
+ real
+ latency
+ anymore.
+ So
+ because
+
+
+the
+ model
+ is
+ just
+ basically
+ can
+ talk
+ at
+
+
+any
+ time
+ and
+ it
+ can
+ talk
+ over
+ you
+ and
+
+
+you
+ can
+ talk
+ over
+ it
+ and
+ that
+ makes
+ the
+
+
+conversation
+ really
+ natural.
+ And
+ then
+
+
+naturalness
+ it's
+ not
+ only
+ these
+ dynamics
+
+
+in
+ terms
+ of
+ tempo
+ you
+ know
+ like
+ when
+ the
+
+
+model
+ can
+ jump
+ in
+ the
+ conversation
+ when
+
+
+they
+ should
+ remain
+ quiet
+ there's
+ this
+
+
+dynamics
+ question
+ and
+ then
+ there
+ is
+
+
+emotion
+ and
+ so
+ there
+ is
+ emotion
+ in
+ what
+
+
+the
+ AI
+ expresses
+ it's
+ emotion
+ is
+ uh
+
+
+natural
+ but
+ also
+ appropriate
+ that
+ if
+ you
+
+
+start
+ feeling
+ confident
+ enough
+ to
+ start
+
+
+sharing
+ about
+ stuff
+ that
+ makes
+ you
+
+
+unhappy
+ or
+ sad
+ or
+ feeling
+ miserable
+ it's
+
+
+not
+ saying
+ Oh,
+ I'm
+ so
+ sorry
+ for
+ you.
+
+
+Let's
+ talk
+ about
+ it.
+ And
+ uh
+ it
+ will
+ also
+
+
+understand
+ uh
+ when
+ you're
+ getting
+ upset,
+
+
+when
+ you're
+ getting
+ confused
+ and
+ so
+ on
+
+
+and
+ so
+ forth.
+ This
+ will
+ make
+ already
+ uh
+
+
+voice
+ AI
+ in
+ terms
+ of
+ interaction
+
+
+extremely
+ natural
+ and
+ the
+ as
+ close
+ as
+
+
+possible
+ to
+ human,
+ which
+ is
+ basically
+
+
+what
+ is
+ one
+ of
+ the
+ things
+ we
+ we
+ see
+ in
+
+
+the
+ her
+ movie,
+ which
+ I
+ I
+ hate
+ mentioning
+
+
+as
+ a
+ reference
+ because
+ it's
+ so
+ overused.
+
+
+It's
+ annoying.
+
+
+>> Yeah.
+ But
+ at
+ the
+ same
+ time,
+ everybody
+
+
+understands,
+ you
+ know,
+ the
+ gap
+ between
+
+
+where
+ we
+ are
+ right
+ now
+ and
+ and
+ the
+
+
+movie.
+ So
+ that's
+ I
+ I
+ think
+ it's
+ still
+ a
+
+
+relevant
+ one.
+ And
+ it's
+ even
+ interesting
+
+
+how
+ relevant
+ it
+ still
+ is
+ despite
+ the,
+
+
+you
+ know,
+ the
+ fact
+ that
+ there's
+ so
+ much
+
+
+work
+ around
+ voice.
+ But
+ then
+ there
+ will
+
+
+be
+ other
+ questions
+ about
+
+
+>> how
+ voice
+ is
+ integrated
+ into
+ our
+ lives.
+
+
+So
+ you
+ know,
+ there
+ are
+ paradigm
+ in
+ in
+ in
+
+
+voice
+ AI
+ such
+ as
+ wake
+ word
+ detection.
+ So
+
+
+you
+ know
+ when
+ you
+ use
+ uh
+ Google
+ Home
+ or
+
+
+Alexa
+ whatever
+ you
+ know
+ you
+ have
+ a
+ wake
+
+
+word
+ that
+ is
+ going
+ to
+ turn
+ uh
+ the
+ speech
+
+
+to
+ text
+ on.
+ So
+ now
+ let's
+ say
+ you
+ want
+ to
+
+
+to
+ work
+ with
+ your
+ assistant
+ that
+ is
+
+
+always
+ listening
+ to
+ you.
+ So
+ in
+ a
+ way
+ you
+
+
+would
+ have
+ something
+ that
+ is
+ just
+
+
+running
+ constantly
+ without
+ having
+ even
+
+
+necessarily
+ a
+ wake
+ word.
+ So
+ all
+ of
+ this
+
+
+I
+ think
+ is
+ going
+ to
+ be
+ both
+ technical
+
+
+challenges
+ and
+ product
+ challenges
+ around
+
+
+where
+ do
+ they
+ sit
+ how
+ are
+ we
+ interacting
+
+
+with
+ them
+ the
+ link
+ to
+ the
+ hardware
+ as
+
+
+well.
+ So
+ I
+ think
+ what
+ is
+ a
+ good
+ sign
+ for
+
+
+voice
+ as
+ a
+ field
+ as
+ well
+ is
+ that
+ in
+ my
+
+
+perception
+ all
+ the
+ new
+ hardware
+
+
+companies
+ have
+ voice
+ at
+ the
+ heart
+ of
+ the
+
+
+product.
+ All
+ the
+ prototypes
+ that
+ we
+ see
+
+
+whether
+ it's
+ it's
+ glasses
+ or
+ pendants
+ or
+
+
+you
+ know
+ like
+ the
+ new
+ stuff
+ that
+ Johnny
+
+
+and
+ Samman
+ are
+ working
+ on
+ voice
+ is
+ at
+
+
+the
+ heart
+ of
+ the
+ product
+ and
+ will
+ be
+ the
+
+
+main
+ way
+ of
+ interacting.
+ So
+ all
+ of
+ these
+
+
+devices
+ they
+ got
+ rid
+ of
+ keyboards.
+ they
+
+
+don't
+ really
+ have
+ a
+ like
+ a
+ screen
+ or
+ an
+
+
+interface
+ rather
+ on
+ you
+ know
+ and
+ voice
+
+
+is
+ going
+ to
+ be
+ the
+ one
+ that
+ is
+ the
+ main
+
+
+one.
+
+
+>> What's
+ your
+ vision
+ of
+ the
+ future?
+ Where
+
+
+does
+ voice
+ fit
+ in?
+ Is
+ that
+ a
+ voice
+ and
+
+
+text?
+ Is
+ that
+ primarily
+ voice
+ for
+
+
+certain
+ use
+ cases?
+ And
+ the
+ you
+ know
+
+
+there
+ certainly
+ an
+ argument
+ um
+ that
+
+
+you'll
+ hear
+ a
+ lot
+ of
+ people
+ saying
+ voice
+
+
+is
+ great
+ but
+ like
+ most
+ of
+ the
+ time
+ like
+
+
+I'm
+ at
+ the
+ office
+ like
+ the
+ last
+ thing
+ I
+
+
+want
+ is
+ like
+ for
+ people
+ to
+ hear
+ my
+
+
+conversation
+ and
+ therefore
+ I
+ don't
+ want
+
+
+to
+ talk
+ to
+ a
+ machine.
+ So
+ where
+ does
+
+
+voice
+ fit
+ in
+ um
+ that
+ vision
+ of
+ the
+
+
+future?
+
+
+>> So
+ for
+ example,
+ I
+ used
+ to
+ think
+ that
+ one
+
+
+obvious
+ application
+ where
+ voice
+ was
+ kind
+
+
+of
+ irrelevant
+ was
+ coding
+ because
+ it's
+
+
+fundamentally
+ you're
+ not
+ going
+ to
+ read
+
+
+code
+ out
+ loud,
+ right?
+ Yet
+ now
+ since
+
+
+coding
+ is
+ going
+ more
+ and
+ more
+ towards
+
+
+vibe
+ coding
+ which
+ is
+ natural
+ language,
+
+
+it
+ makes
+ a
+ lot
+ of
+ sense
+ to
+ do
+ it
+ by
+ by
+
+
+speaking.
+ And
+ you
+ know
+ now
+ people
+ are
+
+
+developing
+ products
+ that
+ allow
+ you
+ to
+
+
+you
+ know
+ dispatch
+ orders
+ to
+ coding
+
+
+agents
+ uh
+ in
+ a
+ way
+ that
+ is
+ much
+ more
+
+
+efficient
+ that
+ if
+ you
+ had
+ to
+ type
+ in
+
+
+each
+ different
+ window
+ to
+ each
+ of
+ them
+
+
+even
+ prompting
+ LLMs
+ now
+ is
+ doing
+ by
+
+
+voice
+ is
+ much
+ more
+ convenient
+ rather
+
+
+than
+ typing.
+ I
+ still
+ agree
+ that
+ there
+ is
+
+
+one
+ part
+ which
+ is
+ more
+ social
+ about
+ what
+
+
+the
+ offices
+ environment
+ will
+ look
+ like.
+
+
+I
+ don't know
+ maybe
+ we
+ will
+ just
+ also
+
+
+rethink
+ uh
+ the
+ way
+ we
+ just
+ structure
+
+
+office
+ environments.
+ What
+ is
+ sure
+ is
+ um
+
+
+now
+ people
+ have
+ AI
+ assistants
+ that
+ are
+
+
+almost
+ colleagues,
+ right?
+ Uh
+ I
+ mean
+ you
+
+
+talk
+ to
+ any
+ software
+ engineer
+ the
+
+
+anthropomorphization
+ of
+ code
+ code
+ is
+ I
+
+
+find
+ it
+ extremely
+ funny.
+ It's
+ uh
+ you
+
+
+know
+ even
+ the
+ the
+ the
+ verb
+ coding
+ I
+ mean
+
+
+it's
+ going
+ to
+ be
+ coding
+ pretty
+ soon.
+ And
+
+
+so
+ these
+ people
+ you
+ know
+ they
+ will
+ if
+
+
+it's
+ more
+ convenient
+ to
+ interact
+ with
+
+
+their
+ main
+ uh
+ tool
+ through
+ voice
+ uh
+ that
+
+
+will
+ justify
+ also
+ rethinking
+ office
+
+
+spaces
+ I
+ guess.
+ So,
+ so
+ uh
+ yeah,
+ I
+ think
+
+
+there
+ will
+ be
+ work
+ around
+ that
+ and
+ we
+
+
+will
+ naturally
+ find
+ them
+ if
+ if
+ voice
+
+
+becomes
+ the
+ main
+ way.
+ I
+ mean
+ if
+ it's
+
+
+more
+ practical
+ to
+ interact
+ with
+ with
+ AI
+
+
+through
+ through
+ voice.
+
+
+>> Super
+ interesting.
+ Before
+ we
+ go
+ further,
+
+
+let's
+ talk
+ about
+ you
+ uh
+ a
+ little
+ bit
+ and
+
+
+your
+ journey
+ and
+ the
+ company.
+ So
+ I
+
+
+mentioned
+ deep
+ mind
+ and
+ meta
+ and
+ now
+
+
+gradium
+ and
+ cut
+ in
+ the
+ middle.
+ Just
+ like
+
+
+walk
+ us
+ through
+ uh
+ your
+ life
+ story
+ and
+
+
+uh
+ your
+ work.
+ So
+ I
+ studied
+ in
+
+
+mathematics
+ and
+ u
+ I
+ started
+ uh
+ my
+ career
+
+
+in
+ with
+ a
+ short
+ internship
+ in
+
+
+quantitative
+ finance.
+
+
+>> Yeah.
+
+
+>> And
+ that
+ was
+ in
+ Paris
+ right?
+
+
+>> Yes
+ in
+ Paris.
+ And
+ uh
+ I
+ was
+ born
+ and
+
+
+raised
+ there.
+ And
+ what
+ was
+ interesting
+
+
+during
+ my
+ internship
+ I
+ had
+ access
+ to
+ a
+
+
+Bloomberg
+ you
+ know
+ terminal
+ and
+ so
+ I
+
+
+will
+ see
+ the
+ news
+ uh
+ like
+ the
+ constant
+
+
+news
+ in
+ in
+ the
+ below
+ the
+ screen.
+ You
+
+
+know,
+ I
+ was
+ thinking,
+ what
+ if
+ I
+ could
+
+
+have
+ an
+ algorithm
+ that
+ just
+ read
+ this
+
+
+news
+ and
+ take
+ positions
+ on
+ the
+ market
+
+
+faster
+ than
+ anyone
+ because
+ it
+ was
+ just
+
+
+able
+ to
+ analyze
+ the
+ news
+ live.
+ And
+ I
+ was
+
+
+looking,
+ but
+ I
+ had
+ no
+ keywords
+ about
+
+
+that,
+ right?
+ So
+ I
+ I
+ literally
+ Googled
+
+
+how
+ can
+ I
+ analyze
+ text
+ automatically
+ or
+
+
+whatever.
+ And
+ I
+ found
+ machine
+ learning
+
+
+and
+ I,
+ you
+ know,
+ it
+ was
+ a
+ epiphany.
+
+
+Decided
+ to
+ completely
+ stop,
+
+
+>> started
+ studying
+ again.
+ My
+ goal
+ was
+ to
+
+
+go
+ back
+ to
+ finance
+ with
+ AI
+ you
+ know
+ and
+
+
+machine
+ learning
+ but
+ I
+ got
+ passionate
+
+
+about
+ all
+ the
+ possibilities
+ there
+ was
+
+
+around
+ uh
+ so
+ back
+ then
+ there
+ were
+ no
+
+
+LLMs
+ and
+ it
+ was
+ not
+ really
+ about
+
+
+generative
+ AI
+ it
+ was
+ about
+ medical
+
+
+imaging
+ text
+ understanding
+ uh
+ a
+ lot
+ of
+
+
+things
+ around
+ uh
+ audio
+ speech
+
+
+recognition
+ obviously
+ and
+ I
+ looked
+ for
+
+
+for
+ an
+ internship
+ which
+ was
+ about
+
+
+unsupervised
+ uh
+ learning
+ which
+ was
+
+
+already
+ pretty
+ cool
+ and
+ I
+ just
+ wanted
+ to
+
+
+do
+ it
+ and
+ uh
+ so
+ I
+ pretended
+ that
+ was
+
+
+passionate
+ about
+ language
+
+
+and
+ u
+ and
+ I
+ got
+ the
+ internship
+ and
+ then
+
+
+Yanluk
+ opened
+ Facebook
+ Paris
+ and
+ was
+
+
+able
+ to
+ interview.
+ So
+ for
+ the
+ anecdote
+
+
+um
+ I
+ did
+ my
+ coding
+ interview
+ with
+ Sumit
+
+
+Chintella
+ who
+ then
+ invented
+ PyTorch
+ and
+
+
+now
+ I
+ think
+ he's
+ the
+ CTO
+ of
+ thinking
+
+
+machines.
+ Yep.
+ And
+ so
+ I
+ didn't
+ know
+ how
+
+
+to
+ code
+ because
+ I
+ I
+ had
+ only
+ studied
+
+
+mathematics
+ and
+ so
+ he
+ asked
+ me
+ to
+
+
+implement
+ C
+ means
+ basic
+ algorithm
+ and
+ I
+
+
+asked
+ if
+ I
+ could
+ do
+ it
+ in
+ mat
+ lab
+
+
+because
+ I
+ didn't
+ know
+ I
+ didn't
+ even
+ know
+
+
+Python
+ I
+ knew
+ like
+ very
+ basics
+ Python
+
+
+and
+ he
+ was
+ kind
+ enough
+ to
+ let
+ me
+ do
+ my
+
+
+coding
+ interview
+ in
+ mat
+ lab
+ and
+ I
+ got
+
+
+the
+ job
+ which
+ when
+ I
+ think
+ about
+ it
+ it's
+
+
+so
+ cringe
+ because
+ oh
+ my
+ god
+ thank
+ you
+
+
+sumit
+ but
+ uh
+ and
+ yeah
+ I
+ did
+ my
+ PhD
+ there
+
+
+it
+ was
+ very
+ interesting
+ was
+ already
+ on
+
+
+speech
+ and
+ I
+ was
+ spending
+ half
+ my
+ time
+
+
+at
+ Facebook
+ and
+ all
+ my
+ half
+ my
+ time
+ at
+
+
+economy
+ in
+ Paris
+ in
+ a
+ lab
+ that
+ was
+
+
+studying
+ language
+ acquisition
+ in
+ babies.
+
+
+In
+ particular,
+ the
+ main
+ observation
+ on
+
+
+which
+ the
+ lab
+ was
+ built
+ was
+ that
+ humans
+
+
+learn
+ language
+ from
+ mostly
+ two
+ speakers,
+
+
+their
+ parents
+ with
+ few
+ hundreds
+ to
+ 1,000
+
+
+hours
+ overall
+ in
+ the
+ first
+ four
+ years
+
+
+with
+ huge
+ variance
+ between
+ social
+
+
+backgrounds
+ and
+ without
+ annotation,
+
+
+right?
+ Because
+ you
+ learn
+ to
+ speak
+ before
+
+
+you
+ learn
+ how
+ to
+ read.
+ And
+ that
+ still
+
+
+makes
+ us
+ already
+ pretty
+ okay
+ for
+
+
+conversation
+ when
+ when
+ we
+ are
+ kids.
+ And
+
+
+you
+ know
+ speech
+ recognition
+ back
+ then
+
+
+was
+ trained
+ with
+ already
+ hundred
+ of
+
+
+thousands
+ of
+ hours
+ of
+ annotated
+ data.
+
+
+Now
+ it's
+ millions
+ of
+ hours
+ annotated
+
+
+annotated
+ data.
+ So
+ the
+ topic
+ was
+ more
+
+
+around
+ efficient
+ learning
+ which
+ is
+
+
+interesting
+ because
+ it
+ was
+ 10
+ years
+ ago
+
+
+but
+ now
+ is
+ still
+ as
+ relevant
+ as
+ I
+ think
+
+
+there
+ was
+ a
+ a
+ new
+ company
+ that
+ raised
+ a
+
+
+large
+ ground
+ recently
+ to
+ know
+ make
+
+
+learning
+ more
+ efficient.
+ So
+ it's
+ still
+
+
+as
+ relevant
+ as
+ it
+ used
+ to.
+
+
+>> Yep.
+
+
+>> And
+ then
+ I
+ joined
+ Google.
+ At
+ that
+ time
+
+
+it
+ was
+ interesting
+ because
+ uh
+ so
+ I
+
+
+joined
+ working
+ on
+ speech
+ in
+ Google
+ brain
+
+
+and
+ there
+ were
+ almost
+ nobody
+ working
+ on
+
+
+speech
+ in
+ Google
+ brain.
+
+
+>> It
+ was
+ not
+ considered
+ vibrant
+ uh
+
+
+research
+ topic.
+
+
+>> It
+ was
+ it
+ was
+ like
+ a
+ product
+ uh
+ topic.
+ A
+
+
+lot
+ of
+ people
+ were
+ saying
+ oh
+ but
+ it
+
+
+solved
+ you
+ know.
+ Oh
+ no
+ it's
+ sold.
+ It
+
+
+just
+ works.
+ So
+ already
+ back
+ then.
+
+
+>> Yeah.
+
+
+>> And
+ uh
+
+
+>> what
+ year
+ was
+ that?
+
+
+>> Uh
+ 2019.
+
+
+>> 2019.
+ And
+ uh
+ so
+ I
+ found
+ someone
+ to
+ to
+
+
+work
+ with
+ me
+ and
+ uh
+ we
+ did
+ like
+ a
+ lot
+ of
+
+
+work
+ around
+ speech
+ and
+ then
+ I
+ got
+
+
+excited
+ about
+ a
+ specific
+ topic
+ around
+
+
+compression
+ audio
+ compression.
+ So
+ was
+
+
+just
+ out
+ of
+ patient
+ I
+ wanted
+ to
+ do
+ like
+
+
+a
+ new
+ compression
+ format
+ that
+ would
+ not
+
+
+be
+ MP3.
+
+
+>> It's
+ like
+ a
+ Silicon
+ Valley
+ right
+ the
+ HBO
+
+
+show.
+
+
+>> Exactly.
+ And
+ uh
+ and
+ I
+ wanted
+ to
+ do
+ it
+
+
+with
+ nor.
+ The
+ idea
+ was
+ that
+ uh
+ it
+
+
+>> Yeah.
+ it
+ will
+ be
+ computationally
+ more
+
+
+expensive
+ to
+ uh
+ compress
+ and
+ and
+
+
+decompress
+ the
+ audio
+ but
+ then
+ you
+ could
+
+
+compress
+ it
+ much
+ more
+ efficiently
+
+
+>> and
+ that's
+ something
+ we
+ worked
+ on
+ for
+
+
+Google
+ meet
+ and
+ uh
+ it
+ was
+ called
+
+
+soundstream
+ that
+ was
+ the
+ first
+ what
+ we
+
+
+call
+ neural
+ uh
+ audio
+ codec
+ and
+ I
+ had
+ no
+
+
+plan
+ of
+ doing
+ genatic
+ modeling
+ back
+ then
+
+
+really
+ didn't
+ care
+ about
+ that
+ um
+ but
+ I
+
+
+was
+ very
+ lonely
+ in
+ a
+ way
+ and
+ I
+ just
+
+
+wanted
+ I
+ was
+ trying
+ to
+ lure
+ some
+ people
+
+
+around
+ me
+ who
+ are
+ working
+ in
+
+
+reinforcement
+ learning.
+ I
+ wanted
+ to
+ get
+
+
+them
+ to
+ work
+ on
+ speech
+ with
+ me.
+ I
+
+
+started
+ a
+ project
+ around
+ diarization,
+
+
+which
+ is
+ a
+ task
+ of
+ you're
+ listening
+ to
+ a
+
+
+conversation
+ and
+ you
+ have
+ to
+ to
+ tell
+ who
+
+
+said
+ what,
+ which
+ is
+ probably
+ the
+ less
+
+
+sexy
+ research
+ topic
+ out
+ there.
+ I'm
+
+
+sorry.
+ I
+ think
+ it's
+ fascinating,
+ but
+ you
+
+
+cannot
+ get
+ people
+ excit
+ I
+ It's
+ very
+ hard
+
+
+to
+ get
+ people
+ excited
+ about
+
+
+>> within
+ speech,
+ which
+ is
+ not
+ very
+ sexy.
+
+
+This
+ is
+ the
+ less
+ like
+ Yeah.
+ Like
+ the
+
+
+monk
+ project,
+ you
+ know,
+ like
+ very
+ lonely
+
+
+and
+ very
+ Yeah.
+ uh
+ I
+ was
+ not
+ very
+
+
+successful
+ with
+ that
+ to
+ to
+ get
+ people
+ to
+
+
+work
+ with
+ me
+ and
+ I
+ thought
+ okay
+
+
+generative
+ models
+ uh
+ the
+ nice
+ thing
+ that
+
+
+if
+ we
+ generate
+ speech
+ people
+ will
+ listen
+
+
+to
+ it
+ and
+ be
+ oh
+ that's
+ cool
+ my
+ things
+
+
+you
+ know
+ my
+ method
+ has
+ generated
+ speech
+
+
+so
+ honestly
+ it
+ was
+ very
+ opportunistic
+
+
+for
+ me
+ I
+ thought
+ that
+ it
+ will
+ be
+ a
+ good
+
+
+way
+ to
+ get
+ people
+ to
+ work
+ uh
+ with
+ me
+ and
+
+
+so
+ we
+ started
+ a
+ project
+ and
+ the
+ idea
+ was
+
+
+that
+ we
+ started
+ to
+ see
+ success
+ around
+
+
+language
+ models
+ so
+ it
+ was
+ 2021
+ way
+
+
+before
+ CH
+ GPT
+ but
+ you
+ know
+ internally
+
+
+Finally
+ at
+ Google
+ there
+ were
+ already
+
+
+quite
+ a
+ few
+ projects
+ that
+ were
+
+
+successful
+ around
+ language
+ models.
+ And
+
+
+the
+ idea
+ was
+ that
+ just
+ after
+ the
+ work
+ we
+
+
+had
+ done
+ on
+ the
+ neural
+ codec.
+ So
+ now
+ if
+
+
+instead
+ of
+ using
+ your
+ codec
+ for
+ uh
+
+
+real-time
+ communication
+ but
+ you
+ just
+ use
+
+
+it
+ to
+ compress
+ audio
+ now
+ you
+ have
+
+
+>> you
+ want
+ to
+ define
+ quickly
+ what
+ a
+ codec
+
+
+is.
+
+
+>> Yeah.
+ A
+ codec
+ is
+ just
+ a
+ compression
+
+
+decompression.
+ So
+ you
+ have
+ an
+ audio,
+
+
+right?
+ And
+ you
+ want
+ to
+ send
+ it
+ over
+ the
+
+
+network
+ when
+ you're
+ having
+ a
+ Zoom
+
+
+meeting.
+ And
+ uh
+ you're
+ not
+ going
+ to
+ send
+
+
+the
+ uncompressed
+ wave
+ file
+ because
+ it's
+
+
+too
+ heavy.
+ So
+ you're
+ going
+ to
+ compress
+
+
+it
+ in
+ a
+ much
+ lighter
+ file
+ that
+ you
+ will
+
+
+send
+ over
+ the
+ network
+ and
+ then
+ the
+
+
+receiver
+ can
+ decompress
+ it
+ into
+ back
+
+
+into
+ audio.
+ And
+ the
+ secret
+ is
+ based
+ on
+ a
+
+
+lot
+ of
+ science
+ and
+ knowledge
+ around
+
+
+human
+ hearing.
+ we
+ know
+ what
+ kind
+ of
+
+
+information
+ we
+ can
+ remove
+ from
+ audio
+ so
+
+
+that
+ it
+ won't
+ create
+ a
+ perceived
+
+
+degradation
+ basically.
+ So
+ it's
+ there
+ is
+
+
+a
+ lot
+ of
+ science
+ around
+ what
+ specific
+
+
+information
+ you
+ can
+ remove
+ from
+ from
+ an
+
+
+audio
+ that
+ will
+ make
+ it
+ almost
+ as
+ good
+
+
+for
+ human
+ as
+ the
+ original
+ one
+ despite
+
+
+the
+ fact
+ that
+ you
+ removed
+ a
+ lot
+ of
+
+
+information
+ which
+ allows
+ you
+ to
+
+
+compress.
+ And
+ the
+ main
+ idea
+ was
+ that
+
+
+instead
+ of
+ using
+ hardcoded
+ rules
+ to
+ do
+
+
+that,
+ we
+ would
+ learn
+ from
+ data
+ what
+ are
+
+
+the
+ transformations
+ that
+ allow
+ to
+
+
+compress
+ audio
+ while
+ making
+ it
+ as
+
+
+transparent
+ as
+ possible
+ for
+ for
+ the
+
+
+human
+ ears
+ basically.
+
+
+>> And
+ so
+ now
+ we
+ had
+ this
+ way
+ of
+
+
+compressing
+ extremely
+ efficiently
+ much
+
+
+more
+ than
+ MP3
+ or
+ opus
+ an
+ audio.
+ And
+ in
+ a
+
+
+way
+ you
+ could
+ consider
+ that
+ it
+ was
+ so
+
+
+compressed
+ that
+ it
+ was
+ almost
+ like
+ text.
+
+
+And
+ so
+ we
+ just
+ simple
+ thing
+ we
+ did
+ is
+
+
+just
+ train
+ LLM
+ to
+ predict
+ this
+
+
+compressed
+ studio
+ instead
+ of
+ predicting
+
+
+text.
+ And
+ then
+ you
+ could
+ do
+ is
+ the
+ exact
+
+
+same
+ thing
+ you
+ can
+ do
+ with
+ text.
+ You
+
+
+could
+ prompt.
+ So
+ I
+ take
+ Swiss
+ audio
+
+
+compress
+ it.
+ I
+ pass
+ it
+ to
+ LM
+ and
+ I
+ let
+
+
+it
+ predict
+ the
+ next
+ compressed
+ audio
+ and
+
+
+realized
+ we
+ had
+ in
+ one
+ week
+ we
+ had
+
+
+invented
+ instant
+ voice
+ cloning.
+ So
+ we
+
+
+could
+ replicate
+ any
+ voice
+ with
+ a
+ few
+
+
+second
+ of
+ audio.
+ And
+ yes,
+ this
+ became
+
+
+extremely
+ successful
+ because
+ it
+ was
+ all
+
+
+the
+ advantages
+ we
+ had
+ with
+ LLMs,
+ we
+
+
+could
+ benefit.
+ So
+ LM
+ are
+ great
+ at
+
+
+modeling
+ long
+ context.
+ They
+ scale
+ very
+
+
+well.
+ So
+ if
+ you
+ want
+ to
+ have
+ a
+ large
+
+
+model,
+ you
+ just
+ scale
+ the
+ small
+ model.
+
+
+It
+ sounds
+ obvious
+ like
+ that,
+ but
+ for
+ a
+
+
+lot
+ of
+ architectures,
+ it's
+ very
+
+
+difficult
+ to
+ go
+ from
+ a
+ 100
+ million
+
+
+parameter
+ to
+ a
+ billion
+ parameter
+ model.
+
+
+With
+ transformers
+ and
+ LLMs,
+ it's
+
+
+obvious.
+ And
+ um
+ I
+ could
+ go
+ into
+ more
+
+
+details,
+ but
+ in
+
+
+>> what
+ was
+ that
+ project
+ called?
+
+
+>> ALM.
+ and
+ uh
+ and
+ then
+ it
+ gave
+ music
+ and
+
+
+then
+ it
+ gave
+ notebookm
+ that
+ were
+ the
+
+
+automated
+ podcast
+ and
+ that
+ became
+ the
+
+
+standard
+ framework
+ for
+ audio
+ generation.
+
+
+There
+ were
+ two
+ families
+ that
+ were
+ kind
+
+
+of
+ fighting
+ at
+ one
+ during
+ some
+ time
+ it
+
+
+was
+ diffusion
+ uh
+ models
+ which
+ I
+ think
+
+
+what
+ 11
+ labs
+ was
+ based
+ on
+ early
+ on
+ and
+
+
+we
+ were
+ the
+ audio
+ language
+ model
+ family.
+
+
+I
+ think
+ today
+ virtually
+ everything
+ is
+
+
+audio
+ language
+ models
+ because
+ since
+ they
+
+
+are
+ auto
+ reggressive
+ so
+ they
+ they
+ run
+ in
+
+
+a
+ in
+ a
+ streaming
+ fashion
+ they
+ are
+
+
+naturally
+ compatible
+ with
+ real-time
+
+
+inference
+ which
+ is
+ kind
+ of
+ the
+ main
+
+
+topic
+ around
+ voice
+ right
+ now
+ and
+ so
+
+
+everybody
+ is
+ using
+ uh
+ this
+ technology
+
+
+today
+ and
+ yeah
+ so
+ it
+ was
+ a
+ a
+ very
+ uh
+
+
+very
+ successful
+ and
+ uh
+ and
+ extremely
+
+
+easy
+ to
+ apply
+ to
+ new
+ tasks.
+ So,
+ you
+
+
+know,
+ we
+ did
+ it
+ on
+ speech
+ first
+ and
+ so
+
+
+then
+ we
+ we
+ collected
+ a
+ data
+ set
+ of
+ piano
+
+
+performances
+ and
+ then
+ we
+ had
+ a
+ model
+ for
+
+
+piano
+ and
+ then
+ we
+ did
+ more
+ general
+ music
+
+
+and
+ then
+ we
+ could
+ do
+ pretty
+ much
+ um
+
+
+anything.
+ Uh
+ it's
+ even
+ used
+ by
+ a
+
+
+nonprofit
+ uh
+ lab
+ working
+ on
+ human
+ uh
+
+
+sorry
+ animal
+
+
+>> vocalizations
+ to
+ try
+ to
+ to
+ decode
+ the
+
+
+language
+ of
+ of
+ animals
+ called
+ the
+ Earth
+
+
+Species
+ Project.
+ So
+ yeah,
+ you
+ can
+ it's
+
+
+you
+ know
+ as
+ flexible
+ as
+ LLM
+ forex
+
+
+basically.
+
+
+>> Amazing.
+ Amazing.
+ you
+ played
+ an
+
+
+incredibly
+ uh
+ important
+ pioneering
+ uh
+
+
+role
+ in
+ guess
+ the
+ current
+ state
+ of
+ voice
+
+
+and
+ then
+ what
+ was
+ the
+ next
+ stop
+ after
+
+
+that
+
+
+>> at
+ the
+ time
+ where
+ there
+ where
+ uh
+ Gemini
+
+
+started
+ at
+ at
+ Google
+ that's
+ where
+ that's
+
+
+when
+ I
+ I
+ left
+ so
+ I
+ wanted
+ to
+ to
+ you
+ know
+
+
+to
+ create
+ a
+ small
+ research
+ environment
+
+
+that
+ reminded
+ me
+ of
+ the
+ early
+ days
+ of
+
+
+fair
+ or
+ Google
+ brain
+ so
+ very
+ small
+ team
+
+
+elite
+ uh
+ no
+ distraction
+ sorry
+ to
+ say
+
+
+that
+ no
+ product
+ manager
+ or
+ no
+ you
+ know
+
+
+like
+ just
+ just
+ research
+ scientists,
+ no
+
+
+emails
+ like
+ just
+ just
+ you
+ know
+ uh
+ locked
+
+
+in
+ a
+ room
+ with
+ the
+ machines
+ and
+ uh
+
+
+focused
+ on
+ on
+ science
+ and
+ in
+ particular
+
+
+what
+ the
+ goal
+ for
+ me
+ was
+ really
+ to
+ keep
+
+
+working
+ on
+ fundamental
+ research
+ and
+ keep
+
+
+pushing
+ the
+ field
+ forward
+ and
+ training
+
+
+students
+ and
+ so
+ on
+ because
+ I
+ felt
+ very
+
+
+grateful
+ to
+ have
+ been
+ able
+ to
+ do
+ uh
+
+
+research
+ in
+ such
+ an
+ open
+ environment.
+ It
+
+
+was
+ also
+ obvious
+ for
+ me
+ that
+ uh
+ and
+ for
+
+
+this
+ I
+ think
+ I
+ agree
+ 100%
+ with
+ Yan
+ Lukan
+
+
+the
+ fact
+ that
+ what
+ made
+ AI
+ dynamic
+ and
+
+
+get
+ from
+ imaget
+ in
+ 2012
+ to
+ where
+ we
+ are
+
+
+right
+ now
+ today
+ is
+ open
+ research
+ that's
+
+
+uh
+ because
+ it's
+ kind
+ of
+ a
+ worldwide
+
+
+collaboration
+ and
+ everybody
+ benefits
+
+
+from
+ the
+ progress
+ of
+ everyone.
+ So
+ that's
+
+
+for
+ for
+ me
+ it
+ was
+ important
+ for
+ the
+
+
+field
+ itself
+ to
+ to
+ keep
+ this
+ going
+ and
+
+
+so
+ we
+ decided
+ to
+ create
+ a
+ nonprofit
+ with
+
+
+the
+ help
+ of
+ of
+ Erishad.
+
+
+So
+ for
+ the
+ anecdote
+ the
+ code
+ name
+ was
+
+
+sphere
+ because
+ that's
+ the
+ name
+ of
+ the
+
+
+restaurant
+ where
+ we
+ discuss
+ the
+ project
+
+
+and
+ we
+ then
+ understood
+ that
+ we
+ could
+
+
+never
+ trademark
+ the
+ name
+ sphere
+
+
+obviously.
+ So
+ we
+ just
+ asked
+ a
+ ch
+ GPT
+ for
+
+
+a
+ sphere
+ in
+ a
+ few
+ languages
+ and
+ sphere
+
+
+in
+ Japanese
+ in
+ isqai
+
+
+>> and
+ there
+ was
+ AI
+ in
+ it.
+ So
+ like
+ okay
+
+
+that's
+ the
+ name
+ of
+ the
+ lab
+ now
+ and
+ uh
+ so
+
+
+that's
+ how
+ we
+ created
+ QAI.
+ The
+ first
+
+
+person
+ I
+ I
+ reached
+ out
+ to
+ is
+ Alex
+ dece
+
+
+who
+ is
+ also
+ now
+ co-ounder
+ of
+ of
+ gradium
+
+
+is
+ our
+ chief
+ science
+ officer
+ because
+ we
+
+
+had
+ done
+ our
+ PhD
+ together
+ at
+ Facebook
+
+
+and
+ then
+ when
+ I
+ joined
+ Google
+ we
+ kind
+ of
+
+
+kind
+ of
+ became
+ rivals
+ because
+ uh
+ you
+
+
+know
+ we
+ are
+ working
+ on
+ the
+ same
+ stuff
+ at
+
+
+the
+ same
+ time
+ and
+ every
+ time
+ we'll
+ meet
+
+
+one
+ another
+ we'll
+ just
+ not
+ talk
+ about
+
+
+anything
+ because
+ like
+ what
+ are
+ you
+
+
+working
+ on?
+ Oh,
+ nothing.
+ Okay.
+ And
+ and
+
+
+uh
+ and
+ yeah,
+ and
+ so
+ uh
+ so
+ yeah,
+ we
+ had
+ a
+
+
+small
+ team
+ but
+ with
+ big
+ expertise
+ in
+
+
+speech
+ and
+ we
+ decided
+ to
+ to
+ work
+ on
+ the
+
+
+stuff
+ that
+ again
+ it
+ was
+ opportunistic
+
+
+decision
+ that
+ uh
+ we
+ made.
+ So
+ I
+ looked
+
+
+at,
+ you
+ know,
+ the
+ kind
+ of
+ stuff
+ we
+ could
+
+
+do
+ around
+ voice
+ and
+ for
+ a
+ lab,
+ okay,
+ we
+
+
+had
+ 1,000
+ GPUs
+ that
+ seemed
+ a
+ lot
+ in
+
+
+2023.
+ It
+ was
+ still
+ already
+ at
+ least
+ one
+
+
+order
+ of
+ magnitude
+ lower
+ than
+ biggest
+
+
+labs.
+ So
+ we
+ wanted
+ a
+ project
+ where
+ we
+
+
+could
+ do
+ a
+ difference
+ despite
+ the
+ fact
+
+
+that
+ we
+ were
+ four
+ for
+ people.
+ It
+
+
+shouldn't
+ need
+ too
+ much
+ compute
+ and
+ it
+
+
+should
+ be
+ very
+ innovative
+ so
+ that
+ you
+
+
+know
+ just
+ by
+ being
+ smart
+ about
+ what
+ we
+
+
+did
+ we
+ could
+ make
+ a
+ difference.
+ And
+ so
+
+
+we
+ we
+ focused
+ on
+ conversational
+ AI
+ and
+
+
+real-time
+ conversation
+ because
+ I
+ had
+
+
+seen
+ from
+ the
+ inside
+ at
+ Google
+ that
+
+
+nobody's
+ was
+ daring
+ to
+ touch
+ this
+ topic
+
+
+because
+ it
+ was
+ so
+ challenging,
+ you
+ know,
+
+
+and
+ it
+ really
+ seemed
+ extremely
+ far
+ to
+ be
+
+
+able
+ to
+ to
+ cast
+ the
+ task
+ of
+ dialogue
+
+
+into
+ an
+ LM,
+ right?
+ People
+ were
+ just
+
+
+working
+ on
+ like
+ TTS
+ and
+ speech
+ to
+ text.
+
+
+Uh
+ the
+ interactive
+ stuff
+ was
+ really
+ not
+
+
+there
+ yet.
+ So
+ we
+ thought,
+ okay,
+ we're
+
+
+going
+ to
+ work
+ on
+ it
+ and
+ we're
+ going
+ to
+
+
+make
+ it
+ full
+ duplex.
+ Might
+ as
+ well
+ do
+
+
+something
+ really,
+ really
+ innovative.
+
+
+What
+ we
+ didn't
+ know
+ at
+ the
+ time
+ is
+ that
+
+
+OpenAI
+ was
+ already
+ working
+ on
+ a
+
+
+speechtospech
+ conversation
+ for
+ a
+ while.
+
+
+Uh
+ but
+ in
+ 6
+ months,
+ we
+ have
+ a
+ team
+ of
+
+
+core
+ team
+ of
+ four
+ people
+ and
+ then
+ six,
+
+
+we
+ were
+ able
+ to
+ ship
+ a
+ model
+ train
+ from
+
+
+scratch
+ called
+ Mushi
+ that
+ is
+ still
+ to
+
+
+this
+ day
+ only
+ full
+ duplex
+ model.
+ Uh
+ you
+
+
+can
+ talk
+ to
+ it.
+ It's
+ a
+ bit
+ dumb
+ because
+
+
+it's
+ archaic
+ in
+ terms
+ of
+ intelligence,
+
+
+you
+ know,
+ but
+ the
+ latency
+ is
+ still
+ one
+
+
+year
+ and
+ a
+ half
+ after
+ it's
+ still
+ the
+
+
+best
+ in
+ the
+ world
+ by
+ far.
+
+
+>> Mhm.
+
+
+>> And
+ I
+ think
+ what
+ was
+ very
+ interesting
+
+
+was
+ that
+ a
+ very
+ small
+ team
+ could
+ do
+ make
+
+
+such
+ a
+ difference
+ because
+ then
+ we
+
+
+shipped
+ the
+ first
+ speech
+ to
+ speech
+
+
+translation
+ system
+ and
+ then
+ streaming
+
+
+speech
+ to
+ text
+ and
+ then
+ streaming
+ text
+
+
+to
+ speech
+ and
+ our
+ models
+ have
+ been
+ used
+
+
+across
+ all
+ industry.
+ Uh
+ we
+ are
+ always
+
+
+proud
+ to
+ hear
+ that
+ a
+ lot
+ of
+ big
+
+
+companies
+ are
+ using
+ it,
+ a
+ lot
+ of
+ small
+
+
+companies
+ are
+ using
+ it.
+ Maya
+ and
+ M
+ demo
+
+
+from
+ Sesame
+ was
+ built
+ around
+ our
+ open
+
+
+source
+ models.
+ So
+ I
+ think
+ what
+ I
+ really
+
+
+like
+ about
+ voice
+ and
+ what
+ makes
+ Gradium
+
+
+uh
+ a
+ project
+ I
+ I
+ deeply
+ believe
+ in
+ is
+
+
+it's
+ one
+ of
+ the
+ modalities
+ in
+ AI
+ where
+ a
+
+
+very
+ small
+ team
+ can
+ make
+ a
+ difference.
+
+
+You
+ don't
+ I
+ don't
+ really
+ see
+ benefits
+
+
+from
+ having
+ extremely
+ large
+ organization
+
+
+with
+ a
+ lot
+ of
+ people
+ and
+ resources
+
+
+because
+ you
+ don't
+ need
+ that
+ many
+
+
+resources.
+ you
+ know,
+ you're
+ not
+ you
+
+
+don't
+ need
+ 10,000
+ GPUs
+ to
+ train
+ a
+ a
+
+
+speech
+ model.
+ You
+ don't
+ need
+ 1,000
+
+
+people.
+ The
+ ability
+ to
+ go
+ fast,
+ iterate
+
+
+fast
+ um
+ with
+ the
+ right
+ people
+ to
+ me
+ is
+
+
+far
+ superior
+ to
+ the
+ advantage
+ of
+ having
+
+
+a
+ big
+ uh
+ organization.
+
+
+>> And
+ then
+ let's
+ talk
+ about
+ Gradium.
+ So,
+
+
+Gradium
+ is
+ a
+ commercial
+ spin-off.
+
+
+>> Yes.
+ So,
+ as
+ I
+ said,
+ our
+ open
+ source
+
+
+models
+ were
+ very
+ successful.
+ They
+ are
+
+
+still
+ downloaded
+ uh
+ millions
+ of
+ times
+ a
+
+
+month.
+ And
+ we
+ started
+ having
+ uh
+
+
+companies
+ reaching
+ out
+ from
+ all
+ sizes,
+
+
+small,
+ very
+ large.
+ They
+ saw
+ the
+
+
+potential.
+ Sometimes
+ it
+ was
+ a
+ bit
+ weird
+
+
+because
+ I
+ was
+ talking
+ to
+ uh
+ people
+
+
+leading
+ extremely
+ large
+ teams
+ and
+ I
+ was
+
+
+explaining
+ how
+ I
+ could
+ train
+ by
+ myself
+
+
+uh
+ streaming
+ speech
+ to
+ text
+ that
+ was
+ uh
+
+
+better
+ than
+ all
+ alternatives.
+ There
+ was
+
+
+something
+ we
+ were
+ doing
+ very
+ well
+ but
+ at
+
+
+the
+ same
+ time
+ our
+ open
+ source
+ models
+
+
+remain
+ limited.
+ They
+ were
+ fundamentally
+
+
+prototypes
+ for
+ us.
+ They
+ were
+ not
+ even
+
+
+the
+ actual
+ contribution
+ for
+ us.
+ The
+
+
+contribution
+ was
+ the
+ invention
+ and
+ the
+
+
+related
+ research
+ publication.
+ For
+ us,
+ it
+
+
+was
+ kind
+ of
+ like
+ a
+ artifact
+ accompanying
+
+
+the
+ paper
+ these
+ models.
+ But
+ uh
+ people
+
+
+wanted
+ such
+ models
+ to
+ be
+ multilingual,
+
+
+higher
+ quality,
+ you
+ know,
+ all
+ the
+ things
+
+
+that
+ make
+ an
+ actual
+ product.
+ And
+ so
+ we
+
+
+considered
+ kind
+ of
+ outsourcing
+ this
+
+
+part,
+ you
+ know,
+ working
+ with
+ another
+
+
+team
+ that
+ will
+ lead
+ the
+ product
+ and
+ so
+
+
+on.
+ And
+ honestly
+ after
+ a
+ few
+
+
+interactions
+ I
+ realized
+ nobody
+ could
+
+
+carry
+ such
+ a
+ project
+ except
+ us.
+
+
+>> Nobody
+ can
+ believe
+ in
+ something
+ if
+ they
+
+
+have
+ not
+ uh
+ developed
+ it
+ from
+ scratch.
+
+
+We
+ were
+ in
+ conversations
+ with
+ uh
+
+
+companies
+ that
+ wanted
+ to
+ create
+
+
+partnerships
+ to
+ improve
+ uh
+ our
+ open
+
+
+source
+ models
+ and
+ I
+ would
+ look
+ at
+ the
+
+
+specifications
+ they
+ wanted
+ and
+ I
+
+
+realized
+ it's
+ something
+ we
+ could
+ do
+ in
+ a
+
+
+few
+ days
+ and
+ they
+ had
+ been
+ struggling
+
+
+for
+ months.
+ So
+ yeah,
+ I
+ mean
+ it
+ seems
+
+
+that
+ we
+ are
+ also
+ the
+ best
+ team
+ to
+ to
+ do
+
+
+that.
+ And
+ from
+ a
+ personal
+ point
+ of
+ view,
+
+
+you
+ know,
+ I
+ was
+ kind
+ of
+ addict
+ to
+
+
+academic
+ prestige.
+ Uh
+ having
+ best
+ paper
+
+
+awards,
+ all
+ this
+ stuff,
+ it
+ was
+ always
+
+
+nice,
+ but
+ it
+ was
+ never
+ enough.
+ Every
+
+
+time
+ I
+ did
+ a
+ paper,
+ I
+ was
+ happy
+ for
+ like
+
+
+two
+ hours
+ and
+ then
+ I
+ was
+ already
+
+
+thinking
+ about
+ the
+ next
+ version.
+ And
+ at
+
+
+the
+ same
+ time
+ it
+ felt
+ a
+ bit
+ weird
+
+
+eventually
+ that
+ I
+ could
+ not
+ imagine
+ that
+
+
+at
+ the
+ end
+ of
+ my
+ career
+ I
+ would
+ have
+
+
+worked
+ on
+ something
+ so
+ applied
+ and
+ so
+
+
+close
+ to
+ actual
+ real
+ life
+ applications
+
+
+and
+ not
+ doing
+ them
+ uh
+ myself
+ you
+ know
+
+
+not
+ contributing
+ to
+ them
+ directly.
+ So
+ I
+
+
+think
+ in
+ the
+ end
+ even
+ in
+ terms
+ of
+
+
+achievement
+ academic
+ success
+ is
+ one
+
+
+thing
+ but
+ nothing
+
+
+is
+ near
+ in
+ terms
+ of
+ impact
+ to
+ the
+ fact
+
+
+of
+ having
+ people
+ using
+ your
+ models
+ for
+
+
+the
+ the
+ real
+ world
+ and
+ in
+ a
+ way
+ I
+ think
+
+
+it's
+ it's
+ something
+ that
+ is
+ uh
+ it's
+ kind
+
+
+of
+ generalized
+ now
+ in
+ the
+ industry
+ and
+
+
+was
+ also
+ something
+ that
+ made
+ me
+ think
+ is
+
+
+I
+ looked
+ at
+ all
+ the
+ people
+ I
+ respected
+
+
+the
+ most.
+ The
+ main
+ one
+ being
+ to
+ me
+ a
+
+
+living
+ legend
+ Aon
+ von
+ art
+ from
+ Google
+
+
+deep
+ mind
+ all
+ these
+ guys
+ they
+ they
+ they
+
+
+were
+ making
+ so
+ nice
+ contributions
+
+
+scientifically
+ and
+ then
+ they
+ decided
+ to
+
+
+focus
+ on
+ products
+ and
+ I
+ think
+ it's
+ I
+
+
+want
+ to
+ think
+ it's
+ because
+ they
+ also
+
+
+realize
+ that
+ academic
+ prestige
+ is
+ one
+
+
+thing
+ but
+ making
+ a
+ real
+ impact
+ is
+ having
+
+
+your
+ models
+ being
+ used
+ in
+ the
+ real
+ world
+
+
+and
+ so
+ for
+ me
+ it's
+ it's
+ the
+ ultimate
+ uh
+
+
+impact
+ we
+ can
+ have
+ we
+ still
+ do
+ science
+
+
+um
+ in
+ particular
+ cutai
+ keeps
+ doing
+ open
+
+
+source
+ and
+ open
+ science
+ and
+ so
+ on.
+ For
+
+
+me
+ the
+ upside
+ about
+ it
+ is
+ mostly
+ to
+ be
+
+
+able
+ to
+ train
+ the
+ next
+ generation
+ of
+ AI
+
+
+researchers
+ and
+ keep
+ the
+ field
+ alive
+ as
+
+
+I
+ said
+ because
+ I
+ think
+ it's
+ to
+ have
+ a
+
+
+healthy
+ and
+ vibrant
+ AI
+ field
+ you
+ need
+ to
+
+
+have
+ scientific
+ dissemination
+ so
+
+
+scientific
+ exchange
+ between
+ institutions
+
+
+>> and
+ there
+ also
+ you
+ know
+ like
+ the
+ Chinese
+
+
+lab
+ I
+ making
+ a
+ remarkable
+ work
+ and
+ they
+
+
+kind
+ of
+ are
+ forcing
+ everyone
+ to
+ stay
+
+
+open
+ to
+ some
+ extent
+ because
+ otherwise
+ it
+
+
+also
+ hurts
+ the
+ ego
+ I
+ think
+ of
+ of
+ the
+
+
+people
+ who
+ are
+ in
+ the
+ lab
+ that
+ don't
+
+
+publish.
+ That
+ was
+ also
+ something
+ where
+ I
+
+
+was
+ very
+ opportunistic
+ about.
+ So
+ my
+
+
+strategy
+ was
+ like
+ if
+ we
+ publish
+ in
+ a
+
+
+world
+ where
+ the
+ others
+ don't
+ publish
+ uh
+
+
+they
+ will
+ get
+ so
+ pissed
+ uh
+ you
+ know
+ of
+
+
+us
+ claiming
+ all
+ the
+ inventions
+ that
+ it
+
+
+will
+ make
+ them
+ join
+ us
+ eventually.
+ And
+
+
+it's
+ true
+ that
+ you
+ know
+ it's
+ kind
+ of
+
+
+hard
+ because
+ some
+ people
+ they
+ they
+ want
+
+
+to
+ be
+ in
+ the
+ in
+ the
+ place
+ that
+ is
+ the
+
+
+cool
+ place
+ where
+ the
+ cool
+ stuff
+ happens.
+
+
+It's
+ not
+ only
+ about
+ composition
+ and
+ so
+
+
+on.
+ It's
+ uh
+ now
+ it's
+ it's
+ I
+ would
+ say
+
+
+everybody
+ working
+ in
+ AI
+ and
+ doing
+ a
+ good
+
+
+job
+ in
+ AI
+ is
+ going
+ to
+ get
+ good
+ economic
+
+
+outcomes.
+ So
+ then
+ what
+ can
+ you
+ you
+ know
+
+
+glory
+ is
+ also
+ very
+ important
+ and
+ it
+ can
+
+
+be
+ scientific
+ or
+ it
+ can
+ be
+ just
+ being
+
+
+proud
+ that
+ you
+ are
+ making
+ the
+ best
+
+
+products
+ but
+ I
+ think
+ it's
+ also
+ an
+
+
+important
+ part
+ important
+ part.
+ Yeah.
+
+
+>> Great.
+ Now,
+ Gradium
+ is
+ an
+ actual
+ company
+
+
+that
+ was
+ launched
+ a
+ few
+ months
+ ago
+ and
+
+
+obviously
+ you
+ are
+ a
+ new
+ entrance
+ in
+ the
+
+
+field
+ of
+ AI
+ where
+ there's
+ a
+ tremendous
+
+
+amount
+ of
+ competition.
+ So,
+ I
+ think
+ for
+
+
+for
+ voice
+ in
+ particular
+ like
+ the
+ obvious
+
+
+question
+ is
+ why
+ has
+ OpenAI
+ or
+ Google
+ or
+
+
+MEA
+ not
+ already
+ won
+ Voice
+ AI?
+ And
+ I
+
+
+think
+ you
+ probably
+ alluded
+ to
+ some
+ of
+
+
+the
+ reasons
+ up
+ front,
+ but
+ why
+ why
+ is
+
+
+that?
+ Why
+ why
+ can
+ a
+ small
+ company
+ hope
+
+
+to
+ become
+ the
+ leader?
+
+
+>> So
+ one
+ thing
+ I
+ I
+ mentioned
+ was
+ u
+ if
+ you
+
+
+have
+ the
+ right
+ team
+ it
+ can
+ be
+ extremely
+
+
+small
+ and
+ still
+ make
+ a
+ significant
+
+
+impact.
+ Other
+ uh
+ arguments
+ I
+ think
+ is
+
+
+one
+ is
+ focus.
+ So
+ for
+ example,
+ if
+ you
+
+
+look
+ at
+ large
+ multimodel
+ models,
+ right?
+
+
+Like
+ these
+ generic
+ models
+ that
+
+
+understand
+ images
+ and
+ can
+ generate
+ text
+
+
+and
+ can
+ produce
+ code
+ and
+ so
+ on.
+ You
+ have
+
+
+uh
+ like
+ a
+ limited
+ budget
+ which
+ is
+ a
+
+
+number
+ of
+ parameters
+ and
+ data
+ you're
+
+
+going
+ to
+ fit
+ to
+ your
+ model.
+ When
+ you
+
+
+want
+ to
+ add
+ speech
+ to
+ them,
+ you're
+
+
+fighting
+ with
+ coding
+ and
+ uh
+ image
+
+
+understanding
+ and
+ so
+ on.
+ So
+ you
+ are
+
+
+playing
+ with
+ a
+ lot
+ of
+ trade-offs
+ that
+
+
+are
+ irrelevant
+ to
+ the
+ task
+ that
+ you
+ want
+
+
+to
+ to
+ solve.
+ And
+ at
+ the
+ same
+ time
+ these
+
+
+models
+ are
+ so
+ large
+ they
+ cannot
+ run
+ at
+
+
+scale
+ because
+ they
+ will
+ just
+ make
+
+
+everyone
+ lose
+ money
+ in
+ the
+ process.
+ The
+
+
+only
+ uh
+ format
+ that
+ makes
+ sense
+ for
+
+
+speech
+ models
+ to
+ run
+ at
+ scale
+ is
+ to
+ be
+
+
+extremely
+ compact
+ which
+ also
+ means
+ that
+
+
+the
+ training
+ resources
+ you
+ need
+ to
+ train
+
+
+them
+ are
+ much
+ smaller
+ than
+ what
+ you
+ need
+
+
+in
+ a
+ to
+ train
+ other
+ kind
+ of
+ model.
+ So
+
+
+the
+ resources
+ are
+ not
+ as
+ challenging
+ as
+
+
+for
+ text
+ models.
+ I
+ think
+ also
+ another
+
+
+aspect
+ is
+ uh
+ in
+ a
+ way
+ not
+ trying
+ to
+ just
+
+
+make
+ a
+ conversational
+ product.
+ So
+ really
+
+
+making
+ building
+ blocks
+ so
+ that
+ people
+
+
+can
+ build
+ the
+ product.
+ So
+ we
+ could
+ make
+
+
+the
+ gradium
+ conversational
+ assistant
+ and
+
+
+think
+ a
+ lot
+ about
+ its
+ capabilities
+ and
+
+
+what
+ it
+ can
+ do
+ and
+ what
+ it
+ cannot
+ do
+ and
+
+
+what
+ will
+ be
+ the
+ use
+ cases
+ for
+ people
+
+
+and
+ so
+ on
+ and
+ hope
+ that
+ uh
+ like
+ the
+
+
+voice
+ mode
+ of
+ open
+ AI
+ it's
+ used
+ for
+ this
+
+
+task
+ and
+ this
+ task
+ and
+ so
+ on.
+ But
+ it's
+
+
+impossible
+ to
+ cover
+ everything
+ with
+
+
+that.
+ And
+ so
+ now
+ if
+ we
+ want
+ to
+ cover
+ uh
+
+
+NPCs
+ uh
+ fake
+ sport
+ commentors
+ in
+ in
+
+
+video
+ game
+ and
+ a
+ language
+ learning
+ app
+
+
+and
+ an
+ annoying
+ character
+ in
+ a
+ cartoon
+
+
+and
+ the
+ customer
+ uh
+ center
+ agent
+ and
+ so
+
+
+on,
+ then
+ we
+ just
+ make
+ the
+ building
+
+
+blocks.
+ And
+ this
+ again
+ is
+ it's
+ not
+
+
+really
+ I
+ think
+ in
+ the
+ DNA
+ of
+ big
+
+
+companies
+ to
+ do
+ this
+ kind
+ of
+ very
+
+
+specific
+ models
+ that
+ are
+ targeted
+
+
+towards
+ developers
+ uh
+ rather
+ than
+ trying
+
+
+to
+ solve
+ a
+ lot
+ of
+ things
+ at
+ the
+ same
+
+
+time.
+
+
+>> And
+ then
+ there's
+ an
+ additional
+ aspect
+ to
+
+
+this
+ which
+ is
+ that
+ voice
+ can
+ also
+ and
+
+
+should
+ be
+ pretty
+ often
+ on
+ device
+ versus
+
+
+uh
+ an
+ API
+ call
+ to
+ the
+ cloud.
+ Is
+ that
+ is
+
+
+that
+ fair?
+ I
+ think
+ what
+ is
+ very
+ ch
+ very
+
+
+challenging
+ right
+ now
+ is
+ if
+ you
+ want
+ to
+
+
+have
+ the
+ full
+ intelligence
+ on
+ device
+
+
+like
+ the
+ like
+ your
+ full
+ conversational
+
+
+AI
+ on
+ device.
+ Honestly
+ I
+ would
+ say
+ at
+
+
+this
+ point
+ if
+ you
+ want
+ such
+ a
+ model
+ to
+
+
+be
+ useful
+ we
+ are
+ not
+ there
+ yet
+ right
+ you
+
+
+can
+ have
+ something
+ that
+ can
+ chit
+ chat
+ a
+
+
+bit
+ and
+ it
+ will
+ be
+ decent
+ or
+ we
+ also
+
+
+have
+ shipped
+ models
+ on
+ device
+ but
+ they
+
+
+are
+ much
+ more
+ constrained
+ in
+ terms
+ of
+
+
+applications.
+ So
+ for
+ example,
+ we
+ we
+
+
+started
+ a
+ year
+ ago
+ with
+ a
+ ondevice
+
+
+speech
+ to
+ speech
+ translation
+ which
+ is
+
+
+something
+ that
+ makes
+ a
+ lot
+ of
+ sense
+
+
+because
+ when
+ you're
+ traveling
+ maybe
+ you
+
+
+know
+ you
+ don't
+ have
+ a
+ data
+ plan
+ that
+ is
+
+
+uh
+ going
+ in
+ every
+ country.
+ So
+ it
+ makes
+ a
+
+
+sense
+ to
+ have
+ something
+ that
+ works
+ on
+
+
+your
+ phone
+ if
+ you
+ want
+ to
+ order
+ at
+ a
+
+
+restaurant
+ or
+ something
+ like
+ that.
+ I
+
+
+think
+ it's
+ a
+ particularly
+ adapted
+ use
+
+
+case.
+ But
+ now
+ we
+ also
+ uh
+ we
+ released
+ two
+
+
+weeks
+ ago
+ a
+ model
+ called
+ Pocket
+ TTS
+ that
+
+
+not
+ only
+ is
+ on
+ device
+ but
+ CPU
+ only.
+ So
+
+
+uh
+ there
+ are
+ already
+ mods
+ for
+ AAA
+ video
+
+
+games
+ uh
+ where
+ the
+ NPCs
+ can
+ be
+ powered
+
+
+through
+ these
+ voice
+ models
+ and
+ now
+ you
+
+
+unlock
+ a
+ completely
+ new
+ kind
+ of
+ of
+
+
+applications
+ because
+ ondevice
+ models
+
+
+allow
+ to
+ do
+ very
+ large
+ scale
+
+
+personalized
+ content
+ that
+ will
+ be
+ uh
+
+
+economically
+ and
+ not
+ realistic
+ with
+ an
+
+
+API.
+ So
+ again
+ these
+ kind
+ of
+ things
+ is
+ uh
+
+
+you
+ know
+ if
+ you
+ want
+ to
+ make
+ meaningful
+
+
+progress
+ in
+ that
+ direction
+ making
+ small
+
+
+models
+ in
+ voice
+ is
+ much
+ more
+ difficult
+
+
+than
+ making
+ large
+ models
+ invoice.
+ So
+
+
+keeping
+ the
+ quality
+ while
+ reducing
+ the
+
+
+size
+ of
+ the
+ model
+ that's
+ where
+ the
+ big
+
+
+challenge
+ is
+ and
+ our
+ CPU
+ model
+ in
+ terms
+
+
+of
+ algorithm
+ it's
+ like
+ the
+ cutting
+ edge
+
+
+of
+ what
+ we
+ know
+ you
+ know
+ it's
+ really
+ the
+
+
+latest
+ generation
+ of
+ everything
+ we've
+
+
+been
+ doing
+ so
+ far.
+ So
+ just
+ a
+ few
+ days
+
+
+ago
+ there
+ was
+ this
+ big
+ announcement
+ by
+
+
+Alibaba/quen
+ that
+ they
+ were
+ open
+
+
+sourcing
+ the
+ Quen
+ 3
+ TTS
+ family
+ for
+ voice
+
+
+design
+ clone
+ and
+ generation.
+ How
+ do
+ you
+
+
+think
+ about
+ uh
+ opensource
+
+
+uh
+ in
+ your
+ world
+ as
+ Gradium?
+ Is
+ that
+ a
+
+
+friend?
+ Is
+ that
+ a
+ foe?
+ So
+ if
+ you
+ if
+ you
+
+
+read
+ the
+ paper
+ you
+ will
+ find
+ our
+ our
+
+
+names
+ uh
+ in
+ several
+ pages.
+ It's
+ mostly
+
+
+uh
+ inspired
+ from
+ uh
+ the
+ Mushi
+
+
+architecture
+ like
+ pretty
+ much
+ every
+ uh
+
+
+model
+ right
+ now
+ even
+ the
+ VTA
+ model
+ that
+
+
+was
+ released
+ by
+ Mistral
+ tweaks
+ ago
+ is
+
+
+also
+ uh
+ based
+ on
+ on
+ our
+ framework.
+ I
+
+
+think
+ that's
+ really
+ interesting
+ because
+
+
+this
+ proves
+ that
+ uh
+ uh
+ there
+ are
+ things
+
+
+that
+ we
+ you
+ know
+ that
+ we
+ do
+ right
+
+
+because
+ everybody
+ is
+ building
+ on
+ them.
+
+
+At
+ the
+ same
+ time,
+ I
+ would
+ say
+ it's
+ quite
+
+
+an
+ advantage
+ because
+ I
+ would
+ say
+ not
+
+
+there
+ are
+ two
+ kinds
+ of
+ p
+ research
+
+
+papers.
+ There
+ are
+ research
+ papers
+ that
+
+
+are
+ meant
+ to
+ be
+ as
+ explicit
+ and
+
+
+reproducible
+ as
+ possible
+ which
+ is
+ what
+
+
+we
+ try
+ to
+ do
+ when
+ we
+ do
+ one.
+ And
+ there
+
+
+are
+ some
+ that
+ are
+ more
+ about
+ I
+ would
+ say
+
+
+marketing
+ in
+ the
+ sense
+ that
+ they
+ are
+
+
+mostly
+ focused
+ on
+ the
+ results
+ and
+ the
+
+
+performance
+ rather
+ than
+ explaining
+ the
+
+
+underlying
+ mechanism
+ and
+ the
+ data
+ and
+ so
+
+
+on
+ and
+ so
+ forth.
+ The
+ nice
+ thing
+ of
+ build
+
+
+people
+ building
+ around
+ the
+ frameworks
+ we
+
+
+introduce
+ is
+ that
+ even
+ when
+ they
+ don't
+
+
+give
+ details
+ we
+ can
+ infer
+ the
+ details.
+
+
+So
+ in
+ a
+ way
+ in
+ a
+ competitive
+ landscape
+ I
+
+
+think
+ it's
+ a
+ it's
+ quite
+ an
+ advantage
+
+
+because
+ in
+ a
+ way
+ it
+ would
+ be
+ more
+
+
+challenging
+ if
+ people
+ were
+ transitioning
+
+
+to
+ something
+ completely
+ different
+ from
+
+
+what
+ we've
+ been
+ doing
+ because
+ you
+ know
+
+
+then
+ we
+ would
+ could
+ not
+ infer
+ anything
+
+
+from
+ when
+ reading
+ their
+ papers.
+ Now
+ all
+
+
+of
+ this
+ is
+ very
+ familiar
+ when
+ we
+ read
+
+
+those
+ and
+ at
+ the
+ same
+ time
+ we
+ have
+ all
+
+
+the
+ issues
+ that
+ people
+ are
+ facing.
+ We
+
+
+have
+ been
+ facing
+ them
+ for
+ a
+ while
+ and
+ so
+
+
+we
+ have
+ already
+ workarounds
+ and
+ new
+
+
+versions
+ and
+ so
+ on.
+ Open
+ source
+ at
+
+
+cutout
+ that's
+ like
+ the
+ the
+ end
+ goal
+ of
+
+
+the
+ lab
+ at
+ gradium
+ that's
+ not
+ the
+ end
+
+
+goal
+ of
+ the
+ lab.
+ The end
+ goal
+ of
+ lab
+ is
+
+
+to
+ make
+ uh
+ of
+ the
+ companies
+ to
+ make
+
+
+competitive
+ products
+ that
+ outperform
+
+
+every
+ alternatives.
+ But
+ open
+ source
+ is
+ I
+
+
+think
+ it's
+ a
+ good
+ way
+ of
+ uh
+ allowing
+
+
+developers
+ to
+ prototype
+ stuff
+
+
+understanding
+ what
+ people
+ expect
+ what
+
+
+they
+ want.
+ You
+ know
+ it's
+ also
+ a
+ way
+ to
+
+
+train
+ talent.
+
+
+>> Mh.
+
+
+>> A
+ few
+ days
+ ago
+ we
+ released
+ the
+ hibiki
+
+
+zero.
+ So
+ that's
+ hibiki
+ was
+ our
+
+
+speechtospech
+ translation
+ system.
+ Now
+
+
+it's
+ a
+ new
+ algorithm
+ uh
+ that
+ makes
+ it
+
+
+even
+ lower
+ latency,
+ better
+ voice
+
+
+cloning,
+ multilingual
+ and
+ so
+ on
+ and
+ so
+
+
+forth.
+ And
+ the
+ PhD
+ student
+ who
+ who
+ was
+
+
+working
+ on
+ that
+ project
+ at
+ Qoutai
+ is
+
+
+joining
+ Gradium
+ for
+ a
+ few
+ months
+ to
+ do
+
+
+visiting
+ PhD
+ and
+ then
+ he
+ will
+ start
+ his
+
+
+PhD
+ again.
+ So
+ I
+ think
+ there
+ are
+ very
+
+
+healthy
+ relations
+ between
+ open
+ source
+
+
+and
+ proource
+ that
+ can
+ be
+ done.
+ At
+ the
+
+
+same
+ time
+ I
+ u
+ I
+ don't
+ think
+ it's
+ it
+
+
+hurts
+ any
+ defensibility
+ quite
+ the
+
+
+opposite
+ honestly
+
+
+>> and
+ uh
+ and
+ so
+ I
+ think
+ it's
+ um
+ it's
+ also
+
+
+for
+ talent
+ it's
+ very
+ attractive
+ because
+
+
+people
+ when
+ they
+ join
+ us
+ they
+ know
+ that
+
+
+they
+ can
+ work
+ on
+ really
+ competitive
+
+
+products
+ but
+ at
+ the
+ same
+ time
+ they
+ can
+
+
+keep
+ sharing
+ uh
+ models
+ and
+ more
+
+
+exploratory
+ research
+ and
+ do
+ really
+
+
+frontier
+ stuff
+ and
+ I
+ think
+ if
+ we
+ want
+ to
+
+
+stay
+ uh
+ at
+ the
+ cutting
+ edge
+
+
+We
+ should
+ be
+ a
+ product
+ company
+ but
+ also
+
+
+be
+ a
+ frontier
+ lab
+ and
+ being
+ a
+ frontier
+
+
+lab
+ you
+ need
+ to
+ do
+ fundamental
+ research
+
+
+too.
+
+
+>> Y
+ to
+
+
+>> what's
+ the
+ gap
+ between
+ uh
+ open
+ source
+
+
+and
+ closed
+ source
+ in
+ voice
+ obviously
+ in
+
+
+text
+ there
+ is
+ like
+ this
+ cat
+ and
+ mouse
+
+
+game
+ and
+ the
+ it
+ seems
+ that
+ the
+
+
+commercial
+ labs
+ are
+ constantly
+ like
+
+
+pretty
+ far
+ ahead
+ of
+ the
+ open
+ source.
+ Is
+
+
+that
+ the
+ same
+ thing
+ in
+ voice
+ AI?
+ So
+ what
+
+
+is
+ interesting
+ in
+ a
+ in
+ a
+ in
+ voice
+ is
+ now
+
+
+I
+ think
+ a
+ high
+ school
+ student
+ could
+ make
+
+
+something
+ that
+ is
+ decent
+ but
+ then
+ what
+
+
+people
+ want
+ is
+ the
+ last
+ mile
+ and
+ the
+
+
+last
+ mile
+ is
+ extremely
+ difficult
+ and
+ the
+
+
+last
+ mile
+ is
+ pronouncing
+ well
+ all
+ the
+
+
+difficult
+ cases
+ is
+ having
+ a
+ latency
+ that
+
+
+not
+ only
+ is
+ low
+ but
+ is
+ robust
+ and
+ almost
+
+
+zero
+ downtime
+ and
+ um
+ you
+ know
+ being
+ able
+
+
+to
+ clone
+ voices
+ regardless
+ of
+ accents
+
+
+and
+ so
+ on.
+ all
+ all
+ these
+ hard
+ cases
+ for
+
+
+me
+ the
+ only
+ way
+ to
+ find
+ the
+ energy
+ to
+
+
+solve
+ them
+ is
+ because
+ that's
+ your
+
+
+business
+ you
+ know
+ because
+ uh
+ otherwise
+
+
+if
+ you
+ look
+ at
+ benchmarks
+ like
+ the
+
+
+benchmarks
+ for
+ TTS
+ it's
+ a
+ libri
+ speech
+
+
+so
+ it's
+ it's
+ books
+ a
+ lot
+ of
+ them
+ from
+
+
+dstyfki
+ so
+ it's
+ it's
+ it's
+ more
+ about
+
+
+whether
+ you
+ are
+ going
+ to
+ miss
+ a
+ i
+ or
+ a
+ y
+
+
+in
+ a
+ in
+ a
+ Russian
+ name
+ or
+ you
+ know
+ it
+
+
+doesn't
+ evaluate
+ can
+ you
+ pronounce
+ phone
+
+
+numbers
+ and
+ email
+ addresses
+ and
+ URLs
+ and
+
+
+all
+ this
+ stuff.
+ So,
+ so
+ when
+ you
+ optimize
+
+
+for
+ the
+ bench
+ these
+ benchmarks,
+ you
+ lose
+
+
+a
+ lot
+ of
+ uh
+ the
+ actual
+ real
+ world
+ cases.
+
+
+Yeah.
+ So,
+ I
+ think
+ the
+ main
+ difference
+ is
+
+
+the
+ incentive
+ to
+ do
+ things
+ really
+ with
+
+
+the
+ finest
+ details
+ only
+ makes
+ sense
+ for
+
+
+when
+ you
+ want
+ to
+ be
+ competitive
+ in
+
+
+product.
+ It's
+ not
+ only
+ about
+ the
+ models,
+
+
+right?
+ Uh
+ the
+ infrastructure
+ to
+ to
+ run
+
+
+these
+ models
+ at
+ scale
+ is
+ extremely
+
+
+important.
+ I
+ think
+ particularly
+ in
+ a
+ API
+
+
+uh
+ business
+ model
+ your
+ margins
+ mostly
+
+
+depend
+ from
+ the
+ efficiency
+ of
+ your
+
+
+inference
+ and
+ so
+ in
+ particular
+ I'm
+ very
+
+
+lucky
+ to
+ have
+ in
+ my
+ team
+ one
+ of
+ my
+
+
+co-ounders
+ law
+ who
+ did
+ several
+ years
+ in
+
+
+you
+ know
+ he
+ did
+ all
+ this
+ car
+ in
+
+
+quantitative
+ finance
+ mostly
+ at
+ Jane
+
+
+Street
+ and
+ now
+ we
+ have
+ more
+ people
+
+
+coming
+ from
+ quantitative
+ finance
+ and
+
+
+these
+ people
+ they
+ are
+ really
+ passionate
+
+
+about
+ efficient
+ inference
+ that's
+ their
+
+
+bread
+ and
+ butter
+ you
+ know
+ uh
+ because
+ in
+
+
+financial
+ like
+ uh
+ in
+ high
+ frequency
+
+
+trading
+ that's
+ kind
+
+
+that's
+ the
+ only
+ way
+ to
+ exist
+ and
+ and
+ the
+
+
+engineering
+ challenges
+ are
+ really
+
+
+significant
+ and
+ I
+ think
+ a
+ team
+ in
+
+
+engineering
+ as
+ well
+ and
+ not
+ just
+ like
+
+
+training
+ models
+ makes
+ a
+ huge
+ difference
+
+
+and
+ where
+ now
+ if
+ we're
+ talking
+ then
+
+
+about
+ on
+ device
+ inference
+ that's
+ even
+
+
+more
+ complex
+ right
+ if
+ you
+ want
+ a
+ model
+
+
+to
+ run
+ on
+ all
+ Android
+ and
+ iPhone
+ and
+ so
+
+
+on
+ you
+ know
+ that's
+ a
+ big
+ engineering
+
+
+challenge
+
+
+>> you
+ mentioned
+ benchmarks
+ a
+ minute
+ ago
+
+
+and
+ that
+ seems
+ to
+ A
+ really
+ interesting
+
+
+question
+ for
+ voice
+ and
+ video
+ as
+ well
+ and
+
+
+images
+ is
+ how
+ do
+ you
+ make
+ a
+ case
+ that
+
+
+your
+ technology
+ is
+ better
+ than
+ the
+ next
+
+
+provider
+ because
+ some
+ of
+ it
+ seems
+ to
+ be
+
+
+a
+ little
+ bit
+ around
+ vibes
+ right
+ like
+ how
+
+
+you
+ feel
+ when
+ you're
+ on
+ the
+ receiving
+
+
+end
+ of
+ a
+ voice
+ AI.
+ One
+ things
+ that
+ is
+ uh
+
+
+that
+ is
+ clear
+ is
+ that
+ you
+ can
+ only
+ trust
+
+
+human
+ judgment.
+ People
+ have
+ tried
+ to
+
+
+make
+ objective
+ proxies
+
+
+of
+ uh
+ human
+ judgment
+ like
+ that
+ would
+ be
+
+
+a
+ neural
+ network
+ that
+ listens
+ to
+ an
+
+
+audio
+ and
+ gives
+ it
+ a
+ grade.
+ Uh
+ it
+ sucks
+
+
+like
+ so
+ many
+ people
+ try
+ and
+ it
+ works
+ on
+
+
+their
+ constrained
+ setting
+ and
+ on
+ real
+
+
+audio
+ it
+ doesn't
+ work
+ at
+ all
+ and
+
+
+completely
+ breaks.
+ So
+ we
+ don't
+ trust
+
+
+anything
+ about
+ uh
+ you
+ know
+ but
+ our
+ ears.
+
+
+So
+ we
+ do
+ a
+ lot
+ of
+ blind
+ test
+ internally.
+
+
+We
+ do
+ a
+ lot
+ of
+ blind
+ test
+ externally.
+ So
+
+
+we
+ are
+ working
+ with
+ human
+ judgment
+
+
+constantly.
+ So
+ every
+ single
+ decision
+ we
+
+
+make
+ is
+ based
+ on
+ human
+ listening.
+ We
+
+
+don't
+ trust
+ metrics
+ at
+ all.
+ So
+ it's
+
+
+fundamentally
+ subjective
+ experience
+ the
+
+
+quality
+ of
+ audio.
+ But
+ there
+ are
+ some
+
+
+things
+ that
+ are
+ going
+ to
+ be
+ widely
+
+
+shared
+ rather
+ like
+ the
+ the
+ pro
+ the
+ tone
+
+
+and
+ the
+ rhythm
+ are
+ natural
+ or
+ not.
+ A
+ lot
+
+
+of
+ people
+ would
+ agree
+ on
+ that.
+ Is
+ a
+
+
+voice
+ nice
+ or
+ not?
+ Nobody
+ agrees
+ on
+
+
+that.
+ And
+ so
+ then
+ the
+ only
+ way
+ for
+ me
+ to
+
+
+claim
+ to
+ have
+ uh
+ the
+ best
+ solution
+ is
+ to
+
+
+have
+ the
+ largest
+ uh
+ catalog
+ and
+ most
+
+
+diverse
+ set
+ of
+ voices
+ that
+ people
+ can
+
+
+pick
+ because
+ then
+ you
+ know
+ it's
+
+
+the
+ kind
+ of
+ what
+ voice
+ are
+ people
+ going
+
+
+to
+ like
+ this
+ really
+ depends
+ on
+ uh
+ uh
+
+
+between
+ people.
+ I
+ had
+ faced
+ that
+ in
+ the
+
+
+past
+ when
+ we
+ did
+ music
+ at
+ Google.
+ So
+ for
+
+
+the
+ first
+ time
+ we
+ made
+ you
+ know
+ text
+ to
+
+
+music.
+ So
+ you
+ could
+ type
+ like
+ uh
+ death
+
+
+metal
+ with
+ Marima
+ or
+ whatever
+ and
+ you
+
+
+get
+ death
+ metal
+ with
+ MIMA
+ and
+ uh
+ and
+ so
+
+
+we
+ put
+ like
+ some
+ like
+ a
+ website
+ online
+
+
+where
+ people
+ could
+ do
+ this
+ stuff
+ and
+ at
+
+
+the
+ same
+ time
+ we
+ were
+ already
+ planning
+
+
+to
+ do
+ for
+ the
+ first
+ time
+ a
+ LHF
+ so
+
+
+reinforcement
+ learning
+ from
+ human
+
+
+feedback
+ on
+ music
+
+
+>> and
+ so
+ what
+ we
+ had
+ designed
+ is
+ people
+
+
+could
+ give
+ a
+ so
+ there
+ will
+ be
+ two
+
+
+generations
+ every
+ time
+ and
+ people
+ could
+
+
+give
+ a
+ trophy.
+ I
+ had
+ planned
+ that
+
+
+because
+ you
+ know
+ I
+ wanted
+ for
+ the
+ first
+
+
+time
+ to
+ have
+ integrate
+ humans
+ in
+ the
+
+
+loop
+ of
+ music
+ generation
+ because
+ I
+ think
+
+
+you
+ know
+ scientifically
+ that
+ will
+ be
+ uh
+
+
+really
+ huge
+ uh
+ and
+ what
+ was
+ interesting
+
+
+is
+ that
+ so
+ we
+ made
+ a
+ a
+ paper
+ about
+ that
+
+
+called
+ musicl
+ and
+ it
+ was
+ quite
+ nice
+ but
+
+
+the
+ results
+ were
+ not
+ extremely
+
+
+convincing
+ and
+ then
+ what
+ we
+ did
+ is
+ that
+
+
+we
+ just
+ did
+ judgements
+ judgment
+
+
+ourselves
+ so
+ you
+ know
+ with
+ people
+ with
+
+
+my
+ colleagues
+ we
+ took
+ like
+ I
+ don't know
+
+
+10
+ or
+ 20
+ pairs
+ of
+ audio
+ and
+ each
+ time
+ we
+
+
+choose
+ our
+ preferred
+ one
+ and
+ there
+ was
+
+
+zero
+ agreement
+ between
+ people.
+ So
+ there
+
+
+is
+ no
+ way
+ uh
+ you
+ know
+ like
+ an
+ algorithm
+
+
+is
+ going
+ to
+ learn
+ human
+ preferences
+ when
+
+
+there
+ is
+ so
+ much
+ subjectivity.
+ So
+ the
+
+
+only
+ thing
+ you
+ can
+ make
+ is
+ make
+ it
+ more
+
+
+steable
+ for
+ each
+ user
+ to
+ be
+ able
+ to
+
+
+customize
+ it
+ because
+ there
+ is
+ nothing
+
+
+that
+ is
+ going
+ to
+ you
+ know
+ please
+ every
+
+
+user
+ consistently.
+ Mhm.
+
+
+>> The
+ obvious
+ next
+ question
+ is
+ if
+ if
+
+
+nobody
+ can
+ agree
+ on
+ whether
+ this
+ model
+
+
+is
+ better
+ than
+ that
+ model,
+ then
+ uh
+
+
+aren't
+ all
+ the
+ models
+ more
+ or
+ less
+ the
+
+
+same
+ and
+ therefore
+ the
+ entire
+ voice
+ AI
+
+
+model
+ industry
+ is
+ sort
+ of
+ like
+
+
+commoditized
+ all
+ the
+ models
+ being
+ u
+ the
+
+
+same.
+ I
+ think
+ then
+ people
+ talk
+ about
+ TTS
+
+
+already,
+ right?
+ Which
+ is
+ much
+ more
+
+
+constrained
+ than
+ voice
+ AI.
+ So
+ in
+ text
+ to
+
+
+speech
+ I
+ mean
+ there
+ are
+ factual
+ metrics
+
+
+about
+ accuracy
+ and
+ latency
+ and
+ then
+
+
+there
+ are
+ more
+ um
+ subjective
+ things
+
+
+around
+ expressivity
+ and
+ so
+ on
+ but
+ you
+
+
+can
+ again
+ you
+ can
+ really
+ make
+ a
+
+
+difference
+ by
+ making
+ it
+ more
+
+
+controllable
+ more
+ customizable
+ and
+ so
+ on
+
+
+and
+ so
+ forth.
+ So
+ I
+ don't
+ think
+ that
+ it's
+
+
+clear
+ that
+ the
+ best
+ TTS
+ the
+ most
+
+
+controllable
+ the
+ most
+ the
+ most
+ smart
+ in
+
+
+terms
+ of
+ expression
+ is
+ in
+ front
+ of
+ us.
+
+
+nothing
+ is
+ is
+ close
+ to
+ it
+ yet
+ and
+ then
+
+
+there
+ is
+ everything
+ that
+ is
+ not
+ TTS.
+ Uh
+
+
+you
+ look
+ at
+ transcription
+ now
+ again
+ what
+
+
+what
+ if
+ a
+ lot
+ of
+ people
+ are
+ are
+
+
+speaking.
+ So
+ I
+ was
+ talking
+ about
+
+
+theization
+ as
+ the
+ le
+ least
+ sexy
+ problem
+
+
+ever.
+ At
+ the
+ same
+ time
+ it's
+ uh
+ it's
+ a
+
+
+extremely
+ useful
+ problem
+ and
+ you
+ look
+ at
+
+
+the
+ error
+ rates
+ and
+ they
+ are
+ very
+ bad.
+ I
+
+
+mean
+ it's
+ still
+ just
+ not
+ working
+ in
+
+
+difficult
+ cases
+ where
+ you
+ have
+ a
+ podcast
+
+
+with
+ a
+ lot
+ of
+ people
+ talking
+ at
+ the
+ same
+
+
+time
+ just
+ completely
+ breaks.
+ full
+ duplex
+
+
+we
+ know
+ we
+ did
+ machine
+ a
+ year
+ and
+ a
+ half
+
+
+ago
+ still
+ nobody
+ has
+ made
+ it
+ into
+ a
+
+
+product
+ that
+ there
+ are
+ so
+ many
+ things
+
+
+that
+ are
+ just
+ not
+ existing
+ today
+ that
+ I
+
+
+think
+ the
+ the
+ communityization
+ maybe
+ it
+
+
+will
+ happen
+ someday
+ but
+ we
+ are
+ very
+ very
+
+
+far
+ from
+ it
+ honestly
+ and
+ the
+ gap
+ in
+ uh
+
+
+you
+ know
+ there
+ is
+ already
+ bridging
+ the
+
+
+gap
+ in
+ quality
+ and
+ abilities
+ you
+ know
+ to
+
+
+make
+ that
+ as
+ powerful
+ as
+ human
+
+
+production
+ of
+ speech
+ and
+ understanding
+
+
+of
+ speech
+ in
+ complex
+ environments
+ and
+ so
+
+
+on
+ and
+ then
+ Even
+ if
+ you
+ reach
+ this
+
+
+point,
+ there
+ will
+ always
+ be
+ challenging
+
+
+about
+ getting
+ the
+ same
+ performance
+ with
+
+
+smaller
+ models
+ because
+ then
+ again
+ like
+ a
+
+
+full
+ duplex
+ smart
+ voice
+ AI
+ that
+ can
+ run
+
+
+on
+ a
+ on
+ a
+ gamer
+ GPU
+ or
+ on
+ a
+ on
+ an
+
+
+iPhone.
+ Good
+ luck,
+ you
+ know,
+ like
+ that's
+
+
+okay.
+ Awesome.
+ I'd
+ love
+ to
+ spend
+ a
+
+
+little
+ bit
+ of
+ time
+ on
+ the
+ technical
+
+
+aspects
+ of
+ Voice
+ AI.
+ So
+ we
+ we
+ talked
+
+
+about
+ some
+ of
+ them,
+ alluded
+ to
+ others,
+
+
+but
+ I
+ think
+ it'd
+ be
+ nice
+ to
+ bring
+
+
+everything
+ together.
+ So
+ in
+ terms
+ of
+ the
+
+
+fundamental
+ innovation
+ that
+ you
+
+
+described
+ around
+ speechtoech
+ models,
+ c
+
+
+can
+ you
+ for
+ us
+ compare
+ and
+ contrast
+ like
+
+
+the
+ the
+ old
+ way
+ which
+ I
+ believe
+ is
+ the
+
+
+cascade
+
+
+>> uh
+ versus
+ this
+ new
+ generation
+ of
+ models.
+
+
+How
+ does
+ that
+
+
+>> cascaded
+ system
+ which
+ is
+ the
+ old
+ way
+ but
+
+
+is
+ actually
+ pretty
+ new.
+ So
+ like
+ the
+ old
+
+
+way
+ is
+ without
+ LM
+ you
+ know.
+ you
+ think
+
+
+about
+ so
+ we
+ talk
+ you
+ know
+ the
+ old
+ so
+ the
+
+
+old
+ way
+ is
+ like
+ Alexa
+ and
+ so
+ on
+ it's
+
+
+>> back
+ two
+ years
+ ago
+ back
+ in
+ the
+ day
+ two
+
+
+years
+ ago
+
+
+>> the
+ old
+ way
+ is
+ natural
+ language
+
+
+understanding
+ with
+ parsing
+ with
+ very
+
+
+limited
+ vocabularies
+ and
+ so
+ on
+ but
+ the
+
+
+cascaded
+ ID
+ is
+ you
+ basically
+ just
+ take
+ a
+
+
+LLM
+ and
+ and
+ you
+ wrap
+ it
+ into
+ a
+ speech
+
+
+input
+ and
+ speech
+ output
+ so
+ you
+ have
+ like
+
+
+streaming
+ transcription
+ and
+ streaming
+
+
+text
+ to
+ speech
+ the
+ nice
+ thing
+ about
+ that
+
+
+is
+ you
+ can
+ plug
+ in
+ LM
+ and
+ you
+ can
+
+
+customize
+ its
+ behavior
+ through
+ its
+
+
+prompt
+ like
+ you
+ would
+ do
+ with
+ a
+ text
+
+
+model.
+ A
+ main
+ limitation
+ is
+ around
+ first
+
+
+latency
+ of
+ the
+ whole
+ thing
+ because
+
+
+you're
+ running
+ three
+ model
+ in
+ a
+ cascade
+
+
+and
+ each
+ of
+ them
+ is
+ going
+ to
+ add
+ to
+ the
+
+
+overall
+ latency
+ of
+ the
+ interaction
+ and
+
+
+uh
+ by
+ going
+ through
+ the
+ bottleneck
+ of
+
+
+text
+ you
+ lose
+ what
+ we
+ call
+ par
+
+
+linguistic
+ information
+ which
+ is
+ all
+ the
+
+
+information
+ we
+ convey
+ when
+ we
+ speak
+ on
+
+
+top
+ of
+ what
+ we
+ say.
+ to
+ that
+ uh
+ emotional
+
+
+states
+ irony
+ lying
+ is
+ one
+ you
+ know
+ like
+
+
+a
+ lot
+ you
+ know
+ it's
+ uh
+ you
+ know
+ a
+ lot
+ of
+
+
+information
+ is
+ conveyed
+ that
+ is
+ not
+ um
+
+
+that
+ is
+ not
+ in
+ what
+ to
+ say
+ particular
+ I
+
+
+I
+ encourage
+ people
+ to
+ to
+ look
+ at
+ the
+
+
+every
+ few
+ years
+ inter
+ speech
+ one
+ of
+ the
+
+
+main
+ speech
+ conferences
+ organizes
+ a
+ par
+
+
+linguistic
+ challenge
+ with
+ challenges
+
+
+that
+ are
+ more
+ random
+ every
+ time
+ like
+ uh
+
+
+so
+ li
+ lying
+ detection
+ is
+ one
+ but
+ then
+
+
+you
+ have
+ trying
+ to
+ recognize
+ is
+ the
+ the
+
+
+origin
+ of
+ the
+ parent
+ of
+ someone
+ from
+
+
+them
+ speaking
+ or
+ there
+ was
+ one
+ about
+
+
+people
+ are
+ speaking
+ while
+ eating
+ and
+ you
+
+
+had
+ to
+ recognize
+ what
+ they
+ are
+ eating.
+
+
+So
+ you
+ know
+ anyway
+ when
+ we
+ speak
+ there
+
+
+are
+ a
+ lot
+ of
+ information
+ that
+ come
+ about
+
+
+us
+ and
+ this
+ is
+ lost
+ through
+ so
+ what
+
+
+you're
+ writing
+ obviously
+ is
+ maybe
+ not
+
+
+the
+ most
+ uh
+ like
+ relevant
+ one
+ but
+
+
+understanding
+ in
+ the
+ customer
+ care
+
+
+context
+ understanding
+ that
+ you're
+
+
+getting
+ lost
+ or
+ annoyed
+ and
+ so
+ on
+ it's
+
+
+extremely
+ important
+ to
+ be
+ able
+ to
+
+
+recover
+ the
+ conversation
+ into
+ a
+ good
+
+
+state.
+ Sometimes
+ it's
+ obvious
+ from
+ the
+
+
+text
+ like
+ if
+ if
+ the
+ AI
+ says
+ go
+ to
+ hell
+
+
+yeah
+ probably
+ they're
+ upset.
+ uh
+ but
+
+
+sometimes
+ it's
+ not
+ that
+ that
+ obvious
+ in
+
+
+that
+ kind
+ of
+ cues
+ can
+ be
+ uh
+ uh
+ can
+ be
+
+
+helpful
+ and
+ so
+ that's
+ the
+ only
+ way
+ I
+
+
+mean
+ one
+ way
+ to
+ address
+ all
+ of
+ that
+ all
+
+
+together
+ is
+ piece
+ to
+ speech
+ and
+ full
+
+
+duplex
+ on
+ top
+ of
+ that
+ addresses
+ what
+ I
+
+
+think
+ today
+ is
+ the
+ worst
+ part
+ of
+ voice
+
+
+AI
+ I
+ hate
+ it
+ from
+ the
+ bottom
+ of
+ my
+ heart
+
+
+it's
+ turn
+ taking
+ in
+ any
+ introductory
+
+
+course
+ to
+ a
+ conventional
+ network
+ or
+
+
+image
+ classification
+ there
+ is
+ always
+
+
+this
+ analogy
+ that
+ that
+ is
+ made
+ that
+ you
+
+
+can
+ make
+ rule
+ to
+ tell
+ whether
+ an
+ image
+
+
+is
+ shot
+ in
+ the
+ morning
+ or
+ night
+ just
+
+
+based
+ on
+ colors,
+ right?
+ You
+ can
+ just
+
+
+look
+ at
+ colors
+ values
+ and
+ make
+ a
+
+
+handmade
+ rule.
+ But
+ now
+ if
+ you
+ want
+ to
+
+
+recognize
+ whether
+ it's
+ a
+ cat
+ or
+ a
+ dog,
+
+
+you
+ cannot
+ make
+ rules
+ that
+ are
+ recognize
+
+
+all
+ the
+ shapes
+ of
+ cats
+ and
+ dogs
+ and
+ all
+
+
+the
+ angles
+ and
+ so
+ on
+ and
+ so
+ forth.
+ So
+
+
+that's
+ why
+ we
+ do
+ machine
+ learning,
+
+
+right?
+ You
+ just
+ learn
+ from
+ the
+ data
+ when
+
+
+you
+ cannot
+ make
+ the
+ rules.
+ With
+ turn
+
+
+taking,
+ we
+ are
+ back
+ at
+ the
+ archaic
+ era
+
+
+of
+ handmade
+ rules
+ which
+ is
+ ridiculous.
+
+
+It's
+ like
+ you
+ have
+ an
+ algorithm
+ called
+
+
+the
+ voice
+ activity
+ detection
+ algorithm
+
+
+that
+ just
+ says
+ whether
+ it's
+ silent
+ or
+
+
+not
+ and
+ if
+ it's
+ silent
+ more
+ than
+ xund
+ of
+
+
+millconds
+ and
+ then
+ this
+ rule
+ and
+ this
+
+
+rule
+ and
+ this
+ rule
+ then
+ it's
+ an
+
+
+interruption
+ but
+ if
+ this
+ happened
+ it's
+
+
+not
+ an
+ interruption
+ and
+ and
+ so
+ you
+ have
+
+
+rules
+ on
+ top
+ of
+ rules
+ on
+ top
+ of
+ rules
+ to
+
+
+decide
+ whether
+ the
+ model
+ should
+ talk
+ or
+
+
+not
+ and
+ that
+ makes
+ it
+ so
+ that
+ I
+ mean
+ you
+
+
+know
+ that
+ everybody
+ who's
+ talking
+ with
+
+
+cascaded
+ systems
+ right
+ now
+ is
+ you
+ need
+
+
+discipline
+ when
+ you
+ talk
+ to
+ AI
+ you
+ need
+
+
+to
+ adapt
+ to
+ its
+ flow
+ otherwise
+ it's
+ it
+
+
+gets
+ lost
+ and
+ gets
+ confused
+ and
+
+
+interrupts
+ and
+ so
+ on
+ and
+ this
+ is
+
+
+extremely
+ annoying
+ mushy
+ again
+ people
+
+
+can
+ can
+ talk
+ to
+ it
+ today
+ it's
+ not
+ really
+
+
+powerful
+ but
+ the
+ the
+ quality
+ of
+ the
+
+
+interaction
+ is
+ unmatched
+ in
+ the
+ sense
+
+
+that
+ you
+ can
+ really
+ take
+ five
+ seconds
+ to
+
+
+think
+ about
+ what
+ you're
+ going
+ to
+ say
+ and
+
+
+then
+ talk
+ and
+ the
+ model
+ won't
+ be
+ lost
+ it
+
+
+will
+ just
+ you
+ know
+ be
+ extremely
+ uh
+
+
+flexible
+
+
+>> and
+ and
+ what
+ we
+ did
+ is
+ uh
+ it
+ was
+
+
+extremely
+ simple
+ thing.
+ So
+ we
+ took
+ like
+
+
+the
+ audio
+ language
+ model
+ instead
+ of
+
+
+having
+ it
+ modeling
+ one
+ stream
+ of
+ tokens
+
+
+we
+ called
+ it
+ multiream
+ just
+ two
+ stream
+
+
+of
+ tokens
+ one
+ for
+ the
+ user
+ one
+ for
+ the
+
+
+AI
+ and
+ both
+ can
+ be
+ active
+ at
+ the
+ same
+
+
+time
+ and
+ there
+ is
+ no
+ turn
+ taking
+ anymore
+
+
+and
+ you
+ just
+ train
+ it
+ on
+ stereo
+ data
+
+
+people
+ talking
+ on
+ the
+ phone
+ and
+ you
+ have
+
+
+like
+ one
+ person
+ on
+ the
+ left
+ channel
+ and
+
+
+one
+ on
+ the
+ right
+ and
+ your
+ model
+ models
+
+
+both
+ at
+ the
+ same
+ time
+ and
+ then
+ you
+ play
+
+
+the
+ the
+ role
+ of
+ left
+ channel
+ and
+ the
+ AI
+
+
+plays
+ the
+ ro
+ the
+ role
+ of
+ right
+ channel
+
+
+and
+ the
+ model
+ will
+ learn
+ how
+ to
+ handle
+ a
+
+
+conversation
+ like
+ humans
+ on
+ the
+ phone.
+
+
+>> Mhm.
+
+
+>> And
+ so
+ when
+ we
+ did
+ the
+ motion
+
+
+announcement
+ particular
+ there
+ was
+ a
+ fun
+
+
+early
+ demo
+ that
+ we
+ did
+ of
+ at
+ some
+ point
+
+
+we
+ trained
+ the
+ model
+ on
+ the
+ fish
+ data
+
+
+set.
+ So,
+ it's
+ a
+ phone
+ conversation
+ about
+
+
+uh
+ that
+ were
+ recorded
+ in
+ the
+ US
+ in
+ the
+
+
+late
+ '9s
+ and
+ you
+ could
+ literally
+ give
+ a
+
+
+phone
+ call
+ to
+ the
+ late
+ '9s
+ and
+ it
+ will
+
+
+mention
+ like
+ Saddam
+ Hussein
+ and
+ Jack
+
+
+Shiraak
+ and
+ talk
+ about
+ you
+ know
+ like
+ a
+
+
+lot
+ of
+ political
+ stuff
+ from
+ the
+ it
+ was
+
+
+very
+ weird
+ because
+ you're
+ talking
+ to
+ a
+
+
+guy
+ say
+ hey
+ I'm
+ both
+ from
+ Arizona
+ and
+
+
+every
+ time
+ it's
+ a
+ new
+ guy
+ and
+ you
+ can
+
+
+talk
+ about
+ whatever
+ and
+ they
+ tell
+ you
+
+
+about
+ their
+ job
+ and
+ so
+ on.
+ So
+ it's
+ a
+
+
+kind
+ of
+ paranormal
+ experience.
+ Very
+ fun.
+
+
+I
+ think
+ eventually
+ it's
+ impossible
+ to
+
+
+think
+ that
+ we
+ will
+ stick
+ to
+ turn
+ taking
+
+
+in
+ the
+ future.
+ So
+ obviously
+ for
+ us
+ like
+
+
+the
+ the
+ end
+ goal
+ is
+ multiplex.
+ That's
+ uh
+
+
+was
+ always
+ our
+ motivation.
+ At
+ the
+ moment
+
+
+what
+ we
+ do
+ is
+ cascaded
+ systems
+ because
+
+
+that's
+ where
+ the
+ market
+ is
+ right
+ now.
+
+
+It's
+ people
+ they
+ are
+ still
+ iterating
+ a
+
+
+lot
+ on
+ the
+ underlying
+ text
+ models
+ that
+
+
+they
+ want
+ to
+ to
+ use
+ on
+ the
+ uh
+ tool
+ use
+
+
+and
+ so
+ on
+ and
+ so
+ there
+ is
+ so
+ much
+
+
+progress
+ on
+ the
+ text
+ side.
+ One
+ drawback
+
+
+of
+ speechtospech
+ models
+ is
+ that
+ since
+
+
+everything
+ is
+ integrated
+ when
+ you
+ go
+
+
+from
+ a
+ text
+ model
+ to
+ the
+ speechtospech
+
+
+model
+ you
+ need
+ to
+ fine
+ tune
+ it
+ on
+ speech
+
+
+data.
+ So
+ now
+ it's
+ the
+ cost
+ to
+ switch
+ the
+
+
+underlying
+ text
+ model
+ is
+ extremely
+ high
+
+
+because
+ you
+ will
+ need
+ to
+ refine
+ tune
+
+
+everything
+ from
+ scratch.
+ People
+ want
+
+
+something
+ that
+ is
+ modular
+ plug
+ and
+ play.
+
+
+What
+ will
+ solve
+ everything
+ is
+ providing
+
+
+the
+ same
+ flexibility
+ as
+ like
+ cascaded
+
+
+system
+ so
+ that
+ you
+ can
+ change
+ the
+ back
+
+
+end
+ on
+ demand
+ basically
+ and
+ you
+ get
+ the
+
+
+same
+ customizability
+ and
+ customization
+
+
+that
+ you
+ have
+ with
+ text
+ models
+ but
+ with
+
+
+the
+ full
+ duplex
+ and
+ that's
+ this
+ this
+ I
+
+
+think
+ is
+ going
+ to
+ be
+ a
+ convincing
+
+
+solution
+ to
+ all
+ the
+ current
+ limitations.
+
+
+>> So
+ that's
+ the
+ frontier
+ of
+ voice
+ AI.
+ one
+
+
+of
+ the
+ frontiers
+ I
+ would
+ say.
+ Yeah.
+
+
+Again,
+ ones
+ where
+ I
+ would
+ say
+ a
+ frontier
+
+
+is
+ I
+ could
+ like
+ bet
+ to
+ every
+ single
+
+
+speech
+ team
+ in
+ the
+ world
+ that
+ they
+ don't
+
+
+solve
+ it
+ in
+ the
+ next
+ year
+ or
+ so.
+ It's
+ a
+
+
+robot
+ in
+ the
+ middle
+ in
+ the
+ factory
+ and
+
+
+there
+ is
+ a
+ lot
+ of
+ noise
+ from
+ machines
+
+
+and
+ you
+ have
+ a
+ lot
+ of
+ people
+ talking
+ to
+
+
+the
+ robot
+ and
+ the
+ robot
+ has
+ to
+ figure
+
+
+out
+ what
+ the
+ hell
+ is
+ going
+ on.
+ This
+ uh
+ I
+
+
+can
+ you
+ know
+ I
+ can
+ I
+ can
+ sign
+ that
+ it's
+
+
+uh
+ this
+ is
+ extremely
+ challenging.
+ If
+
+
+>> if
+ I
+ had
+ to
+ pick
+ the
+ worst
+ topic
+ we
+
+
+work,
+ I
+ mean
+ the
+ ones
+ that
+ will
+ be
+ the
+
+
+most
+ challenging,
+ I
+ think
+ that
+ will
+ be
+
+
+this
+ one.
+ Even
+ more
+ than
+ full
+ duplex
+
+
+much,
+ you
+ know,
+ much
+ more
+ difficult,
+ I
+
+
+think.
+
+
+>> And
+ what
+ happens
+ behind
+ the
+ scenes
+ when
+
+
+you
+ have
+ that
+ noisy
+ environment?
+ Like
+
+
+what
+ what
+ does
+ the
+ model
+ actually
+ do?
+
+
+And
+ how
+ do
+ you
+ solve
+ that
+ problem?
+ Like
+
+
+if
+ you're
+ calling
+ a
+ receptionist
+ in
+ a
+
+
+restaurant
+ and
+ like
+ he
+ or
+ she
+ picks
+ up
+
+
+and
+ there's
+ super
+ light
+ in
+ the
+ back,
+ how
+
+
+do
+ you
+ solve
+ that
+ problem?
+ One
+ thing
+
+
+that
+ is
+ u
+ really
+ important
+ is
+ to
+ have
+ uh
+
+
+several
+ uh
+ microphones.
+ So
+ we
+ do
+ we
+ have
+
+
+two
+ ears
+ and
+ it's
+ extremely
+ useful
+
+
+because
+ that's
+ allow
+ us
+ for
+ example
+ to
+
+
+localize
+ an
+ audio
+ source.
+ So
+ the
+ reason
+
+
+the
+ why
+ the
+ reason
+ why
+ we
+ can
+ localize
+
+
+where
+ sound
+ come
+ from
+ because
+ we
+ have
+ a
+
+
+small
+ time
+ difference
+ between
+ the
+ time
+
+
+when
+ it
+ arrives
+ in
+ this
+ year
+ and
+ this
+
+
+year.
+ So
+ if
+ it
+ arrives
+ here
+ before
+ my
+
+
+brain
+ will
+ understand
+ it
+ will
+ come
+ this
+
+
+and
+ you
+ get
+ like
+ anger
+ and
+ then
+ the
+
+
+acceleration
+ of
+ the
+ face
+ gives
+ you
+ the
+
+
+other
+ dimension
+ and
+ so
+ that's
+ how
+ you
+
+
+can
+ locate
+ in
+ 3D.
+ So
+ having
+ the
+ ability
+
+
+of
+ of
+ doing
+ this
+ specialization
+
+
+understanding
+ you
+ know
+ where
+ the
+ sources
+
+
+are
+ coming
+ from
+ and
+ which
+ one
+ is
+ saying
+
+
+what
+ and
+ so
+ on.
+ Again
+ it's
+ it's
+ both
+ a
+
+
+hardware
+ and
+ software
+ issue.
+ Creating
+
+
+training
+ data
+ for
+ that
+ is
+ extremely
+
+
+challenging.
+ Honestly
+ the
+ level
+ of
+
+
+robustness
+ that
+ we
+ have
+ as
+ humans
+ on
+
+
+that
+ is
+ uh
+ exist
+ extremely
+ high
+ also
+ you
+
+
+know
+ we
+ are
+ all
+ lipreing
+ we
+ don't
+ know
+
+
+that
+ we
+ are
+ doing
+ it
+ but
+ everybody
+ is
+
+
+lip
+ reading
+ all
+ the
+ time
+ that
+ helps
+
+
+understanding
+ a
+ lot
+
+
+>> u
+ in
+ noisy
+ environments
+ in
+ particular
+ we
+
+
+do
+ it
+ unconsciously
+ but
+ we
+ all
+ do
+ it
+ I
+
+
+think
+ interactions
+ on
+ the
+ phone
+ are
+
+
+quite
+ okay
+ because
+ you
+ know
+ the
+ mouth
+ is
+
+
+close
+ to
+ the
+ phone
+ and
+ the
+ phone
+ can
+ do
+
+
+a
+ lot
+ of
+ work
+ to
+ enhance
+ the
+ quality
+ but
+
+
+now
+ you
+ know
+ people
+ want
+ to
+ have
+ a
+ robot
+
+
+that
+ is
+ uh
+ that
+ can
+ even
+ a
+ static
+ robot
+
+
+that
+ is
+ just
+ in
+ in
+ a
+ room
+ and
+ you
+ want
+
+
+to
+ shout
+ to
+ it
+ from
+ your
+ living
+ room.
+
+
+It's
+ called
+ farfield
+ speech
+ recognition.
+
+
+It's
+ it's
+ really
+ broken.
+ Every
+ every
+
+
+company
+ who
+ has
+ made
+ these
+ home
+
+
+assistants
+ know
+ how
+ difficult
+ it
+ is
+ to
+
+
+have
+ them
+ work
+ in
+ in
+ environments
+ where
+
+
+there
+ are
+ several
+ people.
+ The
+ reason
+ I
+
+
+say
+ I
+ think
+ it's
+ one
+ of
+ the
+ biggest
+
+
+challenge
+ is
+ in
+ TTS
+ we
+ see
+ a
+ lot
+ of
+
+
+progress
+ for
+ this
+ kind
+ of
+ hard
+
+
+understanding
+ problem.
+ I
+ hear
+ people
+
+
+seeing
+ the
+ exact
+ same
+ stuff
+ as
+ they
+ did
+
+
+10
+ years
+ ago.
+ Like
+ there
+ was
+ zero
+
+
+progress.
+
+
+>> You
+ mentioned
+ data
+ a
+ second
+ ago.
+ How
+
+
+does
+ that
+ work
+ for
+ voice
+ AI
+ and
+ how
+ does
+
+
+that
+ compare
+ to
+ text
+ AI?
+ Obviously
+ text
+
+
+AI
+ the
+ LLMs
+ are
+ training
+ on
+ the
+ whole
+
+
+internet
+ but
+ presumably
+ there's
+ a
+ lot
+
+
+less
+ audio
+ and
+ speech
+ data
+ to
+ train
+ on.
+
+
+How
+ does
+ that
+ work?
+ So
+ if
+ you
+ do
+ the
+
+
+math
+ basically
+ like
+ training
+ on
+ a
+ few
+
+
+trillions
+ of
+ tokens
+ which
+ is
+ what
+ you
+
+
+will
+ do
+ for
+ you
+ know
+ like
+ a
+ basic
+ text
+
+
+model
+ that
+ will
+ amount
+ to
+ hundred
+ of
+
+
+millions
+ of
+ hours
+ of
+ speech
+ or
+ something
+
+
+like
+ that
+ which
+ is
+ kind
+ of
+ amounts
+ that
+
+
+are
+ very
+ hard
+ to
+ to
+ get.
+ I
+ think
+ this
+ is
+
+
+it's
+ a
+ very
+ interesting
+ question
+ that
+
+
+comes
+ up
+ in
+ a
+ lot
+ of
+ discussions
+ and
+
+
+everybody
+ has
+ their
+ theories
+ in
+
+
+particular
+ one
+ impact
+
+
+uh
+ one
+ let's
+ say
+ one
+ attribute
+ of
+ speech
+
+
+data
+ was
+ that
+ if
+ you
+ train
+ a
+
+
+conversational
+ model
+ on
+ speech
+ data
+ is
+
+
+going
+ to
+ be
+ much
+ less
+ intelligent
+ than
+ a
+
+
+model
+ trained
+ on
+ text
+ and
+ I
+ think
+ it's
+
+
+because
+ when
+ you
+ listen
+ to
+ speech
+ data
+
+
+it's
+ u
+ the
+ density
+ of
+ information
+ is
+ is
+
+
+much
+ lower
+ than
+ you
+ will
+ have
+ in
+ text
+ so
+
+
+you
+ don't
+ have
+ Wikipedia
+ like
+ uh
+ you
+
+
+know
+ in
+ speech
+ data
+ you
+ don't
+ have
+ stack
+
+
+overflow
+ reit
+ and
+ so
+ on
+ getting
+ your
+
+
+model
+ to
+ learn
+ about
+ the
+ world
+ from
+
+
+speech
+ I
+ think
+ is
+ a
+ terrible
+ idea.
+ I
+
+
+think
+ you
+ should
+ start
+ I
+ mean
+ you
+ know
+
+
+we
+ have
+ text
+ model.
+ So
+ what
+ we
+ did
+ for
+
+
+mach
+ we
+ started
+ from
+ the
+ text
+ model
+ and
+
+
+then
+ we
+ we we
+ we
+ we
+ took
+ this
+ test
+ model
+
+
+and
+ and
+ and
+ trained
+ it
+ on
+ speech
+ while
+
+
+trying
+ to
+ prevent
+ as
+ much
+ as
+ possible
+ a
+
+
+loss
+ of
+ intelligence.
+ So
+ all
+ the
+ time
+ we
+
+
+will
+ recmp
+ compute
+ the
+ text
+ metrics
+ and
+
+
+they
+ will
+ degrade
+ but
+ we
+ are
+ trying
+ you
+
+
+know
+ like
+ to
+ keep
+ it
+ a
+ bit
+ contained
+ but
+
+
+indeed
+ the
+ quality
+ of
+ uh
+ of
+ speech
+ data
+
+
+extremely
+ variable
+ honestly
+ I
+ think
+ we
+
+
+are
+ training
+ on
+ way
+ too
+ much
+ data
+ so
+ far
+
+
+we
+ train
+ on
+ 7
+ million
+ hours
+ of
+ speech
+
+
+it's
+ ridiculous
+ I
+ mean
+ we
+ we
+ could
+
+
+probably
+ do
+ that
+ with
+ 10,000
+ hours
+ if
+ we
+
+
+had
+ the
+ right
+ method
+ we
+ didn't
+ care
+
+
+because
+ we
+ had
+ the
+ data
+ so
+ like
+ yeah
+
+
+screw
+ it
+ we
+ just
+ train
+ on
+ that
+ which
+ is
+
+
+great
+ to
+ capture
+ all
+ the
+ very
+ specific
+
+
+idiosyncrasies
+ in
+ voice
+ the
+ French
+
+
+accent
+ like
+ the
+ things
+ that
+ make
+ a
+ voice
+
+
+unique.
+ So
+ for
+ the
+ diversity
+ of
+ voice,
+
+
+the
+ amount
+ of
+ data
+ is
+ extremely
+ useful.
+
+
+But
+ at
+ the
+ same
+ time,
+ you
+ could
+ think
+
+
+okay
+ if
+ my
+ model
+ is
+ intelligent
+ as
+ a
+
+
+text
+ model,
+ it
+ could
+ learn
+ dynamics
+ of
+
+
+conversation
+ from
+ a
+ few
+ thousands
+ or
+
+
+dozens
+ of
+ thousand
+ hours
+ of
+ data
+ and
+ not
+
+
+millions
+ of
+ hours
+ of
+ of
+ data.
+ That's
+ one
+
+
+source
+ of
+ data.
+ The
+ largest
+ volume
+ is
+
+
+just
+ you
+ know
+ unstructured
+ conversation
+
+
+like
+ publicly
+ available
+ audio
+ books
+ and
+
+
+this
+ kind
+ of
+ stuff.
+ And
+ then
+ you
+ get
+
+
+towards
+ more
+ uh
+ specific
+ data
+ that
+ you
+
+
+make
+ for
+ your
+ applications.
+ For
+ example,
+
+
+for
+ TTS,
+ you
+ want
+ to
+ have
+ uh
+ expressive
+
+
+data
+ of
+ high
+ quality.
+ You
+ don't
+ want
+ to
+
+
+have
+ something
+ that
+ is
+ recorded
+ with
+ uh
+
+
+arbitrary
+ conditions.
+ You
+ want
+ really
+
+
+studio
+ recording,
+ very
+ low
+ level
+ of
+
+
+noise,
+ u
+ professional
+ or
+
+
+semi-professional
+ actors.
+ And
+ then
+ there
+
+
+is
+ what
+ what
+ kind
+ of
+ text
+ do
+ do
+ you
+ give
+
+
+them
+ to
+ read?
+ And
+ so
+ I
+ it's
+ a
+ very
+ also
+
+
+interesting
+ problem
+ because
+ so
+ if
+ you
+
+
+want
+ to
+ generate
+ hundreds
+ of
+ thousand
+ of
+
+
+hours
+ of
+ of
+ scripts
+ for
+ voice
+ actors,
+
+
+it's
+ not
+ that
+ easy.
+ I
+ mean
+ you
+ cannot
+
+
+ask
+ Clo
+ or
+ JPT
+ write
+ 100,000
+ hours
+ of
+
+
+scripts
+ and
+ make
+ them
+ as
+ diverse
+ as
+
+
+possible.
+ So
+ it
+ doesn't
+ work.
+ It's
+ going
+
+
+just
+ to
+ be
+ in
+ a
+ loop
+ and
+ and
+ and
+
+
+collapse
+ on
+ a
+ few
+ topics.
+ You
+ know,
+ even
+
+
+if
+ you
+ ask
+ for
+ phone
+ numbers,
+ they
+ are
+
+
+not
+ really
+ random
+ number
+ generators.
+
+
+They
+ will
+ produce
+ eventually
+ like
+ always
+
+
+the
+ same
+ phone
+ numbers.
+ So,
+ Alex
+ and
+ my
+
+
+team
+ spent
+ a
+ lot
+ of
+ time
+ on
+ making
+ very
+
+
+complex
+ machines
+ for
+ script
+ generation
+
+
+with
+ like
+ a
+ taxonomy
+ of
+ all
+ possible
+
+
+topics
+ and
+ subtopics
+ and
+ sub
+ subtopics
+
+
+and
+ sub
+ subtopics
+ and
+ sampling
+
+
+constantly.
+ And
+ every
+ time
+ we
+ generate
+ a
+
+
+phone
+ number,
+ it
+ generated
+ with
+ an
+
+
+actual
+ random
+ number
+ generator
+ so
+ that
+
+
+we
+ actually
+ cover
+ the
+ whole
+ scope
+ of
+
+
+phone
+ number.
+ So
+ I
+ think
+ it's
+ a
+ very
+
+
+interesting
+ problem.
+ It's
+ painful.
+ It's
+
+
+annoying.
+ It's
+ really
+ about
+ details.
+ And
+
+
+I
+ love
+ that
+ because
+ I
+ think
+ that's
+
+
+always
+ where
+ we
+ can
+ differentiate.
+ It's
+
+
+just
+ because
+ we
+ always
+ as
+ a
+ gamer
+ say
+ we
+
+
+tank
+ we
+ tank
+ the
+ the
+ painful
+ stuff.
+ And
+
+
+this
+ pays
+ off
+ a
+ lot
+ because
+ as
+ I
+ said
+ in
+
+
+terms
+ of
+ computational
+ resources,
+ we
+
+
+don't
+ need
+ as
+ much
+ as
+ to
+ train
+ largeing
+
+
+models
+ or
+ video
+ models.
+ But
+ for
+ speech,
+
+
+it's
+ not
+ really
+ about
+ the
+ volume
+ of
+
+
+data,
+ but
+ having
+ high
+ quality
+ data
+ is
+
+
+extremely
+ useful
+ and
+ very
+ important.
+ And
+
+
+the
+ accuracy,
+ for
+ example,
+ of
+
+
+annotations,
+ it's
+ paramount.
+ And
+ it's
+ a
+
+
+lot
+ of
+ human
+ labor
+ to
+ be
+ able
+ to
+
+
+annotate
+ precisely.
+
+
+>> There
+ is
+ a
+ labeling
+ aspect
+ to
+ do
+ this.
+
+
+>> Yes.
+ And
+ the
+ labeling
+ aspect,
+ it's
+
+
+interesting
+ because
+ automatic
+ annotation
+
+
+works
+ very
+ well.
+ And
+ where
+ humans
+ are
+
+
+useful
+ is
+ really
+ for
+ the
+ few
+ mistakes
+
+
+that
+ the
+ best
+ automatic
+ annotations
+ will
+
+
+do
+ right
+ now.
+
+
+And
+ uh
+ and
+ so
+ the
+ only
+ way
+ to
+ make
+ it
+
+
+worth
+ the
+ time
+ of
+ humans
+ is
+ if
+ they
+ have
+
+
+perfect
+ annotation.
+ If
+ they
+ have
+
+
+slightly
+ imperfect
+ annotation,
+ not
+
+
+really
+ worth
+ it.
+
+
+>> How
+ does
+ it
+ work
+ if
+ you
+ want
+ to
+ add
+ a
+
+
+new
+ language
+ especially
+ uh
+ not
+ to
+ pick
+
+
+on
+ any
+ but
+ like
+ I
+ don't know
+ u
+ like
+
+
+Africans
+ like
+ something
+ where
+ there's
+
+
+less
+ data
+ on
+ the
+ internet
+ presumably.
+ Do
+
+
+do
+ you
+ have
+ to
+ hire
+ actors
+ to
+ you
+ know
+
+
+and
+ create
+ scripts
+ specifically
+ for
+
+
+them?
+ How
+ does
+ it
+ work?
+
+
+>> What
+ is
+ interesting
+ is
+ that
+ we
+ see
+ uh
+
+
+transfer
+ between
+ languages
+ in
+ particular
+
+
+languages
+ from
+ the
+ same
+ family.
+ For
+
+
+example,
+ with
+ Hibiki
+ Zero
+ that
+ we
+
+
+released
+ last
+ week.
+ So
+ it
+ was
+ trained
+ on
+
+
+50,000
+ hours
+ or
+ maybe
+ 100,000
+ hours
+ for
+
+
+for
+ example
+ Portuguese
+ and
+ Spanish.
+ And
+
+
+then
+ to
+ do
+ Italian
+ translation
+ to
+
+
+English,
+ 1,000
+ hours
+ was
+ enough.
+ I
+ would
+
+
+say
+ for
+ languages
+ that
+ belong
+ to
+ a
+
+
+completely
+ different
+ family
+ that's
+ more
+
+
+challenging.
+ What
+ is
+ nice
+ is
+ that
+
+
+fundamentally
+ the
+ whole
+ pipeline
+ is
+ the
+
+
+same.
+ The
+ whole
+ uh
+ right
+ now
+ we
+ have
+
+
+been
+ focusing
+ on
+ a
+ few
+ languages
+ to
+ find
+
+
+the
+ recipe
+ that
+ works
+ and
+ then
+ then
+ it
+
+
+can
+ be
+ uh
+ applied
+ to
+ to
+ most
+ languages.
+
+
+Uh
+ what
+ is
+ very
+ difficult
+ is
+ uh
+
+
+unwritten
+ languages.
+ to
+ languages
+ that
+
+
+don't
+ have
+ an
+ official
+ writing
+ system.
+
+
+>> That's
+ uh
+ a
+ lot
+ of
+ dialects
+ where
+ people
+
+
+are
+ mixing
+ languages
+ and
+ putting
+ like
+ a
+
+
+bit
+ of
+ French
+ and
+ then
+ a
+ bit
+ of
+ creole
+
+
+and
+ then
+ a
+ bit
+ of
+ something
+ else
+ and
+ so
+
+
+on.
+ This
+ is
+ very
+ challenging
+ because
+
+
+getting
+ data
+ is
+ difficult.
+ Getting
+
+
+annotated
+ data
+ is
+ even
+ more
+ difficult
+
+
+because
+ you
+ have
+ much
+ fewer
+ annotators
+
+
+that
+ can
+ do
+ that.
+ But
+ it's
+ uh
+ these
+ ones
+
+
+are
+ are
+ the
+ most
+ uh
+ challenging
+ I
+ would
+
+
+say
+
+
+>> but
+ it
+ has
+ been
+ a
+ challenge
+ for
+ for
+ a
+
+
+long
+ time
+ and
+ uh
+ and
+ there
+ are
+ a
+ lot
+ of
+
+
+projects
+ around
+ around
+ collecting
+ data
+
+
+in
+ such
+ language.
+ Interestingly
+ there
+ is
+
+
+one
+ u
+ so
+ for
+ example
+ the
+ the
+ content
+
+
+that
+ you
+ can
+ find
+ in
+ the
+ most
+ languages
+
+
+is
+ the
+ Bible
+ and
+ so
+ like
+ the
+ main
+ source
+
+
+for
+ uh
+ like
+ the
+ most
+ widely
+ available
+
+
+content
+ in
+ the
+ world
+ in
+ the
+ Bible
+ in
+ all
+
+
+languages
+ because
+ a
+ lot
+ of
+ people
+ spend
+
+
+time
+ into
+ translating
+ it
+ and
+ so
+ on.
+ So
+
+
+that's
+ a
+ very
+ valuable
+ source
+ of
+ data.
+
+
+Obviously
+ you
+ won't
+ have
+ a
+ mention
+ of
+
+
+modern
+ vocabulary
+ in
+ it.
+
+
+>> And
+ what
+ about
+ a
+ hardware?
+ So
+ you
+ you
+
+
+mentioned
+ earlier
+ this
+ is
+ not
+ a
+ big
+
+
+hardware
+ GPU
+ play
+ compared
+ to
+ bigms.
+ Is
+
+
+that
+ is
+ that
+ correct?
+
+
+>> If
+ you
+ want
+ to
+ have
+ voice
+ models
+ to
+ run
+
+
+at
+ scale
+ and
+ make
+ sense
+ from
+ a
+ uh
+ you
+
+
+know
+ in
+ terms
+ of
+ economics
+ you
+ need
+ to
+
+
+have
+ this
+ model
+ compact.
+ Anyway,
+ if
+ you
+
+
+think
+ about
+ having
+ NPCs
+ in
+ a
+ game
+ where
+
+
+people
+ are
+ going
+ to
+ pay,
+ I
+ don't
+ know,
+
+
+70
+ bucks
+ or
+ 90
+ bucks
+ or
+ whatever
+ for
+ a
+
+
+game
+ and
+ then
+ they
+ want
+ to
+ talk
+ to
+ to
+ it
+
+
+3
+ hours
+ a
+ day
+ because
+ it's
+ a
+ very
+ good
+
+
+game.
+ So,
+ you
+ spend
+ a
+ lot
+ of
+ time
+ on
+ it.
+
+
+You
+ can
+ if
+ you
+ have
+ a
+ large
+ model,
+ it's
+
+
+just
+ impossible.
+ Not
+ only
+ doesn't
+ fit
+ on
+
+
+the
+ GPU,
+ but
+ even
+ through
+ APIs,
+ it
+ just
+
+
+wouldn't
+ make
+ sense
+ economically.
+ So,
+
+
+fundamentally,
+ I
+ think
+ these
+ models
+ need
+
+
+to
+ be
+ small,
+ but
+ sometimes
+ they
+ require
+
+
+access
+ to
+ large
+ model
+ because
+ they're
+
+
+solving
+ a
+ complex
+ task.
+ I'm
+ quite
+ state
+
+
+in
+ a
+ way
+ stating
+ the
+ obvious
+ but
+
+
+selective
+ and
+ adaptive
+ compute
+ usage
+
+
+based
+ on
+ the
+ context
+ and
+ the
+ difficulty
+
+
+of
+ the
+ task
+ at
+ hand.
+ The
+ task
+ being
+ as
+
+
+precise
+ as
+ like
+ the
+ next
+ few
+ words
+ can
+ I
+
+
+just
+ answer
+ like
+ that
+ because
+ some
+
+
+somebody
+ say
+ hey
+ and
+ I
+ just
+ say
+ hey
+ they
+
+
+ask
+ for
+ like
+ the
+ next
+ flight
+ to
+ SF
+ and
+ I
+
+
+have
+ to
+ look
+ up
+ on
+ internet
+ to
+ find
+ the
+
+
+the
+ time.
+ So
+ being
+ very
+ selective
+ about
+
+
+when
+ to
+ compute
+ to
+ use
+ compute
+ I
+ think
+
+
+that's
+ that's
+ the
+ only
+ way
+ to
+ for
+ all
+ of
+
+
+it
+ to
+ make
+ sense
+ uh
+ economically.
+
+
+>> Let's
+ talk
+ a
+ little
+ bit
+ about
+ the
+
+
+product
+ and
+ business
+ aspect
+ of
+ Voice
+ AI.
+
+
+You
+ you
+ mentioned
+ that
+ you
+ were
+ building
+
+
+a
+ model
+ company
+ but
+ also
+ a
+ product
+
+
+company.
+ What
+ is
+ a
+ product
+ in
+ in
+ Voice
+
+
+AI?
+ And
+ the
+ two
+ things
+ I'm
+ thinking
+ of
+
+
+are
+ like
+ one
+ cloning
+ uh
+ and
+ then
+ agents.
+
+
+That's
+ the
+ two
+ thing
+ that
+ people
+ are
+
+
+talking
+ about
+ a
+ lot.
+ Take
+ whichever
+ one
+
+
+you
+ want.
+
+
+>> Yeah.
+ So
+ I
+ think
+ for
+ this
+ one
+ um
+ so
+ for
+
+
+us
+ the
+ product
+ is
+ the
+ underlying
+ models
+
+
+right
+ because
+ what
+ we
+ see
+ is
+ that
+ uh
+
+
+people
+ are
+ building
+ voice
+ agents.
+ So
+
+
+voice
+ agents
+ uh
+ it
+ sounds
+ I
+ think
+ a
+ lot
+
+
+like
+ a
+ a
+ business
+ agent
+ like
+ a
+ customer
+
+
+care
+ agent
+ or
+ something
+ like
+ that.
+ But
+
+
+an
+ NPC
+ in
+ a
+ way
+ is
+ an
+ agent
+ right
+
+
+because
+ uh
+ they
+ have
+ a
+ voice
+ interface
+
+
+they
+ have
+ a
+ underlying
+ text
+ model.
+
+
+Eventually
+ in
+ video
+ games
+ they
+ will
+ be
+
+
+able
+ to
+ do
+ function
+ calling
+ to
+ launch
+ a
+
+
+quest
+ to
+ decide
+ that
+ you
+ solved
+
+
+something
+ or
+ to
+ to
+ to
+ control
+ an
+ action
+
+
+and
+ so
+ on
+ and
+ so
+ forth.
+ What
+ we
+ focus
+ on
+
+
+is
+ providing
+ uh
+ the
+ best
+ technology
+ to
+
+
+the
+ people
+ who
+ want
+ to
+ build
+ the
+ agent.
+
+
+So
+ we
+ don't
+ build
+ agents
+ ourselves.
+ We
+
+
+really
+ want
+ to
+ focus
+ on
+ the
+ quality
+ of
+
+
+the
+ model
+ because
+ that's
+ our
+ specialty.
+
+
+That's
+ where
+ our
+ talent
+ is
+ and
+ at
+ the
+
+
+same
+ time
+ I
+ think
+ it
+ will
+ be
+ a
+ bit
+
+
+unrealistic
+ unrealistic
+ to
+ think
+ that
+ we
+
+
+can
+ address
+ all
+ the
+ needs
+ of
+ the
+ market
+
+
+with
+ our
+ agents
+ because
+ again
+ the
+ I
+
+
+think
+ what
+ is
+ very
+ exciting
+ is
+ when
+ we
+
+
+look
+ at
+ our
+ customers
+ it's
+ every
+ time
+
+
+there
+ is
+ a
+ new
+ one
+ it's
+ completely
+
+
+unpredictable
+ what
+ it
+ will
+ be
+ about
+ and
+
+
+it's
+ about
+ uh
+ learning
+ and
+ customer
+ care
+
+
+and
+ video
+ games
+ and
+ media
+ and
+
+
+personalized
+ uh
+ press
+ and
+ it's
+ so
+ wide
+
+
+that
+ we
+ that
+ we'd
+ rather
+ you
+ know
+ just
+
+
+make
+ it
+ easy
+ for
+ people
+ to
+ build
+ voice
+
+
+agents
+ and
+ provide
+ them
+ with
+ a
+ reliable
+
+
+models
+ infrastructure
+ and
+ that
+ also
+
+
+works
+ pretty
+ well
+ because
+ in
+ terms
+ of
+ of
+
+
+staff
+ we
+ are
+ less
+ than
+ 15
+ employees
+
+
+today
+ at
+ Gradium
+ when
+ we
+ partner
+ with
+ a
+
+
+company
+ that
+ deploys
+ voice
+ agents
+ in
+
+
+banks
+ or
+ hospitals
+ or
+ different
+ kind
+ of
+
+
+businesses
+ it
+ requires
+ a
+ lot
+ of
+ what
+ we
+
+
+could
+ call
+ today
+ a
+ forward
+ deployment
+
+
+engineer.
+ So
+ there
+ is
+ a
+ lot
+ of
+ staff
+
+
+human
+ labor
+ that
+ is
+ involved
+ for
+ these
+
+
+deployments
+ into
+ various
+ complex
+ systems
+
+
+and
+ infrastructures
+ and
+ we
+ can
+ just
+
+
+focus
+ on
+ the
+ model.
+ So
+ that
+ also
+ allows
+
+
+us
+ to
+ remain
+ pretty
+ small
+ and
+ really
+
+
+focus
+ on
+ on
+ the
+ science
+ and
+ the
+
+
+engineering
+
+
+>> and
+ uh
+ voice
+ cloning
+ is
+ that
+ a
+ is
+ that
+ a
+
+
+use
+ case?
+ Actually
+ with
+ at
+ Gradium
+ we
+
+
+have
+ the
+ best
+ of
+ of
+ the
+ of
+ the
+ industry
+
+
+and
+ the
+ best
+ means
+ not
+ only
+ replicating
+
+
+like
+ the
+ specific
+ characteristic
+ of
+
+
+someone
+ but
+ I
+ mean
+ also
+ the
+ accent
+ some
+
+
+unusual
+ recording
+ condition
+ and
+ so
+ in
+ a
+
+
+lot
+ of
+ context
+ for
+ example
+ if
+ you
+ want
+
+
+to
+ create
+ a
+ vintage
+ sounding
+ character
+
+
+with
+ old
+ radio
+ effects
+ and
+ it's
+
+
+something
+ that
+ we
+ do
+ pretty
+ well.
+ If
+ you
+
+
+want
+ to
+ have
+ a
+ robot
+ voice
+ we
+ can
+ do
+
+
+that
+ pretty
+ well
+ as
+ well.
+ If
+ you
+ want
+ to
+
+
+have
+ any
+ kind
+ of
+ accent
+ or
+ speaking
+
+
+style
+ like
+ posh
+ or
+ more,
+ you
+ know,
+
+
+laidback
+ or
+ more
+ urban,
+ any
+ kind
+ of
+
+
+social
+ aspects
+ of
+ an
+ individual
+ aspect
+
+
+of
+ voice
+ is
+ something
+ that
+ we
+ uh
+ that
+ we
+
+
+replicate
+ pretty
+ well.
+ I
+ think
+ what
+ is
+
+
+interesting
+ is
+ that
+ voice
+ learning
+ in
+
+
+itself
+ where
+ I
+ see
+ the
+ most
+ potential
+ is
+
+
+about
+ creative
+ creating
+ interactive
+
+
+experiences
+ around
+ uh
+ licenses.
+ I
+ tried
+
+
+to
+ pitch
+ for
+ example
+ you
+ know
+ who
+ wants
+
+
+to
+ be
+ a
+ millionaire
+ uh
+ there
+ is
+ a
+ video
+
+
+game
+ and
+ the
+ questions
+ can
+ be
+ generated
+
+
+on
+ the
+ flight
+ you
+ would
+ like
+ the
+ host
+ to
+
+
+the
+ voice
+ of
+ the
+ host
+ to
+ on
+ them
+ all
+ the
+
+
+time
+
+
+>> so
+ this
+ one
+ makes
+ a
+ lot
+ of
+ sense
+ with
+
+
+cloning
+ a
+ specific
+ voice
+ because
+ you
+
+
+want
+ to
+ replicate
+ the
+ voice
+ of
+ a
+
+
+character
+ of
+ a
+ person
+ of
+ a
+ athlete
+ of
+ a
+
+
+K-pop
+ star
+ whatever
+ I
+ don't
+ know
+ you
+
+
+know
+ any
+ kind
+ of
+ experience
+ where
+ people
+
+
+want
+ to
+ engage
+ with
+ a
+ voice
+ that
+ they
+
+
+know
+ but
+ they
+ want
+ to
+ go
+ for
+ an
+
+
+iterative
+ experience
+ then
+ in
+ a
+ lot
+ of
+
+
+cases
+ for
+ example
+ in
+ customer
+ care
+
+
+people
+ don't
+ want
+ a
+ specific
+ voice
+ they
+
+
+want
+ a
+ voice
+ with
+ specific
+
+
+characteristics
+ and
+ that
+ is
+ nice
+ for
+ the
+
+
+use
+ case.
+ And
+ so
+ typically
+ they
+ clone
+
+
+the
+ voice
+ of
+ a
+ colleague
+ that
+ has
+ a
+ good
+
+
+voice.
+ For
+ these
+ customers,
+ I
+ think
+ the
+
+
+solution
+ that
+ makes
+ the
+ most
+ sense
+ is
+
+
+not
+ cloning,
+ it's
+ voice
+ design.
+ So
+ being
+
+
+able
+ to
+ to
+ create
+ voices
+ from
+ a
+ natural
+
+
+language
+ description
+ and
+ having
+ your
+
+
+voice
+ generation
+ being
+ really
+ faithful
+
+
+to
+ the
+ prompt
+ so
+ that
+ you
+ can
+ it's
+
+
+really
+ worth
+ iterating
+ on
+ it
+ because
+
+
+there
+ are
+ a
+ few
+ solutions
+ that
+ exist
+
+
+today
+ around
+ voice
+ design
+ but
+ as
+ far
+ as
+
+
+I
+ know
+ they
+ are
+ not
+ very
+ popular
+ and
+
+
+people
+ still
+ still
+ stick
+ to
+ the
+ existing
+
+
+voice
+ catalog
+ because
+ they
+ cannot
+ steer
+
+
+it
+ precisely
+ enough.
+
+
+>> Yeah.
+ But
+ when
+ this
+ works,
+ this
+ will
+
+
+allow
+ uh
+ people
+ to
+ design
+ the
+ voices
+
+
+that
+ they
+ want
+ for
+ their
+ use
+ case,
+ which
+
+
+I
+ think
+ is
+ very
+ interesting.
+ Even
+ though
+
+
+sometimes
+ I'm
+ a
+ bit
+ surprised
+ because
+ we
+
+
+have
+ some
+ customers,
+ they
+ just
+ take
+ a
+
+
+random
+ stock
+ voice
+ from
+ our
+ catalog,
+
+
+which
+ is
+ one
+ of
+ ours
+ like
+ me
+ or
+ my
+
+
+colleague,
+ and
+ they
+ don't
+ care.
+ And
+ like
+
+
+I
+ try
+ to
+ p
+ them
+ like
+ let's
+ design
+ a
+
+
+voice
+ together,
+ make
+ let's
+ make
+ a
+ voice
+
+
+that
+ represents
+ your
+ brand.
+ But
+ some
+
+
+people
+ like
+ no,
+ it's
+ fine.
+ It's
+
+
+>> fascinating.
+ Or
+ maybe
+ you
+ just
+ have
+ such
+
+
+a
+ great
+ voice
+ that
+ that's
+ what
+ the
+
+
+market
+ wants.
+ inevitable
+ question
+ around
+
+
+privacy
+ and
+ then
+ deep
+ fakes.
+ Uh
+
+
+obviously
+ in
+ a
+ context
+ where
+ one
+ can
+
+
+clone
+ somebody
+ else's
+ voice
+ pretty
+
+
+easily.
+ What
+ does
+ that
+ mean
+ and
+ how
+ do
+
+
+you
+ protect
+ all
+ of
+ us?
+
+
+>> So
+ first
+ thing
+ I
+ want
+ to
+ say
+ what
+ are
+
+
+marking
+ is
+ a
+ scam.
+ I'm
+ sorry
+ I
+ have
+ to
+
+
+say
+ it
+ just
+ doesn't
+ work.
+ Uh
+ I
+ worked
+ on
+
+
+it.
+
+
+>> Uh
+ we
+ have
+ an
+ appendix
+ in
+ the
+ Mushi
+
+
+paper
+ around
+ how
+ we
+ could
+ break
+ so
+
+
+easily
+ any
+ watermarking
+ that
+ was
+
+
+supposed
+ to
+ be
+ state.
+ So
+ people
+ should
+
+
+not
+ rely
+ on
+ that.
+ Also
+ water
+ marking
+ who
+
+
+verify
+ the
+ watermark
+ right
+ uh
+ you
+ will
+
+
+need
+ a
+ platform
+ to
+ do
+ the
+ verification
+
+
+and
+ remove
+ the
+ audio
+ but
+ if
+ someone
+ in
+
+
+>> explain
+ what
+ watermarking
+ is
+ in
+ the
+
+
+context
+ of
+ audio
+ yeah
+ in
+ audio
+ that's
+
+
+the
+ idea
+ of
+ of
+ either
+ finding
+ a
+ way
+ to
+
+
+so
+ when
+ you
+ generate
+ an
+ audio
+ you
+ put
+ a
+
+
+hidden
+ stamp
+ in
+ it
+ like
+ you
+ would
+ do
+ in
+
+
+an
+ image
+ but
+ now
+ it's
+ in
+ audio
+ so
+ you
+
+
+cannot
+ hear
+ it
+ but
+ it
+ makes
+ it
+ very
+
+
+recognizable
+ that
+ it
+ not
+ only
+ it's
+ fake
+
+
+but
+ it's
+ fake
+ from
+ this
+ specific
+ model
+
+
+>> and
+ also
+ there
+ is
+ defect
+ detection
+ which
+
+
+is
+ just
+ recognizing
+ get
+ that
+ audio
+ is
+
+
+synthetic
+ even
+ if
+ there
+ is
+ no
+ water
+ mark
+
+
+in
+ it
+ just
+ telling
+ true
+ from
+ fake
+ these
+
+
+are
+ very
+ difficult
+ to
+ do
+ unfortunately
+
+
+you
+ know
+ if
+ you
+ get
+ a
+ phone
+ call
+ from
+ a
+
+
+scammer
+ unless
+ you
+ have
+ inside
+ your
+
+
+phone
+ the
+ automatic
+ detection
+ it's
+
+
+useless
+ right
+ you
+ cannot
+ put
+ upload
+ it
+
+
+to
+ a
+ website
+ that
+ says
+ it's
+ true
+ or
+ fake
+
+
+honestly
+ I
+ would
+ say
+ at
+ this
+ point
+ I
+
+
+don't
+ know
+ who
+ has
+ their
+ grandma
+ who
+
+
+lost
+ their
+ credit
+ card
+ and
+ at
+ the
+
+
+airport
+ and
+ it's
+ $1,000
+ today
+ because
+
+
+it's
+ always
+ a
+ story
+ I
+ hear.
+ It's
+
+
+probably
+ not
+ the
+ case
+ if
+ you
+ if
+ someone
+
+
+gives
+ you
+ a
+ phone
+ call.
+ So
+ I
+ would
+ say
+
+
+just
+ um
+ in
+ that
+ context
+ honestly
+ I
+ think
+
+
+there
+ is
+ nothing
+ as
+ safe
+ as
+ just
+ acting
+
+
+asking
+ personal
+ questions
+ that
+ only
+ the
+
+
+person
+ that
+ they
+ pretend
+ to
+ be
+ could
+
+
+answer.
+
+
+>> So
+ you
+ think
+ it's
+ going to
+ be
+ a
+ fact
+ of
+
+
+life
+ and
+ therefore
+ we
+ need
+ all
+ to
+ be
+
+
+just
+ more
+ vigilant.
+
+
+>> Yeah.
+ I
+ mean
+ you
+ know
+ it
+ was
+ already
+
+
+this
+ the
+ case
+ with
+ uh
+ with
+ emails
+ right?
+
+
+And
+ uh
+ and
+ people
+ just
+ need
+ to
+ be
+ much
+
+
+more
+ vigilant
+ and
+ probably
+ will
+ find
+
+
+ways
+ to
+ have
+ authentification
+ for
+
+
+example
+ on
+ the
+ other
+ phone
+ side
+ that
+
+
+it's
+ actual
+ person
+ that
+ is
+ calling
+ and
+
+
+so
+ on
+ and
+ so
+ forth.
+
+
+>> But
+ on
+ the
+ on
+ the
+ privacy
+ front
+ if
+ I
+ if
+
+
+I
+ clone
+ my
+ voice
+ with
+ Gradium
+ then
+ you
+
+
+keep
+ control
+ of
+ it.
+
+
+>> Only
+ you
+ can
+ use
+ it.
+ You
+ need
+ to
+ own
+ to
+
+
+own
+ it
+ but
+ nobody
+ will
+ be
+ able
+ to
+ uh
+ uh
+
+
+to
+ use
+ it.
+
+
+>> Yeah.
+ And
+ so
+ it's
+ only
+ for
+ your
+ your
+ own
+
+
+usage.
+ And
+ I
+ think
+ what
+ eventually
+ we
+
+
+could
+ also
+ do
+ which
+ was
+ done
+ before
+ is
+
+
+allow
+ people
+ if
+ they
+ want
+ to
+ opt
+ in
+ uh
+
+
+to
+ share
+ their
+ voice
+ with
+ the
+ community
+
+
+so
+ that
+ they
+ can
+ also
+ get
+ you
+ know
+ like
+
+
+financial
+ compensation
+ if
+ their
+ voice
+ is
+
+
+used
+ by
+ uh
+ by
+ other
+ users.
+ Okay.
+ So
+ I
+
+
+think
+ this
+ one
+ is
+ um
+ this
+ one
+ is
+ is
+ is
+
+
+you
+ know
+ it's
+ has
+ a
+ lot
+ of
+ value
+ because
+
+
+it's
+ it's
+ a
+ good
+ way
+ of
+ sourcing
+ a
+ lot
+
+
+of
+ voices
+ eventually
+ again
+ if
+ we
+ omit
+
+
+the
+ case
+ of
+ replicating
+ familiar
+ voices
+
+
+from
+ licenses
+ or
+ existing
+ people
+ who
+ who
+
+
+give
+ their
+ voice
+ knowingly
+ to
+ create
+
+
+specific
+ content.
+ I
+ think
+ voice
+ design
+
+
+is
+ going
+ to,
+ you
+ know,
+ just
+ remove
+ this
+
+
+issue
+ because
+ then
+ again
+ people
+
+
+typically
+ are
+ going
+ to
+ clone
+ the
+ voice
+
+
+of
+ someone
+ but
+ what
+ they
+ wanted
+ is
+
+
+someone
+ from
+ a
+ specific
+ gender,
+ specific
+
+
+demographics,
+ age,
+ accent
+ and
+ so
+ on
+ and
+
+
+so
+ they
+ could
+ just
+ fill
+ this
+ information
+
+
+and
+ get
+ a
+ few
+ propositions
+ or
+ voices
+
+
+that
+ will
+ fit
+ their
+ their
+ need
+ and
+ that
+
+
+will
+ remove
+ the
+ need
+ for
+ for
+ for
+ voice
+
+
+cloning.
+
+
+>> Yeah.
+ So
+ as
+ we
+ get
+ towards
+ the
+ end
+ of
+
+
+this
+ conversation
+ just
+ like
+ a
+ few
+ sort
+
+
+of
+ quick
+ ones.
+ one
+ there
+ seems
+ to
+ be
+ an
+
+
+emerging
+ discussion
+ about
+ the
+
+
+intersection
+ between
+ voice
+ and
+ screens
+
+
+or
+ image.
+ Is
+ that
+ something
+ that
+ you
+
+
+focus
+ on?
+
+
+>> There
+ are
+ several
+ things
+ in
+ particular.
+
+
+So
+ if
+ you
+ want
+ to
+ do
+ uh
+ speech
+
+
+understanding
+ having
+ access
+ to
+ the
+ video
+
+
+can
+ help
+ a
+ lot
+ again
+ for
+ theization.
+ For
+
+
+example,
+ if
+ you're
+ filming
+ like
+ if
+
+
+you're
+ listening
+ presidential
+ debates
+
+
+with
+ several
+ candidates,
+ it's
+ awful
+ to
+
+
+understand.
+ If
+ you
+ watch,
+ you
+ can
+ see
+
+
+who
+ is
+ speaking
+ at
+ at
+ each
+ time
+ and
+ so
+
+
+on.
+ So
+ audio
+ visual
+ understanding
+ is
+
+
+much
+ stronger
+ than
+ audio
+ understanding
+
+
+in
+ itself.
+ I
+ think
+ now
+ also
+ what
+ is
+
+
+interesting
+ is
+ uh
+ so
+ we
+ see
+ that
+ in
+ a
+
+
+video
+ generation
+ like
+ with
+ V3
+ from
+
+
+Google
+ now
+ there
+ is
+ native
+ audio
+ that
+ is
+
+
+uh
+ included
+ and
+ that's
+ why
+ I
+ think
+ it's
+
+
+a
+ for
+ video
+ generation
+ I
+ think
+ the
+ most
+
+
+natural
+ thing
+ is
+ integration
+ of
+ video
+
+
+and
+ audio.
+ I
+ don't
+ think
+ it
+ really
+ makes
+
+
+sense
+ to
+ do
+ video
+ to
+ audio
+ generation
+
+
+separately
+ because
+ typically
+ the
+ data
+
+
+exists
+ as
+ a
+ multimodel
+ signal
+ right
+ when
+
+
+you
+ have
+ a
+ video
+ you
+ have
+ the
+ audio
+
+
+track
+ as
+ well
+ so
+ you
+ might
+ as
+ well
+ just
+
+
+exploit
+ both
+ to
+ train
+ your
+ models
+ so
+
+
+however
+ now
+ so
+ for
+ example
+ we
+ released
+
+
+for
+ the
+ Valentine's
+ Day
+ a
+ small
+ app
+
+
+called
+ bridger
+ clone
+ now
+ if
+ I
+ put
+ my
+
+
+face
+ in
+ to
+ you
+ know
+ like
+ in
+ photo
+ I
+ put
+
+
+to
+ video
+ I
+ say
+ make
+ a
+ video
+ it's
+ going
+
+
+to
+ make
+ up
+ a
+ voice
+ that
+ it
+ thinks
+ sound
+
+
+like
+ me
+ based
+ on
+ my
+ appearance,
+ my
+ age
+
+
+and
+ so
+ on.
+
+
+>> Where
+ do
+ people
+ find
+ that?
+ So
+ it's
+ it's
+
+
+uh
+
+
+>> it's
+ called
+ bridge
+ clone.app
+
+
+>> bridger
+ clone
+ like
+ bridgetone
+ like
+
+
+there's
+ a
+ plan
+ word.
+
+
+>> Exactly.
+
+
+>> bridger
+ clone.app.
+
+
+>> Yeah.
+ Okay.
+
+
+>> And
+ so
+ what
+ it
+ allows
+ you
+ to
+ do
+ is
+ now
+
+
+you
+ can
+ clone
+ your
+ voice.
+ you
+ can
+ record
+
+
+a
+ small
+ a
+ short
+ uh
+ love
+ message
+ and
+ now
+
+
+you
+ get
+ a
+ video
+ of
+ you
+ in
+ your
+ voice,
+
+
+you
+ know,
+ and
+ and
+ this
+ again
+ I
+ think
+
+
+that's
+ that's
+ why
+ it's
+ useful
+ to
+ have
+ a
+
+
+a
+ voice
+ that
+ is
+ treated
+ as
+ kind
+ of
+ a
+
+
+separate
+ component
+ because
+ now
+ you
+ can
+
+
+have
+ much
+ more
+ control
+ on
+ the
+ actual
+
+
+voice
+ of
+ the
+ of
+ the
+ virtual
+ character
+
+
+rather
+ than
+ you
+ know
+ just
+ having
+ a
+
+
+likely
+ voice
+ that
+ sounds
+ like
+ it
+ could
+
+
+be
+ yours.
+
+
+>> Yep.
+ Okay.
+ So
+ we
+ talked
+ about
+ cloning.
+
+
+Obviously
+ cloning
+ is
+ uh
+ just
+ one
+ of
+ the
+
+
+many
+ apps
+ like
+ ultimately
+ just
+ to
+ play
+
+
+it
+ back
+ and
+ drive
+ it
+ home.
+ you
+ provide
+
+
+building
+ blocks
+ and
+ models
+ to
+ create
+ all
+
+
+sorts
+ of
+ different
+ products
+ uh
+ based
+ on
+
+
+voice
+ whether
+ that's
+ you
+ know
+ customer
+
+
+service
+ use
+ case
+ or
+ like
+ any
+ kind
+ of
+
+
+like
+ interaction
+ translation
+ like
+ all
+
+
+sorts
+ of
+
+
+>> and
+ what
+ is
+ interesting
+ is
+ u
+ so
+ at
+ QA
+ in
+
+
+two
+ years
+ we
+ were
+ able
+ to
+ do
+ uh
+
+
+conversation
+ uh
+ translation
+ TTS
+ speech
+
+
+to
+ text
+ always
+ competing
+ with
+ much
+
+
+bigger
+ and
+ much
+ more
+ mature
+ teams
+ it's
+
+
+still
+ the
+ same
+ at
+ Gradium
+ and
+ one
+ of
+ the
+
+
+big
+ strengths
+ is
+ that
+ we
+ have
+ kind
+ of
+
+
+this
+ fundamental
+ framework
+ for
+ the
+
+
+generation
+ around
+ audio
+ language
+ models
+
+
+and
+ it's
+ extremely
+ flexible.
+ So
+ I
+ think
+
+
+one
+ of
+ our
+ strengths
+ as
+ well
+ is
+ our
+
+
+ability
+ to
+ do
+ like
+ a
+ new
+ task
+ and
+ when
+
+
+people
+ come
+ up
+ with
+ new
+ needs
+ whether
+
+
+it's
+ about
+ annotating
+ various
+ stuff
+ or
+
+
+generating
+ various
+ stuff
+ all
+ of
+ this
+ can
+
+
+be
+ cast
+ pretty
+ easily
+ in
+ in
+ our
+
+
+framework.
+ Then
+ if
+ we
+ see
+ that
+ there
+ is
+
+
+huge
+ demand
+ for
+ uh
+ speed
+ separation,
+
+
+it's
+ pretty
+ easy
+ for
+ us
+ to
+ do
+ it
+ for
+ uh
+
+
+voice
+ transformation
+ for
+ accent
+
+
+transformation
+ whatever
+ you
+ know
+ it's
+ uh
+
+
+that's
+ also
+ why
+ we
+ are
+ always
+
+
+interacting
+ with
+ the
+ developers
+ to
+
+
+understand
+ what
+ they
+ want.
+ We're
+ also
+
+
+now
+ giving
+ access
+ to
+ alpha
+ models
+ that
+
+
+can
+ do,
+ you
+ know,
+ stuff
+ that
+ are
+ still
+
+
+experimental
+ but
+ are
+ world
+ premieres
+ and
+
+
+u
+ and
+ yeah,
+ I
+ think
+ it's
+ that's
+
+
+something
+ I'm
+ pretty
+ excited
+ because
+ we
+
+
+can
+ be
+ much
+ more
+ creative
+ than
+ just
+
+
+speech
+ to
+ text
+ and
+ TTS.
+ Obviously
+ these
+
+
+are
+ kind
+ of
+ the
+ master
+ tasks
+ where
+ we
+
+
+want
+ to
+ be
+ the
+ best
+ in
+ the
+ world
+ because
+
+
+that's
+ where
+ most
+ of
+ the
+ opportunities
+
+
+are
+ but
+ at
+ the
+ same
+ time
+ we
+ can
+ do
+ a
+ lot
+
+
+of
+ fun
+ stuff
+ that
+ is
+ completely
+ uh
+
+
+orthogonal
+ to
+ to
+ that
+ in
+ particular
+
+
+around
+ transformation
+ audio
+ effects
+ uh
+
+
+and
+ so
+ on.
+ I
+ think
+ that
+ can
+ be
+ there
+ a
+
+
+lot
+ of
+ things
+ to
+ that
+ can
+ be
+ very
+ cool.
+
+
+>> Great.
+ And
+ last
+ uh
+ theme
+ or
+ or
+ or
+
+
+question,
+ you
+ building
+ this
+ company
+ out
+
+
+of
+ Paris.
+ Obviously,
+ you're
+ building
+ the
+
+
+company
+ very
+ much
+ in
+ a
+ global
+ way
+ and
+
+
+you
+ have
+ multiple
+ customers
+ in
+ in
+
+
+different
+ geographies,
+ including
+ very
+
+
+much
+ the
+ US.
+ We
+ recording
+ this
+ today,
+
+
+New
+ York.
+ Uh
+ you're
+ flying
+ out
+ to
+ San
+
+
+Francisco
+ in
+ a
+ few
+ hours.
+ any
+ thoughts
+
+
+on
+ the
+ current
+ state
+ uh
+ of
+ the
+ French
+ AI
+
+
+scene
+ and
+ the
+ uh
+ European
+ I
+ guess
+ AI
+
+
+scene?
+ you
+ know,
+ there's
+ always
+ this
+ fun
+
+
+back
+ and
+ forth,
+ you
+ know,
+ seen
+ from
+ the
+
+
+US
+
+
+combination
+ of
+ like
+ occasionally
+
+
+admiration
+ pretty
+ often
+ mockery
+ and
+ the
+
+
+fact
+ that
+ the
+ Macron
+ or
+ whoever
+ runs
+ his
+
+
+social
+
+
+account
+ um
+ sort
+ of
+ misfired
+ the
+ other
+
+
+day
+ by
+ saying
+ that
+ he
+ was
+ going
+ to
+
+
+allocate
+ 30
+ million
+ euros
+ to
+ AI
+ when
+ in
+
+
+reality
+ meant
+ specific
+ program
+ to
+
+
+attract
+ a
+ few
+ academics
+ to
+ to
+ to
+ France.
+
+
+But
+ um
+ so
+ what
+ on
+ the
+ ground
+ there
+ what
+
+
+is
+ your
+ sense
+ of
+ the
+ current
+ state
+ and
+
+
+the
+ strengths
+ and
+ weaknesses
+ of
+ the
+
+
+>> lot
+ of
+ things
+ to
+ say
+ about
+ that.
+ I
+ was
+
+
+born
+ and
+ raised
+ in
+ Paris.
+ I
+ did
+ all
+ my
+
+
+career
+ there.
+ Uh
+ Facebook
+ arrived
+ when
+ I
+
+
+started
+ my
+ PhD
+ and
+ then
+ Google
+ brain
+
+
+moved
+ to
+ Paris
+ and
+ Google
+ did
+ mind
+
+
+afterwards.
+ I'm
+ what
+ we
+ can
+ call
+
+
+terminally
+ online
+ in
+ the
+ sense
+ that
+ I
+
+
+love
+ the
+ very
+ mean
+ memes
+ against
+ Europe.
+
+
+So
+ this
+ guy
+ I
+ don't
+ remember
+ his
+ name.
+
+
+It's
+ like
+ a
+ fake
+ Swedish
+ name.
+ And
+ he
+
+
+keeps
+ posting
+ about
+ how,
+ you
+ know,
+ he
+
+
+has
+ after
+ only
+ 20
+ meetings,
+ he
+ has
+
+
+contributed
+ a€
+ 10,000
+ check
+ for
+
+
+and
+ it's
+ a
+ compliance
+ first
+ company
+ and
+
+
+everything,
+ you
+ know.
+ But
+ I
+ love
+ it.
+
+
+It's
+ very
+ mean.
+ Honestly,
+ I
+ love
+ it
+
+
+because
+ it's
+ very
+ mean.
+ I'm
+ like
+ I
+ love
+
+
+when
+ people
+ have
+ so
+ much
+ time
+ to
+ spend
+
+
+just
+ to
+ be
+ mean.
+ I
+ mean,
+ I
+ think
+ it's
+
+
+it's
+ quite
+ uh
+ you
+ know,
+ I
+ respect
+ that.
+
+
+But
+ uh
+ uh
+ at
+ the
+ same
+ time
+ it's
+ so
+ far
+
+
+from
+ uh
+ from
+ reality.
+ So
+ you
+ know
+ uh
+
+
+French
+ AI
+ and
+ European
+ AI.
+ So
+ European
+
+
+AI
+ is
+ mostly
+ French
+ to
+ be
+ fair.
+ There's
+
+
+also
+ Germany
+ but
+ a
+ lot
+ of
+ it
+ is
+ in
+
+
+France
+
+
+>> and
+ before
+ French
+ companies
+ as
+ there
+ was
+
+
+French
+ talent
+ in
+ American
+ companies.
+ So
+
+
+again
+ a
+ lot
+ of
+ the
+ current
+ audio
+
+
+generative
+ models
+ of
+ Google
+ a
+ global
+
+
+company
+ obviously
+ were
+ developed
+ between
+
+
+Paris
+ and
+ Zurich
+ actually
+ most
+ of
+ it
+
+
+lama
+ was
+ started
+ in
+ Paris.
+ Dino
+ which
+ is
+
+
+the
+ uh
+ most
+ groundbreaking
+ vision
+ work
+
+
+from
+ Facebook
+ was
+ developed
+ in
+ Paris.
+ A
+
+
+lot
+ of
+ things
+ have
+ been
+ developed
+ in
+
+
+Paris
+ that
+ are
+ not
+ seen
+ as
+ Parisian
+
+
+because
+ they
+ were
+ made
+ in
+ in
+ American
+
+
+companies.
+ And
+ now
+ I
+ think
+ the
+ like
+ the
+
+
+field
+ in
+ Paris
+ is
+ like
+ the
+ talent
+ is
+ so
+
+
+dense
+ and
+ the
+ people
+ are
+ extremely
+
+
+strong
+ and
+ extremely
+ committed
+ and
+ the
+
+
+best
+ you
+ know
+ signal
+ that
+ that
+ proves
+ it
+
+
+is
+ we
+ used
+ to
+ have
+ Facebook
+ and
+ and
+
+
+Google
+ in
+ Paris
+ now
+ there
+ is
+ openai
+
+
+there
+ is
+ entropic
+ there
+ is
+ cohhere
+
+
+pretty
+ much
+ everybody
+ is
+ opening
+ in
+ an
+
+
+AB
+ lab
+ in
+ Paris
+ and
+ the
+ reason
+ why
+ they
+
+
+do
+ is
+ for
+ the
+ talent.
+ So
+ I
+ think
+ we
+ have
+
+
+everything
+ in
+ France
+ to
+ to
+ develop
+ uh
+
+
+global
+ companies
+ in
+ particular,
+ you
+
+
+know,
+ in
+ AI,
+ which
+ is
+ an
+ economy
+ really
+
+
+built
+ around
+ talent.
+ That's
+ a
+ perfect
+ uh
+
+
+uh
+ a
+ perfect
+ deal
+ for
+ for
+ it.
+ Also,
+ as
+ a
+
+
+French
+ uh
+ as
+ a
+ French
+ guy,
+ I
+ really
+
+
+don't
+ want
+ us
+ to
+ to
+ screw
+ it
+ up,
+ you
+
+
+know,
+ in
+ France
+ because
+
+
+>> in
+ a
+ way,
+ you
+ know,
+ when
+ you
+ see
+ like
+
+
+the
+ the
+ most
+ successful
+ French
+
+
+companies,
+ it's
+ a
+ it's
+ luxury
+ or
+ kind
+ of
+
+
+stuff.
+ And
+ so
+ yeah,
+ I
+ really
+ want
+ AI
+ to
+
+
+be
+ uh
+ you
+ know
+ that's
+ a
+ field
+ where
+
+
+France
+ can
+ make
+ a
+ big
+ difference
+ and
+
+
+that
+ can
+ become
+ one
+ of
+ the
+ most
+ biggest
+
+
+driver
+ in
+ in
+ the
+ European
+ economy.
+ If
+ it
+
+
+doesn't
+ work
+ then
+ Europe
+ will
+ really
+
+
+have
+ to
+ look
+ itself
+ in
+ the
+ mirror
+ and
+ be
+
+
+like
+ how
+ could
+ we
+ screw
+ it
+ up
+ with
+ so
+
+
+many
+ strong
+ people
+ because
+ you
+ know
+ the
+
+
+people
+ are
+ here
+
+
+>> and
+ you
+ know
+ capital
+ we
+ we
+ can
+ get
+
+
+capital
+ in
+ in
+ in
+ in
+ Europe
+ as
+ well.
+ I
+
+
+think
+ all
+ all
+ the
+ conditions
+ are
+ are
+
+
+there
+ for
+ it
+ to
+ be
+ competitive.
+ In
+ a
+
+
+way,
+ the
+ more
+ people
+ are
+ mocking
+ Europe,
+
+
+the
+ more
+ it
+ can
+ make
+ the
+ people
+ who
+ mock
+
+
+overconfident
+ about
+ themselves
+ and
+
+
+everyone
+ who
+ is
+ overconfident
+ eventually
+
+
+get
+ displaced
+ by
+ the
+ underdog.
+ So,
+ you
+
+
+know,
+ I
+ I
+ mean
+ people
+ should
+ always
+ uh
+
+
+you
+ know
+ like
+ when
+ I
+ when
+ I
+ was
+ the
+ 996
+
+
+uh
+ like
+ laring
+ on
+ on
+ Twitter,
+ it's
+ it's
+
+
+ridiculous
+ like
+ people
+ coding
+ at
+ the
+ gym
+
+
+like
+ what
+ the
+ like
+ code
+ and
+ then
+ go
+ to
+
+
+the
+ gym.
+ you're
+ not
+ doing
+ a
+ good
+ gym
+ and
+
+
+you're
+ not
+ doing
+ good
+ code.
+ So
+ you're
+
+
+just
+ it's
+ just
+ pretending.
+ So
+ I
+ think
+ we
+
+
+don't
+ have
+ a
+ culture
+ of
+ pretending
+ and
+
+
+that's
+ whole
+ Europe
+ from
+ the
+ most
+
+
+western
+ to
+ the
+ most
+ eastern
+ part.
+ We
+
+
+tend
+ to
+ be
+ a
+ bit
+ more
+ pessimistic
+ maybe
+
+
+and
+ a
+ bit
+ more
+ down
+ to
+ earth
+ about
+ our
+
+
+impact
+ and
+ the
+ challenges
+ and
+ so
+ on.
+ We
+
+
+don't
+ try
+ to
+ sugar
+ coat
+ things.
+ We
+
+
+rarely
+ look
+ enthusiastic
+ or
+ happy
+ about
+
+
+our
+ work.
+ But
+ you
+ know
+ it's
+ a
+ good
+
+
+discipline.
+ So
+ I
+ think
+ the
+ results
+ kind
+
+
+of
+ speak
+ for
+ themselves.
+ What
+ what
+ I
+
+
+think
+ you
+ know
+ um
+ so
+ mistral
+ for example
+
+
+was
+ you
+ know
+ sometimes
+ it's
+ mock
+ because
+
+
+it's
+ not
+ considered
+ the
+ frontier
+ lab
+
+
+like
+ open
+ entropic
+ whatever
+ okay
+ but
+
+
+look
+ at
+ the
+ staff
+ and
+ the
+ resources
+ and
+
+
+so
+ on.
+ I
+ know
+ the
+ best
+ people
+ from
+
+
+Mistral
+ they
+ they
+ you
+ know
+ they
+ can
+ be
+
+
+compared
+ to
+ the
+ top
+ of
+ the
+ top
+ of
+ the
+
+
+biggest
+ lab.
+ So
+ then
+ there's
+ a
+ question
+
+
+of
+ scale
+ and
+ scale
+ of
+ resources
+ indeed.
+
+
+So
+ what
+ you
+ the
+ unfortunate
+ tweet
+ you
+
+
+mentioned
+ about
+ the
+ 30
+ million
+ euros
+ you
+
+
+know
+ is
+ is
+ one
+ of
+ them
+
+
+>> but
+ yeah
+ I
+ mean
+ other
+ than
+ that
+ people
+
+
+are
+ there
+ are
+ a
+ lot
+ of
+ very
+ strong
+
+
+people
+ and
+ you
+ know
+ they
+ have
+ done
+ also
+
+
+a
+ lot
+ of
+ great
+ things
+ for
+ American
+
+
+companies
+ I
+ mean
+ Yanuk
+ was
+ is
+ one
+ of
+
+
+them
+ obviously
+ but
+ it's
+ not
+ only
+ him
+
+
+Sammy
+ Benjio
+ who
+ used
+ to
+ lead
+ brain
+ is
+
+
+now
+ is
+ leading
+ Apple
+ MLR
+ the
+ amount
+ of
+
+
+French
+ people
+ in
+ the
+ leadership
+ of
+ big
+
+
+tech
+ AI
+ research
+ is
+ is
+ is
+ very
+ charge.
+
+
+>> Wonderful.
+ Well,
+ I
+ love
+ that.
+
+
+>> I
+ get
+ carried
+ a
+ bit
+ when
+ I
+ speak.
+
+
+>> I
+ love
+ I
+ love
+ the
+ fighting
+ spirit
+ and
+
+
+this
+ is
+ a
+ wonderful
+ way
+ to
+ end
+ it.
+ So,
+
+
+Neil,
+ thank
+ you
+ so
+ much.
+ This
+ was
+ uh
+
+
+terrific.
+ Really
+ appreciate
+ it.
+
+
+>> Thanks.
+
+
+>> Hi,
+ it's
+ Matt
+ Turk
+ again.
+ Thanks
+ for
+
+
+listening
+ to
+ this
+ episode
+ of
+ the
+ Mad
+
+
+Podcast.
+ If
+ you
+ enjoyed
+ it,
+ we'd
+ be
+ very
+
+
+grateful
+ if
+ you
+ would
+ consider
+
+
+subscribing
+ if
+ you
+ haven't
+ already
+ or
+
+
+leaving
+ a
+ positive
+ review
+ or
+ comment
+ on
+
+
+whichever
+ platform
+ you're
+ watching
+ this
+
+
+or
+ listening
+ to
+ this
+ episode
+ from.
+ This
+
+
+really
+ helps
+ us
+ build
+ a
+ podcast
+ and
+ get
+
+
+great
+ guests.
+ Thanks
+ and
+ see
+ you
+ at
+ the
+
+
+next
+ episode.
