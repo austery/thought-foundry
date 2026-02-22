@@ -1,0 +1,263 @@
+[Speaker 0]: 最近春节期间没有为大家制作与 open 相关的视频，
+[Speaker 0]: 但这期间我还是一直高强度使用 clouopen，
+[Speaker 0]: 并且总结了非常多的经验，
+[Speaker 0]: 还有使用技巧。
+[Speaker 0]: 而且我还对 clouopen cloud 记忆系统进行了重构，
+[Speaker 0]: 将 open 自带的 cloumark down 文件记忆系统重构。
+[Speaker 0]: 为了 lunth DB 的记忆系统，
+[Speaker 0]: 在执行复杂任务的时候，
+[Speaker 0]: 能够百分百命中我们记忆中所存储的这些踩坑经验，
+[Speaker 0]: 还有很多技术细节以及方法论。
+[Speaker 0]: 由于最近我总结的 open cloud 相关使用经验，
+[Speaker 0]: 还有使用技巧，
+[Speaker 0]: 还有方法论非常多。
+[Speaker 0]: 所以本期视频我会分享几个比较有代表性的使用经验，
+[Speaker 0]: 还有使用技巧。
+[Speaker 0]: 如果本期视频的点赞量破千，
+[Speaker 0]: 我会在下期视频为大家详细讲解如何重构 open cloud 的记忆系统，
+[Speaker 0]: 将 open cloud 记忆模块改为 ls DB。
+[Speaker 0]: 并且我会将我重构后的这个记忆 cloud 代码直接开源出来。
+[Speaker 0]: 好，
+[Speaker 0]: 下面我们就从简单到复杂来分享一下 open cloud 使用经验，
+[Speaker 0]: 还有使用技巧。
+[Speaker 0]: 首先，
+[Speaker 0]: 经过我这段时间高强度的使用，
+[Speaker 0]: 最终我在 open 中保留的模型其实并不多。
+[Speaker 0]: 首先是 clouanthd topic 的 cloud opops 四点六个个模型。
+[Speaker 0]: 虽然前两 clouthopic 发布了最新的 cloud senate 四点六，
+[Speaker 0]: 但经过我在 open cloud 中深度测试，
+[Speaker 0]: 发现 cloud senate 四点六，
+[Speaker 0]: 它的 agentic 能力完全不如 cloud ops 四点六。
+[Speaker 0]: 所以我在 open cloud 中，
+[Speaker 0]: 如果使用 enoud topic 的模型的话，
+[Speaker 0]: 我这里就会首选 cloud opops 四点六。
+[Speaker 0]: 对于一些不是非常复杂的任务的话，
+[Speaker 0]: 我会选择 open AI codex 中自带的 GPT 五点二模型。
+[Speaker 0]: 对于 GPT 五点三 codex 这款模型的话，
+[Speaker 0]: 它并不适合在 open cloud 中执行复杂任务。
+[Speaker 0]: 因为 GPT 五点三 codex 这款模型，
+[Speaker 0]: 它更适合用于编码场景，
+[Speaker 0]: 它并不适合在 open cloud 中执行 agentic 等相关任务。
+[Speaker 0]: 最关键的是，
+[Speaker 0]:  codex 中自带的 GPT 五点二模型，
+[Speaker 0]: 它的额度要比 antho o pc 的 cloud ops 四点六额度要多很多。
+[Speaker 0]: 当使用 GBD 五点二执行复杂任务的时候，
+[Speaker 0]: 我们就可以直接用 think 命令来设置它的思考级别。
+[Speaker 0]: 它默认是关闭的。
+[Speaker 0]: 然后我们就可以根据我们的任务复杂程度来选择它的思考级别。
+[Speaker 0]: 比如说我这里可以选择 high，
+[Speaker 0]: 这样的话就将 GBD 五点二，
+[Speaker 0]: 它的思考级别调成了 high。
+[Speaker 0]: 然后我还保留了一个 MIMAX 的模型。
+[Speaker 0]: 如果想给自己的 open cloud 一个开源模模型用于处理一些任务的话，
+[Speaker 0]: 那么选择 MI max m 二点一这款模型是非常合适的。
+[Speaker 0]: 它和 open class 非常搭配，
+[Speaker 0]: 无论是响应速度还是推理能力，
+[Speaker 0]: 在开源模型中它的效果都是非常不错的。
+[Speaker 0]: 好，
+[Speaker 0]: 下面继续为大家讲解 open 与记忆相关的这一些功能。
+[Speaker 0]: 在之前的时候，
+[Speaker 0]: 我将 clouopen cloud 这些记忆文件全部同步到了 get up 进行备份，
+[Speaker 0]: 防止丢失。
+[Speaker 0]: 当记忆文件过多的时候，
+[Speaker 0]: 我就让 open 创建了一个 cloutopics 文件夹。
+[Speaker 0]: 在这个文件夹中，
+[Speaker 0]: 我将记忆分为了不同的类别。
+[Speaker 0]: 比如说关于 open class 多 a 型的相关的这一些经验和技巧，
+[Speaker 0]: 就单独存入这一个文件中。
+[Speaker 0]: 关于 open clore 配置相关的这些记忆，
+[Speaker 0]: 就单独存入这一个文件中。
+[Speaker 0]: 关于浏览器自动化相关的这些经验，
+[Speaker 0]: 就单独存入这一个文件中，
+[Speaker 0]: 还有关于与 dock 配置相关的记忆，
+[Speaker 0]: 还有与节点配置相关的这些记忆，
+[Speaker 0]: 我全部都让 open clall 将这些记忆做成了 topics。
+[Speaker 0]: 然后每一个话题就对应一个 markdown 文件，
+[Speaker 0]: 这样的话 open 就可以根据我们的场景，
+[Speaker 0]: 按需在加载不同场景下的这些记忆文件，
+[Speaker 0]: 从而让记忆更明确。
+[Speaker 0]: 想实现让 open 按 cloutopics 来拆分。
+[Speaker 0]: 这些记忆非常简单，
+[Speaker 0]: 我们只需要在 open 中告诉 clouopen clall，
+[Speaker 0]: 按照主题来拆分 memory MD 这个文件，
+[Speaker 0]: 然后 open 它就能够理解。
+[Speaker 0]: 按照主题来拆分 cloumemory，
+[Speaker 0]: 将 memory 改为索引加核心规则。
+[Speaker 0]: 当拆分完成之后，
+[Speaker 0]:  memory 这个文件的体积就会减小。
+[Speaker 0]: 比如说我的这个 memory 文件在拆分之前前，
+[Speaker 0]: 它是一个十五 KB 的单文件，
+[Speaker 0]: 所有知识都混在一起。
+[Speaker 0]: 当拆分之后，
+[Speaker 0]: 在 memory 这个文件中，
+[Speaker 0]: 它只存储索引，
+[Speaker 0]: 还有关键规则。
+[Speaker 0]: 拆分之后可以看到，
+[Speaker 0]: 它从十五 KB 变成了二点三 KB。
+[Speaker 0]: 拆分后的这些文件就放入了 memory topics。
+[Speaker 0]: 这个文件夹中，
+[Speaker 0]: 在这里就包含与 open cloud 置相关的记忆，
+[Speaker 0]: 多 agent 的协作相关的记忆。
+[Speaker 0]: 浏览器自动化外部服务加技能相关的记忆，
+[Speaker 0]: 还有工作流规则相关的记忆。
+[Speaker 0]: 像这样话，
+[Speaker 0]: 就能够实现 memory search，
+[Speaker 0]: 能够按主题文键搜索，
+[Speaker 0]: 从而而实现精命命。
+[Speaker 0]: 而且每个主题都是独立膨胀，
+[Speaker 0]: 不会相互干扰，
+[Speaker 0]: 还能将新的知识追加到对应的主题文件中。
+[Speaker 0]: 像这样的话，
+[Speaker 0]: 大家就可以将自己的 memory al 功能按照主题，
+[Speaker 0]: 让 open class 进行拆分拆，
+[Speaker 0]: 分成独立的文件。
+[Speaker 0]: 好，
+[Speaker 0]: 下面继续为大家讲解一下如何增强 open class 它的搜索功能。
+[Speaker 0]: 因为 open clwn 它自带的搜索功能非常有限，
+[Speaker 0]: 它支持了这个 web search 功能。
+[Speaker 0]: 我们需要设置 brave 的这个 api，
+[Speaker 0]: 然后他支持的这个工具只是起到 URL 的内容抓取。
+[Speaker 0]: 我们如果只使用 open 自带的这两个搜索功能的话，
+[Speaker 0]: 它的功能非常有限。
+[Speaker 0]: 当我们进行非常复杂的搜索的时候，
+[Speaker 0]: 这两个功能就很难满足我们的需求了。
+[Speaker 0]: 为了给 clouopen 加入更强的深度搜索能力，
+[Speaker 0]: 这里我写了一个 clouskill，
+[Speaker 0]: 看这个 skill 的名字，
+[Speaker 0]: 大家应该就能猜出来。
+[Speaker 0]: 我这里使用了 codex 的搜索功能，
+[Speaker 0]: 因为 codex 它自带的这个搜索功能非常强大。
+[Speaker 0]: 它的这个搜索功能属于 deeper research。
+[Speaker 0]: 比如说我在 codex 中让它搜索 cloud code agent teams 的使用场景，
+[Speaker 0]: 然后在 codex 中它就进行了深度搜索。
+[Speaker 0]: 在这里它就给出了搜索结果，
+[Speaker 0]: 然后我就将 codex 的这个搜索功能做成了这个 skill，
+[Speaker 0]: 并且添加到了 open cloud 中。
+[Speaker 0]: 在 open cloud 中，
+[Speaker 0]: 我们只需要使用相关命令，
+[Speaker 0]: 加 codex 就可以看到这个搜索功能。
+[Speaker 0]: 在后面加上要搜索的内容，
+[Speaker 0]: 比如说搜索 cloud code agent teams 的使用场景。
+[Speaker 0]: 当我们将搜索任务发送给他的时候，
+[Speaker 0]: 然后这里它就会提示他已经启动深度搜索。
+[Speaker 0]: 当搜索完成之后，
+[Speaker 0]: 这里他就列出了搜索到的这些相关的内容，
+[Speaker 0]: 甚至还给出了对应的链接。
+[Speaker 0]: 然后这里还给出了详细的这一些分析。
+[Speaker 0]: 在这里，
+[Speaker 0]: 他还给出了完整的检索报告。
+[Speaker 0]: 像这样的话，
+[Speaker 0]: 我们就将 codex 它强大的搜索能力。
+[Speaker 0]: 对，
+[Speaker 0]: 接到了 open cloud 中。
+[Speaker 0]: 然后我们可以看一下这个搜索功能的决策书。
+[Speaker 0]: 首先是用户提出需求，
+[Speaker 0]: 比如说帮我查一下什么资料，
+[Speaker 0]: 帮我搜索一下什么内容。
+[Speaker 0]: 首先会判断用户是否输入了 URL，
+[Speaker 0]: 如果输入了 URL，
+[Speaker 0]: 就直接通过他的这个 web fetch 来抓取网页内容，
+[Speaker 0]: 抓取为 markdown 格式。
+[Speaker 0]: 如果没有输入 URL 或者网址等内容，
+[Speaker 0]: 然后用户搜索的内容只是一个非常简单的实时查询，
+[Speaker 0]: 这样的话就会调用自带的这个 brave 进行搜索。
+[Speaker 0]: 当用户输入的内容非常复杂，
+[Speaker 0]: 并且是多元，
+[Speaker 0]: 需要深度研究的时候，
+[Speaker 0]: 那么就会调用 codex CLI 进行多轮搜索。
+[Speaker 0]: 然后我们就可以输入提示词测试一下，
+[Speaker 0]: 调用 codex 深入研究一下 AIA 诊断的最新进展，
+[Speaker 0]: 然后我们直接发送。
+[Speaker 0]: 然后这里他很快就给出了也用 codex 做完一轮最近三到六个月为主的深度调研报告。
+[Speaker 0]: 这里是核心结论，
+[Speaker 0]: 这里还给出了具体的这一些来源。
+[Speaker 0]: 然后在这里他又给出了第二轮的这些调研，
+[Speaker 0]: 这样的话我们就实现了直接通过过 skill，
+[Speaker 0]: 在 open cloud 中直接整合 coldex 的深度搜索能力，
+[Speaker 0]: 来弥补 open 它自带的搜索工具搜索能力不足的情况。
+[Speaker 0]: 好，
+[Speaker 0]: 这个调用 cloucodex 实现深度搜索功能的 skill，
+[Speaker 0]: 我也会放在笔记中。
+[Speaker 0]: 好，
+[Speaker 0]: 下面我们再看一下另一个非常重要的场景。
+[Speaker 0]:  open cloud gateway 重启防护机制。
+[Speaker 0]: 因为我们在使用 open cloud 的时候，
+[Speaker 0]: 它很可能会因为一些插件出现了 bug，
+[Speaker 0]: 导致 open cloud，
+[Speaker 0]: 它的 gateway 异常退出，
+[Speaker 0]: 而且无法启动。
+[Speaker 0]: 而且我在今天凌晨就遇到了我的 gateway 异常退出，
+[Speaker 0]: 在这种情况下，
+[Speaker 0]: 就会调用 cloud code 来修复这些插件，
+[Speaker 0]: 导致了 gateway 启法启动的情况。
+[Speaker 0]: 当 cloud code 修复完成之后，
+[Speaker 0]: 这里就提示 gateway 已经被自动修复，
+[Speaker 0]: 并且重启成功。
+[Speaker 0]: 然后当早上我醒来，
+[Speaker 0]: 我看到了这个日志提示的时候，
+[Speaker 0]: 我就直接问他为什么会收到 gateway 启动失败的通知。
+[Speaker 0]: 因为这段时间我并没有进行操作，
+[Speaker 0]: 然后 open cloud 就对 gateway 进程崩溃的原因进行了分析。
+[Speaker 0]: 这里他发现是钉钉插件在重连过程中抛了未捕获的异常，
+[Speaker 0]: 最后导致整个进程都崩溃。
+[Speaker 0]: 当 gateway 启动失败之后，
+[Speaker 0]: 这里就会触发自动修复的这个服务。
+[Speaker 0]: 下面我们看一下我是如何 open en 中中实现 clogaget way，
+[Speaker 0]: 重启启防机制制 gaget way。
+[Speaker 0]: 因为一些异常原因而崩溃而退出的时候，
+[Speaker 0]: 就会触发 systestem on on ilyear，
+[Speaker 0]: 然后就会自动启动修复服务。
+[Speaker 0]: 这个修复服务就是写的一个脚本，
+[Speaker 0]: 然后这个脚本就会自动读取 gateway 的日志，
+[Speaker 0]: 也就是这个脚本它会自动调用 cloud code，
+[Speaker 0]: 把它获取到的日志信息等内容，
+[Speaker 0]: 告诉 cloud code，
+[Speaker 0]: 然后让 cloud code 进行详细的分析，
+[Speaker 0]: 包括 open cloud jazon、
+[Speaker 0]: 语法错误，
+[Speaker 0]: 还有插件相关的配置错误，
+[Speaker 0]: 还有端口冲突等内容。
+[Speaker 0]: 所以这一步 cloud code 就会读日志定位问题、
+[Speaker 0]: 修改配置代码验证 jazon 语法。
+[Speaker 0]: 当修复之后，
+[Speaker 0]: 它就会重启 gateway。
+[Speaker 0]: 当重启八秒后，
+[Speaker 0]: 它就会再次检查 get ate way 是否还在运行。
+[Speaker 0]: 如果还在运行，
+[Speaker 0]: 就是说明修复功功。
+[Speaker 0]: 当八秒之后，
+[Speaker 0]: 它检测到 get way 的的程程已经不存在。
+[Speaker 0]: 那他就会尝试第二次修复，
+[Speaker 0]: 也就是继续这个过程，
+[Speaker 0]: 先读日志定位问题，
+[Speaker 0]: 然后修改代码验证 jason 语法，
+[Speaker 0]: 再重启 gate way，
+[Speaker 0]: 再检测 gteway 是否崩溃。
+[Speaker 0]: 如果修复两次还没有修复成功，
+[Speaker 0]: 那么它就会通过聊天软件来通知用户，
+[Speaker 0]: 让用户介入进行修复。
+[Speaker 0]: 这个功能包含这几个相关的配置文件，
+[Speaker 0]: 还有刚才我们所看到的这个脚本，
+[Speaker 0]: 我会将这些配置内容还有相关的代码都放入笔记中。
+[Speaker 0]: 然后大家只需要将这些代码发送给你的 open，
+[Speaker 0]: 让 clouopen 自动为你设置就可以。
+[Speaker 0]: 像这样的话，
+[Speaker 0]: 我们就实现了 clouopen cloud gateway 的自动修复。
+[Speaker 0]: 哪怕在无人值守的状态，
+[Speaker 0]:  gateway 因为插件的 bug 导致崩溃，
+[Speaker 0]: 那么也可以由 cloud code 自动为我们修复。
+[Speaker 0]: 我们的 geteway，
+[Speaker 0]: 反而不需要我们手动去操作，
+[Speaker 0]: 就可以完全实现 gateway 的恢复。
+[Speaker 0]: 这样的话，
+[Speaker 0]: 我们就不用担心 gateway 因为异常退出，
+[Speaker 0]: 而需要人工介入才能将它修复好。
+[Speaker 0]: 由于时间有限，
+[Speaker 0]: 本期视频先为大家分享这些内容，
+[Speaker 0]: 后续还会为大家讲解更多关于 open class 相关的使用经验。
+[Speaker 0]: 还有使用技巧。
+[Speaker 0]: 好，
+[Speaker 0]: 本期视频就做到这里，
+[Speaker 0]: 欢迎大家点赞、
+[Speaker 0]: 关注和转发，
+[Speaker 0]: 谢谢大家观看。
