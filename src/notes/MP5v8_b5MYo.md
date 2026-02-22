@@ -5,14 +5,21 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=MP5v8_b5MYo
 speaker: 小翠時政財經
-tags: []
+tags:
+- financial
+- fraud
+- regulation
+- risk-management
+- china
+- financial-crime
+- monetary-policy
 title: 黄金池与金融骗局的错觉制造术
-summary: ''
+summary: 深圳珠宝公司杰我睿通过包装衍生品交易为普通黄金买卖，制造低风险幻觉，最终因裸卖期权导致百亿级损失。文章指出深圳金融监管缺乏穿透式审查，亟需明确金融业务边界、规范资金池管理。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: investment-assets
+area: finance-wealth
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +27,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 黄金池与金融骗局的错觉制造术  
 
 2026年年初，深圳一家名为“杰我睿”的珠宝公司突然爆雷，陷入非法金融争议。原本是一家经营黄金饰品加工与销售的普通企业，在黄金价持续上涨的大环境下，转而搭起了一个涉及炒黄金、衍生金融品的平台。这一转型直接导致了资金池失控与系统性风险，最终引发百亿元级损失、十万名以上投资者血本无归的恶性事件。  

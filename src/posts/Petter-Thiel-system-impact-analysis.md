@@ -11,7 +11,7 @@ people:
 project: []
 source: https://gemini.google.com/app/0c9bd2ed4e2e19a0
 status: archived
-summary: null
+summary: 文章分析了Peter Thiel如何通过资本、科技、思想和政治的反馈循环系统性地改变美国社会。他不是创造者而是催化剂，识别并加速了既有的社会裂痕，其影响波及全球政治、科技与意识形态的深度绑定。
 tags:
 - investment-thesis
 - llm
@@ -20,6 +20,7 @@ updated: 2025-09-14T21:44
 companies:
 - google
 ---
+
 Https://news.marsbit.co/20250913201238868879.html
 
 刚才读了这篇文章, 感觉挺, 挺复杂的。呃, 你怎么看这文章? 而且我觉得它的脉络还梳理得很清楚。你觉得Peter Thiel是在, 呃, 真实地改变美国吗? 我觉得好像的确是有一点。然后这个对我们当今社会有什么影响呢? 嗯, 还有就是说, 在这整个的影响下, 我们该怎么自取, 呃, 我希望你跟我一起来思考一下。

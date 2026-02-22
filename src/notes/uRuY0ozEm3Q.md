@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: tech-engineering
+category: ai-application
 companies_orgs: []
 date: '2025-10-13'
 draft: true

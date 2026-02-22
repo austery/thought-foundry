@@ -1,7 +1,7 @@
 ---
-area: null
+area: society-thinking
 author: Lei
-category: null
+category: psychology
 channel: null
 companies_orgs: []
 date: 2025-08-18

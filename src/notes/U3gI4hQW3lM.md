@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: society-thinking
+category: politics-society
 companies_orgs:
 - sac-capital
 date: '2025-09-30'

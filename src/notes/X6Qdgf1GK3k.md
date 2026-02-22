@@ -1,7 +1,7 @@
 ---
 title: 马基雅维里时刻读书会（一）：共和、美德与现代政治
-summary: null
-area: "life-family"
+summary: 本讲座探讨马基雅维里著作《马基雅维里时刻》的现代意义，区分民主与共和制的差异，指出选举制演变为精英统治，强调共和主义的权力制约机制对中国政治转型的重要参考价值。
+area: life-family
 category: culture
 project: []
 tags:
@@ -22,6 +22,7 @@ layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=X6Qdgf1GK3k&t
 ---
+
 ## 开场与引言
 
 **主持人:**

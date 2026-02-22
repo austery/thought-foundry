@@ -1,10 +1,16 @@
 ---
 title: 献给父母的iPhone 16 Plus贴心指南：从安卓到苹果的全方位迁移与使用手册
-summary: null
-area: null
-category: null
+summary: 为父母撰写的iPhone 16 Plus使用指南，详细介绍了从安卓手机迁移至苹果系统的全过程，包括开箱设置、SIM卡安装、联系人照片转移以及微信聊天记录备份等关键步骤。
+area: life-family
+category: family-relations
 project: []
-tags: []
+tags:
+- parenting
+- education
+- technology
+- software-review
+- tutorial
+- mobile-guide
 companies_orgs: []
 products_models: []
 media_books:

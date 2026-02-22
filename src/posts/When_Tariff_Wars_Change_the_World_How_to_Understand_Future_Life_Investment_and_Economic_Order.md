@@ -17,11 +17,12 @@ project: []
 series: null
 source: https://www.xiaoyuzhoufm.com/episode/668541e2fe7f4d2216e91f61
 speaker: 知行小酒馆
-summary: null
+summary: 本期播客邀请旅居华盛顿的观察者陈老师，深入分析特朗普关税政策对全球经济秩序的冲击。讨论了关税的实际影响、美国的真实意图，以及未来世界可能面临的深刻变局。
 tags:
 - global-economy
 title: 当关税战改变世界：我们要怎样理解未来的生活、投资以及经济秩序？
 ---
+
 ## 开场：波澜壮阔的市场与远方的观察者
 
 **俞白**

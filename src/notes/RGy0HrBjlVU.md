@@ -1,7 +1,7 @@
 ---
-area: null
+area: finance-wealth
 author: Lei
-category: null
+category: investment-assets
 channel: null
 companies_orgs: []
 date: 2025-08-14

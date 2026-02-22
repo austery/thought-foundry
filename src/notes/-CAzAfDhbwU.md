@@ -5,14 +5,20 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=-CAzAfDhbwU
 speaker: TED
-tags: []
+tags:
+- diplomacy
+- international-relations
+- geopolitics
+- multilateralism
+- governance
+- trust
 title: 联合国的效率困境：为何“全民会议”可能正在阻碍全球合作？
-summary: ''
+summary: 文章通过护照、电信等国际合作案例说明多边主义的价值，但指出当前国际体系面临信任危机，质疑多边组织的效率和实际成效。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: geopolitics
+area: geopolitics
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +26,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 联合国的效率困境：为何“全民会议”可能正在阻碍全球合作？
 
 下次您乘坐国际航班时，请帮个小忙：  

@@ -1,7 +1,7 @@
 ---
-area: ''
+area: tech-engineering
 author: Lei
-category: ''
+category: ai-application
 created: 1984-01-24T03:00
 date: 2025-07-10
 guest: null
@@ -12,13 +12,14 @@ series: null
 source: https://www.youtube.com/watch?v=2l8qpxDGWIE
 speaker: 知行小酒馆
 status: evergreen
-summary: null
+summary: 节目探讨AI时代是否会出现"一人独角兽"公司。通过一对电商夫妻档案例说明，利用AI工具和智能工作流可以实现极小团队创造超10亿美元估值的商业成果，关键在于以AI替代人力实现增长，成为高级的AI工作流指挥家。
 tags:
 - ai
 - llm
 title: E193 AI时代，“一人独角兽”是幻想还是未来？
 updated: 2025-09-01T13:04
 ---
+
 ## 引言：一场关于“一人独角兽”的思维实验
 
 **雨白:**

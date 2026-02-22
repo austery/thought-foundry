@@ -1,7 +1,7 @@
 ---
-area: null
+area: knowledge-meta
 author: Lei
-category: null
+category: note-taking-systems
 channel: null
 companies_orgs: []
 date: '2025-07-10'
@@ -13,7 +13,7 @@ project: []
 series: null
 source: null
 speaker: null
-summary: null
+summary: 清华博士UP主漫士讲述20年来如何从应试教育的桎梏中挣脱，通过科普创作实现自我救赎，并揭露教育体系的局限性和对独立思考的压制。
 tags:
 - learning
 - 科普

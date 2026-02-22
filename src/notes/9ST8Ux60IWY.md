@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: society-thinking
+category: psychology
 companies_orgs: []
 date: '2025-10-08'
 draft: true

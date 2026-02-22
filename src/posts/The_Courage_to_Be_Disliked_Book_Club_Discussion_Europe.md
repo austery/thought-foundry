@@ -1,5 +1,5 @@
 ---
-area: "life-family"
+area: life-family
 author: Lei
 category: psychology
 channel: null
@@ -10,19 +10,20 @@ insight: null
 layout: post.njk
 media_books:
 - 被讨厌的勇气
-people:
+people: null
 products_models: []
 project: []
 series: null
 source: null
 speaker: 一口新飯社群
-summary: null
+summary: 欧洲区读书会讨论《被讨厌的勇气》，参与者分享了阿德勒心理学的启发：命运掌握在自己手中，不应被过去创伤所困，需要进行课题分离，关注当下的每一刻，通过自我接纳和贡献感实现幸福。
 tags:
 - adlerian-psychology
 - psychology
 - self
 title: 2025-07-10 《被讨厌的勇气》读书会讨论-欧洲区
 ---
+
 ## 开场与介绍
 
 **陆瑶**

@@ -5,7 +5,15 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=yhkhYBmJoyM
 speaker: 睡前消息
-tags: []
+tags:
+- china
+- economics
+- policy
+- taxation
+- digital-transformation
+- innovation
+- technology
+- fintech
 title: 电商税改革与核聚变炼金术：税收公平与技术创新
 summary: 本期节目讨论了中国电商税政策的调整及其对电商行业的影响，同时探讨了核聚变过程中汞转化为黄金的可能性。电商税改革旨在重塑行业生态，维护税收公平，而核聚变炼金术目前仍是科学幻想而非现实可能。
 insight: ''
@@ -16,12 +24,13 @@ area: tech-engineering
 project: []
 people: []
 companies_orgs:
-  - OpenAI
+- OpenAI
 products_models:
-  - GPT-4o
+- GPT-4o
 media_books: []
 status: evergreen
 ---
+
 ### 税制改革：电商税的必要性与现实挑战
 
 随着中国电子商务市场的迅猛发展，电商税政策调整引发广泛讨论。2025年底，大量短视频创作者对电商经营环境恶化表示担忧，并将原因归结于电商税的征收。官方媒体指出，电商税收改革旨在重塑行业生态，并非创造新税种。

@@ -1,8 +1,8 @@
 ---
 title: What is life? A Nobel Prize-winning scientist answers | Paul Nurse Full Interview
-summary: null
-area: null
-category: null
+summary: 诺贝尔奖得主保罗·纳斯通过探讨细胞、基因、进化、化学和信息等五大生物学思想来定义生命。他以酵母细胞研究为例，揭示了从单细胞生物到人类细胞的古老进化联系，证明了15亿年前形成的细胞分裂控制机制至今仍保持不变。
+area: life-family
+category: health-wellness
 project: []
 tags:
 - health

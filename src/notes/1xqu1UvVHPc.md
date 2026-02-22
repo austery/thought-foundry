@@ -12,13 +12,14 @@ series: null
 source: https://www.youtube.com/watch?v=1xqu1UvVHPc
 speaker: 知行小酒馆
 status: evergreen
-summary: null
+summary: 在关税战升级背景下，节目探讨了美国加征关税的深层动机与未来世界格局变化。通过华盛顿一线观察者视角，分析了超预期关税政策对全球贸易秩序和各国经济的深远影响。
 tags:
 - global-economy
 - history
 title: 当关税战改变世界：我们要怎样理解未来的生活、投资以及经济秩序？
 updated: 2025-09-01T13:05
 ---
+
 ## 开场：波澜壮阔的市场与远方的观察者
 
 **俞白**

@@ -1,7 +1,7 @@
 ---
 title: 中国制度成功与否的评论回应——读评论！回应“E44自由派破防时代...”
-summary: null
-area: "finance-wealth"
+summary: 节目主持人回应观众关于中国制度成功标准的评论。讨论认为制度评价应以自由保障和可持续繁荣为标准，而非仅看军事或经济指标，并强调言论自由对制度评价本身的重要性。
+area: finance-wealth
 category: geopolitics
 project: []
 tags:
@@ -21,6 +21,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 引言
 
 本期节目，我们将回应观众关于中国制度成功与否的诸多评论。

@@ -19,8 +19,16 @@ project: []
 series: null
 source: null
 speaker: 三個水槍手
-summary: null
-tags: []
+summary: 本文讨论黄杨钿甜天价耳环事件揭露的官商勾结贪腐现象，指出其背后是对慈善款项的侵吞，深层反映了中共垄断慈善权利、官方慈善体系破产的问题，从郭美美事件、汶川地震等历史案例验证了中国慈善信任的彻底丧失。
+tags:
+- china
+- corruption
+- charity
+- government
+- political
+- society
+- economy
+- trust
 title: 黄杨钿甜天价耳环背后：被垄断的“慈善权”与中共对慈善的憎恨
 ---
 

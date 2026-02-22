@@ -1,7 +1,7 @@
 ---
 title: 辩证法在中国是怎样被歪曲的？
-summary: null
-area: "life-family"
+summary: 文章批判中国式辩证法（两点论、重点论）本质上是服务于权力的诡辩术，通过模糊判断标准来为任意行动辩护，与真正强调自身否定的黑格尔辩证法存在根本区别。
+area: life-family
 category: culture
 project: []
 tags:
@@ -20,6 +20,7 @@ layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=OB1GYKQtElc
 ---
+
 ## 引言：何为“中国式辩证法”？
 
 大家好，我是Anthony。欢迎订阅我的频道。这期视频，我们来聊一聊“中国式辩证法”。这个话题我以前写过，但可能不够详细，今天打算好好说一说。这也是我们讨论中国马克思主义哲学系列的第二期视频。对第一期视频感兴趣的朋友，可以点击右上角观看。

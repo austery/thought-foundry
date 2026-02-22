@@ -1,6 +1,6 @@
 ---
-area: ''
-category: ''
+area: knowledge-meta
+category: science
 companies_orgs: []
 date: '2025-12-15'
 draft: true
@@ -15,8 +15,16 @@ series: ''
 source: https://www.youtube.com/watch?v=F-9RCKKvoJw
 speaker: Money & Macro
 status: evergreen
-summary: ''
-tags: []
+summary: 美国社会科学家通过费城空地清理实验发现，改善社区物理环境能将枪支暴力降低30%。研究表明大多数枪击事件源于情绪失控而非理性犯罪，无需禁枪即可有效降低暴力。
+tags:
+- gun-violence
+- policy
+- science
+- social
+- psychology
+- environment
+- urban-design
+- research
 title: How scientists radically reduced US gun violence (no gun ban)
 ---
 

@@ -5,14 +5,22 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=M9DLw0jM8jQ
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
-tags: []
+tags:
+- family
+- parenting
+- marriage
+- mental-health
+- psychology
+- communication
+- relationship
+- interview
 title: 訪談開場與主題介紹
-summary: ''
+summary: 雯心醫師與王仁甫先生探討家庭中的角色定位與情感表達。強調透過「我訊息」表達內心感受、男性示弱的勇氣、家庭成員平等互愛，以及空巢期後夫妻如何重新連結，建立溫暖自在的家庭能量。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: family-relations
+area: life-family
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +28,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 訪談開場與主題介紹
 
 **雯心醫師**: 嗨 大家好 我是雯心醫師  

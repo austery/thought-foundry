@@ -13,11 +13,12 @@ project: []
 series: null
 source: https://www.youtube.com/watch?v=wv779vmyPVY&t
 speaker: EO
-summary: null
+summary: 斯坦福大学教授杰里米·乌特利介绍了如何与生成式AI协作以增强创造力。他认为AI是放大人类创意的强大工具，可以让每个人都拥有个人化的智能助手，实现曾经只有精英才能享受的创作效率。
 tags:
 - llm
 title: 斯坦福大学教授：如何在13分钟内学会由AI驱动的创造力
 ---
+
 > I've always been jealous of Winston Churchill. There's a quote, by the way. The history of innovation is the bed, the bus and the bathtub. It's always these moments when we're not really thinking about work or we're kind of doing something else that good ideas come to us.
 
 我一直很羡慕温斯顿·丘吉尔。顺便提一句，有这样一句名言：创新的历史诞生于床笫、公交和浴缸。总是在我们没有真正思考工作，或者正在做别的事情的时候，好点子才会不期而至。

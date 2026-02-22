@@ -1,6 +1,6 @@
 ---
-area: ''
-category: ''
+area: life-family
+category: health-wellness
 companies_orgs: []
 date: '2025-12-23'
 draft: true
@@ -15,8 +15,15 @@ series: ''
 source: https://www.youtube.com/watch?v=kZzTtEYxfTs
 speaker: 初日醫學 - 宋晏仁醫師 x Cofit
 status: evergreen
-summary: ''
-tags: []
+summary: 本文介紹抗老飲食法則，強調外食時應遵循蛋白質20-30克、211餐盤比例、避免超加工食物等三大原則，並根據進食時機和運動量調整碳水攝入，以控制血糖和AGEs產生，延緩34歲開始的身體老化過程。
+tags:
+- diet
+- health
+- fitness
+- aging
+- nutrition
+- lifestyle
+- medical
 title: 抗老飲食法則開場
 ---
 

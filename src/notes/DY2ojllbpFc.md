@@ -5,14 +5,21 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=DY2ojllbpFc
 speaker: TED
-tags: []
+tags:
+- business
+- entrepreneurship
+- philosophy
+- mindset
+- management
+- strategy
+- wisdom
 title: 摆脱胜负思维陷阱的方法论：三赢哲学的觉醒之路
-summary: ''
+summary: 文章通过Whole Foods创业经历阐述"三赢"哲学，主张在人际互动和商业决策中超越输赢对立，追求所有参与方共同受益，核心是用爱与共情实现真正的互利共赢。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: business-entrepreneurship
+area: finance-wealth
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +27,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 摆脱胜负思维陷阱的方法论：三赢哲学的觉醒之路  
 
 大多数人生活在一种“**输赢二元对立模式**”中，  

@@ -1,5 +1,5 @@
 ---
-area: "work-career"
+area: work-career
 category: ai-ml
 companies_orgs:
 - 美国政府
@@ -17,9 +17,18 @@ source: https://www.youtube.com/watch?v=vdt4d0Fy3y4
 speaker: 大伟探秘加拿大
 status: evergreen
 summary: 川普金卡正式上线，官网提供个人版和企业版两种套餐，分别需支付100万美元和200万美元。项目通过行政令挂靠在EB-1和EB-2签证上，但存在国会挑战、法律诉讼和政策不确定性等风险。
-tags: []
+tags:
+- investment
+- immigration
+- us-china-relations
+- policy
+- financial
+- geopolitics
+- government
+- wealth
 title: 川普金卡上线：100万美金移民美国的机遇与风险
 ---
+
 ### 官网上线与项目本质揭秘
 这几天，您的朋友圈是不是又被一张金色的卡片刷屏了？没错就是那个传说中的川普金卡，号称一手交钱、一手拿卡的美国超级移民通道。就在最近，它的官网trumpcard.gov正式上线了。
 

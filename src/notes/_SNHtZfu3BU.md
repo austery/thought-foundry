@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: society-thinking
+category: politics-society
 companies_orgs: []
 date: '2025-10-14'
 draft: true

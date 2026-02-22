@@ -1,8 +1,8 @@
 ---
 title: 加拿大联邦大选解析与国际格局展望
-summary: null
-area: null
-category: null
+summary: 加拿大联邦大选结果反映出两大政党政策同质化，缺乏实质性差异。美国贸易政策变化可能引发加拿大深刻的政治和经济危机，少数派政府难以应对，预示长期政治动荡。
+area: society-thinking
+category: politics-society
 project: []
 tags:
 - canada

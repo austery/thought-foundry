@@ -15,10 +15,18 @@ project: []
 series: null
 source: null
 speaker: 三個水槍手
-summary: null
-tags: []
+summary: 本期播客深度探讨Google的NotebookLM产品如何通过AI技术将文本资料自动生成自然流畅的双人对话音频，现场演示了其在中文内容生成中的强大能力和应用前景。
+tags:
+- ai
+- ai-tools
+- podcast
+- content-generation
+- llm
+- innovation
+- technology
 title: 深度对话：NotebookLM与AI内容生成的未来
 ---
+
 ## 引言：播客的“最后一期”？
 
 **李厚辰：** AI 也许能替你说话，但他代替不了你活过的每一分钟。今天又是我们新的一期节目，而且很有可能是我们的最后一期节目了。

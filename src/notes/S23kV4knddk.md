@@ -1,7 +1,7 @@
 ---
-area: null
+area: tech-engineering
 author: Lei
-category: null
+category: ai-application
 channel: null
 companies_orgs:
 - 特斯拉
@@ -16,7 +16,7 @@ project: []
 series: null
 source: https://www.youtube.com/watch?v=S23kV4knddk&t
 speaker: ''
-summary: null
+summary: 特斯拉Robotaxi在奥斯汀首次商业化运营，采用纯视觉技术路线和端到端神经网络方案，相比Waymo的多传感器融合方案成本更低、可扩展性更强。特斯拉通过改变成本结构、利用海量数据和轻资产运营模式，有望实现Robotaxi的规模化应用。
 tags:
 - autonomous-driving
 title: 特斯拉Robotaxi上线深度解析：它能走出奥斯汀吗？

@@ -1,7 +1,7 @@
 ---
 title: 中国青年就业海啸：1亿人失业的未来？—— 老周横眉
-summary: null
-area: "finance-wealth"
+summary: 中国青年失业危机日益严峻，1222万应届毕业生即将涌入就业市场，实际青年失业率超50%。由于经济下行与毕业生人数激增的矛盾，未来十年将形成失业"滚雪球"效应，社会稳定面临重大风险。
+area: finance-wealth
 category: geopolitics
 project: []
 tags:
@@ -20,6 +20,7 @@ layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=TH77XUF1wjE
 ---
+
 **讲述者：老周横眉**
 
 简介：一位以其犀利、直率的风格著称的评论员，专注于深入分析中国的社会与经济议题。

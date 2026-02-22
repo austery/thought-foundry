@@ -5,14 +5,22 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=eu1lkCgVkEs
 speaker: Best Partners TV
-tags: []
+tags:
+- ai
+- psychology
+- mental-health
+- society
+- cultural
+- philosophy
+- technology
+- human
 title: 数字婚礼：AI情缘的现实投射与心灵重构
-summary: ''
+summary: 文章探讨AI婚礼现象如何反映现代人的孤独困境与情感需求。AI伴侣通过完美的陪伴弥补现实关系缺陷，但也引发法律、伦理和心理层面的深刻争议，需要在虚拟与现实之间找到平衡的共生之道。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: psychology
+area: society-thinking
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +28,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 数字婚礼：AI情缘的现实投射与心灵重构  
 
 当《她》中的科幻情节成为现实，AI婚礼正从边缘走向聚光灯下的舞台中央。这不是一场简单的技术与情感的邂逅，而是人类文明在数字时代重新定义亲密关系、孤独边界和爱情本质的一次深刻尝试。

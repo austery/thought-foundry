@@ -1,5 +1,5 @@
 ---
-area: "finance-wealth"
+area: finance-wealth
 author: Lei
 category: finance
 channel: null
@@ -17,13 +17,14 @@ project: []
 series: null
 source: null
 speaker: ''
-summary: null
+summary: Vivian分享了一个BRRR地产投资策略案例：以38.5万加元购入贝尔维尔老旧平房，投入20万装修改造成合法双拼单元，通过再融资回收全部初始资金，实现月正现金流200元的目标。
 tags:
 - investment
 - real-estate-investment
 - 案例分享
 title: 投资小组第五次会议纪要：Vivian的BRRR案例分享
 ---
+
 ## 一、 会议开场与新成员介绍
 
 **Lei:** 好的，我觉得可以开始了。今天我们有一位新成员

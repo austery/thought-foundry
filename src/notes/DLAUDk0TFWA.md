@@ -1,13 +1,13 @@
 ---
 title: 美国最高法院大法官吵架的事
-summary: null
-area: "finance-wealth"
+summary: 文章通过沃伦与法兰克福特两位大法官的争吵，探讨了美国司法中法律与公道的矛盾关系。结合亚里士多德的法律思想，阐述了为何需要用公道原则来补偿和矫正法律的不足。
+area: finance-wealth
 category: geopolitics
 project: []
 tags:
-  - 司法制度
-  - 法律与公平
-  - 美国最高法院
+- 司法制度
+- 法律与公平
+- 美国最高法院
 people: []
 companies_orgs: []
 products_models: []
@@ -22,6 +22,7 @@ layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=DLAUDk0TFWA
 ---
+
 ## 一、沃伦传记与大法官的争吵
 
 各位好，今天讲讲美国最高法院大法官吵架的事。首席大法官沃伦传记载了一起美国最高法院大法官吵架事件。就是这本书，《Chief Justice: A Biography of Earl Warren》（《首席大法官：厄尔·沃伦传》）。

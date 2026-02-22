@@ -15,12 +15,13 @@ project: []
 series: null
 source: null
 speaker: ''
-summary: null
+summary: 资深加密投资者匹马分享了从公链DeFi到Meme币的投资演变，通过行为经济学和散户市场特性，阐述了Solana生态Meme币投资的逻辑与风险认知，强调关注下一个赛道而非沉溺过去成就。
 tags:
 - financial
 - investment
 title: 对话匹马：从MEME币到发射平台，梭哈文化背后的行为经济学盛宴与投资逻辑
 ---
+
 播客节目：Web3 101
 
 主持人：刘峰, Jack

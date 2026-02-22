@@ -1,7 +1,7 @@
 ---
 title: 区分 可控与不可控
-summary: null
-area: "life-family"
+summary: 斯多葛主义哲学教导我们区分可控与不可控的事情，坦然接受无法改变的事情，专注于能够改变的事情，从而克服习得性无助和精神内耗，获得内心的安宁和自由。
+area: life-family
 category: psychology
 project: []
 tags:
@@ -18,6 +18,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 **主讲人:** 大问题阿伦
 
 ## 区分 可控与不可控

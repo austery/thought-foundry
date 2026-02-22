@@ -1,18 +1,18 @@
 ---
 title: 深度探讨：中国丁克比例大涨背后的社会变迁
-summary: null
-area: null
-category: null
+summary: 本文讨论中国丁克比例急速上升的社会现象，分析了经济压力、女性职业发展、生育成本等原因，并对比了中日韩三国的生育观差异，深入探讨了性别视角下生育选择的不同影响。
+area: society-thinking
+category: psychology
 project: []
 tags:
 - 生育率
-people: 
+people:
 - 李厚辰
 - 伍雷
 - 贾葭
 companies_orgs: []
 products_models: []
-media_books:
+media_books: null
 date: '2025-07-10'
 author: Lei
 speaker: 三個水槍手
@@ -23,6 +23,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 1. 导言：中国丁克比例的惊人变化
 
 李厚辰：有一个数据在几年间发生了很大的变化。2021 年中国有个调研团队做了一个研究，也是针对大学生。当时的研究里面，80%的中国大学生理想状态是生两个孩子，比较少人生三胎，一个都不想生的丁克（DINK：Double

@@ -1,6 +1,6 @@
 ---
-area: ''
-category: ''
+area: tech-engineering
+category: ai-application
 companies_orgs: []
 date: '2025-12-18'
 draft: true
@@ -15,8 +15,16 @@ series: ''
 source: https://www.youtube.com/watch?v=sSpirKtNvOc
 speaker: Best Partners TV
 status: evergreen
-summary: ''
-tags: []
+summary: 谷歌发布Gemini 3 Flash模型，主打高速低延迟，在多项基准测试中性能媲美更大模型，定价更具竞争力，广泛应用于搜索、编程等领域，推动AI行业竞争加速。
+tags:
+- gemini
+- ai
+- llm
+- api
+- product-launch
+- performance-benchmark
+- pricing
+- tech-industry
 title: 发布背景与定位
 ---
 

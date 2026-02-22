@@ -5,14 +5,20 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=jZE-E0edGo4
 speaker: New York Times Podcasts
-tags: []
+tags:
+- politics
+- democracy
+- government
+- geopolitics
+- assault
+- immigration
 title: 民主党人呼吁弹劾 Kristi Noem，Ilhan Omar 在明尼苏达州遇袭事件引发关注
-summary: ''
+summary: 明尼苏达州民主党众议员Ilhan Omar在ICE执法行动的社区对话会上遭男子喷洒醋液袭击，她随后呼吁国土安全部长Kristi Noem辞职或面临弹劾。特朗普随后指责Omar自导自演此事件。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: politics-society
+area: society-thinking
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +26,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 民主党人呼吁弹劾 Kristi Noem，Ilhan Omar 在明尼苏达州遇袭事件引发关注
 
 从《纽约时报》新闻头条开始，我是 Will Jarvis。今天是周三，一月二十八日。以下是今日报道的重点内容。

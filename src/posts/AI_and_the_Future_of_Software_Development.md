@@ -13,12 +13,13 @@ project: []
 series: AI企业应用研讨会
 source: null
 speaker: PCC insider
-summary: null
+summary: 文章探讨AI在编程中的演变角色，分析AI编码作为第二大AI市场的现状，以及开发者早期采用AI工具的行为基础，强调AI编码工具改进了开发者寻求帮助的既有方式。
 tags:
 - software-development
 - 未来趋势
 title: AI与软件开发的未来
 ---
+
 ## The Evolving Role of AI in Programming / 人工智能在编程中角色的演变
 
 One speaker initiated the discussion by questioning whether AI,

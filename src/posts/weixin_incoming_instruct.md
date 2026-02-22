@@ -1,6 +1,6 @@
 ---
 title: 微信接收海外亲人汇款：详细指南
-summary: null
+summary: 本指南详细介绍了如何通过微信接收海外亲人汇款。首次需设置身份验证和绑定银行卡，之后收款只需点击确认。整个过程安全免费，超过48小时未领取会自动退款。
 area: life-family
 category: finance
 tags:
@@ -8,8 +8,7 @@ tags:
 - wise
 companies_orgs: []
 products_models: []
-media_books:
-
+media_books: null
 date: '2025-07-29'
 author: Lei
 speaker: Google Gemini

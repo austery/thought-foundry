@@ -1,7 +1,7 @@
 ---
-area: null
+area: tech-engineering
 author: Lei
-category: null
+category: tech-trends
 channel: 硅谷101
 companies_orgs:
 - 特斯拉
@@ -15,8 +15,18 @@ project: []
 series: null
 source: https://www.youtube.com/watch?v=u4K7Iw41jR0
 speaker: ''
-summary: null
-tags: []
+summary: 本期硅谷101探讨苹果WWDC回归设计创新、淡化AI期待的策略；特斯拉Robotaxi六月底上线成为决定公司估值的关键；网红品牌2.0时代流量变现方式发生演变。
+tags:
+- ai
+- technology
+- startup
+- market-analysis
+- design-pattern
+- robotics
+- business
+- innovation
+- tech-industry
+- strategy
 title: '硅谷101 Weekly: 苹果AI策略、特斯拉Robotaxi与网红品牌20时代'
 ---
 

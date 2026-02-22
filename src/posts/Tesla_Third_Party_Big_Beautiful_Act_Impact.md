@@ -16,10 +16,19 @@ project: []
 series: null
 source: null
 speaker: 投资TALK君
-summary: null
-tags: []
+summary: 文章分析了马斯克与特朗普的政治分裂、第三党派建立动向，以及《大而美》法案对特斯拉财务的重大冲击，包括监管信贷损失16亿美元和毛利率下滑风险，建议投资者观望等待明确信号。
+tags:
+- investment
+- market-analysis
+- politics
+- geopolitics
+- economic
+- stocks
+- china-us-relations
+- trade-war
 title: 特斯拉深度分析：第三党派风波与“大而美”法案冲击下的投资策略
 ---
+
 ## 一、宏观背景更新：关税事件进展
 
 本报告首先对关税事件进行更新。根据最新消息，财政部长耶伦（文中误称为贝森特）表示，对于部分尚未达成协议的国家，原定于7月9日到期的关税豁免将再延期三周至8月1日。与此同时，特朗普总统也宣布，将从周一开始向12至15个贸易伙伴发出“关税信件”，警告其若在三天内不达成协议，将必须接受美方设定的最终关税税率。

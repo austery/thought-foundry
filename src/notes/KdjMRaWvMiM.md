@@ -1,28 +1,30 @@
 ---
 author: Lei
 date: 2025-09-19
-guest:
+guest: null
 layout: post.njk
 source: https://www.youtube.com/watch?v=KdjMRaWvMiM
 speaker: 北美王路飞
 tags:
-  - peter-thiel
-  - media
-  - conspiracy
-  - strategy
+- peter-thiel
+- media
+- conspiracy
+- strategy
 title: Peter Thiel vs Gawker-The Dangerous Aftermath of a Secret War
-summary: An analysis of the aftermath of Peter Thiel's successful lawsuit against Gawker. It explores how victory led to overconfidence, the unraveling of the conspiracy, the dramatic reversal of public opinion, and the unforeseen political consequences, including Thiel's support for Donald Trump.
-insight:
+summary: An analysis of the aftermath of Peter Thiel's successful lawsuit against Gawker. It explores how victory led to overconfidence, the unraveling of the conspiracy, the dramatic reversal of public
+  opinion, and the unforeseen political consequences, including Thiel's support for Donald Trump.
+insight: null
 file_name: peter_thiel_vs_gawker_aftermath_KdjMRaWvMiM.md
 draft: true
-series:
-category:
-area:
+series: null
+category: business-entrepreneurship
+area: finance-wealth
 project: []
 status: evergreen
 created: 2025-09-19T21:08
 updated: 2025-09-23T14:29
 ---
+
 ### 序幕：胜利后的危机
 
 大家好，欢迎来到我的频道。今天这期节目，终于来到Peter Thiel这个系列的最终章。上一期，我们把镜头对准了那场惊心动魄的法庭对决，看到了Peter Thiel团队是如何通过精准的战术，把Gawker送上了舆论和法律的双重断头台。 当陪审团宣布裁决那一刻，整个世界都震惊了，1.15亿美金的赔偿，这已经不是打脸了，这就是死刑。 
@@ -121,4 +123,4 @@ Gawker的故事其实是一个时代的缩影。我们生活在一个充满了�
 
 但是他们的说法我都不认同。我觉得，如果世界真的像他们所描绘的这样，那也太糟糕了。一个网红可以做了很多坏事，骗了很多人，然后不受任何惩罚，我不想要生活在这样一个世界里头。  所以我要出来做视频揭露他，我需要让一个骗子能够接受他应该获得的惩罚，至少让更多的人避开他这个坑。 
 
-我相信总有一天我的影响力会超过他，而且我相信总有一天，他做过那些坑人的事情，会被更多的华人所知道。因为在这一点上，我跟Peter Thiel的观点是一样的。他用了将近10年的实践告诉我们：如果你想要一个不一样的世界，那么你有责任去亲手创造它。这个过程可能会很漫长、很丑陋，可能会让你付出意想不到的代价，但是这就是成事的逻辑，古往今来从未改变。 
+我相信总有一天我的影响力会超过他，而且我相信总有一天，他做过那些坑人的事情，会被更多的华人所知道。因为在这一点上，我跟Peter Thiel的观点是一样的。他用了将近10年的实践告诉我们：如果你想要一个不一样的世界，那么你有责任去亲手创造它。这个过程可能会很漫长、很丑陋，可能会让你付出意想不到的代价，但是这就是成事的逻辑，古往今来从未改变。

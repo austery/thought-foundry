@@ -1,7 +1,7 @@
 ---
-area: null
+area: geopolitics
 author: Lei
-category: null
+category: geopolitics
 channel: null
 companies_orgs: []
 date: 2025-08-09

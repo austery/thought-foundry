@@ -17,7 +17,7 @@ project: []
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=F0fT7u99J3g
 speaker: ''
-summary: null
+summary: 本课介绍吵架十诫的后五诫，强调夫妻争吵时不应牵涉对方家人、以偏概全、翻旧账或大声吆喝，同时提倡以圣灵的恩慈和良善为基础进行建设性沟通。
 tags:
 - family-life
 - religion

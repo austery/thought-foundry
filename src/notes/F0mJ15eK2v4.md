@@ -16,7 +16,7 @@ project: []
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=F0mJ15eK2v4
 speaker: ''
-summary: null
+summary: 本课探讨为人父母的神圣使命，强调父母应视儿女为神的产业而非私产，需做忠心管家。通过圣经教导阐述父母的责任，首要是树立生活榜样，特别是夫妻相爱的榜样，使儿女获得安全感。
 tags:
 - parenting
 - religion

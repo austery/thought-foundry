@@ -5,14 +5,21 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=HtzG2AoahAo
 speaker: TED
-tags: []
+tags:
+- culture
+- cultural
+- anthropology
+- philosophy
+- human
+- wisdom
+- connection
 title: 文化中的问候与连接的力量
-summary: ''
+summary: 文章通过南非文化中的问候仪式"Sanibona"和个人故事,探讨了跨越文化差异真正"看见"他人、建立深层人际连接的力量与意义。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: culture-history
+area: society-thinking
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +27,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 文化中的问候与连接的力量
 
 在我国家的文化中，走进一间屋子的第一件事并不是简单地打个招呼。**“Sanibona”** 是我们彼此问候的方式，而你需要以 **“Sakubona”** 回应。这不是一个简单的礼貌形式，而是一种深层的文化仪式。

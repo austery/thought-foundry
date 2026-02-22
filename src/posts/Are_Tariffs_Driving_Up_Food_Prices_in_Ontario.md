@@ -1,9 +1,8 @@
 ---
-title: 'Are Tariffs Driving Up Food Prices in Ontario & Dangerous Games: Roblox and
-  Metaverse Exposed'
-summary: null
-area: null
-category: null
+title: 'Are Tariffs Driving Up Food Prices in Ontario & Dangerous Games: Roblox and Metaverse Exposed'
+summary: 特朗普关税政策对安大略省食品价格的影响成为焦点。罗布劳公司等零售商已标记受关税影响的产品，未来数月受影响商品数量可能增至6000种以上。
+area: society-thinking
+category: politics-society
 project: []
 tags:
 - society

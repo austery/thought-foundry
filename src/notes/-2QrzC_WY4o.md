@@ -5,14 +5,21 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=-2QrzC_WY4o
 speaker: 天下文化
-tags: []
+tags:
+- book-review
+- ai
+- ethics
+- technology
+- policy
+- education
+- society
 title: 中文标题：AI未来实验室中的道德抉择与人性反思
-summary: ''
+summary: 本文通过分析《AI 2041》一书，探讨了深度伪造、自动驾驶、社会公平等AI带来的道德困境，强调需要通过法律、教育和制度改革来规范AI发展，最终由人类价值观守护科技进步。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: philosophy-wisdom
+area: society-thinking
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +27,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 中文标题：AI未来实验室中的道德抉择与人性反思  
 
 这次能够参与天下文化举办的读书分享会，对我而言是一次非常特别的经历。我很感谢天下文化和远见的支持与鼓励，让同学们有机会深入阅读《AI 2041》这本书。同时也要感谢季中老师的悉心指导以及同学们之间的紧密合作，虽然过程中遇到了一些小挫折，但最终我们都顺利完成了这次分享。  

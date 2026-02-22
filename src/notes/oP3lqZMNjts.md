@@ -14,12 +14,13 @@ project: []
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=oP3lqZMNjts
 speaker: ''
-summary: null
+summary: 本课程介绍夫妻沟通的四个基本原则，并详细阐述《吵架十诫》的前两条：不要在大庭广众前争吵，不要在儿女面前吵架，以将消极沟通转化为建设性沟通。
 tags:
 - family-life
 - religion
 title: 第三课：吵架十诫
 ---
+
 ## 引言：以学习之心进入新课题
 
 **李秀全：**

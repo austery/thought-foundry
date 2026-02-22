@@ -5,14 +5,20 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=WGEBheg3jkA
 speaker: New York Times Podcasts
-tags: []
+tags:
+- politics
+- immigration
+- government
+- policy
+- family
+- interview
 title: 开场介绍
-summary: ''
+summary: 本文讲述特朗普政府大规模驱逐移民政策的故事。通过一位被拘留男子女儿Isa的视角，揭示了这一政策对普通家庭的深远影响。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: politics-society
+area: society-thinking
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +26,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 开场介绍
 
 **Michael**: 每周我们都会回顾《每日新闻》一些最受欢迎的节目，并倾听这些节目播出之后发生了什么。今天我们将回到特朗普政府对移民的大规模镇压行动这一话题。

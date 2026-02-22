@@ -1,8 +1,8 @@
 ---
 title: 'Ukraine’s Drone Attack on Russia: A New Era of Warfare'
-summary: null
-area: null
-category: null
+summary: 乌克兰在"蜘蛛网"行动中用廉价无人机摧毁俄罗斯41架战略轰炸机，创造了针对核大国的非对称作战新纪录，对未来战争形态、普京决策和美国角色产生深远影响。
+area: geopolitics
+category: geopolitics
 project: []
 tags:
 - geopolitical

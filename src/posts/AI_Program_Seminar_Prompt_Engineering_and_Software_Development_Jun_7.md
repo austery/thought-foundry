@@ -1,7 +1,7 @@
 ---
-area: null
+area: knowledge-meta
 author: Lei
-category: null
+category: note-taking-systems
 channel: null
 companies_orgs: []
 date: '2025-06-07'
@@ -16,7 +16,7 @@ project: []
 series: null
 source: null
 speaker: ''
-summary: null
+summary: 四位AI知识管理从业者分享常用的AI工具和使用经验，重点讨论了ChatGPT GPT-4o、Fellow.app、Copilot Studio等产品的功能特点，以及如何通过Agent和自定义步骤来提升工作效率。
 tags:
 - learning
 - llm

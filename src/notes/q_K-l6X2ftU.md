@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: life-family
+category: personal-growth
 companies_orgs: []
 date: '2025-10-14'
 draft: true

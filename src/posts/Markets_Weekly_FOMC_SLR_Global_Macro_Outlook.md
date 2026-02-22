@@ -1,7 +1,7 @@
 ---
-area: null
+area: finance-wealth
 author: Lei
-category: null
+category: investment-assets
 channel: null
 companies_orgs: []
 date: '2025-07-10'
@@ -13,7 +13,7 @@ project: []
 series: null
 source: null
 speaker: ''
-summary: null
+summary: 联邦公开市场委员会会议显示经济增长预期下调、通胀预期上调，但利率政策保持不变。美联储采取观望态度，除非失业率继续上升否则不会降息，这种无行动本身构成了一种鹰派的紧缩政策立场。
 tags:
 - financial
 - market-analysis

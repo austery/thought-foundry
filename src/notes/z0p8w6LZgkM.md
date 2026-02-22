@@ -1,7 +1,7 @@
 ---
-area: null
+area: finance-wealth
 author: Lei
-category: null
+category: business-entrepreneurship
 created: 2025-09-16T08:55
 date: 2025-09-16
 draft: true
@@ -22,6 +22,7 @@ tags:
 title: 硅谷之王的复仇暗战：摔跤手性爱录像背后的千万美元棋局
 updated: 2025-09-16T08:55
 ---
+
 ## 复仇即风投：Thiel的诉讼组合策略
 
 大家好，欢迎来到Peter Thiel系列的第二期。上一集我们讲到2011年，Thiel终于下定决心，要用非常规手段来对付Gawker。今天，我们就来聊一聊这个非常规手段到底有多么不寻常。

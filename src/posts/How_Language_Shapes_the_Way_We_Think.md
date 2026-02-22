@@ -1,13 +1,13 @@
 ---
 title: How Language Shapes the Way We Think - Lera Boroditsky
-summary: null
-area: null
-category: null
+summary: 莉拉·博罗迪茨基讲述语言如何塑造人类思维。通过探讨语言传递思想的神奇能力和世界7000种语言的差异，引出语言相对论的核心问题：我们所说的语言是否塑造思维方式。
+area: society-thinking
+category: psychology
 project: []
 tags:
-  - 思维
-  - 语言
-  - 语言相对论
+- 思维
+- 语言
+- 语言相对论
 people: []
 companies_orgs: []
 products_models: []
@@ -22,6 +22,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 Lera Boroditsky
 
 ### About the Speaker

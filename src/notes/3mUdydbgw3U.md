@@ -1,7 +1,7 @@
 ---
-area: null
+area: finance-wealth
 author: Lei
-category: null
+category: crypto
 channel: null
 companies_orgs: []
 date: '2025-07-10'
@@ -13,7 +13,7 @@ project: []
 series: null
 source: https://www.youtube.com/watch?v=3mUdydbgw3U&t
 speaker: 政經孫老師
-summary: null
+summary: 本文深度剖析稳定币的双重本质：一是维护法定货币霸权的金融维稳工具，通过要求稳定币以美元和美债作抵押来提升其需求；二是扩张金融赌场、维持现行金融游戏规则的机制。
 tags:
 - crypto
 - stablecoin

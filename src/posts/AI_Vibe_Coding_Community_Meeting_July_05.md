@@ -1,5 +1,5 @@
 ---
-area: "tech-engineering"
+area: tech-engineering
 author: Lei
 category: technology
 channel: null
@@ -18,12 +18,13 @@ project: []
 series: null
 source: null
 speaker: ''
-summary: null
+summary: AI Vibe Coding社区讨论会纪要，涵盖社区成员App开发成果分享和社区未来发展规划。Ray提出通过付费Program实现社区分润、建立共创与商业平衡的愿景，强调公平透明的利益分配原则。
 tags:
 - llm
 - vibe-coding
 title: AI Vibe Coding 社区讨论会纪要0705
 ---
+
 ## 开场与社区未来展望
 
 **Dusing:** Amy，我邀请你了。Hello，好久不见，三个月没见到你了。

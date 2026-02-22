@@ -1,5 +1,5 @@
 ---
-area: "life-family"
+area: life-family
 author: Lei
 category: psychology
 channel: ''
@@ -31,7 +31,9 @@ tags:
 - 不舒适区
 - 完美主义
 title: 《Hidden Potential》读书会：拥抱不适，打破完美主义，释放内在潜能
+summary: 本读书会讨论《Hidden Potential》如何通过拥抱不适、打破完美主义来释放潜能。参与者通过重新定义舒适区边界、在挑战中体验成长，发现学习和进步需要在能力边界上的适度不适感，而非盲目自我苛责。
 ---
+
 ## 开场与下月书目介绍
 
 Ray: 不好意思，我刚才好像总是自动静音。小西瓜你是不是放假了？

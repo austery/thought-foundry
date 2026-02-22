@@ -17,12 +17,13 @@ project: []
 series: null
 source: null
 speaker: ''
-summary: null
+summary: Frank分析了2020年疫情期间OSB建材行业的投资机会。通过深入研究行业结构、成本模型、价格周期和需求供给关系，他识别出这个高度集中的寡头市场中的盈利规律和长期增长潜力。
 tags:
 - circle-of-competence
 - safety
 title: 个股投资案例分析：Frank的公司股票投资复盘
 ---
+
 ## 引言：抓住疫情带来的逆向投资机会
 
 **Frank:**

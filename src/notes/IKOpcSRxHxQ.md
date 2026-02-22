@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: society-thinking
+category: culture-history
 companies_orgs: []
 date: '2025-10-10'
 draft: true

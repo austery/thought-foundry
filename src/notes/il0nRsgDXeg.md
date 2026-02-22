@@ -14,11 +14,12 @@ products_models: []
 project: []
 source: https://www.youtube.com/watch?v=il0nRsgDXeg
 speaker: 夸克说
-summary: null
+summary: 作者通过多种方法估算中国真实失业率约在37%-46%之间，远高于官方公布的5.1%，并指出这一危机程度已超越大萧条时期，但政权通过信息控制避免了社会崩溃。
 tags:
 - 数字极权
 title: 关于中国真实失业率及其对政权影响的探讨
 ---
+
 大家好，欢迎收看夸克说，我是夸克。
 
 今天我们要探讨的话题，可能有些争议性，但绝对是当今中国社会大家普遍关心的问题——那就是中国真实的失业率。

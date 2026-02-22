@@ -15,12 +15,13 @@ project: []
 series: null
 source: https://www.youtube.com/watch?v=Feck2fSffmI&t
 speaker: ''
-summary: null
+summary: 讲座介绍了价值投资的核心理念和五大原则：投资与博弈的区别、能力圈、护城河、管理层质量、合理估价和长期持有，强调通过认知和耐心在动荡市场中实现可持续财富增长。
 tags:
 - investment
 - risk-management
 title: 穿越周期的智慧：美股价值投资的核心法则
 ---
+
 ## 开场白与嘉宾介绍
 
 **主持人:**

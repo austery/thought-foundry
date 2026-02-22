@@ -13,12 +13,13 @@ project: []
 series: null
 source: null
 speaker: PCC insider
-summary: null
+summary: 投资者Dave Wessinger分享了AI企业的成功案例，强调通过收购AI公司、构建智能代理和产品化编排层，实现了收入翻倍增长。他认为领导力的关键在于学会取舍，快速决策，必要时进行外部收购以加速AI创新。
 tags:
 - health
 - investment
 title: AI研讨会纪要：创新、应用案例与战略展望
 ---
+
 ## 主题演讲对话：AI 的紧迫性与机遇
 
 ### 领导力要务：学会取舍，聚焦未来

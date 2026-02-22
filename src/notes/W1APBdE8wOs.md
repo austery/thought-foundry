@@ -12,13 +12,14 @@ series: null
 source: https://www.youtube.com/watch?v=W1APBdE8wOs
 speaker: 知行小酒馆
 status: evergreen
-summary: null
+summary: 本期播客介绍量化投资传奇人物吉姆·西蒙斯及其文艺复兴科技公司。通过象限图展示西蒙斯在投资界的位置——从基本面投资到纯数学模型驱动的最右端，揭示其如何用数据和算法而非人的判断来驱动投资决策，创造了金融历史上最稳定的造富机器。
 tags:
 - investment
 - investment-master
 title: E164：吉姆·西蒙斯，征服市场的人
 updated: 2025-09-01T13:04
 ---
+
 # E164 吉姆·西蒙斯：征服市场的人
 
 ## 引言：一位偶像的金融革命

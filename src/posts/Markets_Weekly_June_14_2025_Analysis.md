@@ -1,7 +1,7 @@
 ---
-area: null
+area: finance-wealth
 author: Lei
-category: null
+category: investment-assets
 channel: null
 companies_orgs: []
 date: '2025-06-14'
@@ -15,7 +15,7 @@ project: []
 series: null
 source: null
 speaker: Joseph Wang
-summary: null
+summary: 本周市场分析聚焦三大议题：美联储因通胀担忧而迟于降息，最新CPI数据显示通胀已趋缓和；中东以色列-伊朗冲突威胁全球市场；中美贸易谈判中美国处于劣势地位，中国通过稀土出口管制获得议价优势。
 tags:
 - market-analysis
 - us-economy

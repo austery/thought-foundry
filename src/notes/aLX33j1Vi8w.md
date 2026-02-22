@@ -5,14 +5,21 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=aLX33j1Vi8w
 speaker: TVO Today
-tags: []
+tags:
+- military
+- manufacturing
+- industry
+- canada
+- aerospace
+- business
+- supply-chain
 title: 引言介绍
-summary: ''
+summary: 本文介绍了加拿大国防制造产业现状。加拿大有超过1200家制造商从事国防制造，其中640家位于安大略省。安大略省的国防供应商主要集中在约克地区、多伦多、皮尔地区、伦敦、滑铁卢和渥太华，主要生产航空航天零部件，特别是起落架及相关组件。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: geopolitics
+area: geopolitics
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +27,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 引言介绍
 
 **主持人**: Brendan Sweeney 是加拿大高级制造网络 Trillium Network 的总经理。你好，Brendan。

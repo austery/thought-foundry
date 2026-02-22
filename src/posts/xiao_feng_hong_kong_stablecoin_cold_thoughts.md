@@ -1,7 +1,7 @@
 ---
-area: null
+area: finance-wealth
 author: Lei
-category: null
+category: crypto
 channel: null
 companies_orgs: []
 date: 2025-08-01
@@ -18,8 +18,7 @@ project: []
 series: null
 source: null
 speaker: ''
-summary: HashKey Group 董事长肖风博士深入剖析香港稳定币监管的谨慎态度，强调应回归区块链作为新型记账方式和金融基础设施的底层逻辑。他预测中国可能从稳定币开始，逐步接纳
-  RWA 和更广泛的数字资产，并讨论了其中的机遇与挑战。
+summary: HashKey Group 董事长肖风博士深入剖析香港稳定币监管的谨慎态度，强调应回归区块链作为新型记账方式和金融基础设施的底层逻辑。他预测中国可能从稳定币开始，逐步接纳 RWA 和更广泛的数字资产，并讨论了其中的机遇与挑战。
 tags:
 - blockchain
 - investment

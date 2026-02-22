@@ -16,6 +16,8 @@ companies:
 - Obsidian
 media_books:
 - 笔记的方法
+area: knowledge-meta
+category: science
 ---
 
 ## 引言：从简单同步到自主知识体系的跃迁

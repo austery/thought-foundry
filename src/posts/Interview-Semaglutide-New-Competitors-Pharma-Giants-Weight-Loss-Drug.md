@@ -1,7 +1,7 @@
 ---
-area: null
+area: life-family
 author: Lei
-category: null
+category: health-wellness
 channel: null
 companies_orgs: []
 date: '2025-05-25'
@@ -14,7 +14,7 @@ project: []
 series: null
 source: null
 speaker: ''
-summary: null
+summary: 本访谈探讨了减肥药领域的竞争格局演变，从诺和诺德的司美格鲁肽（GLP-1单靶点）到礼来的替尔泊肽（GLP-1/GIP双靶点），再到第三代减肥药的涌现，以及众多药企进入这一市场的原因和机制。
 tags:
 - loss
 - semaglutide

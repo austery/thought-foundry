@@ -19,11 +19,12 @@ project: []
 series: null
 source: null
 speaker: 三個水槍手
-summary: null
+summary: 本期播客深度讨论Google的NotebookLM产品如何利用AI技术将文本资料自动生成播客对话内容。通过演示《红太阳是怎样升起的》和《一年纪事》等著作的AI摘要，探讨AI内容生成对传统播客创作的冲击与未来发展方向。
 tags:
 - 人类价值
 title: E43 深度对话：NotebookLM与AI内容生成的未来
 ---
+
 ## 引言：播客的“最后一期”？
 
 **主持人：** AI也许能替你说话，但他代替不了你活过的每一分钟。今天又是我们新的一期节目，而且很有可能是我们的最后一期节目了。

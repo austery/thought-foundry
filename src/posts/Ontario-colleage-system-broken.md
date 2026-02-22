@@ -1,8 +1,8 @@
 ---
 title: 安大略省的学院体系陷入困境了吗？ - 《议程》文字记录
-summary: null
-area: null
-category: null
+summary: 安大略省学院体系60周年纪念讨论。该系统由教育部长比尔·戴维斯于1966年创立，提供大学和工作之外的第三选择。60年来从500名学生发展至超过50万全日制和非全日制学生，覆盖全省24所学院，但如今面临前所未有的挑战。
+area: society-thinking
+category: politics-society
 project: []
 tags:
 - society

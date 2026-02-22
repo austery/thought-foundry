@@ -5,14 +5,21 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=VoPDKjFHIDU
 speaker: TED
-tags: []
+tags:
+- philosophy
+- mental-health
+- psychology
+- wisdom
+- self
+- meditation
+- grief
 title: 沉默，最深邃的良药：<br>从个人创伤到全球焦虑中的疗愈力量
-summary: ''
+summary: 作者通过父亲去世的个人创伤经历，阐述了沉默作为疗愈工具的深层价值。沉默不仅能帮助个人整理思绪、积累内心资源，更能超越意识形态分歧，在更深层次连结人心，应对全球焦虑与危机。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: philosophy-wisdom
+area: society-thinking
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +27,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 沉默，最深邃的良药：<br>从个人创伤到全球焦虑中的疗愈力量
 
 那是一个夜晚，我正熟睡在我们狭小的两居室公寓里。电话铃声突然响起，在黑暗中，我踉跄着穿过房间接起了电话。一个陌生的声音告诉我父亲被紧急送进了医院。

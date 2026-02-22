@@ -16,7 +16,7 @@ project: []
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=Z0NUvd24_qs&t=1242s
 speaker: ''
-summary: null
+summary: 本课程系列首讲强调圣经中家庭的重要性，指出幸福婚姻需要夫妻双方终身学习与成长。讲者通过比喻说明婚姻如同建房，需要夫妻同心合力；并阐述灵修生活、夫妻共同侍奉等四个灵命成长的关键领域。
 tags:
 - family-life
 - family-relations

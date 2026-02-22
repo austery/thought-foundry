@@ -15,8 +15,8 @@ products_models: []
 project: []
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=xpAXGC-iKlo
-speaker: '士每拿Smyrna RCI'
-summary: null
+speaker: 士每拿Smyrna RCI
+summary: 本课针对青少年父母分享教养心得。通过理论与实践的对比故事，说明育儿不能仅凭理论；分析东西方文化差异对双文化背景下青少年的冲击，强调在后现代时代需用圣经原则引导下一代成长。
 tags:
 - family-life
 - parenting

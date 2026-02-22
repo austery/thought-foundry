@@ -15,13 +15,14 @@ project: []
 series: null
 source: https://www.youtube.com/watch?v=GxZp6890hQk
 speaker: ''
-summary: null
+summary: 这是与现代语言学之父诺姆·乔姆斯基的第八次对话访谈，涉及泛心论、大语言模型与人工智能意识等深层哲学问题，汇集了来自多位顶尖科学家和哲学家的精彩提问。
 tags:
 - consciousness
 - philosophy
 - 语言学
 title: 与诺姆·乔姆斯基的对话：泛心论、大语言模型与人工智能意识
 ---
+
 ## 引言与访谈说明
 
 **Curt Jaimungal:** I just finished recording with Noam Chomsky. This is

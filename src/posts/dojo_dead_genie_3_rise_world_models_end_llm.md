@@ -1,7 +1,7 @@
 ---
-area: null
+area: tech-engineering
 author: Lei
-category: null
+category: ai-application
 channel: ''
 companies_orgs:
 - 特斯拉
@@ -18,8 +18,7 @@ project: []
 series: ''
 source: ''
 speaker: ''
-summary: 本文深入探讨了特斯拉突然终止Dojo项目的决策，分析了其从自研芯片向采用英伟达方案的战略转变。对话进一步延伸至当前大语言模型的局限性，并重点讨论了以Google
-  Genie 3为代表的“世界模型”作为下一代AI架构的巨大潜力，尤其是在具身智能和机器人领域的应用前景。
+summary: 本文深入探讨了特斯拉突然终止Dojo项目的决策，分析了其从自研芯片向采用英伟达方案的战略转变。对话进一步延伸至当前大语言模型的局限性，并重点讨论了以Google Genie 3为代表的“世界模型”作为下一代AI架构的巨大潜力，尤其是在具身智能和机器人领域的应用前景。
 tags:
 - llm
 - technology

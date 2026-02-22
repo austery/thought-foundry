@@ -1,7 +1,7 @@
 ---
-area: ''
+area: life-family
 author: Lei
-category: ''
+category: health-wellness
 created: 1984-01-24T03:00
 date: 2025-07-09
 guest: null
@@ -13,7 +13,7 @@ series: null
 source: https://www.youtube.com/watch?v=giSlEc0ZofI
 speaker: 知行小酒馆
 status: evergreen
-summary: null
+summary: 癌症生物学博士李志忠分享科普工作的困境与坚持：虽然2018年的演讲获得2亿次播放，但面对根深蒂固的医疗偏见，科普需要反复强调才能触达真正需要的人群，突破算法信息茧房的核心在于持续和耐心。
 tags:
 - Health
 - cancer-research
@@ -21,6 +21,7 @@ tags:
 title: E194 当科普面对算法高墙：癌症生物学博士李志忠谈《癌症天敌》与信息茧房的突围
 updated: 2025-09-01T13:04
 ---
+
 ## 引言：科普的持久影响力与现实困境
 
 **雨白:**

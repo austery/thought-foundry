@@ -1,8 +1,8 @@
 ---
 title: PISA、政策与感知：一份为关注教育的家长撰写的芬兰与加拿大教育体系比较分析报告
 summary: 今天参加了Hidden Potential的读书会，很多人都引用芬兰的教育PISA的分数，和他们的教育理念。我看了一下那个分数，同时加拿大的分数并不低，但是和我实际感受不太一致，我就和Gemini聊一下，这是它的给我的报告。我看了之后感受良多。
-area: null
-category: null
+area: society-thinking
+category: politics-society
 project: []
 tags:
 - society

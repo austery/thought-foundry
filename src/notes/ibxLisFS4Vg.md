@@ -5,7 +5,14 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=ibxLisFS4Vg
 speaker: Shijun Tang
-tags: []
+tags:
+- financial
+- market-analysis
+- investment
+- business
+- ai
+- accounting
+- value-investing
 title: 微软财报分析：增长背后的循环交易风险
 summary: 微软最新财报表现亮眼，但股价却暴跌近13%。分析师认为，股价下跌源于市场对OpenAI相关债务的担忧。微软的增长是否建立在虚幻的循环交易之上？
 insight: ''
@@ -16,17 +23,18 @@ area: tech-engineering
 project: []
 people: []
 companies_orgs:
-  - 微软
-  - OpenAI
+- 微软
+- OpenAI
 products_models:
-  - Microsoft 365
-  - Excel
-  - Azure
-  - GPT
-  - Xbox
+- Microsoft 365
+- Excel
+- Azure
+- GPT
+- Xbox
 media_books: []
 status: evergreen
 ---
+
 ### 微软财报暴跌：循环交易的风险与机遇
 
 微软最新财报虽然各项数据表现亮眼，营收和EPS均超出华尔街预期，但股价却在财报发布当天暴跌近13%。这引发了一个问题：微软的增长是否建立在虚幻的循环交易之上？视频分析师认为，微软股价下跌并非源于业绩不佳，而是市场对OpenAI相关债务（Debtors）的担忧。具体而言，微软财报中高达6250亿美元的未收款项，其中近一半来自OpenAI，这引发了投资者对微软资金流向和营收确认方式的质疑。这种循环交易模式，即微软向OpenAI提供资金，OpenAI又以订单回馈微软，被质疑为虚增营收。

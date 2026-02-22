@@ -15,7 +15,7 @@ project: []
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=AzaQpZIf7wk
 speaker: ''
-summary: null
+summary: 本讲座探讨婚后感情成长的三个核心要素：首先要破除"婚姻是恋爱坟墓"的观念，认识到婚姻中的爱应从不成熟的情爱升华为更负责任的恩爱；其次要将夫妻关系置于所有人际关系的首位，防止第三者（包括事业、孩子、父母等）的介入；最后要在对方身上不断发现新的一面，保持婚姻的新鲜感和吸引力。
 tags:
 - family-life
 - family-relations

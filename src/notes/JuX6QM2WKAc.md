@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: life-family
+category: health-wellness
 companies_orgs: []
 date: '2025-10-08'
 draft: true

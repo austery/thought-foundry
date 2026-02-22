@@ -5,7 +5,14 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=dB-daKifWkw
 speaker: 小翠時政財經
-tags: []
+tags:
+- charity
+- medical
+- china
+- policy
+- healthcare
+- economic
+- social
 title: 嫣然天使醫院經營困難的深層原因：中國慈善事業的制度性挑戰
 summary: 李亚鹏创办的嫣然天使儿童医院因拖欠房租面临关停，反映出中国慈善事业的制度性困境。医院运营模式存在矛盾，既要像专业医院一样运营，又不能像私立医院一样盈利。
 insight: ''
@@ -16,11 +23,12 @@ area: tech-engineering
 project: []
 people: []
 companies_orgs:
-  - 嫣然天使醫院
+- 嫣然天使醫院
 products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 公益幌子与制度困境：嫣然医院的困局
 
 大家好，欢迎回到小翠时政财经。今天我们来聊聊李亚鹏创办的嫣然天使儿童医院，因拖欠房租面临关停的事件。舆论场上对此事争论不休，有人指责这是公益幌子下的经营失败，也有人认为是疫情冲击下的悲剧。但更深层次的问题在于，这反映了中国慈善事业的制度性困境。

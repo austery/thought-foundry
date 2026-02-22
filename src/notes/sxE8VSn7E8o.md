@@ -5,14 +5,22 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=sxE8VSn7E8o
 speaker: TED
-tags: []
+tags:
+- art
+- photography
+- humor
+- wildlife
+- culture
+- human
+- family
+- psychology
 title: 笑中带泪：喜剧野生动物摄影大赛的幽默与意义
-summary: ''
+summary: 本文介绍喜剧野生动物摄影大赛，通过有趣的动物照片讲述故事，展现动物与人类家庭生活的相似之处，说明幽默图像能跨越文化边界，引发个人化情感共鸣。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: culture-history
+area: society-thinking
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +28,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 笑中带泪：喜剧野生动物摄影大赛的幽默与意义  
 
 我想要向大家介绍一个**喜剧野生动物摄影比赛**。  

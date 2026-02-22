@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: finance-wealth
+category: investment-assets
 companies_orgs: []
 date: '2025-10-14'
 draft: true

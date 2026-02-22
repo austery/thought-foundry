@@ -16,7 +16,7 @@ project: []
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=plCCp2vWmgU
 speaker: ''
-summary: null
+summary: 本课探讨父母教养的关键原则：谦卑学习新知识以理解孩子，遵守"责罚五戒"（勿怒时责罚、勿众人前责罚、适度责罚、言语恰当、说明原因）进行有智慧的管教，通过陪伴和沟通培养亲子感情，建立和谐一致的教养环境。
 tags:
 - family-life
 - family-relations

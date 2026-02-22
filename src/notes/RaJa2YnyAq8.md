@@ -1,6 +1,6 @@
 ---
-area: ''
-category: ''
+area: finance-wealth
+category: investment-assets
 companies_orgs: []
 date: '2025-12-17'
 draft: true
@@ -15,8 +15,16 @@ series: ''
 source: https://www.youtube.com/watch?v=RaJa2YnyAq8
 speaker: 投资TALK君
 status: evergreen
-summary: ''
-tags: []
+summary: 本期讨论11月非农数据显示失业率上升、劳动力市场放缓的风险信号；分析亚马逊投资OpenAI、特斯拉创历史新高等个股动向，认为市场估值偏高需警惕；介绍年末开户优惠活动。
+tags:
+- market-analysis
+- macro-economy
+- investment
+- stocks
+- fed
+- inflation
+- unemployment
+- portfolio
 title: 市场回顾与宏观数据解读
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 关于播客制作的深度对谈：从零到一的经验分享
-summary: null
-area: "life-family"
+summary: 三位播客主持人深入讨论播客制作的从零到一经验。分享了听播客习惯、开启播客之旅的初心、内容方向选择、瓶颈克服等核心议题，强调满足自己是首要前提，建立稳定输出模式是长期坚持的关键。
+area: life-family
 category: psychology
 project: []
 tags:
@@ -22,6 +22,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 **讲述者简介**
 
 **主持人Vincent：**新范三人行播客主持人，前软件架构师，现为创业者，热衷于通过对话和活动链接社群，探索不同的人生故事。

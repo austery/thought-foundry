@@ -1,7 +1,7 @@
 ---
-area: null
+area: life-family
 author: Lei
-category: null
+category: health-wellness
 channel: 一席
 date: '2020-07-10'
 guest: null
@@ -14,7 +14,7 @@ project: []
 series: null
 source: https://www.youtube.com/watch?v=BbFVl0FfIwY
 speaker: 一席YiXi
-summary: null
+summary: 本文从生物学视角探讨衰老机制与延缓策略。阐述遗传因素仅占25%，环境因素占75%；介绍氧自由基、端粒磨损等衰老理论；分析大象、裸鼹鼠等长寿物种的遗传优势机制。
 tags:
 - health
 - investment

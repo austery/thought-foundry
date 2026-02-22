@@ -5,14 +5,22 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=2qGh7GGWE9w
 speaker: 小翠時政財經
-tags: []
+tags:
+- financial
+- china
+- economics
+- fraud
+- government
+- business
+- economy
+- scandal
 title: 金融黑洞的清算与赵薇的新债
-summary: ''
+summary: 本文详细分析了明天系金融帝国的清算过程。肖建华通过控制677家关联公司和44家金融机构，从中国金融系统中转移超过6500亿资金，最终留下8000多亿的债务窟窿。清算九年后仅追回数百亿资产，赵薇因与明天系的股权交易成为债权追讨对象。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: macro-economy
+area: geopolitics
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +28,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 金融黑洞的清算与赵薇的新债
 
 大家好，欢迎回到小翠时政财经。今天是美东时间2026年的2月3日，距明天系掌门人肖建华被中国政府从香港带回内地受审已经整整九年了。2017年的大年夜，这一事件首次让公众知道了“明天系”这个金融帝国的存在。过去几年中，节目曾专门讨论过肖建华如何通过层层嵌套和隐蔽交易控制多家银行、保险公司及信托机构，从中国金融系统中“搬运”了上万亿资金。

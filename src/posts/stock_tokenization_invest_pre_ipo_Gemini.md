@@ -1,5 +1,5 @@
 ---
-area: "finance-wealth"
+area: finance-wealth
 author: Lei
 category: finance
 channel: null
@@ -13,7 +13,7 @@ project: []
 series: 美股代币化
 source: null
 speaker: Google Gemini
-summary: null
+summary: 本报告深入分析代币化Pre-IPO股权投资的法律与技术架构，解构股票代币化流程、所有权问题及投资者风险。揭示代币本质为中心化平台的承诺而非直接股权，指出降低资金门槛未伴随知识门槛降低带来的投资者风险。
 tags:
 - blockchain
 - investment
@@ -21,6 +21,7 @@ tags:
 - stock
 title: 代币化Pre-IPO股权：对私募市场投资新前沿的机构级尽职调查报告
 ---
+
 ## **第一部分：代币化投资的架构**
 
 本部分旨在构建代币化投资的基础法律与技术框架，从市场宣传的承诺深入到投资者实际获得的法律现实。

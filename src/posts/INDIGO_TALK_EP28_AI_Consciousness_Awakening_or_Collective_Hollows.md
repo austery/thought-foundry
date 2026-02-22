@@ -13,12 +13,13 @@ project: []
 series: null
 source: null
 speaker: ''
-summary: null
+summary: 本期讨论从Meta的Libra项目切入，探讨了技术运动、开源AI趋势与可编程智能的未来。对标Linux的成功，开源模型虽未开放训练方法，但其分发优势与推理能力的重要性将在模型能力增强时更加凸显。
 tags:
 - ai-agent
 - consciousness
 title: AI 的下一步是“意识觉醒”还是“集体游魂”？ - INDIGO TALK EP28
 ---
+
 INDIGO TALK - EP28
 
 **主持人 (Indigo)：** 欢迎回到INDIGO TALK。这一期我邀请了我的NFT入门导师

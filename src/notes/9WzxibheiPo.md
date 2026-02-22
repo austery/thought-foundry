@@ -1,7 +1,7 @@
 ---
 title: 中共宣传进化史：从舆论引导到舆论斗争
-summary: null
-area: "society-thinking"
+summary: 文章分析了中共宣传工作的演变轨迹，从江时代的市场化媒体改革、胡时代的舆论引导制度化，到习时代的舆论斗争军事化。作者以亲身经历揭示了新闻管控的逐步升级，以及中共通过精神征服而非暴力镇压实现思想控制的深层逻辑。
+area: society-thinking
 category: general
 project: []
 tags:
@@ -19,6 +19,7 @@ layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=9WzxibheiPo
 ---
+
 大家好，欢迎收看“夸克说”，我是夸克。之前我一直想做一个系列节目，系统性地介绍一下中共的宣传工具是如何运作的。刚好因为近期“罗帅宇事件”，有观众在评论区留言问我，为什么中国的新闻总是喜欢反转。我就借着这个机会聊聊这个话题。
 
 ## 引言：中共宣传工作的复杂性

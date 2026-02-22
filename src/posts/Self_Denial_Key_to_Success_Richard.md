@@ -12,13 +12,14 @@ project: []
 series: null
 source: null
 speaker: null
-summary: null
+summary: Huma Finance创始人Richard分享了Web3/Crypto领域近三年的发展变化，强调比特币和稳定币已成功验证，而自己专注于构建具有真实价值的区块链应用，通过不断否定和挑战自己的想法来坚定创业信念。
 tags:
 - crypto
 - entrepreneurship
 - technology
 title: 前谷歌总监，Huma创始人Richard：不断否定自己才是成功关键
 ---
+
 ## 讲述者简介
 
 **Richard：**Huma Finance

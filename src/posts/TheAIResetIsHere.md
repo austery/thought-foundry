@@ -13,12 +13,13 @@ project: []
 series: null
 source: null
 speaker: ''
-summary: null
+summary: Peter Diamandis等科技领袖讨论AI革命对搜索、就业和社会的深远影响。他们强调AI代表了人类历史上首次融合左脑逻辑与右脑情感的技术，将为包括老年人在内的所有人群带来前所未有的丰裕和可能性。
 tags:
 - society
 - technology
 title: 'The AI Reset: Search, Jobs, and Everything Else - A Conversation'
 ---
+
 Moonshots
 
 ## WTF Just Happened in Tech

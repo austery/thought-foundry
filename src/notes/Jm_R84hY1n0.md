@@ -13,8 +13,8 @@ people:
 products_models: []
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=Jm_R84hY1n0
-speaker: '士每拿Smyrna RCI'
-summary: null
+speaker: 士每拿Smyrna RCI
+summary: 本课探讨基督徒家庭中的婆媳关系。李秀全通过分析婆媳问题的本质——两个女人争一个男人，结合不同文化背景下的演变，以及圣经中的正面范例，为建立和谐婆媳关系提供了属灵的指导和实践建议。
 tags:
 - family-life
 - family-relations

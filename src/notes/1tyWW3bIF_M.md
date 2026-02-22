@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: finance-wealth
+category: business-entrepreneurship
 companies_orgs:
 - theranos
 date: '2025-09-20'

@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: knowledge-meta
+category: note-taking-systems
 companies_orgs: []
 date: '2023-08-18'
 draft: true

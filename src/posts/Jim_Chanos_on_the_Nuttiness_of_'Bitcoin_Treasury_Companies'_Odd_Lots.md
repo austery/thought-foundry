@@ -1,7 +1,7 @@
 ---
-area: null
+area: finance-wealth
 author: Lei
-category: null
+category: investment-assets
 channel: null
 companies_orgs:
 - 特斯拉
@@ -18,7 +18,7 @@ project: []
 series: null
 source: https://www.bloomberg.com/news/articles/2024-07-02/odd-lots-jim-chanos-on-the-nuttiness-of-bitcoin-treasury-companies
 speaker: ''
-summary: null
+summary: 著名卖空者吉姆·查诺斯批评比特币金库公司商业模式，认为企业发行股票融资购买比特币本质上是让散户投资者购买无限供应的股票，而机构投资者购买有限供应的数字资产，这种模式已扩散至全球200多家公司。
 tags:
 - investment
 title: 吉姆·查诺斯谈“比特币金库公司”的疯狂 | Odd Lots 现场版

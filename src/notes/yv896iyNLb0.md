@@ -5,14 +5,21 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=yv896iyNLb0
 speaker: Best Partners TV
-tags: []
+tags:
+- entrepreneurship
+- startup
+- business
+- strategy
+- marketing
+- innovation
+- mindset
 title: 创业的起点：供需匹配与零门槛生意
-summary: ''
+summary: 克里斯·克尔纳通过80多个副业赚取数千万美元，揭示了普通人创业的核心逻辑：供需匹配而非创新、模仿验证的商业模式、低成本市场测试，强调行动力和正确心态比完美计划更重要。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: business-entrepreneurship
+area: finance-wealth
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +27,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 创业的起点：供需匹配与零门槛生意  
 
 克里斯·克尔纳的故事并非传统意义上的“硅谷传奇”，而是一个普通人在没有光环和创新点子的情况下，通过八十多个副业赚取数千万美元的创业历程。他没有耀眼的背景，也没有惊天动地的新点子，但他在十几年的时间里，找到了一套普通人也能复制的“笨办法”。  

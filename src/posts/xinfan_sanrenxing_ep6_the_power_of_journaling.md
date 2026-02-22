@@ -1,7 +1,7 @@
 ---
-area: null
+area: life-family
 author: Lei
-category: null
+category: personal-growth
 channel: ''
 companies_orgs: []
 date: 2025-08-07

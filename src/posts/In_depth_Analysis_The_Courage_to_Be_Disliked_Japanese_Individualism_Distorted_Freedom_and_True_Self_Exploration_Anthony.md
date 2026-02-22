@@ -1,7 +1,7 @@
 ---
 title: 深度剖析《被讨厌的勇气》：日式个人主义、自由观扭曲与自我探索的真谛
-summary: null
-area: "life-family"
+summary: 本文深度批评《被讨厌的勇气》中的目的论观点，指出其将复杂的心理问题和社会结构问题过度简化为个人选择问题，忽视了创伤、社会结构和内隐心理过程对个人的真实制约。
+area: life-family
 category: psychology
 project: []
 tags:
@@ -23,6 +23,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 大家好，我是安东尼，欢迎来到我的频道。
 
 ## 引言：《被讨厌的勇气》及其争议

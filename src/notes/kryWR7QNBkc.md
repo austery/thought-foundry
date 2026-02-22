@@ -5,14 +5,21 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=kryWR7QNBkc
 speaker: TED
-tags: []
+tags:
+- bias
+- negotiation
+- gender
+- career
+- business
+- psychology
+- communication
 title: 性别偏见下的谈判困境与解决方案重构：关系型提问的力量觉醒
-summary: ''
+summary: 文章揭示女性在谈判中因性别偏见面临的困境，并介绍"关系型提问"方法——通过展示过往成就、共同愿景、具体诉求和协作式提问四步结构，帮助女性更有效地谈判，同时避免性别反向打击。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: psychology
+area: society-thinking
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +27,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 性别偏见下的谈判困境与解决方案重构：关系型提问的力量觉醒
 
 “我热爱谈判。  

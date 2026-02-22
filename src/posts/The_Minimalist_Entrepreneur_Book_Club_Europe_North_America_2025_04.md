@@ -1,5 +1,5 @@
 ---
-area: "finance-wealth"
+area: finance-wealth
 author: Lei
 category: business
 channel: null
@@ -8,20 +8,20 @@ date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
-media_books:
-people:
-
+media_books: null
+people: null
 products_models: []
 project: []
 series: null
 source: null
 speaker: 一口新飯社群
-summary: null
+summary: 欧北场读书会讨论《极简创业者》，参与者分享了副业经验和创业心得。强调从解决身边问题出发、专注盈利而非扩张、重视社群连接和个人IP打造，以及不断尝试的重要性。
 tags:
 - entrepreneurship
 - side-hustle
 title: 「欧洲_北美场」2025年4月读书会「The Minimalist Entrepreneur」直播分享
 ---
+
 ## 开场与介绍
 
 ### Vivian:

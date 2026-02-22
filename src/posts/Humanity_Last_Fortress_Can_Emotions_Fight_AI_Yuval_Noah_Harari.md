@@ -13,13 +13,14 @@ project: []
 series: null
 source: null
 speaker: null
-summary: null
+summary: 赫拉利认为人类统治世界的核心在于讲述和相信故事的能力，这使大规模合作成为可能。而今，人工智能开始创造故事，首次挑战了人类作为叙事者的垄断地位，引发了关于人类未来角色的深刻思考。
 tags:
 - consciousness
 - 人类价值
 - 情感
 title: 人类的最后堡垒：情感能否对抗AI？
 ---
+
 **讲述者简介：**尤瓦尔·诺亚·赫拉利（Yuval Noah
 Harari），以色列历史学家、哲学家及畅销书作家。他以其著作《人类简史》（Sapiens）、《未来简史》（Homo
 Deus）和《今日简史》（21 Lessons for the 21st

@@ -17,10 +17,18 @@ project: []
 series: null
 source: null
 speaker: 北美王路飞
-summary: null
-tags: []
+summary: 本期直播讨论了哈佛演讲者蒋语荣引发的国内外争议，分析了其演讲的真伪感问题，以及国内粉红群体和美国保守派各自出于不同政治立场对其的批评。
+tags:
+- politics
+- cultural
+- china-us-relations
+- geopolitics
+- media
+- social
+- education
 title: 专题讨论：从哈佛演讲争议到六四历史反思
 ---
+
 ## 一、 哈佛毕业生蒋语荣演讲引发的争议
 
 **路飞:**

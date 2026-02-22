@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: society-thinking
+category: philosophy-wisdom
 companies:
 - intellectual
 companies_orgs: []

@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: geopolitics
+category: geopolitics
 companies_orgs: []
 date: '2025-06-14'
 draft: true

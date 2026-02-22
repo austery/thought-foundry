@@ -5,14 +5,22 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=7-1cro5Okeg
 speaker: 课代表立正
-tags: []
+tags:
+- business
+- strategy
+- growth
+- entrepreneurship
+- productivity
+- career
+- mindset
+- personal-development
 title: 真实的务实者为何执着于质量——一场关于专注与回报的认知革命
-summary: ''
+summary: 务实的人为何执着于内容质量？作者通过Paul Graham的餐馆比喻和超线性回报理论论证：高质量是长期竞争的护城河，而聚焦一个点做到极致能带来指数级增长。2026年将继续专注课程质量，同时兼顾健康和当下体验。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: business-entrepreneurship
+area: finance-wealth
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +28,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 真实的务实者为何执着于质量——一场关于专注与回报的认知革命
 
 会员朋友们大家好。今天是**2025年的最后一天**，借此机会提前祝福大家新年快乐！当然，等这个视频上线的时候已经是**2026年了**，那就算是一个“迟到的新年快乐”吧！

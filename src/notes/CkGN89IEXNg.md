@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: life-family
+category: family-relations
 companies_orgs: []
 date: '2025-07-12'
 draft: true

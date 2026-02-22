@@ -1,5 +1,5 @@
 ---
-area: "life-family"
+area: life-family
 author: Lei
 category: psychology
 channel: null
@@ -21,13 +21,14 @@ project: []
 series: null
 source: null
 speaker: 一口新飯社群
-summary: null
+summary: 亚洲区读书会讨论《被讨厌的勇气》，分享阿德勒心理学中关于自我接纳、课题分离和他者贡献的核心理念，以及如何通过改变目的和心态来改善人际关系和生活平衡。
 tags:
 - adlerian-psychology
 - psychology
 - self
 title: 2025-07-29 《被讨厌的勇气》读书会讨论-亚洲区
 ---
+
 ## 开场与预告
 
 ### Ray:

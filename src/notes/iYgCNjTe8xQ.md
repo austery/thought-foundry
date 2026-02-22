@@ -5,14 +5,21 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=iYgCNjTe8xQ
 speaker: 北美王路飞
-tags: []
+tags:
+- geopolitics
+- politics
+- economy
+- history
+- energy
+- power
+- russia
 title: 权力的转折点：霍多尔科夫斯基的命运与普京崛起的开端
-summary: ''
+summary: 本文通过霍多尔科夫斯基被捕事件分析了普京崛起的关键转折点。普京通过收回石油资源实现国家权力集中，但俄罗斯也因此陷入资源诅咒和经济结构单一的困境，面临可持续发展的挑战。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: geopolitics
+area: geopolitics
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +27,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 权力的转折点：霍多尔科夫斯基的命运与普京崛起的开端
 
 2003年秋天，新西伯利亚机场的凌晨，霍多尔科夫斯基这位当时俄罗斯最有钱的男人被特种部队从机舱中带走。这不仅是一个寡头的倒台，更是俄罗斯现代史上的**关键转折点**。

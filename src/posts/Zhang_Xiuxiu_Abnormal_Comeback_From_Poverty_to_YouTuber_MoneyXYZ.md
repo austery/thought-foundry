@@ -1,7 +1,7 @@
 ---
-area: null
+area: life-family
 author: Lei
-category: null
+category: family-relations
 channel: null
 companies_orgs: []
 date: '2025-07-10'
@@ -15,7 +15,7 @@ project: []
 series: null
 source: null
 speaker: null
-summary: null
+summary: 張修修從貧困、被退學、創業失敗的困境中逆襲，成長為50萬粉絲YouTuber。他將自己「不正常」的人生選擇歸因於天生的反骨精神和對RPG遊戲的熱愛，拒絕循規蹈矩的人生路徑。
 tags:
 - life
 - personal-growth

@@ -1,8 +1,8 @@
 ---
 title: 《小小而美》读书会纪要 | The Minimalist Entrepreneur Book Club Summary
-summary: null
-area: null
-category: null
+summary: 本读书会围绕《小小而美》展开讨论，与会者从不同角度分享了创业与副业的实践心得。核心观点包括：将宏大目标具体化、先行动后学习、从社群与需求出发寻找产品市场匹配，以及将失败视为成长的养分。
+area: finance-wealth
+category: business-entrepreneurship
 project: []
 tags:
 - personal-growth
@@ -10,7 +10,7 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books:
+media_books: null
 date: '2025-06-06'
 author: Lei
 speaker: 一口新飯社群
@@ -21,6 +21,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 开场与引言 (Opening & Introduction)
 
 Ray

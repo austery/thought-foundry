@@ -1,7 +1,7 @@
 ---
 title: Vibe Coding分享会纪要20250712
-summary: null
-area: "tech-engineering"
+summary: Vibe Coding分享会中，新任管理员张敏分享了两个AI自动化实践：利用n8n和Whisper实现法语字幕的自动翻译，以及通过n8n+Toggle+Google Sheets实现工作计时的自动统计。展示了AI在提高工作效率中的具体应用。
+area: tech-engineering
 category: technology
 project: []
 tags:
@@ -19,6 +19,7 @@ layout: post.njk
 series: Vibe Coding
 source: null
 ---
+
 ## 开场与介绍
 
 **Ray:**

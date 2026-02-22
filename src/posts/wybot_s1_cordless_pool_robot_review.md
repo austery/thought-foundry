@@ -9,8 +9,7 @@ layout: post.njk
 series: ''
 source: ''
 speaker: Lei
-summary: 用户分享了从有绳泳池机器人升级到无绳型号 WYBOT S1 的详细体验。内容涵盖了对旧款 Hayward 有绳机器人的优缺点分析，以及对 WYBOT
-  C1 和 S1 两款无绳机器人在电池续航、过滤能力和智能路径规划方面的深入比较和使用感受。
+summary: 用户分享了从有绳泳池机器人升级到无绳型号 WYBOT S1 的详细体验。内容涵盖了对旧款 Hayward 有绳机器人的优缺点分析，以及对 WYBOT C1 和 S1 两款无绳机器人在电池续航、过滤能力和智能路径规划方面的深入比较和使用感受。
 tags:
 - geopolitical
 - 无绳清洁
@@ -18,6 +17,8 @@ tags:
 title: WYBOT S1 无绳泳池机器人深度使用评测：一个月的真实体验
 companies:
 - WYBOT S1
+area: geopolitics
+category: geopolitics
 ---
 
 ## 前言：为何选择 WYBOT S1

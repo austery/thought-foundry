@@ -1,8 +1,8 @@
 ---
 title: 智能驾驶的真相：从董车帝评测到特斯拉的“数据炼金术”
 summary: 当前“智能驾驶”技术，特别是国产车的宣传名不符实，存在巨大安全隐患。即便是行业领先的特斯拉，其安全性也备受质疑，数据存在误导性。车主应保持警惕，不能盲信宣传。
-area: null
-category: null
+area: society-thinking
+category: politics-society
 project: []
 tags:
 - automotive-safety

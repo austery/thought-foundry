@@ -1,7 +1,7 @@
 ---
 title: 书评：《透明的阴谋》——新保守主义、中东战争与以色列的国家利益
-summary: null
-area: "finance-wealth"
+summary: 本文书评分析《透明的阴谋》一书，揭露新保守主义势力如何通过智库、游说机构等合法手段渗透美国政府，推动中东战争政策以维护以色列国家利益，从PNAC组织到9/11后的伊拉克战争均是其战略实施。
+area: finance-wealth
 category: geopolitics
 project: []
 tags:
@@ -22,6 +22,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 引言：美国优先还是以色列优先？
 
 为何奉行“美国优先”的特朗普，宁可得罪其核心支持群体MAGA（Make America

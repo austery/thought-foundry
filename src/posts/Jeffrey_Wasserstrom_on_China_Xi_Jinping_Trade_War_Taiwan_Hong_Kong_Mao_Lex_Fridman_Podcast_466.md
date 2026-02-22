@@ -1,5 +1,5 @@
 ---
-area: "finance-wealth"
+area: finance-wealth
 author: Lei
 category: geopolitics
 channel: null
@@ -16,14 +16,14 @@ project: []
 series: null
 source: null
 speaker: null
-summary: null
+summary: 历史学家杰弗里·瓦瑟斯特罗姆分析了习近平与毛泽东的异同，指出两人都拥有个人崇拜，但习近平更强调秩序稳定和儒家传统，而毛泽东则倾向于社会动荡。
 tags:
 - china-politics
 - history
 - 香港
-title: 'Jeffrey Wasserstrom on China, Xi Jinping, Trade War, Taiwan, Hong Kong, Mao
-  | Lex Fridman Podcast #466'
+title: 'Jeffrey Wasserstrom on China, Xi Jinping, Trade War, Taiwan, Hong Kong, Mao | Lex Fridman Podcast #466'
 ---
+
 **讲述者简介：** 以下内容是现代中国历史学家杰弗里·瓦瑟斯特罗姆（Jeffrey
 Wasserstrom）在莱克斯·弗里德曼播客（Lex Fridman
 Podcast）第466期中的对话整理。

@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: geopolitics
+category: macro-economy
 companies_orgs: []
 date: '2025-07-15'
 draft: true

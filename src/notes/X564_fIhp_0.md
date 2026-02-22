@@ -5,14 +5,21 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=X564_fIhp_0
 speaker: TED
-tags: []
+tags:
+- comedy
+- culture
+- k-pop
+- music
+- entertainment
+- cultural
+- art
 title: 开场：从流行歌手到脱口秀演员的蜕变轨迹与K-pop痴迷
-summary: ''
+summary: 脱口秀演员莎莲·凯伊通过幽默解读K-pop文化，揭示女团成员需具备的矛盾特质、舞蹈与说唱元素，以及用水果和枪支等隐喻替代直白歌词的文化现象。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: culture-history
+area: society-thinking
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +27,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 开场：从流行歌手到脱口秀演员的蜕变轨迹与K-pop痴迷
 
 大家好，我的名字叫莎莲·凯伊。我最初的职业生涯其实是一名流行歌手，在娱乐圈奋斗了20年之后，我知道自己终于成功的标志是：我现在……成为一名脱口秀演员。（笑声）今天，在TED上，我想谈谈一个我一直痴迷的话题——K-pop（韩国流行音乐）。我们这里有喜欢K-pop的吗？（欢呼声）哦，很好。如果你不是粉丝也没关系，“直男”身份也完全没问题。（笑声）而如果你是K-pop的粉丝，还是一名“直男”，那你真的确定吗？（笑声）你可能会觉得成为一名K-pop明星非常困难。你需要搬到韩国，还要参加一整套的训练计划。但我今天要告诉你们的是——其实不然！成为一名K-pop明星其实非常容易，任何人都可以做到。而接下来的七分钟，我将向你们展示如何做。

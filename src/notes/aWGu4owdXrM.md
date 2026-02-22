@@ -5,14 +5,22 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=aWGu4owdXrM
 speaker: TED
-tags: []
+tags:
+- cooking
+- culture
+- cultural
+- education
+- travel
+- anthropology
+- entrepreneurship
+- innovation
 title: 中文标题：非洲美食的边界与传承｜Dieuveil Malonga 的烹饪之旅
-summary: ''
+summary: 厨师Dieuveil Malonga通过两年非洲大陆之旅，深入学习泛非饮食文化，建立烹饪创新村推广非洲美食，致力于让非洲cuisine获得与意大利菜肴相同的全球认可。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: culture-history
+area: society-thinking
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +28,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 中文标题：非洲美食的边界与传承｜Dieuveil Malonga 的烹饪之旅
 
 食物的伟大之处在于，**它能够将人们团结在一起。食物没有边界**。

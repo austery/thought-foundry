@@ -5,14 +5,22 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=VA2hdDoSM4s
 speaker: TED
-tags: []
+tags:
+- communication
+- sports
+- training
+- animal-behavior
+- teamwork
+- cognitive
+- psychology
+- human
 title: 狗狗敏捷赛：沟通艺术与人类启示录
-summary: ''
+summary: 通过狗狗敏捷赛的实践案例，阐述跨物种沟通的艺术。运动员需要掌握基于身体位置、眼神接触等狗狗天然理解的沟通方式，而非人类习惯的语言指令，这对人类团队协作也具有启示意义。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: psychology
+area: society-thinking
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +28,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 狗狗敏捷赛：沟通艺术与人类启示录  
 
 我从六岁起就开始参加狗狗敏捷竞赛，所以有足够时间接受了这个残酷的事实——我不是大家最关注的队员。观众们只是想看看我的搭档。

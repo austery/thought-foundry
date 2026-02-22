@@ -1,7 +1,7 @@
 ---
-area: null
+area: society-thinking
 author: Lei
-category: null
+category: psychology
 channel: null
 companies_orgs: []
 date: '2025-07-15'
@@ -13,7 +13,7 @@ project: []
 series: null
 source: https://www.youtube.com/watch?v=nMSBPYk1nwQ&t
 speaker: ''
-summary: null
+summary: 李笑来通过研究自我对话（Self-talk）的心理学原理，发现了无痛戒烟的方法：每天对自己说"我从来不抽烟"，通过改造潜意识对话来改变习惯，挑战了传统习惯论中关于奖励机制的必要性认知。
 tags:
 - psychology
 - 意志力

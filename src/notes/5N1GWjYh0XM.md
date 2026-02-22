@@ -5,7 +5,15 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=5N1GWjYh0XM
 speaker: 夸克说
-tags: []
+tags:
+- psychology
+- cultural
+- politics
+- china
+- identity
+- mental-model
+- philosophy
+- society
 title: 激进主义与集体主义的双重束缚：解析艾未未立场转变的心理机制
 summary: 本视频分析了艾未未等人的立场转变，指出其根源于激进主义与集体主义的双重束缚。视频探讨了激进主义的特征、集体主义的影响、身份认同危机及心理逃生机制，并提出保持独立心态的建议。
 insight: ''
@@ -16,12 +24,13 @@ area: society-thinking
 project: []
 people: []
 companies_orgs:
-  - ''
+- ''
 products_models:
-  - ''
+- ''
 media_books: []
 status: evergreen
 ---
+
 ### 激进主义与集体主义的双重束缚
 
 在视频中，我们见证了艾未未等人的立场转变并非简单的思想转变，而是根植于一种特定的心理结构——**激进主义与集体主义的双重束缚**。这种结构不仅存在于中国，也是许多国家中激进思潮的一部分。

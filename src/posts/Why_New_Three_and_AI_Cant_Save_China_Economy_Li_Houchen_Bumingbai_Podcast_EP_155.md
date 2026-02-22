@@ -16,11 +16,12 @@ project: []
 series: null
 source: https://bumingbai.net/2025/06/20/155-lhc-text/
 speaker: ''
-summary: null
+summary: 播客讨论中国经济的两面性：新三样和AI创新与消费疲软、失业并存。分析资源错配是中国经济根本特征，政府激励导致光伏、新能源汽车等领域产能严重过剩，形成泡沫风险。
 tags:
 - china-economy
 title: 李厚辰：为什么“新三样”和AI救不了中国经济？- 不明白播客EP-155文字版
 ---
+
 ## 引言：“闪闪发光”与“暗淡萧条”并存的两个中国
 
 **袁莉:** 大家好，欢迎来到不明白播客，我是主持人袁莉。

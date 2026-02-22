@@ -1,7 +1,7 @@
 ---
-area: null
+area: society-thinking
 author: Lei
-category: null
+category: psychology
 companies_orgs: []
 date: 2025-09-22
 draft: true
@@ -14,10 +14,8 @@ series: null
 source: null
 speaker: ''
 status: evergreen
-summary: Lulu Cheng Meservey explains how founders and leaders can cut through a noisy
-  world by using human stories, conviction, and narrative arcs. She shares frameworks
-  for building trust, establishing deterrence, and effectively responding to public
-  attacks, emphasizing the psychological principles behind powerful communication.
+summary: Lulu Cheng Meservey explains how founders and leaders can cut through a noisy world by using human stories, conviction, and narrative arcs. She shares frameworks for building trust, establishing
+  deterrence, and effectively responding to public attacks, emphasizing the psychological principles behind powerful communication.
 tags:
 - communication-strategy
 - crisis-management

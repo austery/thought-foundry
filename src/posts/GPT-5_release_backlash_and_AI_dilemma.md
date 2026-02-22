@@ -1,7 +1,7 @@
 ---
-area: null
+area: tech-engineering
 author: Lei
-category: null
+category: ai-application
 channel: ''
 companies_orgs:
 - openai

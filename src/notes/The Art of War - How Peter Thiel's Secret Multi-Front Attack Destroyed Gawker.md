@@ -11,16 +11,14 @@ tags:
 - peter-thiel
 - strategy
 title: 'The Art of War: How Peter Thiel''s Secret Multi-Front Attack Destroyed Gawker'
-summary: An analysis of the tactics used in Peter Thiel's war against Gawker. This
-  installment details the crucial role of secrecy and compartmentalization, and explores
-  the multi-front legal and PR attacks—including the Gamergate controversy and cutting
-  off insurance—that crippled Gawker before the final trial.
+summary: An analysis of the tactics used in Peter Thiel's war against Gawker. This installment details the crucial role of secrecy and compartmentalization, and explores the multi-front legal and PR attacks—including
+  the Gamergate controversy and cutting off insurance—that crippled Gawker before the final trial.
 insight: null
 file_name: thiel_art_of_war_against_gawker.md
 draft: true
 series: null
-category: null
-area: null
+category: culture-history
+area: society-thinking
 project: []
 status: evergreen
 created: 2025-09-16T09:25
@@ -28,6 +26,7 @@ updated: 2025-09-16T09:25
 companies:
 - psychological-warfare
 ---
+
 ## 引言：秘密战争的艺术
 
 大家好，欢迎来到我的频道。今天我们继续讲Peter Thiel与Gawker的复仇之战。我们上一期节目讲到，Peter Thiel把诉讼打到了佛罗里达州的州法院，向Gawker递上了一份价值1亿美金的战书。战争正式在州法院打响，但是，一个巨大的问题摆在面前。

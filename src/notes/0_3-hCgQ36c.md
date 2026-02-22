@@ -17,7 +17,7 @@ project: []
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=0_3-hCgQ36c
 speaker: 士每拿Smyrna RCI
-summary: null
+summary: 本课强调父亲角色在青少年教养中的重要性，通过圣经中亚伯拉罕、摩西之父等榜样，说明父亲的信心见证与代祷责任。同时指出父母相爱的榜样与明显的爱能帮助青少年抵御当代社会风气的负面影响。
 tags:
 - family-life
 - religion

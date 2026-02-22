@@ -5,14 +5,19 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=cREjRHUUtO0
 speaker: TVO Today
-tags: []
+tags:
+- history
+- religion
+- cultural
+- underground-railroad
+- biography
 title: 塞勒姆小教堂与哈里特·塔布曼的历史联系
-summary: ''
+summary: 塞勒姆小教堂是安大略省最古老的黑人教堂之一，建于1855年。哈里特·塔布曼曾在此地居住，通过地下铁路组织救援行动，许多获救者定居于此并成为教会成员。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: culture-history
+area: society-thinking
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +25,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 塞勒姆小教堂与哈里特·塔布曼的历史联系
 
 **主持人**: 我正站在一个有着悠久历史的小建筑前。这是安大略省圣凯瑟琳市的塞勒姆小教堂。许多人认为这是安大略历史最悠久的黑人教堂之一，始建于 1855 年。尽管它的建筑历史并不久远，但其会众的历史可以追溯到更早的时期。

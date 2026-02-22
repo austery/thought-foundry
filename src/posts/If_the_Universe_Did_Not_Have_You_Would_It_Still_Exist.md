@@ -1,8 +1,8 @@
 ---
 title: 假如宇宙没有你，它还会存在吗？
-summary: null
-area: null
-category: null
+summary: 本文探讨宇宙是否需要观察者存在才有意义，通过分析宇宙微调现象（基本物理常数精确适配生命演化）引入强弱人择原理，并对比黑格尔形而上学、多元宇宙论和玻尔兹曼大脑学说三种解释。
+area: tech-engineering
+category: ai-application
 project: []
 tags:
 - llm

@@ -20,9 +20,18 @@ source: https://www.youtube.com/watch?v=UUc8Mw4EX_A
 speaker: 一口新飯
 status: evergreen
 summary: 本期节目邀请前特斯拉FSD工程师老于，深度探讨特斯拉近期股价波动、马斯克参政争议、FSD在中国的惊艳表现及其核心技术优势，并展望Robotaxi和擎天柱机器人的未来发展，同时分享了个人对投资与AI的感悟。
-tags: []
+tags:
+- investment
+- stocks
+- ai
+- autonomous-driving
+- tesla
+- china-us-relations
+- geopolitics
+- interview
 title: 特斯拉FSD入华超预期：与前FSD工程师老于深度解析马斯克争议、Robotaxi与AI未来
 ---
+
 ### 引言：特斯拉的跌宕起伏与特邀嘉宾
 
 **Ray:** 大家好，欢迎回到MoneyXYZ。本期节目将深入探讨特斯拉，作为特斯拉的长期投资者，我深知其近期股价的“过山车”表现让许多人感到不安。应广大观众要求，今天我们特别邀请到老朋友——特斯拉前自动驾驶工程师老于，一同深入聊聊特斯拉这几个月来的公司表现与股价波动、埃隆·马斯克（Elon Musk）参政的争议、**FSD**（Full Self-Driving: 特斯拉的完全自动驾驶系统）进入中国的进展、**Robotaxi**（无人出租车: 完全自动驾驶的车辆提供按需出行服务）和**Optimus**（擎天柱: 特斯拉开发的人形机器人）的未来，以及我们作为长期投资者近期的一些改变和计划。

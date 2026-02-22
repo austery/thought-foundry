@@ -14,11 +14,12 @@ project: []
 series: null
 source: null
 speaker: Lei
-summary: null
+summary: 科技巨头通过战略投资、排他性合作等"非收购式收购"策略，在规避反垄断监管的同时，实现对AI领域的实质控制。这种做法与洛克菲勒时代标准石油公司的隐性兼并策略如出一辙。
 tags:
 - 反垄断
 title: 科技巨头如何通过“非收购式收购”悄然主导AI领域
 ---
+
 ## 引言：一种规避监管的新型控制策略
 
 **Narrator:** In the race to dominate generative AI, Big Tech firms

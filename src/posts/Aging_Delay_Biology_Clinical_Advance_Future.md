@@ -1,8 +1,8 @@
 ---
 title: 延缓衰老：从生物学理论到临床前沿的六年进展与未来展望
 summary: 听了一席的一篇关于老年和健康的视频，用gemini deep research更新一下这些信息,看看是否还继续成立。
-area: null
-category: null
+area: life-family
+category: health-wellness
 project: []
 tags:
 - health

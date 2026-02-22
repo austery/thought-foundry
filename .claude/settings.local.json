@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv run scripts/frontmatter_audit.py --json --errors-only 2>/dev/null | python3 -c \"\nimport json, sys\ndata = json.load\\(sys.stdin\\)\n\ndate_missing = [r['file'] for r in data if any\\(i['field'] == 'date' for i in r['issues']\\)]\nspeaker_missing = [r['file'] for r in data if any\\(i['field'] == 'speaker' for i in r['issues']\\)]\n\nprint\\('=== DATE 缺失 \\(%d 个\\) ===' % len\\(date_missing\\)\\)\nfor f in date_missing:\n    print\\(' ', f\\)\n\nprint\\(\\)\nprint\\('=== SPEAKER 缺失 \\(%d 个\\) ===' % len\\(speaker_missing\\)\\)\nfor f in speaker_missing:\n    print\\(' ', f\\)\n\" 2>&1)",
+      "Bash(head:*)",
+      "Bash(uv run:*)"
+    ]
+  }
+}

@@ -5,14 +5,21 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=3J_eKN3bb5U
 speaker: 一席YiXi
-tags: []
+tags:
+- philosophy
+- self
+- thinking-philosophy
+- mental-model
+- history
+- psychology
+- civilization
 title: 自我与现代性：从笛卡尔到当代的自我认知转型
-summary: ''
+summary: 文章重新审视笛卡尔哲学中关于自我的多重维度，揭示现代人对理性自我的执念实为资本社会的单向度化处理。作者主张超越理性与失控的二元对立，接纳多重自我共存的开放生活哲学。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: philosophy-wisdom
+area: society-thinking
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +27,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 自我与现代性：从笛卡尔到当代的自我认知转型  
 
 在高度信息化、智能化的时代背景下，当代人对“自我”的理解呈现出前所未有的复杂性。与过去相比，现代年轻人对于自我要求和控制的强度显著增加：他们需要更早熟、更少容错率，并对自身进行更加理性化的管理。我们不断追求一种**严格、理性和自洽的自我状态**，但与此同时，我们也频繁遭遇生活中的挫败与焦虑。面对这些时刻，人们往往还是“求助于自我”，比如通过网络娱乐或购物来进行心理疗愈。这种以自我为中心的思维方式，逐渐成为我们生活中的基本逻辑。

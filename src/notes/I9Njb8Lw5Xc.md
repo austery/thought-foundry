@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: work-career
+category: career-development
 companies_orgs: []
 date: '2025-09-16'
 draft: true

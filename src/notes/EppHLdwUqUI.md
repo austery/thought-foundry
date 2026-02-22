@@ -15,7 +15,7 @@ project: []
 series: null
 source: https://www.youtube.com/watch?v=EppHLdwUqUI&t=1s
 speaker: ''
-summary: null
+summary: 本期节目深入探讨伊朗经济的真实规模与股票市场投资机会。伊朗是世界第37大经济体，拥有9000万人口和1500亿美元的股票市场，但其经济发展与地理和人口规模不匹配，存在巨大增长潜力。
 tags:
 - financial
 - geopolitical
@@ -23,6 +23,7 @@ tags:
 - 股票市场
 title: 深度解读：伊朗市场动态与投资前景 - Odd Lots
 ---
+
 ## 引言：揭开伊朗经济的神秘面纱
 
 **Host 1:** One thing we have learned in all our episodes looking at the

@@ -1,6 +1,6 @@
 ---
-area: ''
-category: ''
+area: geopolitics
+category: macro-economy
 companies_orgs: []
 date: '2025-12-18'
 draft: true
@@ -15,8 +15,15 @@ series: ''
 source: https://www.youtube.com/watch?v=AFM9Axya_34
 speaker: New York Times Podcasts
 status: evergreen
-summary: ''
-tags: []
+summary: 特朗普发表黄金时段演讲为经济辩护，承诺降低物价和提高工资，但与最新就业报告显示失业率上升形成对比。他还宣布为140万军人发放1776美元奖金。国会方面，众议院议长约翰逊面临党内反对，FBI副局长博尼诺宣布辞职。
+tags:
+- economy
+- politics
+- government
+- inflation
+- military
+- employment
+- policy
 title: Trump’s Combative Prime Time Speech, and the Growing Right-to-Die Movement
 ---
 

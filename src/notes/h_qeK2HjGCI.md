@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: tech-engineering
+category: tech-trends
 companies_orgs: []
 date: '2025-10-11'
 draft: true

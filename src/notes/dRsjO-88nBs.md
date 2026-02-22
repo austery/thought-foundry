@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: knowledge-meta
+category: workflow-tools
 companies_orgs: []
 date: '2025-07-31'
 draft: true

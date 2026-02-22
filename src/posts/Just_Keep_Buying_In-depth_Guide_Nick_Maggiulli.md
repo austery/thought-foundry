@@ -15,12 +15,13 @@ project: []
 series: null
 source: https://www.harriman-house.com/press/full/4200
 speaker: null
-summary: null
+summary: 本文深度解读Nick Maggiulli的著作《Just Keep Buying》，介绍了作者以数据驱动的投资哲学——通过持续定投积累财富，并用历史数据和行为心理学论证了长期投资优于择时的优越性。
 tags:
 - wealth-accumulation
 - wealth-management
 title: 《Just Keep Buying》深度解读指南
 ---
+
 ### 作者背景: 数据分析达人 Nick Maggiulli
 
 Nick Maggiulli (昵称“老王”, Maggiulli

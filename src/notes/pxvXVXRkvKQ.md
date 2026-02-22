@@ -1,5 +1,5 @@
 ---
-area: "geopolitics"
+area: geopolitics
 author: Lei
 category: geopolitics
 channel: null
@@ -13,7 +13,7 @@ project: []
 series: null
 source: https://www.youtube.com/watch?v=pxvXVXRkvKQ
 speaker: 夸克说
-summary: null
+summary: 本文分析中美稳定币竞争中中国的实际处境。通过解释稳定币原理、使用场景和各国优劣势，揭示人民币稳定币难以挑战美元主导地位的根本原因，批驳了网络舆论中夸大其词的乐观论调。
 tags:
 - stablecoin
 - us-china-relations
@@ -21,6 +21,7 @@ tags:
 - 数字货币
 title: 【夸克说】中美稳定币战争，中国一定会输吗？
 ---
+
 ## 引言：稳定币热潮与中国舆论
 
 大家好，欢迎收看夸克说，我是夸克。今天，咱们来聊一个近期和未来一段时间都可能会很火的话题：稳定币

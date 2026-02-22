@@ -13,13 +13,14 @@ project: []
 series: null
 source: https://www.youtube.com/@shijieshuo
 speaker: null
-summary: null
+summary: 投资风格应根据个人财务状况、现金流稳定性和风险承受能力而定。企业家因经营杠杆高应采保守策略，而稳定收入的科学家则适合积极定投，两种方式都各有其理。
 tags:
 - investment
 - life
 - risk-management
 title: 投资风格：激进还是保守？因人而异的风险控制策略
 ---
+
 ## 讲述者：师姐 (shijieshuo)
 
 ### 引言：投资风格与风险控制

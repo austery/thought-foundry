@@ -12,12 +12,13 @@ project: []
 series: null
 source: https://www.youtube.com/watch?v=Dp75wqOrtBs
 speaker: All-In Podcast
-summary: null
+summary: All-In播客四人组讨论了北约峰会趣事、龙舌兰酒新品发布，以及即将涉及的12日战争、纽约社会主义、股市创新高与AI版权等重要议题。
 tags:
 - geopolitical
 - 版权
 title: All-In 播客深度分析：12日战争、纽约社会主义、股市新高与AI版权
 ---
+
 ## (0:00) 好哥们介绍：核心四人组回归
 
 **Jason:** Did you guys see this uh White House video?

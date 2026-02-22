@@ -15,10 +15,19 @@ project: []
 series: null
 source: null
 speaker: null
-summary: null
-tags: []
+summary: 尤瓦尔·赫拉利强调从多维视角理解复杂议题的重要性，认为长篇叙事能够将零散信息整合成完整的现实地图，满足人类对深层认知的需求，这种价值在未来数十年仍将持续。
+tags:
+- ai
+- philosophy
+- history
+- knowledge-management
+- cognitive
+- reading-reflection
+- learning
+- thinking-philosophy
 title: 'The Last Bastion of Humanity: Can Emotions Compete with AI?'
 ---
+
 **Speaker Bio:** Yuval Noah Harari is an Israeli public intellectual,
 historian, and professor in the Department of History at the Hebrew
 University of Jerusalem. He is the author of the international

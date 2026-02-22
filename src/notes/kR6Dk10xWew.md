@@ -1,8 +1,8 @@
 ---
 title: 揭秘纳尼亚行动 - 讲座报告
-summary: null
-area: null
-category: null
+summary: 本文通过《华尔街日报》报道分析以色列轰炸伊朗核设施的军事行动代号蕴含的文化密码。以色列将斩首行动命名为"纳尼亚行动"和"红色婚礼"，分别源自英国作家C.S.Lewis的文学作品和美剧《权力的游戏》，反映了以军决策层的文化水平。文章详述了该行动的长期策划、战略欺骗和实施过程，揭示了以色列如何在20年的等待中通过情报渗透、军事训练和中东局势变化的机遇，成功实现了对伊朗军事领导层和核科学家的定点清除。
+area: society-thinking
+category: culture-history
 project: []
 tags:
 - history

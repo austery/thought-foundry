@@ -1,7 +1,7 @@
 ---
-area: null
+area: knowledge-meta
 author: Lei
-category: null
+category: science
 channel: null
 companies_orgs: []
 date: '2025-07-10'
@@ -15,7 +15,7 @@ project: []
 series: null
 source: '#section-1'
 speaker: ''
-summary: null
+summary: 本文通过采访麦吉尔大学教授克里斯·里根，回顾加拿大碳定价政策的曲折历程。讨论了生态财政委员会的成立背景，以及早期联邦政府开发的碳交易系统因成本过高而被搁置的原因。
 tags:
 - canada
 - environment

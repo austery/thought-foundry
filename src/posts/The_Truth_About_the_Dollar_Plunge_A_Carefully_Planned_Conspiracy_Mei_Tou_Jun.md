@@ -13,13 +13,14 @@ project: []
 series: null
 source: null
 speaker: 美投讲美股
-summary: null
+summary: 美元指数近期暴跌10%创22年新低，与川普关税政策引发的贸易战密切相关。文章通过分析美元供需端六大因素，揭示美元贬值背后的经济逻辑和全球资本博弈。
 tags:
 - global-economy
 - trade-war
 - us-economy
 title: 美元暴跌的真相：一场精心策划的阳谋？
 ---
+
 ## 川普的政策与全球资本的博弈
 
 ### 引言：市场崩盘与美元的意外走弱

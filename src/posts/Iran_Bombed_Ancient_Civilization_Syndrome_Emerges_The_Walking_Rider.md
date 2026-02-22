@@ -1,5 +1,5 @@
 ---
-area: "life-family"
+area: life-family
 author: Lei
 category: culture
 channel: '@LiuTalks'
@@ -13,13 +13,14 @@ project: []
 series: null
 source: null
 speaker: 徒步的騎手
-summary: null
+summary: 文章分析伊朗遭轰炸反映的"文明古国综合症"：古老国家现代文明化反复失败，导致民众心甘情愿做历史囚徒，转而回归传统威权。中国亦陷入类似困境，经济发展伴随精神倒退，民族复兴名义下抵触民主自由等现代文明价值。
 tags:
 - history
 - iran
 - society
 title: 伊朗挨炸，炸出来的“文明古国综合症”
 ---
+
 ## 引言：“文明古国综合症”
 
 各位好，今天说说伊朗挨炸，炸出来的“文明古国综合症”。文明古国是加引号的。

@@ -1,6 +1,6 @@
 ---
-area: ''
-category: ''
+area: knowledge-meta
+category: workflow-tools
 companies_orgs: []
 date: '2025-12-19'
 draft: true
@@ -16,7 +16,14 @@ source: https://www.youtube.com/watch?v=QY_zxgRuiaw
 speaker: 一口新飯
 status: evergreen
 summary: \"本文分享了作者十年自由职业经验中关于时间管理的认知转变，强调了管理注意力的重要性，并提供了具体的方法和心法，包括时间划分、单任务处理、环境切换以及强制关机等，旨在帮助读者提高工作效率和生活质量。\"
-tags: []
+tags:
+- productivity
+- time-management
+- freelance
+- workflow
+- focus
+- mindset
+- self-management
 title: \"自由职业时间管理：从时间到注意力的转变\"
 ---
 

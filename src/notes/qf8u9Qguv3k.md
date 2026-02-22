@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: knowledge-meta
+category: science
 companies_orgs: []
 date: '2025-10-13'
 draft: true

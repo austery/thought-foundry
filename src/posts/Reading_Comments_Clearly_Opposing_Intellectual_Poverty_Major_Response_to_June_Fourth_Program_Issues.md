@@ -1,7 +1,7 @@
 ---
 title: 读评论：旗帜鲜明地反对知识贫瘠——关于六四两期节目问题的重大回应
-summary: null
-area: "finance-wealth"
+summary: 本文回应了关于六四事件的三个主要争议评论：驳斥经济发展自动带来民主的观点，澄清学生并非过激而是理性诉求，批评对参与者的不实指控，强调民主化需要持续的关心和行动。
+area: finance-wealth
 category: geopolitics
 project: []
 tags:
@@ -25,6 +25,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ### 目录
 
 ## 开场白：为何要回应争议评论

@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: finance-wealth
+category: business-entrepreneurship
 companies_orgs: []
 date: '2025-10-10'
 draft: true

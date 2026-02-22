@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: tech-engineering
+category: tech-trends
 date: '2025-10-08'
 draft: true
 guest: ''

@@ -1,6 +1,6 @@
 ---
-area: null
-category: null
+area: finance-wealth
+category: investment-assets
 companies_orgs:
 - sac-capital
 date: '2025-09-26'

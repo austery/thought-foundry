@@ -1,8 +1,8 @@
 ---
 title: 川普鲍威尔和解！特斯拉利润下调，英特尔大跌的原因！
 summary: 分析川普与鲍威尔和解，更新谷歌、特斯拉财报数据，并深入解读英特尔的最新财报与未来战略。
-area: null
-category: null
+area: finance-wealth
+category: investment-assets
 project: []
 tags:
 - earnings-report

@@ -1,5 +1,5 @@
 ---
-area: "life-family"
+area: life-family
 author: Lei
 category: psychology
 channel: null
@@ -8,20 +8,20 @@ date: '2025-04-30'
 guest: ''
 insight: null
 layout: post.njk
-media_books:
-people:
-
+media_books: null
+people: null
 products_models: []
 project: []
 series: null
 source: null
 speaker: 一口新飯社群
-summary: null
+summary: 本次读书会围绕《小而美》探讨副业与创业实践。来自全球的参与者分享了各自的创业经验与思考，强调了社群读书的价值在于思想碰撞、打破认知局限和建立有意义的人生连接。
 tags:
 - personal-growth
 - minimalism
 title: 《小而美》读书会：关于副业与创业的思考与实践
 ---
+
 **主题书籍：**《The Minimalist Entrepreneur》（小而美：持续盈利的经营法则）
 
 ## 讲述者简介

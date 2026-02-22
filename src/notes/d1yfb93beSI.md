@@ -5,14 +5,21 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=d1yfb93beSI
 speaker: TED
-tags: []
+tags:
+- career
+- job-hunting
+- interview
+- communication
+- personal-branding
+- psychology
+- marketing
 title: 关于自我介绍的颠覆性认知：从“我有多厉害”到“我能为你做什么”
-summary: ''
+summary: 本文通过Rebecca Okamoto的亲身经历揭示自我介绍的核心秘密：从炫耀成就转变为强调能为他人带来的价值，用20词以内的简洁表述吸引注意力，提出五种结构化框架帮助求职者和专业人士有效介绍自己。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: career-development
+area: work-career
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +27,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 关于自我介绍的颠覆性认知：从“我有多厉害”到“我能为你做什么”
 
 “Tell me about yourself.”  

@@ -5,14 +5,22 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=13Qr-JQ_PJY
 speaker: 北美王路飞
-tags: []
+tags:
+- productivity
+- mental-health
+- work
+- life
+- management
+- mindset
+- psychology
+- wellness
 title: 能量才是硬通货
-summary: ''
+summary: 本文通过销售副总裁Roger的故事,阐述能量而非时间才是高绩效的根本货币。强调需要建立物理、情绪、思维、精神四层能量金字塔,通过仪式而非意志力来维持平衡,最终实现工作与生活的和谐。
 insight: ''
 draft: true
 series: ''
-category: ''
-area: ''
+category: psychology
+area: society-thinking
 project: []
 people: []
 companies_orgs: []
@@ -20,6 +28,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 能量才是硬通货
 
 今天故事的主角叫Roger，42岁，是一家大型软件公司的销售副总裁，年薪六位数，刚完成第六年里的第四次升职。他在凤凰城郊区拥有一套自己设计的房子，车库里停着好车，有两个可爱的女儿。照理说，他该意气风发地回家开香槟庆祝，但那天晚上，他把车停在离家五个街区的小公园旁，握着方向盘当场崩溃，眼泪止不住地流。这是他结婚12年来第一次哭。你可能会以为他被炒鱿鱼了，或者家庭出事了，但都不是。恰恰相反，他拥有一切，却感觉身体被掏空。

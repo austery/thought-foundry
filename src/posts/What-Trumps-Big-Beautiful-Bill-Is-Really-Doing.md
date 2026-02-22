@@ -1,5 +1,5 @@
 ---
-area: "finance-wealth"
+area: finance-wealth
 author: Lei
 category: finance
 channel: null
@@ -15,13 +15,13 @@ project: []
 series: null
 source: null
 speaker: ''
-summary: null
+summary: Ezra Klein和Catherine Rampell讨论特朗普预算案的影响,该案将4万亿美元资金从穷人转向富人,同时在高利率环境下增加债务。他们分析了关税政策与债务增加的矛盾,以及这对美元安全性和经济增长的潜在风险。
 tags:
 - financial
 - us-politics
-title: 'The Ezra Klein Show: What Trump’s ‘Big, Beautiful Bill’ Is Really Doing (Part
-  2) - Dialogue'
+title: 'The Ezra Klein Show: What Trump’s ‘Big, Beautiful Bill’ Is Really Doing (Part 2) - Dialogue'
 ---
+
 # Why Ezra Klein is So F\*\*\*ing Angry (with Democrats)
 
 ## 嘉宾介绍与节目开场

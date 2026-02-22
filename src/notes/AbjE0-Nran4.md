@@ -1,5 +1,5 @@
 ---
-area: "tech-engineering"
+area: tech-engineering
 author: Lei
 category: technology
 channel: https://www.youtube.com/@Dr.IreneLee/featured
@@ -13,11 +13,12 @@ project: []
 series: null
 source: https://www.youtube.com/watch?v=AbjE0-Nran4&t
 speaker: ''
-summary: null
+summary: 台大医学系毕业生胡思宇放弃临床路径，赴哈佛攻读生物医学资讯硕士，后在麻州总医院从事医学影像AI研究，最终加入Google担任机器学习工程师，分享医学背景在科技业的优势与挑战。
 tags:
 - llm
 title: 从医学生到谷歌工程师——胡思宇医师的跨界之路
 ---
+
 ### 讲述者简介
 
 **胡思宇医师 (Jimmy
