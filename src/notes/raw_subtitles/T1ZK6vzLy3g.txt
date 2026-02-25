@@ -1,0 +1,568 @@
+[Speaker 0]: 大家好，
+[Speaker 0]: 欢迎回到视野环球财经，
+[Speaker 0]: 我是 re。
+[Speaker 0]:  o 现在是美东时间二六年二月二十四号周二晚上的七点五十五分。
+[Speaker 0]: 今天的美股四大指数啊是低开高走，
+[Speaker 0]: 主要是受到 SRR pek 公司发布会的提振。
+[Speaker 0]: 啊，
+[Speaker 0]: 公司呢是宣布了与众多软件公司的合作，
+[Speaker 0]: 缓解了人们对这些公司被人工智能颠覆的担忧。
+[Speaker 0]: 那么今天标普的十一个板块也是大多数走强啊，
+[Speaker 0]: 只有医疗和能源是小幅收跌，
+[Speaker 0]: 其中非必需品和科技板块领涨。
+[Speaker 0]: 那么科技板块呢是受到了 AMD 大幅上涨的提振啊，
+[Speaker 0]: 今天整个都走的不错，
+[Speaker 0]: 稍后呢会讲到 MD 和 meta 的合作，
+[Speaker 0]: 以及对英伟达的影响。
+[Speaker 0]: 好，
+[Speaker 0]: 我们首先还是来讲一下关于这个 answeor pick 呃，
+[Speaker 0]: 今天成了整个的软件股的救火队长啊。
+[Speaker 0]: 软件股呢在今天在呃 IGV 这边呢是直接开盘呢，
+[Speaker 0]: 就出现了一个比较大的拉升，
+[Speaker 0]: 嗯，
+[Speaker 0]: 最终呢还是收涨了百分之一点九幺啊，
+[Speaker 0]: 也是走的不错。
+[Speaker 0]: 主要呢是今天啊公司公布了十种新的方式，
+[Speaker 0]: 帮助企业客户将其技术应用于关键的工作领域。
+[Speaker 0]: 那么这些方式呢可以帮助完成像投资银行的交易审查、
+[Speaker 0]: 财富管理的投资组合分析以及人力资源相关的任务。
+[Speaker 0]: 其他呢还包括面向私募股权工程和设计的插件啊，
+[Speaker 0]: 所以呢给的这个工具呃这种运用的方式非常的多。
+[Speaker 0]: 对那么在今天的这个发布会之后啊，
+[Speaker 0]: 市场把它和呃软件公司的这种合作，
+[Speaker 0]: 那么视为一个合作伙伴关系，
+[Speaker 0]: 而不是替代关系。
+[Speaker 0]: 市场之前的叙事不是说整个的像 cloud 这边出现了很多的工具，
+[Speaker 0]: 会颠覆软件嘛。
+[Speaker 0]: 呃，
+[Speaker 0]: 那么今天的这个发布会呢是澄清了一些呃这个影响啊，
+[Speaker 0]: 呃，
+[Speaker 0]: 相当于是邦拉整个的软件一把。
+[Speaker 0]: 呃，
+[Speaker 0]: 特别是德意志银行呢在今天还写了一份研究报告，
+[Speaker 0]: 呃，
+[Speaker 0]: 他们更加的确信的是模型提供商不太可能取代现有的软件企业，
+[Speaker 0]: 而是将自己及其代理定位为现有系统之上的编排层。
+[Speaker 0]: 也就是说呢它会作为一个辅助工具去进行运用。
+[Speaker 0]: 啊，
+[Speaker 0]: 所以呢今天我们看到很多的软件股，
+[Speaker 0]: 其实啊呃都是出现了反弹。
+[Speaker 0]: 但是呢今天反弹的最好的是甲骨文以及 CRM。
+[Speaker 0]: 这两家公司呢，
+[Speaker 0]: 今天实际上在今天的上涨之后，
+[Speaker 0]: 回吐的都不多啊，
+[Speaker 0]: 哥和整个 IGV 的走势差不多啊，
+[Speaker 0]: 是属于比较强势的。
+[Speaker 0]: 但是像 NTU 啊，
+[Speaker 0]: 今天呢本身是有一个很好的和它的一个合作的消息，
+[Speaker 0]: 冲高之后继续回落啊，
+[Speaker 0]: 最终还收跌。
+[Speaker 0]: 主要呢是因为这个地方确实破位了啊，
+[Speaker 0]: 技术面走了一个破位的走势。
+[Speaker 0]: 所以呢反弹之后，
+[Speaker 0]: 很多的这个目前人就不看好软件的朋友呢，
+[Speaker 0]: 选择了这个暂时的离场。
+[Speaker 0]: 呃，
+[Speaker 0]: 包括其他的，
+[Speaker 0]: 还有这个 PMW，
+[Speaker 0]: 今天呢也是冲高回落啊，
+[Speaker 0]: 还有这个 CRWD 也是一样的情况。
+[Speaker 0]: 呃，
+[Speaker 0]: 总体来讲，
+[Speaker 0]: 今天主要是甲骨文和 CRM 受到的提振比较多一点。
+[Speaker 0]: 还有就是私募这边的蓝猫头鹰啊，
+[Speaker 0]: 因为今天整个的软件呢似乎有这种呃这个呃从消息面上的一些澄清。
+[Speaker 0]: 所以今天蓝猫头鹰呢也是涨了百分之二点七八，
+[Speaker 0]: 而且成交量非常大。
+[Speaker 0]: 呃，
+[Speaker 0]: 那么今天的这个软件股啊开始反弹。
+[Speaker 0]: 呃，
+[Speaker 0]: 但是在今天的盘后，
+[Speaker 0]: 其实咱们看到部分的软件股又出现了小幅的下跌。
+[Speaker 0]: 所以呢软件股的这一波反弹啊，
+[Speaker 0]: 咱们呢还需要观察几天啊，
+[Speaker 0]: 看看到底有没有持续性，
+[Speaker 0]: 还是只是昙花一现。
+[Speaker 0]: 等反弹之后呢，
+[Speaker 0]: 有更多的人逃跑。
+[Speaker 0]: 因为我们说这一次啊，
+[Speaker 0]: 实际上流动性的问题需要靠信心来解决，
+[Speaker 0]: 卖的人越少，
+[Speaker 0]: 那么卖方的力量越薄弱。
+[Speaker 0]: 其实对于整个流动性的解决是有好处的。
+[Speaker 0]: 所以呢我们来后面观察一下啊，
+[Speaker 0]: 包括今天的微软，
+[Speaker 0]: 实际上呢也是呃没有大幅放量啊，
+[Speaker 0]: 但是和平均成交量相比呢是有一点点上涨啊。
+[Speaker 0]: 但今天的涨幅不大啊，
+[Speaker 0]: 只涨了百分之一点一八，
+[Speaker 0]: 也主要是盘中冲高的这个高点，
+[Speaker 0]: 到最后的收盘呢也没有突破啊，
+[Speaker 0]: 还是在这个位置上好。
+[Speaker 0]: 所以呢微软这边的加仓呢，
+[Speaker 0]: 我还要等一等啊，
+[Speaker 0]: 我暂时没有那么着急。
+[Speaker 0]: 因为刚才说过这个反弹持续性如何，
+[Speaker 0]: 后面还需要继续观察。
+[Speaker 0]: 好，
+[Speaker 0]: 接下来的时间呢我想讲一个财报啊，
+[Speaker 0]: 就是 HD 的财报啊。
+[Speaker 0]: 讲完之后呢，
+[Speaker 0]: 还会讲讲 MD 和 meta 的合作到底是一个什么情况啊，
+[Speaker 0]: 对于股价的影响，
+[Speaker 0]: 还有就就像 meta a 身啊，
+[Speaker 0]: 呃呃，
+[Speaker 0]: 还有这个 MD，
+[Speaker 0]: 他们现在股价所处的位置，
+[Speaker 0]: 以及像这个英伟达这边。
+[Speaker 0]: 他今天啊其实是哆嗦了一下啊，
+[Speaker 0]: 但是没哆嗦太久，
+[Speaker 0]: 也就持续了十分钟，
+[Speaker 0]: 股价就被拉上去，
+[Speaker 0]: 明天先发财报啊，
+[Speaker 0]: 咱们也看一下英伟达市场的一些押注的情况。
+[Speaker 0]: 好，
+[Speaker 0]: 那咱们呢首先来看一下 HG 的财报，
+[Speaker 0]: 呃，
+[Speaker 0]:  HG 的财报呢还是把数据给大家先列一下。
+[Speaker 1]: 这 HD 呢，
+[Speaker 0]: 是每股收益是二点七二，
+[Speaker 0]: 高于市场普遍预期的二点五三。
+[Speaker 0]: 那么这个的是十六个季度以来啊，
+[Speaker 0]: 就是 HD。
+[Speaker 0]: 十六个季度以来最大的超预期表现啊就是超出的最多的一次营收呢是超出预期约三十个基点。
+[Speaker 0]: 铜店销售额增长百分之零点四，
+[Speaker 0]: 高于市场普遍预期的负零点四。
+[Speaker 0]: 啊，
+[Speaker 0]: 这一点是非常出人意料的。
+[Speaker 0]: 毛利率呢是超出预期四十个基点这一块也比市场预期的要好得多。
+[Speaker 0]: 从前瞻上看呢，
+[Speaker 0]: 但是这次变化不大，
+[Speaker 0]: 全年的业绩指引和在十二月九号分析师日给出的预期是完全相同的啊，
+[Speaker 0]: 就是基本上呢是没有什么什么呃，
+[Speaker 0]: 没有什么变化。
+[Speaker 0]: 当时有一个分析师日给出的这个值呢，
+[Speaker 0]: 到今天还是重申了一遍，
+[Speaker 0]: 就是每股收益增长百分之零到百分之四，
+[Speaker 0]: 同电销售增长百分之零到百分之二。
+[Speaker 0]: 唯一的变化呢是股息提高了百分之一点三啊，
+[Speaker 0]: 这是 HD 的财报细节。
+[Speaker 0]: 好，
+[Speaker 0]: 我们看一下它的前瞻估值。
+[Speaker 0]: 呃，
+[Speaker 0]: 截止到今天为止呢，
+[Speaker 0]: 我们目前在二六年一月的这个财年就截止了啊，
+[Speaker 0]: 所以现在的数据已经是进入下个财年，
+[Speaker 0]: 二七年一月是二五九到四三三，
+[Speaker 0]: 中位是三四六，
+[Speaker 0]: 价格呢在中位数上偏高一点点。
+[Speaker 0]: 那么从综速上呢，
+[Speaker 0]: 现在呢 EPS 我这边预计给的是一个最大值啊，
+[Speaker 0]: 它前瞻上的最最大值是百分之四。
+[Speaker 0]: 后面这个需要一些调整，
+[Speaker 0]: 调整完毕之后再给大家做一些更新。
+[Speaker 0]: 这呃那么从技术面上看呢，
+[Speaker 0]: 现在的价格往上走，
+[Speaker 0]: 遇到的最近的一个强压力是在三百八十九。
+[Speaker 0]: 过了之后呢，
+[Speaker 0]: 会去三九七到四零八啊。
+[Speaker 0]: 然后上方呢在上方就有只有一个压力，
+[Speaker 0]: 就是四幺六到四二四，
+[Speaker 0]: 那就是全高了。
+[Speaker 0]: 那么向下呢比较强的支撑是在三四四到三六六，
+[Speaker 0]: 这些值呢都更新过，
+[Speaker 0]: 再往下是三二八到三三六啊，
+[Speaker 0]: 所以呢下方的强支撑这些位置，
+[Speaker 0]: 你结合着前梁估值来进行考虑。
+[Speaker 0]: 呃，
+[Speaker 0]: 如果你特别看好它未来业绩的大幅复苏增长的话，
+[Speaker 0]: 你可以考虑去拿。
+[Speaker 0]: 但是呃现在的情况从今年的前瞻看呢，
+[Speaker 0]: 确实还要这一年还是比较呃就是增速是比较慢的啊，
+[Speaker 0]: 就是零到四呃稍有纰漏呢就可能会掉到四以下。
+[Speaker 0]: 总体来讲呢 HD 是比较稳健啊，
+[Speaker 0]: 我们只能说它稳健。
+[Speaker 0]: 但是呢大幅增长的业绩现在没有看到管理层没有给到，
+[Speaker 0]: 所以呢是一只比较暂时低息稳健，
+[Speaker 0]: 慢慢去拿等业绩回升的股票。
+[Speaker 0]: 好，
+[Speaker 0]: 这个是 HD。
+[Speaker 0]: 接下来呢我们看一下 MD 和 meta 的合作啊。
+[Speaker 0]: 呃，
+[Speaker 0]: 首先我们看一下这个合作细节。
+[Speaker 0]:  meta 呢是与 MD 签署了一份重磅协议，
+[Speaker 0]: 将斥资数千千亿元元购买工工智能设备，
+[Speaker 0]: 并获得 AMD 百分之十的股份。
+[Speaker 0]: 对那么 matt 呢是披露了一项多年协议，
+[Speaker 0]: 宣布将购买高达六千瓦的 MB 的 GPU 来为其下一代的 AI 数据中心提供动力。
+[Speaker 0]: 那么将在二零二六年，
+[Speaker 0]: 也就是今年的下半年开始部署这些 MD 芯片，
+[Speaker 0]: 第一阶段将支持一级瓦的部署。
+[Speaker 0]: 啊，
+[Speaker 0]: 那么后面随着年限的增长，
+[Speaker 0]: 逐渐的把剩下的五级瓦全部都部署完毕啊，
+[Speaker 0]: 使用它的 GPU。
+[Speaker 0]: 呃，
+[Speaker 0]: 那么这个里边比较关键的一项内容是嗯还披露了 meta 会获得一份基于业绩的认股权证，
+[Speaker 0]: 最多可以认购一点六亿股的 MD 的股票。
+[Speaker 0]: 那么这个认股权证呢，
+[Speaker 0]: 将根据与芯片出货量相关的特定的里程碑进行归属。
+[Speaker 0]: 首批认购权证将在 MD 芯片出货量达到一级瓦的时候，
+[Speaker 0]: 拿到后续呢将随着 meta 的采购规模扩大到六级瓦的时候而完成所有的归属。
+[Speaker 0]: 现在呢 meta 已经是 AMD 的第一大客户啊，
+[Speaker 0]: 第二大客户第一大是这个 open AI 啊。
+[Speaker 0]: 因为十月份的时候 open AI 和 MD 签署过一项协议。
+[Speaker 0]: 呃，
+[Speaker 0]: 和这个非常的类似啊，
+[Speaker 0]: 非常非常的类似，
+[Speaker 0]: 也是呃类似的这种里程碑式的协议，
+[Speaker 0]: 然后购买芯片，
+[Speaker 0]: 然后部分的股权的一个认证。
+[Speaker 0]: 好，
+[Speaker 0]: 我说一下对这件事情的看法。
+[Speaker 0]: 目前呢呃 meta 购买 MD 这这个呃 CPU 啊、
+[Speaker 0]:  GPU 啊，
+[Speaker 0]: 然后去获得股份。
+[Speaker 0]: 其实整个的这个方式，
+[Speaker 0]: 它还是属于供应商融资循环的一种。
+[Speaker 0]: 啊，
+[Speaker 0]: 怎么去理解呢？
+[Speaker 0]: 呃，
+[Speaker 0]: 您你想啊 meta 呢它是相当于是花钱的一方，
+[Speaker 0]: 对吧？
+[Speaker 0]: 它花完钱之后，
+[Speaker 0]: 然后呢获得百分之十的股份。
+[Speaker 0]: 那么这个股份现在按照总市值大概三千四百八十六亿，
+[Speaker 0]: 我们算个整三千五百亿来算，
+[Speaker 0]: 相当于是价值三百五十亿。
+[Speaker 0]: 如果按照 MD 提供的里程碑啊，
+[Speaker 0]: 就是几年后它的股价会涨到六百块钱啊，
+[Speaker 0]: 这是之前我们讲过 MD 有一个里程碑的计划啊，
+[Speaker 0]: 会股价到六百。
+[Speaker 0]: 那非常多年之后了啊，
+[Speaker 0]: 呃，
+[Speaker 0]: 那么这百分之十的股份呢就会价值相当于七百亿，
+[Speaker 0]: 呃，
+[Speaker 0]: 那就，
+[Speaker 0]: 相当于啊呃这个呃就不是七百亿啊，
+[Speaker 0]: 呃三倍啊，
+[Speaker 0]: 那相当于呢是差不多呃是将近一千亿。
+[Speaker 0]: 那么相当于这是打了一个大大的折扣，
+[Speaker 0]: 相当于 meta 呢是用时间换了这个折扣，
+[Speaker 0]: 相当于你就变相的是没有花这个钱，
+[Speaker 0]: 对吧？
+[Speaker 0]: 如果你打个比方，
+[Speaker 0]: 你花了一千亿，
+[Speaker 0]: 最后又用很少的资金获得了一千亿市值的股票。
+[Speaker 0]: 那么这个对于 meta 来讲非常的划算啊，
+[Speaker 0]: 现在我先给钱，
+[Speaker 0]: 然后呢，
+[Speaker 0]: 你给我一部分股份啊，
+[Speaker 0]: 充实我的这个资产负债表啊，
+[Speaker 0]: 你认为你属于股权吧，
+[Speaker 0]: 我小于股权投资的一部分也可以纳入到这个资产负债表里面去，
+[Speaker 0]: 所以他也没吃什么亏。
+[Speaker 0]: 那么对于 MD 来讲，
+[Speaker 0]: 大幅采购它的产品增加他的营收，
+[Speaker 0]: 对他绝对是一个利好。
+[Speaker 0]: 啊，
+[Speaker 0]: 所以从远期来看，
+[Speaker 0]: 我认为这是一个双赢的结果。
+[Speaker 0]: 前提当然有个前提啊，
+[Speaker 0]: 就是 but 就是就是这个实现过程中不能出现中断。
+[Speaker 0]: 其实逻辑和 open AI 是一样的，
+[Speaker 0]:  open AI 承诺的要采购的这个价值，
+[Speaker 0]: 你要真正的付钱才行，
+[Speaker 0]: 你要去采购的到才行。
+[Speaker 0]: 好吧，
+[Speaker 0]: 如果你没有办法支付其中部分的成本，
+[Speaker 0]: 没有那么多现金。
+[Speaker 0]: 最后那你采购不到，
+[Speaker 0]: 或者由于整个的 AI 环节哪一环出了问题，
+[Speaker 0]: 市场整个的趋势发生变化，
+[Speaker 0]: 这个采购无法进行下去了，
+[Speaker 0]: 那就可能就就会产生这种连锁反应啊，
+[Speaker 0]: 就是火烧的这个连营啊，
+[Speaker 0]: 差不多这个铁架船对吧？
+[Speaker 0]: 铁船呢那个中木船的用铁链一连，
+[Speaker 0]: 然后呢就直接一烧一个，
+[Speaker 0]: 漏了一个，
+[Speaker 0]: 可能都得这个这个殃及池鱼。
+[Speaker 0]: 所以呢前提啊前提是能实现啊，
+[Speaker 0]: 如果是这个都能实现，
+[Speaker 0]: 绝对是一个很好的双赢结果。
+[Speaker 0]: 好，
+[Speaker 0]: 那么 MD 的股价怎么看呢？
+[Speaker 0]: 呃，
+[Speaker 0]: 我这里呢已经在今天更新了 MD 的价格的前瞻。
+[Speaker 0]: 二六年的前瞻价值是一九七到二六三，
+[Speaker 0]: 中位是二三零。
+[Speaker 0]: 现在的市价二幺三高于前瞻的低位，
+[Speaker 0]: 低于中位啊，
+[Speaker 0]: 属于合理水平啊，
+[Speaker 0]: 并没有严重高估。
+[Speaker 0]: 因为二五年已经走完了，
+[Speaker 0]: 现在看的是二六年，
+[Speaker 0]: 那么二七年呢会大幅的提升，
+[Speaker 0]: 二九八到三九七中位是三四七。
+[Speaker 0]: 所以它的价格现在在所处的这个位置啊并没有高估。
+[Speaker 0]: 我们之前也讲过，
+[Speaker 0]: 其实一百九以下 MDD 呢就算低估了，
+[Speaker 0]: 等同于英伟达，
+[Speaker 0]: 在一百八十几块钱啊，
+[Speaker 0]: 都属于低估。
+[Speaker 0]: 但是如果之前像涨到什么两百五六，
+[Speaker 0]: 那肯定就跑的太快了。
+[Speaker 0]: 好，
+[Speaker 0]: 但今天呢有了这个新的利好，
+[Speaker 0]: 相当于额外的增加了一笔营收，
+[Speaker 0]:  MD 的情况呢就变得会更加的积极，
+[Speaker 0]: 更加的乐观。
+[Speaker 0]: 今天很明显的是一个极大的放量。
+[Speaker 0]: 那么这个放量呢，
+[Speaker 0]: 我们看一下技术面，
+[Speaker 0]: 今天更新完了之后呢，
+[Speaker 0]: 是二零二到二二二啊，
+[Speaker 0]: 二零二到二二二这个地方啊，
+[Speaker 0]: 是目前的这个压力所在的位置。
+[Speaker 0]: 之前写的是二零七，
+[Speaker 0]: 大家还记得吗？
+[Speaker 0]: 跌破二零七之后陷入了一个震荡。
+[Speaker 0]: 所以目前第一步要先看它能够突破两百二十二。
+[Speaker 0]: 那这个价格呢就能站得稳。
+[Speaker 0]: 如果回不到两百二十二上方往下还是一个震荡啊，
+[Speaker 0]: 它还是一个这种来回的这个区间震荡，
+[Speaker 0]: 打摆子横在这里等更多的利好刺激啊。
+[Speaker 0]: 如果过了两百二十二之后呢，
+[Speaker 0]: 下一步的看点就比较多了。
+[Speaker 0]: 那往上呢只有一个中等的压力，
+[Speaker 0]: 那这个压力呢就相对现在的两百二十二，
+[Speaker 0]: 这一线来讲叫压力小很多。
+[Speaker 0]: 过去之后直接就上看前高了。
+[Speaker 0]: 因为它的前瞻估值水平，
+[Speaker 0]: 按照自然力来讲，
+[Speaker 0]: 如果越往后推，
+[Speaker 0]: 它就会越去走二七年的前瞻，
+[Speaker 0]: 那它这个价格就变得非常的低啊，
+[Speaker 0]: 非常的低估啊。
+[Speaker 0]: 所以 MD 这边呢，
+[Speaker 0]: 大家如果在二零前期往下的震荡，
+[Speaker 0]: 这个里边你有低息的，
+[Speaker 0]: 或者你压根也没走的，
+[Speaker 0]: 一直拿着在两百零二到两百二十二这一线成本的，
+[Speaker 0]: 你就慢慢去拿一下啊。
+[Speaker 0]: 因为现在都是一些利好释放出来啊，
+[Speaker 0]: 暂时呢他们作为卖铲子的呃这个这个行业里边比较稳健的这都别的怎么样啊，
+[Speaker 0]: 他们像什么 MD 啊，
+[Speaker 0]: 像什么呃英伟达呀，
+[Speaker 0]: 像什么台积电的这都属于卖铲子啊，
+[Speaker 0]: 卖卖这个这个这个产产业链上是他们都需要的一环，
+[Speaker 0]: 而且呢都是有一些护城河的啊。
+[Speaker 0]: 因为今天大家可能看到有的公司呃做空这个闪迪 SDNK，
+[Speaker 0]: 对吧？
+[Speaker 0]: 目这个做空的理由就是他们卖的是普通商品啊，
+[Speaker 0]: 没有护城河啊，
+[Speaker 0]: 所以呢这是变成了一个做空的理由。
+[Speaker 0]: 但你像 MD 英伟达和好的对的，
+[Speaker 0]: 台积电它是有护城河的啊，
+[Speaker 0]: 所以这个行业即便是要最后要出现崩溃，
+[Speaker 0]: 或者要出现大幅回撤或者有什么问题，
+[Speaker 0]: 那肯定也是外围的先掉啊，
+[Speaker 0]: 这个就相相当于什么相当于投资房地产。
+[Speaker 0]: 房地产呢，
+[Speaker 0]: 你可能房价上行的时候，
+[Speaker 0]: 你不管买哪里，
+[Speaker 0]: 你是买这个市中心核心地段，
+[Speaker 0]: 最好的地段，
+[Speaker 0]: 它涨，
+[Speaker 0]: 你买到郊县去郊区周边，
+[Speaker 0]: 对吧？
+[Speaker 0]: 你买到五六环去，
+[Speaker 0]: 它也涨，
+[Speaker 0]: 那都看不出来。
+[Speaker 0]: 但是呢一旦出现问问题的时候，
+[Speaker 0]: 谁跌的最快呀？
+[Speaker 0]: 外围啊非核心地段跌的最快，
+[Speaker 0]: 跌的最慢的是核心地段，
+[Speaker 0]: 它是从外面往外头包回来的。
+[Speaker 0]: 其实这个产业链上 AI 这个也是一样啊，
+[Speaker 0]: 如果出现问题要回撤，
+[Speaker 0]: 外围的跌的最快，
+[Speaker 0]: 核心的跌的最慢。
+[Speaker 0]: 好，
+[Speaker 0]: 呃，
+[Speaker 0]: 这个呢是 MD 的情况。
+[Speaker 0]: 那么说到这儿呢，
+[Speaker 0]: 还是把麦卡跟一下呃，
+[Speaker 0]: 卖上的情况，
+[Speaker 0]: 我们之前给过前端估值二六年，
+[Speaker 0]: 前瞻是五幺三到幺零四，
+[Speaker 0]: 四中位是七七八二七年是五八二到幺，
+[Speaker 0]: 幺八六中位是八八四。
+[Speaker 0]: 呃，
+[Speaker 0]: 那么增速呢还可以两位数啊，
+[Speaker 0]: 双位数的一个高双位数的一个增长。
+[Speaker 0]: 它的价格看法呢目前仍旧没变。
+[Speaker 0]: 下方的这个就是大概从五百到七百这一线啊，
+[Speaker 0]: 五百到七百这一线全部都是长线布局的位置。
+[Speaker 0]: 现在的价格波动呢，
+[Speaker 0]: 今天小涨一点点，
+[Speaker 0]: 呃，
+[Speaker 0]: 其实成交量还行吧，
+[Speaker 0]: 一般般也不是特别大，
+[Speaker 0]: 属于横盘，
+[Speaker 0]: 这个走势呢就没什么看头。
+[Speaker 0]: 呃，
+[Speaker 0]: 但从长线来讲呢，
+[Speaker 0]: 我的态度和观点不变啊，
+[Speaker 0]: 它五百到七百这个区间。
+[Speaker 0]: 如果拿到呃这个成本的朋友，
+[Speaker 0]: 拿到筹码的朋友呢就坐稳扶号啊，
+[Speaker 0]: 坐稳扶号啊，
+[Speaker 0]: 这个后面呢问题不大的。
+[Speaker 0]: 好，
+[Speaker 0]: 然后呢接下来说一下英伟达，
+[Speaker 0]: 因为马上要财报了。
+[Speaker 0]: 呃，
+[Speaker 0]: 今天的英伟达啊是受到了 meta 和 MD 这个消息的影响。
+[Speaker 0]: 大家可以看到啊，
+[Speaker 0]: 这个一口气一开盘砰就掉下来，
+[Speaker 0]: 跌了差不多百分之二。
+[Speaker 0]: 呃，
+[Speaker 0]: 但是呢这个哆嗦呢也仅仅是哆嗦了一下啊，
+[Speaker 0]: 还没看清对吧？
+[Speaker 0]: 是谁在吓他，
+[Speaker 0]: 对吧？
+[Speaker 0]: 一下就给买上去了，
+[Speaker 0]: 也就十分钟。
+[Speaker 0]: 嗯，
+[Speaker 0]: 所以呢这个是个什么问题呢？
+[Speaker 0]: 大家会说那 meta 买了 MD 的就不要英伟达的了吗？
+[Speaker 0]: 可能大家忘记了，
+[Speaker 0]: 其实关于 meta 和英伟达的合作，
+[Speaker 0]: 上个星期 meta 啊已经说过了，
+[Speaker 0]: 他说他会购买数百万块数百万块的英伟达的 GPU。
+[Speaker 0]: 啊，
+[Speaker 0]: 所以呢这个事儿大家可能忘记了啊，
+[Speaker 0]: 其实这里面也是要买，
+[Speaker 0]: 也就意味着他既要买英伟达的，
+[Speaker 0]: 也要买 MD 的。
+[Speaker 0]: 无非就是可能产能不够，
+[Speaker 0]: 或者价格高高低和性价比的问题，
+[Speaker 0]: 对吧？
+[Speaker 0]: 这个高低呃搭着买呗，
+[Speaker 0]: 搭着买的话，
+[Speaker 0]: 它是把这个它的算力推上去嘛。
+[Speaker 0]: 所以英伟达本身不会因为 mata 买了 MD 就不买英伟达啊，
+[Speaker 0]: 这个说不过去啊，
+[Speaker 0]: 所以之前已经讲过了要购买的问题。
+[Speaker 0]: 所以英伟达呢这个是可能有些朋友友想通了，
+[Speaker 0]: 想通了又买回来，
+[Speaker 0]: 再加上核心问题是明天要财报，
+[Speaker 0]: 现在的价格高不高呢，
+[Speaker 0]: 本身也不是特别的高啊，
+[Speaker 0]: 所以我们看二七年啊，
+[Speaker 0]: 不要看这个二六年啊，
+[Speaker 0]: 因为这个二六年已经马上明天财报披露之后就结束了。
+[Speaker 0]: 看二七年实际上在一百九十块钱以下的英伟达，
+[Speaker 0]: 价格不高的啊，
+[Speaker 0]: 价格不高的。
+[Speaker 0]: 但是它的价格比较恶心的是走了。
+[Speaker 0]: 从去年到现在，
+[Speaker 0]: 七月份到现在走了半年的一个横盘是吧？
+[Speaker 0]: 大家会觉得特别恶心，
+[Speaker 0]: 那也没事啊啊，
+[Speaker 0]: 这种情况你有快有慢嘛。
+[Speaker 0]: 谷歌以前的时候不也横盘横了很久，
+[Speaker 0]: 后来起来的时候也调不回来，
+[Speaker 0]: 对吧？
+[Speaker 0]: 台积电也横过很久，
+[Speaker 0]: 对吧？
+[Speaker 0]: 也是一样的，
+[Speaker 0]: 包括微软它之前也横了很久，
+[Speaker 0]: 后来跌上呃涨上去，
+[Speaker 0]: 现在又跌回来，
+[Speaker 0]: 趴在那儿横都有这个过程啊，
+[Speaker 0]: 所以呢这个耐心一些。
+[Speaker 0]: 呃，
+[Speaker 0]: 那么英伟达呢，
+[Speaker 0]: 我说一下他明天的财报的这个期权市场的这个看法嗯。
+[Speaker 0]: 那么截止到本周五最近的期权之后的一个呃结算日，
+[Speaker 0]: 英伟达市场的押注是在一百九十二点五上下十二块八左右波动啊，
+[Speaker 0]: 这个波动呢是不超过百分之七上下百分之七。
+[Speaker 0]: 那么我们去简单计算一下，
+[Speaker 0]: 那差不多呢就是在上限是在两百零五啊，
+[Speaker 0]: 两百零五是什么地方呢？
+[Speaker 0]: 就是上方有一个中等压力高之之前，
+[Speaker 0]: 两百一十二的前高之前的一个中等压力这个区间，
+[Speaker 0]: 这是它的上限。
+[Speaker 0]: 那么下限在哪里呢？
+[Speaker 0]: 下限差不多是在一百七十九块钱，
+[Speaker 0]: 也就是下方这个一七五到一八五，
+[Speaker 0]: 还没有破位，
+[Speaker 0]: 也没有走落的地方。
+[Speaker 0]: 所以只要英伟达自己不出利空的前瞻。
+[Speaker 0]: 现在啊目前市场的预期，
+[Speaker 0]: 它的业绩在本季度是比较稳定的，
+[Speaker 0]: 而且会有上调啊，
+[Speaker 0]: 就是会有稳定的上调。
+[Speaker 0]: 再加上它的价格呢，
+[Speaker 0]: 现在也是合理的，
+[Speaker 0]: 并不高，
+[Speaker 0]: 所以我们合理推断它不应该出现大幅下跌破位的情况。
+[Speaker 0]: 因为证券市场也并没有做好这个大幅下跌去保护的准备，
+[Speaker 0]: 压的非常的窄。
+[Speaker 0]: 所以如果业绩是基本符合预期的情况啊，
+[Speaker 0]: 和市场差不多的话，
+[Speaker 0]: 它应该是一个窄幅波动。
+[Speaker 0]: 那么它有惊喜，
+[Speaker 0]: 也没有惊吓。
+[Speaker 0]: 那么它的看点是如果大幅上调超出了市场现在的已经上调过的预期，
+[Speaker 0]: 它就有可能打穿上面去打到前高。
+[Speaker 0]: 因为前高是两百一十二上限，
+[Speaker 0]: 现在压在了两百零五块。
+[Speaker 0]: 所以呢我们看看明天它的前瞻能不能够重振雄风啊，
+[Speaker 0]: 像它之前一样，
+[Speaker 0]: 对吧？
+[Speaker 0]: 每个季度都大幅上调约，
+[Speaker 0]: 这个直接超出华尔街的这个价格，
+[Speaker 0]: 预计的这个上限百分之三十四十。
+[Speaker 0]: 但是这个相对于难一点啊，
+[Speaker 0]: 因为基数太大了，
+[Speaker 0]: 现在不像以前基数小的时候，
+[Speaker 0]: 所以呢呃我们就呃这个对它呃这个充满期待，
+[Speaker 0]: 但是呢降低一些预期。
+[Speaker 0]: 呃，
+[Speaker 0]: 如果只是一个窄幅波动呢，
+[Speaker 0]: 大家也别着急啊。
+[Speaker 0]: 这个毕竟现在的价格走势其实总体不错的。
+[Speaker 0]: 已近是连续的这个的小增量的这个阳线再往上走啊，
+[Speaker 0]: 高位置是越来越高，
+[Speaker 0]: 已经是收到了，
+[Speaker 0]: 今天收到了。
+[Speaker 0]: 你看这个价格算是从十一月到现在已经是几个月了。
+[Speaker 0]: 十一呃十二一二呃四个月差不多的一个这个三个多月吧，
+[Speaker 0]: 一个平台的上演，
+[Speaker 0]: 对吧？
+[Speaker 0]: 今天的收盘的这个价格已经算收的比较高了，
+[Speaker 0]: 它是做好了冲锋准备的啊，
+[Speaker 0]: 就看明天财报里边的信息给不给力啊。
+[Speaker 0]: 好，
+[Speaker 0]: 呃，
+[Speaker 0]: 当然财报之后我们还是要提醒一下财报之后的这个市场涨跌啊，
+[Speaker 0]: 它并不是一个确定的事情啊，
+[Speaker 0]: 不是说财报好就一定大涨，
+[Speaker 0]: 财报坏就一定大跌。
+[Speaker 0]: 呃，
+[Speaker 0]: 所以呢这里边根据历史统计呢是一个五五开啊，
+[Speaker 0]: 所以呢我的一直的看法是大家最好不要赌财报，
+[Speaker 0]: 因为赌财报其实长期下来的胜率不高。
+[Speaker 0]: 好，
+[Speaker 0]: 这个呢就是咱们今天节目的全部内容啊。
+[Speaker 0]: 如果你觉得我的节目对你有所帮助，
+[Speaker 0]: 还是希望大家能够多多帮忙点赞、
+[Speaker 0]: 评论、
+[Speaker 0]: 转发，
+[Speaker 0]: 谢谢大家。
+[Speaker 0]: 那我们今天到这儿啊，
+[Speaker 0]: 咱们就明天英伟达财报之后不见不散。
