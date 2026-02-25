@@ -1,0 +1,260 @@
+[Speaker 1]: 上期视频我分享了关于 open cloud 的一些高级用法，
+[Speaker 1]: 并且答应大家当视频点赞破千之后，
+[Speaker 1]: 本期视频就会为大家分享我这段时间不断迭代的专门提升 open 记忆能力的 clouluns DB 记忆插件。
+[Speaker 1]: 在昨天的时候，
+[Speaker 1]: 我发现视频的点赞已经破千了。
+[Speaker 1]: 所以今天这期视频就专门为大家讲解如何使用。
+[Speaker 1]: 我专门为 open cloud 发的这一款 lengs DB 插件。
+[Speaker 1]: 因我们平时在使用 open en oud 的时候，
+[Speaker 1]: 它经常会忘统计我们之前让他记住的一些知识或者经验或者一些方法论。
+[Speaker 1]: 比如说我们之前让他对服务器做了一些配置，
+[Speaker 1]: 但是现在配置出现了问题。
+[Speaker 1]: 当我们告诉 open cloud 的时候，
+[Speaker 1]: 他根本不记得我们之前的对话信息，
+[Speaker 1]: 也不记得他做了哪些配置。
+[Speaker 1]: 所以很多 open cloud 用户就感觉 open en 非常笨笨，
+[Speaker 1]: 记不不住之前的一些重要事情。
+[Speaker 1]: 所我们需要为 ouopen en 增增强他的记能能力。
+[Speaker 1]: 当 ouopen en oud 具备了强大的记忆能力，
+[Speaker 1]: 他就能记住我们之前让他进行的一些操作，
+[Speaker 1]: 我们就不需要在对话中反复提及之前做了哪些修复。
+[Speaker 1]: 当 open 有了强大的记忆，
+[Speaker 1]: 他才能成为真正的长期助手。
+[Speaker 1]: 才能越用越聪明，
+[Speaker 1]: 越用越懂。
+[Speaker 1]: 我们。
+[Speaker 1]: 比如说在 clouopen cloud 中，
+[Speaker 1]: 我通过斜杠命令重新开了一个 session。
+[Speaker 1]: 在新的 session 中，
+[Speaker 1]: 我问他，
+[Speaker 1]: 关于调用 cloud code，
+[Speaker 1]: 你已经积累了哪些经验，
+[Speaker 1]: 还有方法论。
+[Speaker 1]: 然后 open cloud，
+[Speaker 1]: 它就能够从 lengs DB 中来检索之前他所存储的与调用 cloud code 相关的这一些经验，
+[Speaker 1]: 还有方法论，
+[Speaker 1]: 包括调用模式，
+[Speaker 1]: 还有调用的时候踩过的坑，
+[Speaker 1]: 这些都会存入到记忆中。
+[Speaker 1]: 还有通过踩坑所总结的这些架构方法论。
+[Speaker 1]: 在下面这里，
+[Speaker 1]: 他就会提到这一些基本上都是血类教训换来的。
+[Speaker 1]: 像这样的话，
+[Speaker 1]:  open cloud 就能将它在执行某项任训的时候，
+[Speaker 1]: 踩的这些坑，
+[Speaker 1]: 还有学到的经验以及方法论存入入 lls SBB 数据库种。
+[Speaker 1]: 像这样就能避免下次再踩同样的坑，
+[Speaker 1]: 这样才能做到 open，
+[Speaker 1]: 越用越聪明。
+[Speaker 1]: 讲到这里，
+[Speaker 1]: 大家应该会问，
+[Speaker 1]:  clouopen 它自带记忆系统呀，
+[Speaker 1]: 为什么非要再为它新增一个记忆系统呢？
+[Speaker 1]: 首先我们可以来对比一下 clouopen，
+[Speaker 1]: 它内置的记忆系统和我这边不断迭代开发的这个 cloulength DB 插件，
+[Speaker 1]: 它们的区别有哪些？
+[Speaker 1]: 首先，
+[Speaker 1]:  open 在前些时间的更新中已经内置了 clousecret，
+[Speaker 1]: 但它内置的这两种记忆模块还是有很大的局限性的。
+[Speaker 1]: 比如说它内置的 lengs，
+[Speaker 1]:  DB 在嵌入模型提供商，
+[Speaker 1]: 这里它仅支持 open AI，
+[Speaker 1]: 我们必须充值 open AI 的 API，
+[Speaker 1]: 才能来使用它的嵌入模型。
+[Speaker 1]: 而且它内置的 ls DB 只实现了一些基础的检索功能，
+[Speaker 1]: 也就是向量搜索。
+[Speaker 1]: 而我开发的这个 length DB 插件，
+[Speaker 1]: 它相比 open clwn 内置的这两种记忆模块就更加完善了。
+[Speaker 1]: 包括 BM 二五全文搜索，
+[Speaker 1]: 还有混合检索，
+[Speaker 1]: 还有评分管线。
+[Speaker 1]: 我这里设置的是六层管线，
+[Speaker 1]: 但 open clnow 内置的这两种记忆模块，
+[Speaker 1]: 只有一层平分管线，
+[Speaker 1]: 而且我还实现了 MMR 多样性去重，
+[Speaker 1]: 还有自适应检索、
+[Speaker 1]: 跳过噪声，
+[Speaker 1]: 而且具备更多功能，
+[Speaker 1]: 包括噪声拦截、
+[Speaker 1]: 保留时间说，
+[Speaker 1]: 还有 ID、
+[Speaker 1]: 前缀匹配等多种功能。
+[Speaker 1]: 我是将这个记忆模块做成了 open clnow 插件的形式，
+[Speaker 1]: 因为做成 open clour 插件，
+[Speaker 1]: 它具有非常多的优势，
+[Speaker 1]: 包括热拔插菱形机，
+[Speaker 1]: 只需要在 open 中修改一行配置，
+[Speaker 1]: 就可以来启用这个插件。
+[Speaker 1]: 而且和 open cloud 自带的记忆插件并不会冲突，
+[Speaker 1]: 还能实现独立版本独立升级。
+[Speaker 1]: 在升级 open 版本之后，
+[Speaker 1]: 也不会影响我们的插件使用，
+[Speaker 1]: 而且可以自由切换嵌入模型的提供商，
+[Speaker 1]: 包括 clouopen、
+[Speaker 1]:  AI、
+[Speaker 1]:  gina、
+[Speaker 1]:  AI，
+[Speaker 1]: 还有 germany，
+[Speaker 1]: 还可以调用欧拉玛中部署的本地模型。
+[Speaker 1]: 而且我还实现了多 scope 隔离，
+[Speaker 1]: 这样就可以实现记忆的隐私保护，
+[Speaker 1]: 也就是每个 agent 他们有自己独立的记忆。
+[Speaker 1]: 而且他们还可以有共享的知识，
+[Speaker 1]: 而且我还实现了七层混合检索。
+[Speaker 1]: 因为在这里用到了与 reg 相关的这些知识。
+[Speaker 1]: 考虑到很多粉丝可能在二零二四年的时候没有看过我发的与 reg 相关的这些视频。
+[Speaker 1]: 所以在这里就不再详细为大家讲解与 reg 相关的这一检检索程程了。
+[Speaker 1]: 本期视频所提及的这个铁律文件的内容，
+[Speaker 1]: 也上传到我们这个插件的仓库。
+[Speaker 1]: 这个铁律文件的解压密码会随机出现在视频中，
+[Speaker 1]: 而且持续五秒。
+[Speaker 1]: 本期视频的点赞量如果超超过一千的话，
+[Speaker 1]: 在下期视频中，
+[Speaker 1]: 我将为大家讲解，
+[Speaker 1]: 并且开源我开发的与 open 跨机跨 clouget away 通信相关的插件。
+[Speaker 1]: 下面我们可以回到 open，
+[Speaker 1]: 先测试一下这些记忆的效果。
+[Speaker 1]: 比如说我可以新开一个 clousession，
+[Speaker 1]: 然后我输入一个提示词，
+[Speaker 1]: 我们配置 open 的时候踩了哪些坑，
+[Speaker 1]: 这里它就很快检索到了之前踩坑的这些内容。
+[Speaker 1]: 按照现象还有原因，
+[Speaker 1]: 还有解决方案进行了整理。
+[Speaker 1]: 包括这里给出的这一些具体的踩坑的细节，
+[Speaker 1]: 可以看到他检索到非常多的踩坑的经验。
+[Speaker 1]: 然后我问他从哪个数据库里检索的，
+[Speaker 1]: 他说是从 open cloud 长期记忆库 ls DB 向量数据库里检索到的。
+[Speaker 1]: 而且他还提到了使用混合检索，
+[Speaker 1]: 包括向量加关键词，
+[Speaker 1]: 还有 rerank。
+[Speaker 1]: 然后我们还可以接着提问，
+[Speaker 1]: 混合检索有哪些优势，
+[Speaker 1]: 让他来分析一下。
+[Speaker 1]: 他采用的向量加关键词，
+[Speaker 1]: 还有 rerank 这个优势啊，
+[Speaker 1]: 他提到了语义召回更强，
+[Speaker 1]: 而且精准匹配也更稳，
+[Speaker 1]: 还能降低漏召回与误召回，
+[Speaker 1]: 而且更适合经验库，
+[Speaker 1]: 还有故障库，
+[Speaker 1]: 这种内容结构再加 rerank 后排序更贴近问题。
+[Speaker 1]: 在最后他提到这种混合检索的核心优势就是语义理解，
+[Speaker 1]: 还有精准匹配。
+[Speaker 1]: 对配置排除故障、
+[Speaker 1]: 踩坑复盘这种场景特别实用。
+[Speaker 1]: 而且有了这个记忆插件。
+[Speaker 1]:  open cloud 每次创建新会话的时候，
+[Speaker 1]: 他加载的上下文会更少。
+[Speaker 1]: 我们可以直接用 status 这条命令进行查看。
+[Speaker 1]: 可以看到在创建新绘画的时候，
+[Speaker 1]: 它加载的上下文只有十八 k 下面就为大家演示我们如何在我们的 open 中来安装我开发的这个记忆插件。
+[Speaker 1]: 想安装它的的话非简简首先我们先打开机机 cloua i 的官官网网站，
+[Speaker 1]: 然后点击右上角的这个登录注册，
+[Speaker 1]: 注册之后，
+[Speaker 1]: 这里就会出现这个 APIK。
+[Speaker 1]: 然后我们只需要复制这一段 APIK 将它保存好。
+[Speaker 1]: 然后我们只需要复制一下我这个 lens BB，
+[Speaker 1]: 它在 get up 的仓库链接，
+[Speaker 1]: 然后我们就可以回到 open cloud。
+[Speaker 1]: 在 open 中我们就可以输入完整的提示词。
+[Speaker 1]: 我输入的是这也是机纳 cloua i 的 APIK。
+[Speaker 1]: 然后在这里将刚才复制的 APIK 放在了这个位置。
+[Speaker 1]: 然后紧接着我输入的是请帮我为 open 安装这个记忆插件。
+[Speaker 1]: 在这里我们就输入刚才 clouget up 复制的这个仓库链接就可以。
+[Speaker 1]: 当发送之后，
+[Speaker 1]: 我们需要稍等一下，
+[Speaker 1]: 因为 open cloud 需要时间来为我们配置。
+[Speaker 1]: 在等了几分钟之后，
+[Speaker 1]: 我就问他怎么样了，
+[Speaker 1]: 然后他就很快回答他他说已经配置好了，
+[Speaker 1]: 而且 get away 也已经重新生效了。
+[Speaker 1]: 并且提到这个插件已经安装，
+[Speaker 1]: 并且加载。
+[Speaker 1]: 而且他把默认的记忆系统已经切换到了我们这一个插件。
+[Speaker 1]: 然后紧接着我就告诉他，
+[Speaker 1]: 请写入 lengs DB 进行测试，
+[Speaker 1]: 然后他就自己生成了一些数据，
+[Speaker 1]: 写入到 length DB，
+[Speaker 1]: 并且进行检索，
+[Speaker 1]: 而且检索成功。
+[Speaker 1]: 而且紧接着我还测试了让他来更新一下 length BB 插件。
+[Speaker 1]: 我输入的提示词就是更新 ls BB 插件，
+[Speaker 1]: 然后这里就跟上我们的仓库链接。
+[Speaker 1]: 然后过了几分钟我就问他怎么样了，
+[Speaker 1]: 然后他说已经更新完成并且生效。
+[Speaker 1]: 像这样的话，
+[Speaker 1]: 我们就只需要用自然语言描述，
+[Speaker 1]: 就能让 open 自自为我们完成成这插插的安装装与配置。
+[Speaker 1]: 当需要更新的时候，
+[Speaker 1]: 我只需要告诉他更新 cloulls BB 插件，
+[Speaker 1]: 在后面跟上，
+[Speaker 1]: 给他把仓库链接。
+[Speaker 1]: 这样的话它就会自动为我们完成这个插件的更新。
+[Speaker 1]: 当在 open cloud 中安装好这个插件之后，
+[Speaker 1]: 我们还需要做一些设置。
+[Speaker 1]: 在这里，
+[Speaker 1]: 我写了一些与 length DB 相关的这些铁律，
+[Speaker 1]: 然后直接用自然语言告诉 open clck，
+[Speaker 1]: 将下面面的这些铁律写入到这个记忆文件中。
+[Speaker 1]: 在这里它就提示已经写入到这个长期的记忆文件中了，
+[Speaker 1]: 也就是写入了 memory 这个 markdown 文件。
+[Speaker 1]: 像这样的话，
+[Speaker 1]: 在 open 中，
+[Speaker 1]: 我们通过 cloules DB 插插件再配合这个铁律，
+[Speaker 1]: 这样的话就能更大程度发挥出我们这个插件优优势。
+[Speaker 1]: 当插配置置之后，
+[Speaker 1]: 我们们使用 open cloud 时候，
+[Speaker 1]: 当遇到了一些踩坑相关的问题的时候，
+[Speaker 1]: 我们就可以设置一个斜杠命令。
+[Speaker 1]: 当输入这个斜杠命令的时候，
+[Speaker 1]:  open cloud 就可以将他踩坑的这些经验，
+[Speaker 1]: 还有学到的这些技能都存储到 length DB 中。
+[Speaker 1]: 哪怕我们不设置这种斜杠命令，
+[Speaker 1]: 在刚才设置的这些铁律中，
+[Speaker 1]: 也包含当他遇到踩坑的时候，
+[Speaker 1]: 就要将学到的经验写入到 length DB 中的这一些铁律。
+[Speaker 1]: 因为采用斜杠命令，
+[Speaker 1]: 就能保证 open 百分百能将他踩坑，
+[Speaker 1]: 学到的经验和知识都写入到数据库中。
+[Speaker 1]: 下面我们还可以测试一下，
+[Speaker 1]: 我们问他，
+[Speaker 1]: 你记住了哪些与 coding 相关的方法论。
+[Speaker 1]: 因为我们刚才在铁律中，
+[Speaker 1]: 不仅让他记住这一些踩坑的技术细节，
+[Speaker 1]: 还要让他记住真正的方法论。
+[Speaker 1]: 这样的话，
+[Speaker 1]: 有技术细节还有方法论相互配合，
+[Speaker 1]: 才能让 open 更加聪明。
+[Speaker 1]: 这里他检索到了与 cloucoding 相关的这些方法论，
+[Speaker 1]: 包括多 agent 的交叉审查，
+[Speaker 1]: 能发现单 agent 遗漏的 bug，
+[Speaker 1]: 还包含逻辑改动之后必须测试。
+[Speaker 1]: 下面还包含这一些架构与调度相关的方法论。
+[Speaker 1]: 这里还提到了认知纪律，
+[Speaker 1]: 包括调用任何工具失败或者报错后，
+[Speaker 1]: 就要搜索经验，
+[Speaker 1]: 然后再重试。
+[Speaker 1]: 下面这里就是与代码安全相关的这些方法论。
+[Speaker 1]: 像这些技术细节还有方法论，
+[Speaker 1]: 它都是从 length DB 中进行了检索，
+[Speaker 1]: 相见的话，
+[Speaker 1]: 我们就为 open clck。
+[Speaker 1]: 通过这一个插件实现了更加持久的记忆。
+[Speaker 1]: 好，
+[Speaker 1]: 本期视频我们演示的这个插件已经同步到了 giup up 仓库库。
+[Speaker 1]: 这里就是仓库链接。
+[Speaker 1]: 大家也可以直接进入我的 gitaup 主页，
+[Speaker 1]: 就能找到这个仓库。
+[Speaker 1]: 然后大家只需要按照视频中的方式进行安装，
+[Speaker 1]: 就可以。
+[Speaker 1]: 当安装好之后，
+[Speaker 1]: 就可以将这个铁律的内容也让 open 为你写入到铁律中。
+[Speaker 1]: 这个铁律的完整内容，
+[Speaker 1]: 我会打包压缩，
+[Speaker 1]: 也放在这个仓库中。
+[Speaker 1]: 铁律内容的解压密码刚才已经出现在了视频中。
+[Speaker 1]: 好，
+[Speaker 1]: 本期视频就做到这里，
+[Speaker 1]: 欢迎大家点赞、
+[Speaker 1]: 关注和转发，
+[Speaker 1]: 谢谢大家观看。
