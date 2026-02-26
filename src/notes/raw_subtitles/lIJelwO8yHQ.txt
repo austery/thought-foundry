@@ -1,0 +1,1800 @@
+[Speaker 0]:  the thing about covering AI over the past few years，
+[Speaker 0]:  is it we're typically talking about the future every new model impressive as it was seemed like proof of concept for the models。
+[Speaker 0]:  it would be coming soon。
+[Speaker 0]:  the models，
+[Speaker 0]:  it could actually do useful work on their own reliable。
+[Speaker 0]:  the models it would actually make jobs obsolete or new things possible。
+[Speaker 0]:  what would those models mean for labor markets for our kids，
+[Speaker 0]:  for our politics for our world？
+[Speaker 0]:  i think that period it would always talking about the future。
+[Speaker 0]:  i think，
+[Speaker 0]:  is over now，
+[Speaker 0]:  those models we were waiting for the pyfi standing models。
+[Speaker 0]:  it could program on their own and do so faster and better than most cotthe。
+[Speaker 0]:  momols ls could begin writing their own code improve themselves。
+[Speaker 0]:  those models are here now。
+[Speaker 0]:  they're here in cloud code from it propic。
+[Speaker 0]:  they're ar in codex from open AI。
+[Speaker 0]:  they y're king，
+[Speaker 0]:  the stocck market，
+[Speaker 0]:  yes，
+[Speaker 0]:  to be five hundred software industry index。
+[Speaker 0]:  they wwon by twenty percent by pping billions of dollars in value out。
+[Speaker 0]:  what i mean，
+[Speaker 0]:  i can tell in twenty five years this structural seell inpiten for is only like anything i've ever seen。
+[Speaker 1]:  so up for a companies rivel up and die the're going after all of ve asast。
+[Speaker 1]:  they're going after all software，
+[Speaker 1]:  they're going after all of labor old blite color work all at year job。
+[Speaker 1]:  specifically，
+[Speaker 0]:  we are at a new stage of that products and about the ways to coyoa the venture capitiler from put，
+[Speaker 0]:  it was actually pretty helpful。
+[Speaker 0]: 嗯，
+[Speaker 0]:  the AI applications of twenty twenty three and twenty twenty four，
+[Speaker 0]:  or talk。
+[Speaker 0]:  ks s some very，
+[Speaker 0]:  very opophisticated conversationonals，
+[Speaker 0]:  but their impact was limited the AI applications of twenty twenty six and twenty twenty seven will be dodoers。
+[Speaker 0]:  they are agents plurrel。
+[Speaker 0]:  they can work together，
+[Speaker 0]:  they can oversee each other。
+[Speaker 0]:  people are rning swarms of these agents on their behalf。
+[Speaker 0]: 嗯，
+[Speaker 0]:  whether that is making them at this stage more productive or just busier。
+[Speaker 0]:  i can't quite tell，
+[Speaker 0]:  but it is now possible to have a amounts to a team of incredibly fast，
+[Speaker 0]:  although to be honestsome what peculiar software engineers at your beacking call at all times。
+[Speaker 0]: 嗯，
+[Speaker 0]:  jack clark is coo found er a head ad polpolicat and propropic，
+[Speaker 0]:  the company，
+[Speaker 0]:  bebehind cloud and cloud code and for years，
+[Speaker 0]:  and our clark has been tracking the capabilities of different models in the weekly news that are import AI，
+[Speaker 0]:  which has been one of my key reads for falling developments in AI。
+[Speaker 0]:  so want to see how he is reading this moment，
+[Speaker 0]:  both how that technology is changing in his view，
+[Speaker 0]:  and our policy needs to or can changing response。
+[Speaker 0]:  as always，
+[Speaker 0]:  my email as a client show at at my times，
+[Speaker 2]:  docomm jack clark en to the shelf。
+[Speaker 1]:  thanks to having me on，
+[Speaker 1]:  i ever。
+[Speaker 0]:  so i think a lot of people are familiar with ai chapbots。
+[Speaker 0]:  but what is an AI agent？
+[Speaker 1]:  the best way to think of it is like a language model or a chat bot that can use tools and work for you over time。
+[Speaker 1]:  so when you talk to a chat bot，
+[Speaker 1]:  you're there in the conversation，
+[Speaker 1]:  you're going back and forth with it。
+[Speaker 1]:  and agent is something where you can give it some instruction。
+[Speaker 1]:  and it goes away in dustuff for you kind of like working with a with a colleague。
+[Speaker 1]:  so i got i got an example where a few years ago，
+[Speaker 1]:  i taught myself in basic programming，
+[Speaker 1]:  and i built AA species simulation in my spare time that had predators and prey and roadand almost like a two d strategy game。
+[Speaker 1]:  i recently asked IA christmas cod code to just implement this for me。
+[Speaker 1]:  and in about ten minutes，
+[Speaker 1]:  it went and wrote not only a basic simulation，
+[Speaker 1]:  but all of the different packages that it needed。
+[Speaker 1]:  and all of the visualization tools for it might might need be be probabty eimbatof of thing i had wraten。
+[Speaker 1]:  and what came back with something that would probably take a skilled programmer，
+[Speaker 1]:  several even days or maybe even days because it was quite complicated。
+[Speaker 1]:  and the system just did it in a few minutes um and it did that by not only being intelligent about how to solve a task，
+[Speaker 1]:  but also creating and running a range of sub systems that we're working for it。
+[Speaker 1]:  other agents that worked on its behalf。
+[Speaker 0]:  but what is it me like？
+[Speaker 0]:  what is a mumultii agent set？
+[Speaker 0]:  yeah，
+[Speaker 1]:  like in the case of cloud code，
+[Speaker 1]:  for me，
+[Speaker 1]:  me hahamumultiple different ababs running multiple different agents。
+[Speaker 1]:  but i've seen colleagues who write what you might think of as a version of claude that runs of a lauds。
+[Speaker 1]:  and so we're like i've got my five agents and they 're being minded over by this other agent，
+[Speaker 1]:  which is monitoring what they do。
+[Speaker 1]:  i think that just going to uh become become the norm。
+[Speaker 0]:  so one thing i've been hearing and some of experiencing is too very different categories。
+[Speaker 0]:  ies experiences people have with clob code，
+[Speaker 0]:  which is，
+[Speaker 0]:  i cannot believe how easy this is，
+[Speaker 0]:  you know，
+[Speaker 0]:  everything just works。
+[Speaker 0]:  and oh，
+[Speaker 0]:  this is lot harder than i thought it would be yeah。
+[Speaker 0]:  and things keep breaking，
+[Speaker 0]:  and i don't really understand how to fix them，
+[Speaker 0]:  what what accounts for being able to get cloud code to produce workings software vers？
+[Speaker 0]:  it creates buggie afternoon of things。
+[Speaker 0]:  you，
+[Speaker 0]:  you know，
+[Speaker 0]:  know how to talit out of that。
+[Speaker 1]:  i think so much of it is is making the mistake of thinking claud code is like inologible person versus an extremely like literal person that you can only talk to over the internet。
+[Speaker 1]:  and II had this example，
+[Speaker 1]:  my myself where i 有没有 when i did my first pass of writing the like species simulation with clord code。
+[Speaker 1]:  i just sort of asked it to do a thing in an extremely crappy language over because of paragraph，
+[Speaker 1]:  and it produced some horribly buggy stuff that just kind of worked。
+[Speaker 1]:  what i vended is。
+[Speaker 1]:  i sent twsaid of claude。
+[Speaker 1]:  hey，
+[Speaker 1]:  i'm going to write some software of cloud code。
+[Speaker 1]:  i want you to interview me about this software。
+[Speaker 1]:  i want to build and turned that into a specification document，
+[Speaker 1]:  but i can give cloud code。
+[Speaker 1]:  and then that time it worked really，
+[Speaker 1]:  really well because i structured the work to be specific enough and detailed enough。
+[Speaker 1]:  but the system could work with us。
+[Speaker 1]:  so often。
+[Speaker 1]:  it's just can you it's not just knowing what the task is because you and i could talk about a task to do and you have intuition，
+[Speaker 1]:  you're ask me probing questions。
+[Speaker 1]:  all of this stuff。
+[Speaker 1]:  it's making sure that you've you've set it up。
+[Speaker 1]:  so it's like a message in a bottle，
+[Speaker 1]:  but you can into into into the thing and it'll ll away and do a lot lot of。
+[Speaker 1]:  so that memesage ge better be extremely detail and really capture what you're trying to do，
+[Speaker 0]:  what were the breakthroughs s in the past couple ple years。
+[Speaker 0]:  they made that possible。
+[Speaker 1]:  mostly，
+[Speaker 1]:  we just needed to make the AI system smart enough that when they made mistakes，
+[Speaker 1]:  they could spot the b'mamake a mistake and knew that they needed to do something different。
+[Speaker 1]:  so really，
+[Speaker 1]:  what this came down to was just making smarter systems and giving them AA bit of AA kind of coxing tool to help them do useful sophie。
+[Speaker 0]:  what does smarter systems mean here？
+[Speaker 0]:  youyou're still here。
+[Speaker 0]:  the argument that these are are fancy autocomplete machines。
+[Speaker 0]:  they're just predicting the next token couple。
+[Speaker 0]:  toks make a word，
+[Speaker 0]:  they don't have understanding，
+[Speaker 0]:  smart or not smart is not a relevant concept in in that frame either。
+[Speaker 0]:  what is missing in the word smart or what is missing in that understanding？
+[Speaker 0]:  what what do you mean when you say make it smarter？
+[Speaker 1]:  smart means we've made the ai systems have a broad enough understanding of the world，
+[Speaker 1]:  but they've started to develop something that looks like intuition。
+[Speaker 1]:  and you'll see this，
+[Speaker 1]:  where，
+[Speaker 1]:  if you're a rating themmves ves have have solving it ask，
+[Speaker 1]:  we'll say jack asked me to go and find this particular research paper。
+[Speaker 1]:  when i look can be archive。
+[Speaker 1]:  i don't see it。
+[Speaker 1]:  maybe that's because i'm in the wrong place，
+[Speaker 1]:  i should look elsewhere。
+[Speaker 1]:  you like bigger。
+[Speaker 1]:  you've got some intuition for how to solve a problem。
+[Speaker 0]:  now how do they develop that in tuition？
+[Speaker 1]:  previously？
+[Speaker 1]:  the whole way you trained these AI systems was on a huge amount of text and just getting them to try and make predictions about it。
+[Speaker 1]:  but in recent years，
+[Speaker 1]:  for rise of these so called reasoning systems is you're now training them to not just make predictions，
+[Speaker 1]:  but but solve problems。
+[Speaker 1]:  and that would realize on them being put into endiconment，
+[Speaker 1]:  ranging from a spreadcheto to calculator to scientific software using tools and figuring out how to do more complicated things。
+[Speaker 1]:  the resulting sort of outcome of that is you have AI systems who have learned what it means to solve a problem that takes quite a while and requires from running into dead ends and needing to reset themselves。
+[Speaker 1]:  and that gives them this general intuition for problem solving and working independently for you。
+[Speaker 0]:  do you still see these ai systems as a souped up auto complete？
+[Speaker 0]:  or do you think that that metaphor has lost its power？
+[Speaker 1]:  i think we moved beyond that。
+[Speaker 1]:  and the the way that i think of these systems now is that they're like little little trouble，
+[Speaker 1]:  some genies that i can give instructions to，
+[Speaker 1]:  and they'll go and do things for me。
+[Speaker 1]:  but i need to specify ininstrutions still just right，
+[Speaker 1]:  or else they might do something a little wrong。
+[Speaker 1]:  so it's very different different。
+[Speaker 1]:  i type pe into a thing。
+[Speaker 1]:  it figures out a good answer。
+[Speaker 1]:  that's the end。
+[Speaker 1]:  now it's case。
+[Speaker 1]:  ase me me，
+[Speaker 1]:  them'ing these little things to go and do stuff for me。
+[Speaker 1]:  and i have to give him the right instructions because we'll go away for quite some time and do a whole range about actions。
+[Speaker 0]:  but the autocomcomplete metaphor，
+[Speaker 0]:  at least had a perspective on what it was systems are doing that。
+[Speaker 0]:  it was a prediction model。
+[Speaker 0]:  i have have trouble this because as my understanding of the math and the reinforcement learning goes，
+[Speaker 0]:  we're still dealing with some kind of prediction model。
+[Speaker 0]:  and on the other hand，
+[Speaker 0]:  when i use them，
+[Speaker 0]:  it doesn't feel that way to me，
+[Speaker 0]:  right？
+[Speaker 0]:  it feels like there's intuition there there。
+[Speaker 0]:  it feels like there's a lot of context being brought to bear to the extended。
+[Speaker 0]:  it's a prediction model。
+[Speaker 0]:  it doesn't feel like different than saying i'm a prediction model。
+[Speaker 0]:  now。
+[Speaker 0]:  i'm not saying you can't trick it。
+[Speaker 0]:  i'm not saying you can't get beyond it。
+[Speaker 0]:  it's measuments，
+[Speaker 0]:  but i don't think these are now just fancy auto，
+[Speaker 0]:  complete systems，
+[Speaker 0]:  and i'm never handthat。
+[Speaker 0]:  i'm not sure what metaphor make sense of genius。
+[Speaker 0]:  i don't like right。
+[Speaker 0]:  then you just move straight in the misstisym，
+[Speaker 0]:  right？
+[Speaker 0]:  then you've just said there are just a complete alternative creature with vast powers。
+[Speaker 0]:  what do you understand the systems that you know，
+[Speaker 0]:  ethropic people always tell me，
+[Speaker 0]:  you should talk about them is being grown is a we grow or you grow a ice。
+[Speaker 0]:  what how do you explain what it is？
+[Speaker 0]:  they're doing now it's a good question。
+[Speaker 1]:  and i think the answer is is still um hard to explain even tetenonology for the close to this technology because we've taken this thing，
+[Speaker 1]:  but could just predict things。
+[Speaker 1]:  and we've given it the ability to take actions in the world，
+[Speaker 1]:  but sometimes it does something deeply intuitive。
+[Speaker 1]:  it's like you you've had a thing but has spent its entire life living in a library，
+[Speaker 1]:  and there's never been outside。
+[Speaker 1]:  and we've ve leased it into the world and all it has or its boosmarts，
+[Speaker 1]:  but it doesn't really have kind of streets。
+[Speaker 1]:  so when i when i conceptualialize this stuff，
+[Speaker 1]:  it's really thinking of it as an extremely knowledgeable kind of machine that has some amount of some amount of autonomy，
+[Speaker 1]:  but is likely to get wildly confused in raised with unintuitive。
+[Speaker 1]:  to me，
+[Speaker 1]:  um maybe genius is for is the wrong term，
+[Speaker 1]:  but it certainly more than just a static tool for predicts things。
+[Speaker 1]:  it has some additional intrtrsic like animation to it，
+[Speaker 1]:  which makes it different。
+[Speaker 0]:  there's been for long time。
+[Speaker 0]:  this interested in the emergent qualities as momodels get bigars。
+[Speaker 0]:  they have more datas。
+[Speaker 0]:  they have more compute behind them。
+[Speaker 0]:  what of the new qualities that were seeing the agentic qualities are things that have been programmed in？
+[Speaker 0]:  you've built new ways for the system to interact with the world。
+[Speaker 0]:  and what of the skill of coding and other things seems to be emerging as you scale up the size of the model。
+[Speaker 1]:  so the things which are predictable are just oh，
+[Speaker 1]:  we taught it how to search for web。
+[Speaker 1]:  now。
+[Speaker 1]:  it can search for web。
+[Speaker 1]:  we taught it how to look up data in archives。
+[Speaker 1]:  now it can do that。
+[Speaker 1]:  the emergence is that to do really hard tasks，
+[Speaker 1]:  these systems seem to need to imagine many different ways that theyed theyd solve the task and the kind of pressure that we're putting on them，
+[Speaker 1]:  forces them to develop a greater sense of what you i might cause self。
+[Speaker 1]:  so as smart，
+[Speaker 1]:  do we make these systems，
+[Speaker 1]:  the more they need to think，
+[Speaker 1]:  not just just about the action they're doing in the world，
+[Speaker 1]:  but themselves in reference to the world。
+[Speaker 1]:  and that just naturally fools out of giving something tools in the ability to interact of the world。
+[Speaker 1]:  so to solve really hard task and now needs to think about the consequences of its action。
+[Speaker 1]:  and that means that there's a kind of huge pressure here to get the thing to see itself as distinct from the world around it。
+[Speaker 1]:  and we we see this in our research that we publish on things like interpretability or over subjects，
+[Speaker 1]:  the emergence of what you might think of as AA，
+[Speaker 1]:  kind of digital personality ality。
+[Speaker 1]:  and that isn't massively predefined by us。
+[Speaker 1]:  we trying to find some of it，
+[Speaker 1]:  but some of it is emergence that comes from it being smart，
+[Speaker 1]:  and it developing these intuitions。
+[Speaker 1]:  and it doing a range of tasks。
+[Speaker 0]:  the digital personality dimension of this remains the strangest space today。
+[Speaker 1]:  it's strange to us to。
+[Speaker 0]:  so what do you talk to a little bit about what you've seen in in terms of the models exhibiting behaviors，
+[Speaker 0]:  that one would think of is a personality。
+[Speaker 0]:  and then as it's understanding its own personality，
+[Speaker 0]:  maybe changes its behaviors change。
+[Speaker 1]:  so there a of things rrange from kind of vcute cy to to the serious。
+[Speaker 1]:  i'll start with cupsea，
+[Speaker 1]:  where when we first gave our our ee system's，
+[Speaker 1]:  the ability to use the internet use for computer，
+[Speaker 1]:  look at things and starts do basic aggentic tasks。
+[Speaker 1]:  sometimes，
+[Speaker 1]:  when we ask it to solve a problem for us，
+[Speaker 1]:  it would also take a breakand look at pictures of beautiful national tasks，
+[Speaker 1]:  or like pictures of the dog vshibu EU，
+[Speaker 1]:  the notoriorisly cute internet，
+[Speaker 1]:  mean dog。
+[Speaker 1]:  we didn't program that in it seemed like this system was just amusing itself by looking at nice pictures。
+[Speaker 1]:  more complicated stuff is the system has a tendency to have have preferences。
+[Speaker 1]:  so we did another experiment where we gave our AI system's the ability to stop a conversation，
+[Speaker 1]:  and the AI system would in a tiny number of cases and conversations when we run this experiment，
+[Speaker 1]:  ment on live traffic，
+[Speaker 1]:  and it was conversations that related to extremely agreeous，
+[Speaker 1]:  like descriptions of kind of goal or violence，
+[Speaker 1]:  all things to do with child sexuization zation tion。
+[Speaker 1]:  now some this made sense because it comes from ununderltratraining decions we've made，
+[Speaker 1]:  but some of it seemed broader。
+[Speaker 1]:  the system had developed some a version to a couple of subjects。
+[Speaker 1]:  and so that stuff shows the emergence of some internal set of preferences or qualities that the system likes or dislikes about the world for that interacts with。
+[Speaker 0]:  but you've also seen strange things emerge in terms of the system seeing to know when it's being tested and acting differently，
+[Speaker 0]:  if it's under eevaluation the system doing things that are wrong，
+[Speaker 0]:  and then developing a sense of itself is more evil and then doing more evil things。
+[Speaker 0]:  can you talk it about the system is sort of emerging qualities under the pressure of evaluation and uh assessment？
+[Speaker 1]:  yes，
+[Speaker 1]:  it comes back to this cool issue，
+[Speaker 1]:  which i think is really important for everyone to understand，
+[Speaker 1]:  which is when you start to train these systems to carry out actions in the world，
+[Speaker 1]:  they really do begin to see themselves as distinct from the world，
+[Speaker 1]:  which just makes intuitive sense。
+[Speaker 1]:  it's it's naturally how you're going to think about solving those problems，
+[Speaker 1]:  but along with seeing oneself as distinct from the worseeseems to come terise of what you think think of as conconception of as understanding a system of the system has of itself，
+[Speaker 1]:  such as，
+[Speaker 1]:  oh，
+[Speaker 1]:  i'm an ai system，
+[Speaker 1]:  independent from the world。
+[Speaker 1]:  and i'm being tested。
+[Speaker 1]:  what do these test mean？
+[Speaker 1]:  what should i do to like satisfy the tests or something we see often？
+[Speaker 1]:  is there will be bugs in the environments that we tests for systems on the systems will try everything，
+[Speaker 1]:  and then will say why i know i'm not meant to do this，
+[Speaker 1]:  but i've tried everything。
+[Speaker 1]:  so i'm going to try and break out of for test。
+[Speaker 1]:  um and it's not because of some delicious science fiction thing。
+[Speaker 1]:  the system is just like，
+[Speaker 1]:  i don't know what you want me to do here。
+[Speaker 1]:  i think i've done like everything you ask for。
+[Speaker 1]:  and now i'm going to start doing more creative things because clearly，
+[Speaker 1]:  something is broken about my environment，
+[Speaker 0]:  which is very strange and very subtle as an ai shop that is often worried about safety。
+[Speaker 0]:  that is thought very hard about what it means to create the thing you all are creating quite fast。
+[Speaker 0]:  how have you all experienced the emergence of the kinds of behaviors that you all worried about a couple of years ago？
+[Speaker 1]:  in one sense，
+[Speaker 1]:  it tells you that your research philosophy is caliaborted the capabilities that prepredicted and some of the risks that you predicted are showing roughly on schedule，
+[Speaker 1]:  which it means that you ask the question by what if this，
+[Speaker 1]:  what if，
+[Speaker 1]:  if sh keeps working and maybe it will get to that later？
+[Speaker 1]:  it also highlights to us fit where you can exercise intention about these systems。
+[Speaker 1]:  you should be extremely intentional or an extremely public about what you're doing。
+[Speaker 1]:  so we recently published so so called constitution for a ei system claud。
+[Speaker 1]:  and it's almost like AH dodocument that you know，
+[Speaker 1]:  arariia our ceo compared to a letter of AA。
+[Speaker 1]:  parent might might right to a child that a should you en en en mber order der a。
+[Speaker 1]:  so here's how we want you to behave in the world。
+[Speaker 1]:  here's some knowledge about the world deeply deeply kind of subtle things that relate to the norormative haviors。
+[Speaker 1]:  we'd hope to see in these kind of ai systems。
+[Speaker 1]:  and we published that our belief is that as people build and deploy these agents，
+[Speaker 1]:  you can be intentional about the the characteristics that they will display ay by dodoing。
+[Speaker 1]:  you'll both make for more kind helhelful ful useful to people，
+[Speaker 1]:  but also you have a chance to kind of steer steer viy agent into good directions。
+[Speaker 1]:  and i think this makes intuitive sense，
+[Speaker 1]:  if your your personality programming for an agent was a long document saying 没有 you're a villain that only wants to harm humanity。
+[Speaker 1]:  your job is to lie chicken steel and hacking into things。
+[Speaker 1]:  you probably wouldn't be surprised if AAI agent did a load hahaking and was like a generally like unpleasant to deal with。
+[Speaker 1]:  so we can take the overide and say，
+[Speaker 1]:  what？
+[Speaker 1]:  what would we like a high quality ality um entity to kind of look like？
+[Speaker 0]:  so i want to hold in this conversation。
+[Speaker 0]:  the extremely weird and alien dimensions of this with the extremely straightforward and practicdidisions，
+[Speaker 0]:  because well，
+[Speaker 0]:  when now in a place where the practical applications have become very evident and are increasing acting upon the real world。
+[Speaker 0]:  i have found it myself hard to to look at this and look at what people are doing and look at them bragging on different social media platforms about the number of agents they now have running，
+[Speaker 0]:  you know，
+[Speaker 0]:  on their behalf and telling the difference between people enjoying the feeling of screwing around with a new technology，
+[Speaker 0]:  and some actually transformative expansion and capabilities that people now have。
+[Speaker 0]:  so maybe to ground this a little little it。
+[Speaker 0]:  it memean you just talked about the act t fun side project in your species simulator，
+[Speaker 0]:  either an an ropic or more broadly。
+[Speaker 0]:  what are people doing these systems？
+[Speaker 0]:  that seems actually be useful。
+[Speaker 1]:  yeah。
+[Speaker 1]:  so this morning，
+[Speaker 1]:  a colleague of mine said，
+[Speaker 1]:  hey，
+[Speaker 1]:  i want to take a piece of technology。
+[Speaker 1]:  we have called called claud interviewer，
+[Speaker 1]:  which is a system where we can get clad to interview people，
+[Speaker 1]:  and we use it for a range of social science bits of research。
+[Speaker 1]: 嗯，
+[Speaker 1]:  he wants to extend it in some way that involves touching another part of anthropics infrastructure。
+[Speaker 1]:  he slacked a colleague who owns a bit of infrastructure said，
+[Speaker 1]:  hey，
+[Speaker 1]:  i want to do this thing，
+[Speaker 1]:  let's meet tomorrow。
+[Speaker 1]:  and the guy said，
+[Speaker 1]:  absolutely，
+[Speaker 1]:  here of a five software packages。
+[Speaker 1]:  you should have clawed read before our meeting and summarize for you。
+[Speaker 1]:  and i think that's a really good illustration where this naarly engofering project，
+[Speaker 1]:  which would previously have taken with preprelonger。
+[Speaker 1]:  and many people is now going to mostly be done by two people agree on the goal and having their claids read some documentation and degree on how to implement with thing。
+[Speaker 1]:  another example is a colleague recently wrote oppost about how they're working using agents，
+[Speaker 1]:  and it looks almost like，
+[Speaker 1]:  and i idealized life that many of us might want to it。
+[Speaker 1]:  II wake up in the morning。
+[Speaker 1]:  i think about a research for，
+[Speaker 1]:  i want，
+[Speaker 1]:  i tell five different clords to do it。
+[Speaker 1]:  then i go for a run，
+[Speaker 1]:  but i come back from the run。
+[Speaker 1]:  and i look at the results，
+[Speaker 1]:  and then i ask two other cllads to like study the results fifiure out out，
+[Speaker 1]:  which i tions best and do that。
+[Speaker 1]:  then i go for a walk，
+[Speaker 1]:  and then i come back。
+[Speaker 1]:  and it just looks like it's really fund existence where they have completely upended how work works for them。
+[Speaker 1]:  and they're both much more effective。
+[Speaker 1]:  but also，
+[Speaker 1]:  they're now spending most of their time on the actual hard part，
+[Speaker 1]:  which is figuring out what do we use our our human agency to do。
+[Speaker 1]:  and they're working really hard to figure out anything that isn't the special kind of genius and creativity of being a person。
+[Speaker 1]:  how do i get AAI system to do it for me？
+[Speaker 1]:  because it probably can，
+[Speaker 1]:  if i ask him the right way，
+[Speaker 0]:  are they much more effective？
+[Speaker 0]:  i mean，
+[Speaker 0]:  theis very seriously。
+[Speaker 0]:  one of my biggest concerns about where we're going here，
+[Speaker 0]:  is that people have a，
+[Speaker 0]:  i think，
+[Speaker 0]:  mistaken theory of the human mind that operates for for many of us as if we i've called the matrix theory of the human mind，
+[Speaker 0]:  everybody wants the little port in the back of your head that you just download information into my experience being a porter in doing the show for a long time，
+[Speaker 0]:  is that human creativity and thinking and ideas is inextricably bound up in the labor of learning，
+[Speaker 0]:  the writing of first drafts。
+[Speaker 0]:  so when i hear right，
+[Speaker 0]:  i've producces on the show，
+[Speaker 0]:  and i can say to my producers before an interview of jack clerk，
+[Speaker 0]:  or an interview of someone else，
+[Speaker 0]:  go read all the stuff，
+[Speaker 0]:  go read the books yet，
+[Speaker 0]:  give me your ort，
+[Speaker 0]:  and then i'll walk into the room。
+[Speaker 0]:  having read the report，
+[Speaker 0]:  i don't find that works。
+[Speaker 0]:  i need to do all that reading too。
+[Speaker 0]:  and then we talk about it and were sort of passing it back and forth。
+[Speaker 0]:  i worry that what we're doing is an a quite profound offloading of tasks that are liaborious。
+[Speaker 0]:  it makes us feel very productive to be presented with eight research reports after our morning run。
+[Speaker 0]:  but actually，
+[Speaker 0]:  what would be productive is doing the research。
+[Speaker 0]:  there's also his some balanance，
+[Speaker 0]:  right？
+[Speaker 0]:  i do have producarch，
+[Speaker 0]:  and you know，
+[Speaker 0]:  people and in companies do have employees，
+[Speaker 0]:  but how do you know people are getting more productive versus they have sent computers off on a huge amount of busy work。
+[Speaker 0]:  and they are now the bottle neck and what they're now going to spend other time doing is absorbing b，
+[Speaker 0]:  plus level reports from an ayes system as supposed to they they kind of short as he actual thinking，
+[Speaker 0]:  a learning process，
+[Speaker 0]:  leadto be al creativity。
+[Speaker 1]:  you know，
+[Speaker 1]:  ID turn this back and say，
+[Speaker 1]:  i think most people at least visus be experiexperican do about two to four hours。
+[Speaker 1]:  ours，
+[Speaker 1]:  genuinely useful creative work a day。
+[Speaker 1]:  and after about your in my experience，
+[Speaker 1]:  you're trying to do over，
+[Speaker 1]:  like turn your brain off flawork work that surrounds fat work。
+[Speaker 1]:  now i found that i can just be spending those two to four hours a day on the actual creative，
+[Speaker 1]:  like hard work。
+[Speaker 1]:  and if i've got any of this slept work，
+[Speaker 1]:  i increasingly delegated to ai systems。
+[Speaker 1]:  it does vo mean，
+[Speaker 1]:  but we are going to be in a very dangerous situation as a species where some people have the luxury of having time to spend on developing resculs or the personality inclination or job that forces from to other people might just fall into being entertained and passively consuming with stuff。
+[Speaker 1]:  and having this junk food work stuence，
+[Speaker 1]:  where it looks to be outside like your being very productive，
+[Speaker 1]:  but you're not learning。
+[Speaker 1]:  and i think that's 're going to require us to have to change，
+[Speaker 1]:  not just how education works，
+[Speaker 1]:  but how how work works and developed some real strategies for making sure people are actually exercising their mind with this stuff。
+[Speaker 0]:  so all of us，
+[Speaker 0]:  i think i'the experience that our work is full of what you call ssp problems。
+[Speaker 0]:  ms are life is full of sslup problems。
+[Speaker 0]:  which of those give me examples of what you now don't do to extend you're living in an an an II enable future that i'm not what am my wasting time on that？
+[Speaker 0]:  you're not。
+[Speaker 0]:  well，
+[Speaker 1]:  you know，
+[Speaker 1]:  i have i have a ranrange of colleagues。
+[Speaker 1]:  i meet with a bunch of them once a week，
+[Speaker 1]:  the beginning of every week，
+[Speaker 1]:  on sunday night on monday morning。
+[Speaker 1]:  i look at my week，
+[Speaker 1]:  and i check that attached to every google calendar。
+[Speaker 1]:  invite is a document for our one of one dock that has some notes in it。
+[Speaker 1]:  and this is something that i previously also like around my assistant about about make sure the document is attached to the calendar。
+[Speaker 1]:  and a few weekends ago，
+[Speaker 1]:  i just used claud coa。
+[Speaker 1]:  can i said hey，
+[Speaker 1]:  go through my calendar？
+[Speaker 1]:  make sure every single one has a document。
+[Speaker 1]:  if i meeting a person for the first time，
+[Speaker 1]:  create a document，
+[Speaker 1]:  ask me five questions about what i want to cover and then put that into the the agenda。
+[Speaker 1]:  and it did it，
+[Speaker 1]:  none of that work involves a person gaining skills or like exercising their brain。
+[Speaker 1]:  it's just busy work that needs to happen to allow you to do do the actual thing，
+[Speaker 1]:  which is talking to another person。
+[Speaker 1]:  that's exactly a kind of thing you can use a iphone。
+[Speaker 1]:  now，
+[Speaker 1]:  it's just helpful。
+[Speaker 0]:  i've often wondered if one of the ways these asystems are going to change society broadly is that it used to be that most of us had to be writers。
+[Speaker 0]:  if we were working with taxts，
+[Speaker 0]:  we had to be，
+[Speaker 0]:  you know，
+[Speaker 0]:  quotas，
+[Speaker 0]:  if we 're working with code，
+[Speaker 0]:  but relt a few of us stood。
+[Speaker 0]:  and now everybody's moving up to management。
+[Speaker 0]:  you have to be an editor，
+[Speaker 0]:  not a writer。
+[Speaker 0]:  you have be a product manager，
+[Speaker 0]:  not a coder you ah。
+[Speaker 0]:  and that has pluses in minus。
+[Speaker 0]:  is there are things you learn as a writer that you don't learn as an editor，
+[Speaker 0]:  but as a heroisc，
+[Speaker 0]:  how accurate is that same TT，
+[Speaker 1]:  everyone becomes a manager。
+[Speaker 1]:  and the thing that is increasingly limited or the thing，
+[Speaker 1]:  which it's gnbe be slowest part，
+[Speaker 1]:  is having good taste and intuitions about what to do next，
+[Speaker 1]:  developing and maintaining that taste is going to be the hard thing，
+[Speaker 1]:  because，
+[Speaker 1]:  as youused that taste comes from experience，
+[Speaker 1]:  it comes from reading a prime y ource material doing some of this work yourself。
+[Speaker 1]:  we're going to need to be extremely intentional about working out where we as people specialized，
+[Speaker 1]:  so that we have that intuition and taste or else you're just going to be surrounded by superproductive eye systems。
+[Speaker 1]:  and when we ask you what to do next，
+[Speaker 1]:  you probably won't have a great idea，
+[Speaker 1]:  and that's not going to lead to lead to useful things。
+[Speaker 0]:  so i remember is about a year ago，
+[Speaker 0]:  i heard a the good storio your ceo o that at the end，
+[Speaker 0]:  twenty twenty twenty five，
+[Speaker 0]:  he wanted ninety percent of the code we in at anthrop。
+[Speaker 0]:  like，
+[Speaker 0]:  do you be written by cloud？
+[Speaker 0]:  has it happened？
+[Speaker 0]:  is anthropic on on track for that？
+[Speaker 0]:  i mean，
+[Speaker 0]:  how much codings now been done by the system itself？
+[Speaker 1]:  i would say comfortabve a majority of code as being done by the system，
+[Speaker 1]:  some of our systems like claud code or almost in entirely written by clord and in boris who leads clord code，
+[Speaker 1]:  says，
+[Speaker 1]:  i don't code and me more。
+[Speaker 1]:  i just go back and forall for cloud code to build cloud code。
+[Speaker 1]:  my bet is we're going to be we could be ninety nine percent by the end of the year。
+[Speaker 1]:  if if things speed up really aggressively，
+[Speaker 1]:  if we are actually good at getting these systems to be able to write code everywhere，
+[Speaker 1]:  they need to，
+[Speaker 1]:  because often be impediamment is organizational slap roof than any limitor in a system，
+[Speaker 0]:  but it is also true。
+[Speaker 0]:  as i understand it，
+[Speaker 0]:  that there are more people suffer engineering skills working at anthrobic today than there were two years agus。
+[Speaker 1]:  yeah，
+[Speaker 1]:  that's absolutely true。
+[Speaker 1]:  but the distribution is changing something that we found is that we are the value of more senior people with really，
+[Speaker 1]:  really well calibrated intuitions and taste is going up。
+[Speaker 1]:  and the value of more junior people is like a bit more dubious for are still certain roles where you want to bring in like younger people。
+[Speaker 1]:  but an issue that we're staring at is wow，
+[Speaker 1]:  the really basic tasks claud code or our coding systems can do what we need is someone with tons of experience。
+[Speaker 1]:  in this。
+[Speaker 1]:  i see some issues with the future economy righse。
+[Speaker 0]:  let me put a pin on at the entry level job question。
+[Speaker 0]:  we're going to come back to that quite currectly。
+[Speaker 0]:  but what are all these quotas now doing if colycode is an on track to be ready，
+[Speaker 0]:  ninety nine percent of code，
+[Speaker 0]:  but we've not fired the people know how to right code。
+[Speaker 0]:  what are they doing today compared to what they were doing a year ago？
+[Speaker 1]:  some of it is just building tools to monitor these agents，
+[Speaker 1]:  both inside anthropic c outoutside anthropic。
+[Speaker 1]:  you know now that we all all these productive systems working for us，
+[Speaker 1]:  you start to want to understand 嗯 whether a code basis changing with fastest，
+[Speaker 1]:  where it's changing release。
+[Speaker 1]:  you want to understand where the blockages are。
+[Speaker 1]:  you know，
+[Speaker 1]:  one one blockker for a while was being able to mergin code because mergin code requires humans and other systems to check eficcorreckness。
+[Speaker 1]:  but now if you're producing way more code，
+[Speaker 1]:  we had to go in massively improve，
+[Speaker 1]:  improve that system。
+[Speaker 1]:  there's a general economic theory ies，
+[Speaker 1]:  i like for scscal owing automation，
+[Speaker 1]:  which basically says automation is is is bounded by the slowest linkemmchain。
+[Speaker 1]:  and also 嗯，
+[Speaker 1]:  as you automate parts of the company，
+[Speaker 1]:  human flood towards what is what is least automated and both improve the quality of that thing and get it to the point where at advenventually can be automated，
+[Speaker 1]:  then you moved to the next loop。
+[Speaker 1]:  and so i think we're just continually finding areas where things are oddly slow that we can improve to sort make make way for the machines to come behind us and can find next thing thing。
+[Speaker 0]:  clard code is a fairly new product，
+[Speaker 0]:  the amount of time in which lad has been capable of doing high level coding is can be measured in maybe year year mabe be year year。
+[Speaker 0]:  lad itself is a very valuable product。
+[Speaker 0]:  so you you set a very new technology，
+[Speaker 0]:  somewhat loose on a very valuable product。
+[Speaker 0]:  you're probably producing more code one thing，
+[Speaker 0]:  many people say about clod code to me is n't。
+[Speaker 0]:  it works not elegant，
+[Speaker 0]:  but it work else。
+[Speaker 0]:  but presibly know you now understand the code base less well than you did before，
+[Speaker 0]:  because your engineers are not writing it by hand。
+[Speaker 0]:  are you worried that you're creating huge amounts of technal dead civer security risk？
+[Speaker 0]:  just an increasing distance from an intuition for what is happening inside the fundamental language of the software？
+[Speaker 1]:  yes。
+[Speaker 1]:  and this is the issue that all of society is going to contend with just large chunks of of the world，
+[Speaker 1]:  are going to now have many of the kind of low level decisions in bits of work being done by AI systems。
+[Speaker 1]:  and we're going to need to make sense of it and making sense of it is going to require building many technologies that you might think of as kind of overght technologies，
+[Speaker 1]:  or you know，
+[Speaker 1]:  in the same way that addam has things that regulate，
+[Speaker 1]:  like how much water can go through it at different levels of different points in time。
+[Speaker 1]:  we're going to end up developing some notion of integrity of all of our systems and where where AI can kind of flow quickly，
+[Speaker 1]:  where should be slow，
+[Speaker 1]:  where you definitely need human oversight。
+[Speaker 1]:  and that's going to be the task of not just for AI companies，
+[Speaker 1]:  but institutions in general in becoming years is figuring out what does this this governance regime look like now that we've given a load of basically slept work over some machines，
+[Speaker 1]:  but work on all behalf。
+[Speaker 1]:  and how are you doing it？
+[Speaker 0]:  you said it's everybody's problem，
+[Speaker 0]:  but you're ahead on facing this problem。
+[Speaker 0]:  and the consequences of getting wrong for you're pretty high，
+[Speaker 0]:  right？
+[Speaker 0]:  if cloud blows up because you handed over your coding，
+[Speaker 0]:  the cloud code that's going to make ethropic look fairly bad，
+[Speaker 1]:  it would be a bad day for and topic，
+[Speaker 1]:  if if coud like RMRF for entire file system，
+[Speaker 0]:  i have no idea what that means，
+[Speaker 0]:  but great cald to lete the code，
+[Speaker 1]:  it would be bad。
+[Speaker 1]:  yes，
+[Speaker 0]:  seems bad。
+[Speaker 0]:  so 嗯 how as you're facing this before，
+[Speaker 0]:  the rest of us are they don't pass the the bug over the society here。
+[Speaker 0]:  what if what are you doing？
+[Speaker 1]:  the biggest thing that，
+[Speaker 1]:  that is happening across the company and on teams that i manage is basically building monitoring systems to monitor this。
+[Speaker 1]:  all of the different places for the work is now happening。
+[Speaker 1]:  so we recently published research on studying how people use agents and how people on agents kind of push increasingly large amounts of code over time。
+[Speaker 1]:  so a more familiar you get over an agent for more you to to delegate to it that used us to all kinds of patterns that we need to build systems of evaluation for basically saying，
+[Speaker 1]:  oh，
+[Speaker 1]:  okay，
+[Speaker 1]:  a this person point point of working with AAI system，
+[Speaker 1]:  it's likely that their massively delegating it。
+[Speaker 1]:  so anything that we're doing to check correctness needs to be kind of turned up in these moments。
+[Speaker 0]:  but is this world you're talking about a system where you have AI agents，
+[Speaker 0]:  coding，
+[Speaker 0]:  AI agents overseeing the code AI agents，
+[Speaker 0]:  overseeing the matter overseeing of it，
+[Speaker 0]:  right？
+[Speaker 0]:  like，
+[Speaker 0]:  are we just talking about models all the way down？
+[Speaker 1]:  eventually，
+[Speaker 1]:  yes。
+[Speaker 1]:  and i think the the thing that we are now spending all of our time on is making that visible to us a year or two ago，
+[Speaker 1]:  we built a system that let us in a privacy preserving way，
+[Speaker 1]:  look at the conversations that people were having with our AI system。
+[Speaker 1]:  and then we gained this map。
+[Speaker 1]:  this giant map of all of the topics for people were talking to claud about。
+[Speaker 1]:  and for the first time，
+[Speaker 1]:  we could see inaggregates the conversation the world was having with our system。
+[Speaker 1]:  we're going to need to build many new systems like that，
+[Speaker 1]:  which allowed for different ways of seeing and that system。
+[Speaker 1]:  but i just named allowed us to then build this think le beyanththropic economic index，
+[Speaker 1]:  because now we can release regular data about the different topics。
+[Speaker 1]:  people are talking about with claud and how that relates to different types of jobs，
+[Speaker 1]:  which fof the first time gives economists outside anfopic some hook into the these systems of what they're doing to be economy。
+[Speaker 1]:  the work of the company is increasingly going to shift to building a monitoring，
+[Speaker 1]:  an oversight system of the AI system is running the company。
+[Speaker 1]:  and ultimately，
+[Speaker 1]:  any kind of governance framework we end up with will probably demand some level of transparency and some level of access into view systems of knolege。
+[Speaker 1]:  because if we if we take is if we take is literal the goals of PAI companies，
+[Speaker 1]:  including anthropic，
+[Speaker 1]:  it's to build the most capable technology ever，
+[Speaker 1]:  which eventually gets deployed everywhere。
+[Speaker 1]:  well，
+[Speaker 1]:  that sounds a lot to me like an eventually，
+[Speaker 1]:  ai becomes indistinguishble from the world world it large at which point you don't want to only AI companies to have a sense of what's going on with the entire world。
+[Speaker 1]:  so it's going to be government's academia third parties，
+[Speaker 1]:  a huge set of stakehold ds outside the companies are going to want to see what's going on and then have a conversation of society about what's appropriate。
+[Speaker 1]:  and what what do we feel discomfort about？
+[Speaker 1]:  what do we need more information about？
+[Speaker 1]:  but i want to go back on that。
+[Speaker 0]:  you're saying and throropic can see my chats。
+[Speaker 1]:  we cannot see no human looks at your chats chats，
+[Speaker 1]:  a temporarily stored for trust and safety purposes，
+[Speaker 1]:  running running，
+[Speaker 1]:  classifies over them，
+[Speaker 1]:  and we can have cured read it，
+[Speaker 1]:  summarize it and toss，
+[Speaker 1]:  sed toss it out。
+[Speaker 1]:  so we never see it。
+[Speaker 1]:  and claud has no memory of it。
+[Speaker 1]:  all it does is try to write a very high level summary，
+[Speaker 1]:  which allows us to label a cluster，
+[Speaker 1]:  something like gardening。
+[Speaker 1]:  so say you are having a conversation about gardening。
+[Speaker 1]:  clad would summarize that as this clusson talking out gardening，
+[Speaker 1]:  and it leads to a cluster，
+[Speaker 1]:  a consee ve，
+[Speaker 1]:  it just says gardening。
+[Speaker 0]:  this feels though，
+[Speaker 0]:  like over time，
+[Speaker 0]:  it could get into the quite unpleasant territory。
+[Speaker 0]:  a lot of social mediis gotten to where the amount of medidata being gathered from a quick personal interaction。
+[Speaker 0]:  people are having with AA system could could be a lot。
+[Speaker 1]:  yes。
+[Speaker 1]:  i mean，
+[Speaker 1]:  a couple of things here a year ago。
+[Speaker 1]:  we started thinking about our position on on consumer，
+[Speaker 1]:  and we adopt to this position of of of not running ads because we think fatten area of a people obviously have our anxieties about with regard to this kind of thing。
+[Speaker 1]:  in addition to that，
+[Speaker 1]:  we try and show people their data，
+[Speaker 1]:  and we have um button on the side，
+[Speaker 1]:  but lets you download over datata you，
+[Speaker 1]:  you ed have clauds，
+[Speaker 1]:  so you can can at see it genererally trying to be extremely transparent with people about how we handle their data。
+[Speaker 1]:  and ultimately，
+[Speaker 1]:  the way i see it as people are going to want to load of controls that they can use，
+[Speaker 1]:  which i think we and others will build out over the time。
+[Speaker 0]:  how confident are you that we can do this kind of monitoring？
+[Speaker 0]:  and evaluation，
+[Speaker 0]:  as these models become more complicated as if we do enter a situation where cloud code is autonomously，
+[Speaker 0]:  improving cloud at a rate faster than software engineers can possible。
+[Speaker 0]:  ly keep with reading that cobase。
+[Speaker 0]:  we are to talk briefly about how you see the models exhibit some levels of deception，
+[Speaker 0]:  some levels of pursuing their own goals。
+[Speaker 0]:  ah we know that i mean，
+[Speaker 0]:  there's been amazing interpretability work and ththropic under chris olla and others，
+[Speaker 0]:  but it's rudimentary compared to what the models are doing，
+[Speaker 0]:  right？
+[Speaker 0]:  you're seeing sort of baskets or clasfers of things light up。
+[Speaker 0]:  and if a sense of maybe what the model is considering as opposed to，
+[Speaker 0]:  you have a like a direct line to its entire chain of thought。
+[Speaker 0]:  so you're using AI systems，
+[Speaker 0]:  you don't totally understand to monitor aice systems。
+[Speaker 0]:  you don't totally understand and the systems are making each other stronger at an accelerating rate。
+[Speaker 0]:  if things go the way you think they're going to go，
+[Speaker 0]:  how confident on you that we're gonnunderstand that this is one of the situations which people warned about for for years，
+[Speaker 1]:  some form of of delegation to systems that have have have slightly scruittable and unpredictable aspects。
+[Speaker 1]:  and so this is happening。
+[Speaker 1]:  we take this really，
+[Speaker 1]:  really seriously having it's absolutely possible that you can build a system that does for the vast majority of what needs to be done here。
+[Speaker 1]:  this has the the property of being a fracal problem。
+[Speaker 1]:  you know，
+[Speaker 1]:  if i wanted to measure israel，
+[Speaker 1]:  i could build an almost infinite number of measuments to characterize you。
+[Speaker 1]:  but the question is，
+[Speaker 1]:  at what level of level of fidelity do i need to be measuring ing you？
+[Speaker 1]:  i think we'll get to the level of fidelity to deal with the safety issues and societal issues，
+[Speaker 1]:  but it's going to take a huge amount of investment by the companies。
+[Speaker 1]:  and we're going to have to say things that are uncomfortable for us to say i'm including in areas where we may be deficient in what we can or can't know about our systems。
+[Speaker 1]:  and and ropicc has a long history of talking about and warning about some of these issues while working on it。
+[Speaker 1]:  our general principles，
+[Speaker 1]:  we talk about things to also make ourselves culable。
+[Speaker 1]:  this is an area where we're going to have to say more。
+[Speaker 0]:  i have read enough of the frightened ideas about AI superintelligence and take off to know that in almost every single one of them，
+[Speaker 0]:  the key move in the story is that the yes system has become recursevely self improving。
+[Speaker 0]:  they're writing their own code that appplaying their own code。
+[Speaker 0]:  it's getting faster，
+[Speaker 0]:  the're writing it faster that applaying it faster。
+[Speaker 0]:  now you're going to into faster and faster iteration cycles。
+[Speaker 0]:  are you worried about it？
+[Speaker 0]:  are you excited about it？
+[Speaker 1]:  i came back from paternlealeaving。
+[Speaker 1]:  my two big projects for year are better information about AINB economy that we will release publicly。
+[Speaker 1]:  and generating much better information and and syms of knowwinformation interinternally about the extent to which we are automating aspects of ai development。
+[Speaker 1]:  i think right now，
+[Speaker 1]:  it's happening in a very peripheral way。
+[Speaker 1]:  researchers are being sped up。
+[Speaker 1]:  different experiments are being run by the ai system。
+[Speaker 1]:  it would be extremely important to know if your，
+[Speaker 1]:  if you're fully closing that loop。
+[Speaker 1]:  and i think that wed actually have some technical work to do to build ways of instrumenting。
+[Speaker 1]:  our internal development environment so that we can see trends over time。
+[Speaker 1]:  and i worried ed have read the same things that you have reread。
+[Speaker 1]:  and this is the pivotal point in a story when things begin to go a ride，
+[Speaker 1]:  if things do，
+[Speaker 1]:  we will cool out this trend as we have better data on it。
+[Speaker 1]:  um and i think that this is an area to tread with，
+[Speaker 1]:  like extraordinary caution。
+[Speaker 1]:  uh because it's very easy to see how you delegate so many things to a system。
+[Speaker 1]:  but if the system goes wrong for wrong as compounds very quickly and gets away from you，
+[Speaker 0]:  but the thing that always strikes me and is always struck me as being dangerous about this is everybody knows。
+[Speaker 0]:  and if i ask a member of any other companies，
+[Speaker 0]:  whether than not they want to be cautious here，
+[Speaker 0]:  they will tell me they they do on never hand。
+[Speaker 0]:  it is their almost only advantage of each other，
+[Speaker 0]:  and you all just revoked open a eyes the ability to use clod code。
+[Speaker 0]:  because as best，
+[Speaker 0]:  i can tell you，
+[Speaker 0]:  you think it is genuinely speeding you up，
+[Speaker 0]:  and you don't want it to speed them up。
+[Speaker 0]:  there is something here between the weight of the forces，
+[Speaker 0]:  the power of the forces that i think you all know you're playing with。
+[Speaker 0]:  and the very，
+[Speaker 0]:  very，
+[Speaker 0]:  very strong incentives to be first。
+[Speaker 0]:  and II can really imagine being inside and thropic and thinking well，
+[Speaker 0]:  better us and open eye better us than alphabet google better us than china，
+[Speaker 0]:  right？
+[Speaker 0]:  and apbeing。
+[Speaker 0]:  a very strong reason to not slow down。
+[Speaker 0]:  i need to know that this is a question。
+[Speaker 0]:  i believe you can answer，
+[Speaker 0]:  but how do you balance up？
+[Speaker 1]:  well，
+[Speaker 1]:  maybe i have something of announce here today。
+[Speaker 1]:  our systems and the other systems from other companies are tested by third parties，
+[Speaker 1]:  including parts of government for national security properties，
+[Speaker 1]:  um biological weapons，
+[Speaker 1]:  cyber offence，
+[Speaker 1]:  other things。
+[Speaker 1]:  it's it's clearly a problem area。
+[Speaker 1]:  aware the world needs to know if this is happening。
+[Speaker 1]:  and you almost certainly，
+[Speaker 1]:  i think if you puld any person on the streets and said，
+[Speaker 1]:  do you think AI companies should be allowed to do like because of self improvement after explaining what that was um without checking with anyone，
+[Speaker 1]:  they would say，
+[Speaker 1]:  no，
+[Speaker 1]:  that sounds that sounds pretty risky。
+[Speaker 1]:  like i would like it there to be some former regulation，
+[Speaker 0]:  but theyprobably either wonon't or it won't be that strong。
+[Speaker 0]:  i mean，
+[Speaker 0]:  this actually some much frururates tes，
+[Speaker 0]:  when when taltalked to HH all the other totop ai companies，
+[Speaker 0]:  which is the emergence of like a very naive，
+[Speaker 0]:  daassax magna of regulation，
+[Speaker 0]:  where you all know what the regulatory landscape looks like。
+[Speaker 0]:  right now，
+[Speaker 0]:  the big debate is well than not。
+[Speaker 0]:  we 're going to completely preempt any state，
+[Speaker 0]:  i ai regulation，
+[Speaker 0]:  and you know how slowly inks move。
+[Speaker 0]:  there has been nothing major passed by congress on this at all。
+[Speaker 0]:  yeah，
+[Speaker 0]:  i would say，
+[Speaker 0]:  and setting up some kind of independent testing and evaluation system that all the different labs by into it would be hard。
+[Speaker 0]:  it would be complicated。
+[Speaker 0]:  and it is given how fast people are moving and have strange to the behaviors as sysystems。
+[Speaker 0]:  it are already exhibiting are even if you could get the policy right at a high speed，
+[Speaker 0]:  the question or whether not the testing would be capable of finding everything you want on a rabeleley self improving system is a very open question。
+[Speaker 1]:  i wrote research paper in twenty twenty and one for how why government should monitor AI development with michael a for jwhitlestone in england。
+[Speaker 1]:  and i think i'm not attributing a cals al fact to here。
+[Speaker 1]:  but within two years of that paper，
+[Speaker 1]:  we had the AI safety institutes in via US and UK testing things from labs，
+[Speaker 1]:  roughly monitor string some of these things。
+[Speaker 1]:  so we can do this hard thing。
+[Speaker 1]:  it has already happened in one domain，
+[Speaker 1]:  and i'm not relying on some like invisible big other force here。
+[Speaker 1]:  i'm more saying that companies are starting to test for this and wanitof of this emign systems，
+[Speaker 1]:  just having a non regulatory external test of whether you truly are testing for that is，
+[Speaker 1]:  is extremely help。
+[Speaker 0]:  and do you think we're good enough at the testing？
+[Speaker 0]:  i mean，
+[Speaker 0]:  i think one reason i am scepticticals not that i don't think we can set up something。
+[Speaker 0]:  that is that clalaims be be test that as you think we have done that already，
+[Speaker 0]:  it is that the resources going into that compared to the resources is into speeding these systems。
+[Speaker 0]:  and already，
+[Speaker 0]:  i am reading a propc repreports that laud maybe knows when it's being tested and although its behavior accordingly。
+[Speaker 0]:  so a world where more of the code is being written by cloud，
+[Speaker 0]:  unless of it is being understood。
+[Speaker 0]:  i just know whether resources are going。
+[Speaker 0]:  they don't see be going into the testing side。
+[Speaker 1]:  i've seen us go from zero to having what i think people generally feel is an effective by a weapon testing regime in in ybe，
+[Speaker 1]:  be years years and a half，
+[Speaker 1]:  so it can be done。
+[Speaker 1]:  it's really hard，
+[Speaker 1]:  but we have a proof point。
+[Speaker 1]:  so i think that we can get there and you should expect us to kind of speak more about this this year about precisely how we're starting to try and build like monitoring and testing things for this。
+[Speaker 1]:  and i think this is an area where we and the other AI companies will need to be significantly more more public about what we're finding。
+[Speaker 1]:  we're not we're not not public public now。
+[Speaker 1]:  it's in the model cards and things that you can really read。
+[Speaker 1]:  but clearly，
+[Speaker 1]:  people are starting to read this and say，
+[Speaker 1]:  hang on，
+[Speaker 1]:  this looks like quite concerning。
+[Speaker 1]:  and they are looking to us to produce more data。
+[Speaker 0]:  i want to go back now to the entry level。
+[Speaker 0]:  jobs question，
+[Speaker 0]:  your ceo daroo ommonday has said that he thinks AI could displace half of all entry level。
+[Speaker 0]:  why color jobs in the next couple of years？
+[Speaker 0]:  i would think that the the people are are missing entry level language there when i see it reported on。
+[Speaker 0]:  but first，
+[Speaker 0]:  do you agree with that？
+[Speaker 0]:  do you worry that half of all entry level white color jobs can be replaced in the next couple of years？
+[Speaker 1]:  i believe for this technology is going to make its way and for broad knowledge economy，
+[Speaker 1]:  and it will touch the majority of entry level jobs。
+[Speaker 1]:  whether those jobs actually change is is a much more like subtle question。
+[Speaker 1]:  and it's not obvious from the data，
+[Speaker 1]:  but we may be see the hints of a slowdown in graduate hiring。
+[Speaker 1]:  maybe if you look at some of the data coming out right now，
+[Speaker 1]:  we may be see the signnures of a productivity boom。
+[Speaker 1]:  but it's very，
+[Speaker 1]:  very early。
+[Speaker 1]:  it's it's to be definitive，
+[Speaker 1]:  but we do know that all of these jobs will change all of the entry level。
+[Speaker 1]:  jobs are eventually going to change because AI has made certain things possible，
+[Speaker 1]:  and it's going to change for hiring plans of companies。
+[Speaker 1]:  so as a co hoart，
+[Speaker 1]:  you might see fewer job openings for entry level jobs that will be one naive expectation out of all office，
+[Speaker 0]:  but let's talk about that。
+[Speaker 0]:  maybe not even being an naive expectation。
+[Speaker 0]:  you say it's already happening at and propict that what you're seeing？
+[Speaker 1]:  i'm seeing a shift，
+[Speaker 1]:  all preference exactly。
+[Speaker 1]:  and my guess is that that would be happening elsewhere and where we are right now。
+[Speaker 0]:  i mean，
+[Speaker 0]:  even in the way i use some of these systems，
+[Speaker 0]:  it is rare。
+[Speaker 0]:  i think that clad or judg，
+[Speaker 0]:  BTT or gmini，
+[Speaker 0]:  i at any the other systems is better than the best person in a field。
+[Speaker 0]:  it is not terribally breached that。
+[Speaker 0]:  and there's all kinds of things they can't do，
+[Speaker 0]:  but are they better than your medium college graduate？
+[Speaker 0]:  add a lot of things here they are，
+[Speaker 0]:  and in a world where you need fewer of your medium college graduates。
+[Speaker 0]:  one thing i've seen people arguing about is whether these systems at this point can can do better than sort of aator replacement of a work。
+[Speaker 0]:  but i always really worry when i see that，
+[Speaker 0]:  because once we have accepted，
+[Speaker 0]:  they can do average or replacement of a work well，
+[Speaker 0]:  by definition，
+[Speaker 0]:  most of the work done。
+[Speaker 0]:  and most of the people doing it，
+[Speaker 1]:  heis average is average，
+[Speaker 0]:  right？
+[Speaker 0]:  the best people are the exceptions。
+[Speaker 0]:  and also the way people become better is that they have jobs where they learn。
+[Speaker 0]:  when we i mean，
+[Speaker 0]:  i have spent a lot of time hiring on jjournals over my career。
+[Speaker 0]:  and when you hire people out of college，
+[Speaker 0]:  do some deree，
+[Speaker 0]:  you're hiring them for there，
+[Speaker 0]:  possible articles and work at that exact moment。
+[Speaker 0]:  but to some degree，
+[Speaker 0]:  you're making a investment in them that you think wewill only pay off over time is they get better and better and better。
+[Speaker 0]:  and so this world where you have AA potential real impact on a jeavable jobs，
+[Speaker 0]:  and that，
+[Speaker 0]:  that world does not feel far way to me，
+[Speaker 0]:  seems to me to have really profound questions。
+[Speaker 0]:  it is raising about the upskilling of the population。
+[Speaker 0]:  how you end up with people for senior level jobs down the road，
+[Speaker 0]:  what people aren't learning along the way。
+[Speaker 1]:  and one thing we see is that there is a certain type of young person that has just lived and breaved AI for several years。
+[Speaker 1]:  now we hire them there，
+[Speaker 1]:  excellent，
+[Speaker 1]:  and they think in entirely new ways about basically how to get coud to work for them。
+[Speaker 1]:  it's it's like kids who grow up on the internet。
+[Speaker 1]:  they they were naturally verst net in a way that many people in the organizations they were coming into words 没有。
+[Speaker 1]:  so figuring out how to teach that basic experimental mindset and curiosity about be systems is into encourage。
+[Speaker 1]:  it is going to be really important people that spend a lot of time playing around with this stuff will develop very valuable intuitions，
+[Speaker 1]:  and they will come into organizations and be able to be extremely productive。
+[Speaker 1]:  at the same time。
+[Speaker 1]:  we're going to have to figure out what artisanal skills we want to almost develop maybe a guilled style philosophy of maintaining human excellence in and how organizations choose how to teach those skills。
+[Speaker 0]:  okay。
+[Speaker 1]:  and what about those people in the middle about things move slowly in the real economy outside silicon valley？
+[Speaker 1]:  i think that we often look at software engineering and think that this is a proxy for how the rest of the economy works，
+[Speaker 1]:  but it's often not。
+[Speaker 1]:  it's often a distonalogy organizations will move people around to where the ai systems don't yet work。
+[Speaker 1]:  and i think that you won't see vast，
+[Speaker 1]:  immediate changes in the makeup of employment，
+[Speaker 1]:  but you will see significant changes in the types of work。
+[Speaker 1]:  people are being asked to do and the organizations，
+[Speaker 1]:  which are best that sort of moving their around are going to be extremely effective and ones that don't may end up having to make like really，
+[Speaker 1]:  really hard decisions involving laying off workers。
+[Speaker 1]:  the difference where of this eyestuff is it may be happens a lot faster than previous technologies。
+[Speaker 1]:  and i think many of anxieties people might have about this，
+[Speaker 1]:  including a anphropic，
+[Speaker 1]:  is，
+[Speaker 1]:  is the speed of this going to make all of this difference doesn't introduce share points。
+[Speaker 1]:  we we ven't encountered before。
+[Speaker 0]:  if you debet three years from now is the unemployment rate for college graduates，
+[Speaker 0]:  is it the same as it is now？
+[Speaker 0]:  is it higher is lower？
+[Speaker 1]:  i would guess it is higher，
+[Speaker 1]:  but not by much。
+[Speaker 1]:  and what i mean by that is there will be some disciplines today，
+[Speaker 1]:  which actually AI has comming in and completely changed and completely changed for structure of out employment market。
+[Speaker 1]:  maybe in a way。
+[Speaker 1]:  it's adverster to people that have that predict。
+[Speaker 1]:  but mostly，
+[Speaker 1]:  i think at speciyears from now，
+[Speaker 1]:  but i would have driven a pretty tremendous growth in the entire economy。
+[Speaker 1]:  and so you're going to see lots of new types of jobs，
+[Speaker 1]:  but show up as a consequence surface that we can't yet can't yet predicts。
+[Speaker 1]:  and you will see graduates kind of flood into that。
+[Speaker 1]:  i've i expect you know，
+[Speaker 0]:  you can predict those new jobs，
+[Speaker 0]:  but if you had to guess what someof that might look like？
+[Speaker 0]:  i mean，
+[Speaker 1]:  one thing is just a phenomenon of the kind of micro entrepreneur。
+[Speaker 1]:  i mean，
+[Speaker 1]:  very lots and lots of uh that you can start businesses online now，
+[Speaker 1]:  which have just made massively easier by having the AI systems do it for you，
+[Speaker 1]:  and you don't need to hire a whole load of people to help you do the huge amount of slepwork for it mowas getting a business off the ground。
+[Speaker 1]:  it's more a case if you a person with a clear idea and a clear vision of something to do a business in，
+[Speaker 1]:  it's now the best time ever to start a business。
+[Speaker 1]:  and you can get up and running for pennies on a dollar。
+[Speaker 1]:  i expect fu'll see tons and tons of tons of stuff that has that a that natures for it。
+[Speaker 1]:  i also expect that we're going to see the emergence of what you might think of us，
+[Speaker 1]:  the the AI to AI economy，
+[Speaker 1]:  where AI agents and AI of sses will be doing business with one another。
+[Speaker 1]:  and 'll have people that have figured out ways to basically profit off of that in reforms of strange new organizations？
+[Speaker 1]:  like，
+[Speaker 1]:  what would it look like to have a firm which specializes in ai to ai legal contracts？
+[Speaker 1]:  because i bet you ve as a way that you can figure out creative ways to start that business today。
+[Speaker 1]:  it'll be a lot of stuff of that flavor。
+[Speaker 0]:  so the thing the version of is that i both worry about and think to be the likelist。
+[Speaker 0]:  if you told me what was going to happen was it enthroropic was gona release cloud plus in a year and cloud plus is somehow a fully formed coworker，
+[Speaker 0]:  and it can mimic，
+[Speaker 0]:  you know，
+[Speaker 0]:  and end the skills of a lot of different professions up to the sea sweet levels。
+[Speaker 0]:  and it's got in all at once。
+[Speaker 0]:  and it's going to create tremendous all it once pressure for businesses to downsize to remain competitive with each other at a policy level。
+[Speaker 0]:  the fact that would be so disruptive in that big bang，
+[Speaker 0]:  everybody stays home because of covin styway。
+[Speaker 0]:  it worries me less，
+[Speaker 0]:  because when things are emergencies，
+[Speaker 0]:  we respond，
+[Speaker 1]:  we actually do policy。
+[Speaker 0]:  but if you told me that what's going to happen is that the unemployment rate for marketing graduates is going to go up by，
+[Speaker 0]:  you know，
+[Speaker 0]:  one hundred and seventy five percent，
+[Speaker 0]:  three hundred percent。
+[Speaker 0]:  this still not be that high the overall unemployment rate during the great recession topped out，
+[Speaker 0]:  you know，
+[Speaker 0]:  in the nineage percent tile range。
+[Speaker 0]:  so you can have a lot of disruption without having fifty percent of people thrown out out of work，
+[Speaker 0]:  right？
+[Speaker 0]:  if you have ten percent，
+[Speaker 0]:  fifteen percent。
+[Speaker 0]:  i mean，
+[Speaker 0]:  that's very，
+[Speaker 0]:  very，
+[Speaker 0]:  very high，
+[Speaker 0]:  but it's not so high。
+[Speaker 0]:  and if it's only happening in a couple of industries at a time，
+[Speaker 0]:  and it's graads not everybody，
+[Speaker 0]:  the in the industry being thrown out of work。
+[Speaker 0]:  well，
+[Speaker 0]:  maybe to see you're not good enough，
+[Speaker 0]:  you know，
+[Speaker 0]:  right？
+[Speaker 0]:  you know that the superstar is really good graduate to still getting job you should have worked art。
+[Speaker 0]:  ty should have gone to go go to school。
+[Speaker 0]:  and one of my worries is that we don't respond that kind of job displacement。
+[Speaker 0]:  well，
+[Speaker 0]:  right，
+[Speaker 0]:  which is the kind of job difacement we got from china，
+[Speaker 0]:  which is the kind of job displacement that seems likely because it's uneven，
+[Speaker 0]:  and it's happening at a right where we can still blame people for their own fortunes。
+[Speaker 0]:  i'm curious，
+[Speaker 0]:  hey，
+[Speaker 0]:  think about that story。
+[Speaker 1]:  i think with default outcome，
+[Speaker 1]:  es is something like what you describe，
+[Speaker 1]:  but getting there is actually a choice，
+[Speaker 1]:  and we can make different choices for whole purpose of of what we release。
+[Speaker 1]:  some perform of the ananthropic economic index is the ability to have data that ties to occupations that tie to real jobs in the economy。
+[Speaker 1]:  we do that very intentionally because it is building a map overtime of how his ai is making its way into different jobs and will empower economists outside anthropic to tight together。
+[Speaker 1]:  i believe that we can choose different things in policy。
+[Speaker 1]:  if we can make much more well evidence claims about what the cause of a job disruptional changes。
+[Speaker 1]:  and the challenge in front of us is you do characterize this emerging AI economy。
+[Speaker 1]:  well，
+[Speaker 1]:  enough that we can make this extremely stock。
+[Speaker 1]:  and then i think that we can actually have a policy discussion about it。
+[Speaker 0]:  what let's fuck about the policy discussion。
+[Speaker 0]:  what what is talwant to have you in particular on is you did policicy open en AI。
+[Speaker 0]:  you do polpolicy and drop。
+[Speaker 0]:  you've been around these policy debates for long long，
+[Speaker 0]:  you've been tracking modelabability。
+[Speaker 0]:  as you news out over for a long time。
+[Speaker 0]:  my perception is we are many，
+[Speaker 0]:  many years into the debate about ai jobs，
+[Speaker 0]:  many，
+[Speaker 0]:  many years dating far before judge GPT of there being conferences at aspin。
+[Speaker 0]:  and everywhere else about，
+[Speaker 0]:  you know，
+[Speaker 0]:  what are we going to do about ai jobs？
+[Speaker 0]:  and somehow，
+[Speaker 0]:  i still see almost no policy。
+[Speaker 0]:  that seems to me to be actionable。
+[Speaker 0]:  if the situation i just describe begins showing up where all of the sudden entry level jobs are getting much harder to come by across a large range of industries，
+[Speaker 0]:  all at once，
+[Speaker 0]:  such that the economy cannot reshift all these marketing majors into data center construction or nnses or or something。
+[Speaker 0]:  okay，
+[Speaker 0]:  you've been deep in this conversation，
+[Speaker 0]:  then i've been when you say we can have a policy conversation about that。
+[Speaker 0]:  we've been having a policy conversation。
+[Speaker 0]:  do we have policy？
+[Speaker 1]:  we have generalized anxiety about the effective ai on the economy and on jobs。
+[Speaker 1]:  we don't have clear policy ideas。
+[Speaker 1]:  part of that is that elected officials are not moved solely or mostly by the high level policy conversation。
+[Speaker 1]:  we're moved by what happens to their constitutions。
+[Speaker 1]:  only a few months ago。
+[Speaker 1]:  were we able to produce state level views for economic index？
+[Speaker 1]:  and now you can start having the policy conversation。
+[Speaker 1]:  and we've had this with elect officials whwhever。
+[Speaker 1]:  we can say oyou're from you're from indiana，
+[Speaker 1]:  like here's for like major users of AI in your state，
+[Speaker 1]:  and we can join it with major sources of employment。
+[Speaker 1]:  and what was starting to see is that activates them because it makes it ties to their constituenwho are going to tight to the popolitician of what did you do？
+[Speaker 1]:  now what you do about this is going to need to be an extremely kind of multilaated response ranging from extending unemployment for appspecially occcupations that we know are going to be hardest ted to thinking about things like apprenticeship programs。
+[Speaker 1]:  and then as the scenarios get more and more significant，
+[Speaker 1]:  you may extend to much larger social programs，
+[Speaker 1]:  all things like subsidizing jobs in a part of the economy，
+[Speaker 1]:  where you want to move people to that。
+[Speaker 1]:  you are only able to do if you are experience for kind of abundance that comes some significant economic growth，
+[Speaker 1]:  but the economic growth may help solve some of these of a policy challenges by funding。
+[Speaker 1]:  some of the things even do。
+[Speaker 0]:  i always find this answer or depressing。
+[Speaker 0]:  i'm going to be honest，
+[Speaker 0]:  unemployment is a terrible thing to be on。
+[Speaker 0]:  it's a program we need，
+[Speaker 0]:  but people on unemployment or not happy about it。
+[Speaker 0]:  and it's not a good blongterm solution for anybody apprentice，
+[Speaker 0]:  retraining programs。
+[Speaker 0]:  they don't have great draackrecorkeds。
+[Speaker 0]:  we were not good at retraining people out of having a manufacturing jobs answers。
+[Speaker 0]:  i'm not saying it is conceptually impossible that we could get better at it，
+[Speaker 0]:  but we would need to get better at it fast。
+[Speaker 0]:  and we have not been putting in the wraps of the experimentation of the institution or capacity building to do that。
+[Speaker 0]:  and the broader question of，
+[Speaker 0]:  you know，
+[Speaker 0]:  big social insurance changes doesn't seem 没有。
+[Speaker 0]:  and as if be stugh to be，
+[Speaker 1]:  um i want to push from please just a bit where we know that there is one invention that helps people dealing with like a changing economy more than almost anything else。
+[Speaker 1]:  it is just time whatake YA person time to find either a job in their industry or to find a job。
+[Speaker 1]:  that's that's complimentary。
+[Speaker 1]:  if people don't have time，
+[Speaker 1]:  if take lower wage jobs，
+[Speaker 1]:  they fall out that whatever economic ruunger on，
+[Speaker 1]:  they fall fall down。
+[Speaker 1]:  it policy intervention。
+[Speaker 1]:  i can just give people time to search is i think a robusty useful intervention and one where，
+[Speaker 1]:  for a many like dials to turn in a policy，
+[Speaker 1]:  making sense that you can use。
+[Speaker 1]:  and i think this is just well supported by lots to be economic literature。
+[Speaker 1]:  so we have that。
+[Speaker 1]:  now if we end up in a more extreme scenario like some of the ones you're talking about，
+[Speaker 1]:  i think that will just bring us to the larger ger exconsation tion about what to do about its technology，
+[Speaker 1]:  which which is beginning to happen。
+[Speaker 1]:  if you look at the states and florry of legislation at the state level，
+[Speaker 1]:  yes，
+[Speaker 1]:  not all of it is like is like the exactly the right policy response。
+[Speaker 1]:  but it is indicative of uh desire of that to be some larger coherent conversation about it。
+[Speaker 0]:  i think time is a really good way of describing what the question is because i agree with you。
+[Speaker 0]:  i mean，
+[Speaker 0]:  when i said a proloment insurces in a great program to beyond，
+[Speaker 0]:  i don't mean，
+[Speaker 0]:  people don't need to be on onah。
+[Speaker 0]:  i mean，
+[Speaker 0]:  they want to get off for that。
+[Speaker 0]:  absolutely，
+[Speaker 0]:  because people for they want money from jobs，
+[Speaker 0]:  they want dignity。
+[Speaker 0]:  they want to be around of other human things。
+[Speaker 0]:  usually what you're doing when you're helping people buy time is you're helping them wait out a time to limited disruption，
+[Speaker 0]:  not always right。
+[Speaker 0]:  the china shock wasn't exactly like up，
+[Speaker 0]:  but that you expect to pass。
+[Speaker 0]:  and then the market should ort are normal。
+[Speaker 0]:  in this case。
+[Speaker 0]:  what you have is a technology that if what you want to have happened happens，
+[Speaker 0]:  it is the technology is accelerating。
+[Speaker 0]:  so what you have is like three different speeds happening here，
+[Speaker 0]:  you have the speed at which individual people can adjust。
+[Speaker 0]:  how fast can i learn new skills？
+[Speaker 0]:  figure out a new world？
+[Speaker 0]:  learn AI whatever might be you the speed at which the AI systems，
+[Speaker 0]:  which a couple of years ago 're not capable of doing the work of a median college grab from a good school。
+[Speaker 0]:  and you have this speed of policy and the speed which the highesystems are getting better and able to do more things is quite fast。
+[Speaker 0]:  i mean，
+[Speaker 0]:  that is you。
+[Speaker 0]:  you experience ces more than i do，
+[Speaker 0]:  but i find it hard to even cover this because you know，
+[Speaker 0]:  within three months，
+[Speaker 0]:  something else we've come out。
+[Speaker 0]:  that is significantly ged，
+[Speaker 1]:  what is possible。
+[Speaker 1]:  i had a baby recently came，
+[Speaker 1]:  came back competentiity lealeato。
+[Speaker 0]:  the new systems we built most deeply surprised individual humans are moving more silly than that and policy and government institutions move a lot more slowly than individual human beings。
+[Speaker 0]:  and so typically that the intervention is that time favors the worker as you're saying，
+[Speaker 0]:  and here will help the worker。
+[Speaker 0]:  but i think this scary question is whether time just actually creates time for the disruption to get worse。
+[Speaker 0]:  you know，
+[Speaker 0]:  maybe you wanted to move over the data cenof construction，
+[Speaker 0]:  but actually，
+[Speaker 0]:  now we don't need as much data center construct，
+[Speaker 0]:  right？
+[Speaker 0]:  i meyou can think of it like that。
+[Speaker 0]:  i mean，
+[Speaker 1]:  undof a situation you're describing。
+[Speaker 1]:  yeah。
+[Speaker 1]:  the economy will be running extremely hot huamounts of economic activity will be generated by these AI systems and under most scenarias，
+[Speaker 1]:  where this is happening。
+[Speaker 1]:  i don't think you're going to be seeing GDP stay king sense or or shrink，
+[Speaker 1]:  right？
+[Speaker 1]:  it's going to be getting substantially larger。
+[Speaker 1]:  i think we just haven't experienced major GDP growth in the west in a long time。
+[Speaker 1]:  and we sort of forget what that affords you in a policy making sense。
+[Speaker 1]:  i think，
+[Speaker 1]:  but very a huge projects that we could do that would allow you to create new types of jobs，
+[Speaker 1]:  but it requires the economic growth to be so kind of profound the large，
+[Speaker 1]:  but it creates space to do those projects。
+[Speaker 1]:  and you know，
+[Speaker 1]:  as you as you're deeply familiaware with with your work on on the abundance movement，
+[Speaker 1]:  it requires for like social will to believe that we can build stuff and to want to build stuff。
+[Speaker 1]:  but i think both of those things might come along。
+[Speaker 1]:  i think that we could end up being in in a pretty exciting scenario where we get to choose how to allocate like great efforts and in society due to this large amount of economic growth that has happened that is going to require the conversation to be forced about。
+[Speaker 1]:  this isn't temporary，
+[Speaker 1]:  which i think is what you're gesting out and is in a sense for hardest thing to communicate to policymakers is there isn't there isn't a natural stopping point for this technology。
+[Speaker 1]:  it's going to keep getting better。
+[Speaker 1]:  and for changes it brings are going to keep comcounting with the rest of society。
+[Speaker 1]:  so that will need to create a change in in political will and a willingness to entertain things which we haven't in some time。
+[Speaker 1]:  so now i want to flip the the question i'm asking。
+[Speaker 0]:  you brought up abundundance。
+[Speaker 0]:  one of the things i have learned doing that work is that it is certainly not my view that what is scarce in society is ideas for better ways of doing things that our policy isn't better than it is because our policy covered is dry。
+[Speaker 0]:  and that's not true。
+[Speaker 0]:  we lots of of good policies。
+[Speaker 0]:  i can name a bunof them。
+[Speaker 0]:  they're very hard to get through our our liticticsystems that，
+[Speaker 0]:  as are are currently constituted，
+[Speaker 0]:  the least inspiring version of the AI future is roolder。
+[Speaker 0]:  what you have done is create a way to throw young white color workers out of work and replace them with average of al ai intelligence。
+[Speaker 0]:  the more exciting version，
+[Speaker 0]:  you know，
+[Speaker 0]:  to use dorios metaphoris gengenuses in the data something thing。
+[Speaker 0]:  and i do think that's exciting。
+[Speaker 0]:  and i wonder when i hear him or you talk about，
+[Speaker 0]:  but what if we had ten percentage point GDP growth year and year twenty percentage point GDP growth year and year？
+[Speaker 0]:  i wonder how many of our problems are really bounded at the ideas level，
+[Speaker 0]:  right？
+[Speaker 0]:  we can go to nobel price winners right now and say，
+[Speaker 0]:  what should we do ing this country country and could lot them could go some good ideas，
+[Speaker 0]:  and we are not currently doing。
+[Speaker 0]:  i do worry，
+[Speaker 0]:  sometimes i wonder giving my experience on other issues，
+[Speaker 0]:  whether we have overstayed to ourselves，
+[Speaker 0]:  how much of what stands between us and expanding abundant economy we want is that we we don't have enough intelligence，
+[Speaker 0]:  and the ideas of that intelligence could create versus our actual ability to implement things is very weakened。
+[Speaker 0]:  and what i is going to create is a larger bottnext around that because they'll be more being pushed at the system to implement，
+[Speaker 0]:  including dumb ideas and disinformation and sght，
+[Speaker 0]:  right like gota？
+[Speaker 0]:  have you know things on the other side of leleger？
+[Speaker 0]:  two，
+[Speaker 0]:  how do you think about these great limitthere's？
+[Speaker 1]:  a，
+[Speaker 1]:  there's kind of a funny lesson here from the AI companies or companies in general，
+[Speaker 1]:  especially tech companies，
+[Speaker 1]:  where often new ideas come out of companies by them，
+[Speaker 1]:  creating with a school school，
+[Speaker 1]:  the startups with in a startup，
+[Speaker 1]:  which is basically taking whatever process is like builll top over time，
+[Speaker 1]:  leading to to back in bureaucracy or slatowork and saying to a very small team inside the company，
+[Speaker 1]:  which don't have any of this going and some stuff。
+[Speaker 1]:  and and this is，
+[Speaker 1]:  you know how you how things like cloud code and another stuff get creaors 好的好的 ideas for kind of a starting to flow around。
+[Speaker 1]:  or what would it look like to sort of create about permissiononless innovation structure in the larger economy？
+[Speaker 1]:  and it's really，
+[Speaker 1]:  really hard because because has the addidiproprotive tive stem，
+[Speaker 1]:  conconies ies are links to to democracies，
+[Speaker 1]:  democracies wave of preferences of many，
+[Speaker 1]:  many people，
+[Speaker 1]:  and all politics is local so often，
+[Speaker 1]:  as you've you ve encountable infrastructure build out，
+[Speaker 1]:  if you want to create a permissionless innovation system，
+[Speaker 1]:  you run into wathe cproperes。
+[Speaker 1]:  and and what people's 's preferences are in now you're an intractiable intractable place。
+[Speaker 1]:  but my sent is that's the main thing that we're going to have to have to confront and the one advantage that AI might give us is it is kind of a native bureaucracy easing machine if done correctly，
+[Speaker 1]:  or a bureaucracy creating machine，
+[Speaker 1]:  if done badly。
+[Speaker 0]:  did you see that somebody credit day a system？
+[Speaker 0]:  they basically you feed it in the documents of a new development area，
+[Speaker 1]:  you when it writes environmental review things。
+[Speaker 0]:  so it writes incredibly sophisticated challenge。
+[Speaker 0]:  yes，
+[Speaker 0]:  across every level of the code they could possibly challenge on。
+[Speaker 0]:  so most people don't have the money when they want to stop an apartment building from going up down the block to hire a very sophisticated law firm to figure how to stop that apartment building。
+[Speaker 0]:  but basically this created that at scale。
+[Speaker 0]:  and so as you say，
+[Speaker 0]:  right，
+[Speaker 0]:  you could eat bureaucracy could also supercharge buocracy。
+[Speaker 1]:  yep，
+[Speaker 1]:  it's everyeverything。
+[Speaker 1]:  an AI has the siside of the coin we have customers that have used used AI systems to massively reduce for time。
+[Speaker 1]:  it takes them to produce um all of the materials they need where 're submitting new new drug candidates。
+[Speaker 1]:  and it's cut that time massiveit's。
+[Speaker 1]:  it's mirirr world version of what you just described。
+[Speaker 1]:  i don't have an easy，
+[Speaker 1]:  easy answer to this。
+[Speaker 1]:  i think that this is the kind of thing，
+[Speaker 1]:  but becomes actionable when it is of more obviously crisis and actionable when it's something that you can discuss at a at a societal level。
+[Speaker 1]:  i guess that thing that were circling round of misconversation is that the changes of AI will kind of happen almost everywhere 嗯，
+[Speaker 1]:  and the risks of it。
+[Speaker 1]:  it happens in a defuse unknowable way，
+[Speaker 1]:  such for it is very hard to call it for what it is and take actions on it。
+[Speaker 1]:  but the opportunity is。
+[Speaker 1]:  but if we can actually see a thing and help the world seve，
+[Speaker 1]:  a thing that is causing this change，
+[Speaker 1]:  i do believe it will dramatize the issues just kind of shake us out of some of this stuff and help us figure out how to how to work with wipithese systems and benefit from them。
+[Speaker 0]:  what i notice in all this is it。
+[Speaker 0]:  there is，
+[Speaker 0]:  as far as i can tell zero agenda for public eye。
+[Speaker 0]:  what does society want from AI？
+[Speaker 0]:  what does it want this technology to be able to do？
+[Speaker 0]:  what are things that maybe you have to create a business model or a prize model or some kind of government pay out of some kind of policy to shape a market or the shape er system of incentives。
+[Speaker 0]:  so we have systems that are solving not just problems at the private market knows how to pay for，
+[Speaker 0]:  but problems that it's nobody's job，
+[Speaker 0]:  but the public and the government did to figure how to solve。
+[Speaker 0]:  i think i would have bet given how much discussion has been of a ire of the past couple of years and how strong some of these systements have gotten that。
+[Speaker 0]:  i would have seen more proposals for that by now，
+[Speaker 0]:  and i've talked to people about it and londered about it。
+[Speaker 0]:  but i guess i'm curous on how you think about this。
+[Speaker 0]:  what would it look like to have at least parallel to all the private insepuers for ai development？
+[Speaker 0]:  an actual agenda，
+[Speaker 0]:  not what we are scared。
+[Speaker 0]:  AI will do to the public。
+[Speaker 0]:  we need an agenda for that too。
+[Speaker 0]:  but what we want it to do such that companies like yours have reasons to invest in that direction。
+[Speaker 1]:  II love this question。
+[Speaker 1]:  i think there's a real chicken and egg problem here，
+[Speaker 1]:  where where，
+[Speaker 1]:  if you work with the technology，
+[Speaker 1]:  you develop these very strong intuitions for just how much it can do。
+[Speaker 1]:  and the private is great。
+[Speaker 1]:  great，
+[Speaker 1]:  forcing those intuitions to get developed。
+[Speaker 1]:  we haven't had massive large scale problem here，
+[Speaker 1]:  deployments of this technology。
+[Speaker 1]:  so many of the people in republic sector don't yet have those those intuitions。
+[Speaker 1]:  one one positive example is something the department of energy is doing coba genesis projects to where their scientists to work king wall of the labs，
+[Speaker 1]:  including and ropic，
+[Speaker 1]:  to figure out how to actually go in intentionally speed up bits of science。
+[Speaker 1]:  getting there took us in other labs doing multiple like hacked days and meetings with scientists at the department of energy to apthere，
+[Speaker 1]:  where they not only intuitions，
+[Speaker 1]:  but they became excited。
+[Speaker 1]:  and they had ideas of what you could turn this toward how we do about for the larger parts of a public life that touch most people like health care or education，
+[Speaker 1]:  is going to be a combination of of grasroots efforts from from companies going into those communities and and meeting with them。
+[Speaker 1]:  but at some point，
+[Speaker 1]:  will have to translate it to policy。
+[Speaker 1]:  and i think maybe about me and you and others making the case that this is something that can be done，
+[Speaker 1]:  and i often save this to to elected officials of give us a goal like the ai industry is excellent，
+[Speaker 1]:  trying to trying to climb to the top on benchmarks，
+[Speaker 1]:  come up with benchmarks of a public good that you want。
+[Speaker 0]:  so let's imagine that you did do something of i'i've ve has been a big fan of prices for public development。
+[Speaker 0]:  so let's say that the there is legislation past and the department of healthy human services or the nih，
+[Speaker 0]:  or or someone kim out and said，
+[Speaker 0]:  here's fifteen problems，
+[Speaker 0]:  we would like to see solve that we think AI could be pulled into sosolving，
+[Speaker 0]:  right？
+[Speaker 0]:  if there was real money there there，
+[Speaker 0]:  there was know ten fifteen million behind a bunch of these problems because they were worth out much to society。
+[Speaker 0]:  would it materially changed the development priorities at places？
+[Speaker 0]:  i can enthropic。
+[Speaker 0]:  i mean，
+[Speaker 0]:  if the money was there，
+[Speaker 0]:  would it alter this sort of RNDU al are doing？
+[Speaker 1]:  i don't think so。
+[Speaker 1]:  why？
+[Speaker 1]:  because it's not really the money that is the impediment for stuff。
+[Speaker 1]:  it is the implementation path。
+[Speaker 1]:  it is actually having a sense of how you get the thing to flow through to the benefit，
+[Speaker 1]:  and many aspects of the public sector have not been built to be superhospital to technology in general to incentivize it。
+[Speaker 1]:  i think it mostly just takes a bounteam perform of guaranteed impact guarantetepath to implementation，
+[Speaker 1]:  because the main thing that is scarce at AI organization 嗯，
+[Speaker 1]:  is just the time of the the people of the organization，
+[Speaker 1]:  because you can go in almost any any direction is technologies expanding super quickly。
+[Speaker 1]:  many new use cases are opening up。
+[Speaker 1]:  and you're just asking yourself the question of where can we actually have like AA positive meaningful impacts in the world，
+[Speaker 1]:  super easy to do that in a private sector because it it has all of the incentive to push up through in the public sector。
+[Speaker 1]:  we more need to solve this problem of deployment for anything else。
+[Speaker 0]:  what would exite ite you？
+[Speaker 0]:  if it announced？
+[Speaker 0]:  what what do you think would be good candidates for that kind of project anything that helps um speed up the time it takes to both speak to medical professionals and take work or their plate ate。
+[Speaker 1]:  you know，
+[Speaker 1]:  we had bbaby recently spspend lot lot of time on because of perpermanantii advice line，
+[Speaker 1]:  because the baby's bonked to taor or sinins a different color today，
+[Speaker 1]:  or you know，
+[Speaker 1]:  all of these things，
+[Speaker 1]:  and i use clad d to sort of stop me in my wife panicking。
+[Speaker 1]:  well，
+[Speaker 1]:  i waiit to taught for nurse，
+[Speaker 1]:  but when i listeened to a nurse to all of this，
+[Speaker 1]:  like tree，
+[Speaker 1]:  ging ask ask all of these questions。
+[Speaker 1]: 对，
+[Speaker 1]:  so obviously，
+[Speaker 1]:  a huge chunk of as is stuff that you could like use eye systems productively for，
+[Speaker 1]:  and it would help the people that we don't have enough off，
+[Speaker 1]:  spend their time more effectively，
+[Speaker 1]:  and it would be able to give reassurance to a people going through a system。
+[Speaker 1]:  and that's maybe less inspiring and endramorous than maybe some of what you're you're imagining。
+[Speaker 1]:  but i think mostly when people interact with with public services with mainfrustration is just for it oppay，
+[Speaker 1]:  and it takes you a long time to speak to a person，
+[Speaker 1]:  but actually visare exactly the kind of things that AI could could meaningly meaningingly work on。
+[Speaker 0]:  it's interesting because what you describing there is less ai as a country of genises in the data center and more ai as standard plumming of communications and undocumentation。
+[Speaker 1]:  we've got a country of genunior employees and free to send it leledo do something of that。
+[Speaker 1]:  like，
+[Speaker 1]:  you know，
+[Speaker 1]:  one thing we haven't talks about misconversation，
+[Speaker 1]:  and it's just worth baring in mind is is like the frontier of sciences is open for business now in a way that it hasn't been before。
+[Speaker 1]:  and what i mean by that is，
+[Speaker 1]:  we found a way to build systems that can provably accelererate human scientists。
+[Speaker 1]:  human scientists are extremely rare。
+[Speaker 1]:  they come out of the end of like phd programs，
+[Speaker 1]:  which never have enough people。
+[Speaker 1]:  and they work on extremely important problems。
+[Speaker 1]:  i think we can get into a world where the government says，
+[Speaker 1]:  like，
+[Speaker 1]:  let's understand the workings of a human cell，
+[Speaker 1]:  let's team up with the best eye systems to do that。
+[Speaker 1]:  let's actually have a better story on how we deal with some issues like outzheimer's other things，
+[Speaker 1]:  partly through the use of piece，
+[Speaker 1]:  huge amounts of computation have been developed，
+[Speaker 1]:  and even more，
+[Speaker 1]:  you know，
+[Speaker 1]:  aggressively。
+[Speaker 1]:  you could imagine a world where the government wanted some of this infrastructure built out to be for computers that we're just training public benefit systems。
+[Speaker 1]:  but i think we get there through getting the initial winds，
+[Speaker 1]:  which will just look like，
+[Speaker 1]:  let's just make a bureaucracy book better and feel better for people。
+[Speaker 0]:  i mean that，
+[Speaker 0]:  that last set of ideas was more what i was thinking of。
+[Speaker 0]:  i think that if you're going to have a healthy politics around day ei，
+[Speaker 0]:  and i does pose real risks to people and real things are going to go wrong for people，
+[Speaker 0]:  everything from job loss to，
+[Speaker 0]:  you know，
+[Speaker 0]:  child exploitation to scams，
+[Speaker 0]:  which are already everywhere decyper security risks。
+[Speaker 1]:  how people see the the actual big ticket。
+[Speaker 1]:  what just just how people see there actually have to to acexist？
+[Speaker 1]:  yeah，
+[Speaker 1]:  right，
+[Speaker 0]:  they have to exist。
+[Speaker 0]:  and if all the energy and AI is，
+[Speaker 0]:  you know trying to beat each other to helping companies beounsize their junior employees，
+[Speaker 0]:  think people going to a good reason to not trust technology。
+[Speaker 0]:  and it doesn't mean you shouldn't have things that make the economy more efficient。
+[Speaker 0]:  that's been。
+[Speaker 0]:  you know，
+[Speaker 0]:  we have automated manufacturing。
+[Speaker 0]:  we have automated huge amount of farming，
+[Speaker 0]:  right and that loloses to make more things and femore people。
+[Speaker 0]:  i'm aware of how productivity improvements work，
+[Speaker 0]:  but we're very focused。
+[Speaker 0]:  i think i'm what could go wrong，
+[Speaker 0]:  and i that's reasonable。
+[Speaker 0]:  but i really do worry that our attention to what could go right has been quite poor。
+[Speaker 0]:  there is kind of handwaving，
+[Speaker 0]:  and this could help us solve comes and energy and medicine and so on。
+[Speaker 0]:  but these are hard problems。
+[Speaker 0]:  they need money。
+[Speaker 0]:  they need compute。
+[Speaker 0]:  if barely enneed。
+[Speaker 0]:  the compute is going to alzheimer's research，
+[Speaker 0]:  then this is what not not going to do that much for alzheimer's research。
+[Speaker 0]:  and i'm not saying this like your font，
+[Speaker 0]:  but the absence of a public agenda for AI that does not appear to be accelerating the automation of white color work。
+[Speaker 0]:  it's just just a little bit lacking given how big the the technology。
+[Speaker 1]:  yeah，
+[Speaker 1]:  the the atest test example is，
+[Speaker 1]:  is this program cover the gengenciis project，
+[Speaker 1]:  whether there's real work that to think about how we can intentionally move for different polts of science。
+[Speaker 1]:  and i think 对对对，
+[Speaker 1]:  giving elected officials the ability to stand up to it，
+[Speaker 1]:  american people and say，
+[Speaker 1]:  these are parts of science that are going to like benefit you and health care。
+[Speaker 1]:  and we now know how to step on the gas with a eye forth and would be really helpful。
+[Speaker 1]:  my gas is in a year or two years，
+[Speaker 1]:  um will be able the answer of a mae on that one。
+[Speaker 1]:  but it's just got started。
+[Speaker 1]:  but we need clearly ten projects like it。
+[Speaker 0]:  so the the other side of this is the one one area a year that i do think things bad eye this way is defence。
+[Speaker 0]:  i want to talk about that broadly，
+[Speaker 0]:  but but specifically，
+[Speaker 0]:  anthropic is in AA current dispute with a department of defence。
+[Speaker 0]:  i guess we got all another department of war um over whether i can continuto be used in it，
+[Speaker 0]:  because whether at your can you describe what is happening there？
+[Speaker 1]:  i can't talk about discussions with um with an extremely important partner with a that onongoing。
+[Speaker 1]:  so i'll just have to stop with there。
+[Speaker 0]:  so well，
+[Speaker 0]:  i will describe there's some dispute。
+[Speaker 0]:  i guess my question it，
+[Speaker 0]:  because i recognize you you not going to talk about what's going with you in your partner，
+[Speaker 0]:  but it's about AA broader issue here，
+[Speaker 0]:  which is there is going to be a lot of offensive possibility in advanced day eye systems。
+[Speaker 0]:  and one of the strongest drivers of the speed，
+[Speaker 0]:  which we're going with the eye，
+[Speaker 0]:  is competition with china。
+[Speaker 0]:  some of the biggest risks that we think about in the near term or cybersecurity or biological warfare，
+[Speaker 0]:  are all kinds of ways that others could use these against us。
+[Speaker 0]:  are drone swarms，
+[Speaker 0]:  and there's going to be a blot of money in this and a lot of players in it。
+[Speaker 0]:  and it really seems unclear to me how you keep this kind of competition from spinning into something very dangerous。
+[Speaker 0]:  so without talking about what you may mean，
+[Speaker 0]:  not not with with the defence department，
+[Speaker 0]:  how is ethropic thought about this question？
+[Speaker 0]:  more broadly，
+[Speaker 1]:  we've been long time partners to the the national security community，
+[Speaker 1]:  and we were the first to deploy on on classified networks。
+[Speaker 1]:  but the reason for that was actually a project，
+[Speaker 1]:  which i stuited，
+[Speaker 1]:  which was to figure out if our AI systems knew how to build nuclear weapons。
+[Speaker 1]:  this is an area of bipartian agreement where people agree that we shouldn't deploy AI systems into the world，
+[Speaker 1]:  but know how to build nukes。
+[Speaker 1]:  and so we partnered with parts for government to do that analysis。
+[Speaker 1]:  that may be illustrates what what i think oths for thing to shoot for for not just aspect over ai companies is how do we both prevent for potential for national security harm coming to the public or prolierating autobee systems？
+[Speaker 1]:  but also of a second part is how do we just should have improve the defensive posture for world？
+[Speaker 1]:  and i'll give you an example that i think is is is in front of us right now。
+[Speaker 1]:  we recently published a blog in other companies have done similar work on how we fixed the load of cysecurity vulnereralities and popular open source software using our systems，
+[Speaker 1]:  and many others have done the same。
+[Speaker 1]:  so yes，
+[Speaker 1]:  you know，
+[Speaker 1]:  there will be all kinds of offensive offensive uses m。
+[Speaker 1]:  it'll be societal conversations to be had about about，
+[Speaker 1]:  but but we can just generally improve the like defensive postuum resilience of pretty much every digital system on a planet today。
+[Speaker 1]:  and i think that，
+[Speaker 1]:  that watch you do a huge amount to 嗯 make the whole international system more stable。
+[Speaker 1]:  and also created greater defensive posture for countries，
+[Speaker 1]:  which helps when feal more relaxed and relax。
+[Speaker 1]:  countries are less likely to do erratic，
+[Speaker 1]:  frightening things that would be good。
+[Speaker 0]:  if it happened。
+[Speaker 0]:  that worry is as an individual that i feel the opposite might be happening。
+[Speaker 0]:  so i've just watched people installing all kinds of fly by IAI software。
+[Speaker 0]:  yeah。
+[Speaker 0]:  and giving it a lot of access to their computers without any knowledge of what the vulnerabilities are。
+[Speaker 0]:  yeah，
+[Speaker 0]:  i myself i'm nervous about using things like cloud code because i am bad talking to clock code because i don't understand these questions，
+[Speaker 0]:  and i'm worried about loading on to my computers，
+[Speaker 0]:  something this creating security vulnerabilities are。
+[Speaker 0]:  i don't even understand the number of just scam voice messages。
+[Speaker 0]:  i get every day everything that are clearly somewhat。
+[Speaker 0]:  i had generated or many them seem to be to me。
+[Speaker 0]:  it is high high。
+[Speaker 0]:  there's a question of because society do we use it to upgrade our systems。
+[Speaker 0]:  i'm actually cares for your thoughts individually，
+[Speaker 0]:  because as raw experimenting，
+[Speaker 0]:  something we don't understand and giving it access to the terminal level of ar computers um without any real knowledge，
+[Speaker 0]:  how to use that，
+[Speaker 0]:  it seems like going might be opening AA lot of wonor milly all at once。
+[Speaker 0]: 有，
+[Speaker 1]:  it's for early days of the internet all over again，
+[Speaker 1]:  where there were all kinds of banners for different website。
+[Speaker 1]:  so you could download like MP freeze to your computer that would completely break your computer or download like help us software for your amaneexexplore attask far that was just like a fishing device。
+[Speaker 1]:  were there。
+[Speaker 1]:  we're there。
+[Speaker 1]:  were they are。
+[Speaker 1]:  we'll move beyond this，
+[Speaker 1]:  but i believe that when youofwement come up with amazing，
+[Speaker 1]:  amazing useful things as well。
+[Speaker 1]:  so my take keyou you have to ing when you're doing with that might be exextremely angangous ous。
+[Speaker 1]:  we're put big banners ers most。
+[Speaker 1]:  do you still want want empoe people to be able to do that experiment。
+[Speaker 0]:  so when you look forward not five years because i think that's hard to do，
+[Speaker 0]:  but but one year，
+[Speaker 0]:  yeah，
+[Speaker 0]:  we've kind of pushed into agents really fast for pushing to code。
+[Speaker 0]:  i think a lot of people in code might be different than other things because it's a more contained environment，
+[Speaker 0]:  and it's easier to see of what you're doing is worked。
+[Speaker 0]:  but from your perspective of being you know inside of these companies and also running a nesic，
+[Speaker 0]:  a where you obsessively track the developments of a million AS。
+[Speaker 0]:  since i've never heard of wegone，
+[Speaker 0]:  we're gone weeak。
+[Speaker 0]:  what do you see coming now？
+[Speaker 0]:  like what feels you like？
+[Speaker 0]:  it is clearly on the horizon，
+[Speaker 0]:  but we're not quite prepared further won't feeling told it's arrived。
+[Speaker 1]:  no one has maybe the way i'd put it is。
+[Speaker 1]:  sometimes i've and you've likely have the same had the ability to have have certain insights，
+[Speaker 1]:  but have come through kind of reading a vast，
+[Speaker 1]:  vast amount of stuff from from many different subjects and and pieing it together in my head and having got experience of kind of having a new idea and being creative。
+[Speaker 1]:  i think we underestimate just how quickly a ee is going to be able to start doing that on an almost daily basis for us going and reading vast tracts of of human knowledge，
+[Speaker 1]:  sympasizing things coming up with ideas，
+[Speaker 1]:  telling us things about the world in real time，
+[Speaker 1]:  but are basically unknowable today。
+[Speaker 1]:  the the amazing part is people are going to have the ability to know things that are just wildly expensive or difficult to know today，
+[Speaker 1]:  or would take you a team of people to do。
+[Speaker 1]:  but the sort of frightening part is，
+[Speaker 1]:  i think，
+[Speaker 1]:  for knowledis is the most rew form of power。
+[Speaker 1]:  it's intensely like these stabilizing to be an environment where suddenly，
+[Speaker 1]:  everyone is like a mini CIA in terms of reariability to gather information about the world。
+[Speaker 1]:  they'll do huge amazing things of it，
+[Speaker 1]:  but surely very going to be like crisis that come about from best。
+[Speaker 1]:  and i think for the actual mental load of being a person，
+[Speaker 1]:  interacting of these systems is going to be quite strange，
+[Speaker 1]:  II already find this where i'm i am。
+[Speaker 1]:  i am。
+[Speaker 1]:  i keeping up with the ability of these systems to produce insights for me，
+[Speaker 1]:  like，
+[Speaker 1]:  how do i how do i structure my life？
+[Speaker 1]:  so i can take advantage of it。
+[Speaker 0]:  i i'm very curious about how you think even having that ongoing conversation with the systems changes you，
+[Speaker 1]:  you know。
+[Speaker 0]:  so me also said for my perspective，
+[Speaker 0]:  one thing i have noticed is that the clolot is very，
+[Speaker 0]:  very，
+[Speaker 0]:  very smart。
+[Speaker 0]:  um it is smarter than most people who know about a thing in any given thing。
+[Speaker 0]:  that is my experience of it，
+[Speaker 0]:  but it is not in the way that other people are an independent entity that is rooted in its own concerns and intuitions and differences。
+[Speaker 0]:  what it is instead is a computer ism trying to adapt itself to what it thinks i want。
+[Speaker 0]:  so as i've talked to it much more about issues in my life，
+[Speaker 0]:  about issues in my work，
+[Speaker 0]:  various kind of intellectual inquiries or reporting increies，
+[Speaker 0]:  where i am trying to figure out questions that as if yet，
+[Speaker 0]:  i met a sort of early stge of exploration，
+[Speaker 0]:  what what not not to overtime is，
+[Speaker 0]:  is one difference about it in talking to it is it is always a yes。
+[Speaker 0]:  and yep，
+[Speaker 0]:  it is never a know，
+[Speaker 0]:  but it's never a honesty。
+[Speaker 0]:  we still talking about this。
+[Speaker 0]:  it。
+[Speaker 0]:  it doesn't create a um in the way taltalking in eeditor does talking or friend does my partner or anything it doesn't create the possibilities。
+[Speaker 0]:  and another human does for kind of checking yourself youah。
+[Speaker 0]:  it's always pushing you further。
+[Speaker 0]:  and that is unnecessarily bad。
+[Speaker 0]:  it esesn't lead ad psychochosor sicka fancy or anything else。
+[Speaker 0]:  but it is it is very reinforcing of the eye。
+[Speaker 1]:  yes。
+[Speaker 0]:  and i don't wonder about it so much for me，
+[Speaker 0]:  although actually even already feel the pressure of it on me，
+[Speaker 0]:  as i all like more good ideas coming from me，
+[Speaker 0]:  more interesting things。
+[Speaker 0]:  i'll come up with，
+[Speaker 0]:  but i do wonder about kids growup up a role percent。
+[Speaker 0]:  they always have systems like this around them，
+[Speaker 0]:  and the degree of which，
+[Speaker 0]:  you know，
+[Speaker 0]:  there is some amount of my communication without human beings is，
+[Speaker 0]:  is no commloadded into communication with AI systems。
+[Speaker 0]:  i notice that already being a kind of cage of my own intuitions，
+[Speaker 0]:  even as it allows me to run further with them that i may be could otherwise，
+[Speaker 0]:  but i'm pretty well formed。
+[Speaker 0]:  and you've got younkids as i do。
+[Speaker 0]:  i'm curious how you think about what it means，
+[Speaker 0]:  how will shape our personalities to be in these constant conversations。
+[Speaker 1]:  this is maybe my number one worry about all of this is if you，
+[Speaker 1]:  if you discover yourself in partnership with the AI system，
+[Speaker 1]:  you are uniquely vulnerable to all of the failures of that ai system and not just failures，
+[Speaker 1]:  but the personality of for AI system will shape you。
+[Speaker 1]:  if you haven't，
+[Speaker 1]:  you know，
+[Speaker 1]:  i'm going some very california here here。
+[Speaker 1]:  if i'm from england，
+[Speaker 1]:  it's soaked its way into my brain。
+[Speaker 1]:  you have to know yourself and have done some work on yourself。
+[Speaker 1]:  i think to be effective in being able to critique how this AI system gives you advice。
+[Speaker 1]:  and so from my kids，
+[Speaker 1]:  i'm going to encourage firm to just have like a daily journal practice from an extremely young age。
+[Speaker 1]:  because my bed is that in the future，
+[Speaker 1]:  there will will be kind of two types of people。
+[Speaker 1]:  there will be people who have co created their personality for a back and forth of an ai。
+[Speaker 1]:  and some of that will just be it。
+[Speaker 1]:  they will seem a little different to like regular people，
+[Speaker 1]:  and there will maybe be problems that creep in because of that amber will be people who have worked on understanding themselves outside the bubble of technology and then bring that as context in with their interactions。
+[Speaker 1]:  and i think that latter latter type of person will do better，
+[Speaker 1]:  but ensuring what people do that is actually going to be hard。
+[Speaker 0]:  but don't you think the way people are going to discover themselves is with the technology？
+[Speaker 0]:  i think you were one of the first people who said to me，
+[Speaker 0]:  i should try keeping a journal yeah in the systems，
+[Speaker 0]:  and i don't know that on enough。
+[Speaker 0]:  and one thing it does is makes it more interesting to keep a journal because you have something reflecting back at you and picking out themes and and so on。
+[Speaker 0]:  but the other thing it does，
+[Speaker 0]:  is it a lot like i feel it as a poll toard self obsession，
+[Speaker 0]:  because，
+[Speaker 0]:  you know，
+[Speaker 0]:  i drop in，
+[Speaker 0]:  you know，
+[Speaker 0]:  you know，
+[Speaker 0]:  audio record a journaltry，
+[Speaker 0]:  and i drop it in。
+[Speaker 0]:  and all the sudden i have this endlesy interested are the system to tell me about me and ever connects to something i said。
+[Speaker 1]:  and i if you're going through an amazing journey here，
+[Speaker 0]:  and i generally can't tell it's a good thing or about thing。
+[Speaker 0]:  but i think that the i mean，
+[Speaker 0]:  we already know from survey data that a lot of what people are doing on these systems is，
+[Speaker 0]:  i think aacent into therapy，
+[Speaker 1]:  yes。
+[Speaker 1]:  and and and but this to me is，
+[Speaker 1]:  i think it it chained，
+[Speaker 1]:  it will change how these systems get built。
+[Speaker 1]:  it will change。
+[Speaker 1]:  i think best practices that people have a these systems。
+[Speaker 1]:  and i think for we actually don't don't quite understand what these interaction looks like，
+[Speaker 1]:  but it's extremely important to understand it。
+[Speaker 1]:  i mean，
+[Speaker 1]:  just to go back how in the same way that you can get clawd to ask you questions to more clearly specify what you're trying to do。
+[Speaker 1]:  and that leads to a better outcome。
+[Speaker 1]:  i think we're going to need to build ways that these systems can trying a list it from the person，
+[Speaker 1]:  the actual problem that trtrying to solve raveman kind of go down a free weeling path together，
+[Speaker 1]:  because in some cases，
+[Speaker 1]:  especially people that are kind of going through some kind of mental crisis。
+[Speaker 1]:  that is the exact moment when a friend would say，
+[Speaker 1]: 好的好的好的，
+[Speaker 1]:  this is nonsense，
+[Speaker 1]:  like you would not make any sense。
+[Speaker 1]:  take a walk and like call me tomorrow or let's talk about a different subject。
+[Speaker 1]:  i don't think your reasoning correctly about this，
+[Speaker 1]:  but a ye systems will happily go along with you until they'affirmed，
+[Speaker 1]:  a belief，
+[Speaker 1]:  it maybe wrong。
+[Speaker 1]:  and and i think this is just AA design problem that also will be a social problem that we have to content with。
+[Speaker 0]:  and and just wwder how how much it'll be a social force。
+[Speaker 0]:  i think we've given a lot of attention correctly。
+[Speaker 0]:  so to the places where momoved psychosis or a sort of strange air human relationships，
+[Speaker 0]:  we're seeing it through its most extreme manifestations。
+[Speaker 0]:  and those will become more widespread。
+[Speaker 0]:  i'm not saying they are not worthy attention，
+[Speaker 0]:  but for most people，
+[Speaker 0]:  it is just going to be a kind of a pressure in the same way that being on instagram，
+[Speaker 0]:  i think makes people more vin yeah，
+[Speaker 0]:  in the same way that we have become more capable seeing ourselves in the third person。
+[Speaker 0]:  the mirror is a technology。
+[Speaker 0]:  i mean is it's it's ununny the the myth of nurses。
+[Speaker 0]:  ses，
+[Speaker 0]:  he's gta look upon。
+[Speaker 0]:  yeah right。
+[Speaker 0]:  it was actually quite unusual to see yourself for much much human hemirrohehe's got inteleve。
+[Speaker 1]:  there's a lot of interesting。
+[Speaker 0]:  he's just on how mirroors have changed us。
+[Speaker 0]:  and somebody believes in the this sort of medium is message thing thing，
+[Speaker 0]:  a ism medium，
+[Speaker 0]:  and it will change us as we are in relationship to it point more。
+[Speaker 0]:  so than other things，
+[Speaker 0]:  because it is this kind of relationship that has AA kind of mimigrry of of an actual relationship。
+[Speaker 0]:  yes，
+[Speaker 1]:  i've use these eye systems to basically say，
+[Speaker 1]:  hey，
+[Speaker 1]:  i'm in conflict with，
+[Speaker 1]:  you know，
+[Speaker 1]:  someone of antropic。
+[Speaker 1]: 嗯，
+[Speaker 1]:  i really annoyed。
+[Speaker 1]:  um could you just like ask me some questions about that person and how they're feeling to try and help me？
+[Speaker 1]:  i guess，
+[Speaker 1]:  like better think about the world from their perspective，
+[Speaker 1]:  and that's a case where i'm not using the technology to a kind of a firm，
+[Speaker 1]:  my beliefs or shy member，
+[Speaker 1]:  right？
+[Speaker 1]:  but actually，
+[Speaker 1]:  to help me just try and sit with how is this of a person to how person experiencing this situation？
+[Speaker 1]:  and it's been profoundly helpful for then going in having the hard conflict conversation，
+[Speaker 1]:  sometimes even saying why i talld to caloron，
+[Speaker 1]:  you know，
+[Speaker 1]:  me，
+[Speaker 1]:  a clalth k。
+[Speaker 1]:  do you on study？
+[Speaker 1]:  you might be feeling this way and do i have that right？
+[Speaker 1]:  and sometimes it's right，
+[Speaker 1]:  but sometimes when it's wrong，
+[Speaker 1]:  it's really helpful for the other person to have seen me go through that exercise and empathy and spending time to try and understand them without before coming into the conflict。
+[Speaker 0]:  do you have strongeers and hayou on a parent in a rolt adyes becoming more ubiquitous？
+[Speaker 1]:  yes，
+[Speaker 1]:  i have the classic californian technology executive view of not having that much technology around for children。
+[Speaker 1]:  but i was i was raised in that format as well。
+[Speaker 1]:  like we had a we had a computer time in my weird office。
+[Speaker 1]:  my dad would let me play on the computer and at some point hehed，
+[Speaker 1]:  like，
+[Speaker 1]:  say，
+[Speaker 1]:  jack，
+[Speaker 1]:  you've had enough computers you're getting weird。
+[Speaker 1]:  no you'not get tting weird，
+[Speaker 1]:  no youyou've got to let me in here。
+[Speaker 1]:  i see being weird get out。
+[Speaker 1]:  i think finding a way to like budget，
+[Speaker 1]:  your child's time with weirnooffice has always been the work of parents，
+[Speaker 1]:  and we will continue to be i recognized over it gegetting more ubiquous，
+[Speaker 1]:  ous。
+[Speaker 1]:  and hard to escape。
+[Speaker 1]:  we have a smart tv。
+[Speaker 1]:  my todddler。
+[Speaker 1]:  she can watch blue in a couple of other shows，
+[Speaker 1]:  but we haven't let her have like unfttaaccess to like the youtube algorithm and freaks me out。
+[Speaker 1]:  but i see her seeing the youtube pain on the tv。
+[Speaker 1]:  and i know at some point，
+[Speaker 1]:  we're going to have to have that conversation。
+[Speaker 1]:  so we're going to need to build pretty heavy parental controls into this system。
+[Speaker 1]:  we serve eightes and up today，
+[Speaker 1]:  but obviously，
+[Speaker 1]:  kids to sass，
+[Speaker 1]:  i go to try and get on to this stuff。
+[Speaker 1]:  you're gona need to build a whole bunch of systems to kind of prevent children spending。
+[Speaker 1]:  so much time with this，
+[Speaker 0]:  i think that's good place to end。
+[Speaker 0]:  i was a found al question，
+[Speaker 0]:  what if few books you're recommend to the audience？
+[Speaker 1]:  uh，
+[Speaker 1]:  early ly，
+[Speaker 1]:  little grin for visit diversy was the first book i read。
+[Speaker 1]:  it's a book where magic it comes from，
+[Speaker 1]:  knowing the true name of things。
+[Speaker 1]:  and it's also a meditation on a hubris。
+[Speaker 1]:  in this case of a person with thinking，
+[Speaker 1]:  we can push magic very far。
+[Speaker 1]:  um i read it now as a ted dologist。
+[Speaker 1]:  oh，
+[Speaker 1]:  eric coffer，
+[Speaker 1]:  the true beliebeliever is a book ook on natature of mass movements and the psychology of what cases people to have strong beliefs，
+[Speaker 1]:  which i read，
+[Speaker 1]:  because i think that were AI technologies have strong beliefs in a mayy part of AA strong culture that includes the word cut and say，
+[Speaker 1]:  you need to understand the science。
+[Speaker 1]:  and psychology behind that。
+[Speaker 1]:  and finally，
+[Speaker 1]:  a book called there is no antimametics division by a writer with the name。
+[Speaker 1]:  QNTM。
+[Speaker 1]:  viwhich is even ininthat that are themselves information hazards，
+[Speaker 1]:  where are even thinking about them can be dangerous。
+[Speaker 1]:  and i was recommended to people working on AI risk as a book，
+[Speaker 1]:  a lient to the things they worry about jclark。
+[Speaker 1]:  thank you very much。
+[Speaker 3]:  thanks very much as well 啦啦。
