@@ -1,0 +1,4225 @@
+there
+ is
+ this
+ emergence
+ of
+ kind
+ of
+ like
+
+
+a
+ new
+ I
+ would
+ say
+ class
+ of
+ like
+ engineer
+
+
+which
+ is
+ like
+ the
+ AI
+ native
+ engineer
+ and
+
+
+AI
+ is
+ that
+ language.
+ AI
+ is
+ that
+ new
+
+
+language.
+ This
+ particular
+ generation
+ of
+
+
+junior
+ developers
+ of
+ junior
+ engineers
+ of
+
+
+people
+ that
+ are
+ now
+ entering
+ the
+
+
+workforce
+ will
+ I
+ think
+ be
+ the
+ first
+ kind
+
+
+of
+ generation
+ of
+ that
+ new
+ shift.
+ A
+
+
+single
+ developer
+ become
+ a
+ manager
+ of
+
+
+agents.
+ Adding
+ more
+ agents
+ doesn't
+
+
+always
+ create
+ for
+ a
+ better
+ system.
+ In
+
+
+fact,
+ it
+ can
+ make
+ for
+ a
+ lot
+ worse
+
+
+systems
+ actually
+ if
+ if
+ you
+ just
+ let
+ them
+
+
+go
+ and
+ do
+ whatever
+ they
+ want.
+ So
+ really
+
+
+knowing
+ how
+ to
+ like
+ properly
+ handle
+
+
+multiple
+ agents
+ is
+ like
+ the
+ last
+ boss
+ in
+
+
+a
+ game.
+ Like
+ if
+ you
+ can
+ do
+ that
+ really
+
+
+really
+ well,
+ then
+ you
+ are
+ like
+ literally
+
+
+like
+ the
+ top
+ top.1%
+ of
+ of
+ users
+ even
+
+
+today.
+ I'm
+ Mihel.
+ I
+ lead
+ AI
+ at
+ an
+ early
+
+
+stage
+ startup
+ here
+ in
+ San
+ Francisco.
+ I
+
+
+also
+ teach
+ class
+ at
+ Stanford.
+ The
+ title
+
+
+of
+ the
+ class
+ is
+ the
+ modern
+ software
+
+
+developer.
+ It's
+ definitely
+ the
+ first
+
+
+class
+ where
+ the
+ focus
+ is
+ AI
+ across
+ the
+
+
+SDLC.
+ within
+ like
+ a
+ few
+ hours
+ of
+ the
+
+
+class
+ being
+ announced
+ and
+ it
+ kind
+ of
+
+
+opened
+ up
+ for
+ enrollment.
+ Filled
+ up
+ over
+
+
+100
+ students
+ trying
+ to
+ get
+ into
+ the
+
+
+class.
+
+
+>> What
+ is
+ happening
+ to
+ junior
+ software
+
+
+engineers?
+
+
+there
+ was
+ this
+ huge
+ momentum
+ around
+
+
+something
+ kind
+ of
+ crazy
+ is
+ happening
+
+
+software
+ development
+ and
+ AI
+ is
+ really
+
+
+starting
+ to
+ make
+ its
+ way
+ into
+ every
+
+
+single
+ part
+ of
+ how
+ software
+ is
+ being
+
+
+done
+ and
+ and
+ clearly
+ something
+ was
+
+
+changing
+ and
+ I've
+ heard
+ some
+ pretty
+
+
+scary
+ anecdotes
+ where
+ I
+ was
+ talking
+ to
+
+
+someone
+ that
+ had
+ just
+ graduated
+ at
+
+
+Berkeley
+ and
+ they
+ were
+ saying
+ that
+ they
+
+
+had
+ applied
+ to
+ like
+ a
+ thousand
+ places
+
+
+and
+ had
+ heard
+ back
+ from
+ like
+ only
+ heard
+
+
+back
+ from
+ like
+ two
+ places.
+ So
+ not
+ even
+
+
+like
+ got
+ interviews
+ and
+ you
+ know
+ had
+
+
+gone
+ through
+ the
+ pipeline
+ but
+ really
+
+
+were
+ just
+ heard
+ back.
+ So
+ the
+ reality
+ is
+
+
+for
+ a
+ lot
+ of
+ junior
+ engineers
+ it's
+ very
+
+
+difficult
+ for
+ them
+ to
+ you
+ know
+ get
+ some
+
+
+of
+ these
+ roles.
+ It's
+ it's
+ an
+ interesting
+
+
+time
+ in
+ in
+ the
+ ecosystem
+ actually
+ the
+
+
+soft
+ ecosystem
+ where
+ where
+ basically
+
+
+three
+ things
+ happened
+ came
+ together
+ in
+
+
+this
+ kind
+ of
+ like
+ perfect
+ storm.
+ The
+
+
+first
+ thing
+ that
+ happened
+ was
+ in
+ around
+
+
+2021
+ there
+ was
+ this
+ a
+ huge
+ surge
+ of
+ like
+
+
+hiring
+ soon
+ after
+ co
+ there
+ was
+ just
+ a
+
+
+bunch
+ of
+ companies
+ that
+ felt
+ they
+ needed
+
+
+to
+ increase
+ their
+ employee
+ count
+ and
+
+
+then
+ I
+ think
+ a
+ lot
+ of
+ companies
+ realized
+
+
+that
+ they
+ like
+ overhired.
+ So
+ there
+ was
+
+
+like
+ massive
+ layoffs
+ that
+ happened
+ where
+
+
+all
+ these
+ companies
+ that
+ had
+ hired
+ a
+ ton
+
+
+of
+ people
+ realized
+ that
+ actually
+ we
+ can
+
+
+like
+ reduce
+ our
+ workforce
+ by
+ 20%
+ 30%
+ and
+
+
+it's
+ still
+ okay.
+ That
+ was
+ combined
+ with
+
+
+the
+ fact
+ that
+ the
+ growth
+ of
+ the
+ CS
+
+
+curriculum
+ like
+ the
+ CS
+ major
+ nationally
+
+
+and
+ internationally
+ has
+ grown
+
+
+tremendously
+ in
+ the
+ last
+ like
+ 10
+ to
+ 15
+
+
+years.
+ So
+ when
+ I
+ was
+ graduating,
+ you
+
+
+know,
+ there's
+ like
+ some
+ number
+ of
+
+
+graduates
+ and
+ I
+ think
+ since
+ then
+ like
+
+
+it's
+ doubled
+ to
+ maybe
+ 3x
+ in
+ terms
+ of
+ how
+
+
+many
+ graduates
+ from
+ CS
+ are
+ graduating
+
+
+every
+ year.
+ And
+ so
+ you
+ have
+ a
+ huge
+
+
+workforce
+ of
+ people
+ that
+ have
+
+
+essentially
+ like
+ been
+ laid
+ off.
+ you
+ have
+
+
+this
+ new
+ overwhelming
+ like
+ new
+
+
+generation
+ of
+ engineers.
+ We
+ want
+ jobs.
+
+
+And
+ then
+ the
+ third
+ thing
+ that
+ I
+ think
+
+
+was
+ contributed
+ to
+ all
+ this
+ was
+ AI
+
+
+became
+ popular,
+ right?
+ Like
+ people
+
+
+started
+ like
+ really
+ paying
+ attention
+ to
+
+
+AI.
+ And
+ so
+ for
+ a
+ lot
+ of
+ employers,
+ they
+
+
+started
+ considering
+ do
+ I
+ need
+ to
+ hire
+
+
+more
+ people
+ to
+ fill
+ my
+ gaps
+ or
+ can
+ I
+
+
+just
+ hire
+ fewer
+ people
+ that
+ are
+ maybe
+
+
+native
+ at
+ AI
+ and
+ that
+ way
+ cover
+ the
+
+
+quota
+ that
+ I
+ have
+ maybe
+ for
+ employment.
+
+
+And
+ so
+ this
+ particular
+ generation
+ of
+
+
+junior
+ developers,
+ of
+ junior
+ engineers,
+
+
+the
+ people
+ that
+ are
+ now
+ entering
+ the
+
+
+workforce
+ will,
+ I
+ think,
+ be
+ the
+ first
+
+
+kind
+ of
+ generation
+ of
+ that
+ new
+ shift,
+
+
+right,
+ where
+ they
+ have
+ to
+ both
+ have
+ good
+
+
+fundamentals,
+ but
+ also
+ know
+ how
+ to
+ be
+
+
+fully
+ AI
+ native.
+
+
+>> How
+ top
+ 1%
+ AI
+ native
+ engineers
+
+
+orchestrate
+ agents.
+ At
+ its
+ core,
+ I
+ think
+
+
+that
+ the
+ AI
+ native
+ engineer
+ is
+ one
+ that
+
+
+both
+ has
+ like
+ a
+ strong
+ backing
+ and
+ and
+ a
+
+
+foundation
+ in
+ traditional
+ programming,
+
+
+system
+ design,
+ and
+ algorithmic
+ thinking,
+
+
+but
+ is
+ very
+ competent
+ at
+ using
+ like
+ a
+
+
+gentic
+ workflows.
+ I
+ always
+ teach
+ them
+
+
+like
+ build
+ it
+ up
+ peace
+ meal.
+ You
+ know,
+
+
+Boris
+ from
+ Claude
+ said
+ he
+ does
+ like
+ 10
+
+
+agents
+ at
+ once
+ and
+ so
+ I
+ should
+ start
+
+
+doing
+ 10
+ agents
+ at
+ once.
+ Like
+ that
+
+
+that's
+ like
+ the
+ wrong
+ outcome
+ that
+ you
+
+
+should
+ emphasize.
+ Again,
+ I
+ would
+ build
+
+
+it
+ one
+ at
+ a
+ I
+ would
+ say,
+ hey,
+ like
+ I'm
+
+
+really
+ good
+ at
+ doing
+ one
+ agent
+ workflow
+
+
+quite
+ well
+ and
+ I
+ can
+ build
+ like
+ a
+
+
+complex
+ piece
+ of
+ software
+ with
+ one
+
+
+agent,
+ but
+ then
+ I
+ know
+ that
+ I
+ have
+ to
+ do
+
+
+this
+ like
+ other
+ thing
+ which
+ is
+ like
+
+
+maybe
+ a
+ small
+ change.
+ Thinking
+ about
+
+
+your
+ tasks
+ as
+ something
+ that
+ are
+
+
+isolated
+ and
+ that
+ can
+ be
+ done
+ with
+
+
+confidence
+ by
+ something
+ that
+ is
+ that
+ is
+
+
+a
+ second
+ or
+ third
+ agent.
+ And
+ so
+ you
+ add,
+
+
+you
+ know,
+ a
+ second
+ agent
+ to
+ fix
+ the
+ logo
+
+
+and
+ you're
+ like,
+ well,
+ this
+ agent
+ is
+
+
+fixing
+ the
+ logo.
+ Another
+ agent
+ maybe
+
+
+could
+ also
+ um
+ update
+ the
+ copy
+ on
+ the
+
+
+header
+ of
+ of
+ the
+ website.
+ And
+ again,
+
+
+this
+ is
+ like
+ an
+ isolated
+ change
+ that
+ has
+
+
+nothing
+ to
+ do
+ with
+ what
+ the
+ second
+ agent
+
+
+was
+ doing.
+ And
+ so,
+ the
+ way
+ I
+ would
+ think
+
+
+about
+ it
+ is
+ iteratively
+ add
+ more
+ work
+
+
+for
+ the
+ agents.
+ Make
+ sure
+ that
+ you
+ first
+
+
+understand
+ what
+ has
+ to
+ be
+ done
+ and
+ then
+
+
+know
+ where
+ the
+ lines
+ are
+ between
+ those
+
+
+those
+ items
+ of
+ work.
+ And
+ then
+ like
+ when
+
+
+you're
+ feeling
+ good
+ about
+ how
+ one
+ agent
+
+
+is
+ doing
+ something,
+ then
+ add
+ a
+ second
+
+
+one.
+ Then
+ if
+ the
+ second
+ one's
+ doing
+ well
+
+
+and
+ you're
+ feeling
+ confident,
+ then
+ add
+ a
+
+
+third
+ one,
+ you
+ know?
+ So,
+ I
+ would
+ build
+
+
+it
+ up
+ more
+ step
+ by
+ step
+ rather
+ than
+ 10
+
+
+agents
+ at
+ once.
+ The
+ second
+ thing
+ that
+ I
+
+
+think
+ is
+ really
+ really
+ important
+ there
+
+
+is
+ knowing
+ how
+ to
+ like
+ context
+ switch.
+
+
+In
+ practice,
+ what
+ you're
+ doing
+ is
+ you're
+
+
+like
+ kicking
+ off
+ these
+ like
+ interns.
+
+
+Basically,
+ they're
+ like
+ very
+ eager,
+
+
+savvy
+ interns,
+ these
+ agents,
+ and
+ they're
+
+
+doing
+ a
+ thing
+ and
+ then
+ you're
+ just
+
+
+watching
+ them
+ in
+ the
+ terminal
+ or
+ like
+ in
+
+
+the
+ IDE
+ and
+ you're
+ just
+ like
+ seeing
+ them
+
+
+do
+ work
+ and
+ they're
+ like
+ contributing
+
+
+code
+ and
+ it's
+ just
+ getting
+ written
+
+
+somewhere
+ and
+ but
+ sometimes
+ they
+ get
+
+
+stuck,
+ right?
+ How
+ do
+ you
+ go
+ from
+ like
+
+
+one
+ to
+ another
+ to
+ like
+ understanding,
+
+
+hey,
+ this
+ agent
+ one
+ was
+ working
+ on
+ this
+
+
+particular
+ task,
+ agent
+ two
+ was
+ working
+
+
+on
+ another
+ task,
+ agent
+ three
+ was
+ working
+
+
+on
+ another
+ task,
+ and
+ then
+ you're
+ like
+
+
+constantly
+ switching
+ back
+ and
+ forth.
+ And
+
+
+it's
+ a
+ very
+ difficult
+ thing
+ to
+ do
+ even
+
+
+as
+ a
+ human,
+ right?
+ To
+ know
+ how
+ to
+ like
+
+
+remember
+ what
+ the
+ last
+ thing
+ was
+ working
+
+
+on,
+ but
+ still
+ have
+ enough
+ context
+ to
+
+
+meaningfully
+ push
+ that
+ task
+ forward.
+ And
+
+
+so
+ that
+ switching,
+ I
+ think,
+ is
+ probably
+
+
+one
+ of
+ the
+ core
+ skills
+ of
+ of
+ getting
+
+
+multi-
+ aent
+ workflows
+ to
+ work
+ really
+
+
+well.
+ That
+ what
+ I've
+ described
+ is
+
+
+basically
+ what
+ makes
+ a
+ good
+ manager,
+
+
+like
+ a
+ good
+ human
+ manager.
+ It
+ has
+
+
+nothing
+ to
+ do
+ with
+ like
+ an
+ agent.
+ Like
+
+
+if
+ you
+ can
+ do
+ that
+ task
+ really
+ really
+
+
+well
+ then
+ you
+ also
+ are
+ like
+ a
+ very
+ good
+
+
+you'll
+ be
+ like
+ a
+ good
+ human
+ manager
+ in
+
+
+general
+ and
+ so
+ the
+ people
+ that
+ I've
+ seen
+
+
+best
+ at
+ doing
+ that
+ are
+ the
+ ones
+ that
+ are
+
+
+also
+ have
+ been
+ managers
+ of
+ like
+ humans
+
+
+you
+ know
+ or
+ human
+ developers
+ and
+ have
+
+
+learned
+ how
+ to
+ do
+ that
+ context
+ switching
+
+
+and
+ then
+ apply
+ similar
+ principles
+ to
+ to
+
+
+agents
+ there's
+ this
+ concept
+ that
+ I'm
+
+
+calling
+ like
+ an
+ agentfriendly
+ codebase
+
+
+or
+ an
+ agent
+ friendly
+ development
+
+
+ecosystem.
+ Uh,
+ and
+ what
+ I
+ mean
+ here
+ is
+
+
+if
+ an
+ agent
+ was
+ released
+ into
+ your
+
+
+codebase,
+ would
+ it
+ know
+ how
+ to
+
+
+understand
+ what's
+ happening
+ in
+ the
+
+
+codebase?
+ When
+ you
+ release
+ an
+ agent
+ to
+
+
+go
+ and
+ build
+ in
+ the
+ context
+ of
+ your
+
+
+codebase,
+ the
+ way
+ you
+ ensure
+ that
+
+
+they're
+ going
+ to
+ like
+ not
+ break
+
+
+something
+ and
+ that
+ whatever
+ they
+
+
+contribute
+ will
+ work,
+ is
+ they
+ test
+ it
+
+
+against
+ your
+ tests,
+ which
+ are
+ basically
+
+
+contracts
+ that
+ define
+ the
+ correctness
+ of
+
+
+software.
+ You
+ need
+ to
+ define
+ these
+
+
+contracts.
+ If
+ if
+ you
+ don't
+ have
+ enough
+
+
+test
+ coverage,
+ then
+ you
+ don't
+ have
+
+
+contracts
+ for
+ your
+ software.
+ agents
+ only
+
+
+can
+ operate
+ on
+ contracts
+ like
+ explicitly
+
+
+defined
+ contracts
+ of
+ software.
+ Any
+
+
+developer
+ who's
+ been
+ in
+ the
+ industry
+
+
+knows
+ that
+ readmes
+ get
+ out
+ of
+ date
+ with
+
+
+what's
+ happening
+ in
+ the
+ code
+ almost
+
+
+immediately.
+ And
+ so
+ you
+ have
+ these
+ like
+
+
+two
+ descriptions
+ of
+ the
+ same
+ thing.
+ The
+
+
+code
+ says
+ one
+ thing
+ but
+ the
+ readme
+ says
+
+
+a
+ completely
+ different
+ thing.
+ If
+ your
+
+
+code
+ has
+ that
+ kind
+ of
+ a
+ situation
+ then
+
+
+the
+ agent
+ will
+ read
+ the
+ readme
+ and
+ maybe
+
+
+the
+ code
+ and
+ they'll
+ and
+ they'll
+ ask
+
+
+them
+ like
+ which
+ of
+ these
+ what's
+ the
+
+
+right
+ interpretation?
+ Should
+ I
+ follow
+
+
+the
+ read
+ memes
+ what
+ the
+ read
+ me
+ says
+ or
+
+
+what
+ the
+ codebase
+ says?
+ And
+ so
+ make
+ sure
+
+
+they're
+ consistent,
+ right?
+ This
+ is
+ like
+
+
+a
+ simple
+ thing.
+ When
+ you
+ get
+ spaghetti
+
+
+code,
+ it's
+ typically
+ when
+ an
+ agent
+ has
+
+
+maybe
+ gone
+ on
+ and
+ built
+ something
+ for
+
+
+multiple
+ iterations,
+ maybe
+ multiple
+
+
+features,
+ and
+ it
+ just
+ started
+ kind
+ of
+
+
+like
+ going
+ off
+ the
+ rails
+ a
+ little
+ bit.
+
+
+One
+ bad
+ thing
+ that
+ they're
+ really
+ good
+
+
+at
+ is
+ agents
+ can
+ compound
+ errors
+ very
+
+
+quickly.
+ If
+ an
+ agent
+ has
+ one
+
+
+misunderstanding
+ in
+ a
+ code,
+ and
+ then
+ it
+
+
+sees
+ that
+ misunderstanding
+ that
+ it
+
+
+created
+ in
+ step
+ one,
+ it
+ can
+ double
+ down
+
+
+and
+ and
+ create
+ another
+ error
+ in
+ step
+
+
+two,
+ it'll
+ magnify
+ it.
+ The
+ most
+
+
+important
+ thing
+ is
+ like
+ having
+ making
+
+
+sure
+ that
+ the
+ first
+ thing
+ that
+ the
+ agent
+
+
+sees
+ is
+ completely
+ robust
+ and
+ it's
+
+
+completely
+ airtight
+ in
+ terms
+ of
+ design,
+
+
+in
+ terms
+ of
+ testing,
+ in
+ terms
+ of
+ like
+
+
+the
+ build,
+ like
+ a
+ lot
+ of these
+ like
+ kind
+
+
+of
+ core
+ parts
+ of
+ the
+ the
+ codebase
+ itself
+
+
+before
+ you
+ even
+ think
+ about
+ the
+ agent.
+
+
+So
+ again,
+ like
+ making
+ sure
+ that
+ like
+ the
+
+
+first
+ version
+ of
+ your
+ code
+ that
+ an
+ agent
+
+
+sees
+ is
+ self-consistent,
+ making
+ sure
+
+
+that
+ it's
+ well
+ tested,
+ making
+ sure
+ that
+
+
+you
+ have
+ linting
+ in
+ place
+ and
+ style
+
+
+checking
+ so
+ that
+ you
+ know
+ your
+ your
+
+
+codebase
+ is
+ is
+ consistently
+ formatted.
+ A
+
+
+lot
+ of these
+ things
+ will
+ ensure
+ that
+
+
+your
+ agent
+ is
+ always
+ adhering
+ to
+ the
+ the
+
+
+kind
+ of
+ the
+ rules
+ of
+ your
+ codebase
+ that
+
+
+you've
+ already
+ defined.
+ And
+ then
+ the
+
+
+last
+ thing
+ that
+ I'll
+ add
+ just
+ just
+ to
+
+
+give
+ another
+ example
+ of
+ like
+ agent
+
+
+friendly
+ agent
+ first
+ code
+ bases,
+ are
+ you
+
+
+consistent
+ about
+ like
+ design
+ patterns
+ in
+
+
+your
+ code?
+ What
+ I
+ mean
+ here
+ is
+ if
+ if
+
+
+there's
+ one
+ part
+ of
+ your
+ codebase
+ where
+
+
+when
+ you
+ create
+ a
+ certain
+ kind
+ of
+
+
+object,
+ you
+ use
+ this
+ one
+ API
+ and
+ there's
+
+
+another
+ part
+ of
+ the
+ codebase,
+ you
+ also
+
+
+create
+ the
+ same
+ object,
+ but
+ you're
+ using
+
+
+a
+ different
+ API.
+ when
+ an
+ agent
+ now
+ has
+
+
+to
+ develop
+ in
+ your
+ codebase,
+ which
+ of
+
+
+the
+ two
+ should
+ it
+ use?
+ Should
+ you
+ use
+
+
+the
+ API
+ 1
+ or
+ API
+ 2?
+ And
+ if
+ people
+ have
+
+
+an
+ agent
+ that
+ goes
+ and
+ picks
+ the
+ wrong
+
+
+API,
+ well,
+ a
+ human
+ would
+ also
+ have
+ been
+
+
+confused.
+ If
+ I
+ were
+ walking
+ to
+ your
+
+
+codebase
+ and
+ saw
+ the
+ two
+ different
+ ways
+
+
+of
+ doing
+ it,
+ I
+ would
+ also
+ ask
+ myself,
+
+
+should
+ I
+ do
+ one
+ or
+ two?
+ I
+ don't
+ know.
+ I
+
+
+see
+ both.
+ And
+ I
+ would
+ probably
+ end
+ up
+
+
+asking
+ a
+ teammate,
+ hey,
+ which
+ of
+ these
+
+
+are
+ we
+ actually
+ supposed
+ to
+ use?
+
+
+consistent
+ design
+ patterns
+ and
+ and
+ kind
+
+
+of
+ programmatic
+ patterns
+ I
+ think
+ is
+ also
+
+
+something
+ that
+ the
+ best
+ agent
+ friendly
+
+
+codebases
+ I've
+ seen
+ use
+
+
+>> functional
+ software
+ versus
+ incredible
+
+
+software
+
+
+>> a
+ few
+ things
+ that
+ define
+ functional
+
+
+software
+ from
+ like
+ incredible
+ software
+
+
+the
+ one
+ version
+ of
+ the
+ answer
+ is
+ just
+
+
+taste
+ like
+ what
+ is
+ good
+ software
+ taste
+
+
+right
+ and
+ genuinely
+ there's
+ people
+ that
+
+
+have
+ taste
+ and
+ don't
+ have
+ taste
+ or
+ just
+
+
+people
+ that
+ have
+ taste
+ that
+ spend
+ more
+
+
+time
+ developing
+ that
+ taste
+ when
+ I
+ look
+
+
+at
+ sort
+ of
+ the
+ the
+ students
+ in
+ my
+ class
+
+
+we
+ had
+ some
+ requirements
+ like
+ you
+ have
+
+
+to
+ build
+ like
+ five
+ different
+ flows
+ or
+
+
+something
+ like
+ you
+ can
+ create
+ those
+
+
+flows,
+ but
+ if
+ you
+ want
+ to
+ push
+ yourself
+
+
+like
+ doing
+ the
+ bonus,
+ you
+ know,
+ the
+
+
+bonus
+ and
+ then
+ the
+ extra
+ credit,
+ that
+ is
+
+
+like
+ I
+ think
+ where
+ the
+ difference
+ starts
+
+
+to
+ arise
+ is
+ when
+ someone
+ is
+ like,
+ I
+ know
+
+
+that
+ I've
+ already
+ like
+ hit
+ 100%
+ on
+ this
+
+
+or,
+ you
+ know,
+ got
+ most
+ of
+ the
+ credit
+ for
+
+
+the
+ assignment
+ or
+ the
+ project,
+ but
+ I
+
+
+really
+ want
+ to
+ like
+ I'm
+ invested
+ in
+ like
+
+
+building
+ the
+ most
+ complex
+ thing
+ because
+
+
+I
+ want
+ to
+ solve
+ a
+ problem
+ more
+ than
+ just
+
+
+get
+ the
+ grade,
+ right?
+ But
+ the
+ taste
+
+
+building
+ happens
+ in
+ that
+ like
+ that
+ last
+
+
+mile
+ like
+ where
+ you
+ go
+ spend
+ and
+ you
+
+
+like
+ do
+ the
+ extra
+ work
+ to
+ like
+ expand
+
+
+the
+ feature,
+ make
+ it
+ more
+ robust,
+ make
+
+
+more
+ things
+ possible
+ in
+ the
+ application.
+
+
+You
+ know,
+ the
+ students
+ again
+ that
+ I
+
+
+think
+ did
+ the
+ best
+ were
+ the
+ ones
+ that
+
+
+like
+ are
+ now
+ literally
+ building
+ startups
+
+
+around
+ their
+ projects
+ because
+ they
+ like
+
+
+see
+ that
+ there's
+ something
+ there
+ and
+
+
+they're
+ going
+ to
+ like
+ they're
+ rolling
+
+
+with
+ it.
+ You
+ know,
+ like
+ the
+ class
+ ended,
+
+
+but
+ they're
+ like
+ we're
+ still
+ but
+ we're
+
+
+still
+ working
+ on
+ the
+ exact
+ same
+ thing
+
+
+because
+ we
+ think
+ there's
+ more
+ to
+ build
+
+
+here.
+ And
+ that
+ I
+ think
+ is
+ where
+ the
+ way
+
+
+the
+ top
+ engineers
+ think.
+ Experimentation
+
+
+is
+ sort
+ of
+ the
+ name
+ of
+ the
+ game
+ in
+
+
+becoming
+ an
+ AI
+ native
+ software
+
+
+developer.
+ One
+ example
+ that
+ comes
+ to
+
+
+mind
+ is
+ when
+ Boris
+ came
+ from
+ cloud
+ code
+
+
+came
+ to
+ speak.
+ Someone
+ like
+ Boris
+ even
+ a
+
+
+team
+ like
+ you
+ know
+ Claude
+ at
+ Anthropic
+
+
+that
+ is
+ building
+ such
+ an
+ amazing
+ piece
+
+
+of
+ software
+ they
+ basically
+ rewrite
+
+
+Claude
+ every
+ week
+ or
+ like
+ week
+ or
+ two
+
+
+weeks
+ using
+ Claude,
+ right?
+ So
+ they
+ are
+
+
+like
+ constantly
+ rewriting
+ their
+ own
+
+
+piece
+ of
+ software
+ with
+ software
+ like
+
+
+that
+ they've
+ built.
+ And
+ so
+ they
+
+
+themselves
+ are
+ also
+ figuring
+ things
+ out
+
+
+as
+ they
+ go
+ like
+ they
+ are
+ building
+ their
+
+
+system
+ but
+ they
+ are
+ experimenting
+ and
+
+
+constantly
+ iterating
+ based
+ on
+ feedback
+
+
+from
+ their
+ users
+ and
+ even
+ if
+ they
+ seem
+
+
+like
+ they
+ have
+ all
+ the
+ answers
+ they
+
+
+don't
+ you
+ know
+ they
+ themselves
+ are
+ also
+
+
+discovering
+ what
+ works
+ and
+ what
+ what
+
+
+doesn't
+ work
+ and
+ so
+ the
+ more
+ important
+
+
+thing
+ is
+ to
+ build
+ experimentation
+ into
+
+
+your
+ own
+ workflows
+ and
+ I
+ tried
+ to
+
+
+reinforce
+ in
+ the
+ students
+ was
+ look
+ I
+ can
+
+
+come
+ here
+ and
+ I
+ can
+ give
+ you
+ suggestions
+
+
+I
+ can
+ say
+ you
+ should
+ try
+ this
+ tool
+
+
+here's
+ what
+ I
+ think
+ is
+ good
+ about
+ this
+
+
+tool
+ but
+ at
+ At
+ the
+ end
+ of
+ the
+ day,
+ you
+
+
+have
+ to
+ sort
+ of
+ like
+ beat
+ your
+ head
+
+
+against
+ the
+ wall
+ a
+ little
+ bit
+ yourself.
+
+
+You
+ have
+ to
+ be
+ able
+ to
+ experiment.
+ You
+
+
+have
+ to
+ be
+ able
+ to
+ see
+ what
+ works
+ for
+
+
+you
+ and
+ what
+ doesn't
+ work
+ for
+ you
+ and
+
+
+really
+ just
+ kind
+ of
+ make
+ that
+ a
+ part
+ of
+
+
+the
+ kind
+ of the
+ new
+ way
+ of
+ doing
+
+
+software
+ development,
+ experimentation,
+
+
+hacking,
+ and
+ just
+ making
+ that
+ a
+ part
+ of
+
+
+your
+ workflow.
+
+
+>> Why
+ the
+ world
+ still
+ needs
+ junior
+
+
+software
+ engineers?
+
+
+>> Senior
+ developers
+ historically
+ tend
+ to
+
+
+be
+ a
+ little
+ bit
+ resistant
+ to
+ AI
+ tools
+
+
+because
+ they're
+ so
+ ingrained
+ in
+ their
+
+
+own
+ way
+ of
+ doing
+ things
+ cuz
+ they've
+ been
+
+
+developing
+ for
+ 20
+ years
+ and
+ they're
+
+
+like,
+ "Oh,
+ the
+ only
+ way
+ to
+ do
+ this
+ is
+
+
+the
+ way
+ that
+ I've
+ done
+ it.
+ I
+ use
+ them."
+
+
+the
+ senior
+ developer
+ sometimes
+ going
+ to
+
+
+be
+ the
+ most
+ stubborn,
+ but
+ someone
+ who
+ is
+
+
+coming
+ to
+ the
+ industry
+ for
+ the
+ first
+
+
+time,
+ they're
+ like
+ they're
+ like
+ a
+
+
+sponge.
+ Like
+ everything
+ is
+ possible
+ to
+
+
+them.
+ Like
+ they're
+ learning
+ things
+ for
+
+
+the
+ first
+ time.
+ And
+ so
+ all
+ of
+ the
+ things
+
+
+that
+ are
+ difficult
+ about
+ the
+ world
+ and
+
+
+society
+ and
+ and
+ industries
+ and
+
+
+verticals,
+ they
+ don't
+ yet.
+ They
+ haven't
+
+
+internalized
+ that
+ yet.
+ They're
+ not
+ like
+
+
+scarred
+ by
+ like
+ how
+ hard
+ healthcare
+ is.
+
+
+They
+ just
+ see
+ like,
+ oh,
+ I
+ see
+ a
+ problem.
+
+
+I
+ don't
+ know.
+ Like
+ why
+ don't
+ I
+ go
+ try
+
+
+and
+ do
+ it?
+ And
+ so
+ there's
+ like
+ a
+ good
+
+
+naivity
+ to
+ how
+ young
+ young
+ people
+ think,
+
+
+which
+ is
+ perfect
+ for
+ a
+ startup
+ founder.
+
+
+they're
+ going
+ to
+ be
+ be
+ brave
+ enough
+ to
+
+
+go
+ and
+ tackle
+ the
+ thing.
+ In
+ those
+
+
+situations,
+ they
+ end
+ up
+ being
+ the
+ best
+
+
+people
+ that
+ have
+ adopted
+ that
+ skill
+ set
+
+
+that
+ everyone
+ is
+ now
+ asking
+ for.
+ Even
+ if
+
+
+there
+ is
+ concern
+ that,
+ you
+ know,
+ it's
+
+
+becoming
+ harder
+ to
+ to
+ kind
+ of
+ get
+
+
+employed,
+ I
+ think
+ the
+ people
+ that
+ are
+
+
+learning
+ these
+ skills
+ for
+ the
+ first
+ time
+
+
+end
+ up
+ being
+ the
+ most
+ nimble
+ and
+ end
+ up
+
+
+being
+ the
+ most
+ like
+ fast
+ at
+ like
+ kind
+ of
+
+
+using
+ those
+ skills.
+ So,
+ I
+ actually
+ think
+
+
+they
+ can
+ still
+ succeed
+ in
+ ways
+ that
+
+
+senior
+ developers
+ cannot.
+ fundamentally
+
+
+like
+ what
+ you're
+ teaching
+ with
+ software
+
+
+is
+ like
+ how
+ to
+ think
+ about
+ building
+ of
+ a
+
+
+of
+ a
+ complex
+ system
+ using
+ digital
+ means
+
+
+and
+ like
+ learning
+ how
+ to
+ use
+ algorithms
+
+
+to
+ solve
+ that
+ system.
+ This
+ is
+ almost
+
+
+like
+ more
+ like
+ math
+ than
+ it
+ is
+ like
+ CS,
+
+
+right?
+ It's
+ it's
+ like
+ like
+ you're
+
+
+learning
+ like
+ math
+ skills
+ almost.
+ And
+ I
+
+
+think
+ that
+ is
+ just
+ like
+ teaching
+ someone
+
+
+how
+ to
+ like
+ think
+ because
+ so
+ much
+ of
+ the
+
+
+CS
+ profession
+ is
+ is
+ breaking
+ things
+ up
+
+
+and
+ seeing
+ how
+ things
+ work
+ and
+ then
+
+
+fixing
+ things
+ and
+ then
+ expanding
+ on
+
+
+things
+ and
+ kind
+ of
+ iterating
+ on
+ things.
+
+
+And
+ so
+ I
+ think
+ that
+ the
+ people
+ that
+ are,
+
+
+you
+ know,
+ developers
+ by
+ trade,
+ they're
+ a
+
+
+lot
+ more
+ willing
+ to
+ customize
+ things.
+
+
+They're
+ a
+ lot
+ more
+ willing
+ to
+ to
+ kind
+ of
+
+
+fix
+ things
+ when
+ they
+ don't
+ work.
+ They're
+
+
+a
+ lot
+ more
+ willing
+ to
+ say
+ like,
+ "Hey,
+
+
+why
+ did
+ this
+ happen?
+ Let
+ me
+ see
+ if
+ I
+ can
+
+
+kind
+ of
+ get
+ into
+ that,
+ you
+ know,
+ get
+
+
+into
+ internals
+ a
+ little
+ bit
+ in
+ ways
+ that
+
+
+other
+ people
+ are
+ more
+ like
+ the
+ system
+
+
+doesn't
+ work.
+ Okay,
+ I
+ guess
+ I
+ need
+ to
+
+
+move
+ away
+ from
+ it.
+ Almost
+ like
+
+
+arrogance.
+ Like
+ the
+ arrogance
+ of
+ a
+
+
+developer
+ sees
+ any
+ problem
+ and
+ thinks
+
+
+software
+ is
+ the
+ solution
+ to
+ the
+ problem.
+
+
+It's
+ like
+ the
+ confidence
+ to
+ say
+ like,
+
+
+hey,
+ I
+ I'm
+ going
+ to
+ try
+ and
+ fix
+ this
+ in
+
+
+a
+ way
+ that
+ I
+ know
+ how
+ to
+ use
+ and
+ I'm
+
+
+going to
+ use
+ the
+ tools
+ that
+ I
+ know
+ how
+
+
+to
+ use
+ and
+ let's
+ see
+ if
+ we
+ can
+ make
+ this
+
+
+work.
+ And
+ that
+ that
+ I
+ think
+ is
+ the
+ the
+
+
+kind
+ of
+ the
+ most
+ powerful
+ properties
+ of
+
+
+of
+ CS
+ developers.
+
+
+>> So
+ you're
+ like,
+ Claude,
+ make
+ me
+
+
+something.
+ Codeex,
+ make
+ me
+ something.
+
+
+And
+ then
+ you're
+ like,
+ let's
+ add
+ this
+
+
+other
+ feature.
+ And
+ then
+ like
+ let's
+ do
+
+
+another
+ one.
+ And
+ a
+ month
+ goes
+ by
+ and
+
+
+you've
+ built
+ the
+ most
+ beautiful
+ piece
+ of
+
+
+software.
+ It's
+ crazy
+ overengineered
+ and
+
+
+then
+ you
+ launch
+ and
+ nobody
+ wants
+ it.
+ Hi,
+
+
+my
+ name
+ is
+ Rem
+ Coning.
+ I'm
+ a
+ professor
+
+
+at
+ Harvard
+ Business
+ School
+ and
+ I
+ study
+
+
+entrepreneurship
+ and
+ AI.
+ I
+ think
+ we're
+
+
+in
+ a
+ world
+ where
+ increasingly
+ what
+
+
+matters
+ is
+ your
+ ability
+ to
+ allocate
+
+
+intelligence.
+ The
+ key
+ for
+ AI
+ native
+ is
+
+
+that
+ you're
+ not
+ just
+ using
+ it
+ to
+ do
+ the
+
+
+work.
+ You're
+ embedding
+ it
+ in
+ the
+ product
+
+
+so
+ that
+ the
+ AI
+ can
+ directly
+ do
+ the
+ work
+
+
+with
+ the
+ customer.
+ You
+ want
+ to
+ take
+ you
+
+
+as
+ the
+ human
+ out
+ of
+ the
+ loop.
+ That's
+ the
+
+
+key
+ to
+ building
+ AI
+ native
+ organizations.
+
+
+What
+ happens
+ when
+ the
+ AI
+ starts
+ talking
+
+
+to
+ one
+ another?
+ What
+ happens
+ when
+ the
+ AI
+
+
+start
+ collaborating?
+ What
+ do
+ they
+ need
+
+
+for
+ one
+ another?
+ I
+ think
+ is
+ a
+ big
+
+
+interesting
+ open
+ question.
+ It's
+ a
+ little
+
+
+provocative
+ to
+ think
+ that
+ way.
+ Um,
+ but
+ I
+
+
+think
+ it's
+ one
+ where
+ there'll
+ probably
+
+
+be
+ some
+ trillion
+ dollar
+ companies
+ that
+
+
+come
+ out
+ of
+ answering
+ that
+ question.
+
+
+Well,
