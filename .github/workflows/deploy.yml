@@ -14,10 +14,6 @@ on:
   push:
     branches: ["main"]
     paths-ignore:
-      # 忽略内容文件变化（等待定时构建）
-      - 'src/notes/**'
-      - 'src/posts/**'
-      - 'src/books/**'
       # 忽略文档变化
       - '*.md'
       - 'docs/**'
@@ -31,9 +27,21 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      # 步骤 1: 签出你的私有仓库代码
-      - name: Checkout Private Repo
+      # 步骤 1: 签出站点代码（不包含 submodule — 内容单独拉取）
+      - name: Checkout Site Code
         uses: actions/checkout@v4
+
+      # 步骤 1.5: 稀疏克隆内容仓库（只取 notes/posts/books，跳过 raw/cleaned subtitles）
+      - name: Checkout Content (Sparse)
+        run: |
+          git clone \
+            --depth 1 \
+            --filter=blob:none \
+            --sparse \
+            https://github.com/austery/thought-foundry-content.git \
+            content
+          cd content
+          git sparse-checkout set notes posts books
 
       # 步骤 2: 设置 Node.js 环境并安装依赖
       - name: Setup Node
