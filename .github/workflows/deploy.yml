@@ -31,15 +31,12 @@ jobs:
       - name: Checkout Site Code
         uses: actions/checkout@v4
 
-      # 步骤 1.5: 稀疏克隆内容仓库（只取 notes/posts/books，跳过 raw/cleaned subtitles）
-      - name: Checkout Content (Sparse)
+      # 步骤 1.5: 克隆内容仓库（只取最新 commit，删掉不需要的字幕文件）
+      - name: Checkout Content
         run: |
-          git clone --depth 1 --no-checkout \
+          git clone --depth 1 \
             https://github.com/austery/thought-foundry-content.git content
-          cd content
-          git sparse-checkout init --cone
-          git sparse-checkout set notes posts books
-          git checkout
+          rm -rf content/raw_subtitles content/cleaned_subtitles
 
       # 步骤 2: 设置 Node.js 环境并安装依赖
       - name: Setup Node
