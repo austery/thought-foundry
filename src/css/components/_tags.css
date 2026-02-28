@@ -29,6 +29,11 @@
     /* 鼠标悬停时变深一点 */
 }
 
+.tag-pill--no-page {
+    opacity: 0.6;
+    cursor: default;
+}
+
 /* 演讲者样式 - 类似标签但颜色不同 */
 .speaker-list {
     display: flex;

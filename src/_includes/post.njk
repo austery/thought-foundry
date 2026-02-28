@@ -172,8 +172,11 @@ layout: "base.njk"
         <p><strong>关键字:</strong>
           {% for tag in tags %}
             {% if tag != "post" and tag != "note" and tag != "视频文稿" %}
-              {# [OPTIMIZATION] Use getTagSlug helper #}
-              <a class="tag-link" href="{{ ('/tags/' + (tag | getTagSlug(collections)) + '/') | url }}">{{ tag }}</a>
+              {% if tag | tagHasPage(collections.tagList) %}
+                <a class="tag-link" href="{{ ('/tags/' + (tag | getTagSlug(collections)) + '/') | url }}">{{ tag }}</a>
+              {% else %}
+                <span class="tag-pill tag-pill--no-page">{{ tag }}</span>
+              {% endif %}
             {% endif %}
           {% endfor %}
         </p>
