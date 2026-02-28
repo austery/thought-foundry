@@ -2,9 +2,9 @@
 
 This is a Polyglot project (Node.js + Python).
 
-Content Rule: All Markdown content lives in src/notes/. DO NOT put code files here.
+**Content Rule**: All Markdown content lives in `src/content/` — this is a git submodule pointing to `austery/thought-foundry-content`. DO NOT put code files here. DO NOT add content directly to this repo; push content changes to `thought-foundry-content` instead.
 
-Python Rule: All Python automation scripts must live in scripts/. Use uv for dependency management.
+**Python Rule**: All Python automation scripts must live in `scripts/`. Use `uv` for dependency management. Scripts that modify content files should target paths under `src/content/` (the submodule checkout), then commit those changes separately in `thought-foundry-content`.
 
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -65,9 +65,9 @@ The Eleventy configuration file is the heart of the site. Key architectural comp
 
 Eleventy uses collections to organize content. All collections automatically exclude items with `exclude: true`:
 
-- **posts**: All content in `src/posts/`
-- **books**: All content in `src/books/`
-- **notes**: All content in `src/notes/`
+- **posts**: All content in `src/content/posts/`
+- **books**: All content in `src/content/books/`
+- **notes**: All content in `src/content/notes/`
 - **tagList**: Aggregates all tags with slug-based deduplication
 - **speakerList**: Extracts speakers from `speaker` and `guest` fields
 - **categoryList**: Groups by `category` field (single value)
@@ -84,9 +84,10 @@ Eleventy uses collections to organize content. All collections automatically exc
 
 ```
 src/
-├── posts/         # General articles and blog posts
-├── notes/         # Meeting notes, video transcripts
-├── books/         # Book reviews with specialized metadata
+├── content/       # git submodule → austery/thought-foundry-content
+│   ├── notes/     #   Meeting notes, video transcripts (~5,200 files)
+│   ├── posts/     #   General articles and blog posts (~149 files)
+│   └── books/     #   Book reviews with specialized metadata
 ├── _includes/     # Nunjucks templates
 │   ├── base.njk   # Base layout with header, theme toggle, search
 │   ├── post.njk   # Post template with metadata, ToC, series links
@@ -176,17 +177,18 @@ Pagefind static site search with full-text indexing:
 
 ## Python Utility Scripts
 
-The repository includes batch processing tools for frontmatter manipulation:
+Located in `scripts/`. These operate on content at `src/content/` (the submodule checkout). After running, commit changes in `src/content/` directly to `thought-foundry-content`.
 
-- **batch_processor.py**: Generic frontmatter field updates
-- **tag_processor.py**: Tag replacement and consolidation
-- **consolidate_tags.py**: Merges similar tags across files
-- **remove_tag.py**: Removes specific tags from all files
-- **find_empty_tags.py**: Detects files with empty tag arrays
-- **analyze_unmapped.py**: Identifies content without proper categorization
-- **update_speaker_author.py**: Updates `speaker` and `author` fields.
+**Active / still useful:**
+- **update_speaker_author.py**: Rename speaker/author across all files.
     - Usage: `python3 scripts/update_speaker_author.py "Old Name" "New Name" [--dry-run]`
-- **find_unknown_speaker_files.py**: Finds files missing speaker metadata
+- **fix_malformed_yaml.py**: Repair broken frontmatter syntax
+- **frontmatter_audit.py** / **audit_missing_fields.py**: Find files with missing/malformed fields
+- **batch_processor.py**: Generic frontmatter field updates
+- **tag_processor.py** / **consolidate_tags.py**: Tag replacement and merging
+
+**Archive (one-time migration scripts, content already migrated):**
+- `knowledge_migration.py`, `migrate_areas.py`, `cleanup_projects.py`, `rename_to_video_id.py`
 
 These scripts preserve frontmatter structure while safely updating specific fields.
 
@@ -241,11 +243,14 @@ Posts with matching `series` values automatically show related posts at the bott
 ## Deployment
 
 GitHub Actions automatically builds and deploys the site:
-- Scheduled builds: Every hour at :05 minutes
-- Manual trigger via workflow_dispatch
+- Scheduled builds: Every hour at `:05` — picks up new content from `thought-foundry-content`
+- Manual trigger via `workflow_dispatch`
 - Builds with Node 18
-- Deploys `_site` directory to public repo (austery/austery.github.io)
-- Uses SSH deploy key stored in repository secrets
+- CI fetches content via `git clone --depth 1 https://github.com/austery/thought-foundry-content.git src/content` (deletes `raw_subtitles/` and `cleaned_subtitles/` to save disk)
+- Deploys `_site` directory to public repo `austery/austery.github.io`
+- Uses SSH deploy key stored in repository secrets (`ACTIONS_DEPLOY_KEY`)
+
+> **Key constraint**: Eleventy's `dir.input: "src"` restricts content discovery to files INSIDE `src/`. This is why the submodule is at `src/content/` and NOT at `content/` (project root) — files outside `src/` are silently ignored with zero errors.
 
 ### 8. 会话结束：知识捕捉 (End-of-Session: Knowledge Capture)
 在每次开发会话结束时，你必须将我们的对话（包括关键决策、代码片段和未解决的问题）进行总结。
