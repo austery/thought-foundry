@@ -322,17 +322,17 @@ module.exports = async function (eleventyConfig) {
   // 集合 1, 2, 3: 添加排除功能
   eleventyConfig.addCollection("posts", function (collectionApi) {
     return collectionApi
-      .getFilteredByGlob("./src/posts/**/*.md")
+      .getFilteredByGlob("./content/posts/**/*.md")
       .filter((item) => !item.data.exclude);
   });
   eleventyConfig.addCollection("books", function (collectionApi) {
     return collectionApi
-      .getFilteredByGlob("./src/books/**/*.md")
+      .getFilteredByGlob("./content/books/**/*.md")
       .filter((item) => !item.data.exclude);
   });
   eleventyConfig.addCollection("notes", function (collectionApi) {
     return collectionApi
-      .getFilteredByGlob("./src/notes/**/*.md")
+      .getFilteredByGlob("./content/notes/**/*.md")
       .filter((item) => !item.data.exclude);
   });
 
@@ -344,9 +344,9 @@ module.exports = async function (eleventyConfig) {
     collectionApi.getAll().forEach((item) => {
       // 我们只处理那些在 posts, books, 或 notes 文件夹里的内容，并且没有被排除的
       if (
-        (item.inputPath.includes("./src/posts/") ||
-          item.inputPath.includes("./src/books/") ||
-          item.inputPath.includes("./src/notes/")) &&
+        (item.inputPath.includes("./content/posts/") ||
+          item.inputPath.includes("./content/books/") ||
+          item.inputPath.includes("./content/notes/")) &&
         !item.data.exclude
       ) {
         (item.data.tags || []).forEach((tag) => {
@@ -441,9 +441,9 @@ module.exports = async function (eleventyConfig) {
     collectionApi.getAll().forEach((item) => {
       // 我们只处理那些在 posts, books, 或 notes 文件夹里的内容，并且没有被排除的
       if (
-        (item.inputPath.includes("./src/posts/") ||
-          item.inputPath.includes("./src/books/") ||
-          item.inputPath.includes("./src/notes/")) &&
+        (item.inputPath.includes("./content/posts/") ||
+          item.inputPath.includes("./content/books/") ||
+          item.inputPath.includes("./content/notes/")) &&
         !item.data.exclude
       ) {
         // 处理 speaker 和 guest 字段
@@ -563,9 +563,9 @@ module.exports = async function (eleventyConfig) {
     collectionApi.getAll().forEach((item) => {
       // 只处理 posts, books, notes 文件夹中未被排除的内容
       if (
-        (item.inputPath.includes("./src/posts/") ||
-          item.inputPath.includes("./src/books/") ||
-          item.inputPath.includes("./src/notes/")) &&
+        (item.inputPath.includes("./content/posts/") ||
+          item.inputPath.includes("./content/books/") ||
+          item.inputPath.includes("./content/notes/")) &&
         !item.data.exclude &&
         item.data.category
       ) {
@@ -605,9 +605,9 @@ module.exports = async function (eleventyConfig) {
     collectionApi.getAll().forEach((item) => {
       // 只处理 posts, books, notes 文件夹中未被排除的内容
       if (
-        (item.inputPath.includes("./src/posts/") ||
-          item.inputPath.includes("./src/books/") ||
-          item.inputPath.includes("./src/notes/")) &&
+        (item.inputPath.includes("./content/posts/") ||
+          item.inputPath.includes("./content/books/") ||
+          item.inputPath.includes("./content/notes/")) &&
         !item.data.exclude &&
         item.data.project &&
         Array.isArray(item.data.project)
@@ -651,9 +651,9 @@ module.exports = async function (eleventyConfig) {
     const areaMap = new Map();
     collectionApi.getAll().forEach((item) => {
       if (
-        (item.inputPath.includes("./src/posts/") ||
-          item.inputPath.includes("./src/books/") ||
-          item.inputPath.includes("./src/notes/")) &&
+        (item.inputPath.includes("./content/posts/") ||
+          item.inputPath.includes("./content/books/") ||
+          item.inputPath.includes("./content/notes/")) &&
         !item.data.exclude &&
         item.data.area
       ) {
@@ -733,9 +733,9 @@ module.exports = async function (eleventyConfig) {
     const peopleMap = new Map();
     collectionApi.getAll().forEach((item) => {
       if (
-        (item.inputPath.includes("./src/posts/") ||
-          item.inputPath.includes("./src/books/") ||
-          item.inputPath.includes("./src/notes/")) &&
+        (item.inputPath.includes("./content/posts/") ||
+          item.inputPath.includes("./content/books/") ||
+          item.inputPath.includes("./content/notes/")) &&
         !item.data.exclude &&
         item.data.people &&
         Array.isArray(item.data.people)
@@ -832,9 +832,9 @@ module.exports = async function (eleventyConfig) {
     const companiesMap = new Map();
     collectionApi.getAll().forEach((item) => {
       if (
-        (item.inputPath.includes("./src/posts/") ||
-          item.inputPath.includes("./src/books/") ||
-          item.inputPath.includes("./src/notes/")) &&
+        (item.inputPath.includes("./content/posts/") ||
+          item.inputPath.includes("./content/books/") ||
+          item.inputPath.includes("./content/notes/")) &&
         !item.data.exclude &&
         item.data.companies_orgs &&
         Array.isArray(item.data.companies_orgs)
@@ -932,9 +932,9 @@ module.exports = async function (eleventyConfig) {
     const productsMap = new Map();
     collectionApi.getAll().forEach((item) => {
       if (
-        (item.inputPath.includes("./src/posts/") ||
-          item.inputPath.includes("./src/books/") ||
-          item.inputPath.includes("./src/notes/")) &&
+        (item.inputPath.includes("./content/posts/") ||
+          item.inputPath.includes("./content/books/") ||
+          item.inputPath.includes("./content/notes/")) &&
         !item.data.exclude &&
         item.data.products_models &&
         Array.isArray(item.data.products_models)
@@ -1036,9 +1036,9 @@ module.exports = async function (eleventyConfig) {
     const mediaMap = new Map();
     collectionApi.getAll().forEach((item) => {
       if (
-        (item.inputPath.includes("./src/posts/") ||
-          item.inputPath.includes("./src/books/") ||
-          item.inputPath.includes("./src/notes/")) &&
+        (item.inputPath.includes("./content/posts/") ||
+          item.inputPath.includes("./content/books/") ||
+          item.inputPath.includes("./content/notes/")) &&
         !item.data.exclude &&
         item.data.media_books &&
         Array.isArray(item.data.media_books)
