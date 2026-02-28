@@ -1,0 +1,533 @@
+[Speaker 0]: 嗯，
+[Speaker 0]: 大家好，
+[Speaker 0]: 欢迎来到 monning l life 美国频道，
+[Speaker 0]: 我是 s 今天为大家更新火箭实验室 RKLB 二零二五年四季度财报也顺便通知大家。
+[Speaker 0]: 今天我坐飞机从中国回到了新加坡，
+[Speaker 0]: 结束了两周多的春节假期。
+[Speaker 0]: 那过在这个假期中没有能够做新的个股分析，
+[Speaker 0]: 不过呢也是抽空为大家做了一些关注的公司。
+[Speaker 0]: 四季度财报包括 neabbse、
+[Speaker 0]:  nomadate、
+[Speaker 0]:  tempus、
+[Speaker 0]:  AI 以及 hinson hers circle，
+[Speaker 0]: 还有现在的火箭现式，
+[Speaker 0]: 希望大家喜欢我的内容，
+[Speaker 0]: 然后帮我点赞、
+[Speaker 0]: 评论，
+[Speaker 0]: 也请大家订阅牛 monlife 美国频道，
+[Speaker 0]: 这是对我视频创作的最大支持。
+[Speaker 0]: 先简单看一下财报的最关键数字 EPS 和营收。
+[Speaker 0]: 那么 EPS normalize actually 是负的零点零五，
+[Speaker 0]: 击败预期零点零一，
+[Speaker 0]: 而 EPS gap 负的零点零九，
+[Speaker 0]: 也是击败预期零点零一。
+[Speaker 0]: 在营收方面呢是击败预期一百多万美金而已，
+[Speaker 0]: 整个四季度的营收达到了一点七九亿美金，
+[Speaker 0]: 接近一点八亿美金。
+[Speaker 0]: 所以不管是 EPS 还是营收整，
+[Speaker 0]: 是小幅度击败预期算是符合预期吧。
+[Speaker 0]: 而股价走势和我财报前的预测一致，
+[Speaker 0]: 也就是下跌。
+[Speaker 0]: 因为在财报中正式确认了中子火箭首发的延迟。
+[Speaker 0]: 待会儿我们来看具体的细节。
+[Speaker 0]: 现在是北京时间九点，
+[Speaker 0]: 目前的股价是九十九左右，
+[Speaker 0]: 那么是下跌了百分之五，
+[Speaker 0]: 百分之五的下跌幅度比我预想的还要好一点。
+[Speaker 0]: 我本来以为它能够直接下探去六十五左右关注我频道的朋友知道我最近是一直有一个六十四点一的加仓订单，
+[Speaker 0]: 那么也是期望在这个六十四的位置先加一下。
+[Speaker 0]: 如果跌下去再继续加，
+[Speaker 0]: 大概是这么个计划，
+[Speaker 0]: 看有没有可能待会儿开盘的时候能够把六十四点一的位置加到。
+[Speaker 0]: 首先 is 为大家带来火箭实验室的火箭发射，
+[Speaker 0]: 也就是目前的电子火箭带来的营收，
+[Speaker 0]: 以及更重要的太空系统 space system 带来的营收。
+[Speaker 0]: 来看一下二五年四季度以及二五年全年的表现。
+[Speaker 0]: 我们首先来看二五年全年电子火箭带来了一点八一亿美金的营收，
+[Speaker 0]: 而太空系统带来了四点二一亿美金的营收，
+[Speaker 0]: 太空系统占比高达百分之七十。
+[Speaker 0]: 所以这显然是最主要的部分。
+[Speaker 0]: 在中子火箭实现商业化飞行带来正式的营收之前呢，
+[Speaker 0]: 这个比例应该都会维持住，
+[Speaker 0]: 不会发生质的改变。
+[Speaker 0]: 来看一下，
+[Speaker 0]: 二五年四季度，
+[Speaker 0]: 二五年四季度电子火箭发射带来了零点七六亿美金营收。
+[Speaker 0]: 相较于前一个季度，
+[Speaker 0]: 以及相较于今年前三个季度，
+[Speaker 0]: 其实都是一个质的飞跃。
+[Speaker 0]: 而 space systems 是一点零四亿美金，
+[Speaker 0]: 相较于三季度，
+[Speaker 0]: 一点一四亿美金还下降了。
+[Speaker 0]: 那么就有朋友问我，
+[Speaker 0]:  AS 是不是 space system 太空系统不符合预期呢？
+[Speaker 0]: 其实火箭实验室对于太空系统以及整个电子火箭发射的营收预期，
+[Speaker 0]: 从来都没有给过细分的，
+[Speaker 0]: 他们都是给一个整体的预期。
+[Speaker 0]: 所以我不认为有什么符合以及不符合预期。
+[Speaker 0]: 这样的说法我也告诉会员朋友们，
+[Speaker 0]: 整个 space system 太空系统，
+[Speaker 0]: 它的营收录入要看你什么时候交付这个零件，
+[Speaker 0]: 或者是整颗卫星给客户。
+[Speaker 0]: 所以有的时候它的分布是比较不均匀的。
+[Speaker 0]: 对于四季度一点零四亿美金少于三季度，
+[Speaker 0]: 我认为不用过于担心。
+[Speaker 0]: 综上，
+[Speaker 0]: 全年下来，
+[Speaker 0]: 二零二五年相较于二零二四年营收的增速是百分之三十八，
+[Speaker 0]: 那么二零二四年是表现更好的一年。
+[Speaker 0]: 它相较于二零二三年是高达百分之七十八，
+[Speaker 0]: 过去四年，
+[Speaker 0]: 也就是二零二一年到二零二五年，
+[Speaker 0]: 公司的年营收复合增长率高达百分之七十六。
+[Speaker 0]: 所以火箭实验室确实是一家名副其实的高成长性公司。
+[Speaker 0]: 而二零二六年呢，
+[Speaker 0]: 公司没有给出明确的年度指引，
+[Speaker 0]: 这是火箭实验室公司的习惯。
+[Speaker 0]: 他们只是给出了二六年一季度，
+[Speaker 0]: 也就是接下来的这个季度的营收为一点九三亿亿美金，
+[Speaker 0]: 相较于二零二五年四季度一点八亿美金，
+[Speaker 0]: 依然是持续的上升的。
+[Speaker 0]: 那么我这里给出的八点四三亿美金的二零二六年营收是基于未来三年、
+[Speaker 0]: 百分之四十年营收增长率的基础上的，
+[Speaker 0]: 也就是我用六点零二乘以百分之一百四十，
+[Speaker 0]: 得到了八点四三。
+[Speaker 0]: 嗯，
+[Speaker 0]: 刚才提到的百分之四十的二零二六年营收增速是一个大概的预估，
+[Speaker 0]: 那到底能不能实现呢？
+[Speaker 0]: 目前其实我有一些悲观在下方，
+[Speaker 0]: 大家看到我为大家列出了二零二六年营收预测的细分。
+[Speaker 0]: 其实其中的最重要的基础就是第一项。
+[Speaker 0]: 二零二六年一到四季度，
+[Speaker 0]: 公司告诉大家了，
+[Speaker 0]: 我现在有十八点五亿美金的 backlock，
+[Speaker 0]: 也就是待交付的这个合同。
+[Speaker 0]: 那么我预计接下来四个季度，
+[Speaker 0]: 也就是二零二六年的整个四个季度，
+[Speaker 0]: 我能够把百分之三十七转换成营收算出来，
+[Speaker 0]: 就是预估六点八四五亿美金是确定性比较大的营收。
+[Speaker 0]: 那六点八四五亿美金，
+[Speaker 0]: 距离八点四三亿美金，
+[Speaker 0]: 其实差距还蛮大的。
+[Speaker 0]: 在其他的选项里呢，
+[Speaker 0]: 我只是列出了 my yyricx 带来的营收零点五，
+[Speaker 0]: 这是一个预现在 myyicx 的收购还没有确认，
+[Speaker 0]: 所以也有不确定性。
+[Speaker 0]: 当然二零二六年还有可能在 backlog 以外新的营收，
+[Speaker 0]: 对吧？
+[Speaker 0]: 你比如说有新的客户要发射电子火箭，
+[Speaker 0]: 或者有新的卫星订单能够下单，
+[Speaker 0]: 并且马上转化营收都有可能。
+[Speaker 0]: 只是现在不知道，
+[Speaker 0]: 所以我放了问号，
+[Speaker 0]: 也就是暂时记为零零。
+[Speaker 0]: 而之前我认为中子火箭有可能带来一小部分营收，
+[Speaker 0]: 现在也不可能了，
+[Speaker 0]: 因为待会我会提到财报明确宣布中子火箭四季度才可以发射，
+[Speaker 0]: 那么二零二六年无任何中止火箭收收入的可能性。
+[Speaker 0]: 这样我把这两个数字简单的相加只得到七点三四五亿美金。
+[Speaker 0]: 它相较于二零二五年六点零二亿美金，
+[Speaker 0]: 只是有百分之二十二的增幅。
+[Speaker 0]: 那么距离刚刚提到的百分之四十的增幅预期，
+[Speaker 0]: 也就是八点四三亿美金是差了比较多的，
+[Speaker 0]: 不太确定。
+[Speaker 0]: 接下来一年火箭线是如何能达到我自己对它的期望。
+[Speaker 0]: 百分之四十如果它只能实现百分之二十到百分之三十的营收增速，
+[Speaker 0]: 我认为这是不及格的。
+[Speaker 0]: 如果能有百分之三十到百分之四十，
+[Speaker 0]: 那我是可以接受的。
+[Speaker 0]: 如果出乎意料，
+[Speaker 0]: 能够达到百分之五十以上的增速，
+[Speaker 0]: 那就是优秀。
+[Speaker 0]: 这张表格很重要，
+[Speaker 0]: 所以我说了比较久，
+[Speaker 0]: 不知道大家对于接下来火箭实验室营收的预期如何，
+[Speaker 0]: 在中子火箭迟迟不能发布，
+[Speaker 0]: 不能带来营收的情况下，
+[Speaker 0]: 表格里的这些数字对于股价其实很重要，
+[Speaker 0]: 我在视频的最后也会再次更新。
+[Speaker 0]: 目前股价的一个合理估值在那之前有两项重要的内容，
+[Speaker 0]: 我为大家更新，
+[Speaker 0]: 第一项内容就是牛闯中子火箭到底什么个情况。
+[Speaker 0]: 而第二部分就是这次财报，
+[Speaker 0]: 我认为公司管理层透露出来的未来重点发展方向，
+[Speaker 0]: 也就是卫星星座。
+[Speaker 0]: 我们先来看中子火箭，
+[Speaker 0]: 首先来看一级火箭的 tank 为什么这么重要？
+[Speaker 0]: 因为就是因为一级火箭 tank，
+[Speaker 0]: 它第一次测试失败了，
+[Speaker 0]: 所以公是在财报上明确的宣布。
+[Speaker 0]: 现在中子火箭它的首发时间目标是二六年四季度了。
+[Speaker 0]: 那么之前的论述是说，
+[Speaker 0]: 二六年一季度火箭要站上发射台 on at，
+[Speaker 0]: 按照道理就是二季度发射，
+[Speaker 0]: 所以现在从二季度发射转为明确四季度发射目标延迟了两个季度半年。
+[Speaker 0]: 我在这里简单解释一下发生了什么，
+[Speaker 0]: 一二三四四个步骤。
+[Speaker 0]: 其实总结为两个字，
+[Speaker 0]: 就是甩锅。
+[Speaker 0]: 首先公司说这个一级火箭的 tank 测试失败了，
+[Speaker 0]: 然后呢，
+[Speaker 0]: 这个东西是谁做的呢？
+[Speaker 0]: 是第三方的供应商，
+[Speaker 0]:  contractor 做的，
+[Speaker 0]: 不是自己做的，
+[Speaker 0]: 不是自己用自己的 AFP machine，
+[Speaker 0]: 也就是这个巨大的碳纤维制造机器来制作的。
+[Speaker 0]: 现在第三方 contractor 制作的 stage one tank 失败了，
+[Speaker 0]: 我们现在只能自自己做了，
+[Speaker 0]: 用自己的 AFP 来做。
+[Speaker 0]: 然后因为要自己做，
+[Speaker 0]: 需要的就不是几天几周，
+[Speaker 0]: 而是几个月。
+[Speaker 0]: 所以呢我们就延期大概两个季度。
+[Speaker 0]: 从公司的 CEO peter bad 的说辞上来看，
+[Speaker 0]: 他还是比较乐观的。
+[Speaker 0]: 我们看到电话会议上，
+[Speaker 0]: 他告诉提问的这个分析师说，
+[Speaker 0]:  a new tank。
+[Speaker 0]:  we are talking tank here，
+[Speaker 0]:  not a year for complete tank。
+[Speaker 0]: 就是说我们做一个 new tank，
+[Speaker 0]: 并不是说需要一年，
+[Speaker 0]: 我们只是说需要几个月。
+[Speaker 0]: 哎，
+[Speaker 0]: 其实我觉得几个月都很久了啊，
+[Speaker 0]: 但是他觉得哎几个月还行，
+[Speaker 0]: 我们至少有这个 AFP machine。
+[Speaker 0]: 什么叫做 AFP machine？
+[Speaker 0]: 它的全名就叫做 automated fibe policeman。
+[Speaker 0]: 在火箭实验室的官网有专门的介绍视频，
+[Speaker 0]: 可能有朋友问，
+[Speaker 0]: 唉，
+[Speaker 0]: 那 AFP 早干嘛去了，
+[Speaker 0]: 为什么不早点做呢？
+[Speaker 0]: 就是因为 AFP 它的机器数量可能就只有一台或者两台，
+[Speaker 0]: 具体数量我不知道，
+[Speaker 0]: 反正很少。
+[Speaker 0]: 他没有办法同时运行来制造所有的火箭的碳纤维的结构件。
+[Speaker 0]: 因为你有河马嘴，
+[Speaker 0]: 你有一级，
+[Speaker 0]: 你有二级，
+[Speaker 0]: 你的一级还分上部中部下部，
+[Speaker 0]: 对吧？
+[Speaker 0]: 你需要用到 AFP 的地方很多，
+[Speaker 0]: 但是你为了赶时间，
+[Speaker 0]: 赶这个中子火箭的发射进度，
+[Speaker 0]: 你就不得不把部分的碳纤维结构件外包给第三方 contractor 来做。
+[Speaker 0]: 但是第三方 contractor 就可以做做搓搓他们，
+[Speaker 0]: 并并有 AFP machine，
+[Speaker 0]: 这只是问题。
+[Speaker 0]: 当你手搓的时候，
+[Speaker 0]: 就容易出事，
+[Speaker 0]: 所以这次一级火箭的 ten 就出事了。
+[Speaker 0]: 而大家如果还记得火箭实验室的第一个盒马嘴，
+[Speaker 0]: 这个整流罩是从哪里运来的？
+[Speaker 0]: 是从新西兰为什么要从新西兰运？
+[Speaker 0]: 其实道理也一样的嘛。
+[Speaker 0]: 美国生产不过来，
+[Speaker 0]: 从新西兰运，
+[Speaker 0]: 然后 contractor 同时做不同的部件，
+[Speaker 0]: 这样才可能整个项目达到之前火箭实验室的发射目标。
+[Speaker 0]: 那现在就黄了，
+[Speaker 0]: 只能延期以上，
+[Speaker 0]: 都是坏消息。
+[Speaker 0]: 有没有好消息呢？
+[Speaker 0]: 其实也有财报上透露，
+[Speaker 0]: 中子的这个叫做 thrust structure。
+[Speaker 0]:  qualified 这个 thrust structure 我们可以理解为它是一级火箭的最下部，
+[Speaker 0]: 它的下方就只有阿基米德引擎了，
+[Speaker 0]: 所以它是和引擎相连的部分。
+[Speaker 0]: 目前这个结构件看起来非常漂亮啊，
+[Speaker 0]: 它已经通过了 QC 测试。
+[Speaker 0]: 但是但是我个人之前最关注的阿基米德引擎 QC 还没有宣布，
+[Speaker 0]: 反正现在都延迟了嘛，
+[Speaker 0]: 可能现在也不着急了，
+[Speaker 0]: 我也不去，
+[Speaker 0]: 老是想着这个问题了。
+[Speaker 0]: 目前公司在财报上是说阿基米德引擎在没日没夜的测试，
+[Speaker 0]: 在做各种测试。
+[Speaker 0]: 那么我们就是往死了去测试，
+[Speaker 0]: 我们看什么时候他们能宣布测试通过。
+[Speaker 0]: 一旦阿基米德测试 QC 通过，
+[Speaker 0]: 它就会和刚刚的这个 thrust structure 进行连接，
+[Speaker 0]: 连接之后，
+[Speaker 0]: 整个动力部分就完成了。
+[Speaker 0]: 所以整体上中子火箭的进度如下，
+[Speaker 0]: 最上方的河马嘴已经 QC 完成，
+[Speaker 0]: 而且这个部件也从新西兰运抵了美国，
+[Speaker 0]: 这是最早完成的一个部件。
+[Speaker 0]: 中间的 interstage 可以叫做中间级吧，
+[Speaker 0]: 目前它正在进行 QC，
+[Speaker 0]: 而里面的二级火箭，
+[Speaker 0]: 它自己本身呢已经完成了 QC。
+[Speaker 0]: 可是静态点火还在等待，
+[Speaker 0]: 目前静态点火的这个架子都已经摆好了，
+[Speaker 0]: 但是还没有开始。
+[Speaker 0]: 一旦开始，
+[Speaker 0]: 就是整个火箭发射场第一次感受到阿基米德引擎的威力。
+[Speaker 0]: 我的预估是说，
+[Speaker 0]: 你也得需要等到阿基米德引擎，
+[Speaker 0]: 正是通过 QC 才开始进行静态测试吧。
+[Speaker 0]: 这也是我之前不理解的地方，
+[Speaker 0]: 就是火箭实验室已经被人拍到他的二级火箭。
+[Speaker 0]: 这个测试架已经落地了，
+[Speaker 0]: 那呃，
+[Speaker 0]: 已经落地了，
+[Speaker 0]: 但是你引擎还没有 QC，
+[Speaker 0]: 怎么测呢？
+[Speaker 0]: 现在看来，
+[Speaker 0]: 我的想法是对的，
+[Speaker 0]: 就是还是要等引擎 QC 再去做二级火箭的静态点火测试。
+[Speaker 0]: 然后就是我们知道出问题的这个一级火箭的 tank，
+[Speaker 0]: 目前正在用新的 AFP machine 来制造。
+[Speaker 0]: 所以呢这可能是最后的一个部件了。
+[Speaker 0]: 最后就是等待刚刚的阿基米德引擎 QC 以及已经 QC 好的 thrust structure，
+[Speaker 0]: 所有就整合在一起，
+[Speaker 0]: 就能进行整个一级火箭的静态点火测试。
+[Speaker 0]: 然后就是 very 然，
+[Speaker 0]: 然后就到批准就可以首发聊完了中子火箭，
+[Speaker 0]: 我们再来看公司的 rehearshespace 太空系统。
+[Speaker 0]: 这次财报，
+[Speaker 0]: 公司很明显的在加大力度，
+[Speaker 0]: 说明我们在为为未来卫星星星做准备。
+[Speaker 0]: 首先，
+[Speaker 0]: 公司又开始慢慢买了，
+[Speaker 0]: 不断的强化自己的卫星制造核心能力。
+[Speaker 0]: 他们买了两家小的公司，
+[Speaker 0]: 那么也是最近才完成，
+[Speaker 0]: 那么没有提前在财报前宣布第一家公司是是国的的 optical support ink，
+[Speaker 0]: 简称 OSI 第二家公司是来自新西兰的 precision component。
+[Speaker 0]: 这两家新收购的公司是干什么的呢？
+[Speaker 0]: 他们和之前收购的 geost 以及 mineric 有没有什么关系呢？
+[Speaker 0]: 我们一起简单看一下，
+[Speaker 0]: 还是来看我自己制作的火箭线是它的整个卫星核心系统的能力示意图，
+[Speaker 0]: 包括了历史上所有的收购。
+[Speaker 0]: 大家看到我已经在 geos 的这个部分，
+[Speaker 0]: 将它和 optical support 这家新收购的司司合合在一起起们都是光学传感器系统，
+[Speaker 0]: 一个是二零二二年收购，
+[Speaker 0]: 一个是现在收购 gels 他是干什么的？
+[Speaker 0]: 下方我有说明光电和红外感知用于追踪和定位，
+[Speaker 0]: 它是火箭实验室。
+[Speaker 0]: 去年一个重大收购是火箭实验室首次具备有效载荷 payload 的能力。
+[Speaker 0]: 而现在 optical support 呢，
+[Speaker 0]: 它是先进透镜和复杂的光学系统。
+[Speaker 0]: 其实这家公司是 geos 的关键供应商，
+[Speaker 0]: 也就是说火箭实验室先把的收购了，
+[Speaker 0]: 然后把他一个核心供应商，
+[Speaker 0]: 现在直接也收购了整个垂直整合。
+[Speaker 0]: 为什么要收购 geooptical support？
+[Speaker 0]: 刚刚我已经说了答案。
+[Speaker 0]: 在电话会议上，
+[Speaker 0]:  peter bg 也明确回答了，
+[Speaker 0]: 他说他们收购 geos 之后呢，
+[Speaker 0]: 就看整个公司的供应链嘛，
+[Speaker 0]: 看哪些供应链是 bottle，
+[Speaker 0]:  nenet 是平级。
+[Speaker 0]: 然后就发现 optical support 是明确重要的，
+[Speaker 0]: 于是呢直接就买了下来，
+[Speaker 0]: 可能也不贵。
+[Speaker 0]: 对于火箭，
+[Speaker 0]: 先是目前的能力上来看，
+[Speaker 0]: 是完全可以去收购的。
+[Speaker 0]: 而大家可能更多问题的是，
+[Speaker 0]:  minerary 这家公司。
+[Speaker 0]: 首先我要强调 minerary，
+[Speaker 0]: 它和 jeost 以及 optical support 是不同的。
+[Speaker 0]: 从我这张卫星核心系统能力示意图，
+[Speaker 0]: 我将放在在了通信系统 minariteteite communication 上面。
+[Speaker 0]: 因为 minminary 它制造的器械叫做激光通讯终端。
+[Speaker 0]: 那么这个终端主要是用来通讯的，
+[Speaker 0]: 卫星之间你要说话嘛，
+[Speaker 0]: 就是通过 minerary 这样的产品。
+[Speaker 0]: 我们知道 space x 新链，
+[Speaker 0]: 他们有自己的激光通讯终端，
+[Speaker 0]: 所以他们是自己做。
+[Speaker 0]: 而火箭实验室呢要自己做做也可以，
+[Speaker 0]: 但是很慢就必须要去收购这个 pilter back。
+[Speaker 0]: 在电话会议里面也明确的说明了 juers 相比较之下，
+[Speaker 0]: 他注重的是感知能力，
+[Speaker 0]: 是整个空间系统的感知能力，
+[Speaker 0]: 而不是要去通讯。
+[Speaker 0]: 虽然有一定的相似之处，
+[Speaker 0]: 不过他们在卫星系统的核心能力是不同的。
+[Speaker 0]: 公司在电话会议上明确的说，
+[Speaker 0]: 最近大家听说的那些 mineraric 收购可能要失败的。
+[Speaker 0]: 这些传言确实都是传言，
+[Speaker 0]: 听到这个我就放心了。
+[Speaker 0]: 目前看来几率还是有的，
+[Speaker 0]: 还是比较大的，
+[Speaker 0]: 只是说还要等一等，
+[Speaker 0]:  mineric 相当重要。
+[Speaker 0]: 这个收购宣布已经有一段时间了，
+[Speaker 0]: 迟迟没有发生，
+[Speaker 0]: 变得更加重要。
+[Speaker 0]: 就是因为随着 space sex 要上市，
+[Speaker 0]: 随着整个太空的这个卫星通讯以及整个呃卫星星座的持续发展，
+[Speaker 0]:  minorry 能够为火箭现实带来的激光通讯能力就变得至关重要了。
+[Speaker 0]: 刚刚我也提到 peter by 明确的说我们可以去做，
+[Speaker 0]: 但是我们损失的就是时间。
+[Speaker 0]: 如果你错过了未来一两年的这个高速发展时间，
+[Speaker 0]: 要自己去 inhouse 研发，
+[Speaker 0]: 那肯定是比较悲观的了。
+[Speaker 0]: 而且 my narry 的收购可以直接带来比较多的 backlog 以及营收，
+[Speaker 0]: 公司用的词是 significant 相当的重要。
+[Speaker 0]: 如果 manery 能够尽快收购，
+[Speaker 0]: 能够尽快把他的 backlog 和营收算进去，
+[Speaker 0]: 那么二零二六年这个营收的增速达到百分之四十，
+[Speaker 0]: 还是相当有希望。
+[Speaker 0]: 尽管这不是有机增长，
+[Speaker 0]: 不过我觉得这是好事情。
+[Speaker 0]: 嗯，
+[Speaker 0]: 第二家收购的公司是 precision components，
+[Speaker 0]: 它其实在新西兰已经为火箭实验室供应了长达十五年的大批量精密加工的机械零件。
+[Speaker 0]: 现在你供应的这么好，
+[Speaker 0]: 我又有需求，
+[Speaker 0]: 那么直接把你收购了。
+[Speaker 0]: 加强了自己的这个精密零件的加工和生产供应能力。
+[Speaker 0]: 关于太空系统，
+[Speaker 0]: 第二点重磅的消息就是这次财报公司宣布了一个新产品叫做 silicon。
+[Speaker 0]:  solar arroors 提到了什么？
+[Speaker 0]: 提到了太空数据中心，
+[Speaker 0]: 这不就是最近的热点吗？
+[Speaker 0]:  peter bg 也要蹭热点，
+[Speaker 0]: 这是必须的。
+[Speaker 0]: 因为太空数据中心在马斯克 space 的带领下变得好像非常有可能了。
+[Speaker 0]: 那么你要修太空数据中心，
+[Speaker 0]: 我在之前的太空数据中心视频中说过，
+[Speaker 0]: 最重要的是什么？
+[Speaker 0]: 一是发电，
+[Speaker 0]: 二是散热。
+[Speaker 0]: 你要能在太空中发电，
+[Speaker 0]: 也要能够在太空中把热量散出去。
+[Speaker 0]: 那么现在火箭实验室就 introduce 这个 silicon solar error，
+[Speaker 0]: 这个东西就是专门为以后做准备。
+[Speaker 0]: 在电话会议财报中，
+[Speaker 0]: 火箭实验室 peter bg 非常高调的说，
+[Speaker 0]: 目前公司就是世界上 space solar power，
+[Speaker 0]: 也就是太空中的太阳能发电的领先者。
+[Speaker 0]: 既然我们是领先者，
+[Speaker 0]: 为什么不集中力量又去做 space ace based data 的工关的发电呢？
+[Speaker 0]: 对吧？
+[Speaker 0]: 所以呢他们就推出了新的产品，
+[Speaker 0]: 为未来大规模的工程化量产做准准备。
+[Speaker 0]: 而另一个问题是散热，
+[Speaker 0]: 这次这个森域这个分析师也提到了散热问题，
+[Speaker 0]: 怎么解决现实吗？
+[Speaker 0]:  edipeer 的回答其实和我们之前的讨论差不多。
+[Speaker 0]: 他说我不认为 btechnical 就是技术上这是是难题题，
+[Speaker 0]: 更更是一个工工程上怎么去 scale，
+[Speaker 0]: 怎么去规规生产产的问题。
+[Speaker 0]: 其实这和马克 e 说的也不多嘛。
+[Speaker 0]: 他说，
+[Speaker 0]:  it is just a scale that is required that has not being achieved before。
+[Speaker 0]: 以上想传达的信息我觉得非常明确了。
+[Speaker 0]: 我们再回过头来看我制作了这张火箭实验室，
+[Speaker 0]: 它的太空系统以及火箭发射营收的比较直观的比例。
+[Speaker 0]: 红色部分就是 space systems，
+[Speaker 0]: 太空系统可以看到越来越高嘛，
+[Speaker 0]: 占的比例越来越大嘛，
+[Speaker 0]: 未来这个部分也会很重要。
+[Speaker 0]: 现在我认为火箭实验室的股价之所以在中子宣布确认延期之后还能只跌百分之己。
+[Speaker 0]: 其实和这个大环境有关。
+[Speaker 0]: 这个大环境是什么？
+[Speaker 0]: 就是目前整个美国对于卫星星座对于太空卫星应用其实是非常乐观的，
+[Speaker 0]: 这种乐观的情绪肯定就能带动火箭实验室这样的以 space system 为主要营收的公司。
+[Speaker 0]: 所以，
+[Speaker 0]: 目前 space system 是支撑起了火箭实验室的股价，
+[Speaker 0]: 不再进一步大幅度下跌的关键原因。
+[Speaker 0]: 视频的最后，
+[Speaker 0]: 我们来看火箭实验室的估值，
+[Speaker 0]: 还是回到我自己的表格。
+[Speaker 0]: 将 space x 或火箭实验室的营收和市销率进行对比。
+[Speaker 0]: 因为现在二五年已经结束了，
+[Speaker 0]: 所以我们直接看二六年的数据了。
+[Speaker 0]: 长话短说，
+[Speaker 0]: 二六年 space x 目前最新的估值总共收购 XAI 之后是一点二五万亿美金。
+[Speaker 0]: 那么 space sex 本身呢是估值一万亿。
+[Speaker 0]: 根据这个数字，
+[Speaker 0]: 如果 space x 的 PS、
+[Speaker 0]: 市销率和火箭线实验室假设相同的话，
+[Speaker 0]: 请注意是假设他们相同啊。
+[Speaker 0]: 有的朋友不认为火箭实验室的市效率能够和 space cess 去对比，
+[Speaker 0]: 那么之后我们再去讨论这个问题。
+[Speaker 0]: 假设两家公司市效率相同，
+[Speaker 0]: 二零二六年根据两家公司最新的营收预估以及 space sex 目前一万亿的估值，
+[Speaker 0]: 我们算出来目标价格是多少呢？
+[Speaker 0]: 火箭实验室它是六十六。
+[Speaker 0]: 那么相较于视频开头，
+[Speaker 0]: 我看的六十九的价格其实还要跌百分之四，
+[Speaker 0]: 所以我画了一个哭的表情。
+[Speaker 0]: 那么我们再来看下方，
+[Speaker 0]: 如果你不认同火箭实验室的这个 PS 失效率，
+[Speaker 0]: 能够和老大 space x 去直接对等。
+[Speaker 0]: 我打个七折，
+[Speaker 0]: 你也可以打，
+[Speaker 0]: 其他的折扣可以自己去算。
+[Speaker 0]: 打七折的情况下，
+[Speaker 0]: 它的价格只能来到四十六。
+[Speaker 0]: 那么因为今年 space x 要上市，
+[Speaker 0]: 可能引爆太空的热潮，
+[Speaker 0]: 我又列了两行数字，
+[Speaker 0]: 就是第一目标之后的第二目标以及第三目标。
+[Speaker 0]: 第二目标。
+[Speaker 0]: 假设 space x 除 XAI 以外上是能够达到一万两千五百亿，
+[Speaker 0]: 那么对应的火箭实验室的价格是八十三，
+[Speaker 0]: 打七折呢是五十八。
+[Speaker 0]: 如果 space x 除了 XAI 以外，
+[Speaker 0]: 能来到一万五千亿，
+[Speaker 0]: 也就是整个 space x 公司的估值来到了一万八千亿甚至更高。
+[Speaker 0]: 火箭现是对应的股价是九十九，
+[Speaker 0]: 打七折之后是六十九。
+[Speaker 0]: 我们保守一点吧，
+[Speaker 0]: 毕竟一二月行情也不好，
+[Speaker 0]: 就看这个第一目标价格六十六。
+[Speaker 0]: 那么也就意味着现在你哪怕不打折去买入，
+[Speaker 0]: 好像也没有很划算。
+[Speaker 0]: 我目前是六十四去买入，
+[Speaker 0]: 因为我对火箭实验室还是比较看好的，
+[Speaker 0]: 暂时比较乐观。
+[Speaker 0]: 但是你不乐观，
+[Speaker 0]: 你要打个七折，
+[Speaker 0]: 甚至你打八折九折。
+[Speaker 0]: 那么现在都不值得买，
+[Speaker 0]: 你要打七折以下，
+[Speaker 0]: 那就更不值得买，
+[Speaker 0]: 就更要去等一个非常低的买点了。
+[Speaker 0]: 我以上的价格呢只是给大家做一个参考。
+[Speaker 0]: 目前我自己也是非常明确，
+[Speaker 0]: 其实以上不可能买，
+[Speaker 0]: 财报以前不可能买。
+[Speaker 0]: 那么现在等到了财报以后，
+[Speaker 0]: 还没有等到六十四点一的价格，
+[Speaker 0]: 我就继续等待。
+[Speaker 0]: 好的，
+[Speaker 0]: 今天的视频就到这里。
+[Speaker 0]: 整体上我对火箭实验室这家我最关注，
+[Speaker 0]: 也是最喜爱的。
+[Speaker 0]: 一家公司的财报表现是还是符合预期吧，
+[Speaker 0]: 和之前 circle 以及 tempus 这些表现都差不多。
+[Speaker 0]: 那么市场的反馈待会儿开盘看差不多。
+[Speaker 0]: 因为听说美国和伊朗之间又有一些纷争了，
+[Speaker 0]: 看会不会把市场带崩，
+[Speaker 0]: 然后把火箭现验的股价差下去。
+[Speaker 0]: 我的买点。
+[Speaker 0]: 我对整个火箭先是二零二六年，
+[Speaker 0]: 其实目前看来没有那么乐观了。
+[Speaker 0]: 首先，
+[Speaker 0]: 中子火箭延期了，
+[Speaker 0]: 其次它整个基本面这些二零二六年即将到来。
+[Speaker 0]: 这一年，
+[Speaker 0]: 太空系统和电子火箭的营收要达到百分之四十，
+[Speaker 0]: 百分之五十是有挑战的。
+[Speaker 0]: 接下来可能就没有那么多操作了，
+[Speaker 0]: 持续的耐心等待持有它个几年，
+[Speaker 0]: 也不是说这几个月就要非要去卖掉的。
+[Speaker 0]: 之前八十到一百我也没有全部减仓，
+[Speaker 0]: 现在只是说卖掉一部分在在低点吧，
+[Speaker 0]: 能够买回来。
+[Speaker 0]: 好，
+[Speaker 0]: 希望大家能够喜欢我的分享，
+[Speaker 0]: 也希望大家能够订阅我的频道，
+[Speaker 0]: 感谢大家，
+[Speaker 0]: 我们下期视频再见。
