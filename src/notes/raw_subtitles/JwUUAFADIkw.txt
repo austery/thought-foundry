@@ -1,0 +1,624 @@
+[Speaker 0]: 大家好，
+[Speaker 0]: 欢迎回到视野环球财经，
+[Speaker 0]: 我是 ryo。
+[Speaker 0]: 现在是美东时间二六年二月二十六号，
+[Speaker 0]: 周四晚上的七点三十五分。
+[Speaker 0]: 今天呢四大指数是开盘就大幅下挫啊，
+[Speaker 0]: 最终呢是道指和罗素反弹成功上岸。
+[Speaker 0]: 但是呢今天的纳指啊是在半导体的集体杀跌之下，
+[Speaker 0]: 跌幅最大，
+[Speaker 0]: 最多的时候跌了将近两个点。
+[Speaker 0]: 呃，
+[Speaker 0]: 那么费城半导体指数今天也非常的糟糕啊，
+[Speaker 0]: 特别是英伟达在强劲的财报之后呢，
+[Speaker 0]: 不仅没有收涨，
+[Speaker 0]: 反而创下了三个月以来最大的盘中跌幅。
+[Speaker 0]: 那么费城半导体指数三十只成分股二十八只收跌，
+[Speaker 0]: 只有两只收涨，
+[Speaker 0]: 这是杀湾软件要杀半导体了吗？
+[Speaker 0]: 啊，
+[Speaker 0]: 咱们稍后讲解啊。
+[Speaker 0]: 另外呢会更新一下今天的费城半导体的两个 ETF 啊，
+[Speaker 0]: 包括像 SOXX，
+[Speaker 0]: 还有 SMH 的这个位置，
+[Speaker 0]: 以及呢今天啊有这个 INTU 的财报。
+[Speaker 0]: 还有呢就是关于呃 answer pick 这边呢就是 cloud 这个母公司遇到了大麻烦，
+[Speaker 0]: 有没有机会会引领软件板块嘎空。
+[Speaker 0]: 另外呢呃今天呢还看到这个 XYZ 这边是因为人工智能的运用宣布裁员百分之四十啊，
+[Speaker 0]: 看来人工智能对于就业业岗位的冲击非常之大。
+[Speaker 0]: 呃，
+[Speaker 0]: 东西非常的多啊，
+[Speaker 0]: 咱们今天稍微快一点。
+[Speaker 0]: 好呃，
+[Speaker 0]: 首先呢我们今天看一个简单的数据，
+[Speaker 0]: 首先是这个二月二十一号当周的首次出请失业的这个申请人数呢是二十点六万上升到了二十一点二万，
+[Speaker 0]: 但是低于预期的二十一点五万啊，
+[Speaker 0]: 这个有上升。
+[Speaker 0]: 但是续请失业是有下降的，
+[Speaker 0]: 从一八六点九万下降到了一八三点三万。
+[Speaker 0]: 嗯嗯，
+[Speaker 0]: 好，
+[Speaker 0]: 讲完这个之后呢，
+[Speaker 0]: 咱们直接开始今天的众多的主题啊，
+[Speaker 0]: 首先来讲一讲关于这个软件杀手，
+[Speaker 0]: 就是这个 anthor pick，
+[Speaker 0]: 他不是有这个 cloud 的模型嘛。
+[Speaker 0]: 对于很多的软件公司造成了一系列持续不断的叙事上的打击。
+[Speaker 0]: 那么在前几天呢，
+[Speaker 0]: 星期二的时候还开了发布会，
+[Speaker 0]: 对吧？
+[Speaker 0]: 宣布和很多的软件公司合作，
+[Speaker 0]: 嗯，
+[Speaker 0]: 软件板块呢也反弹了啊三天。
+[Speaker 0]: 但是今天软件板块呢盘后呢又有小幅的下跌啊，
+[Speaker 0]: 但这个下跌目前看起来还行，
+[Speaker 0]: 不是特别的严重。
+[Speaker 0]: 但这里边呢存在一个潜在的，
+[Speaker 0]: 看看有没有嘎空的一个机会啊，
+[Speaker 0]: 那这个故事呢就要从这个 anthor pick 他们的一个大麻烦。
+[Speaker 0]: 说起来明天这个麻烦呢就会有一个结果。
+[Speaker 0]: 好呃，
+[Speaker 0]: 这个故事是这样的啊呃，
+[Speaker 0]: 在二零二五年七月份的时候呢，
+[Speaker 0]: 公司是与美国的这个应该是战争部啊签订了一份价值两亿美元的合同，
+[Speaker 0]: 为其提供用于国家安全的 AI 技术。
+[Speaker 0]: 那么 cloud 呢成为首个啊，
+[Speaker 0]: 当时据报的也是唯一的一个部署。
+[Speaker 0]: 在国防部机密网络上的前沿 AI 模型。
+[Speaker 0]: 并通过很多的像 PLTR 啊，
+[Speaker 0]: 包括 AWS 等合作伙伴进行集成。
+[Speaker 0]: 最初出的这个协议呢是包含了公司的一些使用限制啊，
+[Speaker 0]: 比如说禁止它用于诸如完全自主致命武器啊，
+[Speaker 0]: 就是说 AI 在无人监督的情况下做出最终目标选择，
+[Speaker 0]: 还有大规模监控美国公民等应用的限制。
+[Speaker 1]: 嗯，
+[Speaker 0]: 本来这个一切呢都进展的很顺利啊，
+[Speaker 0]: 但问题在二零二六年年初出现了呃。
+[Speaker 0]: 根据报道呢，
+[Speaker 0]: 起因是 cloud 呢被指控用于一月份美军抓捕委内瑞拉总统马杜罗的行动。
+[Speaker 0]: 那么公司当时是对潜在的滥用行为表示担忧啊，
+[Speaker 0]: 认为他们的模型不应该这么用。
+[Speaker 0]: 那么这个就引发了五角大楼的反对。
+[Speaker 0]: 在今年一月份的时候呢，
+[Speaker 0]: 战争部长这个赫克瑟斯呢是发布了一份人工智能战略备忘录，
+[Speaker 0]: 重新定义了负责任的人工智能，
+[Speaker 0]: 允许任何合法用途啊，
+[Speaker 0]: 这个就与公司的限制直接发生了冲突。
+[Speaker 0]: 呃，
+[Speaker 0]: 由于这个 answer pick 这边呢是坚持反对自主武器和美国国内大规模监控的红线，
+[Speaker 0]: 而美国的战争部要求不受限制的访问人工智能技术。
+[Speaker 0]: 啊，
+[Speaker 0]: 这个就与他同意的所有的其他的一些供应商啊，
+[Speaker 0]: 包括像什么 open AI 呀、
+[Speaker 0]: 谷歌呀、
+[Speaker 0]:  XAI 要求与这个保持一致，
+[Speaker 0]: 那么所以谈判陷入了僵局。
+[Speaker 0]: 简单讲啊，
+[Speaker 0]:  anwer pick 不同意，
+[Speaker 0]: 国防部战争部这么用，
+[Speaker 0]: 那么其他的公司已经同意了啊。
+[Speaker 0]: 这三家 open AI，
+[Speaker 0]: 谷歌和 XI 已经是同意的谈判陷入僵局。
+[Speaker 0]: 那么在二十四号的时候呢呃，
+[Speaker 0]: 这个呃，
+[Speaker 0]: 是看到了这个战争部长赫克瑟斯呢是会见了公司的 CEO 发出了最后通牒干嘛呢？
+[Speaker 0]: 呃，
+[Speaker 0]: 必须在美东时间二月二十七号星期五下午五点零一分之前遵守规定，
+[Speaker 0]: 也就是明天下午的五点零一之前，
+[Speaker 0]: 否则会面临严重的后果。
+[Speaker 0]: 什么后果呢？
+[Speaker 0]: 第一，
+[Speaker 0]: 取消价值两亿美元的合同。
+[Speaker 0]: 第二，
+[Speaker 0]: 将 anstherpek 指定为供应链风险。
+[Speaker 0]: 啊，
+[Speaker 0]: 这个待遇通常是为外国公司准备的啊，
+[Speaker 0]: 比如华为对吧？
+[Speaker 0]: 我们就看到有这样的一个呃，
+[Speaker 0]: 这个限制。
+[Speaker 0]: 呃，
+[Speaker 0]: 如果被指定为供应链风险，
+[Speaker 0]: 那么就可能迫使向其他的国防承包商啊，
+[Speaker 0]: 包括像和 PLTR 等公司断绝合作关系，
+[Speaker 0]: 这是第二个。
+[Speaker 0]: 第三个就是可能会援引国防生产法强制公司提提供不受限制的访问权限。
+[Speaker 0]: 呃，
+[Speaker 0]: 那相当于就完全违背了公司现在自己的这个安全准则。
+[Speaker 0]: 好，
+[Speaker 0]: 那么这个视频进展到现在呢，
+[Speaker 0]: 今天的时候啊，
+[Speaker 0]: 公司的首席执行官在网站上发表了一个声明，
+[Speaker 0]: 说啊与五角大楼的谈判几乎没有任何的进展。
+[Speaker 0]: 无论如何，
+[Speaker 0]: 我们在明天下午的五点零一之前，
+[Speaker 0]: 每栋时间啊都会知道结果。
+[Speaker 0]: 呃，
+[Speaker 0]: 如果公司不按照战争部的规定去更改这个协议，
+[Speaker 0]: 可能我们就要看到这三个后果中的之一或者是多个后果。
+[Speaker 0]: 嗯，
+[Speaker 0]: 呃那如果公司真的是被指定为供应链风险，
+[Speaker 0]: 那可以这么说啊，
+[Speaker 0]: 那公司真的就算是玩了一半啊，
+[Speaker 0]: 不能说全完吧，
+[Speaker 0]: 至少是玩了一半。
+[Speaker 0]: 因为那个时候就没有美国的公司敢与他合作。
+[Speaker 0]: 好的好的好的，
+[Speaker 0]: 那么我们对投资有什么影响呢？
+[Speaker 0]: 呃，
+[Speaker 0]: 之前软件股受到 AI 颠覆啊，
+[Speaker 0]: 这个叙势的威胁就会变小啊。
+[Speaker 0]: 因为现在呢这个 cloud 这边是整个的 AI 这边对于整个软件冲击叙事被提及最多的模型。
+[Speaker 0]: 所以呢那如果真的是把他给封杀了啊，
+[Speaker 0]: 相当于他软件杀手自己被杀啊，
+[Speaker 0]: 这个当然对软件股是一个利好。
+[Speaker 0]: 而且更重要的是整个的软件板块，
+[Speaker 0]: 包括软件的成分股啊，
+[Speaker 0]: 他们总的空头的头寸现在已经是历史最高值，
+[Speaker 0]: 多头的头寸非常的少。
+[Speaker 0]: 如果出现重大利好，
+[Speaker 0]: 买盘集中涌入，
+[Speaker 0]: 空头大量回补砸空会非常的剧烈。
+[Speaker 0]: 特别是一旦 IGB 突破了八十五块七，
+[Speaker 0]: 我们可以看到迅速的跳涨啊，
+[Speaker 0]: 那就是一个极大的利好。
+[Speaker 0]: 而软件相关的个股也会大幅的跳涨，
+[Speaker 0]: 特别是那些被低估的股票。
+[Speaker 0]: 反之，
+[Speaker 0]: 如果 anthropic 和像什么其他的模型，
+[Speaker 0]: 像 open AI、
+[Speaker 0]: 谷歌 XAI 一样同意了这个条款，
+[Speaker 0]: 那么呢就会继续的大踏步向前发展。
+[Speaker 0]: 那么对软件行业影响的这个叙事啊，
+[Speaker 0]: 就会回到之前，
+[Speaker 0]: 就是双方呢即是竞争对手，
+[Speaker 0]: 也是软件公司的好帮手。
+[Speaker 0]: 那就看软件公司怎么去跟呃公这个 anthropic cloud 这边进行合作了。
+[Speaker 0]: 所以大家认为这个 anthropic 真的会拒绝战争部吗？
+[Speaker 0]: 啊，
+[Speaker 0]: 大家可以留言啊发表你的观点。
+[Speaker 0]: 好，
+[Speaker 0]: 既然讲到了软件，
+[Speaker 0]: 我们再次提一下 IGV 八十三点五到八十五点七突破，
+[Speaker 0]: 那么流动性危机可以确认，
+[Speaker 0]: 解除，
+[Speaker 0]: 底部也确认可以确认了。
+[Speaker 0]: 然后呢就可以直接往上看啊，
+[Speaker 0]: 它的反弹应该就会比较剧烈啊，
+[Speaker 0]: 比较比较激烈了。
+[Speaker 0]: 因为这里是最强的跌破的之前的一个强支撑所在，
+[Speaker 0]: 已经转化为了强压力，
+[Speaker 0]: 所以呢看看它有没有机会能过去啊。
+[Speaker 0]: 好的消息是，
+[Speaker 0]: 今天收盘八杀块六已经是站稳了第一个强支撑，
+[Speaker 0]: 下面的底部越来越夯实，
+[Speaker 0]: 这是一个好消息。
+[Speaker 0]: 好，
+[Speaker 0]: 这是 IGV。
+[Speaker 0]: 好，
+[Speaker 0]: 接着我们就接着往下讲这个 MTU 今天发布财报啊，
+[Speaker 0]: 财报呢首先给大家看一下，
+[Speaker 0]: 其实呃大致看到 NTU 的财报呢可以总结出来，
+[Speaker 0]: 就是公司对于整个的 AI 颠覆他们这个会计相关的软件行业呢表示完全没有问题啊，
+[Speaker 0]: 根本就不会有任何的这个颠覆表现的是非常非常的有信心。
+[Speaker 0]: 好，
+[Speaker 0]: 那咱们来看一下这份财报，
+[Speaker 0]: 它是第二财季财报啊。
+[Speaker 0]: 因为它是七月的财年，
+[Speaker 0]: 截止调整后的每股收益呢是四点一五美元，
+[Speaker 0]: 营收是四十六点五亿，
+[Speaker 0]: 高于市场预期的每股收益三点六八，
+[Speaker 0]: 营收四十五点三亿。
+[Speaker 0]: 前瞻呢是下个季度，
+[Speaker 0]: 也就第三财季的指引啊，
+[Speaker 0]: 由于这个是一个报税季，
+[Speaker 0]: 所以通常第三季度是它这个整个的这个营收和盈利都最大的这个季节。
+[Speaker 0]: 所以三季度对公司非常的重要。
+[Speaker 0]: 那么预计调整后的每股收会在十二点四五到十二点五幺之间，
+[Speaker 0]: 低于市场预期的十二点九七营收，
+[Speaker 0]: 较去年同期增长百分之十到八十五点三亿，
+[Speaker 0]: 略高于市场预期的八十五点二亿。
+[Speaker 0]: 对于整个二六年七月截止的年度的业绩，
+[Speaker 0]: 前瞻呢是没有更新啊，
+[Speaker 0]: 还是重申了上一次的前瞻啊，
+[Speaker 0]: 这个比较符合公司一贯的做法。
+[Speaker 0]: 因为公司呢通常不会在三季度之前更新全年的业绩指引啊，
+[Speaker 0]: 因为三季度的业务有时候变化会比较大好的的的。
+[Speaker 0]: 好的，
+[Speaker 0]: 那么预计二六财年每股收益将在二十二点九八到二十三点一八之间，
+[Speaker 0]: 营收在两百一十亿到两百一十一点九亿之间，
+[Speaker 0]: 那么低于市场预期的每股二十三点一九，
+[Speaker 0]: 营收二百一十二点五亿。
+[Speaker 0]: 好，
+[Speaker 0]: 这个呢财报其实是呃完全符合预期的，
+[Speaker 0]: 没有什么太多的一些纰漏。
+[Speaker 0]: 呃，
+[Speaker 0]: 然后呢，
+[Speaker 0]: 主要是看一下公司对于被 AI 取代的这个叙事上是怎么表述的。
+[Speaker 0]: 公司表示呢，
+[Speaker 0]: 是有信心不被 AI 取代。
+[Speaker 0]: 他谈到了一些原因，
+[Speaker 0]: 公司呢是告诉媒体啊，
+[Speaker 0]: 完全不受人工智能取代风险影响。
+[Speaker 0]: 啊，
+[Speaker 0]: 高管说呢在处理报税这样重要的事情的时候，
+[Speaker 0]: 客户希望选择一家值得信赖，
+[Speaker 0]: 拥有可靠记录的公司。
+[Speaker 0]: 他还补充说，
+[Speaker 0]: 人工智能公司不愿承担与个人税务相关的法律风险，
+[Speaker 0]: 因此才选择与他们进行合作。
+[Speaker 0]: 对对，
+[Speaker 0]: 呃，
+[Speaker 0]: 合作有哪些呢？
+[Speaker 0]: 在这个周二，
+[Speaker 0]: 公司是已经宣布了与 anthropic 合作，
+[Speaker 0]: 然后呢是为呃平台上的中型企业提供定制化的 AI 代理。
+[Speaker 0]: 之前的时候还宣布曾经要与这个 open AI 进行合作。
+[Speaker 0]: 啊，
+[Speaker 0]: 对的对对对，
+[Speaker 0]: 最后一句话说的非常有趣。
+[Speaker 0]: 他说呢两家公司之所以想与我们合作，
+[Speaker 0]: 是因为他们既没有这种能力，
+[Speaker 0]: 也不想拥有这种能力。
+[Speaker 0]: 其实就是法律上的一些问题啊，
+[Speaker 0]: 就是 a 家公司呢是不愿意自行承担和税税务相关的这个报税的法律风险的。
+[Speaker 0]: 所以公司也给出了一份比较完美的答卷啊，
+[Speaker 0]: 我个人认为呢这份财报确实是不错的啊，
+[Speaker 0]: 尽管盘后跌了一些，
+[Speaker 0]: 但不打紧啊。
+[Speaker 0]: 好呃，
+[Speaker 0]: 那么基于此我们来更新一下它的价格。
+[Speaker 0]: 呃，
+[Speaker 0]: 截止到二六年七月的前瞻，
+[Speaker 0]: 这个是不变啊，
+[Speaker 0]: 其实业绩没有什么变化，
+[Speaker 0]: 二七年七月的业绩也没有什么变化。
+[Speaker 0]: 目前的情况维持这个判断基本面是低估的啊，
+[Speaker 0]: 低于四百六十二是低估的。
+[Speaker 0]: 目前就是低估啊，
+[Speaker 0]: 但技术面由于三百七十五是到三百九呢，
+[Speaker 0]: 这是一个技术面的破位。
+[Speaker 0]: 今天是本来回到了三百九十四，
+[Speaker 0]: 已经是回到了一个强支撑，
+[Speaker 0]: 离上方突破四百二就可以止跌很近啊。
+[Speaker 0]: 但是财报呢往下又回撤了一步，
+[Speaker 0]: 但还好啊，
+[Speaker 0]: 没有再次跌破三百七十五，
+[Speaker 0]: 又站稳了一步的脚跟和 IGV 其实非常的类似，
+[Speaker 0]: 都是向上就差一个台阶就能够实现突破啊，
+[Speaker 0]: 就能够大幅上行。
+[Speaker 0]: 那么如果后面能够突破四百二，
+[Speaker 0]: 将视为反转，
+[Speaker 0]: 会发生上方。
+[Speaker 0]: 第一步先看四百八十四到五百零四，
+[Speaker 0]: 第二步上看五九三到六百四十四对的。
+[Speaker 0]: 对的对，
+[Speaker 0]: 是的是的，
+[Speaker 0]: 我的止损呢是在三百七十一啊，
+[Speaker 0]: 现在盘后呢跌到的位置和我止损的位置差不多。
+[Speaker 0]: 止损主要是因为这个地方技术性的走空了啊，
+[Speaker 0]: 所以呢这个地方我的计划没有改变，
+[Speaker 0]: 暂时呢不会再加回 INTU，
+[Speaker 0]: 而是会选择去等微软的一些加仓信号去选择把仓位加到微软上，
+[Speaker 0]: 避免后面。
+[Speaker 0]: 如果人工金融蓄势啊，
+[Speaker 0]: 这种流动性的踩踏再次出现的情况下，
+[Speaker 0]: 特别是私募啊，
+[Speaker 0]: 现在那个债务比较混乱啊。
+[Speaker 0]: 私募如果大家最近看了一些报告会，
+[Speaker 0]: 发现私募行业呢包括像摩根大通的 CEO。
+[Speaker 0]: 也讲，
+[Speaker 0]: 他说整个的私募行业现在的情况实际上和金融危机之前呃那段时间有点类似，
+[Speaker 0]: 就是目前呢债务有一些可能会比预期要面临着更大的损失。
+[Speaker 0]: 所以呢他们认为如果私募的风险敞口继续扩大，
+[Speaker 0]: 那么其实后面可能还会有一些不确定的这个风险，
+[Speaker 0]: 会进一步的扩张，
+[Speaker 0]: 甚至蔓延到其他的板块上。
+[Speaker 0]: 啊，
+[Speaker 0]: 所以呢为了避免发生这样的事情，
+[Speaker 0]: 那么我也讲过我找贝塔更呃，
+[Speaker 0]: 小的。
+[Speaker 0]: 然后呢，
+[Speaker 0]: 多元化公司就是 NTU，
+[Speaker 0]: 是以财税嘛，
+[Speaker 0]: 财税软件为主。
+[Speaker 0]: 那么微软呢有多条腿走路啊，
+[Speaker 0]: 所以呢在叙事上，
+[Speaker 0]: 它的一个是贝塔更小，
+[Speaker 0]: 一个是多元化多条腿，
+[Speaker 0]: 它会更加的稳健一些啊，
+[Speaker 0]: 所以呢希望如果仍旧看好 NTU 均值回归的朋友呢，
+[Speaker 0]: 那你就盯好四百二啊，
+[Speaker 0]: 过了之后那直接就均就回归了啊，
+[Speaker 0]: 就没有什么太多可以担心的，
+[Speaker 0]: 又会回到上看到五百九接近六百的地方了啊，
+[Speaker 0]: 那就是一个不错的一个走势。
+[Speaker 0]: 好，
+[Speaker 0]: 这个是 ITU。
+[Speaker 0]: 呃，
+[Speaker 0]: 然后呢其他的我就要讲一下关于呃今天的这个半导体啊。
+[Speaker 0]: 首先我说一下 net flix 吧，
+[Speaker 0]: 呃 net TF lix 呢今天盘后大家看到大涨啊，
+[Speaker 0]: 最近已经连续涨了好几天。
+[Speaker 0]: 呃，
+[Speaker 0]: 它的情况是呃，
+[Speaker 0]: 由于这个他不是和这个华纳兄弟谈收购嘛啊，
+[Speaker 0]: 包括和这个拍拉蒙竞价。
+[Speaker 0]: 那么华纳兄弟周四就今天早些时候宣布呃，
+[Speaker 0]:  nettflix 必须要在四天之内提出新的收购报价。
+[Speaker 0]: 那么之前公司表示说呢，
+[Speaker 0]: 拍拉蒙现在提出的已经提高的这个价格的竞价报价更优啊，
+[Speaker 0]: 希望望 netflix 这边也能够提高报价，
+[Speaker 0]: 因为他们是想卖给 nett flix 嘛。
+[Speaker 0]: 结果呢今天盘后呃，
+[Speaker 0]: 奈飞宣布说啊呃，
+[Speaker 0]: 我们拒绝与派拉蒙的报价相匹配。
+[Speaker 0]: 这句话什么意思呢？
+[Speaker 0]: 嗯，
+[Speaker 0]: 他价格出的高，
+[Speaker 0]: 你就卖给他吧，
+[Speaker 0]: 那我就退出，
+[Speaker 0]: 我就不玩了，
+[Speaker 0]: 大概就这么个意思，
+[Speaker 0]: 反正我们要出就这个价格。
+[Speaker 0]: 如果你接受我们的价格，
+[Speaker 0]: 那就接受，
+[Speaker 0]: 你不接受我们的价格，
+[Speaker 0]: 你就买要卖给高价的那我们就不玩了。
+[Speaker 0]: 其实退出呢对于它是个好事啊，
+[Speaker 0]: 因为大家比较担心的就是他呢又成功收购，
+[Speaker 0]: 对吧？
+[Speaker 0]: 然后呢，
+[Speaker 0]: 监管那边又过不去，
+[Speaker 0]: 那一来一回其实对他也是一个挺大的一个损失啊。
+[Speaker 0]: 所以呃当时我们在讲 netflilix 的时候就说过，
+[Speaker 0]: 这家公司呢无论收购成功也好，
+[Speaker 0]: 这个收购不成功也好，
+[Speaker 0]: 远期都是一个利好啊，
+[Speaker 0]: 收购成功。
+[Speaker 0]: 那从业务上，
+[Speaker 0]: 从整个的电影的 IP 上，
+[Speaker 0]: 那肯定变得更多。
+[Speaker 0]: 那收购不成功，
+[Speaker 0]: 那短期的现金流上、
+[Speaker 0]: 现金上，
+[Speaker 0]: 它不会有更多支出和损失。
+[Speaker 0]: 资产负债表会更加的健康，
+[Speaker 0]: 所以呢呢都无所谓。
+[Speaker 0]: 但是呢，
+[Speaker 0]: 当时从呃受到这个消息的影响，
+[Speaker 0]: 股价是一路下挫。
+[Speaker 0]: 本来的计划呢是在七十七的下方。
+[Speaker 0]: 如果有比较好的强力的止跌形态，
+[Speaker 0]: 我会去买一些，
+[Speaker 0]: 但是呢迟迟没有出现强力的止跌形态，
+[Speaker 0]: 反而是以这种缩量横盘的形式在走。
+[Speaker 0]: 那这种情况呢，
+[Speaker 0]: 本来这只股票我是可买可不买啊，
+[Speaker 0]: 不是说我一定要买怎么样的，
+[Speaker 0]: 是有便宜有好形态，
+[Speaker 0]: 有非常大的确定性，
+[Speaker 0]: 我就买一买。
+[Speaker 0]: 那现在呢横盘缩量之后，
+[Speaker 0]: 突然间就涨上去了，
+[Speaker 0]: 那我就没有买到啊，
+[Speaker 0]: 没有买到没关系，
+[Speaker 0]: 这个价格我肯定就暂时就不考虑了。
+[Speaker 0]: 如果七十七下方已经买了的朋友，
+[Speaker 0]: 那么就恭喜大家啊，
+[Speaker 0]: 大家是比我更加的激进。
+[Speaker 0]: 那么你们买到之后呢，
+[Speaker 0]: 这个价格长线上肯定没有什么太大的问题啊。
+[Speaker 0]: 因为它的前瞻二六年中位是在七十八，
+[Speaker 0]: 如果你在七十七以下买的算是比较安全的区啊，
+[Speaker 0]: 或者在七十七七十八八十一线买的都算是安全区。
+[Speaker 0]: 无非呢就是技术面上。
+[Speaker 0]: 目前呢大家不要要口口看的太多。
+[Speaker 0]: 多方方九十二块钱，
+[Speaker 0]: 这里八十七到九十二是一个超强，
+[Speaker 0]: 过去之后上还有一档九十六到一百。
+[Speaker 0]: 所以呢预计这一波如果能比较好的反弹之后呢，
+[Speaker 0]: 可能有一些在下方低位买的波段的朋友会暂时选择会止盈啊，
+[Speaker 0]: 我猜会有不分呃部呃部分的朋友会这么干。
+[Speaker 0]: 所以会增加一些抛压。
+[Speaker 0]: 因为最近市场变得不太稳定啊，
+[Speaker 0]: 特别是今天看到整个的半导体，
+[Speaker 0]: 对吧？
+[Speaker 0]: 特别是英伟达居然原地跳水。
+[Speaker 0]: 这个市场的信心是是造成了一个非常严重的打击啊。
+[Speaker 0]: 好，
+[Speaker 0]: 那 netface 就说这么多，
+[Speaker 0]: 咱们说到半导体就顺着讲讲英伟达。
+[Speaker 0]: 嗯，
+[Speaker 0]: 那么英伟达呢，
+[Speaker 0]: 今天是直接原地跳水啊，
+[Speaker 0]: 浪花了都没有，
+[Speaker 0]: 对吧？
+[Speaker 0]: 你看开盘不不啪啪往下掉，
+[Speaker 0]: 反弹了一点点，
+[Speaker 0]: 没有多少，
+[Speaker 0]: 继续往下掉。
+[Speaker 0]: 整个这个走势放量，
+[Speaker 0]: 光头光脚大阴线，
+[Speaker 0]: 这个绝对是机构甩卖导致的啊，
+[Speaker 0]: 绝对是机构甩卖导致的。
+[Speaker 0]: 呃，
+[Speaker 0]: 那么这种情况为什么会出现呢？
+[Speaker 0]: 实际上啊呃高盛在昨天呃昨天到今天吧，
+[Speaker 0]: 连续的是发了一些和人工智能支出预测有关的一些模型的预测啊，
+[Speaker 0]: 当然是他们呃，
+[Speaker 0]: 呃，
+[Speaker 0]: 这个一家之言。
+[Speaker 0]: 那么根据高盛的这个模型估算呢，
+[Speaker 0]: 整个的大型科技公司的资本支出啊在二六年的下半年会放缓，
+[Speaker 0]: 在二七年确定这个增长，
+[Speaker 0]: 同比二六年会大幅放缓。
+[Speaker 0]: 那么这个图表和数据呢，
+[Speaker 0]: 由于今天我的这个时间有点紧张啊，
+[Speaker 0]: 所以我没来得及整理完啊，
+[Speaker 0]: 但是结论就是这么个结论。
+[Speaker 0]: 那么明天我整理好了以后，
+[Speaker 0]: 明天再给大家展示一下它到底是怎么看待的啊，
+[Speaker 0]: 就是从百分之六七十的增速一直掉到百分之十几，
+[Speaker 0]: 这是它的一个大概的一个模型估算。
+[Speaker 0]: 呃，
+[Speaker 0]: 明天给大家看的时候，
+[Speaker 0]: 大家我们来跟着这个它的图表来分析一下。
+[Speaker 0]: 对，
+[Speaker 0]: 没有？
+[Speaker 0]: 好，
+[Speaker 0]: 那么说回来呃，
+[Speaker 0]: 英伟达呢，
+[Speaker 0]: 包括整个半导体呢，
+[Speaker 0]: 既然今天这么一跌，
+[Speaker 0]: 又跌回到了横盘区域，
+[Speaker 0]: 还是没有过两百，
+[Speaker 0]: 对吧？
+[Speaker 0]: 两百块钱，
+[Speaker 0]: 大家这个扣啊买的太多了。
+[Speaker 0]: 昨天我们还讲了，
+[Speaker 0]: 他这个他这个扣呢买到了下个月的月期权也买了一大堆，
+[Speaker 0]: 对吧？
+[Speaker 0]: 甚至比这个星期的还要多。
+[Speaker 0]: 一个月之后啊，
+[Speaker 0]: 大家还买了那么多两百的扣，
+[Speaker 0]: 没办法被压着过不去啊。
+[Speaker 0]: 短线资金主导了市场。
+[Speaker 0]: 短线资金主导了市场。
+[Speaker 0]: 那这个一杀下来，
+[Speaker 0]: 估计很多两百的朋友一看，
+[Speaker 0]: 那估计要打水漂了。
+[Speaker 0]: 那进行平仓一平仓之后呢，
+[Speaker 0]: 它可能就有一些反弹啊。
+[Speaker 0]: 但是呢我们看价格吧，
+[Speaker 0]: 既然没有跌破位，
+[Speaker 0]: 没有突破成功两百，
+[Speaker 0]: 但是也没有往下破位，
+[Speaker 0]: 仍旧看它一个横盘吧，
+[Speaker 0]: 横盘震荡区域，
+[Speaker 0]: 看看大家多久才能够走出趋势。
+[Speaker 0]: 但是这个和支出相关的蓄势，
+[Speaker 0]: 现在越来越开始发酵了啊，
+[Speaker 0]: 我们后面可能会更多的会谈到这个问题。
+[Speaker 0]: 好，
+[Speaker 0]: 另外呢我把呃其他的这个 SOXX 和 SMH 的位置和大家进行更新。
+[Speaker 0]: 这个大家也可以用来追踪整个半导体的走势，
+[Speaker 0]: 到底有没有走的更空，
+[Speaker 0]: 还是说目前只是造支撑。
+[Speaker 0]: 呃，
+[Speaker 0]: 非办的 ETF 呢是三四八到三六幺，
+[Speaker 0]: 只有一个中等支撑啊，
+[Speaker 0]: 下方呢两个都比较小强的，
+[Speaker 0]: 要在二九七二九七到三幺二。
+[Speaker 0]: 那么这个地方如果三到三幺二了，
+[Speaker 0]: 那就有差不多十个点十个多点的一个回撤幅度啊。
+[Speaker 0]: 当然我们先看三十八，
+[Speaker 0]: 三十八跌破之后，
+[Speaker 0]: 再往下看，
+[Speaker 0]: 现在还早，
+[Speaker 0]: 因为有可能三十八就止跌再买回来。
+[Speaker 0]: 好，
+[Speaker 0]: 这个是 SOXX，
+[Speaker 0]: 然后是 SMH，
+[Speaker 0]: 呃，
+[Speaker 0]:  SMH 的情况几乎也相当啊，
+[Speaker 0]: 它的位置是在三九七到四幺六。
+[Speaker 0]: 那么这个位置呢中等支撑下一个较强的位置是在三四三到三四九，
+[Speaker 0]: 差不多也是十几个点。
+[Speaker 0]: 好吧，
+[Speaker 0]: 所以呢在没跌破之前，
+[Speaker 0]: 暂时呢不看那么多，
+[Speaker 0]: 一步一步的看，
+[Speaker 0]: 因为并不确认整个半导体都杀破位了，
+[Speaker 0]: 都杀空了啊。
+[Speaker 0]: 我们需要观察一下，
+[Speaker 0]: 看看呢是不是有些短线的大资金正在进行调仓啊。
+[Speaker 0]: 比方说调哪呢？
+[Speaker 0]: 准备好资金，
+[Speaker 0]: 准备要杀半导体了，
+[Speaker 0]: 对吧？
+[Speaker 0]: 呃，
+[Speaker 0]: 要不是要要冲这个软件了，
+[Speaker 0]: 杀了半导体之后冲软件，
+[Speaker 0]: 然后嘎空一波，
+[Speaker 0]: 对吧？
+[Speaker 0]: 你有时候有可能出现的啊，
+[Speaker 0]: 所以我们明天看看这种情况会不会出现希望呢？
+[Speaker 0]: 还持有软件股的仍在坚持。
+[Speaker 0]: 希望回到均值。
+[Speaker 0]: 回归的朋友呢都有好运气啊，
+[Speaker 0]: 后面呢都能够大涨特涨好。
+[Speaker 0]: 呃，
+[Speaker 0]: 然后呢最后一个想简单的说一下 block 呃，
+[Speaker 0]: 他呢是今天发了财报啊，
+[Speaker 0]: 由于我还没有看这份财报的细节，
+[Speaker 0]: 所以没有办法给大家更新别的东西。
+[Speaker 0]: 呃，
+[Speaker 0]: 只是看到他比较惊悚的，
+[Speaker 0]: 是因为 AI 工具的运用呢，
+[Speaker 0]: 宣布要裁员百分之四十，
+[Speaker 0]: 对吧？
+[Speaker 0]: 我们之前还问到我，
+[Speaker 0]: 因为我知道我身边是有这个朋友呢，
+[Speaker 0]: 是因为 AI 的运用岗位被替代的。
+[Speaker 0]: 呃，
+[Speaker 0]: 那么这家公司呢，
+[Speaker 0]: 它同样作为科技公司，
+[Speaker 0]: 一口气裁员大几千人。
+[Speaker 0]: 因为 AI 工具的应用，
+[Speaker 0]: 这么多人失业，
+[Speaker 0]: 他们绝对不算是低阶职位。
+[Speaker 0]: 所以这种裁员潮或许真的会蔓延到其他的科技行业中。
+[Speaker 0]: 所以呢还是那句话，
+[Speaker 0]: 我们之前讲过的，
+[Speaker 0]: 大家去重新的审视一下自己现在的这个职业前景啊。
+[Speaker 0]: 有一些东西呢这个可能需要你要更多的去学习 AI 的运用。
+[Speaker 0]: 包括未来或许呢同样一个工作岗位，
+[Speaker 0]: 但是它需要你有使用 AI 的能力，
+[Speaker 0]: 就是你比较会用提示词，
+[Speaker 0]: 对吧？
+[Speaker 0]: 你比较会用 AI 的这个调试，
+[Speaker 0]: 你比较会做这些事情，
+[Speaker 0]: 可能在同一个岗位上更有竞争力啊。
+[Speaker 0]: 好，
+[Speaker 0]: 呃，
+[Speaker 0]: 那么它的技术面给大家更新一下啊。
+[Speaker 0]: 呃，
+[Speaker 0]: 今天盘后大涨，
+[Speaker 0]: 二十二之后呢，
+[Speaker 0]: 上方是七十点四的位置啊，
+[Speaker 0]: 七十点四是超强支撑啊，
+[Speaker 0]: 超强的压力突破之后才确认止跌。
+[Speaker 0]: 所以请大家注意，
+[Speaker 0]: 盘后大涨之后会不会有回吐的状况啊？
+[Speaker 0]: 如果过去了，
+[Speaker 0]: 那就止跌了。
+[Speaker 0]: 上方还有一个进入这个呃突破之后会陷入一个震荡，
+[Speaker 0]: 就是在上方的八十三点一到五十九点七之间的一个震荡。
+[Speaker 0]: 这个地方过了才不看看上行啊，
+[Speaker 0]: 八十三点一过了以后才能看大上行，
+[Speaker 0]: 非常大的结构上行。
+[Speaker 0]: 现在呢我们只能以反弹反弹来对待啊，
+[Speaker 0]: 不是以这个涨多涨，
+[Speaker 0]: 少来对待啊，
+[Speaker 0]: 涨多涨少和是否反弹和反转是有区别的。
+[Speaker 0]: 涨了二十二二十三个点，
+[Speaker 0]: 但不代表着它能反转，
+[Speaker 0]: 大家自行盘中去跟踪它的这个抛压情况。
+[Speaker 0]: 好，
+[Speaker 0]: 那么明天的重点呢是看看现在下午五点零一分。
+[Speaker 0]: 之前关于这个 cloud 这边呢，
+[Speaker 0]: 能不能和战争部达成协议吧啊，
+[Speaker 0]: 看看对于市场会不会造成一些其他的冲击。
+[Speaker 0]: 那么今天东西比较多啊，
+[Speaker 0]: 还有很多的其实来不及讲的，
+[Speaker 0]: 我们有些东西都留在明天啊，
+[Speaker 0]: 希望大家明天准时来收看节目。
+[Speaker 0]: 好，
+[Speaker 0]: 这个呢就是咱们今天节目的全部内容啊，
+[Speaker 0]: 如果你觉得我的节目对你有所帮助，
+[Speaker 0]: 还是希望大家能够多多帮忙点赞、
+[Speaker 0]: 评论、
+[Speaker 0]: 转发。
+[Speaker 0]: 好，
+[Speaker 0]: 谢谢大家，
+[Speaker 0]: 我们明天的同一时间不见不散。
