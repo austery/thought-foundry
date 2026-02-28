@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = https://github.com/austery/thought-foundry-content.git
