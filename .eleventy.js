@@ -417,7 +417,16 @@ module.exports = async function (eleventyConfig) {
     }
     // --- END: 调试代码 ---
 
-    return tagList;
+    // --- START: Threshold filter - only render pages for tags with 5+ articles ---
+    const MIN_TAG_OCCURRENCES = 5;
+    const filteredTagList = tagList.filter(tag => tag.posts.length >= MIN_TAG_OCCURRENCES);
+
+    if (DEBUG) {
+      console.log(`[tagList] Total unique tags: ${tagList.length}, after threshold (≥${MIN_TAG_OCCURRENCES}): ${filteredTagList.length}`);
+    }
+    // --- END: Threshold filter ---
+
+    return filteredTagList;
   });
 
   // 集合 5: 演讲者集合 - 类似于标签集合但专门处理演讲者，现在也支持排除功能
