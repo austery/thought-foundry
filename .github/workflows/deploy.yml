@@ -34,14 +34,12 @@ jobs:
       # 步骤 1.5: 稀疏克隆内容仓库（只取 notes/posts/books，跳过 raw/cleaned subtitles）
       - name: Checkout Content (Sparse)
         run: |
-          git clone \
-            --depth 1 \
-            --filter=blob:none \
-            --sparse \
-            https://github.com/austery/thought-foundry-content.git \
-            content
+          git clone --depth 1 --no-checkout \
+            https://github.com/austery/thought-foundry-content.git content
           cd content
+          git sparse-checkout init --cone
           git sparse-checkout set notes posts books
+          git checkout
 
       # 步骤 2: 设置 Node.js 环境并安装依赖
       - name: Setup Node
