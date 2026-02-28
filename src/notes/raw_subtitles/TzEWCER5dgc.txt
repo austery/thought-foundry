@@ -1,0 +1,300 @@
+[Speaker 0]: 大家好，
+[Speaker 0]: 欢迎来到 monning o life 美股频道。
+[Speaker 0]: 我是 s 昨天 circle CRCL 这家稳定币上市公司发布了自己的二零二五年四季度财报，
+[Speaker 0]: 可以看到开盘涨了百分之二十，
+[Speaker 0]: 那么收盘直接收到百分之三十五点四七的涨幅。
+[Speaker 0]: 非常的夸张。
+[Speaker 0]: 如果看日 k 线的话，
+[Speaker 0]: 我们放大一点，
+[Speaker 0]: 它直接是一个超级放量的跳涨。
+[Speaker 0]: 而且我画了一条黑色虚线，
+[Speaker 0]: 八十二，
+[Speaker 0]: 目前的价格也是站上了八十二、
+[Speaker 0]: 八十二，
+[Speaker 0]: 这个位置很重要。
+[Speaker 0]: 我们来看屏幕的右上角，
+[Speaker 0]: 这是公司日 k 线图，
+[Speaker 0]: 最近六七个月对应的筹码峰。
+[Speaker 0]: 那么我鼠标所在的位置可以清楚的看到一个非常明显的筹码，
+[Speaker 0]: 峰值就是在八十二左右。
+[Speaker 0]: 如果接下来的几个交易日股价稳定的站上八十二，
+[Speaker 0]: 那么再继续向上的阻力就会相对较小。
+[Speaker 0]: 这是从技术面来说的，
+[Speaker 0]: 为什么股价会上涨？
+[Speaker 0]: 我们先来看 EPS 以及营收 EPS 零点五六，
+[Speaker 0]: 那么是超预期，
+[Speaker 0]: 超过了零点三二，
+[Speaker 0]: 这是大幅度超过预期。
+[Speaker 0]: 而最下方的营收呢是七百七十，
+[Speaker 0]: 也就是七点七亿美金，
+[Speaker 0]: 那么是超过预期，
+[Speaker 0]: 两千五百万左右算是小幅度。
+[Speaker 0]: 所以呢，
+[Speaker 0]: 从这两个数字来看，
+[Speaker 0]: 主要是 EPS 大幅度超过预期。
+[Speaker 0]: 那么 EPS 对应的就是公司的净利润，
+[Speaker 0]: 说明公司在四季度净利润大大超出了市场的共识。
+[Speaker 0]: 待会儿听了我的分析，
+[Speaker 0]: 大家就会发现，
+[Speaker 0]: 其实 circle 这次的财报并没有百分之三十五点四七上涨，
+[Speaker 0]: 这个幅度看起来这么炸裂。
+[Speaker 0]: 那为什么它还能涨这么多？
+[Speaker 0]: 我觉得更大的原因还是因为目前加密货币我们都知道处于一个低谷，
+[Speaker 0]: 呃，
+[Speaker 0]: 熊市吧，
+[Speaker 0]: 处于熊市的中间，
+[Speaker 0]: 不知道熊市什么时候会结束。
+[Speaker 0]: 那么所有的这些加密货币相关的股票，
+[Speaker 0]: 包括 circle，
+[Speaker 0]: 包括 strategy，
+[Speaker 0]: 甚至包括 robin、
+[Speaker 0]:  hood 等等，
+[Speaker 0]: 他们的股价都处于低点，
+[Speaker 0]: 那么长期都下跌了不少了。
+[Speaker 0]: 现在有一个利好消息，
+[Speaker 0]:  circle 就大幅度的反弹。
+[Speaker 0]: 所以我后面说这个原因，
+[Speaker 0]: 我认为是比财报数据更重要的，
+[Speaker 0]: 让昨天股价暴涨的原因。
+[Speaker 0]: 当然财报数据双 bit 自然是一个基础。
+[Speaker 0]: 接下来我就通过自己制作的三张表格，
+[Speaker 0]: 非常简单清楚的告诉大家财报到底发生了什么。
+[Speaker 0]: 那么第一张表格是 USDC 流通量和 circle 的回报率。
+[Speaker 0]: 接下来第二张表格呢会是整个 circle。
+[Speaker 0]: 财报数据汇总，
+[Speaker 0]: 第三张表格是我们都关心的 circle 的估值更新。
+[Speaker 0]: 先来看这里第一张表格。
+[Speaker 0]: 那么这里展示了从二四年四季度一直到二五年四季度，
+[Speaker 0]: 总共五个季度，
+[Speaker 0]: 每个季度整个全世界稳定币流通量以及 circle 旗下的 USDC 流通量的具体数字，
+[Speaker 0]: 由此就可以得出 USDC 的市占率。
+[Speaker 0]: 那么非常非常反直觉的就是虽然 circle 这次暴涨，
+[Speaker 0]: 但是 USDC 市占率在二五年四季度还下降了，
+[Speaker 0]: 相较于二五年三季度的百分之二十九是下降到了百分之二十七点九。
+[Speaker 0]: 那么相较于市占率的下降，
+[Speaker 0]: 整个稳定币流通量以及 USDC circle 自己的稳定币的流通量还是在上涨的。
+[Speaker 0]: 稳定币流通量从上个季度二五四零零涨到了现在的二七零零，
+[Speaker 0]: 而 USDC circle 的稳定币流通量从七三七涨到了七五三这张表格里面最重要的数字是稳定币流通量目前是两千七百亿美金。
+[Speaker 0]: 那么后面的估值表格我们会提到，
+[Speaker 0]: 预计是在二零三零年，
+[Speaker 0]: 也就是整五年以后达到一万亿美金。
+[Speaker 0]: 而 circle 旗下的 USDC 稳定币，
+[Speaker 0]: 他们公司的目标是实现每年复合增长率百分之四十，
+[Speaker 0]: 那么二五年四季度七五三相较于去年同期四三九是增长了百分之七十一点五，
+[Speaker 0]: 远超百分之四十。
+[Speaker 0]: 接下来五年呢，
+[Speaker 0]: 我们是期望每一年都在此基础上涨百分之四十。
+[Speaker 0]: 虽然 circle 的 USDC 稳定币相较于其他稳定币，
+[Speaker 0]: 刚刚提到它的市占率出现了小幅度的回撤，
+[Speaker 0]: 但是单看 USDC 在不同平台的分布，
+[Speaker 0]: 在 circle 本身的平台上方，
+[Speaker 0]: 蓝色的部分二五年四季度是高达百分之十七。
+[Speaker 0]: 相较于二四年四季度一年以前的百分之五大幅度提高，
+[Speaker 0]: 那么这个提高非常重要。
+[Speaker 0]: 因为在 circle 平台上流通的 USDC 比例越高，
+[Speaker 0]: 它要付给第三方，
+[Speaker 0]: 包括 coin base 以及其他平台的这个营收分成就越少。
+[Speaker 0]: 对自己公司的净利润就帮助越大。
+[Speaker 0]: 所以一坏一好坏的是，
+[Speaker 0]:  USDC 市占率稍微下降了。
+[Speaker 0]: 好的是 USDC 在 circle 平台上的比例增加了，
+[Speaker 0]: 相当于这两个应该是差不多抵消了。
+[Speaker 0]: 接下来第二张图，
+[Speaker 0]: 我就是把整整个 circle，
+[Speaker 0]: 它的这个 income statement，
+[Speaker 0]: 也就是损益表的关键数据。
+[Speaker 0]: 按照我的方式来告诉大家，
+[Speaker 0]: 包括二二年到二五年全年的数据，
+[Speaker 0]: 也包括二五年四个季度每个季度拆分的数据。
+[Speaker 0]: 那么首先呢我们来聚焦一下刚刚 EPS 大幅度击败预期是怎么一回事。
+[Speaker 0]: 我们看到图片的右下角二五年四季度公司的净利润是一四三三，
+[Speaker 0]: 也就是一点三三亿美金，
+[Speaker 0]: 这个是大幅度超过预期。
+[Speaker 0]: 但是如果我们看一下它是怎么来的呢？
+[Speaker 0]: 看上面三行，
+[Speaker 0]: 其中包括运营利润五十五，
+[Speaker 0]: 其他利润八十五，
+[Speaker 0]: 再减去税收七就得到一三三。
+[Speaker 0]: 所以其实一三三包括其他利润八十五，
+[Speaker 0]: 这远比运营利润五十五更重要。
+[Speaker 0]: 那其他利润是什么呢？
+[Speaker 0]: 公司也做做出了解释。
+[Speaker 0]: 这里可以看到，
+[Speaker 0]:  other income of eighty five million increased seventy five million year of year，
+[Speaker 0]:  primarily driven by a benefit from the decrease in fair value of our convertible debt due to a lower stock price in the fourth quarter。
+[Speaker 0]: 其实就是因为自己股价更低了，
+[Speaker 0]: 所以之前的可转债产生的相关的呃费用呢就有一些获益。
+[Speaker 0]: 所以其他利润其实是和公司的经营没有关系的。
+[Speaker 0]: 回到我的表格。
+[Speaker 0]: 所以如果你把八十五刨开的话，
+[Speaker 0]: 其实它最后的 EPS 可能就是小幅度超过预期，
+[Speaker 0]: 不至于大幅度超过预期。
+[Speaker 0]: 这也是为什么我在刚刚谈到股价的时候说 circle 这次股价财报发布后能够暴涨百分之三十五是有自己的这个本身公司估值到了低点，
+[Speaker 0]: 以及整个加密货币到了谷底突然反弹。
+[Speaker 0]: 这个重要的因素的这张表格，
+[Speaker 0]: 对于长期看好 circle 的投资者，
+[Speaker 0]: 我认为非常重要。
+[Speaker 0]: 它很清晰的告诉了我自自己，
+[Speaker 0]: 以及告诉了屏幕前的你们 circle，
+[Speaker 0]: 它的利润怎么来，
+[Speaker 0]: 怎么赚钱，
+[Speaker 0]: 它的数据到底怎么样？
+[Speaker 0]: 那么我在 circle 个股分析已经为大家阐述过了。
+[Speaker 0]: 这里呢我在简单的从上到下为大家解释一下。
+[Speaker 0]: 那么首先 circle 是有一个主要收入叫做 reserve income。
+[Speaker 0]: 这个 reserve income 就是稳定币嘛。
+[Speaker 0]: 你收了人家的钱，
+[Speaker 0]: 发生了稳定币，
+[Speaker 0]: 你拿去买国债，
+[Speaker 0]: 就拿到了国债的收益。
+[Speaker 0]: 然后呢，
+[Speaker 0]: 你有一些其他的营收，
+[Speaker 0]: 这里是四季度三十七，
+[Speaker 0]: 其他营收请注意非常重要。
+[Speaker 0]: 为什么？
+[Speaker 0]: 因为其他营收的毛利净利很高，
+[Speaker 0]: 它几乎没有成本。
+[Speaker 0]: 为什么这么说呢？
+[Speaker 0]: 来看下方对应 reserve income 的成本是叫做 distribution and transaction cost，
+[Speaker 0]: 也就是稳定币的分发和交易成本。
+[Speaker 0]: 可以看到呃，
+[Speaker 0]: 收入七三三，
+[Speaker 0]: 成本四六幺，
+[Speaker 0]: 是不是相当的高。
+[Speaker 0]: 但是其他收入呢三十七成本是下方的，
+[Speaker 0]: 其他成本零点九几乎可以忽略不计嘛。
+[Speaker 0]: 所以呢 reserve income 虽然高，
+[Speaker 0]: 但是最后转换成净利润的比例小，
+[Speaker 0]: 而其他营收目前相对较低。
+[Speaker 0]: 但是绝大部分都算做了最终的净利润，
+[Speaker 0]: 也就是下方我们已经提到过的五十五的一部分。
+[Speaker 0]: 然后公司有两个重要的百分比，
+[Speaker 0]: 一个是 RLDC margin，
+[Speaker 0]: 一个是 net reserve margin。
+[Speaker 0]: 这两个 margin 他们有不同的计算公式，
+[Speaker 0]: 但是其实是有相似之处。
+[Speaker 0]: 可以看到上面 RLDC 是一减 g 除以 f 下方是一减 g 除以 a 以 RLDC 为例，
+[Speaker 0]: 其实它就是一减去 g 就是总的这个成本去除以 f 长期 revenue。
+[Speaker 0]: 而 net reserve margin 它除以的是 a 是这个 revenue 的一部分。
+[Speaker 0]: 这就导致这两个百分比有一些不一样。
+[Speaker 0]: 公司层面的话，
+[Speaker 0]: 他们比较关注，
+[Speaker 0]: 然后给出的长期指引是这个 RLDC margin。
+[Speaker 0]: 我们可以比较草率的理解为这是公司的毛利率。
+[Speaker 0]: 在表格的下半部分呢是公司的所有运营成本。
+[Speaker 0]: 其中重要的一项就是这个 compensation expenses。
+[Speaker 0]: 我们知道二零二五年二季度的时候 circle 上市了。
+[Speaker 0]: 所以呢我在之前也提到过，
+[Speaker 0]: 有一个二季度五零三非常大的开销。
+[Speaker 0]: 这就导致 circle 整个公司，
+[Speaker 0]: 它在二五年二季度的净利润是负的四八二，
+[Speaker 0]: 而而全年呢是负的七十。
+[Speaker 0]: 如果我们把这个 compensation，
+[Speaker 0]: 也就是员工的这些股票激励以及 digital access 去掉的话，
+[Speaker 0]: 可以发现最后这一行 circle 二五年，
+[Speaker 0]: 它的呃调整后的 net income margin 净利率是百分之二十八。
+[Speaker 0]: 但是不把这些加上的话，
+[Speaker 0]: 就是它没有调整，
+[Speaker 0]: 之前的是负的百分之三。
+[Speaker 0]: 所以严格来讲，
+[Speaker 0]: 实际上 circle 在二零二五年没有能够赚钱，
+[Speaker 0]: 他还是亏钱的。
+[Speaker 0]: 不过呢，
+[Speaker 0]: 他亏的钱里面很大一部分是由于二零二五年二季度上市，
+[Speaker 0]: 造成了大量的 compensation expenses。
+[Speaker 0]: 这个呃一好一坏吧，
+[Speaker 0]: 从不同的角度去看这家公司，
+[Speaker 0]: 最后我再做一个我自己的解读。
+[Speaker 0]: 首先上方我再次强调，
+[Speaker 0]: 公司的目标是这个 reserve income，
+[Speaker 0]: 也就是他把呃发行稳定币获得的现金拿去存在美联储买美债，
+[Speaker 0]: 然后获获得呃，
+[Speaker 0]: 利息收入这一部分，
+[Speaker 0]: 他希望是百分之四十的增长。
+[Speaker 0]: 为什么？
+[Speaker 0]: 因为他的 USDC 的目标复合增长率就是百分之四十，
+[Speaker 0]: 这一点是公司发展的基础。
+[Speaker 0]: 而公司的盈利能力在今年二零二五年的四个季度分别是六十五负的四百八十二、
+[Speaker 0]: 二百一十四和这个季度的一百三十三。
+[Speaker 0]: 呃，
+[Speaker 0]: 刚刚强调了第二季度是负数，
+[Speaker 0]: 因为有 IPO 的影响，
+[Speaker 0]: 所以总体上来看 circle 它是可以赚钱，
+[Speaker 0]: 是可以盈利的。
+[Speaker 0]: 在待会的估值模型中有一个非非常要要数据，
+[Speaker 0]: 就是公司的 neneincome margin 净利率能够到多少，
+[Speaker 0]: 这里我就重复一下。
+[Speaker 0]: 在过去三年、
+[Speaker 0]: 二零二三年开始，
+[Speaker 0]: 公司的这个净利率数字分别是百分之十八、
+[Speaker 0]: 百分之九负的百分之三。
+[Speaker 0]: 如果除去 compensation 和 digital ascess 的影响，
+[Speaker 0]: 分别是百分之三十八、
+[Speaker 0]: 百分之二十五和百分之二十八。
+[Speaker 0]: 最后一张图片，
+[Speaker 0]: 我们来看公司的估值其实和我个股分析已经个股分析之后，
+[Speaker 0]: 一两次财报的追踪视频都没有变。
+[Speaker 0]:  circle 还是那家 circle，
+[Speaker 0]: 它的估值数据没有很大的变化。
+[Speaker 0]: 那么在最新的表格中，
+[Speaker 0]: 我利用了很多二零二五年四季度的数据。
+[Speaker 0]: 你比如说二零二五年四季度 USDC 的市占率以及投资回报率都是相较于之前有下降的。
+[Speaker 0]: 还有就是二零二五年四季度的其他收入。
+[Speaker 0]: 这里我要再次强调其他收入，
+[Speaker 0]: 二零二五年全年公司的其他收入是一点一亿美金，
+[Speaker 0]: 相较于上一年是增加了挺多的。
+[Speaker 0]: 但是呢，
+[Speaker 0]: 公司给出的二零二六年指引是一点六亿美金，
+[Speaker 0]: 那么一点六亿美金相较于一点一亿美金是有大概百分之四十五的增幅。
+[Speaker 0]: 呃，
+[Speaker 0]: 我刚刚提过这个数字很重要，
+[Speaker 0]: 因为一点一亿美金里面大部分都是纯利润。
+[Speaker 0]: 所以我根据每年大概百分之五十的复合增速算出来，
+[Speaker 0]: 二零二三年就有八点三亿美金的其他收入，
+[Speaker 0]: 这个八点三亿美金是至关重要。
+[Speaker 0]: 所以总体的算下来，
+[Speaker 0]: 目前 circle 的市值是两百亿合理估值，
+[Speaker 0]: 二零三零年五年之后可以达到六百八十亿。
+[Speaker 0]: 它总体的五年的回报就是百分之二百三十八，
+[Speaker 0]: 目前的股价是八十四，
+[Speaker 0]: 那么二零三零年对应六百八十亿的市值，
+[Speaker 0]: 在不考虑稀释的情况下是两百八十四的股价，
+[Speaker 0]: 那么年这个复合回报率是百分之二十八。
+[Speaker 0]: 这就是我为什怎么说，
+[Speaker 0]: 其实我这个表格呈现过很多次，
+[Speaker 0]: 也做过微调，
+[Speaker 0]: 但是 circle 还是那家 circle。
+[Speaker 0]: 嗯，
+[Speaker 0]: 公司在电话会议上啊展示了自己其他收入。
+[Speaker 0]: 你比如说他自己的 circle payment、
+[Speaker 0]:  network 等等的进展，
+[Speaker 0]: 我觉得这是非常好的。
+[Speaker 0]: 很多人是低估了其他收入的潜力。
+[Speaker 0]: 我觉得作为支持 circle 的这些投资者，
+[Speaker 0]: 其他收入和他的稳定币获取的现金去投资美债的收入同等重要。
+[Speaker 0]: 总体来说，
+[Speaker 0]: 我对 cirl 财报还是比较满意的，
+[Speaker 0]: 但是也要合理的和客观的去认识财报的数字，
+[Speaker 0]: 不能盲目的。
+[Speaker 0]: 就觉得 circle 现在不一样了，
+[Speaker 0]: 它变了。
+[Speaker 0]: 还是那句话，
+[Speaker 0]:  circle 依然是同样的 circle，
+[Speaker 0]: 我依然长期看好 circle。
+[Speaker 0]: 这家公司目前我的平均持仓成本是一百左右。
+[Speaker 0]: 那么距离呃到我的持仓成本呢，
+[Speaker 0]: 还有二十块钱啊，
+[Speaker 0]: 我也是希望能够快点回本，
+[Speaker 0]: 然后让长期持有变得更加轻松一点啊。
+[Speaker 0]: 我相信很多朋友和我一样，
+[Speaker 0]: 都是被 circle 套住了。
+[Speaker 0]: 那么如果你的持仓成本没有那么高的话，
+[Speaker 0]: 和我一样就保持更多的耐心。
+[Speaker 0]: 长期投资这家稳定币公司。
+[Speaker 0]: 好，
+[Speaker 0]: 感谢大家收看我的视频。
+[Speaker 0]: 如果你喜欢我的分享，
+[Speaker 0]: 请帮我点赞、
+[Speaker 0]: 评论，
+[Speaker 0]: 订阅，
+[Speaker 0]: 我们下期视频再见。
