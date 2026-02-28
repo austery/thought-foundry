@@ -1132,13 +1132,13 @@ module.exports = async function (eleventyConfig) {
 
   // 集合 8: 完整集合（包含被排除的项目）- 用于内部处理和调试
   eleventyConfig.addCollection("allItems", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/{posts,books,notes}/**/*.md");
+    return collectionApi.getFilteredByGlob("./content/{posts,books,notes}/**/*.md");
   });
 
   // 集合 9: 被排除的项目集合 - 用于调试和监控
   eleventyConfig.addCollection("excludedItems", function (collectionApi) {
     const excludedItems = collectionApi
-      .getFilteredByGlob("./src/{posts,books,notes}/**/*.md")
+      .getFilteredByGlob("./content/{posts,books,notes}/**/*.md")
       .filter((item) => item.data.exclude);
 
     // 调试输出
