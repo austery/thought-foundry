@@ -35,8 +35,8 @@ jobs:
       - name: Checkout Content
         run: |
           git clone --depth 1 \
-            https://github.com/austery/thought-foundry-content.git content
-          rm -rf content/raw_subtitles content/cleaned_subtitles
+            https://github.com/austery/thought-foundry-content.git src/content
+          rm -rf src/content/raw_subtitles src/content/cleaned_subtitles
 
       # 步骤 2: 设置 Node.js 环境并安装依赖
       - name: Setup Node
