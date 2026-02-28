@@ -232,6 +232,12 @@ module.exports = async function (eleventyConfig) {
     return tag ? tag.slug : eleventyConfig.getFilter("slug")(tagName);
   });
 
+  // Returns true if the given tag name has a rendered page (i.e. it's in the filtered tagList)
+  eleventyConfig.addFilter("tagHasPage", function (tagName, tagList) {
+    if (!tagList) return false;
+    return tagList.some(t => t.name === tagName);
+  });
+
   // 添加一个过滤器来获取演讲者的唯一键
   eleventyConfig.addFilter(
     "getSpeakerUniqueKey",
