@@ -4,7 +4,7 @@ This is a Polyglot project (Node.js + Python).
 
 **Content Rule**: All Markdown content lives in `src/content/` — this is a git submodule pointing to `austery/thought-foundry-content`. DO NOT put code files here. DO NOT add content directly to this repo; push content changes to `thought-foundry-content` instead.
 
-**Python Rule**: All Python automation scripts must live in `scripts/`. Use `uv` for dependency management. Scripts that modify content files should target paths under `src/content/` (the submodule checkout), then commit those changes separately in `thought-foundry-content`.
+**No Python here**: This repo is pure Node.js. Python content maintenance scripts live in `thought-foundry-content/scripts/` alongside the content they operate on.
 
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -177,20 +177,9 @@ Pagefind static site search with full-text indexing:
 
 ## Python Utility Scripts
 
-Located in `scripts/`. These operate on content at `src/content/` (the submodule checkout). After running, commit changes in `src/content/` directly to `thought-foundry-content`.
+Moved to `thought-foundry-content/scripts/`. Run them from within the content repo checkout (`src/content/` locally).
 
-**Active / still useful:**
-- **update_speaker_author.py**: Rename speaker/author across all files.
-    - Usage: `python3 scripts/update_speaker_author.py "Old Name" "New Name" [--dry-run]`
-- **fix_malformed_yaml.py**: Repair broken frontmatter syntax
-- **frontmatter_audit.py** / **audit_missing_fields.py**: Find files with missing/malformed fields
-- **batch_processor.py**: Generic frontmatter field updates
-- **tag_processor.py** / **consolidate_tags.py**: Tag replacement and merging
-
-**Archive (one-time migration scripts, content already migrated):**
-- `knowledge_migration.py`, `migrate_areas.py`, `cleanup_projects.py`, `rename_to_video_id.py`
-
-These scripts preserve frontmatter structure while safely updating specific fields.
+See `src/content/scripts/README.md` for usage.
 
 ## Key Implementation Details
 
