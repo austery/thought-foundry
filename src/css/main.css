@@ -1,5 +1,6 @@
 @import url("./base/_theme.css");
 @import url("./base/_typography.css");
+/* ↑ _typography.css 包含字体基础样式与纸张纹理 */
 @import url("./layouts/_containers.css");
 @import url("./layouts/_home.css");
 @import url("./base/_post.css");

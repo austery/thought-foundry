@@ -51,73 +51,76 @@
   font-size: 0.9rem;
 }
 
-/* 领域徽章（列表页 - 内联显示） */
+/* 领域徽章（列表页 - 内联显示）*/
 .area-badge-inline {
-  display: inline-block;
-  padding: 3px 10px;
-  background-color: var(--theme-accent-green-light);
-  color: var(--theme-accent-green);
-  border-radius: 12px;
-  font-size: 0.85rem;
-  font-weight: 500;
-  border: 1px solid var(--theme-accent-green);
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  padding: 2px 8px;
+  background-color: var(--theme-accent-secondary-light);
+  color: var(--theme-accent-secondary);
+  border-radius: 3px;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  border: 1px solid var(--theme-accent-secondary);
   text-decoration: none;
-  transition: all 0.2s ease;
+  opacity: 0.85;
+  transition: opacity 0.15s, background-color 0.15s;
 }
 
 .area-badge-inline:hover {
-  background-color: var(--theme-accent-green);
-  color: white;
-  border-color: var(--theme-accent-green);
+  opacity: 1;
+  background-color: var(--theme-accent-secondary);
+  color: var(--theme-bg-primary);
   text-decoration: none;
-  transform: translateY(-1px);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-/* 分类徽章（列表页 - 内联显示） */
+/* 分类徽章（列表页 - 内联显示）*/
 .category-badge-inline {
-  display: inline-block;
-  padding: 3px 10px;
-  background-color: var(--theme-accent-blue-light);
-  color: var(--theme-accent-blue);
-  border-radius: 12px;
-  font-size: 0.85rem;
-  font-weight: 500;
-  border: 1px solid var(--theme-accent-blue);
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  padding: 2px 8px;
+  background-color: var(--theme-accent-primary-light);
+  color: var(--theme-accent-primary);
+  border-radius: 3px;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  border: 1px solid var(--theme-accent-primary);
   text-decoration: none;
-  transition: all 0.2s ease;
+  opacity: 0.85;
+  transition: opacity 0.15s, background-color 0.15s;
 }
 
 .category-badge-inline:hover {
-  background-color: var(--theme-accent-blue);
-  color: white;
-  border-color: var(--theme-accent-blue);
+  opacity: 1;
+  background-color: var(--theme-accent-primary);
+  color: var(--theme-bg-primary);
   text-decoration: none;
-  transform: translateY(-1px);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-/* 专题徽章（列表页 - 内联显示） */
+/* 专题徽章（列表页 - 内联显示）*/
 .project-badge-inline {
-  display: inline-block;
-  padding: 3px 10px;
-  background-color: var(--theme-accent-orange-light);
-  color: var(--theme-accent-orange);
-  border-radius: 12px;
-  font-size: 0.85rem;
-  font-weight: 500;
-  border: 1px solid var(--theme-accent-orange);
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  padding: 2px 8px;
+  background-color: var(--theme-accent-tertiary-light);
+  color: var(--theme-accent-tertiary);
+  border-radius: 3px;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  border: 1px solid var(--theme-accent-tertiary);
   text-decoration: none;
-  transition: all 0.2s ease;
+  opacity: 0.85;
+  transition: opacity 0.15s, background-color 0.15s;
 }
 
 .project-badge-inline:hover {
-  background-color: var(--theme-accent-orange);
-  color: white;
-  border-color: var(--theme-accent-orange);
+  opacity: 1;
+  background-color: var(--theme-accent-tertiary);
+  color: var(--theme-bg-primary);
   text-decoration: none;
-  transform: translateY(-1px);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 /* 分类徽章（旧版 - 保留兼容性） */

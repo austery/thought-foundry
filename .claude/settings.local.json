@@ -3,7 +3,46 @@
     "allow": [
       "Bash(uv run scripts/frontmatter_audit.py --json --errors-only 2>/dev/null | python3 -c \"\nimport json, sys\ndata = json.load\\(sys.stdin\\)\n\ndate_missing = [r['file'] for r in data if any\\(i['field'] == 'date' for i in r['issues']\\)]\nspeaker_missing = [r['file'] for r in data if any\\(i['field'] == 'speaker' for i in r['issues']\\)]\n\nprint\\('=== DATE 缺失 \\(%d 个\\) ===' % len\\(date_missing\\)\\)\nfor f in date_missing:\n    print\\(' ', f\\)\n\nprint\\(\\)\nprint\\('=== SPEAKER 缺失 \\(%d 个\\) ===' % len\\(speaker_missing\\)\\)\nfor f in speaker_missing:\n    print\\(' ', f\\)\n\" 2>&1)",
       "Bash(head:*)",
-      "Bash(uv run:*)"
+      "Bash(uv run:*)",
+      "Bash(npm run:*)",
+      "Bash(npm run build:*)",
+      "Bash(npx:*)",
+      "Bash(node:*)",
+      "Bash(node_modules/.bin/eleventy:*)",
+      "Bash(lsof:*)",
+      "Bash(kill:*)",
+      "Bash(sleep:*)",
+      "Bash(curl:*)",
+      "Bash(tail:*)",
+      "Bash(cat:*)",
+      "Bash(echo:*)",
+      "Bash(ls:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "mcp__chrome-devtools__navigate_page",
+      "mcp__chrome-devtools__take_screenshot",
+      "mcp__chrome-devtools__resize_page",
+      "mcp__chrome-devtools__evaluate_script",
+      "mcp__chrome-devtools__press_key",
+      "mcp__chrome-devtools__take_snapshot",
+      "mcp__chrome-devtools__click",
+      "mcp__chrome-devtools__fill",
+      "mcp__chrome-devtools__wait_for",
+      "mcp__chrome-devtools__list_pages",
+      "mcp__chrome-devtools__new_page",
+      "mcp__chrome-devtools__list_console_messages",
+      "mcp__chrome-devtools__list_network_requests",
+      "mcp__chrome-devtools__select_page",
+      "mcp__chrome-devtools__close_page",
+      "mcp__chrome-devtools__type_text",
+      "mcp__chrome-devtools__hover",
+      "mcp__chrome-devtools__emulate"
     ]
+  },
+  "enabledPlugins": {
+    "frontend-design@claude-plugins-official": true
   }
 }

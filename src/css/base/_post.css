@@ -14,14 +14,14 @@
     flex: 0 0 250px;
     /* 固定宽度，确保目录不会太宽 */
     position: sticky;
-    top: 20px;
+    top: 72px;   /* 为 sticky header 留出空间 */
     align-self: flex-start;
-    max-height: 90vh;
+    max-height: calc(100vh - 80px);
     overflow-y: auto;
     padding: 15px;
-    background-color: var(--theme-bg-primary);
-    border-radius: 8px;
-    box-shadow: 0 2px 5px var(--theme-shadow);
+    background-color: var(--theme-bg-secondary);
+    border-radius: 6px;
+    border: 1px solid var(--theme-border-color);
 }
 
 .sidebar-toc h3 {
@@ -40,14 +40,18 @@
 
 .sidebar-toc li a {
     text-decoration: none;
-    color: var(--pico-primary);
+    color: var(--theme-text-secondary);
+    font-family: var(--font-body);
+    font-size: 0.88rem;
     display: block;
-    padding: 8px 0;
-    transition: color 0.2s;
+    padding: 5px 0;
+    transition: color 0.15s;
+    line-height: 1.4;
 }
 
 .sidebar-toc li a:hover {
-    color: var(--pico-primary-hover);
+    color: var(--theme-accent-primary);
+    text-decoration: none;
 }
 
 /* 为三级标题（h3）在目录中增加缩进 */
@@ -100,6 +104,30 @@
     line-height: 1.7;
     color: var(--theme-text-primary);
     /* 增加行高，提升阅读舒适度 */
+}
+
+/* === 正文加粗：深色模式下用琥珀金提升可见性 === */
+.main-content strong,
+.main-content b {
+    font-weight: 700;
+    color: var(--theme-accent-primary);  /* 琥珀金，和主题一致 */
+}
+
+/* 浅色模式下保持深墨色（颜色已足够对比，不需要金色）*/
+:root .main-content strong,
+:root .main-content b {
+    color: var(--theme-accent-primary);
+}
+
+/* === 正文字体与行高 === */
+.main-content {
+    font-family: var(--font-body);
+    line-height: 1.8;
+    font-size: 1rem;
+}
+
+.main-content p {
+    font-family: var(--font-body);
 }
 
 /* === 响应式设计 === */

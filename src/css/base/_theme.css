@@ -1,73 +1,107 @@
 /* src/css/base/_theme.css */
-/* 主题变量定义：支持浅色和深色主题 */
+/* ===== 午夜森林手稿配色系统 ===== */
 
 :root {
-  /* ===== 浅色主题（柔和） ===== */
-  --theme-bg-primary: #FAFAFA;
-  --theme-bg-secondary: #f5f5f5;
-  --theme-bg-tertiary: #eeeeee;
+  /* ===== 浅色主题 — 古纸暖光 ===== */
+  --theme-bg-primary: #f7f3ec;
+  --theme-bg-secondary: #ede9e0;
+  --theme-bg-tertiary: #e4dfd4;
 
-  --theme-text-primary: #18181B;
-  --theme-text-secondary: #666666;
-  --theme-text-muted: #999999;
+  --theme-text-primary: #1a1512;
+  --theme-text-secondary: #4a4340;
+  --theme-text-muted: #7d756c;
 
-  --theme-border-color: #eeeeee;
-  --theme-border-dark: #cccccc;
+  --theme-border-color: #d8d2c4;
+  --theme-border-dark: #bfb7ab;
 
-  --theme-accent-blue: #4a90e2;
-  --theme-accent-blue-light: #f0f8ff;
-  --theme-accent-orange: #f39c12;
-  --theme-accent-orange-light: #fffbf0;
-  --theme-accent-green: #48bb78;
-  --theme-accent-green-light: #f0fff4;
+  /* 主调色 — 琥珀金 */
+  --theme-accent-primary: #8b6712;
+  --theme-accent-primary-light: #f5edd8;
 
-  --theme-summary-bg: var(--theme-accent-blue-light); /* For summary blocks */
+  /* 次调色 — 苔藓绿 */
+  --theme-accent-secondary: #3d6b5a;
+  --theme-accent-secondary-light: #e8f2ee;
 
-  --theme-shadow: rgba(0, 0, 0, 0.05);
-  --theme-shadow-dark: rgba(0, 0, 0, 0.1);
+  /* 第三调色 — 秋叶锈红 */
+  --theme-accent-tertiary: #9a4828;
+  --theme-accent-tertiary-light: #f5e8e0;
 
-  --theme-button-bg: #007bff;
-  --theme-button-bg-hover: #0056b3;
+  /* 兼容旧版本变量 */
+  --theme-accent-blue: #3d6b5a;
+  --theme-accent-blue-light: #e8f2ee;
+  --theme-accent-orange: #8b6712;
+  --theme-accent-orange-light: #f5edd8;
+  --theme-accent-green: #3d6b5a;
+  --theme-accent-green-light: #e8f2ee;
+  --theme-summary-bg: #ede9e0;
+  --theme-button-bg: #8b6712;
+  --theme-button-bg-hover: #6b5010;
+
+  --theme-shadow: rgba(26, 21, 18, 0.06);
+  --theme-shadow-dark: rgba(26, 21, 18, 0.14);
+
+  /* 字体系统 */
+  --font-display: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-chinese-serif: 'Noto Serif SC', 'Songti SC', 'STSong', serif;   /* 标题用 */
+  --font-chinese: 'Noto Serif SC', 'Songti SC', 'STSong', serif;          /* 兼容别名 */
+  --font-mono: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+  --font-body: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif;  /* 正文用无衬线 */
 
   color-scheme: light;
 }
 
-/* ===== 深色主题 (基于 Obsidian Dev Blog) ===== */
+/* ===== 深色主题 — 午夜森林 ===== */
 [data-theme="dark"] {
-  /* 背景色 */
-  --theme-bg-primary: #0d0d0d;
-  --theme-bg-secondary: #121212;
-  --theme-bg-tertiary: #1f1f1f;
+  /* 背景 — 黑松林夜色 */
+  --theme-bg-primary: #0b0e0b;
+  --theme-bg-secondary: #111411;
+  --theme-bg-tertiary: #191d19;
 
-  /* 文本颜色 */
-  --theme-text-primary: rgba(255, 255, 255, 0.9);
-  --theme-text-secondary: rgba(255, 255, 255, 0.7);
-  --theme-text-muted: rgba(255, 255, 255, 0.6);
+  /* 文本 — 古纸暖白 */
+  --theme-text-primary: #e4dbd0;
+  --theme-text-secondary: #9e9488;
+  --theme-text-muted: #63605a;
 
-  /* 边框颜色 */
-  --theme-border-color: #363636;
-  --theme-border-dark: #4a4a4a;
+  /* 边框 */
+  --theme-border-color: #1e221e;
+  --theme-border-dark: #2d322d;
 
-  /* 强调色 (柔和彩色系) */
-  --theme-accent-blue: #B48EAD;        /* Category: 薰衣草紫 */
-  --theme-accent-blue-light: #3e303d;   /* 浅紫色背景 (微调) */
-  --theme-accent-orange: #EBCB8B;      /* Project: 琥珀黄 */
-  --theme-accent-orange-light: #4a4230; /* 浅黄色背景 (微调) */
-  --theme-accent-green: #8FBCBB;        /* Area: 水蓝色 */
-  --theme-accent-green-light: #2e4040;  /* 浅蓝色背景 (微调) */
+  /* 主调色 — 萤火虫琥珀金 */
+  --theme-accent-primary: #c8a554;
+  --theme-accent-primary-light: #1e1a08;
 
-  /* 组件颜色 */
-  --theme-summary-bg: #2c2c2c; /* For summary blocks */
-  --theme-button-bg: #1f1f1f;
-  --theme-button-bg-hover: #383838;
+  /* 次调色 — 苔藓碧绿 */
+  --theme-accent-secondary: #5b907e;
+  --theme-accent-secondary-light: #0d1a17;
 
-  /* 阴影 */
-  --theme-shadow: rgba(0, 0, 0, 0.2);
-  --theme-shadow-dark: rgba(0, 0, 0, 0.4);
+  /* 第三调色 — 秋叶锈橙 */
+  --theme-accent-tertiary: #c06b4a;
+  --theme-accent-tertiary-light: #1e0e08;
+
+  /* 兼容旧版本变量 */
+  --theme-accent-blue: #5b907e;
+  --theme-accent-blue-light: #0d1a17;
+  --theme-accent-orange: #c8a554;
+  --theme-accent-orange-light: #1e1a08;
+  --theme-accent-green: #5b907e;
+  --theme-accent-green-light: #0d1a17;
+  --theme-summary-bg: #191d19;
+  --theme-button-bg: #191d19;
+  --theme-button-bg-hover: #242824;
+
+  --theme-shadow: rgba(0, 0, 0, 0.35);
+  --theme-shadow-dark: rgba(0, 0, 0, 0.55);
 
   color-scheme: dark;
 }
 
-/* ===== 系统偏好支持 ===== */
-/* 注：JavaScript 在 theme-toggle.js 中通过 window.matchMedia() 检测系统偏好 */
-/* 不在 CSS 中使用 @media (prefers-color-scheme: dark) 以避免与 JavaScript 切换冲突 */
+/* ===== 全局过渡 ===== */
+*, *::before, *::after {
+  transition: background-color 0.25s ease, border-color 0.25s ease, color 0.15s ease;
+}
+
+/* 禁用链接/按钮的颜色过渡以避免闪烁 */
+a, button {
+  transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease,
+              opacity 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+}

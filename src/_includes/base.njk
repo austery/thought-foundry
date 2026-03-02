@@ -4,16 +4,28 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ title }}</title>
+
+    <!-- 字体：Playfair Display (英文展示) + Noto Serif SC (中文) + JetBrains Mono (代码/元数据) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Noto+Serif+SC:wght@600;700&family=Noto+Sans+SC:wght@400;500&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+
     <link rel="stylesheet" href="{{ '/css/main.css' | url }}" />
     <link href="{{ '/pagefind/pagefind-ui.css' | url }}" rel="stylesheet">
   </head>
   <body>
     <div class="page-wrapper">
+
       <header class="site-header">
-        <div class="site-title">
-          <a href="{{ '/' | url }}"><strong>The Learning Grove</strong></a>
-        </div>
-        <nav class="main-nav">
+        <!-- 品牌标志 -->
+        <a class="site-brand" href="{{ '/' | url }}">
+          <span class="site-brand__glyph">◆</span>
+          <strong class="site-brand__en">The Learning Grove</strong>
+          <span class="site-brand__zh">林间拾穗</span>
+        </a>
+
+        <!-- 主导航 -->
+        <nav class="main-nav" aria-label="主导航">
           <ul>
             <li><a href="{{ '/' | url }}">首页</a></li>
             <li><a href="{{ '/all-areas/' | url }}">领域</a></li>
@@ -27,6 +39,8 @@
             <li><a href="{{ '/about/' | url }}">关于</a></li>
           </ul>
         </nav>
+
+        <!-- 右侧控件：搜索 + 主题切换 -->
         <div class="search-container">
           <div id="search"></div>
           <button id="theme-toggle" class="theme-toggle" title="切换主题" aria-label="切换深色/浅色主题">
@@ -40,8 +54,9 @@
       </main>
 
       <footer class="site-footer">
-        <p>&copy; 2025 Austery. All rights reserved.</p>
+        <p>&copy; 2025 Austery &nbsp;·&nbsp; All rights reserved.</p>
       </footer>
+
     </div>
 
     <script>

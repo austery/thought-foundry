@@ -1,20 +1,18 @@
 /* src/css/layouts/_site.css */
-.site-container {
-    max-width: 768px;
-    /* 设定内容的最大宽度，这是实现舒适阅读的关键 */
-    margin: 0 auto;
-    /* 让整个容器水平居中 */
-    padding: 0 1rem;
-    /* 在手机等小屏幕上，给内容两边留出一点空隙 */
-}
 
-.site-header {
-    padding: 2rem 0;
-}
-
+/* ===== 站点页脚 ===== */
 .site-footer {
-    padding: 2rem 0;
-    text-align: center;
-    font-size: 0.9em;
-    color: var(--pico-secondary);
+  padding: 2.5rem 0;
+  text-align: center;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: var(--theme-text-muted);
+  border-top: 1px solid var(--theme-border-color);
+  letter-spacing: 0.04em;
+  margin-top: 3rem;
+}
+
+/* ===== 主内容区域 ===== */
+.site-content {
+  min-height: calc(100vh - 200px);
 }

@@ -1,50 +1,204 @@
 /* src/css/components/_header.css */
+/* ===== 站点头部 — 横向精简布局 ===== */
+
+/* 页面最外层约束 */
+.page-wrapper {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
 
 .site-header {
-    display: flex;
-    flex-direction: column;
-    /* 关键：让内部元素垂直堆叠 */
-    align-items: center;
-    /* 关键：让所有子元素在交叉轴上（水平）居中 */
-    padding: 2rem 0;
-    /* 给头部一些垂直的呼吸空间 */
-    text-align: center;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  padding: 1.25rem 0;
+  border-bottom: 1px solid var(--theme-border-color);
+  position: sticky;
+  top: 0;
+  background-color: var(--theme-bg-primary);
+  z-index: 100;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
 }
 
-.site-title {
-    font-size: 2rem;
-    font-weight: bold;
-    margin-bottom: 1.5rem;
-    /* 标题和导航之间的间距 */
+/* ===== 品牌标志 ===== */
+.site-brand {
+  flex-shrink: 0;
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  text-decoration: none !important;
 }
 
-.site-title a {
-    text-decoration: none;
-    color: var(--pico-h1-color);
+.site-brand__glyph {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  color: var(--theme-accent-primary);
+  line-height: 1;
+  opacity: 0.9;
 }
 
-/* 导航链接 */
+.site-brand__en {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--theme-text-primary);
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+}
+
+.site-brand__zh {
+  font-family: var(--font-chinese);
+  font-size: 0.78rem;
+  color: var(--theme-text-muted);
+  letter-spacing: 0.1em;
+  padding: 0 0.1em;
+  white-space: nowrap;
+}
+
+.site-brand:hover .site-brand__en {
+  color: var(--theme-accent-primary);
+}
+
+/* ===== 主导航 ===== */
+.main-nav {
+  flex: 1;
+  overflow: hidden;
+}
+
 .main-nav ul {
-    display: flex;
-    gap: 1.5rem;
-    /* 导航链接之间的间距 */
-    margin: 0;
-    padding: 0;
-    list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  align-items: center;
 }
 
-/* 搜索容器 */
+.main-nav ul li a {
+  display: block;
+  padding: 0.35rem 0.7rem;
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  color: var(--theme-text-secondary);
+  text-decoration: none;
+  letter-spacing: 0.03em;
+  border-radius: 4px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.main-nav ul li a::after {
+  content: '';
+  position: absolute;
+  bottom: 2px;
+  left: 0.7rem;
+  right: 0.7rem;
+  height: 1px;
+  background-color: var(--theme-accent-primary);
+  transform: scaleX(0);
+  transform-origin: left center;
+  transition: transform 0.2s ease;
+}
+
+.main-nav ul li a:hover {
+  color: var(--theme-text-primary);
+  text-decoration: none;
+}
+
+.main-nav ul li a:hover::after {
+  transform: scaleX(1);
+}
+
+/* ===== 头部右侧控件 ===== */
+.header-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-shrink: 0;
+}
+
+/* ===== 搜索容器 ===== */
 .search-container {
-    margin-top: 1.5rem;
-    /* 导航和搜索框之间的间距 */
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  width: 240px;
+  flex-shrink: 0;
+}
+
+.search-container > div {
+  flex: 1;
+  min-width: 0;
+}
+
+/* ===== 主题切换按钮 ===== */
+.theme-toggle {
+  flex-shrink: 0;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  border: 1px solid var(--theme-border-dark);
+  background: var(--theme-bg-secondary);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.9rem;
+  padding: 0;
+  color: var(--theme-text-secondary);
+}
+
+.theme-toggle:hover {
+  border-color: var(--theme-accent-primary);
+  background: var(--theme-accent-primary-light);
+}
+
+/* ===== 旧版兼容：site-title 隐藏 ===== */
+.site-title {
+  display: none;
+}
+
+/* ===== 响应式 ===== */
+@media (max-width: 768px) {
+  .site-header {
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    padding: 1rem 0;
+    position: static;
+  }
+
+  .main-nav {
+    order: 3;
     width: 100%;
-    max-width: 400px;
-    /* 限制搜索框宽度 */
+  }
+
+  .main-nav ul {
+    gap: 0;
+  }
+
+  .main-nav ul li a {
+    font-size: 0.78rem;
+    padding: 0.3rem 0.5rem;
+  }
+
+  .search-container {
+    width: 180px;
+  }
+
+  .site-brand__zh {
+    display: none;
+  }
 }
 
-/* 新增：确保搜索框和主题切换按钮垂直对齐 */
-.search-container {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
+@media (max-width: 480px) {
+  .site-brand__en {
+    font-size: 0.95rem;
+  }
+
+  .search-container {
+    width: 140px;
+  }
 }

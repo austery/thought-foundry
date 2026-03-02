@@ -1,133 +1,277 @@
 /* src/css/layouts/_home.css */
+/* ===== 首页文章 Feed — 手稿编辑风格 ===== */
 
 .home-layout {
-    /* 让容器内的所有文本都居中 */
-    text-align: center;
-    padding: 2rem 0;
-    /* 给主页内容一些垂直的呼吸空间 */
+  padding: 2.5rem 0 4rem;
+  text-align: left;
 }
 
-/* 对主页上的列表进行特殊处理 */
+/* ===== 首页欢迎语 ===== */
+.home-layout > p:first-child {
+  font-family: var(--font-chinese);
+  font-size: 0.9rem;
+  color: var(--theme-text-muted);
+  letter-spacing: 0.05em;
+  margin-bottom: 0.25rem;
+  font-style: italic;
+}
+
+/* ===== 主标题 ===== */
+.home-layout > h1 {
+  font-family: var(--font-chinese);
+  font-size: 2.2rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  color: var(--theme-text-primary);
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid var(--theme-border-color);
+  position: relative;
+}
+
+.home-layout > h1::after {
+  content: '';
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  width: 3rem;
+  height: 2px;
+  background-color: var(--theme-accent-primary);
+}
+
+/* ===== 文章列表容器 ===== */
 .home-layout ul {
-    /* 将列表本身作为一个块在页面上居中显示 */
-    display: inline-block;
-
-    /* 但保持列表项内部的文字是左对齐的，这样更易读 */
-    text-align: left;
-
-    margin-top: 2rem;
-    padding: 0;
-    list-style: none;
-    /* 移除列表前面的黑点 */
+  display: block;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  text-align: left;
 }
 
+/* ===== 单篇文章条目 ===== */
 .home-layout li {
-    padding: 0.75rem 0;
-    /* 增加每个列表项之间的垂直间距 */
-    border-bottom: 1px solid var(--pico-muted-border-color);
-    /* 在列表项之间增加一条柔和的分割线 */
+  padding: 1.5rem 0 1.5rem 1.25rem;
+  border-bottom: 1px solid var(--theme-border-color);
+  position: relative;
+  cursor: pointer;
 }
 
+/* 左侧琥珀色悬停指示线 */
+.home-layout li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 1.5rem;
+  bottom: 1.5rem;
+  width: 2px;
+  background-color: var(--theme-accent-primary);
+  transform: scaleY(0);
+  transform-origin: top center;
+  transition: transform 0.25s ease;
+  border-radius: 1px;
+}
+
+.home-layout li:hover::before {
+  transform: scaleY(1);
+}
+
+.home-layout li:hover {
+  background-color: transparent;
+}
+
+/* ===== 文章标题 — 宋体（大字效果好）===== */
+.home-layout li > a:first-child {
+  font-family: var(--font-chinese-serif);
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--theme-text-primary);
+  text-decoration: none;
+  line-height: 1.5;
+  display: inline;
+}
+
+.home-layout li > a:first-child:hover {
+  color: var(--theme-accent-primary);
+  text-decoration: none;
+}
+
+/* ===== 徽章（类型图标）===== */
+.badge {
+  font-size: 0.75rem;
+  opacity: 0.6;
+  margin-left: 0.3em;
+  vertical-align: middle;
+}
+
+/* ===== 时间标签 ===== */
+.home-layout li time {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--theme-text-muted);
+  letter-spacing: 0.02em;
+  margin-left: 0.75em;
+}
+
+/* ===== 演讲者内联标签 ===== */
+.speaker-inline {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-family: var(--font-mono);
+  color: var(--theme-accent-secondary);
+  background-color: var(--theme-accent-secondary-light);
+  padding: 0.1em 0.6em;
+  border-radius: 3px;
+  margin-left: 0.5em;
+  text-decoration: none;
+  vertical-align: middle;
+  border: 1px solid transparent;
+}
+
+.speaker-inline:hover {
+  border-color: var(--theme-accent-secondary);
+  color: var(--theme-accent-secondary);
+  text-decoration: none;
+  background-color: var(--theme-accent-secondary-light);
+}
+
+/* ===== 分类栏（taxonomy-line）===== */
+.taxonomy-line {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin: 0.55rem 0 0;
+}
+
+/* ===== 摘要文字 — 无衬线（小字更清晰）===== */
+.home-layout .summary-text,
+.home-layout small.summary-text {
+  display: block;
+  margin-top: 0.5rem;
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  line-height: 1.7;
+  color: var(--theme-text-secondary);
+  background: none;
+  border-left: none;
+  padding: 0;
+}
+
+/* ===== 洞察文字 — 无衬线 ===== */
+.home-layout .insight-text,
+.home-layout small.insight-text {
+  display: block;
+  margin-top: 0.4rem;
+  font-family: var(--font-body);
+  font-size: 0.83rem;
+  line-height: 1.65;
+  color: var(--theme-accent-primary);
+  background: none;
+  border-left: none;
+  padding: 0;
+  font-style: italic;
+}
+
+/* ===== 最后一条不要底部边框 ===== */
 .home-layout li:last-child {
-    border-bottom: none;
-    /* 最后一项不需要分割线 */
+  border-bottom: none;
 }
 
-/* 主页标签链接样式 */
-.home-layout .tag-link {
-    display: inline-block;
-    margin-left: 0.5em;
-    margin-right: 0.3em;
-    font-size: 0.85em;
-    color: var(--pico-secondary);
-    text-decoration: none;
-    opacity: 0.8;
-}
-
-.home-layout .tag-link:hover {
-    opacity: 1;
-    color: var(--pico-primary);
-}
-
-/* 书籍笔记布局样式 */
+/* ===== 书籍笔记布局 ===== */
 .book-note-layout {
-    max-width: 100%;
-    margin: 0 auto;
-    padding: 1rem 0;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 1rem 0;
 }
 
 .book-note-layout .metadata-block {
-    overflow: auto; /* Clear floats */
-    margin-bottom: 2rem;
+  overflow: auto;
+  margin-bottom: 2rem;
 }
 
 .book-content {
-    margin-top: 2rem;
-    line-height: 1.6;
-    clear: both; /* Ensure content starts below floated image */
+  margin-top: 2rem;
+  line-height: 1.75;
+  clear: both;
+  font-family: var(--font-chinese);
 }
 
 .book-content h2 {
-    margin-top: 2.5rem;
-    margin-bottom: 1rem;
-    color: var(--pico-h2-color);
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
 }
 
 .book-content h3 {
-    margin-top: 2rem;
-    margin-bottom: 0.75rem;
-    color: var(--pico-h3-color);
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
 }
 
 .book-content p {
-    margin-bottom: 1.2rem;
+  margin-bottom: 1.2rem;
 }
 
 .book-content ul, .book-content ol {
-    margin-bottom: 1.5rem;
-    padding-left: 1.5rem;
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
 }
 
 .book-content li {
-    margin-bottom: 0.5rem;
-    line-height: 1.5;
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
 }
 
-/* 书籍封面图片样式 */
 .book-cover {
-    max-width: 120px;
-    height: auto;
-    margin: 0.5rem 0;
-    border-radius: var(--pico-border-radius);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    float: left;
-    margin-right: 1rem;
-    margin-bottom: 1rem;
+  max-width: 120px;
+  height: auto;
+  margin: 0.5rem 1rem 1rem 0;
+  border-radius: 4px;
+  box-shadow: 0 3px 12px var(--theme-shadow-dark);
+  float: left;
 }
 
-/* 演讲者页面样式 */
+/* ===== 演讲者页面 ===== */
 .speaker-posts-list {
-    margin-top: 2rem;
-    padding: 0;
-    list-style: none;
+  margin-top: 2rem;
+  padding: 0;
+  list-style: none;
 }
 
 .speaker-posts-list li {
-    padding: 1rem 0;
-    border-bottom: 1px solid var(--pico-muted-border-color);
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--theme-border-color);
 }
 
 .speaker-posts-list li:last-child {
-    border-bottom: none;
+  border-bottom: none;
 }
 
 .speaker-posts-list a {
-    text-decoration: none;
-    color: var(--pico-primary);
-    font-weight: 500;
+  text-decoration: none;
+  color: var(--theme-accent-primary);
+  font-weight: 500;
 }
 
 .speaker-posts-list a:hover {
-    color: var(--pico-primary-hover);
-    text-decoration: underline;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* ===== 响应式 ===== */
+@media (max-width: 768px) {
+  .home-layout {
+    padding: 1.5rem 0 3rem;
+  }
+
+  .home-layout > h1 {
+    font-size: 1.7rem;
+  }
+
+  .home-layout li {
+    padding: 1.25rem 0 1.25rem 1rem;
+  }
+
+  .home-layout li > a:first-child {
+    font-size: 0.98rem;
+  }
 }
