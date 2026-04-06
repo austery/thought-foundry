@@ -200,34 +200,6 @@ module.exports = async function (eleventyConfig) {
     return project ? project.slug : eleventyConfig.getFilter("slug")(uniqueKey);
   });
 
-  eleventyConfig.addFilter("getPersonSlug", function (personName, collections) {
-    if (!collections || !collections.peopleList) return eleventyConfig.getFilter("slug")(personName);
-    const uniqueKey = eleventyConfig.getFilter("getPersonUniqueKey")(personName, collections);
-    const person = collections.peopleList.find(p => p.uniqueKey === uniqueKey);
-    return person ? person.slug : eleventyConfig.getFilter("slug")(uniqueKey);
-  });
-
-  eleventyConfig.addFilter("getCompanySlug", function (companyName, collections) {
-    if (!collections || !collections.companiesOrgsList) return eleventyConfig.getFilter("slug")(companyName);
-    const uniqueKey = eleventyConfig.getFilter("getCompanyUniqueKey")(companyName, collections);
-    const company = collections.companiesOrgsList.find(c => c.uniqueKey === uniqueKey);
-    return company ? company.slug : eleventyConfig.getFilter("slug")(uniqueKey);
-  });
-
-  eleventyConfig.addFilter("getProductSlug", function (productName, collections) {
-    if (!collections || !collections.productsModelsList) return eleventyConfig.getFilter("slug")(productName);
-    const uniqueKey = eleventyConfig.getFilter("getProductUniqueKey")(productName, collections);
-    const product = collections.productsModelsList.find(p => p.uniqueKey === uniqueKey);
-    return product ? product.slug : eleventyConfig.getFilter("slug")(uniqueKey);
-  });
-
-  eleventyConfig.addFilter("getMediaSlug", function (mediaName, collections) {
-    if (!collections || !collections.mediaBookslist) return eleventyConfig.getFilter("slug")(mediaName);
-    const uniqueKey = eleventyConfig.getFilter("getMediaUniqueKey")(mediaName, collections);
-    const media = collections.mediaBookslist.find(m => m.uniqueKey === uniqueKey);
-    return media ? media.slug : eleventyConfig.getFilter("slug")(uniqueKey);
-  });
-
   eleventyConfig.addFilter("getTagSlug", function (tagName, collections) {
     if (!collections || !collections.tagList) return eleventyConfig.getFilter("slug")(tagName);
     const tag = collections.tagList.find(t => t.name === tagName);
@@ -293,54 +265,6 @@ module.exports = async function (eleventyConfig) {
     const lowerCaseName = projectName.trim().toLowerCase();
     const project = collections.projectList.find((p) => p.key === lowerCaseName);
     return project ? project.uniqueKey : lowerCaseName;
-  });
-
-  // 添加过滤器来获取人物的唯一键
-  eleventyConfig.addFilter("getPersonUniqueKey", function (personName, collections) {
-    if (!collections || !collections.peopleList)
-      return slugify(
-        cachedPinyin(personName.trim().toLowerCase())
-      );
-
-    const lowerCaseName = personName.trim().toLowerCase();
-    const person = collections.peopleList.find((p) => p.key === lowerCaseName);
-    return person ? person.uniqueKey : lowerCaseName;
-  });
-
-  // 添加过滤器来获取公司/组织的唯一键
-  eleventyConfig.addFilter("getCompanyUniqueKey", function (companyName, collections) {
-    if (!collections || !collections.companiesOrgsList)
-      return slugify(
-        cachedPinyin(companyName.trim().toLowerCase())
-      );
-
-    const lowerCaseName = companyName.trim().toLowerCase();
-    const company = collections.companiesOrgsList.find((c) => c.key === lowerCaseName);
-    return company ? company.uniqueKey : lowerCaseName;
-  });
-
-  // 添加过滤器来获取产品/模型的唯一键
-  eleventyConfig.addFilter("getProductUniqueKey", function (productName, collections) {
-    if (!collections || !collections.productsModelsList)
-      return slugify(
-        cachedPinyin(productName.trim().toLowerCase())
-      );
-
-    const lowerCaseName = productName.trim().toLowerCase();
-    const product = collections.productsModelsList.find((p) => p.key === lowerCaseName);
-    return product ? product.uniqueKey : lowerCaseName;
-  });
-
-  // 添加过滤器来获取媒体/书籍的唯一键
-  eleventyConfig.addFilter("getMediaUniqueKey", function (mediaName, collections) {
-    if (!collections || !collections.mediaBookslist)
-      return slugify(
-        cachedPinyin(mediaName.trim().toLowerCase())
-      );
-
-    const lowerCaseName = mediaName.trim().toLowerCase();
-    const media = collections.mediaBookslist.find((m) => m.key === lowerCaseName);
-    return media ? media.uniqueKey : lowerCaseName;
   });
 
   // --- 集合 (Collections) ---
