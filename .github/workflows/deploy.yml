@@ -18,6 +18,11 @@ on:
       - '*.md'
       - 'docs/**'
 
+# 让 actions/cache、actions/checkout 等 action 的内部运行时使用 Node.js 24
+# 避免 "Node.js 20 actions are deprecated" 警告（与项目 Node 版本无关）
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 # 并发控制：自动取消旧的部署任务，只保留最新的
 concurrency:
   group: pages-deployment
