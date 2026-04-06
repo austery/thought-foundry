@@ -15,6 +15,46 @@
   width: 100%;
 }
 
+/* Pagefind UI dark mode overrides */
+[data-theme="dark"] .pagefind-ui__search-input,
+[data-theme="dark"] .pagefind-ui__search-clear {
+  background-color: var(--theme-bg-secondary);
+  color: var(--theme-text-primary);
+  border-color: var(--theme-border-dark);
+}
+
+[data-theme="dark"] .pagefind-ui__search-input::placeholder {
+  color: var(--theme-text-muted);
+}
+
+[data-theme="dark"] .pagefind-ui__result {
+  background-color: var(--theme-bg-primary);
+  border-color: var(--theme-border-color);
+}
+
+[data-theme="dark"] .pagefind-ui__result-link {
+  color: var(--theme-accent-primary);
+}
+
+[data-theme="dark"] .pagefind-ui__result-excerpt {
+  color: var(--theme-text-secondary);
+}
+
+[data-theme="dark"] .pagefind-ui__message {
+  color: var(--theme-text-muted);
+}
+
+[data-theme="dark"] .pagefind-ui__button {
+  background-color: var(--theme-bg-tertiary);
+  color: var(--theme-text-primary);
+  border-color: var(--theme-border-dark);
+}
+
+[data-theme="dark"] mark {
+  background-color: var(--theme-accent-primary);
+  color: var(--theme-bg-primary);
+}
+
 #search-results {
     margin-top: 1rem;
     margin-bottom: 2rem;
