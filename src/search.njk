@@ -32,8 +32,10 @@ eleventyExcludeFromCollections: true
       }
     });
 
-    const _q = new URLSearchParams(window.location.search).get('q');
+    let _q = new URLSearchParams(window.location.search).get('q');
     if (_q) {
+      // Strip Chinese book title marks and other punctuation that confuse Pagefind tokenization
+      _q = _q.replace(/[《》【】〔〕「」『』〈〉]/g, '').trim();
       setTimeout(() => {
         const input = document.querySelector('#search-full .pagefind-ui__search-input');
         if (input) {
