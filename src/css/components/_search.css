@@ -1,66 +1,14 @@
 /* src/css/components/_search.css */
 
-/* 独立搜索页 */
-.search-page-container {
-  max-width: 860px;
-  margin: 2rem auto;
-  padding: 0 1.5rem;
-}
-
-.search-page-title {
-  margin-bottom: 1.5rem;
-}
-
-#search-full {
-  width: 100%;
-}
-
-/* Pagefind UI dark mode overrides */
-[data-theme="dark"] .pagefind-ui__search-input,
-[data-theme="dark"] .pagefind-ui__search-clear {
-  background-color: var(--theme-bg-secondary);
-  color: var(--theme-text-primary);
-  border-color: var(--theme-border-dark);
-}
-
-[data-theme="dark"] .pagefind-ui__search-input::placeholder {
-  color: var(--theme-text-muted);
-}
-
-[data-theme="dark"] .pagefind-ui__result {
-  background-color: var(--theme-bg-primary);
-  border-color: var(--theme-border-color);
-}
-
-[data-theme="dark"] .pagefind-ui__result-link {
-  color: var(--theme-accent-primary);
-}
-
-[data-theme="dark"] .pagefind-ui__result-excerpt {
-  color: var(--theme-text-secondary);
-}
-
-[data-theme="dark"] .pagefind-ui__message {
-  color: var(--theme-text-muted);
-}
-
-[data-theme="dark"] .pagefind-ui__button {
-  background-color: var(--theme-bg-tertiary);
-  color: var(--theme-text-primary);
-  border-color: var(--theme-border-dark);
-}
-
-[data-theme="dark"] mark {
-  background-color: var(--theme-accent-primary);
-  color: var(--theme-bg-primary);
-}
+/* =============================================
+   旧版搜索结果样式（header 小搜索框用）
+   ============================================= */
 
 #search-results {
     margin-top: 1rem;
     margin-bottom: 2rem;
 }
 
-/* 为搜索结果的列表定义样式 */
 #search-results ul {
     margin: 0;
     padding: 0;
@@ -69,13 +17,302 @@
 
 #search-results li {
     padding: 0.75rem 0;
-    border-bottom: 1px solid var(--pico-muted-border-color);
+    border-bottom: 1px solid var(--theme-border-color);
 }
 
 #search-results li:first-child {
-    border-top: 1px solid var(--pico-muted-border-color);
+    border-top: 1px solid var(--theme-border-color);
 }
 
 #search-results a {
     text-decoration: none;
+}
+
+
+/* =============================================
+   /search/ 专用搜索页
+   ============================================= */
+
+.search-page {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 3.5rem 1.5rem 5rem;
+  animation: search-page-enter 0.5s ease both;
+}
+
+@keyframes search-page-enter {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── 页头 ── */
+.search-page__header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.search-page__eyebrow {
+  font-family: var(--font-display);
+  font-size: 0.78rem;
+  font-weight: 400;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--theme-accent-primary);
+  margin: 0 0 0.6rem;
+  opacity: 0.85;
+}
+
+.search-page__title {
+  font-family: var(--font-chinese-serif);
+  font-size: clamp(2.4rem, 5vw, 3.2rem);
+  font-weight: 700;
+  color: var(--theme-text-primary);
+  margin: 0 0 1rem;
+  letter-spacing: 0.15em;
+}
+
+.search-page__divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-bottom: 0.9rem;
+}
+
+.search-page__divider-line {
+  display: block;
+  width: 80px;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--theme-accent-primary),
+    transparent
+  );
+  opacity: 0.5;
+}
+
+.search-page__divider-glyph {
+  font-size: 0.55rem;
+  color: var(--theme-accent-primary);
+  opacity: 0.8;
+}
+
+.search-page__subtitle {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--theme-text-muted);
+  letter-spacing: 0.08em;
+  margin: 0;
+}
+
+/* ── 搜索 widget 容器 ── */
+.search-page__widget {
+  position: relative;
+}
+
+/* ── Pagefind UI 全面覆写 ── */
+
+/* 隐藏 Pagefind 默认 CSS 里的装饰 */
+#search-full .pagefind-ui {
+  --pagefind-ui-scale: 1;
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-border-radius: 4px;
+}
+
+/* 搜索输入框 */
+#search-full .pagefind-ui__form {
+  position: relative;
+}
+
+#search-full .pagefind-ui__search-input {
+  width: 100%;
+  padding: 1rem 3.5rem 1rem 3rem;
+  font-family: var(--font-chinese-serif);
+  font-size: 1.05rem;
+  background-color: var(--theme-bg-secondary);
+  color: var(--theme-text-primary);
+  border: 1px solid var(--theme-border-dark);
+  border-radius: 4px;
+  outline: none;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  box-sizing: border-box;
+}
+
+#search-full .pagefind-ui__search-input:focus {
+  border-color: var(--theme-accent-primary);
+  box-shadow: 0 0 0 3px var(--theme-accent-primary-light),
+              0 0 20px rgba(200, 165, 84, 0.08);
+}
+
+#search-full .pagefind-ui__search-input::placeholder {
+  color: var(--theme-text-muted);
+  font-family: var(--font-body);
+}
+
+/* 清除按钮 */
+#search-full .pagefind-ui__search-clear {
+  position: absolute;
+  right: 0.8rem;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: var(--theme-text-muted);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  cursor: pointer;
+  padding: 0.25rem 0.4rem;
+  transition: color 0.15s;
+}
+
+#search-full .pagefind-ui__search-clear:hover {
+  color: var(--theme-accent-primary);
+}
+
+/* 结果计数消息 */
+#search-full .pagefind-ui__message {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--theme-text-muted);
+  letter-spacing: 0.05em;
+  margin: 1.2rem 0 0.5rem;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid var(--theme-border-color);
+}
+
+/* 结果列表 */
+#search-full .pagefind-ui__results {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* 每条结果 — 档案卡片样式 */
+#search-full .pagefind-ui__result {
+  position: relative;
+  padding: 1.2rem 1.2rem 1.2rem 1.5rem;
+  margin: 0;
+  border-bottom: 1px solid var(--theme-border-color);
+  transition: background-color 0.15s ease;
+}
+
+#search-full .pagefind-ui__result::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 1rem;
+  bottom: 1rem;
+  width: 2px;
+  background-color: var(--theme-border-dark);
+  border-radius: 2px;
+  transition: background-color 0.15s ease, top 0.15s ease, bottom 0.15s ease;
+}
+
+#search-full .pagefind-ui__result:hover {
+  background-color: var(--theme-bg-secondary);
+}
+
+#search-full .pagefind-ui__result:hover::before {
+  background-color: var(--theme-accent-primary);
+  top: 0.5rem;
+  bottom: 0.5rem;
+}
+
+/* 结果标题 */
+#search-full .pagefind-ui__result-title {
+  margin: 0 0 0.45rem;
+}
+
+#search-full .pagefind-ui__result-link {
+  font-family: var(--font-chinese-serif);
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--theme-text-primary);
+  text-decoration: none;
+  line-height: 1.4;
+  transition: color 0.15s ease;
+}
+
+#search-full .pagefind-ui__result-link:hover {
+  color: var(--theme-accent-primary);
+}
+
+/* 结果摘要 */
+#search-full .pagefind-ui__result-excerpt {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  color: var(--theme-text-secondary);
+  line-height: 1.65;
+  margin: 0 0 0.7rem;
+}
+
+/* 元数据标签 */
+#search-full .pagefind-ui__result-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#search-full .pagefind-ui__result-tag {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--theme-text-muted);
+  background-color: var(--theme-bg-tertiary);
+  border: 1px solid var(--theme-border-color);
+  border-radius: 2px;
+  padding: 0.2rem 0.55rem;
+  letter-spacing: 0.03em;
+}
+
+/* 加载更多按钮 */
+#search-full .pagefind-ui__button {
+  display: block;
+  margin: 1.5rem auto 0;
+  padding: 0.6rem 2rem;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.1em;
+  color: var(--theme-accent-primary);
+  background: transparent;
+  border: 1px solid var(--theme-accent-primary);
+  border-radius: 3px;
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+#search-full .pagefind-ui__button:hover {
+  background-color: var(--theme-accent-primary);
+  color: var(--theme-bg-primary);
+}
+
+/* 搜索高亮 */
+#search-full mark {
+  background-color: transparent;
+  color: var(--theme-accent-primary);
+  font-weight: 600;
+  border-bottom: 1px solid var(--theme-accent-primary);
+  padding: 0;
+}
+
+/* ── 浅色主题覆写 ── */
+:root:not([data-theme="dark"]) #search-full .pagefind-ui__search-input {
+  background-color: #fff;
+  border-color: var(--theme-border-dark);
+}
+
+:root:not([data-theme="dark"]) #search-full .pagefind-ui__result:hover {
+  background-color: var(--theme-bg-secondary);
+}
+
+:root:not([data-theme="dark"]) #search-full .pagefind-ui__result-tag {
+  background-color: var(--theme-bg-tertiary);
+}
+
+:root:not([data-theme="dark"]) #search-full mark {
+  color: var(--theme-accent-primary);
+  border-bottom-color: var(--theme-accent-primary);
 }
