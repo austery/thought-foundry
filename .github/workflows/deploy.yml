@@ -79,5 +79,7 @@ jobs:
           # 这一行是新增的、非常关键的配置
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
+          # 每次 deploy 创建全新的 orphan commit，丢弃历史，防止 repo 体积无限增长
+          force_orphan: true
           # 提交信息
           commit_message: ${{ github.event.head_commit.message }}
