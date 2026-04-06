@@ -1,0 +1,62 @@
+---
+title: "搜索"
+layout: "base.njk"
+permalink: /search/
+eleventyExcludeFromCollections: true
+---
+
+<div class="search-page" data-pagefind-ignore>
+
+  <header class="search-page__header">
+    <p class="search-page__eyebrow">Knowledge Archive</p>
+    <h1 class="search-page__title">搜 索</h1>
+    <div class="search-page__divider">
+      <span class="search-page__divider-line"></span>
+      <span class="search-page__divider-glyph">◆</span>
+      <span class="search-page__divider-line"></span>
+    </div>
+    <p class="search-page__subtitle">在 6,000 余篇笔记与文章中检索</p>
+  </header>
+
+  <div class="search-page__widget">
+    <div id="search-full"></div>
+  </div>
+
+</div>
+
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    new PagefindUI({
+      element: "#search-full",
+      showSubResults: true,
+      showImages: false,
+      excerptLength: 25,
+      translations: {
+        placeholder: "输入关键词、人名、主题…",
+        clear_search: "清除",
+        load_more: "加载更多",
+        search_label: "搜索此站点",
+        filters_label: "过滤器",
+        zero_results: "未找到「[SEARCH_TERM]」的相关内容",
+        many_results: "找到 [COUNT] 篇关于「[SEARCH_TERM]」的内容",
+        one_result: "找到 [COUNT] 篇关于「[SEARCH_TERM]」的内容",
+        alt_search: "未找到「[SEARCH_TERM]」。以下是「[DIFFERENT_TERM]」的结果：",
+        search_suggestion: "未找到「[SEARCH_TERM]」。试试：",
+        searching: "正在检索「[SEARCH_TERM]」…"
+      }
+    });
+
+    let _q = new URLSearchParams(window.location.search).get('q');
+    if (_q) {
+      // Strip Chinese book title marks and punctuation that confuse Pagefind tokenization
+      _q = _q.replace(/[《》【】〔〕「」『』〈〉]/g, '').trim();
+      setTimeout(() => {
+        const input = document.querySelector('#search-full .pagefind-ui__search-input');
+        if (input) {
+          input.value = _q;
+          input.dispatchEvent(new Event('input', { bubbles: true }));
+        }
+      }, 100);
+    }
+  });
+</script>
