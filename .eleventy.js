@@ -119,6 +119,19 @@ module.exports = async function (eleventyConfig) {
     }
   };
 
+  // --- Transforms ---
+  // Add Chinese segmentation for Pagefind before HTML is written
+  // We enable this for production or explicit builds as cheerio parsing takes some time
+  if (process.env.NODE_ENV === 'production' || process.env.OPTIMIZE_SEARCH === 'true') {
+    try {
+      const pagefindSegmentationTransform = require('./src/_11ty/transforms/pagefind-segmentation.js');
+      eleventyConfig.addTransform("pagefind-segmentation", pagefindSegmentationTransform);
+      if (DEBUG) console.log("[Transform] Enabled Pagefind Native Intl.Segmenter Chinese Segmentation");
+    } catch (e) {
+      console.warn("[Transform warning] Could not load pagefind-segmentation script: " + e.message);
+    }
+  }
+
   // --- 过滤器 (Filters) ---
   eleventyConfig.addFilter("jsonify", function (value) {
     return JSON.stringify(value);
