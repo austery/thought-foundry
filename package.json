@@ -28,6 +28,7 @@
     "pagefind": "^1.4.0"
   },
   "dependencies": {
+    "cheerio": "^1.2.0",
     "pinyin": "^4.0.0"
   }
 }
