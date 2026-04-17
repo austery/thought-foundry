@@ -122,7 +122,7 @@ body:has(.search-page) .search-container #search {
 #search .pagefind-ui {
   --pagefind-ui-scale: 1;
   --pagefind-ui-border-width: 1px;
-  --pagefind-ui-border-radius: 4px;
+  --pagefind-ui-border-radius: 12px;
 }
 
 /* 搜索输入框 */
@@ -140,17 +140,32 @@ body:has(.search-page) .search-container #search {
   background-color: var(--theme-bg-secondary);
   color: var(--theme-text-primary);
   border: 1px solid var(--theme-border-dark);
-  border-radius: 4px;
+  border-radius: 99px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
   outline: none;
-  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
   box-sizing: border-box;
+}
+
+#search-full .pagefind-ui__search-input:hover,
+#search .pagefind-ui__search-input:hover {
+    border-color: var(--theme-border-dark);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
 }
 
 #search-full .pagefind-ui__search-input:focus,
 #search .pagefind-ui__search-input:focus {
   border-color: var(--theme-accent-primary);
   box-shadow: 0 0 0 3px var(--theme-accent-primary-light),
-              0 0 20px rgba(200, 165, 84, 0.08);
+              0 8px 30px rgba(200, 165, 84, 0.12);
+  background-color: #fff;
+}
+
+:root[data-theme="dark"] #search-full .pagefind-ui__search-input:focus,
+:root[data-theme="dark"] #search .pagefind-ui__search-input:focus {
+  background-color: var(--theme-bg-secondary);
+  box-shadow: 0 0 0 3px rgba(200, 165, 84, 0.15),
+              0 0 30px rgba(200, 165, 84, 0.15);
 }
 
 #search-full .pagefind-ui__search-input::placeholder,
@@ -286,7 +301,7 @@ body:has(.search-page) .search-container #search {
   color: var(--theme-text-muted);
   background-color: var(--theme-bg-tertiary);
   border: 1px solid var(--theme-border-color);
-  border-radius: 2px;
+  border-radius: 6px;
   padding: 0.2rem 0.55rem;
   letter-spacing: 0.03em;
 }
