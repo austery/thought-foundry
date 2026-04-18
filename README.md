@@ -1,71 +1,44 @@
 # Thought Foundry
 
-Thought Foundry is a personal knowledge base and digital garden built with [Eleventy](https://www.11ty.dev/). It publishes notes, book reviews, and articles — primarily sourced from YouTube/podcast transcripts — as a static site with full-text search and Chinese language support.
+Personal knowledge base and digital garden built with [Eleventy](https://www.11ty.dev/).
 
-## Repository Architecture
+## Project Structure
 
-This repository contains **only the build system**. Content lives in a separate repo:
+- `src/` — site source code (templates, CSS, JS)
+- `src/content/` — **git submodule** (Markdown files) → [thought-foundry-content](https://github.com/austery/thought-foundry-content)
+- `_site/` — build output (HTML, Pagefind index)
 
-| Repo | Role | Visibility |
-|------|------|------------|
-| `austery/thought-foundry` | Eleventy templates, CSS, JS, GitHub Actions | Private |
-| `austery/thought-foundry-content` | All Markdown content (notes, posts, books, subtitles) | Public |
-| `austery/austery.github.io` | Rendered HTML output (deploy target) | Public |
+## Quick Start
 
-Content is wired as a **git submodule** at `src/content/`. CI fetches it via shallow clone at build time — no submodule pointer updates needed.
-
-```
-thought-foundry/
-├── src/
-│   ├── content/          # ← git submodule (thought-foundry-content)
-│   │   ├── notes/        #   ~5,200 video transcript notes
-│   │   ├── posts/        #   ~149 articles
-│   │   └── books/        #   book reviews
-│   ├── _includes/        # Nunjucks templates
-│   ├── css/              # Theme variables, components, layouts
-│   └── js/               # Theme toggle, table of contents
-├── .eleventy.js          # Build configuration
-└── .github/workflows/    # GitHub Actions (hourly build + deploy)
-```
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js 18+
-- Git
-
-### Installation
-
+### 1. Installation
 ```bash
 git clone https://github.com/austery/thought-foundry.git
 cd thought-foundry
 git submodule update --init --recursive   # pull content
-npm install
+pnpm i
 ```
 
-### Development Server
-
+### 2. Development Mode
 ```bash
-npm run dev
+pnpm dev
 # or
-npx @11ty/eleventy --serve
+pnpm exec eleventy --serve
 ```
 
 Site available at `http://localhost:8080/` with hot-reloading.
 
-### Production Build
+### 3. Production Build
 
 ```bash
-npm run build
+pnpm build
 ```
 
 Output in `_site/`. Also generates Pagefind search index.
 
-### Debug Build
+### 4. Debug Build
 
 ```bash
-npm run build:debug
+pnpm build:debug
 ```
 
 Enables verbose logging: conflict detection reports for tags, speakers, and entities.
@@ -91,7 +64,7 @@ GitHub Actions deploys automatically:
 CI workflow:
 1. Checkout site code (this repo)
 2. Shallow-clone `thought-foundry-content` → `src/content/` (deletes `raw_subtitles/`, `cleaned_subtitles/` to save disk)
-3. `npm ci` + `npm run build`
+3. `pnpm install --frozen-lockfile` + `pnpm build`
 4. Deploy `_site/` to `austery/austery.github.io` via SSH deploy key
 
 ## Features
