@@ -4,11 +4,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "NODE_OPTIONS=\"--max-old-space-size=8192\" pnpm exec @11ty/eleventy && pnpm exec pagefind --site _site",
-    "dev": "NODE_OPTIONS=\"--max-old-space-size=8192\" pnpm exec @11ty/eleventy --serve",
-    "dev:incremental": "NODE_OPTIONS=\"--max-old-space-size=8192\" pnpm exec @11ty/eleventy --serve --incremental",
-    "build:debug": "DEBUG=true pnpm exec @11ty/eleventy && pnpm exec pagefind --site _site",
-    "build:incremental": "pnpm exec @11ty/eleventy --incremental && pnpm exec pagefind --site _site",
+    "build": "NODE_OPTIONS=\"--max-old-space-size=8192\" pnpm exec eleventy && pnpm exec pagefind --site _site",
+    "dev": "NODE_OPTIONS=\"--max-old-space-size=8192\" pnpm exec eleventy --serve",
+    "dev:incremental": "NODE_OPTIONS=\"--max-old-space-size=8192\" pnpm exec eleventy --serve --incremental",
+    "build:debug": "DEBUG=true pnpm exec eleventy && pnpm exec pagefind --site _site",
+    "build:incremental": "pnpm exec eleventy --incremental && pnpm exec pagefind --site _site",
     "preinstall": "npx only-allow pnpm"
   },
   "engines": {
