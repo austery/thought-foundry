@@ -164,7 +164,7 @@ The site supports light/dark mode through:
 ### Search System
 
 Pagefind static site search with full-text indexing:
-- Automatically generates search index during build (`npx pagefind --site _site`)
+- Automatically generates search index during build (`pnpm exec pagefind --site _site`)
 - Index files stored in `_site/pagefind/` (split across many small files)
 - Respects `exclude: true` via `data-pagefind-ignore` attribute
 - Listing pages excluded from search with `data-pagefind-ignore`
@@ -222,7 +222,7 @@ Posts with matching `series` values automatically show related posts at the bott
 4. Update this documentation
 
 ### Debugging Build Issues
-1. Run `DEBUG=true npm run build` to see verbose logging
+1. Run `DEBUG=true pnpm build` to see verbose logging
 2. Check conflict reports for tags, speakers, and entities
 3. Look for "longSpeakerDetector" warnings about malformed data
 4. Verify frontmatter YAML syntax in problematic files
