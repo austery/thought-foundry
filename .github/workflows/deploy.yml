@@ -44,30 +44,35 @@ jobs:
           rm -rf src/content/raw_subtitles src/content/cleaned_subtitles
 
       # 步骤 2: 设置 Node.js 环境并安装依赖（版本由 .nvmrc 控制，与本地保持一致）
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version-file: ".nvmrc"
-          cache: "npm"
+          cache: "pnpm"
 
       # 步骤 2.5: 缓存 Eleventy 构建缓存（持久化 slug/pinyin 计算结果）
       - name: Cache Eleventy Build Cache
         uses: actions/cache@v4
         with:
           path: .eleventy-cache.json
-          # 缓存 key 基于 package-lock.json（依赖变化时重建缓存）
-          key: eleventy-cache-${{ hashFiles('package-lock.json') }}
+          # 缓存 key 基于 pnpm-lock.yaml（依赖变化时重建缓存）
+          key: eleventy-cache-${{ hashFiles('pnpm-lock.yaml') }}
           # 如果精确匹配失败，尝试使用任何 eleventy-cache- 开头的缓存
           restore-keys: |
             eleventy-cache-
 
       - name: Install dependencies
-        run: npm ci
+        run: pnpm install --frozen-lockfile
 
       # 步骤 3: 构建 Eleventy 网站
       - name: Build with Eleventy
         # 我们不再需要 NODE_ENV，因为 pathPrefix 已经被移除了
-        run: npm run build
+        run: pnpm run build
 
       # 步骤 4: 将构建好的 _site 文件夹内容推送到你的公开仓库
       - name: Deploy to Public Repo
