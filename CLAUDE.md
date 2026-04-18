@@ -19,29 +19,27 @@ Thought Foundry is a personal knowledge base and digital garden built with Eleve
 
 ### Start Development Server
 ```bash
-npx @11ty/eleventy --serve
-# or
-npm run dev
+pnpm dev
 ```
 Starts local server at `http://localhost:8080/` with hot-reloading.
 
 ### Build for Production
 ```bash
-npm run build
+pnpm build
 ```
 Generates production build in `_site` directory and creates Pagefind search index.
 
 ### Debug Build
 ```bash
-npm run build:debug
+pnpm build:debug
 # or
-DEBUG=true npx @11ty/eleventy && npx pagefind --site _site
+DEBUG=true pnpm exec @11ty/eleventy && pnpm exec pagefind --site _site
 ```
 Enables verbose logging including conflict detection reports for tags, speakers, and entities. Also generates Pagefind search index.
 
 ### Incremental Build
 ```bash
-npm run build:incremental
+pnpm build:incremental
 ```
 Only rebuilds changed files (faster for large sites) and regenerates Pagefind index.
 
