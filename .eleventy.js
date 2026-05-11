@@ -298,6 +298,11 @@ module.exports = async function (eleventyConfig) {
       .getFilteredByGlob("./src/content/notes/**/*.md")
       .filter((item) => !item.data.exclude);
   });
+  eleventyConfig.addCollection("clippings", function (collectionApi) {
+    return collectionApi
+      .getFilteredByGlob("./src/content/clippings/**/*.md")
+      .filter((item) => !item.data.exclude);
+  });
 
   // 集合 4: 这是我们最终的、最可靠的标签集合，现在增加了更强大的调试报告功能和排除功能
   eleventyConfig.addCollection("tagList", (collectionApi) => {
@@ -305,11 +310,12 @@ module.exports = async function (eleventyConfig) {
     const slugifyFilter = eleventyConfig.getFilter("slug");
 
     collectionApi.getAll().forEach((item) => {
-      // 我们只处理那些在 posts, books, 或 notes 文件夹里的内容，并且没有被排除的
+      // 我们只处理那些在 posts, books, notes, 或 clippings 文件夹里的内容，并且没有被排除的
       if (
         (item.inputPath.includes("./src/content/posts/") ||
           item.inputPath.includes("./src/content/books/") ||
-          item.inputPath.includes("./src/content/notes/")) &&
+          item.inputPath.includes("./src/content/notes/") ||
+          item.inputPath.includes("./src/content/clippings/")) &&
         !item.data.exclude
       ) {
         (item.data.tags || []).forEach((tag) => {
@@ -402,11 +408,12 @@ module.exports = async function (eleventyConfig) {
   eleventyConfig.addCollection("speakerList", (collectionApi) => {
     const speakerMap = new Map();
     collectionApi.getAll().forEach((item) => {
-      // 我们只处理那些在 posts, books, 或 notes 文件夹里的内容，并且没有被排除的
+      // 我们只处理那些在 posts, books, notes, 或 clippings 文件夹里的内容，并且没有被排除的
       if (
         (item.inputPath.includes("./src/content/posts/") ||
           item.inputPath.includes("./src/content/books/") ||
-          item.inputPath.includes("./src/content/notes/")) &&
+          item.inputPath.includes("./src/content/notes/") ||
+          item.inputPath.includes("./src/content/clippings/")) &&
         !item.data.exclude
       ) {
         // 处理 speaker 和 guest 字段
@@ -523,11 +530,12 @@ module.exports = async function (eleventyConfig) {
   eleventyConfig.addCollection("categoryList", (collectionApi) => {
     const categoryMap = new Map();
     collectionApi.getAll().forEach((item) => {
-      // 只处理 posts, books, notes 文件夹中未被排除的内容
+      // 只处理 posts, books, notes, clippings 文件夹中未被排除的内容
       if (
         (item.inputPath.includes("./src/content/posts/") ||
           item.inputPath.includes("./src/content/books/") ||
-          item.inputPath.includes("./src/content/notes/")) &&
+          item.inputPath.includes("./src/content/notes/") ||
+          item.inputPath.includes("./src/content/clippings/")) &&
         !item.data.exclude &&
         item.data.category
       ) {
@@ -605,11 +613,12 @@ module.exports = async function (eleventyConfig) {
   eleventyConfig.addCollection("projectList", (collectionApi) => {
     const projectMap = new Map();
     collectionApi.getAll().forEach((item) => {
-      // 只处理 posts, books, notes 文件夹中未被排除的内容
+      // 只处理 posts, books, notes, clippings 文件夹中未被排除的内容
       if (
         (item.inputPath.includes("./src/content/posts/") ||
           item.inputPath.includes("./src/content/books/") ||
-          item.inputPath.includes("./src/content/notes/")) &&
+          item.inputPath.includes("./src/content/notes/") ||
+          item.inputPath.includes("./src/content/clippings/")) &&
         !item.data.exclude &&
         item.data.project &&
         Array.isArray(item.data.project)
@@ -696,7 +705,8 @@ module.exports = async function (eleventyConfig) {
       if (
         (item.inputPath.includes("./src/content/posts/") ||
           item.inputPath.includes("./src/content/books/") ||
-          item.inputPath.includes("./src/content/notes/")) &&
+          item.inputPath.includes("./src/content/notes/") ||
+          item.inputPath.includes("./src/content/clippings/")) &&
         !item.data.exclude &&
         item.data.area
       ) {
@@ -772,13 +782,13 @@ module.exports = async function (eleventyConfig) {
 
   // 集合 8: 完整集合（包含被排除的项目）- 用于内部处理和调试
   eleventyConfig.addCollection("allItems", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/content/{posts,books,notes}/**/*.md");
+    return collectionApi.getFilteredByGlob("./src/content/{posts,books,notes,clippings}/**/*.md");
   });
 
   // 集合 9: 被排除的项目集合 - 用于调试和监控
   eleventyConfig.addCollection("excludedItems", function (collectionApi) {
     const excludedItems = collectionApi
-      .getFilteredByGlob("./src/content/{posts,books,notes}/**/*.md")
+      .getFilteredByGlob("./src/content/{posts,books,notes,clippings}/**/*.md")
       .filter((item) => item.data.exclude);
 
     // 调试输出
