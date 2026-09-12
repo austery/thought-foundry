@@ -4,9 +4,11 @@
 
 **Blocked by:** 02: Build the existing content repository with Hugo.
 
-**Status:** in-progress
+**Status:** completed
 
-- [ ] Three pairs per cache mode record all attempts and stage timings.
-- [ ] Identical added-article fixture is measured without changing the content repository.
-- [ ] Full inventories, real search queries and phone/tablet/desktop checks are recorded.
-- [ ] Final review and report distinguish experiment completion from production readiness.
+- [x] Three pairs per cache mode record all attempts and stage timings.
+- [x] Identical added-article fixture is measured without changing the content repository.
+- [x] Full inventories, real search queries and phone/tablet/desktop checks are recorded.
+- [x] Final review and report distinguish experiment completion from production readiness.
+
+Final evidence: docs/experiments/hugo-comparison/results.md and evidence/remote-summary.json. Both final review axes passed at 0e95279bf and independently reproduced the committed summary. Performance passes; compatibility remains unaccepted; production unchanged.
