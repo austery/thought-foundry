@@ -1,0 +1,9 @@
+{
+  "sourceBefore": "05c6f66c937219c1ccd44cbf5df9112591e8671242a679fbf65a0cd2662c0ec0",
+  "inputFingerprint": "67585dafaf0c20bc36d2364e3456f53134135a47430c1cc40d1abf99f4720440",
+  "addition": {
+    "path": "src/content/notes/comparison-added-article-056.md",
+    "sha256": "6ee205e3c54926f026bd28c9667a6b34ce6392c30a35e7fe96fababf729fd0ee"
+  },
+  "cacheMode": "added"
+}

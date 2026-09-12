@@ -1,0 +1,150 @@
+{
+  "comparison.json": {
+    "bytes": 35806,
+    "sha256": "168aedf2c0b436812b9bac0f9c0dee86acd2cbef88c82139a29bfd05e871b79c"
+  },
+  "eleventy-indexed.json": {
+    "bytes": 1225909,
+    "sha256": "c76fe884314d7baf20616a1c1f9c60d6d86194a6376b582410dbfecee1c50ce7"
+  },
+  "eleventy-inventory.json": {
+    "bytes": 22401585,
+    "sha256": "97d84f07d9914874ae28952118dfe2830607cfcc7c2a24cd5bf0aa171b741bec"
+  },
+  "hugo-indexed.json": {
+    "bytes": 1225909,
+    "sha256": "30ef992528baf9ffe07edf1e108909a912afaab354949808b7f7f74de4f4d35e"
+  },
+  "hugo-inventory.json": {
+    "bytes": 22401585,
+    "sha256": "5cde31bbe9d6e0348464922561411b2cda22da5dff2ab308ccdba1e2a1729586"
+  },
+  "input.json": {
+    "bytes": 221,
+    "sha256": "08ecf159f3cb2e9c0cc093c24150285e05116ebd70ebc68f643e4bbe13431a15"
+  },
+  "install.json": {
+    "bytes": 190,
+    "sha256": "3316927c9752a945658a087d4fdcc7c57e1f1bd640f257316effafdd4cee1049"
+  },
+  "install.log": {
+    "bytes": 497,
+    "sha256": "4a404fefe6229bf0b398efdd266943374ea8f2597848569665153d64d01c7a5c"
+  },
+  "install.memory": {
+    "bytes": 7,
+    "sha256": "2140b818cb671ea18fa8bf00131b22656c7ae05ea9b469c1e5286b3b942592b3"
+  },
+  "measured-eleventy.json": {
+    "bytes": 291,
+    "sha256": "1ac3c58b17fd92b8c58c2c42d99324271a52071c4d822fc25872d7e71cf095c5"
+  },
+  "measured-eleventy.log": {
+    "bytes": 2247797,
+    "sha256": "208cd14c4e41408bda10ef754efcd1027ae77b2f872efd2dd1caad6db9b2b218"
+  },
+  "measured-eleventy.memory": {
+    "bytes": 8,
+    "sha256": "a7f9e525151b403a84864c5c0404dc390b76bcaf8b33b9cf4ee1c90059928bcf"
+  },
+  "measured-hugo-adapt.json": {
+    "bytes": 452,
+    "sha256": "a9b1be286da0c9d351e484597f5808fb66edcf6fb14236b44f7d37b132a4e84d"
+  },
+  "measured-hugo-adapt.log": {
+    "bytes": 330,
+    "sha256": "3b416aa25ae2064cd6c88c7d2a1d4886bbad21ef939f3a28dfc96144b98ad8ad"
+  },
+  "measured-hugo-adapt.memory": {
+    "bytes": 8,
+    "sha256": "19c3c87267d1b01e70a504c28d0e11eac570badc54d5825211d5d42087d04362"
+  },
+  "measured-hugo-adaptation.json": {
+    "bytes": 129,
+    "sha256": "9e07ebf2f1c766a0fd7a6713eeb6bbc9b3d69bfdd516ba753c7f0efef421162a"
+  },
+  "measured-hugo-pagefind.json": {
+    "bytes": 300,
+    "sha256": "9d79e62132c827a4d4c7898b29bb3cbb38799ef8f13d9c6c6acb3803c8f20ffd"
+  },
+  "measured-hugo-pagefind.log": {
+    "bytes": 2513,
+    "sha256": "144a18430641789e74a1fad85598b6b835526e9ce8ffba8cf38653f9d0d98c68"
+  },
+  "measured-hugo-pagefind.memory": {
+    "bytes": 9,
+    "sha256": "5fed81783fa37e7dd57d802509e49990683923daa9612d2a34b7082c91b1373c"
+  },
+  "measured-hugo-paths.json": {
+    "bytes": 465,
+    "sha256": "83a29a6217e4fa5fe7db0e5baf935272a4e6c78f2c1dc1409232f0e6c48a5039"
+  },
+  "measured-hugo-paths.log": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "measured-hugo-paths.memory": {
+    "bytes": 7,
+    "sha256": "58b836129a526209bcb86bd57b6b9bebfae3509a8b086d02fe7ff9e4937c5554"
+  },
+  "measured-hugo-prepare.json": {
+    "bytes": 449,
+    "sha256": "7b4b353fea2925883a6d73ea01acf2e1d7bf5ecec711ca65de54cb95f847d53d"
+  },
+  "measured-hugo-prepare.log": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "measured-hugo-prepare.memory": {
+    "bytes": 7,
+    "sha256": "0754e13037f1fe0d868bcf98e8a088b172503d33c342d961d06a8f4f7b04a0df"
+  },
+  "measured-hugo-versions.json": {
+    "bytes": 137,
+    "sha256": "6e69350f64806bd2e0e360aa5ef8cb8a187a99411423c1e04484aaff53ab0c00"
+  },
+  "measured-hugo.json": {
+    "bytes": 273,
+    "sha256": "01e435b556024723db3c9eb53d13bbae56b867a9e2a9c15435c97255445b74a2"
+  },
+  "measured-hugo.log": {
+    "bytes": 484,
+    "sha256": "9e8c505035f57fa56b36ecef52e5465956390705ed2571ede429eb7a779f0d82"
+  },
+  "measured-hugo.memory": {
+    "bytes": 8,
+    "sha256": "410e26e6b6067d1cd16522fc4eba53f01551fdea5cbe92dff125897dce94a065"
+  },
+  "measured-pagefind.json": {
+    "bytes": 295,
+    "sha256": "1bc9334512e31ccfc000e5b901810510772550536d6ca594d1f2c959ecc3ff81"
+  },
+  "measured-pagefind.log": {
+    "bytes": 2503,
+    "sha256": "d1f94b74a5a24b7ba7032112979499a11c32723f8477162c5ec7d47f0c6a2c3e"
+  },
+  "measured-pagefind.memory": {
+    "bytes": 9,
+    "sha256": "e5c6a3d79382ac7211a016fb5753710f00a545e97b1e7e05796fc4a2d5b1187f"
+  },
+  "pair.json": {
+    "bytes": 4219,
+    "sha256": "0c834409c0ba0ba3e491de2aa9aab25864e2ffe4a3ea11019a1468e3a5511551"
+  },
+  "run-manifest.json": {
+    "bytes": 918,
+    "sha256": "c7ef4edd4e36e8d1cad79fcadb66094f15dd5067565dc4ffca32c87aa5563b23"
+  },
+  "source-after.json": {
+    "bytes": 182,
+    "sha256": "0a39994bc72032ee133eb0f4338e05e4f880310df6219a6998b35367bc63bdea"
+  },
+  "source-before.json": {
+    "bytes": 446,
+    "sha256": "f749ed3e5e4fb077792e35ab0a49c26b0cd06590451d5ff9195d42dd68281948"
+  },
+  "versions.json": {
+    "bytes": 54,
+    "sha256": "1b89af757245ca06bc62222e3e677eae2a37473f0a5fe045c1255361fd5bdbc0"
+  }
+}

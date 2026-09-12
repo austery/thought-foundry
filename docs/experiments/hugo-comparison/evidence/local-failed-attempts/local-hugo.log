@@ -1,0 +1,80 @@
+Start building sites … 
+hugo v0.165.0+extended+withdeploy darwin/arm64 BuildDate=2026-08-12T14:26:28Z VendorInfo=Homebrew
+
+
+                  │  EN  
+──────────────────┼──────
+ Pages            │    0 
+ Paginator pages  │    0 
+ Non-page files   │    0 
+ Static files     │ 1809 
+ Processed images │    0 
+ Aliases          │    0 
+ Cleaned          │    0 
+
+Total in 2385 ms
+panic: runtime error: index out of range [0] with length 0
+
+goroutine 25 [running]:
+github.com/gohugoio/hugo/hugolib.(*pageState).shiftToOutputFormat(0x529619600070, 0x1, 0x0)
+	github.com/gohugoio/hugo/hugolib/page.go:884 +0x578
+github.com/gohugoio/hugo/hugolib.(*Site).preparePagesForRender.func1(0x5296194b1018?)
+	github.com/gohugoio/hugo/hugolib/hugo_sites.go:686 +0x2c
+github.com/gohugoio/hugo/hugolib.(*Site).preparePagesForRender.func2(0x5296195ee800?)
+	github.com/gohugoio/hugo/hugolib/hugo_sites.go:694 +0x24
+github.com/gohugoio/hugo/hugolib.(*pageMap).forEachPage.func2({0x5296194b1068?, 0x103e2a44c?}, {0x1075a8e90?, 0x529619600070?})
+	github.com/gohugoio/hugo/hugolib/content_map_page.go:295 +0x70
+github.com/gohugoio/hugo/hugolib.(*pageMap).forEachPage.(*NodeShiftTreeWalker[...]).Walk.func3.1({0x1075a8e90, 0x529619600070})
+	github.com/gohugoio/hugo/hugolib/doctree/nodeshifttree.go:594 +0x1d4
+github.com/gohugoio/hugo/hugolib/doctree.(*walkHandler[...]).Handle(0x103ea3640?, {0x52961b246db0?, 0x103ea7860?}, {0x1075a8e90?, 0x529619600070?})
+	github.com/gohugoio/hugo/hugolib/doctree/nodeshifttree.go:501 +0x44
+github.com/gohugoio/go-radix.recursiveWalk[...](0x52961a082660, {0x1075a8eb8, 0x5296450edaa0})
+	github.com/gohugoio/go-radix@v1.2.0/radix.go:604 +0x74
+github.com/gohugoio/go-radix.recursiveWalk[...](0x52961a082390, {0x1075a8eb8, 0x5296450edaa0})
+	github.com/gohugoio/go-radix@v1.2.0/radix.go:622 +0x15c
+github.com/gohugoio/go-radix.recursiveWalk[...](0x529619fc0a50, {0x1075a8eb8, 0x5296450edaa0})
+	github.com/gohugoio/go-radix@v1.2.0/radix.go:622 +0x15c
+github.com/gohugoio/go-radix.recursiveWalk[...](0x529619b257a0, {0x1075a8eb8, 0x5296450edaa0})
+	github.com/gohugoio/go-radix@v1.2.0/radix.go:622 +0x15c
+github.com/gohugoio/go-radix.recursiveWalk[...](0x52961982dbc0, {0x1075a8eb8, 0x5296450edaa0})
+	github.com/gohugoio/go-radix@v1.2.0/radix.go:622 +0x15c
+github.com/gohugoio/go-radix.recursiveWalk[...](0x529619e8a060, {0x1075a8eb8, 0x5296450edaa0})
+	github.com/gohugoio/go-radix@v1.2.0/radix.go:622 +0x15c
+github.com/gohugoio/go-radix.recursiveWalk[...](0x52961b8120f0, {0x1075a8eb8, 0x5296450edaa0})
+	github.com/gohugoio/go-radix@v1.2.0/radix.go:622 +0x15c
+github.com/gohugoio/go-radix.recursiveWalk[...](0x5296198492f0, {0x1075a8eb8, 0x5296450edaa0})
+	github.com/gohugoio/go-radix@v1.2.0/radix.go:622 +0x15c
+github.com/gohugoio/go-radix.(*Tree[...]).Walk(0x116976218?, {0x1075a8eb8?, 0x5296450edaa0?})
+	github.com/gohugoio/go-radix@v1.2.0/radix.go:504 +0x30
+github.com/gohugoio/hugo/hugolib.(*pageMap).forEachPage.(*NodeShiftTreeWalker[...]).Walk.func3({0x1075bfc80, 0x108516020}, 0x52964519fd58, 0x1075f00c0)
+	github.com/gohugoio/hugo/hugolib/doctree/nodeshifttree.go:621 +0x190
+github.com/gohugoio/hugo/hugolib/doctree.(*NodeShiftTreeWalker[...]).Walk(...)
+	github.com/gohugoio/hugo/hugolib/doctree/nodeshifttree.go:632
+github.com/gohugoio/hugo/hugolib.(*pageMap).forEachPage(0x529619c60460, 0x10756b730, 0x5296450eda90)
+	github.com/gohugoio/hugo/hugolib/content_map_page.go:303 +0x104
+github.com/gohugoio/hugo/hugolib.(*pageMap).forEeachPageIncludingBundledPages(0x529619c60460, 0x102f2c2c8?, 0x5296450eda90)
+	github.com/gohugoio/hugo/hugolib/content_map_page.go:313 +0x38
+github.com/gohugoio/hugo/hugolib.(*Site).preparePagesForRender(0x529619c58300, 0x1, 0x0)
+	github.com/gohugoio/hugo/hugolib/hugo_sites.go:692 +0xdc
+github.com/gohugoio/hugo/hugolib.(*HugoSites).render.(*HugoSites).render.(*HugoSites).allSites.func5.(*HugoSites).render-range1.func6-range1(0x5296194b1628?)
+	github.com/gohugoio/hugo/hugolib/hugo_sites_build.go:453 +0x54
+github.com/gohugoio/hugo/hugolib.(*HugoSites).allSites.func2(0x5296452a7800)
+	github.com/gohugoio/hugo/hugolib/hugo_sites.go:174 +0xe8
+github.com/gohugoio/hugo/hugolib.(*HugoSites).render.(*HugoSites).render.(*HugoSites).allSites.func5.(*HugoSites).render-range1.func6(0x529619c58300, 0x0, 0x529619caf8c8, 0x52963f04c140, 0x5296194b1800, 0x52961978cc00, {0x1075d4890, 0x529619457800}, 0x5296194b1850, 0x10756b6d0)
+	github.com/gohugoio/hugo/hugolib/hugo_sites_build.go:452 +0x1d8
+github.com/gohugoio/hugo/hugolib.(*HugoSites).render-range1(...)
+	github.com/gohugoio/hugo/hugolib/hugo_sites_build.go:477
+github.com/gohugoio/hugo/hugolib.(*HugoSites).render.(*HugoSites).allSites.func5(...)
+	github.com/gohugoio/hugo/hugolib/hugo_sites.go:174
+github.com/gohugoio/hugo/hugolib.(*HugoSites).render(0x529619caf8c8, {0x1075d4890?, 0x529619457800?}, 0x52961978cc00)
+	github.com/gohugoio/hugo/hugolib/hugo_sites_build.go:426 +0x5e8
+github.com/gohugoio/hugo/hugolib.(*HugoSites).Build(0x529619caf8c8, {0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}, {0x0, ...})
+	github.com/gohugoio/hugo/hugolib/hugo_sites_build.go:197 +0x86c
+github.com/gohugoio/hugo/commands.(*hugoBuilder).buildSites(0x0?, 0x0)
+	github.com/gohugoio/hugo/commands/hugobuilder.go:450 +0xc0
+github.com/gohugoio/hugo/commands.(*hugoBuilder).fullBuild.func3()
+	github.com/gohugoio/hugo/commands/hugobuilder.go:583 +0x24
+golang.org/x/sync/errgroup.(*Group).Go.func1()
+	golang.org/x/sync@v0.22.0/errgroup/errgroup.go:93 +0x4c
+created by golang.org/x/sync/errgroup.(*Group).Go in goroutine 1
+	golang.org/x/sync@v0.22.0/errgroup/errgroup.go:78 +0x90

@@ -1,0 +1,12 @@
+{
+  "stage": "measured-hugo",
+  "command": [
+    "hugo",
+    "--destination",
+    "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+  ],
+  "seconds": 6.562896446000086,
+  "exitCode": 0,
+  "signal": null,
+  "peakMemoryKiB": 3973612
+}

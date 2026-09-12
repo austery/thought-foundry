@@ -1,0 +1,14 @@
+{
+  "stage": "prime-eleventy",
+  "command": [
+    "pnpm",
+    "exec",
+    "eleventy",
+    "--output",
+    "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime/public"
+  ],
+  "seconds": 482.37769078900004,
+  "exitCode": 0,
+  "signal": null,
+  "peakMemoryKiB": 3628468
+}

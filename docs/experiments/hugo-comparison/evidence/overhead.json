@@ -1,0 +1,1277 @@
+{
+  "jobs": [
+    {
+      "name": "cold-1",
+      "url": "https://github.com/austery/thought-foundry/actions/runs/34674766444/job/103502525677",
+      "totalSeconds": 1352,
+      "steps": [
+        {
+          "name": "Set up job",
+          "number": 1,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 2,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run node -e 'const c=require(\"./benchmark/config.json\"); for(const [k,v] of Object.entries(c)) console.log(`${k}=${v}`)' >> \"$GITHUB_OUTPUT\"",
+          "number": 3,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 4,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 5,
+          "conclusion": "success",
+          "seconds": 32
+        },
+        {
+          "name": "Run pnpm/action-setup@v4",
+          "number": 6,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run actions/setup-node@v4",
+          "number": 7,
+          "conclusion": "success",
+          "seconds": 4
+        },
+        {
+          "name": "Install pinned Hugo in runner temporary directory",
+          "number": 8,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Install measurement tools",
+          "number": 9,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Prepare complete source copy",
+          "number": 10,
+          "conclusion": "success",
+          "seconds": 10
+        },
+        {
+          "name": "Measure dependency installation",
+          "number": 11,
+          "conclusion": "success",
+          "seconds": 2
+        },
+        {
+          "name": "Record installed engine versions",
+          "number": 12,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Validate tools and real miniature pair",
+          "number": 13,
+          "conclusion": "success",
+          "seconds": 13
+        },
+        {
+          "name": "Run paired complete-content comparison",
+          "number": 14,
+          "conclusion": "success",
+          "seconds": 1197
+        },
+        {
+          "name": "Verify unchanged source even after build failure",
+          "number": 15,
+          "conclusion": "success",
+          "seconds": 11
+        },
+        {
+          "name": "Package baseline preview",
+          "number": 16,
+          "conclusion": "success",
+          "seconds": 34
+        },
+        {
+          "name": "Package candidate preview",
+          "number": 17,
+          "conclusion": "success",
+          "seconds": 35
+        },
+        {
+          "name": "Run actions/upload-artifact@v4",
+          "number": 18,
+          "conclusion": "success",
+          "seconds": 2
+        },
+        {
+          "name": "Run actions/upload-artifact@v4",
+          "number": 19,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/setup-node@v4",
+          "number": 34,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run pnpm/action-setup@v4",
+          "number": 35,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 36,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 37,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 38,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Complete job",
+          "number": 39,
+          "conclusion": "success",
+          "seconds": 0
+        }
+      ]
+    },
+    {
+      "name": "cold-3",
+      "url": "https://github.com/austery/thought-foundry/actions/runs/34674766444/job/103502525728",
+      "totalSeconds": 1190,
+      "steps": [
+        {
+          "name": "Set up job",
+          "number": 1,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 2,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run node -e 'const c=require(\"./benchmark/config.json\"); for(const [k,v] of Object.entries(c)) console.log(`${k}=${v}`)' >> \"$GITHUB_OUTPUT\"",
+          "number": 3,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 4,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 5,
+          "conclusion": "success",
+          "seconds": 30
+        },
+        {
+          "name": "Run pnpm/action-setup@v4",
+          "number": 6,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run actions/setup-node@v4",
+          "number": 7,
+          "conclusion": "success",
+          "seconds": 5
+        },
+        {
+          "name": "Install pinned Hugo in runner temporary directory",
+          "number": 8,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Install measurement tools",
+          "number": 9,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Prepare complete source copy",
+          "number": 10,
+          "conclusion": "success",
+          "seconds": 11
+        },
+        {
+          "name": "Measure dependency installation",
+          "number": 11,
+          "conclusion": "success",
+          "seconds": 2
+        },
+        {
+          "name": "Record installed engine versions",
+          "number": 12,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Validate tools and real miniature pair",
+          "number": 13,
+          "conclusion": "success",
+          "seconds": 13
+        },
+        {
+          "name": "Run paired complete-content comparison",
+          "number": 14,
+          "conclusion": "success",
+          "seconds": 1106
+        },
+        {
+          "name": "Verify unchanged source even after build failure",
+          "number": 15,
+          "conclusion": "success",
+          "seconds": 10
+        },
+        {
+          "name": "Package baseline preview",
+          "number": 16,
+          "conclusion": "skipped",
+          "seconds": 0
+        },
+        {
+          "name": "Package candidate preview",
+          "number": 17,
+          "conclusion": "skipped",
+          "seconds": 0
+        },
+        {
+          "name": "Run actions/upload-artifact@v4",
+          "number": 18,
+          "conclusion": "success",
+          "seconds": 2
+        },
+        {
+          "name": "Run actions/upload-artifact@v4",
+          "number": 19,
+          "conclusion": "skipped",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/setup-node@v4",
+          "number": 34,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run pnpm/action-setup@v4",
+          "number": 35,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 36,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 37,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 38,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Complete job",
+          "number": 39,
+          "conclusion": "success",
+          "seconds": 0
+        }
+      ]
+    },
+    {
+      "name": "warm-3",
+      "url": "https://github.com/austery/thought-foundry/actions/runs/34674766444/job/103502525739",
+      "totalSeconds": 2063,
+      "steps": [
+        {
+          "name": "Set up job",
+          "number": 1,
+          "conclusion": "success",
+          "seconds": 2
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 2,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run node -e 'const c=require(\"./benchmark/config.json\"); for(const [k,v] of Object.entries(c)) console.log(`${k}=${v}`)' >> \"$GITHUB_OUTPUT\"",
+          "number": 3,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 4,
+          "conclusion": "success",
+          "seconds": 2
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 5,
+          "conclusion": "success",
+          "seconds": 27
+        },
+        {
+          "name": "Run pnpm/action-setup@v4",
+          "number": 6,
+          "conclusion": "success",
+          "seconds": 2
+        },
+        {
+          "name": "Run actions/setup-node@v4",
+          "number": 7,
+          "conclusion": "success",
+          "seconds": 4
+        },
+        {
+          "name": "Install pinned Hugo in runner temporary directory",
+          "number": 8,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Install measurement tools",
+          "number": 9,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Prepare complete source copy",
+          "number": 10,
+          "conclusion": "success",
+          "seconds": 11
+        },
+        {
+          "name": "Measure dependency installation",
+          "number": 11,
+          "conclusion": "success",
+          "seconds": 2
+        },
+        {
+          "name": "Record installed engine versions",
+          "number": 12,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Validate tools and real miniature pair",
+          "number": 13,
+          "conclusion": "success",
+          "seconds": 13
+        },
+        {
+          "name": "Run paired complete-content comparison",
+          "number": 14,
+          "conclusion": "success",
+          "seconds": 1977
+        },
+        {
+          "name": "Verify unchanged source even after build failure",
+          "number": 15,
+          "conclusion": "success",
+          "seconds": 13
+        },
+        {
+          "name": "Package baseline preview",
+          "number": 16,
+          "conclusion": "skipped",
+          "seconds": 0
+        },
+        {
+          "name": "Package candidate preview",
+          "number": 17,
+          "conclusion": "skipped",
+          "seconds": 0
+        },
+        {
+          "name": "Run actions/upload-artifact@v4",
+          "number": 18,
+          "conclusion": "success",
+          "seconds": 2
+        },
+        {
+          "name": "Run actions/upload-artifact@v4",
+          "number": 19,
+          "conclusion": "skipped",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/setup-node@v4",
+          "number": 34,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Post Run pnpm/action-setup@v4",
+          "number": 35,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 36,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 37,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 38,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Complete job",
+          "number": 39,
+          "conclusion": "success",
+          "seconds": 0
+        }
+      ]
+    },
+    {
+      "name": "warm-1",
+      "url": "https://github.com/austery/thought-foundry/actions/runs/34674766444/job/103502525759",
+      "totalSeconds": 2217,
+      "steps": [
+        {
+          "name": "Set up job",
+          "number": 1,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 2,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run node -e 'const c=require(\"./benchmark/config.json\"); for(const [k,v] of Object.entries(c)) console.log(`${k}=${v}`)' >> \"$GITHUB_OUTPUT\"",
+          "number": 3,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 4,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 5,
+          "conclusion": "success",
+          "seconds": 32
+        },
+        {
+          "name": "Run pnpm/action-setup@v4",
+          "number": 6,
+          "conclusion": "success",
+          "seconds": 2
+        },
+        {
+          "name": "Run actions/setup-node@v4",
+          "number": 7,
+          "conclusion": "success",
+          "seconds": 4
+        },
+        {
+          "name": "Install pinned Hugo in runner temporary directory",
+          "number": 8,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Install measurement tools",
+          "number": 9,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Prepare complete source copy",
+          "number": 10,
+          "conclusion": "success",
+          "seconds": 11
+        },
+        {
+          "name": "Measure dependency installation",
+          "number": 11,
+          "conclusion": "success",
+          "seconds": 3
+        },
+        {
+          "name": "Record installed engine versions",
+          "number": 12,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Validate tools and real miniature pair",
+          "number": 13,
+          "conclusion": "success",
+          "seconds": 13
+        },
+        {
+          "name": "Run paired complete-content comparison",
+          "number": 14,
+          "conclusion": "success",
+          "seconds": 2132
+        },
+        {
+          "name": "Verify unchanged source even after build failure",
+          "number": 15,
+          "conclusion": "success",
+          "seconds": 10
+        },
+        {
+          "name": "Package baseline preview",
+          "number": 16,
+          "conclusion": "skipped",
+          "seconds": 0
+        },
+        {
+          "name": "Package candidate preview",
+          "number": 17,
+          "conclusion": "skipped",
+          "seconds": 0
+        },
+        {
+          "name": "Run actions/upload-artifact@v4",
+          "number": 18,
+          "conclusion": "success",
+          "seconds": 2
+        },
+        {
+          "name": "Run actions/upload-artifact@v4",
+          "number": 19,
+          "conclusion": "skipped",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/setup-node@v4",
+          "number": 34,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run pnpm/action-setup@v4",
+          "number": 35,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 36,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 37,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 38,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Complete job",
+          "number": 39,
+          "conclusion": "success",
+          "seconds": 0
+        }
+      ]
+    },
+    {
+      "name": "cold-2",
+      "url": "https://github.com/austery/thought-foundry/actions/runs/34674766444/job/103502525761",
+      "totalSeconds": 1345,
+      "steps": [
+        {
+          "name": "Set up job",
+          "number": 1,
+          "conclusion": "success",
+          "seconds": 2
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 2,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run node -e 'const c=require(\"./benchmark/config.json\"); for(const [k,v] of Object.entries(c)) console.log(`${k}=${v}`)' >> \"$GITHUB_OUTPUT\"",
+          "number": 3,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 4,
+          "conclusion": "success",
+          "seconds": 2
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 5,
+          "conclusion": "success",
+          "seconds": 30
+        },
+        {
+          "name": "Run pnpm/action-setup@v4",
+          "number": 6,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run actions/setup-node@v4",
+          "number": 7,
+          "conclusion": "success",
+          "seconds": 5
+        },
+        {
+          "name": "Install pinned Hugo in runner temporary directory",
+          "number": 8,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Install measurement tools",
+          "number": 9,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Prepare complete source copy",
+          "number": 10,
+          "conclusion": "success",
+          "seconds": 11
+        },
+        {
+          "name": "Measure dependency installation",
+          "number": 11,
+          "conclusion": "success",
+          "seconds": 2
+        },
+        {
+          "name": "Record installed engine versions",
+          "number": 12,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Validate tools and real miniature pair",
+          "number": 13,
+          "conclusion": "success",
+          "seconds": 13
+        },
+        {
+          "name": "Run paired complete-content comparison",
+          "number": 14,
+          "conclusion": "success",
+          "seconds": 1257
+        },
+        {
+          "name": "Verify unchanged source even after build failure",
+          "number": 15,
+          "conclusion": "success",
+          "seconds": 11
+        },
+        {
+          "name": "Package baseline preview",
+          "number": 16,
+          "conclusion": "skipped",
+          "seconds": 0
+        },
+        {
+          "name": "Package candidate preview",
+          "number": 17,
+          "conclusion": "skipped",
+          "seconds": 0
+        },
+        {
+          "name": "Run actions/upload-artifact@v4",
+          "number": 18,
+          "conclusion": "success",
+          "seconds": 2
+        },
+        {
+          "name": "Run actions/upload-artifact@v4",
+          "number": 19,
+          "conclusion": "skipped",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/setup-node@v4",
+          "number": 34,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run pnpm/action-setup@v4",
+          "number": 35,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 36,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 37,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 38,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Complete job",
+          "number": 39,
+          "conclusion": "success",
+          "seconds": 0
+        }
+      ]
+    },
+    {
+      "name": "warm-2",
+      "url": "https://github.com/austery/thought-foundry/actions/runs/34674766444/job/103502525762",
+      "totalSeconds": 2023,
+      "steps": [
+        {
+          "name": "Set up job",
+          "number": 1,
+          "conclusion": "success",
+          "seconds": 2
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 2,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run node -e 'const c=require(\"./benchmark/config.json\"); for(const [k,v] of Object.entries(c)) console.log(`${k}=${v}`)' >> \"$GITHUB_OUTPUT\"",
+          "number": 3,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 4,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 5,
+          "conclusion": "success",
+          "seconds": 31
+        },
+        {
+          "name": "Run pnpm/action-setup@v4",
+          "number": 6,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run actions/setup-node@v4",
+          "number": 7,
+          "conclusion": "success",
+          "seconds": 6
+        },
+        {
+          "name": "Install pinned Hugo in runner temporary directory",
+          "number": 8,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Install measurement tools",
+          "number": 9,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Prepare complete source copy",
+          "number": 10,
+          "conclusion": "success",
+          "seconds": 9
+        },
+        {
+          "name": "Measure dependency installation",
+          "number": 11,
+          "conclusion": "success",
+          "seconds": 3
+        },
+        {
+          "name": "Record installed engine versions",
+          "number": 12,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Validate tools and real miniature pair",
+          "number": 13,
+          "conclusion": "success",
+          "seconds": 13
+        },
+        {
+          "name": "Run paired complete-content comparison",
+          "number": 14,
+          "conclusion": "success",
+          "seconds": 1939
+        },
+        {
+          "name": "Verify unchanged source even after build failure",
+          "number": 15,
+          "conclusion": "success",
+          "seconds": 9
+        },
+        {
+          "name": "Package baseline preview",
+          "number": 16,
+          "conclusion": "skipped",
+          "seconds": 0
+        },
+        {
+          "name": "Package candidate preview",
+          "number": 17,
+          "conclusion": "skipped",
+          "seconds": 0
+        },
+        {
+          "name": "Run actions/upload-artifact@v4",
+          "number": 18,
+          "conclusion": "success",
+          "seconds": 2
+        },
+        {
+          "name": "Run actions/upload-artifact@v4",
+          "number": 19,
+          "conclusion": "skipped",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/setup-node@v4",
+          "number": 34,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run pnpm/action-setup@v4",
+          "number": 35,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 36,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 37,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 38,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Complete job",
+          "number": 39,
+          "conclusion": "success",
+          "seconds": 0
+        }
+      ]
+    },
+    {
+      "name": "added-1",
+      "url": "https://github.com/austery/thought-foundry/actions/runs/34674766444/job/103502525771",
+      "totalSeconds": 2410,
+      "steps": [
+        {
+          "name": "Set up job",
+          "number": 1,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 2,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run node -e 'const c=require(\"./benchmark/config.json\"); for(const [k,v] of Object.entries(c)) console.log(`${k}=${v}`)' >> \"$GITHUB_OUTPUT\"",
+          "number": 3,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 4,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Run actions/checkout@v4",
+          "number": 5,
+          "conclusion": "success",
+          "seconds": 32
+        },
+        {
+          "name": "Run pnpm/action-setup@v4",
+          "number": 6,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Run actions/setup-node@v4",
+          "number": 7,
+          "conclusion": "success",
+          "seconds": 4
+        },
+        {
+          "name": "Install pinned Hugo in runner temporary directory",
+          "number": 8,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Install measurement tools",
+          "number": 9,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Prepare complete source copy",
+          "number": 10,
+          "conclusion": "success",
+          "seconds": 11
+        },
+        {
+          "name": "Measure dependency installation",
+          "number": 11,
+          "conclusion": "success",
+          "seconds": 3
+        },
+        {
+          "name": "Record installed engine versions",
+          "number": 12,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Validate tools and real miniature pair",
+          "number": 13,
+          "conclusion": "success",
+          "seconds": 13
+        },
+        {
+          "name": "Run paired complete-content comparison",
+          "number": 14,
+          "conclusion": "success",
+          "seconds": 2323
+        },
+        {
+          "name": "Verify unchanged source even after build failure",
+          "number": 15,
+          "conclusion": "success",
+          "seconds": 13
+        },
+        {
+          "name": "Package baseline preview",
+          "number": 16,
+          "conclusion": "skipped",
+          "seconds": 0
+        },
+        {
+          "name": "Package candidate preview",
+          "number": 17,
+          "conclusion": "skipped",
+          "seconds": 0
+        },
+        {
+          "name": "Run actions/upload-artifact@v4",
+          "number": 18,
+          "conclusion": "success",
+          "seconds": 2
+        },
+        {
+          "name": "Run actions/upload-artifact@v4",
+          "number": 19,
+          "conclusion": "skipped",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/setup-node@v4",
+          "number": 34,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run pnpm/action-setup@v4",
+          "number": 35,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 36,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 37,
+          "conclusion": "success",
+          "seconds": 0
+        },
+        {
+          "name": "Post Run actions/checkout@v4",
+          "number": 38,
+          "conclusion": "success",
+          "seconds": 1
+        },
+        {
+          "name": "Complete job",
+          "number": 39,
+          "conclusion": "success",
+          "seconds": 0
+        }
+      ]
+    }
+  ],
+  "priming": {
+    "comparison-added-1-34674766444-1": {
+      "primingSeconds": 1008.3065020450002,
+      "primingStages": [
+        {
+          "stage": "prime-eleventy",
+          "seconds": 523.531682229,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo-adapt",
+          "seconds": 33.71649699200003,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo-pagefind",
+          "seconds": 236.21087984199997,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo-paths",
+          "seconds": 3.435293361000018,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo-prepare",
+          "seconds": 0.9876132440000074,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo",
+          "seconds": 6.862786234,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-pagefind",
+          "seconds": 203.56175014300004,
+          "exitCode": 0
+        }
+      ]
+    },
+    "comparison-cold-1-34674766444-1": {
+      "primingSeconds": 0,
+      "primingStages": []
+    },
+    "comparison-cold-2-34674766444-1": {
+      "primingSeconds": 0,
+      "primingStages": []
+    },
+    "comparison-cold-3-34674766444-1": {
+      "primingSeconds": 0,
+      "primingStages": []
+    },
+    "comparison-warm-1-34674766444-1": {
+      "primingSeconds": 929.9931249030001,
+      "primingStages": [
+        {
+          "stage": "prime-eleventy",
+          "seconds": 482.37769078900004,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo-adapt",
+          "seconds": 28.463313454999998,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo-pagefind",
+          "seconds": 211.017001155,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo-paths",
+          "seconds": 3.1457158859999983,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo-prepare",
+          "seconds": 0.563592556,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo",
+          "seconds": 6.535424745,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-pagefind",
+          "seconds": 197.89038631700004,
+          "exitCode": 0
+        }
+      ]
+    },
+    "comparison-warm-2-34674766444-1": {
+      "primingSeconds": 835.4548447340001,
+      "primingStages": [
+        {
+          "stage": "prime-eleventy",
+          "seconds": 399.48303334900004,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo-adapt",
+          "seconds": 29.80245107499999,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo-pagefind",
+          "seconds": 197.35664649900002,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo-paths",
+          "seconds": 2.9308921550000084,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo-prepare",
+          "seconds": 0.8427966289999895,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo",
+          "seconds": 6.330925836000009,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-pagefind",
+          "seconds": 198.70809919100003,
+          "exitCode": 0
+        }
+      ]
+    },
+    "comparison-warm-3-34674766444-1": {
+      "primingSeconds": 826.448801855,
+      "primingStages": [
+        {
+          "stage": "prime-eleventy",
+          "seconds": 371.408734453,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo-adapt",
+          "seconds": 30.031262426,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo-pagefind",
+          "seconds": 209.791796647,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo-paths",
+          "seconds": 3.1628474940000015,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo-prepare",
+          "seconds": 0.568661494,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-hugo",
+          "seconds": 6.976879346000001,
+          "exitCode": 0
+        },
+        {
+          "stage": "prime-pagefind",
+          "seconds": 204.50861999499995,
+          "exitCode": 0
+        }
+      ]
+    }
+  }
+}

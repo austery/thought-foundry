@@ -1,0 +1,13 @@
+{
+  "stage": "hugo-package",
+  "command": [
+    "tar",
+    "-czf",
+    "../../candidate-preview.tar.gz",
+    "public"
+  ],
+  "seconds": 33.986756517,
+  "exitCode": 0,
+  "signal": null,
+  "peakMemoryKiB": 3344
+}

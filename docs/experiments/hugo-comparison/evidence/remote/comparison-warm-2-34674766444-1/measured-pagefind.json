@@ -1,0 +1,14 @@
+{
+  "stage": "measured-pagefind",
+  "command": [
+    "pnpm",
+    "exec",
+    "pagefind",
+    "--site",
+    "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured/public"
+  ],
+  "seconds": 219.12051549399993,
+  "exitCode": 0,
+  "signal": null,
+  "peakMemoryKiB": 14827744
+}

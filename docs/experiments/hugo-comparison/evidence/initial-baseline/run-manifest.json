@@ -1,0 +1,23 @@
+{
+  "baselineSha": "8acbf0d1ef8652fb5153341e6a47f9f73204a4b4",
+  "contentSha": "f8a8939248be4c1d4af6072381c06a4a79d00223",
+  "hugoVersion": "0.165.0",
+  "stage": "baseline",
+  "candidateSha": "01accc06d403d94d441951ea8f3fe15cc1a9edb3",
+  "environment": {
+    "node": "v22.19.0",
+    "platform": "linux",
+    "cpu": "AMD EPYC 7763 64-Core Processor",
+    "cpuCount": 4,
+    "totalMemory": 16766414848,
+    "runnerImage": "ubuntu24",
+    "runnerImageVersion": "20260907.300.1",
+    "runId": "34672325021",
+    "attempt": "1"
+  },
+  "siteLockHash": "b994651e0e58568ab358483a818cc432ef97b22a041baa2c9974eb4c594aee4b",
+  "toolsLockHash": "e623c8e57a2140d4272d74830f509531f873ab087b42706fd8dc2386dc369c1a",
+  "pnpm": "10.14.0",
+  "pagefindVersionSource": "Pinned site pnpm-lock.yaml; runtime version recorded by Pagefind stage log",
+  "htmlInventoryScope": "DOM eligibility, not actual indexed URLs"
+}

@@ -1,0 +1,14 @@
+{
+  "stage": "prime-hugo-pagefind",
+  "command": [
+    "pnpm",
+    "exec",
+    "pagefind",
+    "--site",
+    "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/public"
+  ],
+  "seconds": 211.017001155,
+  "exitCode": 0,
+  "signal": null,
+  "peakMemoryKiB": 14741216
+}

@@ -1,0 +1,14 @@
+{
+  "stage": "prime-pagefind",
+  "command": [
+    "pnpm",
+    "exec",
+    "pagefind",
+    "--site",
+    "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime/public"
+  ],
+  "seconds": 204.50861999499995,
+  "exitCode": 0,
+  "signal": null,
+  "peakMemoryKiB": 14886724
+}

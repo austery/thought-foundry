@@ -1,0 +1,12 @@
+{
+  "stage": "prime-hugo",
+  "command": [
+    "hugo",
+    "--destination",
+    "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/public"
+  ],
+  "seconds": 6.330925836000009,
+  "exitCode": 0,
+  "signal": null,
+  "peakMemoryKiB": 3860372
+}

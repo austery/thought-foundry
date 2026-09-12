@@ -1,0 +1,14 @@
+{
+  "stage": "measured-eleventy",
+  "command": [
+    "pnpm",
+    "exec",
+    "eleventy",
+    "--output",
+    "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured/public"
+  ],
+  "seconds": 379.46849818999993,
+  "exitCode": 0,
+  "signal": null,
+  "peakMemoryKiB": 3594540
+}

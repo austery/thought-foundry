@@ -1,0 +1,12 @@
+{
+  "stage": "install",
+  "command": [
+    "pnpm",
+    "install",
+    "--frozen-lockfile"
+  ],
+  "seconds": 1.7983391340000003,
+  "exitCode": 0,
+  "signal": null,
+  "peakMemoryKiB": 566296
+}

@@ -1,0 +1,14 @@
+{
+  "stage": "measured-hugo-pagefind",
+  "command": [
+    "pnpm",
+    "exec",
+    "pagefind",
+    "--site",
+    "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+  ],
+  "seconds": 229.08998641199992,
+  "exitCode": 0,
+  "signal": null,
+  "peakMemoryKiB": 14945564
+}

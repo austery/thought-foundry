@@ -1,0 +1,16 @@
+{
+  "stage": "prime-hugo-prepare",
+  "command": [
+    "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+    "--import",
+    "tsx",
+    "src/cli.ts",
+    "prepare-candidate",
+    "/home/runner/work/thought-foundry/thought-foundry/.benchmark/baseline",
+    "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/legacy"
+  ],
+  "seconds": 0.8427966289999895,
+  "exitCode": 0,
+  "signal": null,
+  "peakMemoryKiB": 116104
+}
