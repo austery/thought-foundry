@@ -40,6 +40,20 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22.19.0'
+      - name: Install pinned Hugo in runner temporary directory
+        env:
+          HUGO_VERSION: ${{ steps.pins.outputs.hugoVersion }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/hugo"
+          cd "$RUNNER_TEMP/hugo"
+          archive="hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+          curl --fail --location --retry 3 --output "$archive" "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${archive}"
+          curl --fail --location --retry 3 --output checksums.txt "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_checksums.txt"
+          awk -v archive="$archive" '$2 == archive {print}' checksums.txt > selected-checksum.txt
+          test -s selected-checksum.txt
+          sha256sum --check selected-checksum.txt
+          tar -xzf "$archive" hugo
+          echo "$RUNNER_TEMP/hugo" >> "$GITHUB_PATH"
       - name: Install measurement tools
         run: pnpm install --dir benchmark --frozen-lockfile
       - name: Validate measurement tools
@@ -57,6 +71,10 @@ jobs:
         run: pnpm --dir benchmark run run measure eleventy ../.benchmark/baseline ../.benchmark/reports pnpm exec eleventy
       - name: Measure Pagefind
         run: pnpm --dir benchmark run run measure pagefind ../.benchmark/baseline ../.benchmark/reports pnpm exec pagefind --site _site
+      - name: Build independent Hugo candidate
+        run: pnpm --dir benchmark run run candidate ../.benchmark/baseline ../.benchmark/candidate ../.benchmark/reports
+      - name: Compare actual output and Pagefind fragments
+        run: pnpm --dir benchmark run run compare ../.benchmark/baseline/_site ../.benchmark/candidate/public ../.benchmark/reports
       - name: Inventory rendered HTML
         run: pnpm --dir benchmark run run inventory ../.benchmark/baseline/_site ../.benchmark/reports/baseline-inventory.json
       - name: Verify unchanged source even after build failure
@@ -64,6 +82,8 @@ jobs:
         run: pnpm --dir benchmark run run verify-source ../.benchmark/source ../.benchmark/reports/source-before.json ../.benchmark/reports/source-after.json
       - name: Measure preview packaging
         run: pnpm --dir benchmark run run measure package ../.benchmark/baseline ../.benchmark/reports tar -czf ../baseline-preview.tar.gz _site
+      - name: Package candidate preview
+        run: pnpm --dir benchmark run run measure hugo-package ../.benchmark/candidate ../.benchmark/reports tar -czf ../candidate-preview.tar.gz public
       - uses: actions/upload-artifact@v4
         if: always()
         with:
@@ -74,5 +94,11 @@ jobs:
         with:
           name: baseline-preview-${{ github.run_id }}-${{ github.run_attempt }}
           path: .benchmark/baseline-preview.tar.gz
+          compression-level: 0
+          retention-days: 3
+      - uses: actions/upload-artifact@v4
+        with:
+          name: candidate-preview-${{ github.run_id }}-${{ github.run_attempt }}
+          path: .benchmark/candidate-preview.tar.gz
           compression-level: 0
           retention-days: 3

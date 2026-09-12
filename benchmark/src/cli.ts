@@ -6,7 +6,13 @@ import { measure, inventory, fingerprint, gitSha, environment } from './evidence
 
 const [operation, ...args] = process.argv.slice(2);
 function arg(index: number): string { const value = args[index]; if (!value) throw new Error(`Missing argument ${index}`); return value; }
-if (operation === 'measure') {
+if (operation === 'candidate') {
+  const { buildCandidate } = await import('./candidate.js');
+  console.log(await buildCandidate(resolve(arg(0)), resolve(arg(1)), resolve(arg(2))));
+} else if (operation === 'adapt') {
+  const { adapt } = await import('./adapter.js');
+  console.log(await adapt(resolve(arg(0)), resolve(arg(1))));
+} else if (operation === 'measure') {
   const result = await measure(arg(0), arg(3), args.slice(4), resolve(arg(1)), resolve(arg(2)));
   process.exitCode = result.exitCode;
 } else if (operation === 'prepare') {
@@ -17,6 +23,19 @@ if (operation === 'measure') {
   await writeFile(join(reports, 'source-before.json'), JSON.stringify({ sha: gitSha(source), fingerprint: await fingerprint(source), environment: environment() }, null, 2));
   await writeFile(join(reports, 'run-manifest.json'), JSON.stringify({ ...config, candidateSha: gitSha(resolve('..')), environment: environment(), siteLockHash: createHash('sha256').update(await readFile(join(site, 'pnpm-lock.yaml'))).digest('hex'), toolsLockHash: createHash('sha256').update(await readFile('pnpm-lock.yaml')).digest('hex'), pnpm: execFileSync('pnpm', ['--version'], { encoding: 'utf8' }).trim(), pagefindVersionSource: 'Pinned site pnpm-lock.yaml; runtime version recorded by Pagefind stage log', htmlInventoryScope: 'DOM eligibility, not actual indexed URLs' }, null, 2));
   await cp(source, join(site, 'src/content'), { recursive: true, filter: path => !['.git', 'raw_subtitles', 'cleaned_subtitles'].includes(path.split('/').at(-1)!) });
+} else if (operation === 'prepare-candidate') {
+  const { prepareCandidateSource } = await import('./adapter.js');
+  await prepareCandidateSource(resolve(arg(0)), resolve(arg(1)));
+} else if (operation === 'restore-paths') {
+  const { restoreLegacyPaths } = await import('./adapter.js');
+  await restoreLegacyPaths(resolve(arg(0)), resolve(arg(1)));
+} else if (operation === 'compare') {
+  const { compareInventories, indexedPages, compareIndexes } = await import('./compare.js');
+  const baseline = resolve(arg(0)); const candidate = resolve(arg(1)); const reports = resolve(arg(2));
+  const comparison = compareInventories(await inventory(baseline), await inventory(candidate));
+  const indexes = compareIndexes(await indexedPages(baseline), await indexedPages(candidate));
+  await writeFile(join(reports, 'comparison.json'), JSON.stringify({ comparison, indexes }, null, 2));
+  console.log(JSON.stringify({ comparison, indexes }));
 } else if (operation === 'versions') {
   const site = resolve(arg(0));
   const versions: Record<string, string> = {};

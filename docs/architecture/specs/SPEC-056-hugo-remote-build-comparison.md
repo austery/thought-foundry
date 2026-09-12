@@ -119,3 +119,10 @@ Recommend advancing toward migration only when there are zero unexplained compat
 - [GitHub Pages custom workflows](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)
 
 User approval: On September 11, the user approved all three tickets, autonomous experiment runs, per-ticket code reviews, and final result recording. Production changes remain out of scope. Tickets are tracked locally under `.scratch/hugo-build-comparison/issues/`.
+
+
+## Candidate Implementation Decision
+
+The experiment retains the existing Nunjucks presentation templates and collection functions in a typed Node compatibility adapter. Hugo independently renders Markdown bodies. Adapter-generated shells, routing preparation, path restoration, and Pagefind are included in candidate timing; no fresh Eleventy render or baseline HTML is consumed by the candidate. The candidate is therefore Hugo plus a compatibility adapter, not a pure-Go rewrite. Each engine has its own persistent pinyin cache, while immutable source files and installed dependencies may be shared.
+
+Hugo 0.165.0 panics for a reproduced legacy URL containing a colon. Generate pages at internal numeric routes and restore the exact legacy output paths afterward. This avoids modifying source filenames or publishing a new URL scheme. A full-build attempt started before staging finished also produced incomplete output during local development; that failed attempt is retained and excluded from performance claims. The committed candidate runner awaits every stage and aborts on nonzero exit.

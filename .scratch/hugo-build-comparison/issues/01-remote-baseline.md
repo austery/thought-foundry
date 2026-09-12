@@ -4,9 +4,11 @@
 
 **Blocked by:** None.
 
-**Status:** in-progress
+**Status:** completed
 
-- [ ] Pinned site and content commits are recorded.
-- [ ] Successful and failed commands produce usable timing evidence.
-- [ ] Remote baseline produces pages and a Pagefind index without production credentials.
-- [ ] Standards and Spec reviews pass before ticket 02 starts.
+- [x] Pinned site and content commits are recorded.
+- [x] Successful and failed commands produce usable timing evidence.
+- [x] Remote baseline produces pages and a Pagefind index without production credentials.
+- [x] Standards and Spec reviews pass before ticket 02 starts.
+
+Remote acceptance: https://github.com/austery/thought-foundry/actions/runs/34672325021 succeeded at reviewed head `01accc06d`. See `../ticket-01-review.md`.

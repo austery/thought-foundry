@@ -4,7 +4,7 @@
 
 **Blocked by:** 01: Run a pinned remote Eleventy baseline.
 
-**Status:** blocked
+**Status:** in-progress
 
 - [ ] Hugo builds independently from the same unchanged source snapshot.
 - [ ] Adaptation costs count in the result; source files remain unchanged.

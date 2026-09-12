@@ -1,0 +1,31 @@
+import { test } from 'node:test';
+import assert from 'node:assert/strict';
+import { mkdtemp, mkdir, writeFile, readFile } from 'node:fs/promises';
+import { tmpdir } from 'node:os';
+import { join } from 'node:path';
+import { execFileSync } from 'node:child_process';
+import { adapt, restoreLegacyPaths } from '../src/adapter.js';
+import { fingerprint } from '../src/evidence.js';
+
+test('Hugo consumes unchanged legacy documents with draft flags, case-sensitive URLs and shortcode examples', async () => {
+  const dir = await mkdtemp(join(tmpdir(), 'tf-adapter-')); const site = join(dir, 'legacy'); const output = join(dir, 'hugo');
+  for (const folder of ['src/content/notes','src/_includes','src/css','src/js']) await mkdir(join(site,folder),{recursive:true});
+  await writeFile(join(site,'package.json'), '{}');
+  await writeFile(join(site,'.eleventy.js'), 'module.exports = async c => { c.addCollection("allItems", api => api.getFilteredByGlob("./src/content/{posts,books,notes,clippings}/**/*.md")); };');
+  await writeFile(join(site,'src/_includes/post.njk'), '<html><head><title>{{ title }}</title></head><body><main data-pagefind-body>{{ content | safe }}</main></body></html>');
+  await writeFile(join(site,'src/content/notes/Case.md'), '---\ntitle: Test\nlayout: post.njk\ndraft: true\ndate: 2026-01-01\n---\n# Hello\n\n`{{< ref "example.md" >}}`\n\n<details><summary>Example</summary>Raw HTML</details>');
+  await writeFile(join(site,'src/index.njk'), '---\npermalink: /\n---\n{% for p in collections.allItems %}<a href="{{ p.url }}">{{ p.data.title }}</a>{% endfor %}');
+  await writeFile(join(site, 'src/content/notes/Legacy:_URL?.md'), '---\ntitle: Legacy URL\nlayout: post.njk\n---\n# Legacy');
+  const before = await fingerprint(site);
+  const result = await adapt(site, output);
+  assert.deepEqual(result, {documents:2,navigationPages:1});
+  execFileSync('hugo', ['--source', output, '--destination', 'public'], {stdio:'pipe'});
+  await restoreLegacyPaths(output, join(output, 'public'));
+  assert.match(await readFile(join(output, 'public/content/notes/Legacy:_URL?/index.html'), 'utf8'), /Legacy/);
+  const page = await readFile(join(output,'public/content/notes/Case/index.html'),'utf8');
+  assert.match(page, /<h1>Hello<\/h1>/);
+  assert.match(page, /ref/);
+  assert.match(page, /<details>/);
+  assert.match(await readFile(join(output,'public/index.html'),'utf8'), /href="\/content\/notes\/Case\/"/);
+  assert.equal(await fingerprint(site), before);
+});
