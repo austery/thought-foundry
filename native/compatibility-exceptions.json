@@ -1,0 +1,23 @@
+[
+  {
+    "url": "/content/posts/Navigating_AI_Wave_Brain_Science_Future_Strategy/",
+    "surface": "reading",
+    "baselineHash": "3cedbcfab01a79d1e15d7fd4a472a6c4b9317dbea32207f518b680b0f55e73da",
+    "candidateHash": "9eebbc82358b40e745db14e0c193b2a4f1c563f432c36e2c9eed42dc114e7fe3",
+    "reason": "Same Unicode Wikipedia target; encoded path display in the excluded article only. Inspected 2026-09-12."
+  },
+  {
+    "url": "/content/notes/jwEYTEbfprw/",
+    "surface": "index",
+    "baselineHash": "8db44cbb16594ab2dd50c0dd8ad3f65b576c94237679b2633391282373cf94e4",
+    "candidateHash": "e3b5d8d6b2bba666bee1e97e82fbb57336dce33e0b4e95b9e807cc13e8c0dd68",
+    "reason": "Three punctuation characters at legacy HTML fragment boundaries; normalized DOM text and links unchanged."
+  },
+  {
+    "url": "/content/posts/stock_tokenization_invest_pre_ipo_Gemini/",
+    "surface": "index",
+    "baselineHash": "bca72fb3c264652e61280e59538300b3f488f0616147141a8b2fd9c38cb74bfc",
+    "candidateHash": "806e94b322904d7524c77745b7f9e2382c094162a4eb41683e0408dfcc95ecbf",
+    "reason": "One Pagefind-inserted period after PoR report; normalized DOM text and links unchanged."
+  }
+]

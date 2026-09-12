@@ -1,0 +1,6 @@
+{{- $raw := false -}}
+{{- if eq .Params.view "article" -}}
+  {{- $article := index hugo.Data.archive.articles .Params.articleid -}}
+  {{- $raw = not $article.layout -}}
+{{- end -}}
+{{- if $raw -}}{{ partial "body.html" . }}{{- else -}}{{ partial "base.html" . }}{{- end -}}

@@ -1,0 +1,1994 @@
+{
+  "runId": 34701335727,
+  "attempt": 1,
+  "conclusion": "success",
+  "headSha": "3f5b5eb22447249bfcb0a7c707a3610dd801c4a3",
+  "rows": [
+    {
+      "name": "cold-1",
+      "pair": {
+        "mode": "cold",
+        "repetition": 1,
+        "order": [
+          "eleventy",
+          "hugo"
+        ],
+        "prime": false,
+        "environment": {
+          "node": "v22.19.0",
+          "platform": "linux",
+          "cpu": "AMD EPYC 9V74 80-Core Processor",
+          "cpuCount": 4,
+          "totalMemory": 16766410752,
+          "runnerImage": "ubuntu24",
+          "runnerImageVersion": "20260907.300.1",
+          "runId": "34701335727",
+          "attempt": "1"
+        },
+        "sourceBefore": "05c6f66c937219c1ccd44cbf5df9112591e8671242a679fbf65a0cd2662c0ec0",
+        "status": "completed",
+        "inputFingerprint": "05c6f66c937219c1ccd44cbf5df9112591e8671242a679fbf65a0cd2662c0ec0",
+        "sourceUnchanged": true,
+        "addition": null,
+        "results": {
+          "eleventy": [
+            {
+              "stage": "measured-eleventy",
+              "command": [
+                "pnpm",
+                "exec",
+                "eleventy",
+                "--output",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured/public"
+              ],
+              "seconds": 411.54437292200004,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 3552868
+            },
+            {
+              "stage": "measured-pagefind",
+              "command": [
+                "pnpm",
+                "exec",
+                "pagefind",
+                "--site",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured/public"
+              ],
+              "seconds": 202.253539926,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 14828420
+            }
+          ],
+          "hugo": [
+            {
+              "stage": "measured-hugo-prepare",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "source",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/baseline",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/legacy"
+              ],
+              "seconds": 0.951225934999995,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 255388
+            },
+            {
+              "stage": "measured-hugo-adapt",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "prepare",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/legacy",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated"
+              ],
+              "seconds": 27.56339546999999,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 1276540
+            },
+            {
+              "stage": "measured-hugo",
+              "command": [
+                "hugo",
+                "--source",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated",
+                "--destination",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 9.394350219000014,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 4795028
+            },
+            {
+              "stage": "measured-hugo-paths",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "restore",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 4.142488360999967,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 282860
+            },
+            {
+              "stage": "measured-hugo-pagefind",
+              "command": [
+                "pnpm",
+                "exec",
+                "pagefind",
+                "--site",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 197.330585555,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 14874492
+            }
+          ]
+        },
+        "totals": {
+          "eleventy": 613.797912848,
+          "hugo": 239.38204553999998
+        },
+        "strictParity": false,
+        "outputs": {
+          "eleventy": {
+            "bytes": 936169096,
+            "files": 25186,
+            "html": 12101,
+            "indexed": 10307
+          },
+          "hugo": {
+            "bytes": 892925119,
+            "files": 25186,
+            "html": 12101,
+            "indexed": 10307
+          }
+        }
+      },
+      "manifest": {
+        "baselineSha": "8acbf0d1ef8652fb5153341e6a47f9f73204a4b4",
+        "contentSha": "f8a8939248be4c1d4af6072381c06a4a79d00223",
+        "hugoVersion": "0.165.0",
+        "stage": "paired-comparison",
+        "candidateSha": "3f5b5eb22447249bfcb0a7c707a3610dd801c4a3",
+        "environment": {
+          "node": "v22.19.0",
+          "platform": "linux",
+          "cpu": "AMD EPYC 9V74 80-Core Processor",
+          "cpuCount": 4,
+          "totalMemory": 16766410752,
+          "runnerImage": "ubuntu24",
+          "runnerImageVersion": "20260907.300.1",
+          "runId": "34701335727",
+          "attempt": "1"
+        },
+        "siteLockHash": "b994651e0e58568ab358483a818cc432ef97b22a041baa2c9974eb4c594aee4b",
+        "toolsLockHash": "5a8ec05033d351a4f7014203e3596fcb25063171b392738a7be49de14d614973",
+        "pnpm": "10.14.0",
+        "pagefindVersionSource": "Pinned site pnpm-lock.yaml; runtime version recorded by Pagefind stage log",
+        "htmlInventoryScope": "DOM eligibility, not actual indexed URLs"
+      },
+      "sourceAfter": {
+        "unchanged": true,
+        "before": "36c5a16c2029b5ad8a67082850cc1cce277076257e9fe80669188f20319cf272",
+        "after": "36c5a16c2029b5ad8a67082850cc1cce277076257e9fe80669188f20319cf272"
+      },
+      "nativeVersions": {
+        "hugo": "hugo v0.165.0-76a5e1880ab46688155b02e99bab9be2a6134492+extended linux/amd64 BuildDate=2026-08-12T14:26:28Z VendorInfo=gohugoio",
+        "renderer": "native-hugo",
+        "nativeLockHash": "a68ec1597f07426c69622e408408ab8dc21b1a10cb43e3ed7287efd59dab820f"
+      },
+      "nativeAcceptance": {
+        "passed": true,
+        "failures": [],
+        "orderChanges": 472,
+        "presentationDifferences": [
+          "reading: /content/posts/Navigating_AI_Wave_Brain_Science_Future_Strategy/",
+          "index: /content/notes/jwEYTEbfprw/",
+          "index: /content/posts/stock_tokenization_invest_pre_ipo_Gemini/"
+        ]
+      },
+      "priming": [],
+      "installation": {
+        "stage": "install",
+        "command": [
+          "pnpm",
+          "install",
+          "--frozen-lockfile"
+        ],
+        "seconds": 1.060574536,
+        "exitCode": 0,
+        "signal": null,
+        "peakMemoryKiB": 213064
+      },
+      "jobId": 103573522038,
+      "wallSeconds": 1510.0,
+      "setupAndTestsSeconds": 82.0,
+      "postBuildValidationAndReportSeconds": 465.664877,
+      "sourceVerificationSeconds": 10.0,
+      "uploadSeconds": 7.0,
+      "package": {
+        "stage": "package",
+        "command": [
+          "tar",
+          "-czf",
+          "../../../artifacts/native-previews/baseline-preview.tar.gz",
+          "public"
+        ],
+        "seconds": 34.016371301,
+        "exitCode": 0,
+        "signal": null,
+        "peakMemoryKiB": 3216
+      },
+      "hugo-package": {
+        "stage": "hugo-package",
+        "command": [
+          "tar",
+          "-czf",
+          "../../../artifacts/native-previews/candidate-preview.tar.gz",
+          "public"
+        ],
+        "seconds": 33.769025025000005,
+        "exitCode": 0,
+        "signal": null,
+        "peakMemoryKiB": 3216
+      }
+    },
+    {
+      "name": "cold-2",
+      "pair": {
+        "mode": "cold",
+        "repetition": 2,
+        "order": [
+          "hugo",
+          "eleventy"
+        ],
+        "prime": false,
+        "environment": {
+          "node": "v22.19.0",
+          "platform": "linux",
+          "cpu": "AMD EPYC 7763 64-Core Processor",
+          "cpuCount": 4,
+          "totalMemory": 16766406656,
+          "runnerImage": "ubuntu24",
+          "runnerImageVersion": "20260907.300.1",
+          "runId": "34701335727",
+          "attempt": "1"
+        },
+        "sourceBefore": "05c6f66c937219c1ccd44cbf5df9112591e8671242a679fbf65a0cd2662c0ec0",
+        "status": "completed",
+        "inputFingerprint": "05c6f66c937219c1ccd44cbf5df9112591e8671242a679fbf65a0cd2662c0ec0",
+        "sourceUnchanged": true,
+        "addition": null,
+        "results": {
+          "eleventy": [
+            {
+              "stage": "measured-eleventy",
+              "command": [
+                "pnpm",
+                "exec",
+                "eleventy",
+                "--output",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured/public"
+              ],
+              "seconds": 402.298198589,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 3495592
+            },
+            {
+              "stage": "measured-pagefind",
+              "command": [
+                "pnpm",
+                "exec",
+                "pagefind",
+                "--site",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured/public"
+              ],
+              "seconds": 206.213431401,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 14910916
+            }
+          ],
+          "hugo": [
+            {
+              "stage": "measured-hugo-prepare",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "source",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/baseline",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/legacy"
+              ],
+              "seconds": 0.727543044,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 257348
+            },
+            {
+              "stage": "measured-hugo-adapt",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "prepare",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/legacy",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated"
+              ],
+              "seconds": 27.704146623000003,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 1288232
+            },
+            {
+              "stage": "measured-hugo",
+              "command": [
+                "hugo",
+                "--source",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated",
+                "--destination",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 9.843527924000002,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 4564092
+            },
+            {
+              "stage": "measured-hugo-paths",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "restore",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 4.992628418000001,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 270596
+            },
+            {
+              "stage": "measured-hugo-pagefind",
+              "command": [
+                "pnpm",
+                "exec",
+                "pagefind",
+                "--site",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 226.364862059,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 14553932
+            }
+          ]
+        },
+        "totals": {
+          "eleventy": 608.51162999,
+          "hugo": 269.632708068
+        },
+        "strictParity": false,
+        "outputs": {
+          "eleventy": {
+            "bytes": 936169096,
+            "files": 25186,
+            "html": 12101,
+            "indexed": 10307
+          },
+          "hugo": {
+            "bytes": 892925119,
+            "files": 25186,
+            "html": 12101,
+            "indexed": 10307
+          }
+        }
+      },
+      "manifest": {
+        "baselineSha": "8acbf0d1ef8652fb5153341e6a47f9f73204a4b4",
+        "contentSha": "f8a8939248be4c1d4af6072381c06a4a79d00223",
+        "hugoVersion": "0.165.0",
+        "stage": "paired-comparison",
+        "candidateSha": "3f5b5eb22447249bfcb0a7c707a3610dd801c4a3",
+        "environment": {
+          "node": "v22.19.0",
+          "platform": "linux",
+          "cpu": "AMD EPYC 7763 64-Core Processor",
+          "cpuCount": 4,
+          "totalMemory": 16766406656,
+          "runnerImage": "ubuntu24",
+          "runnerImageVersion": "20260907.300.1",
+          "runId": "34701335727",
+          "attempt": "1"
+        },
+        "siteLockHash": "b994651e0e58568ab358483a818cc432ef97b22a041baa2c9974eb4c594aee4b",
+        "toolsLockHash": "5a8ec05033d351a4f7014203e3596fcb25063171b392738a7be49de14d614973",
+        "pnpm": "10.14.0",
+        "pagefindVersionSource": "Pinned site pnpm-lock.yaml; runtime version recorded by Pagefind stage log",
+        "htmlInventoryScope": "DOM eligibility, not actual indexed URLs"
+      },
+      "sourceAfter": {
+        "unchanged": true,
+        "before": "36c5a16c2029b5ad8a67082850cc1cce277076257e9fe80669188f20319cf272",
+        "after": "36c5a16c2029b5ad8a67082850cc1cce277076257e9fe80669188f20319cf272"
+      },
+      "nativeVersions": {
+        "hugo": "hugo v0.165.0-76a5e1880ab46688155b02e99bab9be2a6134492+extended linux/amd64 BuildDate=2026-08-12T14:26:28Z VendorInfo=gohugoio",
+        "renderer": "native-hugo",
+        "nativeLockHash": "a68ec1597f07426c69622e408408ab8dc21b1a10cb43e3ed7287efd59dab820f"
+      },
+      "nativeAcceptance": {
+        "passed": true,
+        "failures": [],
+        "orderChanges": 472,
+        "presentationDifferences": [
+          "reading: /content/posts/Navigating_AI_Wave_Brain_Science_Future_Strategy/",
+          "index: /content/notes/jwEYTEbfprw/",
+          "index: /content/posts/stock_tokenization_invest_pre_ipo_Gemini/"
+        ]
+      },
+      "priming": [],
+      "installation": {
+        "stage": "install",
+        "command": [
+          "pnpm",
+          "install",
+          "--frozen-lockfile"
+        ],
+        "seconds": 1.253024088,
+        "exitCode": 0,
+        "signal": null,
+        "peakMemoryKiB": 216076
+      },
+      "jobId": 103573522023,
+      "wallSeconds": 1504.0,
+      "setupAndTestsSeconds": 88.0,
+      "postBuildValidationAndReportSeconds": 506.639368,
+      "sourceVerificationSeconds": 16.0,
+      "uploadSeconds": 3.0
+    },
+    {
+      "name": "cold-3",
+      "pair": {
+        "mode": "cold",
+        "repetition": 3,
+        "order": [
+          "eleventy",
+          "hugo"
+        ],
+        "prime": false,
+        "environment": {
+          "node": "v22.19.0",
+          "platform": "linux",
+          "cpu": "INTEL(R) XEON(R) PLATINUM 8573C",
+          "cpuCount": 4,
+          "totalMemory": 16765378560,
+          "runnerImage": "ubuntu24",
+          "runnerImageVersion": "20260907.300.1",
+          "runId": "34701335727",
+          "attempt": "1"
+        },
+        "sourceBefore": "05c6f66c937219c1ccd44cbf5df9112591e8671242a679fbf65a0cd2662c0ec0",
+        "status": "completed",
+        "inputFingerprint": "05c6f66c937219c1ccd44cbf5df9112591e8671242a679fbf65a0cd2662c0ec0",
+        "sourceUnchanged": true,
+        "addition": null,
+        "results": {
+          "eleventy": [
+            {
+              "stage": "measured-eleventy",
+              "command": [
+                "pnpm",
+                "exec",
+                "eleventy",
+                "--output",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured/public"
+              ],
+              "seconds": 335.43940826399995,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 3550896
+            },
+            {
+              "stage": "measured-pagefind",
+              "command": [
+                "pnpm",
+                "exec",
+                "pagefind",
+                "--site",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured/public"
+              ],
+              "seconds": 203.00868680299993,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 14904280
+            }
+          ],
+          "hugo": [
+            {
+              "stage": "measured-hugo-prepare",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "source",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/baseline",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/legacy"
+              ],
+              "seconds": 0.985043687999947,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 255704
+            },
+            {
+              "stage": "measured-hugo-adapt",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "prepare",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/legacy",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated"
+              ],
+              "seconds": 25.340008548999904,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 1278500
+            },
+            {
+              "stage": "measured-hugo",
+              "command": [
+                "hugo",
+                "--source",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated",
+                "--destination",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 9.15883633900003,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 4764200
+            },
+            {
+              "stage": "measured-hugo-paths",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "restore",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 5.150906969999895,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 278016
+            },
+            {
+              "stage": "measured-hugo-pagefind",
+              "command": [
+                "pnpm",
+                "exec",
+                "pagefind",
+                "--site",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 200.3499234079999,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 14965856
+            }
+          ]
+        },
+        "totals": {
+          "eleventy": 538.4480950669999,
+          "hugo": 240.98471895399967
+        },
+        "strictParity": false,
+        "outputs": {
+          "eleventy": {
+            "bytes": 936169096,
+            "files": 25186,
+            "html": 12101,
+            "indexed": 10307
+          },
+          "hugo": {
+            "bytes": 892925119,
+            "files": 25186,
+            "html": 12101,
+            "indexed": 10307
+          }
+        }
+      },
+      "manifest": {
+        "baselineSha": "8acbf0d1ef8652fb5153341e6a47f9f73204a4b4",
+        "contentSha": "f8a8939248be4c1d4af6072381c06a4a79d00223",
+        "hugoVersion": "0.165.0",
+        "stage": "paired-comparison",
+        "candidateSha": "3f5b5eb22447249bfcb0a7c707a3610dd801c4a3",
+        "environment": {
+          "node": "v22.19.0",
+          "platform": "linux",
+          "cpu": "INTEL(R) XEON(R) PLATINUM 8573C",
+          "cpuCount": 4,
+          "totalMemory": 16765378560,
+          "runnerImage": "ubuntu24",
+          "runnerImageVersion": "20260907.300.1",
+          "runId": "34701335727",
+          "attempt": "1"
+        },
+        "siteLockHash": "b994651e0e58568ab358483a818cc432ef97b22a041baa2c9974eb4c594aee4b",
+        "toolsLockHash": "5a8ec05033d351a4f7014203e3596fcb25063171b392738a7be49de14d614973",
+        "pnpm": "10.14.0",
+        "pagefindVersionSource": "Pinned site pnpm-lock.yaml; runtime version recorded by Pagefind stage log",
+        "htmlInventoryScope": "DOM eligibility, not actual indexed URLs"
+      },
+      "sourceAfter": {
+        "unchanged": true,
+        "before": "36c5a16c2029b5ad8a67082850cc1cce277076257e9fe80669188f20319cf272",
+        "after": "36c5a16c2029b5ad8a67082850cc1cce277076257e9fe80669188f20319cf272"
+      },
+      "nativeVersions": {
+        "hugo": "hugo v0.165.0-76a5e1880ab46688155b02e99bab9be2a6134492+extended linux/amd64 BuildDate=2026-08-12T14:26:28Z VendorInfo=gohugoio",
+        "renderer": "native-hugo",
+        "nativeLockHash": "a68ec1597f07426c69622e408408ab8dc21b1a10cb43e3ed7287efd59dab820f"
+      },
+      "nativeAcceptance": {
+        "passed": true,
+        "failures": [],
+        "orderChanges": 472,
+        "presentationDifferences": [
+          "reading: /content/posts/Navigating_AI_Wave_Brain_Science_Future_Strategy/",
+          "index: /content/notes/jwEYTEbfprw/",
+          "index: /content/posts/stock_tokenization_invest_pre_ipo_Gemini/"
+        ]
+      },
+      "priming": [],
+      "installation": {
+        "stage": "install",
+        "command": [
+          "pnpm",
+          "install",
+          "--frozen-lockfile"
+        ],
+        "seconds": 1.055029757,
+        "exitCode": 0,
+        "signal": null,
+        "peakMemoryKiB": 212208
+      },
+      "jobId": 103573522039,
+      "wallSeconds": 1258.0,
+      "setupAndTestsSeconds": 80.0,
+      "postBuildValidationAndReportSeconds": 373.234356,
+      "sourceVerificationSeconds": 12.0,
+      "uploadSeconds": 2.0
+    },
+    {
+      "name": "warm-1",
+      "pair": {
+        "mode": "warm",
+        "repetition": 1,
+        "order": [
+          "hugo",
+          "eleventy"
+        ],
+        "prime": true,
+        "environment": {
+          "node": "v22.19.0",
+          "platform": "linux",
+          "cpu": "AMD EPYC 7763 64-Core Processor",
+          "cpuCount": 4,
+          "totalMemory": 16766414848,
+          "runnerImage": "ubuntu24",
+          "runnerImageVersion": "20260907.300.1",
+          "runId": "34701335727",
+          "attempt": "1"
+        },
+        "sourceBefore": "05c6f66c937219c1ccd44cbf5df9112591e8671242a679fbf65a0cd2662c0ec0",
+        "status": "completed",
+        "inputFingerprint": "05c6f66c937219c1ccd44cbf5df9112591e8671242a679fbf65a0cd2662c0ec0",
+        "sourceUnchanged": true,
+        "addition": null,
+        "results": {
+          "eleventy": [
+            {
+              "stage": "measured-eleventy",
+              "command": [
+                "pnpm",
+                "exec",
+                "eleventy",
+                "--output",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured/public"
+              ],
+              "seconds": 368.1322971380001,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 3499068
+            },
+            {
+              "stage": "measured-pagefind",
+              "command": [
+                "pnpm",
+                "exec",
+                "pagefind",
+                "--site",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured/public"
+              ],
+              "seconds": 209.300628639,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 15004732
+            }
+          ],
+          "hugo": [
+            {
+              "stage": "measured-hugo-prepare",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "source",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/baseline",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/legacy"
+              ],
+              "seconds": 0.8741299749999307,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 255912
+            },
+            {
+              "stage": "measured-hugo-adapt",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "prepare",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/legacy",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/generated/slug-cache.json"
+              ],
+              "seconds": 13.111199018000043,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 1285672
+            },
+            {
+              "stage": "measured-hugo",
+              "command": [
+                "hugo",
+                "--source",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated",
+                "--destination",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 9.117660269999993,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 4811136
+            },
+            {
+              "stage": "measured-hugo-paths",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "restore",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 4.621359417999978,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 281684
+            },
+            {
+              "stage": "measured-hugo-pagefind",
+              "command": [
+                "pnpm",
+                "exec",
+                "pagefind",
+                "--site",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 214.94223517099988,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 14964484
+            }
+          ]
+        },
+        "totals": {
+          "eleventy": 577.4329257770002,
+          "hugo": 242.66658385199983
+        },
+        "strictParity": false,
+        "outputs": {
+          "eleventy": {
+            "bytes": 936169096,
+            "files": 25186,
+            "html": 12101,
+            "indexed": 10307
+          },
+          "hugo": {
+            "bytes": 892925119,
+            "files": 25186,
+            "html": 12101,
+            "indexed": 10307
+          }
+        }
+      },
+      "manifest": {
+        "baselineSha": "8acbf0d1ef8652fb5153341e6a47f9f73204a4b4",
+        "contentSha": "f8a8939248be4c1d4af6072381c06a4a79d00223",
+        "hugoVersion": "0.165.0",
+        "stage": "paired-comparison",
+        "candidateSha": "3f5b5eb22447249bfcb0a7c707a3610dd801c4a3",
+        "environment": {
+          "node": "v22.19.0",
+          "platform": "linux",
+          "cpu": "AMD EPYC 7763 64-Core Processor",
+          "cpuCount": 4,
+          "totalMemory": 16766414848,
+          "runnerImage": "ubuntu24",
+          "runnerImageVersion": "20260907.300.1",
+          "runId": "34701335727",
+          "attempt": "1"
+        },
+        "siteLockHash": "b994651e0e58568ab358483a818cc432ef97b22a041baa2c9974eb4c594aee4b",
+        "toolsLockHash": "5a8ec05033d351a4f7014203e3596fcb25063171b392738a7be49de14d614973",
+        "pnpm": "10.14.0",
+        "pagefindVersionSource": "Pinned site pnpm-lock.yaml; runtime version recorded by Pagefind stage log",
+        "htmlInventoryScope": "DOM eligibility, not actual indexed URLs"
+      },
+      "sourceAfter": {
+        "unchanged": true,
+        "before": "36c5a16c2029b5ad8a67082850cc1cce277076257e9fe80669188f20319cf272",
+        "after": "36c5a16c2029b5ad8a67082850cc1cce277076257e9fe80669188f20319cf272"
+      },
+      "nativeVersions": {
+        "hugo": "hugo v0.165.0-76a5e1880ab46688155b02e99bab9be2a6134492+extended linux/amd64 BuildDate=2026-08-12T14:26:28Z VendorInfo=gohugoio",
+        "renderer": "native-hugo",
+        "nativeLockHash": "a68ec1597f07426c69622e408408ab8dc21b1a10cb43e3ed7287efd59dab820f"
+      },
+      "nativeAcceptance": {
+        "passed": true,
+        "failures": [],
+        "orderChanges": 466,
+        "presentationDifferences": [
+          "reading: /content/posts/Navigating_AI_Wave_Brain_Science_Future_Strategy/",
+          "index: /content/notes/jwEYTEbfprw/",
+          "index: /content/posts/stock_tokenization_invest_pre_ipo_Gemini/"
+        ]
+      },
+      "priming": [
+        {
+          "stage": "prime-eleventy",
+          "command": [
+            "pnpm",
+            "exec",
+            "eleventy",
+            "--output",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime/public"
+          ],
+          "seconds": 414.822846614,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 3589924
+        },
+        {
+          "stage": "prime-hugo-adapt",
+          "command": [
+            "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+            "--import",
+            "tsx",
+            "src/cli.ts",
+            "prepare",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/legacy",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/generated"
+          ],
+          "seconds": 27.683564342999997,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 1284568
+        },
+        {
+          "stage": "prime-hugo-pagefind",
+          "command": [
+            "pnpm",
+            "exec",
+            "pagefind",
+            "--site",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/public"
+          ],
+          "seconds": 213.34986882,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 14730740
+        },
+        {
+          "stage": "prime-hugo-paths",
+          "command": [
+            "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+            "--import",
+            "tsx",
+            "src/cli.ts",
+            "restore",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/generated",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/public"
+          ],
+          "seconds": 5.017539637000001,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 304336
+        },
+        {
+          "stage": "prime-hugo-prepare",
+          "command": [
+            "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+            "--import",
+            "tsx",
+            "src/cli.ts",
+            "source",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/baseline",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/legacy"
+          ],
+          "seconds": 0.7641530980000002,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 262504
+        },
+        {
+          "stage": "prime-hugo",
+          "command": [
+            "hugo",
+            "--source",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/generated",
+            "--destination",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/public"
+          ],
+          "seconds": 9.908638094000002,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 4460276
+        },
+        {
+          "stage": "prime-pagefind",
+          "command": [
+            "pnpm",
+            "exec",
+            "pagefind",
+            "--site",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime/public"
+          ],
+          "seconds": 270.84274805100006,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 14992416
+        }
+      ],
+      "installation": {
+        "stage": "install",
+        "command": [
+          "pnpm",
+          "install",
+          "--frozen-lockfile"
+        ],
+        "seconds": 1.090741592,
+        "exitCode": 0,
+        "signal": null,
+        "peakMemoryKiB": 211560
+      },
+      "jobId": 103573522028,
+      "wallSeconds": 2331.0,
+      "setupAndTestsSeconds": 84.0,
+      "postBuildValidationAndReportSeconds": 452.56495,
+      "sourceVerificationSeconds": 13.0,
+      "uploadSeconds": 3.0
+    },
+    {
+      "name": "warm-2",
+      "pair": {
+        "mode": "warm",
+        "repetition": 2,
+        "order": [
+          "eleventy",
+          "hugo"
+        ],
+        "prime": true,
+        "environment": {
+          "node": "v22.19.0",
+          "platform": "linux",
+          "cpu": "AMD EPYC 7763 64-Core Processor",
+          "cpuCount": 4,
+          "totalMemory": 16766414848,
+          "runnerImage": "ubuntu24",
+          "runnerImageVersion": "20260907.300.1",
+          "runId": "34701335727",
+          "attempt": "1"
+        },
+        "sourceBefore": "05c6f66c937219c1ccd44cbf5df9112591e8671242a679fbf65a0cd2662c0ec0",
+        "status": "completed",
+        "inputFingerprint": "05c6f66c937219c1ccd44cbf5df9112591e8671242a679fbf65a0cd2662c0ec0",
+        "sourceUnchanged": true,
+        "addition": null,
+        "results": {
+          "eleventy": [
+            {
+              "stage": "measured-eleventy",
+              "command": [
+                "pnpm",
+                "exec",
+                "eleventy",
+                "--output",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured/public"
+              ],
+              "seconds": 481.29678630600006,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 3633280
+            },
+            {
+              "stage": "measured-pagefind",
+              "command": [
+                "pnpm",
+                "exec",
+                "pagefind",
+                "--site",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured/public"
+              ],
+              "seconds": 232.800992908,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 14825096
+            }
+          ],
+          "hugo": [
+            {
+              "stage": "measured-hugo-prepare",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "source",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/baseline",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/legacy"
+              ],
+              "seconds": 0.9370033759998623,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 256212
+            },
+            {
+              "stage": "measured-hugo-adapt",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "prepare",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/legacy",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/generated/slug-cache.json"
+              ],
+              "seconds": 16.82605988899991,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 1283096
+            },
+            {
+              "stage": "measured-hugo",
+              "command": [
+                "hugo",
+                "--source",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated",
+                "--destination",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 9.454296193000163,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 5284264
+            },
+            {
+              "stage": "measured-hugo-paths",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "restore",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 4.6556387070000635,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 268256
+            },
+            {
+              "stage": "measured-hugo-pagefind",
+              "command": [
+                "pnpm",
+                "exec",
+                "pagefind",
+                "--site",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 260.46877079800004,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 14646276
+            }
+          ]
+        },
+        "totals": {
+          "eleventy": 714.0977792140001,
+          "hugo": 292.34176896300005
+        },
+        "strictParity": false,
+        "outputs": {
+          "eleventy": {
+            "bytes": 936169096,
+            "files": 25186,
+            "html": 12101,
+            "indexed": 10307
+          },
+          "hugo": {
+            "bytes": 892925119,
+            "files": 25186,
+            "html": 12101,
+            "indexed": 10307
+          }
+        }
+      },
+      "manifest": {
+        "baselineSha": "8acbf0d1ef8652fb5153341e6a47f9f73204a4b4",
+        "contentSha": "f8a8939248be4c1d4af6072381c06a4a79d00223",
+        "hugoVersion": "0.165.0",
+        "stage": "paired-comparison",
+        "candidateSha": "3f5b5eb22447249bfcb0a7c707a3610dd801c4a3",
+        "environment": {
+          "node": "v22.19.0",
+          "platform": "linux",
+          "cpu": "AMD EPYC 7763 64-Core Processor",
+          "cpuCount": 4,
+          "totalMemory": 16766414848,
+          "runnerImage": "ubuntu24",
+          "runnerImageVersion": "20260907.300.1",
+          "runId": "34701335727",
+          "attempt": "1"
+        },
+        "siteLockHash": "b994651e0e58568ab358483a818cc432ef97b22a041baa2c9974eb4c594aee4b",
+        "toolsLockHash": "5a8ec05033d351a4f7014203e3596fcb25063171b392738a7be49de14d614973",
+        "pnpm": "10.14.0",
+        "pagefindVersionSource": "Pinned site pnpm-lock.yaml; runtime version recorded by Pagefind stage log",
+        "htmlInventoryScope": "DOM eligibility, not actual indexed URLs"
+      },
+      "sourceAfter": {
+        "unchanged": true,
+        "before": "36c5a16c2029b5ad8a67082850cc1cce277076257e9fe80669188f20319cf272",
+        "after": "36c5a16c2029b5ad8a67082850cc1cce277076257e9fe80669188f20319cf272"
+      },
+      "nativeVersions": {
+        "hugo": "hugo v0.165.0-76a5e1880ab46688155b02e99bab9be2a6134492+extended linux/amd64 BuildDate=2026-08-12T14:26:28Z VendorInfo=gohugoio",
+        "renderer": "native-hugo",
+        "nativeLockHash": "a68ec1597f07426c69622e408408ab8dc21b1a10cb43e3ed7287efd59dab820f"
+      },
+      "nativeAcceptance": {
+        "passed": true,
+        "failures": [],
+        "orderChanges": 472,
+        "presentationDifferences": [
+          "reading: /content/posts/Navigating_AI_Wave_Brain_Science_Future_Strategy/",
+          "index: /content/notes/jwEYTEbfprw/",
+          "index: /content/posts/stock_tokenization_invest_pre_ipo_Gemini/"
+        ]
+      },
+      "priming": [
+        {
+          "stage": "prime-eleventy",
+          "command": [
+            "pnpm",
+            "exec",
+            "eleventy",
+            "--output",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime/public"
+          ],
+          "seconds": 450.613243809,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 3588600
+        },
+        {
+          "stage": "prime-hugo-adapt",
+          "command": [
+            "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+            "--import",
+            "tsx",
+            "src/cli.ts",
+            "prepare",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/legacy",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/generated"
+          ],
+          "seconds": 32.264147368,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 1275644
+        },
+        {
+          "stage": "prime-hugo-pagefind",
+          "command": [
+            "pnpm",
+            "exec",
+            "pagefind",
+            "--site",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/public"
+          ],
+          "seconds": 182.50691683300002,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 14826096
+        },
+        {
+          "stage": "prime-hugo-paths",
+          "command": [
+            "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+            "--import",
+            "tsx",
+            "src/cli.ts",
+            "restore",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/generated",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/public"
+          ],
+          "seconds": 4.838600165000069,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 295440
+        },
+        {
+          "stage": "prime-hugo-prepare",
+          "command": [
+            "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+            "--import",
+            "tsx",
+            "src/cli.ts",
+            "source",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/baseline",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/legacy"
+          ],
+          "seconds": 1.0621031649999786,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 251724
+        },
+        {
+          "stage": "prime-hugo",
+          "command": [
+            "hugo",
+            "--source",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/generated",
+            "--destination",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/public"
+          ],
+          "seconds": 9.60792215499992,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 4841980
+        },
+        {
+          "stage": "prime-pagefind",
+          "command": [
+            "pnpm",
+            "exec",
+            "pagefind",
+            "--site",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime/public"
+          ],
+          "seconds": 204.75649508299998,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 14810532
+        }
+      ],
+      "installation": {
+        "stage": "install",
+        "command": [
+          "pnpm",
+          "install",
+          "--frozen-lockfile"
+        ],
+        "seconds": 1.113099074,
+        "exitCode": 0,
+        "signal": null,
+        "peakMemoryKiB": 212764
+      },
+      "jobId": 103573522092,
+      "wallSeconds": 2507.0,
+      "setupAndTestsSeconds": 84.0,
+      "postBuildValidationAndReportSeconds": 497.099568,
+      "sourceVerificationSeconds": 16.0,
+      "uploadSeconds": 2.0
+    },
+    {
+      "name": "warm-3",
+      "pair": {
+        "mode": "warm",
+        "repetition": 3,
+        "order": [
+          "hugo",
+          "eleventy"
+        ],
+        "prime": true,
+        "environment": {
+          "node": "v22.19.0",
+          "platform": "linux",
+          "cpu": "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+          "cpuCount": 4,
+          "totalMemory": 16765378560,
+          "runnerImage": "ubuntu24",
+          "runnerImageVersion": "20260907.300.1",
+          "runId": "34701335727",
+          "attempt": "1"
+        },
+        "sourceBefore": "05c6f66c937219c1ccd44cbf5df9112591e8671242a679fbf65a0cd2662c0ec0",
+        "status": "completed",
+        "inputFingerprint": "05c6f66c937219c1ccd44cbf5df9112591e8671242a679fbf65a0cd2662c0ec0",
+        "sourceUnchanged": true,
+        "addition": null,
+        "results": {
+          "eleventy": [
+            {
+              "stage": "measured-eleventy",
+              "command": [
+                "pnpm",
+                "exec",
+                "eleventy",
+                "--output",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured/public"
+              ],
+              "seconds": 539.4057168490002,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 3597756
+            },
+            {
+              "stage": "measured-pagefind",
+              "command": [
+                "pnpm",
+                "exec",
+                "pagefind",
+                "--site",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured/public"
+              ],
+              "seconds": 209.79411358999997,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 14606624
+            }
+          ],
+          "hugo": [
+            {
+              "stage": "measured-hugo-prepare",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "source",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/baseline",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/legacy"
+              ],
+              "seconds": 0.8239891829999396,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 255724
+            },
+            {
+              "stage": "measured-hugo-adapt",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "prepare",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/legacy",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/generated/slug-cache.json"
+              ],
+              "seconds": 12.15713798999996,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 1284524
+            },
+            {
+              "stage": "measured-hugo",
+              "command": [
+                "hugo",
+                "--source",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated",
+                "--destination",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 9.267639488999965,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 4660184
+            },
+            {
+              "stage": "measured-hugo-paths",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "restore",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 3.5447643580000148,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 285624
+            },
+            {
+              "stage": "measured-hugo-pagefind",
+              "command": [
+                "pnpm",
+                "exec",
+                "pagefind",
+                "--site",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 228.92850357200007,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 14920220
+            }
+          ]
+        },
+        "totals": {
+          "eleventy": 749.1998304390002,
+          "hugo": 254.72203459199994
+        },
+        "strictParity": false,
+        "outputs": {
+          "eleventy": {
+            "bytes": 936169096,
+            "files": 25186,
+            "html": 12101,
+            "indexed": 10307
+          },
+          "hugo": {
+            "bytes": 892925119,
+            "files": 25186,
+            "html": 12101,
+            "indexed": 10307
+          }
+        }
+      },
+      "manifest": {
+        "baselineSha": "8acbf0d1ef8652fb5153341e6a47f9f73204a4b4",
+        "contentSha": "f8a8939248be4c1d4af6072381c06a4a79d00223",
+        "hugoVersion": "0.165.0",
+        "stage": "paired-comparison",
+        "candidateSha": "3f5b5eb22447249bfcb0a7c707a3610dd801c4a3",
+        "environment": {
+          "node": "v22.19.0",
+          "platform": "linux",
+          "cpu": "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+          "cpuCount": 4,
+          "totalMemory": 16765378560,
+          "runnerImage": "ubuntu24",
+          "runnerImageVersion": "20260907.300.1",
+          "runId": "34701335727",
+          "attempt": "1"
+        },
+        "siteLockHash": "b994651e0e58568ab358483a818cc432ef97b22a041baa2c9974eb4c594aee4b",
+        "toolsLockHash": "5a8ec05033d351a4f7014203e3596fcb25063171b392738a7be49de14d614973",
+        "pnpm": "10.14.0",
+        "pagefindVersionSource": "Pinned site pnpm-lock.yaml; runtime version recorded by Pagefind stage log",
+        "htmlInventoryScope": "DOM eligibility, not actual indexed URLs"
+      },
+      "sourceAfter": {
+        "unchanged": true,
+        "before": "36c5a16c2029b5ad8a67082850cc1cce277076257e9fe80669188f20319cf272",
+        "after": "36c5a16c2029b5ad8a67082850cc1cce277076257e9fe80669188f20319cf272"
+      },
+      "nativeVersions": {
+        "hugo": "hugo v0.165.0-76a5e1880ab46688155b02e99bab9be2a6134492+extended linux/amd64 BuildDate=2026-08-12T14:26:28Z VendorInfo=gohugoio",
+        "renderer": "native-hugo",
+        "nativeLockHash": "a68ec1597f07426c69622e408408ab8dc21b1a10cb43e3ed7287efd59dab820f"
+      },
+      "nativeAcceptance": {
+        "passed": true,
+        "failures": [],
+        "orderChanges": 472,
+        "presentationDifferences": [
+          "reading: /content/posts/Navigating_AI_Wave_Brain_Science_Future_Strategy/",
+          "index: /content/notes/jwEYTEbfprw/",
+          "index: /content/posts/stock_tokenization_invest_pre_ipo_Gemini/"
+        ]
+      },
+      "priming": [
+        {
+          "stage": "prime-eleventy",
+          "command": [
+            "pnpm",
+            "exec",
+            "eleventy",
+            "--output",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime/public"
+          ],
+          "seconds": 538.565441417,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 3551548
+        },
+        {
+          "stage": "prime-hugo-adapt",
+          "command": [
+            "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+            "--import",
+            "tsx",
+            "src/cli.ts",
+            "prepare",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/legacy",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/generated"
+          ],
+          "seconds": 25.259271383999998,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 1286872
+        },
+        {
+          "stage": "prime-hugo-pagefind",
+          "command": [
+            "pnpm",
+            "exec",
+            "pagefind",
+            "--site",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/public"
+          ],
+          "seconds": 195.565315923,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 14723656
+        },
+        {
+          "stage": "prime-hugo-paths",
+          "command": [
+            "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+            "--import",
+            "tsx",
+            "src/cli.ts",
+            "restore",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/generated",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/public"
+          ],
+          "seconds": 3.462539273000002,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 298888
+        },
+        {
+          "stage": "prime-hugo-prepare",
+          "command": [
+            "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+            "--import",
+            "tsx",
+            "src/cli.ts",
+            "source",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/baseline",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/legacy"
+          ],
+          "seconds": 0.73961409,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 255924
+        },
+        {
+          "stage": "prime-hugo",
+          "command": [
+            "hugo",
+            "--source",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/generated",
+            "--destination",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/public"
+          ],
+          "seconds": 9.831668386999997,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 4979952
+        },
+        {
+          "stage": "prime-pagefind",
+          "command": [
+            "pnpm",
+            "exec",
+            "pagefind",
+            "--site",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime/public"
+          ],
+          "seconds": 195.59397209699998,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 14937388
+        }
+      ],
+      "installation": {
+        "stage": "install",
+        "command": [
+          "pnpm",
+          "install",
+          "--frozen-lockfile"
+        ],
+        "seconds": 1.110620643,
+        "exitCode": 0,
+        "signal": null,
+        "peakMemoryKiB": 212028
+      },
+      "jobId": 103573522178,
+      "wallSeconds": 2562.0,
+      "setupAndTestsSeconds": 81.0,
+      "postBuildValidationAndReportSeconds": 481.817845,
+      "sourceVerificationSeconds": 11.0,
+      "uploadSeconds": 2.0
+    },
+    {
+      "name": "added-1",
+      "pair": {
+        "mode": "added",
+        "repetition": 1,
+        "order": [
+          "eleventy",
+          "hugo"
+        ],
+        "prime": true,
+        "environment": {
+          "node": "v22.19.0",
+          "platform": "linux",
+          "cpu": "AMD EPYC 9V74 80-Core Processor",
+          "cpuCount": 4,
+          "totalMemory": 16766410752,
+          "runnerImage": "ubuntu24",
+          "runnerImageVersion": "20260907.300.1",
+          "runId": "34701335727",
+          "attempt": "1"
+        },
+        "sourceBefore": "05c6f66c937219c1ccd44cbf5df9112591e8671242a679fbf65a0cd2662c0ec0",
+        "status": "completed",
+        "inputFingerprint": "67585dafaf0c20bc36d2364e3456f53134135a47430c1cc40d1abf99f4720440",
+        "sourceUnchanged": true,
+        "addition": {
+          "path": "src/content/notes/comparison-added-article-056.md",
+          "sha256": "6ee205e3c54926f026bd28c9667a6b34ce6392c30a35e7fe96fababf729fd0ee"
+        },
+        "results": {
+          "eleventy": [
+            {
+              "stage": "measured-eleventy",
+              "command": [
+                "pnpm",
+                "exec",
+                "eleventy",
+                "--output",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured/public"
+              ],
+              "seconds": 387.74834126699994,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 3627840
+            },
+            {
+              "stage": "measured-pagefind",
+              "command": [
+                "pnpm",
+                "exec",
+                "pagefind",
+                "--site",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured/public"
+              ],
+              "seconds": 191.96374982799986,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 14851744
+            }
+          ],
+          "hugo": [
+            {
+              "stage": "measured-hugo-prepare",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "source",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/baseline",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/legacy"
+              ],
+              "seconds": 0.8692104220001493,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 259044
+            },
+            {
+              "stage": "measured-hugo-adapt",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "prepare",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/legacy",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/generated/slug-cache.json"
+              ],
+              "seconds": 14.581660093999933,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 1284084
+            },
+            {
+              "stage": "measured-hugo",
+              "command": [
+                "hugo",
+                "--source",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated",
+                "--destination",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 8.805090721999994,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 4788604
+            },
+            {
+              "stage": "measured-hugo-paths",
+              "command": [
+                "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+                "--import",
+                "tsx",
+                "src/cli.ts",
+                "restore",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 4.060342925000004,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 284360
+            },
+            {
+              "stage": "measured-hugo-pagefind",
+              "command": [
+                "pnpm",
+                "exec",
+                "pagefind",
+                "--site",
+                "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+              ],
+              "seconds": 227.25853191499993,
+              "exitCode": 0,
+              "signal": null,
+              "peakMemoryKiB": 14778120
+            }
+          ]
+        },
+        "totals": {
+          "eleventy": 579.7120910949998,
+          "hugo": 255.574836078
+        },
+        "strictParity": false,
+        "outputs": {
+          "eleventy": {
+            "bytes": 936176535,
+            "files": 25188,
+            "html": 12102,
+            "indexed": 10308
+          },
+          "hugo": {
+            "bytes": 892931515,
+            "files": 25188,
+            "html": 12102,
+            "indexed": 10308
+          }
+        }
+      },
+      "manifest": {
+        "baselineSha": "8acbf0d1ef8652fb5153341e6a47f9f73204a4b4",
+        "contentSha": "f8a8939248be4c1d4af6072381c06a4a79d00223",
+        "hugoVersion": "0.165.0",
+        "stage": "paired-comparison",
+        "candidateSha": "3f5b5eb22447249bfcb0a7c707a3610dd801c4a3",
+        "environment": {
+          "node": "v22.19.0",
+          "platform": "linux",
+          "cpu": "AMD EPYC 9V74 80-Core Processor",
+          "cpuCount": 4,
+          "totalMemory": 16766410752,
+          "runnerImage": "ubuntu24",
+          "runnerImageVersion": "20260907.300.1",
+          "runId": "34701335727",
+          "attempt": "1"
+        },
+        "siteLockHash": "b994651e0e58568ab358483a818cc432ef97b22a041baa2c9974eb4c594aee4b",
+        "toolsLockHash": "5a8ec05033d351a4f7014203e3596fcb25063171b392738a7be49de14d614973",
+        "pnpm": "10.14.0",
+        "pagefindVersionSource": "Pinned site pnpm-lock.yaml; runtime version recorded by Pagefind stage log",
+        "htmlInventoryScope": "DOM eligibility, not actual indexed URLs"
+      },
+      "sourceAfter": {
+        "unchanged": true,
+        "before": "36c5a16c2029b5ad8a67082850cc1cce277076257e9fe80669188f20319cf272",
+        "after": "36c5a16c2029b5ad8a67082850cc1cce277076257e9fe80669188f20319cf272"
+      },
+      "nativeVersions": {
+        "hugo": "hugo v0.165.0-76a5e1880ab46688155b02e99bab9be2a6134492+extended linux/amd64 BuildDate=2026-08-12T14:26:28Z VendorInfo=gohugoio",
+        "renderer": "native-hugo",
+        "nativeLockHash": "a68ec1597f07426c69622e408408ab8dc21b1a10cb43e3ed7287efd59dab820f"
+      },
+      "nativeAcceptance": {
+        "passed": true,
+        "failures": [],
+        "orderChanges": 466,
+        "presentationDifferences": [
+          "reading: /content/posts/Navigating_AI_Wave_Brain_Science_Future_Strategy/",
+          "index: /content/notes/jwEYTEbfprw/",
+          "index: /content/posts/stock_tokenization_invest_pre_ipo_Gemini/"
+        ]
+      },
+      "priming": [
+        {
+          "stage": "prime-eleventy",
+          "command": [
+            "pnpm",
+            "exec",
+            "eleventy",
+            "--output",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime/public"
+          ],
+          "seconds": 440.98358109400004,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 3600436
+        },
+        {
+          "stage": "prime-hugo-adapt",
+          "command": [
+            "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+            "--import",
+            "tsx",
+            "src/cli.ts",
+            "prepare",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/legacy",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/generated"
+          ],
+          "seconds": 27.585396239000023,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 1273340
+        },
+        {
+          "stage": "prime-hugo-pagefind",
+          "command": [
+            "pnpm",
+            "exec",
+            "pagefind",
+            "--site",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/public"
+          ],
+          "seconds": 204.62563365600002,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 14929556
+        },
+        {
+          "stage": "prime-hugo-paths",
+          "command": [
+            "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+            "--import",
+            "tsx",
+            "src/cli.ts",
+            "restore",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/generated",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/public"
+          ],
+          "seconds": 3.9686350210000527,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 281572
+        },
+        {
+          "stage": "prime-hugo-prepare",
+          "command": [
+            "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+            "--import",
+            "tsx",
+            "src/cli.ts",
+            "source",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/baseline",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/legacy"
+          ],
+          "seconds": 0.9440228009999264,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 255336
+        },
+        {
+          "stage": "prime-hugo",
+          "command": [
+            "hugo",
+            "--source",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/generated",
+            "--destination",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/public"
+          ],
+          "seconds": 8.963985833999933,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 4645364
+        },
+        {
+          "stage": "prime-pagefind",
+          "command": [
+            "pnpm",
+            "exec",
+            "pagefind",
+            "--site",
+            "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime/public"
+          ],
+          "seconds": 202.86045954199997,
+          "exitCode": 0,
+          "signal": null,
+          "peakMemoryKiB": 14680040
+        }
+      ],
+      "installation": {
+        "stage": "install",
+        "command": [
+          "pnpm",
+          "install",
+          "--frozen-lockfile"
+        ],
+        "seconds": 1.0542716399999998,
+        "exitCode": 0,
+        "signal": null,
+        "peakMemoryKiB": 213636
+      },
+      "jobId": 103573522035,
+      "wallSeconds": 2297.0,
+      "setupAndTestsSeconds": 82.0,
+      "postBuildValidationAndReportSeconds": 464.590987,
+      "sourceVerificationSeconds": 11.0,
+      "uploadSeconds": 2.0
+    }
+  ]
+}

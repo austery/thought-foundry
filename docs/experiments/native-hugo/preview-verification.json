@@ -1,0 +1,33 @@
+{
+  "artifactId": 10300283333,
+  "runId": 34701335727,
+  "runAttempt": 1,
+  "downloaded": true,
+  "entryPoints": [
+    "public/index.html",
+    "public/pagefind/pagefind.js",
+    "public/css/main.css",
+    "public/js/post.js"
+  ],
+  "archives": [
+    {
+      "name": "baseline-preview.tar.gz",
+      "bytes": 532713437,
+      "sha256": "e766b41e0e1f33c0297aa9c6c6baebd8bfce07a5e91b68fa0e2d673305f8560e"
+    },
+    {
+      "name": "candidate-preview.tar.gz",
+      "bytes": 529455698,
+      "sha256": "9c8ecdfc7821a55792771d9d6137daf857731127437da29d718c1a09f26b009d"
+    }
+  ],
+  "artifact": {
+    "created_at": "2026-09-12T15:33:51Z",
+    "digest": "sha256:7644d74e15710b79e4d2d25baebaf4ed7e82bcb53ff9e391a633b236f7716eec",
+    "expired": false,
+    "expires_at": "2026-09-15T15:33:46Z",
+    "id": 10300283333,
+    "name": "native-previews-34701335727-1",
+    "size_in_bytes": 1062169435
+  }
+}

@@ -6,24 +6,33 @@ import { measure, inventory, fingerprint, gitSha, environment } from './evidence
 
 const [operation, ...args] = process.argv.slice(2);
 function arg(index: number): string { const value = args[index]; if (!value) throw new Error(`Missing argument ${index}`); return value; }
-if (operation === 'summarize') {
+if (operation === 'summarize' || operation === 'native-summarize') {
   const { readCompletedPair, summarize, experimentIdentity, requireSameExperiment } = await import('./summary.js');
   const { files } = await import('./evidence.js');
   const root = resolve(arg(0));
-  const pairs = []; const identities: string[] = [];
+  const pairs = []; const identities: string[] = []; const nativeIdentities:string[]=[]; const nativeGates:unknown[]=[];
   for (const name of await files(root)) if (name.endsWith('/pair.json') || name === 'pair.json') {
     const dir=dirname(join(root,name));
     const json=async (file:string):Promise<unknown>=>JSON.parse(await readFile(join(dir,file),'utf8'));
     identities.push(experimentIdentity(await json('run-manifest.json'),await json('source-after.json'),await json('versions.json'),await json('measured-hugo-versions.json')));
     pairs.push(readCompletedPair(await json('pair.json')));
+    if(operation==='native-summarize') {
+      const versions=await json('measured-hugo-versions.json') as Record<string,unknown>;
+      if(versions.renderer!=='native-hugo'||typeof versions.nativeLockHash!=='string'||!/^[a-f0-9]{64}$/.test(versions.nativeLockHash))throw new Error('Missing native renderer identity');
+      nativeIdentities.push(versions.nativeLockHash);
+      const gate=await json('native-acceptance.json') as Record<string,unknown>;
+      if(gate.passed!==true||!Array.isArray(gate.failures)||gate.failures.length)throw new Error('Native compatibility failed');
+      nativeGates.push(gate);
+    }
   }
   const identity=JSON.parse(requireSameExperiment(identities)) as Record<string,string>;
   const result = summarize(pairs);
-  await writeFile(resolve(arg(1)),JSON.stringify({identity,pairs,...result},null,2));
-  console.log(JSON.stringify(result));
-} else if (operation === 'pair') {
+  const native=operation==='native-summarize' ? {nativeLockHash:requireSameExperiment(nativeIdentities),nativeCompatibilityPassed:true,nativeGates,recommendNativeMigration:result.performanceThreshold&&!result.needsFurtherInvestigation} : {};
+  await writeFile(resolve(arg(1)),JSON.stringify({identity,pairs,...result,...native},null,2));
+  console.log(JSON.stringify({...result,...native}));
+} else if (operation === 'pair' || operation === 'native-pair') {
   const { runPair } = await import('./pair.js');
-  await runPair(arg(0), Number(arg(1)), resolve(arg(2)), resolve(arg(3)), resolve(arg(4)));
+  await runPair(arg(0), Number(arg(1)), resolve(arg(2)), resolve(arg(3)), resolve(arg(4)), operation === 'native-pair');
 } else if (operation === 'candidate') {
   const { buildCandidate } = await import('./candidate.js');
   console.log(await buildCandidate(resolve(arg(0)), resolve(arg(1)), resolve(arg(2))));
