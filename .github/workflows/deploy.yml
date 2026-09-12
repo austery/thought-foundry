@@ -1,95 +1,74 @@
-# deploy.yml
-
 name: Build and Deploy to Public Repo
-
 on:
-  # 定时构建：每小时运行一次（批量发布内容更新）
   schedule:
     - cron: '5 * * * *'
-
-  # 保留手动触发，用于紧急部署
   workflow_dispatch:
-
-  # 代码/模板/配置变化时立即触发（不包括内容文件）
   push:
-    branches: ["main"]
+    branches: [main]
     paths-ignore:
-      # 忽略文档变化
       - '*.md'
       - 'docs/**'
-
-# 让 actions/cache、actions/checkout 等 action 的内部运行时使用 Node.js 24
-# 避免 "Node.js 20 actions are deprecated" 警告（与项目 Node 版本无关）
+permissions:
+  contents: read
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
-# 并发控制：自动取消旧的部署任务，只保留最新的
 concurrency:
   group: pages-deployment
-  cancel-in-progress: true
-
+  cancel-in-progress: false
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
     steps:
-      # 步骤 1: 签出站点代码（不包含 submodule — 内容单独拉取）
-      - name: Checkout Site Code
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Checkout content
         uses: actions/checkout@v4
-
-      # 步骤 1.5: 克隆内容仓库（只取最新 commit，删掉不需要的字幕文件）
-      - name: Checkout Content
+        with:
+          repository: austery/thought-foundry-content
+          ref: main
+          path: src/content
+          persist-credentials: false
+      - uses: ./.github/actions/setup-native
+      - name: Check native tools
         run: |
-          git clone --depth 1 \
-            https://github.com/austery/thought-foundry-content.git src/content
-          rm -rf src/content/raw_subtitles src/content/cleaned_subtitles
-
-      # 步骤 2: 设置 Node.js 环境并安装依赖（版本由 .nvmrc 控制，与本地保持一致）
-      - name: Install pnpm
-        uses: pnpm/action-setup@v4
+          pnpm --dir native check
+          pnpm --dir native test
+      - name: Build with native Hugo and full Pagefind
+        run: |
+          mkdir .native-production
+          pnpm --dir native exec node --import tsx src/release-cli.ts stage-source .. ../.native-production/source
+          pnpm --dir native prepare-site ../.native-production/source ../.native-production/staging
+          hugo --source .native-production/staging --destination "$GITHUB_WORKSPACE/.native-production/public"
+          pnpm --dir native restore ../.native-production/staging ../.native-production/public
+          pnpm --dir native exec pagefind --site ../.native-production/public
+          pnpm --dir native exec node --import tsx src/release-cli.ts prepare-publication ../.native-production/public
+          pnpm --dir native exec node --import tsx src/release-cli.ts manifest ../.native-production/public ../.native-production/manifest.json
+      - name: Record source and output identities
+        run: |
+          git rev-parse HEAD > .native-production/site-sha.txt
+          git -C src/content rev-parse HEAD > .native-production/content-sha.txt
+      - name: Retain deployment evidence
+        uses: actions/upload-artifact@v4
         with:
-          version: 10
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version-file: ".nvmrc"
-          cache: "pnpm"
-
-      # 步骤 2.5: 缓存 Eleventy 构建缓存（持久化 slug/pinyin 计算结果）
-      - name: Cache Eleventy Build Cache
-        uses: actions/cache@v4
-        with:
-          path: .eleventy-cache.json
-          # 缓存 key 基于 pnpm-lock.yaml（依赖变化时重建缓存）
-          key: eleventy-cache-${{ hashFiles('pnpm-lock.yaml') }}
-          # 如果精确匹配失败，尝试使用任何 eleventy-cache- 开头的缓存
-          restore-keys: |
-            eleventy-cache-
-
-      - name: Install dependencies
-        run: pnpm install --frozen-lockfile
-
-      # 步骤 3: 构建 Eleventy 网站
-      - name: Build with Eleventy
-        # 我们不再需要 NODE_ENV，因为 pathPrefix 已经被移除了
-        run: pnpm run build
-
-      # 步骤 4: 将构建好的 _site 文件夹内容推送到你的公开仓库
-      - name: Deploy to Public Repo
+          name: native-deployment-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            .native-production/manifest.json
+            .native-production/site-sha.txt
+            .native-production/content-sha.txt
+          include-hidden-files: true
+          if-no-files-found: error
+          retention-days: 90
+      - name: Deploy to existing public repository
         uses: peaceiris/actions-gh-pages@v4
         with:
-          # 使用你之前设置的部署密钥
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          # 你的公开部署仓库的名字 (请确保这里的用户名和仓库名完全正确)
           external_repository: austery/austery.github.io
-          # 从 _site 文件夹发布
-          publish_dir: ./_site
-          # 推送到公开仓库的 main 分支
+          publish_dir: ./.native-production/public
           publish_branch: main
-          # 这一行是新增的、非常关键的配置
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
-          # 每次 deploy 创建全新的 orphan commit，丢弃历史，防止 repo 体积无限增长
+          user_name: github-actions[bot]
+          user_email: github-actions[bot]@users.noreply.github.com
+          # Preserve the existing policy that prevents generated-history quota growth.
           force_orphan: true
-          # 提交信息
-          commit_message: ${{ github.event.head_commit.message }}
+          commit_message: Native Hugo build ${{ github.sha }} (run ${{ github.run_id }})

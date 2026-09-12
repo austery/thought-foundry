@@ -1,0 +1,28 @@
+name: Set up pinned native Hugo tools
+description: Install the exact native build toolchain used in migration validation
+runs:
+  using: composite
+  steps:
+    - uses: pnpm/action-setup@v4
+      with:
+        version: 10.14.0
+    - uses: actions/setup-node@v4
+      with:
+        node-version: '22.19.0'
+    - name: Install pinned Hugo
+      shell: bash
+      run: |
+        set -euo pipefail
+        tool_dir="$(mktemp -d "$RUNNER_TEMP/native-hugo.XXXXXX")"
+        cd "$tool_dir"
+        archive=hugo_extended_0.165.0_linux-amd64.tar.gz
+        curl --fail --location --retry 3 --output "$archive" "https://github.com/gohugoio/hugo/releases/download/v0.165.0/$archive"
+        curl --fail --location --retry 3 --output checksums.txt https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_0.165.0_checksums.txt
+        awk -v archive="$archive" '$2 == archive {print}' checksums.txt > selected-checksum.txt
+        test -s selected-checksum.txt
+        sha256sum --check selected-checksum.txt
+        tar -xzf "$archive" hugo
+        echo "$tool_dir" >> "$GITHUB_PATH"
+    - name: Install native dependencies
+      shell: bash
+      run: pnpm --dir native install --frozen-lockfile
