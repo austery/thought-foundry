@@ -1,0 +1,12 @@
+{
+  "stage": "hugo",
+  "command": [
+    "hugo",
+    "--destination",
+    "/Users/leipeng/Documents/Projects/thought-foundry/.worktrees/hugo-build-comparison/.benchmark/candidate-v4/public"
+  ],
+  "seconds": 3.003759749999999,
+  "exitCode": 1,
+  "signal": null,
+  "peakMemoryKiB": null
+}

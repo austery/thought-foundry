@@ -1,0 +1,16 @@
+{
+  "stage": "prime-hugo-adapt",
+  "command": [
+    "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+    "--import",
+    "tsx",
+    "src/cli.ts",
+    "adapt",
+    "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/legacy",
+    "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/generated"
+  ],
+  "seconds": 29.80245107499999,
+  "exitCode": 0,
+  "signal": null,
+  "peakMemoryKiB": 1279428
+}

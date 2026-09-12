@@ -1,0 +1,152 @@
+{
+  "mode": "cold",
+  "repetition": 2,
+  "order": [
+    "hugo",
+    "eleventy"
+  ],
+  "prime": false,
+  "environment": {
+    "node": "v22.19.0",
+    "platform": "linux",
+    "cpu": "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+    "cpuCount": 4,
+    "totalMemory": 16765378560,
+    "runnerImage": "ubuntu24",
+    "runnerImageVersion": "20260907.300.1",
+    "runId": "34674766444",
+    "attempt": "1"
+  },
+  "sourceBefore": "05c6f66c937219c1ccd44cbf5df9112591e8671242a679fbf65a0cd2662c0ec0",
+  "status": "completed",
+  "inputFingerprint": "05c6f66c937219c1ccd44cbf5df9112591e8671242a679fbf65a0cd2662c0ec0",
+  "sourceUnchanged": true,
+  "addition": null,
+  "results": {
+    "eleventy": [
+      {
+        "stage": "measured-eleventy",
+        "command": [
+          "pnpm",
+          "exec",
+          "eleventy",
+          "--output",
+          "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured/public"
+        ],
+        "seconds": 550.769862818,
+        "exitCode": 0,
+        "signal": null,
+        "peakMemoryKiB": 3618936
+      },
+      {
+        "stage": "measured-pagefind",
+        "command": [
+          "pnpm",
+          "exec",
+          "pagefind",
+          "--site",
+          "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured/public"
+        ],
+        "seconds": 198.23394838800002,
+        "exitCode": 0,
+        "signal": null,
+        "peakMemoryKiB": 14704068
+      }
+    ],
+    "hugo": [
+      {
+        "stage": "measured-hugo-prepare",
+        "command": [
+          "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+          "--import",
+          "tsx",
+          "src/cli.ts",
+          "prepare-candidate",
+          "/home/runner/work/thought-foundry/thought-foundry/.benchmark/baseline",
+          "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/legacy"
+        ],
+        "seconds": 0.5364933430000001,
+        "exitCode": 0,
+        "signal": null,
+        "peakMemoryKiB": 115336
+      },
+      {
+        "stage": "measured-hugo-adapt",
+        "command": [
+          "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+          "--import",
+          "tsx",
+          "src/cli.ts",
+          "adapt",
+          "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/legacy",
+          "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated"
+        ],
+        "seconds": 28.711091809,
+        "exitCode": 0,
+        "signal": null,
+        "peakMemoryKiB": 1291420
+      },
+      {
+        "stage": "measured-hugo",
+        "command": [
+          "hugo",
+          "--destination",
+          "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+        ],
+        "seconds": 6.747285745000001,
+        "exitCode": 0,
+        "signal": null,
+        "peakMemoryKiB": 4040340
+      },
+      {
+        "stage": "measured-hugo-paths",
+        "command": [
+          "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+          "--import",
+          "tsx",
+          "src/cli.ts",
+          "restore-paths",
+          "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/generated",
+          "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+        ],
+        "seconds": 2.8807714950000007,
+        "exitCode": 0,
+        "signal": null,
+        "peakMemoryKiB": 141588
+      },
+      {
+        "stage": "measured-hugo-pagefind",
+        "command": [
+          "pnpm",
+          "exec",
+          "pagefind",
+          "--site",
+          "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/public"
+        ],
+        "seconds": 190.768574368,
+        "exitCode": 0,
+        "signal": null,
+        "peakMemoryKiB": 14625256
+      }
+    ]
+  },
+  "totals": {
+    "eleventy": 749.003811206,
+    "hugo": 229.64421676
+  },
+  "strictParity": false,
+  "outputs": {
+    "eleventy": {
+      "bytes": 936169096,
+      "files": 25186,
+      "html": 12101,
+      "indexed": 10307
+    },
+    "hugo": {
+      "bytes": 936181764,
+      "files": 25186,
+      "html": 12101,
+      "indexed": 10307
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "identity": {
+    "baselineSha": "8acbf0d1ef8652fb5153341e6a47f9f73204a4b4",
+    "contentSha": "f8a8939248be4c1d4af6072381c06a4a79d00223",
+    "candidateSha": "80b1b82ece280c20c968435586219fb85ed1644b",
+    "siteLockHash": "b994651e0e58568ab358483a818cc432ef97b22a041baa2c9974eb4c594aee4b",
+    "toolsLockHash": "5a8ec05033d351a4f7014203e3596fcb25063171b392738a7be49de14d614973",
+    "pnpm": "10.14.0",
+    "node": "v22.19.0",
+    "runId": "34674766444",
+    "attempt": "1",
+    "@11ty/eleventy": "3.1.5",
+    "pagefind": "1.5.2",
+    "hugo": "hugo v0.165.0-76a5e1880ab46688155b02e99bab9be2a6134492+extended linux/amd64 BuildDate=2026-08-12T14:26:28Z VendorInfo=gohugoio",
+    "sourceFingerprint": "36c5a16c2029b5ad8a67082850cc1cce277076257e9fe80669188f20319cf272"
+  },
+  "pairs": [
+    {
+      "mode": "added",
+      "repetition": 1,
+      "totals": {
+        "eleventy": 721.933261834,
+        "hugo": 284.6222225920001
+      },
+      "strictParity": false
+    },
+    {
+      "mode": "cold",
+      "repetition": 1,
+      "totals": {
+        "eleventy": 679.9590683199999,
+        "hugo": 230.453175772
+      },
+      "strictParity": false
+    },
+    {
+      "mode": "cold",
+      "repetition": 2,
+      "totals": {
+        "eleventy": 749.003811206,
+        "hugo": 229.64421676
+      },
+      "strictParity": false
+    },
+    {
+      "mode": "cold",
+      "repetition": 3,
+      "totals": {
+        "eleventy": 604.4420538859999,
+        "hugo": 240.14571810899992
+      },
+      "strictParity": false
+    },
+    {
+      "mode": "warm",
+      "repetition": 1,
+      "totals": {
+        "eleventy": 640.2800382029999,
+        "hugo": 266.6405170070001
+      },
+      "strictParity": false
+    },
+    {
+      "mode": "warm",
+      "repetition": 2,
+      "totals": {
+        "eleventy": 571.4255717749999,
+        "hugo": 268.69960677399973
+      },
+      "strictParity": false
+    },
+    {
+      "mode": "warm",
+      "repetition": 3,
+      "totals": {
+        "eleventy": 612.0679314889999,
+        "hugo": 254.0963390619999
+      },
+      "strictParity": false
+    }
+  ],
+  "byMode": {
+    "cold": {
+      "eleventy": {
+        "median": 679.9590683199999,
+        "min": 604.4420538859999,
+        "max": 749.003811206
+      },
+      "hugo": {
+        "median": 230.453175772,
+        "min": 229.64421676,
+        "max": 240.14571810899992
+      },
+      "pairedSavings": [
+        {
+          "repetition": 1,
+          "seconds": 449.5058925479999,
+          "percent": 66.10778699644536
+        },
+        {
+          "repetition": 2,
+          "seconds": 519.3595944460001,
+          "percent": 69.34004696314683
+        },
+        {
+          "repetition": 3,
+          "seconds": 364.296335777,
+          "percent": 60.26985274021118
+        }
+      ]
+    },
+    "warm": {
+      "eleventy": {
+        "median": 612.0679314889999,
+        "min": 571.4255717749999,
+        "max": 640.2800382029999
+      },
+      "hugo": {
+        "median": 266.6405170070001,
+        "min": 254.0963390619999,
+        "max": 268.69960677399973
+      },
+      "pairedSavings": [
+        {
+          "repetition": 1,
+          "seconds": 373.6395211959998,
+          "percent": 58.35564111051327
+        },
+        {
+          "repetition": 2,
+          "seconds": 302.72596500100013,
+          "percent": 52.9773219739979
+        },
+        {
+          "repetition": 3,
+          "seconds": 357.97159242699996,
+          "percent": 58.485598413259375
+        }
+      ]
+    },
+    "added": {
+      "eleventy": {
+        "median": 721.933261834,
+        "min": 721.933261834,
+        "max": 721.933261834
+      },
+      "hugo": {
+        "median": 284.6222225920001,
+        "min": 284.6222225920001,
+        "max": 284.6222225920001
+      },
+      "pairedSavings": [
+        {
+          "repetition": 1,
+          "seconds": 437.3110392419998,
+          "percent": 60.57499527463999
+        }
+      ]
+    }
+  },
+  "warmMedianSaving": {
+    "seconds": 345.4274144819998,
+    "percent": 56.43612362465486
+  },
+  "performanceThreshold": true,
+  "compatibilityPassed": false,
+  "consistent": true,
+  "overlappingRanges": false,
+  "needsFurtherInvestigation": false,
+  "recommendMigration": false
+}

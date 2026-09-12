@@ -1,0 +1,14 @@
+{
+  "stage": "pagefind",
+  "command": [
+    "pnpm",
+    "exec",
+    "pagefind",
+    "--site",
+    "_site"
+  ],
+  "seconds": 194.396024886,
+  "exitCode": 0,
+  "signal": null,
+  "peakMemoryKiB": 14931168
+}

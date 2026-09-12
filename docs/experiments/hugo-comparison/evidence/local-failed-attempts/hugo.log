@@ -1,0 +1,29 @@
+Start building sites … 
+hugo v0.165.0+extended+withdeploy darwin/arm64 BuildDate=2026-08-12T14:26:28Z VendorInfo=Homebrew
+
+Total in 2870 ms
+ERROR error building site: assemble: failed to create page from pageMetaSource /document-119: "/Users/leipeng/Documents/Projects/thought-foundry/.worktrees/hugo-build-comparison/.benchmark/candidate-v4/generated/content/document-119.html:1:1": access denied: "text/html" is not whitelisted in policy "security.allowContent"; the current security configuration is:
+
+[security]
+  allowContent = ['! ^text/html$']
+  enableInlineShortcodes = false
+
+  [security.exec]
+    allow = ['^(dart-)?sass$', '^go$', '^git$', '^node$', '^postcss$']
+    osEnv = ['(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\w+|(XDG_CONFIG_)?HOME|USERPROFILE|SSH_AUTH_SOCK|DISPLAY|LANG|SYSTEMDRIVE|PROGRAMDATA)$']
+
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$']
+
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['(?i)^https?://[a-z0-9]', '! ^https?://\d+\.', '! (?i)localhost', '! (?i)^https?://[^/?#]*@']
+
+  [security.node]
+    [security.node.permissions]
+      allowAddons = ['tailwindcss']
+      allowChildProcess = ['tailwindcss']
+      allowRead = ['.']
+      allowWorker = ['tailwindcss']
+      allowWrite = []
+      disable = false

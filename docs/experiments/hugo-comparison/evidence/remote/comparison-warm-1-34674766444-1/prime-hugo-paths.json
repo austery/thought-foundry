@@ -1,0 +1,16 @@
+{
+  "stage": "prime-hugo-paths",
+  "command": [
+    "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+    "--import",
+    "tsx",
+    "src/cli.ts",
+    "restore-paths",
+    "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/generated",
+    "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/prime-hugo/public"
+  ],
+  "seconds": 3.1457158859999983,
+  "exitCode": 0,
+  "signal": null,
+  "peakMemoryKiB": 142996
+}

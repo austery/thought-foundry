@@ -1,10 +1,10 @@
 ---
 specId: SPEC-056
 title: Hugo Remote Build Comparison
-status: Ready for Implementation
+status: Evaluated
 priority: P1 - Core Feature
 creationDate: 2026-09-11
-lastUpdateDate: 2026-09-11
+lastUpdateDate: 2026-09-12
 owner: User (AI-Assisted)
 relatedSpecs: [ADR-001, SPEC-050, SPEC-051, SPEC-052, SPEC-054]
 tags: [hugo, eleventy, performance, github-actions, migration]
@@ -95,13 +95,13 @@ Recommend advancing toward migration only when there are zero unexplained compat
 ## 6. Acceptance Criteria
 
 - [x] The user approves the experiment contract and decision threshold.
-- [ ] Both engines independently build the identical complete content snapshot with reproducible versions.
-- [ ] Three measured pairs per cache mode include every required stage and failed attempt.
-- [ ] Added-article rebuild evidence is recorded independently from full-build results.
+- [x] Both engines independently build the identical complete content snapshot with reproducible versions.
+- [x] Three measured pairs per cache mode include every required stage and failed attempt.
+- [x] Added-article rebuild evidence is recorded independently from full-build results.
 - [ ] Full URL/index inventories and representative browser checks have no unexplained regressions.
-- [ ] Existing defects and intended differences are enumerated with evidence and disposition.
-- [ ] Workflow review confirms production credentials, caches, concurrency, and deployment are isolated.
-- [ ] A report states whether the decision threshold is met, with limitations and artifact/run links.
+- [x] Existing defects and intended differences are enumerated with evidence and disposition.
+- [x] Workflow review confirms production credentials, caches, concurrency, and deployment are isolated.
+- [x] A report states whether the decision threshold is met, with limitations and artifact/run links.
 
 ## 7. Status History
 
@@ -128,3 +128,7 @@ The experiment retains the existing Nunjucks presentation templates and collecti
 Hugo 0.165.0 panics for a reproduced legacy URL containing a colon. Generate pages at internal numeric routes and restore the exact legacy output paths afterward. This avoids modifying source filenames or publishing a new URL scheme. A full-build attempt started before staging finished also produced incomplete output during local development; that failed attempt is retained and excluded from performance claims. The committed candidate runner awaits every stage and aborts on nonzero exit.
 
 The candidate preserves Liquid preprocessing. One of 10,314 Markdown documents uses legacy indented-code semantics; the adapter renders that document with the pinned MarkdownIt parser and passes HTML to Hugo. The other 10,313 documents use Hugo Markdown rendering. The fallback is reported in adaptation.json and its work is included in adaptation timing.
+
+## Evaluation Outcome
+
+Seven remote pairs succeeded at candidate head `80b1b82ece280c20c968435586219fb85ed1644b`. Warm comparable-build median saving is 345.43 seconds (56.44%); the performance gate passes. Compatibility does not pass because navigation order and explicit rendering/index differences remain. The experiment is complete, and the remaining compatibility acceptance checkbox is intentionally open. See `docs/experiments/hugo-comparison/results.md`. Production and content repositories were not changed.

@@ -1,0 +1,13 @@
+{
+  "stage": "package",
+  "command": [
+    "tar",
+    "-czf",
+    "../baseline-preview.tar.gz",
+    "_site"
+  ],
+  "seconds": 29.980016301,
+  "exitCode": 0,
+  "signal": null,
+  "peakMemoryKiB": 3212
+}

@@ -1,0 +1,15 @@
+{
+  "sha": "f8a8939248be4c1d4af6072381c06a4a79d00223",
+  "fingerprint": "36c5a16c2029b5ad8a67082850cc1cce277076257e9fe80669188f20319cf272",
+  "environment": {
+    "node": "v22.19.0",
+    "platform": "linux",
+    "cpu": "AMD EPYC 7763 64-Core Processor",
+    "cpuCount": 4,
+    "totalMemory": 16766414848,
+    "runnerImage": "ubuntu24",
+    "runnerImageVersion": "20260907.300.1",
+    "runId": "34674766444",
+    "attempt": "1"
+  }
+}

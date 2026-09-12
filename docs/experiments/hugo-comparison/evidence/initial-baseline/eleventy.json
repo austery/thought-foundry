@@ -1,0 +1,12 @@
+{
+  "stage": "eleventy",
+  "command": [
+    "pnpm",
+    "exec",
+    "eleventy"
+  ],
+  "seconds": 440.85810302799996,
+  "exitCode": 0,
+  "signal": null,
+  "peakMemoryKiB": 3623132
+}

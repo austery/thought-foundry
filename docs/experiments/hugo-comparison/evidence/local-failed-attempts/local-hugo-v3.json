@@ -1,0 +1,12 @@
+{
+  "stage": "local-hugo-v3",
+  "command": [
+    "hugo",
+    "--destination",
+    "public"
+  ],
+  "seconds": 2.420319083,
+  "exitCode": 0,
+  "signal": null,
+  "peakMemoryKiB": null
+}

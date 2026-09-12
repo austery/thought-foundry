@@ -1,0 +1,16 @@
+{
+  "stage": "measured-hugo-prepare",
+  "command": [
+    "/opt/hostedtoolcache/node/22.19.0/x64/bin/node",
+    "--import",
+    "tsx",
+    "src/cli.ts",
+    "prepare-candidate",
+    "/home/runner/work/thought-foundry/thought-foundry/.benchmark/baseline",
+    "/home/runner/work/thought-foundry/thought-foundry/.benchmark/builds/measured-hugo/legacy"
+  ],
+  "seconds": 0.5364933430000001,
+  "exitCode": 0,
+  "signal": null,
+  "peakMemoryKiB": 115336
+}

@@ -1,0 +1,242 @@
+{
+  "comparison.json": {
+    "bytes": 35612,
+    "sha256": "92ec7c8aac6af80825fa409c84468cb8019115fee16d144ac93c6bf324d40c1e"
+  },
+  "eleventy-indexed.json": {
+    "bytes": 1225909,
+    "sha256": "c76fe884314d7baf20616a1c1f9c60d6d86194a6376b582410dbfecee1c50ce7"
+  },
+  "eleventy-inventory.json": {
+    "bytes": 22401585,
+    "sha256": "7103cbc2ac191c8b139727df90050877a26417a84ca02cb08ec707573005e868"
+  },
+  "hugo-indexed.json": {
+    "bytes": 1225909,
+    "sha256": "30ef992528baf9ffe07edf1e108909a912afaab354949808b7f7f74de4f4d35e"
+  },
+  "hugo-inventory.json": {
+    "bytes": 22401585,
+    "sha256": "5cde31bbe9d6e0348464922561411b2cda22da5dff2ab308ccdba1e2a1729586"
+  },
+  "input.json": {
+    "bytes": 221,
+    "sha256": "c81c29e2ec33aaec97b05e2116991e10ee146eee2d98d1240e24ed3f4a4b50d2"
+  },
+  "install.json": {
+    "bytes": 183,
+    "sha256": "b3f1dc5b8aeab4bce7901bd4c42f9000ba262f314f2e78c7c047aec95c5055c3"
+  },
+  "install.log": {
+    "bytes": 497,
+    "sha256": "cee969d78021fcb2926f03442628737862c89f1362c2aa6946b8ba98177d530d"
+  },
+  "install.memory": {
+    "bytes": 7,
+    "sha256": "e169dcec9185fd3fd7f11993233144db3e63a24ba18ea72231778aa09cdc5759"
+  },
+  "measured-eleventy.json": {
+    "bytes": 295,
+    "sha256": "5f5a2cd6a174a985015e92f4b4a41e29eabe27b1abacbc71bf25287dcd500b54"
+  },
+  "measured-eleventy.log": {
+    "bytes": 2247797,
+    "sha256": "70ca5dfcc3b86e83981c74517e070d20f71c686e078b0f4b5026610aaaef0683"
+  },
+  "measured-eleventy.memory": {
+    "bytes": 8,
+    "sha256": "8ae9e358d866c0f55e2ffc13f18941a38891d9b263923dd03913ac3320816cc6"
+  },
+  "measured-hugo-adapt.json": {
+    "bytes": 450,
+    "sha256": "6396c02b4ddbba5187f4276e45851a980101249efc51c8c325a2cf54d44c267d"
+  },
+  "measured-hugo-adapt.log": {
+    "bytes": 330,
+    "sha256": "f0a510079bf4b1b095fd0dbe6eb40d91a11046c459235fd4f862084d0302f445"
+  },
+  "measured-hugo-adapt.memory": {
+    "bytes": 8,
+    "sha256": "4d720196da904b89331f6992ef76d0d3c73bfeae39e7e1d48cd4fde1ce25c13d"
+  },
+  "measured-hugo-adaptation.json": {
+    "bytes": 129,
+    "sha256": "9e07ebf2f1c766a0fd7a6713eeb6bbc9b3d69bfdd516ba753c7f0efef421162a"
+  },
+  "measured-hugo-pagefind.json": {
+    "bytes": 305,
+    "sha256": "7f80c86abbfdcd977ebad613388c10fb8ddcc3d8afefc96258dc021c047b62ec"
+  },
+  "measured-hugo-pagefind.log": {
+    "bytes": 2513,
+    "sha256": "ea385e50dd23ed24b86d915501c1dcf9461943e6515ba5ef38e48d7383b85a4d"
+  },
+  "measured-hugo-pagefind.memory": {
+    "bytes": 9,
+    "sha256": "2512e0d03f5f8a7cba6bdff80f33dd464594ef3179619804b6966408eae33455"
+  },
+  "measured-hugo-paths.json": {
+    "bytes": 464,
+    "sha256": "810b6f52a8d8e766b774ee149595c76c54f5c02560775e2437f1bb0e6004f2c6"
+  },
+  "measured-hugo-paths.log": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "measured-hugo-paths.memory": {
+    "bytes": 7,
+    "sha256": "3d7c587c6da27fbb39447cbfc38e3e0c100072fdaa2dd6f38adb2105ee479e75"
+  },
+  "measured-hugo-prepare.json": {
+    "bytes": 563,
+    "sha256": "9cedbe40cac7291a6faa3e3339381427012535a7f5d9dc9c9dc7f1f1d55696c7"
+  },
+  "measured-hugo-prepare.log": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "measured-hugo-prepare.memory": {
+    "bytes": 7,
+    "sha256": "da74b9c203d90ac5b378b09c1b3eff6f9fbea800c31afe9a2c63bd6395d667ad"
+  },
+  "measured-hugo-versions.json": {
+    "bytes": 137,
+    "sha256": "6e69350f64806bd2e0e360aa5ef8cb8a187a99411423c1e04484aaff53ab0c00"
+  },
+  "measured-hugo.json": {
+    "bytes": 274,
+    "sha256": "1c497feaa75b305bb7fd816171b84dd42a2f6b3882b3d872defa141a4241d75d"
+  },
+  "measured-hugo.log": {
+    "bytes": 484,
+    "sha256": "f85c73177d0a6f4cc25a9194cebf5a3f959a47c761ed4b9849620ef274197805"
+  },
+  "measured-hugo.memory": {
+    "bytes": 8,
+    "sha256": "db64e17401b054e450ca18f99489a2b7c8b6df38ed826c011ca5e4905d47985c"
+  },
+  "measured-pagefind.json": {
+    "bytes": 295,
+    "sha256": "e7c54490c77bf68bae42ac7bae1531d49ad129528f59f7c48122b3e77f50b678"
+  },
+  "measured-pagefind.log": {
+    "bytes": 2503,
+    "sha256": "5783b0e4f13e05ea9a0b9d9334cd95987dea639378412cd17e1751c85148acad"
+  },
+  "measured-pagefind.memory": {
+    "bytes": 9,
+    "sha256": "73e5e9be52b2774cb12864a4699ef2eab2d5ffe0f917284704ebc93604adc58f"
+  },
+  "pair.json": {
+    "bytes": 4341,
+    "sha256": "a6db5e50be3bdad8fa8efa15def077d59f7ff186b95248032f55b2fc633f97f2"
+  },
+  "prime-eleventy.json": {
+    "bytes": 290,
+    "sha256": "e451579bbff6516048b29108194f25311427d1d7392e034394f2865ef08da2d6"
+  },
+  "prime-eleventy.log": {
+    "bytes": 2211494,
+    "sha256": "cbf3f237735803184584bb0fca5546f3fd13740966ed0cce92d35b3eac6378de"
+  },
+  "prime-eleventy.memory": {
+    "bytes": 8,
+    "sha256": "a1fd2f4440de43aeaf2c338801c1b6d92afd1c62facf19b6dd4c2d032e10e405"
+  },
+  "prime-hugo-adapt.json": {
+    "bytes": 448,
+    "sha256": "e4e7668116089f5b07b34dd75bb768f5161a37fbaaee6ea70398cd8136967d63"
+  },
+  "prime-hugo-adapt.log": {
+    "bytes": 330,
+    "sha256": "2d4943899ca0ae09d120eb5838b2a4e84f82e38edb75310943a48ae232807a57"
+  },
+  "prime-hugo-adapt.memory": {
+    "bytes": 8,
+    "sha256": "26145804f40a6696c7f0c90d50de28aa57e49b73f75ae9a9dc63e0e7a230f43b"
+  },
+  "prime-hugo-adaptation.json": {
+    "bytes": 129,
+    "sha256": "9e07ebf2f1c766a0fd7a6713eeb6bbc9b3d69bfdd516ba753c7f0efef421162a"
+  },
+  "prime-hugo-pagefind.json": {
+    "bytes": 299,
+    "sha256": "4e86fec6caa7a5881ec3c788a97eb055234692b8096de986a6d65d206737640c"
+  },
+  "prime-hugo-pagefind.log": {
+    "bytes": 2507,
+    "sha256": "952064f01651fad5726e3c053790dcc6045a904bba3ffc406bf9dc90f2c86653"
+  },
+  "prime-hugo-pagefind.memory": {
+    "bytes": 9,
+    "sha256": "819fe51fce7c4257c8a3186f8d2977c5c659ddd8f86f4f3e9713d729337ec548"
+  },
+  "prime-hugo-paths.json": {
+    "bytes": 456,
+    "sha256": "d6e418577758ab54e8d2b97babeb89f89cd1544bf253a8511167f67a531ed593"
+  },
+  "prime-hugo-paths.log": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "prime-hugo-paths.memory": {
+    "bytes": 7,
+    "sha256": "fec9cdf89785333d2c4be53c7ab02a49f6128b77ae5aad757f0b3bf3a7522764"
+  },
+  "prime-hugo-prepare.json": {
+    "bytes": 443,
+    "sha256": "48820df41c7fae23ef892a1e365ed05bc177d2756c5410213c5526391b1f5a90"
+  },
+  "prime-hugo-prepare.log": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "prime-hugo-prepare.memory": {
+    "bytes": 7,
+    "sha256": "f64ebc7e7fa89067e4b43d8b605934c5e2ede5b207c08934722af35306f6c52c"
+  },
+  "prime-hugo-versions.json": {
+    "bytes": 137,
+    "sha256": "6e69350f64806bd2e0e360aa5ef8cb8a187a99411423c1e04484aaff53ab0c00"
+  },
+  "prime-hugo.json": {
+    "bytes": 267,
+    "sha256": "7e2b2896ccb2b10b4124a843285c4e8afd1b7fb5aecbc6da95baef11d11256b8"
+  },
+  "prime-hugo.log": {
+    "bytes": 484,
+    "sha256": "01f95012cf586527123923835a5a528c5daa7b7b0616d0020920b2c726b64942"
+  },
+  "prime-hugo.memory": {
+    "bytes": 8,
+    "sha256": "1bcc5d02f2361a5a42b2dcf914ea9d24b068af12d9db5e40487f905629c612d3"
+  },
+  "prime-pagefind.json": {
+    "bytes": 289,
+    "sha256": "9c3e1e2c942954d16e121435268f4c46891fa533c243b9416acacdff07699ef9"
+  },
+  "prime-pagefind.log": {
+    "bytes": 2497,
+    "sha256": "c3574efb7ad30e33d991f27d661e9a68bb3eebb0fbe3138ec583d052e1c4ebe8"
+  },
+  "prime-pagefind.memory": {
+    "bytes": 9,
+    "sha256": "af912cf152846a84fb8e85a0fc91290a4f9b982d9e43ffec15045bd8b9774a5f"
+  },
+  "run-manifest.json": {
+    "bytes": 904,
+    "sha256": "974e93a042d742845cd3b028b3e092d7cb7420ebffc308809d454b80b1ebff7b"
+  },
+  "source-after.json": {
+    "bytes": 182,
+    "sha256": "0a39994bc72032ee133eb0f4338e05e4f880310df6219a6998b35367bc63bdea"
+  },
+  "source-before.json": {
+    "bytes": 432,
+    "sha256": "5f1119bb8aaf2f401cfaaac20f9ef6d0550cc5e11720ff77435eb0da05dc9b0e"
+  },
+  "versions.json": {
+    "bytes": 54,
+    "sha256": "1b89af757245ca06bc62222e3e677eae2a37473f0a5fe045c1255361fd5bdbc0"
+  }
+}

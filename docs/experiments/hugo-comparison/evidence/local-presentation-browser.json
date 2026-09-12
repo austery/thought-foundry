@@ -1,0 +1,186 @@
+[
+  {
+    "engine": "eleventy",
+    "views": [
+      {
+        "path": "/content/books/Enlightenment-Now/",
+        "width": 390,
+        "scrollWidth": 390,
+        "title": "再啟蒙的年代︰為理性、科學、人文主義和進步辯護",
+        "code": 0,
+        "tables": 0,
+        "details": 0
+      },
+      {
+        "path": "/content/books/Enlightenment-Now/",
+        "width": 820,
+        "scrollWidth": 820,
+        "title": "再啟蒙的年代︰為理性、科學、人文主義和進步辯護",
+        "code": 0,
+        "tables": 0,
+        "details": 0
+      },
+      {
+        "path": "/content/books/Enlightenment-Now/",
+        "width": 1440,
+        "scrollWidth": 1440,
+        "title": "再啟蒙的年代︰為理性、科學、人文主義和進步辯護",
+        "code": 0,
+        "tables": 0,
+        "details": 0
+      },
+      {
+        "path": "/content/clippings/2026-02-18_httpsbao_claude-code-auto-commit/",
+        "width": 390,
+        "scrollWidth": 1339,
+        "title": "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更 | 宝玉的分享",
+        "code": 6,
+        "tables": 0,
+        "details": 1
+      },
+      {
+        "path": "/content/clippings/2026-02-18_httpsbao_claude-code-auto-commit/",
+        "width": 820,
+        "scrollWidth": 1339,
+        "title": "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更 | 宝玉的分享",
+        "code": 6,
+        "tables": 0,
+        "details": 1
+      },
+      {
+        "path": "/content/clippings/2026-02-18_httpsbao_claude-code-auto-commit/",
+        "width": 1440,
+        "scrollWidth": 1814,
+        "title": "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更 | 宝玉的分享",
+        "code": 6,
+        "tables": 0,
+        "details": 1
+      },
+      {
+        "path": "/content/notes/01s3YdYUCcU/",
+        "width": 390,
+        "scrollWidth": 801,
+        "title": "财报季软件股集体大涨：AI算力瓶颈与企业工作流重构下的价值反转",
+        "code": 4,
+        "tables": 1,
+        "details": 1
+      },
+      {
+        "path": "/content/notes/01s3YdYUCcU/",
+        "width": 820,
+        "scrollWidth": 820,
+        "title": "财报季软件股集体大涨：AI算力瓶颈与企业工作流重构下的价值反转",
+        "code": 4,
+        "tables": 1,
+        "details": 1
+      },
+      {
+        "path": "/content/notes/01s3YdYUCcU/",
+        "width": 1440,
+        "scrollWidth": 1440,
+        "title": "财报季软件股集体大涨：AI算力瓶颈与企业工作流重构下的价值反转",
+        "code": 4,
+        "tables": 1,
+        "details": 1
+      }
+    ],
+    "searchUi": {
+      "hasResults": true,
+      "noResultMessage": "没有找到 \"zzzzqqqqvvvvmmmm\" 的结果"
+    },
+    "folding": true,
+    "errors": []
+  },
+  {
+    "engine": "hugo",
+    "views": [
+      {
+        "path": "/content/books/Enlightenment-Now/",
+        "width": 390,
+        "scrollWidth": 390,
+        "title": "再啟蒙的年代︰為理性、科學、人文主義和進步辯護",
+        "code": 0,
+        "tables": 0,
+        "details": 0
+      },
+      {
+        "path": "/content/books/Enlightenment-Now/",
+        "width": 820,
+        "scrollWidth": 820,
+        "title": "再啟蒙的年代︰為理性、科學、人文主義和進步辯護",
+        "code": 0,
+        "tables": 0,
+        "details": 0
+      },
+      {
+        "path": "/content/books/Enlightenment-Now/",
+        "width": 1440,
+        "scrollWidth": 1440,
+        "title": "再啟蒙的年代︰為理性、科學、人文主義和進步辯護",
+        "code": 0,
+        "tables": 0,
+        "details": 0
+      },
+      {
+        "path": "/content/clippings/2026-02-18_httpsbao_claude-code-auto-commit/",
+        "width": 390,
+        "scrollWidth": 1339,
+        "title": "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更 | 宝玉的分享",
+        "code": 6,
+        "tables": 0,
+        "details": 1
+      },
+      {
+        "path": "/content/clippings/2026-02-18_httpsbao_claude-code-auto-commit/",
+        "width": 820,
+        "scrollWidth": 1339,
+        "title": "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更 | 宝玉的分享",
+        "code": 6,
+        "tables": 0,
+        "details": 1
+      },
+      {
+        "path": "/content/clippings/2026-02-18_httpsbao_claude-code-auto-commit/",
+        "width": 1440,
+        "scrollWidth": 1814,
+        "title": "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更 | 宝玉的分享",
+        "code": 6,
+        "tables": 0,
+        "details": 1
+      },
+      {
+        "path": "/content/notes/01s3YdYUCcU/",
+        "width": 390,
+        "scrollWidth": 801,
+        "title": "财报季软件股集体大涨：AI算力瓶颈与企业工作流重构下的价值反转",
+        "code": 4,
+        "tables": 1,
+        "details": 1
+      },
+      {
+        "path": "/content/notes/01s3YdYUCcU/",
+        "width": 820,
+        "scrollWidth": 820,
+        "title": "财报季软件股集体大涨：AI算力瓶颈与企业工作流重构下的价值反转",
+        "code": 4,
+        "tables": 1,
+        "details": 1
+      },
+      {
+        "path": "/content/notes/01s3YdYUCcU/",
+        "width": 1440,
+        "scrollWidth": 1440,
+        "title": "财报季软件股集体大涨：AI算力瓶颈与企业工作流重构下的价值反转",
+        "code": 4,
+        "tables": 1,
+        "details": 1
+      }
+    ],
+    "searchUi": {
+      "hasResults": true,
+      "noResultMessage": "没有找到 \"zzzzqqqqvvvvmmmm\" 的结果"
+    },
+    "folding": true,
+    "errors": []
+  }
+]
