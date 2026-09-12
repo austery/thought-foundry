@@ -4,7 +4,7 @@
 
 **Blocked by:** 02: Build the existing content repository with Hugo.
 
-**Status:** blocked
+**Status:** in-progress
 
 - [ ] Three pairs per cache mode record all attempts and stage timings.
 - [ ] Identical added-article fixture is measured without changing the content repository.

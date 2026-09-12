@@ -10,9 +10,21 @@ concurrency:
   group: comparison-${{ github.ref }}
   cancel-in-progress: false
 jobs:
-  baseline:
+  compare:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - { mode: cold, repetition: 1 }
+          - { mode: cold, repetition: 2 }
+          - { mode: cold, repetition: 3 }
+          - { mode: warm, repetition: 1 }
+          - { mode: warm, repetition: 2 }
+          - { mode: warm, repetition: 3 }
+          - { mode: added, repetition: 1 }
+    name: ${{ matrix.mode }}-${{ matrix.repetition }}
     runs-on: ubuntu-24.04
-    timeout-minutes: 40
+    timeout-minutes: 75
     env:
       TZ: UTC
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -56,10 +68,6 @@ jobs:
           echo "$RUNNER_TEMP/hugo" >> "$GITHUB_PATH"
       - name: Install measurement tools
         run: pnpm install --dir benchmark --frozen-lockfile
-      - name: Validate measurement tools
-        run: |
-          pnpm --dir benchmark check
-          pnpm --dir benchmark test
       - name: Prepare complete source copy
         id: prepare
         run: pnpm --dir benchmark run run prepare ../.benchmark/source ../.benchmark/baseline ../.benchmark/reports
@@ -67,38 +75,31 @@ jobs:
         run: pnpm --dir benchmark run run measure install ../.benchmark/baseline ../.benchmark/reports pnpm install --frozen-lockfile
       - name: Record installed engine versions
         run: pnpm --dir benchmark run run versions ../.benchmark/baseline ../.benchmark/reports/versions.json
-      - name: Measure Eleventy
-        run: pnpm --dir benchmark run run measure eleventy ../.benchmark/baseline ../.benchmark/reports pnpm exec eleventy
-      - name: Measure Pagefind
-        run: pnpm --dir benchmark run run measure pagefind ../.benchmark/baseline ../.benchmark/reports pnpm exec pagefind --site _site
-      - name: Build independent Hugo candidate
-        run: pnpm --dir benchmark run run candidate ../.benchmark/baseline ../.benchmark/candidate ../.benchmark/reports
-      - name: Compare actual output and Pagefind fragments
-        run: pnpm --dir benchmark run run compare ../.benchmark/baseline/_site ../.benchmark/candidate/public ../.benchmark/reports
-      - name: Inventory rendered HTML
-        run: pnpm --dir benchmark run run inventory ../.benchmark/baseline/_site ../.benchmark/reports/baseline-inventory.json
+      - name: Validate tools and real miniature pair
+        run: |
+          pnpm --dir benchmark check
+          pnpm --dir benchmark test
+      - name: Run paired complete-content comparison
+        run: pnpm --dir benchmark run run pair ${{ matrix.mode }} ${{ matrix.repetition }} ../.benchmark/baseline ../.benchmark/builds ../.benchmark/reports
       - name: Verify unchanged source even after build failure
         if: always() && steps.prepare.outcome == 'success'
         run: pnpm --dir benchmark run run verify-source ../.benchmark/source ../.benchmark/reports/source-before.json ../.benchmark/reports/source-after.json
-      - name: Measure preview packaging
-        run: pnpm --dir benchmark run run measure package ../.benchmark/baseline ../.benchmark/reports tar -czf ../baseline-preview.tar.gz _site
+      - name: Package baseline preview
+        if: matrix.mode == 'cold' && matrix.repetition == 1
+        run: pnpm --dir benchmark run run measure package ../.benchmark/builds/measured ../.benchmark/reports tar -czf ../../baseline-preview.tar.gz public
       - name: Package candidate preview
-        run: pnpm --dir benchmark run run measure hugo-package ../.benchmark/candidate ../.benchmark/reports tar -czf ../candidate-preview.tar.gz public
+        if: matrix.mode == 'cold' && matrix.repetition == 1
+        run: pnpm --dir benchmark run run measure hugo-package ../.benchmark/builds/measured-hugo ../.benchmark/reports tar -czf ../../candidate-preview.tar.gz public
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: baseline-evidence-${{ github.run_id }}-${{ github.run_attempt }}
+          name: comparison-${{ matrix.mode }}-${{ matrix.repetition }}-${{ github.run_id }}-${{ github.run_attempt }}
           path: .benchmark/reports
-          retention-days: 7
+          retention-days: 14
       - uses: actions/upload-artifact@v4
+        if: matrix.mode == 'cold' && matrix.repetition == 1
         with:
-          name: baseline-preview-${{ github.run_id }}-${{ github.run_attempt }}
-          path: .benchmark/baseline-preview.tar.gz
-          compression-level: 0
-          retention-days: 3
-      - uses: actions/upload-artifact@v4
-        with:
-          name: candidate-preview-${{ github.run_id }}-${{ github.run_attempt }}
-          path: .benchmark/candidate-preview.tar.gz
+          name: comparison-previews-${{ github.run_id }}-${{ github.run_attempt }}
+          path: .benchmark/*-preview.tar.gz
           compression-level: 0
           retention-days: 3

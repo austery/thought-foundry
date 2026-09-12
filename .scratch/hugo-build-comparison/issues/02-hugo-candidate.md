@@ -4,9 +4,11 @@
 
 **Blocked by:** 01: Run a pinned remote Eleventy baseline.
 
-**Status:** in-progress
+**Status:** completed
 
-- [ ] Hugo builds independently from the same unchanged source snapshot.
-- [ ] Adaptation costs count in the result; source files remain unchanged.
-- [ ] URL, navigation, indexed-content and representative rendering differences are reported.
-- [ ] Standards and Spec reviews pass before ticket 03 starts.
+- [x] Hugo builds independently from the same unchanged source snapshot.
+- [x] Adaptation costs count in the result; source files remain unchanged.
+- [x] URL, navigation, indexed-content and representative rendering differences are reported.
+- [x] Standards and Spec reviews pass before ticket 03 starts.
+
+Evidence: ticket-02-review.md and docs/experiments/hugo-comparison/evidence/local-candidate-comparison.json. Known compatibility differences remain open; this completes the candidate experiment ticket, not migration acceptance.

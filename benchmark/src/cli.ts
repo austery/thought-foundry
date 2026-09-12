@@ -6,7 +6,19 @@ import { measure, inventory, fingerprint, gitSha, environment } from './evidence
 
 const [operation, ...args] = process.argv.slice(2);
 function arg(index: number): string { const value = args[index]; if (!value) throw new Error(`Missing argument ${index}`); return value; }
-if (operation === 'candidate') {
+if (operation === 'summarize') {
+  const { readCompletedPair, summarize } = await import('./summary.js');
+  const { files } = await import('./evidence.js');
+  const root = resolve(arg(0));
+  const pairs = [];
+  for (const name of await files(root)) if (name.endsWith('/pair.json') || name === 'pair.json') pairs.push(readCompletedPair(JSON.parse(await readFile(join(root,name),'utf8'))));
+  const result = summarize(pairs);
+  await writeFile(resolve(arg(1)),JSON.stringify({pairs,...result},null,2));
+  console.log(JSON.stringify(result));
+} else if (operation === 'pair') {
+  const { runPair } = await import('./pair.js');
+  await runPair(arg(0), Number(arg(1)), resolve(arg(2)), resolve(arg(3)), resolve(arg(4)));
+} else if (operation === 'candidate') {
   const { buildCandidate } = await import('./candidate.js');
   console.log(await buildCandidate(resolve(arg(0)), resolve(arg(1)), resolve(arg(2))));
 } else if (operation === 'adapt') {
@@ -26,6 +38,7 @@ if (operation === 'candidate') {
 } else if (operation === 'prepare-candidate') {
   const { prepareCandidateSource } = await import('./adapter.js');
   await prepareCandidateSource(resolve(arg(0)), resolve(arg(1)));
+  if (args[2]) await cp(resolve(arg(2)), join(resolve(arg(1)), '.eleventy-cache.json'), { errorOnExist: true, force: false });
 } else if (operation === 'restore-paths') {
   const { restoreLegacyPaths } = await import('./adapter.js');
   await restoreLegacyPaths(resolve(arg(0)), resolve(arg(1)));

@@ -1,0 +1,128 @@
+[
+  {
+    "engine": "eleventy",
+    "views": [
+      {
+        "width": 390,
+        "scrollWidth": 390,
+        "title": "AI时代的教育黄昏：高考退场与“地零世界”的崛起",
+        "headings": 7,
+        "toc": 8
+      },
+      {
+        "width": 820,
+        "scrollWidth": 820,
+        "title": "AI时代的教育黄昏：高考退场与“地零世界”的崛起",
+        "headings": 7,
+        "toc": 8
+      },
+      {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "title": "AI时代的教育黄昏：高考退场与“地零世界”的崛起",
+        "headings": 7,
+        "toc": 8
+      }
+    ],
+    "search": [
+      {
+        "term": "高考",
+        "count": 259,
+        "first": [
+          "/content/notes/fKZyTnfj0XA/",
+          "/content/notes/DLvWvvV4LpE/",
+          "/content/notes/Fjg0troUubY/"
+        ]
+      },
+      {
+        "term": "夸克说",
+        "count": 137,
+        "first": [
+          "/content/notes/pxvXVXRkvKQ/",
+          "/content/notes/eS-FA0rX11U/",
+          "/content/notes/8vJaiq1xK1s/"
+        ]
+      },
+      {
+        "term": "\"zzzzqqqqvvvvmmmm\"",
+        "count": 0,
+        "first": []
+      },
+      {
+        "term": "жщюяфц",
+        "count": 0,
+        "first": []
+      },
+      {
+        "term": "量子菠萝不存在这篇文档",
+        "count": 0,
+        "first": []
+      }
+    ],
+    "themeAndToc": true,
+    "errors": []
+  },
+  {
+    "engine": "hugo",
+    "views": [
+      {
+        "width": 390,
+        "scrollWidth": 390,
+        "title": "AI时代的教育黄昏：高考退场与“地零世界”的崛起",
+        "headings": 7,
+        "toc": 8
+      },
+      {
+        "width": 820,
+        "scrollWidth": 820,
+        "title": "AI时代的教育黄昏：高考退场与“地零世界”的崛起",
+        "headings": 7,
+        "toc": 8
+      },
+      {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "title": "AI时代的教育黄昏：高考退场与“地零世界”的崛起",
+        "headings": 7,
+        "toc": 8
+      }
+    ],
+    "search": [
+      {
+        "term": "高考",
+        "count": 259,
+        "first": [
+          "/content/notes/fKZyTnfj0XA/",
+          "/content/notes/DLvWvvV4LpE/",
+          "/content/notes/Fjg0troUubY/"
+        ]
+      },
+      {
+        "term": "夸克说",
+        "count": 137,
+        "first": [
+          "/content/notes/pxvXVXRkvKQ/",
+          "/content/notes/eS-FA0rX11U/",
+          "/content/notes/8vJaiq1xK1s/"
+        ]
+      },
+      {
+        "term": "\"zzzzqqqqvvvvmmmm\"",
+        "count": 0,
+        "first": []
+      },
+      {
+        "term": "жщюяфц",
+        "count": 0,
+        "first": []
+      },
+      {
+        "term": "量子菠萝不存在这篇文档",
+        "count": 0,
+        "first": []
+      }
+    ],
+    "themeAndToc": true,
+    "errors": []
+  }
+]

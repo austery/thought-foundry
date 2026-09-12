@@ -2,5 +2,5 @@
   "baselineSha": "8acbf0d1ef8652fb5153341e6a47f9f73204a4b4",
   "contentSha": "f8a8939248be4c1d4af6072381c06a4a79d00223",
   "hugoVersion": "0.165.0",
-  "stage": "baseline"
+  "stage": "paired-comparison"
 }
