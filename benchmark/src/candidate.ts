@@ -1,11 +1,12 @@
-import { join, resolve } from 'node:path';
+import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { execFileSync } from 'node:child_process';
 import { writeFile } from 'node:fs/promises';
 import { measure } from './evidence.js';
 import { prepareCandidateSource } from './adapter.js';
 
 export async function buildCandidate(site: string, staging: string, reports: string, prefix = 'hugo'): Promise<string> {
-  const tools = resolve(new URL('..', import.meta.url).pathname);
+  const tools = fileURLToPath(new URL('..', import.meta.url));
   const source = join(staging, 'legacy');
   await prepareCandidateSource(site, source);
   const output = join(staging, 'public');

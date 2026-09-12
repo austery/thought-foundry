@@ -8,8 +8,11 @@
     "run": "node --import tsx src/cli.ts"
   },
   "dependencies": {
+    "@types/markdown-it": "14.1.2",
     "cheerio": "1.2.0",
     "gray-matter": "4.0.3",
+    "liquidjs": "10.25.5",
+    "markdown-it": "14.1.1",
     "nunjucks": "3.2.4"
   },
   "devDependencies": {

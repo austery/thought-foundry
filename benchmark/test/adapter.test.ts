@@ -4,7 +4,7 @@ import { mkdtemp, mkdir, writeFile, readFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { execFileSync } from 'node:child_process';
-import { adapt, restoreLegacyPaths } from '../src/adapter.js';
+import { adapt, restoreLegacyPaths, escapeShortcodes } from '../src/adapter.js';
 import { fingerprint } from '../src/evidence.js';
 
 test('Hugo consumes unchanged legacy documents with draft flags, case-sensitive URLs and shortcode examples', async () => {
@@ -16,16 +16,25 @@ test('Hugo consumes unchanged legacy documents with draft flags, case-sensitive 
   await writeFile(join(site,'src/content/notes/Case.md'), '---\ntitle: Test\nlayout: post.njk\ndraft: true\ndate: 2026-01-01\n---\n# Hello\n\n`{{< ref "example.md" >}}`\n\n<details><summary>Example</summary>Raw HTML</details>');
   await writeFile(join(site,'src/index.njk'), '---\npermalink: /\n---\n{% for p in collections.allItems %}<a href="{{ p.url }}">{{ p.data.title }}</a>{% endfor %}');
   await writeFile(join(site, 'src/content/notes/Legacy:_URL?.md'), '---\ntitle: Legacy URL\nlayout: post.njk\n---\n# Legacy');
+  await writeFile(join(site, 'src/content/notes/Indented.md'), '---\ntitle: Indented\nlayout: post.njk\n---\n    **Legacy emphasis**');
   const before = await fingerprint(site);
   const result = await adapt(site, output);
-  assert.deepEqual(result, {documents:2,navigationPages:1});
+  assert.deepEqual(result, {documents:3,navigationPages:1});
   execFileSync('hugo', ['--source', output, '--destination', 'public'], {stdio:'pipe'});
   await restoreLegacyPaths(output, join(output, 'public'));
   assert.match(await readFile(join(output, 'public/content/notes/Legacy:_URL?/index.html'), 'utf8'), /Legacy/);
+  assert.match(await readFile(join(output, 'public/content/notes/Indented/index.html'), 'utf8'), /<strong>Legacy emphasis<\/strong>/);
   const page = await readFile(join(output,'public/content/notes/Case/index.html'),'utf8');
   assert.match(page, /<h1>Hello<\/h1>/);
-  assert.match(page, /ref/);
+  assert.match(page, /false/);
   assert.match(page, /<details>/);
   assert.match(await readFile(join(output,'public/index.html'),'utf8'), /href="\/content\/notes\/Case\/"/);
   assert.equal(await fingerprint(site), before);
+});
+
+
+test('shortcode escaping preserves unmatched closing text and rejects incomplete openings', () => {
+  assert.equal(escapeShortcodes('value >}} and %}}'), 'value >}} and %}}');
+  assert.equal(escapeShortcodes('{{< ref "x" >}}'), '{{/*< ref "x" >*/}}');
+  assert.throws(() => escapeShortcodes('{{< unfinished'), /Incomplete shortcode/);
 });

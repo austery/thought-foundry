@@ -21,7 +21,9 @@ export async function indexedPages(site: string): Promise<IndexedPage[]> {
   return result.sort((a,b) => a.url.localeCompare(b.url));
 }
 function difference(a: string[], b: string[]): string[] { const set = new Set(b); return a.filter(value => !set.has(value)).sort(); }
-export function compareInventories(baseline: Inventory, candidate: Inventory): object {
+export interface HtmlComparison { baselinePages: number; candidatePages: number; missing: string[]; added: string[]; changed: Record<string, string[]>; }
+export interface IndexComparison { baselineIndexed: number; candidateIndexed: number; missing: string[]; added: string[]; changedText: string[]; }
+export function compareInventories(baseline: Inventory, candidate: Inventory): HtmlComparison {
   const left = new Map(baseline.pages.map(p => [p.url, p])); const right = new Map(candidate.pages.map(p => [p.url, p]));
   if (left.size !== baseline.pages.length || right.size !== candidate.pages.length) throw new Error('Duplicate rendered URL');
   const changed: Record<string, string[]> = { title: [], readingText: [], indexableText: [], headings: [], links: [], images: [] };
@@ -32,7 +34,7 @@ export function compareInventories(baseline: Inventory, candidate: Inventory): o
   }
   return { baselinePages: left.size, candidatePages: right.size, missing: difference([...left.keys()], [...right.keys()]), added: difference([...right.keys()], [...left.keys()]), changed };
 }
-export function compareIndexes(baseline: IndexedPage[], candidate: IndexedPage[]): object {
+export function compareIndexes(baseline: IndexedPage[], candidate: IndexedPage[]): IndexComparison {
   const right = new Map(candidate.map(p => [p.url, p.textHash]));
   return { baselineIndexed: baseline.length, candidateIndexed: candidate.length, missing: difference(baseline.map(p => p.url), candidate.map(p => p.url)), added: difference(candidate.map(p => p.url), baseline.map(p => p.url)), changedText: baseline.filter(p => right.has(p.url) && right.get(p.url) !== p.textHash).map(p => p.url) };
 }

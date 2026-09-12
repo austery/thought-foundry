@@ -3,6 +3,8 @@ import { join, dirname, resolve, sep } from 'node:path';
 import { createRequire } from 'node:module';
 import matter from 'gray-matter';
 import nunjucks from 'nunjucks';
+import { Liquid } from 'liquidjs';
+import MarkdownIt from 'markdown-it';
 import { files } from './evidence.js';
 
 interface Document { inputPath: string; filePathStem: string; url: string; date: Date; data: Record<string, unknown>; body: string; }
@@ -34,8 +36,8 @@ export async function adapt(site: string, destination: string): Promise<{ docume
     const url = filePathStem + '/';
     documents.push({ inputPath: './src/' + name, filePathStem, url, date, data, body: parsed.content });
   }
-  // Match Eleventy's input ordering for getAll; glob collections are date/path sorted.
-  documents.sort((a,b) => a.inputPath < b.inputPath ? -1 : a.inputPath > b.inputPath ? 1 : 0);
+  // Use deterministic descending input order; legacy equal-date collection ties are reported.
+  documents.sort((a,b) => a.inputPath < b.inputPath ? 1 : a.inputPath > b.inputPath ? -1 : 0);
   const filters = new Map<string, Filter>();
   const factories = new Map<string, (api: CollectionApi) => unknown>();
   const hooks = new Map<string, (() => Promise<void>)[]>();
@@ -53,7 +55,7 @@ export async function adapt(site: string, destination: string): Promise<{ docume
   const collections: Record<string, unknown> = {};
   const api: CollectionApi = { getAll: () => [...documents], getFilteredByGlob: glob => documents.filter(doc => globMatch(doc.inputPath, glob)).sort(sortDocuments) };
   for (const [name, factory] of factories) collections[name] = factory(api);
-  const env = new nunjucks.Environment(undefined, { autoescape: false, throwOnUndefined: false });
+  const env = new nunjucks.Environment(undefined, { autoescape: true, throwOnUndefined: false });
   env.addFilter('url', (value: unknown) => value);
   for (const [name, filter] of filters) env.addFilter(name, filter);
   const templates = new Map<string, { template: nunjucks.Template; parent: unknown }>();
@@ -71,11 +73,15 @@ export async function adapt(site: string, destination: string): Promise<{ docume
   await mkdir(join(destination, 'content'), { recursive: true });
   await mkdir(join(destination, 'layouts/_default'), { recursive: true });
   await mkdir(join(destination, 'static'), { recursive: true });
-  await writeFile(join(destination, 'hugo.json'), JSON.stringify({ baseURL: 'https://austery.github.io/', disableKinds: ['home','section','taxonomy','term','rss','sitemap'], disableAliases: true, disablePathToLower: true, enableRobotsTXT: false, markup: { goldmark: { renderer: { unsafe: true }, parser: { autoHeadingID: false }, extensions: { linkify: false, typographer: false } }, highlight: { codeFences: false } } }, null, 2));
+  await writeFile(join(destination, 'hugo.json'), JSON.stringify({ baseURL: 'https://austery.github.io/', security: { allowContent: ['^text/html$', '^text/markdown$'] }, disableKinds: ['home','section','taxonomy','term','rss','sitemap'], disableAliases: true, disablePathToLower: true, enableRobotsTXT: false, markup: { goldmark: { renderer: { unsafe: true }, parser: { autoHeadingID: false }, extensions: { linkify: false, typographer: false, strikethrough: false, extras: { delete: { enable: true } }, footnote: { enable: false }, definitionList: false, taskList: false } }, highlight: { codeFences: false } } }, null, 2));
   await writeFile(join(destination, 'layouts/_default/single.html'), '{{ .Params.before | safeHTML }}{{ .Content }}{{ .Params.after | safeHTML }}');
   const usedUrls = new Set<string>();
   const routes: { internal: string; legacy: string }[] = [];
   function reserve(url: string): void { if (!url.startsWith('/') || url.includes('..') || usedUrls.has(url)) throw new Error(`Unsafe or duplicate URL: ${url}`); usedUrls.add(url); }
+  const liquid = new Liquid();
+  const syntaxProbe = new MarkdownIt({ html: true });
+  const legacyMarkdown = new MarkdownIt({ html: true }).disable('code');
+  const markdownFallbacks: string[] = [];
   for (const [index, doc] of documents.entries()) {
     const data = { ...doc.data, collections, page: { url: doc.url, inputPath: doc.inputPath, filePathStem: doc.filePathStem, date: doc.date } };
     const shell = wrap(slot, doc.data.layout, data); const parts = shell.split(slot);
@@ -84,8 +90,12 @@ export async function adapt(site: string, destination: string): Promise<{ docume
     const internal = `/__comparison_pages/${index}/`;
     routes.push({ internal, legacy: doc.url });
     // Escape shortcode-looking examples in generated copies only. Never edit source documents.
-    const body = doc.body.replace(/\{\{([<%])/g, '{{/*$1').replace(/([>%])\}\}/g, '$1*/}}');
-    await writeFile(join(destination, 'content', `document-${index}.md`), JSON.stringify({ title: String(doc.data.title ?? ''), url: internal, type: 'page', draft: false, before: parts[0], after: parts[1] }) + '\n' + body);
+    const rendered: unknown = /\{[{%]/.test(doc.body) ? await liquid.parseAndRender(doc.body, data) : doc.body;
+    if (typeof rendered !== 'string') throw new Error(`Invalid rendered body: ${doc.inputPath}`);
+    const indentedCode = /^ {4,}\S/m.test(rendered) && syntaxProbe.parse(rendered, {}).some(token => token.type === 'code_block');
+    const body = indentedCode ? legacyMarkdown.render(rendered) : escapeShortcodes(rendered);
+    if (indentedCode) markdownFallbacks.push(doc.inputPath);
+    await writeFile(join(destination, 'content', `document-${index}.${indentedCode ? 'html' : 'md'}`), JSON.stringify({ title: String(doc.data.title ?? ''), url: internal, type: 'page', draft: false, before: parts[0], after: parts[1] }) + '\n' + body);
   }
   let navigationPages = 0;
   for (const name of allNames.filter(n => n.endsWith('.njk'))) {
@@ -111,7 +121,7 @@ export async function adapt(site: string, destination: string): Promise<{ docume
   for (const folder of ['css','js']) await cp(join(sourceDir, folder), join(destination, 'static', folder), { recursive: true });
   await writeFile(join(destination, 'routes.json'), JSON.stringify(routes));
   const summary = { documents: documents.length, navigationPages };
-  await writeFile(join(destination, 'adaptation.json'), JSON.stringify(summary));
+  await writeFile(join(destination, 'adaptation.json'), JSON.stringify({ ...summary, markdownFallbacks }));
   for (const hook of hooks.get('eleventy.after') ?? []) await hook();
   return summary;
 }
@@ -141,4 +151,14 @@ export async function prepareCandidateSource(site: string, destination: string):
   // Share only immutable source and dependencies; each engine owns its cache and outputs.
   await symlink(join(site, 'src'), join(destination, 'src'), 'dir');
   await symlink(join(site, 'node_modules'), join(destination, 'node_modules'), 'dir');
+}
+
+
+export function escapeShortcodes(body: string): string {
+  const escaped = body.replace(/\{\{([<%])([\s\S]*?)([>%])\}\}/g, (whole: string, open: string, content: string, close: string) => {
+    if ((open === '<' && close !== '>') || (open === '%' && close !== '%')) throw new Error('Mismatched shortcode example');
+    return `{{/*${open}${content}${close}*/}}`;
+  });
+  if (/\{\{[<%]/.test(escaped)) throw new Error('Incomplete shortcode example requires explicit compatibility handling');
+  return escaped;
 }
