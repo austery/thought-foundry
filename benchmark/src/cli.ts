@@ -1,3 +1,5 @@
+import { execFileSync } from 'node:child_process';
+import { createHash } from 'node:crypto';
 import { mkdir, cp, readFile, writeFile } from 'node:fs/promises';
 import { resolve, join } from 'node:path';
 import { measure, inventory, fingerprint, gitSha, environment } from './evidence.js';
@@ -10,10 +12,19 @@ if (operation === 'measure') {
 } else if (operation === 'prepare') {
   const source = resolve(arg(0)); const site = resolve(arg(1)); const reports = resolve(arg(2));
   await mkdir(reports, { recursive: true });
-  const config: { contentSha: string } = JSON.parse(await readFile(new URL('../config.json', import.meta.url), 'utf8'));
+  const config: { contentSha: string; baselineSha: string } = JSON.parse(await readFile(new URL('../config.json', import.meta.url), 'utf8'));
   if (gitSha(source) !== config.contentSha) throw new Error('Content SHA does not match experiment pin');
   await writeFile(join(reports, 'source-before.json'), JSON.stringify({ sha: gitSha(source), fingerprint: await fingerprint(source), environment: environment() }, null, 2));
+  await writeFile(join(reports, 'run-manifest.json'), JSON.stringify({ ...config, candidateSha: gitSha(resolve('..')), environment: environment(), siteLockHash: createHash('sha256').update(await readFile(join(site, 'pnpm-lock.yaml'))).digest('hex'), toolsLockHash: createHash('sha256').update(await readFile('pnpm-lock.yaml')).digest('hex'), pnpm: execFileSync('pnpm', ['--version'], { encoding: 'utf8' }).trim(), pagefindVersionSource: 'Pinned site pnpm-lock.yaml; runtime version recorded by Pagefind stage log', htmlInventoryScope: 'DOM eligibility, not actual indexed URLs' }, null, 2));
   await cp(source, join(site, 'src/content'), { recursive: true, filter: path => !['.git', 'raw_subtitles', 'cleaned_subtitles'].includes(path.split('/').at(-1)!) });
+} else if (operation === 'versions') {
+  const site = resolve(arg(0));
+  const versions: Record<string, string> = {};
+  for (const name of ['@11ty/eleventy', 'pagefind']) {
+    const pkg: { version: string } = JSON.parse(await readFile(join(site, 'node_modules', name, 'package.json'), 'utf8'));
+    versions[name] = pkg.version;
+  }
+  await writeFile(resolve(arg(1)), JSON.stringify(versions, null, 2));
 } else if (operation === 'inventory') {
   const result = await inventory(resolve(arg(0)));
   await writeFile(resolve(arg(1)), JSON.stringify(result));
@@ -21,6 +32,7 @@ if (operation === 'measure') {
 } else if (operation === 'verify-source') {
   const before: { fingerprint: string } = JSON.parse(await readFile(resolve(arg(1)), 'utf8'));
   const after = await fingerprint(resolve(arg(0)));
+  await writeFile(resolve(arg(2)), JSON.stringify({ unchanged: after === before.fingerprint, before: before.fingerprint, after }, null, 2));
   if (after !== before.fingerprint) throw new Error('Source bytes changed during the experiment');
   console.log(`Source unchanged: ${after}`);
 } else throw new Error(`Unknown operation: ${operation}`);

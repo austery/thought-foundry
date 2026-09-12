@@ -47,17 +47,21 @@ jobs:
           pnpm --dir benchmark check
           pnpm --dir benchmark test
       - name: Prepare complete source copy
+        id: prepare
         run: pnpm --dir benchmark run run prepare ../.benchmark/source ../.benchmark/baseline ../.benchmark/reports
       - name: Measure dependency installation
         run: pnpm --dir benchmark run run measure install ../.benchmark/baseline ../.benchmark/reports pnpm install --frozen-lockfile
+      - name: Record installed engine versions
+        run: pnpm --dir benchmark run run versions ../.benchmark/baseline ../.benchmark/reports/versions.json
       - name: Measure Eleventy
         run: pnpm --dir benchmark run run measure eleventy ../.benchmark/baseline ../.benchmark/reports pnpm exec eleventy
       - name: Measure Pagefind
         run: pnpm --dir benchmark run run measure pagefind ../.benchmark/baseline ../.benchmark/reports pnpm exec pagefind --site _site
-      - name: Inventory and verify source
-        run: |
-          pnpm --dir benchmark run run inventory ../.benchmark/baseline/_site ../.benchmark/reports/baseline-inventory.json
-          pnpm --dir benchmark run run verify-source ../.benchmark/source ../.benchmark/reports/source-before.json
+      - name: Inventory rendered HTML
+        run: pnpm --dir benchmark run run inventory ../.benchmark/baseline/_site ../.benchmark/reports/baseline-inventory.json
+      - name: Verify unchanged source even after build failure
+        if: always() && steps.prepare.outcome == 'success'
+        run: pnpm --dir benchmark run run verify-source ../.benchmark/source ../.benchmark/reports/source-before.json ../.benchmark/reports/source-after.json
       - name: Measure preview packaging
         run: pnpm --dir benchmark run run measure package ../.benchmark/baseline ../.benchmark/reports tar -czf ../baseline-preview.tar.gz _site
       - uses: actions/upload-artifact@v4

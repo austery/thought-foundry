@@ -32,3 +32,17 @@ test('source fingerprints detect byte changes with stable traversal', async () =
   await writeFile(join(dir, 'note.md'), 'changed');
   assert.notEqual(await fingerprint(dir), before);
 });
+
+test('an unavailable build command records a nonzero result instead of losing evidence', async () => {
+  const dir = await mkdtemp(join(tmpdir(), 'tf-missing-'));
+  const result = await measure('missing', 'definitely-not-a-real-build-command', [], dir, dir);
+  assert.notEqual(result.exitCode, 0);
+  assert.ok((await readFile(join(dir, 'missing.json'), 'utf8')).includes('exitCode'));
+});
+
+test('an invalid working directory still leaves failure evidence', async () => {
+  const dir = await mkdtemp(join(tmpdir(), 'tf-cwd-'));
+  const result = await measure('invalid-cwd', process.execPath, ['-e', 'process.exit(0)'], join(dir, 'absent'), dir);
+  assert.notEqual(result.exitCode, 0);
+  assert.equal(JSON.parse(await readFile(join(dir, 'invalid-cwd.json'), 'utf8')).exitCode, result.exitCode);
+});

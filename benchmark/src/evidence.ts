@@ -42,12 +42,17 @@ export async function measure(stage: string, command: string, args: string[], cw
     child.on('close', (code, signal) => resolve({ stage, command: [command, ...args], seconds: (performance.now() - started) / 1000, exitCode: error ? 127 : code ?? 128, signal, peakMemoryKiB: null }));
   });
   await new Promise<void>(resolve => log.end(resolve));
-  if (linux) { const lines = (await readFile(memoryFile, 'utf8')).trim().split('\n'); const value = Number(lines.at(-1)); result.peakMemoryKiB = Number.isFinite(value) ? value : null; }
+  if (linux) {
+    try {
+      const lines = (await readFile(memoryFile, 'utf8')).trim().split('\n');
+      const value = Number(lines.at(-1)); result.peakMemoryKiB = Number.isFinite(value) ? value : null;
+    } catch { /* A missing timing file must not hide the command failure. */ }
+  }
   await writeFile(join(reports, `${stage}.json`), JSON.stringify(result, null, 2));
   console.log(JSON.stringify(result));
   return result;
 }
-export interface PageEvidence { url: string; title: string; indexable: boolean; text: string; textHash: string; headings: string[]; links: string[]; images: string[]; }
+export interface PageEvidence { url: string; title: string; indexable: boolean; text: string; textHash: string; readingTextHash: string; headings: string[]; links: string[]; images: string[]; }
 export interface Inventory { bytes: number; fileCount: number; pages: PageEvidence[]; }
 export async function inventory(root: string): Promise<Inventory> {
   const result: Inventory = { bytes: 0, fileCount: 0, pages: [] };
@@ -60,8 +65,12 @@ export async function inventory(root: string): Promise<Inventory> {
     const textNode = body.clone(); textNode.find('[data-pagefind-ignore], script, style').remove();
     textNode.find('p,div,h1,h2,h3,h4,h5,h6,li,br,pre,td,th').append(' ');
     const text = textNode.text().replace(/\s+/gu, ' ').trim();
+    const reading = ($('#content-body').length ? $('#content-body') : $('body')).clone();
+    reading.find('script,style').remove();
+    reading.find('p,div,h1,h2,h3,h4,h5,h6,li,br,pre,td,th').append(' ');
+    const readingTextHash = createHash('sha256').update(reading.text().replace(/\s+/gu, ' ').trim()).digest('hex');
     const url = '/' + name.replace(/(?:^|\/)index\.html$/, match => match.startsWith('/') ? '/' : '');
-    result.pages.push({ url, title: $('title').text(), indexable, text, textHash: createHash('sha256').update(text).digest('hex'), headings: $('h1,h2,h3,h4,h5,h6').map((_,el) => `${$(el).attr('id') ?? ''}:${$(el).text()}`).get(), links: $('a[href]').map((_,el) => $(el).attr('href')!).get(), images: $('img[src]').map((_,el) => $(el).attr('src')!).get() });
+    result.pages.push({ url, title: $('title').text(), indexable, text, readingTextHash, textHash: createHash('sha256').update(text).digest('hex'), headings: $('h1,h2,h3,h4,h5,h6').map((_,el) => `${$(el).attr('id') ?? ''}:${$(el).text()}`).get(), links: $('a[href]').map((_,el) => $(el).attr('href')!).get(), images: $('img[src]').map((_,el) => $(el).attr('src')!).get() });
   }
   return result;
 }
