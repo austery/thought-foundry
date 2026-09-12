@@ -1,0 +1,25 @@
+{{ $taxonomy := .Params.taxonomy }}{{ $all := index hugo.Data.archive.groups $taxonomy }}
+{{ $items := first (int .Params.size) (after (int .Params.offset) $all) }}
+<div class="container" {{ if eq $taxonomy "areas" }}data-pagefind-ignore{{ end }}><div {{ if eq $taxonomy "areas" }}class="home-layout"{{ else }}data-pagefind-ignore{{ end }}>
+  <h1>{{ .Params.pagetitle }}</h1>
+  {{ if eq $taxonomy "areas" }}<p>共 {{ len $all }} 个领域</p>{{ $items = hugo.Data.archive.areaDirectory }}
+  {{ else if eq $taxonomy "categories" }}<p>按 v7.4 PKM 分类法组织的内容分类</p>
+  {{ else if eq $taxonomy "projects" }}<p>按 v7.4 PKM 专题项目组织的内容</p>{{ end }}
+  {{ if in (slice "tags" "speakers") $taxonomy }}
+    {{ $singular := cond (eq $taxonomy "tags") "tag" "speaker" }}
+    <div class="filterable-container"><input type="text" class="list-filter-input" placeholder="{{ cond (eq $taxonomy "tags") "筛选标签..." "筛选演讲者..." }}" aria-label="Filter {{ $taxonomy }}">
+    <ul class="filterable-list {{ $singular }}-list">
+      {{ range $items }}<li><a {{ printf "href=\"%s\"" (.url | htmlEscape) | safeHTMLAttr }} class="{{ $singular }}-pill">{{ if eq $taxonomy "tags" }}#{{ end }}{{ .name }} ({{ len .posts }})</a></li>{{ end }}
+    </ul></div>
+    {{ if gt .Params.pagecount 1 }}<nav class="pagination" aria-label="Pagination"><ol>
+      {{ if gt .Params.pagenumber 1 }}<li><a href="/all-tags/{{ if gt .Params.pagenumber 2 }}page/{{ sub .Params.pagenumber 1 }}/{{ end }}">上一页</a></li>{{ end }}
+      <li><span>第 {{ .Params.pagenumber }} 页，共 {{ .Params.pagecount }} 页</span></li>
+      {{ if lt .Params.pagenumber .Params.pagecount }}<li><a href="/all-tags/page/{{ add .Params.pagenumber 1 }}/">下一页</a></li>{{ end }}
+    </ol></nav>{{ end }}
+    <script src="/js/list-filter.js" defer></script>
+  {{ else }}
+    {{ $class := cond (eq $taxonomy "projects") "project" "category" }}
+    <div class="{{ $class }}-list">{{ range $items }}<a {{ printf "href=\"%s\"" (.url | htmlEscape) | safeHTMLAttr }} class="{{ $class }}-pill">{{ index (dict "areas" "🌐" "categories" "🏷️" "projects" "📂") $taxonomy }} {{ .name }} ({{ len .posts }})</a> {{ end }}</div>
+  {{ end }}
+  {{ if in (slice "areas" "speakers") $taxonomy }}<p><a href="/">← 返回首页</a></p>{{ end }}
+</div></div>

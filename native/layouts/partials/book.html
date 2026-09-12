@@ -1,0 +1,24 @@
+{{ $a := index hugo.Data.archive.articles .Params.articleid }}{{ $m := $a.meta }}
+<div class="report-container">
+  <aside id="toc-container" class="sidebar-toc"></aside>
+  <main id="content-body" class="main-content" lang="zh-CN" {{ if not $m.exclude }}data-pagefind-body{{ else }}data-pagefind-ignore{{ end }}>
+  <div class="book-note-layout">
+    {{ if not $m.exclude }}
+      <span data-pagefind-meta="title" style="display:none;">{{ $m.title }}</span>
+      {{ with $m.author }}<span data-pagefind-meta="author" style="display:none;">{{ . }}</span>{{ end }}
+      {{ with $m.publisher }}<span data-pagefind-meta="publisher" style="display:none;">{{ . }}</span>{{ end }}
+      {{ with $m.date }}<span data-pagefind-meta="date" style="display:none;">{{ . }}</span>{{ end }}
+    {{ end }}
+    <div class="metadata-block">
+      {{ range $entry := slice (dict "field" "author" "label" "作者") (dict "field" "publisher" "label" "出版社") (dict "field" "year" "label" "出版年份") (dict "field" "read_date" "label" "阅读日期") (dict "field" "rating" "label" "评分") (dict "field" "description" "label" "简介") }}
+        {{ with index $m $entry.field }}<p><strong>{{ $entry.label }}:</strong> {{ . }}</p>{{ end }}
+      {{ end }}
+      {{ with $m.cover_image }}<img {{ printf "src=\"%s\"" (. | htmlEscape) | safeHTMLAttr }} alt="书籍封面" class="book-cover" />{{ end }}
+      {{ if $m.tags_present }}<p><strong>关键字:</strong> {{ range $a.links.tags }}<a class="tag-link" {{ printf "href=\"%s\"" (.url | htmlEscape) | safeHTMLAttr }}>{{ .name }}</a> {{ end }}
+</p>{{ end }}
+    </div>
+    <article class="book-content">{{ partial "body.html" . }}</article>
+  </div>
+  </main>
+</div>
+<script src="/js/post.js"></script>

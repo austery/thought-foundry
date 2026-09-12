@@ -1,0 +1,10 @@
+{{- $article := index hugo.Data.archive.articles .Params.articleid -}}
+{{- if eq $article.source "content/posts/Hidden_Potential_And_Education_thinking.md" -}}
+  {{- if ne (crypto.SHA256 .RawContent) "1814bcd631990ac664237f3599d3d06f7cbd76b110ea29133afe389394cd796b" -}}
+    {{- errorf "Legacy indentation fixture changed: %s; review its native rendering before updating the compatibility rule" $article.source -}}
+  {{- end -}}
+  {{- /* Preserve the legacy nested assessment list using Hugo's own renderer. */ -}}
+  {{- .RawContent | replaceRE `(?m)^    ([1-3]\. \*\*)` `  ${1}` | replaceRE `(?m)^        (\S)` `    ${1}` | .RenderString (dict "display" "block") -}}
+{{- else -}}
+  {{- .Content -}}
+{{- end -}}

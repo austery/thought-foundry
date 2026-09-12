@@ -3,6 +3,8 @@ import { readFile, writeFile, mkdir, access } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import { measure, inventory, fingerprint, environment, type Measurement } from './evidence.js';
 import { buildCandidate } from './candidate.js';
+import { buildNativeCandidate } from './native-candidate.js';
+import { validateNative, type TextException } from './native-acceptance.js';
 import { compareInventories, compareIndexes, indexedPages } from './compare.js';
 
 export type Mode = 'cold' | 'warm' | 'added';
@@ -25,7 +27,8 @@ export function validateMeasurement(value: unknown): Measurement {
   if (typeof v.stage !== 'string' || !Array.isArray(v.command) || !v.command.every(x=>typeof x==='string') || typeof v.seconds !== 'number' || !Number.isFinite(v.seconds) || v.seconds < 0 || typeof v.exitCode !== 'number' || !Number.isInteger(v.exitCode) || !(v.signal === null || typeof v.signal === 'string') || !(v.peakMemoryKiB === null || typeof v.peakMemoryKiB === 'number' && Number.isFinite(v.peakMemoryKiB) && v.peakMemoryKiB >= 0)) throw new Error('Invalid measurement fields');
   return v as unknown as Measurement;
 }
-export async function runPair(mode: string, repetition: number, site: string, root: string, reports: string): Promise<void> {
+export async function runPair(mode: string, repetition: number, site: string, root: string, reports: string, native = false): Promise<void> {
+  const candidate = native ? buildNativeCandidate : buildCandidate;
   const plan = planPair(mode,repetition);
   await mkdir(reports,{recursive:true}); await mkdir(root,{recursive:true});
   // Refuse inherited caches: cold means engine build caches, not a cold dependency download.
@@ -49,8 +52,8 @@ export async function runPair(mode: string, repetition: number, site: string, ro
       for(const engine of plan.order) {
         if(engine==='eleventy') await baseline('prime');
         else {
-          await buildCandidate(site,join(root,'prime-hugo'),reports,'prime-hugo');
-          cacheSeed=join(root,'prime-hugo','legacy','.eleventy-cache.json');
+          await candidate(site,join(root,'prime-hugo'),reports,'prime-hugo');
+          cacheSeed=native ? join(root,'prime-hugo','generated','slug-cache.json') : join(root,'prime-hugo','legacy','.eleventy-cache.json');
           await access(cacheSeed);
         }
       }
@@ -59,7 +62,7 @@ export async function runPair(mode: string, repetition: number, site: string, ro
     const addition = mode==='added' ? await addFixture(site) : null;
     const inputFingerprint=await fingerprint(join(site,'src'));
     await writeFile(join(reports,'input.json'),JSON.stringify({sourceBefore,inputFingerprint,addition,cacheMode:plan.mode},null,2));
-    for(const engine of plan.order) outputs[engine] = engine==='eleventy' ? await baseline('measured') : await buildCandidate(site,join(root,'measured-hugo'),reports,'measured-hugo',cacheSeed);
+    for(const engine of plan.order) outputs[engine] = engine==='eleventy' ? await baseline('measured') : await candidate(site,join(root,'measured-hugo'),reports,'measured-hugo',cacheSeed);
     if(!outputs.eleventy || !outputs.hugo) throw new Error('Both engine outputs are required');
     if(await fingerprint(join(site,'src'))!==inputFingerprint) throw new Error('Build mutated staged source');
     const left=await inventory(outputs.eleventy); const right=await inventory(outputs.hugo);
@@ -77,6 +80,12 @@ export async function runPair(mode: string, repetition: number, site: string, ro
       for(const name of names) results[engine].push(validateMeasurement(JSON.parse(await readFile(join(reports,`${name}.json`),'utf8'))));
     }
     const strictParity = comparison.missing.length===0 && comparison.added.length===0 && Object.values(comparison.changed).every(v=>v.length===0) && indexes.missing.length===0 && indexes.added.length===0 && indexes.changedText.length===0;
+    if(native){
+      const exceptions:TextException[]=JSON.parse(await readFile(new URL('../../native/compatibility-exceptions.json',import.meta.url),'utf8'));
+      const acceptance=await validateNative(left,right,leftIndex,rightIndex,outputs.eleventy,outputs.hugo,exceptions);
+      await writeFile(join(reports,'native-acceptance.json'),JSON.stringify(acceptance,null,2));
+      if(!acceptance.passed)throw new Error(`Native compatibility failed: ${acceptance.failures.length} findings`);
+    }
     await writeFile(join(reports,'pair.json'),JSON.stringify({...metadata,status:'completed',inputFingerprint,sourceUnchanged:true,addition,results,totals:{eleventy:results.eleventy.reduce((n,r)=>n+r.seconds,0),hugo:results.hugo.reduce((n,r)=>n+r.seconds,0)},strictParity,outputs:{eleventy:{bytes:left.bytes,files:left.fileCount,html:left.pages.length,indexed:leftIndex.length},hugo:{bytes:right.bytes,files:right.fileCount,html:right.pages.length,indexed:rightIndex.length}}},null,2));
   } catch(error) {
     await writeFile(join(reports,'pair.json'),JSON.stringify({...metadata,status:'failed',error:String(error)},null,2)); throw error;

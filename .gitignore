@@ -47,3 +47,5 @@ __pycache__/
 # Isolated comparison outputs
 .benchmark/
 .worktrees/
+.native-*/
+artifacts/native-previews/

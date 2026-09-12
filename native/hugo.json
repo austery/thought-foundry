@@ -1,0 +1,19 @@
+{
+  "baseURL": "https://austery.github.io/",
+  "disableKinds": ["home", "section", "taxonomy", "term", "rss", "sitemap"],
+  "disableAliases": true,
+  "disablePathToLower": true,
+  "enableRobotsTXT": false,
+  "markup": {
+    "goldmark": {
+      "renderer": {"unsafe": true},
+      "parser": {"autoHeadingID": false},
+      "extensions": {
+        "linkify": false, "typographer": false, "strikethrough": false,
+        "extras": {"delete": {"enable": true}},
+        "footnote": {"enable": false}, "definitionList": false, "taskList": false
+      }
+    },
+    "highlight": {"codeFences": false}
+  }
+}

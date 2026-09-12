@@ -1,0 +1,32 @@
+{{ $archive := hugo.Data.archive }}
+{{ if eq .Params.view "home" }}
+  <div class="container"><div class="home-layout" data-pagefind-ignore>
+    <p>嘿，欢迎来到我的个人网站，这里记录了一些我的想法，笔记和视频转文字的集合。</p><h1>林间拾穗</h1>
+    {{ partial "article-list.html" (dict "ids" $archive.descending "home" true) }}
+  </div></div>
+{{ else if eq .Params.view "term" }}
+  {{ $taxonomy := .Params.taxonomy }}
+  {{ $g := index (where (index $archive.groups $taxonomy) "key" .Params.groupkey) 0 }}
+  {{ $label := index (dict "tags" "标签" "speakers" "演讲者" "categories" "分类" "projects" "专题" "areas" "领域") $taxonomy }}
+  <div class="container" data-pagefind-ignore><div class="home-layout">
+    <h1>{{ $label }}：{{ $g.name }}</h1>
+    {{ if eq $taxonomy "speakers" }}<p>共有 {{ len $g.posts }} 篇文章</p>
+    {{ else if ne $taxonomy "tags" }}<p class="{{ index (dict "categories" "category" "projects" "project" "areas" "area") $taxonomy }}-description">共 {{ len $g.posts }} 篇文章</p>{{ end }}
+    {{ partial "article-list.html" (dict "ids" $g.posts "home" false) }}
+    {{ if eq $taxonomy "speakers" }}<p><a href="/">← 返回首页</a></p>{{ end }}
+  </div></div>
+{{ else if eq .Params.view "directory" }}{{ partial "directory.html" . }}
+{{ else if eq .Params.view "bookshelf" }}
+  <div class="container"><div data-pagefind-ignore><h1>我的读书笔记</h1><p>这里是我读过的书，记录一下当时的反思，和自己的想法。</p><div class="card-layout">
+    {{ range $archive.books }}{{ $a := index $archive.articles . }}{{ $m := $a.meta }}
+    <a {{ printf "href=\"%s\"" ($a.url | htmlEscape) | safeHTMLAttr }} class="card"><article>
+      {{ with $m.cover_image }}<img {{ printf "src=\"%s\"" (. | htmlEscape) | safeHTMLAttr }} alt="{{ $m.title }} 的封面">{{ end }}
+      <div class="card-content"><h3>{{ $m.title }}</h3>{{ with $m.author }}<p>作者: {{ . }}</p>{{ end }}{{ with $m.rating }}<p>评分: {{ . }}</p>{{ end }}{{ with $m.year }}<p>出版年份: {{ . }}</p>{{ end }}</div>
+    </article></a>{{ end }}
+  </div></div></div>
+{{ else if eq .Params.view "debug-series" }}
+  <h1>Debug Series</h1><p>Current page series: ""</p><p>Series length: undefined</p><p>Series trimmed: "undefined"</p>
+  <h2>All Items with Series</h2>
+  {{ range $archive.ascending }}{{ $a := index $archive.articles . }}{{ with $a.meta.series }}<p>{{ $a.meta.title }} - Series: "{{ . }}" - URL: {{ $a.url }}</p>{{ end }}{{ end }}
+  <h2>Matching Series</h2><p>No series or series is empty</p>
+{{ end }}

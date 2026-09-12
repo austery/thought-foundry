@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "build:hugo": "pnpm --dir native build ..",
+    "check:hugo": "pnpm --dir native check && pnpm --dir native test",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "NODE_OPTIONS=\"--max-old-space-size=8192\" pnpm exec eleventy && pnpm exec pagefind --site _site",
     "dev": "NODE_OPTIONS=\"--max-old-space-size=8192\" pnpm exec eleventy --serve",
