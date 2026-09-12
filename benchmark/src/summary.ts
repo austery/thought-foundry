@@ -13,7 +13,7 @@ export function readCompletedPair(value: unknown): CompletedPair {
     const rows=values.map(validateMeasurement);
     if(JSON.stringify(rows.map(r=>r.stage))!==JSON.stringify(expected[engine])||rows.some(r=>r.exitCode!==0))throw new Error('Incomplete or failed measured stages');
     sums[engine]=rows.reduce((s,r)=>s+r.seconds,0);
-    if(typeof totals[engine]!=='number'||!Number.isFinite(totals[engine])||Math.abs(sums[engine]-totals[engine])>0.001)throw new Error('Inconsistent totals');
+    if(sums[engine]<=0 || typeof totals[engine]!=='number'||!Number.isFinite(totals[engine])||Math.abs(sums[engine]-totals[engine])>0.001)throw new Error('Inconsistent totals');
   }
   return {mode:row.mode as Mode,repetition:row.repetition,totals:sums,strictParity:row.strictParity};
 }
@@ -28,5 +28,20 @@ export function summarize(pairs:CompletedPair[]) {
   const warm=byMode.warm!;const saved=warm.eleventy.median-warm.hugo.median;const percent=100*saved/warm.eleventy.median;
   const performanceThreshold=saved>=120&&percent>=30;
   const compatibilityPassed=pairs.every(p=>p.strictParity);
-  return {byMode,warmMedianSaving:{seconds:saved,percent},performanceThreshold,compatibilityPassed,recommendMigration:performanceThreshold&&compatibilityPassed};
+  const consistent=pairs.filter(p=>p.mode!=='added').every(p=>p.totals.hugo<p.totals.eleventy);
+  const overlappingRanges=['cold','warm'].some(mode=>byMode[mode]!.hugo.max>=byMode[mode]!.eleventy.min);
+  const needsFurtherInvestigation=!consistent||overlappingRanges;
+  return {byMode,warmMedianSaving:{seconds:saved,percent},performanceThreshold,compatibilityPassed,consistent,overlappingRanges,needsFurtherInvestigation,recommendMigration:performanceThreshold&&compatibilityPassed&&!needsFurtherInvestigation};
 }
+
+export function experimentIdentity(manifest: unknown, sourceAfter: unknown, versions: unknown, hugo: unknown): string {
+  const m=object(manifest), e=object(m.environment), after=object(sourceAfter), v=object(versions), h=object(hugo);
+  const identity:Record<string,string>={};
+  for(const key of ['baselineSha','contentSha','candidateSha','siteLockHash','toolsLockHash','pnpm']){if(typeof m[key]!=='string'||!m[key])throw new Error('Missing experiment identity');identity[key]=m[key];}
+  for(const key of ['node','runId','attempt']){if(typeof e[key]!=='string'||!e[key])throw new Error('Missing runner identity');identity[key]=e[key];}
+  for(const key of ['@11ty/eleventy','pagefind']){if(typeof v[key]!=='string'||!v[key])throw new Error('Missing engine identity');identity[key]=v[key];}
+  if(typeof h.hugo!=='string'||!h.hugo)throw new Error('Missing Hugo identity');identity.hugo=h.hugo;
+  if(after.unchanged!==true||typeof after.before!=='string'||after.before!==after.after)throw new Error('Source verification failed');identity.sourceFingerprint=after.before;
+  return JSON.stringify(identity);
+}
+export function requireSameExperiment(identities:string[]):string {if(!identities.length||new Set(identities).size!==1)throw new Error('Mixed experiment identities');return identities[0]!;}

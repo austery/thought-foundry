@@ -1,19 +1,25 @@
 import { execFileSync } from 'node:child_process';
 import { createHash } from 'node:crypto';
 import { mkdir, cp, readFile, writeFile } from 'node:fs/promises';
-import { resolve, join } from 'node:path';
+import { resolve, join, dirname } from 'node:path';
 import { measure, inventory, fingerprint, gitSha, environment } from './evidence.js';
 
 const [operation, ...args] = process.argv.slice(2);
 function arg(index: number): string { const value = args[index]; if (!value) throw new Error(`Missing argument ${index}`); return value; }
 if (operation === 'summarize') {
-  const { readCompletedPair, summarize } = await import('./summary.js');
+  const { readCompletedPair, summarize, experimentIdentity, requireSameExperiment } = await import('./summary.js');
   const { files } = await import('./evidence.js');
   const root = resolve(arg(0));
-  const pairs = [];
-  for (const name of await files(root)) if (name.endsWith('/pair.json') || name === 'pair.json') pairs.push(readCompletedPair(JSON.parse(await readFile(join(root,name),'utf8'))));
+  const pairs = []; const identities: string[] = [];
+  for (const name of await files(root)) if (name.endsWith('/pair.json') || name === 'pair.json') {
+    const dir=dirname(join(root,name));
+    const json=async (file:string):Promise<unknown>=>JSON.parse(await readFile(join(dir,file),'utf8'));
+    identities.push(experimentIdentity(await json('run-manifest.json'),await json('source-after.json'),await json('versions.json'),await json('measured-hugo-versions.json')));
+    pairs.push(readCompletedPair(await json('pair.json')));
+  }
+  const identity=JSON.parse(requireSameExperiment(identities)) as Record<string,string>;
   const result = summarize(pairs);
-  await writeFile(resolve(arg(1)),JSON.stringify({pairs,...result},null,2));
+  await writeFile(resolve(arg(1)),JSON.stringify({identity,pairs,...result},null,2));
   console.log(JSON.stringify(result));
 } else if (operation === 'pair') {
   const { runPair } = await import('./pair.js');

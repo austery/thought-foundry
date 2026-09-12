@@ -55,6 +55,7 @@ export async function runPair(mode: string, repetition: number, site: string, ro
         }
       }
     }
+    if(await fingerprint(join(site,'src'))!==sourceBefore) throw new Error('Priming mutated staged source');
     const addition = mode==='added' ? await addFixture(site) : null;
     const inputFingerprint=await fingerprint(join(site,'src'));
     await writeFile(join(reports,'input.json'),JSON.stringify({sourceBefore,inputFingerprint,addition,cacheMode:plan.mode},null,2));
