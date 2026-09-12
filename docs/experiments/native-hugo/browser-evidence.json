@@ -1,0 +1,147 @@
+{
+  "date": "2026-09-12",
+  "implementationSha": "3f5b5eb22447249bfcb0a7c707a3610dd801c4a3",
+  "surface": "Codex in-app browser; loopback static HTTP",
+  "baseline": "http://127.0.0.1:8096",
+  "candidate": "http://127.0.0.1:8098",
+  "widths": [
+    390,
+    820,
+    1440
+  ],
+  "matrix": [
+    {
+      "path": "/content/notes/--kMncMjFZw/",
+      "baselineAndCandidateScrollWidths": [
+        384,
+        814,
+        1434
+      ],
+      "headings": 7,
+      "code": 0,
+      "tables": 0,
+      "details": 1,
+      "toc": 8
+    },
+    {
+      "path": "/content/books/Enlightenment-Now/",
+      "baselineAndCandidateScrollWidths": [
+        384,
+        814,
+        1434
+      ],
+      "headings": 24,
+      "code": 0,
+      "tables": 0,
+      "details": 0,
+      "toc": 20
+    },
+    {
+      "path": "/content/clippings/2026-02-18_httpsbao_claude-code-auto-commit/",
+      "baselineAndCandidateScrollWidths": [
+        1339,
+        1339,
+        1811
+      ],
+      "headings": 7,
+      "code": 6,
+      "tables": 0,
+      "details": 1,
+      "toc": 7
+    },
+    {
+      "path": "/content/posts/stock_tokenization_invest_pre_ipo_Gemini/",
+      "baselineAndCandidateScrollWidths": [
+        400,
+        814,
+        1434
+      ],
+      "headings": 46,
+      "code": 0,
+      "tables": 2,
+      "details": 1,
+      "toc": 16
+    }
+  ],
+  "search": [
+    {
+      "query": "高考",
+      "baseline": 259,
+      "candidate": 259,
+      "firstThreeUrlsEqual": true,
+      "firstThreeUrls": [
+        "/content/notes/fKZyTnfj0XA/",
+        "/content/notes/DLvWvvV4LpE/",
+        "/content/notes/Fjg0troUubY/"
+      ]
+    },
+    {
+      "query": "夸克说",
+      "baseline": 137,
+      "candidate": 137,
+      "firstThreeUrlsEqual": true,
+      "firstThreeUrls": [
+        "/content/notes/pxvXVXRkvKQ/",
+        "/content/notes/eS-FA0rX11U/",
+        "/content/notes/8vJaiq1xK1s/"
+      ]
+    },
+    {
+      "query": "量子菠萝不存在这篇文档",
+      "baseline": 0,
+      "candidate": 0
+    }
+  ],
+  "interactions": {
+    "candidateThemeButtonAndReload": "data-theme=dark retained after reload",
+    "candidateToc": "Clicking heading-0 scrolled to its section; existing JS offset places heading at -100px",
+    "candidateEntityFolding": "summary click changes details.open to true",
+    "bookCover": "External Google Books image loaded, naturalWidth=128",
+    "bookDarkTheme": "Both engines computed body/header background rgb(11, 14, 11) after loading",
+    "specialCharacterEntityLink": "Disney+ retains /search/?q=Disney+; both engines interpret the legacy raw plus as a space and search Disney (154 results). Existing behavior is preserved, not repaired.",
+    "headerSearchInput": "Filling the article header search input with 高考 produced 259 results and the same first URL in both engines.",
+    "englishOriginalToggleAll": {
+      "path": "/content/notes/2NObEEnTJW8/",
+      "bothEngines": {
+        "count": 23,
+        "initialOpen": 0,
+        "afterExpand": 23,
+        "afterCollapse": 0
+      }
+    }
+  },
+  "limitations": [
+    "Long-code article has identical existing horizontal overflow at all widths; stock table article has identical 400px scroll width at 390px viewport.",
+    "Visual screenshots inspected in the browser were not persisted as report artifacts.",
+    "Local browser acceptance does not establish hosted routing, credentials, deployment, or production freshness."
+  ],
+  "interactionMatrix": [
+    {
+      "width": 390,
+      "bothEngines": {
+        "themeBefore": "dark",
+        "themeAfterToggleAndReload": null,
+        "headingTop": -100,
+        "detailsOpen": true
+      }
+    },
+    {
+      "width": 820,
+      "bothEngines": {
+        "themeBefore": null,
+        "themeAfterToggleAndReload": "dark",
+        "headingTop": -99.9375,
+        "detailsOpen": true
+      }
+    },
+    {
+      "width": 1440,
+      "bothEngines": {
+        "themeBefore": "dark",
+        "themeAfterToggleAndReload": null,
+        "headingTop": -0.21875,
+        "detailsOpen": true
+      }
+    }
+  ]
+}

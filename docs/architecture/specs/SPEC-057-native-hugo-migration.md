@@ -1,7 +1,7 @@
 ---
 specId: SPEC-057
 title: Native Hugo Migration
-status: Ready for Implementation
+status: Native Candidate Validated
 priority: P1 - Core Feature
 creationDate: 2026-09-12
 lastUpdateDate: 2026-09-12
@@ -48,52 +48,52 @@ The September 12 handoff selects native Hugo and preserves the existing appearan
 
 ### Phase 1: Freeze baseline and reproduce exceptional inputs
 
-- [ ] Create a separate task-owned branch/worktree; leave the comparison worktree intact. Inspect current main and experiment changes before selecting the implementation base.
-- [ ] Pin baseline code, candidate code, full content commit, dependencies, and tools for reproducible comparisons.
-- [ ] Capture complete source-to-URL, output, index, navigation, and source-fingerprint manifests.
-- [ ] Reproduce equal-date pagination, unusual URLs, legacy Markdown/Liquid input, the MarkdownIt fallback, exclusions, and metadata edge cases with focused fixtures.
+- [x] Create a separate task-owned branch/worktree; leave the comparison worktree intact. Inspect current main and experiment changes before selecting the implementation base.
+- [x] Pin baseline code, candidate code, full content commit, dependencies, and tools for reproducible comparisons.
+- [x] Capture complete source-to-URL, output, index, navigation, and source-fingerprint manifests.
+- [x] Reproduce equal-date ordering, unusual URLs, legacy Markdown/Liquid input, the body-rendering exception, exclusions, and metadata edge cases with fixtures and full-corpus probes. Verify existing taxonomy-directory pagination in the complete output comparison; article lists themselves are unpaginated.
 
 **Acceptance:** baseline behavior is inspectable and exceptional cases are reproducible without changing original content.
 
 ### Phase 2: Implement the native candidate and local preview
 
-- [ ] Implement Hugo layouts, collections/taxonomy data, routing, and limited typed compatibility tooling.
-- [ ] Resolve body-rendering exceptions within the Hugo ownership boundary; inventory any proposed presentation differences.
-- [ ] Build into isolated output and serve a local preview. Preserve existing deployment behavior throughout this phase.
-- [ ] Validate complete URL/index coverage and deterministic navigation. Exercise positive and negative Chinese search, theme persistence, ToC, folding, books, long articles, tables, and code at 390, 820, and 1440 pixels.
+- [x] Implement Hugo layouts, collections/taxonomy data, routing, and limited typed compatibility tooling.
+- [x] Resolve body-rendering exceptions within the Hugo ownership boundary; inventory any proposed presentation differences.
+- [x] Build into isolated output and serve a local preview. Preserve existing deployment behavior throughout this phase.
+- [x] Validate complete URL/index coverage and deterministic navigation. Exercise positive and negative Chinese search, theme persistence, ToC, folding, books, long articles, tables, and code at 390, 820, and 1440 pixels.
 
 **Acceptance:** all functional compatibility checks pass; remaining presentation differences have explicit evidence and disposition. No second body renderer is required.
 
 ### Phase 3: Full remote validation and review
 
-- [ ] Use a branch-isolated, read-only comparison workflow without production secrets, cache keys, deployment concurrency groups, or publishing steps.
-- [ ] Repeat three cold and three warm sequential pairs on identical content per pair, alternating engine order, plus one added-article full rebuild in staged input.
-- [ ] Count all required adaptation, rendering, output normalization, and full indexing in comparable build time; separately report setup, priming, validation, packaging, failures, memory, and output size.
-- [ ] Propose retaining SPEC-056's performance target: warm median savings of at least 30% and 120 seconds against the pinned Eleventy baseline. Investigate overlapping timing ranges or inconsistent savings; report an unmet target without claiming readiness.
-- [ ] Review isolation, migration correctness, and acceptance logic independently from implementation; fix findings and update operating documentation.
-- [ ] Verify preview artifact contents and actual availability if artifacts are offered. Correct the inherited downloadable-preview claim in follow-up documentation while preserving the experiment checkpoint.
+- [x] Use a branch-isolated, read-only comparison workflow without production secrets, cache keys, deployment concurrency groups, or publishing steps.
+- [x] Repeat three cold and three warm sequential pairs on identical content per pair, alternating engine order, plus one added-article full rebuild in staged input.
+- [x] Count all required adaptation, rendering, output normalization, and full indexing in comparable build time; separately report setup, priming, validation, packaging, failures, memory, and output size.
+- [x] Propose retaining SPEC-056's performance target: warm median savings of at least 30% and 120 seconds against the pinned Eleventy baseline. Investigate overlapping timing ranges or inconsistent savings; report an unmet target without claiming readiness.
+- [x] Review isolation, migration correctness, and acceptance logic independently from implementation; fix findings and update operating documentation.
+- [x] Verify preview artifact contents and actual availability if artifacts are offered. Correct the inherited downloadable-preview claim in follow-up documentation while preserving the experiment checkpoint.
 
 **Acceptance:** reproducible native performance and compatibility evidence exists; review findings are resolved. Local success alone does not establish remote or production acceptance.
 
 ### Phase 4: Prepare release for separate approval
 
 - [ ] Identify the exact preview hosting target, URL/base-path behavior, deployment credentials, and publication scope before proposing a hosted preview.
-- [ ] Prepare production cutover and rollback commands around identified code/content/output revisions. Retain a known-good old output and coordinate the hourly publisher so it cannot overwrite a cutover unexpectedly.
-- [ ] Specify hosted-preview acceptance, final content freshness checks, post-cutover smoke checks, and rollback triggers.
+- [x] Prepare production cutover and rollback commands around identified code/content/output revisions. Retain a known-good old output and coordinate the hourly publisher so it cannot overwrite a cutover unexpectedly.
+- [x] Specify hosted-preview acceptance, final content freshness checks, post-cutover smoke checks, and rollback triggers.
 
 **Acceptance:** the proposed hosted preview and production release are concrete and reviewable. This draft authorizes neither hosting changes nor production publication; those actions need separate user authorization. A preview hostname is not a prerequisite for local implementation.
 
 ## 5. Acceptance Criteria
 
 - [x] User confirms the consolidated implementation scope.
-- [ ] Hugo owns every candidate page template and body render; typed compatibility tools remain bounded as described.
-- [ ] Complete output URLs and indexed URLs match the frozen baseline; original content fingerprints remain unchanged.
-- [ ] Navigation membership is preserved, equal-date ordering is reproducible, and pagination introduces no omissions or duplicates.
-- [ ] Body meaning, links, headings/anchors, images, metadata, exclusions, and search behavior pass full inventories and focused public-behavior checks.
-- [ ] Presentation-only exceptions are enumerated and inspected; no semantic or functional regression is silently waived.
-- [ ] Representative browser checks pass at all three widths; existing defects are distinguished from candidate regressions.
-- [ ] Remote comparable-build results include all required stages and meet the approved performance target, or explicitly block migration readiness.
-- [ ] Independent review is complete and the cutover/rollback proposal identifies actual targets and revisions.
+- [x] Hugo owns every candidate page template and body render; typed compatibility tools remain bounded as described.
+- [x] Complete output URLs and indexed URLs match the frozen baseline; original content fingerprints remain unchanged.
+- [x] Navigation membership is preserved, equal-date ordering is reproducible, and pagination introduces no omissions or duplicates.
+- [x] Body meaning, links, headings/anchors, images, metadata, exclusions, and search behavior pass full inventories and focused public-behavior checks.
+- [x] Presentation-only exceptions are enumerated and inspected; no semantic or functional regression is silently waived.
+- [x] Representative browser checks pass at all three widths; existing defects are distinguished from candidate regressions.
+- [x] Remote comparable-build results include all required stages and meet the approved performance target, or explicitly block migration readiness.
+- [x] Independent review is complete and the cutover/rollback proposal identifies actual targets and revisions.
 
 ## 6. Status History
 
@@ -101,6 +101,7 @@ The September 12 handoff selects native Hugo and preserves the existing appearan
 | --- | --- | --- |
 | 2026-09-12 | Draft | Consolidates three accepted decisions; implementation scope and proposed performance target await confirmation |
 | 2026-09-12 | Ready for Implementation | User approved the complete scope and performance target; independent contract review clarified existing series and book-tag behavior |
+| 2026-09-12 | Native Candidate Validated | Seven remote pairs passed at 3f5b5eb22; warm engine medians improved by 459.38 seconds / 64.33%; production and hosted preview remain separately gated |
 
 ## 7. Related
 
@@ -109,3 +110,5 @@ The September 12 handoff selects native Hugo and preserves the existing appearan
 - [Entity static page removal](SPEC-051-remove-entity-static-pages.md).
 - Experiment branch: `docs/architecture/specs/SPEC-056-hugo-remote-build-comparison.md`, `docs/experiments/hugo-comparison/results.md`, and `differences.md` at the retained checkpoint.
 - Existing implementation: `.eleventy.js`, `src/_includes/`, `src/*.njk`, `package.json`, and `.github/workflows/deploy.yml`.
+
+Implementation evidence: [native validation](../../experiments/native-hugo/validation.md) and [release proposal](../../experiments/native-hugo/release-plan.md).
