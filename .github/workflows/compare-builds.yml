@@ -1,0 +1,74 @@
+name: Compare static site builds
+on:
+  push:
+    branches: [codex/hugo-build-comparison]
+    paths: ['benchmark/**', '.github/workflows/compare-builds.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: comparison-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  baseline:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    env:
+      TZ: UTC
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - id: pins
+        run: |
+          node -e 'const c=require("./benchmark/config.json"); for(const [k,v] of Object.entries(c)) console.log(`${k}=${v}`)' >> "$GITHUB_OUTPUT"
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ steps.pins.outputs.baselineSha }}
+          path: .benchmark/baseline
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          repository: austery/thought-foundry-content
+          ref: ${{ steps.pins.outputs.contentSha }}
+          path: .benchmark/source
+          persist-credentials: false
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10.14.0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22.19.0'
+      - name: Install measurement tools
+        run: pnpm install --dir benchmark --frozen-lockfile
+      - name: Validate measurement tools
+        run: |
+          pnpm --dir benchmark check
+          pnpm --dir benchmark test
+      - name: Prepare complete source copy
+        run: pnpm --dir benchmark run run prepare ../.benchmark/source ../.benchmark/baseline ../.benchmark/reports
+      - name: Measure dependency installation
+        run: pnpm --dir benchmark run run measure install ../.benchmark/baseline ../.benchmark/reports pnpm install --frozen-lockfile
+      - name: Measure Eleventy
+        run: pnpm --dir benchmark run run measure eleventy ../.benchmark/baseline ../.benchmark/reports pnpm exec eleventy
+      - name: Measure Pagefind
+        run: pnpm --dir benchmark run run measure pagefind ../.benchmark/baseline ../.benchmark/reports pnpm exec pagefind --site _site
+      - name: Inventory and verify source
+        run: |
+          pnpm --dir benchmark run run inventory ../.benchmark/baseline/_site ../.benchmark/reports/baseline-inventory.json
+          pnpm --dir benchmark run run verify-source ../.benchmark/source ../.benchmark/reports/source-before.json
+      - name: Measure preview packaging
+        run: pnpm --dir benchmark run run measure package ../.benchmark/baseline ../.benchmark/reports tar -czf ../baseline-preview.tar.gz _site
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: baseline-evidence-${{ github.run_id }}-${{ github.run_attempt }}
+          path: .benchmark/reports
+          retention-days: 7
+      - uses: actions/upload-artifact@v4
+        with:
+          name: baseline-preview-${{ github.run_id }}-${{ github.run_attempt }}
+          path: .benchmark/baseline-preview.tar.gz
+          compression-level: 0
+          retention-days: 3
