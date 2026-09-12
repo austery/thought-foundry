@@ -1,0 +1,11 @@
+{
+  "runId": "34704084774",
+  "artifactId": "10301053138",
+  "candidateSha": "7be2ef60e7673eaf498046ef23dff7af9c7543fc",
+  "contentSha": "711c18c4f3796176beba0cfb7a74b5134ff9a9f4",
+  "archiveSha256": "5bd43b3eb3b65ab07f27fee77dc2c93a4560aee6e0a3d0479515fe4bdb8defc5",
+  "publicationManifestSha256": "ad2cb618351f140bef81eee83a6f170f16d70909e5285e115317b3e273526ae4",
+  "files": 25220,
+  "publicationAddition": ".nojekyll",
+  "extractionVerified": true
+}

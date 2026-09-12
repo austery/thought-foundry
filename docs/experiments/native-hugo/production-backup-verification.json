@@ -1,0 +1,9 @@
+{
+  "repository": "austery/austery.github.io",
+  "revision": "398b31af32319c2a6f06823cc842e067f97042d6",
+  "files": 25220,
+  "archiveSha256": "025687708dcd425cabddd5c5e14a9bad75ae8943b61e778f255ad8cf15732b2d",
+  "manifestSha256": "ae6156dc9c76645dc6048486c43223f38ee3846b8db0911768159c2087d93fc9",
+  "restoreVerified": true,
+  "storage": "local release worktree only; external durable copy pending"
+}
