@@ -1,6 +1,6 @@
 # Post-migration cleanup record
 
-Status: user-approved cleanup implemented and locally validated; PR publication pending.
+Status: user-approved cleanup implemented and locally validated; integration requires PR merge.
 
 ## Baseline and ownership
 

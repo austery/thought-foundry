@@ -71,7 +71,7 @@ inputs, also compare a fixed-content full build and search/navigation behavior.
 Never equate type checks alone with full-corpus acceptance.
 
 `.github/workflows/deploy.yml` publishes hourly at minute 05, on manual dispatch,
- and on qualifying main-branch pushes. It checks out current content, excludes
+and on qualifying main-branch pushes. It checks out current content, excludes
 subtitle working directories during staging, builds Hugo and full Pagefind,
 adds `.nojekyll`, records source/output identities, and publishes to
 `austery/austery.github.io` using the existing deployment key. Publication
