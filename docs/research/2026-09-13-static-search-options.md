@@ -8,7 +8,22 @@ Scope: Approximately 10,000 mostly Chinese articles; reduce dependence on the ex
 
 Start with exact-phrase controls, relevance evaluation, and a small explicit alias dictionary. Then test a separate concise article index built from existing title, summary, insight, and headings, while retaining full-text search as a fallback. Browser vector retrieval is a viable later experiment, but moves inference and download costs to the reader. A small hosted query-embedding endpoint is another middle ground; semantic retrieval does not require answer generation or a continuously operated vector database.
 
-The current investigation of actual `家庭关系` and `教育` results belongs to the companion diagnostic work. This note does not infer OR semantics, duplicate result counts, or current backend bottleneck causes from screenshots.
+## Verified local query audit
+
+The existing local output `.native-build/run-oOLPbb/public` was served on loopback and queried through its actual Pagefind browser API. This is a different snapshot from the user's screenshot: education returned 2,470 here, versus 2,690 in the screenshot. No production query-count equivalence is claimed.
+
+| Query | Matching pages |
+| --- | ---: |
+| `家庭关系` | 1,868 |
+| `家庭 关系` | 1,868 |
+| `"家庭关系"` | 71 |
+| `教育` or `"教育"` | 2,470 |
+
+The 1,868 compound-query result IDs exactly equal the intersection of the separate `家庭` and `关系` result sets. This is AND across the article, not OR. All 1,868 matching fragments contain both words; only 71 contain the literal phrase. A visible excerpt may show only one word while the other occurs elsewhere. Phrase-only retrieval also loses potentially useful results, such as articles titled `第一课：夫妻婚后的成长` and `婆媳关系：家庭和谐的四方智慧`; prefer an explicit precision control or a relaxed fallback over silently requiring exact phrases for every query.
+
+All 2,470 education results have distinct URLs and contain the literal word in indexed text. Of those pages, 117 have it in the title, 370 in summary or insight, and 1,763 contain at most three occurrences. These are descriptive proxies, not human relevance labels. The evidence supports a distinction between an article's main subject and an incidental mention, rather than duplicate excerpts inflating this local count.
+
+Raw audit data is preserved in `evidence/2026-09-13-pagefind-query-audit.json`. The scratch reproduction scripts and browser results are in `.native-build/search-investigation/`; these use the existing index, not a new build.
 
 ## Supported Pagefind improvements
 
@@ -64,3 +79,7 @@ RAG adds answer generation conditioned on retrieved documents. Returning relevan
 5. Do not infer the comparison website's architecture from a semantic-search label, a similarity percentage, or a screenshot. The provided [YaGe search page](https://yage.ai/search/) was fetched successfully with curl: its initial HTML contains a GET form targeting `./` with query field `q`, plus Bootstrap/jQuery assets, and no custom browser search script. This establishes a server request interface, not its underlying index, model, vector database, or computation cost. The site's general articles about retrieval are not proof of its deployed search implementation.
 
 No website code, content submodule, production configuration, or search service was changed by this research.
+
+## YaGe observed response
+
+A public GET request to `https://yage.ai/search/?q=家庭关系` returned six article cards, each with an article title/link and summary, and some with additional matching passages. This makes the result presentation useful to study: an article summary explains the overall subject, while separate passages show supporting context. Some results concern AI management or career choices, so this single query does not establish consistently better relevance. The server returned the completed result HTML; neither its embedding model nor its index architecture, database, summarization timing, or backend resource use is observable from this response. A simple interface is not evidence of a cheap backend.

@@ -1,0 +1,99 @@
+{
+  "output": "/Users/leipeng/Documents/Projects/thought-foundry/.native-build/run-oOLPbb/public",
+  "queries": [
+    {
+      "query": "家庭关系",
+      "count": 1868
+    },
+    {
+      "query": "家庭 关系",
+      "count": 1868
+    },
+    {
+      "query": "\"家庭关系\"",
+      "count": 71
+    },
+    {
+      "query": "\"家庭 关系\"",
+      "count": 71
+    },
+    {
+      "query": "教育",
+      "count": 2470
+    },
+    {
+      "query": "\"教育\"",
+      "count": 2470
+    },
+    {
+      "query": "家庭",
+      "count": 2763
+    },
+    {
+      "query": "关系",
+      "count": 5264
+    }
+  ],
+  "education": {
+    "articles": 2470,
+    "uniqueUrls": 2470,
+    "titleMatches": 117,
+    "summaryMatches": 370,
+    "headingsMatches": 356,
+    "literalMatches": 2470,
+    "mentionsAtMost3": 1763,
+    "samples": [
+      {
+        "url": "/content/notes/HuL1I10jDME/",
+        "title": "从工厂到北大：命运的转折与人生智慧",
+        "mentions": 2
+      },
+      {
+        "url": "/content/notes/_OBdbnwXsB4/",
+        "title": "中国式家长与少年班：控制欲、拔苗助长与驯化的灵魂",
+        "mentions": 2
+      },
+      {
+        "url": "/content/notes/8NFyP0gQVow/",
+        "title": "超越生死的慈悲：李连杰与女儿的心理自愈及修行之路",
+        "mentions": 2
+      },
+      {
+        "url": "/content/clippings/2026-07-23_httpsyag_why-you-must-care-about-graph-engineering-20260723-html/",
+        "title": "为什么你必须立刻开始学习 Graph Engineering？",
+        "mentions": 2
+      },
+      {
+        "url": "/content/notes/Ey3jBeC_urg/",
+        "title": "成功職涯沒有公式：瓦基談《情境智慧》，如何破解觀點衝突並將焦慮轉化為動力",
+        "mentions": 2
+      }
+    ]
+  },
+  "family": {
+    "bothWordMatches": 1868,
+    "literalPhraseMatches": 71,
+    "samples": [
+      {
+        "url": "/content/notes/Z0NUvd24_qs/",
+        "title": "第一课：夫妻婚后的成长"
+      },
+      {
+        "url": "/content/notes/iDyhgWhrS2Y/",
+        "title": "新生代农民工的生命历程与家庭困境：从消费自主到经济母职"
+      },
+      {
+        "url": "/content/notes/0NR33xdd8m4/",
+        "title": "离婚有错吗？婚姻的本质是什么？——康德、黑格尔与波伏瓦的哲学辩论"
+      },
+      {
+        "url": "/content/notes/Rvi4AUTQYuU/",
+        "title": "人机共生的未来：AI如何重塑亲密关系与社会结构"
+      },
+      {
+        "url": "/content/notes/2GBiXqsad7U/",
+        "title": "婆媳关系：家庭和谐的四方智慧"
+      }
+    ]
+  }
+}
