@@ -2,8 +2,10 @@ import {createServer} from 'node:http';
 import {readFile,realpath} from 'node:fs/promises';
 import {resolve,extname,sep} from 'node:path';
 
-if(!process.argv[2])throw new Error('Usage: pnpm preview OUTPUT_DIRECTORY [PORT]');
-const root=await realpath(resolve(process.argv[2]));
+const latest: unknown = process.argv[2] ? null : JSON.parse(await readFile(resolve('../.native-build/latest.json'),'utf8'));
+const directory = process.argv[2] ?? (typeof latest === 'object' && latest !== null && 'output' in latest && typeof latest.output === 'string' ? latest.output : undefined);
+if(!directory)throw new Error('Run pnpm build first, or use pnpm preview OUTPUT_DIRECTORY [PORT]');
+const root=await realpath(resolve(directory));
 const port=Number(process.argv[3]??8098);
 if(!Number.isInteger(port)||port<1024||port>65535)throw new Error('Invalid preview port');
 const mime:Record<string,string>={'.html':'text/html; charset=utf-8','.js':'text/javascript','.css':'text/css','.json':'application/json','.wasm':'application/wasm'};

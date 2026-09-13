@@ -118,7 +118,7 @@ Recommend advancing toward migration only when there are zero unexplained compat
 - [Hugo on GitHub Pages](https://gohugo.io/host-and-deploy/host-on-github-pages/)
 - [GitHub Pages custom workflows](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)
 
-User approval: On September 11, the user approved all three tickets, autonomous experiment runs, per-ticket code reviews, and final result recording. Production changes remain out of scope. Tickets are tracked locally under `.scratch/hugo-build-comparison/issues/`.
+User approval: On September 11, the user approved all three tickets, autonomous experiment runs, per-ticket code reviews, and final result recording. Production changes remain out of scope. Tickets are tracked locally under `docs/archive/hugo-migration-work-notes/issues/`.
 
 
 ## Candidate Implementation Decision

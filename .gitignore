@@ -1,13 +1,13 @@
 #-------------------------------------------------
-# Eleventy
+# Retired output paths (prevent accidental recommits)
 #-------------------------------------------------
-# The static website built by Eleventy
+# Historical generated site output
 _site/
 
 # Pagefind search index (generated during build)
 _site/pagefind/
 
-# Eleventy persistent cache (for performance optimization)
+# Historical generated slug cache
 .eleventy-cache.json
 
 # Node.js dependencies
@@ -40,7 +40,7 @@ $RECYCLE.BIN/
 *.code-workspace
 
 #-------------------------------------------------
-# Python Codes
+# Legacy content-tool environments (not site dependencies)
 #-------------------------------------------------
 __pycache__/
 .venv/
@@ -50,3 +50,6 @@ __pycache__/
 .native-*/
 .backup-baseline-validation/
 artifacts/native-previews/
+
+# Local audit evidence and retained pre-cleanup documents
+.local-evidence/
