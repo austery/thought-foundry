@@ -1,21 +1,18 @@
 {
   "name": "thought-foundry",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
-    "build:hugo": "pnpm --dir native build ..",
-    "check:hugo": "pnpm --dir native check && pnpm --dir native test",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "NODE_OPTIONS=\"--max-old-space-size=8192\" pnpm exec eleventy && pnpm exec pagefind --site _site",
-    "dev": "NODE_OPTIONS=\"--max-old-space-size=8192\" pnpm exec eleventy --serve",
-    "dev:incremental": "NODE_OPTIONS=\"--max-old-space-size=8192\" pnpm exec eleventy --serve --incremental",
-    "build:debug": "DEBUG=true pnpm exec eleventy && pnpm exec pagefind --site _site",
-    "build:incremental": "pnpm exec eleventy --incremental && pnpm exec pagefind --site _site",
-    "preinstall": "npx only-allow pnpm"
+    "build": "pnpm --dir native build ..",
+    "build:hugo": "pnpm build",
+    "check": "pnpm --dir native check",
+    "test": "pnpm --dir native test",
+    "check:hugo": "pnpm check && pnpm test",
+    "preview": "pnpm --dir native preview",
+    "dev": "pnpm build && pnpm preview"
   },
   "engines": {
-    "node": ">=18",
-    "pnpm": ">=9"
+    "node": ">=22.19.0",
+    "pnpm": ">=10.14.0"
   },
   "repository": {
     "type": "git",
@@ -29,13 +26,6 @@
   },
   "homepage": "https://github.com/austery/thought-foundry#readme",
   "description": "",
-  "devDependencies": {
-    "@11ty/eleventy": "^3.1.2",
-    "@sindresorhus/slugify": "^2.2.1",
-    "pagefind": "^1.4.0"
-  },
-  "dependencies": {
-    "cheerio": "^1.2.0",
-    "pinyin": "^4.0.0"
-  }
+  "private": true,
+  "packageManager": "pnpm@10.14.0"
 }

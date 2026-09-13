@@ -88,10 +88,6 @@ export async function prepare(site: string, destination: string, cacheFile?: str
     if (rendered !== article.body) preprocessed.push(article.source);
     await page(article.url,{view:'article',articleid:article.id,pagetitle:text(article.meta.title)},escapeShortcodes(rendered));
   }
-  const known = ['blog','bookshelf','about','tool','search','debug-series','all-tags','all-speakers','all-categories','all-projects','all-areas','tag-page','speaker-page','category-page','project-page','area-page'];
-  for (const name of (await files(source)).filter(n => n.endsWith('.njk') && !n.startsWith('_includes/'))) {
-    if (!known.includes(name.replace(/\.njk$/,''))) throw new Error(`Unmapped standalone template: ${name}`);
-  }
   for (const [view,url,title] of [
     ['home','/','The Learning Grove | Home'],['bookshelf','/bookshelf/','我的书架'],
     ['about','/about/','关于我'],['tool','/tool/','常用工具'],['search','/search/','搜索'],['debug-series','/debug-series/',''],

@@ -1,5 +1,5 @@
 import { execFileSync } from 'node:child_process';
-import { mkdir, mkdtemp, symlink } from 'node:fs/promises';
+import { mkdir, mkdtemp, symlink, writeFile } from 'node:fs/promises';
 import { resolve, join } from 'node:path';
 import { prepare, restore } from './prepare.js';
 
@@ -19,5 +19,6 @@ else if (operation === 'build') {
   execFileSync('hugo',['--source',staging,'--destination',output],{stdio:'inherit'});
   await restore(staging,output);
   execFileSync('pnpm',['exec','pagefind','--site',output],{stdio:'inherit'});
+  await writeFile(join(parent,'latest.json'),JSON.stringify({output}));
   console.log(`Native output: ${output}`);
 } else throw new Error(`Unknown operation: ${operation}`);
