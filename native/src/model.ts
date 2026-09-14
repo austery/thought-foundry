@@ -1,3 +1,4 @@
+import type { XReading } from './x-reading.js';
 import slugify from '@sindresorhus/slugify';
 import { pinyin } from 'pinyin';
 
@@ -6,7 +7,7 @@ export type Taxonomy = 'tags' | 'speakers' | 'categories' | 'projects' | 'areas'
 export interface Link { name: string; url: string; }
 export interface Article {
   id: string; source: string; url: string; date: string; dateLabel: string;
-  meta: Metadata; body: string; kind: string; layout: string;
+  xReading?: XReading; meta: Metadata; body: string; kind: string; layout: string;
   links: Record<Taxonomy, Link[]>; speakerLink: string; related: string[];
 }
 export interface Group { name: string; key: string; slug: string; url: string; posts: string[]; }

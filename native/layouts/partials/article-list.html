@@ -3,7 +3,7 @@
 {{ range .ids }}{{ $a := index hugo.Data.archive.articles . }}{{ $m := $a.meta }}
   <li>
     <a {{ printf "href=\"%s\"" ($a.url | htmlEscape) | safeHTMLAttr }}>{{ $m.title }}</a>
-    {{ if eq $a.kind "posts" }}<span class="badge">✍️</span>{{ else if eq $a.kind "notes" }}<span class="badge">📝</span>{{ else if and $home (eq $a.kind "clippings") }}<span class="badge">📎</span>{{ end }}
+    {{ if $a.xReading }}<span class="badge">𝕏 原文</span>{{ else if eq $a.kind "posts" }}<span class="badge">✍️</span>{{ else if eq $a.kind "notes" }}<span class="badge">📝</span>{{ else if and $home (eq $a.kind "clippings") }}<span class="badge">📎</span>{{ end }}
     {{ with $m.speaker }}<a {{ printf "href=\"%s\"" ($a.speakerLink | htmlEscape) | safeHTMLAttr }} class="speaker-inline">🎙️ {{ . }}</a> {{ end }}
     <time datetime="{{ $a.date }}">{{ $a.dateLabel }}</time><br>
     {{ if or $m.area $m.category $a.links.projects }}

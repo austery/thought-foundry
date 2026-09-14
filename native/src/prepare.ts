@@ -1,3 +1,4 @@
+import { readX } from './x-reading.js';
 import { readFile, writeFile, mkdir, cp, stat, readdir, rename } from 'node:fs/promises';
 import { join, resolve, dirname, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -50,10 +51,13 @@ export async function prepare(site: string, destination: string, cacheFile?: str
     const parsed = matter(await readFile(join(source,name),'utf8'));
     const meta = record(parsed.data);
     if (Object.hasOwn(meta,'permalink')) throw new Error(`Explicit permalink requires migration handling: ${name}`);
-    const layout = text(meta.layout);
-    if (!['','post.njk','book-note.njk','base.njk','default.njk'].includes(layout)) throw new Error(`Unsupported layout ${layout}: ${name}`);
-    articles.push({id:`d${articles.length}`, source:name, url:`/${name.replace(/\.md$/,'').replace(/\/index$/,'')}/`,
-      ...dateValues(meta,name,(await stat(join(source,name))).birthtime), meta, body:parsed.content, kind:name.split('/')[1] ?? '', layout,
+    const xReading = readX(meta,parsed.content,name);
+    const layout = xReading ? 'x-original' : text(meta.layout);
+    if (!['','post.njk','book-note.njk','base.njk','default.njk'].includes(text(meta.layout))) throw new Error(`Unsupported layout ${layout}: ${name}`);
+    if (xReading) meta.title = `${xReading.author} · ${xReading.date.slice(0,10) || '日期未知'} · ${xReading.kind === 'DAILY_COLLECTION' ? `${xReading.entries.length} 条帖子` : xReading.kind === 'ARTICLE' ? '长文' : '帖子'}`;
+    const dates = xReading ? {date:xReading.date ? new Date(xReading.date).toISOString() : '1970-01-01T00:00:00.000Z',dateLabel:xReading.date.slice(0,10) || '日期未知'} : dateValues(meta,name,(await stat(join(source,name))).birthtime);
+    articles.push({xReading,id:`d${articles.length}`, source:name, url:`/${name.replace(/\.md$/,'').replace(/\/index$/,'')}/`,
+      ...dates, meta, body:parsed.content, kind:name.split('/')[1] ?? '', layout,
       links:{tags:[],speakers:[],categories:[],projects:[],areas:[]}, speakerLink:'', related:[]});
   }
   // Preserve legacy first-seen display names independently of article ordering.
