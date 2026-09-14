@@ -55,3 +55,24 @@ Markdown to the separate content repository. The site deployment already reads
 that repository on its schedule. No content submodule, production database,
 provider budget or deployment setting is changed here. After site merge and
 content publication, verify the public page and search result independently.
+
+## Copilot feedback follow-up
+
+Reviewed all three inline comments and two suppressed comments on `669e24513`.
+Accepted the fake unknown-date timestamp, misleading layout diagnostic, index
+link normalization and impossible-day validation findings. Unknown X dates now
+have an empty sort key (after known dates in descending lists), no datetime
+attribute, and no invented page-context timestamp.
+
+The producer already entity-escapes braces, so a failure from conforming current
+exports was not established. Nevertheless, the reader accepted raw braces and
+unnecessarily ran legacy template preprocessing on an unused body. X pages now
+bypass both Liquid and shortcode preprocessing entirely. A real-Hugo regression
+covers malformed raw Liquid syntax while preserving its literal output.
+
+Type check and all 15 tests pass, covering the above boundaries. No production
+capture, content publication or merge is included in this follow-up.
+The fixed-content full Hugo/URL-restoration rebuild produced 12,135 HTML files,
+all byte-identical to the pre-feedback candidate for this corpus. Pagefind was
+not rerun because its rendered HTML input is unchanged; boundary changes are
+covered by the expanded synthetic integration fixture.

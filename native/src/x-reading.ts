@@ -27,7 +27,7 @@ function relatedUrl(url: string, sourcePath: string): string {
   if (!sourcePath || !/^(?:\.\.\/)*[a-zA-Z0-9_./-]+\.md(?:#x-post-\d+)?$/.test(url)) throw new Error('Unsafe X reading link');
   const target = new URL(url, `https://reading.invalid/${sourcePath}`);
   if (!target.pathname.startsWith('/content/clippings/x/')) throw new Error('X reading link outside originals');
-  return target.pathname.replace(/\.md$/, '/') + target.hash;
+  return target.pathname.replace(/\.md$/, '').replace(/\/index$/, '') + '/' + target.hash;
 }
 function entry(body: string, id: string, author: string, handle: string, source: string, sourcePath: string): XEntry {
   const blocks = [...body.matchAll(/<pre>([\s\S]*?)<\/pre>/g)];
@@ -43,7 +43,7 @@ export function readX(meta: Metadata, body: string, sourcePath = ''): XReading |
   let date='';
   if (kind==='DAILY_COLLECTION') {
     if (meta.x_export_policy!=='daily-literal-v1') throw new Error('Unsupported X daily export');
-    date=value(meta.x_collection_date); if (!/^\d{4}-\d{2}-\d{2}$/.test(date) || !Number.isFinite(Date.parse(date))) throw new Error('Invalid X collection date');
+    date=value(meta.x_collection_date); if (!/^\d{4}-\d{2}-\d{2}$/.test(date) || (!Number.isFinite(Date.parse(date)) || new Date(date).toISOString().slice(0,10)!==date)) throw new Error('Invalid X collection date');
     for (const match of body.matchAll(/<section id="x-post-(\d+)">([\s\S]*?)<\/section>/g)) {
       const content=match[2]!;const name=/^## (.*) · /m.exec(content)?.[1];
       const identity=/^Author ID: (\d+); handle: (.*)$/m.exec(content);

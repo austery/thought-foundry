@@ -53,9 +53,9 @@ export async function prepare(site: string, destination: string, cacheFile?: str
     if (Object.hasOwn(meta,'permalink')) throw new Error(`Explicit permalink requires migration handling: ${name}`);
     const xReading = readX(meta,parsed.content,name);
     const layout = xReading ? 'x-original' : text(meta.layout);
-    if (!['','post.njk','book-note.njk','base.njk','default.njk'].includes(text(meta.layout))) throw new Error(`Unsupported layout ${layout}: ${name}`);
+    if (!['','post.njk','book-note.njk','base.njk','default.njk'].includes(text(meta.layout))) throw new Error(`Unsupported layout ${text(meta.layout)}: ${name}`);
     if (xReading) meta.title = `${xReading.author} · ${xReading.date.slice(0,10) || '日期未知'} · ${xReading.kind === 'DAILY_COLLECTION' ? `${xReading.entries.length} 条帖子` : xReading.kind === 'ARTICLE' ? '长文' : '帖子'}`;
-    const dates = xReading ? {date:xReading.date ? new Date(xReading.date).toISOString() : '1970-01-01T00:00:00.000Z',dateLabel:xReading.date.slice(0,10) || '日期未知'} : dateValues(meta,name,(await stat(join(source,name))).birthtime);
+    const dates = xReading ? {date:xReading.date ? new Date(xReading.date).toISOString() : '',dateLabel:xReading.date.slice(0,10) || '日期未知'} : dateValues(meta,name,(await stat(join(source,name))).birthtime);
     articles.push({xReading,id:`d${articles.length}`, source:name, url:`/${name.replace(/\.md$/,'').replace(/\/index$/,'')}/`,
       ...dates, meta, body:parsed.content, kind:name.split('/')[1] ?? '', layout,
       links:{tags:[],speakers:[],categories:[],projects:[],areas:[]}, speakerLink:'', related:[]});
@@ -84,6 +84,11 @@ export async function prepare(site: string, destination: string, cacheFile?: str
   const liquid = new Liquid();
   const preprocessed: string[] = [];
   for (const article of articles) {
+    if (article.xReading) {
+      // The X partial reads literal data; never pass its source through templates.
+      await page(article.url,{view:'article',articleid:article.id,pagetitle:text(article.meta.title)});
+      continue;
+    }
     // Expand legacy Liquid expressions into Markdown, never into a second HTML
     // body renderer. Hugo owns the resulting Markdown-to-HTML conversion.
     const context = {...article.meta,page:{url:article.url,inputPath:`./src/${article.source}`,filePathStem:article.url.slice(0,-1),date:new Date(article.date)}};

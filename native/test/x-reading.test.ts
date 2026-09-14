@@ -29,3 +29,8 @@ test('saved relative Markdown links resolve to public reading routes',()=>{
   assert.equal(readX(meta,linked,'content/clippings/x/daily/99/2026-09-13.md')!.entries[0]!.related[0]!.url,'/content/clippings/x/posts/456/#x-post-456');
   assert.throws(()=>readX(meta,linked.replace('../../posts/456.md','../../../../../elsewhere.md'),'content/clippings/x/daily/99/2026-09-13.md'),/outside/);
 });
+
+test('rejects impossible collection days and normalizes index reading routes',()=>{
+ assert.throws(()=>readX({...meta,x_collection_date:'2026-02-30'},section),/Invalid X collection date/);
+ assert.equal(readX(meta,section.replace('https://x.com/i/status/456','../../posts/index.md#x-post-456'),'content/clippings/x/daily/99/day.md')!.entries[0]!.related[0]!.url,'/content/clippings/x/posts/#x-post-456');
+});
