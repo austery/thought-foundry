@@ -1,6 +1,7 @@
 {{ if eq .Params.view "article" }}
   {{ $article := index hugo.Data.archive.articles .Params.articleid }}
-  {{ if eq $article.layout "post.njk" }}{{ partial "post.html" . }}
+  {{ if $article.xReading }}{{ partial "x-reading.html" . }}
+  {{ else if eq $article.layout "post.njk" }}{{ partial "post.html" . }}
   {{ else if eq $article.layout "book-note.njk" }}{{ partial "book.html" . }}
   {{ else if eq $article.layout "default.njk" }}<div class="container">{{ partial "body.html" . }}</div>
   {{ else }}{{ partial "body.html" . }}{{ end }}
