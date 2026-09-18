@@ -8,7 +8,7 @@ if(!directory)throw new Error('Run pnpm build first, or use pnpm preview OUTPUT_
 const root=await realpath(resolve(directory));
 const port=Number(process.argv[3]??8098);
 if(!Number.isInteger(port)||port<1024||port>65535)throw new Error('Invalid preview port');
-const mime:Record<string,string>={'.html':'text/html; charset=utf-8','.js':'text/javascript','.css':'text/css','.json':'application/json','.wasm':'application/wasm'};
+const mime:Record<string,string>={'.html':'text/html; charset=utf-8','.js':'text/javascript','.mjs':'text/javascript','.css':'text/css','.json':'application/json','.wasm':'application/wasm'};
 createServer(async(req,res)=>{
   try{
     let path=decodeURIComponent(new URL(req.url??'/','http://localhost').pathname);

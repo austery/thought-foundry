@@ -37,6 +37,7 @@ test('native templates preserve source, exclusions, scalar metadata, exact links
   assert.ok(urls.includes('/content/notes/Case:_中文?/'));
   const b=await html('content/notes/B');
   assert.equal(b('[data-pagefind-body]').length,1);
+  assert.deepEqual(b('[data-pagefind-filter="speaker"]').map((_, e) => b(e).text()).get(), ['Alice', 'Bob']);
   assert.equal(b('.entity-section summary').text(),'📌 文中提及的人物和组织');
   assert.deepEqual(b('.pkm-taxonomy .taxonomy-link').map((_,a)=>b(a).text()).get(),['[',']']);
   assert.deepEqual(b('.related-post-link').map((_,a)=>b(a).attr('href')).get(),['/content/notes/Older/','/content/notes/A/']);
