@@ -13,6 +13,10 @@ const status = /** @type {HTMLElement} */ (document.querySelector('#search-statu
 const filterStatus = /** @type {HTMLElement} */ (document.querySelector('#filter-status'));
 const results = /** @type {HTMLElement} */ (document.querySelector('#search-results'));
 const more = /** @type {HTMLButtonElement} */ (document.querySelector('#search-more'));
+const reload = document.createElement('button');
+reload.type = 'button'; reload.textContent = '重新加载搜索'; reload.hidden = true;
+reload.addEventListener('click', () => location.reload());
+status.after(reload);
 const bundle = '/pagefind/pagefind.js';
 /** @type {Promise<SearchAPI> | undefined} */
 let apiPromise;
@@ -102,14 +106,16 @@ async function loadPage(version) {
     status.textContent = handles.length ? `找到 ${handles.length} 篇匹配文章，已显示 ${seen.size} 篇。` : '没有匹配文章。可以关闭完整短语或取消演讲者筛选后重试。';
   } catch {
     if (version !== revision) return;
-    status.textContent = '搜索结果加载失败，请重试。';
-    more.hidden = false;
+    status.textContent = '搜索结果加载失败，请重新加载搜索。';
+    reload.hidden = false;
+    more.hidden = true;
   } finally {
     if (version === revision) { more.disabled = false; results.setAttribute('aria-busy', 'false'); }
   }
 }
 async function search() {
   const version = ++revision;
+  reload.hidden = true;
   handles = []; offset = 0; seen.clear(); results.replaceChildren(); more.hidden = true;
   const text = query.value.replace(/[《》【】〔〕「」『』〈〉]/g, '').trim();
   const params = new URLSearchParams();
@@ -131,7 +137,7 @@ async function search() {
     handles = response.results;
     await loadPage(version);
   } catch {
-    if (version === revision) { status.textContent = '搜索暂时无法加载，请点击搜索重试。'; results.setAttribute('aria-busy', 'false'); }
+    if (version === revision) { status.textContent = '搜索暂时无法加载，请重新加载搜索。'; reload.hidden = false; results.setAttribute('aria-busy', 'false'); }
   }
 }
 form.addEventListener('submit', event => { event.preventDefault(); void search(); });
@@ -157,7 +163,7 @@ async function loadFilters() {
     filterStatus.textContent = '演讲者列表加载失败。';
     const retry = document.createElement('button');
     retry.type = 'button'; retry.textContent = '重试加载筛选';
-    retry.addEventListener('click', () => { void loadFilters(); });
+    retry.addEventListener('click', () => location.reload());
     filterStatus.append(retry);
   }
 }
