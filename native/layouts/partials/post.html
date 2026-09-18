@@ -6,6 +6,7 @@
     {{ if not $m.exclude }}
       <span data-pagefind-meta="title" style="display:none;">{{ $m.title }}</span>
       {{ with $m.speaker }}<span data-pagefind-meta="speaker" style="display:none;">{{ . }}</span>{{ end }}
+      {{ range $m.speaker_links }}<span hidden data-pagefind-filter="speaker" data-pagefind-ignore>{{ .name }}</span>{{ end }}
       {{ with $m.guest }}<span data-pagefind-meta="guest" style="display:none;">{{ . }}</span>{{ end }}
       {{ with $m.date }}<span data-pagefind-meta="date" style="display:none;">{{ . }}</span>{{ end }}
     {{ end }}

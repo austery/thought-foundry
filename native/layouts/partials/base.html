@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Noto+Serif+SC:wght@600;700&family=Noto+Sans+SC:wght@400;500&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="/css/main.css" />
-    <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+
   </head>
   <body>
     <div class="page-wrapper">
@@ -42,7 +42,10 @@
 
         
         <div class="search-container">
-          <div id="search"></div>
+          <form id="search" class="header-search" action="/search/" role="search">
+            <input type="search" name="q" aria-label="搜索文章" placeholder="搜索文章…" required>
+            <button type="submit">搜索</button>
+          </form>
           <button id="theme-toggle" class="theme-toggle" title="切换主题" aria-label="切换深色/浅色主题">
             <span class="theme-toggle-icon">🌙</span>
           </button>
@@ -63,29 +66,5 @@
       const site_url = "/";
     </script>
     <script src="/js/theme-toggle.js"></script>
-    <script src="/pagefind/pagefind-ui.js"></script>
-    <script>
-      window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({
-          element: "#search",
-          showSubResults: true,
-          showImages: false,
-          excerptLength: 15,
-          translations: {
-            placeholder: "搜索文章...",
-            clear_search: "清除",
-            load_more: "加载更多结果",
-            search_label: "搜索此站点",
-            filters_label: "过滤器",
-            zero_results: "没有找到 [SEARCH_TERM] 的结果",
-            many_results: "[COUNT] 个结果关于 [SEARCH_TERM]",
-            one_result: "[COUNT] 个结果关于 [SEARCH_TERM]",
-            alt_search: "没有找到 [SEARCH_TERM] 的结果。显示 [DIFFERENT_TERM] 的结果：",
-            search_suggestion: "没有找到 [SEARCH_TERM] 的结果。尝试以下搜索之一：",
-            searching: "搜索 [SEARCH_TERM]..."
-          }
-        });
-      });
-    </script>
   </body>
 </html>

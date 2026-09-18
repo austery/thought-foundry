@@ -1,0 +1,8 @@
+{
+  "filterRetry": true,
+  "queryRetry": true,
+  "latestQueryWins": true,
+  "metadataEscaped": true,
+  "excerptMarkOnly": true,
+  "emptyAndZeroResults": true
+}
