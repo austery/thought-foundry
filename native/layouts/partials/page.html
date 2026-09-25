@@ -5,6 +5,7 @@
   {{ else if eq $article.layout "book-note.njk" }}{{ partial "book.html" . }}
   {{ else if eq $article.layout "default.njk" }}<div class="container">{{ partial "body.html" . }}</div>
   {{ else }}{{ partial "body.html" . }}{{ end }}
+{{ else if eq .Params.view "x-feed" }}{{ partial "x-feed.html" . }}
 {{ else if in (slice "about" "tool" "search") .Params.view }}
   {{ partial (printf "standalone/%s.html" .Params.view) . }}
 {{ else }}{{ partial "navigation.html" . }}{{ end }}

@@ -22,6 +22,16 @@ test('X originals render in the site shell with exact text, anchors, search meta
  assert.equal(html('.site-header').length,1);assert.equal(html('[data-pagefind-body]').length,1);
  assert.equal(html('.x-original-text').text(),body);assert.equal(html('.x-entry script').length,0);
  assert.equal(html('#x-post-123').length,1);assert.match(html('h1').text(),/Fixture.*1 条帖子/);
+ assert.equal(html('#x-post-heading-123').length,1);
+ assert.equal(html('[data-pagefind-filter="x_author"]').text(),'99');
+ const feed=load(await readFile(join(output,'x/index.html'),'utf8'));
+ assert.equal(feed('[data-pagefind-body]').length,0);
+ assert.equal(feed('.x-entry').length,1);
+ assert.equal(feed('.x-original-text').text(),body);
+ assert.equal(feed('.x-entry script').length,0);
+ assert.equal(feed('a[href="/content/clippings/x/daily/99/unknown/#x-post-123"]').length,1);
+ const authors=JSON.parse(await readFile(join(output,'x-authors.json'),'utf8')) as {id:string;count:number}[];
+ assert.deepEqual(authors.map(a=>[a.id,a.count]),[['99',1]]);
  assert.match(html('.x-status').text(),/尚未人工核对/);
  const home=load(await readFile(join(output,'index.html'),'utf8'));
  assert.match(home('.home-layout').text(),/Fixture/);assert.doesNotMatch(home('.home-layout').html()||'',/excluded/);
@@ -30,5 +40,6 @@ test('X originals render in the site shell with exact text, anchors, search meta
  await writeFile(join(content,'invalid.md'),doc.replace('x_source: x','x_source: x\nlayout: bogus'));
  await assert.rejects(prepare(site,join(root,'invalid-stage')),/Unsupported layout bogus/);
  const excluded=load(await readFile(join(output,'content/clippings/x/daily/99/excluded/index.html'),'utf8'));
- assert.equal(excluded('[data-pagefind-body]').length,0);assert.equal(excluded('[data-pagefind-ignore]').length,1);
+ assert.equal(excluded('[data-pagefind-body]').length,0);assert.equal(excluded('.x-reading[data-pagefind-ignore]').length,1);
+ assert.equal(excluded('[data-pagefind-filter]').length,0);
 });

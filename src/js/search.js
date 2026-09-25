@@ -74,9 +74,11 @@ function card(data) {
   const heading = document.createElement('h2');
   heading.append(link(data.meta.title || '未命名文章', data.url));
   article.append(heading);
-  const metadata = element('p', [data.meta.speaker && `演讲者 / 来源：${data.meta.speaker}`, data.meta.date && `日期：${data.meta.date}`].filter(Boolean).join(' · '));
+  const metadata = element('p', [(data.meta.speaker || data.meta.author) && `作者 / 来源：${data.meta.speaker || data.meta.author}`, data.meta.date && `日期：${data.meta.date}`].filter(Boolean).join(' · '));
   metadata.className = 'search-metadata';
   article.append(metadata, excerpt(data.excerpt));
+  const primaryPost = (data.sub_results ?? []).find(p => p.excerpt === data.excerpt && localURL(p.url).hash.startsWith('#x-post-heading-'));
+  if (primaryPost) article.append(link(`跳到命中的帖子 · ${primaryPost.title}`, primaryPost.url));
   const sections = (data.sub_results ?? []).filter(p => p.excerpt !== data.excerpt);
   const passages = sections.length ? sections : additionalPassages(data).map(text => ({title: '查看原文', url: data.url, excerpt: text}));
   if (passages.length) {
@@ -103,7 +105,7 @@ async function loadPage(version) {
     for (const {key, node} of entries) if (!seen.has(key)) { seen.add(key); results.append(node); }
     offset += batch.length;
     more.hidden = offset >= handles.length;
-    status.textContent = handles.length ? `找到 ${handles.length} 篇匹配文章，已显示 ${seen.size} 篇。` : '没有匹配文章。可以关闭完整短语或取消演讲者筛选后重试。';
+    status.textContent = handles.length ? `找到 ${handles.length} 篇匹配文章，已显示 ${seen.size} 篇。` : '没有匹配文章。可以关闭完整短语或取消作者与来源筛选后重试。';
   } catch {
     if (version !== revision) return;
     status.textContent = '搜索结果加载失败，请重新加载搜索。';
@@ -113,6 +115,11 @@ async function loadPage(version) {
     if (version === revision) { more.disabled = false; results.setAttribute('aria-busy', 'false'); }
   }
 }
+function selection() {
+  /** @type {[string, string]} */
+  const pair = speaker.value ? JSON.parse(speaker.value) : ['', ''];
+  return pair;
+}
 async function search() {
   const version = ++revision;
   reload.hidden = true;
@@ -121,10 +128,11 @@ async function search() {
   const params = new URLSearchParams();
   if (query.value.trim()) params.set('q', query.value.trim());
   if (exact.checked) params.set('exact', '1');
-  if (speaker.value) params.set('speaker', speaker.value);
+  const [filterKey, filterValue] = selection();
+  if (filterValue) params.set(filterKey === 'x_author' ? 'author' : 'speaker', filterValue);
   history.replaceState(null, '', `${location.pathname}${params.size ? '?' + params : ''}`);
   results.setAttribute('aria-busy', 'false');
-  if (!text && !speaker.value) { status.textContent = '输入关键词开始搜索，也可以仅选择演讲者。'; return; }
+  if (!text && !speaker.value) { status.textContent = '输入关键词开始搜索，也可以仅选择作者或来源。'; return; }
   status.textContent = '正在搜索…';
   results.setAttribute('aria-busy', 'true');
   // A phrase toggle owns the quotes; avoid nesting quotes from pasted queries.
@@ -132,7 +140,7 @@ async function search() {
   const term = exact.checked && phrase ? `"${phrase}"` : text;
   try {
     const engine = await api();
-    const response = await engine.search(term || null, {filters: speaker.value ? {speaker: speaker.value} : {}});
+    const response = await engine.search(term || null, {filters: filterValue ? {[filterKey]: filterValue} : {}});
     if (version !== revision) return;
     handles = response.results;
     await loadPage(version);
@@ -147,20 +155,36 @@ more.addEventListener('click', () => { void loadPage(revision); });
 const params = new URLSearchParams(location.search);
 query.value = params.get('q') ?? '';
 exact.checked = params.get('exact') === '1';
+// An explicit X author wins if both source parameters are supplied.
+const requestedAuthor = params.get('author');
 const requestedSpeaker = params.get('speaker');
-if (requestedSpeaker) speaker.add(new Option(requestedSpeaker, requestedSpeaker, true, true));
+const requestedValue = requestedAuthor ? JSON.stringify(['x_author', requestedAuthor]) : requestedSpeaker ? JSON.stringify(['speaker', requestedSpeaker]) : '';
+if (requestedValue) speaker.add(new Option(requestedAuthor || requestedSpeaker || '', requestedValue, true, true));
 async function loadFilters() {
   try {
     const filters = await (await api()).filters();
     const selected = speaker.value;
-    speaker.replaceChildren(new Option('全部演讲者', ''));
-    for (const [name, count] of Object.entries(filters.speaker ?? {}).sort(([a], [b]) => a.localeCompare(b, 'zh'))) speaker.add(new Option(`${name}（${count}）`, name));
-    if (selected && !Object.hasOwn(filters.speaker ?? {}, selected)) speaker.add(new Option(`${selected}（当前索引无此来源）`, selected));
+    const legacyGroup = document.createElement('optgroup'); legacyGroup.label = '演讲者 / 来源';
+    for (const [name, count] of Object.entries(filters.speaker ?? {}).sort(([a], [b]) => a.localeCompare(b, 'zh'))) legacyGroup.append(new Option(name + '（' + count + '）', JSON.stringify(['speaker', name])));
+    const xGroup = document.createElement('optgroup'); xGroup.label = 'X 作者';
+    /** @type {Map<string,string>} */
+    const authorNames = new Map();
+    try {
+      const response = await fetch('/x-authors.json');
+      if (!response.ok) throw new Error('Author labels unavailable');
+      /** @type {unknown} */
+      const authors = await response.json();
+      if (Array.isArray(authors)) for (const author of /** @type {unknown[]} */ (authors)) if (author && typeof author === 'object' && 'id' in author && 'name' in author && typeof author.id === 'string' && typeof author.name === 'string') authorNames.set(author.id, author.name);
+    } catch { /* Stable IDs remain usable if display labels cannot be loaded. */ }
+    for (const [id, count] of Object.entries(filters.x_author ?? {})) xGroup.append(new Option((authorNames.get(id) || id) + ' · X（' + count + ' 页）', JSON.stringify(['x_author', id])));
+    speaker.replaceChildren(new Option('全部作者与来源', ''), legacyGroup);
+    if (xGroup.children.length) speaker.append(xGroup);
+    if (selected && !Array.from(speaker.options).some(option => option.value === selected)) speaker.add(new Option('当前索引无此来源', selected));
     speaker.value = selected;
     speaker.disabled = false;
     filterStatus.replaceChildren();
   } catch {
-    filterStatus.textContent = '演讲者列表加载失败。';
+    filterStatus.textContent = '作者与来源列表加载失败。';
     const retry = document.createElement('button');
     retry.type = 'button'; retry.textContent = '重试加载筛选';
     retry.addEventListener('click', () => location.reload());
@@ -168,4 +192,4 @@ async function loadFilters() {
   }
 }
 void loadFilters();
-if (query.value || requestedSpeaker) void search();
+if (query.value || requestedValue) void search();

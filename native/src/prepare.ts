@@ -1,3 +1,4 @@
+import { createXDiscovery } from './x-discovery.js';
 import { readX } from './x-reading.js';
 import { readFile, writeFile, mkdir, cp, stat, readdir, rename } from 'node:fs/promises';
 import { join, resolve, dirname, sep } from 'node:path';
@@ -71,6 +72,9 @@ export async function prepare(site: string, destination: string, cacheFile?: str
   }
   const {slug,cache} = makeSlugger(seed);
   const model = createModel(articles,slug);
+  const discovery = createXDiscovery(articles);
+  await writeFile(join(destination,'data','xdiscovery.json'),JSON.stringify(discovery));
+  await writeFile(join(destination,'static','x-authors.json'),JSON.stringify(discovery.authors));
   await writeFile(join(destination,'data','archive.json'),JSON.stringify(model));
   const routes: Route[] = []; const targets = new Set<string>();
   async function page(url: string, params: Metadata, body = ''): Promise<void> {
@@ -101,6 +105,7 @@ export async function prepare(site: string, destination: string, cacheFile?: str
     ['home','/','The Learning Grove | Home'],['bookshelf','/bookshelf/','我的书架'],
     ['about','/about/','关于我'],['tool','/tool/','常用工具'],['search','/search/','搜索'],['debug-series','/debug-series/',''],
   ]) await page(url!,{view,pagetitle:title});
+  for (const [index,feed] of discovery.feeds.entries()) await page(feed.url,{view:'x-feed',feedindex:index,pagetitle:feed.title});
   const labels: Record<Taxonomy,string> = {tags:'标签',speakers:'演讲者',categories:'分类',projects:'专题',areas:'领域'};
   for (const taxonomy of Object.keys(model.groups) as Taxonomy[]) {
     const list = model.groups[taxonomy];
