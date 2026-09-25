@@ -56,3 +56,23 @@ Initial review compared `6fd86c5...44cb9955a`; fixes were reviewed in the workin
 Local evidence: `.native-build/x-discovery-evidence/` contains comparison/browser scripts, JSON outcomes, actual Pagefind match data and screenshots. Final output: `.native-build/run-Q8yCCr/public`; baseline output: `/tmp/tf-x-discovery-base-PYjt8s/public-pinned`. These generated paths are not committed.
 
 This is local full-corpus and browser acceptance, not production deployment acceptance or a remote performance benchmark. No provider calls, media downloads, embeddings, thread reconstruction, or content changes were introduced. Merge and deployment remain separate actions.
+
+## PR #13 review follow-up: desktop anchor visibility
+
+Review F1 was accepted after independent reproduction: at 1280px the sticky header ended at 109.31px while the post heading landed at -0.14px and the original body started at 75.31px. The earlier browser flow tested target existence after switching to mobile; it did not establish desktop visibility. Its desktop landing claim was incomplete.
+
+The CSS now applies scroll margins to both `.x-post-heading` search destinations and existing `.x-entry` saved-post destinations: 8rem on wide desktops, 18rem for wrapped navigation at 769–1023px, and 1rem where the mobile header is static. This preserves native fragment navigation without JavaScript. Recheck these offsets if the header layout changes.
+
+Fresh fixed-toolchain checks and all 22 tests pass. The full build at `.native-build/run-qUhWka/public` succeeds with 12,348 pages and 10,526 indexed pages. No template, parser, content, or index configuration changed in this follow-up; the earlier full-corpus equality results are retained rather than claimed as a new comparison run.
+
+Actual Futu search-result clicks were repeated after font readiness. Assertions require the heading and first matching sentence to clear the header by at least 8px, with the complete first sentence inside the viewport. Existing saved-post anchors also passed at each width.
+
+| Viewport width | Header bottom | Heading top | First sentence top–bottom |
+| --- | --- | --- | --- |
+| 1280 | 109.31px | 127.86px | 207.31–231.31px |
+| 1024 | 109.31px | 127.86px | 207.31–231.31px |
+| 800 | 177.63px | 288.09px | 367.55–391.55px |
+| 769 | 245.94px | 287.86px | 367.31–391.31px |
+| 390 | Static header | 16.08px | 95.53–119.53px |
+
+Local evidence: `.native-build/x-discovery-evidence/anchor-visibility.cjs`, `anchor-visibility.json`, and visually inspected `anchor-desktop-fixed.png`. Desktop landing acceptance is now complete for these tested Chrome viewport sizes. No merge or deployment was performed.
