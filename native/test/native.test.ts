@@ -19,7 +19,7 @@ test('native templates preserve source, exclusions, scalar metadata, exact links
   for (const folder of ['css','js']) await cp(resolve('../src',folder),join(site,'src',folder),{recursive:true});
   const doc=(title:string,extra:string,body='# Heading\n\nText 高考\n\n<details><summary>Original</summary>English</details>')=>`---\ntitle: "${title}"\ndate: "2026-09-12"\nlayout: post.njk\n${extra}\n---\n${body}`;
   await writeFile(join(site,'src/content/notes/B.md'),doc('B','draft: true\nseries: Test\npeople: []\ntags: [note, repeat, repeat, repeat, repeat, repeat]\nproject: "[]"\nspeaker: "Alice, Bob"\nguest: Alice'));
-  await writeFile(join(site,'src/content/notes/A.md'),doc('A','series: Test\npeople: ["中文 & +"]\ntags: []'));
+  await writeFile(join(site,'src/content/notes/A.md'),doc('A','series: Test\npeople: ["中文 & +"]\ntags: []\narea: Learning\ncategory: Research\nproject: [Archive]'));
   await writeFile(join(site,'src/content/notes/Excluded.md'),doc('Excluded','exclude: true\ntags: [hidden]\nseries: Test'));
   await writeFile(join(site,'src/content/notes/Older.md'),doc('Older','series: Test').replace('2026-09-12','2026-09-11'));
   await writeFile(join(site,'src/content/notes/Case:_中文?.md'),doc('Case','tags: [note]','~~~js\nconst x = 1;\n~~~\n\n| a | b |\n|---|---|\n| 1 | 2 |'));
@@ -35,11 +35,26 @@ test('native templates preserve source, exclusions, scalar metadata, exact links
   assert.ok(urls.indexOf('/content/notes/A/')<urls.indexOf('/content/notes/B/'));
   assert.ok(!urls.includes('/content/notes/Excluded/'));
   assert.ok(urls.includes('/content/notes/Case:_中文?/'));
+  const retired = /^\/(?:all-(?:areas|categories|projects)|areas|categories|projects|tool|bookshelf)(?:\/|$)/;
+  const routes = JSON.parse(await readFile(join(stage,'routes.json'),'utf8')) as {legacy:string}[];
+  assert.equal(routes.filter(route => retired.test(route.legacy)).length,0);
+  const outputFiles = await files(output);
+  assert.equal(outputFiles.filter(path => retired.test('/'+path)).length,0);
+  for (const path of outputFiles.filter(path => path.endsWith('.html'))) {
+    const page = load(await readFile(join(output,path),'utf8'));
+    assert.equal(page('a[href]').filter((_,a) => retired.test(page(a).attr('href') ?? '')).length,0,path);
+    assert.equal(page('a[href="http://localhost:3333"]').length,0,path);
+  }
+  const archive = JSON.parse(await readFile(join(stage,'data/archive.json'),'utf8')) as {articles:Record<string,{url:string;meta:Record<string,unknown>}>};
+  const retained = Object.values(archive.articles).find(a => a.url === '/content/notes/A/')!;
+  assert.equal(retained.meta.area,'Learning');
+  assert.equal(retained.meta.category,'Research');
+  assert.deepEqual(retained.meta.project,['Archive']);
   const b=await html('content/notes/B');
   assert.equal(b('[data-pagefind-body]').length,1);
   assert.deepEqual(b('[data-pagefind-filter="speaker"]').map((_, e) => b(e).text()).get(), ['Alice', 'Bob']);
   assert.equal(b('.entity-section summary').text(),'📌 文中提及的人物和组织');
-  assert.deepEqual(b('.pkm-taxonomy .taxonomy-link').map((_,a)=>b(a).text()).get(),['[',']']);
+  assert.equal(b('.pkm-taxonomy').length,0);
   assert.deepEqual(b('.related-post-link').map((_,a)=>b(a).attr('href')).get(),['/content/notes/Older/','/content/notes/A/']);
   assert.equal(b('.tag-link').text(),'repeatrepeatrepeatrepeatrepeat');
   const a=await html('content/notes/A');

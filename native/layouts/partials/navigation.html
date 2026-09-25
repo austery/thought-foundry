@@ -1,7 +1,7 @@
 {{ $archive := hugo.Data.archive }}
 {{ if eq .Params.view "home" }}
   <div class="container"><div class="home-layout" data-pagefind-ignore>
-    <p>嘿，欢迎来到我的个人网站，这里记录了一些我的想法，笔记和视频转文字的集合。</p><h1>林间拾穗</h1>
+    <p>个人信息搜索平台：汇集视频与播客整理、网络文章、X 原文，以及个人笔记与思考。</p><h1>林间拾穗</h1>
     {{ partial "article-list.html" (dict "ids" $archive.descending "home" true) }}
   </div></div>
 {{ else if eq .Params.view "term" }}

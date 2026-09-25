@@ -6,13 +6,6 @@
     {{ if $a.xReading }}<span class="badge">𝕏 原文</span>{{ else if eq $a.kind "posts" }}<span class="badge">✍️</span>{{ else if eq $a.kind "notes" }}<span class="badge">📝</span>{{ else if and $home (eq $a.kind "clippings") }}<span class="badge">📎</span>{{ end }}
     {{ with $m.speaker }}<a {{ printf "href=\"%s\"" ($a.speakerLink | htmlEscape) | safeHTMLAttr }} class="speaker-inline">🎙️ {{ . }}</a> {{ end }}
     {{ if $a.date }}<time datetime="{{ $a.date }}">{{ $a.dateLabel }}</time>{{ else }}<span>{{ $a.dateLabel }}</span>{{ end }}<br>
-    {{ if or $m.area $m.category $a.links.projects }}
-    <div class="taxonomy-line">
-      {{ range $a.links.areas }}<a {{ printf "href=\"%s\"" (.url | htmlEscape) | safeHTMLAttr }} class="area-badge-inline">🌐 {{ .name }}</a> {{ end }}
-      {{ range $a.links.categories }}<a {{ printf "href=\"%s\"" (.url | htmlEscape) | safeHTMLAttr }} class="category-badge-inline">🏷️ {{ .name }}</a> {{ end }}
-      {{ range $a.links.projects }}<a {{ printf "href=\"%s\"" (.url | htmlEscape) | safeHTMLAttr }} class="project-badge-inline">📂 {{ .name }}</a> {{ end }}
-    </div>
-    {{ end }}
     {{ with $m.summary }}<small class="summary-text">📄 {{ . }}</small>{{ end }}
     {{ with $m.insight }}<small class="insight-text">💡 {{ . }}</small>{{ end }}
   </li>

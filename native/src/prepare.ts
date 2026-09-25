@@ -102,12 +102,13 @@ export async function prepare(site: string, destination: string, cacheFile?: str
     await page(article.url,{view:'article',articleid:article.id,pagetitle:text(article.meta.title)},escapeShortcodes(rendered));
   }
   for (const [view,url,title] of [
-    ['home','/','The Learning Grove | Home'],['bookshelf','/bookshelf/','我的书架'],
-    ['about','/about/','关于我'],['tool','/tool/','常用工具'],['search','/search/','搜索'],['debug-series','/debug-series/',''],
+    ['home','/','The Learning Grove | Home'],
+    ['about','/about/','关于本站'],['search','/search/','搜索'],['debug-series','/debug-series/',''],
   ]) await page(url!,{view,pagetitle:title});
   for (const [index,feed] of discovery.feeds.entries()) await page(feed.url,{view:'x-feed',feedindex:index,pagetitle:feed.title});
   const labels: Record<Taxonomy,string> = {tags:'标签',speakers:'演讲者',categories:'分类',projects:'专题',areas:'领域'};
-  for (const taxonomy of Object.keys(model.groups) as Taxonomy[]) {
+  // Internal classification metadata remains available without public routes.
+  for (const taxonomy of ['tags', 'speakers'] as const) {
     const list = model.groups[taxonomy];
     for (const group of list) await page(group.url,{view:'term',taxonomy,groupkey:group.key});
     const size = taxonomy === 'tags' ? 50 : Math.max(1,list.length);

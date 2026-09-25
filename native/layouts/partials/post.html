@@ -11,16 +11,6 @@
       {{ with $m.date }}<span data-pagefind-meta="date" style="display:none;">{{ . }}</span>{{ end }}
     {{ end }}
     <div class="metadata-block">
-      {{ if or $m.area $m.category $a.links.projects }}
-      <div class="pkm-taxonomy">
-        {{ range $a.links.areas }}<p><strong>领域:</strong> <a class="taxonomy-link" {{ printf "href=\"%s\"" (.url | htmlEscape) | safeHTMLAttr }}>{{ .name }}</a>
-</p>{{ end }}
-        {{ range $a.links.categories }}<p><strong>分类:</strong> <a class="taxonomy-link" {{ printf "href=\"%s\"" (.url | htmlEscape) | safeHTMLAttr }}>{{ .name }}</a>
-</p>{{ end }}
-        {{ with $a.links.projects }}<p><strong>专题:</strong> {{ range $i,$link := . }}{{ if $i }}, {{ end }}<a class="taxonomy-link" {{ printf "href=\"%s\"" ($link.url | htmlEscape) | safeHTMLAttr }}>{{ $link.name }}</a>{{ end }}
-</p>{{ end }}
-      </div>
-      {{ end }}
       {{ if $m.speaker }}<p><strong>主讲人:</strong> {{ range $i,$link := $m.speaker_links }}{{ if $i }}, {{ end }}<a class="speaker-link" {{ printf "href=\"%s\"" ($link.url | htmlEscape) | safeHTMLAttr }}>{{ $link.name }}</a>{{ end }}
 </p>{{ end }}
       {{ if $m.guest }}<p><strong>嘉宾:</strong> {{ range $i,$link := $m.guest_links }}{{ if $i }}, {{ end }}<a class="speaker-link" {{ printf "href=\"%s\"" ($link.url | htmlEscape) | safeHTMLAttr }}>{{ $link.name }}</a>{{ end }}
