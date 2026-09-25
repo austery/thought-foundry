@@ -1,7 +1,7 @@
 # X reading and discovery: implementation plan
 
 Date: 2026-09-25
-Status: Draft for confirmation; implementation has not started.
+Status: Implemented and locally accepted; awaiting PR publication. Merge and deployment are not included.
 Scope owner: Thought Foundry site code. Source Markdown remains owned by thought-foundry-content.
 
 ## Outcome
@@ -94,9 +94,11 @@ After plan confirmation, execute XREAD-01 through XREAD-04 sequentially and repo
 
 | Ticket | Status |
 | --- | --- |
-| XREAD-01 | Planned |
-| XREAD-02 | Planned |
-| XREAD-03 | Planned |
-| XREAD-04 | Planned |
+| XREAD-01 | Complete: 56 posts, 3 authors, 8 feed routes |
+| XREAD-02 | Complete: literal expansion, readable context, source provenance |
+| XREAD-03 | Complete: author filtering and real Pagefind post links |
+| XREAD-04 | Local acceptance and independent review complete; PR publication pending |
+
+Evidence: [X reading and discovery acceptance](../acceptance/x-reading-discovery.md).
 
 Deferred: media acquisition, reconstructed conversation/thread graphs, embedding search, AI summaries, recommendation ranking, account state and social engagement metrics. Any of these would be a separate scope decision.
