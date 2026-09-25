@@ -1,20 +1,14 @@
-{{ $a := index hugo.Data.archive.articles .Params.articleid }}{{ $x := $a.xReading }}
+{{ $a := index hugo.Data.archive.articles .Params.articleid }}{{ $x := $a.xReading }}{{ $view := index hugo.Data.xdiscovery.reading .Params.articleid }}
 <div class="x-reading" {{ if not $a.meta.exclude }}data-pagefind-body{{ else }}data-pagefind-ignore{{ end }}>
   <header class="x-heading">
     <p class="x-eyebrow">𝕏 原文阅读 · {{ if eq $x.kind "DAILY_COLLECTION" }}每日合集{{ else if eq $x.kind "ARTICLE" }}长文{{ else }}帖子{{ end }}</p>
     <h1 data-pagefind-meta="title">{{ $a.meta.title }}</h1>
     <span hidden data-pagefind-meta="author">{{ $x.author }}</span>
-    <p>保留作者原文。{{ if eq $x.kind "DAILY_COLLECTION" }}按 Toronto 原发日期整理，{{ len $x.entries }} 条帖子。{{ end }}未存档的配图与引用请前往 X 查看。</p>
+    {{ if not $a.meta.exclude }}<span hidden data-pagefind-filter="x_author" data-pagefind-ignore>{{ $x.authorId }}</span>{{ end }}
+    {{ with $x.date }}<span hidden data-pagefind-meta="date">{{ . }}</span>{{ end }}
+    <p>保留作者原文。{{ if eq $x.kind "DAILY_COLLECTION" }}{{ $x.date }} · {{ len $x.entries }} 条帖子。{{ end }}时间显示为 Toronto 当地时间；未保存的配图与引用请前往 X 查看。</p>
+    <a href="/x/">返回 X 阅读</a>
   </header>
-  {{ range $x.entries }}
-  <article class="x-entry" id="x-post-{{ .id }}">
-    <header><strong>{{ .author }}</strong> <span class="x-muted">@{{ .handle }}</span><br><time>{{ .published }}</time> <a href="{{ .source }}" target="_blank" rel="noopener noreferrer">查看原帖 ↗</a></header>
-    <div class="x-original-text">{{ .body }}</div>
-    <footer>
-      <p class="x-status">{{ if eq .status "CHECKED" }}正文已核对{{ else if eq .status "UNVERIFIED" }}正文尚未人工核对{{ else }}正文状态：{{ .status }}{{ end }} · 配图：{{ .media }} · 上下文：{{ .context }}</p>
-      {{ with .related }}<div class="x-related">引用与相关来源：{{ range . }}<a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .label }}</a> {{ end }}</div>{{ end }}
-      <details><summary>来源与保存记录</summary><p>Post ID: {{ .id }}<br>保存时间：{{ .saved }}<br>已知缺失：{{ .gaps }}</p></details>
-    </footer>
-  </article>
-  {{ end }}
+  {{ range $view.cards }}{{ partial "x-card.html" (dict "card" . "preview" false) }}{{ end }}
+  <nav class="x-pagination" aria-label="同作者合集" data-pagefind-ignore>{{ with $view.previous }}<a href="{{ . }}">上一篇合集</a>{{ end }} {{ with $view.next }}<a href="{{ . }}">下一篇合集</a>{{ end }}</nav>
 </div>

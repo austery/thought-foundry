@@ -3,6 +3,7 @@ import type { Metadata } from './model.js';
 export interface XEntry {
   id: string; author: string; handle: string; published: string; saved: string;
   source: string; status: string; media: string; context: string; body: string; gaps: string;
+  observedName?: string;
   related: { label: string; url: string }[];
 }
 export interface XReading { authorId: string; author: string; kind: string; date: string; entries: XEntry[]; }
@@ -29,12 +30,12 @@ function relatedUrl(url: string, sourcePath: string): string {
   if (!target.pathname.startsWith('/content/clippings/x/')) throw new Error('X reading link outside originals');
   return target.pathname.replace(/\.md$/, '').replace(/\/index$/, '') + '/' + target.hash;
 }
-function entry(body: string, id: string, author: string, handle: string, source: string, sourcePath: string): XEntry {
+function entry(body: string, id: string, author: string, handle: string, source: string, sourcePath: string, observedName = author): XEntry {
   const blocks = [...body.matchAll(/<pre>([\s\S]*?)<\/pre>/g)];
   if (blocks.length !== 2) throw new Error('Unsupported X literal body blocks');
   const url = new URL(source);
   if (!['x.com','twitter.com'].includes(url.hostname) || !url.pathname.endsWith(`/status/${id}`)) throw new Error('X original URL identity mismatch');
-  return {id,author,handle,published:field(body,'Original publication time'),saved:field(body,'Saved time'),source:safeUrl(source),status:field(body,'Text status'),media:field(body,'Media status'),context:field(body,'Context status'),body:decode(blocks[0]![1]!),gaps:decode(blocks[1]![1]!),related:[...body.matchAll(/<a href="([^"]+)">([^<]*)<\/a>/g)].map(m=>({url:relatedUrl(decode(m[1]!),sourcePath),label:decode(m[2]!)}))};
+  return {id,author,observedName,handle,published:field(body,'Original publication time'),saved:field(body,'Saved time'),source:safeUrl(source),status:field(body,'Text status'),media:field(body,'Media status'),context:field(body,'Context status'),body:decode(blocks[0]![1]!),gaps:decode(blocks[1]![1]!),related:[...body.matchAll(/<a href="([^"]+)">([^<]*)<\/a>/g)].map(m=>({url:relatedUrl(decode(m[1]!),sourcePath),label:decode(m[2]!)}))};
 }
 export function readX(meta: Metadata, body: string, sourcePath = ''): XReading | undefined {
   if (meta.x_source !== 'x') return undefined;
@@ -55,7 +56,8 @@ export function readX(meta: Metadata, body: string, sourcePath = ''): XReading |
     const id=value(meta.x_material_id).replace(/^x:post:/,'');if(!/^\d+$/.test(id)) throw new Error('Invalid X post ID');
     date=value(meta.x_original_published_at);
     if (date && !Number.isFinite(Date.parse(date))) throw new Error('Invalid X original date');
-    entries.push(entry(body,id,value(meta.x_observed_name)||value(meta.x_observed_handle)||authorId,value(meta.x_observed_handle),value(meta.x_source_url),sourcePath));
+    const observedName = value(meta.x_observed_name).trim() || value(meta.x_observed_handle).trim();
+    entries.push(entry(body,id,observedName||authorId,value(meta.x_observed_handle),value(meta.x_source_url),sourcePath,observedName));
   } else throw new Error('Unsupported X kind');
   if (!entries.length || new Set(entries.map(e=>e.id)).size!==entries.length) throw new Error('Missing or duplicate X entries');
   return {authorId,author:entries[0]!.author,kind,date,entries};

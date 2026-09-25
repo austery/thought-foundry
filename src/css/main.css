@@ -26,3 +26,21 @@
 .x-related a { display: block; }
 .x-entry details { margin-top: .6rem; }
 @media (max-width: 600px) { .x-reading { padding: 0; }.x-entry { padding: 1rem; } }
+.x-authors, .x-pagination { display:flex; flex-wrap:wrap; gap:1rem; margin:1rem 0; }
+.x-authors a { padding:.4rem .7rem; border:1px solid var(--theme-border-color); border-radius:.5rem; }
+.x-authors [aria-current] { font-weight:bold; border-color:var(--theme-accent-secondary); }
+.x-post-heading { font:inherit; margin:.3rem 0; }
+/* Clear the sticky header for both saved-post and Pagefind heading links. */
+.x-entry, .x-post-heading { scroll-margin-top: 8rem; }
+/* Navigation wraps onto additional rows just above the mobile breakpoint. */
+@media (min-width: 769px) and (max-width: 1023px) {
+  .x-entry, .x-post-heading { scroll-margin-top: 18rem; }
+}
+@media (max-width: 768px) {
+  .x-entry, .x-post-heading { scroll-margin-top: 1rem; }
+}
+.x-preview-text { white-space:pre-wrap; overflow-wrap:anywhere; display:block; line-height:1.9; }
+.x-expand-label { display:block; margin:.5rem 0; text-decoration:underline; }
+.x-expand[open] .x-preview-text { display:none; }
+.x-expand summary { cursor:pointer; }
+.x-reading :focus-visible { outline:2px solid var(--theme-accent-secondary); outline-offset:3px; }

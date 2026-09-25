@@ -1,0 +1,10 @@
+{{ $d := hugo.Data.xdiscovery }}{{ $feed := index $d.feeds (int .Params.feedindex) }}
+<div class="x-reading" data-pagefind-ignore>
+  <header class="x-heading"><h1>{{ $feed.title }}</h1><p>按原发时间浏览 · 时间显示为 Toronto 当地时间</p></header>
+  <nav class="x-authors" aria-label="X 作者"><a href="/x/" {{ if not $feed.authorId }}aria-current="page"{{ end }}>全部作者</a>
+    {{ range $d.authors }}<a href="{{ .url }}" {{ if eq .id $feed.authorId }}aria-current="page"{{ end }}>{{ .name }}（{{ .count }}）</a>{{ end }}
+  </nav>
+  {{ if $feed.authorId }}<p><a href="/search/?author={{ $feed.authorId }}">搜索这位作者的原文</a></p>{{ end }}
+  {{ range $feed.cards }}{{ partial "x-card.html" (dict "card" . "preview" true) }}{{ else }}<p>暂无已保存的帖子。</p>{{ end }}
+  <nav class="x-pagination" aria-label="帖子分页">{{ with $feed.previous }}<a href="{{ . }}">上一页</a>{{ end }} {{ with $feed.next }}<a href="{{ . }}">下一页</a>{{ end }}</nav>
+</div>
