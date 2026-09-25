@@ -18,6 +18,7 @@ function instant(value: string): string { return value && Number.isFinite(Date.p
 export function createXDiscovery(articles: Article[]): XDiscovery {
   const all = articles.filter(a => a.xReading);
   const eligible = all.filter(a => !a.meta.exclude);
+  const authorIds = new Set(eligible.map(a => a.xReading!.authorId));
   const locations = new Map<string, {article: Article; entry: XEntry}>();
   // Standalone originals win only in the derived browsing view; old pages remain.
   const priority = (a: Article) => a.xReading!.kind === 'DAILY_COLLECTION' ? 1 : 0;
@@ -30,7 +31,8 @@ export function createXDiscovery(articles: Article[]): XDiscovery {
   }
   const labels = new Map<string, {name:string; saved:string; tie:string}>();
   for (const article of eligible) for (const e of article.xReading!.entries) {
-    const id=article.xReading!.authorId, name=e.author || e.handle || id;
+    const id=article.xReading!.authorId, name=(e.observedName ?? (e.author || e.handle)).trim();
+    if (!name) continue;
     const candidate={name,saved:instant(e.saved),tie:`${article.url}#${e.id}`}, old=labels.get(id);
     if (!old || ordinal(candidate.saved,old.saved)>0 || (candidate.saved===old.saved && ordinal(candidate.tie,old.tie)<0)) labels.set(id,candidate);
   }
@@ -38,7 +40,7 @@ export function createXDiscovery(articles: Article[]): XDiscovery {
   function card(article: Article, entry: XEntry): XCard {
     const authorId=article.xReading!.authorId, time=instant(entry.published);
     const chars=Array.from(entry.body);
-    return {...entry,authorId,author:entry.author,url:`${article.url}#x-post-${entry.id}`,authorUrl:labels.has(authorId) ? authorUrl(authorId) : '',instant:time,timeLabel:time ? dateFormat.format(new Date(time)) : '原发日期未知',long:chars.length>280,preview:chars.slice(0,280).join(''),contextLinks:entry.related.flatMap(link=>{
+    return {...entry,authorId,author:entry.author,url:`${article.url}#x-post-${entry.id}`,authorUrl:authorIds.has(authorId) ? authorUrl(authorId) : '',instant:time,timeLabel:time ? dateFormat.format(new Date(time)) : '原发日期未知',long:chars.length>280,preview:chars.slice(0,280).join(''),contextLinks:entry.related.flatMap(link=>{
       const targetId=/^(?:QUOTES|REPLIES_TO|REPLY_TO): x:post:(\d+)$/.exec(link.label)?.[1];
       const target=targetId ? locations.get(targetId) : undefined;
       // A local path alone does not establish an eligible saved post identity.
@@ -49,7 +51,8 @@ export function createXDiscovery(articles: Article[]): XDiscovery {
     })};
   }
   const cards=[...locations.values()].map(({article,entry})=>card(article,entry)).sort((a,b)=>-ordinal(a.instant,b.instant)||ordinal(a.id,b.id));
-  const authors=[...labels].map(([id,label])=>({id,name:label.name,url:authorUrl(id),count:cards.filter(c=>c.authorId===id).length})).sort((a,b)=>a.name.localeCompare(b.name,'zh')||ordinal(a.id,b.id));
+  const authorNames = [...authorIds].map(id => ({id, name:labels.get(id)?.name || id}));
+  const authors=authorNames.map(({id,name})=>({id,name:authorNames.filter(a=>a.name===name).length>1 ? `${name} · ${id}` : name,url:authorUrl(id),count:cards.filter(c=>c.authorId===id).length})).sort((a,b)=>a.name.localeCompare(b.name,'zh')||ordinal(a.id,b.id));
   const feeds:XFeed[]=[];
   for (const author of [{id:'',name:'全部作者',url:'/x/',count:cards.length},...authors]) {
     const items=author.id ? cards.filter(c=>c.authorId===author.id) : cards;

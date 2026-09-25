@@ -369,6 +369,9 @@ body:has(.search-page) .search-container #search {
   gap: 0.75rem;
 }
 .header-search input { width: 10rem; min-width: 0; }
+.header-search { flex: 1; min-width: 0; }
+.header-search input { flex: 1; }
+.header-search button { flex-shrink: 0; white-space: nowrap; }
 .header-search input, .header-search button,
 #archive-search input[type="search"], #archive-search select,
 .search-page button {
@@ -396,6 +399,7 @@ body:has(.search-page) .search-container #search {
 .search-page :focus-visible, .header-search :focus-visible { outline: 2px solid #987b31; outline-offset: 3px; }
 .search-page [hidden] { display: none; }
 @media (max-width: 600px) {
+  .search-container { width: 100%; }
   .search-controls { align-items: flex-start; flex-direction: column; }
   .search-controls select { width: 100%; }
   .header-search { max-width: 100%; }

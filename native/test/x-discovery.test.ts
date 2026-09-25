@@ -39,3 +39,12 @@ test('daily navigation remains within eligible same-author collections',()=>{
  const newer=article('2','99','DAILY_COLLECTION');const other=article('3','88','DAILY_COLLECTION');
  const d=createXDiscovery([newer,other,older]);assert.equal(d.reading.a1!.next,newer.url);assert.equal(d.reading.a2!.previous,older.url);assert.equal(d.reading.a3!.previous,'');
 });
+test('missing observed names never replace known labels and equal names stay distinguishable',()=>{
+ const known=article('1','99','POST',{author:'Same name',observedName:'Same name'});
+ const unnamed=article('2','99','POST',{author:'99',observedName:'',saved:'2026-09-23T00:00:00Z'});
+ const other=article('3','88','POST',{author:'Same name',observedName:'Same name'});
+ const d=createXDiscovery([known,unnamed,other]);
+ assert.deepEqual(new Set(d.authors.map(a=>a.name)),new Set(['Same name · 99','Same name · 88']));
+ const fallback=createXDiscovery([unnamed]);assert.equal(fallback.authors[0]!.name,'99');
+ assert.equal(fallback.feeds[0]!.cards[0]!.authorUrl,'/x/authors/99/');
+});
