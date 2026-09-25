@@ -1,7 +1,7 @@
 {{ $archive := hugo.Data.archive }}
 {{ if eq .Params.view "home" }}
   <div class="container"><div class="home-layout" data-pagefind-ignore>
-    <p>个人信息搜索平台：汇集视频与播客整理、网络文章、X 原文，以及个人笔记与思考。</p><h1>林间拾穗</h1>
+    <p>个人信息搜索平台：汇集视频与播客整理、网络文章和 X 原文。</p><h1>林间拾穗</h1>
     <h2>近期内容</h2>
     {{ $ids := first (int .Params.size) (after (int .Params.offset) $archive.descending) }}
     {{ if $ids }}

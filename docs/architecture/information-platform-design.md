@@ -6,7 +6,9 @@ Status: Approved for implementation; no merge or deployment authorization.
 ## Product and source contract
 
 The site is a personal information search platform for collected video and
-podcast material, web articles, X originals, and personal notes. Readers browse
+podcast material, web articles, and X originals. Personal learning notes, reading
+records, and reflections belong on a separate blog. This positioning update does
+not migrate or delete existing content. Readers browse
 recent content, search the full archive, and follow original links. WeChat
 Official Accounts are a future ingestion target, not an existing subscription
 capability. Collection and subscription remain upstream responsibilities.
