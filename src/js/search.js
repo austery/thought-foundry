@@ -164,7 +164,7 @@ async function loadFilters() {
   try {
     const filters = await (await api()).filters();
     const selected = speaker.value;
-    const legacyGroup = document.createElement('optgroup'); legacyGroup.label = '演讲者 / 来源';
+    const legacyGroup = document.createElement('optgroup'); legacyGroup.label = '来源';
     for (const [name, count] of Object.entries(filters.speaker ?? {}).sort(([a], [b]) => a.localeCompare(b, 'zh'))) legacyGroup.append(new Option(name + '（' + count + '）', JSON.stringify(['speaker', name])));
     const xGroup = document.createElement('optgroup'); xGroup.label = 'X 作者';
     /** @type {Map<string,string>} */

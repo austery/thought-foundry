@@ -11,11 +11,11 @@
       {{ with $m.date }}<span data-pagefind-meta="date" style="display:none;">{{ . }}</span>{{ end }}
     {{ end }}
     <div class="metadata-block">
-      {{ if $m.speaker }}<p><strong>主讲人:</strong> {{ range $i,$link := $m.speaker_links }}{{ if $i }}, {{ end }}<a class="speaker-link" {{ printf "href=\"%s\"" ($link.url | htmlEscape) | safeHTMLAttr }}>{{ $link.name }}</a>{{ end }}
+      {{ if $m.speaker }}<p><strong>来源:</strong> {{ range $i,$link := $m.speaker_links }}{{ if $i }}, {{ end }}<a class="speaker-link" {{ printf "href=\"%s\"" ($link.url | htmlEscape) | safeHTMLAttr }}>{{ $link.name }}</a>{{ end }}
 </p>{{ end }}
       {{ if $m.guest }}<p><strong>嘉宾:</strong> {{ range $i,$link := $m.guest_links }}{{ if $i }}, {{ end }}<a class="speaker-link" {{ printf "href=\"%s\"" ($link.url | htmlEscape) | safeHTMLAttr }}>{{ $link.name }}</a>{{ end }}
 </p>{{ end }}
-      {{ with $m.source }}<p><strong>来源:</strong> <a {{ printf "href=\"%s\"" (. | htmlEscape) | safeHTMLAttr }} target="_blank">查看</a></p>{{ end }}
+      {{ with $m.source }}<p><strong>原文:</strong> <a {{ printf "href=\"%s\"" (. | htmlEscape) | safeHTMLAttr }} target="_blank">查看</a></p>{{ end }}
       {{ with $m.channel }}<p><strong>频道:</strong> {{ . }}</p>{{ end }}
       {{ with $m.date }}<p><strong>发布时间:</strong> {{ . }}
 </p>{{ end }}

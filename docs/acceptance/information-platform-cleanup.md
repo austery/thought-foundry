@@ -9,9 +9,10 @@ Retires generated area/category/project directories and term pages, tools, and
 bookshelf routes. Removes their article/listing links and the localhost semantic
 search link. Replaces the About page with platform purpose and provenance.
 
-Homepage pagination and genuine source browsing are **proposed, not implemented**:
-see [the design](../architecture/information-platform-design.md). The current
-speaker directory is intentionally not relabeled as verified source identities.
+This report records the cleanup at commit `3705b7d60`, before homepage pagination
+and source-label updates. The owner subsequently clarified that `speaker` already
+identifies sources; the proposal for a separate source model was incorrect and
+has been withdrawn. See [the corrected design](../architecture/information-platform-design.md).
 
 ## Validation
 

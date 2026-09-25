@@ -275,3 +275,20 @@
     font-size: 0.98rem;
   }
 }
+/* Keep static pagination reachable and readable on narrow screens. */
+.home-pagination {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem 1.5rem;
+    margin: 2rem 0;
+}
+.home-pagination a {
+    padding: 0.65rem 0.8rem;
+    text-decoration: underline;
+}
+.home-pagination a:focus-visible {
+    outline: 2px solid currentColor;
+    outline-offset: 3px;
+}

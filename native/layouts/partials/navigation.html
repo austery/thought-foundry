@@ -2,12 +2,23 @@
 {{ if eq .Params.view "home" }}
   <div class="container"><div class="home-layout" data-pagefind-ignore>
     <p>个人信息搜索平台：汇集视频与播客整理、网络文章、X 原文，以及个人笔记与思考。</p><h1>林间拾穗</h1>
-    {{ partial "article-list.html" (dict "ids" $archive.descending "home" true) }}
+    <h2>近期内容</h2>
+    {{ $ids := first (int .Params.size) (after (int .Params.offset) $archive.descending) }}
+    {{ if $ids }}
+      {{ partial "article-list.html" (dict "ids" $ids "home" true) }}
+    {{ else }}<p>暂无内容，请稍后再来。</p>{{ end }}
+    {{ if gt .Params.pagecount 1 }}
+      <nav class="home-pagination" aria-label="内容分页">
+        {{ with .Params.previous }}<a href="{{ . }}" rel="prev">← 上一页</a>{{ end }}
+        <span aria-current="page">第 {{ .Params.pagenumber }} 页，共 {{ .Params.pagecount }} 页</span>
+        {{ with .Params.next }}<a href="{{ . }}" rel="next">下一页 →</a>{{ end }}
+      </nav>
+    {{ end }}
   </div></div>
 {{ else if eq .Params.view "term" }}
   {{ $taxonomy := .Params.taxonomy }}
   {{ $g := index (where (index $archive.groups $taxonomy) "key" .Params.groupkey) 0 }}
-  {{ $label := index (dict "tags" "标签" "speakers" "演讲者" "categories" "分类" "projects" "专题" "areas" "领域") $taxonomy }}
+  {{ $label := index (dict "tags" "标签" "speakers" "来源" "categories" "分类" "projects" "专题" "areas" "领域") $taxonomy }}
   <div class="container" data-pagefind-ignore><div class="home-layout">
     <h1>{{ $label }}：{{ $g.name }}</h1>
     {{ if eq $taxonomy "speakers" }}<p>共有 {{ len $g.posts }} 篇文章</p>
