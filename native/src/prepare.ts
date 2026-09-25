@@ -101,13 +101,23 @@ export async function prepare(site: string, destination: string, cacheFile?: str
     if (rendered !== article.body) preprocessed.push(article.source);
     await page(article.url,{view:'article',articleid:article.id,pagetitle:text(article.meta.title)},escapeShortcodes(rendered));
   }
+  const homeSize = 30;
+  const homePages = Math.max(1, Math.ceil(model.descending.length / homeSize));
+  const homeUrl = (number: number): string => number === 1 ? '/' : `/page/${number}/`;
+  for (let number = 1; number <= homePages; number++) {
+    await page(homeUrl(number), {
+      view:'home', pagetitle:number === 1 ? 'The Learning Grove | Home' : `林间拾穗 · 第 ${number} 页`,
+      offset:(number - 1) * homeSize, size:homeSize, pagenumber:number, pagecount:homePages,
+      previous:number > 1 ? homeUrl(number - 1) : '', next:number < homePages ? homeUrl(number + 1) : '',
+    });
+  }
   for (const [view,url,title] of [
-    ['home','/','The Learning Grove | Home'],['bookshelf','/bookshelf/','我的书架'],
-    ['about','/about/','关于我'],['tool','/tool/','常用工具'],['search','/search/','搜索'],['debug-series','/debug-series/',''],
+    ['about','/about/','关于本站'],['search','/search/','搜索'],['debug-series','/debug-series/',''],
   ]) await page(url!,{view,pagetitle:title});
   for (const [index,feed] of discovery.feeds.entries()) await page(feed.url,{view:'x-feed',feedindex:index,pagetitle:feed.title});
-  const labels: Record<Taxonomy,string> = {tags:'标签',speakers:'演讲者',categories:'分类',projects:'专题',areas:'领域'};
-  for (const taxonomy of Object.keys(model.groups) as Taxonomy[]) {
+  const labels: Record<Taxonomy,string> = {tags:'标签',speakers:'来源',categories:'分类',projects:'专题',areas:'领域'};
+  // Internal classification metadata remains available without public routes.
+  for (const taxonomy of ['tags', 'speakers'] as const) {
     const list = model.groups[taxonomy];
     for (const group of list) await page(group.url,{view:'term',taxonomy,groupkey:group.key});
     const size = taxonomy === 'tags' ? 50 : Math.max(1,list.length);
