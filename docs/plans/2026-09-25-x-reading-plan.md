@@ -1,7 +1,7 @@
 # X reading and discovery: implementation plan
 
 Date: 2026-09-25
-Status: Implemented and locally accepted; awaiting PR publication. Merge and deployment are not included.
+Status: Implemented, locally accepted and published as [PR #13](https://github.com/austery/thought-foundry/pull/13). Merge and deployment are not included.
 Scope owner: Thought Foundry site code. Source Markdown remains owned by thought-foundry-content.
 
 ## Outcome
@@ -97,7 +97,7 @@ After plan confirmation, execute XREAD-01 through XREAD-04 sequentially and repo
 | XREAD-01 | Complete: 56 posts, 3 authors, 8 feed routes |
 | XREAD-02 | Complete: literal expansion, readable context, source provenance |
 | XREAD-03 | Complete: author filtering and real Pagefind post links |
-| XREAD-04 | Local acceptance and independent review complete; PR publication pending |
+| XREAD-04 | Complete: full-corpus/browser acceptance, independent review, preview and PR #13 |
 
 Evidence: [X reading and discovery acceptance](../acceptance/x-reading-discovery.md).
 
