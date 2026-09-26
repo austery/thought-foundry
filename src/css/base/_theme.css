@@ -1,107 +1,102 @@
-/* src/css/base/_theme.css */
-/* ===== 午夜森林手稿配色系统 ===== */
-
-:root {
-  /* ===== 浅色主题 — 古纸暖光 ===== */
-  --theme-bg-primary: #f7f3ec;
-  --theme-bg-secondary: #ede9e0;
-  --theme-bg-tertiary: #e4dfd4;
-
+/* Semantic colors are the only source of reading-surface color. */
+:root, [data-theme="paper-light"] {
+  --theme-surface-page: #f7f3ec;
+  --theme-surface-subtle: #ede9e0;
+  --theme-surface-raised: #fbf8f2;
   --theme-text-primary: #1a1512;
   --theme-text-secondary: #4a4340;
-  --theme-text-muted: #7d756c;
-
-  --theme-border-color: #d8d2c4;
-  --theme-border-dark: #bfb7ab;
-
-  /* 主调色 — 琥珀金 */
-  --theme-accent-primary: #8b6712;
-  --theme-accent-primary-light: #f5edd8;
-
-  /* 次调色 — 苔藓绿 */
-  --theme-accent-secondary: #3d6b5a;
-  --theme-accent-secondary-light: #e8f2ee;
-
-  /* 第三调色 — 秋叶锈红 */
-  --theme-accent-tertiary: #9a4828;
-  --theme-accent-tertiary-light: #f5e8e0;
-
-  /* 兼容旧版本变量 */
-  --theme-accent-blue: #3d6b5a;
-  --theme-accent-blue-light: #e8f2ee;
-  --theme-accent-orange: #8b6712;
-  --theme-accent-orange-light: #f5edd8;
-  --theme-accent-green: #3d6b5a;
-  --theme-accent-green-light: #e8f2ee;
-  --theme-summary-bg: #ede9e0;
-  --theme-button-bg: #8b6712;
-  --theme-button-bg-hover: #6b5010;
-
-  --theme-shadow: rgba(26, 21, 18, 0.06);
-  --theme-shadow-dark: rgba(26, 21, 18, 0.14);
-
-  /* 字体系统 */
-  --font-display: 'Playfair Display', Georgia, 'Times New Roman', serif;
-  --font-chinese-serif: 'Noto Serif SC', 'Songti SC', 'STSong', serif;   /* 标题用 */
-  --font-chinese: 'Noto Serif SC', 'Songti SC', 'STSong', serif;          /* 兼容别名 */
-  --font-mono: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
-  --font-body: 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif;  /* 正文用无衬线 */
-
+  --theme-text-tertiary: #6e665c;
+  --theme-accent: #8b6712;
+  --theme-accent-hover: #6b5010;
+  --theme-accent-tint: #f5edd8;
+  --theme-border-subtle: rgb(26 21 18 / 12%);
+  --theme-border-strong: rgb(26 21 18 / 26%);
+  --theme-bold: #1a1512;
+  --font-heading: 'Noto Serif SC', 'Songti SC', Georgia, serif;
   color-scheme: light;
 }
-
-/* ===== 深色主题 — 午夜森林 ===== */
-[data-theme="dark"] {
-  /* 背景 — 黑松林夜色 */
-  --theme-bg-primary: #0b0e0b;
-  --theme-bg-secondary: #111411;
-  --theme-bg-tertiary: #191d19;
-
-  /* 文本 — 古纸暖白 */
-  --theme-text-primary: #e4dbd0;
-  --theme-text-secondary: #9e9488;
-  --theme-text-muted: #63605a;
-
-  /* 边框 */
-  --theme-border-color: #1e221e;
-  --theme-border-dark: #2d322d;
-
-  /* 主调色 — 萤火虫琥珀金 */
-  --theme-accent-primary: #c8a554;
-  --theme-accent-primary-light: #1e1a08;
-
-  /* 次调色 — 苔藓碧绿 */
-  --theme-accent-secondary: #5b907e;
-  --theme-accent-secondary-light: #0d1a17;
-
-  /* 第三调色 — 秋叶锈橙 */
-  --theme-accent-tertiary: #c06b4a;
-  --theme-accent-tertiary-light: #1e0e08;
-
-  /* 兼容旧版本变量 */
-  --theme-accent-blue: #5b907e;
-  --theme-accent-blue-light: #0d1a17;
-  --theme-accent-orange: #c8a554;
-  --theme-accent-orange-light: #1e1a08;
-  --theme-accent-green: #5b907e;
-  --theme-accent-green-light: #0d1a17;
-  --theme-summary-bg: #191d19;
-  --theme-button-bg: #191d19;
-  --theme-button-bg-hover: #242824;
-
-  --theme-shadow: rgba(0, 0, 0, 0.35);
-  --theme-shadow-dark: rgba(0, 0, 0, 0.55);
-
+[data-theme="paper-dark"] {
+  --theme-surface-page: #16130f;
+  --theme-surface-subtle: #1e1a15;
+  --theme-surface-raised: #241f19;
+  --theme-text-primary: #ddd4c8;
+  --theme-text-secondary: #a79d90;
+  --theme-text-tertiary: #8a8175;
+  --theme-accent: #c8a554;
+  --theme-accent-hover: #dcbc6e;
+  --theme-accent-tint: #1e1a08;
+  --theme-border-subtle: rgb(247 243 236 / 14%);
+  --theme-border-strong: rgb(247 243 236 / 28%);
+  --theme-bold: #f2ece2;
   color-scheme: dark;
 }
-
-/* ===== 全局过渡 ===== */
-*, *::before, *::after {
-  transition: background-color 0.25s ease, border-color 0.25s ease, color 0.15s ease;
+[data-theme="steel-light"] {
+  --theme-surface-page: #f2f2f3;
+  --theme-surface-subtle: #e9e9ea;
+  --theme-surface-raised: #f5f5f8;
+  --theme-text-primary: #1d1f20;
+  --theme-text-secondary: #424244;
+  --theme-text-tertiary: #5d5d60;
+  --theme-accent: #416180;
+  --theme-accent-hover: #2c455d;
+  --theme-accent-tint: #eef6ff;
+  --theme-border-subtle: rgb(29 31 32 / 12%);
+  --theme-border-strong: rgb(29 31 32 / 26%);
+  --theme-bold: #1d1f20;
+  color-scheme: light;
 }
-
-/* 禁用链接/按钮的颜色过渡以避免闪烁 */
-a, button {
-  transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease,
-              opacity 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+[data-theme="steel-dark"] {
+  --theme-surface-page: #191b1d;
+  --theme-surface-subtle: #212427;
+  --theme-surface-raised: #24282b;
+  --theme-text-primary: #d8d8db;
+  --theme-text-secondary: #a9a9ad;
+  --theme-text-tertiary: #8c8c90;
+  --theme-accent: #94bce3;
+  --theme-accent-hover: #b5d9fd;
+  --theme-accent-tint: #2c455d;
+  --theme-border-subtle: rgb(242 242 243 / 14%);
+  --theme-border-strong: rgb(242 242 243 / 28%);
+  --theme-bold: #f2f2f3;
+  color-scheme: dark;
+}
+[data-theme^="steel"] {
+  --font-heading: 'Barlow Condensed', 'PingFang SC', 'Hiragino Sans GB', sans-serif;
+}
+:root {
+  --font-body: 'Reading Latin', 'Barlow', -apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans SC', sans-serif;
+  --font-mono: 'IBM Plex Mono', 'SFMono-Regular', Consolas, monospace;
+  --font-display: 'Barlow Condensed', Georgia, serif;
+  /* Existing list/search components consume aliases of the same theme. */
+  --font-chinese-serif: var(--font-heading);
+  --font-chinese: var(--font-heading);
+  --theme-bg-primary: var(--theme-surface-page);
+  --theme-bg-secondary: var(--theme-surface-subtle);
+  --theme-bg-tertiary: var(--theme-surface-raised);
+  --theme-text-muted: var(--theme-text-tertiary);
+  --theme-border-color: var(--theme-border-subtle);
+  --theme-border-dark: var(--theme-border-strong);
+  --theme-accent-primary: var(--theme-accent);
+  --theme-accent-secondary: var(--theme-accent);
+  --theme-accent-tertiary: var(--theme-accent);
+  --theme-accent-blue: var(--theme-accent);
+  --theme-accent-orange: var(--theme-accent);
+  --theme-accent-green: var(--theme-accent);
+  --theme-accent-primary-light: var(--theme-accent-tint);
+  --theme-accent-secondary-light: var(--theme-accent-tint);
+  --theme-accent-tertiary-light: var(--theme-accent-tint);
+  --theme-accent-blue-light: var(--theme-accent-tint);
+  --theme-accent-orange-light: var(--theme-accent-tint);
+  --theme-accent-green-light: var(--theme-accent-tint);
+  --theme-summary-bg: var(--theme-surface-subtle);
+  --theme-button-bg: var(--theme-accent);
+  --theme-button-bg-hover: var(--theme-accent-hover);
+  --theme-shadow: rgb(0 0 0 / 6%);
+  --theme-shadow-dark: rgb(0 0 0 / 14%);
+}
+@media (prefers-reduced-motion: no-preference) {
+  body, a, button, .metadata-block, .site-header { transition: background-color .25s, border-color .25s, color .15s; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
 }

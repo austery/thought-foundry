@@ -8,8 +8,9 @@
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Noto+Serif+SC:wght@600;700&family=Noto+Sans+SC:wght@400;500&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@400;500;600&family=Noto+Serif+SC:wght@600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 
+    <script src="/js/theme-toggle.js"></script>
     <link rel="stylesheet" href="/css/main.css" />
 
   </head>
@@ -39,10 +40,10 @@
         <div class="search-container">
           <form id="search" class="header-search" action="/search/" role="search">
             <input type="search" name="q" aria-label="搜索文章" placeholder="搜索文章…" required>
-            <button type="submit">搜索</button>
+            <button type="submit" aria-label="搜索">{{ partial "icon.html" "search" }}</button>
           </form>
-          <button id="theme-toggle" class="theme-toggle" title="切换主题" aria-label="切换深色/浅色主题">
-            <span class="theme-toggle-icon">🌙</span>
+          <button id="theme-toggle" class="theme-toggle" title="切换主题" aria-label="切换阅读主题">
+            {{ partial "icon.html" "theme" }}
           </button>
         </div>
       </header>
@@ -52,7 +53,7 @@
       </main>
 
       <footer class="site-footer">
-        <p>&copy; 2025 Austery &nbsp;·&nbsp; All rights reserved.</p>
+        <p>&copy; {{ now.Year }} Austery &nbsp;·&nbsp; All rights reserved.</p>
       </footer>
 
     </div>
@@ -60,6 +61,5 @@
     <script>
       const site_url = "/";
     </script>
-    <script src="/js/theme-toggle.js"></script>
   </body>
 </html>

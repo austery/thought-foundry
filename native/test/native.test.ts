@@ -53,7 +53,7 @@ test('native templates preserve source, exclusions, scalar metadata, exact links
   const b=await html('content/notes/B');
   assert.equal(b('[data-pagefind-body]').length,1);
   assert.deepEqual(b('[data-pagefind-filter="speaker"]').map((_, e) => b(e).text()).get(), ['Alice', 'Bob']);
-  assert.equal(b('.entity-section summary').text(),'📌 文中提及的人物和组织');
+  assert.equal(b('.entity-section summary').text().trim(),'文中提及的人物和组织');
   assert.equal(b('.pkm-taxonomy').length,0);
   assert.deepEqual(b('.related-post-link').map((_,a)=>b(a).attr('href')).get(),['/content/notes/Older/','/content/notes/A/']);
   assert.equal(b('.tag-link').text(),'repeatrepeatrepeatrepeatrepeat');

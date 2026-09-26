@@ -49,7 +49,8 @@ export async function prepare(site: string, destination: string, cacheFile?: str
   const source = join(site,'src');
   const articles: Article[] = [];
   for (const name of (await files(source)).filter(n => n.endsWith('.md') && !/^(_includes|_11ty)\//.test(n))) {
-    const parsed = matter(await readFile(join(source,name),'utf8'));
+    const raw = await readFile(join(source,name),'utf8');
+    const parsed = matter(raw);
     const meta = record(parsed.data);
     if (Object.hasOwn(meta,'permalink')) throw new Error(`Explicit permalink requires migration handling: ${name}`);
     const xReading = readX(meta,parsed.content,name);
@@ -57,6 +58,11 @@ export async function prepare(site: string, destination: string, cacheFile?: str
     if (!['','post.njk','book-note.njk','base.njk','default.njk'].includes(text(meta.layout))) throw new Error(`Unsupported layout ${text(meta.layout)}: ${name}`);
     if (xReading) meta.title = `${xReading.author} · ${xReading.date.slice(0,10) || '日期未知'} · ${xReading.kind === 'DAILY_COLLECTION' ? `${xReading.entries.length} 条帖子` : xReading.kind === 'ARTICLE' ? '长文' : '帖子'}`;
     const dates = xReading ? {date:xReading.date ? new Date(xReading.date).toISOString() : '',dateLabel:xReading.date.slice(0,10) || '日期未知'} : dateValues(meta,name,(await stat(join(source,name))).birthtime);
+    if (layout === 'post.njk') {
+      const exports = join(destination,'static','reader');
+      await mkdir(exports,{recursive:true});
+      await writeFile(join(exports,`d${articles.length}.md`),raw);
+    }
     articles.push({xReading,id:`d${articles.length}`, source:name, url:`/${name.replace(/\.md$/,'').replace(/\/index$/,'')}/`,
       ...dates, meta, body:parsed.content, kind:name.split('/')[1] ?? '', layout,
       links:{tags:[],speakers:[],categories:[],projects:[],areas:[]}, speakerLink:'', related:[]});
@@ -114,7 +120,12 @@ export async function prepare(site: string, destination: string, cacheFile?: str
   for (const [view,url,title] of [
     ['about','/about/','关于本站'],['search','/search/','搜索'],['debug-series','/debug-series/',''],
   ]) await page(url!,{view,pagetitle:title});
-  for (const [index,feed] of discovery.feeds.entries()) await page(feed.url,{view:'x-feed',feedindex:index,pagetitle:feed.title});
+  for (const [index,feed] of discovery.feeds.entries()) {
+    if (feed.url === '/x/' && discovery.days.length) await page('/x/',{view:'x-day',dayindex:0,pagetitle:'X 阅读'});
+    else await page(feed.url,{view:'x-feed',feedindex:index,pagetitle:feed.title});
+  }
+  if (discovery.days.length) await page('/x/archive/',{view:'x-feed',feedindex:0,pagetitle:'X 阅读 · 历史记录'});
+  for (const [index,day] of discovery.days.entries()) await page(day.url,{view:'x-day',dayindex:index,pagetitle:`X 阅读 · ${day.date}`});
   const labels: Record<Taxonomy,string> = {tags:'标签',speakers:'来源',categories:'分类',projects:'专题',areas:'领域'};
   // Internal classification metadata remains available without public routes.
   for (const taxonomy of ['tags', 'speakers'] as const) {

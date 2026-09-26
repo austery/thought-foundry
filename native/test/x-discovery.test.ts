@@ -48,3 +48,20 @@ test('missing observed names never replace known labels and equal names stay dis
  const fallback=createXDiscovery([unnamed]);assert.equal(fallback.authors[0]!.name,'99');
  assert.equal(fallback.feeds[0]!.cards[0]!.authorUrl,'/x/authors/99/');
 });
+
+test('day discovery uses Toronto dates, spans legacy pages, and keeps unknown dates reachable',()=>{
+ const cards=Array.from({length:23},(_,i)=>article(String(i+1),'99','POST',{published:'2026-09-20T04:30:00Z',body:i===22?'😀'.repeat(281):'Short'}));
+ cards.push(article('90','88','POST',{published:'2026-09-20T03:59:00Z'}));
+ cards.push(article('91','88','POST',{published:'invalid'}));
+ cards.push(article('92','88','POST',{published:'2026-09-21T04:00:00Z'},true));
+ const discovery=createXDiscovery(cards);
+ assert.deepEqual(discovery.days.map(day=>day.date),['2026-09-20','2026-09-19']);
+ assert.equal(discovery.days[0]!.cards.length,23);
+ assert.equal(discovery.days[0]!.cards.filter(card=>card.long).length,1);
+ assert.equal(discovery.days[0]!.previous,'/x/days/2026-09-19/');
+ assert.equal(discovery.days[1]!.next,'/x/days/2026-09-20/');
+ assert.ok(discovery.feeds.some(feed=>feed.cards.some(card=>card.id==='91')));
+ assert.ok(!discovery.days.some(day=>day.cards.some(card=>['91','92'].includes(card.id))));
+ const dst=createXDiscovery([article('1','99','POST',{published:'2026-11-01T05:30:00Z'}),article('2','99','POST',{published:'2026-11-01T06:30:00Z'})]);
+ assert.equal(dst.days.length,1);assert.equal(dst.days[0]!.cards.length,2);
+});

@@ -1,7 +1,8 @@
 {{ $a := index hugo.Data.archive.articles .Params.articleid }}{{ $m := $a.meta }}
+{{ $headings := partial "reading-headings.html" .Fragments.Headings }}
 <div class="report-container">
-  <aside id="toc-container" class="sidebar-toc"></aside>
-  <main id="content-body" class="main-content" lang="zh-CN" {{ if not $m.exclude }}data-pagefind-body{{ else }}data-pagefind-ignore{{ end }}>
+  {{ partial "reading-toc.html" $headings }}
+  <article id="content-body" class="main-content" lang="zh-CN" {{ if not $m.exclude }}data-pagefind-body{{ else }}data-pagefind-ignore{{ end }}>
   <div class="book-note-layout">
     {{ if not $m.exclude }}
       <span data-pagefind-meta="title" style="display:none;">{{ $m.title }}</span>
@@ -17,8 +18,9 @@
       {{ if $m.tags_present }}<p><strong>关键字:</strong> {{ range $a.links.tags }}<a class="tag-link" {{ printf "href=\"%s\"" (.url | htmlEscape) | safeHTMLAttr }}>{{ .name }}</a> {{ end }}
 </p>{{ end }}
     </div>
-    <article class="book-content">{{ partial "body.html" . }}</article>
+    {{ partial "reading-outline.html" $headings }}
+    <div class="article-body book-content">{{ partial "body.html" . }}</div>
   </div>
-  </main>
+  </article>
 </div>
 <script src="/js/post.js"></script>

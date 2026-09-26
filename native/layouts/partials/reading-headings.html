@@ -1,0 +1,6 @@
+{{- $result := slice -}}
+{{- range . -}}
+  {{- if in (slice 2 3) .Level -}}{{- $result = $result | append (dict "id" .ID "title" (.Title | plainify | htmlUnescape) "level" .Level) -}}{{- end -}}
+  {{- with .Headings -}}{{- range partial "reading-headings.html" . -}}{{- $result = $result | append . -}}{{- end -}}{{- end -}}
+{{- end -}}
+{{- return $result -}}
