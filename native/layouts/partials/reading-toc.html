@@ -1,4 +1,4 @@
-  {{ if ge (len .) 2 }}
+{{ "<!-- reader-toc:start -->" | safeHTML }}
   <aside id="toc-container" class="sidebar-toc" hidden data-pagefind-ignore>
     <div class="toc-heading"><span>章节</span><span class="toc-count"></span></div>
     <button class="toc-toggle" aria-expanded="false" aria-controls="chapter-panel"><span class="toc-current-number"></span><span class="toc-current-title"></span><span class="toc-count"></span>{{ partial "icon.html" "chevron" }}</button>
@@ -6,4 +6,4 @@
     <nav id="chapter-panel" class="toc-panel" aria-label="章节"></nav>
     <div class="toc-tools"><a href="#reader-tools">读者工具</a></div>
   </aside>
-  {{ end }}
+{{ "<!-- reader-toc:end -->" | safeHTML }}

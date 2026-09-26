@@ -1,6 +1,6 @@
 {{- $body := partial "body.html" . -}}
 {{- /* Match short, explicit labels only; malformed summaries retain their text. */ -}}
-{{- $english := `(?is)<details([^>]*)>\s*<summary[^>]*>\s*(?:(?:查看/隐藏英文原文 / )?(?:(?:View/Hide|V/Hide|Veiw/Hide) )?(?:Original )?(?:Original )?English(?: Source)?|English Original|英文原文|原文（英文）|原文\(英文\))\s*</summary>` -}}
+{{- $english := `(?is)<details([^>]*)>\s*<summary[^>]*>\s*(?:(?:查看/隐藏英文原文 / )?(?:(?:View/Hide|View/Show|V/Hide|Veiw/Hide) )?(?:Original )?(?:Original )?English(?: Source)?|English Original|英文原文|原文（英文）|原文\(英文\))\s*</summary>` -}}
 {{- $body = $body | replaceRE $english `<details$1 data-original="en"><summary>英文原文</summary>` -}}
 {{- $unknown := `(?is)<details([^>]*)>\s*<summary[^>]*>\s*(?:View/Hide Original Text|Original Transcript|Original)\s*</summary>` -}}
 {{- $body = $body | replaceRE $unknown `<details$1 data-original="und"><summary>原文（语言未标注）</summary>` -}}

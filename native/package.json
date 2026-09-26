@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@sindresorhus/slugify": "2.2.1",
+    "cheerio": "1.2.0",
     "gray-matter": "4.0.3",
     "liquidjs": "10.25.5",
     "pagefind": "1.5.2",
@@ -19,7 +20,6 @@
   },
   "devDependencies": {
     "@types/node": "22.18.6",
-    "cheerio": "1.2.0",
     "tsx": "4.20.5",
     "typescript": "5.9.2"
   }

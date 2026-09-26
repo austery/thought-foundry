@@ -1,16 +1,1 @@
-{{- if ge (len .) 2 -}}
-<details class="article-outline" data-pagefind-ignore {{ if le (len .) 8 }}open{{ end }}><summary>{{ len . }} 节</summary>
-<nav aria-label="本文章节"><ol>
-{{ $section := false }}{{ $nested := false }}
-{{ range . }}
-  {{ if eq .level 2 }}
-    {{ if $nested }}</ol>{{ $nested = false }}{{ end }}{{ if $section }}</li>{{ end }}
-    <li class="outline-h2"><a href="#{{ .id }}">{{ .title }}</a>{{ $section = true }}
-  {{ else }}
-    {{ if and $section (not $nested) }}<ol>{{ $nested = true }}{{ end }}
-    <li class="outline-h3"><a href="#{{ .id }}">{{ .title }}</a></li>
-  {{ end }}
-{{ end }}
-{{ if $nested }}</ol>{{ end }}{{ if $section }}</li>{{ end }}
-</ol></nav></details>
-{{- end -}}
+{{ "<!-- reader-outline -->" | safeHTML }}

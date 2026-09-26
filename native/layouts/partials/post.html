@@ -1,8 +1,7 @@
 {{ $a := index hugo.Data.archive.articles .Params.articleid }}{{ $m := $a.meta }}
 {{ $reading := partial "reading-body.html" . }}
-{{ $headings := partial "reading-headings.html" .Fragments.Headings }}
 <div class="report-container">
-  {{ partial "reading-toc.html" $headings }}
+  {{ partial "reading-toc.html" . }}
   <article id="content-body" class="main-content" lang="zh-CN" {{ if not $m.exclude }}data-pagefind-body{{ else }}data-pagefind-ignore{{ end }}>
     <div id="top"></div>
     {{ if not $m.exclude }}
@@ -35,9 +34,9 @@
           {{ with $m.date }}<div><dt>发布时间</dt><dd><time datetime="{{ $a.date }}">{{ substr $a.date 0 10 }}</time></dd></div>{{ end }}
         </dl>{{ end }}
       </div>{{ end }}
-      {{ partial "reading-outline.html" $headings }}
+      {{ partial "reading-outline.html" . }}
     </header>
-    <div class="article-body">{{ $reading.html }}</div>
+    <div class="article-body">{{ "<!-- reader-body:start -->" | safeHTML }}{{ $reading.html }}{{ "<!-- reader-body:end -->" | safeHTML }}</div>
     <footer id="reader-tools" class="reader-tools" data-pagefind-ignore>
       <div class="reader-actions">
         <button id="copy-md-button" data-markdown="/reader/{{ $a.id }}.md" hidden>{{ partial "icon.html" "copy" }} 复制全文</button>

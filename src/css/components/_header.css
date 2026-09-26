@@ -20,7 +20,8 @@
   .main-nav { order: 3; width: 100%; }
   .main-nav a { padding: 4px 8px; }
   .site-brand__zh { display: none; }
-  .site-brand__en { font-size: .875rem; }
+  .site-brand__en { font-size: .8125rem; }
+  .site-brand { gap: 4px; }
   .search-container .header-search { width: 140px; }
 }
 @media (max-width: 374px) { .site-brand__en { font-size: .75rem; }.site-brand { gap: 4px; }.search-container { gap: 4px; } }

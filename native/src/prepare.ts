@@ -1,3 +1,4 @@
+import { finishReadingPage } from './reading.js';
 import { createXDiscovery } from './x-discovery.js';
 import { readX } from './x-reading.js';
 import { readFile, writeFile, mkdir, cp, stat, readdir, rename } from 'node:fs/promises';
@@ -153,5 +154,10 @@ export async function restore(destination: string, output: string): Promise<void
     catch (error) { if (!(error instanceof Error) || !('code' in error) || error.code !== 'ENOENT') throw error; }
     moves.push({source,target});
   }
-  for (const {source,target} of moves) { await mkdir(dirname(target),{recursive:true}); await rename(source,target); }
+  for (const {source,target} of moves) {
+    const html = await readFile(source,'utf8');
+    const finalized = finishReadingPage(html);
+    if (finalized !== html) await writeFile(source,finalized);
+    await mkdir(dirname(target),{recursive:true}); await rename(source,target);
+  }
 }

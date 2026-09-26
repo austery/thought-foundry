@@ -4,8 +4,16 @@ document.addEventListener('DOMContentLoaded', () => {
   const container = document.getElementById('toc-container');
   const outline = document.querySelector('.article-outline');
   if (!body || !container || !outline) return;
-  const headings = Array.from(body.querySelectorAll('h2, h3')).filter(h => !h.closest('details'));
+  const headings = Array.from(body.querySelectorAll('[data-reading-heading]'));
   if (headings.length < 2) { container.remove(); return; }
+  const header = document.querySelector('.site-header');
+  const headerOffset = () => {
+    const height = window.innerWidth <= 768 ? 0 : header?.getBoundingClientRect().height || 0;
+    document.documentElement.style.setProperty('--reading-header-offset', `${height}px`);
+    return height;
+  };
+  if (header) new ResizeObserver(headerOffset).observe(header);
+  headerOffset();
   const mobile = window.matchMedia('(max-width: 992px)');
   const button = container.querySelector('button');
   const panel = container.querySelector('.toc-panel');
@@ -70,7 +78,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (!mobile.matches && document.activeElement === button) links[current]?.focus({preventScroll: true});
   });
   const update = () => {
-    const threshold = mobile.matches ? (window.innerWidth <= 768 ? 64 : 116) : 100;
+    const threshold = headerOffset() + (mobile.matches ? button.getBoundingClientRect().height + 20 : 44);
     current = 0;
     headings.forEach((heading, i) => { if (heading.getBoundingClientRect().top <= threshold) current = i; });
     links.forEach((a, i) => { if (i === current) a.setAttribute('aria-current', 'location'); else a.removeAttribute('aria-current'); });

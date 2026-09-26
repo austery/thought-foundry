@@ -1,5 +1,5 @@
 /* The only owner of chapter-navigation geometry. */
-.sidebar-toc { grid-column: 2; grid-row: 1; position: sticky; top: 80px; align-self: start; font-size: .875rem; line-height: 1.55; color: var(--theme-text-tertiary); z-index: 20; }
+.sidebar-toc { grid-column: 2; grid-row: 1; position: sticky; top: calc(var(--reading-header-offset, 56px) + 24px); align-self: start; font-size: .875rem; line-height: 1.55; color: var(--theme-text-tertiary); z-index: 20; }
 .toc-toggle { display: none; }
 .toc-heading { display: flex; justify-content: space-between; gap: 12px; margin-bottom: 12px; font-size: .8125rem; }
 .toc-progress { height: 2px; background: var(--theme-border-subtle); }
@@ -13,7 +13,7 @@
 .toc-edge { font-size: .75rem; margin: 4px 0; }
 .toc-tools { margin-top: 16px; padding-top: 16px; border-top: 1px solid var(--theme-border-subtle); font-size: .8125rem; }
 @media (max-width: 992px) {
-  .sidebar-toc { top: 52px; background: var(--theme-surface-page); }
+  .sidebar-toc { top: var(--reading-header-offset, 52px); background: var(--theme-surface-page); }
   .toc-heading, .toc-tools { display: none; }
   .toc-toggle { display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; border: 0; background: transparent; color: var(--theme-text-primary); padding: 8px 0; text-align: left; font-size: .8125rem; }
   .toc-current-title { min-width: 0; flex: 1; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }

@@ -1,7 +1,7 @@
 /* Article components own their styles in _content, _metadata, and _sidebar. */
 .article-body { overflow-wrap: break-word; line-break: strict; letter-spacing: .01em; font-variant-numeric: tabular-nums; }
 @supports (text-autospace: normal) { .article-body { text-autospace: normal; } }
-.article-body :is(h2,h3) { scroll-margin-top: 120px; }
+.article-body :is(h2,h3) { scroll-margin-top: calc(var(--reading-header-offset, 56px) + 64px); }
 .article-body a { text-decoration: underline; text-underline-offset: 3px; }
 .article-body pre { overflow: auto; padding: 16px; background: var(--theme-surface-subtle); border-left: 2px solid var(--theme-accent); font-size: .875rem; line-height: 1.7; }
 .article-body code { font-size: .90625rem; background: var(--theme-surface-subtle); border: 0; }
