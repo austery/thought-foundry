@@ -1,16 +1,18 @@
 {{ $c := .card }}{{ $preview := .preview }}
-<article class="x-entry" {{ if not $preview }}id="x-post-{{ $c.id }}"{{ end }}>
+<article class="x-entry" data-author="{{ $c.authorId }}" data-long="{{ $c.long }}" {{ if not $preview }}id="x-post-{{ $c.id }}"{{ end }}>
+  {{ if not $preview }}<span id="x-post-heading-{{ $c.id }}" class="x-post-anchor" aria-hidden="true"></span>{{ end }}
   <header>{{ if $c.authorUrl }}<a href="{{ $c.authorUrl }}"><strong>{{ $c.author }}</strong></a>{{ else }}<strong>{{ $c.author }}</strong>{{ end }} {{ with $c.handle }}<span class="x-muted">@{{ . }}</span>{{ end }}
-    <h2 {{ if not $preview }}id="x-post-heading-{{ $c.id }}"{{ end }} class="x-post-heading">{{ if $c.instant }}<time datetime="{{ $c.instant }}">{{ $c.timeLabel }}</time>{{ else }}{{ $c.timeLabel }}{{ end }}</h2>
-    <a href="{{ $c.source }}" target="_blank" rel="noopener noreferrer">查看原帖 ↗</a>
-    {{ if $preview }}<a href="{{ $c.url }}">打开保存的原文</a>{{ end }}
+    <div {{ if not $preview }}id="x-post-time-{{ $c.id }}"{{ end }} class="x-post-heading">{{ if $c.instant }}<time datetime="{{ $c.instant }}">{{ $c.timeLabel }}</time>{{ else }}{{ $c.timeLabel }}{{ end }}</div>
+    <a class="x-outbound" href="{{ $c.source }}" target="_blank" rel="noopener noreferrer">原帖 ↗</a>
   </header>
-  {{ if and $preview $c.long }}
-    <details class="x-expand"><summary><span class="x-preview-text">{{ $c.preview }}…</span><span class="x-expand-label">展开全文 / 收起</span></summary><div class="x-original-text">{{ $c.body }}</div></details>
-  {{ else }}<div class="x-original-text">{{ $c.body }}</div>{{ end }}
-  <footer>
-    <p class="x-status">{{ if eq $c.status "CHECKED" }}正文已核对{{ else if eq $c.status "UNVERIFIED" }}正文尚未人工核对{{ else }}正文核对状态见保存记录{{ end }}{{ if eq $c.media "NOT_ARCHIVED" }} · 图片未保存{{ end }}{{ if eq $c.context "PARTIAL" }} · 引用或对话上下文可能不完整{{ end }}</p>
-    {{ with $c.contextLinks }}<div class="x-related">{{ range . }}<a href="{{ .url }}">{{ .label }}</a>{{ end }}</div>{{ end }}
-    <details><summary>来源与保存记录</summary><p>Post ID: {{ $c.id }}<br>保存时间：{{ $c.saved }}<br>正文状态：{{ $c.status }}<br>媒体状态：{{ $c.media }}<br>上下文状态：{{ $c.context }}<br>已知缺失：{{ $c.gaps }}</p>{{ range $c.related }}<p>{{ .label }} · {{ .url }}</p>{{ end }}</details>
-  </footer>
+  <div class="x-entry-content">
+    {{ if $preview }}<div class="x-original-text x-preview-text">{{ $c.body }}</div><a href="{{ $c.url }}">保存的原文{{ if $c.long }} · 长文{{ end }}</a>
+    {{ else }}<div class="x-original-text">{{ $c.body }}</div>{{ end }}
+    <footer>
+      {{ if or (ne $c.status "UNVERIFIED") (ne $c.media "NOT_ARCHIVED") (ne $c.context "PARTIAL") }}
+      <p class="x-status">{{ if ne $c.status "UNVERIFIED" }}{{ if eq $c.status "CHECKED" }}正文已核对{{ else }}正文核对状态：{{ $c.status }}{{ end }}{{ end }}{{ if ne $c.media "NOT_ARCHIVED" }} 媒体状态：{{ $c.media }}{{ end }}{{ if ne $c.context "PARTIAL" }} 上下文状态：{{ $c.context }}{{ end }}</p>{{ end }}
+      {{ with $c.contextLinks }}<div class="x-related">{{ range . }}<a href="{{ .url }}">{{ .label }}</a>{{ end }}</div>{{ end }}
+      <details><summary>来源与保存记录</summary><p>Post ID: {{ $c.id }}<br>保存时间：{{ $c.saved }}<br>正文状态：{{ $c.status }}<br>媒体状态：{{ $c.media }}<br>上下文状态：{{ $c.context }}<br>已知缺失：{{ $c.gaps }}</p>{{ range $c.related }}<p>{{ .label }} · {{ .url }}</p>{{ end }}</details>
+    </footer>
+  </div>
 </article>

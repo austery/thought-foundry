@@ -9,7 +9,9 @@ export interface XCard extends XEntry {
 }
 export interface XAuthor { id: string; name: string; url: string; count: number; }
 export interface XFeed {url: string; title: string; authorId: string; cards: XCard[]; previous: string; next: string;}
+export interface XDay {date: string; url: string; cards: XCard[]; previous: string; next: string;}
 export interface XDiscovery {
+  days: XDay[];
   authors: XAuthor[]; feeds: XFeed[];
   reading: Record<string, {cards: XCard[]; previous: string; next: string}>;
 }
@@ -40,7 +42,7 @@ export function createXDiscovery(articles: Article[]): XDiscovery {
   function card(article: Article, entry: XEntry): XCard {
     const authorId=article.xReading!.authorId, time=instant(entry.published);
     const chars=Array.from(entry.body);
-    return {...entry,authorId,author:entry.author,url:`${article.url}#x-post-${entry.id}`,authorUrl:authorIds.has(authorId) ? authorUrl(authorId) : '',instant:time,timeLabel:time ? dateFormat.format(new Date(time)) : '原发日期未知',long:chars.length>280,preview:chars.slice(0,280).join(''),contextLinks:entry.related.flatMap(link=>{
+    return {...entry,authorId,author:entry.author,url:`${article.url}#x-post-${entry.id}`,authorUrl:authorIds.has(authorId) ? authorUrl(authorId) : '',instant:time,timeLabel:time ? dateFormat.format(new Date(time)).replaceAll('/','-') : '原发日期未知',long:chars.length>280,preview:chars.slice(0,280).join(''),contextLinks:entry.related.flatMap(link=>{
       const targetId=/^(?:QUOTES|REPLIES_TO|REPLY_TO): x:post:(\d+)$/.exec(link.label)?.[1];
       const target=targetId ? locations.get(targetId) : undefined;
       // A local path alone does not establish an eligible saved post identity.
@@ -54,7 +56,7 @@ export function createXDiscovery(articles: Article[]): XDiscovery {
   const authorNames = [...authorIds].map(id => ({id, name:labels.get(id)?.name || id}));
   const authors=authorNames.map(({id,name})=>({id,name:authorNames.filter(a=>a.name===name).length>1 ? `${name} · ${id}` : name,url:authorUrl(id),count:cards.filter(c=>c.authorId===id).length})).sort((a,b)=>a.name.localeCompare(b.name,'zh')||ordinal(a.id,b.id));
   const feeds:XFeed[]=[];
-  for (const author of [{id:'',name:'全部作者',url:'/x/',count:cards.length},...authors]) {
+  for (const author of [{id:'',name:'全部来源',url:'/x/',count:cards.length},...authors]) {
     const items=author.id ? cards.filter(c=>c.authorId===author.id) : cards;
     const pages=Math.max(1,Math.ceil(items.length/20));
     const url=(i:number)=>i===0 ? author.url : `${author.url}page/${i+1}/`;
@@ -66,5 +68,14 @@ export function createXDiscovery(articles: Article[]): XDiscovery {
     const daily=eligible.filter(a=>a.xReading!.authorId===author.id && a.xReading!.kind==='DAILY_COLLECTION').sort((a,b)=>ordinal(a.xReading!.date,b.xReading!.date)||ordinal(a.url,b.url));
     daily.forEach((a,i)=>{reading[a.id]!.previous=daily[i-1]?.url||'';reading[a.id]!.next=daily[i+1]?.url||'';});
   }
-  return {authors,feeds,reading};
+  const dayFormat = new Intl.DateTimeFormat('en-CA', {timeZone:'America/Toronto',year:'numeric',month:'2-digit',day:'2-digit'});
+  const byDay = new Map<string,XCard[]>();
+  for (const card of cards) {
+    if (!card.instant) continue;
+    const date = dayFormat.format(new Date(card.instant));
+    byDay.set(date, [...byDay.get(date) ?? [], card]);
+  }
+  const days: XDay[] = [...byDay].sort(([a],[b])=>ordinal(b,a)).map(([date,items])=>({date,url:`/x/days/${date}/`,cards:items,previous:'',next:''}));
+  days.forEach((day,i)=>{day.previous=days[i+1]?.url || '';day.next=days[i-1]?.url || '';});
+  return {authors,feeds,reading,days};
 }

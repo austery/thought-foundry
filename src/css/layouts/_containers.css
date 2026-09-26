@@ -1,17 +1,11 @@
-/* src/css/layouts/_containers.css */
-
-/* 为 default.njk 布局提供一个 800px 宽的居中容器 */
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 0 1rem;
+/* Containers own geometry; the reading column never flexes to fit the TOC. */
+.page-wrapper { position: relative; max-width: 1440px; margin: auto; padding: 0 max(8px, min(102px, calc((100vw - 976px) / 2))); }
+.container { max-width: 800px; margin: auto; }
+.report-container { display: grid; grid-template-columns: 700px 220px; gap: 56px; width: 976px; max-width: 100%; margin: 48px auto 0; }
+@media (max-width: 992px) {
+  .page-wrapper { padding: 0 32px; }
+  .report-container { display: block; width: min(680px, 100%); margin-top: 0; }
 }
-
-/* 为 post.njk 布局提供一个 1200px 宽的居中容器 */
-.report-container {
-    display: flex;
-    flex-direction: row;
-    gap: 25px;
-    max-width: 1200px;
-    margin: 20px auto 0 auto;
+@media (max-width: 768px) {
+  .page-wrapper { padding: 0 20px; }
 }

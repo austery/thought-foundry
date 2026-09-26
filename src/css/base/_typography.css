@@ -1,102 +1,32 @@
-/* src/css/base/_typography.css */
-/* ===== 字体系统与基础排版 ===== */
-
-/* 注：Google Fonts 在 base.njk <head> 中加载 */
-
-html {
-  font-family: var(--font-body);
-  font-size: 16px;
-  line-height: 1.75;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* Only Latin glyphs are adjusted; system CJK glyph widths remain unchanged. */
+@font-face {
+  font-family: 'Reading Latin';
+  src: local('Barlow'), local('Arial');
+  size-adjust: 106%;
+  unicode-range: U+0000-024F;
+  font-display: swap;
 }
-
-body {
-  background-color: var(--theme-bg-primary);
-  color: var(--theme-text-primary);
-  min-height: 100vh;
-}
-
-/* ===== 纸张纹理（极细颗粒感）===== */
+*, *::before, *::after { box-sizing: border-box; }
+html { font-family: var(--font-body); font-size: 100%; line-height: 1.75; -webkit-font-smoothing: antialiased; }
+body { margin: 0; background: var(--theme-surface-page); color: var(--theme-text-primary); min-height: 100vh; }
 body::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='1'/%3E%3C/svg%3E");
-  opacity: 0.028;
-  pointer-events: none;
-  z-index: 9000;
+  content: ''; position: fixed; inset: 0; pointer-events: none; z-index: 0; opacity: .028;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)'/%3E%3C/svg%3E");
 }
-
-/* ===== 标题系统 — 宋体（有文学感）===== */
-h1 {
-  font-family: var(--font-chinese-serif);
-  font-size: 2rem;
-  font-weight: 700;
-  line-height: 1.3;
-  color: var(--theme-text-primary);
-}
-
-h2 {
-  font-family: var(--font-chinese-serif);
-  font-size: 1.5rem;
-  font-weight: 700;
-  line-height: 1.4;
-  color: var(--theme-text-primary);
-}
-
-h3 {
-  font-family: var(--font-chinese-serif);
-  font-size: 1.25rem;
-  font-weight: 600;
-  line-height: 1.5;
-}
-
-/* ===== 链接 ===== */
-a {
-  color: var(--theme-accent-primary);
-  text-decoration: none;
-}
-
-a:hover {
-  color: var(--theme-accent-secondary);
-  text-decoration: underline;
-  text-underline-offset: 3px;
-}
-
-/* ===== 等宽字体用于日期/代码 ===== */
-time, code, .date, .mono {
-  font-family: var(--font-mono);
-  font-size: 0.875em;
-  letter-spacing: 0.02em;
-}
-
-/* ===== 选中文字样式 ===== */
-::selection {
-  background-color: var(--theme-accent-primary-light);
-  color: var(--theme-accent-primary);
-}
-
-[data-theme="dark"] ::selection {
-  background-color: var(--theme-accent-primary-light);
-  color: var(--theme-accent-primary);
-}
-
-/* ===== 滚动条美化 ===== */
-::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
-}
-
-::-webkit-scrollbar-track {
-  background: var(--theme-bg-secondary);
-}
-
-::-webkit-scrollbar-thumb {
-  background: var(--theme-border-dark);
-  border-radius: 3px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: var(--theme-text-muted);
-}
+[data-theme^="steel"] body::before { display: none; }
+h1, h2, h3 { font-family: var(--font-heading); font-weight: 600; }
+h1 { font-size: 2rem; line-height: 1.35; }
+h2 { font-size: 1.4375rem; line-height: 1.5; }
+h3 { font-size: 1.1875rem; line-height: 1.6; }
+a { color: var(--theme-accent); text-decoration: none; }
+a:hover { color: var(--theme-accent-hover); text-decoration: underline; text-underline-offset: 3px; }
+strong, b { color: var(--theme-bold); font-weight: 600; }
+time, code, .date, .mono { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
+button, input, select { font: inherit; }
+button, summary { cursor: pointer; }
+:focus-visible { outline: 2px solid var(--theme-accent); outline-offset: 2px; }
+[hidden] { display: none !important; }
+::selection { background: var(--theme-accent-tint); color: var(--theme-accent-hover); }
+.icon { width: 1.125rem; height: 1.125rem; vertical-align: -.2rem; flex-shrink: 0; }
+.visually-hidden { position: absolute; width: 1px; height: 1px; padding: 0; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+img, video { max-width: 100%; height: auto; }

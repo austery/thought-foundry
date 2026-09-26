@@ -11,6 +11,9 @@ importers:
       '@sindresorhus/slugify':
         specifier: 2.2.1
         version: 2.2.1
+      cheerio:
+        specifier: 1.2.0
+        version: 1.2.0
       gray-matter:
         specifier: 4.0.3
         version: 4.0.3
@@ -27,9 +30,6 @@ importers:
       '@types/node':
         specifier: 22.18.6
         version: 22.18.6
-      cheerio:
-        specifier: 1.2.0
-        version: 1.2.0
       tsx:
         specifier: 4.20.5
         version: 4.20.5

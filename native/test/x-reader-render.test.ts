@@ -23,10 +23,16 @@ test('X originals render in the site shell with exact text, anchors, search meta
  assert.equal(html('.x-original-text').text(),body);assert.equal(html('.x-entry script').length,0);
  assert.equal(html('#x-post-123').length,1);assert.match(html('h1').text(),/Fixture.*1 条帖子/);
  assert.equal(html('#x-post-heading-123').length,1);
+ assert.equal(html('.x-entry h2').length,0);
+ assert.equal(html('.x-entry .x-status').length,0);
+ assert.equal(html('.x-reading > .x-status').length,1);
  assert.equal(html('[data-pagefind-filter="x_author"]').text(),'99');
  const feed=load(await readFile(join(output,'x/index.html'),'utf8'));
  assert.equal(feed('[data-pagefind-body]').length,0);
  assert.equal(feed('.x-entry').length,1);
+ assert.equal(feed('h1').text(),'2026-09-13');
+ assert.equal(feed('.x-expand').length,0);
+ assert.equal(feed('#x-source-filter option[value="99"]').length,1);
  assert.equal(feed('.x-original-text').text(),body);
  assert.equal(feed('.x-entry script').length,0);
  assert.equal(feed('a[href="/content/clippings/x/daily/99/unknown/#x-post-123"]').length,1);
