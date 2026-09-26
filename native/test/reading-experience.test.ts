@@ -15,7 +15,7 @@ test('reader header, outline, originals, exports and search exclusions render to
   const doc = (body: string, extra = '') => `---\ntitle: Reader\nlayout: post.njk\ndate: '2026-09-26'\nsummary: Summary\ninsight: Insight\nspeaker: Source\ntags: [rare]\n${extra}---\n${body}`;
   const body = '## First\n\nBody\n\n### Child\n\nText\n\n<details><summary>Original English</summary>\n\nOriginal body\n\n</details>\n\n<details><summary>Other disclosure</summary>Other</details>';
   const raw = doc(body).replace('tags: [rare]','tags: [unique-reader-tag]');
-  await writeFile(join(site,'src/content/notes/Variants.md'), doc('<details><summary>View/Hide Original English</summary>English</details>\n\n<details><summary>Original English Source</summary>Source English</details>\n\n<details><summary>Original Transcript</summary>Unknown language</details>\n\n<details><summary>View/Hide Original Chinese</summary>中文内容</details>')); 
+  await writeFile(join(site,'src/content/notes/Variants.md'), doc('<details><summary>View/Hide Original English</summary>English</details>\n\n<details><summary>Original English Source</summary>Source English</details>\n\n<details><summary>Original Transcript</summary>Unknown language</details>\n\n<details><summary>View/Hide Original Chinese</summary>中文内容</details>'));
   await writeFile(join(site,'src/content/notes/Reader.md'), raw);
   await writeFile(join(site,'src/content/notes/EmptyOriginal.md'), doc('<details><summary>View/Show Original English</summary> </details>'));
   await writeFile(join(site,'src/content/notes/Short.md'), doc('## Only heading\n\nShort'));
