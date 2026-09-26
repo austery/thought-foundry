@@ -193,18 +193,6 @@
   margin-right: 6px;
 }
 
-/* 关键字部分（移到文章末尾后） */
-.tags-section {
-  margin: 24px 0 16px 0;
-  padding-top: 16px;
-  border-top: 2px solid var(--theme-border-color);
-}
-
-.tags-section p {
-  margin: 8px 0;
-  color: var(--theme-text-primary);
-}
-
 /* 分类和专题列表页的样式 */
 .category-list,
 .project-list {
@@ -331,7 +319,7 @@ details summary {
   font-weight: 500;
   font-size: 0.85rem; /* 让 summary 文字变小 */
   color: var(--theme-text-secondary);
-  outline: none;
+
 }
 
 details summary:hover {
@@ -340,89 +328,4 @@ details summary:hover {
 
 details[open] {
   padding-bottom: 16px;
-}
-
-/* 全局展开/折叠按钮 */
-.toggle-all-details-btn {
-  position: fixed;
-  bottom: 80px;
-  right: 30px;
-  background-color: var(--theme-button-bg);
-  color: white;
-  border: none;
-  border-radius: 50px;
-  padding: 12px 20px;
-  font-size: 0.9rem;
-  font-weight: 600;
-  cursor: pointer;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-  z-index: 1000;
-  transition: all 0.3s ease;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
-.toggle-all-details-btn:hover {
-  background-color: var(--theme-button-bg-hover);
-  transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
-}
-
-.toggle-all-details-btn:active {
-  transform: translateY(0);
-}
-
-.toggle-all-details-btn .icon {
-  font-size: 1rem;
-}
-
-/* 响应式设计 */
-@media (max-width: 768px) {
-  .pkm-taxonomy {
-    padding: 10px 12px;
-  }
-
-  .category-list,
-  .project-list {
-    gap: 8px;
-  }
-
-  .category-pill,
-  .project-pill {
-    padding: 6px 12px;
-    font-size: 0.85rem;
-  }
-
-  /* 移动端按钮样式调整 */
-  .toggle-all-details-btn {
-    bottom: 20px;
-    right: 20px;
-    padding: 14px;
-    font-size: 0.85rem;
-    border-radius: 50%; /* 移动端变成圆形 */
-    width: 50px;
-    height: 50px;
-    justify-content: center;
-  }
-
-  .toggle-all-details-btn .btn-text {
-    display: none; /* 在小屏幕上只显示图标 */
-  }
-
-  .toggle-all-details-btn .icon {
-    font-size: 1.3rem;
-    margin: 0; /* 移除 gap 的影响 */
-  }
-
-  /* 移动端分类和专题徽章调整 */
-  .taxonomy-line {
-    margin: 4px 0;
-  }
-
-  .category-badge-inline,
-  .project-badge-inline {
-    font-size: 0.8rem;
-    padding: 2px 8px;
-  }
 }

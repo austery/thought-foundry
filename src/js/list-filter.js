@@ -13,7 +13,7 @@ function initializeListFilter(container) {
   // Get all direct `li` children from the list
   const listItems = Array.from(list.children).filter(child => child.tagName === 'LI');
 
-  input.addEventListener('keyup', (e) => {
+  input.addEventListener('input', (e) => {
     const searchTerm = e.target.value.toLowerCase();
     listItems.forEach(item => {
       // Use textContent for a simple, broad search across the list item's text

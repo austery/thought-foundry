@@ -1,7 +1,8 @@
 {{ $a := index hugo.Data.archive.articles .Params.articleid }}{{ $m := $a.meta }}
+{{ $reading := partial "reading-body.html" . }}
 <div class="report-container">
-  <aside id="toc-container" class="sidebar-toc"></aside>
-  <main id="content-body" class="main-content" data-page-title="{{ $m.title }}" lang="zh-CN" {{ if not $m.exclude }}data-pagefind-body{{ else }}data-pagefind-ignore{{ end }}>
+  {{ partial "reading-toc.html" . }}
+  <article id="content-body" class="main-content" lang="zh-CN" {{ if not $m.exclude }}data-pagefind-body{{ else }}data-pagefind-ignore{{ end }}>
     <div id="top"></div>
     {{ if not $m.exclude }}
       <span data-pagefind-meta="title" style="display:none;">{{ $m.title }}</span>
@@ -10,23 +11,46 @@
       {{ with $m.guest }}<span data-pagefind-meta="guest" style="display:none;">{{ . }}</span>{{ end }}
       {{ with $m.date }}<span data-pagefind-meta="date" style="display:none;">{{ . }}</span>{{ end }}
     {{ end }}
-    <div class="metadata-block">
-      {{ if $m.speaker }}<p><strong>来源:</strong> {{ range $i,$link := $m.speaker_links }}{{ if $i }}, {{ end }}<a class="speaker-link" {{ printf "href=\"%s\"" ($link.url | htmlEscape) | safeHTMLAttr }}>{{ $link.name }}</a>{{ end }}
-</p>{{ end }}
-      {{ if $m.guest }}<p><strong>嘉宾:</strong> {{ range $i,$link := $m.guest_links }}{{ if $i }}, {{ end }}<a class="speaker-link" {{ printf "href=\"%s\"" ($link.url | htmlEscape) | safeHTMLAttr }}>{{ $link.name }}</a>{{ end }}
-</p>{{ end }}
-      {{ with $m.source }}<p><strong>原文:</strong> <a {{ printf "href=\"%s\"" (. | htmlEscape) | safeHTMLAttr }} target="_blank">查看</a></p>{{ end }}
-      {{ with $m.channel }}<p><strong>频道:</strong> {{ . }}</p>{{ end }}
-      {{ with $m.date }}<p><strong>发布时间:</strong> {{ . }}
-</p>{{ end }}
-      {{ with $m.summary }}<div class="summary-section"><p><strong>摘要:</strong></p><div class="summary-content">{{ . }}</div></div>{{ end }}
-      {{ with $m.insight }}<div class="insight-section"><p><strong>洞察:</strong></p><div class="insight-content">{{ . }}</div></div>{{ end }}
-    </div>
-    {{ partial "body.html" . }}
-    {{ if $m.entities_present }}
+
+    <header class="article-header">
+      {{ with $m.type }}<p class="article-kicker">{{ . }}</p>{{ end }}
+      <h1>{{ $m.title }}</h1>
+    {{ $tags := where $a.links.tags "name" "not in" (slice "post" "note" "视频文稿") }}
+    {{ if $tags }}<div class="tags-section"><span class="visually-hidden">关键字</span>
+      {{ range $a.links.tags }}{{ if not (in (slice "post" "note" "视频文稿") .name) }}
+        {{ if .url }}<a class="tag-link" {{ printf "href=\"%s\"" (.url | htmlEscape) | safeHTMLAttr }}>{{ .name }}</a>{{ else }}<span class="tag-pill tag-pill--no-page">{{ .name }}</span>{{ end }}
+      {{ end }}{{ end }}
+    </div>{{ end }}
+
+      {{ if or $m.summary $m.insight $m.speaker $m.guest $m.source $m.channel $m.date }}
+      <div class="metadata-block">
+        {{ with $m.summary }}<section class="summary-section"><p class="metadata-label">摘要</p><div class="summary-content">{{ . }}</div></section>{{ end }}
+        {{ with $m.insight }}<section class="insight-section"><p class="metadata-label">洞察</p><div class="insight-content">{{ . }}</div></section>{{ end }}
+        {{ if or $m.speaker $m.guest $m.source $m.channel $m.date }}
+        <dl class="provenance">
+          {{ with $m.speaker_links }}<div><dt>来源</dt><dd>{{ range $i,$link := . }}{{ if $i }}, {{ end }}<a class="speaker-link" href="{{ $link.url }}">{{ $link.name }}</a>{{ end }}</dd></div>{{ end }}
+          {{ with $m.guest_links }}<div><dt>嘉宾</dt><dd>{{ range $i,$link := . }}{{ if $i }}, {{ end }}<a class="speaker-link" href="{{ $link.url }}">{{ $link.name }}</a>{{ end }}</dd></div>{{ end }}
+          {{ with $m.channel }}<div><dt>频道</dt><dd>{{ . }}</dd></div>{{ end }}
+          {{ with $m.source }}<div><dt>原文</dt><dd><a href="{{ . }}" target="_blank" rel="noopener noreferrer">查看 ↗</a></dd></div>{{ end }}
+          {{ with $m.date }}<div><dt>发布时间</dt><dd><time datetime="{{ $a.date }}">{{ substr $a.date 0 10 }}</time></dd></div>{{ end }}
+        </dl>{{ end }}
+      </div>{{ end }}
+      {{ partial "reading-outline.html" . }}
+    </header>
+    <div class="article-body">{{ "<!-- reader-body:start -->" | safeHTML }}{{ $reading.html }}{{ "<!-- reader-body:end -->" | safeHTML }}</div>
+    <footer id="reader-tools" class="reader-tools" data-pagefind-ignore>
+      <div class="reader-actions">
+        <button id="copy-md-button" data-markdown="/reader/{{ crypto.SHA256 $a.source }}.md" hidden>{{ partial "icon.html" "copy" }} 复制全文</button>
+        <a href="/reader/{{ crypto.SHA256 $a.source }}.md" download="{{ $m.title }}.md">{{ partial "icon.html" "download" }} 下载 Markdown</a>
+        {{ "<!-- reader-original:start -->" | safeHTML }}{{ if $reading.hasOriginal }}<button id="toggleAllDetailsBtn" data-label="{{ $reading.originalLabel }}" hidden>{{ partial "icon.html" "book" }} <span class="btn-text">展开全部{{ $reading.originalLabel }}</span></button>{{ end }}{{ "<!-- reader-original:end -->" | safeHTML }}
+      </div>
+      <p id="reader-status" role="status" aria-live="polite"></p>
+      <textarea id="copy-fallback" hidden readonly aria-label="全文 Markdown，可手动复制"></textarea>
+    </footer>
+    {{ if or $m.people_items $m.companies_orgs_items $m.products_models_items $m.media_books_items }}
     <div class="entity-section">
       <details class="entity-details">
-        <summary>📌 文中提及的人物和组织</summary>
+        <summary>{{ partial "icon.html" "file" }} 文中提及的人物和组织</summary>
         <div class="entity-content">
       {{ range $entry := slice (dict "field" "people_items" "label" "人物" "class" "person") (dict "field" "companies_orgs_items" "label" "公司/组织" "class" "company") (dict "field" "products_models_items" "label" "产品/模型" "class" "product") (dict "field" "media_books_items" "label" "媒体/书籍" "class" "media") }}
         {{ with index $m $entry.field }}<p><strong>{{ $entry.label }}:</strong> {{ range $i,$name := . }}{{ if $i }}, {{ end }}<a {{ printf "href=\"%s\"" (printf "/search/?q=%s" $name | htmlEscape) | safeHTMLAttr }} class="entity-link {{ $entry.class }}-link">{{ $name | htmlEscape | replaceRE "&#43;" "+" | safeHTML }}</a>{{ end }}
@@ -34,11 +58,6 @@
       {{ end }}
     </div></details></div>
     {{ end }}
-    {{ if $m.tags_present }}<div class="tags-section"><p><strong>关键字:</strong>
-      {{ range $a.links.tags }}{{ if not (in (slice "post" "note" "视频文稿") .name) }}
-        {{ if .url }}<a class="tag-link" {{ printf "href=\"%s\"" (.url | htmlEscape) | safeHTMLAttr }}>{{ .name }}</a>{{ else }}<span class="tag-pill tag-pill--no-page">{{ .name }}</span>{{ end }}
-      {{ end }}{{ end }}
-    </p></div>{{ end }}
     {{ with $a.related }}
     <div class="related-series"><h3>本系列其他文章</h3><p class="series-name">系列：{{ $m.series }}</p><ul class="related-posts-list">
       {{ range . }}{{ $p := index hugo.Data.archive.articles . }}<li class="related-post-item" data-sort-date="{{ $p.date }}"><a {{ printf "href=\"%s\"" ($p.url | htmlEscape) | safeHTMLAttr }} class="related-post-link"><span class="related-post-title">{{ $p.meta.title }}</span> {{ with $p.meta.date }}<span class="related-post-date">{{ . }}</span>{{ end }}
@@ -46,8 +65,8 @@
 </li>{{ end }}
     </ul></div>
     {{ end }}
-  </main>
-  <button class="toggle-all-details-btn" id="toggleAllDetailsBtn" aria-label="展开/折叠所有英文原文"><span class="icon">📖</span><span class="btn-text">展开全部原文</span></button>
+
+  </article>
 </div>
 <script src="/js/post.js"></script>
 <script src="/js/toggle-details.js"></script>

@@ -67,8 +67,8 @@ for (const count of [0, 30, 31, 61]) {
       assert.match(article('.insight-section').text(), /FullInsightMarker/);
       assert.equal(article('.speaker-link').text(), 'Test Blog');
       assert.equal(article('[data-pagefind-filter="speaker"]').text(), 'Test Blog');
-      assert.match(article('.metadata-block').text(), /来源:/);
-      assert.match(article('.metadata-block').text(), /原文:/);
+      assert.ok(article('.provenance dt').map((_,el)=>article(el).text()).get().includes('来源'));
+      assert.ok(article('.provenance dt').map((_,el)=>article(el).text()).get().includes('原文'));
       const directory = await html('all-speakers');
       assert.equal(directory('h1').text(), '所有来源');
       assert.ok(!directory.text().includes('Hidden Source'));

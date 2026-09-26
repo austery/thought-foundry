@@ -1,84 +1,22 @@
-/* src/css/components/_content.css */
-
-.main-content {
-    flex: 1;
-    background-color: var(--theme-bg-primary);
-    padding: 20px 40px;
-    /* 增加了左右的内边距 */
-    border-radius: 8px;
-    box-shadow: 0 2px 5px var(--theme-shadow);
-}
-
-/* --- 新增的排版样式 --- */
-
-/* 主标题 (H1) */
-.main-content h1 {
-    font-size: 2em;
-    /* 显著增大字号 */
-    border-bottom: 2px solid var(--theme-border-color);
-    /* 添加柔和的下边框 */
-    padding-bottom: 10px;
-    margin-top: 0;
-    margin-bottom: 1.5em;
-    color: var(--theme-text-primary);
-    /* 增加与下方内容的间距 */
-}
-
-/* 二级标题 (H2) */
-.main-content h2 {
-    font-size: 1.6em;
-    border-bottom: 1px solid var(--theme-border-color);
-    padding-bottom: 8px;
-    margin-top: 40px;
-    color: var(--theme-text-primary);
-    /* 显著增加与上方段落的间距，形成区隔 */
-    margin-bottom: 1.2em;
-}
-
-/* 三级标题 (H3) */
-.main-content h3 {
-    font-size: 1.3em;
-    margin-top: 30px;
-    margin-bottom: 1em;
-    color: var(--theme-text-primary);
-}
-
-/* 普通段落 */
-.main-content p {
-    margin-bottom: 1.2em;
-    color: var(--theme-text-primary);
-    /* 增加段落间的行距 */
-    line-height: 1.7;
-    /* 增加行高，让阅读更轻松 */
-}
-
-/* 双语内容样式 */
-.main-content .lang-en {
-    font-style: italic;
-    color: var(--theme-text-secondary);
-    font-size: 0.95em;
-}
-
-.main-content .lang-zh {
-    margin-top: -0.5em;
-}
-
-/* 交互按钮样式 */
-.action-buttons {
-    text-align: right;
-    margin-top: 2em;
-}
-
-#copy-md-button {
-    background-color: var(--theme-button-bg);
-    color: white;
-    border: none;
-    padding: 10px 15px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-
-#copy-md-button:hover {
-    background-color: var(--theme-button-bg-hover);
+.main-content { grid-column: 1; grid-row: 1; min-width: 0; font-size: 1.1875rem; line-height: 1.98; }
+.main-content h1 { font-size: 2rem; line-height: 1.35; margin: 0 0 24px; border: 0; }
+.main-content h2 { font-size: 1.4375rem; line-height: 1.5; margin: 64px 0 20px; border: 0; }
+.main-content h3 { font-size: 1.1875rem; line-height: 1.6; margin: 40px 0 20px; color: var(--theme-accent-hover); }
+.main-content p { margin: 0 0 28px; }
+.article-header { margin-bottom: 48px; }
+.article-kicker { font: 600 .8125rem/1.5 var(--font-body); letter-spacing: .14em; text-transform: uppercase; color: var(--theme-text-tertiary); }
+.article-outline { margin-top: 32px; font-size: .875rem; }
+.article-outline ol { margin: 12px 0; padding-left: 24px; }
+.article-outline li { margin: 4px 0; }
+.reader-tools { margin-top: 96px; padding: 24px 0; border-top: 1px solid var(--theme-border-subtle); font-size: .8125rem; line-height: 1.7; }
+.reader-actions { display: flex; flex-wrap: wrap; gap: 12px 24px; align-items: center; }
+.reader-actions button { border: 0; padding: 8px 0; color: var(--theme-accent); background: none; }
+.reader-tools p { margin: 8px 0; }
+.reader-tools textarea { width: 100%; min-height: 180px; }
+@media (max-width: 992px) { .main-content { padding-top: 32px; } }
+@media (max-width: 768px) {
+  .main-content { font-size: 1.125rem; line-height: 2; }
+  .main-content h1 { font-size: 1.625rem; }
+  .main-content h2 { font-size: 1.25rem; }
+  .main-content p { margin-bottom: 26px; }
 }

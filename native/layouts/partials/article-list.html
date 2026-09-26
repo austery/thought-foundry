@@ -3,17 +3,17 @@
 {{ range .ids }}{{ $a := index hugo.Data.archive.articles . }}{{ $m := $a.meta }}
   <li>
     <a {{ printf "href=\"%s\"" ($a.url | htmlEscape) | safeHTMLAttr }}>{{ $m.title }}</a>
-    {{ if $a.xReading }}<span class="badge">𝕏 原文</span>{{ else if eq $a.kind "posts" }}<span class="badge">✍️</span>{{ else if eq $a.kind "notes" }}<span class="badge">📝</span>{{ else if and $home (eq $a.kind "clippings") }}<span class="badge">📎</span>{{ end }}
-    {{ with $m.speaker }}<a {{ printf "href=\"%s\"" ($a.speakerLink | htmlEscape) | safeHTMLAttr }} class="speaker-inline">🎙️ {{ . }}</a> {{ end }}
-    {{ if $a.date }}<time datetime="{{ $a.date }}">{{ $a.dateLabel }}</time>{{ else }}<span>{{ $a.dateLabel }}</span>{{ end }}<br>
+    {{ if $a.xReading }}<span class="badge">𝕏 原文</span>{{ else if eq $a.kind "posts" }}<span class="badge">{{ partial "icon.html" "file" }}</span>{{ else if eq $a.kind "notes" }}<span class="badge">{{ partial "icon.html" "file" }}</span>{{ else if and $home (eq $a.kind "clippings") }}<span class="badge">{{ partial "icon.html" "file" }}</span>{{ end }}
+    {{ with $m.speaker }}<a {{ printf "href=\"%s\"" ($a.speakerLink | htmlEscape) | safeHTMLAttr }} class="speaker-inline">{{ partial "icon.html" "mic" }} {{ . }}</a> {{ end }}
+    {{ if $a.date }}<time datetime="{{ $a.date }}">{{ substr $a.date 0 10 }}</time>{{ else }}<span>{{ $a.dateLabel }}</span>{{ end }}<br>
     {{ with $m.summary }}
       {{ if $home }}
         {{ $summary := . | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace }}
         {{ if gt (strings.RuneCount $summary) 100 }}{{ $summary = printf "%s…" (substr $summary 0 99) }}{{ end }}
         <small class="summary-text">{{ $summary }}</small>
-      {{ else }}<small class="summary-text">📄 {{ . }}</small>{{ end }}
+      {{ else }}<small class="summary-text">{{ partial "icon.html" "file" }} {{ . }}</small>{{ end }}
     {{ end }}
-    {{ if not $home }}{{ with $m.insight }}<small class="insight-text">💡 {{ . }}</small>{{ end }}{{ end }}
+    {{ if not $home }}{{ with $m.insight }}<small class="insight-text">{{ partial "icon.html" "file" }} {{ . }}</small>{{ end }}{{ end }}
   </li>
 {{ end }}
 </ul>

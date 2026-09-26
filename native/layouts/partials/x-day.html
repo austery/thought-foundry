@@ -1,0 +1,18 @@
+{{ $d := hugo.Data.xdiscovery }}{{ $day := index $d.days (int .Params.dayindex) }}
+<div class="x-reading" data-pagefind-ignore>
+  <header class="x-heading"><p class="x-eyebrow">X 阅读</p><h1>{{ $day.date }}</h1><p>{{ len $day.cards }} 条已保存原文 · 时间显示为 Toronto 当地时间</p></header>
+  <nav class="x-pagination" aria-label="日期导航">
+    {{ with $day.previous }}<a href="{{ . }}">较早一天</a>{{ end }}{{ with $day.next }}<a href="{{ . }}">较新一天</a>{{ end }}
+    <details><summary>选择日期</summary><ul>{{ range $d.days }}<li><a href="{{ .url }}" {{ if eq .date $day.date }}aria-current="date"{{ end }}>{{ .date }}</a></li>{{ end }}</ul></details>
+    <a href="/x/archive/">历史记录（含日期未知）</a>
+  </nav>
+  {{ $long := where $day.cards "long" true }}
+  <div class="x-filters" hidden>
+    <label>来源 <select id="x-source-filter"><option value="">全部来源</option>{{ range $d.authors }}{{ if where $day.cards "authorId" .id }}<option value="{{ .id }}">{{ .name }}</option>{{ end }}{{ end }}</select></label>
+    {{ if $long }}<label><input id="x-long-filter" type="checkbox">只看长文（{{ len $long }}）</label>{{ end }}
+  </div>
+  {{ partial "x-status.html" . }}
+  <p id="x-filter-status" hidden role="status" aria-live="polite"></p>
+  {{ range $day.cards }}{{ partial "x-card.html" (dict "card" . "preview" true) }}{{ end }}
+</div>
+<script src="/js/x-day.js" defer></script>

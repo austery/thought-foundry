@@ -6,9 +6,10 @@
     <span hidden data-pagefind-meta="author">{{ $x.author }}</span>
     {{ if not $a.meta.exclude }}<span hidden data-pagefind-filter="x_author" data-pagefind-ignore>{{ $x.authorId }}</span>{{ end }}
     {{ with $x.date }}<span hidden data-pagefind-meta="date">{{ . }}</span>{{ end }}
-    <p>保留作者原文。{{ if eq $x.kind "DAILY_COLLECTION" }}{{ $x.date }} · {{ len $x.entries }} 条帖子。{{ end }}时间显示为 Toronto 当地时间；未保存的配图与引用请前往 X 查看。</p>
+    <p>保留来源原文。{{ if eq $x.kind "DAILY_COLLECTION" }}{{ $x.date }} · {{ len $x.entries }} 条帖子。{{ end }}时间显示为 Toronto 当地时间；未保存的配图与引用请前往 X 查看。</p>
     <a href="/x/">返回 X 阅读</a>
   </header>
+  {{ partial "x-status.html" . }}
   {{ range $view.cards }}{{ partial "x-card.html" (dict "card" . "preview" false) }}{{ end }}
-  <nav class="x-pagination" aria-label="同作者合集" data-pagefind-ignore>{{ with $view.previous }}<a href="{{ . }}">上一篇合集</a>{{ end }} {{ with $view.next }}<a href="{{ . }}">下一篇合集</a>{{ end }}</nav>
+  <nav class="x-pagination" aria-label="同来源合集" data-pagefind-ignore>{{ with $view.previous }}<a href="{{ . }}">上一篇合集</a>{{ end }} {{ with $view.next }}<a href="{{ . }}">下一篇合集</a>{{ end }}</nav>
 </div>
