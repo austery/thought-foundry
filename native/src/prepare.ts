@@ -1,3 +1,4 @@
+import { createHash } from 'node:crypto';
 import { finishReadingPage } from './reading.js';
 import { createXDiscovery } from './x-discovery.js';
 import { readX } from './x-reading.js';
@@ -62,7 +63,7 @@ export async function prepare(site: string, destination: string, cacheFile?: str
     if (layout === 'post.njk') {
       const exports = join(destination,'static','reader');
       await mkdir(exports,{recursive:true});
-      await writeFile(join(exports,`d${articles.length}.md`),raw);
+      await writeFile(join(exports,`${createHash('sha256').update(name).digest('hex')}.md`),raw);
     }
     articles.push({xReading,id:`d${articles.length}`, source:name, url:`/${name.replace(/\.md$/,'').replace(/\/index$/,'')}/`,
       ...dates, meta, body:parsed.content, kind:name.split('/')[1] ?? '', layout,

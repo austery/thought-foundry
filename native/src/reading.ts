@@ -29,6 +29,16 @@ export function finishReadingPage(html: string): string {
   // Parse a fragment separately so unclosed source disclosures cannot absorb
   // the reader tools or series navigation outside the body.
   const $ = load(body, {}, false);
+  $('details[data-original]').each((_,el)=>{
+    const detail = $(el);
+    const content = detail.contents().not('summary');
+    if (!content.text().trim() && !detail.find('img,video,audio,iframe,svg,table').length) detail.remove();
+    else {
+      detail.removeAttr('open');
+      if (detail.attr('data-original') === 'en') detail.attr('lang','en');
+    }
+  });
+  const hasOriginal = $('details[data-original]').length > 0;
   const ids = new Set($('[id]').map((_,el)=>$(el).attr('id')!).get());
   const headings: Heading[] = [];
   $('h2,h3').filter((_,el)=>!$(el).closest('details').length).each((i,el)=>{
@@ -46,5 +56,6 @@ export function finishReadingPage(html: string): string {
   const navigation = headings.length < 2 ? '' : `<details class="article-outline" data-pagefind-ignore${headings.length<=8?' open':''}><summary>${headings.length} 节</summary><nav aria-label="本文章节">${outline(headings)}</nav></details>`;
   result = result.replace('<!-- reader-outline -->',navigation);
   result = result.replace(/<!-- reader-toc:start -->([\s\S]*?)<!-- reader-toc:end -->/, (_,toc: string)=>headings.length<2?'':toc);
+  result = result.replace(/<!-- reader-original:start -->([\s\S]*?)<!-- reader-original:end -->/, (_,control: string)=>hasOriginal?control:'');
   return result;
 }

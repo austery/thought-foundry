@@ -15,7 +15,8 @@
     <header class="article-header">
       {{ with $m.type }}<p class="article-kicker">{{ . }}</p>{{ end }}
       <h1>{{ $m.title }}</h1>
-    {{ if $m.tags_present }}<div class="tags-section"><span class="visually-hidden">关键字</span>
+    {{ $tags := where $a.links.tags "name" "not in" (slice "post" "note" "视频文稿") }}
+    {{ if $tags }}<div class="tags-section"><span class="visually-hidden">关键字</span>
       {{ range $a.links.tags }}{{ if not (in (slice "post" "note" "视频文稿") .name) }}
         {{ if .url }}<a class="tag-link" {{ printf "href=\"%s\"" (.url | htmlEscape) | safeHTMLAttr }}>{{ .name }}</a>{{ else }}<span class="tag-pill tag-pill--no-page">{{ .name }}</span>{{ end }}
       {{ end }}{{ end }}
@@ -39,14 +40,14 @@
     <div class="article-body">{{ "<!-- reader-body:start -->" | safeHTML }}{{ $reading.html }}{{ "<!-- reader-body:end -->" | safeHTML }}</div>
     <footer id="reader-tools" class="reader-tools" data-pagefind-ignore>
       <div class="reader-actions">
-        <button id="copy-md-button" data-markdown="/reader/{{ $a.id }}.md" hidden>{{ partial "icon.html" "copy" }} 复制全文</button>
-        <a href="/reader/{{ $a.id }}.md" download>{{ partial "icon.html" "download" }} 下载 Markdown</a>
-        {{ if $reading.hasOriginal }}<button id="toggleAllDetailsBtn" data-label="{{ $reading.originalLabel }}" hidden>{{ partial "icon.html" "book" }} <span class="btn-text">展开全部{{ $reading.originalLabel }}</span></button>{{ end }}
+        <button id="copy-md-button" data-markdown="/reader/{{ crypto.SHA256 $a.source }}.md" hidden>{{ partial "icon.html" "copy" }} 复制全文</button>
+        <a href="/reader/{{ crypto.SHA256 $a.source }}.md" download="{{ $m.title }}.md">{{ partial "icon.html" "download" }} 下载 Markdown</a>
+        {{ "<!-- reader-original:start -->" | safeHTML }}{{ if $reading.hasOriginal }}<button id="toggleAllDetailsBtn" data-label="{{ $reading.originalLabel }}" hidden>{{ partial "icon.html" "book" }} <span class="btn-text">展开全部{{ $reading.originalLabel }}</span></button>{{ end }}{{ "<!-- reader-original:end -->" | safeHTML }}
       </div>
       <p id="reader-status" role="status" aria-live="polite"></p>
       <textarea id="copy-fallback" hidden readonly aria-label="全文 Markdown，可手动复制"></textarea>
     </footer>
-    {{ if $m.entities_present }}
+    {{ if or $m.people_items $m.companies_orgs_items $m.products_models_items $m.media_books_items }}
     <div class="entity-section">
       <details class="entity-details">
         <summary>{{ partial "icon.html" "file" }} 文中提及的人物和组织</summary>

@@ -42,7 +42,7 @@ export function createXDiscovery(articles: Article[]): XDiscovery {
   function card(article: Article, entry: XEntry): XCard {
     const authorId=article.xReading!.authorId, time=instant(entry.published);
     const chars=Array.from(entry.body);
-    return {...entry,authorId,author:entry.author,url:`${article.url}#x-post-${entry.id}`,authorUrl:authorIds.has(authorId) ? authorUrl(authorId) : '',instant:time,timeLabel:time ? dateFormat.format(new Date(time)) : '原发日期未知',long:chars.length>280,preview:chars.slice(0,280).join(''),contextLinks:entry.related.flatMap(link=>{
+    return {...entry,authorId,author:entry.author,url:`${article.url}#x-post-${entry.id}`,authorUrl:authorIds.has(authorId) ? authorUrl(authorId) : '',instant:time,timeLabel:time ? dateFormat.format(new Date(time)).replaceAll('/','-') : '原发日期未知',long:chars.length>280,preview:chars.slice(0,280).join(''),contextLinks:entry.related.flatMap(link=>{
       const targetId=/^(?:QUOTES|REPLIES_TO|REPLY_TO): x:post:(\d+)$/.exec(link.label)?.[1];
       const target=targetId ? locations.get(targetId) : undefined;
       // A local path alone does not establish an eligible saved post identity.

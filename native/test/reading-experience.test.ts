@@ -14,9 +14,10 @@ test('reader header, outline, originals, exports and search exclusions render to
   for (const folder of ['css','js']) await cp(resolve('../src', folder), join(site,'src',folder), {recursive: true});
   const doc = (body: string, extra = '') => `---\ntitle: Reader\nlayout: post.njk\ndate: '2026-09-26'\nsummary: Summary\ninsight: Insight\nspeaker: Source\ntags: [rare]\n${extra}---\n${body}`;
   const body = '## First\n\nBody\n\n### Child\n\nText\n\n<details><summary>Original English</summary>\n\nOriginal body\n\n</details>\n\n<details><summary>Other disclosure</summary>Other</details>';
-  const raw = doc(body);
+  const raw = doc(body).replace('tags: [rare]','tags: [unique-reader-tag]');
   await writeFile(join(site,'src/content/notes/Variants.md'), doc('<details><summary>View/Hide Original English</summary>English</details>\n\n<details><summary>Original English Source</summary>Source English</details>\n\n<details><summary>Original Transcript</summary>Unknown language</details>\n\n<details><summary>View/Hide Original Chinese</summary>中文内容</details>')); 
   await writeFile(join(site,'src/content/notes/Reader.md'), raw);
+  await writeFile(join(site,'src/content/notes/EmptyOriginal.md'), doc('<details><summary>View/Show Original English</summary> </details>'));
   await writeFile(join(site,'src/content/notes/Short.md'), doc('## Only heading\n\nShort'));
   await writeFile(join(site,'src/content/notes/Long.md'), doc(Array.from({length:9}, (_,i)=>`## Section ${i}\n\nBody`).join('\n\n')));
   await writeFile(join(site,'src/content/notes/Excluded.md'), doc(body, 'exclude: true\n'));
@@ -29,7 +30,7 @@ test('reader header, outline, originals, exports and search exclusions render to
   assert.equal(reader('h1').text(),'Reader');
   assert.equal(reader('.article-header .metadata-block').length,1);
   assert.equal(reader('.provenance dt').filter((_,el)=>reader(el).text()==='来源').length,1);
-  assert.equal(reader('.article-header .tags-section .tag-pill--no-page').text(),'rare');
+  assert.equal(reader('.article-header .tags-section .tag-pill--no-page').text(),'unique-reader-tag');
   assert.equal(reader('.article-outline[open]').length,1);
   assert.deepEqual(reader('.article-outline a').map((_,el)=>reader(el).attr('href')).get(),['#first','#child']);
   assert.equal(reader('.article-body details[data-original="en"]').length,1);
@@ -39,6 +40,8 @@ test('reader header, outline, originals, exports and search exclusions render to
   assert.equal(reader('[data-pagefind-meta="speaker"]').text(),'Source');
   const exportUrl=reader('#copy-md-button').attr('data-markdown')!;
   assert.equal(await readFile(join(output,exportUrl),'utf8'),raw);
+  const empty=await page('EmptyOriginal');
+  assert.equal(empty('.article-body details, #toggleAllDetailsBtn').length,0);
   const variants=await page('Variants');
   assert.equal(variants('[data-original="en"]').length,2);
   assert.equal(variants('[data-original="und"]').length,1);
@@ -53,4 +56,12 @@ test('reader header, outline, originals, exports and search exclusions render to
   const excluded=await page('Excluded');
   assert.equal(excluded('[data-pagefind-body], [data-pagefind-filter]').length,0);
   assert.equal(excluded('#content-body[data-pagefind-ignore]').length,1);
+  await writeFile(join(site,'src/content/notes/Aardvark.md'),doc('New earlier file'));
+  const nextStage=join(root,'stage-next'), nextOutput=join(root,'output-next');
+  await prepare(site,nextStage);
+  execFileSync('hugo',['--source',nextStage,'--destination',nextOutput],{stdio:'pipe'});
+  await restore(nextStage,nextOutput);
+  const updated=load(await readFile(join(nextOutput,'content/notes/Reader/index.html'),'utf8'));
+  assert.equal(updated('#copy-md-button').attr('data-markdown'),exportUrl);
+  assert.equal(await readFile(join(nextOutput,exportUrl),'utf8'),raw);
 });

@@ -26,7 +26,7 @@ test('context uses eligible local identities, preserves external fallback, and p
  const source=article('1','99','POST',{body:'😀'.repeat(281),related:[{label:'QUOTES: x:post:2',url:'https://x.com/i/status/2'},{label:'REPLIES_TO: x:post:3',url:'/content/clippings/x/3/#x-post-3'}]});
  const d=createXDiscovery([source,article('2'),article('3','99','POST',{},true)]);const card=d.reading.a1!.cards[0]!;
  assert.equal(Array.from(card.preview).length,280);assert.equal(card.long,true);assert.equal(card.contextLinks[0]!.url,'/content/clippings/x/2/#x-post-2');assert.equal(card.contextLinks[1]!.url,'https://x.com/i/status/3');
- assert.match(card.timeLabel,/2026\/09\/19/);
+ assert.match(card.timeLabel,/2026-09-19/);
  const hiddenAuthor=article('4','77','POST',{},true);
  source.xReading!.entries[0]!.related.push({label:'UNKNOWN',url:hiddenAuthor.url},{label:'UNKNOWN',url:'https://example.org/context'});
  const safe=createXDiscovery([source,hiddenAuthor]);

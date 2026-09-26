@@ -1,6 +1,6 @@
 # Reading experience: proposed ticket breakdown
 
-Status: draft for approval; not published tickets.
+Status: approved on 2026-09-26; implemented as eight local tickets. See approval.md and docs/acceptance/reading-experience.md for the decision and acceptance records.
 
 ## Source and baseline
 
