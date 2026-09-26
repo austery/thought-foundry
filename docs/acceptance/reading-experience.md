@@ -100,3 +100,52 @@ Local logs, comparison scripts and screenshots are retained under
 Standards and specification reviewers independently cleared the implementation
 and its final export/disclosure/date corrections. No merge or deployment is
 part of this acceptance.
+
+## PR #15 review follow-up
+
+The review of `70a2d5a96` found behavior not established by the original
+route-count and search-result-count checks. The following corrections preserve
+the new design:
+
+- Search resolves matched token locations against Pagefind's non-heading
+  `article` anchors. Single-post matches expose a direct link; multiple matched
+  posts are listed separately. A hit only in the collection header does not
+  invent a post destination. Timestamp elements remain non-headings.
+- Existing `#heading-N` URLs are resolved at runtime using the former complete
+  H2/H3 ordering, including original disclosures and related-series headings.
+  Ancestor disclosures open before positioning. Modern text IDs are unchanged.
+  Compatibility runs independently of TOC availability and handles initial
+  loading and subsequent hash changes. As in the former implementation, these
+  generated legacy chapter links require JavaScript.
+- Both `#x-post-ID` and `#x-post-heading-ID` now start at the same entry boundary.
+  Shared header measurement accounts for enlarged text and wrapped navigation;
+  compatibility scrolling also clears the header for former series-heading
+  destinations outside the article body.
+- Desktop chapter links now have the same 44px minimum as mobile links. This is
+  an accepted usability suggestion; the ZIP's original explicit minimum was
+  scoped to the mobile panel, while the ticket wording was broader.
+
+Validation adds a real Pagefind index-and-query test (single post, multiple
+posts, collection-only match, absent post anchors), bringing the suite to 32
+passing tests. It runs the shipped search bundle with file-backed responses,
+without mocking token locations or search results.
+
+Chrome regression evidence includes the actual `Futu` query filtered to source
+`858124064476479488`, whose result links to post `2100851823469088807`; the
+Harari `#heading-1` bookmark and a subsequent hash change; a heading inside a
+closed original; and an enlarged-text related-series bookmark. Both X anchor
+formats clear the header at 390, 768, 769, 820, 992, 993, 1180, 1280 and 1440px,
+at 100% and 200% text (36 combinations). Desktop minimum link height is 44px.
+
+The fixed-corpus comparison against the original baseline was rerun on
+`.native-build/run-jHPt5Q/public`: all previous route, metadata, export-byte and
+saved-X-text checks passed, with only the same documented malformed-source
+correction. The subsequent change is confined to compatibility scrolling for
+series headings. Logs and browser results use the `review-fix-*` prefix under
+the existing local evidence directory.
+
+Final follow-up output: `.native-build/run-1Q7U8G/public`. Type checks, all 32
+tests, full build, the targeted regression browser script (including the series
+heading), and the original general browser acceptance script passed on the
+final production sources. Both standards and specification follow-up reviews
+reported no verified remaining findings. Browser runs recorded no page errors.

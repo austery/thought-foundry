@@ -16,6 +16,7 @@
     "test/**/*.ts",
     "../src/js/search.js",
     "../src/js/post.js",
+    "../src/js/reading-anchors.js",
     "../src/js/theme-toggle.js",
     "../src/js/toggle-details.js",
     "../src/js/x-day.js"

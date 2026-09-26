@@ -1,7 +1,8 @@
 {{ $c := .card }}{{ $preview := .preview }}
 <article class="x-entry" data-author="{{ $c.authorId }}" data-long="{{ $c.long }}" {{ if not $preview }}id="x-post-{{ $c.id }}"{{ end }}>
+  {{ if not $preview }}<span id="x-post-heading-{{ $c.id }}" class="x-post-anchor" aria-hidden="true"></span>{{ end }}
   <header>{{ if $c.authorUrl }}<a href="{{ $c.authorUrl }}"><strong>{{ $c.author }}</strong></a>{{ else }}<strong>{{ $c.author }}</strong>{{ end }} {{ with $c.handle }}<span class="x-muted">@{{ . }}</span>{{ end }}
-    <div {{ if not $preview }}id="x-post-heading-{{ $c.id }}"{{ end }} class="x-post-heading">{{ if $c.instant }}<time datetime="{{ $c.instant }}">{{ $c.timeLabel }}</time>{{ else }}{{ $c.timeLabel }}{{ end }}</div>
+    <div {{ if not $preview }}id="x-post-time-{{ $c.id }}"{{ end }} class="x-post-heading">{{ if $c.instant }}<time datetime="{{ $c.instant }}">{{ $c.timeLabel }}</time>{{ else }}{{ $c.timeLabel }}{{ end }}</div>
     <a class="x-outbound" href="{{ $c.source }}" target="_blank" rel="noopener noreferrer">原帖 ↗</a>
   </header>
   <div class="x-entry-content">

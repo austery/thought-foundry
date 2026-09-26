@@ -1,7 +1,8 @@
 // @ts-check
 import { additionalPassages } from "./search-passages.mjs";
+import { matchingXPosts } from "./search-x-posts.mjs";
 /** @typedef {{ title: string, url: string, excerpt: string }} Passage */
-/** @typedef {{url: string, excerpt: string, meta: Record<string, string>, sub_results?: Passage[], raw_content?: string, locations?: number[]}} ArticleResult */
+/** @typedef {{url: string, excerpt: string, meta: Record<string, string>, sub_results?: Passage[], raw_content?: string, locations?: number[], anchors?: import('./search-x-posts.mjs').SearchAnchor[]}} ArticleResult */
 /** @typedef {{id: string, data: () => Promise<ArticleResult>}} ResultHandle */
 /** @typedef {{filters: () => Promise<Record<string, Record<string, number>>>, search: (query: string | null, options: {filters: Record<string, string>}) => Promise<{results: ResultHandle[]}>}} SearchAPI */
 
@@ -77,8 +78,17 @@ function card(data) {
   const metadata = element('p', [(data.meta.speaker || data.meta.author) && `来源：${data.meta.speaker || data.meta.author}`, data.meta.date && `日期：${data.meta.date}`].filter(Boolean).join(' · '));
   metadata.className = 'search-metadata';
   article.append(metadata, excerpt(data.excerpt));
-  const primaryPost = (data.sub_results ?? []).find(p => p.excerpt === data.excerpt && localURL(p.url).hash.startsWith('#x-post-heading-'));
-  if (primaryPost) article.append(link(`跳到命中的帖子 · ${primaryPost.title}`, primaryPost.url));
+  const posts = matchingXPosts(data);
+  if (posts.length === 1 && posts[0]) article.append(link(`跳到命中的帖子 · ${posts[0].title}`, posts[0].url));
+  if (posts.length > 1) {
+    const matches = document.createElement('details');
+    matches.append(element('summary', `跳到命中的帖子（${posts.length}）`));
+    for (const post of posts) {
+      const item = document.createElement('p'); item.append(link(post.title, post.url)); matches.append(item);
+    }
+    article.append(matches);
+  }
+  if (posts.length) return article;
   const sections = (data.sub_results ?? []).filter(p => p.excerpt !== data.excerpt);
   const passages = sections.length ? sections : additionalPassages(data).map(text => ({title: '查看原文', url: data.url, excerpt: text}));
   if (passages.length) {
