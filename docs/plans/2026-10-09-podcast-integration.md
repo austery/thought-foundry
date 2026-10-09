@@ -1,7 +1,7 @@
 # Podcast integration into existing article discovery
 
 Date: 2026-10-09
-Status: Owner confirmed unified article navigation. Type 1 behavior checked on 2026-10-09; implementation and deployment remain pending.
+Status: Owner approved implementation. Local discovery patch passed checks, 35 tests, full-corpus and browser validation; complete replacement acceptance is blocked by the producer/site contract. No PR or deployment. See [local acceptance](../acceptance/podcast-discovery-2026-10-09.md) and the [producer correction proposal](2026-10-09-podcast-publication-replacement.md).
 
 ## Navigation decision
 
