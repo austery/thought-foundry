@@ -108,27 +108,43 @@ test('replacing the same article file preserves its URL and one discoverable res
   assert.deepEqual(await searchUrls(output,join(f.root,'old-search'),'FirstPodcastMarker'),[]);
 });
 
-const legacyKey = 'pod_algbr0fzbuh6cwz3puc2flgn';
-const legacyPath = `content/podcasts/article/2a469daf-f229-4e99-a62d-fb155fa64e35/${legacyKey}.md`;
+const legacyPath = `content/podcasts/article/old-attempt/${key}.md`;
 const legacyUrl = `/${legacyPath.slice(0,-3)}/`;
 
-test('accepted legacy publication retains its exact URL across replacement', async()=>{
-  const f = await fixture(legacyPath);
+test('migrated old URLs redirect to one canonical article and stay out of search after replacement', async()=>{
+  const f = await fixture();
+  await f.save('content/podcasts/redirects.json',JSON.stringify([{from:legacyUrl,to:url}]));
+  await f.save(legacyPath,document('Obsolete duplicate','ObsoleteLegacyMarker'));
   const first = await f.build('first');
-  assert.deepEqual(await searchUrls(first.output,join(f.root,'first-search'),'FirstPodcastMarker'),[legacyUrl]);
-  await f.save(legacyPath,document('PodcastDiscovery','LegacyReplacementMarker'));
+  const redirect = load(await readFile(join(first.output,legacyUrl,'index.html'),'utf8'));
+  assert.equal(redirect('link[rel="canonical"]').attr('href'),url);
+  assert.equal(redirect('meta[http-equiv="refresh"]').attr('content'),`0; url=${url}`);
+  assert.equal(redirect('meta[name="robots"]').attr('content'),'noindex');
+  assert.equal(redirect('a').attr('href'),url);
+  assert.deepEqual(await searchUrls(first.output,join(f.root,'first-search'),'FirstPodcastMarker'),[url]);
+  assert.deepEqual(await searchUrls(first.output,join(f.root,'obsolete-search'),'ObsoleteLegacyMarker'),[]);
+  await f.save(path,document('PodcastDiscovery','MigratedReplacementMarker'));
   const {output} = await f.build('replacement');
-  assert.deepEqual(await searchUrls(output,join(f.root,'replacement-search'),'LegacyReplacementMarker'),[legacyUrl]);
+  assert.deepEqual(await searchUrls(output,join(f.root,'replacement-search'),'MigratedReplacementMarker'),[url]);
   assert.deepEqual(await searchUrls(output,join(f.root,'old-search'),'FirstPodcastMarker'),[]);
+  assert.equal(load(await readFile(join(output,legacyUrl,'index.html'),'utf8'))('link[rel="canonical"]').attr('href'),url);
 });
 
-test('two formal destinations for one episode stop preparation, including excluded content', async()=>{
-  const f = await fixture(legacyPath);
-  const previous = await f.build('previous');
-  const before = await readFile(join(previous.output,legacyUrl,'index.html'),'utf8');
-  await f.save(`content/podcasts/article/${legacyKey}.md`,document('Replacement','UncommittedMarker','exclude: true\n'));
-  await assert.rejects(f.build('ambiguous'),/Ambiguous Podcast article/);
-  assert.equal(await readFile(join(previous.output,legacyUrl,'index.html'),'utf8'),before);
+test('invalid, broken and duplicate Podcast redirects stop preparation', async()=>{
+  const f = await fixture();
+  const invalid = [
+    [{from:legacyUrl,to:'https://example.org/'}],
+    [{from:'/content/podcasts/article/../'+key+'/',to:url}],
+    [{from:legacyUrl,to:'/content/podcasts/article/pod_zzzzzzzzzzzzzzzzzzzzzzzz/'}],
+    [{from:legacyUrl,to:url},{from:legacyUrl,to:url}],
+    [{from:'/content/podcasts/article/old/pod_bbbbbbbbbbbbbbbbbbbbbbbb/',to:'/content/podcasts/article/pod_bbbbbbbbbbbbbbbbbbbbbbbb/'}],
+  ];
+  for (const [index,redirects] of invalid.entries()) {
+    await f.save('content/podcasts/redirects.json',JSON.stringify(redirects));
+    await assert.rejects(f.build(`invalid-${index}`),/Invalid Podcast redirect|Duplicate URL|Missing Podcast redirect target/);
+  }
+  await f.save('content/podcasts/redirects.json','{broken');
+  await assert.rejects(f.build('malformed'),SyntaxError);
 });
 
 test('formal Podcast paths require article metadata instead of publishing bare output', async()=>{

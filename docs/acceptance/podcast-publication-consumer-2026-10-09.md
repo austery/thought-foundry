@@ -1,21 +1,21 @@
 # Podcast publication consumer acceptance
 
 Date: 2026-10-09
-Status: Consumer implementation, local validation and independent code review passed. Remote CI will be recorded in the PR. No site merge or deployment.
+Status: Canonical migration revision in progress after owner approval. Prior allowlist validation below is historical; new code/content/producer validation and review will be recorded in PR 18. No merge, deployment or production state mutation.
 
 ## Contract
 
-PureSubs PR 491 supplies stable formal article writes. New public paths are `content/podcasts/article/<episode-key>.md`; existing successful paths remain permanent. Thought Foundry admits these paths before reading/rendering/exporting Markdown. Other Podcast paths are absent from pages, reader exports, collections and search. Two admitted files for one episode fail preparation, including excluded articles. Approved formal articles retain existing `exclude: true` direct-page behavior. An admitted path without `layout: post.njk` fails instead of producing bare output.
+PureSubs PR 491 supplies stable formal article writes. All public article paths are `content/podcasts/article/<episode-key>.md`. Existing articles move byte-for-byte; old URLs become noindex HTML redirects from content-owned `podcasts/redirects.json`. Thought Foundry admits these paths before reading/rendering/exporting Markdown. Other Podcast paths are absent from pages, reader exports, collections and search. A canonical filename uniquely identifies each episode; attempt directories never become article pages. Redirects require safe legacy source URLs, a same-episode canonical destination, an existing article target and unique routes. Approved formal articles retain existing `exclude: true` direct-page behavior. An admitted path without `layout: post.njk` fails instead of producing bare output.
 
-Podcast shares ordinary homepage, source directory, reader and Pagefind search. X and existing taxonomy rules are unchanged. The static legacy mapping contains only verified destinations; new entries require authoritative producer evidence, never timestamp or filename selection. There is no runtime database dependency or additional publication/version system.
+Podcast shares ordinary homepage, source directory, reader and Pagefind search. X and existing taxonomy rules are unchanged. No episode/path allowlist remains in executable code. Redirect inventory is content data, generated from verified successful readback, and remains independent of regenerated article frontmatter. There is no runtime database dependency or additional publication/version system.
 
 This document supersedes the producer-blocked status in the earlier local acceptance/integration documents. Their recorded results remain historical evidence. The new consumer contract was authorized by the owner's follow-up implementation request after the producer closeout.
 
-## Legacy mapping provenance
+## Migration inventory provenance
 
 Producer release inspected: `b26797c44896268f5fb28b9615acc2f9ef6093be`, [accepted publication plan](https://github.com/austery/puresubs/blob/b26797c44896268f5fb28b9615acc2f9ef6093be/docs/plans/podcast-redesign/stable-article-publication.md).
 
-PureSubs MOC and log `2026-10-09_puresubs_podcast-stable-publication-and-x-import-capacity-production-closeout.md` record 11 successful article readbacks with unchanged job attribution, paths and bytes at rollout. This implementation consumed the paired `after-readback.json` and `production-acceptance.json` under `/private/tmp/x-deploy-production-20261009/`. All 11 readback body SHA-256 values were checked against the fixed content snapshot `2e41c0747370f89b3a5f723f864df2927d619fd2` before creating `native/src/podcast-publication.ts`.
+PureSubs MOC and log `2026-10-09_puresubs_podcast-stable-publication-and-x-import-capacity-production-closeout.md` record 11 successful article readbacks with unchanged job attribution, paths and bytes at rollout. This implementation consumed the paired `after-readback.json` and `production-acceptance.json` under `/private/tmp/x-deploy-production-20261009/`. All 11 readback body SHA-256 values were checked against the fixed content snapshot `2e41c0747370f89b3a5f723f864df2927d619fd2` before moving the 11 files on the content branch. Each move was confirmed byte-identical, and Git records all 11 as 100% renames at content commit `d2332288`.
 
 The hashes below establish the inventory snapshot; they are not build-time pins, so legitimate same-path replacements remain supported. No candidate/content deletion or mutation was performed.
 
@@ -33,7 +33,7 @@ The hashes below establish the inventory snapshot; they are not build-time pins,
 | `podcasts/article/f2a8a91c-21d5-4a01-a554-29668d5eea1b/pod_wk776tsn18evx7ofm9fs607b.md` | `1e7820fe48a580788646346a150d9beb0c8e6b06fac3a95028acda4d77566fc1` |
 | `podcasts/article/28ca5992-18c1-4812-972a-c574ef5a48dd/pod_zpqj8oh2grf5jqllt80bkds4.md` | `b392dcf9740ab53ca6cec6a11a948bbc8bce4a8c6ac51b4035a40923d9755614` |
 
-## Validation
+## Historical allowlist validation
 
 - `pnpm check` and all 37 native tests passed locally. Tests execute real Hugo and filtered Pagefind queries for stable and legacy replacement, exclude behavior, absent intermediate routes/exports/search, invalid formal metadata and duplicate publication refusal.
 - Fixed-content baseline/candidate full Hugo and Pagefind builds passed, both indexing 12,281 pages. Baseline site `8ed221150df123c8d980cd64ebf9fa6f16830be4`, content `2e41c0747370f89b3a5f723f864df2927d619fd2`.
@@ -47,3 +47,16 @@ The hashes below establish the inventory snapshot; they are not build-time pins,
 Local evidence: `/private/tmp/tf-podcast-consumer-tests.log`, `/private/tmp/tf-podcast-consumer-build.log`, `/private/tmp/tf-podcast-consumer-baseline-build.log`, `/private/tmp/tf-podcast-consumer-corpus-check.json`, `/private/tmp/tf-podcast-consumer-search.json`, `/private/tmp/tf-podcast-consumer-review.md`. Builds: candidate `.native-build/run-Y3OA0V/public` in `/private/tmp/thought-foundry-podcast-20261009`; baseline `.native-build/run-CcA2RU/public` in `/private/tmp/thought-foundry-podcast-baseline-20261009`.
 
 The producer's production receipt excludes live regeneration. This site work uses local successive build fixtures; neither check is a new production regeneration test.
+
+
+## Canonical migration revision
+
+The owner explicitly authorized fixed-path migration, matching PureSubs targets, removal of the code allowlist and preservation of old links by redirects. This replaces the earlier inherited-destination decision. The content branch `codex/podcast-canonical-paths` at `d2332288` contains 11 byte-identical moves and `podcasts/redirects.json`; originals remain in content history at `2e41c0747370f89b3a5f723f864df2927d619fd2` and a local supplementary tar `/private/tmp/podcast-canonical-originals-20261009.tar`.
+
+Site preparation admits only canonical articles. It generates standalone noindex/meta-refresh redirect pages with canonical links and a fallback link; these are HTML redirects suitable for static GitHub Pages, not HTTP 301 responses. Redirects never create an article row, reader export or search result. Malformed, external, cross-episode, duplicate and missing-target redirects fail the new build.
+
+PureSubs selects canonical publication targets and canonical article reads despite historical completed-job paths. Those historical records and Git receipts remain audit evidence; a new successful job records the canonical path. Undispatched saved output moves to the configured canonical target without generation; legacy prepared receipts must settle under the old release before rollout. Storage adapters reject legacy paths before public writes. No production database mutation is required or performed by these PRs.
+
+Coordinated rollout is a separate gate: pause Podcast writers and site publication, settle pending legacy receipts, refresh the inventory and compare current bytes to this review snapshot, then adopt the approved content/site/producer revisions and validate old redirects/new reads before resuming. An old writer must not run against migrated content. No branch is merged and no production process is changed here.
+
+New local validation: site check and 37 tests passed, including canonical replacement, redirect survival and search exclusion, malformed/missing/duplicate/cross-episode redirect refusal. Full migrated-corpus comparison and cross-repository review are pending. See PR 18 for eventual exact-head CI and linked content/producer PRs.

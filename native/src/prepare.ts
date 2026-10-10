@@ -1,4 +1,4 @@
-import { publishedPodcastKey } from './podcast-publication.js';
+import { publishedPodcastKey, podcastRedirects } from './podcast-publication.js';
 import { createHash } from 'node:crypto';
 import { finishReadingPage } from './reading.js';
 import { createXDiscovery } from './x-discovery.js';
@@ -51,15 +51,9 @@ export async function prepare(site: string, destination: string, cacheFile?: str
   for (const dir of ['css','js']) await cp(join(site,'src',dir),join(destination,'static',dir),{recursive:true});
   const source = join(site,'src');
   const articles: Article[] = [];
-  const podcastPaths = new Map<string, string>();
   for (const name of (await files(source)).filter(n => n.endsWith('.md') && !/^(_includes|_11ty)\//.test(n))) {
     const podcastKey = publishedPodcastKey(name);
     if (name.startsWith('content/podcasts/') && !podcastKey) continue;
-    if (podcastKey) {
-      const previous = podcastPaths.get(podcastKey);
-      if (previous) throw new Error(`Ambiguous Podcast article ${podcastKey}: ${previous} and ${name}`);
-      podcastPaths.set(podcastKey,name);
-    }
     const raw = await readFile(join(source,name),'utf8');
     const parsed = matter(raw);
     const meta = record(parsed.data);
@@ -118,6 +112,11 @@ export async function prepare(site: string, destination: string, cacheFile?: str
     if (typeof rendered !== 'string') throw new Error(`Invalid Liquid result: ${article.source}`);
     if (rendered !== article.body) preprocessed.push(article.source);
     await page(article.url,{view:'article',articleid:article.id,pagetitle:text(article.meta.title)},escapeShortcodes(rendered));
+  }
+  const articleUrls = new Set(articles.map(article => article.url));
+  for (const redirect of await podcastRedirects(source)) {
+    if (!articleUrls.has(redirect.to)) throw new Error(`Missing Podcast redirect target: ${redirect.to}`);
+    await page(redirect.from,{view:'redirect',redirectto:redirect.to});
   }
   const homeSize = 30;
   const homePages = Math.max(1, Math.ceil(model.descending.length / homeSize));
