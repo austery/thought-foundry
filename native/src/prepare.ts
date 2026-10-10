@@ -1,3 +1,4 @@
+import { publishedPodcastKey } from './podcast-publication.js';
 import { createHash } from 'node:crypto';
 import { finishReadingPage } from './reading.js';
 import { createXDiscovery } from './x-discovery.js';
@@ -50,10 +51,19 @@ export async function prepare(site: string, destination: string, cacheFile?: str
   for (const dir of ['css','js']) await cp(join(site,'src',dir),join(destination,'static',dir),{recursive:true});
   const source = join(site,'src');
   const articles: Article[] = [];
+  const podcastPaths = new Map<string, string>();
   for (const name of (await files(source)).filter(n => n.endsWith('.md') && !/^(_includes|_11ty)\//.test(n))) {
+    const podcastKey = publishedPodcastKey(name);
+    if (name.startsWith('content/podcasts/') && !podcastKey) continue;
+    if (podcastKey) {
+      const previous = podcastPaths.get(podcastKey);
+      if (previous) throw new Error(`Ambiguous Podcast article ${podcastKey}: ${previous} and ${name}`);
+      podcastPaths.set(podcastKey,name);
+    }
     const raw = await readFile(join(source,name),'utf8');
     const parsed = matter(raw);
     const meta = record(parsed.data);
+    if (podcastKey && meta.layout !== 'post.njk') throw new Error(`Invalid published Podcast layout: ${name}`);
     if (Object.hasOwn(meta,'permalink')) throw new Error(`Explicit permalink requires migration handling: ${name}`);
     const xReading = readX(meta,parsed.content,name);
     const layout = xReading ? 'x-original' : text(meta.layout);

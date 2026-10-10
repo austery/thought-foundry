@@ -1,6 +1,6 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
-import {mkdtemp, mkdir, writeFile, readFile, cp} from 'node:fs/promises';
+import {mkdtemp, mkdir, writeFile, readFile, cp, access} from 'node:fs/promises';
 import {tmpdir} from 'node:os';
 import {dirname, join, resolve} from 'node:path';
 import {pathToFileURL} from 'node:url';
@@ -10,11 +10,11 @@ import {createIndex, close} from 'pagefind';
 import {prepare, restore, files} from '../src/prepare.js';
 
 const key = 'pod_abcdefghijklmnopqrstuvwx';
-const path = `content/podcasts/article/current/${key}.md`;
+const path = `content/podcasts/article/${key}.md`;
 const url = `/${path.slice(0,-3)}/`;
 const document = (title: string, body: string, extra = '') => `---\ntitle: ${title}\nlayout: post.njk\nspeaker: 梁州令\nsource: https://example.org/episode\ndate: '2026-10-09'\ndraft: true\ntags: []\n${extra}---\n## Reading\n\n${body}\n`;
 
-async function fixture() {
+async function fixture(publicPath = path) {
   const root = await mkdtemp(join(tmpdir(),'tf-podcast-'));
   const site = join(root,'site');
   for (const dir of ['css','js']) await cp(resolve('../src',dir),join(site,'src',dir),{recursive:true});
@@ -23,10 +23,11 @@ async function fixture() {
     await writeFile(join(site,'src',name),body);
   };
   await save('content/notes/ordinary.md',document('Ordinary','OrdinaryMarker'));
-  await save(path,document('PodcastDiscovery','FirstPodcastMarker'));
+  await save(publicPath,document('PodcastDiscovery','FirstPodcastMarker'));
   await save('content/podcasts/transcript/raw.txt','TranscriptOnlyMarker');
-  await save('content/podcasts/tools/internal.md',document('Internal','InternalMarker'));
-  await save('content/podcasts/article/hidden/pod_zzzzzzzzzzzzzzzzzzzzzzzz.md',document('Hidden','ExcludedPodcastMarker','exclude: true\n'));
+  await save('content/podcasts/tools/internal.md','---\nlayout: unsupported-internal-layout\n---\nInternalMarker');
+  await save(`content/podcasts/article/unadopted/${key}.md`,document('Unadopted','UnadoptedMarker'));
+  await save('content/podcasts/article/pod_zzzzzzzzzzzzzzzzzzzzzzzz.md',document('Hidden','ExcludedPodcastMarker','exclude: true\n'));
   const build = async (name: string) => {
     const stage = join(root,name,'stage'), output = join(root,name,'public');
     await mkdir(dirname(stage));
@@ -66,7 +67,7 @@ async function searchUrls(output: string, directory: string, query: string): Pro
 
 test('Podcast articles use ordinary discovery, reader provenance and real filtered search', async()=>{
   const f = await fixture();
-  const {output} = await f.build('first');
+  const {stage,output} = await f.build('first');
   const html = async (path: string)=>load(await readFile(join(output,path,'index.html'),'utf8'));
   const home = await html('');
   const links = home('.home-layout > ul > li > a:first-child').map((_,a)=>home(a).attr('href')).get();
@@ -84,6 +85,15 @@ test('Podcast articles use ordinary discovery, reader provenance and real filter
   assert.match(reader('.article-body').text(),/FirstPodcastMarker/);
   assert.deepEqual(await searchUrls(output,join(f.root,'search'),'FirstPodcastMarker'),[url]);
   assert.deepEqual(await searchUrls(output,join(f.root,'excluded-search'),'ExcludedPodcastMarker'),[]);
+  await access(join(output,'content/podcasts/article/pod_zzzzzzzzzzzzzzzzzzzzzzzz','index.html'));
+  assert.deepEqual(await searchUrls(output,join(f.root,'unadopted-search'),'UnadoptedMarker'),[]);
+  for (const source of ['content/podcasts/tools/internal.md',`content/podcasts/article/unadopted/${key}.md`]) {
+    await assert.rejects(access(join(output,source.slice(0,-3),'index.html')));
+  }
+  const archive = JSON.parse(await readFile(join(stage,'data/archive.json'),'utf8')) as {articles: Record<string, {source: string}>};
+  assert.ok(!JSON.stringify(archive).includes('UnadoptedMarker'));
+  const exports = (await files(join(output,'reader'))).filter(name=>name.endsWith('.md'));
+  for (const file of exports) assert.doesNotMatch(await readFile(join(output,'reader',file),'utf8'),/UnadoptedMarker|InternalMarker/);
 });
 
 test('replacing the same article file preserves its URL and one discoverable result', async()=>{
@@ -98,11 +108,31 @@ test('replacing the same article file preserves its URL and one discoverable res
   assert.deepEqual(await searchUrls(output,join(f.root,'old-search'),'FirstPodcastMarker'),[]);
 });
 
-test('ambiguous candidate files stop preparation instead of publishing multiple versions', async()=>{
-  const f = await fixture();
+const legacyKey = 'pod_algbr0fzbuh6cwz3puc2flgn';
+const legacyPath = `content/podcasts/article/2a469daf-f229-4e99-a62d-fb155fa64e35/${legacyKey}.md`;
+const legacyUrl = `/${legacyPath.slice(0,-3)}/`;
+
+test('accepted legacy publication retains its exact URL across replacement', async()=>{
+  const f = await fixture(legacyPath);
+  const first = await f.build('first');
+  assert.deepEqual(await searchUrls(first.output,join(f.root,'first-search'),'FirstPodcastMarker'),[legacyUrl]);
+  await f.save(legacyPath,document('PodcastDiscovery','LegacyReplacementMarker'));
+  const {output} = await f.build('replacement');
+  assert.deepEqual(await searchUrls(output,join(f.root,'replacement-search'),'LegacyReplacementMarker'),[legacyUrl]);
+  assert.deepEqual(await searchUrls(output,join(f.root,'old-search'),'FirstPodcastMarker'),[]);
+});
+
+test('two formal destinations for one episode stop preparation, including excluded content', async()=>{
+  const f = await fixture(legacyPath);
   const previous = await f.build('previous');
-  const before = await readFile(join(previous.output,url,'index.html'),'utf8');
-  await f.save(`content/podcasts/article/another/${key}.md`,document('Replacement','UncommittedMarker'));
+  const before = await readFile(join(previous.output,legacyUrl,'index.html'),'utf8');
+  await f.save(`content/podcasts/article/${legacyKey}.md`,document('Replacement','UncommittedMarker','exclude: true\n'));
   await assert.rejects(f.build('ambiguous'),/Ambiguous Podcast article/);
-  assert.equal(await readFile(join(previous.output,url,'index.html'),'utf8'),before);
+  assert.equal(await readFile(join(previous.output,legacyUrl,'index.html'),'utf8'),before);
+});
+
+test('formal Podcast paths require article metadata instead of publishing bare output', async()=>{
+  const f = await fixture();
+  await f.save(path,'UnfinishedMarker');
+  await assert.rejects(f.build('unfinished'),/Invalid published Podcast layout/);
 });

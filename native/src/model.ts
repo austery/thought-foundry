@@ -47,16 +47,7 @@ export function dateValues(meta: Metadata, source: string, fallback: Date): { da
   return { date: date.toISOString(), dateLabel };
 }
 export function createModel(articles: Article[], slug: (s: string) => string): Model {
-  const podcastArticle = (a: Article): boolean => a.kind === 'podcasts' && a.layout === 'post.njk'
-    && /^content\/podcasts\/article\/[^/]+\/pod_[a-z0-9]{24}\.md$/.test(a.source);
-  const visible = articles.filter(a => (/^(posts|books|notes|clippings)$/.test(a.kind) || podcastArticle(a)) && !a.meta.exclude);
-  const episodes = new Map<string, string>();
-  for (const article of visible.filter(podcastArticle)) {
-    const episode = article.source.split('/').at(-1)!;
-    const previous = episodes.get(episode);
-    if (previous) throw new Error(`Ambiguous Podcast article ${episode}: ${previous} and ${article.source}`);
-    episodes.set(episode, article.source);
-  }
+  const visible = articles.filter(a => /^(posts|books|notes|clippings|podcasts)$/.test(a.kind) && !a.meta.exclude);
   const groups = Object.fromEntries(taxonomies.map(t => [t, []])) as unknown as Record<Taxonomy, Group[]>;
   for (const taxonomy of taxonomies) {
     const map = new Map<string, Group>();
