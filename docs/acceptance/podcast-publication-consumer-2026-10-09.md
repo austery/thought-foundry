@@ -1,11 +1,11 @@
 # Podcast publication consumer acceptance
 
 Date: 2026-10-09
-Status: Canonical migration revision in progress after owner approval. Prior allowlist validation below is historical; new code/content/producer validation and review will be recorded in PR 18. No merge, deployment or production state mutation.
+Status: Canonical migration implemented, locally validated, independently reviewed and published as coordinated PRs. Prior allowlist validation below is historical. Exact-head remote CI is tracked in the linked PRs. No merge, deployment or production state mutation.
 
 ## Contract
 
-PureSubs PR 491 supplies stable formal article writes. All public article paths are `content/podcasts/article/<episode-key>.md`. Existing articles move byte-for-byte; old URLs become noindex HTML redirects from content-owned `podcasts/redirects.json`. Thought Foundry admits these paths before reading/rendering/exporting Markdown. Other Podcast paths are absent from pages, reader exports, collections and search. A canonical filename uniquely identifies each episode; attempt directories never become article pages. Redirects require safe legacy source URLs, a same-episode canonical destination, an existing article target and unique routes. Approved formal articles retain existing `exclude: true` direct-page behavior. An admitted path without `layout: post.njk` fails instead of producing bare output.
+[PureSubs PR 495](https://github.com/austery/puresubs/pull/495) revises the stable formal article writes delivered by PR 491. All public article paths are `content/podcasts/article/<episode-key>.md`. Existing articles move byte-for-byte; old URLs become noindex HTML redirects from content-owned `podcasts/redirects.json`. Thought Foundry admits these paths before reading/rendering/exporting Markdown. Other Podcast paths are absent from pages, reader exports, collections and search. A canonical filename uniquely identifies each episode; attempt directories never become article pages. Redirects require safe legacy source URLs, a same-episode canonical destination, an existing article target and unique routes. Approved formal articles retain existing `exclude: true` direct-page behavior. An admitted path without `layout: post.njk` fails instead of producing bare output.
 
 Podcast shares ordinary homepage, source directory, reader and Pagefind search. X and existing taxonomy rules are unchanged. No episode/path allowlist remains in executable code. Redirect inventory is content data, generated from verified successful readback, and remains independent of regenerated article frontmatter. There is no runtime database dependency or additional publication/version system.
 
@@ -17,7 +17,7 @@ Producer release inspected: `b26797c44896268f5fb28b9615acc2f9ef6093be`, [accepte
 
 PureSubs MOC and log `2026-10-09_puresubs_podcast-stable-publication-and-x-import-capacity-production-closeout.md` record 11 successful article readbacks with unchanged job attribution, paths and bytes at rollout. This implementation consumed the paired `after-readback.json` and `production-acceptance.json` under `/private/tmp/x-deploy-production-20261009/`. All 11 readback body SHA-256 values were checked against the fixed content snapshot `2e41c0747370f89b3a5f723f864df2927d619fd2` before moving the 11 files on the content branch. Each move was confirmed byte-identical, and Git records all 11 as 100% renames at content commit `d2332288`.
 
-The hashes below establish the inventory snapshot; they are not build-time pins, so legitimate same-path replacements remain supported. No candidate/content deletion or mutation was performed.
+The hashes below establish the inventory snapshot; they are not build-time pins, so legitimate same-path replacements remain supported. Article body bytes were preserved, and unselected historical candidates were left untouched.
 
 | Permanent content path | Readback SHA-256 |
 | --- | --- |
@@ -63,4 +63,4 @@ New local validation: site check and 37 tests passed, including canonical replac
 
 Migration evidence: `/private/tmp/tf-podcast-canonical-tests.log`, `/private/tmp/tf-podcast-canonical-build.log`, `/private/tmp/tf-podcast-canonical-corpus.json`, `/private/tmp/tf-podcast-canonical-search.json`. Migrated output: `/private/tmp/thought-foundry-podcast-20261009/.native-build/run-f9vnFv/public`. Review and exact-head CI are recorded in PR 18 and linked content/producer PRs.
 
-Final review: site/content migration approved against site `53dde6d` and content `d2332288`; producer follow-up approved `c45657b` after covering canonical automatic/explicit reconciliation and separate historical receipt checks. Site PR [#18](https://github.com/austery/thought-foundry/pull/18), content PR [#6](https://github.com/austery/thought-foundry-content/pull/6); the producer companion and exact-head CI are linked in the PRs.
+Final review: site/content migration approved against site `53dde6d` and content `d2332288`; producer follow-up approved `c45657b` after covering canonical automatic/explicit reconciliation and separate historical receipt checks. Site PR [#18](https://github.com/austery/thought-foundry/pull/18), content PR [#6](https://github.com/austery/thought-foundry-content/pull/6); producer PR [#495](https://github.com/austery/puresubs/pull/495) at `6a2856db51e0b1afc2f73ca84569a7863159e5bb`. Its final documentation-only revision records explicit derived-URL reconciliation and retains review approval. Full local and mandatory pre-push verifiers passed at that final head (3,445 backend tests, 551 dashboard tests, all configured local checks/builds); 18 owned PostgreSQL tests passed separately. Remote CI is tracked in the PRs.
