@@ -47,7 +47,7 @@ export function dateValues(meta: Metadata, source: string, fallback: Date): { da
   return { date: date.toISOString(), dateLabel };
 }
 export function createModel(articles: Article[], slug: (s: string) => string): Model {
-  const visible = articles.filter(a => /^(posts|books|notes|clippings)$/.test(a.kind) && !a.meta.exclude);
+  const visible = articles.filter(a => /^(posts|books|notes|clippings|podcasts)$/.test(a.kind) && !a.meta.exclude);
   const groups = Object.fromEntries(taxonomies.map(t => [t, []])) as unknown as Record<Taxonomy, Group[]>;
   for (const taxonomy of taxonomies) {
     const map = new Map<string, Group>();
