@@ -1,7 +1,7 @@
 # Podcast publication consumer acceptance
 
 Date: 2026-10-09
-Status: Consumer implementation complete locally; validation and review in progress. No site merge or deployment.
+Status: Consumer implementation, local validation and independent code review passed. Remote CI will be recorded in the PR. No site merge or deployment.
 
 ## Contract
 
@@ -36,7 +36,14 @@ The hashes below establish the inventory snapshot; they are not build-time pins,
 ## Validation
 
 - `pnpm check` and all 37 native tests passed locally. Tests execute real Hugo and filtered Pagefind queries for stable and legacy replacement, exclude behavior, absent intermediate routes/exports/search, invalid formal metadata and duplicate publication refusal.
-- Fixed-content baseline/candidate full builds and corpus comparison: pending.
-- Independent review and exact-head remote CI: pending.
+- Fixed-content baseline/candidate full Hugo and Pagefind builds passed, both indexing 12,281 pages. Baseline site `8ed221150df123c8d980cd64ebf9fa6f16830be4`, content `2e41c0747370f89b3a5f723f864df2927d619fd2`.
+- All 15,399 original routes retained; five additions: `/page/410/`, `/tags/collective-memory/`, `/tags/psychological-defense/`, `/speakers/get-connected/`, `/speakers/liang-zhou-ling/`. Homepage membership increased from 12,270 to 12,281 (11 Podcast articles); Liangzhouling has 10 article links and one source-directory link.
+- All 10,994 existing formatted bodies and raw Markdown exports compared unchanged; X discovery JSON byte-identical.
+- The generated full-corpus Pagefind bundle returned exactly one saved Podcast URL for `极寒末世` with the `梁州令` filter. The Node harness supplies the rendered document's `zh-hans` language context and reads the real generated index; no fake search results. An initial harness invocation without document language returned no result and was corrected to match browser language detection.
+- New full-corpus browser/mobile inspection was not repeated: templates/assets are unchanged; earlier local browser evidence remains recorded separately. This acceptance includes DOM/corpus checks and actual Pagefind bundle queries.
+- Independent immutable code review approved `5c9413dc335faecc9c948b5573ff0f31d0a09df0`, resolving the earlier candidate-selection gap. Reviewer independently ran all five Podcast behavior tests and production staging/admission probe. Subsequent changes only record validation evidence.
+- Exact-head remote CI: see the task PR; local validation does not establish CI acceptance.
+
+Local evidence: `/private/tmp/tf-podcast-consumer-tests.log`, `/private/tmp/tf-podcast-consumer-build.log`, `/private/tmp/tf-podcast-consumer-baseline-build.log`, `/private/tmp/tf-podcast-consumer-corpus-check.json`, `/private/tmp/tf-podcast-consumer-search.json`, `/private/tmp/tf-podcast-consumer-review.md`. Builds: candidate `.native-build/run-Y3OA0V/public` in `/private/tmp/thought-foundry-podcast-20261009`; baseline `.native-build/run-CcA2RU/public` in `/private/tmp/thought-foundry-podcast-baseline-20261009`.
 
 The producer's production receipt excludes live regeneration. This site work uses local successive build fixtures; neither check is a new production regeneration test.
