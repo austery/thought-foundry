@@ -5,10 +5,10 @@ on:
   workflow_dispatch:
     inputs:
       search_engine:
-        description: Search engine (official restores the previous engine)
+        description: Engine override (configured uses persistent PAGEFIND_ENGINE)
         type: choice
-        options: [candidate, official]
-        default: candidate
+        options: [configured, candidate, official]
+        default: configured
       content_ref:
         description: Content ref (pin a commit for repeat runs or rollback)
         type: string
@@ -26,9 +26,9 @@ permissions:
   contents: read
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-  SEARCH_ENGINE: ${{ inputs.search_engine || 'candidate' }}
+  SEARCH_ENGINE: ${{ (inputs.search_engine == 'candidate' || inputs.search_engine == 'official') && inputs.search_engine || vars.PAGEFIND_ENGINE || 'candidate' }}
 concurrency:
-  group: pages-deployment
+  group: ${{ github.ref == 'refs/heads/main' && !inputs.dry_run && 'pages-deployment' || format('pages-validation-{0}', github.ref) }}
   cancel-in-progress: false
 jobs:
   build-and-deploy:
@@ -64,7 +64,9 @@ jobs:
       - name: Verify cached candidate integrity
         if: env.SEARCH_ENGINE == 'candidate'
         working-directory: .native-pagefind-engine
-        run: sha256sum --check binary-checksums.txt
+        run: |
+          grep -Eq '^[0-9a-f]{64}  binaries/batched/pagefind$' binary-checksums.txt
+          sha256sum --strict --check binary-checksums.txt
       - name: Check native tools
         run: |
           pnpm --dir native check
@@ -100,6 +102,9 @@ jobs:
             sha256sum "$binary" > .native-production/pagefind-binary-sha256.txt
             /usr/bin/time -v "$binary" --site .native-production/public 2>&1 | tee .native-production/pagefind.log
           else
+            official_binary="$(find native/node_modules/.pnpm -path '*/@pagefind/linux-x64/bin/pagefind_extended' -type f -print -quit)"
+            test -n "$official_binary"
+            sha256sum "$official_binary" > .native-production/pagefind-binary-sha256.txt
             /usr/bin/time -v pnpm --dir native exec pagefind --site ../.native-production/public 2>&1 | tee .native-production/pagefind.log
           fi
           sh native/experiments/pagefind-memory/check-read-errors.sh .native-production/pagefind.log

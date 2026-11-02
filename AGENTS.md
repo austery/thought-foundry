@@ -4,7 +4,10 @@
 
 Hugo renders Markdown and templates. TypeScript in `native/src/` interprets
 existing metadata, generates navigation data, and restores public URL paths.
-Pagefind builds the full-text search index. This repository has no Python runtime.
+Pagefind builds the full-text search index. The production candidate builder,
+read-error guard and two patches under `native/experiments/pagefind-memory/`
+and `docs/experiments/pagefind-memory/` are production inputs. Preserve them
+when cleaning experiment output. This repository has no Python runtime.
 
 - `native/layouts/`, `native/hugo.json`: page rendering and Hugo configuration.
 - `native/src/prepare.ts`, `model.ts`: metadata, sorting, taxonomy and URL rules.
@@ -75,7 +78,13 @@ and on qualifying main-branch pushes. It checks out current content, excludes
 subtitle working directories during staging, builds Hugo and full Pagefind,
 adds `.nojekyll`, records source/output identities, and publishes to
 `austery/austery.github.io` using the existing deployment key. Publication
-artifacts have 90-day retention; the migration backup is stored separately at
+artifacts have 90-day retention. For engine changes, repeat runs or rollback,
+read `docs/acceptance/pagefind-candidate-activation.md`. Repository variable
+`PAGEFIND_ENGINE` persists engine selection across scheduled and push runs;
+manual `search_engine=configured` follows it. Rollback sets that variable to
+`official` before dispatch, so a later scheduled run cannot reactivate the
+candidate. Validation runs use a separate concurrency group from publication.
+The migration backup is stored separately at
 GitHub Release `native-hugo-backup-fbcb7ce3`.
 
 Implementation authorizes validated task-branch commits, pushes and PRs.

@@ -97,7 +97,9 @@ jobs:
       - name: Refuse partial-input success before publication
         run: |
           set -euo pipefail
-          sh native/experiments/pagefind-memory/check-read-errors.sh .memory-probe/results/candidate-100/engine.log
+          for label in official-full baseline-100 candidate-100 candidate-100-repeat; do
+            sh native/experiments/pagefind-memory/check-read-errors.sh ".memory-probe/results/$label/engine.log"
+          done
           mkdir -p .memory-probe/read-error-site .memory-probe/validation/read-error
           cp docs/experiments/pagefind-memory/fixture/english.html .memory-probe/read-error-site/good.html
           cp docs/experiments/pagefind-memory/fixture/english.html .memory-probe/read-error-site/unreadable.html
