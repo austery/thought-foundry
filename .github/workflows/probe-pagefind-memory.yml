@@ -5,6 +5,7 @@ on:
       - '.github/workflows/probe-pagefind-memory.yml'
       - 'native/experiments/pagefind-memory/**'
       - 'docs/experiments/pagefind-memory/**'
+      - '.github/workflows/deploy.yml'
   workflow_dispatch:
 permissions:
   contents: read
@@ -23,7 +24,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: austery/thought-foundry-content
-          ref: ae50e2b7d476a3334bf0c6715d7c3e86448a8ce5
+          ref: 12320ea9c6698826e14ef7c576f9b22838b2f13b
           path: src/content
           persist-credentials: false
       - uses: ./.github/actions/setup-native
@@ -37,7 +38,7 @@ jobs:
           pnpm prepare-site ../.memory-probe/source ../.memory-probe/staging
           hugo --source ../.memory-probe/staging --destination "$GITHUB_WORKSPACE/.memory-probe/public"
           pnpm restore ../.memory-probe/staging ../.memory-probe/public
-          pnpm exec node --import tsx experiments/pagefind-memory/prepare.ts ../.memory-probe/public ../.memory-probe
+          pnpm exec node --import tsx src/release-cli.ts manifest ../.memory-probe/public ../.memory-probe/full-public-manifest.json
       - name: Build pinned baseline and experimental binary
         run: sh native/experiments/pagefind-memory/build-prototype.sh .memory-probe
       - name: Reserve swap for unmodified baseline only
@@ -55,10 +56,15 @@ jobs:
       - name: Compare full builds with two bounded candidate runs
         run: |
           set -euo pipefail
-          sh native/experiments/pagefind-memory/run.sh .memory-probe baseline-100 binaries/baseline/pagefind input-100 14g 22g
-          sh native/experiments/pagefind-memory/run.sh .memory-probe candidate-100 binaries/batched/pagefind input-100 10g 10g
-          sh native/experiments/pagefind-memory/run.sh .memory-probe candidate-100-repeat binaries/batched/pagefind input-100 10g 10g
+          official_binary="$(find native/node_modules/.pnpm -path '*/@pagefind/linux-x64/bin/pagefind_extended' -type f -print -quit)"
+          test -n "$official_binary"
+          cp "$official_binary" .memory-probe/binaries/official
+          sh native/experiments/pagefind-memory/run.sh .memory-probe official-full binaries/official public 14g 22g
+          sh native/experiments/pagefind-memory/run.sh .memory-probe baseline-100 binaries/baseline/pagefind public 14g 22g
+          sh native/experiments/pagefind-memory/run.sh .memory-probe candidate-100 binaries/batched/pagefind public 10g 10g
+          sh native/experiments/pagefind-memory/run.sh .memory-probe candidate-100-repeat binaries/batched/pagefind public 10g 10g
           cd native
+          pnpm exec node --import tsx experiments/pagefind-memory/compare.ts ../.memory-probe/results/official-full/index ../.memory-probe/results/baseline-100/index ../.memory-probe/official-source-comparison.json
           for candidate in candidate-100 candidate-100-repeat; do
             pnpm exec node --import tsx experiments/pagefind-memory/compare.ts "../.memory-probe/results/baseline-100/index" "../.memory-probe/results/$candidate/index" "../.memory-probe/$candidate-comparison.json"
           done
@@ -88,11 +94,34 @@ jobs:
           node --input-type=module -e 'import assert from "node:assert/strict"; import fs from "node:fs"; assert.deepEqual(JSON.parse(fs.readFileSync("../.memory-probe/validation/baseline/service/service-check.json")),JSON.parse(fs.readFileSync("../.memory-probe/validation/batched/service/service-check.json"))); assert.equal(fs.readFileSync("../.memory-probe/validation/baseline/empty-exit-code.txt","utf8"),fs.readFileSync("../.memory-probe/validation/batched/empty-exit-code.txt","utf8"));'
           pnpm exec node --import tsx experiments/pagefind-memory/compare.ts ../.memory-probe/validation/baseline/site/pagefind ../.memory-probe/validation/batched/site/pagefind ../.memory-probe/fixture-comparison.json
           pnpm exec node --import tsx experiments/pagefind-memory/compare.ts ../.memory-probe/validation/baseline/fallback ../.memory-probe/validation/batched/fallback ../.memory-probe/fallback-comparison.json
+      - name: Refuse partial-input success before publication
+        run: |
+          set -euo pipefail
+          for label in official-full baseline-100 candidate-100 candidate-100-repeat; do
+            sh native/experiments/pagefind-memory/check-read-errors.sh ".memory-probe/results/$label/engine.log"
+          done
+          mkdir -p .memory-probe/read-error-site .memory-probe/validation/read-error
+          cp docs/experiments/pagefind-memory/fixture/english.html .memory-probe/read-error-site/good.html
+          cp docs/experiments/pagefind-memory/fixture/english.html .memory-probe/read-error-site/unreadable.html
+          chmod 000 .memory-probe/read-error-site/unreadable.html
+          chmod 777 .memory-probe/validation/read-error
+          docker run --name tf-pf-probe-read-error --user 65534:65534 --network none --memory 1g --memory-swap 1g --read-only --tmpfs /tmp:rw,size=64m \
+            -v "$GITHUB_WORKSPACE/.memory-probe:/work:ro" -v "$GITHUB_WORKSPACE/.memory-probe/validation/read-error:/result" \
+            -v "$GITHUB_WORKSPACE/native/experiments/pagefind-memory:/scripts:ro" \
+            node@sha256:bfb78a64f53d36c691f27dceecc9d4e73b3526411e1cee6fdf8d981d06fb2eb7 sh -ec '
+              /work/binaries/batched/pagefind --site /work/read-error-site --output-path /result/index > /result/engine.log 2>&1
+              grep -F "Permission denied" /result/engine.log
+              grep -F "Indexed 1 page" /result/engine.log
+              set +e
+              sh /scripts/check-read-errors.sh /result/engine.log
+              guard_exit=$?
+              set -e
+              test "$guard_exit" -eq 1'
       - name: Release task containers
         if: always()
         run: |
           set -euo pipefail
-          for probe_container in tf-pf-prototype-build-baseline tf-pf-prototype-build-batched tf-pf-scale-baseline-100 tf-pf-scale-candidate-100 tf-pf-scale-candidate-100-repeat tf-pf-probe-service-baseline tf-pf-probe-service-batched; do
+          for probe_container in tf-pf-prototype-build-baseline tf-pf-prototype-build-batched tf-pf-scale-official-full tf-pf-scale-baseline-100 tf-pf-scale-candidate-100 tf-pf-scale-candidate-100-repeat tf-pf-probe-service-baseline tf-pf-probe-service-batched tf-pf-probe-read-error; do
             if docker inspect "$probe_container" >/dev/null 2>&1; then
               docker stop "$probe_container" >/dev/null
               docker rm "$probe_container"

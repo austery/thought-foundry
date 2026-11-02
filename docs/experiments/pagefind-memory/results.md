@@ -1,6 +1,6 @@
 # Pagefind memory and partition experiment results
 
-Date: 2026-11-02. This is an experimental candidate, not a production engine change. Production continues using the accepted Pagefind 1.5.2 swap mitigation.
+Date: 2026-11-02. The activation change selects the accepted low-memory candidate for production and retains the official engine and swap rollback. Acceptance gates and actual outcomes are tracked in [the activation record](../../acceptance/pagefind-candidate-activation.md).
 
 ## Conclusion
 
@@ -30,6 +30,12 @@ The published crate, Cargo.lock, toolchain and embedded browser assets are ident
 ## First native runner observation
 
 Run [41424754305](https://github.com/austery/thought-foundry/actions/runs/41424754305), head `80d46f0ed268fe7e52e72331276dcc9438942d88`, completed the full baseline and both candidate builds. Baseline sampled anonymous plus swap peaked at 17.47 GiB. Candidate peaks were 7.57 and 7.55 GiB, with no swap under the 10 GiB hard limit. Both full output comparisons passed. The overall workflow then failed because the query harness attempted to write a Node module marker into a root-owned output directory. The next revision removes that unnecessary write; complete-workflow acceptance remains separate from these successful measurements. [Native substep evidence](evidence/native-first-probe.json)
+
+## Completed native acceptance and production-adoption boundary
+
+The complete workflow [41429759494](https://github.com/austery/thought-foundry/actions/runs/41429759494), head c4350ad10a41ee4ac2b4d63c95305c6b5b9bd097, passed. Baseline sampled17.44GiB anonymous-plus-swap; candidates sampled7.40/7.60GiB with zero swap under10GiB. Both full payload comparisons, six-query snapshots, service lifecycle, CLI fixtures and34unit/1doc tests passed. This supersedes the earlier harness failure as the current experiment acceptance.
+
+Those measurements used eligible-body subsets, not the full production public directory. The activation change extends native CI to the complete public directory and adds an official-binary comparison. Production activation and two release runs are tracked in [the activation acceptance record](../../acceptance/pagefind-candidate-activation.md). Do not extrapolate the earlier peaks to the complete production input.
 
 ## Why the second patch helps
 
@@ -64,7 +70,7 @@ All four builds passed under 8 GiB without swap. Their 13,300 fragments formed a
 
 ## Incremental indexing and repeated work
 
-The current publisher launches a fresh native indexer every time. It does not load a writable search database from the preceding release. Database-style incremental indexing remains possible in principle, but Pagefind's current output is a query bundle, not a persisted build-state store. Updating only a new article's fragment would not update term postings, filters, deletions and ranking statistics correctly. [Current invocation](../../../.github/workflows/deploy.yml#L69), [retained service state](https://pagefind.app/docs/node-api/#indexdeleteindex)
+The current publisher launches a fresh native indexer every time. It does not load a writable search database from the preceding release. Database-style incremental indexing remains possible in principle, but Pagefind's current output is a query bundle, not a persisted build-state store. Updating only a new article's fragment would not update term postings, filters, deletions and ranking statistics correctly. [Current invocation](../../../.github/workflows/deploy.yml), [retained service state](https://pagefind.app/docs/node-api/#indexdeleteindex)
 
 The cheapest independent optimization to investigate next is **whole-bundle reuse when the complete searchable input is unchanged**. Digest ordered eligible paths, actual rendered bytes, extraction settings, binary/tool identities and metadata. Restore only a verified accepted bundle for that exact identity. A miss rebuilds normally. This preserves matching and ranking but does not reduce a changed build's peak.
 
@@ -76,4 +82,4 @@ English originals occupy about 27 percent of normalized DOM body-text bytes in t
 
 The non-publishing workflow builds the pinned baseline and candidate on a native GitHub runner, compares full outputs and queries, and runs the candidate twice under 10 GiB with no swap. Its PR checks and retained artifacts record remote acceptance; local emulation is not a substitute. [Probe workflow](../../../.github/workflows/probe-pagefind-memory.yml)
 
-A production switch still needs an explicit decision to maintain a source-built Pagefind temporarily or wait for an upstream release. Keep the deployed swap mitigation during that decision. Stop the browser-partition route unless a separate proposal fixes the matching changes. Evaluate a persistent disk-backed search service if future growth exceeds the static builder's measured budget, rather than promising unlimited capacity from this patch.
+The owner approved a bounded production trial of the source-built Pagefind. Keep swap and the persistent official-engine rollback. Require full-public native acceptance and the production runs described in the activation record before claiming adoption is complete. Stop the browser-partition route unless a separate proposal fixes the matching changes. Evaluate a persistent disk-backed search service if future growth exceeds the static builder's measured budget, rather than promising unlimited capacity from this patch.

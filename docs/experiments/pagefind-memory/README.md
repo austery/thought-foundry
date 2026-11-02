@@ -1,6 +1,6 @@
 # Pagefind memory experiment
 
-Status: local experiments completed. Native runner acceptance is recorded by the dedicated PR workflow. No production configuration change.
+Status: local experiments completed. Native runner acceptance is recorded by the dedicated PR workflow. The activation workflow selects the candidate or official engine; see [activation and rollback](../../acceptance/pagefind-candidate-activation.md).
 
 ## Purpose
 
@@ -20,7 +20,7 @@ Pagefind builds a static inverted index: terms map to pages and occurrence posit
 
 ## Tools
 
-Scripts in `native/experiments/pagefind-memory/` are outside the production build path:
+The builder and read-error guard in `native/experiments/pagefind-memory/` are shared production inputs. The other scripts remain validation tools:
 
 - `build-prototype.sh EXPERIMENT_ROOT`: download checksum-verified source and task-local tools, build both binaries with one locked toolchain, and run upstream tests.
 - `prepare.ts INPUT_HTML_ROOT EXPERIMENT_ROOT`: create nested task-owned hardlinks and record distributions.

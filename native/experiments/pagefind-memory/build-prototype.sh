@@ -29,4 +29,4 @@ docker run --name tf-pf-prototype-build-batched --platform linux/amd64 --network
   -v "$root:/work" -w /work/crate -e CARGO_HOME=/work/cargo-home "$image" sh -c \
   'set -e; cargo build --offline --locked --release --features extended > /work/build-batched.log 2>&1; cargo test --offline --locked --release --features extended > /work/unit-tests-batched.log 2>&1'
 cp "$root/crate/target/release/pagefind" "$root/binaries/batched/pagefind"
-sha256sum "$root/binaries/baseline/pagefind" "$root/binaries/batched/pagefind" > "$root/binary-checksums.txt"
+(cd "$root" && sha256sum binaries/baseline/pagefind binaries/batched/pagefind > binary-checksums.txt)

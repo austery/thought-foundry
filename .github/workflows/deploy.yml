@@ -4,6 +4,15 @@ on:
     - cron: '5 * * * *'
   workflow_dispatch:
     inputs:
+      search_engine:
+        description: Engine override (configured uses persistent PAGEFIND_ENGINE)
+        type: choice
+        options: [configured, candidate, official]
+        default: configured
+      content_ref:
+        description: Content ref (pin a commit for repeat runs or rollback)
+        type: string
+        default: main
       dry_run:
         description: Build and retain evidence without publishing
         type: boolean
@@ -17,8 +26,9 @@ permissions:
   contents: read
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  SEARCH_ENGINE: ${{ (inputs.search_engine == 'candidate' || inputs.search_engine == 'official') && inputs.search_engine || vars.PAGEFIND_ENGINE || 'candidate' }}
 concurrency:
-  group: pages-deployment
+  group: ${{ github.ref == 'refs/heads/main' && !inputs.dry_run && 'pages-deployment' || format('pages-validation-{0}', github.ref) }}
   cancel-in-progress: false
 jobs:
   build-and-deploy:
@@ -32,10 +42,31 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: austery/thought-foundry-content
-          ref: main
+          ref: ${{ inputs.content_ref || 'main' }}
           path: src/content
           persist-credentials: false
       - uses: ./.github/actions/setup-native
+      - name: Validate search engine selection
+        run: |
+          case "$SEARCH_ENGINE" in candidate|official) ;; *) echo 'Unknown search engine' >&2; exit 2;; esac
+      - name: Restore pinned candidate binary
+        if: env.SEARCH_ENGINE == 'candidate'
+        id: candidate-cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            .native-pagefind-engine/binaries
+            .native-pagefind-engine/binary-checksums.txt
+          key: pagefind-memory-v1-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('native/experiments/pagefind-memory/build-prototype.sh', 'docs/experiments/pagefind-memory/*.patch') }}
+      - name: Build and test pinned candidate
+        if: env.SEARCH_ENGINE == 'candidate' && steps.candidate-cache.outputs.cache-hit != 'true'
+        run: sh native/experiments/pagefind-memory/build-prototype.sh .native-pagefind-engine
+      - name: Verify cached candidate integrity
+        if: env.SEARCH_ENGINE == 'candidate'
+        working-directory: .native-pagefind-engine
+        run: |
+          grep -Eq '^[0-9a-f]{64}  binaries/batched/pagefind$' binary-checksums.txt
+          sha256sum --strict --check binary-checksums.txt
       - name: Check native tools
         run: |
           pnpm --dir native check
@@ -66,7 +97,18 @@ jobs:
           vmstat -w 10 &
           monitor_pid=$!
           trap 'kill "$monitor_pid" 2>/dev/null || true; wait "$monitor_pid" 2>/dev/null || true' EXIT
-          /usr/bin/time -v pnpm --dir native exec pagefind --site ../.native-production/public
+          if [ "$SEARCH_ENGINE" = candidate ]; then
+            binary="$GITHUB_WORKSPACE/.native-pagefind-engine/binaries/batched/pagefind"
+            sha256sum "$binary" > .native-production/pagefind-binary-sha256.txt
+            /usr/bin/time -v "$binary" --site .native-production/public 2>&1 | tee .native-production/pagefind.log
+          else
+            official_binary="$(find native/node_modules/.pnpm -path '*/@pagefind/linux-x64/bin/pagefind_extended' -type f -print -quit)"
+            test -n "$official_binary"
+            sha256sum "$official_binary" > .native-production/pagefind-binary-sha256.txt
+            /usr/bin/time -v pnpm --dir native exec pagefind --site ../.native-production/public 2>&1 | tee .native-production/pagefind.log
+          fi
+          sh native/experiments/pagefind-memory/check-read-errors.sh .native-production/pagefind.log
+          printf '%s\n' "$SEARCH_ENGINE" > .native-production/search-engine.txt
       - name: Verify publication output
         run: |
           pnpm --dir native exec node --import tsx src/release-cli.ts prepare-publication ../.native-production/public
@@ -83,6 +125,10 @@ jobs:
             .native-production/manifest.json
             .native-production/site-sha.txt
             .native-production/content-sha.txt
+            .native-production/search-engine.txt
+            .native-production/pagefind-binary-sha256.txt
+            .native-production/pagefind.log
+            .native-pagefind-engine/*.log
           include-hidden-files: true
           if-no-files-found: error
           retention-days: 90
@@ -110,3 +156,27 @@ jobs:
             sudo swapoff "$PAGEFIND_SWAP_FILE"
           fi
           rm -- "$PAGEFIND_SWAP_FILE"
+      - name: Release candidate build containers
+        if: always() && env.SEARCH_ENGINE == 'candidate'
+        run: |
+          set -euo pipefail
+          for container in tf-pf-prototype-build-baseline tf-pf-prototype-build-batched; do
+            if docker inspect "$container" >/dev/null 2>&1; then
+              docker stop "$container" >/dev/null
+              docker rm "$container"
+            fi
+          done
+      - name: Retain search engine diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pagefind-engine-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            .native-pagefind-engine/*.log
+            .native-pagefind-engine/binary-checksums.txt
+            .native-production/pagefind.log
+            .native-production/search-engine.txt
+            .native-production/pagefind-binary-sha256.txt
+          include-hidden-files: true
+          if-no-files-found: ignore
+          retention-days: 90
