@@ -1,0 +1,99 @@
+{
+  "scope": "Native Linux amd64 GitHub ubuntu-24.04 runner. Memory/parity substeps passed; overall run failed later because the query harness tried writing metadata into a root-owned container output.",
+  "reports": [
+    {
+      "label": "baseline-100",
+      "exitCode": 0,
+      "indexedPages": 13300,
+      "wallSeconds": 299,
+      "cgroupPeak": 15032385536,
+      "sampledRssPeakBytes": 15048577024,
+      "sampledProcessRssPlusSwapPeakBytes": 18536108032,
+      "sampledAnonymousPlusSwapPeakBytes": 18763087872,
+      "sampledSwapPeakBytes": 3831627776,
+      "events": "low 0\nhigh 0\nmax 2976\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0",
+      "phases": {
+        "[Walking source directory]": {
+          "samples": 1,
+          "maxSampledAnonymousPlusSwap": 3026944
+        },
+        "[Parsing files]": {
+          "samples": 43,
+          "maxSampledAnonymousPlusSwap": 6831923200
+        },
+        "[Reading languages]": {
+          "samples": 5,
+          "maxSampledAnonymousPlusSwap": 12045340672
+        },
+        "[Building search indexes]": {
+          "samples": 210,
+          "maxSampledAnonymousPlusSwap": 18763087872
+        },
+        "Finished in 265.825 seconds": {
+          "samples": 32,
+          "maxSampledAnonymousPlusSwap": 9490853888
+        }
+      }
+    },
+    {
+      "label": "candidate-100",
+      "exitCode": 0,
+      "indexedPages": 13300,
+      "wallSeconds": 182,
+      "cgroupPeak": 8903966720,
+      "sampledRssPeakBytes": 8185655296,
+      "sampledProcessRssPlusSwapPeakBytes": 8185655296,
+      "sampledAnonymousPlusSwapPeakBytes": 8127381504,
+      "sampledSwapPeakBytes": 0,
+      "events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0",
+      "phases": {
+        "[Walking source directory]": {
+          "samples": 3,
+          "maxSampledAnonymousPlusSwap": 9928704
+        },
+        "[Parsing files]": {
+          "samples": 45,
+          "maxSampledAnonymousPlusSwap": 6961922048
+        },
+        "[Building search indexes]": {
+          "samples": 131,
+          "maxSampledAnonymousPlusSwap": 8127381504
+        }
+      }
+    },
+    {
+      "label": "candidate-100-repeat",
+      "exitCode": 0,
+      "indexedPages": 13300,
+      "wallSeconds": 178,
+      "cgroupPeak": 8136622080,
+      "sampledRssPeakBytes": 8164147200,
+      "sampledProcessRssPlusSwapPeakBytes": 8164147200,
+      "sampledAnonymousPlusSwapPeakBytes": 8105730048,
+      "sampledSwapPeakBytes": 0,
+      "events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0",
+      "phases": {
+        "[Walking source directory]": {
+          "samples": 1,
+          "maxSampledAnonymousPlusSwap": 2940928
+        },
+        "[Parsing files]": {
+          "samples": 42,
+          "maxSampledAnonymousPlusSwap": 6844141568
+        },
+        "[Building search indexes]": {
+          "samples": 131,
+          "maxSampledAnonymousPlusSwap": 8105730048
+        },
+        "Finished in 176.186 seconds": {
+          "samples": 1,
+          "maxSampledAnonymousPlusSwap": 668057600
+        }
+      }
+    }
+  ],
+  "run": "https://github.com/austery/thought-foundry/actions/runs/41424754305",
+  "headSha": "80d46f0ed268fe7e52e72331276dcc9438942d88",
+  "overallWorkflowConclusion": "failure",
+  "failureAfterSuccessfulBuilds": "query-index.ts attempted writing index/package.json; fixed by read-only module loading in the next revision."
+}

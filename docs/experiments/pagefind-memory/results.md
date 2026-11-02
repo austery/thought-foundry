@@ -27,6 +27,10 @@ An earlier full run exited 137 while the compiler was active. Its cgroup recorde
 
 The published crate, Cargo.lock, toolchain and embedded browser assets are identical for the source baseline and both prototypes. The crate resolves Charabia 0.9.9 through its supplied lockfile. This is distinct from merely reading its semver requirement. The standalone crate's default release profile differs from upstream's workspace profile; production extrapolation therefore depends on output parity and native-runner validation, not identical compiler flags.
 
+## First native runner observation
+
+Run [41424754305](https://github.com/austery/thought-foundry/actions/runs/41424754305), head `80d46f0ed268fe7e52e72331276dcc9438942d88`, completed the full baseline and both candidate builds. Baseline sampled anonymous plus swap peaked at 17.47 GiB. Candidate peaks were 7.57 and 7.55 GiB, with no swap under the 10 GiB hard limit. Both full output comparisons passed. The overall workflow then failed because the query harness attempted to write a Node module marker into a root-owned output directory. The next revision removes that unnecessary write; complete-workflow acceptance remains separate from these successful measurements. [Native substep evidence](evidence/native-first-probe.json)
+
 ## Why the second patch helps
 
 The first patch moves parsed pages into language groups for the one-shot CLI instead of retaining an original and a full clone. It preserves the service's retained state and captures UI-warning flags before consumption. [Ownership patch](pagefind-1.5.2-cli-consume.patch)

@@ -4,7 +4,7 @@ import {pathToFileURL} from 'node:url';
 interface ResultData {url:string; excerpt:string; meta:Record<string,string>; sub_results?: {url:string; title:string; excerpt:string}[]; locations?:number[];}
 interface Bundle {options(value:{baseUrl:string}):Promise<void>; filters():Promise<Record<string,Record<string,number>>>; search(query:string|null,options?:{filters:Record<string,string>}):Promise<{results:{id:string;data():Promise<ResultData>}[]}>; destroy():Promise<void>;}
 const directory=resolve(process.argv[2]!);
-await writeFile(join(directory,'package.json'),'{"type":"module"}');
+// Node 22 detects the generated ES module without writing into the index directory.
 Object.defineProperty(globalThis,'document',{value:{currentScript:null,querySelector:()=>({getAttribute:()=> 'zh-hans'}),documentElement:{lang:'zh-hans'}},configurable:true});
 const originalFetch=globalThis.fetch;
 globalThis.fetch=async (input,init)=>String(input).startsWith('file:')?new Response(new Uint8Array(await readFile(new URL(String(input)))).buffer):originalFetch(input,init);
