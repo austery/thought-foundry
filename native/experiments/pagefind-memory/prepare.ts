@@ -28,6 +28,7 @@ for(const [label,groups] of [['25',[0]],['50',[0,1]],['100',[0,1,2,3]],['shard-0
  const selected=pages.filter(p=>(groups as readonly number[]).includes(p.group));
  const root=join(output,`input-${label}`);await mkdir(root,{recursive:true});
  for(const page of selected){const target=join(root,page.path);await mkdir(dirname(target),{recursive:true});try {await link(join(input,page.path),target);} catch(error:unknown) {if(!error||typeof error!=='object'||!('code' in error)||error.code!=='EEXIST')throw error;const [sourceStat,targetStat]=await Promise.all([stat(join(input,page.path)),stat(target)]);assert.equal(targetStat.dev,sourceStat.dev);assert.equal(targetStat.ino,sourceStat.ino,'Existing input is not the expected task hardlink');}}
+ assert.deepEqual((await walk(root)).sort(),selected.map(p=>p.path).sort(),'Existing sample contains stale HTML; use a fresh experiment root');
  const lengths=selected.map(p=>p.bytes).sort((a,b)=>a-b);
  const kinds:Record<string,number>={};for(const p of selected)kinds[p.kind]=(kinds[p.kind]??0)+1;
  samples.push({label,root,pages:selected.length,htmlBytes:lengths.reduce((a,b)=>a+b,0),medianBytes:lengths[Math.floor(lengths.length*.5)],p95Bytes:lengths[Math.floor(lengths.length*.95)],maxBytes:lengths.at(-1),kinds});

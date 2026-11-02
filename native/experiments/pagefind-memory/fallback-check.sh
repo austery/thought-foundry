@@ -10,3 +10,4 @@ set -e
 printf '%s\n' "$empty_exit" > /result/empty-exit-code.txt
 test "$empty_exit" -ne 0
 grep -q 'Pagefind was not able to build an index' /result/empty.log
+test ! -f /result/empty/pagefind-entry.json

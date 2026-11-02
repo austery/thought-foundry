@@ -16,7 +16,10 @@ image=node@sha256:bfb78a64f53d36c691f27dceecc9d4e73b3526411e1cee6fdf8d981d06fb2e
 sha256sum "$root/$3" > "$result/binary-sha256.txt"
 if [ -f "$root/corpus.json" ]; then sha256sum "$root/corpus.json" > "$result/corpus-manifest-sha256.txt"; fi
 date -u '+%Y-%m-%dT%H:%M:%SZ' > "$result/started-at.txt"
-docker image inspect "$image" > "$result/image-config.json"
+if ! docker image inspect "$image" > "$result/image-config.json" 2>/dev/null; then
+  docker pull --platform linux/amd64 "$image"
+  docker image inspect "$image" > "$result/image-config.json"
+fi
 container="tf-pf-scale-$label"
 # Inputs are read-only. Each run gets a fresh cgroup and one owned output directory.
 docker create --name "$container" --platform linux/amd64 --network none --cpus 4 \
