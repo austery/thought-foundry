@@ -31,6 +31,12 @@ The published crate, Cargo.lock, toolchain and embedded browser assets are ident
 
 Run [41424754305](https://github.com/austery/thought-foundry/actions/runs/41424754305), head `80d46f0ed268fe7e52e72331276dcc9438942d88`, completed the full baseline and both candidate builds. Baseline sampled anonymous plus swap peaked at 17.47 GiB. Candidate peaks were 7.57 and 7.55 GiB, with no swap under the 10 GiB hard limit. Both full output comparisons passed. The overall workflow then failed because the query harness attempted to write a Node module marker into a root-owned output directory. The next revision removes that unnecessary write; complete-workflow acceptance remains separate from these successful measurements. [Native substep evidence](evidence/native-first-probe.json)
 
+## Completed native acceptance and production-adoption boundary
+
+The complete workflow [41429759494](https://github.com/austery/thought-foundry/actions/runs/41429759494), head c4350ad10a41ee4ac2b4d63c95305c6b5b9bd097, passed. Baseline sampled17.44GiB anonymous-plus-swap; candidates sampled7.40/7.60GiB with zero swap under10GiB. Both full payload comparisons, six-query snapshots, service lifecycle, CLI fixtures and34unit/1doc tests passed. This supersedes the earlier harness failure as the current experiment acceptance.
+
+Those measurements used eligible-body subsets, not the full production public directory. The activation change extends native CI to the complete public directory and adds an official-binary comparison. Production activation and two release runs are tracked in [the activation acceptance record](../../acceptance/pagefind-candidate-activation.md). Do not extrapolate the earlier peaks to the complete production input.
+
 ## Why the second patch helps
 
 The first patch moves parsed pages into language groups for the one-shot CLI instead of retaining an original and a full clone. It preserves the service's retained state and captures UI-warning flags before consumption. [Ownership patch](pagefind-1.5.2-cli-consume.patch)

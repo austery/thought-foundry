@@ -1,0 +1,87 @@
+{
+  "scope": "Local Linuxamd64 containers emulated onarm64; complete production public directory, not eligible-body subset. Same rendered input in both runs. This is not native-runner acceptance.",
+  "siteRenderingBase": "dcc9a182c4a2a4530852c8e0489fdac137f58b3e",
+  "content": "12320ea9c6698826e14ef7c576f9b22838b2f13b",
+  "htmlFiles": 16803,
+  "staticFiles": 11811,
+  "publicManifestSha256": "b5c910fbb9b900f63fbba582a098affad1bf5b0e4f9b5db8d918667889d45875",
+  "binaryChecksums": [
+    "251d776acdf922b23f4470e71b0ad858e0c7c0f4e17f22ce60c214ba1fc28473  .native-build/pagefind-activation-20261102/binaries/candidate",
+    "70cb6d23d6508bb18e77fd5403e99d7ede0ae9d2eef1ab9f049411e0c12ec380  .native-build/pagefind-activation-20261102/binaries/official"
+  ],
+  "reports": [
+    {
+      "label": "activation-candidate",
+      "exitCode": 0,
+      "indexedPages": 13311,
+      "wallSeconds": 88,
+      "cgroupPeak": 10231635968,
+      "sampledRssPeakBytes": 9213607936,
+      "sampledProcessRssPlusSwapPeakBytes": 9213607936,
+      "sampledAnonymousPlusSwapPeakBytes": 9158475776,
+      "sampledSwapPeakBytes": 0,
+      "events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0",
+      "phases": {
+        "[Walking source directory]": {
+          "samples": 2,
+          "maxSampledAnonymousPlusSwap": 23461888
+        },
+        "[Parsing files]": {
+          "samples": 19,
+          "maxSampledAnonymousPlusSwap": 6920568832
+        },
+        "[Building search indexes]": {
+          "samples": 59,
+          "maxSampledAnonymousPlusSwap": 9158475776
+        }
+      }
+    },
+    {
+      "label": "activation-official",
+      "exitCode": 0,
+      "indexedPages": 13311,
+      "wallSeconds": 105,
+      "cgroupPeak": 15032385536,
+      "sampledRssPeakBytes": 15015530496,
+      "sampledProcessRssPlusSwapPeakBytes": 19946713088,
+      "sampledAnonymousPlusSwapPeakBytes": 19960668160,
+      "sampledSwapPeakBytes": 7481536512,
+      "events": "low 0\nhigh 0\nmax 10494\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0",
+      "phases": {
+        "[Walking source directory]": {
+          "samples": 2,
+          "maxSampledAnonymousPlusSwap": 20144128
+        },
+        "[Parsing files]": {
+          "samples": 20,
+          "maxSampledAnonymousPlusSwap": 7216865280
+        },
+        "[Reading languages]": {
+          "samples": 1,
+          "maxSampledAnonymousPlusSwap": 10110947328
+        },
+        "[Building search indexes]": {
+          "samples": 68,
+          "maxSampledAnonymousPlusSwap": 19960668160
+        },
+        "Finished in 100.262 seconds": {
+          "samples": 3,
+          "maxSampledAnonymousPlusSwap": 9175601152
+        }
+      }
+    }
+  ],
+  "comparison": {
+    "left": "/Users/leipeng/Documents/Projects/thought-foundry/.native-build/pagefind-activation-20261102/results/activation-official/index",
+    "right": "/Users/leipeng/Documents/Projects/thought-foundry/.native-build/pagefind-activation-20261102/results/activation-candidate/index",
+    "totalFiles": 16556,
+    "exactStablePayloadMatches": 16552,
+    "exactFragmentMatches": 13311,
+    "canonicalURLCount": 13311,
+    "decodedFilterMatches": 2,
+    "normalizedMetadataEqual": true,
+    "normalizedEntryEqual": true,
+    "normalization": "Only filter value ordering, meta filter ordering, and their verified hash references. Pagefind 1.5.2 index/mod.rs has an explicit TODO to stabilize filter hashes. The packaged WASM gzip header may differ; its decompressed payload is byte-identical. Every fragment, term-index chunk and other browser asset remains byte-identical."
+  },
+  "querySnapshotsEqual": true
+}

@@ -44,7 +44,7 @@ Keeping each entire updated article together preserves within-document phrases a
 
 The delivered prototype keeps the same mapper and sequential merge, but applies them to consecutive batches of 256 whole pages. The global word/filter/fragment maps stay outside the loop. The input iterator preserves the original preassigned page order; indexed parallel collection preserves each batch's order. Therefore collision handling receives the same sequence. This is a source-level equivalence argument, not a benchmark result.
 
-It affects the service builder too, but does not consume the service's retained `SearchState` pages. It adds no new thread trait bound: the original parallel operation already owns `FossickedData` values. The separate CLI ownership patch remains necessary to avoid its whole-corpus clone. The prototype source and patch are `batched-index.rs` and the task worktree's `docs/experiments/pagefind-memory/pagefind-1.5.2-bounded-intermediates.patch`.
+It affects the service builder too, but does not consume the service's retained `SearchState` pages. It adds no new thread trait bound: the original parallel operation already owns `FossickedData` values. The separate CLI ownership patch remains necessary to avoid its whole-corpus clone. The delivered implementation is the committed [bounded-intermediate patch](pagefind-1.5.2-bounded-intermediates.patch).
 
 **Limits:** 256 pages bounds the number of per-page intermediate maps, not their bytes. One very long page can still be large. Parsed input and the final global index remain proportional to corpus size. Test the combined ownership/batch patch against ownership-only, including full output parity and service operations across 255/256/257-page boundaries. No savings estimate is established here.
 
@@ -66,7 +66,7 @@ Four fixed shards provide a constant-factor increase in cold-build capacity. Eve
 
 ## Suggested order
 
-1. Finish the ownership-only and bounded-intermediate measurements with exact search compatibility checks.
-2. Finish the four-shard membership, ranking and browser-cost experiment already in progress.
+1. Completed: ownership and bounded-intermediate measurements with exact search compatibility. See [results](results.md).
+2. Completed: four-shard testing rejected transparent browser merging because matching URL sets changed. See [results](results.md).
 3. Measure actual rendered-input reuse across recent releases; implement an exact whole-bundle cache gate before a custom delta engine if its benefit is material.
 4. Choose between a bounded source patch, shard replacement/reuse and a persistent service using measured cold capacity, edit cost, reader cost and maintenance cost. Keep the currently accepted publication available until that choice passes release checks.
