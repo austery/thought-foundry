@@ -1,0 +1,481 @@
+{
+  "scope": "Local Linux amd64 containers on an arm64 host under emulation; RSS, cgroup resident peak and simultaneous anonymous-plus-swap are separate measures; phases are sampled, not allocation profiles.",
+  "reports": [
+    {
+      "label": "batched-100",
+      "exitCode": 0,
+      "indexedPages": 13300,
+      "wallSeconds": 89,
+      "cgroupPeak": 10003501056,
+      "sampledRssPeakBytes": 9118081024,
+      "sampledProcessRssPlusSwapPeakBytes": 9118081024,
+      "sampledAnonymousPlusSwapPeakBytes": 9066819584,
+      "sampledSwapPeakBytes": 0,
+      "events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0",
+      "phases": {
+        "[Walking source directory]": {
+          "samples": 1,
+          "maxSampledAnonymousPlusSwap": 9609216
+        },
+        "[Parsing files]": {
+          "samples": 19,
+          "maxSampledAnonymousPlusSwap": 7147163648
+        },
+        "[Building search indexes]": {
+          "samples": 59,
+          "maxSampledAnonymousPlusSwap": 9066819584
+        },
+        "Finished in 87.402 seconds": {
+          "samples": 1,
+          "maxSampledAnonymousPlusSwap": 3556831232
+        }
+      },
+      "identity": {
+        "containerId": "88accdfa10fdabca640499dc534d60e699401e1b71fec9a3b2b2af1f00aa0cd7",
+        "imageId": "sha256:18158429ac730c34bff399229105a984974b1a921fd626a45e6ec062bc08cdfa",
+        "memoryLimitBytes": 15032385536,
+        "totalRamAndSwapLimitBytes": 15032385536,
+        "concurrentCompile": false
+      }
+    },
+    {
+      "label": "batched-100-10g",
+      "exitCode": 0,
+      "indexedPages": 13300,
+      "wallSeconds": 86,
+      "cgroupPeak": 9995489280,
+      "sampledRssPeakBytes": 9086218240,
+      "sampledProcessRssPlusSwapPeakBytes": 9086218240,
+      "sampledAnonymousPlusSwapPeakBytes": 9033326592,
+      "sampledSwapPeakBytes": 0,
+      "events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0",
+      "phases": {
+        "[Walking source directory]": {
+          "samples": 1,
+          "maxSampledAnonymousPlusSwap": 9539584
+        },
+        "[Parsing files]": {
+          "samples": 18,
+          "maxSampledAnonymousPlusSwap": 7193280512
+        },
+        "[Building search indexes]": {
+          "samples": 58,
+          "maxSampledAnonymousPlusSwap": 9033326592
+        },
+        "Finished in 84.664 seconds": {
+          "samples": 1,
+          "maxSampledAnonymousPlusSwap": 4669657088
+        }
+      },
+      "identity": {
+        "containerId": "81f7dcb8717c58dd841742f185518e0c1eae5ea9e38353a4241d2e768bb39442",
+        "imageId": "sha256:18158429ac730c34bff399229105a984974b1a921fd626a45e6ec062bc08cdfa",
+        "memoryLimitBytes": 10737418240,
+        "totalRamAndSwapLimitBytes": 10737418240,
+        "concurrentCompile": false
+      }
+    },
+    {
+      "label": "official-100",
+      "exitCode": 137,
+      "indexedPages": 0,
+      "wallSeconds": 40,
+      "cgroupPeak": 13457813504,
+      "sampledRssPeakBytes": 13388443648,
+      "sampledProcessRssPlusSwapPeakBytes": 18380656640,
+      "sampledAnonymousPlusSwapPeakBytes": 18802515968,
+      "sampledSwapPeakBytes": 8556785664,
+      "events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 1\noom_group_kill 0\nsock_throttled 0",
+      "phases": {
+        "[Walking source directory]": {
+          "samples": 1,
+          "maxSampledAnonymousPlusSwap": 6901760
+        },
+        "[Parsing files]": {
+          "samples": 24,
+          "maxSampledAnonymousPlusSwap": 6935556096
+        },
+        "[Reading languages]": {
+          "samples": 3,
+          "maxSampledAnonymousPlusSwap": 11962204160
+        },
+        "[Building search indexes]": {
+          "samples": 6,
+          "maxSampledAnonymousPlusSwap": 18802515968
+        }
+      },
+      "identity": {
+        "capturedAfterRun": true,
+        "containerId": "e27255b59f031df44101112f37a48d3225c5b3b4c0f7818c591d16c1df513ec2",
+        "imageId": "sha256:18158429ac730c34bff399229105a984974b1a921fd626a45e6ec062bc08cdfa",
+        "binarySha256": "70cb6d23d6508bb18e77fd5403e99d7ede0ae9d2eef1ab9f049411e0c12ec380",
+        "site": "/work/input-100",
+        "memoryLimitBytes": 15032385536,
+        "totalRamAndSwapLimitBytes": 23622320128,
+        "cpuQuotaNanoCPUs": 4000000000,
+        "startedAt": "2026-11-02T06:10:10.06231708Z",
+        "finishedAt": "2026-11-02T06:10:50.108310469Z",
+        "concurrentCompile": true
+      }
+    },
+    {
+      "label": "official-100-solo",
+      "exitCode": 0,
+      "indexedPages": 13300,
+      "wallSeconds": 116,
+      "cgroupPeak": 15032385536,
+      "sampledRssPeakBytes": 15021244416,
+      "sampledProcessRssPlusSwapPeakBytes": 19701805056,
+      "sampledAnonymousPlusSwapPeakBytes": 19686944768,
+      "sampledSwapPeakBytes": 6731333632,
+      "events": "low 0\nhigh 0\nmax 9350\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0",
+      "phases": {
+        "[Walking source directory]": {
+          "samples": 1,
+          "maxSampledAnonymousPlusSwap": 6770688
+        },
+        "[Parsing files]": {
+          "samples": 24,
+          "maxSampledAnonymousPlusSwap": 7222046720
+        },
+        "[Reading languages]": {
+          "samples": 2,
+          "maxSampledAnonymousPlusSwap": 12717416448
+        },
+        "[Building search indexes]": {
+          "samples": 74,
+          "maxSampledAnonymousPlusSwap": 19686944768
+        },
+        "Finished in 111.726 seconds": {
+          "samples": 3,
+          "maxSampledAnonymousPlusSwap": 8142241792
+        }
+      },
+      "identity": {
+        "capturedAfterRun": true,
+        "containerId": "7a87bc1322825e93951820b201e7ef4635c4416b877bff235ace89deb83c4dab",
+        "imageId": "sha256:18158429ac730c34bff399229105a984974b1a921fd626a45e6ec062bc08cdfa",
+        "binarySha256": "70cb6d23d6508bb18e77fd5403e99d7ede0ae9d2eef1ab9f049411e0c12ec380",
+        "site": "/work/input-100",
+        "memoryLimitBytes": 15032385536,
+        "totalRamAndSwapLimitBytes": 23622320128,
+        "cpuQuotaNanoCPUs": 4000000000,
+        "startedAt": "2026-11-02T06:17:47.003233048Z",
+        "finishedAt": "2026-11-02T06:19:43.254715371Z",
+        "concurrentCompile": false
+      }
+    },
+    {
+      "label": "official-25",
+      "exitCode": 0,
+      "indexedPages": 3286,
+      "wallSeconds": 28,
+      "cgroupPeak": 6094127104,
+      "sampledRssPeakBytes": 5901271040,
+      "sampledProcessRssPlusSwapPeakBytes": 5901271040,
+      "sampledAnonymousPlusSwapPeakBytes": 5849972736,
+      "sampledSwapPeakBytes": 0,
+      "events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0",
+      "phases": {
+        "[Walking source directory]": {
+          "samples": 1,
+          "maxSampledAnonymousPlusSwap": 7229440
+        },
+        "[Parsing files]": {
+          "samples": 6,
+          "maxSampledAnonymousPlusSwap": 2011013120
+        },
+        "[Building search indexes]": {
+          "samples": 18,
+          "maxSampledAnonymousPlusSwap": 5849972736
+        }
+      },
+      "identity": {
+        "capturedAfterRun": true,
+        "containerId": "074ecdac7f83d164dbe08beaa5dab3ef600c1f0bf5d1ace861be1b4dd9f8d418",
+        "imageId": "sha256:18158429ac730c34bff399229105a984974b1a921fd626a45e6ec062bc08cdfa",
+        "binarySha256": "70cb6d23d6508bb18e77fd5403e99d7ede0ae9d2eef1ab9f049411e0c12ec380",
+        "site": "/work/input-25",
+        "memoryLimitBytes": 8589934592,
+        "totalRamAndSwapLimitBytes": 8589934592,
+        "cpuQuotaNanoCPUs": 4000000000,
+        "startedAt": "2026-11-02T06:05:08.229490389Z",
+        "finishedAt": "2026-11-02T06:05:36.128624865Z",
+        "concurrentCompile": true
+      }
+    },
+    {
+      "label": "official-50",
+      "exitCode": 0,
+      "indexedPages": 6601,
+      "wallSeconds": 52,
+      "cgroupPeak": 11666018304,
+      "sampledRssPeakBytes": 11298435072,
+      "sampledProcessRssPlusSwapPeakBytes": 11298435072,
+      "sampledAnonymousPlusSwapPeakBytes": 11247218688,
+      "sampledSwapPeakBytes": 0,
+      "events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0",
+      "phases": {
+        "[Walking source directory]": {
+          "samples": 1,
+          "maxSampledAnonymousPlusSwap": 6889472
+        },
+        "[Parsing files]": {
+          "samples": 11,
+          "maxSampledAnonymousPlusSwap": 3737833472
+        },
+        "[Building search indexes]": {
+          "samples": 34,
+          "maxSampledAnonymousPlusSwap": 11247218688
+        },
+        "Finished in 50.499 seconds": {
+          "samples": 1,
+          "maxSampledAnonymousPlusSwap": 1925509120
+        }
+      },
+      "identity": {
+        "capturedAfterRun": true,
+        "containerId": "5d094e67fd4a3680bdc55704571e8ce287e2e28e364377c8fa44cfadf30b5fd3",
+        "imageId": "sha256:18158429ac730c34bff399229105a984974b1a921fd626a45e6ec062bc08cdfa",
+        "binarySha256": "70cb6d23d6508bb18e77fd5403e99d7ede0ae9d2eef1ab9f049411e0c12ec380",
+        "site": "/work/input-50",
+        "memoryLimitBytes": 15032385536,
+        "totalRamAndSwapLimitBytes": 23622320128,
+        "cpuQuotaNanoCPUs": 4000000000,
+        "startedAt": "2026-11-02T06:07:46.094598102Z",
+        "finishedAt": "2026-11-02T06:08:38.314202556Z",
+        "concurrentCompile": true
+      }
+    },
+    {
+      "label": "patched-100",
+      "exitCode": 0,
+      "indexedPages": 13300,
+      "wallSeconds": 97,
+      "cgroupPeak": 14439919616,
+      "sampledRssPeakBytes": 13522972672,
+      "sampledProcessRssPlusSwapPeakBytes": 13522972672,
+      "sampledAnonymousPlusSwapPeakBytes": 13494280192,
+      "sampledSwapPeakBytes": 0,
+      "events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0",
+      "phases": {
+        "[Walking source directory]": {
+          "samples": 1,
+          "maxSampledAnonymousPlusSwap": 8015872
+        },
+        "[Parsing files]": {
+          "samples": 21,
+          "maxSampledAnonymousPlusSwap": 7170613248
+        },
+        "[Building search indexes]": {
+          "samples": 65,
+          "maxSampledAnonymousPlusSwap": 13494280192
+        }
+      },
+      "identity": {
+        "capturedAfterRun": true,
+        "containerId": "8b709634564165788581313df61ddc7dea016fffd35470bed7127b995ba06ea6",
+        "imageId": "sha256:18158429ac730c34bff399229105a984974b1a921fd626a45e6ec062bc08cdfa",
+        "binarySha256": "401c363aaccbf271dbfbae57d6aa434c344835edc8f830cc4a9d33d2d884d08f",
+        "site": "/work/input-100",
+        "memoryLimitBytes": 15032385536,
+        "totalRamAndSwapLimitBytes": 15032385536,
+        "cpuQuotaNanoCPUs": 4000000000,
+        "startedAt": "2026-11-02T06:26:13.683501788Z",
+        "finishedAt": "2026-11-02T06:27:50.531615459Z",
+        "concurrentCompile": false
+      }
+    },
+    {
+      "label": "shard-1",
+      "exitCode": 0,
+      "indexedPages": 3315,
+      "wallSeconds": 23,
+      "cgroupPeak": 5970276352,
+      "sampledRssPeakBytes": 5753393152,
+      "sampledProcessRssPlusSwapPeakBytes": 5753393152,
+      "sampledAnonymousPlusSwapPeakBytes": 5702184960,
+      "sampledSwapPeakBytes": 0,
+      "events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0",
+      "phases": {
+        "[Walking source directory]": {
+          "samples": 1,
+          "maxSampledAnonymousPlusSwap": 5726208
+        },
+        "[Parsing files]": {
+          "samples": 5,
+          "maxSampledAnonymousPlusSwap": 1960636416
+        },
+        "[Building search indexes]": {
+          "samples": 15,
+          "maxSampledAnonymousPlusSwap": 5702184960
+        }
+      },
+      "identity": {
+        "capturedAfterRun": true,
+        "containerId": "0fd5e45b3209688bf79bb1fb470445e381d53a0657c685319095174495f3eb03",
+        "imageId": "sha256:18158429ac730c34bff399229105a984974b1a921fd626a45e6ec062bc08cdfa",
+        "binarySha256": "70cb6d23d6508bb18e77fd5403e99d7ede0ae9d2eef1ab9f049411e0c12ec380",
+        "site": "/work/input-shard-1",
+        "memoryLimitBytes": 8589934592,
+        "totalRamAndSwapLimitBytes": 8589934592,
+        "cpuQuotaNanoCPUs": 4000000000,
+        "startedAt": "2026-11-02T09:11:51.328054596Z",
+        "finishedAt": "2026-11-02T09:12:14.568713236Z",
+        "concurrentCompile": false
+      }
+    },
+    {
+      "label": "shard-2",
+      "exitCode": 0,
+      "indexedPages": 3423,
+      "wallSeconds": 24,
+      "cgroupPeak": 6165692416,
+      "sampledRssPeakBytes": 6022234112,
+      "sampledProcessRssPlusSwapPeakBytes": 6022234112,
+      "sampledAnonymousPlusSwapPeakBytes": 5968592896,
+      "sampledSwapPeakBytes": 0,
+      "events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0",
+      "phases": {
+        "[Walking source directory]": {
+          "samples": 1,
+          "maxSampledAnonymousPlusSwap": 7061504
+        },
+        "[Parsing files]": {
+          "samples": 5,
+          "maxSampledAnonymousPlusSwap": 1989128192
+        },
+        "[Building search indexes]": {
+          "samples": 16,
+          "maxSampledAnonymousPlusSwap": 5968592896
+        }
+      },
+      "identity": {
+        "capturedAfterRun": true,
+        "containerId": "9a5d2493ce3ddac0779c881adc7e9304710a40cf9b55b2911e633c385a2f86c2",
+        "imageId": "sha256:18158429ac730c34bff399229105a984974b1a921fd626a45e6ec062bc08cdfa",
+        "binarySha256": "70cb6d23d6508bb18e77fd5403e99d7ede0ae9d2eef1ab9f049411e0c12ec380",
+        "site": "/work/input-shard-2",
+        "memoryLimitBytes": 8589934592,
+        "totalRamAndSwapLimitBytes": 8589934592,
+        "cpuQuotaNanoCPUs": 4000000000,
+        "startedAt": "2026-11-02T09:12:14.705142369Z",
+        "finishedAt": "2026-11-02T09:12:38.985345431Z",
+        "concurrentCompile": false
+      }
+    },
+    {
+      "label": "shard-3",
+      "exitCode": 0,
+      "indexedPages": 3276,
+      "wallSeconds": 23,
+      "cgroupPeak": 5785157632,
+      "sampledRssPeakBytes": 5646487552,
+      "sampledProcessRssPlusSwapPeakBytes": 5646487552,
+      "sampledAnonymousPlusSwapPeakBytes": 5592051712,
+      "sampledSwapPeakBytes": 0,
+      "events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0",
+      "phases": {
+        "[Walking source directory]": {
+          "samples": 1,
+          "maxSampledAnonymousPlusSwap": 6864896
+        },
+        "[Parsing files]": {
+          "samples": 4,
+          "maxSampledAnonymousPlusSwap": 1588498432
+        },
+        "[Reading languages]": {
+          "samples": 1,
+          "maxSampledAnonymousPlusSwap": 2165534720
+        },
+        "[Building search indexes]": {
+          "samples": 15,
+          "maxSampledAnonymousPlusSwap": 5592051712
+        }
+      },
+      "identity": {
+        "capturedAfterRun": true,
+        "containerId": "62b6c81fea31c5dbae14c8611347795878b702b499fa20f026eaaf74d20ba649",
+        "imageId": "sha256:18158429ac730c34bff399229105a984974b1a921fd626a45e6ec062bc08cdfa",
+        "binarySha256": "70cb6d23d6508bb18e77fd5403e99d7ede0ae9d2eef1ab9f049411e0c12ec380",
+        "site": "/work/input-shard-3",
+        "memoryLimitBytes": 8589934592,
+        "totalRamAndSwapLimitBytes": 8589934592,
+        "cpuQuotaNanoCPUs": 4000000000,
+        "startedAt": "2026-11-02T09:12:39.128554669Z",
+        "finishedAt": "2026-11-02T09:13:02.399017332Z",
+        "concurrentCompile": false
+      }
+    },
+    {
+      "label": "source-100",
+      "exitCode": 0,
+      "indexedPages": 13300,
+      "wallSeconds": 107,
+      "cgroupPeak": 15032385536,
+      "sampledRssPeakBytes": 15023710208,
+      "sampledProcessRssPlusSwapPeakBytes": 20227149824,
+      "sampledAnonymousPlusSwapPeakBytes": 20200398848,
+      "sampledSwapPeakBytes": 7273709568,
+      "events": "low 0\nhigh 0\nmax 10232\noom 0\noom_kill 0\noom_group_kill 0\nsock_throttled 0",
+      "phases": {
+        "[Walking source directory]": {
+          "samples": 1,
+          "maxSampledAnonymousPlusSwap": 9232384
+        },
+        "[Parsing files]": {
+          "samples": 22,
+          "maxSampledAnonymousPlusSwap": 7203450880
+        },
+        "[Reading languages]": {
+          "samples": 2,
+          "maxSampledAnonymousPlusSwap": 12672876544
+        },
+        "[Building search indexes]": {
+          "samples": 67,
+          "maxSampledAnonymousPlusSwap": 20200398848
+        },
+        "Finished in 102.806 seconds": {
+          "samples": 4,
+          "maxSampledAnonymousPlusSwap": 9996783616
+        }
+      },
+      "identity": {
+        "capturedAfterRun": true,
+        "containerId": "e2213fca044e062ea8649a33d04598325a4d57963c8bd90e5c9c96b997c554e5",
+        "imageId": "sha256:18158429ac730c34bff399229105a984974b1a921fd626a45e6ec062bc08cdfa",
+        "binarySha256": "f860b1a272c85af97973ccaf52e68302710652cfb3a65af4580ef330e3c5ca4e",
+        "site": "/work/input-100",
+        "memoryLimitBytes": 15032385536,
+        "totalRamAndSwapLimitBytes": 23622320128,
+        "cpuQuotaNanoCPUs": 4000000000,
+        "startedAt": "2026-11-02T06:19:58.225083152Z",
+        "finishedAt": "2026-11-02T06:21:45.627102447Z",
+        "concurrentCompile": false
+      }
+    }
+  ],
+  "inputs": {
+    "siteSha": "5bfab2ddfdc8e5612ae901d6e1da2267b746d59f",
+    "contentSha": "ae50e2b7d476a3334bf0c6715d7c3e86448a8ce5",
+    "pagefind": "1.5.2 extended",
+    "rust": "1.95.0 x86_64-unknown-linux-musl",
+    "nodeImageId": "sha256:18158429ac730c34bff399229105a984974b1a921fd626a45e6ec062bc08cdfa",
+    "nodeImageRepositoryDigest": "node@sha256:bfb78a64f53d36c691f27dceecc9d4e73b3526411e1cee6fdf8d981d06fb2eb7",
+    "rustImageRepositoryDigest": "rust@sha256:606fd313a0f49743ee2a7bd49a0914bab7deedb12791f3a846a34a4711db7ed2",
+    "crateSha256": "aa7d3c661e0e18b6c9eec1305908baf2bd9564af247727f9e7f4b4d25cd2da39",
+    "cargoLockSha256": "a90696e3544f7fc3db7250f17203f30609c3b142105cda24fd1565f2799d6151",
+    "binaries": {
+      "official": "70cb6d23d6508bb18e77fd5403e99d7ede0ae9d2eef1ab9f049411e0c12ec380",
+      "baseline": "f860b1a272c85af97973ccaf52e68302710652cfb3a65af4580ef330e3c5ca4e",
+      "patched": "401c363aaccbf271dbfbae57d6aa434c344835edc8f830cc4a9d33d2d884d08f",
+      "batched": "251d776acdf922b23f4470e71b0ad858e0c7c0f4e17f22ce60c214ba1fc28473"
+    }
+  },
+  "caveats": [
+    "Early official-25 and official-50 ran with a concurrent compiler in another cgroup; their caps did not bind and swap stayed zero. Timing is not an uncontended benchmark.",
+    "official-100 exited137 while compilation was active; exclude it from baseline sizing. The isolated official-100-solo later passed.",
+    "Samples are one local run per variant unless explicitly labeled otherwise; no allocation profile or future-corpus memory guarantee.",
+    "Native CI acceptance is separate and is recorded by the pull request checks."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "sourceSha": "ae50e2b7d476a3334bf0c6715d7c3e86448a8ce5",
+  "scope": "Last300 commits reachable from fixed snapshot, not current production and not a live deployment history; path mapping only counts pages eligible in the final snapshot and can miss deleted/renamed historical pages.",
+  "commits": 300,
+  "oldest": "2026-10-31T07:17:53-04:00",
+  "newest": "2026-11-01T18:29:16-05:00",
+  "commitsOnlyWorkingSubtitleFiles": 49,
+  "commitsWithMarkdown": 123,
+  "commitsTouchingCurrentlyEligiblePage": 123,
+  "commitsWithOneEligibleShard": 123,
+  "commitsWithAllFourEligibleShards": 0,
+  "hourlyEstimate": {
+    "activeUtcHourBuckets": 17,
+    "dirtyShardCounts": {
+      "1": 5,
+      "2": 4,
+      "3": 5,
+      "4": 3
+    },
+    "changedPages": 120,
+    "averageDirtyShardsPerActiveHour": 2.3529411764705883,
+    "note": "UTC hour buckets, not exact production build intervals; first and last buckets may be partial. Re-rendered shared metadata can dirty more pages than this direct source-path estimate."
+  },
+  "appendOnlyCheck": {
+    "scope": "Last1000 reachable commits at fixed content snapshot; all Markdown except working subtitle directories, not exactly current index eligibility.",
+    "markdownChangeRecords": {
+      "A": 300,
+      "M": 219
+    },
+    "uniquePaths": 468,
+    "pathsWithMultipleChanges": 17
+  }
+}

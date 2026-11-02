@@ -1,0 +1,12 @@
+{
+  "left": "/Users/leipeng/Documents/Projects/thought-foundry/.native-build/pagefind-scale-20261102/results/official-100-solo/index",
+  "right": "/Users/leipeng/Documents/Projects/thought-foundry/.native-build/pagefind-scale-20261102/results/source-100/index",
+  "totalFiles": 16543,
+  "exactStablePayloadMatches": 16539,
+  "exactFragmentMatches": 13300,
+  "canonicalURLCount": 13300,
+  "decodedFilterMatches": 2,
+  "normalizedMetadataEqual": true,
+  "normalizedEntryEqual": true,
+  "normalization": "Only filter value ordering, meta filter ordering, and their verified hash references. Pagefind 1.5.2 index/mod.rs has an explicit TODO to stabilize filter hashes. The packaged WASM gzip header may differ; its decompressed payload is byte-identical. Every fragment, term-index chunk and other browser asset remains byte-identical."
+}

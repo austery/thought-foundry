@@ -1,0 +1,79 @@
+--- a/src/lib.rs
++++ b/src/lib.rs
+@@ -130,6 +130,14 @@
+     }
+ 
+     pub async fn build_indexes(&mut self) -> Result<()> {
++        self.build_indexes_with_ownership(false).await
++    }
++
++    pub(crate) async fn build_indexes_consuming(&mut self) -> Result<()> {
++        self.build_indexes_with_ownership(true).await
++    }
++
++    async fn build_indexes_with_ownership(&mut self, consume: bool) -> Result<()> {
+         let log = &self.options.logger;
+ 
+         let used_custom_body = self.fossicked_pages.iter().any(|page| page.has_custom_body);
+@@ -162,20 +170,21 @@
+ 
+         log.status("[Reading languages]");
+ 
+-        let pages_with_data = self.fossicked_pages.iter().filter(|d| {
+-            if used_custom_body && !d.has_custom_body && !d.force_inclusion {
+-                return false;
+-            }
+-            !d.word_data.is_empty()
+-        });
+-
++        let eligible = |d: &fossick::FossickedData| {
++            !(used_custom_body && !d.has_custom_body && !d.force_inclusion)
++                && !d.word_data.is_empty()
++        };
+         let mut language_map: HashMap<String, Vec<fossick::FossickedData>> = HashMap::new();
+-        for page in pages_with_data {
+-            let language = page.language.clone();
+-            if let Some(lang_pages) = language_map.get_mut(&language) {
+-                lang_pages.push(page.clone());
+-            } else {
+-                language_map.insert(language, vec![page.clone()]);
++        if consume {
++            for page in std::mem::take(&mut self.fossicked_pages)
++                .into_iter()
++                .filter(eligible)
++            {
++                language_map.entry(page.language.clone()).or_default().push(page);
++            }
++        } else {
++            for page in self.fossicked_pages.iter().filter(|page| eligible(page)) {
++                language_map.entry(page.language.clone()).or_default().push(page.clone());
+             }
+         }
+ 
+--- a/src/runner.rs
++++ b/src/runner.rs
+@@ -90,18 +90,18 @@
+                         );
+                 }
+ 
+-                runner.build_indexes().await?;
++                let has_default_ui = runner
++                    .fossicked_pages
++                    .iter()
++                    .any(|p| p.has_default_ui_reference);
++
++                runner.build_indexes_consuming().await?;
+                 _ = &runner.write_files(None).await;
+ 
+                 if use_old_bundle {
+                     let old_bundle_location = options.site_source.join("_pagefind");
+                     _ = &runner.write_files(Some(old_bundle_location)).await;
+                 }
+-
+-                let has_default_ui = runner
+-                    .fossicked_pages
+-                    .iter()
+-                    .any(|p| p.has_default_ui_reference);
+ 
+                 if has_default_ui {
+                     logger.status(&crate::logging::boxed(
