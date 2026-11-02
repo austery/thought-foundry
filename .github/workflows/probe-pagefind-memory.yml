@@ -32,6 +32,7 @@ jobs:
         run: |
           set -euo pipefail
           pnpm exec tsc --noEmit --strict --module NodeNext --moduleResolution NodeNext --target ES2022 --skipLibCheck experiments/pagefind-memory/*.ts
+          mkdir ../.memory-probe
           pnpm exec node --import tsx src/release-cli.ts stage-source .. ../.memory-probe/source
           pnpm prepare-site ../.memory-probe/source ../.memory-probe/staging
           hugo --source ../.memory-probe/staging --destination "$GITHUB_WORKSPACE/.memory-probe/public"
