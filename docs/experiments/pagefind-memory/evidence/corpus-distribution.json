@@ -1,0 +1,118 @@
+{
+  "input": "/Users/leipeng/Documents/Projects/thought-foundry/.native-build/pagefind-scale-20261102/public",
+  "method": "SHA-256 of original relative HTML path modulo 4; nested whole-document subsets; only explicit data-pagefind-body pages; HTML bytes include markup and are not token counts.",
+  "eligiblePages": 13300,
+  "samples": [
+    {
+      "label": "25",
+      "root": "/Users/leipeng/Documents/Projects/thought-foundry/.native-build/pagefind-scale-20261102/input-25",
+      "pages": 3286,
+      "htmlBytes": 162371280,
+      "medianBytes": 34177,
+      "p95Bytes": 139561,
+      "maxBytes": 1049617,
+      "kinds": {
+        "clippings": 540,
+        "notes": 2701,
+        "podcasts": 13,
+        "posts": 31,
+        "index.html": 1
+      }
+    },
+    {
+      "label": "50",
+      "root": "/Users/leipeng/Documents/Projects/thought-foundry/.native-build/pagefind-scale-20261102/input-50",
+      "pages": 6601,
+      "htmlBytes": 320100198,
+      "medianBytes": 33738,
+      "p95Bytes": 134444,
+      "maxBytes": 1223984,
+      "kinds": {
+        "clippings": 1113,
+        "notes": 5376,
+        "podcasts": 35,
+        "posts": 76,
+        "index.html": 1
+      }
+    },
+    {
+      "label": "100",
+      "root": "/Users/leipeng/Documents/Projects/thought-foundry/.native-build/pagefind-scale-20261102/input-100",
+      "pages": 13300,
+      "htmlBytes": 641074179,
+      "medianBytes": 33616,
+      "p95Bytes": 133726,
+      "maxBytes": 1223984,
+      "kinds": {
+        "clippings": 2213,
+        "notes": 10873,
+        "podcasts": 70,
+        "posts": 142,
+        "src": 1,
+        "index.html": 1
+      }
+    },
+    {
+      "label": "shard-0",
+      "root": "/Users/leipeng/Documents/Projects/thought-foundry/.native-build/pagefind-scale-20261102/input-shard-0",
+      "pages": 3286,
+      "htmlBytes": 162371280,
+      "medianBytes": 34177,
+      "p95Bytes": 139561,
+      "maxBytes": 1049617,
+      "kinds": {
+        "clippings": 540,
+        "notes": 2701,
+        "podcasts": 13,
+        "posts": 31,
+        "index.html": 1
+      }
+    },
+    {
+      "label": "shard-1",
+      "root": "/Users/leipeng/Documents/Projects/thought-foundry/.native-build/pagefind-scale-20261102/input-shard-1",
+      "pages": 3315,
+      "htmlBytes": 157728918,
+      "medianBytes": 33318,
+      "p95Bytes": 129592,
+      "maxBytes": 1223984,
+      "kinds": {
+        "clippings": 573,
+        "notes": 2675,
+        "podcasts": 22,
+        "posts": 45
+      }
+    },
+    {
+      "label": "shard-2",
+      "root": "/Users/leipeng/Documents/Projects/thought-foundry/.native-build/pagefind-scale-20261102/input-shard-2",
+      "pages": 3423,
+      "htmlBytes": 166455235,
+      "medianBytes": 33580,
+      "p95Bytes": 135431,
+      "maxBytes": 712296,
+      "kinds": {
+        "clippings": 561,
+        "notes": 2811,
+        "podcasts": 18,
+        "posts": 33
+      }
+    },
+    {
+      "label": "shard-3",
+      "root": "/Users/leipeng/Documents/Projects/thought-foundry/.native-build/pagefind-scale-20261102/input-shard-3",
+      "pages": 3276,
+      "htmlBytes": 154518746,
+      "medianBytes": 33483,
+      "p95Bytes": 131198,
+      "maxBytes": 838833,
+      "kinds": {
+        "clippings": 539,
+        "notes": 2686,
+        "podcasts": 17,
+        "posts": 33,
+        "src": 1
+      }
+    }
+  ]
+}

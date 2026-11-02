@@ -1,0 +1,10 @@
+{
+  "scope": "Fixed ae50 corpus: DOM text under explicit Pagefind body with ignored descendants removed; normalized whitespace; NOT Pagefind tokenizer output or a source-content change.",
+  "pages": 13300,
+  "pagesWithEnglishOriginal": 3998,
+  "normalizedBodyTextBytes": 449125691,
+  "englishOriginalTextBytes": 121536099,
+  "englishByteShare": 0.27060598276930903,
+  "unknownOriginalTextBytes": 93455,
+  "interpretation": "Cross-language original text is part of the current full-text contract; this quantifies a product trade-off, not authorization to omit it."
+}

@@ -1,0 +1,341 @@
+{
+  "method": "Offline Node execution of actual generated browser bundles. File-fetch counts and compressed bytes approximate requested assets, excluding HTTP headers and JavaScript module load. This is not a browser latency, HTTP cache or mobile-memory benchmark. Query membership uses URL sets mapped from fragment IDs; ranking uses returned order. The full query sequence and six separate cold-process measurements are retained.",
+  "queries": 350,
+  "coverage": {
+    "baselinePages": 13300,
+    "shardPages": 13300,
+    "uniqueShardURLs": 13300,
+    "identicalFragmentPayloads": 13300
+  },
+  "allGlobalFilterCountsEqual": true,
+  "membershipDifferenceCount": 71,
+  "responseFacetOnlyDifferenceCount": 6,
+  "phraseQueriesWithMatchingMembership": 99,
+  "sourceOnlyQueries": 32,
+  "sourceOnlyExactTop10": 2,
+  "meanTop10OverlapNonemptyBaseline": 0.647586653709103,
+  "rawSummarySha256": "3847c2a69dba080bda0c4d1b2becd59141a8285f2f285c74de074c783db2492e",
+  "rawEvidenceRoot": ".native-build/pagefind-scale-20261102/",
+  "freshProcessCounterexamples": [
+    {
+      "q": "\u5361\u4ec0",
+      "coldBaselineCount": 2675,
+      "coldMergedCount": 3993,
+      "addedCount": 1318,
+      "removedCount": 0,
+      "verifiedExamples": [
+        {
+          "expectedURL": "/content/notes/6Is6hKJhprE/",
+          "actualURL": "/content/notes/6Is6hKJhprE/",
+          "contentSha256": "788cb9c14365dd434c9672a10f8df73565e5264f30fc108d4080b3dd18d7824f"
+        },
+        {
+          "expectedURL": "/content/notes/2feT7_pjxA8/",
+          "actualURL": "/content/notes/2feT7_pjxA8/",
+          "contentSha256": "0a276bbf6c3678a4e018dd10a8ba14f44b93f3c9d6b4c53cb284b3ec0df279e6"
+        },
+        {
+          "expectedURL": "/content/notes/JSMUrVjHjuo/",
+          "actualURL": "/content/notes/JSMUrVjHjuo/",
+          "contentSha256": "52037f567e7f1897e2769fcd013c44eccc22ef3f8c0711bd32b271ad5a9f10d1"
+        }
+      ]
+    },
+    {
+      "q": "\u5b89\u5927\u7565",
+      "coldBaselineCount": 9,
+      "coldMergedCount": 3,
+      "addedCount": 0,
+      "removedCount": 6,
+      "verifiedExamples": [
+        {
+          "expectedURL": "/content/notes/5e-c1isBijI/",
+          "actualURL": "/content/notes/5e-c1isBijI/",
+          "contentSha256": "e93fffc72ce0c327e895f598d30417068ab14c434576447803527124561a4d07"
+        },
+        {
+          "expectedURL": "/content/notes/ztgOZpDKhg8/",
+          "actualURL": "/content/notes/ztgOZpDKhg8/",
+          "contentSha256": "864ef095de649a5749a5a490ad34b29c5f37b68246ac70f8debace4ce71a8f6a"
+        },
+        {
+          "expectedURL": "/content/podcasts/article/pod_usdrkgnkglrlol7wmyg8ybn0/",
+          "actualURL": "/content/podcasts/article/pod_usdrkgnkglrlol7wmyg8ybn0/",
+          "contentSha256": "c4d3ac8b71c8569ff04a6ad3200b5f690544bfb0fe5df672076dc5f14e4a7b23"
+        }
+      ]
+    },
+    {
+      "q": "AI Sol",
+      "coldBaselineCount": 94,
+      "coldMergedCount": 2283,
+      "addedCount": 2189,
+      "removedCount": 0,
+      "verifiedExamples": [
+        {
+          "expectedURL": "/content/notes/8_68vS4mhuI/",
+          "actualURL": "/content/notes/8_68vS4mhuI/",
+          "contentSha256": "56710075894bb29782f60b5270a47833217efbf16a044e30364abde4658b9e20"
+        },
+        {
+          "expectedURL": "/content/posts/anatoly_yakovenko_solana_crypto_ai_quantum_future/",
+          "actualURL": "/content/posts/anatoly_yakovenko_solana_crypto_ai_quantum_future/",
+          "contentSha256": "cb19d40bf88d2702397e4dc48e5dc31a5e822bfec19ce176ddb60e7e80eeabac"
+        },
+        {
+          "expectedURL": "/content/notes/OOMx2BHHWtE/",
+          "actualURL": "/content/notes/OOMx2BHHWtE/",
+          "contentSha256": "6cc9a4669581fcc2e329360f9a3cc91ca043b41beb3348e4b4bb37a89e762ad9"
+        }
+      ]
+    }
+  ],
+  "coldQueries": [
+    {
+      "q": "\u5bb6\u5ead\u5173\u7cfb",
+      "queryByteRatio": 2.14622924584917,
+      "initializationAndQueryByteRatio": 1.4918504172001892,
+      "baseline": {
+        "initialization": {
+          "requests": 5,
+          "bytes": 253793
+        },
+        "filterInitialization": {
+          "requests": 0,
+          "bytes": 0
+        },
+        "query": {
+          "requests": 2,
+          "bytes": 149970
+        },
+        "warm": {
+          "requests": 0,
+          "bytes": 0
+        }
+      },
+      "merged": {
+        "initialization": {
+          "requests": 11,
+          "bytes": 253135
+        },
+        "filterInitialization": {
+          "requests": 6,
+          "bytes": 27349
+        },
+        "query": {
+          "requests": 8,
+          "bytes": 321870
+        },
+        "warm": {
+          "requests": 0,
+          "bytes": 0
+        }
+      }
+    },
+    {
+      "q": "\"\u5bb6\u5ead\u5173\u7cfb\"",
+      "queryByteRatio": 2.14622924584917,
+      "initializationAndQueryByteRatio": 1.4918504172001892,
+      "baseline": {
+        "initialization": {
+          "requests": 5,
+          "bytes": 253793
+        },
+        "filterInitialization": {
+          "requests": 0,
+          "bytes": 0
+        },
+        "query": {
+          "requests": 2,
+          "bytes": 149970
+        },
+        "warm": {
+          "requests": 0,
+          "bytes": 0
+        }
+      },
+      "merged": {
+        "initialization": {
+          "requests": 11,
+          "bytes": 253135
+        },
+        "filterInitialization": {
+          "requests": 6,
+          "bytes": 27349
+        },
+        "query": {
+          "requests": 8,
+          "bytes": 321870
+        },
+        "warm": {
+          "requests": 0,
+          "bytes": 0
+        }
+      }
+    },
+    {
+      "q": "\u6559\u80b2",
+      "queryByteRatio": 3.185763196034363,
+      "initializationAndQueryByteRatio": 1.4338159667155492,
+      "baseline": {
+        "initialization": {
+          "requests": 5,
+          "bytes": 253793
+        },
+        "filterInitialization": {
+          "requests": 0,
+          "bytes": 0
+        },
+        "query": {
+          "requests": 1,
+          "bytes": 47609
+        },
+        "warm": {
+          "requests": 0,
+          "bytes": 0
+        }
+      },
+      "merged": {
+        "initialization": {
+          "requests": 11,
+          "bytes": 253135
+        },
+        "filterInitialization": {
+          "requests": 6,
+          "bytes": 27349
+        },
+        "query": {
+          "requests": 4,
+          "bytes": 151671
+        },
+        "warm": {
+          "requests": 0,
+          "bytes": 0
+        }
+      }
+    },
+    {
+      "q": "\u6781\u5bd2\u672b\u4e16",
+      "queryByteRatio": 2.9985439786349612,
+      "initializationAndQueryByteRatio": 1.7547742179290067,
+      "baseline": {
+        "initialization": {
+          "requests": 5,
+          "bytes": 253793
+        },
+        "filterInitialization": {
+          "requests": 0,
+          "bytes": 0
+        },
+        "query": {
+          "requests": 3,
+          "bytes": 132553
+        },
+        "warm": {
+          "requests": 0,
+          "bytes": 0
+        }
+      },
+      "merged": {
+        "initialization": {
+          "requests": 11,
+          "bytes": 253135
+        },
+        "filterInitialization": {
+          "requests": 6,
+          "bytes": 27349
+        },
+        "query": {
+          "requests": 12,
+          "bytes": 397466
+        },
+        "warm": {
+          "requests": 0,
+          "bytes": 0
+        }
+      }
+    },
+    {
+      "q": "Futu",
+      "queryByteRatio": 4.341417415647562,
+      "initializationAndQueryByteRatio": 1.486855641439137,
+      "baseline": {
+        "initialization": {
+          "requests": 5,
+          "bytes": 253793
+        },
+        "filterInitialization": {
+          "requests": 0,
+          "bytes": 0
+        },
+        "query": {
+          "requests": 1,
+          "bytes": 33935
+        },
+        "warm": {
+          "requests": 0,
+          "bytes": 0
+        }
+      },
+      "merged": {
+        "initialization": {
+          "requests": 11,
+          "bytes": 253135
+        },
+        "filterInitialization": {
+          "requests": 6,
+          "bytes": 27349
+        },
+        "query": {
+          "requests": 4,
+          "bytes": 147326
+        },
+        "warm": {
+          "requests": 0,
+          "bytes": 0
+        }
+      }
+    },
+    {
+      "q": "\"zzzxqvnonexistenttermzzzxqv\"",
+      "queryByteRatio": 4.154796094198736,
+      "initializationAndQueryByteRatio": 1.5362765032461931,
+      "baseline": {
+        "initialization": {
+          "requests": 5,
+          "bytes": 253793
+        },
+        "filterInitialization": {
+          "requests": 0,
+          "bytes": 0
+        },
+        "query": {
+          "requests": 1,
+          "bytes": 41784
+        },
+        "warm": {
+          "requests": 0,
+          "bytes": 0
+        }
+      },
+      "merged": {
+        "initialization": {
+          "requests": 11,
+          "bytes": 253135
+        },
+        "filterInitialization": {
+          "requests": 6,
+          "bytes": 27349
+        },
+        "query": {
+          "requests": 4,
+          "bytes": 173604
+        },
+        "warm": {
+          "requests": 0,
+          "bytes": 0
+        }
+      }
+    }
+  ]
+}

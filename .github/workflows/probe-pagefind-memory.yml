@@ -1,0 +1,127 @@
+name: Probe Pagefind memory
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/probe-pagefind-memory.yml'
+      - 'native/experiments/pagefind-memory/**'
+      - 'docs/experiments/pagefind-memory/**'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: pagefind-memory-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  probe:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Checkout fixed experimental content
+        uses: actions/checkout@v4
+        with:
+          repository: austery/thought-foundry-content
+          ref: ae50e2b7d476a3334bf0c6715d7c3e86448a8ce5
+          path: src/content
+          persist-credentials: false
+      - uses: ./.github/actions/setup-native
+      - name: Check experimental tools and render fixed corpus
+        working-directory: native
+        run: |
+          set -euo pipefail
+          pnpm exec tsc --noEmit --strict --module NodeNext --moduleResolution NodeNext --target ES2022 --skipLibCheck experiments/pagefind-memory/*.ts
+          mkdir ../.memory-probe
+          pnpm exec node --import tsx src/release-cli.ts stage-source .. ../.memory-probe/source
+          pnpm prepare-site ../.memory-probe/source ../.memory-probe/staging
+          hugo --source ../.memory-probe/staging --destination "$GITHUB_WORKSPACE/.memory-probe/public"
+          pnpm restore ../.memory-probe/staging ../.memory-probe/public
+          pnpm exec node --import tsx experiments/pagefind-memory/prepare.ts ../.memory-probe/public ../.memory-probe
+      - name: Build pinned baseline and experimental binary
+        run: sh native/experiments/pagefind-memory/build-prototype.sh .memory-probe
+      - name: Reserve swap for unmodified baseline only
+        id: swap
+        run: |
+          set -euo pipefail
+          free -h
+          df -h "$RUNNER_TEMP"
+          probe_swap_file="$(mktemp "$RUNNER_TEMP/pagefind-probe.XXXXXX")"
+          echo "path=$probe_swap_file" >> "$GITHUB_OUTPUT"
+          sudo fallocate -l 8G "$probe_swap_file"
+          sudo chmod 600 "$probe_swap_file"
+          sudo mkswap "$probe_swap_file"
+          sudo swapon "$probe_swap_file"
+      - name: Compare full builds with two bounded candidate runs
+        run: |
+          set -euo pipefail
+          sh native/experiments/pagefind-memory/run.sh .memory-probe baseline-100 binaries/baseline/pagefind input-100 14g 22g
+          sh native/experiments/pagefind-memory/run.sh .memory-probe candidate-100 binaries/batched/pagefind input-100 10g 10g
+          sh native/experiments/pagefind-memory/run.sh .memory-probe candidate-100-repeat binaries/batched/pagefind input-100 10g 10g
+          cd native
+          for candidate in candidate-100 candidate-100-repeat; do
+            pnpm exec node --import tsx experiments/pagefind-memory/compare.ts "../.memory-probe/results/baseline-100/index" "../.memory-probe/results/$candidate/index" "../.memory-probe/$candidate-comparison.json"
+          done
+          pnpm exec node --import tsx experiments/pagefind-memory/query-index.ts ../.memory-probe/results/baseline-100/index ../.memory-probe/query-baseline.json
+          pnpm exec node --import tsx experiments/pagefind-memory/query-index.ts ../.memory-probe/results/candidate-100/index ../.memory-probe/query-candidate.json
+          node --input-type=module -e 'import assert from "node:assert/strict"; import fs from "node:fs"; assert.deepEqual(JSON.parse(fs.readFileSync("../.memory-probe/query-baseline.json")),JSON.parse(fs.readFileSync("../.memory-probe/query-candidate.json")));'
+          pnpm exec node --import tsx experiments/pagefind-memory/summarize.ts ../.memory-probe
+      - name: Check CLI branches and service lifecycle
+        working-directory: native
+        run: |
+          set -euo pipefail
+          pnpm exec tsc --strict --module NodeNext --moduleResolution NodeNext --target ES2022 --skipLibCheck --outDir ../.memory-probe/test-dist experiments/pagefind-memory/service-check.ts
+          echo '{"type":"module"}' > ../.memory-probe/test-dist/package.json
+          cp -R ../docs/experiments/pagefind-memory/fixture ../.memory-probe/fixture
+          cp -R ../docs/experiments/pagefind-memory/compat-fallback ../.memory-probe/compat-fallback
+          cp -R ../docs/experiments/pagefind-memory/compat-empty ../.memory-probe/compat-empty
+          probe_root="$GITHUB_WORKSPACE/.memory-probe"
+          wrapper="$(realpath node_modules/pagefind)"
+          for variant in baseline batched; do
+            mkdir -p "$probe_root/validation/$variant"
+            docker run --name "tf-pf-probe-service-$variant" --network none --cpus 2 --memory 2g --memory-swap 2g --read-only --tmpfs /tmp:rw,size=64m \
+              -v "$probe_root:/work:ro" -v "$probe_root/validation/$variant:/result" -v "$wrapper:/wrapper:ro" \
+              -v "$GITHUB_WORKSPACE/native/experiments/pagefind-memory:/scripts:ro" \
+              -e "PF_BINARY=/work/binaries/$variant/pagefind" -e "PAGEFIND_EXTENDED_BINARY_PATH=/work/binaries/$variant/pagefind" \
+              node@sha256:bfb78a64f53d36c691f27dceecc9d4e73b3526411e1cee6fdf8d981d06fb2eb7 sh -ec 'sh /scripts/fixture-check.sh; sh /scripts/fallback-check.sh'
+          done
+          node --input-type=module -e 'import assert from "node:assert/strict"; import fs from "node:fs"; assert.deepEqual(JSON.parse(fs.readFileSync("../.memory-probe/validation/baseline/service/service-check.json")),JSON.parse(fs.readFileSync("../.memory-probe/validation/batched/service/service-check.json"))); assert.equal(fs.readFileSync("../.memory-probe/validation/baseline/empty-exit-code.txt","utf8"),fs.readFileSync("../.memory-probe/validation/batched/empty-exit-code.txt","utf8"));'
+          pnpm exec node --import tsx experiments/pagefind-memory/compare.ts ../.memory-probe/validation/baseline/site/pagefind ../.memory-probe/validation/batched/site/pagefind ../.memory-probe/fixture-comparison.json
+          pnpm exec node --import tsx experiments/pagefind-memory/compare.ts ../.memory-probe/validation/baseline/fallback ../.memory-probe/validation/batched/fallback ../.memory-probe/fallback-comparison.json
+      - name: Release task containers
+        if: always()
+        run: |
+          set -euo pipefail
+          for probe_container in tf-pf-prototype-build-baseline tf-pf-prototype-build-batched tf-pf-scale-baseline-100 tf-pf-scale-candidate-100 tf-pf-scale-candidate-100-repeat tf-pf-probe-service-baseline tf-pf-probe-service-batched; do
+            if docker inspect "$probe_container" >/dev/null 2>&1; then
+              docker stop "$probe_container" >/dev/null
+              docker rm "$probe_container"
+            fi
+          done
+      - name: Retain measurement evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pagefind-memory-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            .memory-probe/*.json
+            .memory-probe/*.log
+            .memory-probe/*checksums.txt
+            .memory-probe/results/*/*.json
+            .memory-probe/results/*/*.tsv
+            .memory-probe/results/*/*.txt
+            .memory-probe/results/*/*.log
+            .memory-probe/validation/*/*.log
+            .memory-probe/validation/*/*.txt
+            .memory-probe/validation/*/service/service-check.json
+          include-hidden-files: true
+          retention-days: 90
+      - name: Release temporary swap
+        if: always() && steps.swap.outputs.path != ''
+        env:
+          PROBE_SWAP_FILE: ${{ steps.swap.outputs.path }}
+        run: |
+          set -euo pipefail
+          active_probe_swap="$(swapon --noheadings --raw --show=NAME)"
+          if printf '%s\n' "$active_probe_swap" | grep -Fxq -- "$PROBE_SWAP_FILE"; then sudo swapoff "$PROBE_SWAP_FILE"; fi
+          rm -- "$PROBE_SWAP_FILE"
