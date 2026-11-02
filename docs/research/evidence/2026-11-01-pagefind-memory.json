@@ -1,0 +1,130 @@
+{
+  "siteSha": "29865de9d878bfc0c3d507ca49953b23272172c0",
+  "contentSha": "ae50e2b7d476a3334bf0c6715d7c3e86448a8ce5",
+  "environment": "Linux amd64 image and binaries on an arm64 OrbStack host; 4 CPU quota; no CI-host equivalence claim",
+  "image": "node:26.12.0-bookworm@sha256:18158429ac730c34bff399229105a984974b1a921fd626a45e6ec062bc08cdfa",
+  "runs": [
+    {
+      "name": "v152-t4",
+      "version": "1.5.2",
+      "threads": 4,
+      "memoryLimitGiB": 14,
+      "swapLimitGiB": 0,
+      "exitCode": 137,
+      "oomKilled": true,
+      "cgroupOomKills": 1,
+      "sampledMaxRssKiB": 11546092,
+      "sampledMaxSwapBytes": 0,
+      "seconds": 28.826
+    },
+    {
+      "name": "v152-t1",
+      "version": "1.5.2",
+      "threads": 1,
+      "memoryLimitGiB": 14,
+      "swapLimitGiB": 0,
+      "exitCode": 137,
+      "oomKilled": true,
+      "cgroupOomKills": 1,
+      "sampledMaxRssKiB": 14654272,
+      "sampledMaxSwapBytes": 0,
+      "seconds": 102.443
+    },
+    {
+      "name": "v160-t1",
+      "version": "1.6.0",
+      "threads": 1,
+      "memoryLimitGiB": 14,
+      "swapLimitGiB": 0,
+      "exitCode": 137,
+      "oomKilled": true,
+      "cgroupOomKills": 1,
+      "sampledMaxRssKiB": 13952900,
+      "sampledMaxSwapBytes": 0,
+      "seconds": 96.289
+    },
+    {
+      "name": "v152-t4-swap8",
+      "version": "1.5.2",
+      "threads": 4,
+      "memoryLimitGiB": 14,
+      "swapLimitGiB": 8,
+      "exitCode": 0,
+      "oomKilled": false,
+      "cgroupOomKills": 0,
+      "sampledMaxRssKiB": 14667684,
+      "sampledMaxSwapBytes": 7097794560,
+      "seconds": 114.256
+    }
+  ],
+  "comparison": {
+    "indexedPages": 13300,
+    "exactFragmentMatches": 13300,
+    "urlsIdentical": true
+  },
+  "queries": [
+    {
+      "q": "家庭关系",
+      "count": 2455,
+      "firstUrls": [
+        "/content/notes/Jm_R84hY1n0/",
+        "/content/notes/2GBiXqsad7U/",
+        "/content/notes/iDyhgWhrS2Y/",
+        "/content/notes/Z0NUvd24_qs/",
+        "/content/notes/TtoAwuaabj8/"
+      ]
+    },
+    {
+      "q": "\"家庭关系\"",
+      "count": 89,
+      "firstUrls": [
+        "/content/clippings/2026-05-10_httpsblo_laozi-critique-social-logic/",
+        "/content/posts/TheAIResetIsHere/",
+        "/content/podcasts/article/pod_gp02nl0bmha44m2pzc7dseng/",
+        "/content/notes/QfBs6qkgHNA/",
+        "/content/notes/q2cg1gEYWJQ/"
+      ]
+    },
+    {
+      "q": "教育",
+      "count": 3146,
+      "firstUrls": [
+        "/content/notes/X200n3tJ5jg/",
+        "/content/notes/gevH3h-5p6A/",
+        "/content/notes/WDx_KlEwmTI/",
+        "/content/posts/Hidden_Potential_And_Education_thinking/",
+        "/content/notes/ZQTAHZm-sDY/"
+      ]
+    },
+    {
+      "q": "极寒末世",
+      "filters": {
+        "speaker": "梁州令"
+      },
+      "count": 1,
+      "firstUrls": [
+        "/content/podcasts/article/pod_m5zqaqi8j5m9egqvk0gbzoli/"
+      ]
+    },
+    {
+      "q": "Futu",
+      "filters": {
+        "x_author": "858124064476479488"
+      },
+      "count": 6,
+      "firstUrls": [
+        "/content/clippings/x/posts/2115466951929762290/",
+        "/content/clippings/x/daily/858124064476479488/2025-03-24/",
+        "/content/clippings/x/daily/858124064476479488/2026-09-18/",
+        "/content/clippings/x/daily/858124064476479488/2025-01-27/",
+        "/content/clippings/x/daily/858124064476479488/2026-10-19/"
+      ]
+    },
+    {
+      "q": "\"zzzxqvnonexistenttermzzzxqv\"",
+      "count": 0,
+      "firstUrls": []
+    }
+  ],
+  "queryDataAndFiltersExact": true
+}

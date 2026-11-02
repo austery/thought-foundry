@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: '5 * * * *'
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Build and retain evidence without publishing
+        type: boolean
+        default: false
   push:
     branches: [main]
     paths-ignore:
@@ -35,14 +40,35 @@ jobs:
         run: |
           pnpm --dir native check
           pnpm --dir native test
-      - name: Build with native Hugo and full Pagefind
+      - name: Render with native Hugo
         run: |
           mkdir .native-production
           pnpm --dir native exec node --import tsx src/release-cli.ts stage-source .. ../.native-production/source
           pnpm --dir native prepare-site ../.native-production/source ../.native-production/staging
           hugo --source .native-production/staging --destination "$GITHUB_WORKSPACE/.native-production/public"
           pnpm --dir native restore ../.native-production/staging ../.native-production/public
-          pnpm --dir native exec pagefind --site ../.native-production/public
+      - name: Reserve swap for full-text indexing
+        id: pagefind-swap
+        run: |
+          set -euo pipefail
+          free -h
+          df -h "$RUNNER_TEMP"
+          swap_file="$(mktemp "$RUNNER_TEMP/thought-foundry-pagefind.XXXXXX")"
+          echo "path=$swap_file" >> "$GITHUB_OUTPUT"
+          sudo fallocate -l 8G "$swap_file"
+          sudo chmod 600 "$swap_file"
+          sudo mkswap "$swap_file"
+          sudo swapon "$swap_file"
+          free -h
+      - name: Build full Pagefind index with memory diagnostics
+        run: |
+          set -euo pipefail
+          vmstat -w 10 &
+          monitor_pid=$!
+          trap 'kill "$monitor_pid" 2>/dev/null || true; wait "$monitor_pid" 2>/dev/null || true' EXIT
+          /usr/bin/time -v pnpm --dir native exec pagefind --site ../.native-production/public
+      - name: Verify publication output
+        run: |
           pnpm --dir native exec node --import tsx src/release-cli.ts prepare-publication ../.native-production/public
           pnpm --dir native exec node --import tsx src/release-cli.ts manifest ../.native-production/public ../.native-production/manifest.json
       - name: Record source and output identities
@@ -61,6 +87,7 @@ jobs:
           if-no-files-found: error
           retention-days: 90
       - name: Deploy to existing public repository
+        if: github.ref == 'refs/heads/main' && !inputs.dry_run
         uses: peaceiris/actions-gh-pages@v4
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
@@ -72,3 +99,14 @@ jobs:
           # Preserve the existing policy that prevents generated-history quota growth.
           force_orphan: true
           commit_message: Native Hugo build ${{ github.sha }} (run ${{ github.run_id }})
+      - name: Release temporary swap
+        if: always() && steps.pagefind-swap.outputs.path != ''
+        env:
+          PAGEFIND_SWAP_FILE: ${{ steps.pagefind-swap.outputs.path }}
+        run: |
+          set -euo pipefail
+          active_swap="$(swapon --noheadings --raw --show=NAME)"
+          if printf '%s\n' "$active_swap" | grep -Fxq -- "$PAGEFIND_SWAP_FILE"; then
+            sudo swapoff "$PAGEFIND_SWAP_FILE"
+          fi
+          rm -- "$PAGEFIND_SWAP_FILE"
