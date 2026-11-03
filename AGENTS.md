@@ -73,8 +73,8 @@ and release-safety tests for PRs. For changes to rendering, metadata or build
 inputs, also compare a fixed-content full build and search/navigation behavior.
 Never equate type checks alone with full-corpus acceptance.
 
-`.github/workflows/deploy.yml` publishes hourly at minute 05, on manual dispatch,
-and on qualifying main-branch pushes. It checks out current content, excludes
+`.github/workflows/deploy.yml` requests publication hourly at minute 23, on
+manual dispatch and qualifying main-branch pushes. It checks out current content, excludes
 subtitle working directories during staging, builds Hugo and full Pagefind,
 adds `.nojekyll`, records source/output identities, and publishes to
 `austery/austery.github.io` using the existing deployment key. Publication
@@ -86,6 +86,7 @@ manual `search_engine=configured` follows it. Rollback sets that variable to
 candidate. Validation runs use a separate concurrency group from publication.
 The migration backup is stored separately at
 GitHub Release `native-hugo-backup-fbcb7ce3`.
+For missing scheduled runs, read `docs/acceptance/hourly-schedule-recovery.md`.
 
 Implementation authorizes validated task-branch commits, pushes and PRs.
 Merging and deployment require explicit authorization. Do not delete content,
