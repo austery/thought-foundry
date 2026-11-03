@@ -1,0 +1,16 @@
+{
+  "name": "thought-foundry-hourly-dispatch",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "tsc --noEmit",
+    "test": "node --import tsx --test test/*.test.ts",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "@types/node": "22.18.6",
+    "tsx": "4.20.5",
+    "typescript": "5.9.2",
+    "wrangler": "4.157.0"
+  }
+}

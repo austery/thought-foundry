@@ -14,6 +14,8 @@ when cleaning experiment output. This repository has no Python runtime.
 - `native/src/release.ts`, `release-cli.ts`: production staging, manifests,
   archive verification, backups and guarded publication utilities.
 - `src/css/`, `src/js/`: browser assets copied into the output.
+- `ops/hourly-dispatch/`: Cloudflare Worker that requests the hourly
+  publication through `workflow_dispatch`; it has its own lockfile.
 - `src/content/`: independent `austery/thought-foundry-content` Git submodule.
   Edit and commit article content in that repository, never as site-code changes.
   Its Python maintenance tools belong there. Site documentation belongs in `docs/`.
@@ -87,6 +89,10 @@ candidate. Validation runs use a separate concurrency group from publication.
 The migration backup is stored separately at
 GitHub Release `native-hugo-backup-fbcb7ce3`.
 For missing scheduled runs, read `docs/acceptance/hourly-schedule-recovery.md`.
+GitHub has delivered this repository's `schedule` events only about 4–5 times
+a day since 2026-08-26. The Worker in `ops/hourly-dispatch/` is the hourly
+clock; the native cron remains a fallback. Its token, deployment and rollback
+are in `ops/hourly-dispatch/README.md`.
 
 Implementation authorizes validated task-branch commits, pushes and PRs.
 Merging and deployment require explicit authorization. Do not delete content,

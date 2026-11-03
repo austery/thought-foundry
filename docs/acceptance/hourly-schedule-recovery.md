@@ -1,6 +1,6 @@
 # Hourly publication schedule recovery
 
-Status: the owner approved an off-peak cron change and at least 24 hours of observation on 2026-11-02. The new schedule is not accepted until the observation completes. No external scheduler is added.
+Status: the cron-minute change below failed its observation on 2026-11-03 ([issue 23](https://github.com/austery/thought-foundry/issues/23)). On 2026-11-03 the owner chose an independent Cloudflare Worker clock; see [Independent clock](#independent-clock). That clock is not accepted until its own 24-hour window completes.
 
 ## Observed failure
 
@@ -33,3 +33,17 @@ If this window fails, keep the incident open and present the observed gaps. The 
 The code change is reversible through a normal PR restoring `5 * * * *`. That revert triggers a push publication through the unchanged workflow. Reverting does not undo publications already completed. The Pagefind rollback remains a separate operation in [the engine activation contract](pagefind-candidate-activation.md).
 
 The investigation snapshot and a runnable cadence audit are retained locally under `.native-build/schedule-recovery-20261102/` in the primary checkout. `baseline-cadence.json` records the failed 24-hour window. `runs.json`, `workflow.json`, `permissions.json`, `latest-jobs.json` and `workflow-history.json` record the inspected API state. The PR and its observation receipt must record the actual post-merge outcome. No passing schedule result is assumed in this document.
+
+## Independent clock
+
+Diagnosis: the missing runs are a GitHub platform-side degradation that began on 2026-08-26 around 14:00–16:00 UTC. About twenty unrelated public repositories sampled on 2026-11-03 still receive only 4–5 `schedule` runs per workflow per day, whatever their cron. Public reports describe the same onset, and say that new workflow IDs, disable/enable and cron changes do not help. Sources: [differential evidence](../research/2026-11-03-schedule-differential-evidence.md), [public reports](../research/2026-11-github-schedule-degradation.md).
+
+Repair: [`ops/hourly-dispatch/`](../../ops/hourly-dispatch/README.md) is a Cloudflare Worker with Cron Trigger `23 * * * *`. Each hour it calls `workflow_dispatch` for `deploy.yml` on `main` with default inputs, using a fine-grained token limited to `Actions: Read and write` on this repository. The native `schedule` trigger stays as a fallback. The workflow file, publication steps and Pagefind engine selection are unchanged.
+
+Acceptance, after the owner deploys the Worker:
+
+1. Record the Worker deployment time and the first planned `:23` UTC slot after it. Start the 24-hour window there.
+2. For each of the 24 slots, require a `workflow_dispatch` run on `main` created within 10 minutes after the planned time, with the Worker log line `event: "dispatched"`. A late `schedule` run does not fill a missing Worker slot; report both separately.
+3. Report every failed, cancelled or queued publication. Two triggers in one hour queue in `pages-deployment`; report the extra run, do not count it as a failure.
+4. Confirm successful publication and the separate Pages deployment for the first and the last run in the window, with matching source and content identities.
+5. Manual dispatches by a person do not count. The token owner is also the triggering actor of Worker runs, so match each run to a Worker log line by creation time instead.

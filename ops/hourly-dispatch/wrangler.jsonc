@@ -1,0 +1,17 @@
+{
+  // Independent hourly clock that requests the existing deploy.yml publication.
+  // See README.md for setup, the token scope and rollback.
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "thought-foundry-hourly-dispatch",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-11-01",
+  "workers_dev": false,
+  "preview_urls": false,
+  "triggers": { "crons": ["23 * * * *"] },
+  "vars": {
+    "GITHUB_REPOSITORY": "austery/thought-foundry",
+    "GITHUB_WORKFLOW": "deploy.yml",
+    "GITHUB_REF": "main"
+  },
+  "observability": { "enabled": true }
+}
