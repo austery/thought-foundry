@@ -29,7 +29,7 @@ pnpm exec wrangler secret put GITHUB_TOKEN
 pnpm run deploy
 ```
 
-`wrangler secret put` prompts for the token, so it does not enter shell history. `workers_dev` and preview URLs are disabled; the Worker has no public HTTP endpoint.
+`wrangler secret put` prompts for the token, so it does not enter shell history. If the Worker does not exist yet, it first asks to create it; accept. `workers_dev` and preview URLs are disabled; the Worker has no public HTTP endpoint.
 
 ## Verify
 
@@ -44,6 +44,16 @@ pnpm run deploy
    ```
 
 4. Confirm the publication and the separate Pages deployment as described in the [acceptance contract](../../docs/acceptance/hourly-schedule-recovery.md).
+
+For the 24-hour acceptance, start at the first planned `:23` slot after deployment and run:
+
+```sh
+pnpm run audit-slots --start 2026-11-04T15:23:00Z
+```
+
+It prints every slot and exits 0 (all passed), 1 (a slot failed) or 2 (no failure yet, slots still open). Defaults: 24 hours, 10-minute tolerance, `workflow_dispatch` events of `deploy.yml`. It reads history through the authenticated `gh` CLI.
+
+There is no automatic alert. An expired or revoked token stops dispatches silently until someone reads the Worker logs or runs the audit, so put the token expiry date in a calendar.
 
 A `dispatch_failed` log line means no run was requested for that hour. 401 means the token expired or was revoked. 403 or 404 means the token lacks `Actions: Read and write` on this repository. The Worker retries only HTTP 429, 5xx and network errors, up to 3 attempts.
 

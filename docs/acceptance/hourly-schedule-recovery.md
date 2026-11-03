@@ -44,6 +44,7 @@ Acceptance, after the owner deploys the Worker:
 
 1. Record the Worker deployment time and the first planned `:23` UTC slot after it. Start the 24-hour window there.
 2. For each of the 24 slots, require a `workflow_dispatch` run on `main` created within 10 minutes after the planned time, with the Worker log line `event: "dispatched"`. A late `schedule` run does not fill a missing Worker slot; report both separately.
-3. Report every failed, cancelled or queued publication. Two triggers in one hour queue in `pages-deployment`; report the extra run, do not count it as a failure.
+3. Report every failed, cancelled or queued publication. Two triggers in one hour queue in `pages-deployment`; report the extra run, do not count it as a failure. A third trigger during a build replaces the pending run, so a cancelled Worker run fills its slot only if the replacing run on the same revision published.
+   Run `pnpm --dir ops/hourly-dispatch run audit-slots --start <first slot>` for the slot verdicts.
 4. Confirm successful publication and the separate Pages deployment for the first and the last run in the window, with matching source and content identities.
 5. Manual dispatches by a person do not count. The token owner is also the triggering actor of Worker runs, so match each run to a Worker log line by creation time instead.

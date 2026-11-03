@@ -5,7 +5,8 @@
   "scripts": {
     "check": "tsc --noEmit",
     "test": "node --import tsx --test test/*.test.ts",
-    "deploy": "wrangler deploy"
+    "deploy": "wrangler deploy",
+    "audit-slots": "node --import tsx src/audit-cli.ts"
   },
   "devDependencies": {
     "@types/node": "22.18.6",
