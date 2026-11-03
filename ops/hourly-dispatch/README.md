@@ -14,7 +14,12 @@ Create a fine-grained personal access token on the `austery` account:
 - Repository permissions: `Actions: Read and write`. Nothing else (`Metadata: Read` is added automatically).
 - Expiration: choose a date and record it. The Worker fails with HTTP 401 after expiry.
 
-This token can start and read workflow runs. It cannot read or change code, secrets or the Pages repository. Store it only as a Worker secret. Never commit it or paste it into chat.
+The token cannot read or change code, secrets or the Pages repository. It can still do more than the Worker does:
+
+- Dispatch `deploy.yml` with any inputs. For example `content_ref=<old commit>` publishes old content to the live site. The Worker sends only `ref`, but the token itself has no such limit.
+- Cancel or re-run workflow runs, delete runs, logs and artifacts (including the 90-day publication evidence), and enable or disable workflows.
+
+Treat a leaked token as able to change the live site. Store it only as a Worker secret, never commit it or paste it into chat, and revoke it at once if exposed.
 
 ## Deploy
 
@@ -51,11 +56,15 @@ For the 24-hour acceptance, start at the first planned `:23` slot after deployme
 pnpm run audit-slots --start 2026-11-04T15:23:00Z
 ```
 
-It prints every slot and exits 0 (all passed), 1 (a slot failed) or 2 (no failure yet, slots still open). Defaults: 24 hours, 10-minute tolerance, `workflow_dispatch` events of `deploy.yml`. It reads history through the authenticated `gh` CLI.
+A slot passes only when a `workflow_dispatch` run on `main` was created within 10 minutes after the planned time and concluded `success`. Each slot reports `published`, `running`, `open`, `missing` or `run_failed`, with the triggering actor. Exit codes: 0 every slot published, 1 a slot failed, 2 no failure yet but slots pending, 64 invalid arguments, 70 run history unavailable. It reads history through the authenticated `gh` CLI.
+
+The audit cannot tell a Worker run from a manual dispatch by the token owner; compare run creation times with the Worker logs. A cancelled run fails its slot; override it manually only if the run that replaced it on the same revision published.
 
 There is no automatic alert. An expired or revoked token stops dispatches silently until someone reads the Worker logs or runs the audit, so put the token expiry date in a calendar.
 
-A `dispatch_failed` log line means no run was requested for that hour. 401 means the token expired or was revoked. 403 or 404 means the token lacks `Actions: Read and write` on this repository. The Worker retries only HTTP 429, 5xx and network errors, up to 3 attempts.
+A `dispatch_failed` log line means no run was requested for that hour. 401 means the token expired or was revoked. 404, or 403 without rate-limit headers, means the token lacks `Actions: Read and write` on this repository. 422 means the ref or workflow is invalid. The Worker retries HTTP 429, 5xx, 403 with `retry-after` or `x-ratelimit-remaining: 0`, and network errors, up to 3 attempts. A retry after an ambiguous 5xx or network failure can create one extra run; `pages-deployment` queues it.
+
+Changes under `ops/` are not in the `paths-ignore` list of `deploy.yml`, so merging them to `main` triggers one push publication.
 
 ## Stop or roll back
 

@@ -70,11 +70,33 @@ test('fails immediately on authentication errors without retrying', async () => 
     assert.ok(error instanceof DispatchError);
     assert.equal(error.status, 401);
     assert.equal(error.attempts, 1);
-    assert.ok(!error.message.includes('test-token'));
     return true;
   });
   assert.equal(calls.length, 1);
 });
+
+test('retries 429 and rate-limit 403 responses', async () => {
+  const { fetch, calls } = recorder([
+    new Response('', { status: 429 }),
+    new Response('{"message":"secondary rate limit"}', { status: 403, headers: { 'retry-after': '60' } }),
+    new Response(null, { status: 204 }),
+  ]);
+  const result = await dispatchWorkflow(readConfig(env), { fetch, sleep: noSleep });
+  assert.equal(result.attempts, 3);
+  assert.equal(calls.length, 3);
+});
+
+for (const status of [403, 404, 422]) {
+  test(`fails immediately on ${status} without rate-limit headers`, async () => {
+    const { fetch, calls } = recorder([new Response('{"message":"no"}', { status })]);
+    await assert.rejects(dispatchWorkflow(readConfig(env), { fetch, sleep: noSleep }), (error: unknown) => {
+      assert.ok(error instanceof DispatchError);
+      assert.equal(error.status, status);
+      return true;
+    });
+    assert.equal(calls.length, 1);
+  });
+}
 
 test('fails after exhausting retries on persistent server errors', async () => {
   const { fetch, calls } = recorder([

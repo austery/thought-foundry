@@ -54,8 +54,13 @@ export function readConfig(env: Record<string, unknown>): DispatchConfig {
   };
 }
 
-function isRetryable(status: number): boolean {
-  return status === 429 || status >= 500;
+function isRetryable(response: Response): boolean {
+  if (response.status === 429 || response.status >= 500) return true;
+  // GitHub reports secondary rate limits as 403 with these headers.
+  return (
+    response.status === 403 &&
+    (response.headers.has('retry-after') || response.headers.get('x-ratelimit-remaining') === '0')
+  );
 }
 
 function parseRunId(body: string): number | null {
@@ -76,6 +81,8 @@ function parseRunId(body: string): number | null {
  * Request one workflow_dispatch run with the workflow's default inputs.
  * Retries only rate limits, server errors and network failures, because
  * authentication or validation failures will not succeed on repetition.
+ * A retry after an ambiguous 5xx or network failure can create a second run;
+ * the publication concurrency group queues it.
  */
 export async function dispatchWorkflow(
   config: DispatchConfig,
@@ -115,7 +122,7 @@ export async function dispatchWorkflow(
     }
     lastStatus = response.status;
     lastFailure = `GitHub returned ${response.status}: ${body.slice(0, 300)}`;
-    if (!isRetryable(response.status)) {
+    if (!isRetryable(response)) {
       throw new DispatchError(lastFailure, lastStatus, attempt);
     }
     if (attempt < maxAttempts) await sleep(retryDelay * attempt);
