@@ -53,3 +53,6 @@ artifacts/native-previews/
 
 # Local audit evidence and retained pre-cleanup documents
 .local-evidence/
+
+# Cloudflare Wrangler local state
+.wrangler/

@@ -18,3 +18,8 @@ jobs:
       - uses: ./.github/actions/setup-native
       - run: pnpm check
       - run: pnpm test
+      - name: Check hourly dispatch Worker
+        run: |
+          pnpm --dir ops/hourly-dispatch install --frozen-lockfile
+          pnpm --dir ops/hourly-dispatch check
+          pnpm --dir ops/hourly-dispatch test
