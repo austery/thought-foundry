@@ -120,3 +120,57 @@ test('scheduled handler rethrows so Cloudflare records the failed cron event', a
     /GITHUB_TOKEN/,
   );
 });
+
+test('waits for Retry-After before retrying a rate limit', async () => {
+  const { fetch } = recorder([
+    new Response('', { status: 403, headers: { 'retry-after': '60' } }),
+    new Response(null, { status: 204 }),
+  ]);
+  const delays: number[] = [];
+  await dispatchWorkflow(readConfig(env), { fetch, sleep: async (ms) => { delays.push(ms); } });
+  assert.deepEqual(delays, [60_000]);
+});
+
+test('waits for the primary rate-limit reset before retrying', async () => {
+  const { fetch } = recorder([
+    new Response('', { status: 403, headers: { 'x-ratelimit-remaining': '0', 'x-ratelimit-reset': '1793793660' } }),
+    new Response(null, { status: 204 }),
+  ]);
+  const delays: number[] = [];
+  await dispatchWorkflow(readConfig(env), {
+    fetch,
+    now: () => 1_793_793_600_000,
+    sleep: async (ms) => { delays.push(ms); },
+  });
+  assert.deepEqual(delays, [60_000]);
+});
+
+test('uses at least a minute for a rate limit without a valid wait header', async () => {
+  const { fetch } = recorder([
+    new Response('', { status: 429, headers: { 'retry-after': 'invalid' } }),
+    new Response('', { status: 429 }),
+    new Response(null, { status: 204 }),
+  ]);
+  const delays: number[] = [];
+  await dispatchWorkflow(readConfig(env), { fetch, sleep: async (ms) => { delays.push(ms); } });
+  assert.deepEqual(delays, [60_000, 120_000]);
+});
+
+test('stops rather than retrying early when the server wait exceeds the local budget', async () => {
+  const { fetch, calls } = recorder([
+    new Response('', { status: 429, headers: { 'retry-after': '3600' } }),
+  ]);
+  const delays: number[] = [];
+  await assert.rejects(
+    dispatchWorkflow(readConfig(env), { fetch, sleep: async (ms) => { delays.push(ms); } }),
+    (error: unknown) => {
+      assert.ok(error instanceof DispatchError);
+      assert.equal(error.status, 429);
+      assert.equal(error.attempts, 1);
+      assert.match(error.message, /retry budget/);
+      return true;
+    },
+  );
+  assert.equal(calls.length, 1);
+  assert.deepEqual(delays, []);
+});

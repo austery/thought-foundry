@@ -62,7 +62,9 @@ The audit cannot tell a Worker run from a manual dispatch by the token owner; co
 
 There is no automatic alert. An expired or revoked token stops dispatches silently until someone reads the Worker logs or runs the audit, so put the token expiry date in a calendar.
 
-A `dispatch_failed` log line means no run was requested for that hour. 401 means the token expired or was revoked. 404, or 403 without rate-limit headers, means the token lacks `Actions: Read and write` on this repository. 422 means the ref or workflow is invalid. The Worker retries HTTP 429, 5xx, 403 with `retry-after` or `x-ratelimit-remaining: 0`, and network errors, up to 3 attempts. A retry after an ambiguous 5xx or network failure can create one extra run; `pages-deployment` queues it.
+A `dispatch_failed` log line means the Worker could not confirm a dispatch. A network failure can occur after GitHub accepts a request, so inspect run history before requesting another publication. 401 means the token expired or was revoked. 404, or 403 without rate-limit headers, means the token lacks `Actions: Read and write` on this repository. 422 means the ref or workflow is invalid.
+
+The Worker retries HTTP 429, 5xx, 403 with `retry-after` or `x-ratelimit-remaining: 0`, and network errors, up to 3 attempts. It honors `retry-after` seconds and `x-ratelimit-reset`. Rate limits without a valid wait header use waits of 60 and 120 seconds. If a server wait exceeds 120 seconds, the Worker fails that slot instead of retrying early. This follows [GitHub's rate-limit guidance](https://docs.github.com/en/rest/using-the-rest-api/best-practices-for-using-the-rest-api#handle-rate-limit-errors-appropriately). A retry after an ambiguous 5xx or network failure can create up to two extra runs; `pages-deployment` serializes publication, but GitHub can replace a pending run.
 
 Changes under `ops/` are not in the `paths-ignore` list of `deploy.yml`, so merging them to `main` triggers one push publication.
 

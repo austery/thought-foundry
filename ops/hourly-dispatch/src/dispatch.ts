@@ -18,6 +18,7 @@ export interface DispatchOptions {
   sleep?: (milliseconds: number) => Promise<void>;
   maxAttempts?: number;
   retryDelayMilliseconds?: number;
+  now?: () => number;
 }
 
 const repositoryPattern = /^[A-Za-z0-9_.-]+\/[A-Za-z0-9_.-]+$/;
@@ -61,6 +62,22 @@ function isRetryable(response: Response): boolean {
     response.status === 403 &&
     (response.headers.has('retry-after') || response.headers.get('x-ratelimit-remaining') === '0')
   );
+}
+
+function retryWait(response: Response, attempt: number, fallback: number, now: number): number {
+  const retryAfter = response.headers.get('retry-after');
+  if (retryAfter !== null && /^\d+$/.test(retryAfter)) {
+    return Math.max(fallback, Number(retryAfter) * 1000);
+  }
+  if (response.headers.get('x-ratelimit-remaining') === '0') {
+    const reset = response.headers.get('x-ratelimit-reset');
+    if (reset !== null && /^\d+$/.test(reset)) {
+      return Math.max(fallback, Number(reset) * 1000 - now);
+    }
+  }
+  return response.status === 429 || response.status === 403
+    ? Math.max(fallback, 60_000 * 2 ** (attempt - 1))
+    : fallback;
 }
 
 function parseRunId(body: string): number | null {
@@ -125,7 +142,14 @@ export async function dispatchWorkflow(
     if (!isRetryable(response)) {
       throw new DispatchError(lastFailure, lastStatus, attempt);
     }
-    if (attempt < maxAttempts) await sleep(retryDelay * attempt);
+    if (attempt < maxAttempts) {
+      const wait = retryWait(response, attempt, retryDelay * attempt, (options.now ?? Date.now)());
+      // Leave the hour failed rather than retry before GitHub permits it.
+      if (wait > 120_000) {
+        throw new DispatchError(`${lastFailure}; server wait exceeds the 120-second retry budget`, lastStatus, attempt);
+      }
+      await sleep(wait);
+    }
   }
   throw new DispatchError(lastFailure, lastStatus, maxAttempts);
 }
