@@ -73,7 +73,7 @@ and release-safety tests for PRs. For changes to rendering, metadata or build
 inputs, also compare a fixed-content full build and search/navigation behavior.
 Never equate type checks alone with full-corpus acceptance.
 
-`.github/workflows/deploy.yml` publishes hourly at minute 05, on manual dispatch,
+`.github/workflows/deploy.yml` requests publication hourly at minute 23, on manual dispatch,
 and on qualifying main-branch pushes. It checks out current content, excludes
 subtitle working directories during staging, builds Hugo and full Pagefind,
 adds `.nojekyll`, records source/output identities, and publishes to

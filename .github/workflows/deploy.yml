@@ -1,7 +1,7 @@
 name: Build and Deploy to Public Repo
 on:
   schedule:
-    - cron: '5 * * * *'
+    - cron: '23 * * * *'
   workflow_dispatch:
     inputs:
       search_engine:
