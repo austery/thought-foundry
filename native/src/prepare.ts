@@ -10,6 +10,16 @@ import matter from 'gray-matter';
 import { Liquid } from 'liquidjs';
 import { createModel, dateValues, makeSlugger, ordinal, text, type Article, type Metadata, type Taxonomy } from './model.js';
 
+// Pin published paths because two distinct names can have the same base slug.
+const speakerRedirects = [
+  { retired:'徒步的騎手', preferred:'徒步的騎手•劉宗坤', urls:['/speakers/tu-bu-de-qi-shou/'] },
+  { retired:'banned film', preferred:'禁書筆記', urls:['/speakers/banned-film/'] },
+  { retired:'house of el: ai', preferred:'house of el - ai', urls:['/speakers/house-of-el-ai-1/', '/speakers/house-of-el-ai-2/'] },
+  { retired:'人民公园说ai', preferred:'人民公園說ai', urls:['/speakers/ren-min-gong-yuan-shuo-ai-1/', '/speakers/ren-min-gong-yuan-shuo-ai-2/'] },
+  { retired:'孫佬', preferred:'政經孫老師', urls:['/speakers/sun-lao/'] },
+  { retired:'cofit x 宋晏仁醫師 - 初日醫學', preferred:'初日醫學 - 宋晏仁醫師 x cofit', urls:['/speakers/cofit-x-song-yan-ren-yi-shi-chu-ri-yi-xue/'] },
+];
+
 export async function files(root: string): Promise<string[]> {
   const out: string[] = [];
   for (const e of (await readdir(root,{withFileTypes:true})).sort((a,b) => ordinal(a.name,b.name))) {
@@ -146,14 +156,18 @@ export async function prepare(site: string, destination: string, cacheFile?: str
     const count = taxonomy === 'tags' ? Math.ceil(list.length/size) : 1;
     for (let i=0;i<count;i++) await page(`/all-${taxonomy}/${i ? `page/${i+1}/` : ''}`,{view:'directory',taxonomy,pagetitle:`所有${labels[taxonomy]}`,offset:i*size,size,pagecount:count,pagenumber:i+1});
   }
-  // Keep the published route until the old speaker group has no visible articles.
-  const oldSpeaker = model.groups.speakers.find(group => group.key === '徒步的騎手');
-  const currentSpeaker = model.groups.speakers.find(group => group.key === '徒步的騎手•劉宗坤');
-  if (!oldSpeaker && currentSpeaker) {
-    await page('/speakers/tu-bu-de-qi-shou/',{
-      view:'redirect', redirectto:currentSpeaker.url,
-      pagetitle:'来源分类已迁移', redirectlabel:'前往来源分类的新地址'
-    });
+  // Keep the published routes while a legacy speaker group still has visible articles.
+  const speakerGroups = new Map(model.groups.speakers.map(group => [group.key, group]));
+  for (const { retired, preferred, urls } of speakerRedirects) {
+    const target = speakerGroups.get(preferred);
+    if (speakerGroups.has(retired) || !target) continue;
+    for (const url of urls) {
+      if (url === target.url) continue;
+      await page(url,{
+        view:'redirect', redirectto:target.url,
+        pagetitle:'来源分类已迁移', redirectlabel:'前往来源分类的新地址'
+      });
+    }
   }
   await writeFile(join(destination,'routes.json'),JSON.stringify(routes));
   await writeFile(join(destination,'slug-cache.json'),JSON.stringify(cache));
