@@ -123,3 +123,34 @@ test('old speaker route stays live until its articles move to the stable speaker
     assert.equal(article('[data-pagefind-filter="speaker"]').text().trim(),speaker);
   }
 });
+
+test('merging speakers with a shared slug redirects both formerly published paths', async t => {
+  const root = await mkdtemp(join(tmpdir(),'tf-shared-speaker-slug-'));
+  t.after(async () => { await rm(root,{recursive:true,force:true}); });
+  const site = join(root,'source');
+  const notes = join(site,'src/content/notes');
+  await mkdir(notes,{recursive:true});
+  for (const folder of ['css','js']) await cp(resolve('../src',folder),join(site,'src',folder),{recursive:true});
+  const paths = ['/speakers/house-of-el-ai-1/', '/speakers/house-of-el-ai-2/'];
+  const canonical = '/speakers/house-of-el-ai/';
+  const preferred = 'House of El - AI';
+  const note = (speaker: string) => `---\ntitle: Reading\nlayout: post.njk\ndate: '2026-11-06'\nspeaker: "${speaker}"\n---\nReading marker.\n`;
+  await writeFile(join(notes,'kept.md'),note(preferred));
+  for (const [index,speaker] of ['House of El: AI', preferred].entries()) {
+    await writeFile(join(notes,'moving.md'),note(speaker));
+    const stage = join(root,`stage-${index}`);
+    const output = join(root,`public-${index}`);
+    await prepare(site,stage);
+    execFileSync('hugo',['--source',stage,'--destination',output],{stdio:'pipe'});
+    await restore(stage,output);
+    for (const path of paths) {
+      const page = load(await readFile(join(output,path,'index.html'),'utf8'));
+      assert.equal(page('meta[http-equiv="refresh"]').attr('content'),index ? `0; url=${canonical}` : undefined);
+    }
+    if (index) {
+      const page = load(await readFile(join(output,canonical,'index.html'),'utf8'));
+      assert.equal(page('a[href="/content/notes/kept/"]').length,1);
+      assert.equal(page('a[href="/content/notes/moving/"]').length,1);
+    }
+  }
+});
