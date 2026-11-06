@@ -146,6 +146,15 @@ export async function prepare(site: string, destination: string, cacheFile?: str
     const count = taxonomy === 'tags' ? Math.ceil(list.length/size) : 1;
     for (let i=0;i<count;i++) await page(`/all-${taxonomy}/${i ? `page/${i+1}/` : ''}`,{view:'directory',taxonomy,pagetitle:`所有${labels[taxonomy]}`,offset:i*size,size,pagecount:count,pagenumber:i+1});
   }
+  // Keep the published route until the old speaker group has no visible articles.
+  const oldSpeaker = model.groups.speakers.find(group => group.key === '徒步的騎手');
+  const currentSpeaker = model.groups.speakers.find(group => group.key === '徒步的騎手•劉宗坤');
+  if (!oldSpeaker && currentSpeaker) {
+    await page('/speakers/tu-bu-de-qi-shou/',{
+      view:'redirect', redirectto:currentSpeaker.url,
+      pagetitle:'来源分类已迁移', redirectlabel:'前往来源分类的新地址'
+    });
+  }
   await writeFile(join(destination,'routes.json'),JSON.stringify(routes));
   await writeFile(join(destination,'slug-cache.json'),JSON.stringify(cache));
   await writeFile(join(destination,'adaptation.json'),JSON.stringify({documents:articles.length,navigationPages:routes.length-articles.length,bodyRenderer:'Hugo Goldmark',liquidPreprocessed:preprocessed}));

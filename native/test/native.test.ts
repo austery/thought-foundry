@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { mkdtemp, mkdir, writeFile, readFile, cp } from 'node:fs/promises';
+import { mkdtemp, mkdir, writeFile, readFile, cp, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join, resolve } from 'node:path';
 import { execFileSync } from 'node:child_process';
@@ -83,4 +83,43 @@ test('route restoration validates the whole manifest before moving output', asyn
 test('shortcode-like content cannot execute as Hugo instructions',()=>{
   assert.equal(escapeShortcodes('{{< ref "x" >}}'),'{{/*< ref "x" >*/}}');
   assert.throws(()=>escapeShortcodes('{{< missing'),/Incomplete/);
+});
+
+test('old speaker route stays live until its articles move to the stable speaker', async t => {
+  const root = await mkdtemp(join(tmpdir(),'tf-speaker-redirect-'));
+  t.after(async () => { await rm(root,{recursive:true,force:true}); });
+  const site = join(root,'source');
+  const notes = join(site,'src/content/notes');
+  await mkdir(notes,{recursive:true});
+  for (const folder of ['css','js']) await cp(resolve('../src',folder),join(site,'src',folder),{recursive:true});
+  const previous = '徒步的騎手';
+  const preferred = '徒步的騎手•劉宗坤';
+  const oldUrl = '/speakers/tu-bu-de-qi-shou/';
+  const newUrl = '/speakers/tu-bu-de-qi-shou-liu-zong-kun/';
+  const articleUrl = '/content/notes/moving/';
+  const note = (speaker: string) => `---\ntitle: Reading\nlayout: post.njk\ndate: '2026-11-06'\nspeaker: ${speaker}\n---\nReading marker.\n`;
+  await writeFile(join(notes,'other.md'),note(preferred));
+  for (const [index,speaker] of [previous,preferred].entries()) {
+    await writeFile(join(notes,'moving.md'),note(speaker));
+    const stage = join(root,`stage-${index}`);
+    const output = join(root,`public-${index}`);
+    await prepare(site,stage);
+    execFileSync('hugo',['--source',stage,'--destination',output],{stdio:'pipe'});
+    await restore(stage,output);
+    const html = async (url: string) => load(await readFile(join(output,url,'index.html'),'utf8'));
+    const old = await html(oldUrl);
+    const target = await html(newUrl);
+    if (speaker === previous) {
+      assert.equal(old(`a[href="${articleUrl}"]`).length,1);
+      assert.equal(old('meta[http-equiv="refresh"]').length,0);
+      assert.equal(target(`a[href="${articleUrl}"]`).length,0);
+    } else {
+      assert.equal(old('meta[http-equiv="refresh"]').attr('content'),`0; url=${newUrl}`);
+      assert.equal(old('link[rel="canonical"]').attr('href'),newUrl);
+      assert.equal(old('meta[name="robots"]').attr('content'),'noindex');
+      assert.equal(target(`a[href="${articleUrl}"]`).length,1);
+    }
+    const article = await html(articleUrl);
+    assert.equal(article('[data-pagefind-filter="speaker"]').text().trim(),speaker);
+  }
 });
