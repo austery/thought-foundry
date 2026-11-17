@@ -1,0 +1,112 @@
+{
+  "input": ".native-build/run-1Q7U8G/public/pagefind",
+  "scope": "Existing retained historical index, NOT the current production corpus",
+  "entry": {
+    "version": "1.5.2",
+    "languages": {
+      "zh-hans": {
+        "hash": "zh-hans_e6ca132026904b6",
+        "wasm": null,
+        "page_count": 10526
+      }
+    },
+    "include_characters": [
+      "_",
+      "‿",
+      "⁀",
+      "⁔",
+      "︳",
+      "︴",
+      "﹍",
+      "﹎",
+      "﹏",
+      "＿"
+    ]
+  },
+  "pages": 10526,
+  "textBytes": {
+    "sum": 622153253,
+    "median": 38755,
+    "p95": 172895,
+    "p99": 324575,
+    "max": 1768740
+  },
+  "unicodeCharacters": {
+    "sum": 287257768,
+    "median": 15528,
+    "p95": 90244,
+    "p99": 173438,
+    "max": 945861
+  },
+  "pagefindWordCount": {
+    "sum": 82968013,
+    "median": 5181,
+    "p95": 23114,
+    "p99": 43645,
+    "max": 233870
+  },
+  "pagesAbove65535Words": 11,
+  "top1PercentTokenShare": 0.0732608963408585,
+  "compressedFragmentsBytes": 186610169,
+  "longest": [
+    {
+      "url": "/content/notes/I2cbIws9j10/",
+      "bytes": 1768740,
+      "chars": 945861,
+      "tokens": 233870,
+      "bytesWithoutZeroWidthSpace": 1067133,
+      "charsWithoutZeroWidthSpace": 711992
+    },
+    {
+      "url": "/content/notes/htM02KMNZnk/",
+      "bytes": 1559011,
+      "chars": 858205,
+      "tokens": 207143,
+      "bytesWithoutZeroWidthSpace": 937585,
+      "charsWithoutZeroWidthSpace": 651063
+    },
+    {
+      "url": "/content/notes/4sX_He5c4sI/",
+      "bytes": 1517001,
+      "chars": 825460,
+      "tokens": 199120,
+      "bytesWithoutZeroWidthSpace": 919644,
+      "charsWithoutZeroWidthSpace": 626341
+    },
+    {
+      "url": "/content/notes/q2cg1gEYWJQ/",
+      "bytes": 683105,
+      "chars": 350118,
+      "tokens": 92308,
+      "bytesWithoutZeroWidthSpace": 406184,
+      "charsWithoutZeroWidthSpace": 257811
+    },
+    {
+      "url": "/content/notes/HwmwyBgzj8c/",
+      "bytes": 646785,
+      "chars": 343406,
+      "tokens": 88548,
+      "bytesWithoutZeroWidthSpace": 381144,
+      "charsWithoutZeroWidthSpace": 254859
+    }
+  ],
+  "withoutZeroWidthSpace": {
+    "textBytes": {
+      "sum": 373280792,
+      "median": 23224,
+      "p95": 103042,
+      "p99": 193654,
+      "max": 1067133
+    },
+    "unicodeCharacters": {
+      "sum": 204300281,
+      "median": 10174,
+      "p95": 68247,
+      "p99": 130437,
+      "max": 711992
+    }
+  },
+  "method": "Stream each existing gzip fragment, skip its 12-byte Pagefind signature, parse JSON, sum UTF-8 content bytes, Unicode code points and Pagefind word_count. Original indexed content includes U+200B segmentation markers. Also measure with all U+200B removed; that is not a reconstruction of source Markdown or original HTML. Word count is tokenizer-specific, not unique vocabulary.",
+  "inputEntrySha256": "d6c20e57d4014034973c05b491136afc9419f0143184ef76411c047fb7ed6175",
+  "reproduce": "node .native-build/search-scalability-20261101/measure-fragments.cjs .native-build/run-1Q7U8G/public/pagefind <output.json>"
+}
